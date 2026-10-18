@@ -13,12 +13,12 @@ Kirkwood Dental Care is a dentist in Houston, TX at 7417 South Kirkwood Road, Ho
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-17:00; Sa 09:00-15:00; Mo off
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 22% of dentists in Houston, #38 of 176 dentists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 22% of dentists in Houston, #39 of 181 dentists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/kirkwood-dental-care-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kirkwood-dental-care-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/3681363266 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3681363266 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

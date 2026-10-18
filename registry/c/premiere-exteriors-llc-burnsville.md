@@ -13,7 +13,7 @@ Premiere Exteriors, LLC is a business consultant in Burnsville, MN at 12235 Wood
 - Website: https://premiereexteriors.us/
 - Email: cnelson@premiereexteriors.us
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 9% of business consultants in Minneapolis–St. Paul, #1 of 1 business consultants in Burnsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 9% of business consultants in Minneapolis–St. Paul, #1 of 1 business consultants in Burnsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

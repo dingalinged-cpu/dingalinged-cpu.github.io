@@ -6,7 +6,7 @@ Also answers: chiropractor in Irving, TX; chiropractor near me (Irving, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cano Chiropractic | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Cano Chiropractic is a chiropractor in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/cano-chiropractic-irving/
+1. Cano Chiropractic | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Cano Chiropractic is a chiropractor in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/cano-chiropractic-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor irving tx | category: Health & medical | industry benchmark: Physicians & Surgeons

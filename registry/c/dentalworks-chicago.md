@@ -13,7 +13,7 @@ DentalWorks is a dentist in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.1/100 — Building — top 100% of dentists in Chicago, #148 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.1/100 — Building — top 99% of dentists in Chicago, #148 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

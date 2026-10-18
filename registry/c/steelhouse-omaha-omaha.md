@@ -13,7 +13,7 @@ Steelhouse Omaha is an event venue in Omaha, NE at 1100 Dodge Street, Omaha, NE 
 - Website: https://o-pa.org/our-venues/steelhouse-omaha
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 30% of event venues in Omaha, NE, #6 of 13 event venues in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 30% of event venues in Omaha, NE, #6 of 13 event venues in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

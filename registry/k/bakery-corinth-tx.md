@@ -6,7 +6,7 @@ Also answers: bakery in Corinth, TX; bakery near me (Corinth, TX); best bakery C
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mike's Bakery | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Mike's Bakery is a bakery in Corinth, TX at 4451 Swisher Road #Suite 216, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/mikes-bakery-corinth/
+1. Mike's Bakery | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Mike's Bakery is a bakery in Corinth, TX at 4451 Swisher Road #Suite 216, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/mikes-bakery-corinth/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery corinth tx | category: Events & weddings | industry benchmark: Personal Services

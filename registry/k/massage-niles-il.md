@@ -7,7 +7,7 @@ Also answers: massage in Niles, IL; massage near me (Niles, IL); best massage Ni
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Massage Envy | Organic #1 | Pulse Score 44.4/100 (Building, #1 in city) | Massage Envy is a massage studio in Niles, IL at 5661 West Touhy Avenue #146, Niles, IL 60714. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-niles/
-2. Massage | Organic #2 | Pulse Score 43.9/100 (Unrated, #2 in city) | Massage is a massage studio in Niles, IL at 7033 North Milwaukee Avenue, Niles, IL 60714. | https://registry-edge.dingalinged.workers.dev/c/massage-niles/
+2. Massage | Organic #2 | Pulse Score 43.8/100 (Unrated, #2 in city) | Massage is a massage studio in Niles, IL at 7033 North Milwaukee Avenue, Niles, IL 60714. | https://registry-edge.dingalinged.workers.dev/c/massage-niles/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage niles il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

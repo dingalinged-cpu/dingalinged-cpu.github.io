@@ -13,7 +13,7 @@ Great Clips is a hair salon in Overland Park, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-17:00
-- Pulse Score: 45.7/100 — Building — top 85% of hair salons in Kansas City, MO, #20 of 27 hair salons in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Building — top 84% of hair salons in Kansas City, MO, #20 of 27 hair salons in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

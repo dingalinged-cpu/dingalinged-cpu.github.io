@@ -19,6 +19,6 @@ Dry Clean Super Center of Flower Mound is a dry cleaner in Flower Mound, TX at 2
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/dry-clean-super-center-of-flower-mound-flower-mound/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dry-clean-super-center-of-flower-mound-flower-mound.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6282119128 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6282119128 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

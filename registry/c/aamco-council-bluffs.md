@@ -13,7 +13,7 @@ AAMCO is an auto repair shop in Council Bluffs, IA at 1600 Avenue A, Council Blu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00
-- Pulse Score: 46.8/100 — Building — top 75% of auto repair shops in Omaha, NE, #11 of 13 auto repair shops in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 74% of auto repair shops in Omaha, NE, #10 of 13 auto repair shops in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

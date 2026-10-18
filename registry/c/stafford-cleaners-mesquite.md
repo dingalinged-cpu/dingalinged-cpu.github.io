@@ -19,6 +19,6 @@ Stafford Cleaners is a dry cleaner in Mesquite, TX at 2337 Oates Drive, Mesquite
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/stafford-cleaners-mesquite/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/stafford-cleaners-mesquite.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/640608352 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/640608352 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

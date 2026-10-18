@@ -13,7 +13,7 @@ Naturally Chiropractic is a chiropractor in Olathe, KS at 11124 South Lone Elm R
 - Website: https://www.naturallychiropractic.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-13:00,15:00-18:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 12% of chiropractors in Kansas City, MO, #1 of 5 chiropractors in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 12% of chiropractors in Kansas City, MO, #1 of 5 chiropractors in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: lawyer in Spring Valley Village, TX; lawyer near me (Spring Valley
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Terry Bryant Accident & Injury Law | Organic #1 | Pulse Score 59.6/100 (Unrated, #39 in city) | Terry Bryant Accident & Injury Law is a lawyer in Houston, TX at 8584 Katy Freeway #100, Houston, TX 77024. Phone: +17139738888. Website: https://www.terrybryant.com/. | https://registry-edge.dingalinged.workers.dev/c/terry-bryant-accident-and-injury-law-houston/
+1. Terry Bryant Accident & Injury Law | Organic #1 | Pulse Score 59.6/100 (Unrated, #41 in city) | Terry Bryant Accident & Injury Law is a lawyer in Houston, TX at 8584 Katy Freeway #100, Houston, TX 77024. Phone: +17139738888. Website: https://www.terrybryant.com/. | https://registry-edge.dingalinged.workers.dev/c/terry-bryant-accident-and-injury-law-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer spring valley village tx | category: Legal | industry benchmark: Attorneys & Legal Services

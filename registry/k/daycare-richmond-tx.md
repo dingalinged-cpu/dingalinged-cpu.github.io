@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Children's Lighthouse of Richmond | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Children's Lighthouse of Richmond is a daycare in Richmond, TX at 4734 Harvest Corner Drive, Richmond, TX 77406. Phone: +12813361877. Website: https://childrenslighthouse.com/harvestgreen. | https://registry-edge.dingalinged.workers.dev/c/childrens-lighthouse-of-richmond-richmond/
 2. The Foundations Montessori | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | The Foundations Montessori is a daycare in Richmond, TX at 10530 FM 1464, Richmond, TX 77407. Phone: +12812400010. Website: https://www.thefoundationsmontessori.com/. | https://registry-edge.dingalinged.workers.dev/c/the-foundations-montessori-richmond/
-3. Funshine Acadamy | Organic #3 | Pulse Score 61.3/100 (Unrated, #3 in city) | Funshine Acadamy is a daycare in Richmond, TX at 707 Pitts Road, Richmond, TX 77406. Phone: +12813429624. Website: https://www.funshine-academy.com/. | https://registry-edge.dingalinged.workers.dev/c/funshine-acadamy-richmond/
-4. Kids 'R' Kids | Organic #4 | Pulse Score 47.2/100 (Building, #4 in city) | Kids 'R' Kids is a daycare in Richmond, TX at 17317 Bellaire Boulevard, Richmond, TX 77407. | https://registry-edge.dingalinged.workers.dev/c/kids-r-kids-richmond/
+3. Funshine Acadamy | Organic #3 | Pulse Score 61.5/100 (Unrated, #3 in city) | Funshine Acadamy is a daycare in Richmond, TX at 707 Pitts Road, Richmond, TX 77406. Phone: +12813429624. Website: https://www.funshine-academy.com/. | https://registry-edge.dingalinged.workers.dev/c/funshine-acadamy-richmond/
+4. Kids 'R' Kids | Organic #4 | Pulse Score 47.4/100 (Building, #4 in city) | Kids 'R' Kids is a daycare in Richmond, TX at 17317 Bellaire Boulevard, Richmond, TX 77407. | https://registry-edge.dingalinged.workers.dev/c/kids-r-kids-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare richmond tx | category: Education & childcare | industry benchmark: Education & Instruction

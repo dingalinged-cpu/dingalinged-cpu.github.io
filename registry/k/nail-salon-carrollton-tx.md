@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Castle Hills Lash & Nail | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Castle Hills Lash & Nail is a nail salon in Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/castle-hills-lash-and-nail-carrollton/
 2. Legend Nails | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Legend Nails is a nail salon in Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/legend-nails-carrollton/
-3. Lovely Nails | Organic #3 | Pulse Score 47/100 (Building, #3 in city) | Lovely Nails is a nail salon in Carrollton, TX at 1001 East Hebron Parkway #116, Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/lovely-nails-carrollton/
+3. Lovely Nails | Organic #3 | Pulse Score 46.6/100 (Building, #3 in city) | Lovely Nails is a nail salon in Carrollton, TX at 1001 East Hebron Parkway #116, Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/lovely-nails-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon carrollton tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

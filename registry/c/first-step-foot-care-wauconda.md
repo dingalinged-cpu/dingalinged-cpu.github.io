@@ -13,7 +13,7 @@ First Step Foot Care is a podiatrist in Wauconda, IL at 385 West Liberty Street,
 - Website: https://www.firststepfootcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 62.6/100 — Good — top 14% of podiatrists in Chicago, #1 of 1 podiatrists in Wauconda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 64.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Good — top 14% of podiatrists in Chicago, #1 of 1 podiatrists in Wauconda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

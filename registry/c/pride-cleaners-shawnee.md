@@ -13,7 +13,7 @@ Pride Cleaners is a dry cleaner in Shawnee, KS at 12121 Shawnee Mission Parkway,
 - Website: https://pridecleaners.com/locations/shawnee-village/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 10:00-15:00
-- Pulse Score: 49.9/100 — Unrated (not enough evidence yet) — top 60% of dry cleaners in Kansas City, MO, #3 of 3 dry cleaners in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 60% of dry cleaners in Kansas City, MO, #3 of 3 dry cleaners in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

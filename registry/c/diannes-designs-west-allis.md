@@ -13,7 +13,7 @@ Dianne's Designs is a jewelry store in West Allis, WI at 7344 West Greenfield Av
 - Website: https://dianesdesignsjewelryandwatchrepairwestalliswisconsn.com/addr:city=West Allis
 - Email: n/a
 - Opening hours (OSM syntax): Th 09:30-17:30; Fr 09:30-18:00; Sa 09:30-16:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 27% of jewelry stores in Milwaukee, #2 of 3 jewelry stores in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 27% of jewelry stores in Milwaukee, #2 of 3 jewelry stores in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

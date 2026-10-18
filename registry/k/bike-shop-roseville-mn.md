@@ -7,7 +7,7 @@ Also answers: bike shop in Roseville, MN; bike shop near me (Roseville, MN); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Bicycle Chain | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Bicycle Chain is a bike shop in Roseville, MN at 1712 Lexington Avenue North, Roseville, MN 55113. Phone: +16514894513. Website: https://www.bicyclechain.com/. | https://registry-edge.dingalinged.workers.dev/c/bicycle-chain-roseville/
-2. Erik's Bike Shop | Organic #2 | Pulse Score 41.9/100 (Unrated, #2 in city) | Erik's Bike Shop is a bike shop in Roseville, MN at 2059 Snelling Avenue North, Roseville, MN 55113. | https://registry-edge.dingalinged.workers.dev/c/eriks-bike-shop-roseville/
+2. Erik's Bike Shop | Organic #2 | Pulse Score 41.8/100 (Unrated, #2 in city) | Erik's Bike Shop is a bike shop in Roseville, MN at 2059 Snelling Avenue North, Roseville, MN 55113. | https://registry-edge.dingalinged.workers.dev/c/eriks-bike-shop-roseville/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop roseville mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -6,8 +6,8 @@ Also answers: realtor in The Woodlands, TX; realtor near me (The Woodlands, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Keller Williams Realty | Organic #1 | Pulse Score 48.7/100 (Building, #1 in city) | Keller Williams Realty is a real estate agency in The Woodlands, TX at 2201 Lake Woodlands Dr, The Woodlands, TX 77380. Phone: +12813641588. Website: https://kwwoodlands.com/. | https://registry-edge.dingalinged.workers.dev/c/keller-williams-realty-the-woodlands/
-2. RE/MAX ONE | Organic #2 | Pulse Score 45.1/100 (Building, #2 in city) | RE/MAX ONE is a real estate agency in The Woodlands, TX. Website: https://one-and-spring-the-woodlands-tx.remax.com/. | https://registry-edge.dingalinged.workers.dev/c/re-max-one-the-woodlands/
+1. Keller Williams Realty | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | Keller Williams Realty is a real estate agency in The Woodlands, TX at 2201 Lake Woodlands Dr, The Woodlands, TX 77380. Phone: +12813641588. Website: https://kwwoodlands.com/. | https://registry-edge.dingalinged.workers.dev/c/keller-williams-realty-the-woodlands/
+2. RE/MAX ONE | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | RE/MAX ONE is a real estate agency in The Woodlands, TX. Website: https://one-and-spring-the-woodlands-tx.remax.com/. | https://registry-edge.dingalinged.workers.dev/c/re-max-one-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor the woodlands tx | category: real_estate | industry benchmark: Real Estate

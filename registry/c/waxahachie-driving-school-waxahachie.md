@@ -19,6 +19,6 @@ Waxahachie Driving School is a driving school in Waxahachie, TX at 106 South Jac
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/waxahachie-driving-school-waxahachie/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/waxahachie-driving-school-waxahachie.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/505981650 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/505981650 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Security Shop is a locksmith in Chicago, IL at 1605 East 55th Street, Chicago, I
 - Website: https://www.securityshopinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 28% of locksmiths in Chicago, #4 of 10 locksmiths in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 28% of locksmiths in Chicago, #4 of 10 locksmiths in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

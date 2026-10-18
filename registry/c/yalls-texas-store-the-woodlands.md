@@ -19,6 +19,6 @@ Y'alls Texas Store is a gift shop in The Woodlands, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/yalls-texas-store-the-woodlands/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/yalls-texas-store-the-woodlands.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5237170863 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5237170863 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

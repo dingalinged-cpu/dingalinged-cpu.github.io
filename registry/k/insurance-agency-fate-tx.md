@@ -6,7 +6,7 @@ Also answers: insurance agency in Fate, TX; insurance agency near me (Fate, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Houston Tullos | Organic #1 | Pulse Score 46.8/100 (Building, #1 in city) | Houston Tullos is an insurance agent in Fate, TX at 208 Fate Main Place, Fate, TX 75087. Website: https://houstontullos.com/. | https://registry-edge.dingalinged.workers.dev/c/houston-tullos-fate/
+1. Houston Tullos | Organic #1 | Pulse Score 46.6/100 (Building, #1 in city) | Houston Tullos is an insurance agent in Fate, TX at 208 Fate Main Place, Fate, TX 75087. Website: https://houstontullos.com/. | https://registry-edge.dingalinged.workers.dev/c/houston-tullos-fate/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency fate tx | category: insurance | industry benchmark: Finance & Insurance

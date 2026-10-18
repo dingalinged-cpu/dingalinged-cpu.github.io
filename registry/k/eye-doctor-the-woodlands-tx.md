@@ -6,7 +6,7 @@ Also answers: eye doctor in The Woodlands, TX; eye doctor near me (The Woodlands
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Child & Family Eye Care | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Child & Family Eye Care is an eye care practice in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/child-and-family-eye-care-the-woodlands/
+1. Child & Family Eye Care | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Child & Family Eye Care is an eye care practice in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/child-and-family-eye-care-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor the woodlands tx | category: Health & medical | industry benchmark: Physicians & Surgeons

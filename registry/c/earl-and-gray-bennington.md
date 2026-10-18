@@ -13,7 +13,7 @@ Earl and  Gray is a gift shop in Bennington, NE at 15416 South 2nd Street, Benni
 - Website: https://www.facebook.com/earlandgrayhome/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:00; Su 11:00-14:00; Mo closed
-- Pulse Score: 64.5/100 — Good — top 5% of gift shops in Omaha, NE, #1 of 1 gift shops in Bennington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 68.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 5% of gift shops in Omaha, NE, #1 of 1 gift shops in Bennington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 68.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -19,6 +19,6 @@ The Editorial is a hair salon in Houston, TX at 2101 Smith Street #220, Houston,
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-editorial-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-editorial-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13598013871 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13598013871 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

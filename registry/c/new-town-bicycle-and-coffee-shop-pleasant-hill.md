@@ -13,7 +13,7 @@ New Town Bicycle & Coffee Shop is a bike shop in Pleasant Hill, MO at 209 Cedar 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-19:00, Sa 09:00-17:00
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 26% of bike shops in Kansas City, MO, #1 of 1 bike shops in Pleasant Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 26% of bike shops in Kansas City, MO, #1 of 1 bike shops in Pleasant Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: bakery in Middleton, WI; bakery near me (Middleton, WI); best bake
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clasen's European Bakery | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Clasen's European Bakery is a bakery in Middleton, WI at 7610 Donna Drive, Middleton, WI. Website: https://www.clasensbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/clasens-european-bakery-middleton/
+1. Clasen's European Bakery | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Clasen's European Bakery is a bakery in Middleton, WI at 7610 Donna Drive, Middleton, WI. Website: https://www.clasensbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/clasens-european-bakery-middleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery middleton wi | category: Events & weddings | industry benchmark: Personal Services

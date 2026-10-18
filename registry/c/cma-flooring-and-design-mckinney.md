@@ -13,12 +13,12 @@ CMA Flooring & Design is a flooring company in McKinney, TX at 3194 West Univers
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 36% of flooring companys in Dallas–Fort Worth, #2 of 5 flooring companys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 35% of flooring companys in Dallas–Fort Worth, #2 of 5 flooring companys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/cma-flooring-and-design-mckinney/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cma-flooring-and-design-mckinney.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13636479921 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13636479921 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

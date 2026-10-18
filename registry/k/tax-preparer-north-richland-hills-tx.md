@@ -6,9 +6,9 @@ Also answers: tax preparer in North Richland Hills, TX; tax preparer near me (No
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | Organic #1 | Pulse Score 50.8/100 (Fair, #1 in city) | H&R Block is a tax preparation service in North Richland Hills, TX at 8415 Davis Boulevard #307, North Richland Hills, TX 76182. Phone: +18175146339. Website: https://www.hrblock.com/local-tax-offices/texas/north-richland-hills/8415-davis-blvd-ste-307/41895/. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-north-richland-hills-n11903180458/
-2. Jackson Hewitt | Organic #2 | Pulse Score 47.6/100 (Building, #2 in city) | Jackson Hewitt is a tax preparation service in North Richland Hills, TX at 6242 Rufe Snow Drive #222, North Richland Hills, TX. Phone: +18175351040. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-north-richland-hills/
-3. H&R Block | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | H&R Block is a tax preparation service in North Richland Hills, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-north-richland-hills/
+1. H&R Block | Organic #1 | Pulse Score 50.6/100 (Fair, #1 in city) | H&R Block is a tax preparation service in North Richland Hills, TX at 8415 Davis Boulevard #307, North Richland Hills, TX 76182. Phone: +18175146339. Website: https://www.hrblock.com/local-tax-offices/texas/north-richland-hills/8415-davis-blvd-ste-307/41895/. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-north-richland-hills-n11903180458/
+2. Jackson Hewitt | Organic #2 | Pulse Score 47.5/100 (Building, #2 in city) | Jackson Hewitt is a tax preparation service in North Richland Hills, TX at 6242 Rufe Snow Drive #222, North Richland Hills, TX. Phone: +18175351040. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-north-richland-hills/
+3. H&R Block | Organic #3 | Pulse Score 41.7/100 (Building, #3 in city) | H&R Block is a tax preparation service in North Richland Hills, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer north richland hills tx | category: professional_accounting | industry benchmark: Business Services

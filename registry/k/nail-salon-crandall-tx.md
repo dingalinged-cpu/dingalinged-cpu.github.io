@@ -6,7 +6,7 @@ Also answers: nail salon in Crandall, TX; nail salon near me (Crandall, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Angel Nails & Spa | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Angel Nails & Spa is a nail salon in Crandall, TX at 121 South Main Street, Crandall, TX 75114. | https://registry-edge.dingalinged.workers.dev/c/angel-nails-and-spa-crandall/
+1. Angel Nails & Spa | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Angel Nails & Spa is a nail salon in Crandall, TX at 121 South Main Street, Crandall, TX 75114. | https://registry-edge.dingalinged.workers.dev/c/angel-nails-and-spa-crandall/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon crandall tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

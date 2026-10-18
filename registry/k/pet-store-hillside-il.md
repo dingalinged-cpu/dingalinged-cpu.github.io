@@ -6,7 +6,7 @@ Also answers: pet store in Hillside, IL; pet store near me (Hillside, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | Organic #1 | Pulse Score 47.4/100 (Building, #1 in city) | Petco is a pet store in Hillside, IL at 160 Mannheim Road #100, Hillside, IL 60162. Phone: +17084932237. Website: https://stores.petco.com/il/hillside/pet-supplies-hillside-il-1981.html. | https://registry-edge.dingalinged.workers.dev/c/petco-hillside/
+1. Petco | Organic #1 | Pulse Score 47.3/100 (Building, #1 in city) | Petco is a pet store in Hillside, IL at 160 Mannheim Road #100, Hillside, IL 60162. Phone: +17084932237. Website: https://stores.petco.com/il/hillside/pet-supplies-hillside-il-1981.html. | https://registry-edge.dingalinged.workers.dev/c/petco-hillside/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store hillside il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

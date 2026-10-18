@@ -13,7 +13,7 @@ Campus Tailor & Alterations is a tailor in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th 10:00-15:00; Fr 10:00-15:30
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 29% of tailors in Madison, #1 of 6 tailors in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 29% of tailors in Madison, #1 of 6 tailors in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

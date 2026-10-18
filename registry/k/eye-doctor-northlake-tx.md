@@ -6,7 +6,7 @@ Also answers: eye doctor in Northlake, TX; eye doctor near me (Northlake, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Northlake Family EyeCare | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Northlake Family EyeCare is an eye care practice in Northlake, TX at 1500 Commons Circle #Suite 200, Northlake, TX 76226. | https://registry-edge.dingalinged.workers.dev/c/northlake-family-eyecare-northlake/
+1. Northlake Family EyeCare | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Northlake Family EyeCare is an eye care practice in Northlake, TX at 1500 Commons Circle #Suite 200, Northlake, TX 76226. | https://registry-edge.dingalinged.workers.dev/c/northlake-family-eyecare-northlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor northlake tx | category: Health & medical | industry benchmark: Physicians & Surgeons

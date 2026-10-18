@@ -13,7 +13,7 @@ Onestar Bicycles is a bike shop in Kansas City, KS at 2402 South Mill Street, Ka
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 12:00-17:00
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 45% of bike shops in Kansas City, MO, #6 of 10 bike shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 49% of bike shops in Kansas City, MO, #6 of 10 bike shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

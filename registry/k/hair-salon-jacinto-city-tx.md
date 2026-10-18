@@ -6,7 +6,7 @@ Also answers: hair salon in Jacinto City, TX; hair salon near me (Jacinto City, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A&D Hair Salon | Organic #1 | Pulse Score 57/100 (Unrated, #83 in city) | A&D Hair Salon is a hair salon in Houston, TX at 1609 Holland Avenue #B, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/a-and-d-hair-salon-houston/
+1. A&D Hair Salon | Organic #1 | Pulse Score 57/100 (Unrated, #82 in city) | A&D Hair Salon is a hair salon in Houston, TX at 1609 Holland Avenue #B, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/a-and-d-hair-salon-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon jacinto city tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

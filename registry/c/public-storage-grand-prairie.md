@@ -13,12 +13,12 @@ Public Storage is a self-storage facility in Grand Prairie, TX at 1401 North Sta
 - Website: https://www.publicstorage.com/texas/self-storage-grand-prairie-tx/75050-self-storage/882?PID=PSLocalSearch&CID=1341&CHID=LL
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30, Sa-Su 09:30-17:00
-- Pulse Score: 52.4/100 — Fair — top 29% of self-storage facilitys in Dallas–Fort Worth, #1 of 3 self-storage facilitys in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 69. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.3/100 — Fair — top 27% of self-storage facilitys in Dallas–Fort Worth, #1 of 3 self-storage facilitys in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 68.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/public-storage-grand-prairie/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/public-storage-grand-prairie.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/423024371 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/423024371 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

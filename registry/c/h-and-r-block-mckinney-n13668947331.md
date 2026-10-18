@@ -13,12 +13,12 @@ H&R Block is a tax preparation service in McKinney, TX at 210 North Custer Road 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.3/100 — Building — top 56% of tax preparation services in Dallas–Fort Worth, #3 of 3 tax preparation services in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 58% of tax preparation services in Dallas–Fort Worth, #3 of 3 tax preparation services in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-mckinney-n13668947331/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-r-block-mckinney-n13668947331.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13668947331 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13668947331 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

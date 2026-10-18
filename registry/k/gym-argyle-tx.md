@@ -6,7 +6,7 @@ Also answers: gym in Argyle, TX; gym near me (Argyle, TX); best gym Argyle, TX; 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Harvest Gym | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Harvest Gym is a gym in Argyle, TX. | https://registry-edge.dingalinged.workers.dev/c/harvest-gym-argyle/
+1. Harvest Gym | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Harvest Gym is a gym in Argyle, TX. | https://registry-edge.dingalinged.workers.dev/c/harvest-gym-argyle/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym argyle tx | category: Fitness | industry benchmark: Health & Fitness

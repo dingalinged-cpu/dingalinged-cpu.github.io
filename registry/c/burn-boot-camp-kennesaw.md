@@ -13,7 +13,7 @@ Burn Boot Camp is a gym in Kennesaw, GA at 2851 Cobb Parkway #108, Kennesaw, GA.
 - Website: https://burnbootcamp.com/locations/kennesaw-ga/
 - Email: kennesawga@burnbootcamp.com
 - Opening hours (OSM syntax): Mo-Th 05:00-13:00,16:00-19:30; Fr 05:00-13:30,16:00-19:30; Sa 07:00-10:00
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 58% of gyms in Atlanta, #7 of 8 gyms in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 57% of gyms in Atlanta, #7 of 8 gyms in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

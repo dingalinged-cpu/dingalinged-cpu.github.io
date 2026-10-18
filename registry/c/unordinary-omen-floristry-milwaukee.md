@@ -13,7 +13,7 @@ Unordinary Omen Floristry is a florist in Milwaukee, WI at 5119 West North Avenu
 - Website: https://www.uofloristry.com/
 - Email: aaron@uofloristry.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Fair — top 37% of florists in Milwaukee, #5 of 8 florists in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Fair — top 34% of florists in Milwaukee, #5 of 8 florists in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

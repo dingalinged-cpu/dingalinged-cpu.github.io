@@ -13,12 +13,12 @@ Carnation Auto Spa is a car wash in Wylie, TX at 3301 FM 544, Wylie, TX 75098. W
 - Website: https://carnationautospa.com/carnation-locations/wylie/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-20:00; Su 08:00-19:00
-- Pulse Score: 50.2/100 — Unrated (not enough evidence yet) — top 65% of car washes in Dallas–Fort Worth, #4 of 4 car washes in Wylie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.7, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Unrated (not enough evidence yet) — top 62% of car washes in Dallas–Fort Worth, #4 of 4 car washes in Wylie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.7, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/carnation-auto-spa-wylie/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/carnation-auto-spa-wylie.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1270292447 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1270292447 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

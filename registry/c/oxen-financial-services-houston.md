@@ -19,6 +19,6 @@ Oxen Financial Services is a financial advisor in Houston, TX at 440 Louisiana S
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/oxen-financial-services-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/oxen-financial-services-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10232754278 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10232754278 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

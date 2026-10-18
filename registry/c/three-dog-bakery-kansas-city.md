@@ -13,7 +13,7 @@ Three Dog Bakery is a bakery in Kansas City, MO at 602 West 48th Street, Kansas 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43/100 — Unrated (not enough evidence yet) — top 95% of bakerys in Kansas City, MO, #29 of 29 bakerys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43/100 — Unrated (not enough evidence yet) — top 95% of bakerys in Kansas City, MO, #29 of 29 bakerys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

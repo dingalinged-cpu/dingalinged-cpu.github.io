@@ -6,7 +6,7 @@ Also answers: printing services in Deer Park, TX; printing services near me (Dee
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. FedEx Office | Organic #1 | Pulse Score 41.6/100 (Building, #1 in city) | FedEx Office is a printing service in Deer Park, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-deer-park/
+1. FedEx Office | Organic #1 | Pulse Score 41.7/100 (Building, #1 in city) | FedEx Office is a printing service in Deer Park, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-deer-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services deer park tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -19,6 +19,6 @@ CMIT Solutions is an IT support company in Bellaire, TX at 6575 West Loop South 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/cmit-solutions-bellaire/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cmit-solutions-bellaire.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12035820789 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12035820789 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

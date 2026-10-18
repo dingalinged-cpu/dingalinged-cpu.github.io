@@ -13,12 +13,12 @@ Standridge Companies is a real estate agency in Addison, TX at 15640 Quorum Driv
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 44% of real estate agencys in Dallas–Fort Worth, #2 of 4 real estate agencys in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 43% of real estate agencys in Dallas–Fort Worth, #2 of 4 real estate agencys in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/standridge-companies-addison/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/standridge-companies-addison.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11779034703 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11779034703 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

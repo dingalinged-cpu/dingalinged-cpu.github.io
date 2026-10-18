@@ -6,7 +6,7 @@ Also answers: mechanic in Papillion Second Ii Precinct, NE; mechanic near me (Pa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brakes Plus | Organic #1 | Pulse Score 46.8/100 (Building, #9 in city) | Brakes Plus is an auto repair shop in Papillion, NE at 10050 South 71st Avenue, Papillion, NE 68133. Phone: +14024012295. | https://registry-edge.dingalinged.workers.dev/c/brakes-plus-papillion-n11672123453/
+1. Brakes Plus | Organic #1 | Pulse Score 46.8/100 (Building, #8 in city) | Brakes Plus is an auto repair shop in Papillion, NE at 10050 South 71st Avenue, Papillion, NE 68133. Phone: +14024012295. | https://registry-edge.dingalinged.workers.dev/c/brakes-plus-papillion-n11672123453/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic papillion second ii precinct ne | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,12 +13,12 @@ High Quality Landscape Services is a landscaping company in Dallas, TX at 17726 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 43% of landscaping companys in Dallas–Fort Worth, #1 of 4 landscaping companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 50% of landscaping companys in Dallas–Fort Worth, #1 of 5 landscaping companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/high-quality-landscape-services-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/high-quality-landscape-services-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/470346518 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/way/470346518 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

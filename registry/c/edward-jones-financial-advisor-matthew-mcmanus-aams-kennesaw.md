@@ -13,7 +13,7 @@ Edward Jones Financial Advisor - Matthew McManus , AAMS™ is a financial adviso
 - Website: https://www.edwardjones.com/us-en/financial-advisor/matthew-mcmanus
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Fair — top 23% of financial advisors in Atlanta, #2 of 3 financial advisors in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Fair — top 23% of financial advisors in Atlanta, #2 of 3 financial advisors in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

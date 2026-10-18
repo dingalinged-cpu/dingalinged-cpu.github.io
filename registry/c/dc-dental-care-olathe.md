@@ -13,7 +13,7 @@ Mur-Len Family Dentistry is a dentist in Olathe, KS. Phone: +19133534001. Websit
 - Website: https://murlendental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00; Sa "By Appointment"
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 39% of dentists in Kansas City, MO, #8 of 15 dentists in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 40% of dentists in Kansas City, MO, #8 of 15 dentists in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

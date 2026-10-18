@@ -19,6 +19,6 @@ Greenhouse Treatment Center is an addiction treatment center in Grand Prairie, T
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/greenhouse-treatment-center-grand-prairie/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/greenhouse-treatment-center-grand-prairie.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/642270411 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/642270411 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

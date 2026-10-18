@@ -6,7 +6,7 @@ Also answers: podiatrist in Sugar Land, TX; podiatrist near me (Sugar Land, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Foot & Ankle Associates | Organic #1 | Pulse Score 62.5/100 (Good, #1 in city) | Texas Foot & Ankle Associates is a podiatrist in Sugar Land, TX at 3143 State Highway 6 South, Sugar Land, TX 77478. Phone: +12819803668. Website: https://doctors.wellmedhealthcare.com/locations/details/12623. | https://registry-edge.dingalinged.workers.dev/c/texas-foot-and-ankle-associates-sugar-land/
+1. Texas Foot & Ankle Associates | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | Texas Foot & Ankle Associates is a podiatrist in Sugar Land, TX at 3143 State Highway 6 South, Sugar Land, TX 77478. Phone: +12819803668. Website: https://doctors.wellmedhealthcare.com/locations/details/12623. | https://registry-edge.dingalinged.workers.dev/c/texas-foot-and-ankle-associates-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist sugar land tx | category: Health & medical | industry benchmark: Physicians & Surgeons

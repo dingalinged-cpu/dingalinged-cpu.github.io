@@ -6,9 +6,9 @@ Also answers: tax preparation in Flower Mound, TX; tax preparation near me (Flow
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dance, Bigelow & Co. PC | Organic #1 | Pulse Score 62.2/100 (Good, #1 in city) | Dance, Bigelow & Co. PC is a tax preparation service in Flower Mound, TX at 3942 Churchill Drive #100, Flower Mound, TX 75022. | https://registry-edge.dingalinged.workers.dev/c/dance-bigelow-and-co-pc-flower-mound/
-2. Ramirez Accounting & Notary | Organic #2 | Pulse Score 62/100 (Unrated, #2 in city) | Ramirez Accounting & Notary is a tax preparation service in Flower Mound, TX at 3415 Long Prairie Road, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/ramirez-accounting-and-notary-flower-mound/
-3. H&R Block | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | H&R Block is a tax preparation service in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-flower-mound/
+1. Dance, Bigelow & Co. PC | Organic #1 | Pulse Score 61.9/100 (Good, #1 in city) | Dance, Bigelow & Co. PC is a tax preparation service in Flower Mound, TX at 3942 Churchill Drive #100, Flower Mound, TX 75022. | https://registry-edge.dingalinged.workers.dev/c/dance-bigelow-and-co-pc-flower-mound/
+2. Ramirez Accounting & Notary | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Ramirez Accounting & Notary is a tax preparation service in Flower Mound, TX at 3415 Long Prairie Road, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/ramirez-accounting-and-notary-flower-mound/
+3. H&R Block | Organic #3 | Pulse Score 43.3/100 (Building, #3 in city) | H&R Block is a tax preparation service in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation flower mound tx | category: Professional & financial services | industry benchmark: Finance & Insurance

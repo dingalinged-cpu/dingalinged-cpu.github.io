@@ -6,7 +6,7 @@ Also answers: concrete contractor in Kansas City, KS; concrete contractor near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KS Granite House | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | KS Granite House is a concrete contractor in Kansas City, KS at 956 Scott Avenue, Kansas City, KS 66105. Phone: +19132030750. | https://registry-edge.dingalinged.workers.dev/c/ks-granite-house-kansas-city/
+1. KS Granite House | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | KS Granite House is a concrete contractor in Kansas City, KS at 956 Scott Avenue, Kansas City, KS 66105. Phone: +19132030750. | https://registry-edge.dingalinged.workers.dev/c/ks-granite-house-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: concrete contractor kansas city ks | category: Home services - Concrete & masonry | industry benchmark: Home & Home Improvement

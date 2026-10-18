@@ -19,6 +19,6 @@ Oaks Cleaners is a dry cleaner in Arlington, TX at 1112 North Fielder Road, Arli
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/oaks-cleaners-arlington/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/oaks-cleaners-arlington.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13624705201 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13624705201 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

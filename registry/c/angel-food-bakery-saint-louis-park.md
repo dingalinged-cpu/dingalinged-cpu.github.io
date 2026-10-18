@@ -13,7 +13,7 @@ Angel Food Bakery is a bakery in Saint Louis Park, MN at 8100 Minnetonka Bouleva
 - Website: https://www.angelfoodmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 60% of bakerys in Minneapolis–St. Paul, #4 of 4 bakerys in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 59% of bakerys in Minneapolis–St. Paul, #4 of 4 bakerys in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

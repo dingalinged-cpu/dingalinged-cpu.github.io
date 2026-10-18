@@ -13,7 +13,7 @@ PM Web Creations is an IT support company in Milwaukee, WI. Phone: +12625892261.
 - Website: https://pmwebcreations.com/
 - Email: info@pmwebcreations.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 64% of IT support companys in Milwaukee, #5 of 8 IT support companys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 64% of IT support companys in Milwaukee, #5 of 8 IT support companys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

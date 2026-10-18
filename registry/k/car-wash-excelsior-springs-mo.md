@@ -7,7 +7,7 @@ Also answers: car wash in Excelsior Springs, MO; car wash near me (Excelsior Spr
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Dari B Car Wash | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Dari B Car Wash is a car wash in Excelsior Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/dari-b-car-wash-excelsior-springs/
-2. GO Car Wash | Organic #2 | Pulse Score 43.9/100 (Unrated, #2 in city) | GO Car Wash is a car wash in Excelsior Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/go-car-wash-excelsior-springs/
+2. GO Car Wash | Organic #2 | Pulse Score 42.8/100 (Unrated, #2 in city) | GO Car Wash is a car wash in Excelsior Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/go-car-wash-excelsior-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash excelsior springs mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

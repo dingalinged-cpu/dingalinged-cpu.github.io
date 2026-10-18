@@ -19,6 +19,6 @@ Texas Cleaners is a dry cleaner in Lewisville, TX at West Round Grove Road #114,
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-cleaners-lewisville/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-cleaners-lewisville.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11216140725 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11216140725 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

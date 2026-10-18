@@ -6,7 +6,7 @@ Also answers: heating and air in Johns Creek, GA; heating and air near me (Johns
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AIR Kitchen & Bath Center (Atlanta Intercontinental LLC) | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | AIR Kitchen & Bath Center (Atlanta Intercontinental LLC) is a HVAC contractor in Johns Creek, GA at 5725 State Bridge Road #Suite 202, Johns Creek, GA. Phone: +14708055522. Website: https://airkitchenandbath.com/. | https://registry-edge.dingalinged.workers.dev/c/air-kitchen-and-bath-center-atlanta-intercontinental-llc-johns-creek/
+1. AIR Kitchen & Bath Center (Atlanta Intercontinental LLC) | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | AIR Kitchen & Bath Center (Atlanta Intercontinental LLC) is a HVAC contractor in Johns Creek, GA at 5725 State Bridge Road #Suite 202, Johns Creek, GA. Phone: +14708055522. Website: https://airkitchenandbath.com/. | https://registry-edge.dingalinged.workers.dev/c/air-kitchen-and-bath-center-atlanta-intercontinental-llc-johns-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air johns creek ga | category: Home Services | industry benchmark: Home & Home Improvement

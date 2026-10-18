@@ -6,7 +6,7 @@ Also answers: bakery in Roanoke, TX; bakery near me (Roanoke, TX); best bakery R
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mug's Cafe & Bakery | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Mug's Cafe & Bakery is a bakery in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/mugs-cafe-and-bakery-roanoke/
+1. Mug's Cafe & Bakery | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Mug's Cafe & Bakery is a bakery in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/mugs-cafe-and-bakery-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery roanoke tx | category: Events & weddings | industry benchmark: Personal Services

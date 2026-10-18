@@ -7,9 +7,9 @@ Also answers: bakery in Woodstock, GA; bakery near me (Woodstock, GA); best bake
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Sucre | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Sucre is a bakery in Woodstock, GA at 8654 Main Street, Woodstock, GA 30188. Phone: +18774141708. Website: https://www.shopsucre.com/. | https://registry-edge.dingalinged.workers.dev/c/sucre-woodstock/
-2. The Peach Cobbler Factory | Organic #2 | Pulse Score 62.3/100 (Good, #2 in city) | The Peach Cobbler Factory is a bakery in Woodstock, GA at 1426 Towne Lake Parkway #104, Woodstock, GA. Phone: +17706793387. Website: https://www.peachcobblerfactory.com/the-peach-cobbler-factory-locations/646-woodstock-ga. | https://registry-edge.dingalinged.workers.dev/c/the-peach-cobbler-factory-woodstock/
-3. La Escondida Bakery | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | La Escondida Bakery is a bakery in Woodstock, GA. | https://registry-edge.dingalinged.workers.dev/c/la-escondida-bakery-woodstock/
-4. Atlanta Bread | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Atlanta Bread is a bakery in Woodstock, GA. | https://registry-edge.dingalinged.workers.dev/c/atlanta-bread-woodstock/
+2. La Escondida Bakery | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | La Escondida Bakery is a bakery in Woodstock, GA. | https://registry-edge.dingalinged.workers.dev/c/la-escondida-bakery-woodstock/
+3. Atlanta Bread | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Atlanta Bread is a bakery in Woodstock, GA. | https://registry-edge.dingalinged.workers.dev/c/atlanta-bread-woodstock/
+4. The Peach Cobbler Factory | Organic #4 | Pulse Score 49.5/100 (Building, #4 in city) | The Peach Cobbler Factory is a bakery in Woodstock, GA at 1426 Towne Lake Parkway #104, Woodstock, GA. Phone: +17706793387. Website: https://www.peachcobblerfactory.com/the-peach-cobbler-factory-locations/646-woodstock-ga. | https://registry-edge.dingalinged.workers.dev/c/the-peach-cobbler-factory-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery woodstock ga | category: Events & weddings | industry benchmark: Personal Services

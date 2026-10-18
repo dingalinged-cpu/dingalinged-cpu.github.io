@@ -6,7 +6,7 @@ Also answers: used cars for sale in Middleton, WI; used cars for sale near me (M
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Schoepp Motors West | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Schoepp Motors West is an used car dealer in Middleton, WI at 3440 Laura Lane, Middleton, WI 53562. Phone: +16082557003. Website: https://www.schoeppmotors.com/. | https://registry-edge.dingalinged.workers.dev/c/schoepp-motors-west-middleton/
+1. Schoepp Motors West | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Schoepp Motors West is an used car dealer in Middleton, WI at 3440 Laura Lane, Middleton, WI 53562. Phone: +16082557003. Website: https://www.schoeppmotors.com/. | https://registry-edge.dingalinged.workers.dev/c/schoepp-motors-west-middleton/
 2. Goben Cars | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Goben Cars is an used car dealer in Middleton, WI. | https://registry-edge.dingalinged.workers.dev/c/goben-cars-middleton/
 
 ## Market data (for advertisers and agents)

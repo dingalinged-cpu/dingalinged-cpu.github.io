@@ -13,7 +13,7 @@ Coldwell Banker is a real estate agency in Saint Paul, MN at 827 Grand Avenue, S
 - Website: https://www.coldwellbankerhomes.com/mn/saint-paul/office/crocus-hill/oid_4219/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 50.5/100 — Fair — top 77% of real estate agencys in Minneapolis–St. Paul, #14 of 17 real estate agencys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 77% of real estate agencys in Minneapolis–St. Paul, #14 of 17 real estate agencys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

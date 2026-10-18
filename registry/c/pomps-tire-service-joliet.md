@@ -13,7 +13,7 @@ Pomp's Tire Service is a tire shop in Joliet, IL at 927 Gardner Street, Joliet, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30, Sa 08:00-12:00
-- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 49% of tire shops in Chicago, #1 of 2 tire shops in Joliet (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 49% of tire shops in Chicago, #1 of 2 tire shops in Joliet (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

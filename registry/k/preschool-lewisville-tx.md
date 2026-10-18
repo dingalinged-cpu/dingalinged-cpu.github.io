@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Blossom Valley Academy | Organic #2 | Pulse Score 60.8/100 (Good, #2 in city) | Blossom Valley Academy is a preschool in Lewisville, TX. Phone: +19724363613. Website: https://www.blossomvalleyacademy.net/. | https://registry-edge.dingalinged.workers.dev/c/blossom-valley-academy-lewisville/
 3. Kid City USA | Organic #3 | Pulse Score 59.3/100 (Unrated, #3 in city) | Kid City USA is a preschool in Lewisville, TX at 1597 Glencairn Lane, Lewisville, TX. Phone: +19728101614. | https://registry-edge.dingalinged.workers.dev/c/kid-city-usa-lewisville/
 4. The Learning Experience | Organic #4 | Pulse Score 48.2/100 (Building, #4 in city) | The Learning Experience is a preschool in Lewisville, TX. Phone: +18882906366. | https://registry-edge.dingalinged.workers.dev/c/the-learning-experience-lewisville/
-5. The Children's Courtyard | Organic #5 | Pulse Score 45.6/100 (Building, #5 in city) | The Children's Courtyard is a preschool in Lewisville, TX at 2155 Willow Grove Drive, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/the-childrens-courtyard-lewisville/
+5. The Children's Courtyard | Organic #5 | Pulse Score 48.1/100 (Building, #5 in city) | The Children's Courtyard is a preschool in Lewisville, TX at 2155 Willow Grove Drive, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/the-childrens-courtyard-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool lewisville tx | category: Education & childcare | industry benchmark: Education & Instruction

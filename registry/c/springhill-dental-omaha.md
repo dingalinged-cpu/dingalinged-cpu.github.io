@@ -13,7 +13,7 @@ SpringHill Dental is a dentist in Omaha, NE at 19060 Q Street #106, Omaha, NE 68
 - Website: https://www.springhilldentalomaha.com/
 - Email: info@springhilldentalomaha.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 15% of dentists in Omaha, NE, #5 of 58 dentists in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 15% of dentists in Omaha, NE, #5 of 58 dentists in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

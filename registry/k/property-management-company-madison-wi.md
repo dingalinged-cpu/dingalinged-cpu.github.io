@@ -6,11 +6,11 @@ Also answers: property management company in Madison, WI; property management co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Intersect | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | The Intersect is a property management company in Madison, WI. Website: https://www.theintersectapts.com/. | https://registry-edge.dingalinged.workers.dev/c/the-intersect-madison/
-2. Hub | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Hub is a property management company in Madison, WI at 636 State Street, Madison, WI 53703. | https://registry-edge.dingalinged.workers.dev/c/hub-madison/
-3. Theory Madison | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Theory Madison is a property management company in Madison, WI at 664 State Street, Madison, WI 53703. | https://registry-edge.dingalinged.workers.dev/c/theory-madison-madison/
-4. Birwood Property Management | Organic #4 | Pulse Score 55.7/100 (Unrated, #4 in city) | Birwood Property Management is a property management company in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/birwood-property-management-madison/
-5. Nexus Leasing Office | Organic #5 | Pulse Score 53.9/100 (Unrated, #5 in city) | Nexus Leasing Office is a property management company in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/nexus-leasing-office-madison/
+1. The Intersect | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | The Intersect is a property management company in Madison, WI. Website: https://www.theintersectapts.com/. | https://registry-edge.dingalinged.workers.dev/c/the-intersect-madison/
+2. Hub | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Hub is a property management company in Madison, WI at 636 State Street, Madison, WI 53703. | https://registry-edge.dingalinged.workers.dev/c/hub-madison/
+3. Theory Madison | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Theory Madison is a property management company in Madison, WI at 664 State Street, Madison, WI 53703. | https://registry-edge.dingalinged.workers.dev/c/theory-madison-madison/
+4. Birwood Property Management | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Birwood Property Management is a property management company in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/birwood-property-management-madison/
+5. Nexus Leasing Office | Organic #5 | Pulse Score 53.8/100 (Unrated, #5 in city) | Nexus Leasing Office is a property management company in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/nexus-leasing-office-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company madison wi | category: Professional & financial services | industry benchmark: Finance & Insurance

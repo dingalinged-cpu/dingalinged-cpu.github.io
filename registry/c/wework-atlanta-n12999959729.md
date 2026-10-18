@@ -13,7 +13,7 @@ WeWork is a coworking space in Atlanta, GA at 1175 Peachtree Street Northeast #1
 - Website: https://www.wework.com/buildings/colony-square--atlanta--GA
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 45.6/100 — Building — top 78% of coworking spaces in Atlanta, #10 of 14 coworking spaces in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 78% of coworking spaces in Atlanta, #10 of 14 coworking spaces in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

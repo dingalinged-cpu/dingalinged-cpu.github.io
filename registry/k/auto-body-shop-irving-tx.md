@@ -6,7 +6,7 @@ Also answers: auto body shop in Irving, TX; auto body shop near me (Irving, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MAACO | Organic #1 | Pulse Score 42.5/100 (Building, #16 in city) | MAACO is an auto repair shop in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/maaco-irving/
+1. MAACO | Organic #1 | Pulse Score 42.5/100 (Building, #17 in city) | MAACO is an auto repair shop in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/maaco-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop irving tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Laughlin Constable is a marketing agency in Milwaukee, WI. Phone: +14142722400. 
 - Website: https://www.laughlin.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Fair — top 27% of marketing agencys in Milwaukee, #4 of 13 marketing agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Fair — top 27% of marketing agencys in Milwaukee, #4 of 13 marketing agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

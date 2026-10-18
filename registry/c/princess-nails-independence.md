@@ -13,7 +13,7 @@ Princess Nails is a nail salon in Independence, MO at 18931 East Valley View Par
 - Website: n/a
 - Email: Princessnails.mo@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 09:30-18:00; Su 12:00-17:00
-- Pulse Score: 50.5/100 — Fair — top 82% of nail salons in Kansas City, MO, #2 of 3 nail salons in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 80% of nail salons in Kansas City, MO, #2 of 3 nail salons in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -12,13 +12,13 @@ Oprex Hearing Center is an audiologist in Houston, TX at 6699 Chimney Rock Road 
 - Phone: +12819203911
 - Website: https://oprexhearingcenter.com/
 - Email: n/a
-- Opening hours (OSM syntax): Mon - Thu 8:00am - 5:00pm, Fri 8:00am - 12:00pm
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 75% of audiologists in Houston, #2 of 2 audiologists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Opening hours (OSM syntax): Mo-Th 08:00-17:00, Fr 08:00-12:00
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 75% of audiologists in Houston, #2 of 2 audiologists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/oprex-hearing-center-houston-n13826549940/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/oprex-hearing-center-houston-n13826549940.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13826549940 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13826549940 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

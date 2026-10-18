@@ -1,4 +1,4 @@
-Keyword market for Baytown, TX: 31 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Houston-Pasadena-The Woodlands, TX metro (US volume x population share).
+Keyword market for Baytown, TX: 33 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Houston-Pasadena-The Woodlands, TX metro (US volume x population share).
 
 # Top keywords in Baytown, TX
 

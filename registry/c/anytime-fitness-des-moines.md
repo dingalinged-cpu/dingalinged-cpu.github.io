@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Des Moines, IA at 2815 Beaver Avenue #206, Des Moine
 - Website: https://www.anytimefitness.com/gyms/480/des-moines-ia-50310/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.3/100 — Fair — top 50% of gyms in Des Moines, IA, #12 of 18 gyms in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 49% of gyms in Des Moines, IA, #12 of 18 gyms in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

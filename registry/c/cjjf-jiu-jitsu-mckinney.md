@@ -13,12 +13,12 @@ CJJF Jiu-Jitsu is a martial arts school in McKinney, TX at 3801 Virginia Parkway
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 45% of martial arts schools in Dallas–Fort Worth, #5 of 5 martial arts schools in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 49% of martial arts schools in Dallas–Fort Worth, #5 of 5 martial arts schools in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/cjjf-jiu-jitsu-mckinney/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cjjf-jiu-jitsu-mckinney.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13334176744 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13334176744 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

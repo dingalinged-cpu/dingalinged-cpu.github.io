@@ -13,7 +13,7 @@ Earl Bryant Enterprises, Inc. is a HVAC contractor in Basehor, KS at 15280 Briar
 - Website: https://www.earlbryant.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 20% of HVAC contractors in Kansas City, MO, #1 of 1 HVAC contractors in Basehor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 20% of HVAC contractors in Kansas City, MO, #1 of 1 HVAC contractors in Basehor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Eye Associates of South Overland Park | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Eye Associates of South Overland Park is an eye care practice in Overland Park, KS at 8029 West 159th Street, Overland Park, KS 66223. Phone: +19138978171. Website: https://www.seetheclarity.com/location/south-overland-park/. | https://registry-edge.dingalinged.workers.dev/c/eye-associates-of-south-overland-park-overland-park/
 2. Speak Eyecare | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Speak Eyecare is an eye care practice in Overland Park, KS at 8532 West 135th Street, Overland Park, KS 66223. | https://registry-edge.dingalinged.workers.dev/c/speak-eyecare-overland-park/
-3. Blue Valley Vision of Overland Park | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Blue Valley Vision of Overland Park is an eye care practice in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/blue-valley-vision-of-overland-park-overland-park/
+3. Blue Valley Vision of Overland Park | Organic #3 | Pulse Score 55.8/100 (Unrated, #3 in city) | Blue Valley Vision of Overland Park is an eye care practice in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/blue-valley-vision-of-overland-park-overland-park/
 4. Blue Valley Village | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Blue Valley Village is an eye care practice in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/blue-valley-village-overland-park/
 
 ## Market data (for advertisers and agents)

@@ -6,9 +6,9 @@ Also answers: insurance agent in Mansfield, TX; insurance agent near me (Mansfie
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McKnight Insurance Services | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | McKnight Insurance Services is an insurance agent in Mansfield, TX at 2364 N Highway 287 #103, Mansfield, TX 76063. Phone: +18172776166. Website: https://www.mcknightins.com/. | https://registry-edge.dingalinged.workers.dev/c/mcknight-insurance-services-mansfield/
-2. State Farm | Organic #2 | Pulse Score 44.3/100 (Building, #2 in city) | State Farm is an insurance agent in Mansfield, TX at 3807 East Broad Street, Mansfield, TX 76063. | https://registry-edge.dingalinged.workers.dev/c/state-farm-mansfield/
-3. Allstate | Organic #3 | Pulse Score 41.9/100 (Building, #3 in city) | Allstate is an insurance agent in Mansfield, TX. | https://registry-edge.dingalinged.workers.dev/c/allstate-mansfield/
+1. McKnight Insurance Services | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | McKnight Insurance Services is an insurance agent in Mansfield, TX at 2364 N Highway 287 #103, Mansfield, TX 76063. Phone: +18172776166. Website: https://www.mcknightins.com/. | https://registry-edge.dingalinged.workers.dev/c/mcknight-insurance-services-mansfield/
+2. State Farm | Organic #2 | Pulse Score 44.1/100 (Building, #2 in city) | State Farm is an insurance agent in Mansfield, TX at 3807 East Broad Street, Mansfield, TX 76063. | https://registry-edge.dingalinged.workers.dev/c/state-farm-mansfield/
+3. Allstate | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | Allstate is an insurance agent in Mansfield, TX. | https://registry-edge.dingalinged.workers.dev/c/allstate-mansfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent mansfield tx | category: Professional & financial services | industry benchmark: Finance & Insurance

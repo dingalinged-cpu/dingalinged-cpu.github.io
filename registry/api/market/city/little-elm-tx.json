@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Little Elm, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
- "keywords": 28,
+ "keywords": 31,
  "lists": {
   "by_volume": [
    {
@@ -50,7 +50,7 @@
     "search_value_index_usd": 210000,
     "equivalent_google_ads_cost_month_usd": 12000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_volume"
    },
    {
@@ -65,7 +65,7 @@
     "search_value_index_usd": 75000,
     "equivalent_google_ads_cost_month_usd": 5400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 2,
+    "registry_competitors": 3,
     "ranked_by": "by_volume"
    },
    {
@@ -356,6 +356,21 @@
     "ranked_by": "by_cpc"
    },
    {
+    "keyword": "event venues little elm tx",
+    "slug": "event-venues-little-elm-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-little-elm-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 5500,
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "search_value_index_usd": 39000,
+    "equivalent_google_ads_cost_month_usd": 3000,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "tax preparer little elm tx",
     "slug": "tax-preparer-little-elm-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-little-elm-tx/",
@@ -427,7 +442,7 @@
     "search_value_index_usd": 210000,
     "equivalent_google_ads_cost_month_usd": 12000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_cpc"
    },
    {
@@ -442,21 +457,6 @@
     "search_value_index_usd": 550000,
     "equivalent_google_ads_cost_month_usd": 32000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 2,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "auto body shop little elm tx",
-    "slug": "auto-body-shop-little-elm-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-little-elm-tx/",
-    "us_monthly_searches": 60500,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 1500,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 6500,
-    "equivalent_google_ads_cost_month_usd": 360,
-    "featured_spot_min_usd": 20,
     "registry_competitors": 2,
     "ranked_by": "by_cpc"
    }
@@ -504,7 +504,7 @@
     "search_value_index_usd": 210000,
     "equivalent_google_ads_cost_month_usd": 12000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_value"
    },
    {
@@ -534,7 +534,7 @@
     "search_value_index_usd": 75000,
     "equivalent_google_ads_cost_month_usd": 5400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 2,
+    "registry_competitors": 3,
     "ranked_by": "by_value"
    },
    {

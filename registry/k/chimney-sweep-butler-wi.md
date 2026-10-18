@@ -6,7 +6,7 @@ Also answers: chimney sweep in Butler, WI; chimney sweep near me (Butler, WI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Smoke Stacks, Inc. | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | Smoke Stacks, Inc. is a chimney sweep in Butler, WI at 4712 North 125th Street #A, Butler, WI 53007. Phone: +12629122375. Website: https://smokestacks.net/. | https://registry-edge.dingalinged.workers.dev/c/smoke-stacks-inc-butler/
+1. Smoke Stacks, Inc. | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | Smoke Stacks, Inc. is a chimney sweep in Butler, WI at 4712 North 125th Street #A, Butler, WI 53007. Phone: +12629122375. Website: https://smokestacks.net/. | https://registry-edge.dingalinged.workers.dev/c/smoke-stacks-inc-butler/
 
 ## Market data (for advertisers and agents)
 - Keyword: chimney sweep butler wi | category: Home services - Chimney | industry benchmark: Home & Home Improvement

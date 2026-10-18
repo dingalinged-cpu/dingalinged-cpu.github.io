@@ -13,7 +13,7 @@ North Atlanta Dance Academy is a dance studio in Johns Creek, GA at 10700 State 
 - Website: https://northatlantadance.com/
 - Email: northatlantad658@bellsouth.net
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 40% of dance studios in Atlanta, #1 of 4 dance studios in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 40% of dance studios in Atlanta, #1 of 4 dance studios in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

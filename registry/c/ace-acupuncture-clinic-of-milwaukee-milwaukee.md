@@ -13,7 +13,7 @@ Ace Acupuncture Clinic of Milwaukee is an acupuncture clinic in Milwaukee, WI at
 - Website: https://aceacupuncture.com/
 - Email: aceacup@gmail.com
 - Opening hours (OSM syntax): Th 12:00-18:00; Sa 08:30-11:30
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 13% of acupuncture clinics in Milwaukee, #1 of 3 acupuncture clinics in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 13% of acupuncture clinics in Milwaukee, #1 of 3 acupuncture clinics in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

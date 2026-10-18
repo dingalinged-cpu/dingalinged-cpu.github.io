@@ -13,7 +13,7 @@ Fidelity Investments is a financial advisor in Overland Park, KS at 11200 Nall A
 - Website: https://www.fidelity.com/branches/investor-center-kansas-city-overland-park-kansas-66211
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 48.6/100 — Building — top 38% of financial advisors in Kansas City, MO, #3 of 6 financial advisors in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 38% of financial advisors in Kansas City, MO, #3 of 6 financial advisors in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

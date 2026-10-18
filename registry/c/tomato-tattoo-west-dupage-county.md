@@ -13,7 +13,7 @@ Tomato Tattoo West is a tattoo shop in DuPage County, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 12:00-21:00
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 78% of tattoo shops in Chicago, #1 of 1 tattoo shops in DuPage County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 78% of tattoo shops in Chicago, #1 of 1 tattoo shops in DuPage County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

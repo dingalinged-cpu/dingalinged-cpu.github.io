@@ -13,12 +13,12 @@ H&R Block is an accountant in Dallas, TX at 6333 East Mockingbird Lane #119A, Da
 - Website: https://www.hrblock.com/local-tax-offices/texas/dallas/6333-e-mockingbird-ln-ste-119a/40749
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 13:00-19:00; Tu,Sa 10:00-16:00
-- Pulse Score: 49.4/100 — Building — top 100% of accountants in Dallas–Fort Worth, #10 of 10 accountants in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 100% of accountants in Dallas–Fort Worth, #11 of 11 accountants in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-dallas-n11846153971/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-r-block-dallas-n11846153971.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11846153971 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11846153971 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

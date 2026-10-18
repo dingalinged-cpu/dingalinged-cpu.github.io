@@ -13,7 +13,7 @@ Hoosier Mama Pie Company is a bakery in Chicago, IL at 1618 1/2 West Chicago Ave
 - Website: https://hoosiermamapie.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 08:00-19:00; Sa 09:00-17:00; Su 10:00-16:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 8% of bakerys in Chicago, #25 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 7% of bakerys in Chicago, #25 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

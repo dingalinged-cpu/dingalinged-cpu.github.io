@@ -6,11 +6,11 @@ Also answers: martial arts in Mckinney, TX; martial arts near me (Mckinney, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 9Round Kickboxing Fitness | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | 9Round Kickboxing Fitness is a martial arts school in McKinney, TX at 301 North Custer Road #120, McKinney, TX. Phone: +14696341510. Website: https://9round.com/. | https://registry-edge.dingalinged.workers.dev/c/9round-kickboxing-fitness-mckinney/
-2. Karate for Kids | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Karate for Kids is a martial arts school in McKinney, TX at 4610 Eldorado Parkway #500, McKinney, TX. Phone: +19725409515. | https://registry-edge.dingalinged.workers.dev/c/karate-for-kids-mckinney/
-3. Gracie Barre | Organic #3 | Pulse Score 58.5/100 (Unrated, #3 in city) | Gracie Barre is a martial arts school in McKinney, TX at 7901 Eldorado Parkway #120, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/gracie-barre-mckinney/
-4. TaeKwonDo America | Organic #4 | Pulse Score 58.5/100 (Unrated, #4 in city) | TaeKwonDo America is a martial arts school in McKinney, TX at 3851 Stonebridge Drive #700, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/taekwondo-america-mckinney/
-5. CJJF Jiu-Jitsu | Organic #5 | Pulse Score 58.3/100 (Unrated, #5 in city) | CJJF Jiu-Jitsu is a martial arts school in McKinney, TX at 3801 Virginia Parkway #700, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/cjjf-jiu-jitsu-mckinney/
+1. 9Round Kickboxing Fitness | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | 9Round Kickboxing Fitness is a martial arts school in McKinney, TX at 301 North Custer Road #120, McKinney, TX. Phone: +14696341510. Website: https://9round.com/. | https://registry-edge.dingalinged.workers.dev/c/9round-kickboxing-fitness-mckinney/
+2. Karate for Kids | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Karate for Kids is a martial arts school in McKinney, TX at 4610 Eldorado Parkway #500, McKinney, TX. Phone: +19725409515. | https://registry-edge.dingalinged.workers.dev/c/karate-for-kids-mckinney/
+3. Gracie Barre | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | Gracie Barre is a martial arts school in McKinney, TX at 7901 Eldorado Parkway #120, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/gracie-barre-mckinney/
+4. TaeKwonDo America | Organic #4 | Pulse Score 58/100 (Unrated, #4 in city) | TaeKwonDo America is a martial arts school in McKinney, TX at 3851 Stonebridge Drive #700, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/taekwondo-america-mckinney/
+5. CJJF Jiu-Jitsu | Organic #5 | Pulse Score 57.8/100 (Unrated, #5 in city) | CJJF Jiu-Jitsu is a martial arts school in McKinney, TX at 3801 Virginia Parkway #700, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/cjjf-jiu-jitsu-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts mckinney tx | category: Fitness | industry benchmark: Health & Fitness

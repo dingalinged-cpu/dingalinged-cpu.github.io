@@ -13,7 +13,7 @@ Visiting Angels Senior Home Care Dallas - Park Cities is an assisted living faci
 - Website: https://www.visitingangels.com/parkcities/home
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 3% of assisted living facilitys in Dallas–Fort Worth, #1 of 7 assisted living facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 92% of assisted living facilitys in Dallas–Fort Worth, #7 of 7 assisted living facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

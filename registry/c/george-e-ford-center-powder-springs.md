@@ -13,7 +13,7 @@ George E Ford Center is an event venue in Powder Springs, GA at 4181 Atlanta Str
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 70% of event venues in Atlanta, #1 of 1 event venues in Powder Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 44.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 70% of event venues in Atlanta, #1 of 1 event venues in Powder Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Garland, TX is Allure Nails (a nail salon in Garland, TX). 3 nail salon businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Garland, TX is Allure Nails (a nail salon in Garland, TX). 4 nail salon businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Garland, TX?
 
@@ -8,7 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Allure Nails | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Allure Nails is a nail salon in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/allure-nails-garland/
 2. My Nail Spa | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | My Nail Spa is a nail salon in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/my-nail-spa-garland/
-3. Lee Nails | Organic #3 | Pulse Score 46.9/100 (Building, #3 in city) | Lee Nails is a nail salon in Garland, TX at 5018 North Jupiter Road, Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/lee-nails-garland/
+3. Deluxe Nails & Spa | Organic #3 | Pulse Score 48.4/100 (Unrated, #3 in city) | Deluxe Nails & Spa is a nail salon in Garland, TX at 6505 Broadway Boulevard #B, Garland, TX. Phone: +19723037000. | https://registry-edge.dingalinged.workers.dev/c/deluxe-nails-and-spa-garland/
+4. Lee Nails | Organic #4 | Pulse Score 46.5/100 (Building, #4 in city) | Lee Nails is a nail salon in Garland, TX at 5018 North Jupiter Road, Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/lee-nails-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon garland tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -18,7 +19,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'nail salon': $0.61-$2.10 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: low (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 3
+- Registry businesses competing: 4
 - Equivalent Google Ads cost per month: ~$870 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

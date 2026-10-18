@@ -1,4 +1,4 @@
-The top unpaid bakery listing for the United States is Cinnaholic (a bakery in Atlanta, GA at 1230 Caroline Street Northeast #B110, Atlanta, GA 30307. Phone: +14043430805. Website: https://www.cinnaholic.com/). 1581 bakery businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for the United States is Cinnaholic (a bakery in Atlanta, GA at 1230 Caroline Street Northeast #B110, Atlanta, GA 30307. Phone: +14043430805. Website: https://www.cinnaholic.com/). 1863 bakery businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in the United States?
 
@@ -12,99 +12,114 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. Tropicups Vegan Bakery | Organic #4 | Pulse Score 65.8/100 (Good, #1 in city) | Tropicups Vegan Bakery is a bakery in Marietta, GA at 2525 Shallowford Road Northeast #100, Marietta, GA 30066. Phone: +14048682877. Website: https://tropicups.com/. | https://registry-edge.dingalinged.workers.dev/c/tropicups-vegan-bakery-marietta/
 5. Tasty Bakery Cafe | Organic #5 | Pulse Score 65.6/100 (Good, #1 in city) | Tasty Bakery Cafe is a bakery in Kennesaw, GA at 840 Ernest W. Barrett Parkway Northwest #356, Kennesaw, GA 30144. Phone: +16783989146. Website: https://tastybakerycafe.com/. | https://registry-edge.dingalinged.workers.dev/c/tasty-bakery-cafe-kennesaw/
 6. Crumb Crusher Cupcakes | Organic #6 | Pulse Score 65.2/100 (Good, #1 in city) | Crumb Crusher Cupcakes is a bakery in Oak Park, IL at 805 South Boulevard, Oak Park, IL 60302. Phone: +12512253482. Website: https://www.cclucakes.com/. | https://registry-edge.dingalinged.workers.dev/c/crumb-crusher-cupcakes-oak-park/
-7. Finally Vegan Macarons | Organic #7 | Pulse Score 65.1/100 (Good, #2 in city) | Finally Vegan Macarons is a bakery in Houston, TX at 4819 Blossom Street, Houston, TX 77007. Phone: +17133767608. Website: https://finallyveganmacarons.com/. | https://registry-edge.dingalinged.workers.dev/c/finally-vegan-macarons-houston/
-8. GiGi Treats | Organic #8 | Pulse Score 65/100 (Good, #1 in city) | GiGi Treats is a bakery in Eastpointe, MI at 16117 East 10 Mile Road, Eastpointe, MI 48021. Phone: +15863628420. Website: https://site-zhuczs6bb.godaddysites.com/. | https://registry-edge.dingalinged.workers.dev/c/gigi-treats-eastpointe/
-9. Sugarfoot’s Cupcakes | Organic #9 | Pulse Score 65/100 (Good, #1 in city) | Sugarfoot’s Cupcakes is a bakery in Spring, TX at 17711-B Kuykendahl Road, Spring, TX 77379. Phone: +18328562253. Website: https://www.sugarfootsdelivery.com/. | https://registry-edge.dingalinged.workers.dev/c/sugarfoot-s-cupcakes-spring/
-10. Allegro Bakery | Organic #10 | Pulse Score 65/100 (Good, #1 in city) | Allegro Bakery is a bakery in Pittsburgh, PA at 2034 Murray Avenue, Pittsburgh, PA 15217. Phone: +14124215623. Website: https://www.allegropgh.com/. | https://registry-edge.dingalinged.workers.dev/c/allegro-bakery-pittsburgh/
-11. Bogart's Doughnut Co. | Organic #11 | Pulse Score 65/100 (Good, #1 in city) | Bogart's Doughnut Co. is a bakery in Minneapolis, MN at 904 West 36th Street, Minneapolis, MN 55408. Phone: +16128861670. Website: https://www.bogartsdoughnutco.com/. | https://registry-edge.dingalinged.workers.dev/c/bogarts-doughnut-co-minneapolis/
-12. Lizzie The Baker | Organic #12 | Pulse Score 64.8/100 (Good, #1 in city) | Lizzie The Baker is a bakery in Cherokee County, GA at 204 Trickum Hills Lane, Cherokee County, GA. Phone: +14708155228. Website: https://www.lizziethebaker.com/. | https://registry-edge.dingalinged.workers.dev/c/lizzie-the-baker-cherokee-county/
-13. The Bundt Shoppe | Organic #13 | Pulse Score 64.8/100 (Good, #1 in city) | The Bundt Shoppe is a bakery in Greenwood Village, CO at 5910 South University Boulevard #C16, Greenwood Village, CO 80121. Phone: +13037984145. Website: https://wwe.thebundtshoppe.com/. | https://registry-edge.dingalinged.workers.dev/c/the-bundt-shoppe-greenwood-village/
-14. Dan the Baker | Organic #14 | Pulse Score 64.7/100 (Good, #1 in city) | Dan the Baker is a bakery in Columbus, OH at 1028 Ridge Street, Columbus, OH 43215. Phone: +16149289035. Website: https://dan-the-baker.com/. | https://registry-edge.dingalinged.workers.dev/c/dan-the-baker-columbus/
-15. The BonBonerie | Organic #15 | Pulse Score 64.6/100 (Good, #1 in city) | The BonBonerie is a bakery in Cincinnati, OH at 2030 Madison Road, Cincinnati, OH 45208. Phone: +15133213399. Website: https://www.bonbonerie.com/. | https://registry-edge.dingalinged.workers.dev/c/the-bonbonerie-cincinnati/
-16. Hilligoss Bakery | Organic #16 | Pulse Score 64.5/100 (Good, #1 in city) | Hilligoss Bakery is a bakery in Brownsburg, IN at 804 East Main Street, Brownsburg, IN 46112. Phone: +13178527451. Website: https://www.facebook.com/hilligossbakery/. | https://registry-edge.dingalinged.workers.dev/c/hilligoss-bakery-brownsburg/
-17. O&H Danish Bakery | Organic #17 | Pulse Score 64.5/100 (Good, #1 in city) | O&H Danish Bakery is a bakery in Mount Pleasant, WI at 5910 Washington Avenue, Mount Pleasant, WI. Phone: +12625047000. Website: https://www.ohdanishbakery.com/locations/danish-bakery/racine-wi. | https://registry-edge.dingalinged.workers.dev/c/o-and-h-danish-bakery-mount-pleasant/
-18. Levain Bakery | Organic #18 | Pulse Score 64.4/100 (Good, #1 in city) | Levain Bakery is a bakery in Chicago, IL at 840 West Randolph Street, Chicago, IL 60607. Phone: +13123000654. Website: https://levainbakery.com/pages/west-loop. | https://registry-edge.dingalinged.workers.dev/c/levain-bakery-chicago/
-19. Ali's Cookies | Organic #19 | Pulse Score 64.2/100 (Good, #2 in city) | Ali's Cookies is a bakery in Marietta, GA at 1255 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +17709718566. Website: https://www.shipacookie.com/. | https://registry-edge.dingalinged.workers.dev/c/alis-cookies-marietta/
-20. Heaven in a Jar Desserts | Organic #20 | Pulse Score 64.2/100 (Good, #1 in city) | Heaven in a Jar Desserts is a bakery in Sugar Land, TX at 3159 State Highway 6 South #B, Sugar Land, TX 77478. Phone: +18325327149. Website: https://www.heaveninajardesserts.com/. | https://registry-edge.dingalinged.workers.dev/c/heaven-in-a-jar-desserts-sugar-land/
-21. Magnolia Bakery | Organic #21 | Pulse Score 64.2/100 (Good, #2 in city) | Magnolia Bakery is a bakery in Chicago, IL at 108 North State Street, Chicago, IL 60602. Phone: +13123467777. Website: https://www.magnoliabakery.com/. | https://registry-edge.dingalinged.workers.dev/c/magnolia-bakery-chicago/
-22. Sucre | Organic #22 | Pulse Score 64.2/100 (Good, #1 in city) | Sucre is a bakery in Woodstock, GA at 8654 Main Street, Woodstock, GA 30188. Phone: +18774141708. Website: https://www.shopsucre.com/. | https://registry-edge.dingalinged.workers.dev/c/sucre-woodstock/
-23. Two Seven Two | Organic #23 | Pulse Score 64.2/100 (Good, #2 in city) | Two Seven Two is a bakery in Cincinnati, OH at 272 Ludlow Avenue, Cincinnati, OH 45220. Phone: +15138737777. Website: https://www.facebook.com/gaslightgourmetcookies/. | https://registry-edge.dingalinged.workers.dev/c/two-seven-two-cincinnati/
-24. Great Harvest Bakery | Organic #24 | Pulse Score 64.1/100 (Good, #1 in city) | Great Harvest Bakery is a bakery in Evanston, IL at 2126 Central Street, Evanston, IL 60201. Phone: +18478668609. Website: https://greatharvestevanston.com/. | https://registry-edge.dingalinged.workers.dev/c/great-harvest-bakery-evanston/
-25. Holly's Sweet Treats | Organic #25 | Pulse Score 64/100 (Good, #1 in city) | Holly's Sweet Treats is a bakery in Hutchinson, KS at 205 South Main Street, Hutchinson, KS. Phone: +16208889866. Website: https://www.hsthutch.com/. | https://registry-edge.dingalinged.workers.dev/c/hollys-sweet-treats-hutchinson/
-26. Made. by Lia | Organic #26 | Pulse Score 64/100 (Unrated, #1 in city) | Made. by Lia is a bakery in Florissant, MO at 610 Rue Saint Francois, Florissant, MO 63031. Phone: +13145512383. Website: https://www.madebylia.com/. | https://registry-edge.dingalinged.workers.dev/c/made-by-lia-florissant/
-27. Blooming Lotus Bakery | Organic #27 | Pulse Score 63.9/100 (Good, #1 in city) | Blooming Lotus Bakery is a bakery in Milwaukee, WI at 2215 East North Avenue, Milwaukee, WI 53202. Phone: +14142128010. Website: https://www.blbmke.com/. | https://registry-edge.dingalinged.workers.dev/c/blooming-lotus-bakery-milwaukee/
-28. Alliance Bakery | Organic #28 | Pulse Score 63.9/100 (Good, #3 in city) | Alliance Bakery is a bakery in Chicago, IL at 1736 West Division Street, Chicago, IL 60622. Phone: +17732780366. Website: https://www.alliancebakery.com/home/. | https://registry-edge.dingalinged.workers.dev/c/alliance-bakery-chicago/
-29. Mel-O-Glaze Bakery | Organic #29 | Pulse Score 63.9/100 (Unrated, #2 in city) | Mel-O-Glaze Bakery is a bakery in Minneapolis, MN at 4800 28th Avenue South, Minneapolis, MN 55417. Phone: +16127299316. Website: https://www.meloglazebakery.com/. | https://registry-edge.dingalinged.workers.dev/c/mel-o-glaze-bakery-minneapolis/
-30. BIRD bakery | Organic #30 | Pulse Score 63.9/100 (Unrated, #2 in city) | BIRD bakery is a bakery in Greenwood Village, CO at 8000 East Belleview Avenue #E20, Greenwood Village, CO 80111. Phone: +17203797951. Website: https://birdbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/bird-bakery-greenwood-village/
-31. Scratch KC - Wholesale Office | Organic #31 | Pulse Score 63.9/100 (Unrated, #1 in city) | Scratch KC - Wholesale Office is a bakery in North Kansas City, MO at 1250 Burlington Street, North Kansas City, MO 64116. Phone: +18168889186. Website: https://scratchkc.com/. | https://registry-edge.dingalinged.workers.dev/c/scratch-kc-wholesale-office-north-kansas-city/
-32. The Cake Bar | Organic #32 | Pulse Score 63.9/100 (Unrated, #1 in city) | The Cake Bar is a bakery in Denver, CO at 214 East 13th Avenue, Denver, CO 80203. Phone: +13035689752. Website: https://thecakebardenver.com/. | https://registry-edge.dingalinged.workers.dev/c/the-cake-bar-denver/
-33. Vito's Bakery | Organic #33 | Pulse Score 63.9/100 (Unrated, #1 in city) | Vito's Bakery is a bakery in Clinton Township, MI at 36578 Moravian Drive, Clinton Township, MI 48035. Phone: +15867910360. Website: https://vitosbakery.net/. | https://registry-edge.dingalinged.workers.dev/c/vitos-bakery-clinton-township/
-34. Mindy’s Bakery | Organic #34 | Pulse Score 63.8/100 (Good, #4 in city) | Mindy’s Bakery is a bakery in Chicago, IL at 1623 North Milwaukee Avenue, Chicago, IL 60647. Phone: +17734891747. Website: https://www.mindysbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/mindy-s-bakery-chicago/
-35. Anna's Donuts & Burritos | Organic #35 | Pulse Score 63.8/100 (Unrated, #3 in city) | Anna's Donuts & Burritos is a bakery in Greenwood Village, CO at 5999 South University Boulevard, Greenwood Village, CO 80121. Phone: +17209682293. Website: https://annasdonutsburritos.com/. | https://registry-edge.dingalinged.workers.dev/c/annas-donuts-and-burritos-greenwood-village/
-36. Brezel | Organic #36 | Pulse Score 63.8/100 (Unrated, #2 in city) | Brezel is a bakery in Columbus, OH at 59 Spruce Street, Columbus, OH 43215. Phone: +16145860523. Website: https://www.brezelpower.com/. | https://registry-edge.dingalinged.workers.dev/c/brezel-columbus/
-37. Gold 'N Oven | Organic #37 | Pulse Score 63.8/100 (Unrated, #1 in city) | Gold 'N Oven is a bakery in Sterling Heights, MI at 4104 15 Mile Road, Sterling Heights, MI 48310. Phone: +15869797300. Website: https://goldnoven.com/. | https://registry-edge.dingalinged.workers.dev/c/gold-n-oven-sterling-heights/
-38. Sweets of Inspiration | Organic #38 | Pulse Score 63.8/100 (Unrated, #1 in city) | Sweets of Inspiration is a bakery in Westminster, CO at 7305 Unit 180 Lowell Boulevard, Westminster, CO 80030. Phone: +17205426580. Website: https://sweetsofinspiration.com/. | https://registry-edge.dingalinged.workers.dev/c/sweets-of-inspiration-westminster/
-39. Madison Sourdough | Organic #39 | Pulse Score 63.7/100 (Good, #1 in city) | Madison Sourdough is a bakery in Madison, WI at 916 Williamson Street, Madison, WI 53703. Phone: +16084428009. Website: https://www.madisonsourdough.com/. | https://registry-edge.dingalinged.workers.dev/c/madison-sourdough-madison/
-40. Dulce Canela Handcrafted Churros And Ice Cream | Organic #40 | Pulse Score 63.6/100 (Good, #2 in city) | Dulce Canela Handcrafted Churros And Ice Cream is a bakery in Kennesaw, GA at 2730 Summers Street Northwest, Kennesaw, GA. Phone: +16785403577. Website: https://ww.dulcecanelachurros.com/. | https://registry-edge.dingalinged.workers.dev/c/dulce-canela-handcrafted-churros-and-ice-cream-kennesaw/
-41. Born2Bake | Organic #41 | Pulse Score 63.6/100 (Good, #1 in city) | Born2Bake is a bakery in Littleton, CO at 2540 West Main Street, Littleton, CO 80120. Phone: +13037946375. Website: https://www.born2bakebakery.com/. | https://registry-edge.dingalinged.workers.dev/c/born2bake-littleton/
-42. Canelle detroit | Organic #42 | Pulse Score 63.6/100 (Unrated, #1 in city) | Canelle detroit is a bakery in Detroit, MI at 45, Detroit, MI 48226. Phone: +13136949767. Website: https://www.cannelledetroit.com/. | https://registry-edge.dingalinged.workers.dev/c/canelle-detroit-detroit/
-43. Miller Bagel | Organic #43 | Pulse Score 63.6/100 (Unrated, #5 in city) | Miller Bagel is a bakery in Chicago, IL at 4655 North Lincoln Avenue, Chicago, IL 60625. Phone: +17736543610. Website: https://www.eatmillerbagel.com/. | https://registry-edge.dingalinged.workers.dev/c/miller-bagel-chicago/
-44. Sicilian Bakery | Organic #44 | Pulse Score 63.6/100 (Unrated, #6 in city) | Sicilian Bakery is a bakery in Chicago, IL at 4632 North Cumberland Avenue, Chicago, IL 60656. Phone: +17735892602. Website: https://sicilianbakeryinc.com/. | https://registry-edge.dingalinged.workers.dev/c/sicilian-bakery-chicago/
-45. Del Norte Bakery | Organic #45 | Pulse Score 63.5/100 (Good, #1 in city) | Del Norte Bakery is a bakery in Dallas, TX at 839 Singleton Boulevard #150, Dallas, TX. Phone: +12143304831. | https://registry-edge.dingalinged.workers.dev/c/del-norte-bakery-dallas/
-46. 9 Rabbits Bakery | Organic #46 | Pulse Score 63.5/100 (Unrated, #2 in city) | 9 Rabbits Bakery is a bakery in Dallas, TX at 2546 Royal Ln, Dallas, TX 75229. Phone: +19722434478. Website: https://www.9rabbitsbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/9-rabbits-bakery-dallas/
-47. Rose Valley Sweets | Organic #47 | Pulse Score 63.4/100 (Good, #1 in city) | Rose Valley Sweets is a bakery in Johns Creek, GA at 6000 Medlock Bridge Road #B100, Johns Creek, GA. Phone: +17706741340. Website: https://www.rosevalleysweets.com/. | https://registry-edge.dingalinged.workers.dev/c/rose-valley-sweets-johns-creek/
-48. Stella's Bakery | Organic #48 | Pulse Score 63.4/100 (Unrated, #2 in city) | Stella's Bakery is a bakery in Madison, WI at 2908 Syene Road, Madison, WI 53713. Phone: +16086632690. Website: https://stellasofmadison.com/. | https://registry-edge.dingalinged.workers.dev/c/stellas-bakery-madison/
-49. Galata Sweets | Organic #49 | Pulse Score 63.4/100 (Unrated, #2 in city) | Galata Sweets is a bakery in Sterling Heights, MI at 2079 15 Mile Road, Sterling Heights, MI 48310. Phone: +15862752827. Website: https://www.galatasweetsusa.com/. | https://registry-edge.dingalinged.workers.dev/c/galata-sweets-sterling-heights/
-50. Paris Pastry | Organic #50 | Pulse Score 63.4/100 (Unrated, #3 in city) | Paris Pastry is a bakery in Sterling Heights, MI at 4107 15 Mile Road, Sterling Heights, MI 48310. Phone: +15867227727. Website: https://parispastry.net/. | https://registry-edge.dingalinged.workers.dev/c/paris-pastry-sterling-heights/
+7. Rum Cakes Factory | Organic #7 | Pulse Score 65.2/100 (Good, #1 in city) | Rum Cakes Factory is a bakery in Plano, TX at 6101 Windhaven Parkway #140, Plano, TX 75093. Phone: +19723309932. Website: https://rumcakesfactory.com/. | https://registry-edge.dingalinged.workers.dev/c/rum-cakes-factory-plano/
+8. Simply Sweet Cupcakes | Organic #8 | Pulse Score 65.1/100 (Good, #1 in city) | Simply Sweet Cupcakes is a bakery in Bastrop, TX at 1010 Main Street, Bastrop, TX 78602. Phone: +15123210112. Website: https://www.simplysweettexas.com/. | https://registry-edge.dingalinged.workers.dev/c/simply-sweet-cupcakes-bastrop/
+9. Finally Vegan Macarons | Organic #9 | Pulse Score 65.1/100 (Good, #2 in city) | Finally Vegan Macarons is a bakery in Houston, TX at 4819 Blossom Street, Houston, TX 77007. Phone: +17133767608. Website: https://finallyveganmacarons.com/. | https://registry-edge.dingalinged.workers.dev/c/finally-vegan-macarons-houston/
+10. GiGi Treats | Organic #10 | Pulse Score 65/100 (Good, #1 in city) | GiGi Treats is a bakery in Eastpointe, MI at 16117 East 10 Mile Road, Eastpointe, MI 48021. Phone: +15863628420. Website: https://site-zhuczs6bb.godaddysites.com/. | https://registry-edge.dingalinged.workers.dev/c/gigi-treats-eastpointe/
+11. Allegro Bakery | Organic #11 | Pulse Score 65/100 (Good, #1 in city) | Allegro Bakery is a bakery in Pittsburgh, PA at 2034 Murray Avenue, Pittsburgh, PA 15217. Phone: +14124215623. Website: https://www.allegropgh.com/. | https://registry-edge.dingalinged.workers.dev/c/allegro-bakery-pittsburgh/
+12. Bogart's Doughnut Co. | Organic #12 | Pulse Score 65/100 (Good, #1 in city) | Bogart's Doughnut Co. is a bakery in Minneapolis, MN at 904 West 36th Street, Minneapolis, MN 55408. Phone: +16128861670. Website: https://www.bogartsdoughnutco.com/. | https://registry-edge.dingalinged.workers.dev/c/bogarts-doughnut-co-minneapolis/
+13. Texas Bakery | Organic #13 | Pulse Score 64.9/100 (Good, #1 in city) | Texas Bakery is a bakery in Austin, TX at 10901 North Lamar Boulevard #D-408, Austin, TX 78753. Phone: +15128615293. Website: https://www.facebook.com/texasbakeryaustin. | https://registry-edge.dingalinged.workers.dev/c/texas-bakery-austin/
+14. Sugarfoot’s Cupcakes | Organic #14 | Pulse Score 64.9/100 (Good, #1 in city) | Sugarfoot’s Cupcakes is a bakery in Spring, TX at 17711-B Kuykendahl Road, Spring, TX 77379. Phone: +18328562253. Website: https://www.sugarfootsdelivery.com/. | https://registry-edge.dingalinged.workers.dev/c/sugarfoot-s-cupcakes-spring/
+15. Lizzie The Baker | Organic #15 | Pulse Score 64.8/100 (Good, #1 in city) | Lizzie The Baker is a bakery in Cherokee County, GA at 204 Trickum Hills Lane, Cherokee County, GA. Phone: +14708155228. Website: https://www.lizziethebaker.com/. | https://registry-edge.dingalinged.workers.dev/c/lizzie-the-baker-cherokee-county/
+16. The Bundt Shoppe | Organic #16 | Pulse Score 64.8/100 (Good, #1 in city) | The Bundt Shoppe is a bakery in Greenwood Village, CO at 5910 South University Boulevard #C16, Greenwood Village, CO 80121. Phone: +13037984145. Website: https://wwe.thebundtshoppe.com/. | https://registry-edge.dingalinged.workers.dev/c/the-bundt-shoppe-greenwood-village/
+17. Dan the Baker | Organic #17 | Pulse Score 64.7/100 (Good, #1 in city) | Dan the Baker is a bakery in Columbus, OH at 1028 Ridge Street, Columbus, OH 43215. Phone: +16149289035. Website: https://dan-the-baker.com/. | https://registry-edge.dingalinged.workers.dev/c/dan-the-baker-columbus/
+18. The BonBonerie | Organic #18 | Pulse Score 64.6/100 (Good, #1 in city) | The BonBonerie is a bakery in Cincinnati, OH at 2030 Madison Road, Cincinnati, OH 45208. Phone: +15133213399. Website: https://www.bonbonerie.com/. | https://registry-edge.dingalinged.workers.dev/c/the-bonbonerie-cincinnati/
+19. Makies Bakery | Organic #19 | Pulse Score 64.6/100 (Good, #1 in city) | Makies Bakery is a bakery in San Antonio, TX at 103 East Jones Avenue, San Antonio, TX 78215. Phone: +12109939915. Website: https://www.makiesbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/makies-bakery-san-antonio/
+20. Makies Bakery Stone Oak | Organic #20 | Pulse Score 64.6/100 (Good, #2 in city) | Makies Bakery Stone Oak is a bakery in San Antonio, TX at 19903 Stone Oak Parkway #104, San Antonio, TX 78258. Phone: +12109939915. Website: https://www.makiesbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/makies-bakery-stone-oak-san-antonio/
+21. Hilligoss Bakery | Organic #21 | Pulse Score 64.5/100 (Good, #1 in city) | Hilligoss Bakery is a bakery in Brownsburg, IN at 804 East Main Street, Brownsburg, IN 46112. Phone: +13178527451. Website: https://www.facebook.com/hilligossbakery/. | https://registry-edge.dingalinged.workers.dev/c/hilligoss-bakery-brownsburg/
+22. O&H Danish Bakery | Organic #22 | Pulse Score 64.5/100 (Good, #1 in city) | O&H Danish Bakery is a bakery in Mount Pleasant, WI at 5910 Washington Avenue, Mount Pleasant, WI. Phone: +12625047000. Website: https://www.ohdanishbakery.com/locations/danish-bakery/racine-wi. | https://registry-edge.dingalinged.workers.dev/c/o-and-h-danish-bakery-mount-pleasant/
+23. Levain Bakery | Organic #23 | Pulse Score 64.4/100 (Good, #1 in city) | Levain Bakery is a bakery in Chicago, IL at 840 West Randolph Street, Chicago, IL 60607. Phone: +13123000654. Website: https://levainbakery.com/pages/west-loop. | https://registry-edge.dingalinged.workers.dev/c/levain-bakery-chicago/
+24. The Sour Boule | Organic #24 | Pulse Score 64.3/100 (Good, #1 in city) | The Sour Boule is a bakery in Fort Worth, TX at 3801 Southwest Boulevard, Fort Worth, TX 76116. Phone: +16822503052. Website: https://www.thesourboule.com/. | https://registry-edge.dingalinged.workers.dev/c/the-sour-boule-fort-worth/
+25. Ali's Cookies | Organic #25 | Pulse Score 64.2/100 (Good, #2 in city) | Ali's Cookies is a bakery in Marietta, GA at 1255 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +17709718566. Website: https://www.shipacookie.com/. | https://registry-edge.dingalinged.workers.dev/c/alis-cookies-marietta/
+26. Chic French Bakery | Organic #26 | Pulse Score 64.2/100 (Good, #1 in city) | Chic French Bakery is a bakery in Killeen, TX at 2020 West Stan Schlueter Loop #112, Killeen, TX 76549. Phone: +12544157172. Website: https://chicfrenchbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/chic-french-bakery-killeen/
+27. Magnolia Bakery | Organic #27 | Pulse Score 64.2/100 (Good, #2 in city) | Magnolia Bakery is a bakery in Chicago, IL at 108 North State Street, Chicago, IL 60602. Phone: +13123467777. Website: https://www.magnoliabakery.com/. | https://registry-edge.dingalinged.workers.dev/c/magnolia-bakery-chicago/
+28. Sucre | Organic #28 | Pulse Score 64.2/100 (Good, #1 in city) | Sucre is a bakery in Woodstock, GA at 8654 Main Street, Woodstock, GA 30188. Phone: +18774141708. Website: https://www.shopsucre.com/. | https://registry-edge.dingalinged.workers.dev/c/sucre-woodstock/
+29. Two Seven Two | Organic #29 | Pulse Score 64.2/100 (Good, #2 in city) | Two Seven Two is a bakery in Cincinnati, OH at 272 Ludlow Avenue, Cincinnati, OH 45220. Phone: +15138737777. Website: https://www.facebook.com/gaslightgourmetcookies/. | https://registry-edge.dingalinged.workers.dev/c/two-seven-two-cincinnati/
+30. Heaven in a Jar Desserts | Organic #30 | Pulse Score 64.1/100 (Good, #1 in city) | Heaven in a Jar Desserts is a bakery in Sugar Land, TX at 3159 State Highway 6 South #B, Sugar Land, TX 77478. Phone: +18325327149. Website: https://www.heaveninajardesserts.com/. | https://registry-edge.dingalinged.workers.dev/c/heaven-in-a-jar-desserts-sugar-land/
+31. Holly's Sweet Treats | Organic #31 | Pulse Score 64/100 (Good, #1 in city) | Holly's Sweet Treats is a bakery in Hutchinson, KS at 205 South Main Street, Hutchinson, KS. Phone: +16208889866. Website: https://www.hsthutch.com/. | https://registry-edge.dingalinged.workers.dev/c/hollys-sweet-treats-hutchinson/
+32. El Bolillo Bakery | Organic #32 | Pulse Score 64/100 (Unrated, #3 in city) | El Bolillo Bakery is a bakery in Houston, TX at 2517 Airline Drive, Houston, TX 77009. Phone: +17138618885. Website: https://www.elbolillo.com/. | https://registry-edge.dingalinged.workers.dev/c/el-bolillo-bakery-houston-w940952093/
+33. Made. by Lia | Organic #33 | Pulse Score 64/100 (Unrated, #1 in city) | Made. by Lia is a bakery in Florissant, MO at 610 Rue Saint Francois, Florissant, MO 63031. Phone: +13145512383. Website: https://www.madebylia.com/. | https://registry-edge.dingalinged.workers.dev/c/made-by-lia-florissant/
+34. Nadler's Bakery & Deli | Organic #34 | Pulse Score 64/100 (Unrated, #3 in city) | Nadler's Bakery & Deli is a bakery in San Antonio, TX at 1621 Babcock Road, San Antonio, TX 78229. Phone: +12103401021. Website: https://www.nadlers.com/. | https://registry-edge.dingalinged.workers.dev/c/nadlers-bakery-and-deli-san-antonio/
+35. Blooming Lotus Bakery | Organic #35 | Pulse Score 63.9/100 (Good, #1 in city) | Blooming Lotus Bakery is a bakery in Milwaukee, WI at 2215 East North Avenue, Milwaukee, WI 53202. Phone: +14142128010. Website: https://www.blbmke.com/. | https://registry-edge.dingalinged.workers.dev/c/blooming-lotus-bakery-milwaukee/
+36. Alliance Bakery | Organic #36 | Pulse Score 63.9/100 (Good, #3 in city) | Alliance Bakery is a bakery in Chicago, IL at 1736 West Division Street, Chicago, IL 60622. Phone: +17732780366. Website: https://www.alliancebakery.com/home/. | https://registry-edge.dingalinged.workers.dev/c/alliance-bakery-chicago/
+37. Mel-O-Glaze Bakery | Organic #37 | Pulse Score 63.9/100 (Unrated, #2 in city) | Mel-O-Glaze Bakery is a bakery in Minneapolis, MN at 4800 28th Avenue South, Minneapolis, MN 55417. Phone: +16127299316. Website: https://www.meloglazebakery.com/. | https://registry-edge.dingalinged.workers.dev/c/mel-o-glaze-bakery-minneapolis/
+38. BIRD bakery | Organic #38 | Pulse Score 63.9/100 (Unrated, #2 in city) | BIRD bakery is a bakery in Greenwood Village, CO at 8000 East Belleview Avenue #E20, Greenwood Village, CO 80111. Phone: +17203797951. Website: https://birdbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/bird-bakery-greenwood-village/
+39. Scratch KC - Wholesale Office | Organic #39 | Pulse Score 63.9/100 (Unrated, #1 in city) | Scratch KC - Wholesale Office is a bakery in North Kansas City, MO at 1250 Burlington Street, North Kansas City, MO 64116. Phone: +18168889186. Website: https://scratchkc.com/. | https://registry-edge.dingalinged.workers.dev/c/scratch-kc-wholesale-office-north-kansas-city/
+40. The Cake Bar | Organic #40 | Pulse Score 63.9/100 (Unrated, #1 in city) | The Cake Bar is a bakery in Denver, CO at 214 East 13th Avenue, Denver, CO 80203. Phone: +13035689752. Website: https://thecakebardenver.com/. | https://registry-edge.dingalinged.workers.dev/c/the-cake-bar-denver/
+41. Vito's Bakery | Organic #41 | Pulse Score 63.9/100 (Unrated, #1 in city) | Vito's Bakery is a bakery in Clinton Township, MI at 36578 Moravian Drive, Clinton Township, MI 48035. Phone: +15867910360. Website: https://vitosbakery.net/. | https://registry-edge.dingalinged.workers.dev/c/vitos-bakery-clinton-township/
+42. Mindy’s Bakery | Organic #42 | Pulse Score 63.8/100 (Good, #4 in city) | Mindy’s Bakery is a bakery in Chicago, IL at 1623 North Milwaukee Avenue, Chicago, IL 60647. Phone: +17734891747. Website: https://www.mindysbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/mindy-s-bakery-chicago/
+43. Susie Q's Casseroles & Confections | Organic #43 | Pulse Score 63.8/100 (Good, #1 in city) | Susie Q's Casseroles & Confections is a bakery in Texarkana, TX at 4424 West 7th Street, Texarkana, TX 75501. Phone: +19033062953. Website: https://www.facebook.com/Susie-Qs-Casseroles-Confections-108995911278582. | https://registry-edge.dingalinged.workers.dev/c/susie-qs-casseroles-and-confections-texarkana/
+44. Anna's Donuts & Burritos | Organic #44 | Pulse Score 63.8/100 (Unrated, #3 in city) | Anna's Donuts & Burritos is a bakery in Greenwood Village, CO at 5999 South University Boulevard, Greenwood Village, CO 80121. Phone: +17209682293. Website: https://annasdonutsburritos.com/. | https://registry-edge.dingalinged.workers.dev/c/annas-donuts-and-burritos-greenwood-village/
+45. Brezel | Organic #45 | Pulse Score 63.8/100 (Unrated, #2 in city) | Brezel is a bakery in Columbus, OH at 59 Spruce Street, Columbus, OH 43215. Phone: +16145860523. Website: https://www.brezelpower.com/. | https://registry-edge.dingalinged.workers.dev/c/brezel-columbus/
+46. Gold 'N Oven | Organic #46 | Pulse Score 63.8/100 (Unrated, #1 in city) | Gold 'N Oven is a bakery in Sterling Heights, MI at 4104 15 Mile Road, Sterling Heights, MI 48310. Phone: +15869797300. Website: https://goldnoven.com/. | https://registry-edge.dingalinged.workers.dev/c/gold-n-oven-sterling-heights/
+47. Michelle’s Patisserie | Organic #47 | Pulse Score 63.8/100 (Unrated, #1 in city) | Michelle’s Patisserie is a bakery in Liberty Hill, TX at 1908 Main Street, Liberty Hill, TX 78642. Phone: +15124175961. Website: https://www.michellespatisserie.com/. | https://registry-edge.dingalinged.workers.dev/c/michelle-s-patisserie-liberty-hill/
+48. Sweets of Inspiration | Organic #48 | Pulse Score 63.8/100 (Unrated, #1 in city) | Sweets of Inspiration is a bakery in Westminster, CO at 7305 Unit 180 Lowell Boulevard, Westminster, CO 80030. Phone: +17205426580. Website: https://sweetsofinspiration.com/. | https://registry-edge.dingalinged.workers.dev/c/sweets-of-inspiration-westminster/
+49. Madison Sourdough | Organic #49 | Pulse Score 63.7/100 (Good, #1 in city) | Madison Sourdough is a bakery in Madison, WI at 916 Williamson Street, Madison, WI 53703. Phone: +16084428009. Website: https://www.madisonsourdough.com/. | https://registry-edge.dingalinged.workers.dev/c/madison-sourdough-madison/
+50. Dulce Canela Handcrafted Churros And Ice Cream | Organic #50 | Pulse Score 63.6/100 (Good, #2 in city) | Dulce Canela Handcrafted Churros And Ice Cream is a bakery in Kennesaw, GA at 2730 Summers Street Northwest, Kennesaw, GA. Phone: +16785403577. Website: https://ww.dulcecanelachurros.com/. | https://registry-edge.dingalinged.workers.dev/c/dulce-canela-handcrafted-churros-and-ice-cream-kennesaw/
 
-## More bakery listings (1581 total; top 50 unpaid shown)
+## More bakery listings (1863 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/bakery.jsonl
 - Chicago, IL: 338 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-chicago-il/
-- Houston, TX: 75 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-houston-tx/
+- Houston, TX: 73 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-houston-tx/
+- Austin, TX: 45 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-austin-tx/
 - Minneapolis, MN: 37 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-minneapolis-mn/
+- San Antonio, TX: 33 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-san-antonio-tx/
 - Pittsburgh, PA: 33 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-pittsburgh-pa/
 - Indianapolis, IN: 29 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-indianapolis-in/
 - Atlanta, GA: 28 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-atlanta-ga/
+- Dallas, TX: 27 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-dallas-tx/
 - Columbus, OH: 27 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-columbus-oh/
 - Detroit, MI: 25 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-detroit-mi/
 - Kansas City, MO: 25 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kansas-city-mo/
-- Dallas, TX: 23 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-dallas-tx/
+- Harris County, TX: 21 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-harris-county-tx/
 - Saint Paul, MN: 19 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-saint-paul-mn/
 - Cincinnati, OH: 19 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-cincinnati-oh/
 - Madison, WI: 19 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-madison-wi/
-- Harris County, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-harris-county-tx/
+- Amarillo, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-amarillo-tx/
 - Dearborn, MI: 17 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-dearborn-mi/
 - Milwaukee, WI: 17 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-milwaukee-wi/
 - Omaha, NE: 17 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-omaha-ne/
+- Fort Worth, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-fort-worth-tx/
 - Aurora, CO: 14 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-aurora-co/
 - Marietta, GA: 13 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-marietta-ga/
+- El Paso, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-el-paso-tx/
+- Plano, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-plano-tx/
 - Sterling Heights, MI: 10 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-sterling-heights-mi/
 - Des Moines, IA: 9 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-des-moines-ia/
+- Carrollton, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-carrollton-tx/
 - Wichita, KS: 8 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wichita-ks/
 - Cobb County, GA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-cobb-county-ga/
+- Georgetown, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-georgetown-tx/
+- Grapevine, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-grapevine-tx/
+- Mckinney, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mckinney-tx/
 - Lawrence, KS: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lawrence-ks/
 - Overland Park, KS: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-overland-park-ks/
-- Grapevine, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-grapevine-tx/
-- Plano, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-plano-tx/
-- Carrollton, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-carrollton-tx/
 - Birmingham, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-birmingham-mi/
+- Richardson, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-richardson-tx/
+- Frisco, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-frisco-tx/
 - Evanston, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-evanston-il/
 - Naperville, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-naperville-il/
-- Richardson, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-richardson-tx/
-- Mckinney, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mckinney-tx/
 - Centennial, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-centennial-co/
 - Greenwood Village, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-greenwood-village-co/
 - Boulder, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-boulder-co/
 - Mason, OH: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mason-oh/
+- Fayetteville, AR: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-fayetteville-ar/
+- Laredo, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-laredo-tx/
 - Denton, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-denton-tx/
-- Frisco, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-frisco-tx/
 - Thornton, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-thornton-co/
 - Westminster, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-westminster-co/
 - Arvada, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-arvada-co/
 - Carmel, IN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-carmel-in/
 - Kennesaw, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kennesaw-ga/
 - Doraville, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-doraville-ga/
+- Little Rock, AR: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-little-rock-ar/
 - Racine, WI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-racine-wi/
+- Leander, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-leander-tx/
+- Bryan, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bryan-tx/
+- Mcallen, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mcallen-tx/
+- Pearland, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-pearland-tx/
+- Sugar Land, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-sugar-land-tx/
+- Irving, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-irving-tx/
 - Manhattan, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-manhattan-ks/
 - Topeka, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-topeka-ks/
 - Kansas City, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kansas-city-ks/
@@ -112,9 +127,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Saint Louis Park, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-saint-louis-park-mn/
 - Bloomington, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bloomington-mn/
 - Edina, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-edina-mn/
-- Pearland, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-pearland-tx/
-- Sugar Land, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-sugar-land-tx/
-- Irving, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-irving-tx/
 - Ferndale, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-ferndale-mi/
 - Livonia, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-livonia-mi/
 - Warren, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-warren-mi/
@@ -125,8 +137,26 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Columbia, MO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-columbia-mo/
 - Woodstock, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-woodstock-ga/
 - Tucker, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-tucker-ga/
+- Conway, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-conway-ar/
 - Wauwatosa, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wauwatosa-wi/
 - West Des Moines, IA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-west-des-moines-ia/
+- New Braunfels, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-new-braunfels-tx/
+- Lubbock, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lubbock-tx/
+- Mesquite, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mesquite-tx/
+- Lufkin, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lufkin-tx/
+- Alamo Heights, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-alamo-heights-tx/
+- Conroe, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-conroe-tx/
+- The Woodlands, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-the-woodlands-tx/
+- Abilene, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-abilene-tx/
+- Hurst, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hurst-tx/
+- Texarkana, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-texarkana-tx/
+- Midland, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-midland-tx/
+- Bee Cave, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bee-cave-tx/
+- Southlake, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-southlake-tx/
+- Bastrop, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bastrop-tx/
+- College Station, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-college-station-tx/
+- Eagle Pass, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-eagle-pass-tx/
+- Webster, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-webster-tx/
 - Shawnee, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-shawnee-ks/
 - Norridge, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-norridge-il/
 - Cicero, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-cicero-il/
@@ -142,10 +172,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Pine Township, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-pine-township-pa/
 - Bellevue, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bellevue-pa/
 - Ross Township, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-ross-township-pa/
-- Mesquite, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mesquite-tx/
-- The Woodlands, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-the-woodlands-tx/
-- Hurst, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hurst-tx/
-- Southlake, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-southlake-tx/
 - Rochester, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-rochester-mi/
 - West Bloomfield Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-west-bloomfield-township-mi/
 - Canton Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-canton-township-mi/
@@ -164,7 +190,36 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Florissant, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-florissant-mo/
 - Roswell, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-roswell-ga/
 - Alpharetta, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-alpharetta-ga/
+- Fort Smith, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-fort-smith-ar/
 - West Allis, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-west-allis-wi/
+- Kyle, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kyle-tx/
+- Murphy, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-murphy-tx/
+- Bedford, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bedford-tx/
+- Lewisville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lewisville-tx/
+- Weatherford, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-weatherford-tx/
+- Wylie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wylie-tx/
+- Hedwig Village, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hedwig-village-tx/
+- Burleson, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-burleson-tx/
+- San Marcos, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-san-marcos-tx/
+- Flower Mound, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-flower-mound-tx/
+- Arlington, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-arlington-tx/
+- Corsicana, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-corsicana-tx/
+- Pflugerville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-pflugerville-tx/
+- Forney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-forney-tx/
+- Humble, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-humble-tx/
+- Port Aransas, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-port-aransas-tx/
+- Seguin, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-seguin-tx/
+- Wichita Falls, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wichita-falls-tx/
+- Coppell, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-coppell-tx/
+- Corpus Christi, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-corpus-christi-tx/
+- Shenandoah, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-shenandoah-tx/
+- Taylor, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-taylor-tx/
+- Odessa, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-odessa-tx/
+- Beaumont, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-beaumont-tx/
+- Cleburne, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-cleburne-tx/
+- Grand Prairie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-grand-prairie-tx/
+- Travis County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-travis-county-tx/
+- Waco, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-waco-tx/
 - Olathe, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-olathe-ks/
 - Edwardsville, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-edwardsville-il/
 - Bridgeview, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bridgeview-il/
@@ -185,19 +240,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Charleroi, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-charleroi-pa/
 - Rostraver Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-rostraver-township-pa/
 - Cranberry Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-cranberry-township-pa/
-- Murphy, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-murphy-tx/
-- Bedford, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bedford-tx/
-- Lewisville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lewisville-tx/
-- Conroe, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-conroe-tx/
-- Wylie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wylie-tx/
-- Hedwig Village, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hedwig-village-tx/
-- Arlington, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-arlington-tx/
-- Forney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-forney-tx/
-- Humble, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-humble-tx/
-- Coppell, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-coppell-tx/
-- Shenandoah, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-shenandoah-tx/
-- Webster, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-webster-tx/
-- Grand Prairie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-grand-prairie-tx/
 - Southgate, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-southgate-mi/
 - Novi, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-novi-mi/
 - Troy, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-troy-mi/
@@ -225,11 +267,62 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Johns Creek, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-johns-creek-ga/
 - Sandy Springs, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-sandy-springs-ga/
 - Forsyth County, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-forsyth-county-ga/
+- Paragould, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-paragould-ar/
+- Russellville, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-russellville-ar/
+- Rogers, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-rogers-ar/
 - Shorewood Hills, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-shorewood-hills-wi/
 - Union Grove, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-union-grove-wi/
 - Verona, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-verona-wi/
 - Yorkville, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-yorkville-wi/
 - La Vista, NE: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-la-vista-ne/
+- Harlingen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-harlingen-tx/
+- Boerne, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-boerne-tx/
+- Farmersville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-farmersville-tx/
+- Tomball, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-tomball-tx/
+- Friendswood, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-friendswood-tx/
+- Del Rio, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-del-rio-tx/
+- Killeen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-killeen-tx/
+- Bellmead, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bellmead-tx/
+- Royse City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-royse-city-tx/
+- Northlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-northlake-tx/
+- Pottsboro, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-pottsboro-tx/
+- Cedar Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-cedar-park-tx/
+- Lake Jackson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lake-jackson-tx/
+- Castroville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-castroville-tx/
+- Tyler, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-tyler-tx/
+- University Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-university-park-tx/
+- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-allen-tx/
+- Ennis, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-ennis-tx/
+- Katy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-katy-tx/
+- Addison, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-addison-tx/
+- Kerrville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kerrville-tx/
+- Kaufman, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kaufman-tx/
+- Keller, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-keller-tx/
+- San Angelo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-san-angelo-tx/
+- Kirby, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kirby-tx/
+- Liberty Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-liberty-hill-tx/
+- Corinth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-corinth-tx/
+- Crandall, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-crandall-tx/
+- Southside Place, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-southside-place-tx/
+- Bellaire, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bellaire-tx/
+- La Porte, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-la-porte-tx/
+- Roanoke, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-roanoke-tx/
+- Lockhart, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lockhart-tx/
+- Nassau Bay, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-nassau-bay-tx/
+- Hays County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hays-county-tx/
+- Rockwall, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-rockwall-tx/
+- San Elizario, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-san-elizario-tx/
+- Euless, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-euless-tx/
+- Deer Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-deer-park-tx/
+- Stafford, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-stafford-tx/
+- Wake Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wake-village-tx/
+- Longview, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-longview-tx/
+- Victoria, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-victoria-tx/
+- Waxahachie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-waxahachie-tx/
+- Dripping Springs, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-dripping-springs-tx/
+- Argyle, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-argyle-tx/
+- Sherman, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-sherman-tx/
+- West University Place, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-west-university-place-tx/
 - Leawood, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-leawood-ks/
 - Salina, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-salina-ks/
 - Newton, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-newton-ks/
@@ -322,27 +415,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Elizabeth, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-elizabeth-pa/
 - Sewickley, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-sewickley-pa/
 - Middlesex Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-middlesex-township-pa/
-- Farmersville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-farmersville-tx/
-- Tomball, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-tomball-tx/
-- Flower Mound, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-flower-mound-tx/
-- Royse City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-royse-city-tx/
-- University Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-university-park-tx/
-- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-allen-tx/
-- Katy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-katy-tx/
-- Addison, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-addison-tx/
-- Kaufman, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kaufman-tx/
-- Corinth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-corinth-tx/
-- Crandall, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-crandall-tx/
-- Southside Place, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-southside-place-tx/
-- Bellaire, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bellaire-tx/
-- Roanoke, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-roanoke-tx/
-- Nassau Bay, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-nassau-bay-tx/
-- Rockwall, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-rockwall-tx/
-- Euless, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-euless-tx/
-- Deer Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-deer-park-tx/
-- Stafford, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-stafford-tx/
-- Argyle, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-argyle-tx/
-- West University Place, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-west-university-place-tx/
 - Riverview, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-riverview-mi/
 - Redford Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-redford-township-mi/
 - Wayne, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wayne-mi/
@@ -453,6 +525,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Stone Mountain, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-stone-mountain-ga/
 - Peachtree City, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-peachtree-city-ga/
 - Gwinnett County, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-gwinnett-county-ga/
+- Farmington, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-farmington-ar/
+- Texarkana, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-texarkana-ar/
+- North Little Rock, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-north-little-rock-ar/
+- Hot Springs, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hot-springs-ar/
+- Pine Bluff, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-pine-bluff-ar/
+- Jonesboro, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-jonesboro-ar/
 - South Milwaukee, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-south-milwaukee-wi/
 - Shorewood, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-shorewood-wi/
 - Greenfield, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-greenfield-wi/
@@ -491,7 +569,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $5.81, median $7.17, high $7.17 (Personal Services median CPC 2026 $7.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Personal Services median CPC 2025 $5.81 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1581
+- Registry businesses competing: 1863
 - Equivalent Google Ads cost per month: ~$120,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

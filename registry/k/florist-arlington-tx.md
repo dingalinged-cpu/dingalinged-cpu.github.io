@@ -6,7 +6,7 @@ Also answers: florist in Arlington, TX; florist near me (Arlington, TX); best fl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. In Bloom | Organic #1 | Pulse Score 41.9/100 (Unrated, #1 in city) | In Bloom is a florist in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/in-bloom-arlington/
+1. In Bloom | Organic #1 | Pulse Score 41.8/100 (Unrated, #1 in city) | In Bloom is a florist in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/in-bloom-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist arlington tx | category: Events & weddings | industry benchmark: Personal Services

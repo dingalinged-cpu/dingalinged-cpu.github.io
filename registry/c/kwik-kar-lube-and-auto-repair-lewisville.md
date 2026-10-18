@@ -13,12 +13,12 @@ Kwik Kar Lube & Auto Repair is an auto repair shop in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
-- Pulse Score: 61.4/100 — Good — top 9% of auto repair shops in Dallas–Fort Worth, #6 of 29 auto repair shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Good — top 10% of auto repair shops in Dallas–Fort Worth, #6 of 31 auto repair shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/kwik-kar-lube-and-auto-repair-lewisville/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kwik-kar-lube-and-auto-repair-lewisville.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13095114975 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13095114975 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

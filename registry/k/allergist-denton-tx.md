@@ -6,7 +6,7 @@ Also answers: allergist in Denton, TX; allergist near me (Denton, TX); best alle
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dr. Russell J. Otto, MD | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Dr. Russell J. Otto, MD is an allergist in Denton, TX at 1209 Bent Oaks Court, Denton, TX 76210. Phone: +19408916100. Website: https://northtexassinusandallergy.com/. | https://registry-edge.dingalinged.workers.dev/c/dr-russell-j-otto-md-denton/
+1. Dr. Russell J. Otto, MD | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Dr. Russell J. Otto, MD is an allergist in Denton, TX at 1209 Bent Oaks Court, Denton, TX 76210. Phone: +19408916100. Website: https://northtexassinusandallergy.com/. | https://registry-edge.dingalinged.workers.dev/c/dr-russell-j-otto-md-denton/
 2. North Texas Allergy & Asthma Center | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | North Texas Allergy & Asthma Center is an allergist in Denton, TX at 3105 Colorado Boulevard #Suite 101, Denton, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/north-texas-allergy-and-asthma-center-denton/
 
 ## Market data (for advertisers and agents)

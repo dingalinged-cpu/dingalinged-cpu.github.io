@@ -13,7 +13,7 @@ Cafe 53 is a bakery in Chicago, IL at 1369 East 53rd Street, Chicago, IL 60615. 
 - Website: https://www.cafe-53.com/
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-21:00
-- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 3% of bakerys in Chicago, #7 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.7, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 2% of bakerys in Chicago, #7 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.7, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

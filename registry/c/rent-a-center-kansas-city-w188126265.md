@@ -13,7 +13,7 @@ Rent-A-Center is a furniture store in Kansas City, MO at 3012 Prospect Avenue, K
 - Website: https://www.rentacenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 72% of furniture stores in Kansas City, MO, #26 of 35 furniture stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 72% of furniture stores in Kansas City, MO, #26 of 35 furniture stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

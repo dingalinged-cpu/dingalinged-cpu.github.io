@@ -13,7 +13,7 @@ France Nails & Spa is a nail salon in Minneapolis, MN at 5053 France Avenue Sout
 - Website: https://www.francenailsandspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-19:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 17% of nail salons in Minneapolis–St. Paul, #3 of 24 nail salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 16% of nail salons in Minneapolis–St. Paul, #3 of 24 nail salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,12 +13,12 @@ Bakers Safe Lock Company is a locksmith in Houston, TX at 5612 Fondren Road, Hou
 - Website: https://bakers.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.1/100 — Good — top 7% of locksmiths in Houston, #1 of 11 locksmiths in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 7% of locksmiths in Houston, #1 of 11 locksmiths in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/bakers-safe-lock-company-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bakers-safe-lock-company-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1415536695 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1415536695 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

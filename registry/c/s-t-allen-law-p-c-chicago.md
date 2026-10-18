@@ -13,7 +13,7 @@ S.T. Allen Law P.C. is a lawyer in Chicago, IL. Phone: +17089600113. Website: ht
 - Website: https://attorneyshaytallen.com/
 - Email: sallen@attorneyshaytallen.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60.6/100 — Good — top 21% of lawyers in Chicago, #17 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Good — top 21% of lawyers in Chicago, #17 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

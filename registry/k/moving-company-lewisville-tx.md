@@ -6,7 +6,7 @@ Also answers: moving company in Lewisville, TX; moving company near me (Lewisvil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Black Tie Moving | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Black Tie Moving is a moving company in Lewisville, TX at 1165 South Stemmons Freeway #154, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/black-tie-moving-lewisville/
+1. Black Tie Moving | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Black Tie Moving is a moving company in Lewisville, TX at 1165 South Stemmons Freeway #154, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/black-tie-moving-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company lewisville tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

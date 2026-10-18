@@ -13,7 +13,7 @@ LINC at Gray's Station is a property management company in Des Moines, IA at 210
 - Website: https://lincatgraysstation.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30; Sa 10:00-16:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 20% of property management companys in Des Moines, IA, #1 of 2 property management companys in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 20% of property management companys in Des Moines, IA, #1 of 2 property management companys in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

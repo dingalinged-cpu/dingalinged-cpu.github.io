@@ -13,7 +13,7 @@ Celestial Day Spa is a spa in Village of Germantown, WI at W156N11044 Pilgrim Ro
 - Website: https://www.celestialdayspas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Fair — top 38% of spas in Milwaukee, #1 of 1 spas in Village of Germantown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Fair — top 38% of spas in Milwaukee, #1 of 1 spas in Village of Germantown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

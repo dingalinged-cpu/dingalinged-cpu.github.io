@@ -13,7 +13,7 @@ Gulfeagle Supply is a roofer in Minneapolis, MN at 900 Glenwood Avenue, Minneapo
 - Website: https://www.gulfeaglesupply.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 62% of roofers in Minneapolis–St. Paul, #3 of 4 roofers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 62% of roofers in Minneapolis–St. Paul, #3 of 4 roofers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 44.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

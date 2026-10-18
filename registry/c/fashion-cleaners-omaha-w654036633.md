@@ -13,7 +13,7 @@ Fashion Cleaners is a dry cleaner in Omaha, NE at 3031 Leavenworth Street, Omaha
 - Website: https://www.fashioncleaners.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30, Sa 08:00-14:00
-- Pulse Score: 50.8/100 — Unrated (not enough evidence yet) — top 39% of dry cleaners in Omaha, NE, #4 of 11 dry cleaners in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.3, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Unrated (not enough evidence yet) — top 39% of dry cleaners in Omaha, NE, #4 of 11 dry cleaners in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.9, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

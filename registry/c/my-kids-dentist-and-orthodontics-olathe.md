@@ -13,7 +13,7 @@ My Kid's Dentist & Orthodontics is a dentist in Olathe, KS at 2180 West Dartmout
 - Website: https://www.mykidsdentistolathewest.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 93% of dentists in Kansas City, MO, #15 of 15 dentists in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 93% of dentists in Kansas City, MO, #15 of 15 dentists in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,8 +7,8 @@ Also answers: event venues in Tomball, TX; event venues near me (Tomball, TX); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. 4 Corners Conference Center | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | 4 Corners Conference Center is an event venue in Tomball, TX at 130 Agg Road, Tomball, TX 77375. Phone: +12817897500. Website: https://joanhunter.org/. | https://registry-edge.dingalinged.workers.dev/c/4-corners-conference-center-tomball/
-2. Keep it Simple & Pink Events | Organic #2 | Pulse Score 62/100 (Unrated, #2 in city) | Keep it Simple & Pink Events is an event venue in Tomball, TX at 103 West Main Street, Tomball, TX 77375. Phone: +13463510538. | https://registry-edge.dingalinged.workers.dev/c/keep-it-simple-and-pink-events-tomball/
-3. Graze + Gather | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Graze + Gather is an event venue in Tomball, TX at 103 Houston Street, Tomball, TX 77375. | https://registry-edge.dingalinged.workers.dev/c/graze-gather-tomball/
+2. Keep it Simple & Pink Events | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Keep it Simple & Pink Events is an event venue in Tomball, TX at 103 West Main Street, Tomball, TX 77375. Phone: +13463510538. | https://registry-edge.dingalinged.workers.dev/c/keep-it-simple-and-pink-events-tomball/
+3. Graze + Gather | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Graze + Gather is an event venue in Tomball, TX at 103 Houston Street, Tomball, TX 77375. | https://registry-edge.dingalinged.workers.dev/c/graze-gather-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues tomball tx | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ Express Oil Change & Tire Engineers is a tire shop in Smyrna, GA at 3426 South C
 - Website: https://www.expressoil.com/stores/smyrna/ga/0508/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00;Sa 08:00-17:00
-- Pulse Score: 48.6/100 — Building — top 56% of tire shops in Atlanta, #3 of 5 tire shops in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 55% of tire shops in Atlanta, #3 of 5 tire shops in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

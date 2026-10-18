@@ -7,8 +7,8 @@ Also answers: gym in Trophy Club, TX; gym near me (Trophy Club, TX); best gym Tr
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Envision Complete Fitness | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Envision Complete Fitness is a gym in Trophy Club, TX at 501 Trophy Lake Drive #326, Trophy Club, TX 76262. Phone: +18174905015. Website: https://performantfitness.com/. | https://registry-edge.dingalinged.workers.dev/c/envision-complete-fitness-trophy-club/
-2. 3Volt Fitness | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | 3Volt Fitness is a gym in Trophy Club, TX. | https://registry-edge.dingalinged.workers.dev/c/3volt-fitness-trophy-club/
-3. 9round | Organic #3 | Pulse Score 49.5/100 (Building, #3 in city) | 9round is a gym in Trophy Club, TX at 2550 Bobcat Boulevard, Trophy Club, TX 76262. Phone: +19729719759. Website: https://www.9round.com/fitness/Trophy-Club-TX-x2940. | https://registry-edge.dingalinged.workers.dev/c/9round-trophy-club/
+2. 3Volt Fitness | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | 3Volt Fitness is a gym in Trophy Club, TX. | https://registry-edge.dingalinged.workers.dev/c/3volt-fitness-trophy-club/
+3. 9round | Organic #3 | Pulse Score 49.4/100 (Building, #3 in city) | 9round is a gym in Trophy Club, TX at 2550 Bobcat Boulevard, Trophy Club, TX 76262. Phone: +19729719759. Website: https://www.9round.com/fitness/Trophy-Club-TX-x2940. | https://registry-edge.dingalinged.workers.dev/c/9round-trophy-club/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym trophy club tx | category: Fitness | industry benchmark: Health & Fitness

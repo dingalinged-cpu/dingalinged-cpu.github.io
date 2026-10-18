@@ -6,7 +6,7 @@ Also answers: bakery in Coweta County, GA; bakery near me (Coweta County, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crumbl Cookies | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Crumbl Cookies is a bakery in Coweta County, GA. | https://registry-edge.dingalinged.workers.dev/c/crumbl-cookies-coweta-county/
+1. Crumbl Cookies | Organic #1 | Pulse Score 41.5/100 (Unrated, #1 in city) | Crumbl Cookies is a bakery in Coweta County, GA. | https://registry-edge.dingalinged.workers.dev/c/crumbl-cookies-coweta-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery coweta county ga | category: Events & weddings | industry benchmark: Personal Services

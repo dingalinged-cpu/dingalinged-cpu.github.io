@@ -13,7 +13,7 @@ The Lock Up is a self-storage facility in Norridge, IL at 7300 West Montrose Ave
 - Website: https://www.thelockup.com/self-storage-norridge-illinois
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.3/100 — Building — top 25% of self-storage facilitys in Chicago, #1 of 1 self-storage facilitys in Norridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 25% of self-storage facilitys in Chicago, #1 of 1 self-storage facilitys in Norridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

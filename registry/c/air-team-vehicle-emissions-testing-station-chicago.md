@@ -13,7 +13,7 @@ Air Team Vehicle Emissions Testing Station is a vehicle inspection station in Ch
 - Website: https://www.ilairteam.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00 ; Sa 07:30-13:00 ; Su off ; PH off
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 15% of vehicle inspection stations in Chicago, #1 of 3 vehicle inspection stations in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 29% of vehicle inspection stations in Chicago, #1 of 3 vehicle inspection stations in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

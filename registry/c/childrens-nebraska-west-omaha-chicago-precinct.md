@@ -13,7 +13,7 @@ Children's Nebraska - West Omaha is a pediatrician in Chicago Precinct, NE at 20
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53/100 — Unrated (not enough evidence yet) — top 100% of pediatricians in Omaha, NE, #1 of 1 pediatricians in Chicago Precinct (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.9/100 — Unrated (not enough evidence yet) — top 100% of pediatricians in Omaha, NE, #1 of 1 pediatricians in Chicago Precinct (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 43.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

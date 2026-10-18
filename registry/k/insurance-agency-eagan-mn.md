@@ -7,8 +7,8 @@ Also answers: insurance agency in Eagan, MN; insurance agency near me (Eagan, MN
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Farmers Insurance | Organic #1 | Pulse Score 49.1/100 (Building, #1 in city) | Farmers Insurance is an insurance agent in Eagan, MN at 1434 Yankee Doodle Road, Eagan, MN 55121. Phone: +16513719191. Website: https://agents.farmers.com/mn/eagan/andrew-schmitz/. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-eagan/
-2. Farm Bureau Financial Services | Organic #2 | Pulse Score 42.8/100 (Building, #2 in city) | Farm Bureau Financial Services is an insurance agent in Eagan, MN at 3410 Federal Drive, Eagan, MN. | https://registry-edge.dingalinged.workers.dev/c/farm-bureau-financial-services-eagan/
-3. State Farm | Organic #3 | Pulse Score 42.8/100 (Building, #3 in city) | State Farm is an insurance agent in Eagan, MN at 3410 Federal Drive, Eagan, MN. | https://registry-edge.dingalinged.workers.dev/c/state-farm-eagan/
+2. Farm Bureau Financial Services | Organic #2 | Pulse Score 42.7/100 (Building, #2 in city) | Farm Bureau Financial Services is an insurance agent in Eagan, MN at 3410 Federal Drive, Eagan, MN. | https://registry-edge.dingalinged.workers.dev/c/farm-bureau-financial-services-eagan/
+3. State Farm | Organic #3 | Pulse Score 42.7/100 (Building, #3 in city) | State Farm is an insurance agent in Eagan, MN at 3410 Federal Drive, Eagan, MN. | https://registry-edge.dingalinged.workers.dev/c/state-farm-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency eagan mn | category: insurance | industry benchmark: Finance & Insurance

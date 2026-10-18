@@ -13,7 +13,7 @@ LV's Barber Shop is a barber shop in Minneapolis, MN at 2518 Northeast Central A
 - Website: https://lvsbarbershop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 10:00-17:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 28% of barber shops in Minneapolis–St. Paul, #6 of 21 barber shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 28% of barber shops in Minneapolis–St. Paul, #6 of 21 barber shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

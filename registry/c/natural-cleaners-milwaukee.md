@@ -13,7 +13,7 @@ Natural Cleaners is a dry cleaner in Milwaukee, WI at 411 East Buffalo Street, M
 - Website: https://naturalcleaners.com/
 - Email: info@naturalcleaners.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-17:00
-- Pulse Score: 53.8/100 — Fair — top 64% of dry cleaners in Milwaukee, #13 of 16 dry cleaners in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.8, Trust 68.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.8/100 — Fair — top 61% of dry cleaners in Milwaukee, #13 of 16 dry cleaners in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.8, Trust 68.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

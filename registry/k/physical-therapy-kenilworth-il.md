@@ -6,7 +6,7 @@ Also answers: physical therapy in Kenilworth, IL; physical therapy near me (Keni
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Athletico Physical Therapy | Organic #1 | Pulse Score 44.7/100 (Building, #1 in city) | Athletico Physical Therapy is a physical therapy clinic in Kenilworth, IL at 554 Green Bay Road, Kenilworth, IL 60043. | https://registry-edge.dingalinged.workers.dev/c/athletico-physical-therapy-kenilworth/
+1. Athletico Physical Therapy | Organic #1 | Pulse Score 44.6/100 (Building, #1 in city) | Athletico Physical Therapy is a physical therapy clinic in Kenilworth, IL at 554 Green Bay Road, Kenilworth, IL 60043. | https://registry-edge.dingalinged.workers.dev/c/athletico-physical-therapy-kenilworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy kenilworth il | category: Health & medical | industry benchmark: Physicians & Surgeons

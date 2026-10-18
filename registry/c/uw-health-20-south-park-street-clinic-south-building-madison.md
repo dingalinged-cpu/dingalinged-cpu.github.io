@@ -13,7 +13,7 @@ UW Health 20 South Park Street Clinic South Building is an OB-GYN practice in Ma
 - Website: https://www.uwhealth.org/locations/20-s-park-clinic-2
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 34% of OB-GYN practices in Madison, #1 of 3 OB-GYN practices in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 34% of OB-GYN practices in Madison, #1 of 3 OB-GYN practices in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

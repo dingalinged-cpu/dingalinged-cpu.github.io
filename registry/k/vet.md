@@ -1,4 +1,4 @@
-The top unpaid vet listing for the United States is Hampton Animal Hospital (a veterinarian in Saint Louis, MO at 2826 Hampton Avenue, Saint Louis, MO 63139. Phone: +13146478818. Website: https://hamptonanimal.com/). 1491 vet businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for the United States is Hampton Animal Hospital (a veterinarian in Saint Louis, MO at 2826 Hampton Avenue, Saint Louis, MO 63139. Phone: +13146478818. Website: https://hamptonanimal.com/). 1894 vet businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in the United States?
 
@@ -8,101 +8,115 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Hampton Animal Hospital | Organic #1 | Pulse Score 66.2/100 (Good, #1 in city) | Hampton Animal Hospital is a veterinarian in Saint Louis, MO at 2826 Hampton Avenue, Saint Louis, MO 63139. Phone: +13146478818. Website: https://hamptonanimal.com/. | https://registry-edge.dingalinged.workers.dev/c/hampton-animal-hospital-saint-louis/
 2. Pet Resource Center of Kansas City | Organic #2 | Pulse Score 65/100 (Good, #1 in city) | Pet Resource Center of Kansas City is a veterinarian in Kansas City, MO at 1116 East 59th Street, Kansas City, MO 64110. Phone: +18163530940. Website: https://prckc.org/. | https://registry-edge.dingalinged.workers.dev/c/pet-resource-center-of-kansas-city-kansas-city/
-3. VCA Terrell Mill Animal Hospital | Organic #3 | Pulse Score 64.1/100 (Good, #1 in city) | VCA Terrell Mill Animal Hospital is a veterinarian in Marietta, GA at 1315 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +17709529300. Website: https://www.vcahospitals.com/terrell-mill. | https://registry-edge.dingalinged.workers.dev/c/vca-terrell-mill-animal-hospital-marietta/
-4. Veterinarians.org | Organic #4 | Pulse Score 64.1/100 (Good, #1 in city) | Veterinarians.org is a veterinarian in League City, TX at 2600 South Shore Boulevard #302, League City, TX 77573. Phone: +18444780303. Website: https://www.veterinarians.org/. | https://registry-edge.dingalinged.workers.dev/c/veterinarians-org-league-city/
-5. Four Seasons Animal Hospital | Organic #5 | Pulse Score 64.1/100 (Good, #1 in city) | Four Seasons Animal Hospital is a veterinarian in Spring, TX at 3730 FM 2920 #110, Spring, TX 77388. Phone: +12818254994. Website: https://vcahospitals.com/four-seasons. | https://registry-edge.dingalinged.workers.dev/c/four-seasons-animal-hospital-spring/
-6. Small Animal Hospital | Organic #6 | Pulse Score 64/100 (Good, #1 in city) | Small Animal Hospital is a veterinarian in Milwaukee, WI. Phone: +14142760701. Website: https://www.smallanimalhospitalllc.com/. | https://registry-edge.dingalinged.workers.dev/c/small-animal-hospital-milwaukee/
-7. Hearthstone Animal Clinic | Organic #7 | Pulse Score 64/100 (Good, #1 in city) | Hearthstone Animal Clinic is a veterinarian in Houston, TX at 14606 Spencer Road, Houston, TX 77095. Phone: +12818599244. Website: https://hearthstonevet.com/. | https://registry-edge.dingalinged.workers.dev/c/hearthstone-animal-clinic-houston/
-8. Lewisville Animal Hospital | Organic #8 | Pulse Score 64/100 (Good, #1 in city) | Lewisville Animal Hospital is a veterinarian in Lewisville, TX at 890 Bellaire Boulevard, Lewisville, TX 75067. Phone: +19724366518. Website: https://www.lewisvillevet.com/. | https://registry-edge.dingalinged.workers.dev/c/lewisville-animal-hospital-lewisville/
+3. Vetsavers Pet Hospital | Organic #3 | Pulse Score 64.8/100 (Good, #1 in city) | Vetsavers Pet Hospital is a veterinarian in Carrollton, TX at 1025 West Hebron Parkway #137, Carrollton, TX 75010. Phone: +19729390900. Website: https://vetsaverscarrollton.com/. | https://registry-edge.dingalinged.workers.dev/c/vetsavers-pet-hospital-carrollton/
+4. VCA Terrell Mill Animal Hospital | Organic #4 | Pulse Score 64.1/100 (Good, #1 in city) | VCA Terrell Mill Animal Hospital is a veterinarian in Marietta, GA at 1315 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +17709529300. Website: https://www.vcahospitals.com/terrell-mill. | https://registry-edge.dingalinged.workers.dev/c/vca-terrell-mill-animal-hospital-marietta/
+5. Veterinarians.org | Organic #5 | Pulse Score 64.1/100 (Good, #1 in city) | Veterinarians.org is a veterinarian in League City, TX at 2600 South Shore Boulevard #302, League City, TX 77573. Phone: +18444780303. Website: https://www.veterinarians.org/. | https://registry-edge.dingalinged.workers.dev/c/veterinarians-org-league-city/
+6. Nolan River Animal Hospital | Organic #6 | Pulse Score 64.1/100 (Good, #1 in city) | Nolan River Animal Hospital is a veterinarian in Cleburne, TX at 893 North Nolan River Road #A, Cleburne, TX 76033. Phone: +18175586724. Website: https://www.nranimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/nolan-river-animal-hospital-cleburne/
+7. Four Seasons Animal Hospital | Organic #7 | Pulse Score 64.1/100 (Good, #1 in city) | Four Seasons Animal Hospital is a veterinarian in Spring, TX at 3730 FM 2920 #110, Spring, TX 77388. Phone: +12818254994. Website: https://vcahospitals.com/four-seasons. | https://registry-edge.dingalinged.workers.dev/c/four-seasons-animal-hospital-spring/
+8. Hearthstone Animal Clinic | Organic #8 | Pulse Score 64/100 (Good, #1 in city) | Hearthstone Animal Clinic is a veterinarian in Houston, TX at 14606 Spencer Road, Houston, TX 77095. Phone: +12818599244. Website: https://hearthstonevet.com/. | https://registry-edge.dingalinged.workers.dev/c/hearthstone-animal-clinic-houston/
 9. East End Veterinary Medical Centre | Organic #9 | Pulse Score 64/100 (Unrated, #1 in city) | East End Veterinary Medical Centre is a veterinarian in Pittsburgh, PA at 5875 Ellsworth Avenue, Pittsburgh, PA 15232. Phone: +14123615000. Website: https://eevmc.com/. | https://registry-edge.dingalinged.workers.dev/c/east-end-veterinary-medical-centre-pittsburgh/
 10. Sploot Veterinary Care - Logan Square | Organic #10 | Pulse Score 64/100 (Unrated, #1 in city) | Sploot Veterinary Care - Logan Square is a veterinarian in Chicago, IL at 2510 North Milwaukee Avenue, Chicago, IL 60647. Phone: +13127790720. Website: https://www.splootvets.com/locations/chicago/logan-square. | https://registry-edge.dingalinged.workers.dev/c/sploot-veterinary-care-logan-square-chicago/
 11. Sploot Veterinary Care - RiNo | Organic #11 | Pulse Score 64/100 (Unrated, #1 in city) | Sploot Veterinary Care - RiNo is a veterinarian in Denver, CO at 3767 Downing Street, Denver, CO 80205. Phone: +17207308861. Website: https://www.splootvets.com/locations/denver/rino. | https://registry-edge.dingalinged.workers.dev/c/sploot-veterinary-care-rino-denver/
 12. Westgate Pet Clinic | Organic #12 | Pulse Score 64/100 (Unrated, #1 in city) | Westgate Pet Clinic is a veterinarian in Minneapolis, MN at 4345 France Avenue South, Minneapolis, MN 55410. Phone: +16129251121. Website: https://wagsandwhiskers.com/. | https://registry-edge.dingalinged.workers.dev/c/westgate-pet-clinic-minneapolis/
-13. Tender Touch Veterinary Hospital | Organic #13 | Pulse Score 63.9/100 (Good, #1 in city) | Tender Touch Veterinary Hospital is a veterinarian in Pine Township, PA at 151 Wexford Bayne Road, Pine Township, PA. Phone: +17249337387. Website: https://tendertouchvethosp.org/. | https://registry-edge.dingalinged.workers.dev/c/tender-touch-veterinary-hospital-pine-township/
-14. Metropolitan Veterinary Center | Organic #14 | Pulse Score 63.9/100 (Unrated, #1 in city) | Metropolitan Veterinary Center is a veterinarian in Sterling Heights, MI at 36759 Mound Road, Sterling Heights, MI 48310. Phone: +15867265200. Website: https://metropolitanvetcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/metropolitan-veterinary-center-sterling-heights/
-15. Sploot Veterinary Care - Platt Park | Organic #15 | Pulse Score 63.9/100 (Unrated, #2 in city) | Sploot Veterinary Care - Platt Park is a veterinarian in Denver, CO at 1165 South Broadway, Denver, CO 80210. Phone: +17207308818. Website: https://www.splootvets.com/locations/denver/platt-park. | https://registry-edge.dingalinged.workers.dev/c/sploot-veterinary-care-platt-park-denver/
-16. Miller Mobile Veterinary Services & Animal Hospital | Organic #16 | Pulse Score 63.8/100 (Good, #2 in city) | Miller Mobile Veterinary Services & Animal Hospital is a veterinarian in Marietta, GA at 2100 Roswell Road #1100, Marietta, GA 30062. Phone: +14045385448. Website: https://www.millermobilevet.com/. | https://registry-edge.dingalinged.workers.dev/c/miller-mobile-veterinary-services-and-animal-hospital-marietta/
-17. Paws Whiskers & Claws | Organic #17 | Pulse Score 63.8/100 (Good, #1 in city) | Paws Whiskers & Claws is a veterinarian in Cobb County, GA at 4719 Lower Roswell Road Northeast #220, Cobb County, GA. Phone: +17705796001. Website: https://pawswhiskersandclaws.com/. | https://registry-edge.dingalinged.workers.dev/c/paws-whiskers-and-claws-cobb-county/
-18. Family Pet Clinic | Organic #18 | Pulse Score 63.8/100 (Unrated, #1 in city) | Family Pet Clinic is a veterinarian in North Richland Hills, TX at 6724 Mid Cities Boulevard, North Richland Hills, TX 76148. Phone: +18177882525. Website: https://www.fpcnorthrichlandvet.com/. | https://registry-edge.dingalinged.workers.dev/c/family-pet-clinic-north-richland-hills/
-19. Hoover Road Animal Hospital | Organic #19 | Pulse Score 63.8/100 (Unrated, #1 in city) | Hoover Road Animal Hospital is a veterinarian in Warren, MI at 31170 Hoover Road, Warren, MI 48093. Phone: +15867953500. Website: https://hrahvets.wixsite.com/hooverrdanimalhosp. | https://registry-edge.dingalinged.workers.dev/c/hoover-road-animal-hospital-warren/
-20. Lake Lavon Animal Hospital | Organic #20 | Pulse Score 63.8/100 (Unrated, #1 in city) | Lake Lavon Animal Hospital is a veterinarian in Wylie, TX at 456 North Country Club Road #110, Wylie, TX 75098. Phone: +19724297901. Website: https://www.lakelavonanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/lake-lavon-animal-hospital-wylie/
-21. Sheppard Alternative Animal Care | Organic #21 | Pulse Score 63.8/100 (Unrated, #1 in city) | Sheppard Alternative Animal Care is a veterinarian in Clinton Township, MI at 36300 Garfield Road, Clinton Township, MI 48035. Phone: +15868840882. Website: https://www.sheppardcare.com/. | https://registry-edge.dingalinged.workers.dev/c/sheppard-alternative-animal-care-clinton-township/
-22. VetCheck Pet Urgent Care Center | Organic #22 | Pulse Score 63.7/100 (Unrated, #1 in city) | VetCheck Pet Urgent Care Center is a veterinarian in Indianapolis, IN at 5335 East Southport Road, Indianapolis, IN 46237. Phone: +13179349953. Website: https://www.vetcheckforpetsindy.com/. | https://registry-edge.dingalinged.workers.dev/c/vetcheck-pet-urgent-care-center-indianapolis/
-23. Midway Animal Hospital | Organic #23 | Pulse Score 63.6/100 (Good, #1 in city) | Midway Animal Hospital is a veterinarian in Saint Paul, MN at 731 Snelling Avenue, Saint Paul, MN. Phone: +16516442100. Website: https://midwayanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/midway-animal-hospital-saint-paul/
-24. South Golden Pet Hospital | Organic #24 | Pulse Score 63.6/100 (Unrated, #1 in city) | South Golden Pet Hospital is a veterinarian in Golden, CO at 17207 South Golden Road #110, Golden, CO 80401. Phone: +17206041282. Website: https://southgoldenpethospital.com/. | https://registry-edge.dingalinged.workers.dev/c/south-golden-pet-hospital-golden/
-25. Lincoln Square Animal Hospital | Organic #25 | Pulse Score 63.6/100 (Unrated, #2 in city) | Lincoln Square Animal Hospital is a veterinarian in Chicago, IL at 4501 North Lincoln Avenue, Chicago, IL 60625. Phone: +17732715901. Website: https://lincolnsquareanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/lincoln-square-animal-hospital-chicago/
-26. VCA Roswell Animal Hospital | Organic #26 | Pulse Score 63.5/100 (Good, #1 in city) | VCA Roswell Animal Hospital is a veterinarian in Roswell, GA at 1112 Alpharetta Street, Roswell, GA 30075. Phone: +17709939031. Website: https://vcahospitals.com/roswell. | https://registry-edge.dingalinged.workers.dev/c/vca-roswell-animal-hospital-roswell/
-27. The Integrative Veterinary Clinic | Organic #27 | Pulse Score 63.5/100 (Unrated, #1 in city) | The Integrative Veterinary Clinic is a veterinarian in Westfield, IN at 504 IN-32, Westfield, IN 46074. Phone: +13176898582. Website: https://theintegrativeveterinaryclinic.com/. | https://registry-edge.dingalinged.workers.dev/c/the-integrative-veterinary-clinic-westfield/
-28. College Boulevard Animal Hospital | Organic #28 | Pulse Score 63.4/100 (Unrated, #1 in city) | College Boulevard Animal Hospital is a veterinarian in Overland Park, KS at 11733 College Boulevard, Overland Park, KS 66210. Phone: +19134695869. Website: https://www.collegeblvdanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/college-boulevard-animal-hospital-overland-park/
-29. Countryside Animal Clinic | Organic #29 | Pulse Score 63.4/100 (Unrated, #2 in city) | Countryside Animal Clinic is a veterinarian in Kansas City, MO at 8131 Holmes Road, Kansas City, MO 64131. Phone: +18163335050. Website: https://countrysideanimalclinicmo.com/. | https://registry-edge.dingalinged.workers.dev/c/countryside-animal-clinic-kansas-city/
-30. Houston Animal Hospital | Organic #30 | Pulse Score 63.4/100 (Unrated, #1 in city) | Houston Animal Hospital is a veterinarian in Sugar Land, TX at 11629 Highway 6 South, Sugar Land, TX 77498. Phone: +18329994151. Website: https://www.houstonanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/houston-animal-hospital-sugar-land/
-31. North Suburban Veterinary Hospital | Organic #31 | Pulse Score 63.4/100 (Unrated, #2 in city) | North Suburban Veterinary Hospital is a veterinarian in Sterling Heights, MI at 4105 East 14 Mile Road, Sterling Heights, MI 48310. Phone: +15869391990. Website: https://www.northsuburbanvet.com/. | https://registry-edge.dingalinged.workers.dev/c/north-suburban-veterinary-hospital-sterling-heights/
-32. Brighton Veterinary Hospital | Organic #32 | Pulse Score 63.4/100 (Unrated, #1 in city) | Brighton Veterinary Hospital is a veterinarian in New Brighton, MN at 2615 Mississippi Street, New Brighton, MN. Phone: +16516361063. Website: https://www.brightonvethospital.com/. | https://registry-edge.dingalinged.workers.dev/c/brighton-veterinary-hospital-new-brighton/
-33. Veterinary Surgery Specialists | Organic #33 | Pulse Score 63.4/100 (Unrated, #1 in city) | Veterinary Surgery Specialists is a veterinarian in Wauwatosa, WI at 9700 West Bluemound Road, Wauwatosa, WI 53226. Phone: +14142199990. Website: https://mypetsurgery.com/. | https://registry-edge.dingalinged.workers.dev/c/veterinary-surgery-specialists-wauwatosa/
-34. VCA All Creatures Animal Hospital | Organic #34 | Pulse Score 63.3/100 (Good, #1 in city) | VCA All Creatures Animal Hospital is a veterinarian in O’Fallon, MO at 2205 Highway K, O’Fallon, MO 63368. Phone: +16362408387. Website: https://vcahospitals.com/all-creatures. | https://registry-edge.dingalinged.workers.dev/c/vca-all-creatures-animal-hospital-o-fallon/
-35. Minnepau Veterinary Clinic | Organic #35 | Pulse Score 63.2/100 (Good, #2 in city) | Minnepau Veterinary Clinic is a veterinarian in Saint Paul, MN at 918 Raymond Avenue #Suite 100, Saint Paul, MN. Phone: +16123143969. Website: https://www.minnepau.com/. | https://registry-edge.dingalinged.workers.dev/c/minnepau-veterinary-clinic-saint-paul/
-36. Ark Valley Animal Hospital | Organic #36 | Pulse Score 63.2/100 (Unrated, #1 in city) | Ark Valley Animal Hospital is a veterinarian in Valley Center, KS at 122 North Park Avenue, Valley Center, KS 67147. Phone: +13162016690. Website: https://www.arkvalleyvcks.com/. | https://registry-edge.dingalinged.workers.dev/c/ark-valley-animal-hospital-valley-center/
-37. UrgentVet - Richardson | Organic #37 | Pulse Score 63.2/100 (Unrated, #1 in city) | UrgentVet - Richardson is a veterinarian in Richardson, TX at 338 West Campbell Road, Richardson, TX 75080. Phone: +12143477200. Website: https://urgentvet.com/location/richardson/. | https://registry-edge.dingalinged.workers.dev/c/urgentvet-richardson-richardson/
-38. Mountain Parks Veterinary Hospital | Organic #38 | Pulse Score 63.1/100 (Unrated, #1 in city) | Mountain Parks Veterinary Hospital is a veterinarian in Evergreen, CO at 5920 Hwy 73, Evergreen, CO 80439. Phone: +13036743156. Website: https://mountainparksvet.com/. | https://registry-edge.dingalinged.workers.dev/c/mountain-parks-veterinary-hospital-evergreen/
-39. Thrive Pet Healthcare - Legacy/Plano | Organic #39 | Pulse Score 63.1/100 (Unrated, #1 in city) | Thrive Pet Healthcare - Legacy/Plano is a veterinarian in Plano, TX at 3941 Legacy Drive, Plano, TX 75023. Phone: +14696668872. Website: https://www.thrivevet.com/locations/texas/plano/legacy/. | https://registry-edge.dingalinged.workers.dev/c/thrive-pet-healthcare-legacy-plano-plano/
-40. Isthmus Veterinary Care - Marc Siegel, DVM | Organic #40 | Pulse Score 63.1/100 (Unrated, #1 in city) | Isthmus Veterinary Care - Marc Siegel, DVM is a veterinarian in Madison, WI at 1730 Fordem Avenue, Madison, WI 53704. Website: https://isthmusvetcare.com/. | https://registry-edge.dingalinged.workers.dev/c/isthmus-veterinary-care-marc-siegel-dvm-madison/
-41. All Care Veterinary Hospital | Organic #41 | Pulse Score 63/100 (Good, #1 in city) | All Care Veterinary Hospital is a veterinarian in Coppell, TX at 353 North Denton Tap Road, Coppell, TX. Phone: +19723937750. Website: https://www.allcarevet.com/. | https://registry-edge.dingalinged.workers.dev/c/all-care-veterinary-hospital-coppell/
-42. Avets | Organic #42 | Pulse Score 63/100 (Unrated, #1 in city) | Avets is a veterinarian in Monroeville, PA at 2674 Monroeville Boulevard, Monroeville, PA 15146. Phone: +14123734200. Website: https://www.avets.com/. | https://registry-edge.dingalinged.workers.dev/c/avets-monroeville/
-43. Modern Animal - Park Cities | Organic #43 | Pulse Score 63/100 (Unrated, #1 in city) | Modern Animal - Park Cities is a veterinarian in Dallas, TX at 5301 West Lovers Lane, Dallas, TX 75209. Phone: +14693739338. Website: https://www.modernanimal.com/clinics/park-cities/. | https://registry-edge.dingalinged.workers.dev/c/modern-animal-park-cities-dallas/
-44. Pet Medical Transport | Organic #44 | Pulse Score 63/100 (Unrated, #1 in city) | Pet Medical Transport is a veterinarian in Arvada, CO at 12650 West 64th Avenue #E, Box 407, Arvada, CO 80004. Phone: +17208997114. Website: https://petmedicaltransport.com/. | https://registry-edge.dingalinged.workers.dev/c/pet-medical-transport-arvada/
-45. VCA Central Expressway Animal Hospital | Organic #45 | Pulse Score 62.9/100 (Good, #2 in city) | VCA Central Expressway Animal Hospital is a veterinarian in Dallas, TX at 11680 Forest Central Drive, Dallas, TX. Phone: +12143413322. Website: https://vcahospitals.com/. | https://registry-edge.dingalinged.workers.dev/c/vca-central-expressway-animal-hospital-dallas/
-46. Dogwood Veterinary Specialty & Emergency | Organic #46 | Pulse Score 62.9/100 (Good, #3 in city) | Dogwood Veterinary Specialty & Emergency is a veterinarian in Marietta, GA at 1234 Powers Ferry Commons Southeast, Marietta, GA 30067. Phone: +14046091234. Website: https://www.dogwood.vet/. | https://registry-edge.dingalinged.workers.dev/c/dogwood-veterinary-specialty-and-emergency-marietta/
-47. Southgate Animal Hospital | Organic #47 | Pulse Score 62.9/100 (Unrated, #1 in city) | Southgate Animal Hospital is a veterinarian in Southgate, MI at 13697 Dix-Toledo Highway, Southgate, MI 48195. Phone: +17342849122. Website: https://www.southgateanimalhospital.vet/. | https://registry-edge.dingalinged.workers.dev/c/southgate-animal-hospital-southgate/
-48. Family Pet Care | Organic #48 | Pulse Score 62.9/100 (Unrated, #2 in city) | Family Pet Care is a veterinarian in Sugar Land, TX at 16111 Kensington Drive, Sugar Land, TX 77479. Phone: +12812320628. Website: https://familypetcaresugarland.com/. | https://registry-edge.dingalinged.workers.dev/c/family-pet-care-sugar-land/
-49. North Kenny Veterinary Hospital | Organic #49 | Pulse Score 62.9/100 (Unrated, #1 in city) | North Kenny Veterinary Hospital is a veterinarian in Columbus, OH at 4590 Kenny Road, Columbus, OH 43220. Phone: +16145156696. Website: https://northkennyveterinaryhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/north-kenny-veterinary-hospital-columbus/
-50. Tiger Town Veterinary Services | Organic #50 | Pulse Score 62.9/100 (Unrated, #1 in city) | Tiger Town Veterinary Services is a veterinarian in Columbia, MO at 1700 I- 70 Drive Southwest, Columbia, MO 65203. Phone: +15734454466. Website: https://covetruspharmacy.com/. | https://registry-edge.dingalinged.workers.dev/c/tiger-town-veterinary-services-columbia/
+13. Small Animal Hospital | Organic #13 | Pulse Score 63.9/100 (Good, #1 in city) | Small Animal Hospital is a veterinarian in Milwaukee, WI. Phone: +14142760701. Website: https://www.smallanimalhospitalllc.com/. | https://registry-edge.dingalinged.workers.dev/c/small-animal-hospital-milwaukee/
+14. Founders Animal Hospital | Organic #14 | Pulse Score 63.9/100 (Unrated, #1 in city) | Founders Animal Hospital is a veterinarian in Dripping Springs, TX at 161 Cortaro Drive, Dripping Springs, TX 78620. Phone: +15128819987. Website: https://foundersanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/founders-animal-hospital-dripping-springs/
+15. Highview Veterinary Hospital | Organic #15 | Pulse Score 63.9/100 (Unrated, #1 in city) | Highview Veterinary Hospital is a veterinarian in Boerne, TX at 5 Coughran Road #Suite 105, Boerne, TX 78006. Phone: +18304708414. Website: https://highviewvets.com/. | https://registry-edge.dingalinged.workers.dev/c/highview-veterinary-hospital-boerne/
+16. Metropolitan Veterinary Center | Organic #16 | Pulse Score 63.9/100 (Unrated, #1 in city) | Metropolitan Veterinary Center is a veterinarian in Sterling Heights, MI at 36759 Mound Road, Sterling Heights, MI 48310. Phone: +15867265200. Website: https://metropolitanvetcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/metropolitan-veterinary-center-sterling-heights/
+17. Sploot Veterinary Care - Platt Park | Organic #17 | Pulse Score 63.9/100 (Unrated, #2 in city) | Sploot Veterinary Care - Platt Park is a veterinarian in Denver, CO at 1165 South Broadway, Denver, CO 80210. Phone: +17207308818. Website: https://www.splootvets.com/locations/denver/platt-park. | https://registry-edge.dingalinged.workers.dev/c/sploot-veterinary-care-platt-park-denver/
+18. VetSavers Pet Hospital | Organic #18 | Pulse Score 63.9/100 (Unrated, #1 in city) | VetSavers Pet Hospital is a veterinarian in Dallas, TX at 19009 Preston Road #100, Dallas, TX 75252. Phone: +19726955335. Website: https://vetsaversdallas.com/. | https://registry-edge.dingalinged.workers.dev/c/vetsavers-pet-hospital-dallas/
+19. Miller Mobile Veterinary Services & Animal Hospital | Organic #19 | Pulse Score 63.8/100 (Good, #2 in city) | Miller Mobile Veterinary Services & Animal Hospital is a veterinarian in Marietta, GA at 2100 Roswell Road #1100, Marietta, GA 30062. Phone: +14045385448. Website: https://www.millermobilevet.com/. | https://registry-edge.dingalinged.workers.dev/c/miller-mobile-veterinary-services-and-animal-hospital-marietta/
+20. Paws Whiskers & Claws | Organic #20 | Pulse Score 63.8/100 (Good, #1 in city) | Paws Whiskers & Claws is a veterinarian in Cobb County, GA at 4719 Lower Roswell Road Northeast #220, Cobb County, GA. Phone: +17705796001. Website: https://pawswhiskersandclaws.com/. | https://registry-edge.dingalinged.workers.dev/c/paws-whiskers-and-claws-cobb-county/
+21. Lewisville Animal Hospital | Organic #21 | Pulse Score 63.8/100 (Good, #1 in city) | Lewisville Animal Hospital is a veterinarian in Lewisville, TX at 890 Bellaire Boulevard, Lewisville, TX 75067. Phone: +19724366518. Website: https://www.lewisvillevet.com/. | https://registry-edge.dingalinged.workers.dev/c/lewisville-animal-hospital-lewisville/
+22. Tender Touch Veterinary Hospital | Organic #22 | Pulse Score 63.8/100 (Good, #1 in city) | Tender Touch Veterinary Hospital is a veterinarian in Pine Township, PA at 151 Wexford Bayne Road, Pine Township, PA. Phone: +17249337387. Website: https://tendertouchvethosp.org/. | https://registry-edge.dingalinged.workers.dev/c/tender-touch-veterinary-hospital-pine-township/
+23. VCA Castle Hills | Organic #23 | Pulse Score 63.8/100 (Good, #1 in city) | VCA Castle Hills is a veterinarian in San Antonio, TX at 13141 Northwest Military Highway, San Antonio, TX 78231. Phone: +12104925519. Website: https://www.vcahospitals.com/castle-hills-companion. | https://registry-edge.dingalinged.workers.dev/c/vca-castle-hills-san-antonio/
+24. Hoover Road Animal Hospital | Organic #24 | Pulse Score 63.8/100 (Unrated, #1 in city) | Hoover Road Animal Hospital is a veterinarian in Warren, MI at 31170 Hoover Road, Warren, MI 48093. Phone: +15867953500. Website: https://hrahvets.wixsite.com/hooverrdanimalhosp. | https://registry-edge.dingalinged.workers.dev/c/hoover-road-animal-hospital-warren/
+25. Live Oak Animal Hospital | Organic #25 | Pulse Score 63.8/100 (Unrated, #1 in city) | Live Oak Animal Hospital is a veterinarian in Lubbock, TX at 5214 98th Street #Suite 100, Lubbock, TX 79424. Phone: +18067949000. Website: https://www.liveoaklubbock.com/. | https://registry-edge.dingalinged.workers.dev/c/live-oak-animal-hospital-lubbock/
+26. MissionVet Specialty & Emergency | Organic #26 | Pulse Score 63.8/100 (Unrated, #2 in city) | MissionVet Specialty & Emergency is a veterinarian in San Antonio, TX at West Hausman Road, San Antonio, TX 78249. Phone: +12107347343. Website: https://mission.vet/. | https://registry-edge.dingalinged.workers.dev/c/missionvet-specialty-and-emergency-san-antonio/
+27. San Antonio Wellness Spay and Neuter Clinic | Organic #27 | Pulse Score 63.8/100 (Unrated, #3 in city) | San Antonio Wellness Spay and Neuter Clinic is a veterinarian in San Antonio, TX at 4922 South Zarzamora Street, San Antonio, TX 78211. Phone: +12108643083. Website: https://www.saspayneuter.com/. | https://registry-edge.dingalinged.workers.dev/c/san-antonio-wellness-spay-and-neuter-clinic-san-antonio/
+28. Sheppard Alternative Animal Care | Organic #28 | Pulse Score 63.8/100 (Unrated, #1 in city) | Sheppard Alternative Animal Care is a veterinarian in Clinton Township, MI at 36300 Garfield Road, Clinton Township, MI 48035. Phone: +15868840882. Website: https://www.sheppardcare.com/. | https://registry-edge.dingalinged.workers.dev/c/sheppard-alternative-animal-care-clinton-township/
+29. Lake Lavon Animal Hospital | Organic #29 | Pulse Score 63.7/100 (Unrated, #1 in city) | Lake Lavon Animal Hospital is a veterinarian in Wylie, TX at 456 North Country Club Road #110, Wylie, TX 75098. Phone: +19724297901. Website: https://www.lakelavonanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/lake-lavon-animal-hospital-wylie/
+30. North Fort Worth Spay/Neuter Center | Organic #30 | Pulse Score 63.7/100 (Unrated, #1 in city) | North Fort Worth Spay/Neuter Center is a veterinarian in Fort Worth, TX at 4941 Golden Triangle Boulevard #921, Fort Worth, TX 76244. Phone: +18175622024. Website: https://spayneutercenter.org/. | https://registry-edge.dingalinged.workers.dev/c/north-fort-worth-spay-neuter-center-fort-worth/
+31. VetCheck Pet Urgent Care Center | Organic #31 | Pulse Score 63.7/100 (Unrated, #1 in city) | VetCheck Pet Urgent Care Center is a veterinarian in Indianapolis, IN at 5335 East Southport Road, Indianapolis, IN 46237. Phone: +13179349953. Website: https://www.vetcheckforpetsindy.com/. | https://registry-edge.dingalinged.workers.dev/c/vetcheck-pet-urgent-care-center-indianapolis/
+32. Midway Animal Hospital | Organic #32 | Pulse Score 63.6/100 (Good, #1 in city) | Midway Animal Hospital is a veterinarian in Saint Paul, MN at 731 Snelling Avenue, Saint Paul, MN. Phone: +16516442100. Website: https://midwayanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/midway-animal-hospital-saint-paul/
+33. Animal Emergency Center of Temple-Belton | Organic #33 | Pulse Score 63.6/100 (Good, #1 in city) | Animal Emergency Center of Temple-Belton is a veterinarian in Temple, TX at 3809 South General Bruce Drive #108, Temple, TX 76502. Phone: +12542313774. Website: https://www.animalemergencytemple.com/. | https://registry-edge.dingalinged.workers.dev/c/animal-emergency-center-of-temple-belton-temple/
+34. Deason Animal Hospital | Organic #34 | Pulse Score 63.6/100 (Good, #1 in city) | Deason Animal Hospital is a veterinarian in Floresville, TX at 1712 D Street, Floresville, TX 78114. Phone: +18303934567. Website: https://deasonanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/deason-animal-hospital-floresville/
+35. Blink Veterinary Eye Specialists | Organic #35 | Pulse Score 63.6/100 (Unrated, #1 in city) | Blink Veterinary Eye Specialists is a veterinarian in Farmers Branch, TX at 13617 Inwood Road, Farmers Branch, TX 75244. Phone: +12148170637. Website: https://blinkvets.com/. | https://registry-edge.dingalinged.workers.dev/c/blink-veterinary-eye-specialists-farmers-branch/
+36. Family Pet Clinic | Organic #36 | Pulse Score 63.6/100 (Unrated, #1 in city) | Family Pet Clinic is a veterinarian in North Richland Hills, TX at 6724 Mid Cities Boulevard, North Richland Hills, TX 76148. Phone: +18177882525. Website: https://www.fpcnorthrichlandvet.com/. | https://registry-edge.dingalinged.workers.dev/c/family-pet-clinic-north-richland-hills/
+37. Lincoln Square Animal Hospital | Organic #37 | Pulse Score 63.6/100 (Unrated, #2 in city) | Lincoln Square Animal Hospital is a veterinarian in Chicago, IL at 4501 North Lincoln Avenue, Chicago, IL 60625. Phone: +17732715901. Website: https://lincolnsquareanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/lincoln-square-animal-hospital-chicago/
+38. Pavillion Animal Hospital | Organic #38 | Pulse Score 63.6/100 (Unrated, #2 in city) | Pavillion Animal Hospital is a veterinarian in Dallas, TX at 7512 Campbell Road, Dallas, TX 75248. Phone: +19722488242. Website: https://pavillionah.com/. | https://registry-edge.dingalinged.workers.dev/c/pavillion-animal-hospital-dallas/
+39. Atascocita Animal Hospital | Organic #39 | Pulse Score 63.6/100 (Unrated, #1 in city) | Atascocita Animal Hospital is a veterinarian in Humble, TX at 7819 FM 1960, Humble, TX 77346. Phone: +12816024092. Website: https://www.atascocitavet.com/. | https://registry-edge.dingalinged.workers.dev/c/atascocita-animal-hospital-humble/
+40. Austin Vet Care @ Metric | Organic #40 | Pulse Score 63.5/100 (Good, #1 in city) | Austin Vet Care @ Metric is a veterinarian in Austin, TX at 12419 Metric Boulevard, Austin, TX 78758. Phone: +15128321088. Website: https://www.thrivepetcare.com/. | https://registry-edge.dingalinged.workers.dev/c/austin-vet-care-metric-austin/
+41. VCA Roswell Animal Hospital | Organic #41 | Pulse Score 63.5/100 (Good, #1 in city) | VCA Roswell Animal Hospital is a veterinarian in Roswell, GA at 1112 Alpharetta Street, Roswell, GA 30075. Phone: +17709939031. Website: https://vcahospitals.com/roswell. | https://registry-edge.dingalinged.workers.dev/c/vca-roswell-animal-hospital-roswell/
+42. South Golden Pet Hospital | Organic #42 | Pulse Score 63.5/100 (Unrated, #1 in city) | South Golden Pet Hospital is a veterinarian in Golden, CO at 17207 South Golden Road #110, Golden, CO 80401. Phone: +17206041282. Website: https://southgoldenpethospital.com/. | https://registry-edge.dingalinged.workers.dev/c/south-golden-pet-hospital-golden/
+43. People Assisting Animal Control | Organic #43 | Pulse Score 63.5/100 (Unrated, #1 in city) | People Assisting Animal Control is a veterinarian in Corpus Christi, TX at 5804 Ayers Street, Corpus Christi, TX 78415. Phone: +13612482009. Website: https://www.ccpaac.org/. | https://registry-edge.dingalinged.workers.dev/c/people-assisting-animal-control-corpus-christi/
+44. The Integrative Veterinary Clinic | Organic #44 | Pulse Score 63.5/100 (Unrated, #1 in city) | The Integrative Veterinary Clinic is a veterinarian in Westfield, IN at 504 IN-32, Westfield, IN 46074. Phone: +13176898582. Website: https://theintegrativeveterinaryclinic.com/. | https://registry-edge.dingalinged.workers.dev/c/the-integrative-veterinary-clinic-westfield/
+45. College Boulevard Animal Hospital | Organic #45 | Pulse Score 63.4/100 (Unrated, #1 in city) | College Boulevard Animal Hospital is a veterinarian in Overland Park, KS at 11733 College Boulevard, Overland Park, KS 66210. Phone: +19134695869. Website: https://www.collegeblvdanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/college-boulevard-animal-hospital-overland-park/
+46. Countryside Animal Clinic | Organic #46 | Pulse Score 63.4/100 (Unrated, #2 in city) | Countryside Animal Clinic is a veterinarian in Kansas City, MO at 8131 Holmes Road, Kansas City, MO 64131. Phone: +18163335050. Website: https://countrysideanimalclinicmo.com/. | https://registry-edge.dingalinged.workers.dev/c/countryside-animal-clinic-kansas-city/
+47. Houston Animal Hospital | Organic #47 | Pulse Score 63.4/100 (Unrated, #1 in city) | Houston Animal Hospital is a veterinarian in Sugar Land, TX at 11629 Highway 6 South, Sugar Land, TX 77498. Phone: +18329994151. Website: https://www.houstonanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/houston-animal-hospital-sugar-land/
+48. North Suburban Veterinary Hospital | Organic #48 | Pulse Score 63.4/100 (Unrated, #2 in city) | North Suburban Veterinary Hospital is a veterinarian in Sterling Heights, MI at 4105 East 14 Mile Road, Sterling Heights, MI 48310. Phone: +15869391990. Website: https://www.northsuburbanvet.com/. | https://registry-edge.dingalinged.workers.dev/c/north-suburban-veterinary-hospital-sterling-heights/
+49. Brighton Veterinary Hospital | Organic #49 | Pulse Score 63.4/100 (Unrated, #1 in city) | Brighton Veterinary Hospital is a veterinarian in New Brighton, MN at 2615 Mississippi Street, New Brighton, MN. Phone: +16516361063. Website: https://www.brightonvethospital.com/. | https://registry-edge.dingalinged.workers.dev/c/brighton-veterinary-hospital-new-brighton/
+50. Veterinary Surgery Specialists | Organic #50 | Pulse Score 63.4/100 (Unrated, #1 in city) | Veterinary Surgery Specialists is a veterinarian in Wauwatosa, WI at 9700 West Bluemound Road, Wauwatosa, WI 53226. Phone: +14142199990. Website: https://mypetsurgery.com/. | https://registry-edge.dingalinged.workers.dev/c/veterinary-surgery-specialists-wauwatosa/
 
-## More vet listings (1491 total; top 50 unpaid shown)
+## More vet listings (1894 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/vet.jsonl
 - Chicago, IL: 51 listings: https://registry-edge.dingalinged.workers.dev/k/vet-chicago-il/
-- Dallas, TX: 48 listings: https://registry-edge.dingalinged.workers.dev/k/vet-dallas-tx/
-- Houston, TX: 44 listings: https://registry-edge.dingalinged.workers.dev/k/vet-houston-tx/
+- Dallas, TX: 50 listings: https://registry-edge.dingalinged.workers.dev/k/vet-dallas-tx/
+- Houston, TX: 47 listings: https://registry-edge.dingalinged.workers.dev/k/vet-houston-tx/
+- Austin, TX: 44 listings: https://registry-edge.dingalinged.workers.dev/k/vet-austin-tx/
+- San Antonio, TX: 29 listings: https://registry-edge.dingalinged.workers.dev/k/vet-san-antonio-tx/
 - Madison, WI: 25 listings: https://registry-edge.dingalinged.workers.dev/k/vet-madison-wi/
+- Frisco, TX: 22 listings: https://registry-edge.dingalinged.workers.dev/k/vet-frisco-tx/
 - Indianapolis, IN: 22 listings: https://registry-edge.dingalinged.workers.dev/k/vet-indianapolis-in/
 - Aurora, CO: 22 listings: https://registry-edge.dingalinged.workers.dev/k/vet-aurora-co/
-- Frisco, TX: 21 listings: https://registry-edge.dingalinged.workers.dev/k/vet-frisco-tx/
 - Cobb County, GA: 20 listings: https://registry-edge.dingalinged.workers.dev/k/vet-cobb-county-ga/
 - Columbus, OH: 19 listings: https://registry-edge.dingalinged.workers.dev/k/vet-columbus-oh/
 - Harris County, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/vet-harris-county-tx/
+- Fort Worth, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/vet-fort-worth-tx/
 - Minneapolis, MN: 18 listings: https://registry-edge.dingalinged.workers.dev/k/vet-minneapolis-mn/
 - Kansas City, MO: 18 listings: https://registry-edge.dingalinged.workers.dev/k/vet-kansas-city-mo/
 - Atlanta, GA: 18 listings: https://registry-edge.dingalinged.workers.dev/k/vet-atlanta-ga/
 - Pittsburgh, PA: 16 listings: https://registry-edge.dingalinged.workers.dev/k/vet-pittsburgh-pa/
+- Amarillo, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/vet-amarillo-tx/
 - Marietta, GA: 15 listings: https://registry-edge.dingalinged.workers.dev/k/vet-marietta-ga/
 - Overland Park, KS: 15 listings: https://registry-edge.dingalinged.workers.dev/k/vet-overland-park-ks/
 - Plano, TX: 14 listings: https://registry-edge.dingalinged.workers.dev/k/vet-plano-tx/
+- Lubbock, TX: 14 listings: https://registry-edge.dingalinged.workers.dev/k/vet-lubbock-tx/
+- Mckinney, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/vet-mckinney-tx/
+- Georgetown, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/vet-georgetown-tx/
 - Parker, CO: 13 listings: https://registry-edge.dingalinged.workers.dev/k/vet-parker-co/
 - Omaha, NE: 13 listings: https://registry-edge.dingalinged.workers.dev/k/vet-omaha-ne/
-- Mckinney, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/vet-mckinney-tx/
+- Cedar Park, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/vet-cedar-park-tx/
 - Carmel, IN: 11 listings: https://registry-edge.dingalinged.workers.dev/k/vet-carmel-in/
 - Saint Paul, MN: 11 listings: https://registry-edge.dingalinged.workers.dev/k/vet-saint-paul-mn/
-- Fort Bend County, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/vet-fort-bend-county-tx/
+- Fort Bend County, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/vet-fort-bend-county-tx/
 - Cincinnati, OH: 9 listings: https://registry-edge.dingalinged.workers.dev/k/vet-cincinnati-oh/
 - Springfield, MO: 9 listings: https://registry-edge.dingalinged.workers.dev/k/vet-springfield-mo/
 - Lawrence, KS: 9 listings: https://registry-edge.dingalinged.workers.dev/k/vet-lawrence-ks/
+- College Station, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/vet-college-station-tx/
 - Denton, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/vet-denton-tx/
+- Arlington, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/vet-arlington-tx/
 - Westminster, CO: 8 listings: https://registry-edge.dingalinged.workers.dev/k/vet-westminster-co/
 - Jefferson County, CO: 8 listings: https://registry-edge.dingalinged.workers.dev/k/vet-jefferson-county-co/
 - Milwaukee, WI: 8 listings: https://registry-edge.dingalinged.workers.dev/k/vet-milwaukee-wi/
+- Fayetteville, AR: 8 listings: https://registry-edge.dingalinged.workers.dev/k/vet-fayetteville-ar/
 - Des Moines, IA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/vet-des-moines-ia/
 - Wichita, KS: 8 listings: https://registry-edge.dingalinged.workers.dev/k/vet-wichita-ks/
 - Olathe, KS: 8 listings: https://registry-edge.dingalinged.workers.dev/k/vet-olathe-ks/
 - Lewisville, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/vet-lewisville-tx/
 - Richardson, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/vet-richardson-tx/
+- Flower Mound, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/vet-flower-mound-tx/
 - Rockwall, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/vet-rockwall-tx/
 - Carrollton, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/vet-carrollton-tx/
+- Leander, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/vet-leander-tx/
 - Boulder, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/vet-boulder-co/
 - Centennial, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/vet-centennial-co/
+- Fort Smith, AR: 7 listings: https://registry-edge.dingalinged.workers.dev/k/vet-fort-smith-ar/
 - West Des Moines, IA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/vet-west-des-moines-ia/
 - Florence, KY: 7 listings: https://registry-edge.dingalinged.workers.dev/k/vet-florence-ky/
 - Smyrna, GA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/vet-smyrna-ga/
-- Flower Mound, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/vet-flower-mound-tx/
-- Arlington, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/vet-arlington-tx/
+- Round Rock, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/vet-round-rock-tx/
+- Montgomery County, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/vet-montgomery-county-tx/
+- Boerne, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/vet-boerne-tx/
 - Lakewood, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/vet-lakewood-co/
 - Sterling Heights, MI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/vet-sterling-heights-mi/
 - Skokie, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/vet-skokie-il/
@@ -111,9 +125,15 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Alpharetta, GA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/vet-alpharetta-ga/
 - Woodstock, GA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/vet-woodstock-ga/
 - Dekalb County, GA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/vet-dekalb-county-ga/
-- Montgomery County, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-montgomery-county-tx/
+- Killeen, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-killeen-tx/
+- Bedford, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-bedford-tx/
+- Travis County, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-travis-county-tx/
+- Kerrville, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-kerrville-tx/
 - North Richland Hills, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-north-richland-hills-tx/
 - Mesquite, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-mesquite-tx/
+- Longview, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-longview-tx/
+- Waco, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-waco-tx/
+- Corpus Christi, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-corpus-christi-tx/
 - Irving, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-irving-tx/
 - Lafayette, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-lafayette-co/
 - Castle Rock, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-castle-rock-co/
@@ -122,15 +142,22 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Farmington Hills, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-farmington-hills-mi/
 - Detroit, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-detroit-mi/
 - Lancaster, OH: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-lancaster-oh/
+- Little Rock, AR: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-little-rock-ar/
 - Urbandale, IA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-urbandale-ia/
 - Roswell, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-roswell-ga/
 - Manhattan, KS: 5 listings: https://registry-edge.dingalinged.workers.dev/k/vet-manhattan-ks/
-- Bedford, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-bedford-tx/
+- Wichita Falls, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-wichita-falls-tx/
+- Abilene, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-abilene-tx/
 - The Woodlands, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-the-woodlands-tx/
 - Southlake, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-southlake-tx/
+- San Angelo, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-san-angelo-tx/
+- Texarkana, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-texarkana-tx/
 - Humble, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-humble-tx/
+- Allen, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-allen-tx/
+- League City, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-league-city-tx/
 - Richmond, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-richmond-tx/
 - Sugar Land, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-sugar-land-tx/
+- Kyle, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-kyle-tx/
 - Castle Pines, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-castle-pines-co/
 - Wauwatosa, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-wauwatosa-wi/
 - Fitchburg, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-fitchburg-wi/
@@ -141,6 +168,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Bloomington, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-bloomington-mn/
 - Minnetonka, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-minnetonka-mn/
 - Gahanna, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-gahanna-oh/
+- North Little Rock, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-north-little-rock-ar/
+- Jacksonville, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-jacksonville-ar/
+- Russellville, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-russellville-ar/
 - Liberty, MO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-liberty-mo/
 - Ross Township, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-ross-township-pa/
 - Monroeville, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-monroeville-pa/
@@ -150,11 +180,21 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Lenexa, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-lenexa-ks/
 - Topeka, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/vet-topeka-ks/
 - Coppell, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-coppell-tx/
+- Grapevine, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-grapevine-tx/
 - Forney, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-forney-tx/
-- Allen, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-allen-tx/
+- Odessa, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-odessa-tx/
+- Elgin, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-elgin-tx/
 - Grand Prairie, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-grand-prairie-tx/
-- League City, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-league-city-tx/
+- Beaumont, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-beaumont-tx/
+- Belton, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-belton-tx/
+- Farmers Branch, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-farmers-branch-tx/
 - Addison, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-addison-tx/
+- Prosper, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-prosper-tx/
+- Cleburne, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-cleburne-tx/
+- Liberty Hill, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-liberty-hill-tx/
+- El Paso, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-el-paso-tx/
+- Midland, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-midland-tx/
+- Joshua, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-joshua-tx/
 - Wylie, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-wylie-tx/
 - Tomball, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-tomball-tx/
 - Fishers, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-fishers-in/
@@ -183,6 +223,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Miami Township, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-miami-township-oh/
 - Liberty Township, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-liberty-township-oh/
 - Loveland, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-loveland-oh/
+- Jonesboro, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-jonesboro-ar/
 - Ankeny, IA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-ankeny-ia/
 - Johnston, IA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-johnston-ia/
 - Saint Louis County, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-saint-louis-county-mo/
@@ -198,16 +239,30 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Suwanee, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-suwanee-ga/
 - Stone Mountain, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-stone-mountain-ga/
 - Johnson County, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/vet-johnson-county-ks/
+- Castroville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-castroville-tx/
 - Farmersville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-farmersville-tx/
+- Temple, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-temple-tx/
 - Mansfield, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-mansfield-tx/
+- Bulverde, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-bulverde-tx/
+- Watauga, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-watauga-tx/
+- Williamson County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-williamson-county-tx/
 - Cedar Hill, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-cedar-hill-tx/
-- Prosper, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-prosper-tx/
-- Grapevine, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-grapevine-tx/
+- Bell County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-bell-county-tx/
+- Lockhart, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-lockhart-tx/
+- Leon Valley, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-leon-valley-tx/
+- Keller, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-keller-tx/
+- Greenville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-greenville-tx/
+- Crowley, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-crowley-tx/
+- Weatherford, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-weatherford-tx/
+- Dripping Springs, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-dripping-springs-tx/
 - Hurst, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-hurst-tx/
 - Missouri City, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-missouri-city-tx/
+- Lakeway, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-lakeway-tx/
 - Sachse, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-sachse-tx/
+- Universal City, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-universal-city-tx/
 - Duncanville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-duncanville-tx/
-- Farmers Branch, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-farmers-branch-tx/
+- Pflugerville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-pflugerville-tx/
+- Tyler, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-tyler-tx/
 - Greenwood, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-greenwood-in/
 - Boone County, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-boone-county-in/
 - Noblesville, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-noblesville-in/
@@ -281,6 +336,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Worthington, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-worthington-oh/
 - Canal Winchester, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-canal-winchester-oh/
 - Harrison Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-harrison-township-oh/
+- Hot Springs, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-hot-springs-ar/
+- Springdale, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-springdale-ar/
+- Cabot, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-cabot-ar/
+- Sherwood, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-sherwood-ar/
+- Siloam Springs, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-siloam-springs-ar/
 - Polk City, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-polk-city-ia/
 - Indianola, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-indianola-ia/
 - Clive, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-clive-ia/
@@ -311,38 +371,92 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Spring Hill, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-spring-hill-ks/
 - Andover, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-andover-ks/
 - Mission, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/vet-mission-ks/
+- Midland County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-midland-county-tx/
+- Euless, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-euless-tx/
+- Hollywood Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-hollywood-park-tx/
 - Alvarado, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-alvarado-tx/
+- Angleton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-angleton-tx/
+- Corsicana, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-corsicana-tx/
+- Paris, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-paris-tx/
 - Conroe, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-conroe-tx/
 - Heath, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-heath-tx/
+- Spring Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-spring-branch-tx/
+- Wimberley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-wimberley-tx/
 - Argyle, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-argyle-tx/
+- Sunset Valley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-sunset-valley-tx/
+- Harker Heights, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-harker-heights-tx/
+- Bandera, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-bandera-tx/
+- Bee Cave, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-bee-cave-tx/
 - Baytown, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-baytown-tx/
+- Brownsville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-brownsville-tx/
+- Richwood, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-richwood-tx/
+- Lake Jackson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-lake-jackson-tx/
+- Bryan, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-bryan-tx/
+- Burleson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-burleson-tx/
+- Galveston, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-galveston-tx/
 - Northlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-northlake-tx/
 - Seabrook, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-seabrook-tx/
+- Aledo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-aledo-tx/
 - Corinth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-corinth-tx/
 - Hickory Creek, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-hickory-creek-tx/
+- Buda, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-buda-tx/
 - Royse City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-royse-city-tx/
-- Keller, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-keller-tx/
+- New Braunfels, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-new-braunfels-tx/
+- Coupland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-coupland-tx/
 - Westlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-westlake-tx/
+- Bastrop, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-bastrop-tx/
 - Balch Springs, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-balch-springs-tx/
+- Floresville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-floresville-tx/
+- Denison, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-denison-tx/
+- Devine, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-devine-tx/
 - Dickinson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-dickinson-tx/
+- Olmos Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-olmos-park-tx/
 - East Bernard, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-east-bernard-tx/
+- Lufkin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-lufkin-tx/
+- Ennis, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-ennis-tx/
+- Hutto, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-hutto-tx/
+- Haltom City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-haltom-city-tx/
+- Wolfforth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-wolfforth-tx/
+- Comal County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-comal-county-tx/
+- Hewitt, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-hewitt-tx/
+- Helotes, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-helotes-tx/
+- Hudson Oaks, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-hudson-oaks-tx/
+- Port Aransas, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-port-aransas-tx/
+- Bellmead, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-bellmead-tx/
+- Lake Worth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-lake-worth-tx/
 - Lucas, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-lucas-tx/
+- Manor, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-manor-tx/
 - Murphy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-murphy-tx/
 - Collin County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-collin-county-tx/
 - Oak Ridge North, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-oak-ridge-north-tx/
+- Wake Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-wake-village-tx/
 - Denton County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-denton-county-tx/
+- Mcallen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-mcallen-tx/
 - Garland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-garland-tx/
 - Rowlett, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-rowlett-tx/
+- Pottsboro, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-pottsboro-tx/
+- Nash, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-nash-tx/
+- Selma, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-selma-tx/
 - Roanoke, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-roanoke-tx/
+- Seguin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-seguin-tx/
+- La Porte, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-la-porte-tx/
 - Simonton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-simonton-tx/
+- Rosenberg, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-rosenberg-tx/
+- San Marcos, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-san-marcos-tx/
 - Fairview, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-fairview-tx/
 - Colleyville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-colleyville-tx/
+- Sherman, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-sherman-tx/
+- Celina, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-celina-tx/
 - The Colony, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-the-colony-tx/
+- Bexar County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-bexar-county-tx/
 - Webster, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-webster-tx/
 - Sunnyvale, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-sunnyvale-tx/
+- Benbrook, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-benbrook-tx/
+- Stafford, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-stafford-tx/
 - Pearland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-pearland-tx/
 - Cross Roads, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-cross-roads-tx/
 - Waxahachie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-waxahachie-tx/
+- West Lake Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-west-lake-hills-tx/
 - Wharton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-wharton-tx/
 - Avon, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-avon-in/
 - Plainfield, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-plainfield-in/
@@ -499,6 +613,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Symmes Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-symmes-township-oh/
 - Truro Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-truro-township-oh/
 - Montgomery, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-montgomery-oh/
+- Rogers, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-rogers-ar/
+- Conway, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-conway-ar/
+- Dardanelle, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-dardanelle-ar/
+- Paragould, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-paragould-ar/
+- Tontitown, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-tontitown-ar/
+- Barling, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-barling-ar/
+- Bella Vista, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-bella-vista-ar/
 - Altoona, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-altoona-ia/
 - Huxley, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-huxley-ia/
 - Gladstone, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/vet-gladstone-mo/
@@ -586,7 +707,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.97, median $4.06, high $4.06 (Animals & Pets median CPC 2026 $4.06 [https://www.localiq.com/blog/search-advertising-benchmarks]; Animals & Pets median CPC 2025 $3.97 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1491
+- Registry businesses competing: 1894
 - Equivalent Google Ads cost per month: ~$150,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

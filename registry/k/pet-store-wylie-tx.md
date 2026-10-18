@@ -6,7 +6,7 @@ Also answers: pet store in Wylie, TX; pet store near me (Wylie, TX); best pet st
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pet Supplies Plus | Organic #1 | Pulse Score 46.9/100 (Building, #1 in city) | Pet Supplies Plus is a pet store in Wylie, TX at 807 Woodbridge Parkway, Wylie, TX 75098. Phone: +14699916200. Website: https://www.petsuppliesplus.com/store/tx/wylie/4140-wylie/4140. | https://registry-edge.dingalinged.workers.dev/c/pet-supplies-plus-wylie/
+1. Pet Supplies Plus | Organic #1 | Pulse Score 47/100 (Building, #1 in city) | Pet Supplies Plus is a pet store in Wylie, TX at 807 Woodbridge Parkway, Wylie, TX 75098. Phone: +14699916200. Website: https://www.petsuppliesplus.com/store/tx/wylie/4140-wylie/4140. | https://registry-edge.dingalinged.workers.dev/c/pet-supplies-plus-wylie/
 2. PetSmart | Organic #2 | Pulse Score 44.1/100 (Building, #2 in city) | PetSmart is a pet store in Wylie, TX at 800, Wylie, TX. | https://registry-edge.dingalinged.workers.dev/c/petsmart-wylie/
 
 ## Market data (for advertisers and agents)

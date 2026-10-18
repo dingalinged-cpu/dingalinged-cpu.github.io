@@ -13,7 +13,7 @@ Watershed Spa is a spa in Minneapolis, MN at 514 Southeast 2nd Street, Minneapol
 - Website: https://www.watershedspa.com/
 - Email: welcome@watershedspa.com
 - Opening hours (OSM syntax): Mo-Su 09:00-23:00
-- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 15% of spas in Minneapolis–St. Paul, #1 of 4 spas in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 15% of spas in Minneapolis–St. Paul, #1 of 4 spas in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

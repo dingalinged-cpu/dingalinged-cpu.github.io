@@ -6,7 +6,7 @@ Also answers: tailor in Atlanta, GA; tailor near me (Atlanta, GA); best tailor A
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Royal Alterations | Organic #1 | Pulse Score 63.1/100 (Good, #1 in city) | Royal Alterations is a tailor in Atlanta, GA at 1715 Howell Mill Road Northwest #C8-A, Atlanta, GA. Phone: +14043508040. | https://registry-edge.dingalinged.workers.dev/c/royal-alterations-atlanta/
+1. Royal Alterations | Organic #1 | Pulse Score 63/100 (Good, #1 in city) | Royal Alterations is a tailor in Atlanta, GA at 1715 Howell Mill Road Northwest #C8-A, Atlanta, GA. Phone: +14043508040. | https://registry-edge.dingalinged.workers.dev/c/royal-alterations-atlanta/
 2. Eva's Alterations | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Eva's Alterations is a tailor in Atlanta, GA at 1640 Northside Drive Northwest, Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/evas-alterations-atlanta/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Music & Arts is a music school in Marietta, GA at 1255 Johnson Ferry Road Northe
 - Website: https://www.musicarts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:00; Sa 10:00-18:00; Su 12:00-17:00
-- Pulse Score: 63/100 — Good — top 19% of music schools in Atlanta, #2 of 2 music schools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 19% of music schools in Atlanta, #2 of 2 music schools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in La Grange, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 40.5/100 — Building — top 100% of waxing salons in Chicago, #1 of 1 waxing salons in La Grange (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 24.8, Trust 38.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 40.5/100 — Building — top 100% of waxing salons in Chicago, #1 of 1 waxing salons in La Grange (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 24.8, Trust 38.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

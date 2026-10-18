@@ -6,7 +6,7 @@ Also answers: pilates in Lake Forest, IL; pilates near me (Lake Forest, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Club Pilates | Organic #1 | Pulse Score 43.4/100 (Building, #1 in city) | Club Pilates is a pilates studio in Lake Forest, IL at 722 North Bank Lane, Lake Forest, IL 60045. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-lake-forest/
+1. Club Pilates | Organic #1 | Pulse Score 43.5/100 (Building, #1 in city) | Club Pilates is a pilates studio in Lake Forest, IL at 722 North Bank Lane, Lake Forest, IL 60045. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-lake-forest/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates lake forest il | category: Fitness | industry benchmark: Health & Fitness

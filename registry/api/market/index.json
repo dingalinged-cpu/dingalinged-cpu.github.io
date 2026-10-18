@@ -2,11 +2,11 @@
  "updated": "2026-10-18",
  "meta": {
   "generated": "2026-10-18",
-  "keywords": 77821,
+  "keywords": 83192,
   "base_keywords": 634,
   "volume_basis": {
-   "sourced": 41313,
-   "estimated": 36508,
+   "sourced": 44428,
+   "estimated": 38764,
    "no_volume": 0
   },
   "us_population": {
@@ -507,6 +507,13 @@
  "agent_demand_present": false,
  "cities": [
   {
+   "place": "Abilene, TX",
+   "slug": "abilene-tx",
+   "keywords": 49,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/abilene-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/abilene-tx/"
+  },
+  {
    "place": "Acworth, GA",
    "slug": "acworth-ga",
    "keywords": 42,
@@ -563,6 +570,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/akron-oh/"
   },
   {
+   "place": "Alamo, TX",
+   "slug": "alamo-tx",
+   "keywords": 7,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/alamo-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/alamo-tx/"
+  },
+  {
+   "place": "Alamo Heights, TX",
+   "slug": "alamo-heights-tx",
+   "keywords": 26,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/alamo-heights-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/alamo-heights-tx/"
+  },
+  {
    "place": "Albany, NY",
    "slug": "albany-ny",
    "keywords": 490,
@@ -582,6 +603,13 @@
    "keywords": 490,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/albuquerque-nm.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/albuquerque-nm/"
+  },
+  {
+   "place": "Aledo, TX",
+   "slug": "aledo-tx",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/aledo-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/aledo-tx/"
   },
   {
    "place": "Alexandria, KY",
@@ -614,7 +642,7 @@
   {
    "place": "Allen, TX",
    "slug": "allen-tx",
-   "keywords": 58,
+   "keywords": 59,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/allen-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/allen-tx/"
   },
@@ -631,6 +659,13 @@
    "keywords": 490,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/allentown-pa.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/allentown-pa/"
+  },
+  {
+   "place": "Alma, TX",
+   "slug": "alma-tx",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/alma-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/alma-tx/"
   },
   {
    "place": "Alorton, IL",
@@ -696,6 +731,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/amanda-township-oh/"
   },
   {
+   "place": "Amarillo, TX",
+   "slug": "amarillo-tx",
+   "keywords": 109,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/amarillo-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/amarillo-tx/"
+  },
+  {
    "place": "Ambridge, PA",
    "slug": "ambridge-pa",
    "keywords": 25,
@@ -745,6 +787,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/andover-mn/"
   },
   {
+   "place": "Angelina County, TX",
+   "slug": "angelina-county-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/angelina-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/angelina-county-tx/"
+  },
+  {
+   "place": "Angleton, TX",
+   "slug": "angleton-tx",
+   "keywords": 35,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/angleton-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/angleton-tx/"
+  },
+  {
    "place": "Ankeny, IA",
    "slug": "ankeny-ia",
    "keywords": 57,
@@ -752,11 +808,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/ankeny-ia/"
   },
   {
+   "place": "Anna, TX",
+   "slug": "anna-tx",
+   "keywords": 6,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/anna-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/anna-tx/"
+  },
+  {
    "place": "Anoka, MN",
    "slug": "anoka-mn",
    "keywords": 14,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/anoka-mn.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/anoka-mn/"
+  },
+  {
+   "place": "Anthony, TX",
+   "slug": "anthony-tx",
+   "keywords": 11,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/anthony-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/anthony-tx/"
   },
   {
    "place": "Arapahoe County, CO",
@@ -782,14 +852,14 @@
   {
    "place": "Argyle, TX",
    "slug": "argyle-tx",
-   "keywords": 8,
+   "keywords": 9,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/argyle-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/argyle-tx/"
   },
   {
    "place": "Arlington, TX",
    "slug": "arlington-tx",
-   "keywords": 70,
+   "keywords": 74,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/arlington-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/arlington-tx/"
   },
@@ -913,6 +983,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/austell-ga/"
   },
   {
+   "place": "Austin, AR",
+   "slug": "austin-ar",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/austin-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/austin-ar/"
+  },
+  {
    "place": "Austin, TX",
    "slug": "austin-tx",
    "keywords": 490,
@@ -941,6 +1018,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/avondale-estates-ga/"
   },
   {
+   "place": "Azle, TX",
+   "slug": "azle-tx",
+   "keywords": 5,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/azle-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/azle-tx/"
+  },
+  {
    "place": "Baden, PA",
    "slug": "baden-pa",
    "keywords": 5,
@@ -960,6 +1044,13 @@
    "keywords": 15,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/balch-springs-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/balch-springs-tx/"
+  },
+  {
+   "place": "Balcones Heights, TX",
+   "slug": "balcones-heights-tx",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/balcones-heights-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/balcones-heights-tx/"
   },
   {
    "place": "Baldwin, PA",
@@ -997,6 +1088,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/baltimore-oh/"
   },
   {
+   "place": "Bandera, TX",
+   "slug": "bandera-tx",
+   "keywords": 17,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bandera-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bandera-tx/"
+  },
+  {
+   "place": "Bandera County, TX",
+   "slug": "bandera-county-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bandera-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bandera-county-tx/"
+  },
+  {
    "place": "Bannockburn, IL",
    "slug": "bannockburn-il",
    "keywords": 5,
@@ -1009,6 +1114,13 @@
    "keywords": 2,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bargersville-in.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/bargersville-in/"
+  },
+  {
+   "place": "Barling, AR",
+   "slug": "barling-ar",
+   "keywords": 12,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/barling-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/barling-ar/"
   },
   {
    "place": "Barrington, IL",
@@ -1053,6 +1165,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/basehor-ks/"
   },
   {
+   "place": "Bastrop, TX",
+   "slug": "bastrop-tx",
+   "keywords": 62,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bastrop-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bastrop-tx/"
+  },
+  {
+   "place": "Bastrop County, TX",
+   "slug": "bastrop-county-tx",
+   "keywords": 8,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bastrop-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bastrop-county-tx/"
+  },
+  {
    "place": "Batavia, OH",
    "slug": "batavia-oh",
    "keywords": 10,
@@ -1090,9 +1216,16 @@
   {
    "place": "Baytown, TX",
    "slug": "baytown-tx",
-   "keywords": 31,
+   "keywords": 33,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/baytown-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/baytown-tx/"
+  },
+  {
+   "place": "Beaumont, TX",
+   "slug": "beaumont-tx",
+   "keywords": 77,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/beaumont-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/beaumont-tx/"
   },
   {
    "place": "Beaver, PA",
@@ -1116,6 +1249,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/bedford-park-il/"
   },
   {
+   "place": "Bee Cave, TX",
+   "slug": "bee-cave-tx",
+   "keywords": 30,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bee-cave-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bee-cave-tx/"
+  },
+  {
+   "place": "Beebe, AR",
+   "slug": "beebe-ar",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/beebe-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/beebe-ar/"
+  },
+  {
    "place": "Beech Grove, IN",
    "slug": "beech-grove-in",
    "keywords": 14,
@@ -1128,6 +1275,20 @@
    "keywords": 6,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bel-aire-ks.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/bel-aire-ks/"
+  },
+  {
+   "place": "Bell County, TX",
+   "slug": "bell-county-tx",
+   "keywords": 7,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bell-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bell-county-tx/"
+  },
+  {
+   "place": "Bella Vista, AR",
+   "slug": "bella-vista-ar",
+   "keywords": 19,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bella-vista-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bella-vista-ar/"
   },
   {
    "place": "Bellaire, TX",
@@ -1207,6 +1368,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/bellevue-second-iv-precinct-ne/"
   },
   {
+   "place": "Bellmead, TX",
+   "slug": "bellmead-tx",
+   "keywords": 12,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bellmead-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bellmead-tx/"
+  },
+  {
    "place": "Bellwood, IL",
    "slug": "bellwood-il",
    "keywords": 5,
@@ -1221,11 +1389,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/belton-mo/"
   },
   {
+   "place": "Belton, TX",
+   "slug": "belton-tx",
+   "keywords": 19,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/belton-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/belton-tx/"
+  },
+  {
    "place": "Ben Avon, PA",
    "slug": "ben-avon-pa",
    "keywords": 1,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/ben-avon-pa.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/ben-avon-pa/"
+  },
+  {
+   "place": "Benbrook, TX",
+   "slug": "benbrook-tx",
+   "keywords": 38,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/benbrook-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/benbrook-tx/"
   },
   {
    "place": "Bennington, NE",
@@ -1256,11 +1438,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/bentleyville-pa/"
   },
   {
+   "place": "Benton, AR",
+   "slug": "benton-ar",
+   "keywords": 18,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/benton-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/benton-ar/"
+  },
+  {
    "place": "Benton, KS",
    "slug": "benton-ks",
    "keywords": 1,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/benton-ks.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/benton-ks/"
+  },
+  {
+   "place": "Bentonville, AR",
+   "slug": "bentonville-ar",
+   "keywords": 31,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bentonville-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bentonville-ar/"
   },
   {
    "place": "Berkeley, IL",
@@ -1326,6 +1522,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/berne-township-oh/"
   },
   {
+   "place": "Bertram, TX",
+   "slug": "bertram-tx",
+   "keywords": 9,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bertram-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bertram-tx/"
+  },
+  {
    "place": "Berwyn, IL",
    "slug": "berwyn-il",
    "keywords": 32,
@@ -1347,11 +1550,32 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/bethel-park-pa/"
   },
   {
+   "place": "Beverly Hills, TX",
+   "slug": "beverly-hills-tx",
+   "keywords": 11,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/beverly-hills-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/beverly-hills-tx/"
+  },
+  {
+   "place": "Bexar County, TX",
+   "slug": "bexar-county-tx",
+   "keywords": 15,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bexar-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bexar-county-tx/"
+  },
+  {
    "place": "Bexley, OH",
    "slug": "bexley-oh",
    "keywords": 10,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bexley-oh.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/bexley-oh/"
+  },
+  {
+   "place": "Big Rock Township, AR",
+   "slug": "big-rock-township-ar",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/big-rock-township-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/big-rock-township-ar/"
   },
   {
    "place": "Birmingham, AL",
@@ -1473,6 +1697,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/blue-springs-mo/"
   },
   {
+   "place": "Boerne, TX",
+   "slug": "boerne-tx",
+   "keywords": 43,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/boerne-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/boerne-tx/"
+  },
+  {
    "place": "Boise City, ID",
    "slug": "boise-city-id",
    "keywords": 490,
@@ -1552,7 +1783,7 @@
   {
    "place": "Brazoria County, TX",
    "slug": "brazoria-county-tx",
-   "keywords": 19,
+   "keywords": 20,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/brazoria-county-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/brazoria-county-tx/"
   },
@@ -1576,6 +1807,13 @@
    "keywords": 22,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/brentwood-pa.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/brentwood-pa/"
+  },
+  {
+   "place": "Bridge City, TX",
+   "slug": "bridge-city-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bridge-city-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bridge-city-tx/"
   },
   {
    "place": "Bridgeport, CT",
@@ -1718,11 +1956,39 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/brownstown-charter-township-mi/"
   },
   {
+   "place": "Brownsville, TX",
+   "slug": "brownsville-tx",
+   "keywords": 38,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/brownsville-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/brownsville-tx/"
+  },
+  {
+   "place": "Bryan, TX",
+   "slug": "bryan-tx",
+   "keywords": 33,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bryan-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bryan-tx/"
+  },
+  {
+   "place": "Bryant, AR",
+   "slug": "bryant-ar",
+   "keywords": 19,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bryant-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bryant-ar/"
+  },
+  {
    "place": "Buckner, MO",
    "slug": "buckner-mo",
    "keywords": 7,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/buckner-mo.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/buckner-mo/"
+  },
+  {
+   "place": "Buda, TX",
+   "slug": "buda-tx",
+   "keywords": 20,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/buda-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/buda-tx/"
   },
   {
    "place": "Buffalo, NY",
@@ -1746,11 +2012,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/buffalo-township-pa/"
   },
   {
+   "place": "Bulverde, TX",
+   "slug": "bulverde-tx",
+   "keywords": 20,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/bulverde-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/bulverde-tx/"
+  },
+  {
    "place": "Burbank, IL",
    "slug": "burbank-il",
    "keywords": 19,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/burbank-il.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/burbank-il/"
+  },
+  {
+   "place": "Burleson, TX",
+   "slug": "burleson-tx",
+   "keywords": 41,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/burleson-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/burleson-tx/"
   },
   {
    "place": "Burlington, WI",
@@ -1788,6 +2068,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/butler-wi/"
   },
   {
+   "place": "Cabot, AR",
+   "slug": "cabot-ar",
+   "keywords": 48,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/cabot-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/cabot-ar/"
+  },
+  {
    "place": "Caddo Mills, TX",
    "slug": "caddo-mills-tx",
    "keywords": 5,
@@ -1800,6 +2087,13 @@
    "keywords": 2,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/cahokia-il.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/cahokia-il/"
+  },
+  {
+   "place": "Caldwell County, TX",
+   "slug": "caldwell-county-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/caldwell-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/caldwell-county-tx/"
   },
   {
    "place": "Caledonia, WI",
@@ -1842,6 +2136,13 @@
    "keywords": 2,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/cambridge-wi.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/cambridge-wi/"
+  },
+  {
+   "place": "Cameron County, TX",
+   "slug": "cameron-county-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/cameron-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/cameron-county-tx/"
   },
   {
    "place": "Campbell County, KY",
@@ -1937,7 +2238,7 @@
   {
    "place": "Carrollton, TX",
    "slug": "carrollton-tx",
-   "keywords": 67,
+   "keywords": 71,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/carrollton-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/carrollton-tx/"
   },
@@ -1963,6 +2264,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/cass-county-mo/"
   },
   {
+   "place": "Castle Hills, TX",
+   "slug": "castle-hills-tx",
+   "keywords": 19,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/castle-hills-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/castle-hills-tx/"
+  },
+  {
    "place": "Castle Pines, CO",
    "slug": "castle-pines-co",
    "keywords": 13,
@@ -1984,6 +2292,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/castle-shannon-pa/"
   },
   {
+   "place": "Castroville, TX",
+   "slug": "castroville-tx",
+   "keywords": 15,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/castroville-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/castroville-tx/"
+  },
+  {
+   "place": "Cave Springs, AR",
+   "slug": "cave-springs-ar",
+   "keywords": 5,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/cave-springs-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/cave-springs-ar/"
+  },
+  {
    "place": "Cecil Township, PA",
    "slug": "cecil-township-pa",
    "keywords": 12,
@@ -1993,9 +2315,16 @@
   {
    "place": "Cedar Hill, TX",
    "slug": "cedar-hill-tx",
-   "keywords": 52,
+   "keywords": 53,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/cedar-hill-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/cedar-hill-tx/"
+  },
+  {
+   "place": "Cedar Park, TX",
+   "slug": "cedar-park-tx",
+   "keywords": 76,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/cedar-park-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/cedar-park-tx/"
   },
   {
    "place": "Cedarburg, WI",
@@ -2007,7 +2336,7 @@
   {
    "place": "Celina, TX",
    "slug": "celina-tx",
-   "keywords": 4,
+   "keywords": 17,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/celina-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/celina-tx/"
   },
@@ -2038,6 +2367,13 @@
    "keywords": 5,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/centerburg-oh.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/centerburg-oh/"
+  },
+  {
+   "place": "Centerton, AR",
+   "slug": "centerton-ar",
+   "keywords": 7,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/centerton-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/centerton-ar/"
   },
   {
    "place": "Centerville, MN",
@@ -2222,6 +2558,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/churchill-pa/"
   },
   {
+   "place": "Cibolo, TX",
+   "slug": "cibolo-tx",
+   "keywords": 13,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/cibolo-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/cibolo-tx/"
+  },
+  {
    "place": "Cicero, IL",
    "slug": "cicero-il",
    "keywords": 26,
@@ -2348,6 +2691,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/clear-lake-shores-tx/"
   },
   {
+   "place": "Cleburne, TX",
+   "slug": "cleburne-tx",
+   "keywords": 78,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/cleburne-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/cleburne-tx/"
+  },
+  {
    "place": "Clermont, IN",
    "slug": "clermont-in",
    "keywords": 2,
@@ -2376,6 +2726,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/cleves-oh/"
   },
   {
+   "place": "Clint, TX",
+   "slug": "clint-tx",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/clint-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/clint-tx/"
+  },
+  {
    "place": "Clinton Township, MI",
    "slug": "clinton-township-mi",
    "keywords": 52,
@@ -2395,6 +2752,13 @@
    "keywords": 39,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/clive-ia.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/clive-ia/"
+  },
+  {
+   "place": "Clute, TX",
+   "slug": "clute-tx",
+   "keywords": 5,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/clute-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/clute-tx/"
   },
   {
    "place": "Cobb County, GA",
@@ -2432,9 +2796,16 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/college-park-ga/"
   },
   {
+   "place": "College Station, TX",
+   "slug": "college-station-tx",
+   "keywords": 65,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/college-station-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/college-station-tx/"
+  },
+  {
    "place": "Colleyville, TX",
    "slug": "colleyville-tx",
-   "keywords": 21,
+   "keywords": 23,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/colleyville-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/colleyville-tx/"
   },
@@ -2448,7 +2819,7 @@
   {
    "place": "Collin County, TX",
    "slug": "collin-county-tx",
-   "keywords": 10,
+   "keywords": 12,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/collin-county-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/collin-county-tx/"
   },
@@ -2537,6 +2908,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/columbus-wi/"
   },
   {
+   "place": "Comal County, TX",
+   "slug": "comal-county-tx",
+   "keywords": 16,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/comal-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/comal-county-tx/"
+  },
+  {
    "place": "Commerce Charter Township, MI",
    "slug": "commerce-charter-township-mi",
    "keywords": 41,
@@ -2560,9 +2938,23 @@
   {
    "place": "Conroe, TX",
    "slug": "conroe-tx",
-   "keywords": 51,
+   "keywords": 55,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/conroe-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/conroe-tx/"
+  },
+  {
+   "place": "Converse, TX",
+   "slug": "converse-tx",
+   "keywords": 10,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/converse-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/converse-tx/"
+  },
+  {
+   "place": "Conway, AR",
+   "slug": "conway-ar",
+   "keywords": 79,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/conway-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/conway-ar/"
   },
   {
    "place": "Conyers, GA",
@@ -2586,6 +2978,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/coppell-tx/"
   },
   {
+   "place": "Copperas Cove, TX",
+   "slug": "copperas-cove-tx",
+   "keywords": 13,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/copperas-cove-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/copperas-cove-tx/"
+  },
+  {
    "place": "Coraopolis, PA",
    "slug": "coraopolis-pa",
    "keywords": 29,
@@ -2605,6 +3004,27 @@
    "keywords": 35,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/corinth-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/corinth-tx/"
+  },
+  {
+   "place": "Corpus Christi, TX",
+   "slug": "corpus-christi-tx",
+   "keywords": 68,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/corpus-christi-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/corpus-christi-tx/"
+  },
+  {
+   "place": "Corsicana, TX",
+   "slug": "corsicana-tx",
+   "keywords": 27,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/corsicana-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/corsicana-tx/"
+  },
+  {
+   "place": "Coryell County, TX",
+   "slug": "coryell-county-tx",
+   "keywords": 11,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/coryell-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/coryell-county-tx/"
   },
   {
    "place": "Cottleville, MO",
@@ -2633,6 +3053,13 @@
    "keywords": 47,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/countryside-il.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/countryside-il/"
+  },
+  {
+   "place": "Coupland, TX",
+   "slug": "coupland-tx",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/coupland-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/coupland-tx/"
   },
   {
    "place": "Covington, KY",
@@ -2728,9 +3155,16 @@
   {
    "place": "Cross Roads, TX",
    "slug": "cross-roads-tx",
-   "keywords": 9,
+   "keywords": 10,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/cross-roads-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/cross-roads-tx/"
+  },
+  {
+   "place": "Crowley, TX",
+   "slug": "crowley-tx",
+   "keywords": 35,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/crowley-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/crowley-tx/"
   },
   {
    "place": "Crown Point, IN",
@@ -2810,6 +3244,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/dalworthington-gardens-tx/"
   },
   {
+   "place": "Danbury, TX",
+   "slug": "danbury-tx",
+   "keywords": 6,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/danbury-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/danbury-tx/"
+  },
+  {
    "place": "Dane County, WI",
    "slug": "dane-county-wi",
    "keywords": 1,
@@ -2822,6 +3263,13 @@
    "keywords": 9,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/danville-in.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/danville-in/"
+  },
+  {
+   "place": "Dardanelle, AR",
+   "slug": "dardanelle-ar",
+   "keywords": 9,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/dardanelle-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/dardanelle-ar/"
   },
   {
    "place": "Dardenne Prairie, MO",
@@ -2917,7 +3365,7 @@
   {
    "place": "Deer Park, TX",
    "slug": "deer-park-tx",
-   "keywords": 15,
+   "keywords": 30,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/deer-park-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/deer-park-tx/"
   },
@@ -2950,6 +3398,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/dekalb-county-ga/"
   },
   {
+   "place": "Del Rio, TX",
+   "slug": "del-rio-tx",
+   "keywords": 10,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/del-rio-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/del-rio-tx/"
+  },
+  {
    "place": "Delaware, OH",
    "slug": "delaware-oh",
    "keywords": 30,
@@ -2971,9 +3426,16 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/deltona-fl/"
   },
   {
+   "place": "Denison, TX",
+   "slug": "denison-tx",
+   "keywords": 31,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/denison-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/denison-tx/"
+  },
+  {
    "place": "Denton, TX",
    "slug": "denton-tx",
-   "keywords": 74,
+   "keywords": 75,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/denton-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/denton-tx/"
   },
@@ -3034,6 +3496,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/detroit-mi/"
   },
   {
+   "place": "Devine, TX",
+   "slug": "devine-tx",
+   "keywords": 14,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/devine-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/devine-tx/"
+  },
+  {
    "place": "Dickinson, TX",
    "slug": "dickinson-tx",
    "keywords": 9,
@@ -3060,6 +3529,13 @@
    "keywords": 12,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/dolton-il.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/dolton-il/"
+  },
+  {
+   "place": "Donna, TX",
+   "slug": "donna-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/donna-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/donna-tx/"
   },
   {
    "place": "Doraville, GA",
@@ -3125,6 +3601,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/dravosburg-pa/"
   },
   {
+   "place": "Dripping Springs, TX",
+   "slug": "dripping-springs-tx",
+   "keywords": 39,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/dripping-springs-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/dripping-springs-tx/"
+  },
+  {
    "place": "Dublin, OH",
    "slug": "dublin-oh",
    "keywords": 40,
@@ -3141,7 +3624,7 @@
   {
    "place": "Duncanville, TX",
    "slug": "duncanville-tx",
-   "keywords": 27,
+   "keywords": 33,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/duncanville-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/duncanville-tx/"
   },
@@ -3193,6 +3676,13 @@
    "keywords": 61,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/eagan-mn.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/eagan-mn/"
+  },
+  {
+   "place": "Eagle Pass, TX",
+   "slug": "eagle-pass-tx",
+   "keywords": 32,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/eagle-pass-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/eagle-pass-tx/"
   },
   {
    "place": "East Alton, IL",
@@ -3265,6 +3755,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/ecorse-mi/"
   },
   {
+   "place": "Edcouch, TX",
+   "slug": "edcouch-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/edcouch-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/edcouch-tx/"
+  },
+  {
    "place": "Eden Prairie, MN",
    "slug": "eden-prairie-mn",
    "keywords": 49,
@@ -3328,6 +3825,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/edina-mn/"
   },
   {
+   "place": "Edinburg, TX",
+   "slug": "edinburg-tx",
+   "keywords": 36,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/edinburg-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/edinburg-tx/"
+  },
+  {
    "place": "Edwardsville, IL",
    "slug": "edwardsville-il",
    "keywords": 43,
@@ -3340,6 +3844,13 @@
    "keywords": 490,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/el-paso-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/el-paso-tx/"
+  },
+  {
+   "place": "El Paso County, TX",
+   "slug": "el-paso-county-tx",
+   "keywords": 13,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/el-paso-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/el-paso-county-tx/"
   },
   {
    "place": "Ela Township, IL",
@@ -3361,6 +3872,13 @@
    "keywords": 1,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/elbing-ks.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/elbing-ks/"
+  },
+  {
+   "place": "Elgin, TX",
+   "slug": "elgin-tx",
+   "keywords": 36,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/elgin-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/elgin-tx/"
   },
   {
    "place": "Elizabeth, PA",
@@ -3405,9 +3923,16 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/elkhorn-precinct-ne/"
   },
   {
+   "place": "Elkins, AR",
+   "slug": "elkins-ar",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/elkins-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/elkins-ar/"
+  },
+  {
    "place": "Ellis County, TX",
    "slug": "ellis-county-tx",
-   "keywords": 3,
+   "keywords": 4,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/ellis-county-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/ellis-county-tx/"
   },
@@ -3447,6 +3972,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/elmwood-place-oh/"
   },
   {
+   "place": "Elsa, TX",
+   "slug": "elsa-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/elsa-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/elsa-tx/"
+  },
+  {
    "place": "Elsah, IL",
    "slug": "elsah-il",
    "keywords": 1,
@@ -3475,6 +4007,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/emsworth-pa/"
   },
   {
+   "place": "England, AR",
+   "slug": "england-ar",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/england-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/england-ar/"
+  },
+  {
    "place": "Englewood, CO",
    "slug": "englewood-co",
    "keywords": 58,
@@ -3484,7 +4023,7 @@
   {
    "place": "Ennis, TX",
    "slug": "ennis-tx",
-   "keywords": 1,
+   "keywords": 10,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/ennis-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/ennis-tx/"
   },
@@ -3526,7 +4065,7 @@
   {
    "place": "Euless, TX",
    "slug": "euless-tx",
-   "keywords": 47,
+   "keywords": 50,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/euless-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/euless-tx/"
   },
@@ -3671,6 +4210,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/fallowfield-township-pa/"
   },
   {
+   "place": "Falls City, TX",
+   "slug": "falls-city-tx",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/falls-city-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/falls-city-tx/"
+  },
+  {
    "place": "Farley, MO",
    "slug": "farley-mo",
    "keywords": 2,
@@ -3680,7 +4226,7 @@
   {
    "place": "Farmers Branch, TX",
    "slug": "farmers-branch-tx",
-   "keywords": 35,
+   "keywords": 37,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/farmers-branch-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/farmers-branch-tx/"
   },
@@ -3690,6 +4236,13 @@
    "keywords": 23,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/farmersville-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/farmersville-tx/"
+  },
+  {
+   "place": "Farmington, AR",
+   "slug": "farmington-ar",
+   "keywords": 10,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/farmington-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/farmington-ar/"
   },
   {
    "place": "Farmington, MI",
@@ -3711,6 +4264,13 @@
    "keywords": 24,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/fate-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/fate-tx/"
+  },
+  {
+   "place": "Faulkner County, AR",
+   "slug": "faulkner-county-ar",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/faulkner-county-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/faulkner-county-ar/"
   },
   {
    "place": "Fawn Township, PA",
@@ -3832,6 +4392,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/florence-ky/"
   },
   {
+   "place": "Floresville, TX",
+   "slug": "floresville-tx",
+   "keywords": 39,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/floresville-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/floresville-tx/"
+  },
+  {
    "place": "Florissant, MO",
    "slug": "florissant-mo",
    "keywords": 27,
@@ -3848,9 +4415,16 @@
   {
    "place": "Flower Mound, TX",
    "slug": "flower-mound-tx",
-   "keywords": 80,
+   "keywords": 81,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/flower-mound-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/flower-mound-tx/"
+  },
+  {
+   "place": "Forest Hill, TX",
+   "slug": "forest-hill-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/forest-hill-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/forest-hill-tx/"
   },
   {
    "place": "Forest Hills, PA",
@@ -3897,7 +4471,7 @@
   {
    "place": "Forney, TX",
    "slug": "forney-tx",
-   "keywords": 38,
+   "keywords": 39,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/forney-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/forney-tx/"
   },
@@ -3911,7 +4485,7 @@
   {
    "place": "Fort Bend County, TX",
    "slug": "fort-bend-county-tx",
-   "keywords": 39,
+   "keywords": 41,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/fort-bend-county-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/fort-bend-county-tx/"
   },
@@ -3930,6 +4504,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/fort-mitchell-ky/"
   },
   {
+   "place": "Fort Smith, AR",
+   "slug": "fort-smith-ar",
+   "keywords": 74,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/fort-smith-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/fort-smith-ar/"
+  },
+  {
    "place": "Fort Snelling Unorganized Territory, MN",
    "slug": "fort-snelling-unorganized-territory-mn",
    "keywords": 6,
@@ -3946,7 +4527,7 @@
   {
    "place": "Fort Worth, TX",
    "slug": "fort-worth-tx",
-   "keywords": 22,
+   "keywords": 94,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/fort-worth-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/fort-worth-tx/"
   },
@@ -4079,7 +4660,7 @@
   {
    "place": "Friendswood, TX",
    "slug": "friendswood-tx",
-   "keywords": 12,
+   "keywords": 26,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/friendswood-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/friendswood-tx/"
   },
@@ -4128,7 +4709,7 @@
   {
    "place": "Galveston, TX",
    "slug": "galveston-tx",
-   "keywords": 2,
+   "keywords": 23,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/galveston-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/galveston-tx/"
   },
@@ -4154,6 +4735,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/garden-city-mi/"
   },
   {
+   "place": "Garden Ridge, TX",
+   "slug": "garden-ridge-tx",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/garden-ridge-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/garden-ridge-tx/"
+  },
+  {
    "place": "Gardner, KS",
    "slug": "gardner-ks",
    "keywords": 11,
@@ -4163,7 +4751,7 @@
   {
    "place": "Garland, TX",
    "slug": "garland-tx",
-   "keywords": 55,
+   "keywords": 61,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/garland-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/garland-tx/"
   },
@@ -4187,6 +4775,20 @@
    "keywords": 12,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/genoa-township-oh.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/genoa-township-oh/"
+  },
+  {
+   "place": "Gentry, AR",
+   "slug": "gentry-ar",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/gentry-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/gentry-ar/"
+  },
+  {
+   "place": "Georgetown, TX",
+   "slug": "georgetown-tx",
+   "keywords": 96,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/georgetown-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/georgetown-tx/"
   },
   {
    "place": "Gibraltar, MI",
@@ -4301,6 +4903,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/godfrey-il/"
   },
   {
+   "place": "Godley, TX",
+   "slug": "godley-tx",
+   "keywords": 14,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/godley-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/godley-tx/"
+  },
+  {
    "place": "Golden, CO",
    "slug": "golden-co",
    "keywords": 63,
@@ -4392,6 +5001,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/granger-ia/"
   },
   {
+   "place": "Granger, TX",
+   "slug": "granger-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/granger-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/granger-tx/"
+  },
+  {
    "place": "Granite City, IL",
    "slug": "granite-city-il",
    "keywords": 11,
@@ -4404,6 +5020,20 @@
    "keywords": 53,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/grapevine-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/grapevine-tx/"
+  },
+  {
+   "place": "Gravette, AR",
+   "slug": "gravette-ar",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/gravette-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/gravette-ar/"
+  },
+  {
+   "place": "Grayson County, TX",
+   "slug": "grayson-county-tx",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/grayson-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/grayson-county-tx/"
   },
   {
    "place": "Green Park, MO",
@@ -4476,6 +5106,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/greenfield-township-oh/"
   },
   {
+   "place": "Greenland, AR",
+   "slug": "greenland-ar",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/greenland-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/greenland-ar/"
+  },
+  {
    "place": "Greensboro, NC",
    "slug": "greensboro-nc",
    "keywords": 490,
@@ -4488,6 +5125,13 @@
    "keywords": 490,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/greenville-sc.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/greenville-sc/"
+  },
+  {
+   "place": "Greenville, TX",
+   "slug": "greenville-tx",
+   "keywords": 54,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/greenville-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/greenville-tx/"
   },
   {
    "place": "Greenwood, IN",
@@ -4516,6 +5160,13 @@
    "keywords": 47,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/greenwood-village-co.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/greenwood-village-co/"
+  },
+  {
+   "place": "Gregg County, TX",
+   "slug": "gregg-county-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/gregg-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/gregg-county-tx/"
   },
   {
    "place": "Gretna, NE",
@@ -4595,6 +5246,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/groveport-oh/"
   },
   {
+   "place": "Groves, TX",
+   "slug": "groves-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/groves-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/groves-tx/"
+  },
+  {
+   "place": "Guadalupe County, TX",
+   "slug": "guadalupe-county-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/guadalupe-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/guadalupe-county-tx/"
+  },
+  {
    "place": "Gwinnett County, GA",
    "slug": "gwinnett-county-ga",
    "keywords": 65,
@@ -4607,6 +5272,13 @@
    "keywords": 1,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/gypsum-township-ks.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/gypsum-township-ks/"
+  },
+  {
+   "place": "Hackberry, TX",
+   "slug": "hackberry-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/hackberry-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/hackberry-tx/"
   },
   {
    "place": "Hales Corners, WI",
@@ -4625,7 +5297,7 @@
   {
    "place": "Haltom City, TX",
    "slug": "haltom-city-tx",
-   "keywords": 1,
+   "keywords": 29,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/haltom-city-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/haltom-city-tx/"
   },
@@ -4700,11 +5372,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/hapeville-ga/"
   },
   {
+   "place": "Harker Heights, TX",
+   "slug": "harker-heights-tx",
+   "keywords": 22,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/harker-heights-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/harker-heights-tx/"
+  },
+  {
    "place": "Harlem Township, OH",
    "slug": "harlem-township-oh",
    "keywords": 1,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/harlem-township-oh.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/harlem-township-oh/"
+  },
+  {
+   "place": "Harlingen, TX",
+   "slug": "harlingen-tx",
+   "keywords": 34,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/harlingen-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/harlingen-tx/"
   },
   {
    "place": "Harmar Township, PA",
@@ -4723,7 +5409,7 @@
   {
    "place": "Harris County, TX",
    "slug": "harris-county-tx",
-   "keywords": 81,
+   "keywords": 88,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/harris-county-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/harris-county-tx/"
   },
@@ -4740,6 +5426,13 @@
    "keywords": 8,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/harrison-oh.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/harrison-oh/"
+  },
+  {
+   "place": "Harrison County, TX",
+   "slug": "harrison-county-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/harrison-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/harrison-county-tx/"
   },
   {
    "place": "Harrison Township, IN",
@@ -4812,11 +5505,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/harwood-heights-il/"
   },
   {
+   "place": "Haslet, TX",
+   "slug": "haslet-tx",
+   "keywords": 9,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/haslet-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/haslet-tx/"
+  },
+  {
    "place": "Hawthorn Woods, IL",
    "slug": "hawthorn-woods-il",
    "keywords": 6,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/hawthorn-woods-il.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/hawthorn-woods-il/"
+  },
+  {
+   "place": "Hays County, TX",
+   "slug": "hays-county-tx",
+   "keywords": 18,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/hays-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/hays-county-tx/"
   },
   {
    "place": "Hazel Crest, IL",
@@ -4861,6 +5568,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/heidelberg-pa/"
   },
   {
+   "place": "Helotes, TX",
+   "slug": "helotes-tx",
+   "keywords": 25,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/helotes-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/helotes-tx/"
+  },
+  {
    "place": "Hempfield Township, PA",
    "slug": "hempfield-township-pa",
    "keywords": 1,
@@ -4889,9 +5603,16 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/henry-county-ga/"
   },
   {
+   "place": "Hewitt, TX",
+   "slug": "hewitt-tx",
+   "keywords": 13,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/hewitt-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/hewitt-tx/"
+  },
+  {
    "place": "Hickory Creek, TX",
    "slug": "hickory-creek-tx",
-   "keywords": 14,
+   "keywords": 15,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/hickory-creek-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/hickory-creek-tx/"
   },
@@ -4903,11 +5624,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/hickory-hills-il/"
   },
   {
+   "place": "Hidalgo, TX",
+   "slug": "hidalgo-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/hidalgo-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/hidalgo-tx/"
+  },
+  {
    "place": "High Ridge Township, MO",
    "slug": "high-ridge-township-mo",
    "keywords": 19,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/high-ridge-township-mo.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/high-ridge-township-mo/"
+  },
+  {
+   "place": "Highfill, AR",
+   "slug": "highfill-ar",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/highfill-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/highfill-ar/"
   },
   {
    "place": "Highland, IN",
@@ -4957,6 +5692,20 @@
    "keywords": 5,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/highwood-il.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/highwood-il/"
+  },
+  {
+   "place": "Hill Country Village, TX",
+   "slug": "hill-country-village-tx",
+   "keywords": 9,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/hill-country-village-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/hill-country-village-tx/"
+  },
+  {
+   "place": "Hill Township, AR",
+   "slug": "hill-township-ar",
+   "keywords": 13,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/hill-township-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/hill-township-ar/"
   },
   {
    "place": "Hilliar Township, OH",
@@ -5036,6 +5785,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/holly-springs-ga/"
   },
   {
+   "place": "Hollywood Park, TX",
+   "slug": "hollywood-park-tx",
+   "keywords": 8,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/hollywood-park-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/hollywood-park-tx/"
+  },
+  {
    "place": "Homer Glen, IL",
    "slug": "homer-glen-il",
    "keywords": 29,
@@ -5078,6 +5834,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/hopkins-mn/"
   },
   {
+   "place": "Horizon City, TX",
+   "slug": "horizon-city-tx",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/horizon-city-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/horizon-city-tx/"
+  },
+  {
+   "place": "Hot Springs, AR",
+   "slug": "hot-springs-ar",
+   "keywords": 31,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/hot-springs-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/hot-springs-ar/"
+  },
+  {
    "place": "Houston, TX",
    "slug": "houston-tx",
    "keywords": 490,
@@ -5092,6 +5862,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/hudson-co/"
   },
   {
+   "place": "Hudson Oaks, TX",
+   "slug": "hudson-oaks-tx",
+   "keywords": 8,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/hudson-oaks-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/hudson-oaks-tx/"
+  },
+  {
    "place": "Hugo, MN",
    "slug": "hugo-mn",
    "keywords": 14,
@@ -5101,7 +5878,7 @@
   {
    "place": "Humble, TX",
    "slug": "humble-tx",
-   "keywords": 46,
+   "keywords": 54,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/humble-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/humble-tx/"
   },
@@ -5120,6 +5897,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/huntington-woods-mi/"
   },
   {
+   "place": "Huntsville, TX",
+   "slug": "huntsville-tx",
+   "keywords": 23,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/huntsville-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/huntsville-tx/"
+  },
+  {
    "place": "Huron Charter Township, MI",
    "slug": "huron-charter-township-mi",
    "keywords": 4,
@@ -5129,7 +5913,7 @@
   {
    "place": "Hurst, TX",
    "slug": "hurst-tx",
-   "keywords": 42,
+   "keywords": 43,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/hurst-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/hurst-tx/"
   },
@@ -5139,6 +5923,13 @@
    "keywords": 58,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/hutchinson-ks.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/hutchinson-ks/"
+  },
+  {
+   "place": "Hutto, TX",
+   "slug": "hutto-tx",
+   "keywords": 30,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/hutto-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/hutto-tx/"
   },
   {
    "place": "Huxley, IA",
@@ -5211,6 +6002,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/indianola-ia/"
   },
   {
+   "place": "Ingleside, TX",
+   "slug": "ingleside-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/ingleside-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/ingleside-tx/"
+  },
+  {
    "place": "Ingram, PA",
    "slug": "ingram-pa",
    "keywords": 2,
@@ -5234,7 +6032,7 @@
   {
    "place": "Irving, TX",
    "slug": "irving-tx",
-   "keywords": 65,
+   "keywords": 67,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/irving-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/irving-tx/"
   },
@@ -5281,11 +6079,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/jackson-wi/"
   },
   {
+   "place": "Jacksonville, AR",
+   "slug": "jacksonville-ar",
+   "keywords": 35,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/jacksonville-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/jacksonville-ar/"
+  },
+  {
    "place": "Jacksonville, FL",
    "slug": "jacksonville-fl",
    "keywords": 490,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/jacksonville-fl.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/jacksonville-fl/"
+  },
+  {
+   "place": "Jarrell, TX",
+   "slug": "jarrell-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/jarrell-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/jarrell-tx/"
   },
   {
    "place": "Jefferson City, MO",
@@ -5300,6 +6112,13 @@
    "keywords": 62,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/jefferson-county-co.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/jefferson-county-co/"
+  },
+  {
+   "place": "Jefferson County, TX",
+   "slug": "jefferson-county-tx",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/jefferson-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/jefferson-county-tx/"
   },
   {
    "place": "Jefferson Hills, PA",
@@ -5351,6 +6170,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/johns-creek-ga/"
   },
   {
+   "place": "Johnson, AR",
+   "slug": "johnson-ar",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/johnson-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/johnson-ar/"
+  },
+  {
    "place": "Johnson County, IN",
    "slug": "johnson-county-in",
    "keywords": 6,
@@ -5363,6 +6189,13 @@
    "keywords": 2,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/johnson-county-ks.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/johnson-county-ks/"
+  },
+  {
+   "place": "Johnson County, TX",
+   "slug": "johnson-county-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/johnson-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/johnson-county-tx/"
   },
   {
    "place": "Johnston, IA",
@@ -5386,6 +6219,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/joliet-il/"
   },
   {
+   "place": "Jonesboro, AR",
+   "slug": "jonesboro-ar",
+   "keywords": 47,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/jonesboro-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/jonesboro-ar/"
+  },
+  {
    "place": "Jonesboro, GA",
    "slug": "jonesboro-ga",
    "keywords": 21,
@@ -5393,11 +6233,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/jonesboro-ga/"
   },
   {
+   "place": "Jonestown, TX",
+   "slug": "jonestown-tx",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/jonestown-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/jonestown-tx/"
+  },
+  {
    "place": "Joplin, MO",
    "slug": "joplin-mo",
    "keywords": 37,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/joplin-mo.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/joplin-mo/"
+  },
+  {
+   "place": "Joshua, TX",
+   "slug": "joshua-tx",
+   "keywords": 31,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/joshua-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/joshua-tx/"
   },
   {
    "place": "Justice, IL",
@@ -5430,7 +6284,7 @@
   {
    "place": "Kaufman, TX",
    "slug": "kaufman-tx",
-   "keywords": 16,
+   "keywords": 17,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/kaufman-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/kaufman-tx/"
   },
@@ -5465,7 +6319,7 @@
   {
    "place": "Keller, TX",
    "slug": "keller-tx",
-   "keywords": 24,
+   "keywords": 48,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/keller-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/keller-tx/"
   },
@@ -5482,6 +6336,13 @@
    "keywords": 1,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/kemp-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/kemp-tx/"
+  },
+  {
+   "place": "Kempner, TX",
+   "slug": "kempner-tx",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/kempner-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/kempner-tx/"
   },
   {
    "place": "Kenilworth, IL",
@@ -5519,11 +6380,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/kenton-county-ky/"
   },
   {
+   "place": "Kerrville, TX",
+   "slug": "kerrville-tx",
+   "keywords": 46,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/kerrville-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/kerrville-tx/"
+  },
+  {
    "place": "Kildeer, IL",
    "slug": "kildeer-il",
    "keywords": 6,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/kildeer-il.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/kildeer-il/"
+  },
+  {
+   "place": "Killeen, TX",
+   "slug": "killeen-tx",
+   "keywords": 35,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/killeen-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/killeen-tx/"
   },
   {
    "place": "Kingsville, MI",
@@ -5540,6 +6415,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/kinloch-mo/"
   },
   {
+   "place": "Kirby, TX",
+   "slug": "kirby-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/kirby-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/kirby-tx/"
+  },
+  {
    "place": "Kirkwood, MO",
    "slug": "kirkwood-mo",
    "keywords": 28,
@@ -5554,6 +6436,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/kiryas-joel-ny/"
   },
   {
+   "place": "Knollwood, TX",
+   "slug": "knollwood-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/knollwood-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/knollwood-tx/"
+  },
+  {
    "place": "Knoxville, TN",
    "slug": "knoxville-tn",
    "keywords": 490,
@@ -5566,6 +6455,13 @@
    "keywords": 1,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/krum-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/krum-tx/"
+  },
+  {
+   "place": "Kyle, TX",
+   "slug": "kyle-tx",
+   "keywords": 51,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/kyle-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/kyle-tx/"
   },
   {
    "place": "La Grange, IL",
@@ -5591,9 +6487,16 @@
   {
    "place": "La Porte, TX",
    "slug": "la-porte-tx",
-   "keywords": 8,
+   "keywords": 45,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/la-porte-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/la-porte-tx/"
+  },
+  {
+   "place": "La Vernia, TX",
+   "slug": "la-vernia-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/la-vernia-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/la-vernia-tx/"
   },
   {
    "place": "La Vista, NE",
@@ -5601,6 +6504,13 @@
    "keywords": 14,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/la-vista-ne.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/la-vista-ne/"
+  },
+  {
+   "place": "Lacy Lakeview, TX",
+   "slug": "lacy-lakeview-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lacy-lakeview-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/lacy-lakeview-tx/"
   },
   {
    "place": "Ladue, MO",
@@ -5615,6 +6525,20 @@
    "keywords": 54,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lafayette-co.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/lafayette-co/"
+  },
+  {
+   "place": "Lago Vista, TX",
+   "slug": "lago-vista-tx",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lago-vista-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/lago-vista-tx/"
+  },
+  {
+   "place": "Laguna Vista, TX",
+   "slug": "laguna-vista-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/laguna-vista-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/laguna-vista-tx/"
   },
   {
    "place": "Lake Bluff, IL",
@@ -5659,6 +6583,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/lake-forest-il/"
   },
   {
+   "place": "Lake Jackson, TX",
+   "slug": "lake-jackson-tx",
+   "keywords": 25,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lake-jackson-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/lake-jackson-tx/"
+  },
+  {
    "place": "Lake Saint Louis, MO",
    "slug": "lake-saint-louis-mo",
    "keywords": 7,
@@ -5671,6 +6602,13 @@
    "keywords": 1,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lake-station-in.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/lake-station-in/"
+  },
+  {
+   "place": "Lake Worth, TX",
+   "slug": "lake-worth-tx",
+   "keywords": 13,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lake-worth-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/lake-worth-tx/"
   },
   {
    "place": "Lake Zurich, IL",
@@ -5706,6 +6644,13 @@
    "keywords": 2,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lakeside-park-ky.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/lakeside-park-ky/"
+  },
+  {
+   "place": "Lakeway, TX",
+   "slug": "lakeway-tx",
+   "keywords": 44,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lakeway-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/lakeway-tx/"
   },
   {
    "place": "Lakewood, CO",
@@ -5755,6 +6700,13 @@
    "keywords": 1,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/laplatte-i-precinct-ne.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/laplatte-i-precinct-ne/"
+  },
+  {
+   "place": "Laredo, TX",
+   "slug": "laredo-tx",
+   "keywords": 40,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/laredo-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/laredo-tx/"
   },
   {
    "place": "Las Vegas, NV",
@@ -5836,9 +6788,16 @@
   {
    "place": "League City, TX",
    "slug": "league-city-tx",
-   "keywords": 37,
+   "keywords": 39,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/league-city-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/league-city-tx/"
+  },
+  {
+   "place": "Leander, TX",
+   "slug": "leander-tx",
+   "keywords": 88,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/leander-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/leander-tx/"
   },
   {
    "place": "Leavenworth, KS",
@@ -5911,6 +6870,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/lenexa-ks/"
   },
   {
+   "place": "Leon Valley, TX",
+   "slug": "leon-valley-tx",
+   "keywords": 28,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/leon-valley-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/leon-valley-tx/"
+  },
+  {
    "place": "Lewis Township, IA",
    "slug": "lewis-township-ia",
    "keywords": 2,
@@ -5920,7 +6886,7 @@
   {
    "place": "Lewisville, TX",
    "slug": "lewisville-tx",
-   "keywords": 88,
+   "keywords": 89,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lewisville-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/lewisville-tx/"
   },
@@ -5951,6 +6917,20 @@
    "keywords": 4,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/liberty-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/liberty-tx/"
+  },
+  {
+   "place": "Liberty County, TX",
+   "slug": "liberty-county-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/liberty-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/liberty-county-tx/"
+  },
+  {
+   "place": "Liberty Hill, TX",
+   "slug": "liberty-hill-tx",
+   "keywords": 34,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/liberty-hill-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/liberty-hill-tx/"
   },
   {
    "place": "Liberty Township, OH",
@@ -6053,7 +7033,7 @@
   {
    "place": "Little Elm, TX",
    "slug": "little-elm-tx",
-   "keywords": 28,
+   "keywords": 31,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/little-elm-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/little-elm-tx/"
   },
@@ -6072,6 +7052,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/littleton-co/"
   },
   {
+   "place": "Live Oak, TX",
+   "slug": "live-oak-tx",
+   "keywords": 12,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/live-oak-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/live-oak-tx/"
+  },
+  {
    "place": "Livonia, MI",
    "slug": "livonia-mi",
    "keywords": 58,
@@ -6084,6 +7071,13 @@
    "keywords": 2,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lochbuie-co.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/lochbuie-co/"
+  },
+  {
+   "place": "Lockhart, TX",
+   "slug": "lockhart-tx",
+   "keywords": 29,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lockhart-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/lockhart-tx/"
   },
   {
    "place": "Lockport, IL",
@@ -6105,6 +7099,13 @@
    "keywords": 38,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lombard-il.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/lombard-il/"
+  },
+  {
+   "place": "London, AR",
+   "slug": "london-ar",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/london-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/london-ar/"
   },
   {
    "place": "London, OH",
@@ -6149,6 +7150,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/longmont-co/"
   },
   {
+   "place": "Longview, TX",
+   "slug": "longview-tx",
+   "keywords": 70,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/longview-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/longview-tx/"
+  },
+  {
+   "place": "Lonoke County, AR",
+   "slug": "lonoke-county-ar",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lonoke-county-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/lonoke-county-ar/"
+  },
+  {
    "place": "Loretto, MN",
    "slug": "loretto-mn",
    "keywords": 1,
@@ -6161,6 +7176,13 @@
    "keywords": 490,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/los-angeles-ca.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/los-angeles-ca/"
+  },
+  {
+   "place": "Los Fresnos, TX",
+   "slug": "los-fresnos-tx",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/los-fresnos-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/los-fresnos-tx/"
   },
   {
    "place": "Louisburg, KS",
@@ -6205,11 +7227,32 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/loveland-oh/"
   },
   {
+   "place": "Lowell, AR",
+   "slug": "lowell-ar",
+   "keywords": 7,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lowell-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/lowell-ar/"
+  },
+  {
    "place": "Lower Burrell, PA",
    "slug": "lower-burrell-pa",
    "keywords": 7,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lower-burrell-pa.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/lower-burrell-pa/"
+  },
+  {
+   "place": "Lubbock, TX",
+   "slug": "lubbock-tx",
+   "keywords": 82,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lubbock-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/lubbock-tx/"
+  },
+  {
+   "place": "Lubbock County, TX",
+   "slug": "lubbock-county-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lubbock-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/lubbock-county-tx/"
   },
   {
    "place": "Lucas, TX",
@@ -6224,6 +7267,13 @@
    "keywords": 2,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/ludlow-ky.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/ludlow-ky/"
+  },
+  {
+   "place": "Lufkin, TX",
+   "slug": "lufkin-tx",
+   "keywords": 51,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lufkin-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/lufkin-tx/"
   },
   {
    "place": "Lynwood, IL",
@@ -6245,6 +7295,13 @@
    "keywords": 3,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lyons-township-il.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/lyons-township-il/"
+  },
+  {
+   "place": "Lytle, TX",
+   "slug": "lytle-tx",
+   "keywords": 8,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/lytle-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/lytle-tx/"
   },
   {
    "place": "Mableton, GA",
@@ -6373,9 +7430,16 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/manor-pa/"
   },
   {
+   "place": "Manor, TX",
+   "slug": "manor-tx",
+   "keywords": 24,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/manor-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/manor-tx/"
+  },
+  {
    "place": "Mansfield, TX",
    "slug": "mansfield-tx",
-   "keywords": 34,
+   "keywords": 37,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/mansfield-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/mansfield-tx/"
   },
@@ -6448,6 +7512,13 @@
    "keywords": 103,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/marietta-ga.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/marietta-ga/"
+  },
+  {
+   "place": "Marion, TX",
+   "slug": "marion-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/marion-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/marion-tx/"
   },
   {
    "place": "Markham, IL",
@@ -6527,11 +7598,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/matteson-il/"
   },
   {
+   "place": "Maumelle, AR",
+   "slug": "maumelle-ar",
+   "keywords": 7,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/maumelle-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/maumelle-ar/"
+  },
+  {
    "place": "Maxwell, IA",
    "slug": "maxwell-ia",
    "keywords": 2,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/maxwell-ia.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/maxwell-ia/"
+  },
+  {
+   "place": "Mayflower, AR",
+   "slug": "mayflower-ar",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/mayflower-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/mayflower-ar/"
   },
   {
    "place": "Maywood, IL",
@@ -6620,9 +7705,16 @@
   {
    "place": "Mckinney, TX",
    "slug": "mckinney-tx",
-   "keywords": 76,
+   "keywords": 81,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/mckinney-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/mckinney-tx/"
+  },
+  {
+   "place": "Mclennan County, TX",
+   "slug": "mclennan-county-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/mclennan-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/mclennan-county-tx/"
   },
   {
    "place": "Meadows Place, TX",
@@ -6655,7 +7747,7 @@
   {
    "place": "Melissa, TX",
    "slug": "melissa-tx",
-   "keywords": 1,
+   "keywords": 11,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/melissa-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/melissa-tx/"
   },
@@ -6765,6 +7857,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/middleton-wi/"
   },
   {
+   "place": "Midland, TX",
+   "slug": "midland-tx",
+   "keywords": 50,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/midland-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/midland-tx/"
+  },
+  {
+   "place": "Midland County, TX",
+   "slug": "midland-county-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/midland-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/midland-county-tx/"
+  },
+  {
    "place": "Midlothian, IL",
    "slug": "midlothian-il",
    "keywords": 15,
@@ -6870,6 +7976,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/mission-ks/"
   },
   {
+   "place": "Mission, TX",
+   "slug": "mission-tx",
+   "keywords": 22,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/mission-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/mission-tx/"
+  },
+  {
    "place": "Mission Woods, KS",
    "slug": "mission-woods-ks",
    "keywords": 1,
@@ -6879,7 +7992,7 @@
   {
    "place": "Missouri City, TX",
    "slug": "missouri-city-tx",
-   "keywords": 23,
+   "keywords": 27,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/missouri-city-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/missouri-city-tx/"
   },
@@ -6991,7 +8104,7 @@
   {
    "place": "Montgomery County, TX",
    "slug": "montgomery-county-tx",
-   "keywords": 52,
+   "keywords": 54,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/montgomery-county-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/montgomery-county-tx/"
   },
@@ -7164,11 +8277,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/muskego-wi/"
   },
   {
+   "place": "Nacogdoches, TX",
+   "slug": "nacogdoches-tx",
+   "keywords": 16,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/nacogdoches-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/nacogdoches-tx/"
+  },
+  {
    "place": "Naperville, IL",
    "slug": "naperville-il",
    "keywords": 85,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/naperville-il.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/naperville-il/"
+  },
+  {
+   "place": "Nash, TX",
+   "slug": "nash-tx",
+   "keywords": 9,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/nash-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/nash-tx/"
   },
   {
    "place": "Nashville, TN",
@@ -7183,6 +8310,27 @@
    "keywords": 3,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/nassau-bay-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/nassau-bay-tx/"
+  },
+  {
+   "place": "Natalia, TX",
+   "slug": "natalia-tx",
+   "keywords": 6,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/natalia-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/natalia-tx/"
+  },
+  {
+   "place": "Navarro County, TX",
+   "slug": "navarro-county-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/navarro-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/navarro-county-tx/"
+  },
+  {
+   "place": "Nederland, TX",
+   "slug": "nederland-tx",
+   "keywords": 16,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/nederland-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/nederland-tx/"
   },
   {
    "place": "Needville, TX",
@@ -7225,6 +8373,13 @@
    "keywords": 38,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/new-berlin-wi.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/new-berlin-wi/"
+  },
+  {
+   "place": "New Braunfels, TX",
+   "slug": "new-braunfels-tx",
+   "keywords": 72,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/new-braunfels-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/new-braunfels-tx/"
   },
   {
    "place": "New Brighton, MN",
@@ -7388,6 +8543,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/noblesville-in/"
   },
   {
+   "place": "Nolanville, TX",
+   "slug": "nolanville-tx",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/nolanville-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/nolanville-tx/"
+  },
+  {
+   "place": "Noonday, TX",
+   "slug": "noonday-tx",
+   "keywords": 5,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/noonday-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/noonday-tx/"
+  },
+  {
    "place": "Norcross, GA",
    "slug": "norcross-ga",
    "keywords": 19,
@@ -7470,6 +8639,13 @@
    "keywords": 26,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/north-kansas-city-mo.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/north-kansas-city-mo/"
+  },
+  {
+   "place": "North Little Rock, AR",
+   "slug": "north-little-rock-ar",
+   "keywords": 55,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/north-little-rock-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/north-little-rock-ar/"
   },
   {
    "place": "North Oaks, MN",
@@ -7558,7 +8734,7 @@
   {
    "place": "Northlake, TX",
    "slug": "northlake-tx",
-   "keywords": 7,
+   "keywords": 9,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/northlake-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/northlake-tx/"
   },
@@ -7724,6 +8900,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/obetz-oh/"
   },
   {
+   "place": "Odessa, TX",
+   "slug": "odessa-tx",
+   "keywords": 53,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/odessa-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/odessa-tx/"
+  },
+  {
    "place": "Ogden, UT",
    "slug": "ogden-ut",
    "keywords": 490,
@@ -7764,6 +8947,13 @@
    "keywords": 30,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/olivette-mo.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/olivette-mo/"
+  },
+  {
+   "place": "Olmos Park, TX",
+   "slug": "olmos-park-tx",
+   "keywords": 6,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/olmos-park-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/olmos-park-tx/"
   },
   {
    "place": "Olympia Fields, IL",
@@ -7899,6 +9089,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/palmetto-ga/"
   },
   {
+   "place": "Palmhurst, TX",
+   "slug": "palmhurst-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/palmhurst-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/palmhurst-tx/"
+  },
+  {
+   "place": "Palmview, TX",
+   "slug": "palmview-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/palmview-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/palmview-tx/"
+  },
+  {
    "place": "Palos Heights, IL",
    "slug": "palos-heights-il",
    "keywords": 19,
@@ -7922,7 +9126,7 @@
   {
    "place": "Pantego, TX",
    "slug": "pantego-tx",
-   "keywords": 11,
+   "keywords": 12,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/pantego-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/pantego-tx/"
   },
@@ -7946,6 +9150,20 @@
    "keywords": 4,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/papillion-second-ii-precinct-ne.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/papillion-second-ii-precinct-ne/"
+  },
+  {
+   "place": "Paragould, AR",
+   "slug": "paragould-ar",
+   "keywords": 20,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/paragould-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/paragould-ar/"
+  },
+  {
+   "place": "Paris, TX",
+   "slug": "paris-tx",
+   "keywords": 24,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/paris-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/paris-tx/"
   },
   {
    "place": "Paris Township, OH",
@@ -7990,6 +9208,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/parker-co/"
   },
   {
+   "place": "Parker County, TX",
+   "slug": "parker-county-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/parker-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/parker-county-tx/"
+  },
+  {
    "place": "Parkville, MO",
    "slug": "parkville-mo",
    "keywords": 24,
@@ -7999,7 +9224,7 @@
   {
    "place": "Pasadena, TX",
    "slug": "pasadena-tx",
-   "keywords": 28,
+   "keywords": 34,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/pasadena-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/pasadena-tx/"
   },
@@ -8088,6 +9313,27 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/peters-township-pa/"
   },
   {
+   "place": "Peñitas, TX",
+   "slug": "peñitas-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/peñitas-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/peñitas-tx/"
+  },
+  {
+   "place": "Pflugerville, TX",
+   "slug": "pflugerville-tx",
+   "keywords": 51,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/pflugerville-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/pflugerville-tx/"
+  },
+  {
+   "place": "Pharr, TX",
+   "slug": "pharr-tx",
+   "keywords": 17,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/pharr-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/pharr-tx/"
+  },
+  {
    "place": "Philadelphia, PA",
    "slug": "philadelphia-pa",
    "keywords": 490,
@@ -8121,6 +9367,13 @@
    "keywords": 17,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/pierce-township-oh.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/pierce-township-oh/"
+  },
+  {
+   "place": "Pine Bluff, AR",
+   "slug": "pine-bluff-ar",
+   "keywords": 33,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/pine-bluff-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/pine-bluff-ar/"
   },
   {
    "place": "Pine Township, PA",
@@ -8174,9 +9427,16 @@
   {
    "place": "Plano, TX",
    "slug": "plano-tx",
-   "keywords": 91,
+   "keywords": 93,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/plano-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/plano-tx/"
+  },
+  {
+   "place": "Plantersville, TX",
+   "slug": "plantersville-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/plantersville-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/plantersville-tx/"
   },
   {
    "place": "Platte City, MO",
@@ -8256,6 +9516,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/pleasant-valley-mo/"
   },
   {
+   "place": "Pleasant Valley, TX",
+   "slug": "pleasant-valley-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/pleasant-valley-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/pleasant-valley-tx/"
+  },
+  {
+   "place": "Pleasanton, TX",
+   "slug": "pleasanton-tx",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/pleasanton-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/pleasanton-tx/"
+  },
+  {
    "place": "Pleasantville, OH",
    "slug": "pleasantville-oh",
    "keywords": 2,
@@ -8319,6 +9593,27 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/pontoon-beach-il/"
   },
   {
+   "place": "Port Aransas, TX",
+   "slug": "port-aransas-tx",
+   "keywords": 17,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/port-aransas-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/port-aransas-tx/"
+  },
+  {
+   "place": "Port Arthur, TX",
+   "slug": "port-arthur-tx",
+   "keywords": 19,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/port-arthur-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/port-arthur-tx/"
+  },
+  {
+   "place": "Port Neches, TX",
+   "slug": "port-neches-tx",
+   "keywords": 6,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/port-neches-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/port-neches-tx/"
+  },
+  {
    "place": "Port Washington, WI",
    "slug": "port-washington-wi",
    "keywords": 2,
@@ -8340,6 +9635,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/portland-or/"
   },
   {
+   "place": "Portland, TX",
+   "slug": "portland-tx",
+   "keywords": 15,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/portland-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/portland-tx/"
+  },
+  {
    "place": "Posen, IL",
    "slug": "posen-il",
    "keywords": 2,
@@ -8347,11 +9649,39 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/posen-il/"
   },
   {
+   "place": "Poteet, TX",
+   "slug": "poteet-tx",
+   "keywords": 5,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/poteet-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/poteet-tx/"
+  },
+  {
+   "place": "Poth, TX",
+   "slug": "poth-tx",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/poth-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/poth-tx/"
+  },
+  {
    "place": "Pottawatomie County, KS",
    "slug": "pottawatomie-county-ks",
    "keywords": 13,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/pottawatomie-county-ks.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/pottawatomie-county-ks/"
+  },
+  {
+   "place": "Pottsboro, TX",
+   "slug": "pottsboro-tx",
+   "keywords": 19,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/pottsboro-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/pottsboro-tx/"
+  },
+  {
+   "place": "Pottsville, AR",
+   "slug": "pottsville-ar",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/pottsville-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/pottsville-ar/"
   },
   {
    "place": "Powder Springs, GA",
@@ -8366,6 +9696,13 @@
    "keywords": 16,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/powell-oh.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/powell-oh/"
+  },
+  {
+   "place": "Prairie Grove, AR",
+   "slug": "prairie-grove-ar",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/prairie-grove-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/prairie-grove-ar/"
   },
   {
    "place": "Prairie Township, OH",
@@ -8387,6 +9724,13 @@
    "keywords": 6,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/princeton-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/princeton-tx/"
+  },
+  {
+   "place": "Progreso, TX",
+   "slug": "progreso-tx",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/progreso-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/progreso-tx/"
   },
   {
    "place": "Prospect Heights, IL",
@@ -8412,7 +9756,7 @@
   {
    "place": "Providence Village, TX",
    "slug": "providence-village-tx",
-   "keywords": 4,
+   "keywords": 5,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/providence-village-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/providence-village-tx/"
   },
@@ -8457,6 +9801,13 @@
    "keywords": 12,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/ramsey-mn.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/ramsey-mn/"
+  },
+  {
+   "place": "Randall County, TX",
+   "slug": "randall-county-tx",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/randall-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/randall-county-tx/"
   },
   {
    "place": "Ray County, MO",
@@ -8522,6 +9873,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/reynoldsburg-oh/"
   },
   {
+   "place": "Rhome, TX",
+   "slug": "rhome-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/rhome-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/rhome-tx/"
+  },
+  {
    "place": "Rich Township, IL",
    "slug": "rich-township-il",
    "keywords": 4,
@@ -8531,7 +9889,7 @@
   {
    "place": "Richardson, TX",
    "slug": "richardson-tx",
-   "keywords": 72,
+   "keywords": 73,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/richardson-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/richardson-tx/"
   },
@@ -8587,7 +9945,7 @@
   {
    "place": "Richmond, TX",
    "slug": "richmond-tx",
-   "keywords": 46,
+   "keywords": 47,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/richmond-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/richmond-tx/"
   },
@@ -8611,6 +9969,13 @@
    "keywords": 11,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/richton-park-il.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/richton-park-il/"
+  },
+  {
+   "place": "Richwood, TX",
+   "slug": "richwood-tx",
+   "keywords": 5,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/richwood-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/richwood-tx/"
   },
   {
    "place": "Riley County, KS",
@@ -8699,7 +10064,7 @@
   {
    "place": "Roanoke, TX",
    "slug": "roanoke-tx",
-   "keywords": 42,
+   "keywords": 44,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/roanoke-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/roanoke-tx/"
   },
@@ -8718,6 +10083,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/robbinsdale-mn/"
   },
   {
+   "place": "Robinson, TX",
+   "slug": "robinson-tx",
+   "keywords": 10,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/robinson-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/robinson-tx/"
+  },
+  {
    "place": "Robinson Township, MO",
    "slug": "robinson-township-mo",
    "keywords": 2,
@@ -8730,6 +10102,13 @@
    "keywords": 39,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/robinson-township-pa.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/robinson-township-pa/"
+  },
+  {
+   "place": "Robstown, TX",
+   "slug": "robstown-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/robstown-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/robstown-tx/"
   },
   {
    "place": "Rochester, MI",
@@ -8823,6 +10202,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/roeland-park-ks/"
   },
   {
+   "place": "Rogers, AR",
+   "slug": "rogers-ar",
+   "keywords": 56,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/rogers-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/rogers-ar/"
+  },
+  {
    "place": "Rogers, MN",
    "slug": "rogers-mn",
    "keywords": 40,
@@ -8835,6 +10221,13 @@
    "keywords": 18,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/rolling-meadows-il.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/rolling-meadows-il/"
+  },
+  {
+   "place": "Rollingwood, TX",
+   "slug": "rollingwood-tx",
+   "keywords": 9,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/rollingwood-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/rollingwood-tx/"
   },
   {
    "place": "Roman Forest, TX",
@@ -8881,7 +10274,7 @@
   {
    "place": "Rosenberg, TX",
    "slug": "rosenberg-tx",
-   "keywords": 24,
+   "keywords": 32,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/rosenberg-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/rosenberg-tx/"
   },
@@ -8928,6 +10321,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/roswell-ga/"
   },
   {
+   "place": "Round Rock, TX",
+   "slug": "round-rock-tx",
+   "keywords": 81,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/round-rock-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/round-rock-tx/"
+  },
+  {
    "place": "Rowlett, TX",
    "slug": "rowlett-tx",
    "keywords": 23,
@@ -8956,6 +10356,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/royse-city-tx/"
   },
   {
+   "place": "Russellville, AR",
+   "slug": "russellville-ar",
+   "keywords": 79,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/russellville-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/russellville-ar/"
+  },
+  {
    "place": "Sachse, TX",
    "slug": "sachse-tx",
    "keywords": 39,
@@ -8975,6 +10382,13 @@
    "keywords": 1,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/saginaw-mo.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/saginaw-mo/"
+  },
+  {
+   "place": "Saginaw, TX",
+   "slug": "saginaw-tx",
+   "keywords": 6,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/saginaw-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/saginaw-tx/"
   },
   {
    "place": "Saint Albans Township, OH",
@@ -9089,6 +10503,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/saint-peters-mo/"
   },
   {
+   "place": "Salado, TX",
+   "slug": "salado-tx",
+   "keywords": 6,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/salado-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/salado-tx/"
+  },
+  {
    "place": "Salina, KS",
    "slug": "salina-ks",
    "keywords": 25,
@@ -9117,6 +10538,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/salt-lake-city-ut/"
   },
   {
+   "place": "San Angelo, TX",
+   "slug": "san-angelo-tx",
+   "keywords": 40,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/san-angelo-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/san-angelo-tx/"
+  },
+  {
    "place": "San Antonio, TX",
    "slug": "san-antonio-tx",
    "keywords": 490,
@@ -9124,11 +10552,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/san-antonio-tx/"
   },
   {
+   "place": "San Benito, TX",
+   "slug": "san-benito-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/san-benito-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/san-benito-tx/"
+  },
+  {
    "place": "San Diego, CA",
    "slug": "san-diego-ca",
    "keywords": 490,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/san-diego-ca.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/san-diego-ca/"
+  },
+  {
+   "place": "San Elizario, TX",
+   "slug": "san-elizario-tx",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/san-elizario-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/san-elizario-tx/"
   },
   {
    "place": "San Felipe, TX",
@@ -9152,11 +10594,32 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/san-jose-ca/"
   },
   {
+   "place": "San Juan, TX",
+   "slug": "san-juan-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/san-juan-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/san-juan-tx/"
+  },
+  {
+   "place": "San Marcos, TX",
+   "slug": "san-marcos-tx",
+   "keywords": 58,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/san-marcos-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/san-marcos-tx/"
+  },
+  {
    "place": "Sandy Springs, GA",
    "slug": "sandy-springs-ga",
    "keywords": 39,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/sandy-springs-ga.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/sandy-springs-ga/"
+  },
+  {
+   "place": "Sanger, TX",
+   "slug": "sanger-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/sanger-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/sanger-tx/"
   },
   {
    "place": "Santa Fe, TX",
@@ -9208,6 +10671,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/schererville-in/"
   },
   {
+   "place": "Schertz, TX",
+   "slug": "schertz-tx",
+   "keywords": 12,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/schertz-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/schertz-tx/"
+  },
+  {
    "place": "Schiller Park, IL",
    "slug": "schiller-park-il",
    "keywords": 13,
@@ -9257,11 +10727,32 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/seattle-wa/"
   },
   {
+   "place": "Sebastian County, AR",
+   "slug": "sebastian-county-ar",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/sebastian-county-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/sebastian-county-ar/"
+  },
+  {
    "place": "Sedgwick County, KS",
    "slug": "sedgwick-county-ks",
    "keywords": 5,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/sedgwick-county-ks.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/sedgwick-county-ks/"
+  },
+  {
+   "place": "Seguin, TX",
+   "slug": "seguin-tx",
+   "keywords": 34,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/seguin-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/seguin-tx/"
+  },
+  {
+   "place": "Selma, TX",
+   "slug": "selma-tx",
+   "keywords": 8,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/selma-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/selma-tx/"
   },
   {
    "place": "Seven Fields, PA",
@@ -9299,6 +10790,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/shaler-township-pa/"
   },
   {
+   "place": "Shallowater, TX",
+   "slug": "shallowater-tx",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/shallowater-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/shallowater-tx/"
+  },
+  {
    "place": "Sharonville, OH",
    "slug": "sharonville-oh",
    "keywords": 29,
@@ -9311,6 +10809,13 @@
    "keywords": 3,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/sharpsburg-pa.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/sharpsburg-pa/"
+  },
+  {
+   "place": "Shavano Park, TX",
+   "slug": "shavano-park-tx",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/shavano-park-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/shavano-park-tx/"
   },
   {
    "place": "Shawnee, KS",
@@ -9357,7 +10862,7 @@
   {
    "place": "Shenandoah, TX",
    "slug": "shenandoah-tx",
-   "keywords": 16,
+   "keywords": 18,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/shenandoah-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/shenandoah-tx/"
   },
@@ -9374,6 +10879,20 @@
    "keywords": 3,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/sheridan-in.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/sheridan-in/"
+  },
+  {
+   "place": "Sherman, TX",
+   "slug": "sherman-tx",
+   "keywords": 43,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/sherman-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/sherman-tx/"
+  },
+  {
+   "place": "Sherwood, AR",
+   "slug": "sherwood-ar",
+   "keywords": 25,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/sherwood-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/sherwood-ar/"
   },
   {
    "place": "Shiloh, IL",
@@ -9416,6 +10935,13 @@
    "keywords": 17,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/shrewsbury-mo.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/shrewsbury-mo/"
+  },
+  {
+   "place": "Siloam Springs, AR",
+   "slug": "siloam-springs-ar",
+   "keywords": 33,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/siloam-springs-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/siloam-springs-ar/"
   },
   {
    "place": "Silver City, IA",
@@ -9467,6 +10993,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/slinger-wi/"
   },
   {
+   "place": "Smith County, TX",
+   "slug": "smith-county-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/smith-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/smith-county-tx/"
+  },
+  {
    "place": "Smithville, MO",
    "slug": "smithville-mo",
    "keywords": 27,
@@ -9486,6 +11019,13 @@
    "keywords": 1,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/snellville-ga.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/snellville-ga/"
+  },
+  {
+   "place": "Socorro, TX",
+   "slug": "socorro-tx",
+   "keywords": 10,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/socorro-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/socorro-tx/"
   },
   {
    "place": "Somerset Township, PA",
@@ -9616,9 +11156,16 @@
   {
    "place": "Southlake, TX",
    "slug": "southlake-tx",
-   "keywords": 62,
+   "keywords": 64,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/southlake-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/southlake-tx/"
+  },
+  {
+   "place": "Southmayd, TX",
+   "slug": "southmayd-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/southmayd-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/southmayd-tx/"
   },
   {
    "place": "Southport, IN",
@@ -9663,6 +11210,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/spokane-wa/"
   },
   {
+   "place": "Spring Branch, TX",
+   "slug": "spring-branch-tx",
+   "keywords": 13,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/spring-branch-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/spring-branch-tx/"
+  },
+  {
    "place": "Spring Hill, KS",
    "slug": "spring-hill-ks",
    "keywords": 10,
@@ -9689,6 +11243,13 @@
    "keywords": 18,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/spring-valley-village-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/spring-valley-village-tx/"
+  },
+  {
+   "place": "Springdale, AR",
+   "slug": "springdale-ar",
+   "keywords": 47,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/springdale-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/springdale-ar/"
   },
   {
    "place": "Springdale, OH",
@@ -9749,7 +11310,7 @@
   {
    "place": "Stafford, TX",
    "slug": "stafford-tx",
-   "keywords": 22,
+   "keywords": 23,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/stafford-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/stafford-tx/"
   },
@@ -9875,7 +11436,7 @@
   {
    "place": "Sugar Land, TX",
    "slug": "sugar-land-tx",
-   "keywords": 72,
+   "keywords": 78,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/sugar-land-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/sugar-land-tx/"
   },
@@ -9920,6 +11481,13 @@
    "keywords": 14,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/sunset-hills-mo.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/sunset-hills-mo/"
+  },
+  {
+   "place": "Sunset Valley, TX",
+   "slug": "sunset-valley-tx",
+   "keywords": 14,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/sunset-valley-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/sunset-valley-tx/"
   },
   {
    "place": "Superior, CO",
@@ -9999,6 +11567,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/tarentum-pa/"
   },
   {
+   "place": "Tarrant County, TX",
+   "slug": "tarrant-county-tx",
+   "keywords": 7,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/tarrant-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/tarrant-county-tx/"
+  },
+  {
    "place": "Tate Township, OH",
    "slug": "tate-township-oh",
    "keywords": 3,
@@ -10011,6 +11586,20 @@
    "keywords": 59,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/taylor-mi.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/taylor-mi/"
+  },
+  {
+   "place": "Taylor, TX",
+   "slug": "taylor-tx",
+   "keywords": 33,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/taylor-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/taylor-tx/"
+  },
+  {
+   "place": "Taylor County, TX",
+   "slug": "taylor-county-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/taylor-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/taylor-county-tx/"
   },
   {
    "place": "Taylor Mill, KY",
@@ -10027,11 +11616,39 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/tecumseh-mi/"
   },
   {
+   "place": "Temple, TX",
+   "slug": "temple-tx",
+   "keywords": 44,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/temple-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/temple-tx/"
+  },
+  {
    "place": "Terrell, TX",
    "slug": "terrell-tx",
-   "keywords": 17,
+   "keywords": 18,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/terrell-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/terrell-tx/"
+  },
+  {
+   "place": "Terrell Hills, TX",
+   "slug": "terrell-hills-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/terrell-hills-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/terrell-hills-tx/"
+  },
+  {
+   "place": "Texarkana, AR",
+   "slug": "texarkana-ar",
+   "keywords": 26,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/texarkana-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/texarkana-ar/"
+  },
+  {
+   "place": "Texarkana, TX",
+   "slug": "texarkana-tx",
+   "keywords": 58,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/texarkana-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/texarkana-tx/"
   },
   {
    "place": "Texas City, TX",
@@ -10043,9 +11660,16 @@
   {
    "place": "The Colony, TX",
    "slug": "the-colony-tx",
-   "keywords": 21,
+   "keywords": 27,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/the-colony-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/the-colony-tx/"
+  },
+  {
+   "place": "The Hills, TX",
+   "slug": "the-hills-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/the-hills-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/the-hills-tx/"
   },
   {
    "place": "The Woodlands, TX",
@@ -10116,6 +11740,13 @@
    "keywords": 3,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/tonka-bay-mn.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/tonka-bay-mn/"
+  },
+  {
+   "place": "Tontitown, AR",
+   "slug": "tontitown-ar",
+   "keywords": 10,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/tontitown-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/tontitown-ar/"
   },
   {
    "place": "Topeka, KS",
@@ -10356,6 +11987,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/trafford-pa/"
   },
   {
+   "place": "Travis County, TX",
+   "slug": "travis-county-tx",
+   "keywords": 28,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/travis-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/travis-county-tx/"
+  },
+  {
    "place": "Trenton, MI",
    "slug": "trenton-mi",
    "keywords": 43,
@@ -10382,6 +12020,13 @@
    "keywords": 52,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/troy-mi.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/troy-mi/"
+  },
+  {
+   "place": "Troy, TX",
+   "slug": "troy-tx",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/troy-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/troy-tx/"
   },
   {
    "place": "Troy Township, OH",
@@ -10431,6 +12076,20 @@
    "keywords": 6,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/twin-oaks-mo.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/twin-oaks-mo/"
+  },
+  {
+   "place": "Tye, TX",
+   "slug": "tye-tx",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/tye-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/tye-tx/"
+  },
+  {
+   "place": "Tyler, TX",
+   "slug": "tyler-tx",
+   "keywords": 53,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/tyler-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/tyler-tx/"
   },
   {
    "place": "Tyrone, GA",
@@ -10489,6 +12148,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/union-township-pa/"
   },
   {
+   "place": "Universal City, TX",
+   "slug": "universal-city-tx",
+   "keywords": 9,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/universal-city-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/universal-city-tx/"
+  },
+  {
    "place": "University City, MO",
    "slug": "university-city-mo",
    "keywords": 21,
@@ -10505,7 +12171,7 @@
   {
    "place": "University Park, TX",
    "slug": "university-park-tx",
-   "keywords": 12,
+   "keywords": 14,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/university-park-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/university-park-tx/"
   },
@@ -10587,6 +12253,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/valmeyer-il/"
   },
   {
+   "place": "Van Buren, AR",
+   "slug": "van-buren-ar",
+   "keywords": 7,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/van-buren-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/van-buren-ar/"
+  },
+  {
    "place": "Van Buren Charter Township, MI",
    "slug": "van-buren-charter-township-mi",
    "keywords": 25,
@@ -10648,6 +12321,13 @@
    "keywords": 1,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/victoria-mn.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/victoria-mn/"
+  },
+  {
+   "place": "Victoria, TX",
+   "slug": "victoria-tx",
+   "keywords": 27,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/victoria-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/victoria-tx/"
   },
   {
    "place": "Villa Park, IL",
@@ -10741,6 +12421,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/virginia-beach-va/"
   },
   {
+   "place": "Waco, TX",
+   "slug": "waco-tx",
+   "keywords": 60,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/waco-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/waco-tx/"
+  },
+  {
+   "place": "Wake Village, TX",
+   "slug": "wake-village-tx",
+   "keywords": 6,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/wake-village-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/wake-village-tx/"
+  },
+  {
    "place": "Wall, PA",
    "slug": "wall-pa",
    "keywords": 2,
@@ -10783,6 +12477,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/walton-ky/"
   },
   {
+   "place": "Ward, AR",
+   "slug": "ward-ar",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/ward-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/ward-ar/"
+  },
+  {
    "place": "Warren, MI",
    "slug": "warren-mi",
    "keywords": 50,
@@ -10818,6 +12519,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/washington-pa/"
   },
   {
+   "place": "Washington County, AR",
+   "slug": "washington-county-ar",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/washington-county-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/washington-county-ar/"
+  },
+  {
    "place": "Washington Township, OH",
    "slug": "washington-township-oh",
    "keywords": 1,
@@ -10834,7 +12542,7 @@
   {
    "place": "Watauga, TX",
    "slug": "watauga-tx",
-   "keywords": 5,
+   "keywords": 20,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/watauga-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/watauga-tx/"
   },
@@ -10911,7 +12619,7 @@
   {
    "place": "Waxahachie, TX",
    "slug": "waxahachie-tx",
-   "keywords": 40,
+   "keywords": 47,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/waxahachie-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/waxahachie-tx/"
   },
@@ -10928,6 +12636,13 @@
    "keywords": 18,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/wayzata-mn.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/wayzata-mn/"
+  },
+  {
+   "place": "Weatherford, TX",
+   "slug": "weatherford-tx",
+   "keywords": 54,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/weatherford-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/weatherford-tx/"
   },
   {
    "place": "Webb City, MO",
@@ -10951,6 +12666,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/webster-groves-mo/"
   },
   {
+   "place": "Weir, TX",
+   "slug": "weir-tx",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/weir-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/weir-tx/"
+  },
+  {
    "place": "Weld County, CO",
    "slug": "weld-county-co",
    "keywords": 3,
@@ -10965,11 +12687,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/wellington-ks/"
   },
   {
+   "place": "Wells Branch, TX",
+   "slug": "wells-branch-tx",
+   "keywords": 21,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/wells-branch-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/wells-branch-tx/"
+  },
+  {
    "place": "Wentzville, MO",
    "slug": "wentzville-mo",
    "keywords": 43,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/wentzville-mo.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/wentzville-mo/"
+  },
+  {
+   "place": "Weslaco, TX",
+   "slug": "weslaco-tx",
+   "keywords": 13,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/weslaco-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/weslaco-tx/"
   },
   {
    "place": "West Allis, WI",
@@ -11033,6 +12769,13 @@
    "keywords": 4,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/west-jefferson-oh.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/west-jefferson-oh/"
+  },
+  {
+   "place": "West Lake Hills, TX",
+   "slug": "west-lake-hills-tx",
+   "keywords": 40,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/west-lake-hills-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/west-lake-hills-tx/"
   },
   {
    "place": "West Mifflin, PA",
@@ -11147,6 +12890,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/westwood-ks/"
   },
   {
+   "place": "Westworth Village, TX",
+   "slug": "westworth-village-tx",
+   "keywords": 4,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/westworth-village-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/westworth-village-tx/"
+  },
+  {
    "place": "Wharton, TX",
    "slug": "wharton-tx",
    "keywords": 11,
@@ -11217,6 +12967,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/white-oak-pa/"
   },
   {
+   "place": "White Oak, TX",
+   "slug": "white-oak-tx",
+   "keywords": 2,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/white-oak-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/white-oak-tx/"
+  },
+  {
+   "place": "White Settlement, TX",
+   "slug": "white-settlement-tx",
+   "keywords": 10,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/white-settlement-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/white-settlement-tx/"
+  },
+  {
    "place": "Whitefish Bay, WI",
    "slug": "whitefish-bay-wi",
    "keywords": 10,
@@ -11236,6 +13000,13 @@
    "keywords": 19,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/whitehall-pa.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/whitehall-pa/"
+  },
+  {
+   "place": "Whitehouse, TX",
+   "slug": "whitehouse-tx",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/whitehouse-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/whitehouse-tx/"
   },
   {
    "place": "Whitestown, IN",
@@ -11264,6 +13035,13 @@
    "keywords": 490,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/wichita-ks.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/wichita-ks/"
+  },
+  {
+   "place": "Wichita Falls, TX",
+   "slug": "wichita-falls-tx",
+   "keywords": 57,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/wichita-falls-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/wichita-falls-tx/"
   },
   {
    "place": "Wilder, KY",
@@ -11301,6 +13079,20 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/will-county-il/"
   },
   {
+   "place": "Williamson County, TX",
+   "slug": "williamson-county-tx",
+   "keywords": 19,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/williamson-county-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/williamson-county-tx/"
+  },
+  {
+   "place": "Willis, TX",
+   "slug": "willis-tx",
+   "keywords": 3,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/willis-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/willis-tx/"
+  },
+  {
    "place": "Willow Springs, IL",
    "slug": "willow-springs-il",
    "keywords": 28,
@@ -11322,11 +13114,25 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/wilmette-il/"
   },
   {
+   "place": "Wimberley, TX",
+   "slug": "wimberley-tx",
+   "keywords": 19,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/wimberley-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/wimberley-tx/"
+  },
+  {
    "place": "Winchester, MO",
    "slug": "winchester-mo",
    "keywords": 1,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/winchester-mo.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/winchester-mo/"
+  },
+  {
+   "place": "Windcrest, TX",
+   "slug": "windcrest-tx",
+   "keywords": 11,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/windcrest-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/windcrest-tx/"
   },
   {
    "place": "Windsor, WI",
@@ -11385,6 +13191,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/wixom-mi/"
   },
   {
+   "place": "Wolfforth, TX",
+   "slug": "wolfforth-tx",
+   "keywords": 12,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/wolfforth-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/wolfforth-tx/"
+  },
+  {
    "place": "Wood Dale, IL",
    "slug": "wood-dale-il",
    "keywords": 5,
@@ -11401,7 +13214,7 @@
   {
    "place": "Woodbranch, TX",
    "slug": "woodbranch-tx",
-   "keywords": 2,
+   "keywords": 3,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/woodbranch-tx.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/woodbranch-tx/"
   },
@@ -11441,6 +13254,13 @@
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/woodstock-ga/"
   },
   {
+   "place": "Woodway, TX",
+   "slug": "woodway-tx",
+   "keywords": 18,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/woodway-tx.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/woodway-tx/"
+  },
+  {
    "place": "Worcester, MA",
    "slug": "worcester-ma",
    "keywords": 490,
@@ -11467,6 +13287,13 @@
    "keywords": 25,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/worthington-oh.json",
    "page": "https://registry-edge.dingalinged.workers.dev/market/city/worthington-oh/"
+  },
+  {
+   "place": "Wrightsville, AR",
+   "slug": "wrightsville-ar",
+   "keywords": 1,
+   "json": "https://registry-edge.dingalinged.workers.dev/api/market/city/wrightsville-ar.json",
+   "page": "https://registry-edge.dingalinged.workers.dev/market/city/wrightsville-ar/"
   },
   {
    "place": "Wyandotte, MI",
@@ -11720,8 +13547,8 @@
    "search_value_index_usd": 170000,
    "equivalent_google_ads_cost_month_usd": 9800,
    "national_featured_min_usd": 250,
-   "keywords": 239,
-   "registry_competitors": 285,
+   "keywords": 273,
+   "registry_competitors": 379,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/accountant.json"
   },
   {
@@ -11738,8 +13565,8 @@
    "search_value_index_usd": 71000,
    "equivalent_google_ads_cost_month_usd": 4000,
    "national_featured_min_usd": 250,
-   "keywords": 239,
-   "registry_competitors": 285,
+   "keywords": 273,
+   "registry_competitors": 379,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/accounting-services.json"
   },
   {
@@ -11810,8 +13637,8 @@
    "search_value_index_usd": 160000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 143,
-   "registry_competitors": 79,
+   "keywords": 151,
+   "registry_competitors": 97,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/acupuncture.json"
   },
   {
@@ -11972,8 +13799,8 @@
    "search_value_index_usd": 160000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 121,
-   "registry_competitors": 28,
+   "keywords": 134,
+   "registry_competitors": 43,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/allergist.json"
   },
   {
@@ -12044,8 +13871,8 @@
    "search_value_index_usd": 820000,
    "equivalent_google_ads_cost_month_usd": 53000,
    "national_featured_min_usd": 250,
-   "keywords": 106,
-   "registry_competitors": 9,
+   "keywords": 107,
+   "registry_competitors": 11,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/appliance-repair.json"
   },
   {
@@ -12080,8 +13907,8 @@
    "search_value_index_usd": 330000,
    "equivalent_google_ads_cost_month_usd": 21000,
    "national_featured_min_usd": 250,
-   "keywords": 161,
-   "registry_competitors": 248,
+   "keywords": 181,
+   "registry_competitors": 289,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/architect.json"
   },
   {
@@ -12098,8 +13925,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 500,
-   "keywords": 314,
-   "registry_competitors": 460,
+   "keywords": 356,
+   "registry_competitors": 572,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/assisted-living.json"
   },
   {
@@ -12134,8 +13961,8 @@
    "search_value_index_usd": 730000,
    "equivalent_google_ads_cost_month_usd": 44000,
    "national_featured_min_usd": 500,
-   "keywords": 453,
-   "registry_competitors": 1519,
+   "keywords": 526,
+   "registry_competitors": 1996,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/attorney.json"
   },
   {
@@ -12152,8 +13979,8 @@
    "search_value_index_usd": 160000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 130,
-   "registry_competitors": 34,
+   "keywords": 137,
+   "registry_competitors": 42,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/audiologist.json"
   },
   {
@@ -12170,8 +13997,8 @@
    "search_value_index_usd": 260000,
    "equivalent_google_ads_cost_month_usd": 15000,
    "national_featured_min_usd": 100,
-   "keywords": 246,
-   "registry_competitors": 255,
+   "keywords": 274,
+   "registry_competitors": 335,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/auto-body-shop.json"
   },
   {
@@ -12224,8 +14051,8 @@
    "search_value_index_usd": 1300000,
    "equivalent_google_ads_cost_month_usd": 73000,
    "national_featured_min_usd": 100,
-   "keywords": 1009,
-   "registry_competitors": 6577,
+   "keywords": 1181,
+   "registry_competitors": 8288,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/auto-repair.json"
   },
   {
@@ -12314,8 +14141,8 @@
    "search_value_index_usd": 1600000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 100,
-   "keywords": 510,
-   "registry_competitors": 1581,
+   "keywords": 582,
+   "registry_competitors": 1863,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/bakery.json"
   },
   {
@@ -12368,8 +14195,8 @@
    "search_value_index_usd": 470000,
    "equivalent_google_ads_cost_month_usd": 27000,
    "national_featured_min_usd": 250,
-   "keywords": 239,
-   "registry_competitors": 384,
+   "keywords": 290,
+   "registry_competitors": 539,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/barber-shop.json"
   },
   {
@@ -12638,8 +14465,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 376,
-   "registry_competitors": 664,
+   "keywords": 418,
+   "registry_competitors": 785,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/bike-shop.json"
   },
   {
@@ -12782,8 +14609,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 120,
-   "registry_competitors": 42,
+   "keywords": 127,
+   "registry_competitors": 59,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/boutique.json"
   },
   {
@@ -12800,8 +14627,8 @@
    "search_value_index_usd": 590000,
    "equivalent_google_ads_cost_month_usd": 33000,
    "national_featured_min_usd": 100,
-   "keywords": 184,
-   "registry_competitors": 165,
+   "keywords": 215,
+   "registry_competitors": 230,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/brake-repair.json"
   },
   {
@@ -12837,7 +14664,7 @@
    "equivalent_google_ads_cost_month_usd": 6600,
    "national_featured_min_usd": 50,
    "keywords": 109,
-   "registry_competitors": 10,
+   "registry_competitors": 11,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/bridal-shop.json"
   },
   {
@@ -12926,8 +14753,8 @@
    "search_value_index_usd": 110000,
    "equivalent_google_ads_cost_month_usd": 6000,
    "national_featured_min_usd": 250,
-   "keywords": 177,
-   "registry_competitors": 173,
+   "keywords": 191,
+   "registry_competitors": 197,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/business-consultant.json"
   },
   {
@@ -13089,7 +14916,7 @@
    "equivalent_google_ads_cost_month_usd": 21000,
    "national_featured_min_usd": 250,
    "keywords": 107,
-   "registry_competitors": 6,
+   "registry_competitors": 7,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/cabinet-installation.json"
   },
   {
@@ -13286,8 +15113,8 @@
    "search_value_index_usd": 390000,
    "equivalent_google_ads_cost_month_usd": 22000,
    "national_featured_min_usd": 100,
-   "keywords": 133,
-   "registry_competitors": 54,
+   "keywords": 141,
+   "registry_competitors": 80,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/car-inspection.json"
   },
   {
@@ -13394,8 +15221,8 @@
    "search_value_index_usd": 8000000,
    "equivalent_google_ads_cost_month_usd": 440000,
    "national_featured_min_usd": 100,
-   "keywords": 779,
-   "registry_competitors": 2278,
+   "keywords": 913,
+   "registry_competitors": 2928,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/car-wash.json"
   },
   {
@@ -13430,8 +15257,8 @@
    "search_value_index_usd": 120000,
    "equivalent_google_ads_cost_month_usd": 7900,
    "national_featured_min_usd": 250,
-   "keywords": 110,
-   "registry_competitors": 11,
+   "keywords": 111,
+   "registry_competitors": 12,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/carpet-installation.json"
   },
   {
@@ -13466,8 +15293,8 @@
    "search_value_index_usd": 1600000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 100,
-   "keywords": 158,
-   "registry_competitors": 146,
+   "keywords": 173,
+   "registry_competitors": 191,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/caterers.json"
   },
   {
@@ -13628,8 +15455,8 @@
    "search_value_index_usd": 330000,
    "equivalent_google_ads_cost_month_usd": 21000,
    "national_featured_min_usd": 250,
-   "keywords": 108,
-   "registry_competitors": 11,
+   "keywords": 110,
+   "registry_competitors": 13,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/chimney-sweep.json"
   },
   {
@@ -13646,8 +15473,8 @@
    "search_value_index_usd": 1200000,
    "equivalent_google_ads_cost_month_usd": 79000,
    "national_featured_min_usd": 250,
-   "keywords": 461,
-   "registry_competitors": 949,
+   "keywords": 511,
+   "registry_competitors": 1126,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/chiropractor.json"
   },
   {
@@ -13862,8 +15689,8 @@
    "search_value_index_usd": 750000,
    "equivalent_google_ads_cost_month_usd": 62000,
    "national_featured_min_usd": 250,
-   "keywords": 135,
-   "registry_competitors": 54,
+   "keywords": 146,
+   "registry_competitors": 72,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/computer-repair.json"
   },
   {
@@ -13898,8 +15725,8 @@
    "search_value_index_usd": 330000,
    "equivalent_google_ads_cost_month_usd": 21000,
    "national_featured_min_usd": 250,
-   "keywords": 132,
-   "registry_competitors": 48,
+   "keywords": 140,
+   "registry_competitors": 61,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/concrete-contractor.json"
   },
   {
@@ -14060,8 +15887,8 @@
    "search_value_index_usd": 71000,
    "equivalent_google_ads_cost_month_usd": 6000,
    "national_featured_min_usd": 250,
-   "keywords": 151,
-   "registry_competitors": 198,
+   "keywords": 158,
+   "registry_competitors": 223,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/coworking-space.json"
   },
   {
@@ -14240,8 +16067,8 @@
    "search_value_index_usd": 250000,
    "equivalent_google_ads_cost_month_usd": 18000,
    "national_featured_min_usd": 250,
-   "keywords": 142,
-   "registry_competitors": 60,
+   "keywords": 151,
+   "registry_competitors": 85,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/crossfit.json"
   },
   {
@@ -14384,8 +16211,8 @@
    "search_value_index_usd": 250000,
    "equivalent_google_ads_cost_month_usd": 18000,
    "national_featured_min_usd": 250,
-   "keywords": 332,
-   "registry_competitors": 450,
+   "keywords": 369,
+   "registry_competitors": 545,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/dance-studio.json"
   },
   {
@@ -14456,8 +16283,8 @@
    "search_value_index_usd": 1100000,
    "equivalent_google_ads_cost_month_usd": 61000,
    "national_featured_min_usd": 100,
-   "keywords": 452,
-   "registry_competitors": 1009,
+   "keywords": 524,
+   "registry_competitors": 1230,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/daycare.json"
   },
   {
@@ -14564,8 +16391,8 @@
    "search_value_index_usd": 8600000,
    "equivalent_google_ads_cost_month_usd": 470000,
    "national_featured_min_usd": 500,
-   "keywords": 807,
-   "registry_competitors": 4089,
+   "keywords": 928,
+   "registry_competitors": 5098,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/dentist.json"
   },
   {
@@ -14618,8 +16445,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 250,
-   "keywords": 178,
-   "registry_competitors": 121,
+   "keywords": 196,
+   "registry_competitors": 153,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/dermatologist.json"
   },
   {
@@ -14726,8 +16553,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 66000,
    "national_featured_min_usd": 100,
-   "keywords": 245,
-   "registry_competitors": 274,
+   "keywords": 275,
+   "registry_competitors": 330,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/dog-boarding.json"
   },
   {
@@ -14744,8 +16571,8 @@
    "search_value_index_usd": 1800000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 100,
-   "keywords": 303,
-   "registry_competitors": 413,
+   "keywords": 341,
+   "registry_competitors": 497,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/dog-groomer.json"
   },
   {
@@ -14870,8 +16697,8 @@
    "search_value_index_usd": 330000,
    "equivalent_google_ads_cost_month_usd": 21000,
    "national_featured_min_usd": 250,
-   "keywords": 102,
-   "registry_competitors": 3,
+   "keywords": 106,
+   "registry_competitors": 7,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/driveway-paving.json"
   },
   {
@@ -14888,8 +16715,8 @@
    "search_value_index_usd": 190000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 100,
-   "keywords": 180,
-   "registry_competitors": 121,
+   "keywords": 191,
+   "registry_competitors": 139,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/driving-school.json"
   },
   {
@@ -14942,8 +16769,8 @@
    "search_value_index_usd": 750000,
    "equivalent_google_ads_cost_month_usd": 62000,
    "national_featured_min_usd": 250,
-   "keywords": 459,
-   "registry_competitors": 1143,
+   "keywords": 533,
+   "registry_competitors": 1362,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/dry-cleaners.json"
   },
   {
@@ -15212,8 +17039,8 @@
    "search_value_index_usd": 3000000,
    "equivalent_google_ads_cost_month_usd": 190000,
    "national_featured_min_usd": 500,
-   "keywords": 186,
-   "registry_competitors": 161,
+   "keywords": 206,
+   "registry_competitors": 209,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/electrician.json"
   },
   {
@@ -15572,8 +17399,8 @@
    "search_value_index_usd": 1600000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 100,
-   "keywords": 450,
-   "registry_competitors": 993,
+   "keywords": 529,
+   "registry_competitors": 1258,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/event-venues.json"
   },
   {
@@ -15644,8 +17471,8 @@
    "search_value_index_usd": 1100000,
    "equivalent_google_ads_cost_month_usd": 72000,
    "national_featured_min_usd": 250,
-   "keywords": 117,
-   "registry_competitors": 28,
+   "keywords": 124,
+   "registry_competitors": 37,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/exterminator.json"
   },
   {
@@ -15662,8 +17489,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 250,
-   "keywords": 357,
-   "registry_competitors": 541,
+   "keywords": 413,
+   "registry_competitors": 711,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/eye-doctor.json"
   },
   {
@@ -15698,8 +17525,8 @@
    "search_value_index_usd": 340000,
    "equivalent_google_ads_cost_month_usd": 20000,
    "national_featured_min_usd": 250,
-   "keywords": 238,
-   "registry_competitors": 267,
+   "keywords": 264,
+   "registry_competitors": 323,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/facial.json"
   },
   {
@@ -15716,8 +17543,8 @@
    "search_value_index_usd": 160000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 229,
-   "registry_competitors": 277,
+   "keywords": 261,
+   "registry_competitors": 364,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/family-doctor.json"
   },
   {
@@ -15878,8 +17705,8 @@
    "search_value_index_usd": 830000,
    "equivalent_google_ads_cost_month_usd": 69000,
    "national_featured_min_usd": 250,
-   "keywords": 347,
-   "registry_competitors": 510,
+   "keywords": 393,
+   "registry_competitors": 642,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/financial-advisor.json"
   },
   {
@@ -15986,8 +17813,8 @@
    "search_value_index_usd": 150000,
    "equivalent_google_ads_cost_month_usd": 9600,
    "national_featured_min_usd": 250,
-   "keywords": 267,
-   "registry_competitors": 274,
+   "keywords": 304,
+   "registry_competitors": 369,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/flooring-companies.json"
   },
   {
@@ -16004,8 +17831,8 @@
    "search_value_index_usd": 1600000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 100,
-   "keywords": 372,
-   "registry_competitors": 620,
+   "keywords": 432,
+   "registry_competitors": 755,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/florist.json"
   },
   {
@@ -16130,8 +17957,8 @@
    "search_value_index_usd": 750000,
    "equivalent_google_ads_cost_month_usd": 62000,
    "national_featured_min_usd": 250,
-   "keywords": 429,
-   "registry_competitors": 661,
+   "keywords": 494,
+   "registry_competitors": 807,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/funeral-home.json"
   },
   {
@@ -16184,8 +18011,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 523,
-   "registry_competitors": 1630,
+   "keywords": 619,
+   "registry_competitors": 2123,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/furniture-store.json"
   },
   {
@@ -16220,8 +18047,8 @@
    "search_value_index_usd": 96000,
    "equivalent_google_ads_cost_month_usd": 6100,
    "national_featured_min_usd": 250,
-   "keywords": 131,
-   "registry_competitors": 61,
+   "keywords": 147,
+   "registry_competitors": 85,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/general-contractor.json"
   },
   {
@@ -16292,8 +18119,8 @@
    "search_value_index_usd": 75000,
    "equivalent_google_ads_cost_month_usd": 6600,
    "national_featured_min_usd": 50,
-   "keywords": 447,
-   "registry_competitors": 1111,
+   "keywords": 504,
+   "registry_competitors": 1381,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/gift-shop.json"
   },
   {
@@ -16364,8 +18191,8 @@
    "search_value_index_usd": 48000,
    "equivalent_google_ads_cost_month_usd": 2700,
    "national_featured_min_usd": 250,
-   "keywords": 128,
-   "registry_competitors": 58,
+   "keywords": 131,
+   "registry_competitors": 70,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/graphic-designer.json"
   },
   {
@@ -16418,8 +18245,8 @@
    "search_value_index_usd": 3100000,
    "equivalent_google_ads_cost_month_usd": 220000,
    "national_featured_min_usd": 250,
-   "keywords": 736,
-   "registry_competitors": 2897,
+   "keywords": 865,
+   "registry_competitors": 3608,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/gym.json"
   },
   {
@@ -16472,8 +18299,8 @@
    "search_value_index_usd": 830000,
    "equivalent_google_ads_cost_month_usd": 47000,
    "national_featured_min_usd": 250,
-   "keywords": 859,
-   "registry_competitors": 5527,
+   "keywords": 986,
+   "registry_competitors": 6650,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/hair-salon.json"
   },
   {
@@ -16490,8 +18317,8 @@
    "search_value_index_usd": 1700000,
    "equivalent_google_ads_cost_month_usd": 97000,
    "national_featured_min_usd": 250,
-   "keywords": 880,
-   "registry_competitors": 5911,
+   "keywords": 1013,
+   "registry_competitors": 7189,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/haircut.json"
   },
   {
@@ -16580,8 +18407,8 @@
    "search_value_index_usd": 30000,
    "equivalent_google_ads_cost_month_usd": 1900,
    "national_featured_min_usd": 500,
-   "keywords": 287,
-   "registry_competitors": 369,
+   "keywords": 338,
+   "registry_competitors": 475,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/heating-and-air.json"
   },
   {
@@ -17048,8 +18875,8 @@
    "search_value_index_usd": 1300000,
    "equivalent_google_ads_cost_month_usd": 84000,
    "national_featured_min_usd": 500,
-   "keywords": 287,
-   "registry_competitors": 369,
+   "keywords": 338,
+   "registry_competitors": 475,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/hvac-repair.json"
   },
   {
@@ -17156,8 +18983,8 @@
    "search_value_index_usd": 330000,
    "equivalent_google_ads_cost_month_usd": 21000,
    "national_featured_min_usd": 250,
-   "keywords": 107,
-   "registry_competitors": 12,
+   "keywords": 110,
+   "registry_competitors": 18,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/insulation-contractor.json"
   },
   {
@@ -17174,8 +19001,8 @@
    "search_value_index_usd": 310000,
    "equivalent_google_ads_cost_month_usd": 26000,
    "national_featured_min_usd": 500,
-   "keywords": 687,
-   "registry_competitors": 2292,
+   "keywords": 798,
+   "registry_competitors": 3018,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/insurance-agency.json"
   },
   {
@@ -17192,8 +19019,8 @@
    "search_value_index_usd": 140000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 687,
-   "registry_competitors": 2292,
+   "keywords": 798,
+   "registry_competitors": 3018,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/insurance-agent.json"
   },
   {
@@ -17210,8 +19037,8 @@
    "search_value_index_usd": 170000,
    "equivalent_google_ads_cost_month_usd": 14000,
    "national_featured_min_usd": 500,
-   "keywords": 687,
-   "registry_competitors": 2292,
+   "keywords": 798,
+   "registry_competitors": 3018,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/insurance-agents.json"
   },
   {
@@ -17282,8 +19109,8 @@
    "search_value_index_usd": 330000,
    "equivalent_google_ads_cost_month_usd": 21000,
    "national_featured_min_usd": 250,
-   "keywords": 108,
-   "registry_competitors": 12,
+   "keywords": 111,
+   "registry_competitors": 16,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/interior-designer.json"
   },
   {
@@ -17390,8 +19217,8 @@
    "search_value_index_usd": 140000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 219,
-   "registry_competitors": 337,
+   "keywords": 241,
+   "registry_competitors": 412,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/it-support.json"
   },
   {
@@ -17426,8 +19253,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 431,
-   "registry_competitors": 1256,
+   "keywords": 500,
+   "registry_competitors": 1568,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/jewelry-store.json"
   },
   {
@@ -17588,8 +19415,8 @@
    "search_value_index_usd": 1800000,
    "equivalent_google_ads_cost_month_usd": 110000,
    "national_featured_min_usd": 250,
-   "keywords": 201,
-   "registry_competitors": 159,
+   "keywords": 216,
+   "registry_competitors": 188,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/landscaping.json"
   },
   {
@@ -17660,8 +19487,8 @@
    "search_value_index_usd": 490000,
    "equivalent_google_ads_cost_month_usd": 29000,
    "national_featured_min_usd": 500,
-   "keywords": 453,
-   "registry_competitors": 1519,
+   "keywords": 526,
+   "registry_competitors": 1996,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/lawyer.json"
   },
   {
@@ -17840,8 +19667,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 722,
-   "registry_competitors": 2404,
+   "keywords": 835,
+   "registry_competitors": 2903,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/liquor-store.json"
   },
   {
@@ -17930,8 +19757,8 @@
    "search_value_index_usd": 2000000,
    "equivalent_google_ads_cost_month_usd": 130000,
    "national_featured_min_usd": 250,
-   "keywords": 162,
-   "registry_competitors": 120,
+   "keywords": 173,
+   "registry_competitors": 147,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/locksmith.json"
   },
   {
@@ -18146,8 +19973,8 @@
    "search_value_index_usd": 140000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 191,
-   "registry_competitors": 245,
+   "keywords": 210,
+   "registry_competitors": 289,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/marketing-agency.json"
   },
   {
@@ -18200,8 +20027,8 @@
    "search_value_index_usd": 1900000,
    "equivalent_google_ads_cost_month_usd": 130000,
    "national_featured_min_usd": 250,
-   "keywords": 325,
-   "registry_competitors": 530,
+   "keywords": 366,
+   "registry_competitors": 643,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/martial-arts.json"
   },
   {
@@ -18218,8 +20045,8 @@
    "search_value_index_usd": 23000000,
    "equivalent_google_ads_cost_month_usd": 1300000,
    "national_featured_min_usd": 250,
-   "keywords": 376,
-   "registry_competitors": 928,
+   "keywords": 429,
+   "registry_competitors": 1132,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/massage.json"
   },
   {
@@ -18254,8 +20081,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 372,
-   "registry_competitors": 622,
+   "keywords": 435,
+   "registry_competitors": 829,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/mattress-store.json"
   },
   {
@@ -18290,8 +20117,8 @@
    "search_value_index_usd": 2900000,
    "equivalent_google_ads_cost_month_usd": 160000,
    "national_featured_min_usd": 100,
-   "keywords": 1009,
-   "registry_competitors": 6577,
+   "keywords": 1181,
+   "registry_competitors": 8288,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/mechanic.json"
   },
   {
@@ -18614,8 +20441,8 @@
    "search_value_index_usd": 96000,
    "equivalent_google_ads_cost_month_usd": 5300,
    "national_featured_min_usd": 100,
-   "keywords": 137,
-   "registry_competitors": 47,
+   "keywords": 153,
+   "registry_competitors": 70,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/motorcycle-repair.json"
   },
   {
@@ -18650,8 +20477,8 @@
    "search_value_index_usd": 2500000,
    "equivalent_google_ads_cost_month_usd": 160000,
    "national_featured_min_usd": 250,
-   "keywords": 151,
-   "registry_competitors": 85,
+   "keywords": 168,
+   "registry_competitors": 124,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/movers.json"
   },
   {
@@ -18668,8 +20495,8 @@
    "search_value_index_usd": 2500000,
    "equivalent_google_ads_cost_month_usd": 160000,
    "national_featured_min_usd": 250,
-   "keywords": 151,
-   "registry_competitors": 85,
+   "keywords": 168,
+   "registry_competitors": 124,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/moving-company.json"
   },
   {
@@ -18704,8 +20531,8 @@
    "search_value_index_usd": 190000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 100,
-   "keywords": 187,
-   "registry_competitors": 177,
+   "keywords": 204,
+   "registry_competitors": 207,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/music-lessons.json"
   },
   {
@@ -18722,8 +20549,8 @@
    "search_value_index_usd": 610000,
    "equivalent_google_ads_cost_month_usd": 35000,
    "national_featured_min_usd": 250,
-   "keywords": 599,
-   "registry_competitors": 2152,
+   "keywords": 685,
+   "registry_competitors": 2691,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json"
   },
   {
@@ -18776,8 +20603,8 @@
    "search_value_index_usd": 750000,
    "equivalent_google_ads_cost_month_usd": 62000,
    "national_featured_min_usd": 250,
-   "keywords": 111,
-   "registry_competitors": 16,
+   "keywords": 116,
+   "registry_competitors": 24,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/notary.json"
   },
   {
@@ -18812,8 +20639,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 250,
-   "keywords": 138,
-   "registry_competitors": 67,
+   "keywords": 151,
+   "registry_competitors": 93,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/ob-gyn.json"
   },
   {
@@ -18830,8 +20657,8 @@
    "search_value_index_usd": 39000,
    "equivalent_google_ads_cost_month_usd": 2600,
    "national_featured_min_usd": 250,
-   "keywords": 120,
-   "registry_competitors": 25,
+   "keywords": 125,
+   "registry_competitors": 34,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/occupational-therapist.json"
   },
   {
@@ -18956,8 +20783,8 @@
    "search_value_index_usd": 8000000,
    "equivalent_google_ads_cost_month_usd": 440000,
    "national_featured_min_usd": 100,
-   "keywords": 281,
-   "registry_competitors": 372,
+   "keywords": 334,
+   "registry_competitors": 508,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/oil-change.json"
   },
   {
@@ -19208,8 +21035,8 @@
    "search_value_index_usd": 1300000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 500,
-   "keywords": 107,
-   "registry_competitors": 7,
+   "keywords": 108,
+   "registry_competitors": 8,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/orthodontist.json"
   },
   {
@@ -19226,8 +21053,8 @@
    "search_value_index_usd": 160000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 157,
-   "registry_competitors": 79,
+   "keywords": 168,
+   "registry_competitors": 97,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/orthopedic-surgeon.json"
   },
   {
@@ -19298,8 +21125,8 @@
    "search_value_index_usd": 830000,
    "equivalent_google_ads_cost_month_usd": 53000,
    "national_featured_min_usd": 500,
-   "keywords": 159,
-   "registry_competitors": 86,
+   "keywords": 169,
+   "registry_competitors": 101,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/painters.json"
   },
   {
@@ -19514,8 +21341,8 @@
    "search_value_index_usd": 430000,
    "equivalent_google_ads_cost_month_usd": 29000,
    "national_featured_min_usd": 250,
-   "keywords": 210,
-   "registry_competitors": 177,
+   "keywords": 240,
+   "registry_competitors": 237,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/pediatrician.json"
   },
   {
@@ -19676,8 +21503,8 @@
    "search_value_index_usd": 1400000,
    "equivalent_google_ads_cost_month_usd": 88000,
    "national_featured_min_usd": 250,
-   "keywords": 117,
-   "registry_competitors": 28,
+   "keywords": 124,
+   "registry_competitors": 37,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/pest-control.json"
   },
   {
@@ -19730,8 +21557,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 549,
-   "registry_competitors": 1199,
+   "keywords": 628,
+   "registry_competitors": 1451,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/pet-store.json"
   },
   {
@@ -19748,8 +21575,8 @@
    "search_value_index_usd": 750000,
    "equivalent_google_ads_cost_month_usd": 62000,
    "national_featured_min_usd": 250,
-   "keywords": 176,
-   "registry_competitors": 121,
+   "keywords": 198,
+   "registry_competitors": 156,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/phone-repair.json"
   },
   {
@@ -19784,8 +21611,8 @@
    "search_value_index_usd": 1600000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 100,
-   "keywords": 186,
-   "registry_competitors": 206,
+   "keywords": 212,
+   "registry_competitors": 250,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/photographer.json"
   },
   {
@@ -19802,8 +21629,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 250,
-   "keywords": 373,
-   "registry_competitors": 631,
+   "keywords": 409,
+   "registry_competitors": 726,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/physical-therapy.json"
   },
   {
@@ -19838,8 +21665,8 @@
    "search_value_index_usd": 4300000,
    "equivalent_google_ads_cost_month_usd": 250000,
    "national_featured_min_usd": 250,
-   "keywords": 108,
-   "registry_competitors": 22,
+   "keywords": 109,
+   "registry_competitors": 24,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/piercing.json"
   },
   {
@@ -19856,8 +21683,8 @@
    "search_value_index_usd": 1900000,
    "equivalent_google_ads_cost_month_usd": 130000,
    "national_featured_min_usd": 250,
-   "keywords": 163,
-   "registry_competitors": 112,
+   "keywords": 172,
+   "registry_competitors": 131,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/pilates.json"
   },
   {
@@ -19874,8 +21701,8 @@
    "search_value_index_usd": 160000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 158,
-   "registry_competitors": 95,
+   "keywords": 166,
+   "registry_competitors": 116,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/plastic-surgeon.json"
   },
   {
@@ -19892,8 +21719,8 @@
    "search_value_index_usd": 9900000,
    "equivalent_google_ads_cost_month_usd": 630000,
    "national_featured_min_usd": 500,
-   "keywords": 249,
-   "registry_competitors": 257,
+   "keywords": 282,
+   "registry_competitors": 340,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/plumber.json"
   },
   {
@@ -19910,8 +21737,8 @@
    "search_value_index_usd": 30000,
    "equivalent_google_ads_cost_month_usd": 1900,
    "national_featured_min_usd": 500,
-   "keywords": 249,
-   "registry_competitors": 257,
+   "keywords": 282,
+   "registry_competitors": 340,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/plumbers.json"
   },
   {
@@ -19928,8 +21755,8 @@
    "search_value_index_usd": 690000,
    "equivalent_google_ads_cost_month_usd": 44000,
    "national_featured_min_usd": 500,
-   "keywords": 249,
-   "registry_competitors": 257,
+   "keywords": 282,
+   "registry_competitors": 340,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/plumbing-services.json"
   },
   {
@@ -19946,8 +21773,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 250,
-   "keywords": 168,
-   "registry_competitors": 110,
+   "keywords": 181,
+   "registry_competitors": 127,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/podiatrist.json"
   },
   {
@@ -20054,8 +21881,8 @@
    "search_value_index_usd": 1100000,
    "equivalent_google_ads_cost_month_usd": 61000,
    "national_featured_min_usd": 100,
-   "keywords": 504,
-   "registry_competitors": 1061,
+   "keywords": 547,
+   "registry_competitors": 1282,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/preschool.json"
   },
   {
@@ -20090,8 +21917,8 @@
    "search_value_index_usd": 130000,
    "equivalent_google_ads_cost_month_usd": 8700,
    "national_featured_min_usd": 250,
-   "keywords": 229,
-   "registry_competitors": 277,
+   "keywords": 261,
+   "registry_competitors": 364,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/primary-care-physician.json"
   },
   {
@@ -20126,8 +21953,8 @@
    "search_value_index_usd": 140000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 462,
-   "registry_competitors": 994,
+   "keywords": 523,
+   "registry_competitors": 1188,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/printing-services.json"
   },
   {
@@ -20252,8 +22079,8 @@
    "search_value_index_usd": 71000,
    "equivalent_google_ads_cost_month_usd": 6000,
    "national_featured_min_usd": 250,
-   "keywords": 229,
-   "registry_competitors": 374,
+   "keywords": 271,
+   "registry_competitors": 547,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/property-management-companies.json"
   },
   {
@@ -20270,8 +22097,8 @@
    "search_value_index_usd": 140000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 229,
-   "registry_competitors": 374,
+   "keywords": 271,
+   "registry_competitors": 547,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/property-management-company.json"
   },
   {
@@ -20342,8 +22169,8 @@
    "search_value_index_usd": 730000,
    "equivalent_google_ads_cost_month_usd": 60000,
    "national_featured_min_usd": 250,
-   "keywords": 456,
-   "registry_competitors": 1171,
+   "keywords": 538,
+   "registry_competitors": 1505,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/real-estate-agent.json"
   },
   {
@@ -20414,8 +22241,8 @@
    "search_value_index_usd": 330000,
    "equivalent_google_ads_cost_month_usd": 28000,
    "national_featured_min_usd": 250,
-   "keywords": 456,
-   "registry_competitors": 1171,
+   "keywords": 538,
+   "registry_competitors": 1505,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/realtor.json"
   },
   {
@@ -20702,8 +22529,8 @@
    "search_value_index_usd": 530000,
    "equivalent_google_ads_cost_month_usd": 34000,
    "national_featured_min_usd": 500,
-   "keywords": 257,
-   "registry_competitors": 276,
+   "keywords": 296,
+   "registry_competitors": 368,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/roofer.json"
   },
   {
@@ -20720,8 +22547,8 @@
    "search_value_index_usd": 1600000,
    "equivalent_google_ads_cost_month_usd": 100000,
    "national_featured_min_usd": 500,
-   "keywords": 257,
-   "registry_competitors": 276,
+   "keywords": 296,
+   "registry_competitors": 368,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/roofing-contractor.json"
   },
   {
@@ -20990,8 +22817,8 @@
    "search_value_index_usd": 140000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 170,
-   "registry_competitors": 123,
+   "keywords": 184,
+   "registry_competitors": 145,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/shoe-repair.json"
   },
   {
@@ -21260,8 +23087,8 @@
    "search_value_index_usd": 1100000,
    "equivalent_google_ads_cost_month_usd": 65000,
    "national_featured_min_usd": 250,
-   "keywords": 175,
-   "registry_competitors": 160,
+   "keywords": 192,
+   "registry_competitors": 207,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/spa.json"
   },
   {
@@ -21314,8 +23141,8 @@
    "search_value_index_usd": 820000,
    "equivalent_google_ads_cost_month_usd": 46000,
    "national_featured_min_usd": 250,
-   "keywords": 230,
-   "registry_competitors": 304,
+   "keywords": 257,
+   "registry_competitors": 377,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/staffing-agency.json"
   },
   {
@@ -21332,8 +23159,8 @@
    "search_value_index_usd": 1800000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 250,
-   "keywords": 653,
-   "registry_competitors": 1756,
+   "keywords": 774,
+   "registry_competitors": 2432,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/storage-units.json"
   },
   {
@@ -21404,8 +23231,8 @@
    "search_value_index_usd": 750000,
    "equivalent_google_ads_cost_month_usd": 62000,
    "national_featured_min_usd": 250,
-   "keywords": 234,
-   "registry_competitors": 342,
+   "keywords": 249,
+   "registry_competitors": 374,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/tailor.json"
   },
   {
@@ -21440,8 +23267,8 @@
    "search_value_index_usd": 140000,
    "equivalent_google_ads_cost_month_usd": 7900,
    "national_featured_min_usd": 250,
-   "keywords": 267,
-   "registry_competitors": 275,
+   "keywords": 295,
+   "registry_competitors": 334,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/tanning-salon.json"
   },
   {
@@ -21458,8 +23285,8 @@
    "search_value_index_usd": 4300000,
    "equivalent_google_ads_cost_month_usd": 250000,
    "national_featured_min_usd": 250,
-   "keywords": 289,
-   "registry_competitors": 604,
+   "keywords": 330,
+   "registry_competitors": 739,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/tattoo-shop.json"
   },
   {
@@ -21530,8 +23357,8 @@
    "search_value_index_usd": 240000,
    "equivalent_google_ads_cost_month_usd": 20000,
    "national_featured_min_usd": 250,
-   "keywords": 465,
-   "registry_competitors": 992,
+   "keywords": 535,
+   "registry_competitors": 1206,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/tax-preparation.json"
   },
   {
@@ -21566,8 +23393,8 @@
    "search_value_index_usd": 360000,
    "equivalent_google_ads_cost_month_usd": 20000,
    "national_featured_min_usd": 250,
-   "keywords": 465,
-   "registry_competitors": 992,
+   "keywords": 535,
+   "registry_competitors": 1206,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/tax-preparer.json"
   },
   {
@@ -21692,8 +23519,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 250,
-   "keywords": 293,
-   "registry_competitors": 517,
+   "keywords": 338,
+   "registry_competitors": 640,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/therapist.json"
   },
   {
@@ -21710,8 +23537,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 516,
-   "registry_competitors": 1123,
+   "keywords": 599,
+   "registry_competitors": 1428,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/thrift-store.json"
   },
   {
@@ -21746,8 +23573,8 @@
    "search_value_index_usd": 100000,
    "equivalent_google_ads_cost_month_usd": 6400,
    "national_featured_min_usd": 250,
-   "keywords": 105,
-   "registry_competitors": 6,
+   "keywords": 110,
+   "registry_competitors": 12,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/tile-installation.json"
   },
   {
@@ -21764,8 +23591,8 @@
    "search_value_index_usd": 2400000,
    "equivalent_google_ads_cost_month_usd": 130000,
    "national_featured_min_usd": 100,
-   "keywords": 510,
-   "registry_competitors": 1216,
+   "keywords": 618,
+   "registry_competitors": 1613,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/tire-shop.json"
   },
   {
@@ -21890,8 +23717,8 @@
    "search_value_index_usd": 79000,
    "equivalent_google_ads_cost_month_usd": 4400,
    "national_featured_min_usd": 100,
-   "keywords": 156,
-   "registry_competitors": 90,
+   "keywords": 174,
+   "registry_competitors": 120,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/transmission-repair.json"
   },
   {
@@ -22088,8 +23915,8 @@
    "search_value_index_usd": 13000000,
    "equivalent_google_ads_cost_month_usd": 880000,
    "national_featured_min_usd": 250,
-   "keywords": 163,
-   "registry_competitors": 83,
+   "keywords": 175,
+   "registry_competitors": 104,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/urgent-care.json"
   },
   {
@@ -22106,8 +23933,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 397,
-   "registry_competitors": 922,
+   "keywords": 468,
+   "registry_competitors": 1265,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/used-cars-for-sale.json"
   },
   {
@@ -22124,8 +23951,8 @@
    "search_value_index_usd": 2200000,
    "equivalent_google_ads_cost_month_usd": 150000,
    "national_featured_min_usd": 100,
-   "keywords": 605,
-   "registry_competitors": 1491,
+   "keywords": 720,
+   "registry_competitors": 1894,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/vet.json"
   },
   {
@@ -22376,8 +24203,8 @@
    "search_value_index_usd": 4300000,
    "equivalent_google_ads_cost_month_usd": 250000,
    "national_featured_min_usd": 250,
-   "keywords": 210,
-   "registry_competitors": 236,
+   "keywords": 233,
+   "registry_competitors": 285,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/waxing.json"
   },
   {
@@ -22808,8 +24635,8 @@
    "search_value_index_usd": 350000,
    "equivalent_google_ads_cost_month_usd": 22000,
    "national_featured_min_usd": 250,
-   "keywords": 153,
-   "registry_competitors": 86,
+   "keywords": 167,
+   "registry_competitors": 108,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/window-repair.json"
   },
   {
@@ -22826,8 +24653,8 @@
    "search_value_index_usd": 1900000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 250,
-   "keywords": 161,
-   "registry_competitors": 102,
+   "keywords": 177,
+   "registry_competitors": 131,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/window-replacement.json"
   },
   {
@@ -22880,8 +24707,8 @@
    "search_value_index_usd": 260000,
    "equivalent_google_ads_cost_month_usd": 15000,
    "national_featured_min_usd": 100,
-   "keywords": 167,
-   "registry_competitors": 98,
+   "keywords": 184,
+   "registry_competitors": 130,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/windshield-replacement.json"
   },
   {
@@ -23006,8 +24833,8 @@
    "search_value_index_usd": 130000,
    "equivalent_google_ads_cost_month_usd": 9500,
    "national_featured_min_usd": 250,
-   "keywords": 249,
-   "registry_competitors": 370,
+   "keywords": 267,
+   "registry_competitors": 424,
    "json": "https://registry-edge.dingalinged.workers.dev/api/market/yoga-classes.json"
   }
  ]

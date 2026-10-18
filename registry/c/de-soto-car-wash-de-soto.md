@@ -13,7 +13,7 @@ De Soto Car Wash is a car wash in De Soto, KS at 33540 Lexington Avenue, De Soto
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-22:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 13% of car washes in Kansas City, MO, #2 of 2 car washes in De Soto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 11% of car washes in Kansas City, MO, #2 of 2 car washes in De Soto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

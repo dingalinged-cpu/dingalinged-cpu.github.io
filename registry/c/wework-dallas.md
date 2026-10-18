@@ -19,6 +19,6 @@ WeWork is a coworking space in Dallas, TX at 1920 McKinney Avenue, Dallas, TX 75
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/wework-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wework-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/471579281 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/471579281 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

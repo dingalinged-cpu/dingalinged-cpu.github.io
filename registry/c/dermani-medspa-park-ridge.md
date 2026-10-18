@@ -13,7 +13,7 @@ Dermani MEDSPA is a dermatologist in Park Ridge, IL at 535B Busse Highway, Park 
 - Website: https://dermanimedspa.com/park-ridge-il-des-plaines-niles/
 - Email: parkridge@dermanimedspa.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00, Sa 09:00-17:00
-- Pulse Score: 50.5/100 — Fair — top 90% of dermatologists in Chicago, #1 of 1 dermatologists in Park Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 90% of dermatologists in Chicago, #1 of 1 dermatologists in Park Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,12 +13,12 @@ Mattress Firm is a mattress store in Houston, TX at 4485 Cypress Creek Parkway, 
 - Website: https://www.mattressfirm.com/en-us/stores/tx/houston/001042/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.6/100 — Building — top 78% of mattress stores in Houston, #25 of 28 mattress stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.9/100 — Building — top 72% of mattress stores in Houston, #24 of 26 mattress stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-firm-houston-w597912786/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-firm-houston-w597912786.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/597912786 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/597912786 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

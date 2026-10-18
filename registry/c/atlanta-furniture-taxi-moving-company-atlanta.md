@@ -13,7 +13,7 @@ Atlanta Furniture Taxi Moving Company is a moving company in Atlanta, GA at 2340
 - Website: https://www.atlantafurnituremovers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su 09:00-17:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 58% of moving companys in Atlanta, #2 of 2 moving companys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 43% of moving companys in Atlanta, #2 of 2 moving companys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

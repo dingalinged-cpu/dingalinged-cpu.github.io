@@ -13,7 +13,7 @@ National Auto Sales is an used car dealer in Marietta, GA at 831 Cobb Parkway No
 - Website: https://nationalautosales.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su 12:00-17:00
-- Pulse Score: 62.1/100 — Good — top 23% of used car dealers in Atlanta, #12 of 24 used car dealers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 22% of used car dealers in Atlanta, #12 of 24 used car dealers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

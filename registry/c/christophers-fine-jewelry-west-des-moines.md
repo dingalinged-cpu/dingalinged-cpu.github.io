@@ -13,7 +13,7 @@ Christopher's Fine Jewelry is a jewelry store in West Des Moines, IA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 42% of jewelry stores in Des Moines, IA, #5 of 14 jewelry stores in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 42% of jewelry stores in Des Moines, IA, #5 of 14 jewelry stores in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Quality Insulation is an insulation contractor in Saint Louis Park, MN at 3509 R
 - Website: https://www.qualityinsulationmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Fair — top 75% of insulation contractors in Minneapolis–St. Paul, #1 of 1 insulation contractors in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.3/100 — Fair — top 75% of insulation contractors in Minneapolis–St. Paul, #1 of 1 insulation contractors in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

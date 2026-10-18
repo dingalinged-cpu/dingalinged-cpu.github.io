@@ -13,7 +13,7 @@ North Central Mosquito Control Association is a pest control company in Saint Pa
 - Website: https://north-central-mosquito.org/WPSite/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 50% of pest control companys in Minneapolis–St. Paul, #1 of 1 pest control companys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 50% of pest control companys in Minneapolis–St. Paul, #1 of 1 pest control companys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

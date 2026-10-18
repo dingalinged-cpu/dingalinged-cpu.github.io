@@ -6,7 +6,7 @@ Also answers: attorney in White Bear Lake, MN; attorney near me (White Bear Lake
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Galena Law Firm, P.A. | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Galena Law Firm, P.A. is a lawyer in Saint Paul, MN at 4886 North Highway 61, Saint Paul, MN 55110. Phone: +16514296555. Website: https://galenalaw.com/. | https://registry-edge.dingalinged.workers.dev/c/galena-law-firm-p-a-saint-paul/
+1. Galena Law Firm, P.A. | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Galena Law Firm, P.A. is a lawyer in Saint Paul, MN at 4886 North Highway 61, Saint Paul, MN 55110. Phone: +16514296555. Website: https://galenalaw.com/. | https://registry-edge.dingalinged.workers.dev/c/galena-law-firm-p-a-saint-paul/
 2. Bucklet & Jensen | Organic #2 | Pulse Score 56.1/100 (Unrated, #1 in city) | Bucklet & Jensen is a lawyer in White Bear Lake, MN at 1257 Gun Club Road, White Bear Lake, MN 55110. Website: https://www.buckleyjensen.com/. | https://registry-edge.dingalinged.workers.dev/c/bucklet-and-jensen-white-bear-lake/
 
 ## Market data (for advertisers and agents)

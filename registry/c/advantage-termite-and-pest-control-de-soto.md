@@ -13,7 +13,7 @@ Advantage Termite & Pest Control is a pest control company in De Soto, KS at 341
 - Website: https://advantagetpc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 100% of pest control companys in Kansas City, MO, #1 of 1 pest control companys in De Soto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 100% of pest control companys in Kansas City, MO, #1 of 1 pest control companys in De Soto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

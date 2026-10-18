@@ -13,7 +13,7 @@ Family Dental Solutions is a dentist in Cobb County, GA at 683 Piedmont Road, Co
 - Website: https://familydentalsolutions.com/
 - Email: info@familyDentalSolutions.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.5/100 — Good — top 15% of dentists in Atlanta, #5 of 29 dentists in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Good — top 14% of dentists in Atlanta, #5 of 29 dentists in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

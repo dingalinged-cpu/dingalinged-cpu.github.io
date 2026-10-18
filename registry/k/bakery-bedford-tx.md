@@ -6,8 +6,8 @@ Also answers: bakery in Bedford, TX; bakery near me (Bedford, TX); best bakery B
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Argentina's Sweet & Salty Bakery | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Argentina's Sweet & Salty Bakery is a bakery in Bedford, TX at 510 Harwood Road ##B, Bedford, TX 76021. Phone: +18177853005. Website: https://argentinassweet.com/. | https://registry-edge.dingalinged.workers.dev/c/argentinas-sweet-and-salty-bakery-bedford/
-2. Shipley Do-Nuts | Organic #2 | Pulse Score 45.6/100 (Building, #1 in city) | Shipley Do-Nuts is a bakery in Euless, TX at 925 North Industrial Boulevard, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/shipley-do-nuts-euless/
+1. Argentina's Sweet & Salty Bakery | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Argentina's Sweet & Salty Bakery is a bakery in Bedford, TX at 510 Harwood Road ##B, Bedford, TX 76021. Phone: +18177853005. Website: https://argentinassweet.com/. | https://registry-edge.dingalinged.workers.dev/c/argentinas-sweet-and-salty-bakery-bedford/
+2. Shipley Do-Nuts | Organic #2 | Pulse Score 45.3/100 (Building, #1 in city) | Shipley Do-Nuts is a bakery in Euless, TX at 925 North Industrial Boulevard, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/shipley-do-nuts-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery bedford tx | category: Events & weddings | industry benchmark: Personal Services

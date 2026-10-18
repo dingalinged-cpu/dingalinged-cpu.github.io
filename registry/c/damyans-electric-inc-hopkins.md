@@ -13,7 +13,7 @@ Damyans Electric Inc. is an electrician in Hopkins, MN at 8000 Powell Road ##150
 - Website: https://damyanselectric.com/
 - Email: info@damyanselectric.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:30
-- Pulse Score: 64.9/100 — Good — top 12% of electricians in Minneapolis–St. Paul, #1 of 2 electricians in Hopkins (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 66.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 12% of electricians in Minneapolis–St. Paul, #1 of 2 electricians in Hopkins (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

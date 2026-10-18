@@ -13,7 +13,7 @@ Goodwill is a thrift store in Saint Paul, MN at 553 Fairview Avenue North, Saint
 - Website: https://www.goodwilleasterseals.org/shop/ways-to-shop
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 10:00-18:00; Su 10:00-18:00
-- Pulse Score: 49.3/100 — Building — top 58% of thrift stores in Minneapolis–St. Paul, #8 of 11 thrift stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 56% of thrift stores in Minneapolis–St. Paul, #8 of 11 thrift stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Edible Arrangements is a gift shop in Cobb County, GA at 4880 Lower Roswell Rd #
 - Website: https://www.ediblearrangements.com/stores/4880-lower-roswell-rd-marietta-ga-30068
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su 09:00-15:00
-- Pulse Score: 49.7/100 — Building — top 74% of gift shops in Atlanta, #4 of 5 gift shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 74% of gift shops in Atlanta, #4 of 5 gift shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

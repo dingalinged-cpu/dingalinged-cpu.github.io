@@ -1,4 +1,4 @@
-Keyword market for Roanoke, TX: 42 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
+Keyword market for Roanoke, TX: 44 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
 
 # Top keywords in Roanoke, TX
 
@@ -22,21 +22,21 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 15. dog boarding roanoke tx | searches/mo 6,100 (est) | CPC $4.06 | value $25,000 | Google Ads equiv $1,600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-roanoke-tx/
 
 ## By CPC
-1. architect roanoke tx | searches/mo 990 (est) | CPC $8.33 | value $8,200 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/architect-roanoke-tx/
-2. storage units roanoke tx | searches/mo 5,500 (est) | CPC $8.33 | value $46,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/storage-units-roanoke-tx/
-3. bakery roanoke tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bakery-roanoke-tx/
-4. dance studio roanoke tx | searches/mo 990 (est) | CPC $6.17 | value $6,100 | Google Ads equiv $440/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-roanoke-tx/
-5. martial arts roanoke tx | searches/mo 7,400 (est) | CPC $6.17 | value $46,000 | Google Ads equiv $3,300/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-roanoke-tx/
-6. tax preparer roanoke tx | searches/mo 1,500 (est) | CPC $5.87 | value $8,800 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-roanoke-tx/
-7. driving school roanoke tx | searches/mo 990 (est) | CPC $4.81 | value $4,800 | Google Ads equiv $270/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/driving-school-roanoke-tx/
-8. audiologist roanoke tx | searches/mo 820 (est) | CPC $4.76 | value $3,900 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/audiologist-roanoke-tx/
-9. chiropractor roanoke tx | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-roanoke-tx/
-10. eye doctor roanoke tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-roanoke-tx/
-11. dentist roanoke tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/dentist-roanoke-tx/
-12. haircut roanoke tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/haircut-roanoke-tx/
-13. massage roanoke tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/massage-roanoke-tx/
-14. auto body shop roanoke tx | searches/mo 1,500 (est) | CPC $4.35 | value $6,500 | Google Ads equiv $360/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-roanoke-tx/
-15. auto repair roanoke tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 9 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-roanoke-tx/
+1. moving company roanoke tx | searches/mo n/a (est) | CPC $12.41 | value $n/a | Google Ads equiv $n/a/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/moving-company-roanoke-tx/
+2. architect roanoke tx | searches/mo 990 (est) | CPC $8.33 | value $8,200 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/architect-roanoke-tx/
+3. storage units roanoke tx | searches/mo 5,500 (est) | CPC $8.33 | value $46,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/storage-units-roanoke-tx/
+4. movers roanoke tx | searches/mo n/a (est) | CPC $8.23 | value $n/a | Google Ads equiv $n/a/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/movers-roanoke-tx/
+5. bakery roanoke tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bakery-roanoke-tx/
+6. dance studio roanoke tx | searches/mo 990 (est) | CPC $6.17 | value $6,100 | Google Ads equiv $440/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-roanoke-tx/
+7. martial arts roanoke tx | searches/mo 7,400 (est) | CPC $6.17 | value $46,000 | Google Ads equiv $3,300/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-roanoke-tx/
+8. tax preparer roanoke tx | searches/mo 1,500 (est) | CPC $5.87 | value $8,800 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-roanoke-tx/
+9. driving school roanoke tx | searches/mo 990 (est) | CPC $4.81 | value $4,800 | Google Ads equiv $270/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/driving-school-roanoke-tx/
+10. audiologist roanoke tx | searches/mo 820 (est) | CPC $4.76 | value $3,900 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/audiologist-roanoke-tx/
+11. chiropractor roanoke tx | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-roanoke-tx/
+12. eye doctor roanoke tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-roanoke-tx/
+13. dentist roanoke tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/dentist-roanoke-tx/
+14. haircut roanoke tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/haircut-roanoke-tx/
+15. massage roanoke tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/massage-roanoke-tx/
 
 ## By value (searches x CPC)
 1. massage roanoke tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/massage-roanoke-tx/

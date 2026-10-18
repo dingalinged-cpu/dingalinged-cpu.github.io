@@ -13,12 +13,12 @@ Marigold Learning Academy & ABA Therapy Center is a daycare in Rockwall, TX at 4
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 39% of daycares in Dallas–Fort Worth, #5 of 7 daycares in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 37% of daycares in Dallas–Fort Worth, #5 of 7 daycares in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/marigold-learning-academy-and-aba-therapy-center-rockwall/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/marigold-learning-academy-and-aba-therapy-center-rockwall.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/805459468 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/805459468 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

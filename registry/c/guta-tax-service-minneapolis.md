@@ -13,7 +13,7 @@ Guta Tax Service is an accountant in Minneapolis, MN at 2327 East Franklin Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of accountants in Minneapolis–St. Paul, #6 of 6 accountants in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 100% of accountants in Minneapolis–St. Paul, #6 of 6 accountants in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

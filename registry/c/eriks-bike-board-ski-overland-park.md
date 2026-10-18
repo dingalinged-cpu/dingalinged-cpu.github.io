@@ -13,7 +13,7 @@ Erik's - Bike Board Ski is a bike shop in Overland Park, KS at 3701 West 95th St
 - Website: https://www.eriksbikeshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa-Su 11:00-17:00
-- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 93% of bike shops in Kansas City, MO, #2 of 2 bike shops in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 93% of bike shops in Kansas City, MO, #2 of 2 bike shops in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

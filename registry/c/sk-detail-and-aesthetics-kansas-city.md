@@ -13,7 +13,7 @@ SK Detail & Aesthetics is an auto repair shop in Kansas City, KS at 3123 Merriam
 - Website: https://www.s-kdetailaesthetics.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 64.4/100 — Good — top 1% of auto repair shops in Kansas City, MO, #1 of 102 auto repair shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 1% of auto repair shops in Kansas City, MO, #1 of 102 auto repair shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

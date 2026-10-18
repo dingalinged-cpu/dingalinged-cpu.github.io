@@ -19,6 +19,6 @@ Spirit Quest Center is a gift shop in Spring, TX at 303 Main Street, Spring, TX 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/spirit-quest-center-spring/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/spirit-quest-center-spring.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11735568488 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11735568488 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

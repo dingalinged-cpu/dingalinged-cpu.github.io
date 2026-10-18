@@ -6,7 +6,7 @@ Also answers: plastic surgeon in Dallas, TX; plastic surgeon near me (Dallas, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Matthew J. Trovato, MD | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Matthew J. Trovato, MD is a plastic surgeon in Dallas, TX at 9101 North Central Expressway #600, Dallas, TX 75231. Phone: +12148272873. Website: https://www.drmjtrovato.com/. | https://registry-edge.dingalinged.workers.dev/c/matthew-j-trovato-md-dallas/
+1. Matthew J. Trovato, MD | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Matthew J. Trovato, MD is a plastic surgeon in Dallas, TX at 9101 North Central Expressway #600, Dallas, TX 75231. Phone: +12148272873. Website: https://www.drmjtrovato.com/. | https://registry-edge.dingalinged.workers.dev/c/matthew-j-trovato-md-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon dallas tx | category: Health & medical | industry benchmark: Physicians & Surgeons

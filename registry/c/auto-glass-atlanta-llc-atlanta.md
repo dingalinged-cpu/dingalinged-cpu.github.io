@@ -13,7 +13,7 @@ Auto Glass Atlanta LLC is an auto repair shop in Atlanta, GA at 3535 Peachtree R
 - Website: n/a
 - Email: autoglassatlanta@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 20% of auto repair shops in Atlanta, #6 of 46 auto repair shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 19% of auto repair shops in Atlanta, #6 of 46 auto repair shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

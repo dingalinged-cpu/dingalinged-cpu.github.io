@@ -13,7 +13,7 @@ Kay Jewelers is a jewelry store in Roseville, MN. Phone: +16516360877.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 46.4/100 — Building — top 82% of jewelry stores in Minneapolis–St. Paul, #4 of 7 jewelry stores in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 82% of jewelry stores in Minneapolis–St. Paul, #4 of 7 jewelry stores in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

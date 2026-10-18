@@ -13,12 +13,12 @@ GEICO is an insurance agent in Rockwall, TX at 2455 Ridge Road #125, Rockwall, T
 - Website: https://www.geico.com/insurance-agents/texas/dallas-fort-worth/jake-bosse/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 10:00-16:00
-- Pulse Score: 48.8/100 — Building — top 46% of insurance agents in Dallas–Fort Worth, #5 of 14 insurance agents in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 45% of insurance agents in Dallas–Fort Worth, #5 of 14 insurance agents in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/geico-rockwall/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/geico-rockwall.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12116248281 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12116248281 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

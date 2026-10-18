@@ -13,12 +13,12 @@ Houstonian Dental is a dentist in Houston, TX at 4101 Greenbriar Drive #155, Hou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00; Sa,Su closed
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 31% of dentists in Houston, #56 of 176 dentists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 31% of dentists in Houston, #59 of 181 dentists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/houstonian-dental-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/houstonian-dental-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12406413393 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12406413393 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

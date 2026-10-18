@@ -7,7 +7,7 @@ Also answers: brake repair in Mckinney, TX; brake repair near me (Mckinney, TX);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Christian Brothers Automotive | Organic #1 | Pulse Score 49.4/100 (Building, #12 in city) | Christian Brothers Automotive is an auto repair shop in McKinney, TX at 3790 Eldorado Parkway, McKinney, TX 75070. Phone: +19726409832. Website: https://www.cbac.com/mckinney/. | https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-mckinney/
-2. Mavis Tires & Brakes | Organic #2 | Pulse Score 48.7/100 (Building, #14 in city) | Mavis Tires & Brakes is an auto repair shop in McKinney, TX at 7237 South Custer Road, McKinney, TX. Phone: +19452158610. Website: https://mavis.com/. | https://registry-edge.dingalinged.workers.dev/c/mavis-tires-and-brakes-mckinney/
+2. Mavis Tires & Brakes | Organic #2 | Pulse Score 48.6/100 (Building, #14 in city) | Mavis Tires & Brakes is an auto repair shop in McKinney, TX at 7237 South Custer Road, McKinney, TX. Phone: +19452158610. Website: https://mavis.com/. | https://registry-edge.dingalinged.workers.dev/c/mavis-tires-and-brakes-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: brake repair mckinney tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

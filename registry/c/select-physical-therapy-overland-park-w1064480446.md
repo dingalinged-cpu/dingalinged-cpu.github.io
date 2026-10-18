@@ -13,7 +13,7 @@ Select Physical Therapy is a physical therapy clinic in Overland Park, KS at 159
 - Website: https://www.selectphysicaltherapy.com/contact/find-a-location/ks/overland-park/overland-park-south
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 69% of physical therapy clinics in Kansas City, MO, #3 of 5 physical therapy clinics in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 69% of physical therapy clinics in Kansas City, MO, #3 of 5 physical therapy clinics in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

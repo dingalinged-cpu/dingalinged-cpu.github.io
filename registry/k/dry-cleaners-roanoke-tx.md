@@ -6,7 +6,7 @@ Also answers: dry cleaners in Roanoke, TX; dry cleaners near me (Roanoke, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cinch Cleaners | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Cinch Cleaners is a dry cleaner in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/cinch-cleaners-roanoke/
+1. Cinch Cleaners | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Cinch Cleaners is a dry cleaner in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/cinch-cleaners-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners roanoke tx | category: Professional & financial services | industry benchmark: Finance & Insurance

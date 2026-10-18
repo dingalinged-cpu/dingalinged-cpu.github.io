@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Minneapolis, MN at 1001 West Lake Street, M
 - Website: https://www.mattressfirm.com/en-us/stores/mn/minneapolis/080037/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-18:00
-- Pulse Score: 51.9/100 — Fair — top 36% of mattress stores in Minneapolis–St. Paul, #3 of 3 mattress stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 67.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.9/100 — Fair — top 36% of mattress stores in Minneapolis–St. Paul, #3 of 3 mattress stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 67.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

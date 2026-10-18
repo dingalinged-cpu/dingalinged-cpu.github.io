@@ -13,12 +13,12 @@ Express Cleaners is a dry cleaner in Needville, TX at 13400 TX-36 #118, Needvill
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Unrated (not enough evidence yet) — top 69% of dry cleaners in Houston, #1 of 1 dry cleaners in Needville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Unrated (not enough evidence yet) — top 70% of dry cleaners in Houston, #1 of 1 dry cleaners in Needville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/express-cleaners-needville/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/express-cleaners-needville.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9821474753 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9821474753 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

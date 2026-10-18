@@ -13,7 +13,7 @@ Thai Foot Reflexology is a massage studio in Kansas City, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-24:00
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 28% of massage studios in Kansas City, MO, #3 of 13 massage studios in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 32% of massage studios in Kansas City, MO, #4 of 13 massage studios in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

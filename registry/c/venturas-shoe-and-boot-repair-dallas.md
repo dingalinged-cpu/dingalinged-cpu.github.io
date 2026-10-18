@@ -19,6 +19,6 @@ Venturas Shoe & Boot Repair is a shoe repair in Dallas, TX at 294 Casa Linda Pla
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/venturas-shoe-and-boot-repair-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/venturas-shoe-and-boot-repair-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13887660631 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13887660631 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

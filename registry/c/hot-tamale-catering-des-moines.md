@@ -13,7 +13,7 @@ Hot Tamale Catering is a caterer in Des Moines, IA at 4121 Fleur Drive, Des Moin
 - Website: https://hottamaledsm.com/
 - Email: hottamalecateringia@gmail.com
 - Opening hours (OSM syntax): Su-Mo closed; Tu-Sa 09:00-20:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 34% of caterers in Des Moines, IA, #1 of 2 caterers in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 34% of caterers in Des Moines, IA, #1 of 2 caterers in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

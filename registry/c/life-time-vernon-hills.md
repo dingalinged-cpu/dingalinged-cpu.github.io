@@ -13,7 +13,7 @@ Life Time is a gym in Vernon Hills, IL at 680 Woodlands Parkway, Vernon Hills, I
 - Website: https://www.lifetime.life/life-time-locations/il-vernon-hills.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.9/100 — Building — top 49% of gyms in Chicago, #3 of 5 gyms in Vernon Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 48% of gyms in Chicago, #3 of 5 gyms in Vernon Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

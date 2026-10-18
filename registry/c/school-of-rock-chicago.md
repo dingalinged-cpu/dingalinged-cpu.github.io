@@ -13,7 +13,7 @@ School of Rock is a music school in Chicago, IL at 5600 North Ridge Avenue, Chic
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 15:00-20:00; Sa,Su 11:00-14:00
-- Pulse Score: 46.5/100 — Building — top 90% of music schools in Chicago, #22 of 22 music schools in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 90% of music schools in Chicago, #22 of 22 music schools in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

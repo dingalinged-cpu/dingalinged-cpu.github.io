@@ -13,7 +13,7 @@ Beaute Co. is a skin care studio in Lithonia, GA at 2929 Turner Hill Road #15, L
 - Website: https://www.shopbeaute.co/
 - Email: n/a
 - Opening hours (OSM syntax): Tu 13:00-17:00; We-Th 11:00-17:00; Fr 10:00-17:00; Sa 10:00-17:00
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 50% of skin care studios in Atlanta, #1 of 1 skin care studios in Lithonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 50% of skin care studios in Atlanta, #1 of 1 skin care studios in Lithonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

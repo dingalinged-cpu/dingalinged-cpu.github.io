@@ -6,7 +6,7 @@ Also answers: jewelry store in Homer Glen, IL; jewelry store near me (Homer Glen
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lord & Hunt | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Lord & Hunt is a jewelry store in Homer Glen, IL at 14222 South Bell Road, Homer Glen, IL 60491. Phone: +17087455172. Website: https://lordandhuntorlandjewelers.com/Lord_and_Hunt_Jewelers/HOME.html. | https://registry-edge.dingalinged.workers.dev/c/lord-and-hunt-homer-glen/
+1. Lord & Hunt | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Lord & Hunt is a jewelry store in Homer Glen, IL at 14222 South Bell Road, Homer Glen, IL 60491. Phone: +17087455172. Website: https://lordandhuntorlandjewelers.com/Lord_and_Hunt_Jewelers/HOME.html. | https://registry-edge.dingalinged.workers.dev/c/lord-and-hunt-homer-glen/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store homer glen il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

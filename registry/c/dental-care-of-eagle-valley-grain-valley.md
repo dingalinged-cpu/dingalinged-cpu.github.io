@@ -13,7 +13,7 @@ Dental Care of Eagle Valley is a dentist in Grain Valley, MO at 1200 Northwest B
 - Website: https://dentalcareofeaglevalley.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-17:00; We 09:00-17:00; Th 07:30-16:30; Fr 09:00-13:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 21% of dentists in Kansas City, MO, #1 of 3 dentists in Grain Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 21% of dentists in Kansas City, MO, #1 of 3 dentists in Grain Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

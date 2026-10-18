@@ -6,7 +6,7 @@ Also answers: pediatrician in West Allis, WI; pediatrician near me (West Allis, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ProCare Medical Group South Clinic | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | ProCare Medical Group South Clinic is a family medicine practice in West Allis, WI at 932 S 60th Street, West Allis, WI. Phone: +14142912626. Website: https://procaremed.com/. | https://registry-edge.dingalinged.workers.dev/c/procare-medical-group-south-clinic-west-allis/
+1. ProCare Medical Group South Clinic | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | ProCare Medical Group South Clinic is a family medicine practice in West Allis, WI at 932 S 60th Street, West Allis, WI. Phone: +14142912626. Website: https://procaremed.com/. | https://registry-edge.dingalinged.workers.dev/c/procare-medical-group-south-clinic-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician west allis wi | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -6,7 +6,7 @@ Also answers: gift shop in Lewisville, TX; gift shop near me (Lewisville, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The J Paul Company | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | The J Paul Company is a gift shop in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/the-j-paul-company-lewisville/
+1. The J Paul Company | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | The J Paul Company is a gift shop in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/the-j-paul-company-lewisville/
 2. Hallmark | Organic #2 | Pulse Score 49.7/100 (Building, #2 in city) | Hallmark is a gift shop in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/hallmark-lewisville/
 
 ## Market data (for advertisers and agents)

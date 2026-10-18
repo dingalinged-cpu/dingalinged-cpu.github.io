@@ -13,7 +13,7 @@ Hollywood Feed is a pet store in Cobb County, GA at 3460 Sandy Plains Road, Cobb
 - Website: https://locations.hollywoodfeed.com/georgia/marietta/3460-sandy-plains-rd/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:30; Su 10:00-18:30
-- Pulse Score: 45.3/100 — Building — top 74% of pet stores in Atlanta, #3 of 5 pet stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 74% of pet stores in Atlanta, #3 of 5 pet stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

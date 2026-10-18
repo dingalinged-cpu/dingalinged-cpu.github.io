@@ -13,12 +13,12 @@ Farmers Insurance - Kevin Kohler is an insurance agent in Dallas, TX at 10222 Mi
 - Website: https://agents.farmers.com/tx/dallas/kevin-kohler
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 13% of insurance agents in Dallas–Fort Worth, #9 of 47 insurance agents in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 13% of insurance agents in Dallas–Fort Worth, #11 of 53 insurance agents in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-kevin-kohler-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/farmers-insurance-kevin-kohler-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/4580625835 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4580625835 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

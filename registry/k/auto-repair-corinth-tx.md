@@ -6,9 +6,9 @@ Also answers: auto repair in Corinth, TX; auto repair near me (Corinth, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Christian Brothers Automotive Corinth | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Christian Brothers Automotive Corinth is an auto repair shop in Corinth, TX at 5050 South Interstate 35E, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-corinth-corinth/
-2. Personal Touch Minute Lube | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Personal Touch Minute Lube is an auto repair shop in Corinth, TX at 3951 Swisher Road, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/personal-touch-minute-lube-corinth/
-3. Firestone Complete Auto Car | Organic #3 | Pulse Score 43.3/100 (Building, #3 in city) | Firestone Complete Auto Car is an auto repair shop in Corinth, TX at 4151 Swisher Road, Corinth, TX. | https://registry-edge.dingalinged.workers.dev/c/firestone-complete-auto-car-corinth/
+1. Christian Brothers Automotive Corinth | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Christian Brothers Automotive Corinth is an auto repair shop in Corinth, TX at 5050 South Interstate 35E, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-corinth-corinth/
+2. Personal Touch Minute Lube | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Personal Touch Minute Lube is an auto repair shop in Corinth, TX at 3951 Swisher Road, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/personal-touch-minute-lube-corinth/
+3. Firestone Complete Auto Car | Organic #3 | Pulse Score 43.2/100 (Building, #3 in city) | Firestone Complete Auto Car is an auto repair shop in Corinth, TX at 4151 Swisher Road, Corinth, TX. | https://registry-edge.dingalinged.workers.dev/c/firestone-complete-auto-car-corinth/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair corinth tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

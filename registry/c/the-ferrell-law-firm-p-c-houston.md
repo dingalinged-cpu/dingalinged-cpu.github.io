@@ -13,12 +13,12 @@ The Ferrell Law Firm, P.C. is a lawyer in Houston, TX at 5005 Riverway Drive #45
 - Website: https://ferrell-lawfirm.com/
 - Email: sferrell@ferrell-lawfirm.com
 - Opening hours (OSM syntax): Mo-Su 08:30-17:30
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 19% of lawyers in Houston, #15 of 79 lawyers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 20% of lawyers in Houston, #17 of 86 lawyers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-ferrell-law-firm-p-c-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-ferrell-law-firm-p-c-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7069564842 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7069564842 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

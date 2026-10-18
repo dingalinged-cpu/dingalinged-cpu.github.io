@@ -13,7 +13,7 @@ Isthmus Veterinary Care - Marc Siegel, DVM is a veterinarian in Madison, WI at 1
 - Website: https://isthmusvetcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-17:30; We 08:00-19:00; Th 08:00-13:00; Fr 08:00-17:30; Sa 08:00-13:00
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 3% of veterinarians in Madison, #1 of 25 veterinarians in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 3% of veterinarians in Madison, #1 of 25 veterinarians in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

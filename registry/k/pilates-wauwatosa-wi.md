@@ -6,7 +6,7 @@ Also answers: pilates in Wauwatosa, WI; pilates near me (Wauwatosa, WI); best pi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Precision Pilates | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Precision Pilates is a pilates studio in Wauwatosa, WI at 11702 West North Avenue #Suite A, Wauwatosa, WI 53226. Phone: +14148317994. Website: https://www.ppmke.com/. | https://registry-edge.dingalinged.workers.dev/c/precision-pilates-wauwatosa/
+1. Precision Pilates | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Precision Pilates is a pilates studio in Wauwatosa, WI at 11702 West North Avenue #Suite A, Wauwatosa, WI 53226. Phone: +14148317994. Website: https://www.ppmke.com/. | https://registry-edge.dingalinged.workers.dev/c/precision-pilates-wauwatosa/
 2. Club Pilates | Organic #2 | Pulse Score 50.6/100 (Fair, #2 in city) | Club Pilates is a pilates studio in Wauwatosa, WI at 6929 West North Avenue, Wauwatosa, WI 53213. Phone: +14143951122. Website: https://www.clubpilates.com/location/wauwatosa. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-wauwatosa/
 
 ## Market data (for advertisers and agents)

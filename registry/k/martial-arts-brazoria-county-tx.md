@@ -6,7 +6,7 @@ Also answers: martial arts in Brazoria County, TX; martial arts near me (Brazori
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HC Taekwondo | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | HC Taekwondo is a martial arts school in Brazoria County, TX at 11540 Magnolia Parkway #D, Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/hc-taekwondo-brazoria-county/
+1. HC Taekwondo | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | HC Taekwondo is a martial arts school in Brazoria County, TX at 11540 Magnolia Parkway #D, Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/hc-taekwondo-brazoria-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts brazoria county tx | category: Fitness | industry benchmark: Health & Fitness

@@ -8,17 +8,17 @@ GFY Express Car Wash is a car wash in Spring, TX at 20615 Kuykendahl Road, Sprin
 - City: Spring
 - State: TX
 - ZIP: 77379
-- Coordinates: 30.0693696, -95.5092233
+- Coordinates: 30.0693695, -95.5092233
 - Phone: +18326398197
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 9% of car washes in Houston, #1 of 6 car washes in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 8% of car washes in Houston, #1 of 6 car washes in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/gfy-express-car-wash-spring/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gfy-express-car-wash-spring.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1300414481 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1300414481 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

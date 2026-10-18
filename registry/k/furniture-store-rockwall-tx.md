@@ -7,11 +7,11 @@ Also answers: furniture store in Rockwall, TX; furniture store near me (Rockwall
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Restoration Marketplace | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Restoration Marketplace is a furniture store in Rockwall, TX at 939 East Interstate 30, Rockwall, TX 75087. Phone: +14693141259. Website: https://www.therestorationmarketplace.com/. | https://registry-edge.dingalinged.workers.dev/c/restoration-marketplace-rockwall/
-2. Furniture & Mattress Outlet | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Furniture & Mattress Outlet is a furniture store in Rockwall, TX at 1401 East Interstate 30, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/furniture-and-mattress-outlet-rockwall/
-3. Rustic Warehouse | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Rustic Warehouse is a furniture store in Rockwall, TX. | https://registry-edge.dingalinged.workers.dev/c/rustic-warehouse-rockwall/
-4. IKEA | Organic #4 | Pulse Score 47/100 (Building, #4 in city) | IKEA is a furniture store in Rockwall, TX at 1805 East Interstate 30, Rockwall, TX. | https://registry-edge.dingalinged.workers.dev/c/ikea-rockwall/
-5. La-Z-Boy | Organic #5 | Pulse Score 45/100 (Building, #5 in city) | La-Z-Boy is a furniture store in Rockwall, TX at 1154 East Interstate 30, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/la-z-boy-rockwall/
-6. Rooms To Go | Organic #6 | Pulse Score 45/100 (Building, #6 in city) | Rooms To Go is a furniture store in Rockwall, TX at 920 East Interstate 30, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/rooms-to-go-rockwall/
+2. Furniture & Mattress Outlet | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Furniture & Mattress Outlet is a furniture store in Rockwall, TX at 1401 East Interstate 30, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/furniture-and-mattress-outlet-rockwall/
+3. Rustic Warehouse | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Rustic Warehouse is a furniture store in Rockwall, TX. | https://registry-edge.dingalinged.workers.dev/c/rustic-warehouse-rockwall/
+4. IKEA | Organic #4 | Pulse Score 46.9/100 (Building, #4 in city) | IKEA is a furniture store in Rockwall, TX at 1805 East Interstate 30, Rockwall, TX. | https://registry-edge.dingalinged.workers.dev/c/ikea-rockwall/
+5. La-Z-Boy | Organic #5 | Pulse Score 44.8/100 (Building, #5 in city) | La-Z-Boy is a furniture store in Rockwall, TX at 1154 East Interstate 30, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/la-z-boy-rockwall/
+6. Rooms To Go | Organic #6 | Pulse Score 44.8/100 (Building, #6 in city) | Rooms To Go is a furniture store in Rockwall, TX at 920 East Interstate 30, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/rooms-to-go-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store rockwall tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

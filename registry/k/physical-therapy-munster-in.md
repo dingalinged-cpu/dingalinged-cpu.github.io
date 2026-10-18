@@ -7,7 +7,7 @@ Also answers: physical therapy in Munster, IN; physical therapy near me (Munster
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Premier Physical Therapy | Organic #1 | Pulse Score 47/100 (Unrated, #1 in city) | Premier Physical Therapy is a physical therapy clinic in Munster, IN at 8159 Calumet Avenue, Munster, IN 46321. Phone: +12198362800. | https://registry-edge.dingalinged.workers.dev/c/premier-physical-therapy-munster/
-2. Athletico Physical Therapy | Organic #2 | Pulse Score 44.7/100 (Building, #2 in city) | Athletico Physical Therapy is a physical therapy clinic in Munster, IN at 7967 Calumet Avenue, Munster, IN 46321. | https://registry-edge.dingalinged.workers.dev/c/athletico-physical-therapy-munster/
+2. Athletico Physical Therapy | Organic #2 | Pulse Score 44.6/100 (Building, #2 in city) | Athletico Physical Therapy is a physical therapy clinic in Munster, IN at 7967 Calumet Avenue, Munster, IN 46321. | https://registry-edge.dingalinged.workers.dev/c/athletico-physical-therapy-munster/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy munster in | category: Health & medical | industry benchmark: Physicians & Surgeons

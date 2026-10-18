@@ -13,7 +13,7 @@ Take 5 Oil Change is an auto repair shop in Papillion, NE at 1419 Papillion Driv
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.6/100 — Building — top 95% of auto repair shops in Omaha, NE, #12 of 13 auto repair shops in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.6/100 — Building — top 93% of auto repair shops in Omaha, NE, #12 of 13 auto repair shops in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

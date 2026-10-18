@@ -13,7 +13,7 @@ Tidal Wave Auto Spa is a car wash in Overland Park, KS at 8710 Nieman Road, Over
 - Website: https://www.tidalwaveautospa.com/location/overland-park-ks/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-20:00
-- Pulse Score: 49.4/100 — Building — top 69% of car washes in Kansas City, MO, #7 of 13 car washes in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 67% of car washes in Kansas City, MO, #7 of 13 car washes in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

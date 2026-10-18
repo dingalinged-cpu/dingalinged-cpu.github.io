@@ -6,9 +6,9 @@ Also answers: bakery in Southlake, TX; bakery near me (Southlake, TX); best bake
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Peace Love and Little Donuts | Organic #1 | Pulse Score 47.8/100 (Building, #1 in city) | Peace Love and Little Donuts is a bakery in Southlake, TX. Website: https://www.peaceloveandlittledonuts.com/. | https://registry-edge.dingalinged.workers.dev/c/peace-love-and-little-donuts-southlake/
-2. Great Harvest Bread Company | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Great Harvest Bread Company is a bakery in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/great-harvest-bread-company-southlake/
-3. Tiff's Treats | Organic #3 | Pulse Score 41.7/100 (Unrated, #3 in city) | Tiff's Treats is a bakery in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/tiffs-treats-southlake/
+1. Peace Love and Little Donuts | Organic #1 | Pulse Score 47.2/100 (Building, #1 in city) | Peace Love and Little Donuts is a bakery in Southlake, TX. Website: https://www.peaceloveandlittledonuts.com/. | https://registry-edge.dingalinged.workers.dev/c/peace-love-and-little-donuts-southlake/
+2. Great Harvest Bread Company | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | Great Harvest Bread Company is a bakery in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/great-harvest-bread-company-southlake/
+3. Tiff's Treats | Organic #3 | Pulse Score 41.6/100 (Unrated, #3 in city) | Tiff's Treats is a bakery in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/tiffs-treats-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery southlake tx | category: Events & weddings | industry benchmark: Personal Services

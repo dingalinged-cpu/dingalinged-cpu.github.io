@@ -13,7 +13,7 @@ Purity Nails 21 is a nail salon in Cobb County, GA at 2615 George Busbee Parkway
 - Website: https://puritynails21.us/
 - Email: info@puritynails21.us
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.8/100 — Good — top 22% of nail salons in Atlanta, #12 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Good — top 23% of nail salons in Atlanta, #12 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

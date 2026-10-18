@@ -1,4 +1,4 @@
-The top unpaid realtor listing for Flower Mound, TX is Enos and Co (a real estate agency in Flower Mound, TX at 2001 Timber Creek Road, Flower Mound, TX 75028. Phone: +14696828757. Website: https://enosandco.com/). 4 realtor businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Flower Mound, TX is Enos and Co (a real estate agency in Flower Mound, TX at 2001 Timber Creek Road, Flower Mound, TX 75028. Phone: +14696828757. Website: https://enosandco.com/). 5 realtor businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Flower Mound, TX?
 
@@ -7,9 +7,10 @@ Also answers: realtor in Flower Mound, TX; realtor near me (Flower Mound, TX); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Enos and Co | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Enos and Co is a real estate agency in Flower Mound, TX at 2001 Timber Creek Road, Flower Mound, TX 75028. Phone: +14696828757. Website: https://enosandco.com/. | https://registry-edge.dingalinged.workers.dev/c/enos-and-co-flower-mound/
-2. Berkshire Hathaway HomeServices | Organic #2 | Pulse Score 45/100 (Building, #2 in city) | Berkshire Hathaway HomeServices is a real estate agency in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/berkshire-hathaway-homeservices-flower-mound/
-3. Coldwell Banker Apex Realotrs | Organic #3 | Pulse Score 41.7/100 (Building, #3 in city) | Coldwell Banker Apex Realotrs is a real estate agency in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/coldwell-banker-apex-realotrs-flower-mound/
-4. Engel & Volkers | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | Engel & Volkers is a real estate agency in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/engel-and-volkers-flower-mound/
+2. Ebby Halliday Real Estate | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Ebby Halliday Real Estate is a real estate agency in Flower Mound, TX at 6000 Long Prairie Road #100, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/ebby-halliday-real-estate-flower-mound/
+3. Berkshire Hathaway HomeServices | Organic #3 | Pulse Score 44.9/100 (Building, #3 in city) | Berkshire Hathaway HomeServices is a real estate agency in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/berkshire-hathaway-homeservices-flower-mound/
+4. Coldwell Banker Apex Realotrs | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | Coldwell Banker Apex Realotrs is a real estate agency in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/coldwell-banker-apex-realotrs-flower-mound/
+5. Engel & Volkers | Organic #5 | Pulse Score 41.7/100 (Building, #5 in city) | Engel & Volkers is a real estate agency in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/engel-and-volkers-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor flower mound tx | category: real_estate | industry benchmark: Real Estate
@@ -19,7 +20,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'realtor near me': $3.70-$18.12 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: high (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 4
+- Registry businesses competing: 5
 - Equivalent Google Ads cost per month: ~$690 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

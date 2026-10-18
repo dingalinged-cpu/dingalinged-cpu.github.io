@@ -13,7 +13,7 @@ Petco is a pet store in Council Bluffs, IA at 3271 Marketplace Drive #B7, Counci
 - Website: https://www.petco.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 45.8/100 — Building — top 95% of pet stores in Omaha, NE, #5 of 5 pet stores in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 95% of pet stores in Omaha, NE, #5 of 5 pet stores in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

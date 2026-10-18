@@ -13,7 +13,7 @@ Floor & Decor is a flooring company in Overland Park, KS at 7601 East Frontage R
 - Website: https://www.flooranddecor.com/store?StoreID=190
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 10:00-18:00
-- Pulse Score: 49/100 — Building — top 77% of flooring companys in Kansas City, MO, #2 of 3 flooring companys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 77% of flooring companys in Kansas City, MO, #2 of 3 flooring companys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

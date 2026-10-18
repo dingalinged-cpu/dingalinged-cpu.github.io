@@ -13,7 +13,7 @@ Darabi Dermatology is a dermatologist in Chaska, MN at 1107 Hazeltine Boulevard 
 - Website: https://darabidermatology.com/
 - Email: info@darabiderm.com
 - Opening hours (OSM syntax): Mo-Th 08:00-12:00,13:00-16:30; Fr 08:00-12:00
-- Pulse Score: 63.4/100 — Good — top 13% of dermatologists in Minneapolis–St. Paul, #1 of 1 dermatologists in Chaska (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 13% of dermatologists in Minneapolis–St. Paul, #1 of 1 dermatologists in Chaska (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

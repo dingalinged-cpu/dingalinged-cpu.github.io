@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Meridian Endodontics, Periodontics & Implant Dentistry | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Meridian Endodontics, Periodontics & Implant Dentistry is a dentist in Shorewood, WI at 1409 East Capitol Drive, Shorewood, WI 53211. Phone: +12623276100. Website: https://www.meridianendo.com/. | https://registry-edge.dingalinged.workers.dev/c/meridian-endodontics-periodontics-and-implant-dentistry-shorewood/
 2. Shorewood Dental | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | Shorewood Dental is a dentist in Shorewood, WI at 2321 East Capitol Drive #Suite 700, Shorewood, WI 53211. Phone: +14143327700. | https://registry-edge.dingalinged.workers.dev/c/shorewood-dental-shorewood/
 3. Klara Fleysh | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | Klara Fleysh is a dentist in Shorewood, WI at 1714 East Capitol Drive, Shorewood, WI 53211. Phone: +14149630950. | https://registry-edge.dingalinged.workers.dev/c/klara-fleysh-shorewood/
-4. Hive Orthodontics | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Hive Orthodontics is a dentist in Shorewood, WI at 4161 North Oakland Avenue, Shorewood, WI 53211. | https://registry-edge.dingalinged.workers.dev/c/hive-orthodontics-shorewood/
+4. Hive Orthodontics | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Hive Orthodontics is a dentist in Shorewood, WI at 4161 North Oakland Avenue, Shorewood, WI 53211. | https://registry-edge.dingalinged.workers.dev/c/hive-orthodontics-shorewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist shorewood wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

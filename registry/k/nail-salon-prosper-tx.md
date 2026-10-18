@@ -6,11 +6,11 @@ Also answers: nail salon in Prosper, TX; nail salon near me (Prosper, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blue Agave Nail Lounge | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Blue Agave Nail Lounge is a nail salon in Prosper, TX at 5600 West University Drive, Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/blue-agave-nail-lounge-prosper/
-2. HT Nail Spa | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | HT Nail Spa is a nail salon in Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/ht-nail-spa-prosper/
-3. Rose Couture Nail Bar | Organic #3 | Pulse Score 48/100 (Unrated, #3 in city) | Rose Couture Nail Bar is a nail salon in Prosper, TX at 1070 South Preston Road #30, Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/rose-couture-nail-bar-prosper/
-4. Grandlux Nail Salon | Organic #4 | Pulse Score 47.9/100 (Unrated, #4 in city) | Grandlux Nail Salon is a nail salon in Prosper, TX at 4740 West University Drive #60, Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/grandlux-nail-salon-prosper/
-5. Rose Couture Nail Bar | Organic #5 | Pulse Score 45/100 (Unrated, #5 in city) | Rose Couture Nail Bar is a nail salon in Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/rose-couture-nail-bar-prosper-n13673082806/
+1. Blue Agave Nail Lounge | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Blue Agave Nail Lounge is a nail salon in Prosper, TX at 5600 West University Drive, Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/blue-agave-nail-lounge-prosper/
+2. HT Nail Spa | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | HT Nail Spa is a nail salon in Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/ht-nail-spa-prosper/
+3. Rose Couture Nail Bar | Organic #3 | Pulse Score 48.1/100 (Unrated, #3 in city) | Rose Couture Nail Bar is a nail salon in Prosper, TX at 5720 West University Drive #20, Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/rose-couture-nail-bar-prosper-n13673082806/
+4. Rose Couture Nail Bar | Organic #4 | Pulse Score 47.6/100 (Unrated, #4 in city) | Rose Couture Nail Bar is a nail salon in Prosper, TX at 1070 South Preston Road #30, Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/rose-couture-nail-bar-prosper/
+5. Grandlux Nail Salon | Organic #5 | Pulse Score 47.5/100 (Unrated, #5 in city) | Grandlux Nail Salon is a nail salon in Prosper, TX at 4740 West University Drive #60, Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/grandlux-nail-salon-prosper/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon prosper tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

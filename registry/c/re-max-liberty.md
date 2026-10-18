@@ -13,7 +13,7 @@ RE/MAX is a real estate agency in Liberty, MO at 2 Victory Drive, Liberty, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.3/100 — Building — top 93% of real estate agencys in Kansas City, MO, #1 of 1 real estate agencys in Liberty (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.3/100 — Building — top 93% of real estate agencys in Kansas City, MO, #1 of 1 real estate agencys in Liberty (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

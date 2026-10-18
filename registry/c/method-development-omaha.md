@@ -13,7 +13,7 @@ Method Development is an IT support company in Omaha, NE at 12019 Blondo Street 
 - Website: https://methoddev.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 20% of IT support companys in Omaha, NE, #1 of 3 IT support companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 20% of IT support companys in Omaha, NE, #1 of 3 IT support companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

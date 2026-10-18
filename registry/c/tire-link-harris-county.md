@@ -1,24 +1,24 @@
-Tire Link is a tire shop in Harris County, TX.
+TireLink is a tire shop in Harris County, TX at 5786 FM 1960, Harris County, TX 77346. Phone: +18329950555. Website: https://www.tirelinkco.com/.
 
-# Tire Link
+# TireLink
 
 - Category: tire shop
 - Services: tire shop
-- Address: Harris County, TX
+- Address: 5786 FM 1960, Harris County, TX 77346
 - City: Harris County
 - State: TX
-- ZIP: n/a
+- ZIP: 77346
 - Coordinates: 29.9981094, -95.186294
-- Phone: n/a
-- Website: n/a
+- Phone: +18329950555
+- Website: https://www.tirelinkco.com/
 - Email: n/a
-- Opening hours (OSM syntax): n/a
-- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 38% of tire shops in Houston, #12 of 15 tire shops in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 1% of tire shops in Houston, #1 of 19 tire shops in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/tire-link-harris-county/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tire-link-harris-county.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/14055022944 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14055022944 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

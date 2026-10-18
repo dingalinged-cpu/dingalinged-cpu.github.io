@@ -6,7 +6,7 @@ Also answers: dance studio in New Lenox, IL; dance studio near me (New Lenox, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Turning Pointe Dance Company | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Turning Pointe Dance Company is a dance studio in New Lenox, IL at 2351 Joliet Highway, New Lenox, IL 60451. Phone: +18153206201. Website: https://tpdcdance.com/. | https://registry-edge.dingalinged.workers.dev/c/turning-pointe-dance-company-new-lenox/
+1. Turning Pointe Dance Company | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Turning Pointe Dance Company is a dance studio in New Lenox, IL at 2351 Joliet Highway, New Lenox, IL 60451. Phone: +18153206201. Website: https://tpdcdance.com/. | https://registry-edge.dingalinged.workers.dev/c/turning-pointe-dance-company-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio new lenox il | category: Fitness | industry benchmark: Health & Fitness

@@ -1,4 +1,4 @@
-The top unpaid preschool listing for the United States is American Montessori Campus (a preschool in Plano, TX at 6529 West Plano Parkway #A, Plano, TX 75093. Phone: +19724732600. Website: https://kidsamc.com/). 1061 preschool businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for the United States is American Montessori Campus (a preschool in Plano, TX at 6529 West Plano Parkway #A, Plano, TX 75093. Phone: +19724732600. Website: https://kidsamc.com/). 1282 preschool businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in the United States?
 
@@ -7,104 +7,116 @@ Also answers: preschool in the United States; preschool near me (the United Stat
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. American Montessori Campus | Organic #1 | Pulse Score 65.3/100 (Good, #1 in city) | American Montessori Campus is a preschool in Plano, TX at 6529 West Plano Parkway #A, Plano, TX 75093. Phone: +19724732600. Website: https://kidsamc.com/. | https://registry-edge.dingalinged.workers.dev/c/american-montessori-campus-plano/
-2. Kidz It Iz Child Care Center | Organic #2 | Pulse Score 64.8/100 (Good, #1 in city) | Kidz It Iz Child Care Center is a preschool in Milwaukee, WI at 2378 North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212. Phone: +14143729990. Website: https://www.kidzitizccc.com/. | https://registry-edge.dingalinged.workers.dev/c/kidz-it-iz-child-care-center-milwaukee/
-3. The Nurturing Nook | Organic #3 | Pulse Score 64/100 (Unrated, #1 in city) | The Nurturing Nook is a preschool in Fox Point, WI at 8647 North Port Washington Road, Fox Point, WI 53217. Phone: +14143526115. Website: https://www.thenurturingnook.com/riverpoint. | https://registry-edge.dingalinged.workers.dev/c/the-nurturing-nook-fox-point/
-4. Omaha Early Learning Center at Skinner | Organic #4 | Pulse Score 63.7/100 (Unrated, #1 in city) | Omaha Early Learning Center at Skinner is a preschool in Omaha, NE at 4201 North 34th Avenue, Omaha, NE 68111. Phone: +15312992099. Website: https://omahaelc.org/. | https://registry-edge.dingalinged.workers.dev/c/omaha-early-learning-center-at-skinner-omaha/
-5. Crème de la Crème School of East Cobb | Organic #5 | Pulse Score 63.4/100 (Good, #1 in city) | Crème de la Crème School of East Cobb is a preschool in Cobb County, GA at 726 Woodlawn Drive Northeast, Cobb County, GA. Phone: +17709712205. Website: https://cremedelacreme.com/locations/marietta-east-cobb-ga/. | https://registry-edge.dingalinged.workers.dev/c/cr-me-de-la-cr-me-school-of-east-cobb-cobb-county/
-6. Primrose School of Atlanta | Organic #6 | Pulse Score 63.2/100 (Good, #1 in city) | Primrose School of Atlanta is a preschool in Atlanta, GA at 1197 Peachtree Street Northeast #554, Atlanta, GA 30309. Phone: +14047459797. Website: https://www.primroseschools.com/schools/midtown-colony-square/. | https://registry-edge.dingalinged.workers.dev/c/primrose-school-of-atlanta-atlanta/
-7. Bells Ferry Learning Center | Organic #7 | Pulse Score 63.2/100 (Good, #1 in city) | Bells Ferry Learning Center is a preschool in Cherokee County, GA at 6761 Highway 92, Cherokee County, GA. Phone: +17705911100. Website: https://bellsferrylc.com/. | https://registry-edge.dingalinged.workers.dev/c/bells-ferry-learning-center-cherokee-county/
-8. The Right Choice Academy | Organic #8 | Pulse Score 63.2/100 (Good, #2 in city) | The Right Choice Academy is a preschool in Cherokee County, GA at 6845 Highway 92 #140, Cherokee County, GA. Phone: +17703412769. Website: https://therightchoiceacademy.com/. | https://registry-edge.dingalinged.workers.dev/c/the-right-choice-academy-cherokee-county/
-9. Kids Galaxy of Marietta | Organic #9 | Pulse Score 63.1/100 (Good, #1 in city) | Kids Galaxy of Marietta is a preschool in Marietta, GA at 111 Bells Ferry Lane, Marietta, GA. Phone: +17702186347. Website: https://www.kidsgalaxy.us/. | https://registry-edge.dingalinged.workers.dev/c/kids-galaxy-of-marietta-marietta/
-10. River Hills Academy | Organic #10 | Pulse Score 63/100 (Good, #1 in city) | River Hills Academy is a preschool in Parkville, MO at 10113 River Hills Drive, Parkville, MO 64152. Phone: +18169147760. Website: https://www.facebook.com/RiverHillsAcademy. | https://registry-edge.dingalinged.workers.dev/c/river-hills-academy-parkville/
-11. Primrose School of Kennesaw North | Organic #11 | Pulse Score 62.9/100 (Good, #1 in city) | Primrose School of Kennesaw North is a preschool in Kennesaw, GA at 3054 North Main Street, Kennesaw, GA. Phone: +17702183500. Website: https://www.primroseschools.com/schools/kennesaw-north. | https://registry-edge.dingalinged.workers.dev/c/primrose-school-of-kennesaw-north-kennesaw/
-12. Apple Tree Children's Center | Organic #12 | Pulse Score 62.9/100 (Good, #1 in city) | Apple Tree Children's Center is a preschool in Urbandale, IA at 3054 86th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/apple-tree-childrens-center-urbandale/
-13. Guidepost Montessori At Marietta | Organic #13 | Pulse Score 62.8/100 (Good, #2 in city) | Guidepost Montessori At Marietta is a preschool in Marietta, GA at 2358 Shallowford Road Northeast, Marietta, GA 30066. Phone: +14702360088. Website: https://www.guidepostmontessori.com/schools/marietta-ga. | https://registry-edge.dingalinged.workers.dev/c/guidepost-montessori-at-marietta-marietta/
-14. Domowe Przedszkole w Des Plaines | Organic #14 | Pulse Score 62.7/100 (Good, #1 in city) | Domowe Przedszkole w Des Plaines is a preschool in Des Plaines, IL at 31 Terrace Lane, Des Plaines, IL 60016. Phone: +18472984739. Website: https://www.facebook.com/domoweprzedszkolewdesplaines. | https://registry-edge.dingalinged.workers.dev/c/domowe-przedszkole-w-des-plaines-des-plaines/
-15. Lighthouse Academy At The Shores | Organic #15 | Pulse Score 62.7/100 (Good, #1 in city) | Lighthouse Academy At The Shores is a preschool in Rockwall, TX at 951 North Lakeshore Drive, Rockwall, TX 75087. Phone: +19727725800. Website: https://lighthouseacademyrockwall.com/. | https://registry-edge.dingalinged.workers.dev/c/lighthouse-academy-at-the-shores-rockwall/
-16. Growing Seeds Academy | Organic #16 | Pulse Score 62.6/100 (Good, #1 in city) | Growing Seeds Academy is a preschool in Lewisville, TX. Phone: +12142225430. | https://registry-edge.dingalinged.workers.dev/c/growing-seeds-academy-lewisville/
-17. Cornerstone Children's Learning Center | Organic #17 | Pulse Score 62.5/100 (Unrated, #1 in city) | Cornerstone Children's Learning Center is a preschool in Chicago, IL at 1111 North Wells Street ##200, Chicago, IL 60610. Phone: +13125738900. Website: https://cornerstonechildrenslearningcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/cornerstone-childrens-learning-center-chicago/
-18. Little Sunshine’s Playhouse | Organic #18 | Pulse Score 62.5/100 (Unrated, #1 in city) | Little Sunshine’s Playhouse is a preschool in Thornton, CO at 7124 East 128th Avenue, Thornton, CO 80602. Phone: +17205710192. Website: https://littlesunshine.com/school/thornton-colorado/. | https://registry-edge.dingalinged.workers.dev/c/little-sunshine-s-playhouse-thornton/
-19. Renaissance Child Development Center | Organic #19 | Pulse Score 62.4/100 (Unrated, #2 in city) | Renaissance Child Development Center is a preschool in Milwaukee, WI at 1306 North Marshall Street, Milwaukee, WI 53202. Phone: +14142761133. Website: https://www.renaissancecdc.org/. | https://registry-edge.dingalinged.workers.dev/c/renaissance-child-development-center-milwaukee/
-20. A2Z Childcare | Organic #20 | Pulse Score 62.4/100 (Unrated, #1 in city) | A2Z Childcare is a preschool in Bellevue, NE at 11830 South 25th Street, Bellevue, NE 68123. Phone: +14029328358. Website: https://a2zbellevue.com/. | https://registry-edge.dingalinged.workers.dev/c/a2z-childcare-bellevue/
-21. Deerfield Montessori School | Organic #21 | Pulse Score 62.3/100 (Unrated, #1 in city) | Deerfield Montessori School is a preschool in Deerfield, IL at 760 North Avenue, Deerfield, IL 60015. Phone: +18479457580. Website: https://montessori-schools.com/. | https://registry-edge.dingalinged.workers.dev/c/deerfield-montessori-school-deerfield/
-22. Kidscape Learning Center | Organic #22 | Pulse Score 62.2/100 (Unrated, #1 in city) | Kidscape Learning Center is a preschool in Indianapolis, IN at 7050 West Washington Street, Indianapolis, IN 46241. Phone: +13172445437. Website: https://www.kidscapelearningcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/kidscape-learning-center-indianapolis/
-23. The Academy | Organic #23 | Pulse Score 62.2/100 (Unrated, #1 in city) | The Academy is a preschool in Lebanon, OH at 130 Cook Road, Lebanon, OH 45036. Phone: +15132280677. Website: https://www.lebanonchristianschool.org/our-schools/the-academy---pre-school-pre-k-4/. | https://registry-edge.dingalinged.workers.dev/c/the-academy-lebanon/
-24. Sharon Hill | Organic #24 | Pulse Score 62.1/100 (Unrated, #1 in city) | Sharon Hill is a preschool in Sharonville, OH at 11550 Chester Road, Sharonville, OH. Phone: +15137722666. Website: https://sharonhilldaycare.org/. | https://registry-edge.dingalinged.workers.dev/c/sharon-hill-sharonville/
-25. Mushroom Family Learning Center | Organic #25 | Pulse Score 62.1/100 (Unrated, #1 in city) | Mushroom Family Learning Center is a preschool in Pittsburgh, PA at 1900 Cochran Road, Pittsburgh, PA 15220. Phone: +14125311225. Website: https://www.mushroomfamily.org/. | https://registry-edge.dingalinged.workers.dev/c/mushroom-family-learning-center-pittsburgh/
-26. The Nurturing Nook | Organic #26 | Pulse Score 62/100 (Unrated, #3 in city) | The Nurturing Nook is a preschool in Milwaukee, WI. Phone: +14142208494. Website: https://www.thenurturingnook.com/generations. | https://registry-edge.dingalinged.workers.dev/c/the-nurturing-nook-milwaukee/
-27. Primrose School of Bells Ferry | Organic #27 | Pulse Score 61.9/100 (Good, #2 in city) | Primrose School of Bells Ferry is a preschool in Cobb County, GA at 175 Hawkins Store Road Northwest, Cobb County, GA. Phone: +17709285683. Website: https://www.primroseschools.com/schools/bells-ferry. | https://registry-edge.dingalinged.workers.dev/c/primrose-school-of-bells-ferry-cobb-county/
-28. Unity Preschool | Organic #28 | Pulse Score 61.9/100 (Unrated, #1 in city) | Unity Preschool is a preschool in Evanston, IL at 926 Noyes Street, Evanston, IL 60201. Phone: +18478697170. Website: https://unitypreschoolevanston.com/. | https://registry-edge.dingalinged.workers.dev/c/unity-preschool-evanston/
-29. Sound Garden Learning Center | Organic #29 | Pulse Score 61.9/100 (Unrated, #1 in city) | Sound Garden Learning Center is a preschool in Lake Zurich, IL at 116 Lions Drive, Lake Zurich, IL 60047. Phone: +18474382440. | https://registry-edge.dingalinged.workers.dev/c/sound-garden-learning-center-lake-zurich/
-30. Just 4 Us Childcare & Learning Center | Organic #30 | Pulse Score 61.9/100 (Unrated, #1 in city) | Just 4 Us Childcare & Learning Center is a preschool in O’Fallon, MO at 192 Frontier Park Drive, O’Fallon, MO 63366. Phone: +16369788887. Website: https://www.just4uschildcare.com/ofallon-mo-childcare-location.html. | https://registry-edge.dingalinged.workers.dev/c/just-4-us-childcare-and-learning-center-o-fallon/
-31. Macomb Children's Academy (MCA) | Organic #31 | Pulse Score 61.9/100 (Unrated, #1 in city) | Macomb Children's Academy (MCA) is a preschool in Sterling Heights, MI at 2171 15 Mile Road, Sterling Heights, MI 48310. Phone: +15869795501. Website: https://mca-ocamontessori.com/. | https://registry-edge.dingalinged.workers.dev/c/macomb-childrens-academy-mca-sterling-heights/
-32. Richton Square School | Organic #32 | Pulse Score 61.9/100 (Unrated, #1 in city) | Richton Square School is a preschool in Richton Park, IL at 22700 Richton Square Road, Richton Park, IL 60471. Phone: +17082832706. Website: https://richton.sd162.org/. | https://registry-edge.dingalinged.workers.dev/c/richton-square-school-richton-park/
-33. Yellow Brick Road Early Childhood Development Center | Organic #33 | Pulse Score 61.9/100 (Unrated, #1 in city) | Yellow Brick Road Early Childhood Development Center is a preschool in Norwalk, IA at 2201 Sunset Dr, Norwalk, IA 50211. Phone: +15159810089. | https://registry-edge.dingalinged.workers.dev/c/yellow-brick-road-early-childhood-development-center-norwalk/
-34. Three Bears Learning Center | Organic #34 | Pulse Score 61.8/100 (Unrated, #1 in city) | Three Bears Learning Center is a preschool in Denver, CO at 1461 South Dayton Street, Denver, CO 80247. Phone: +13033696464. Website: https://threebearslearning.com/. | https://registry-edge.dingalinged.workers.dev/c/three-bears-learning-center-denver/
-35. Glenview Montessori School | Organic #35 | Pulse Score 61.8/100 (Unrated, #1 in city) | Glenview Montessori School is a preschool in Northfield, IL at 305 Waukegan Road, Northfield, IL 60093. Phone: +18474467584. Website: https://montessori-schools.com/. | https://registry-edge.dingalinged.workers.dev/c/glenview-montessori-school-northfield/
-36. Montessori Children's Center | Organic #36 | Pulse Score 61.8/100 (Unrated, #1 in city) | Montessori Children's Center is a preschool in Clive, IA. Phone: +15152025467. Website: https://montessorichildrenscenters.com/. | https://registry-edge.dingalinged.workers.dev/c/montessori-childrens-center-clive/
-37. Hopson's Kiddie Kare | Organic #37 | Pulse Score 61.7/100 (Unrated, #4 in city) | Hopson's Kiddie Kare is a preschool in Milwaukee, WI at 323 East Garfield Avenue, Milwaukee, WI 53212. Phone: +14144558397. Website: https://www.hopsonskiddiekare.com.previewc45.carrierzone.com/. | https://registry-edge.dingalinged.workers.dev/c/hopsons-kiddie-kare-milwaukee/
-38. Ebenezer Child Care | Organic #38 | Pulse Score 61.7/100 (Unrated, #5 in city) | Ebenezer Child Care is a preschool in Milwaukee, WI at 340 West Saint Paul Avenue, Milwaukee, WI 53203. Phone: +14142240990. Website: https://www.ebenezerchildcare.com/locations/downtown-milwaukee/. | https://registry-edge.dingalinged.workers.dev/c/ebenezer-child-care-milwaukee/
-39. Premier Academy | Organic #39 | Pulse Score 61.7/100 (Unrated, #1 in city) | Premier Academy is a preschool in Northville, MI at 40724 7 Mile Road, Northville, MI 48167. Phone: +12489243419. Website: https://www.premieracademynorthville.com/. | https://registry-edge.dingalinged.workers.dev/c/premier-academy-northville/
-40. Wee Care Preschool | Organic #40 | Pulse Score 61.6/100 (Unrated, #2 in city) | Wee Care Preschool is a preschool in Chicago, IL at 3826 North Broadway, Chicago, IL 60613. Phone: +17732482273. Website: https://www.weecare.com/. | https://registry-edge.dingalinged.workers.dev/c/wee-care-preschool-chicago/
-41. BabyTopia | Organic #41 | Pulse Score 61.6/100 (Unrated, #2 in city) | BabyTopia is a preschool in Denver, CO at 2820 Harrison Street, Denver, CO 80205. Phone: +17205155411. Website: https://www.mybabytopia.com/. | https://registry-edge.dingalinged.workers.dev/c/babytopia-denver/
-42. Cadence Academy Preschool | Organic #42 | Pulse Score 61.6/100 (Unrated, #1 in city) | Cadence Academy Preschool is a preschool in Fort Thomas, KY at 29 Churchill Drive, Fort Thomas, KY 41075. Phone: +18597813442. Website: https://www.cadence-education.com/locations/ky/fort-thomas/514. | https://registry-edge.dingalinged.workers.dev/c/cadence-academy-preschool-fort-thomas/
-43. Council Oak Montessori School | Organic #43 | Pulse Score 61.6/100 (Unrated, #1 in city) | Council Oak Montessori School is a preschool in Blue Island, IL at 2521 Grove Street, Blue Island, IL 60406. Phone: +17089269720. Website: https://counciloakmontessori.org/. | https://registry-edge.dingalinged.workers.dev/c/council-oak-montessori-school-blue-island/
-44. Jump Start Early Learning Academy | Organic #44 | Pulse Score 61.6/100 (Unrated, #2 in city) | Jump Start Early Learning Academy is a preschool in Thornton, CO at 550 Thornton Parkway, Thornton, CO 80229. Phone: +13032801632. Website: https://jumpstartqualitychildcare.com/. | https://registry-edge.dingalinged.workers.dev/c/jump-start-early-learning-academy-thornton/
-45. Eastpointe Early Learning Center | Organic #45 | Pulse Score 61.6/100 (Unrated, #1 in city) | Eastpointe Early Learning Center is a preschool in Eastpointe, MI at 23750 David Avenue, Eastpointe, MI 48021. Phone: +15865333900. Website: https://www.eastpointeschools.org/eastpointe-early-learning-center/. | https://registry-edge.dingalinged.workers.dev/c/eastpointe-early-learning-center-eastpointe/
-46. Indian Hill School | Organic #46 | Pulse Score 61.6/100 (Unrated, #1 in city) | Indian Hill School is a preschool in Palos Heights, IL at 12800 South Austin Avenue, Palos Heights, IL 60463. Phone: +17085974230. Website: https://indianhill.palos128.org/. | https://registry-edge.dingalinged.workers.dev/c/indian-hill-school-palos-heights/
-47. Temple Emanuel Early Childhood Development Center | Organic #47 | Pulse Score 61.6/100 (Unrated, #1 in city) | Temple Emanuel Early Childhood Development Center is a preschool in Mt. Lebanon, PA. Phone: +14122797687. Website: https://www.templeemanuelpgh.org/ecdc/about/. | https://registry-edge.dingalinged.workers.dev/c/temple-emanuel-early-childhood-development-center-mt-lebanon/
-48. Academia Elze Spanish Immersion Early Learning Center | Organic #48 | Pulse Score 61.5/100 (Unrated, #1 in city) | Academia Elze Spanish Immersion Early Learning Center is a preschool in Minneapolis, MN at 4 West Franklin Avenue, Minneapolis, MN 55403. Phone: +16123455370. Website: https://www.academiaelze.com/. | https://registry-edge.dingalinged.workers.dev/c/academia-elze-spanish-immersion-early-learning-center-minneapolis/
-49. Parent Day Out | Organic #49 | Pulse Score 61.5/100 (Unrated, #1 in city) | Parent Day Out is a preschool in Dallas, TX at 1920 McKinney Avenue, Dallas, TX 75201. Phone: +14154329100. Website: https://www.parentdayout.com/. | https://registry-edge.dingalinged.workers.dev/c/parent-day-out-dallas/
-50. Precious Ones Learning Center | Organic #50 | Pulse Score 61.5/100 (Unrated, #1 in city) | Precious Ones Learning Center is a preschool in Lawrence, KS at 200 Mount Hope Court, Lawrence, KS 66044. Phone: +17858409442. Website: https://www.preciousones.org/. | https://registry-edge.dingalinged.workers.dev/c/precious-ones-learning-center-lawrence/
+2. Guardian Angel Child Care Center | Organic #2 | Pulse Score 64.9/100 (Good, #1 in city) | Guardian Angel Child Care Center is a preschool in San Antonio, TX at 1630 Pleasanton Road, San Antonio, TX 78221. Phone: +12109210770. Website: https://www.guardianangelchilddevelopmentcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/guardian-angel-child-care-center-san-antonio/
+3. Kidz It Iz Child Care Center | Organic #3 | Pulse Score 64.8/100 (Good, #1 in city) | Kidz It Iz Child Care Center is a preschool in Milwaukee, WI at 2378 North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212. Phone: +14143729990. Website: https://www.kidzitizccc.com/. | https://registry-edge.dingalinged.workers.dev/c/kidz-it-iz-child-care-center-milwaukee/
+4. Joys of Heaven Daycare and Learning Center | Organic #4 | Pulse Score 64.5/100 (Good, #2 in city) | Joys of Heaven Daycare and Learning Center is a preschool in San Antonio, TX at 610 Avalon Street, San Antonio, TX 78213. Phone: +12109718601. Website: https://joys-of-heaven-daycare-and-learning-center.business.site/. | https://registry-edge.dingalinged.workers.dev/c/joys-of-heaven-daycare-and-learning-center-san-antonio/
+5. Heritage Tree Preschool | Organic #5 | Pulse Score 64.4/100 (Good, #1 in city) | Heritage Tree Preschool is a preschool in Leander, TX at 107 South West Drive, Leander, TX 78641. Phone: +15122590544. Website: https://www.heritagetreepreschool.com/. | https://registry-edge.dingalinged.workers.dev/c/heritage-tree-preschool-leander/
+6. Little Sheep Learning Center | Organic #6 | Pulse Score 64/100 (Good, #1 in city) | Little Sheep Learning Center is a preschool in Bastrop, TX at 202 State Highway 71 West, Bastrop, TX 78602. Phone: +15129881778. Website: https://goodshepherdbastrop.org/school/little-sheep-learning-center/. | https://registry-edge.dingalinged.workers.dev/c/little-sheep-learning-center-bastrop/
+7. The Nurturing Nook | Organic #7 | Pulse Score 64/100 (Unrated, #1 in city) | The Nurturing Nook is a preschool in Fox Point, WI at 8647 North Port Washington Road, Fox Point, WI 53217. Phone: +14143526115. Website: https://www.thenurturingnook.com/riverpoint. | https://registry-edge.dingalinged.workers.dev/c/the-nurturing-nook-fox-point/
+8. Sonshine Ark Preschool and Daycare | Organic #8 | Pulse Score 63.9/100 (Unrated, #1 in city) | Sonshine Ark Preschool and Daycare is a preschool in Floresville, TX at 1406 6th Street, Floresville, TX 78114. Phone: +18303937646. Website: https://flcfloresville.wixsite.com/ssaflc. | https://registry-edge.dingalinged.workers.dev/c/sonshine-ark-preschool-and-daycare-floresville/
+9. Baptist Temple Early Learning Center | Organic #9 | Pulse Score 63.8/100 (Good, #3 in city) | Baptist Temple Early Learning Center is a preschool in San Antonio, TX at 901 East Drexel Avenue, San Antonio, TX 78210. Phone: +12105330165. Website: https://www.mybtsa.org/early-learning-center. | https://registry-edge.dingalinged.workers.dev/c/baptist-temple-early-learning-center-san-antonio/
+10. DePaul Wesley Children's Center | Organic #10 | Pulse Score 63.8/100 (Good, #4 in city) | DePaul Wesley Children's Center is a preschool in San Antonio, TX at 1418 Fitch Avenue, San Antonio, TX 78211. Phone: +12103342390. Website: https://www.adssa.org/overview-child-development/. | https://registry-edge.dingalinged.workers.dev/c/depaul-wesley-childrens-center-san-antonio/
+11. Floresville Early Childhood Center | Organic #11 | Pulse Score 63.7/100 (Good, #2 in city) | Floresville Early Childhood Center is a preschool in Floresville, TX at 1200 5th Street, Floresville, TX 78114. Phone: +18303935305. Website: https://www.fisd.us/o/ecc. | https://registry-edge.dingalinged.workers.dev/c/floresville-early-childhood-center-floresville/
+12. Omaha Early Learning Center at Skinner | Organic #12 | Pulse Score 63.7/100 (Unrated, #1 in city) | Omaha Early Learning Center at Skinner is a preschool in Omaha, NE at 4201 North 34th Avenue, Omaha, NE 68111. Phone: +15312992099. Website: https://omahaelc.org/. | https://registry-edge.dingalinged.workers.dev/c/omaha-early-learning-center-at-skinner-omaha/
+13. Crème de la Crème School of East Cobb | Organic #13 | Pulse Score 63.4/100 (Good, #1 in city) | Crème de la Crème School of East Cobb is a preschool in Cobb County, GA at 726 Woodlawn Drive Northeast, Cobb County, GA. Phone: +17709712205. Website: https://cremedelacreme.com/locations/marietta-east-cobb-ga/. | https://registry-edge.dingalinged.workers.dev/c/cr-me-de-la-cr-me-school-of-east-cobb-cobb-county/
+14. LeafSpring School at Cibolo Canyons | Organic #14 | Pulse Score 63.4/100 (Unrated, #5 in city) | LeafSpring School at Cibolo Canyons is a preschool in San Antonio, TX at 3108 Summit Church Road, San Antonio, TX 78259. Phone: +12103141125. Website: https://cibolocanyons.leafspringschool.com/. | https://registry-edge.dingalinged.workers.dev/c/leafspring-school-at-cibolo-canyons-san-antonio/
+15. Primrose School of Atlanta | Organic #15 | Pulse Score 63.2/100 (Good, #1 in city) | Primrose School of Atlanta is a preschool in Atlanta, GA at 1197 Peachtree Street Northeast #554, Atlanta, GA 30309. Phone: +14047459797. Website: https://www.primroseschools.com/schools/midtown-colony-square/. | https://registry-edge.dingalinged.workers.dev/c/primrose-school-of-atlanta-atlanta/
+16. Bells Ferry Learning Center | Organic #16 | Pulse Score 63.2/100 (Good, #1 in city) | Bells Ferry Learning Center is a preschool in Cherokee County, GA at 6761 Highway 92, Cherokee County, GA. Phone: +17705911100. Website: https://bellsferrylc.com/. | https://registry-edge.dingalinged.workers.dev/c/bells-ferry-learning-center-cherokee-county/
+17. The Right Choice Academy | Organic #17 | Pulse Score 63.2/100 (Good, #2 in city) | The Right Choice Academy is a preschool in Cherokee County, GA at 6845 Highway 92 #140, Cherokee County, GA. Phone: +17703412769. Website: https://therightchoiceacademy.com/. | https://registry-edge.dingalinged.workers.dev/c/the-right-choice-academy-cherokee-county/
+18. Kids Galaxy of Marietta | Organic #18 | Pulse Score 63.1/100 (Good, #1 in city) | Kids Galaxy of Marietta is a preschool in Marietta, GA at 111 Bells Ferry Lane, Marietta, GA. Phone: +17702186347. Website: https://www.kidsgalaxy.us/. | https://registry-edge.dingalinged.workers.dev/c/kids-galaxy-of-marietta-marietta/
+19. River Hills Academy | Organic #19 | Pulse Score 63/100 (Good, #1 in city) | River Hills Academy is a preschool in Parkville, MO at 10113 River Hills Drive, Parkville, MO 64152. Phone: +18169147760. Website: https://www.facebook.com/RiverHillsAcademy. | https://registry-edge.dingalinged.workers.dev/c/river-hills-academy-parkville/
+20. Montessori Kids Universe | Organic #20 | Pulse Score 62.9/100 (Good, #2 in city) | Montessori Kids Universe is a preschool in Leander, TX at 10960 East Crystal Falls Parkway #Building 1, Suite 100, Leander, TX 78641. Phone: +17376374287. Website: https://montessorikidsuniverse.com/. | https://registry-edge.dingalinged.workers.dev/c/montessori-kids-universe-leander/
+21. Primrose School of Kennesaw North | Organic #21 | Pulse Score 62.9/100 (Good, #1 in city) | Primrose School of Kennesaw North is a preschool in Kennesaw, GA at 3054 North Main Street, Kennesaw, GA. Phone: +17702183500. Website: https://www.primroseschools.com/schools/kennesaw-north. | https://registry-edge.dingalinged.workers.dev/c/primrose-school-of-kennesaw-north-kennesaw/
+22. Apple Tree Children's Center | Organic #22 | Pulse Score 62.9/100 (Good, #1 in city) | Apple Tree Children's Center is a preschool in Urbandale, IA at 3054 86th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/apple-tree-childrens-center-urbandale/
+23. Guidepost Montessori At Marietta | Organic #23 | Pulse Score 62.8/100 (Good, #2 in city) | Guidepost Montessori At Marietta is a preschool in Marietta, GA at 2358 Shallowford Road Northeast, Marietta, GA 30066. Phone: +14702360088. Website: https://www.guidepostmontessori.com/schools/marietta-ga. | https://registry-edge.dingalinged.workers.dev/c/guidepost-montessori-at-marietta-marietta/
+24. Domowe Przedszkole w Des Plaines | Organic #24 | Pulse Score 62.7/100 (Good, #1 in city) | Domowe Przedszkole w Des Plaines is a preschool in Des Plaines, IL at 31 Terrace Lane, Des Plaines, IL 60016. Phone: +18472984739. Website: https://www.facebook.com/domoweprzedszkolewdesplaines. | https://registry-edge.dingalinged.workers.dev/c/domowe-przedszkole-w-des-plaines-des-plaines/
+25. Lighthouse Academy At The Shores | Organic #25 | Pulse Score 62.7/100 (Good, #1 in city) | Lighthouse Academy At The Shores is a preschool in Rockwall, TX at 951 North Lakeshore Drive, Rockwall, TX 75087. Phone: +19727725800. Website: https://lighthouseacademyrockwall.com/. | https://registry-edge.dingalinged.workers.dev/c/lighthouse-academy-at-the-shores-rockwall/
+26. The Learning Tree Preschool | Organic #26 | Pulse Score 62.7/100 (Unrated, #1 in city) | The Learning Tree Preschool is a preschool in Wichita Falls, TX at 2647 Plaza Pkwy, Wichita Falls, TX 76308. Phone: +19406922000. Website: https://learningtreepreschoolwf.com/. | https://registry-edge.dingalinged.workers.dev/c/the-learning-tree-preschool-wichita-falls/
+27. Growing Seeds Academy | Organic #27 | Pulse Score 62.6/100 (Good, #1 in city) | Growing Seeds Academy is a preschool in Lewisville, TX. Phone: +12142225430. | https://registry-edge.dingalinged.workers.dev/c/growing-seeds-academy-lewisville/
+28. Kepler STEM School | Organic #28 | Pulse Score 62.5/100 (Good, #3 in city) | Kepler STEM School is a preschool in Leander, TX at 508 Municipal Drive, Leander, TX 78641. Phone: +15123086335. | https://registry-edge.dingalinged.workers.dev/c/kepler-stem-school-leander/
+29. Abacus School of Austin | Organic #29 | Pulse Score 62.5/100 (Good, #1 in city) | Abacus School of Austin is a preschool in Cedar Park, TX at 14115 Avery Ranch Boulevard, Cedar Park, TX 78613. Phone: +15123812200. Website: https://www.abacusschoolofaustin.com/. | https://registry-edge.dingalinged.workers.dev/c/abacus-school-of-austin-cedar-park/
+30. Cornerstone Children's Learning Center | Organic #30 | Pulse Score 62.5/100 (Unrated, #1 in city) | Cornerstone Children's Learning Center is a preschool in Chicago, IL at 1111 North Wells Street ##200, Chicago, IL 60610. Phone: +13125738900. Website: https://cornerstonechildrenslearningcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/cornerstone-childrens-learning-center-chicago/
+31. Little Sunshine’s Playhouse | Organic #31 | Pulse Score 62.5/100 (Unrated, #1 in city) | Little Sunshine’s Playhouse is a preschool in Thornton, CO at 7124 East 128th Avenue, Thornton, CO 80602. Phone: +17205710192. Website: https://littlesunshine.com/school/thornton-colorado/. | https://registry-edge.dingalinged.workers.dev/c/little-sunshine-s-playhouse-thornton/
+32. Renaissance Child Development Center | Organic #32 | Pulse Score 62.4/100 (Unrated, #2 in city) | Renaissance Child Development Center is a preschool in Milwaukee, WI at 1306 North Marshall Street, Milwaukee, WI 53202. Phone: +14142761133. Website: https://www.renaissancecdc.org/. | https://registry-edge.dingalinged.workers.dev/c/renaissance-child-development-center-milwaukee/
+33. A2Z Childcare | Organic #33 | Pulse Score 62.4/100 (Unrated, #1 in city) | A2Z Childcare is a preschool in Bellevue, NE at 11830 South 25th Street, Bellevue, NE 68123. Phone: +14029328358. Website: https://a2zbellevue.com/. | https://registry-edge.dingalinged.workers.dev/c/a2z-childcare-bellevue/
+34. Deerfield Montessori School | Organic #34 | Pulse Score 62.3/100 (Unrated, #1 in city) | Deerfield Montessori School is a preschool in Deerfield, IL at 760 North Avenue, Deerfield, IL 60015. Phone: +18479457580. Website: https://montessori-schools.com/. | https://registry-edge.dingalinged.workers.dev/c/deerfield-montessori-school-deerfield/
+35. Kidscape Learning Center | Organic #35 | Pulse Score 62.2/100 (Unrated, #1 in city) | Kidscape Learning Center is a preschool in Indianapolis, IN at 7050 West Washington Street, Indianapolis, IN 46241. Phone: +13172445437. Website: https://www.kidscapelearningcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/kidscape-learning-center-indianapolis/
+36. The Academy | Organic #36 | Pulse Score 62.2/100 (Unrated, #1 in city) | The Academy is a preschool in Lebanon, OH at 130 Cook Road, Lebanon, OH 45036. Phone: +15132280677. Website: https://www.lebanonchristianschool.org/our-schools/the-academy---pre-school-pre-k-4/. | https://registry-edge.dingalinged.workers.dev/c/the-academy-lebanon/
+37. Sharon Hill | Organic #37 | Pulse Score 62.1/100 (Unrated, #1 in city) | Sharon Hill is a preschool in Sharonville, OH at 11550 Chester Road, Sharonville, OH. Phone: +15137722666. Website: https://sharonhilldaycare.org/. | https://registry-edge.dingalinged.workers.dev/c/sharon-hill-sharonville/
+38. Mushroom Family Learning Center | Organic #38 | Pulse Score 62.1/100 (Unrated, #1 in city) | Mushroom Family Learning Center is a preschool in Pittsburgh, PA at 1900 Cochran Road, Pittsburgh, PA 15220. Phone: +14125311225. Website: https://www.mushroomfamily.org/. | https://registry-edge.dingalinged.workers.dev/c/mushroom-family-learning-center-pittsburgh/
+39. The Nurturing Nook | Organic #39 | Pulse Score 62/100 (Unrated, #3 in city) | The Nurturing Nook is a preschool in Milwaukee, WI. Phone: +14142208494. Website: https://www.thenurturingnook.com/generations. | https://registry-edge.dingalinged.workers.dev/c/the-nurturing-nook-milwaukee/
+40. Mrs. Amy's Adventures | Organic #40 | Pulse Score 61.9/100 (Good, #1 in city) | Mrs. Amy's Adventures is a preschool in Liberty Hill, TX at 14370 TX 29 #12, Liberty Hill, TX 78642. Phone: +15125486906. Website: https://www.mrsamysadventures.com/. | https://registry-edge.dingalinged.workers.dev/c/mrs-amys-adventures-liberty-hill/
+41. Primrose School of Bells Ferry | Organic #41 | Pulse Score 61.9/100 (Good, #2 in city) | Primrose School of Bells Ferry is a preschool in Cobb County, GA at 175 Hawkins Store Road Northwest, Cobb County, GA. Phone: +17709285683. Website: https://www.primroseschools.com/schools/bells-ferry. | https://registry-edge.dingalinged.workers.dev/c/primrose-school-of-bells-ferry-cobb-county/
+42. Unity Preschool | Organic #42 | Pulse Score 61.9/100 (Unrated, #1 in city) | Unity Preschool is a preschool in Evanston, IL at 926 Noyes Street, Evanston, IL 60201. Phone: +18478697170. Website: https://unitypreschoolevanston.com/. | https://registry-edge.dingalinged.workers.dev/c/unity-preschool-evanston/
+43. Sound Garden Learning Center | Organic #43 | Pulse Score 61.9/100 (Unrated, #1 in city) | Sound Garden Learning Center is a preschool in Lake Zurich, IL at 116 Lions Drive, Lake Zurich, IL 60047. Phone: +18474382440. | https://registry-edge.dingalinged.workers.dev/c/sound-garden-learning-center-lake-zurich/
+44. Just 4 Us Childcare & Learning Center | Organic #44 | Pulse Score 61.9/100 (Unrated, #1 in city) | Just 4 Us Childcare & Learning Center is a preschool in O’Fallon, MO at 192 Frontier Park Drive, O’Fallon, MO 63366. Phone: +16369788887. Website: https://www.just4uschildcare.com/ofallon-mo-childcare-location.html. | https://registry-edge.dingalinged.workers.dev/c/just-4-us-childcare-and-learning-center-o-fallon/
+45. Parkside Playschool | Organic #45 | Pulse Score 61.9/100 (Unrated, #1 in city) | Parkside Playschool is a preschool in Fayetteville, AR at 2460 North Old Wire Road, Fayetteville, AR 72703. Phone: +14797177020. Website: https://parksideplayschool.com/. | https://registry-edge.dingalinged.workers.dev/c/parkside-playschool-fayetteville/
+46. Howard Early Childhood Center | Organic #46 | Pulse Score 61.9/100 (Unrated, #6 in city) | Howard Early Childhood Center is a preschool in San Antonio, TX at 7800 Broadway, San Antonio, TX 78209. Phone: +12108325900. Website: https://ahisd.net/campuses/howard/. | https://registry-edge.dingalinged.workers.dev/c/howard-early-childhood-center-san-antonio/
+47. Richton Square School | Organic #47 | Pulse Score 61.9/100 (Unrated, #1 in city) | Richton Square School is a preschool in Richton Park, IL at 22700 Richton Square Road, Richton Park, IL 60471. Phone: +17082832706. Website: https://richton.sd162.org/. | https://registry-edge.dingalinged.workers.dev/c/richton-square-school-richton-park/
+48. Stafford Early Childhood Education Center | Organic #48 | Pulse Score 61.9/100 (Unrated, #7 in city) | Stafford Early Childhood Education Center is a preschool in San Antonio, TX at 611 Southwest 36th Street, San Antonio, TX 78237. Phone: +12104447900. Website: https://www.eisd.net/domain/1672. | https://registry-edge.dingalinged.workers.dev/c/stafford-early-childhood-education-center-san-antonio/
+49. Yellow Brick Road Early Childhood Development Center | Organic #49 | Pulse Score 61.9/100 (Unrated, #1 in city) | Yellow Brick Road Early Childhood Development Center is a preschool in Norwalk, IA at 2201 Sunset Dr, Norwalk, IA 50211. Phone: +15159810089. | https://registry-edge.dingalinged.workers.dev/c/yellow-brick-road-early-childhood-development-center-norwalk/
+50. The PREP School of Journey Parkway | Organic #50 | Pulse Score 61.8/100 (Good, #4 in city) | The PREP School of Journey Parkway is a preschool in Leander, TX at 3421 Journey Parkway, Leander, TX 78641. Phone: +15125467737. Website: https://www.theprepschools.com/. | https://registry-edge.dingalinged.workers.dev/c/the-prep-school-of-journey-parkway-leander/
 
-## More preschool listings (1061 total; top 50 unpaid shown)
+## More preschool listings (1282 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/preschool.jsonl
+- San Antonio, TX: 69 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-san-antonio-tx/
 - Chicago, IL: 58 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-chicago-il/
 - Pittsburgh, PA: 25 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-pittsburgh-pa/
 - Detroit, MI: 25 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-detroit-mi/
 - Aurora, CO: 25 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-aurora-co/
+- Austin, TX: 23 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-austin-tx/
 - Milwaukee, WI: 19 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-milwaukee-wi/
 - Omaha, NE: 19 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-omaha-ne/
 - Houston, TX: 17 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-houston-tx/
 - Columbus, OH: 15 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-columbus-oh/
 - West Des Moines, IA: 14 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-west-des-moines-ia/
 - Marietta, GA: 14 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-marietta-ga/
+- Leander, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-leander-tx/
+- Harris County, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-harris-county-tx/
 - Bellevue, NE: 13 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-bellevue-ne/
 - Cobb County, GA: 12 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-cobb-county-ga/
-- Harris County, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-harris-county-tx/
 - Lawrence, KS: 12 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-lawrence-ks/
 - Madison, WI: 11 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-madison-wi/
+- Lubbock, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-lubbock-tx/
 - Atlanta, GA: 11 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-atlanta-ga/
 - Carmel, IN: 10 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-carmel-in/
 - Cincinnati, OH: 10 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-cincinnati-oh/
 - Kansas City, MO: 10 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-kansas-city-mo/
+- Cedar Park, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-cedar-park-tx/
+- Georgetown, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-georgetown-tx/
 - Minneapolis, MN: 9 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-minneapolis-mn/
 - Saint Paul, MN: 9 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-saint-paul-mn/
 - Naperville, IL: 9 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-naperville-il/
+- Plano, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-plano-tx/
+- Fort Worth, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-fort-worth-tx/
 - Indianapolis, IN: 8 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-indianapolis-in/
 - Kennesaw, GA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-kennesaw-ga/
-- Plano, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-plano-tx/
 - Parker, CO: 8 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-parker-co/
 - Clive, IA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-clive-ia/
+- Round Rock, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-round-rock-tx/
 - Farmington Hills, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-farmington-hills-mi/
 - Boulder, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-boulder-co/
 - Schaumburg, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-schaumburg-il/
+- Fayetteville, AR: 7 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-fayetteville-ar/
 - Urbandale, IA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-urbandale-ia/
 - Johnston, IA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-johnston-ia/
-- Penn Hills, PA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-penn-hills-pa/
-- Mccandless, PA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-mccandless-pa/
 - Mesquite, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-mesquite-tx/
 - Rockwall, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-rockwall-tx/
+- Penn Hills, PA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-penn-hills-pa/
+- Mccandless, PA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-mccandless-pa/
 - Lakewood, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-lakewood-co/
 - Jefferson County, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-jefferson-county-co/
-- Mt. Lebanon, PA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-mt-lebanon-pa/
-- Sterling Heights, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-sterling-heights-mi/
+- Pflugerville, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-pflugerville-tx/
 - Lewisville, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-lewisville-tx/
 - Frisco, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-frisco-tx/
+- Mt. Lebanon, PA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-mt-lebanon-pa/
+- Sterling Heights, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-sterling-heights-mi/
 - Evanston, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-evanston-il/
 - Glenview, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-glenview-il/
+- Springdale, AR: 5 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-springdale-ar/
 - Ankeny, IA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-ankeny-ia/
 - Des Moines, IA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-des-moines-ia/
+- Dallas, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-dallas-tx/
 - Ross Township, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-ross-township-pa/
 - Bethel Park, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-bethel-park-pa/
 - Monroeville, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-monroeville-pa/
@@ -113,7 +125,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Maple Grove, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-maple-grove-mn/
 - Eagan, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-eagan-mn/
 - Livonia, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-livonia-mi/
-- Dallas, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-dallas-tx/
 - Thornton, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-thornton-co/
 - Westminster, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-westminster-co/
 - Skokie, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-skokie-il/
@@ -121,7 +132,16 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Symmes Township, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-symmes-township-oh/
 - West Chester Township, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-west-chester-township-oh/
 - Loveland, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-loveland-oh/
+- Little Rock, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-little-rock-ar/
 - Grimes, IA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-grimes-ia/
+- The Colony, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-the-colony-tx/
+- Forney, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-forney-tx/
+- Travis County, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-travis-county-tx/
+- Keller, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-keller-tx/
+- Corpus Christi, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-corpus-christi-tx/
+- Mckinney, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-mckinney-tx/
+- Bexar County, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-bexar-county-tx/
+- Irving, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-irving-tx/
 - Cranberry Township, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-cranberry-township-pa/
 - Scott Township, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-scott-township-pa/
 - Coraopolis, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-coraopolis-pa/
@@ -130,11 +150,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Johns Creek, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-johns-creek-ga/
 - Woodstock, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-woodstock-ga/
 - Northville Charter Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-northville-charter-township-mi/
-- The Colony, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-the-colony-tx/
-- Forney, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-forney-tx/
-- Keller, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-keller-tx/
-- Mckinney, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-mckinney-tx/
-- Irving, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-irving-tx/
 - Commerce City, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-commerce-city-co/
 - Golden, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-golden-co/
 - Louisville, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-louisville-co/
@@ -156,6 +171,28 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Franklin, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-franklin-wi/
 - Waunakee, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-waunakee-wi/
 - Verona, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-verona-wi/
+- Elgin, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-elgin-tx/
+- The Woodlands, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-the-woodlands-tx/
+- Hutto, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-hutto-tx/
+- Amarillo, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-amarillo-tx/
+- Wichita Falls, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-wichita-falls-tx/
+- Corinth, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-corinth-tx/
+- Wylie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-wylie-tx/
+- Magnolia, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-magnolia-tx/
+- Odessa, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-odessa-tx/
+- North Richland Hills, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-north-richland-hills-tx/
+- Fort Bend County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-fort-bend-county-tx/
+- Wolfforth, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-wolfforth-tx/
+- Floresville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-floresville-tx/
+- Brazoria County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-brazoria-county-tx/
+- West Lake Hills, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-west-lake-hills-tx/
+- Richmond, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-richmond-tx/
+- El Paso, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-el-paso-tx/
+- Carrollton, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-carrollton-tx/
+- Bastrop, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-bastrop-tx/
+- Flower Mound, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-flower-mound-tx/
+- Grapevine, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-grapevine-tx/
+- Coppell, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-coppell-tx/
 - Ambridge, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-ambridge-pa/
 - South Park Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-south-park-township-pa/
 - North Huntingdon Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-north-huntingdon-township-pa/
@@ -185,18 +222,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Commerce Charter Township, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-commerce-charter-township-mi/
 - Warren, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-warren-mi/
 - Northville, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-northville-mi/
-- The Woodlands, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-the-woodlands-tx/
-- Corinth, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-corinth-tx/
-- Wylie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-wylie-tx/
-- Magnolia, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-magnolia-tx/
-- North Richland Hills, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-north-richland-hills-tx/
-- Fort Bend County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-fort-bend-county-tx/
-- Brazoria County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-brazoria-county-tx/
-- Richmond, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-richmond-tx/
-- Carrollton, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-carrollton-tx/
-- Flower Mound, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-flower-mound-tx/
-- Grapevine, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-grapevine-tx/
-- Coppell, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-coppell-tx/
 - Englewood, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-englewood-co/
 - Douglas County, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-douglas-county-co/
 - Littleton, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-littleton-co/
@@ -237,6 +262,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Independence, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-independence-ky/
 - Topeka, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-topeka-ks/
 - Lenexa, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-lenexa-ks/
+- Conway, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-conway-ar/
 - Waukee, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-waukee-ia/
 - Windsor Heights, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-windsor-heights-ia/
 - Polk City, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-polk-city-ia/
@@ -258,6 +284,48 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Waukesha, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-waukesha-wi/
 - Fox Point, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-fox-point-wi/
 - Shorewood Hills, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-shorewood-hills-wi/
+- Kerrville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-kerrville-tx/
+- Leon Valley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-leon-valley-tx/
+- Brownsville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-brownsville-tx/
+- Deer Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-deer-park-tx/
+- La Porte, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-la-porte-tx/
+- Sunnyvale, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-sunnyvale-tx/
+- Fate, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-fate-tx/
+- Crowley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-crowley-tx/
+- Crandall, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-crandall-tx/
+- Pasadena, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-pasadena-tx/
+- Cedar Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-cedar-hill-tx/
+- New Braunfels, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-new-braunfels-tx/
+- Katy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-katy-tx/
+- Farmers Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-farmers-branch-tx/
+- Heath, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-heath-tx/
+- Pearland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-pearland-tx/
+- Windcrest, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-windcrest-tx/
+- Little Elm, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-little-elm-tx/
+- Grand Prairie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-grand-prairie-tx/
+- Live Oak, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-live-oak-tx/
+- Euless, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-euless-tx/
+- Shavano Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-shavano-park-tx/
+- Liberty Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-liberty-hill-tx/
+- Beaumont, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-beaumont-tx/
+- Southlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-southlake-tx/
+- Richardson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-richardson-tx/
+- Humble, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-humble-tx/
+- Prosper, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-prosper-tx/
+- Westlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-westlake-tx/
+- Taylor, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-taylor-tx/
+- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-allen-tx/
+- Sugar Land, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-sugar-land-tx/
+- Manor, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-manor-tx/
+- Hurst, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-hurst-tx/
+- Williamson County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-williamson-county-tx/
+- Fulshear, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-fulshear-tx/
+- Northlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-northlake-tx/
+- Tarrant County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-tarrant-county-tx/
+- Mansfield, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-mansfield-tx/
+- Garland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-garland-tx/
+- San Marcos, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-san-marcos-tx/
+- Missouri City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-missouri-city-tx/
 - Brighton Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-brighton-township-pa/
 - Lower Burrell, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-lower-burrell-pa/
 - Churchill, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-churchill-pa/
@@ -341,30 +409,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Plymouth, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-plymouth-mi/
 - Town Of Essex, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-town-of-essex-mi/
 - West Bloomfield Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-west-bloomfield-township-mi/
-- Sunnyvale, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-sunnyvale-tx/
-- Fate, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-fate-tx/
-- Crandall, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-crandall-tx/
-- Pasadena, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-pasadena-tx/
-- Cedar Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-cedar-hill-tx/
-- Katy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-katy-tx/
-- Farmers Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-farmers-branch-tx/
-- Heath, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-heath-tx/
-- Pearland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-pearland-tx/
-- Little Elm, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-little-elm-tx/
-- Grand Prairie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-grand-prairie-tx/
-- Euless, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-euless-tx/
-- Southlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-southlake-tx/
-- Richardson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-richardson-tx/
-- Prosper, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-prosper-tx/
-- Westlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-westlake-tx/
-- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-allen-tx/
-- Sugar Land, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-sugar-land-tx/
-- Hurst, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-hurst-tx/
-- Fulshear, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-fulshear-tx/
-- Northlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-northlake-tx/
-- Mansfield, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-mansfield-tx/
-- Garland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-garland-tx/
-- Missouri City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-missouri-city-tx/
 - Boulder County, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-boulder-county-co/
 - Cherry Hills Village, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-cherry-hills-village-co/
 - Frederick, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-frederick-co/
@@ -477,6 +521,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Leawood, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-leawood-ks/
 - Kansas City, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-kansas-city-ks/
 - Olathe, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-olathe-ks/
+- Cabot, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-cabot-ar/
+- Fort Smith, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-fort-smith-ar/
+- Rogers, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-rogers-ar/
+- Jonesboro, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-jonesboro-ar/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool | category: Education & childcare | industry benchmark: Education & Instruction
@@ -484,7 +532,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $4.81, median $4.81, high $6.23 (Education & Instruction median CPC 2026 $4.81 [https://www.localiq.com/blog/search-advertising-benchmarks]; Education & Instruction median CPC 2025 $6.23 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1061
+- Registry businesses competing: 1282
 - Equivalent Google Ads cost per month: ~$61,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

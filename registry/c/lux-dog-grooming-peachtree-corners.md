@@ -13,7 +13,7 @@ Lux Dog Grooming is a dog groomer in Peachtree Corners, GA at 6365 Spalding Driv
 - Website: https://www.lux-dogroomer.com/
 - Email: Theluxdoggrooming@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 62.2/100 — Good — top 16% of dog groomers in Atlanta, #1 of 1 dog groomers in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 16% of dog groomers in Atlanta, #1 of 1 dog groomers in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

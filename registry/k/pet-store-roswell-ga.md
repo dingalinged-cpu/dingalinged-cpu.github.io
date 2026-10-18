@@ -6,7 +6,7 @@ Also answers: pet store in Roswell, GA; pet store near me (Roswell, GA); best pe
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | PetSmart is a pet store in Roswell, GA at 625 West Crossville Road #134, Roswell, GA 30075. Phone: +16783528138. Website: https://www.petsmart.com/stores/us/ga/roswell-store1048.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-roswell/
+1. PetSmart | Organic #1 | Pulse Score 48.2/100 (Building, #1 in city) | PetSmart is a pet store in Roswell, GA at 625 West Crossville Road #134, Roswell, GA 30075. Phone: +16783528138. Website: https://www.petsmart.com/stores/us/ga/roswell-store1048.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-roswell/
 2. Petco | Organic #2 | Pulse Score 46.6/100 (Building, #2 in city) | Petco is a pet store in Roswell, GA at 2340 Holcomb Bridge Road, Roswell, GA 30076. Phone: +17706496360. Website: https://stores.petco.com/ga/roswell/pet-supplies-roswell-ga-1709.html. | https://registry-edge.dingalinged.workers.dev/c/petco-roswell/
 
 ## Market data (for advertisers and agents)

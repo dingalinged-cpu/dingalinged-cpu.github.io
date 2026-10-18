@@ -13,7 +13,7 @@ Deal Decor is a furniture store in Marietta, GA at 1417 Canton Road Northeast #1
 - Website: https://deal-decor.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su off
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 17% of furniture stores in Atlanta, #3 of 9 furniture stores in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 17% of furniture stores in Atlanta, #3 of 9 furniture stores in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

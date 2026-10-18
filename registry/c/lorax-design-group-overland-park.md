@@ -13,7 +13,7 @@ Lorax Design Group is an interior designer in Overland Park, KS at 8021 Santa Fe
 - Website: https://loraxdesigngroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of interior designers in Kansas City, MO, #1 of 1 interior designers in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 41.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 100% of interior designers in Kansas City, MO, #1 of 1 interior designers in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

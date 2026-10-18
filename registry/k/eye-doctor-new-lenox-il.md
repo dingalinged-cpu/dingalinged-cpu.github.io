@@ -6,7 +6,7 @@ Also answers: eye doctor in New Lenox, IL; eye doctor near me (New Lenox, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lancaster Eye Care | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Lancaster Eye Care is an eye care practice in New Lenox, IL. Phone: +18154853431. Website: https://www.drjohnlancaster.com/. | https://registry-edge.dingalinged.workers.dev/c/lancaster-eye-care-new-lenox/
+1. Lancaster Eye Care | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Lancaster Eye Care is an eye care practice in New Lenox, IL. Phone: +18154853431. Website: https://www.drjohnlancaster.com/. | https://registry-edge.dingalinged.workers.dev/c/lancaster-eye-care-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor new lenox il | category: Health & medical | industry benchmark: Physicians & Surgeons

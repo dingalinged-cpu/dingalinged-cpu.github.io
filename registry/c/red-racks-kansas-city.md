@@ -13,7 +13,7 @@ Red Racks is a thrift store in Kansas City, MO at 2425, Kansas City, MO 64118. P
 - Website: https://www.redracksthriftstores.com/vivion-rd/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-20:00
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 58% of thrift stores in Kansas City, MO, #16 of 26 thrift stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 58% of thrift stores in Kansas City, MO, #16 of 26 thrift stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

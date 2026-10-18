@@ -6,8 +6,8 @@ Also answers: driving school in Cobb County, GA; driving school near me (Cobb Co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 1ACT Driving School | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | 1ACT Driving School is a driving school in Cobb County, GA at 2300 Shallowford Road Northeast #9, Cobb County, GA. Phone: +17702744223. Website: https://www.1statlantaduischool.com/. | https://registry-edge.dingalinged.workers.dev/c/1act-driving-school-cobb-county/
-2. Taggart's Driving School | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Taggart's Driving School is a driving school in Cobb County, GA. | https://registry-edge.dingalinged.workers.dev/c/taggarts-driving-school-cobb-county/
+1. 1ACT Driving School | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | 1ACT Driving School is a driving school in Cobb County, GA at 2300 Shallowford Road Northeast #9, Cobb County, GA. Phone: +17702744223. Website: https://www.1statlantaduischool.com/. | https://registry-edge.dingalinged.workers.dev/c/1act-driving-school-cobb-county/
+2. Taggart's Driving School | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Taggart's Driving School is a driving school in Cobb County, GA. | https://registry-edge.dingalinged.workers.dev/c/taggarts-driving-school-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school cobb county ga | category: Education & childcare | industry benchmark: Education & Instruction

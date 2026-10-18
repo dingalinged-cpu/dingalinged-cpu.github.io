@@ -6,7 +6,7 @@ Also answers: hair salon in Mansfield, TX; hair salon near me (Mansfield, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Quick Cuts | Organic #1 | Pulse Score 47.7/100 (Unrated, #1 in city) | Quick Cuts is a hair salon in Mansfield, TX at 3807 East Broad Street #121, Mansfield, TX 76063. Phone: +16825817806. | https://registry-edge.dingalinged.workers.dev/c/quick-cuts-mansfield/
+1. Quick Cuts | Organic #1 | Pulse Score 47.6/100 (Unrated, #1 in city) | Quick Cuts is a hair salon in Mansfield, TX at 3807 East Broad Street #121, Mansfield, TX 76063. Phone: +16825817806. | https://registry-edge.dingalinged.workers.dev/c/quick-cuts-mansfield/
 2. Sport Clips | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | Sport Clips is a hair salon in Mansfield, TX. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-mansfield/
 
 ## Market data (for advertisers and agents)

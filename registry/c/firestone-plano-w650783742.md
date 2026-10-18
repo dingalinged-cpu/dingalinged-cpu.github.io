@@ -13,12 +13,12 @@ Firestone is an auto repair shop in Plano, TX at 3200 West Parker Road, Plano, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.1/100 — Building — top 76% of auto repair shops in Dallas–Fort Worth, #33 of 41 auto repair shops in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Building — top 76% of auto repair shops in Dallas–Fort Worth, #39 of 47 auto repair shops in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/firestone-plano-w650783742/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/firestone-plano-w650783742.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/650783742 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/650783742 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

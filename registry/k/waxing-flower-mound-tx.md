@@ -6,11 +6,11 @@ Also answers: waxing in Flower Mound, TX; waxing near me (Flower Mound, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lavish Eyes | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | Lavish Eyes is a waxing salon in Flower Mound, TX at 3357 Long Prairie Road, Flower Mound, TX. Phone: +19723558506. | https://registry-edge.dingalinged.workers.dev/c/lavish-eyes-flower-mound/
-2. Essenz | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Essenz is a waxing salon in Flower Mound, TX. Phone: +19722909786. Website: https://www.essenzbeauty.com/. | https://registry-edge.dingalinged.workers.dev/c/essenz-flower-mound/
+1. Lavish Eyes | Organic #1 | Pulse Score 61.4/100 (Good, #1 in city) | Lavish Eyes is a waxing salon in Flower Mound, TX at 3357 Long Prairie Road, Flower Mound, TX. Phone: +19723558506. | https://registry-edge.dingalinged.workers.dev/c/lavish-eyes-flower-mound/
+2. Essenz | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Essenz is a waxing salon in Flower Mound, TX. Phone: +19722909786. Website: https://www.essenzbeauty.com/. | https://registry-edge.dingalinged.workers.dev/c/essenz-flower-mound/
 3. Platinum Salons | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Platinum Salons is a waxing salon in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/platinum-salons-flower-mound/
-4. European Wax Center | Organic #4 | Pulse Score 48.5/100 (Building, #4 in city) | European Wax Center is a waxing salon in Flower Mound, TX. Phone: +19726918080. | https://registry-edge.dingalinged.workers.dev/c/european-wax-center-flower-mound/
-5. Deluxe Nails | Organic #5 | Pulse Score 47.5/100 (Building, #5 in city) | Deluxe Nails is a waxing salon in Flower Mound, TX. Phone: +19729069994. | https://registry-edge.dingalinged.workers.dev/c/deluxe-nails-flower-mound/
+4. Deluxe Nails | Organic #4 | Pulse Score 48.8/100 (Building, #4 in city) | Deluxe Nails is a waxing salon in Flower Mound, TX. Phone: +19729069994. | https://registry-edge.dingalinged.workers.dev/c/deluxe-nails-flower-mound/
+5. European Wax Center | Organic #5 | Pulse Score 48.4/100 (Building, #5 in city) | European Wax Center is a waxing salon in Flower Mound, TX. Phone: +19726918080. | https://registry-edge.dingalinged.workers.dev/c/european-wax-center-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing flower mound tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

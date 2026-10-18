@@ -6,7 +6,7 @@ Also answers: used cars for sale in Duluth, GA; used cars for sale near me (Dulu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. EchoPark Automotive Atlanta (Duluth) | Organic #1 | Pulse Score 62.1/100 (Good, #1 in city) | EchoPark Automotive Atlanta (Duluth) is an used car dealer in Duluth, GA at 3296 Commerce Avenue Northwest, Duluth, GA 30096. Phone: +16782686107. Website: https://www.echopark.com/dealerships/atlanta.htm. | https://registry-edge.dingalinged.workers.dev/c/echopark-automotive-atlanta-duluth-duluth/
+1. EchoPark Automotive Atlanta (Duluth) | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | EchoPark Automotive Atlanta (Duluth) is an used car dealer in Duluth, GA at 3296 Commerce Avenue Northwest, Duluth, GA 30096. Phone: +16782686107. Website: https://www.echopark.com/dealerships/atlanta.htm. | https://registry-edge.dingalinged.workers.dev/c/echopark-automotive-atlanta-duluth-duluth/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale duluth ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

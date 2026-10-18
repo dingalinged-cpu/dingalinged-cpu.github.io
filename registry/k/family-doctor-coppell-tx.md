@@ -6,7 +6,7 @@ Also answers: family doctor in Coppell, TX; family doctor near me (Coppell, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AFC Urgent Care Coppell | Organic #1 | Pulse Score 48.2/100 (Building, #1 in city) | AFC Urgent Care Coppell is a family medicine practice in Coppell, TX at 760 North Denton Tap Road #R150, Coppell, TX 75019. Website: https://www.afcurgentcare.com/coppell/. | https://registry-edge.dingalinged.workers.dev/c/afc-urgent-care-coppell-coppell/
+1. AFC Urgent Care Coppell | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | AFC Urgent Care Coppell is a family medicine practice in Coppell, TX at 760 North Denton Tap Road #R150, Coppell, TX 75019. Website: https://www.afcurgentcare.com/coppell/. | https://registry-edge.dingalinged.workers.dev/c/afc-urgent-care-coppell-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor coppell tx | category: Health & medical | industry benchmark: Physicians & Surgeons

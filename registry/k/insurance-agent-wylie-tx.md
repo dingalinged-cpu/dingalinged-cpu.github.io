@@ -6,8 +6,8 @@ Also answers: insurance agent in Wylie, TX; insurance agent near me (Wylie, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HI Agency - Wylie | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | HI Agency - Wylie is an insurance agent in Wylie, TX at 306 North Ballard Avenue, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/hi-agency-wylie-wylie/
-2. State Farm | Organic #2 | Pulse Score 46/100 (Building, #2 in city) | State Farm is an insurance agent in Wylie, TX at 500 Westgate Way, Wylie, TX. Website: https://www.statefarm.com/agent/us/tx/wylie. | https://registry-edge.dingalinged.workers.dev/c/state-farm-wylie/
+1. HI Agency - Wylie | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | HI Agency - Wylie is an insurance agent in Wylie, TX at 306 North Ballard Avenue, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/hi-agency-wylie-wylie/
+2. State Farm | Organic #2 | Pulse Score 45.8/100 (Building, #2 in city) | State Farm is an insurance agent in Wylie, TX at 500 Westgate Way, Wylie, TX. Website: https://www.statefarm.com/agent/us/tx/wylie. | https://registry-edge.dingalinged.workers.dev/c/state-farm-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent wylie tx | category: Professional & financial services | industry benchmark: Finance & Insurance

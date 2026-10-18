@@ -13,7 +13,7 @@ Original Mattress Factory is a mattress store in Maple Grove, MN at 8071 Wedgewo
 - Website: https://www.originalmattress.com/maple-grove-minnesota-store
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00;Sa 10:00-18:00;Su 12:00-17:00
-- Pulse Score: 50.7/100 — Fair — top 44% of mattress stores in Minneapolis–St. Paul, #1 of 3 mattress stores in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 68.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 44% of mattress stores in Minneapolis–St. Paul, #1 of 3 mattress stores in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 68.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

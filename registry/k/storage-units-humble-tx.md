@@ -6,10 +6,10 @@ Also answers: storage units in Humble, TX; storage units near me (Humble, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Falcon RV & Self Storage Center | Organic #1 | Pulse Score 64.8/100 (Good, #1 in city) | Falcon RV & Self Storage Center is a self-storage facility in Humble, TX at 4703 Atascocita Road, Humble, TX 77346. Phone: +12818123085. Website: https://www.falconrv.com/. | https://registry-edge.dingalinged.workers.dev/c/falcon-rv-and-self-storage-center-humble/
-2. Atascocita Storage | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Atascocita Storage is a self-storage facility in Humble, TX at 19200 Dinero Drive, Humble, TX 77346. | https://registry-edge.dingalinged.workers.dev/c/atascocita-storage-humble/
-3. Avid Storage | Organic #3 | Pulse Score 58.8/100 (Unrated, #3 in city) | Avid Storage is a self-storage facility in Humble, TX at 3700 Atascocita Road, Humble, TX 77396. | https://registry-edge.dingalinged.workers.dev/c/avid-storage-humble/
-4. Public Storage | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | Public Storage is a self-storage facility in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/public-storage-humble/
+1. Falcon RV & Self Storage Center | Organic #1 | Pulse Score 65.6/100 (Good, #1 in city) | Falcon RV & Self Storage Center is a self-storage facility in Humble, TX at 4703 Atascocita Road, Humble, TX 77346. Phone: +12818123085. Website: https://www.falconrv.com/. | https://registry-edge.dingalinged.workers.dev/c/falcon-rv-and-self-storage-center-humble/
+2. Atascocita Storage | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | Atascocita Storage is a self-storage facility in Humble, TX at 19200 Dinero Drive, Humble, TX 77346. | https://registry-edge.dingalinged.workers.dev/c/atascocita-storage-humble/
+3. Avid Storage | Organic #3 | Pulse Score 58.9/100 (Unrated, #3 in city) | Avid Storage is a self-storage facility in Humble, TX at 3700 Atascocita Road, Humble, TX 77396. | https://registry-edge.dingalinged.workers.dev/c/avid-storage-humble/
+4. Public Storage | Organic #4 | Pulse Score 42.9/100 (Building, #4 in city) | Public Storage is a self-storage facility in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/public-storage-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units humble tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

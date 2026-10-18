@@ -13,7 +13,7 @@ Anytime Fitness is a gym in West Des Moines, IA at 13435 University Avenue #400,
 - Website: https://www.anytimefitness.com/gyms/472/west-des-moines-ia-50325/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 64% of gyms in Des Moines, IA, #8 of 16 gyms in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 63% of gyms in Des Moines, IA, #7 of 16 gyms in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

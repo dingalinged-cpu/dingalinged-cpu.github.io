@@ -19,6 +19,6 @@ Hughes & Cozad Orthodontics is a dentist in The Woodlands, TX at 10393 Kuykendah
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/hughes-and-cozad-orthodontics-the-woodlands/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hughes-and-cozad-orthodontics-the-woodlands.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1394863268 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1394863268 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

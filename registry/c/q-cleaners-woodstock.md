@@ -13,7 +13,7 @@ Q Cleaners is a dry cleaner in Woodstock, GA at 12035 GA-92, Woodstock, GA 30188
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.4/100 — Good — top 17% of dry cleaners in Atlanta, #3 of 3 dry cleaners in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 17% of dry cleaners in Atlanta, #3 of 3 dry cleaners in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

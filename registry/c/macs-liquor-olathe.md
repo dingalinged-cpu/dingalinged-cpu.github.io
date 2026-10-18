@@ -13,7 +13,7 @@ Mac's Liquor is a liquor store in Olathe, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-23:00; Su 12:00-20:00
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 55% of liquor stores in Kansas City, MO, #6 of 8 liquor stores in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 55% of liquor stores in Kansas City, MO, #6 of 8 liquor stores in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

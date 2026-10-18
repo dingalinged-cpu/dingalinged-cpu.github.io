@@ -13,7 +13,7 @@ Hightech Wireless is a phone repair shop in Kansas City, KS at 8135 State Avenue
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa 11:00-18:00
-- Pulse Score: 62.2/100 — Good — top 17% of phone repair shops in Kansas City, MO, #1 of 3 phone repair shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 17% of phone repair shops in Kansas City, MO, #1 of 3 phone repair shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

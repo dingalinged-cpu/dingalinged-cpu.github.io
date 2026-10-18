@@ -19,6 +19,6 @@ Rainbow Realtors is a real estate agency in Dallas, TX at 1606 Peavy Road, Dalla
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/rainbow-realtors-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rainbow-realtors-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/468091015 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/468091015 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,7 +6,7 @@ Also answers: spa in Sandy Springs, GA; spa near me (Sandy Springs, GA); best sp
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sanctuary Salon & Spa | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Sanctuary Salon & Spa is a spa in Sandy Springs, GA at 6160 Peachtree Dunwoody Road #B105, Sandy Springs, GA 30328. Phone: +16787319077. Website: https://www.sanctuarysalonatlanta.com/. | https://registry-edge.dingalinged.workers.dev/c/sanctuary-salon-and-spa-sandy-springs/
+1. Sanctuary Salon & Spa | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Sanctuary Salon & Spa is a spa in Sandy Springs, GA at 6160 Peachtree Dunwoody Road #B105, Sandy Springs, GA 30328. Phone: +16787319077. Website: https://www.sanctuarysalonatlanta.com/. | https://registry-edge.dingalinged.workers.dev/c/sanctuary-salon-and-spa-sandy-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa sandy springs ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

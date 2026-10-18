@@ -13,7 +13,7 @@ The UPS Store is a printing service in Roswell, GA at 2300 Holcomb Bridge Road #
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:30; Sa 09:00-17:00; Su closed; PH unknown
-- Pulse Score: 45.8/100 — Building — top 49% of printing services in Atlanta, #4 of 5 printing services in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 49% of printing services in Atlanta, #4 of 5 printing services in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

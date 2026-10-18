@@ -13,7 +13,7 @@ Epic Tattoo is a tattoo shop in Cobb County, GA at 2543 Bells Ferry Road Northea
 - Website: https://www.epictattoo.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 12:00-22:00; Su 12:00-18:00
-- Pulse Score: 61.6/100 — Good — top 25% of tattoo shops in Atlanta, #2 of 7 tattoo shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 25% of tattoo shops in Atlanta, #2 of 7 tattoo shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

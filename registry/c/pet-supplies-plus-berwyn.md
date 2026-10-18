@@ -13,7 +13,7 @@ Pet Supplies Plus is a pet store in Berwyn, IL at 7133 West Cermak Road, Berwyn,
 - Website: https://www.petsuppliesplus.com/Store/IL/Berwyn/Berwyn/4246
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.9/100 — Building — top 80% of pet stores in Chicago, #1 of 1 pet stores in Berwyn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.9/100 — Building — top 80% of pet stores in Chicago, #1 of 1 pet stores in Berwyn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

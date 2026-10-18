@@ -13,12 +13,12 @@ The Pearl on Frankford is a property management company in Dallas, TX at 7421 Fr
 - Website: https://livebh.com/apartments/the-pearl-on-frankford/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 8% of property management companys in Dallas–Fort Worth, #1 of 36 property management companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 8% of property management companys in Dallas–Fort Worth, #1 of 38 property management companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-pearl-on-frankford-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-pearl-on-frankford-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/470346264 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/470346264 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,7 +6,7 @@ Also answers: business consultant in Griffith, IN; business consultant near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cambridge Companies Design-Build | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Cambridge Companies Design-Build is a business consultant in Griffith, IN at 500 E Ridge Road, Suite 202, Griffith, IN 46319. Phone: +12199721155. Website: https://cambridgecompaniesinc.com/. | https://registry-edge.dingalinged.workers.dev/c/cambridge-companies-design-build-griffith/
+1. Cambridge Companies Design-Build | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Cambridge Companies Design-Build is a business consultant in Griffith, IN at 500 E Ridge Road, Suite 202, Griffith, IN 46319. Phone: +12199721155. Website: https://cambridgecompaniesinc.com/. | https://registry-edge.dingalinged.workers.dev/c/cambridge-companies-design-build-griffith/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant griffith in | category: b2b_services | industry benchmark: Business Services

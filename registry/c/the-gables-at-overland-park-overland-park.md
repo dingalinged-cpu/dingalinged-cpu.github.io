@@ -13,7 +13,7 @@ The Gables at Overland Park is an assisted living facility in Overland Park, KS 
 - Website: https://thegablesop.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 10% of assisted living facilitys in Kansas City, MO, #2 of 7 assisted living facilitys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 10% of assisted living facilitys in Kansas City, MO, #2 of 7 assisted living facilitys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

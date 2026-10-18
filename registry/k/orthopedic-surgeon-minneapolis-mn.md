@@ -6,7 +6,7 @@ Also answers: orthopedic surgeon in Minneapolis, MN; orthopedic surgeon near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allina Health Orthopedics | Organic #1 | Pulse Score 59.4/100 (Fair, #1 in city) | Allina Health Orthopedics is an orthopedic surgeon in Minneapolis, MN at 2800 Chicago Avenue, Minneapolis, MN 55407. Website: https://account.allinahealth.org/locations/684. | https://registry-edge.dingalinged.workers.dev/c/allina-health-orthopedics-minneapolis/
+1. Allina Health Orthopedics | Organic #1 | Pulse Score 59/100 (Fair, #1 in city) | Allina Health Orthopedics is an orthopedic surgeon in Minneapolis, MN at 2800 Chicago Avenue, Minneapolis, MN 55407. Website: https://account.allinahealth.org/locations/684. | https://registry-edge.dingalinged.workers.dev/c/allina-health-orthopedics-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon minneapolis mn | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Inkwell Tattoo Company is a tattoo shop in West Allis, WI at 7524 West Greenfiel
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 12:00-20:00; Su off
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 60% of tattoo shops in Milwaukee, #1 of 2 tattoo shops in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 60% of tattoo shops in Milwaukee, #1 of 2 tattoo shops in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

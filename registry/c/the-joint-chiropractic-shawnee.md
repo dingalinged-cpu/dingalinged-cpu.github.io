@@ -13,7 +13,7 @@ The Joint Chiropractic is a chiropractor in Shawnee, KS at 15832 Shawnee Mission
 - Website: https://www.thejoint.com/kansas/shawnee/shawnee-34009
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-14:00,14:45-17:00; Sa 10:00-17:00; Su Off
-- Pulse Score: 48.7/100 — Building — top 100% of chiropractors in Kansas City, MO, #5 of 5 chiropractors in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 100% of chiropractors in Kansas City, MO, #5 of 5 chiropractors in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

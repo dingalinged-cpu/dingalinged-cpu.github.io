@@ -13,7 +13,7 @@ Body Glow Sun & Spray is a tanning salon in Long Lake, MN at 2073 Wayzata Boulev
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-16:00
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 32% of tanning salons in Minneapolis–St. Paul, #1 of 1 tanning salons in Long Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 32% of tanning salons in Minneapolis–St. Paul, #1 of 1 tanning salons in Long Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

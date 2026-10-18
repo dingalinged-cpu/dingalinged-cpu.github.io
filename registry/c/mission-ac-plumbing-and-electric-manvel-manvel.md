@@ -19,6 +19,6 @@ Mission AC, Plumbing & Electric Manvel is a plumber in Manvel, TX at 9705 Sandy 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mission-ac-plumbing-and-electric-manvel-manvel/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mission-ac-plumbing-and-electric-manvel-manvel.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11770840034 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11770840034 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Kansas City, MO at 238 West 73
 - Website: https://www.extraspace.com/storage/facilities/us/missouri/kansas_city/2056/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Building — top 63% of self-storage facilitys in Kansas City, MO, #7 of 17 self-storage facilitys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 61% of self-storage facilitys in Kansas City, MO, #7 of 17 self-storage facilitys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

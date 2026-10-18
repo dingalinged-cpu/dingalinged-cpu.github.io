@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Chicago, IL. Website: https://locations
 - Website: https://locations.waxcenter.com/il/chicago/chicago-streeterville-0304.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.7/100 — Building — top 84% of waxing salons in Chicago, #9 of 11 waxing salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.7/100 — Building — top 84% of waxing salons in Chicago, #9 of 11 waxing salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

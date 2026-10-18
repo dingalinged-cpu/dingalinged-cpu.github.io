@@ -13,7 +13,7 @@ Hallmark is a gift shop in Olathe, KS at 15230 W 119th St, Olathe, KS 66062.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-17:00
-- Pulse Score: 47/100 — Building — top 86% of gift shops in Kansas City, MO, #2 of 3 gift shops in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 86% of gift shops in Kansas City, MO, #2 of 3 gift shops in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

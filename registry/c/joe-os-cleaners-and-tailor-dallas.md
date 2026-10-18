@@ -19,6 +19,6 @@ Joe O's Cleaners & Tailor is a dry cleaner in Dallas, TX at 6465 East Mockingbir
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/joe-os-cleaners-and-tailor-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/joe-os-cleaners-and-tailor-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12040603617 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12040603617 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

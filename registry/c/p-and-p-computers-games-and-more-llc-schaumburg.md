@@ -13,7 +13,7 @@ P&P Computers Games & More LLC is a computer repair shop in Schaumburg, IL at 95
 - Website: https://mypnpcomputers.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.6/100 — Good — top 100% of computer repair shops in Chicago, #1 of 1 computer repair shops in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Fair — top 100% of computer repair shops in Chicago, #1 of 1 computer repair shops in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: financial advisor in Addison, TX; financial advisor near me (Addis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Charles Schwab | Organic #1 | Pulse Score 44.2/100 (Building, #3 in city) | Charles Schwab is a financial advisor in Dallas, TX at 5100 Belt Line Road #852, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/charles-schwab-dallas/
+1. Charles Schwab | Organic #1 | Pulse Score 44/100 (Building, #3 in city) | Charles Schwab is a financial advisor in Dallas, TX at 5100 Belt Line Road #852, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/charles-schwab-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor addison tx | category: Professional & financial services | industry benchmark: Finance & Insurance

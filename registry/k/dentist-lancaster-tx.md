@@ -6,8 +6,8 @@ Also answers: dentist in Lancaster, TX; dentist near me (Lancaster, TX); best de
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sunny Dental | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Sunny Dental is a dentist in Lancaster, TX at 3250 West Pleasant Run Road #190, Lancaster, TX 75146. | https://registry-edge.dingalinged.workers.dev/c/sunny-dental-lancaster/
-2. Perla Dental | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Perla Dental is a dentist in Lancaster, TX. | https://registry-edge.dingalinged.workers.dev/c/perla-dental-lancaster/
+1. Sunny Dental | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Sunny Dental is a dentist in Lancaster, TX at 3250 West Pleasant Run Road #190, Lancaster, TX 75146. | https://registry-edge.dingalinged.workers.dev/c/sunny-dental-lancaster/
+2. Perla Dental | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Perla Dental is a dentist in Lancaster, TX. | https://registry-edge.dingalinged.workers.dev/c/perla-dental-lancaster/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist lancaster tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

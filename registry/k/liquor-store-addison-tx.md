@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. American Spirits | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | American Spirits is a liquor store in Addison, TX at 14821 Inwood Road, Addison, TX 75001. | https://registry-edge.dingalinged.workers.dev/c/american-spirits-addison/
 2. Buckhorn's Discount Liquors | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Buckhorn's Discount Liquors is a liquor store in Addison, TX at 14825 Inwood Road #200, Addison, TX 75001. | https://registry-edge.dingalinged.workers.dev/c/buckhorns-discount-liquors-addison/
-3. Spec's | Organic #3 | Pulse Score 52/100 (Fair, #3 in city) | Spec's is a liquor store in Addison, TX at 15055 Inwood Road, Addison, TX 75001. Phone: +19722395891. Website: https://specsonline.com/. | https://registry-edge.dingalinged.workers.dev/c/specs-addison/
-4. Goody Goody Liquor | Organic #4 | Pulse Score 47.9/100 (Unrated, #4 in city) | Goody Goody Liquor is a liquor store in Addison, TX at 14851 Inwood Road, Addison, TX 75001. Website: https://www.goodygoody.com/. | https://registry-edge.dingalinged.workers.dev/c/goody-goody-liquor-addison/
+3. Spec's | Organic #3 | Pulse Score 52.1/100 (Fair, #3 in city) | Spec's is a liquor store in Addison, TX at 15055 Inwood Road, Addison, TX 75001. Phone: +19722395891. Website: https://specsonline.com/. | https://registry-edge.dingalinged.workers.dev/c/specs-addison/
+4. Goody Goody Liquor | Organic #4 | Pulse Score 46.7/100 (Unrated, #4 in city) | Goody Goody Liquor is a liquor store in Addison, TX at 14851 Inwood Road, Addison, TX 75001. Website: https://www.goodygoody.com/. | https://registry-edge.dingalinged.workers.dev/c/goody-goody-liquor-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store addison tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

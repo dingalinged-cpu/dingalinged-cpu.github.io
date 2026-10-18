@@ -13,7 +13,7 @@ Electric Sun Tanning & Boutique is a tanning salon in Lenexa, KS at 8700 Lackman
 - Website: https://electricsuntanning.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-17:00; Su 11:00-17:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 6% of tanning salons in Kansas City, MO, #1 of 1 tanning salons in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 6% of tanning salons in Kansas City, MO, #1 of 1 tanning salons in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

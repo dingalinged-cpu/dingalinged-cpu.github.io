@@ -13,7 +13,7 @@ Athletico Physical Therapy is a physical therapy clinic in Niles, IL at 7119 Wes
 - Website: https://www.athletico.com/locations/morton-grove/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 37% of physical therapy clinics in Chicago, #2 of 2 physical therapy clinics in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 37% of physical therapy clinics in Chicago, #2 of 2 physical therapy clinics in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: ob gyn in Crystal, MN; ob gyn near me (Crystal, MN); best ob gyn C
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oakdale ObGyn | Organic #1 | Pulse Score 60.1/100 (Good, #1 in city) | Oakdale ObGyn is an OB-GYN practice in Crystal, MN at 5700 Bottineau Boulevard #Suite 210, Crystal, MN 55429. Website: https://www.oakdaleobgyn.com/. | https://registry-edge.dingalinged.workers.dev/c/oakdale-obgyn-crystal/
+1. Oakdale ObGyn | Organic #1 | Pulse Score 59.4/100 (Fair, #1 in city) | Oakdale ObGyn is an OB-GYN practice in Crystal, MN at 5700 Bottineau Boulevard #Suite 210, Crystal, MN 55429. Website: https://www.oakdaleobgyn.com/. | https://registry-edge.dingalinged.workers.dev/c/oakdale-obgyn-crystal/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn crystal mn | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Lucky Jewelry is a jewelry store in Minneapolis, MN at 2447 Nicollet Avenue Sout
 - Website: https://luckybrand.com/
 - Email: n/a
 - Opening hours (OSM syntax): 11:30-16:00; Tu off
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 14% of jewelry stores in Minneapolis–St. Paul, #4 of 18 jewelry stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 14% of jewelry stores in Minneapolis–St. Paul, #4 of 18 jewelry stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

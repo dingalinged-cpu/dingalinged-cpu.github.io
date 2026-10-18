@@ -6,7 +6,7 @@ Also answers: insurance agents in Farmersville, TX; insurance agents near me (Fa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Farm Bureau Insurance Company | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Texas Farm Bureau Insurance Company is an insurance agent in Farmersville, TX at 1300 West Audie Murphy Parkway #5, Farmersville, TX 75442. Phone: +19727847779. | https://registry-edge.dingalinged.workers.dev/c/texas-farm-bureau-insurance-company-farmersville/
+1. Texas Farm Bureau Insurance Company | Organic #1 | Pulse Score 45.8/100 (Unrated, #1 in city) | Texas Farm Bureau Insurance Company is an insurance agent in Farmersville, TX at 1300 West Audie Murphy Parkway #5, Farmersville, TX 75442. Phone: +19727847779. | https://registry-edge.dingalinged.workers.dev/c/texas-farm-bureau-insurance-company-farmersville/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents farmersville tx | category: insurance | industry benchmark: Finance & Insurance

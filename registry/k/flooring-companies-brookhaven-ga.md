@@ -6,8 +6,8 @@ Also answers: flooring companies in Brookhaven, GA; flooring companies near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Flooring Atlanta | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Flooring Atlanta is a flooring company in Atlanta, GA at 1706 Northeast Expressway, Atlanta, GA 30329. | https://registry-edge.dingalinged.workers.dev/c/flooring-atlanta-atlanta/
-2. Floor & Decor | Organic #2 | Pulse Score 43.5/100 (Building, #2 in city) | Floor & Decor is a flooring company in Atlanta, GA at 1690 Northeast Expressway, Atlanta, GA 30329. | https://registry-edge.dingalinged.workers.dev/c/floor-and-decor-atlanta-w1272644779/
+1. Flooring Atlanta | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Flooring Atlanta is a flooring company in Atlanta, GA at 1706 Northeast Expressway, Atlanta, GA 30329. | https://registry-edge.dingalinged.workers.dev/c/flooring-atlanta-atlanta/
+2. Floor & Decor | Organic #2 | Pulse Score 43.4/100 (Building, #2 in city) | Floor & Decor is a flooring company in Atlanta, GA at 1690 Northeast Expressway, Atlanta, GA 30329. | https://registry-edge.dingalinged.workers.dev/c/floor-and-decor-atlanta-w1272644779/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies brookhaven ga | category: Home services - Flooring | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Scalp and Skin Solutions is a dermatologist in Elmwood Park, IL at 7430 West Gra
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): We 16:00-20:00; Th-Fr 15:00-20:00; Su 13:00-21:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 50% of dermatologists in Chicago, #1 of 1 dermatologists in Elmwood Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 50% of dermatologists in Chicago, #1 of 1 dermatologists in Elmwood Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

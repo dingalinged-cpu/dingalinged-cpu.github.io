@@ -19,6 +19,6 @@ Parent Day Out is a preschool in Dallas, TX at 1920 McKinney Avenue, Dallas, TX 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/parent-day-out-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/parent-day-out-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7384016259 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7384016259 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

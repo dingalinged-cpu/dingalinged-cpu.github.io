@@ -6,7 +6,7 @@ Also answers: waxing in Wylie, TX; waxing near me (Wylie, TX); best waxing Wylie
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Waxing the City | Organic #1 | Pulse Score 42.4/100 (Building, #1 in city) | Waxing the City is a waxing salon in Wylie, TX at 3400 FM 544 #Suite 630, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/waxing-the-city-wylie/
+1. Waxing the City | Organic #1 | Pulse Score 42.3/100 (Building, #1 in city) | Waxing the City is a waxing salon in Wylie, TX at 3400 FM 544 #Suite 630, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/waxing-the-city-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing wylie tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

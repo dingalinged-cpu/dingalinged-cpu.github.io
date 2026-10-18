@@ -13,7 +13,7 @@ The Intersect is a property management company in Madison, WI. Website: https://
 - Website: https://www.theintersectapts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa closed; Su closed
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 20% of property management companys in Madison, #1 of 5 property management companys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 20% of property management companys in Madison, #1 of 5 property management companys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

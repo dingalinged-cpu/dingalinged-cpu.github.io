@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Minneapolis, MN at 4215 Hiawatha Avenue, Mi
 - Website: https://www.uhaul.com/Locations/Self-Storage-near-Minneapolis-MN-55406/726072/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th, Sa 07:00-19:00; Fr 07:00-20:00; Su 09:00-17:00
-- Pulse Score: 49.3/100 — Building — top 43% of self-storage facilitys in Minneapolis–St. Paul, #2 of 11 self-storage facilitys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 39% of self-storage facilitys in Minneapolis–St. Paul, #2 of 11 self-storage facilitys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Luther Used Car Company is an used car dealer in Brooklyn Park, MN at 7417 Brook
 - Website: https://www.lutherusedcarcompany.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 42% of used car dealers in Minneapolis–St. Paul, #1 of 3 used car dealers in Brooklyn Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 42% of used car dealers in Minneapolis–St. Paul, #1 of 3 used car dealers in Brooklyn Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

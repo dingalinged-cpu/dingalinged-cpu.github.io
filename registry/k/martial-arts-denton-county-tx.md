@@ -6,7 +6,7 @@ Also answers: martial arts in Denton County, TX; martial arts near me (Denton Co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tae Kwon Do | Organic #1 | Pulse Score 42.6/100 (Unrated, #1 in city) | Tae Kwon Do is a martial arts school in Denton County, TX. | https://registry-edge.dingalinged.workers.dev/c/tae-kwon-do-denton-county/
+1. Tae Kwon Do | Organic #1 | Pulse Score 42.5/100 (Unrated, #1 in city) | Tae Kwon Do is a martial arts school in Denton County, TX. | https://registry-edge.dingalinged.workers.dev/c/tae-kwon-do-denton-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts denton county tx | category: Fitness | industry benchmark: Health & Fitness

@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Sugar Land, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
- "keywords": 72,
+ "keywords": 78,
  "lists": {
   "by_volume": [
    {
@@ -50,7 +50,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 17,
+    "registry_competitors": 18,
     "ranked_by": "by_volume"
    },
    {
@@ -95,7 +95,7 @@
     "search_value_index_usd": 19000,
     "equivalent_google_ads_cost_month_usd": 1100,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 10,
+    "registry_competitors": 11,
     "ranked_by": "by_volume"
    },
    {
@@ -125,7 +125,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 3900,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 6,
+    "registry_competitors": 11,
     "ranked_by": "by_volume"
    },
    {
@@ -185,7 +185,7 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 2200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 10,
+    "registry_competitors": 11,
     "ranked_by": "by_volume"
    },
    {
@@ -200,7 +200,7 @@
     "search_value_index_usd": 30000,
     "equivalent_google_ads_cost_month_usd": 1700,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 6,
+    "registry_competitors": 11,
     "ranked_by": "by_volume"
    },
    {
@@ -235,6 +235,21 @@
    }
   ],
   "by_cpc": [
+   {
+    "keyword": "hvac repair sugar land tx",
+    "slug": "hvac-repair-sugar-land-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-sugar-land-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 1700,
+    "cpc_basis_usd": 17.76,
+    "cpc_median_usd": 9.68,
+    "search_value_index_usd": 30000,
+    "equivalent_google_ads_cost_month_usd": 1900,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
    {
     "keyword": "electrician sugar land tx",
     "slug": "electrician-sugar-land-tx",
@@ -311,6 +326,21 @@
     "ranked_by": "by_cpc"
    },
    {
+    "keyword": "window repair sugar land tx",
+    "slug": "window-repair-sugar-land-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-repair-sugar-land-tx/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 930,
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "search_value_index_usd": 8100,
+    "equivalent_google_ads_cost_month_usd": 520,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "architect sugar land tx",
     "slug": "architect-sugar-land-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/architect-sugar-land-tx/",
@@ -326,6 +356,21 @@
     "ranked_by": "by_cpc"
    },
    {
+    "keyword": "heating and air sugar land tx",
+    "slug": "heating-and-air-sugar-land-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-sugar-land-tx/",
+    "us_monthly_searches": 3600,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 83.0,
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "search_value_index_usd": 690,
+    "equivalent_google_ads_cost_month_usd": 44.0,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "storage units sugar land tx",
     "slug": "storage-units-sugar-land-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-sugar-land-tx/",
@@ -337,7 +382,7 @@
     "search_value_index_usd": 42000,
     "equivalent_google_ads_cost_month_usd": 2700,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 3,
+    "registry_competitors": 4,
     "ranked_by": "by_cpc"
    },
    {
@@ -353,6 +398,21 @@
     "equivalent_google_ads_cost_month_usd": 2800,
     "featured_spot_min_usd": 20,
     "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "caterers sugar land tx",
+    "slug": "caterers-sugar-land-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/caterers-sugar-land-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 5100,
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "search_value_index_usd": 37000,
+    "equivalent_google_ads_cost_month_usd": 2800,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
     "ranked_by": "by_cpc"
    },
    {
@@ -399,66 +459,6 @@
     "featured_spot_min_usd": 20,
     "registry_competitors": 1,
     "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "crossfit sugar land tx",
-    "slug": "crossfit-sugar-land-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit-sugar-land-tx/",
-    "us_monthly_searches": 40500,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 940,
-    "cpc_basis_usd": 6.17,
-    "cpc_median_usd": 6.17,
-    "search_value_index_usd": 5800,
-    "equivalent_google_ads_cost_month_usd": 420,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "dance studio sugar land tx",
-    "slug": "dance-studio-sugar-land-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-sugar-land-tx/",
-    "us_monthly_searches": 40000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 930,
-    "cpc_basis_usd": 6.17,
-    "cpc_median_usd": 6.17,
-    "search_value_index_usd": 5700,
-    "equivalent_google_ads_cost_month_usd": 410,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 3,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "martial arts sugar land tx",
-    "slug": "martial-arts-sugar-land-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-sugar-land-tx/",
-    "us_monthly_searches": 300000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 6900,
-    "cpc_basis_usd": 6.17,
-    "cpc_median_usd": 6.17,
-    "search_value_index_usd": 43000,
-    "equivalent_google_ads_cost_month_usd": 3100,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 2,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "pilates sugar land tx",
-    "slug": "pilates-sugar-land-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-sugar-land-tx/",
-    "us_monthly_searches": 301000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 7000,
-    "cpc_basis_usd": 6.17,
-    "cpc_median_usd": 6.17,
-    "search_value_index_usd": 43000,
-    "equivalent_google_ads_cost_month_usd": 3100,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
    }
   ],
   "by_value": [
@@ -489,7 +489,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 17,
+    "registry_competitors": 18,
     "ranked_by": "by_value"
    },
    {
@@ -549,7 +549,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 3900,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 6,
+    "registry_competitors": 11,
     "ranked_by": "by_value"
    },
    {
@@ -639,7 +639,7 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 2200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 10,
+    "registry_competitors": 11,
     "ranked_by": "by_value"
    },
    {
@@ -669,22 +669,22 @@
     "search_value_index_usd": 30000,
     "equivalent_google_ads_cost_month_usd": 1700,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 6,
+    "registry_competitors": 11,
     "ranked_by": "by_value"
    },
    {
-    "keyword": "chiropractor sugar land tx",
-    "slug": "chiropractor-sugar-land-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-sugar-land-tx/",
-    "us_monthly_searches": 246000,
+    "keyword": "hvac repair sugar land tx",
+    "slug": "hvac-repair-sugar-land-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-sugar-land-tx/",
+    "us_monthly_searches": 74000,
     "us_volume_method": "cited",
-    "local_monthly_searches_est": 5700,
-    "cpc_basis_usd": 4.76,
-    "cpc_median_usd": 4.76,
-    "search_value_index_usd": 27000,
-    "equivalent_google_ads_cost_month_usd": 1800,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 2,
+    "local_monthly_searches_est": 1700,
+    "cpc_basis_usd": 17.76,
+    "cpc_median_usd": 9.68,
+    "search_value_index_usd": 30000,
+    "equivalent_google_ads_cost_month_usd": 1900,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
     "ranked_by": "by_value"
    }
   ]

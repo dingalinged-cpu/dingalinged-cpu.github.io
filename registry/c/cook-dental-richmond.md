@@ -19,6 +19,6 @@ Cook Dental is a dentist in Richmond, TX at 1536 Fm 359, Richmond, TX 77406.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/cook-dental-richmond/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cook-dental-richmond.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/607998723 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/607998723 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

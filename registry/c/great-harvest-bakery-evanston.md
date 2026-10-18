@@ -13,7 +13,7 @@ Great Harvest Bakery is a bakery in Evanston, IL at 2126 Central Street, Evansto
 - Website: https://greatharvestevanston.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 06:00-17:00; Su 08:00-16:00
-- Pulse Score: 64.1/100 — Good — top 1% of bakerys in Chicago, #1 of 6 bakerys in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.3/100 — Fair — top 89% of bakerys in Chicago, #6 of 6 bakerys in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.6, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

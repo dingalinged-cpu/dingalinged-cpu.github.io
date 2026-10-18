@@ -6,7 +6,7 @@ Also answers: thrift store in Madison, WI; thrift store near me (Madison, WI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SingleStitch | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | SingleStitch is a thrift store in Madison, WI at 124 State Street, Madison, WI. Phone: +16082849593. | https://registry-edge.dingalinged.workers.dev/c/singlestitch-madison/
+1. SingleStitch | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | SingleStitch is a thrift store in Madison, WI at 124 State Street, Madison, WI. Phone: +16082849593. | https://registry-edge.dingalinged.workers.dev/c/singlestitch-madison/
 2. Happy Hours | Organic #2 | Pulse Score 60.4/100 (Good, #2 in city) | Happy Hours is a thrift store in Madison, WI. Phone: +13474191669. | https://registry-edge.dingalinged.workers.dev/c/happy-hours-madison/
 3. Agrace Thrift Store | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | Agrace Thrift Store is a thrift store in Madison, WI at 118 Junction Road, Madison, WI 53717. Website: https://www.agrace.org/thriftstore. | https://registry-edge.dingalinged.workers.dev/c/agrace-thrift-store-madison/
 4. Upshift | Organic #4 | Pulse Score 59.1/100 (Unrated, #4 in city) | Upshift is a thrift store in Madison, WI. Website: https://up-shift.webs.com/. | https://registry-edge.dingalinged.workers.dev/c/upshift-madison/

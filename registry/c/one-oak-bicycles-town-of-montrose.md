@@ -13,7 +13,7 @@ One Oak Bicycles is a bike shop in Town of Montrose, WI. Phone: +16088453159. We
 - Website: https://www.1oakbicycles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Sa 11:00-17:00; Su 12:00-16:00 || "by appointment"
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 58% of bike shops in Madison, #1 of 1 bike shops in Town of Montrose (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 58% of bike shops in Madison, #1 of 1 bike shops in Town of Montrose (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,12 +13,12 @@ H&R Block is a tax preparation service in Euless, TX at 1060 North Main Street #
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Building — top 75% of tax preparation services in Dallas–Fort Worth, #4 of 4 tax preparation services in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.6/100 — Building — top 77% of tax preparation services in Dallas–Fort Worth, #4 of 4 tax preparation services in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-euless/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-r-block-euless.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13755759325 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13755759325 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

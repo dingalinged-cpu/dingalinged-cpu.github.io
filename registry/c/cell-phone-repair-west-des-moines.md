@@ -13,7 +13,7 @@ Cell Phone Repair is a phone repair shop in West Des Moines, IA at 216 5th Stree
 - Website: https://www.cellphonerepair.com/west-des-moines-ia/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00; Su 12:00-18:00
-- Pulse Score: 48/100 — Building — top 100% of phone repair shops in Des Moines, IA, #1 of 1 phone repair shops in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 100% of phone repair shops in Des Moines, IA, #1 of 1 phone repair shops in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

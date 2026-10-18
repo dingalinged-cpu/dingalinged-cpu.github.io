@@ -13,7 +13,7 @@ Crystal Lake Dental Care is a dentist in Robbinsdale, MN at 3925 37th Avenue Nor
 - Website: https://www.crystallakedentalcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-13:00
-- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 6% of dentists in Minneapolis–St. Paul, #1 of 4 dentists in Robbinsdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 6% of dentists in Minneapolis–St. Paul, #1 of 4 dentists in Robbinsdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

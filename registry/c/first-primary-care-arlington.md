@@ -13,12 +13,12 @@ First Primary Care is a family medicine practice in Arlington, TX at 1216 Florid
 - Website: https://www.firstprimarycare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-16:30
-- Pulse Score: 50/100 — Fair — top 92% of family medicine practices in Dallas–Fort Worth, #2 of 2 family medicine practices in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 90% of family medicine practices in Dallas–Fort Worth, #2 of 2 family medicine practices in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/first-primary-care-arlington/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/first-primary-care-arlington.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13603642026 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13603642026 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,7 +6,7 @@ Also answers: plumbing services in Richardson, TX; plumbing services near me (Ri
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dean's Plumbing, Drain Cleaning, Sewer & Water Heater Repair | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Dean's Plumbing, Drain Cleaning, Sewer & Water Heater Repair is a plumber in Richardson, TX at 610 Presidential Drive #STE 110, Richardson, TX 75081. Phone: +19724495274. Website: https://www.deansplumbingtx.com/. | https://registry-edge.dingalinged.workers.dev/c/deans-plumbing-drain-cleaning-sewer-and-water-heater-repair-richardson/
+1. Dean's Plumbing, Drain Cleaning, Sewer & Water Heater Repair | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Dean's Plumbing, Drain Cleaning, Sewer & Water Heater Repair is a plumber in Richardson, TX at 610 Presidential Drive #STE 110, Richardson, TX 75081. Phone: +19724495274. Website: https://www.deansplumbingtx.com/. | https://registry-edge.dingalinged.workers.dev/c/deans-plumbing-drain-cleaning-sewer-and-water-heater-repair-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services richardson tx | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

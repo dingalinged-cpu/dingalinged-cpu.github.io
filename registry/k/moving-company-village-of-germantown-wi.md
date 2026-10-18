@@ -6,7 +6,7 @@ Also answers: moving company in Village Of Germantown, WI; moving company near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. D&G Warehouse | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | D&G Warehouse is a moving company in Village of Germantown, WI at N120W18665 Freistadt Road, Village of Germantown, WI 53022. | https://registry-edge.dingalinged.workers.dev/c/d-and-g-warehouse-village-of-germantown/
+1. D&G Warehouse | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | D&G Warehouse is a moving company in Village of Germantown, WI at N120W18665 Freistadt Road, Village of Germantown, WI 53022. | https://registry-edge.dingalinged.workers.dev/c/d-and-g-warehouse-village-of-germantown/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company village of germantown wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

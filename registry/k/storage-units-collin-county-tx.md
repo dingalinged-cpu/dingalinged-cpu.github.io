@@ -6,7 +6,7 @@ Also answers: storage units in Collin County, TX; storage units near me (Collin 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. U-Haul | Organic #1 | Pulse Score 46.9/100 (Building, #1 in city) | U-Haul is a self-storage facility in Collin County, TX at 10057 West University Drive, Collin County, TX. | https://registry-edge.dingalinged.workers.dev/c/u-haul-collin-county/
+1. U-Haul | Organic #1 | Pulse Score 46.7/100 (Building, #1 in city) | U-Haul is a self-storage facility in Collin County, TX at 10057 West University Drive, Collin County, TX. | https://registry-edge.dingalinged.workers.dev/c/u-haul-collin-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units collin county tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

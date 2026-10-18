@@ -13,7 +13,7 @@ Sterling Lawyers, LLC is a lawyer in Middleton, WI at 8383 Greenway Blvd ##600, 
 - Website: https://www.sterlinglawyers.com/wisconsin/locations/middleton/
 - Email: office@sterlinglawyers.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 94% of lawyers in Madison, #1 of 1 lawyers in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Unrated (not enough evidence yet) — top 94% of lawyers in Madison, #1 of 1 lawyers in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

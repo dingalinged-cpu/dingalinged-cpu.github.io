@@ -6,7 +6,7 @@ Also answers: facial in Garland, TX; facial near me (Garland, TX); best facial G
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ideal Image | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Ideal Image is a skin care studio in Garland, TX at 4430 Lavon Drive #364, Garland, TX 75040. Phone: +19727462823. Website: https://www.idealimage.com/locations/texas/dallas-garland. | https://registry-edge.dingalinged.workers.dev/c/ideal-image-garland/
+1. Ideal Image | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Ideal Image is a skin care studio in Garland, TX at 4430 Lavon Drive #364, Garland, TX 75040. Phone: +19727462823. Website: https://www.idealimage.com/locations/texas/dallas-garland. | https://registry-edge.dingalinged.workers.dev/c/ideal-image-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial garland tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

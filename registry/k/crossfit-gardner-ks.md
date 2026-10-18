@@ -6,7 +6,7 @@ Also answers: crossfit in Gardner, KS; crossfit near me (Gardner, KS); best cros
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lion Chaser Barbell | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Lion Chaser Barbell is a CrossFit gym in Gardner, KS. | https://registry-edge.dingalinged.workers.dev/c/lion-chaser-barbell-gardner/
+1. Lion Chaser Barbell | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Lion Chaser Barbell is a CrossFit gym in Gardner, KS. | https://registry-edge.dingalinged.workers.dev/c/lion-chaser-barbell-gardner/
 
 ## Market data (for advertisers and agents)
 - Keyword: crossfit gardner ks | category: Fitness | industry benchmark: Health & Fitness

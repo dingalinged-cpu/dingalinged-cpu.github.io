@@ -6,7 +6,7 @@ Also answers: dermatologist in Addison, TX; dermatologist near me (Addison, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dallas Dermatology Partners | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Dallas Dermatology Partners is a dermatologist in Addison, TX at 17051 Dallas Parkway #350, Addison, TX 75001. Website: https://www.dallasdermpartners.com/. | https://registry-edge.dingalinged.workers.dev/c/dallas-dermatology-partners-addison/
+1. Dallas Dermatology Partners | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Dallas Dermatology Partners is a dermatologist in Addison, TX at 17051 Dallas Parkway #350, Addison, TX 75001. Website: https://www.dallasdermpartners.com/. | https://registry-edge.dingalinged.workers.dev/c/dallas-dermatology-partners-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist addison tx | category: Health & medical | industry benchmark: Physicians & Surgeons

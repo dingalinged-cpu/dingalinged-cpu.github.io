@@ -6,8 +6,8 @@ Also answers: window repair in Madison, WI; window repair near me (Madison, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hillestad Glass Co | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Hillestad Glass Co is a window repair service in Madison, WI at 710 Cottage Grove Road #C, Madison, WI 53716. Phone: +16082212800. Website: https://hillestadglassco.net/. | https://registry-edge.dingalinged.workers.dev/c/hillestad-glass-co-madison/
-2. Martin Glass Company | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Martin Glass Company is a window repair service in Madison, WI at 2323 Atwood Avenue, Madison, WI 53704. | https://registry-edge.dingalinged.workers.dev/c/martin-glass-company-madison/
+1. Hillestad Glass Co | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Hillestad Glass Co is a window repair service in Madison, WI at 710 Cottage Grove Road #C, Madison, WI 53716. Phone: +16082212800. Website: https://hillestadglassco.net/. | https://registry-edge.dingalinged.workers.dev/c/hillestad-glass-co-madison/
+2. Martin Glass Company | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Martin Glass Company is a window repair service in Madison, WI at 2323 Atwood Avenue, Madison, WI 53704. | https://registry-edge.dingalinged.workers.dev/c/martin-glass-company-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair madison wi | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

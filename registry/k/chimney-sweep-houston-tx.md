@@ -6,7 +6,7 @@ Also answers: chimney sweep in Houston, TX; chimney sweep near me (Houston, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SOS-ASAP | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | SOS-ASAP is a chimney sweep in Houston, TX at 11612 Chimney Rock Road, Houston, TX 77035. Phone: +13463352878. Website: https://sos-asap.com/. | https://registry-edge.dingalinged.workers.dev/c/sos-asap-houston/
+1. SOS-ASAP | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | SOS-ASAP is a chimney sweep in Houston, TX at 11612 Chimney Rock Road, Houston, TX 77035. Phone: +13463352878. Website: https://sos-asap.com/. | https://registry-edge.dingalinged.workers.dev/c/sos-asap-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: chimney sweep houston tx | category: Home services - Chimney | industry benchmark: Home & Home Improvement

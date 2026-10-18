@@ -13,7 +13,7 @@ KPMG is a business consultant in Kansas City, MO at 1000 Walnut Street #1000, Ka
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.4/100 — Building — top 100% of business consultants in Kansas City, MO, #6 of 6 business consultants in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.4/100 — Building — top 100% of business consultants in Kansas City, MO, #6 of 6 business consultants in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

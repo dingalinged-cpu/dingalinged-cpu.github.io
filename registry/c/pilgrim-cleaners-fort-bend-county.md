@@ -19,6 +19,6 @@ Pilgrim Cleaners is a dry cleaner in Fort Bend County, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/pilgrim-cleaners-fort-bend-county/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pilgrim-cleaners-fort-bend-county.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5256066619 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5256066619 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

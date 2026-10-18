@@ -13,12 +13,12 @@ CarMax is an used car dealer in Fort Bend County, TX. Website: https://www.carma
 - Website: https://www.carmax.com/stores/6081
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.7/100 — Building — top 90% of used car dealers in Houston, #1 of 1 used car dealers in Fort Bend County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.9/100 — Building — top 90% of used car dealers in Houston, #1 of 1 used car dealers in Fort Bend County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/carmax-fort-bend-county/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/carmax-fort-bend-county.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1119240645 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1119240645 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

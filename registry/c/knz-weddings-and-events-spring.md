@@ -13,12 +13,12 @@ KNZ Weddings & Events is an event venue in Spring, TX at 318 Main Street #F, Spr
 - Website: https://www.knzweddingsandevents.com/
 - Email: katy@knzweddingsandevents.com
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 10% of event venues in Houston, #1 of 5 event venues in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 8% of event venues in Houston, #1 of 5 event venues in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/knz-weddings-and-events-spring/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/knz-weddings-and-events-spring.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1216013671 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1216013671 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

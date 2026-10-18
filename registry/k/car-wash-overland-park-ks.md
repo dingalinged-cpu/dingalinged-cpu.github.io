@@ -15,10 +15,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 7. Tidal Wave Auto Spa | Organic #7 | Pulse Score 49.4/100 (Building, #7 in city) | Tidal Wave Auto Spa is a car wash in Overland Park, KS at 8710 Nieman Road, Overland Park, KS 66214. Phone: +17069380991. Website: https://www.tidalwaveautospa.com/location/overland-park-ks/. | https://registry-edge.dingalinged.workers.dev/c/tidal-wave-auto-spa-overland-park/
 8. Tommy's Express Car Wash | Organic #8 | Pulse Score 46.6/100 (Unrated, #8 in city) | Tommy's Express Car Wash is a car wash in Overland Park, KS at 10600 Roe Avenue, Overland Park, KS 66207. | https://registry-edge.dingalinged.workers.dev/c/tommys-express-car-wash-overland-park/
 9. Xcel Car Wash | Organic #9 | Pulse Score 46.6/100 (Unrated, #9 in city) | Xcel Car Wash is a car wash in Overland Park, KS at 8400 West 125th Street, Overland Park, KS 66213. | https://registry-edge.dingalinged.workers.dev/c/xcel-car-wash-overland-park/
-10. Go Car Wash | Organic #10 | Pulse Score 44.9/100 (Unrated, #10 in city) | Go Car Wash is a car wash in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/go-car-wash-overland-park/
-11. GO Car Wash | Organic #11 | Pulse Score 43.9/100 (Unrated, #11 in city) | GO Car Wash is a car wash in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/go-car-wash-overland-park-w254525187/
-12. Club Car Wash | Organic #12 | Pulse Score 43.5/100 (Unrated, #12 in city) | Club Car Wash is a car wash in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/club-car-wash-overland-park/
-13. Charlie's Car Wash | Organic #13 | Pulse Score 42.8/100 (Unrated, #13 in city) | Charlie's Car Wash is a car wash in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/charlies-car-wash-overland-park-w319655815/
+10. Go Car Wash | Organic #10 | Pulse Score 43.8/100 (Unrated, #10 in city) | Go Car Wash is a car wash in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/go-car-wash-overland-park/
+11. Club Car Wash | Organic #11 | Pulse Score 43.5/100 (Unrated, #11 in city) | Club Car Wash is a car wash in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/club-car-wash-overland-park/
+12. Charlie's Car Wash | Organic #12 | Pulse Score 42.8/100 (Unrated, #12 in city) | Charlie's Car Wash is a car wash in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/charlies-car-wash-overland-park-w319655815/
+13. GO Car Wash | Organic #13 | Pulse Score 42.8/100 (Unrated, #13 in city) | GO Car Wash is a car wash in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/go-car-wash-overland-park-w254525187/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash overland park ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

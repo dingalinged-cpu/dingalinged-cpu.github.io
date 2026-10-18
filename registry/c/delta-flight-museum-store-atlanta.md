@@ -13,7 +13,7 @@ Delta Flight Museum Store is a gift shop in Atlanta, GA. Website: https://www.de
 - Website: https://www.deltamuseum.org/shop
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu, Th-Fr 09:00-17:00; We 10:00-14:00; Sa 10:00-17:00; Su 12:00-17:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 27% of gift shops in Atlanta, #5 of 12 gift shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 27% of gift shops in Atlanta, #5 of 12 gift shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Brazilian Wax By Andreia is a waxing salon in Cobb County, GA at 1230 Powers Fer
 - Website: https://brazilianwax.com/locations/marietta-1230-powers-ferry-rd-se/
 - Email: marietta2@brazilianwax.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-17:00; Su off
-- Pulse Score: 51.2/100 — Fair — top 68% of waxing salons in Atlanta, #6 of 10 waxing salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.2, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.2/100 — Fair — top 68% of waxing salons in Atlanta, #6 of 10 waxing salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.2, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

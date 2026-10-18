@@ -6,7 +6,7 @@ Also answers: oil change in Dickinson, TX; oil change near me (Dickinson, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kwik Kar Lube | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Kwik Kar Lube is an auto repair shop in Dickinson, TX at 551 FM 517 W, Dickinson, TX 77539. Phone: +12815342271. Website: https://kwikkaronline.com/. | https://registry-edge.dingalinged.workers.dev/c/kwik-kar-lube-dickinson/
+1. Kwik Kar Lube | Organic #1 | Pulse Score 49.5/100 (Unrated, #2 in city) | Kwik Kar Lube is an auto repair shop in Dickinson, TX at 551 FM 517 W, Dickinson, TX 77539. Phone: +12815342271. Website: https://kwikkaronline.com/. | https://registry-edge.dingalinged.workers.dev/c/kwik-kar-lube-dickinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change dickinson tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

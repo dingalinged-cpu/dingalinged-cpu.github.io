@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Brighton Collectables | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Brighton Collectables is a gift shop in College Park, GA. | https://registry-edge.dingalinged.workers.dev/c/brighton-collectables-college-park/
 2. News Beat ATL | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | News Beat ATL is a gift shop in College Park, GA. | https://registry-edge.dingalinged.workers.dev/c/news-beat-atl-college-park/
-3. Kiehl's | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Kiehl's is a gift shop in College Park, GA. | https://registry-edge.dingalinged.workers.dev/c/kiehls-college-park/
-4. Sunglass Icon | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Sunglass Icon is a gift shop in College Park, GA. | https://registry-edge.dingalinged.workers.dev/c/sunglass-icon-college-park/
+3. Kiehl's | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Kiehl's is a gift shop in College Park, GA. | https://registry-edge.dingalinged.workers.dev/c/kiehls-college-park/
+4. Sunglass Icon | Organic #4 | Pulse Score 55.2/100 (Unrated, #4 in city) | Sunglass Icon is a gift shop in College Park, GA. | https://registry-edge.dingalinged.workers.dev/c/sunglass-icon-college-park/
 5. Atlanta.net | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Atlanta.net is a gift shop in College Park, GA. | https://registry-edge.dingalinged.workers.dev/c/atlanta-net-college-park/
 6. Brookstone | Organic #6 | Pulse Score 42.4/100 (Unrated, #6 in city) | Brookstone is a gift shop in College Park, GA. | https://registry-edge.dingalinged.workers.dev/c/brookstone-college-park/
 

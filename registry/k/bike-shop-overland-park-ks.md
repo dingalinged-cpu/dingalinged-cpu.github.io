@@ -6,8 +6,8 @@ Also answers: bike shop in Overland Park, KS; bike shop near me (Overland Park, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Erik's Bike Shop | Organic #1 | Pulse Score 48.2/100 (Unrated, #1 in city) | Erik's Bike Shop is a bike shop in Overland Park, KS at 11500 West 135th Street, Overland Park, KS 66221. Phone: +19134511515. Website: https://www.eriksbikeshop.com/store/kansas-city-overland-park-ks-66221/Ovrpk. | https://registry-edge.dingalinged.workers.dev/c/eriks-bike-shop-overland-park/
-2. Erik's - Bike Board Ski | Organic #2 | Pulse Score 47.9/100 (Unrated, #2 in city) | Erik's - Bike Board Ski is a bike shop in Overland Park, KS at 3701 West 95th Street, Overland Park, KS 66206. Phone: +19134288430. Website: https://www.eriksbikeshop.com/. | https://registry-edge.dingalinged.workers.dev/c/eriks-bike-board-ski-overland-park/
+1. Erik's Bike Shop | Organic #1 | Pulse Score 48.1/100 (Unrated, #1 in city) | Erik's Bike Shop is a bike shop in Overland Park, KS at 11500 West 135th Street, Overland Park, KS 66221. Phone: +19134511515. Website: https://www.eriksbikeshop.com/store/kansas-city-overland-park-ks-66221/Ovrpk. | https://registry-edge.dingalinged.workers.dev/c/eriks-bike-shop-overland-park/
+2. Erik's - Bike Board Ski | Organic #2 | Pulse Score 47.8/100 (Unrated, #2 in city) | Erik's - Bike Board Ski is a bike shop in Overland Park, KS at 3701 West 95th Street, Overland Park, KS 66206. Phone: +19134288430. Website: https://www.eriksbikeshop.com/. | https://registry-edge.dingalinged.workers.dev/c/eriks-bike-board-ski-overland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop overland park ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

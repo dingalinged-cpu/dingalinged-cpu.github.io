@@ -6,8 +6,8 @@ Also answers: dentist in Highland Village, TX; dentist near me (Highland Village
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Village Periodontics and Implant Dentistry | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Village Periodontics and Implant Dentistry is a dentist in Highland Village, TX at 2820 Village Parkway, Highland Village, TX. Phone: +19729662500. | https://registry-edge.dingalinged.workers.dev/c/village-periodontics-and-implant-dentistry-highland-village/
-2. Highland Village Dental | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Highland Village Dental is a dentist in Highland Village, TX. | https://registry-edge.dingalinged.workers.dev/c/highland-village-dental-highland-village/
+1. Village Periodontics and Implant Dentistry | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Village Periodontics and Implant Dentistry is a dentist in Highland Village, TX at 2820 Village Parkway, Highland Village, TX. Phone: +19729662500. | https://registry-edge.dingalinged.workers.dev/c/village-periodontics-and-implant-dentistry-highland-village/
+2. Highland Village Dental | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Highland Village Dental is a dentist in Highland Village, TX. | https://registry-edge.dingalinged.workers.dev/c/highland-village-dental-highland-village/
 3. Dental Depot | Organic #3 | Pulse Score 49.5/100 (Unrated, #3 in city) | Dental Depot is a dentist in Highland Village, TX at 2460 Justin Rd, Highland Village, TX 75077. Phone: +19724497014. Website: https://dentaldepotdfw.com/locations/highland-village/. | https://registry-edge.dingalinged.workers.dev/c/dental-depot-highland-village/
 
 ## Market data (for advertisers and agents)

@@ -6,7 +6,7 @@ Also answers: dry cleaners in Chanhassen, MN; dry cleaners near me (Chanhassen, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hour Glass Cleaners | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Hour Glass Cleaners is a dry cleaner in Chanhassen, MN at 530 West 79th Street, Chanhassen, MN 55317. | https://registry-edge.dingalinged.workers.dev/c/hour-glass-cleaners-chanhassen/
+1. Hour Glass Cleaners | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Hour Glass Cleaners is a dry cleaner in Chanhassen, MN at 530 West 79th Street, Chanhassen, MN 55317. | https://registry-edge.dingalinged.workers.dev/c/hour-glass-cleaners-chanhassen/
 2. Best Cleaners | Organic #2 | Pulse Score 43.8/100 (Unrated, #2 in city) | Best Cleaners is a dry cleaner in Chanhassen, MN at 7886 Market Boulevard, Chanhassen, MN 55317. | https://registry-edge.dingalinged.workers.dev/c/best-cleaners-chanhassen/
 
 ## Market data (for advertisers and agents)

@@ -19,6 +19,6 @@ Edward Jones is a financial advisor in Needville, TX at 13400 TX-36 #117, Needvi
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/edward-jones-needville/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edward-jones-needville.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9821474754 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9821474754 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

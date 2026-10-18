@@ -13,7 +13,7 @@ Pet Supermarket is a pet store in Marietta, GA at 2100 Roswell Road, Marietta, G
 - Website: https://www.petsupermarket.com/storelocator/?storeId=304
 - Email: n/a
 - Opening hours (OSM syntax): 11:00-19:00; PH off
-- Pulse Score: 47.5/100 — Building — top 51% of pet stores in Atlanta, #4 of 7 pet stores in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.5, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 51% of pet stores in Atlanta, #4 of 7 pet stores in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.5, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

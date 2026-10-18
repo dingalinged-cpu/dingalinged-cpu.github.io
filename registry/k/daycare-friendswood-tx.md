@@ -6,7 +6,7 @@ Also answers: daycare in Friendswood, TX; daycare near me (Friendswood, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Primrose | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Primrose is a daycare in Friendswood, TX. | https://registry-edge.dingalinged.workers.dev/c/primrose-friendswood/
+1. Primrose | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Primrose is a daycare in Friendswood, TX. | https://registry-edge.dingalinged.workers.dev/c/primrose-friendswood/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare friendswood tx | category: Education & childcare | industry benchmark: Education & Instruction

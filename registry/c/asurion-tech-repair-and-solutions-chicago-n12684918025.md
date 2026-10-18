@@ -13,7 +13,7 @@ Asurion Tech Repair & Solutions is a phone repair shop in Chicago, IL at 3176 No
 - Website: https://www.ubreakifix.com/locations/lakeview/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00
-- Pulse Score: 50.7/100 — Fair — top 22% of phone repair shops in Chicago, #2 of 6 phone repair shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 68.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 22% of phone repair shops in Chicago, #2 of 6 phone repair shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 68.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: painters in Gladstone, MO; painters near me (Gladstone, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KC Tintworks | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | KC Tintworks is a painting contractor in Gladstone, MO. Website: https://www.kansascitytintworks.com/. | https://registry-edge.dingalinged.workers.dev/c/kc-tintworks-gladstone/
+1. KC Tintworks | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | KC Tintworks is a painting contractor in Gladstone, MO. Website: https://www.kansascitytintworks.com/. | https://registry-edge.dingalinged.workers.dev/c/kc-tintworks-gladstone/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters gladstone mo | category: Home services - Painting | industry benchmark: Home & Home Improvement

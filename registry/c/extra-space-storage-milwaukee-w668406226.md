@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Milwaukee, WI at 999 West Moun
 - Website: https://www.extraspace.com/storage/facilities/us/wisconsin/milwaukee/1000000869/
 - Email: n/a
 - Opening hours (OSM syntax): 06:00-22:00
-- Pulse Score: 50.5/100 — Fair — top 66% of self-storage facilitys in Milwaukee, #11 of 20 self-storage facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 64% of self-storage facilitys in Milwaukee, #10 of 20 self-storage facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

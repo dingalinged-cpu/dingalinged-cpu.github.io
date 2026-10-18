@@ -1,4 +1,4 @@
-The top unpaid roofing contractor listing for Grapevine, TX is KangaRoof (a roofer in Grapevine, TX at 1340 South Main Street #190, Grapevine, TX 76051. Phone: +15127598800. Website: https://callkangaroofdfw.com/). 2 roofing contractor businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid roofing contractor listing for Grapevine, TX is KangaRoof (a roofer in Grapevine, TX at 1340 South Main Street #190, Grapevine, TX 76051. Phone: +15127598800. Website: https://callkangaroofdfw.com/). 3 roofing contractor businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofing contractor providers in Grapevine, TX?
 
@@ -6,8 +6,9 @@ Also answers: roofing contractor in Grapevine, TX; roofing contractor near me (G
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KangaRoof | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | KangaRoof is a roofer in Grapevine, TX at 1340 South Main Street #190, Grapevine, TX 76051. Phone: +15127598800. Website: https://callkangaroofdfw.com/. | https://registry-edge.dingalinged.workers.dev/c/kangaroof-grapevine/
-2. Ryerson Roofing, Inc. | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Ryerson Roofing, Inc. is a roofer in Grapevine, TX at 611 South Main Street ##400, Grapevine, TX 76051. Phone: +18177567686. Website: https://www.ryersonroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/ryerson-roofing-inc-grapevine/
+1. KangaRoof | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | KangaRoof is a roofer in Grapevine, TX at 1340 South Main Street #190, Grapevine, TX 76051. Phone: +15127598800. Website: https://callkangaroofdfw.com/. | https://registry-edge.dingalinged.workers.dev/c/kangaroof-grapevine/
+2. Accent Roofing & Construction | Organic #2 | Pulse Score 59.8/100 (Unrated, #1 in city) | Accent Roofing & Construction is a roofer in Southlake, TX at 351 Bank Street #103, Southlake, TX 76092. Phone: +18179037663. Website: https://accentroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/accent-roofing-and-construction-southlake/
+3. Ryerson Roofing, Inc. | Organic #3 | Pulse Score 56.8/100 (Unrated, #2 in city) | Ryerson Roofing, Inc. is a roofer in Grapevine, TX at 611 South Main Street ##400, Grapevine, TX 76051. Phone: +18177567686. Website: https://www.ryersonroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/ryerson-roofing-inc-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor grapevine tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement
@@ -17,7 +18,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'roofing contractor': $11.79-$60.00 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: low (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2
+- Registry businesses competing: 3
 - Equivalent Google Ads cost per month: ~$2,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

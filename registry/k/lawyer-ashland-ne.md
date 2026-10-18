@@ -6,7 +6,7 @@ Also answers: lawyer in Ashland, NE; lawyer near me (Ashland, NE); best lawyer A
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lutton Law Office | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Lutton Law Office is a lawyer in Ashland, NE at 1442 Silver Street, Ashland, NE 68003. Phone: +14029443383. Website: https://luttonlaw.com/. | https://registry-edge.dingalinged.workers.dev/c/lutton-law-office-ashland/
+1. Lutton Law Office | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Lutton Law Office is a lawyer in Ashland, NE at 1442 Silver Street, Ashland, NE 68003. Phone: +14029443383. Website: https://luttonlaw.com/. | https://registry-edge.dingalinged.workers.dev/c/lutton-law-office-ashland/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer ashland ne | category: Legal | industry benchmark: Attorneys & Legal Services

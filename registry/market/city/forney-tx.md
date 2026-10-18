@@ -1,4 +1,4 @@
-Keyword market for Forney, TX: 38 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
+Keyword market for Forney, TX: 39 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
 
 # Top keywords in Forney, TX
 
@@ -6,10 +6,10 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 
 ## By monthly searches
 1. car wash forney tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-forney-tx/
-2. dentist forney tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-forney-tx/
-3. gym forney tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/gym-forney-tx/
+2. dentist forney tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-forney-tx/
+3. gym forney tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/gym-forney-tx/
 4. hair salon forney tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-forney-tx/
-5. nail salon forney tx | searches/mo 25,000 (est) | CPC $0.61 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-forney-tx/
+5. nail salon forney tx | searches/mo 25,000 (est) | CPC $0.61 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-forney-tx/
 6. mechanic forney tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 15 | https://registry-edge.dingalinged.workers.dev/k/mechanic-forney-tx/
 7. tire shop forney tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-forney-tx/
 8. vet forney tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/vet-forney-tx/
@@ -32,16 +32,16 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 8. bakery forney tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/bakery-forney-tx/
 9. dance studio forney tx | searches/mo 990 (est) | CPC $6.17 | value $6,100 | Google Ads equiv $440/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-forney-tx/
 10. martial arts forney tx | searches/mo 7,400 (est) | CPC $6.17 | value $46,000 | Google Ads equiv $3,300/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-forney-tx/
-11. tax preparer forney tx | searches/mo 1,500 (est) | CPC $5.87 | value $8,800 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-forney-tx/
-12. daycare forney tx | searches/mo 5,500 (est) | CPC $4.81 | value $26,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/daycare-forney-tx/
+11. tax preparer forney tx | searches/mo 1,500 (est) | CPC $5.87 | value $8,800 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-forney-tx/
+12. daycare forney tx | searches/mo 5,500 (est) | CPC $4.81 | value $26,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/daycare-forney-tx/
 13. preschool forney tx | searches/mo 5,500 (est) | CPC $4.81 | value $26,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/preschool-forney-tx/
 14. assisted living forney tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/assisted-living-forney-tx/
 15. therapist forney tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/therapist-forney-tx/
 
 ## By value (searches x CPC)
-1. dentist forney tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-forney-tx/
+1. dentist forney tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-forney-tx/
 2. car wash forney tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-forney-tx/
-3. gym forney tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/gym-forney-tx/
+3. gym forney tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/gym-forney-tx/
 4. mechanic forney tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 15 | https://registry-edge.dingalinged.workers.dev/k/mechanic-forney-tx/
 5. tire shop forney tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-forney-tx/
 6. vet forney tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/vet-forney-tx/

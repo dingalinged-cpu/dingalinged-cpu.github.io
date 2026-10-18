@@ -6,15 +6,15 @@ Also answers: tax preparer in Lewisville, TX; tax preparer near me (Lewisville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tax Master | Organic #1 | Pulse Score 61.7/100 (Good, #1 in city) | Tax Master is a tax preparation service in Lewisville, TX at 150 West Main Street, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/tax-master-lewisville/
+1. Tax Master | Organic #1 | Pulse Score 61.4/100 (Good, #1 in city) | Tax Master is a tax preparation service in Lewisville, TX at 150 West Main Street, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/tax-master-lewisville/
 2. EDC Tax Solutions | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | EDC Tax Solutions is a tax preparation service in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/edc-tax-solutions-lewisville/
-3. H&R Block | Organic #3 | Pulse Score 51.6/100 (Fair, #3 in city) | H&R Block is a tax preparation service in Lewisville, TX at West Round Grove Road #200, Lewisville, TX 75067. Phone: +19724597134. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-lewisville-n11195025420/
-4. Liberty Tax | Organic #4 | Pulse Score 50/100 (Fair, #4 in city) | Liberty Tax is a tax preparation service in Lewisville, TX. Phone: +19723151099. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-lewisville-n10985312304/
-5. H&R Block | Organic #5 | Pulse Score 48.5/100 (Building, #5 in city) | H&R Block is a tax preparation service in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-lewisville/
-6. Liberty Tax | Organic #6 | Pulse Score 48.3/100 (Unrated, #6 in city) | Liberty Tax is a tax preparation service in Lewisville, TX. Phone: +14698501040. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-lewisville/
-7. H&R Block | Organic #7 | Pulse Score 46.5/100 (Building, #7 in city) | H&R Block is a tax preparation service in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-lewisville-n11341889652/
-8. Liberty Tax | Organic #8 | Pulse Score 46.1/100 (Building, #8 in city) | Liberty Tax is a tax preparation service in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-lewisville-n11423732427/
-9. Income Tax | Organic #9 | Pulse Score 44.2/100 (Unrated, #9 in city) | Income Tax is a tax preparation service in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/income-tax-lewisville/
+3. H&R Block | Organic #3 | Pulse Score 51.7/100 (Fair, #3 in city) | H&R Block is a tax preparation service in Lewisville, TX at West Round Grove Road #200, Lewisville, TX 75067. Phone: +19724597134. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-lewisville-n11195025420/
+4. Liberty Tax | Organic #4 | Pulse Score 49.8/100 (Building, #4 in city) | Liberty Tax is a tax preparation service in Lewisville, TX. Phone: +19723151099. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-lewisville-n10985312304/
+5. Liberty Tax | Organic #5 | Pulse Score 48.3/100 (Unrated, #5 in city) | Liberty Tax is a tax preparation service in Lewisville, TX. Phone: +14698501040. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-lewisville/
+6. H&R Block | Organic #6 | Pulse Score 48.2/100 (Building, #6 in city) | H&R Block is a tax preparation service in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-lewisville/
+7. Income Tax | Organic #7 | Pulse Score 48.1/100 (Building, #7 in city) | Income Tax is a tax preparation service in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/income-tax-lewisville/
+8. H&R Block | Organic #8 | Pulse Score 46.4/100 (Building, #8 in city) | H&R Block is a tax preparation service in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-lewisville-n11341889652/
+9. Liberty Tax | Organic #9 | Pulse Score 46/100 (Building, #9 in city) | Liberty Tax is a tax preparation service in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-lewisville-n11423732427/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer lewisville tx | category: professional_accounting | industry benchmark: Business Services

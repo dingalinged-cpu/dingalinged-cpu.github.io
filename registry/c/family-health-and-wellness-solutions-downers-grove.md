@@ -13,7 +13,7 @@ Family Health & Wellness Solutions is an acupuncture clinic in Downers Grove, IL
 - Website: https://fhwellness.com/
 - Email: info@fhwellness.com
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Sa 09:00-14:00
-- Pulse Score: 65.3/100 — Good — top 12% of acupuncture clinics in Chicago, #1 of 1 acupuncture clinics in Downers Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 67.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.3/100 — Good — top 12% of acupuncture clinics in Chicago, #1 of 1 acupuncture clinics in Downers Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

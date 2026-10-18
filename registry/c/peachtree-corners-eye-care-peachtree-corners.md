@@ -13,7 +13,7 @@ Peachtree Corners Eye Care is an eye care practice in Peachtree Corners, GA at 4
 - Website: https://peachtree-eye.com/
 - Email: info@peachtree-eye.com
 - Opening hours (OSM syntax): Mo 08:00-17:00; Tu 09:00-18:00; We 08:00-17:00; Th 09:00-18:00; Fr 08:00-17:00; Sa off; Su off
-- Pulse Score: 63.7/100 — Good — top 4% of eye care practices in Atlanta, #1 of 1 eye care practices in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 4% of eye care practices in Atlanta, #1 of 1 eye care practices in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: facial in Mesquite, TX; facial near me (Mesquite, TX); best facial
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ulta Beauty | Organic #1 | Pulse Score 46.5/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Mesquite, TX at 1655 North Town East Boulevard #200, Mesquite, TX 75150. Phone: +19722706622. Website: https://www.ulta.com/stores/mesquite-tx-1383. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-mesquite/
+1. Ulta Beauty | Organic #1 | Pulse Score 46.6/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Mesquite, TX at 1655 North Town East Boulevard #200, Mesquite, TX 75150. Phone: +19722706622. Website: https://www.ulta.com/stores/mesquite-tx-1383. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial mesquite tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

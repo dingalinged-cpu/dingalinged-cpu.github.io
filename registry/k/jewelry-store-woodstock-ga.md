@@ -6,7 +6,7 @@ Also answers: jewelry store in Woodstock, GA; jewelry store near me (Woodstock, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cultured Brilliance | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | Cultured Brilliance is a jewelry store in Woodstock, GA at 8744 Main Street #103, Woodstock, GA. Phone: +16787225664. Website: https://culturedbrilliance.com/. | https://registry-edge.dingalinged.workers.dev/c/cultured-brilliance-woodstock/
+1. Cultured Brilliance | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Cultured Brilliance is a jewelry store in Woodstock, GA at 8744 Main Street #103, Woodstock, GA. Phone: +16787225664. Website: https://culturedbrilliance.com/. | https://registry-edge.dingalinged.workers.dev/c/cultured-brilliance-woodstock/
 2. Holly Springs Jewelers | Organic #2 | Pulse Score 63.2/100 (Good, #2 in city) | Holly Springs Jewelers is a jewelry store in Woodstock, GA at 510 Chambers Street, Woodstock, GA. Phone: +17709283280. Website: https://www.hollyspringsjewelers.com/. | https://registry-edge.dingalinged.workers.dev/c/holly-springs-jewelers-woodstock/
 3. Art Jewelers | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | Art Jewelers is a jewelry store in Woodstock, GA. | https://registry-edge.dingalinged.workers.dev/c/art-jewelers-woodstock/
 

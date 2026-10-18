@@ -1,4 +1,4 @@
-Keyword market for Woodbranch, TX: 2 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Houston-Pasadena-The Woodlands, TX metro (US volume x population share).
+Keyword market for Woodbranch, TX: 3 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Houston-Pasadena-The Woodlands, TX metro (US volume x population share).
 
 # Top keywords in Woodbranch, TX
 
@@ -9,8 +9,9 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 2. realtor woodbranch tx | searches/mo 2,100 (est) | CPC $3.70 | value $7,800 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-woodbranch-tx/
 
 ## By CPC
-1. realtor woodbranch tx | searches/mo 2,100 (est) | CPC $3.70 | value $7,800 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-woodbranch-tx/
-2. real estate agent woodbranch tx | searches/mo 4,600 (est) | CPC $3.61 | value $17,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-woodbranch-tx/
+1. storage units woodbranch tx | searches/mo 5,100 (est) | CPC $8.33 | value $42,000 | Google Ads equiv $2,700/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-woodbranch-tx/
+2. realtor woodbranch tx | searches/mo 2,100 (est) | CPC $3.70 | value $7,800 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-woodbranch-tx/
+3. real estate agent woodbranch tx | searches/mo 4,600 (est) | CPC $3.61 | value $17,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-woodbranch-tx/
 
 ## By value (searches x CPC)
 1. real estate agent woodbranch tx | searches/mo 4,600 (est) | CPC $3.61 | value $17,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-woodbranch-tx/

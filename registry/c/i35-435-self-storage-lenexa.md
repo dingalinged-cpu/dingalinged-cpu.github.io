@@ -13,7 +13,7 @@ I35-435 Self Storage is a self-storage facility in Lenexa, KS at 10750 Cottonwoo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-17:30; Sa 09:30-16:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 5% of self-storage facilitys in Kansas City, MO, #2 of 5 self-storage facilitys in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 5% of self-storage facilitys in Kansas City, MO, #2 of 5 self-storage facilitys in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

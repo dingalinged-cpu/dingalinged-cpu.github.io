@@ -13,7 +13,7 @@ Aashi-Aashi Foot & Leg Hydrotherapy Suite is a physical therapy clinic in Atlant
 - Website: https://aashi-aashi.com/
 - Email: info@aashi-aashi.com
 - Opening hours (OSM syntax): Mo,Tu,Th 08:15-16:00; We,Fr 08:15-15:00; Sa "By appointment only"
-- Pulse Score: 65/100 — Good — top 2% of physical therapy clinics in Atlanta, #1 of 10 physical therapy clinics in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 2% of physical therapy clinics in Atlanta, #1 of 10 physical therapy clinics in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

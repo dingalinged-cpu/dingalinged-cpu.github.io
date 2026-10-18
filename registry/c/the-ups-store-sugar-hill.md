@@ -13,7 +13,7 @@ The UPS Store is a printing service in Sugar Hill, GA. Phone: +17706146700. Webs
 - Website: https://locations.theupsstore.com/ga/sugar-hill/5885-cumming-hwy
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Building — top 44% of printing services in Atlanta, #1 of 1 printing services in Sugar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 44% of printing services in Atlanta, #1 of 1 printing services in Sugar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

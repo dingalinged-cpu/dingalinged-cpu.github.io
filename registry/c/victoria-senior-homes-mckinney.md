@@ -13,12 +13,12 @@ Victoria Senior Homes is an assisted living facility in McKinney, TX at 153 Ente
 - Website: https://victoriaseniorhomes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 40% of assisted living facilitys in Dallas–Fort Worth, #3 of 3 assisted living facilitys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 36% of assisted living facilitys in Dallas–Fort Worth, #3 of 3 assisted living facilitys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/victoria-senior-homes-mckinney/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/victoria-senior-homes-mckinney.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13641268245 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13641268245 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ NOMI - Bathroom Remodeling is a plumber in Plano, TX at 820 West Spring Creek Pa
 - Website: https://nomibath.com/location/bathroom-remodel-plano/
 - Email: info@nomibath.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-16:30
-- Pulse Score: 64.7/100 — Good — top 4% of plumbers in Dallas–Fort Worth, #1 of 3 plumbers in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.3, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 4% of plumbers in Dallas–Fort Worth, #1 of 3 plumbers in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.4, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/nomi-bathroom-remodeling-plano/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nomi-bathroom-remodeling-plano.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11770963026 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11770963026 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Men's Hair House is a hair salon in Wauwatosa, WI at 8841, 8843 West North Avenu
 - Website: https://menshairhouse.com/wauwatosa-wi/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 08:00-19:00; Sa 08:00-16:00; Mo,Su off
-- Pulse Score: 50.1/100 — Unrated (not enough evidence yet) — top 81% of hair salons in Milwaukee, #14 of 16 hair salons in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Unrated (not enough evidence yet) — top 80% of hair salons in Milwaukee, #14 of 16 hair salons in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

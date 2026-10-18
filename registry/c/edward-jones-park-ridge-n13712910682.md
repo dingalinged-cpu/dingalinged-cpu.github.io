@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Park Ridge, IL at 131 North Northwest Hig
 - Website: https://www.edwardjones.com/us-en/financial-advisor/jeffrey-larsen
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.6/100 — Building — top 42% of financial advisors in Chicago, #1 of 2 financial advisors in Park Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 42% of financial advisors in Chicago, #1 of 2 financial advisors in Park Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Alpha Nail Spa is a nail salon in Kennesaw, GA at 1635 Old 41 Highway Northwest 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 09:00-19:00; Su 12:00-18:00
-- Pulse Score: 59.9/100 — Fair — top 33% of nail salons in Atlanta, #7 of 11 nail salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Fair — top 32% of nail salons in Atlanta, #7 of 11 nail salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

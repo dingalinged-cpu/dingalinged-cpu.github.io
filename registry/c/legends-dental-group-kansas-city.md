@@ -13,7 +13,7 @@ Legends Dental Group is a dentist in Kansas City, KS at 10818 Parallel Parkway, 
 - Website: https://www.legendsdentalgroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-16:30; Tu 09:00-18:00; We 08:00-16:00; Th 08:00-15:00; Fr 08:00-14:00; Sa-Su off
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 23% of dentists in Kansas City, MO, #8 of 44 dentists in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 23% of dentists in Kansas City, MO, #8 of 44 dentists in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

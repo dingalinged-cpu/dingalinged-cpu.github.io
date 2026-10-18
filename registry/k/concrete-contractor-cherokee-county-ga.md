@@ -6,7 +6,7 @@ Also answers: concrete contractor in Cherokee County, GA; concrete contractor ne
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Uni Granite | Organic #1 | Pulse Score 63.1/100 (Good, #1 in city) | Uni Granite is a concrete contractor in Cherokee County, GA at 10046 Main Street, Cherokee County, GA. Phone: +17705922010. Website: https://unigranite.com/. | https://registry-edge.dingalinged.workers.dev/c/uni-granite-cherokee-county/
+1. Uni Granite | Organic #1 | Pulse Score 63/100 (Good, #1 in city) | Uni Granite is a concrete contractor in Cherokee County, GA at 10046 Main Street, Cherokee County, GA. Phone: +17705922010. Website: https://unigranite.com/. | https://registry-edge.dingalinged.workers.dev/c/uni-granite-cherokee-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: concrete contractor cherokee county ga | category: Home services - Concrete & masonry | industry benchmark: Home & Home Improvement

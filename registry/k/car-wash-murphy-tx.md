@@ -7,7 +7,7 @@ Also answers: car wash in Murphy, TX; car wash near me (Murphy, TX); best car wa
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Carnation Auto Spa | Organic #1 | Pulse Score 44.3/100 (Unrated, #1 in city) | Carnation Auto Spa is a car wash in Murphy, TX. | https://registry-edge.dingalinged.workers.dev/c/carnation-auto-spa-murphy/
-2. H-E-B Car Wash | Organic #2 | Pulse Score 43.2/100 (Building, #2 in city) | H-E-B Car Wash is a car wash in Murphy, TX. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-murphy/
+2. H-E-B Car Wash | Organic #2 | Pulse Score 43.4/100 (Building, #2 in city) | H-E-B Car Wash is a car wash in Murphy, TX. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-murphy/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash murphy tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

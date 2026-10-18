@@ -13,7 +13,7 @@ Banfield Pet Hospital is a veterinarian in Schererville, IN at 711 Indianapolis 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Building — top 95% of veterinarians in Chicago, #1 of 1 veterinarians in Schererville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 94% of veterinarians in Chicago, #1 of 1 veterinarians in Schererville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

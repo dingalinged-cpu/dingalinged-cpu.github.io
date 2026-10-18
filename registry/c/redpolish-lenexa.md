@@ -13,7 +13,7 @@ redPOLiSH is a nail salon in Lenexa, KS at 19606 West 101st Street, Lenexa, KS 6
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-17:00; Su 11:00-16:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 21% of nail salons in Kansas City, MO, #3 of 5 nail salons in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 21% of nail salons in Kansas City, MO, #3 of 5 nail salons in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

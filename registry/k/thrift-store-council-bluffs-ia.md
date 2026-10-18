@@ -7,7 +7,7 @@ Also answers: thrift store in Council Bluffs, IA; thrift store near me (Council 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Goodwill | Organic #1 | Pulse Score 45.6/100 (Building, #1 in city) | Goodwill is a thrift store in Council Bluffs, IA at 1850 Madison Avenue, Council Bluffs, IA 51503. | https://registry-edge.dingalinged.workers.dev/c/goodwill-council-bluffs/
-2. The Salvation Army | Organic #2 | Pulse Score 45.2/100 (Building, #2 in city) | The Salvation Army is a thrift store in Council Bluffs, IA at 3435 West Broadway, Council Bluffs, IA 51501. | https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-council-bluffs/
+2. The Salvation Army | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | The Salvation Army is a thrift store in Council Bluffs, IA at 3435 West Broadway, Council Bluffs, IA 51501. | https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-council-bluffs/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store council bluffs ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

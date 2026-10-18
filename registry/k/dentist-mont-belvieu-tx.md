@@ -6,8 +6,8 @@ Also answers: dentist in Mont Belvieu, TX; dentist near me (Mont Belvieu, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Knecht Orthodontics | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Knecht Orthodontics is a dentist in Mont Belvieu, TX. | https://registry-edge.dingalinged.workers.dev/c/knecht-orthodontics-mont-belvieu/
-2. Mont Belvieu Dental & Orthodontics | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Mont Belvieu Dental & Orthodontics is a dentist in Mont Belvieu, TX. | https://registry-edge.dingalinged.workers.dev/c/mont-belvieu-dental-and-orthodontics-mont-belvieu/
+1. Knecht Orthodontics | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Knecht Orthodontics is a dentist in Mont Belvieu, TX. | https://registry-edge.dingalinged.workers.dev/c/knecht-orthodontics-mont-belvieu/
+2. Mont Belvieu Dental & Orthodontics | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Mont Belvieu Dental & Orthodontics is a dentist in Mont Belvieu, TX. | https://registry-edge.dingalinged.workers.dev/c/mont-belvieu-dental-and-orthodontics-mont-belvieu/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist mont belvieu tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

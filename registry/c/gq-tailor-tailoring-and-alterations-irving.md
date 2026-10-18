@@ -19,6 +19,6 @@ GQ Tailor | Tailoring & Alterations is a tailor in Irving, TX at 5220 North O'Co
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/gq-tailor-tailoring-and-alterations-irving/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gq-tailor-tailoring-and-alterations-irving.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9708687140 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9708687140 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

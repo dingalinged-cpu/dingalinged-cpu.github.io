@@ -6,7 +6,7 @@ Also answers: family doctor in Parkville, MO; family doctor near me (Parkville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Saint Luke's Primary Care - Parkville | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Saint Luke's Primary Care - Parkville is a family medicine practice in Parkville, MO at 6185 Jefferson Avenue, Parkville, MO 64152. | https://registry-edge.dingalinged.workers.dev/c/saint-lukes-primary-care-parkville-parkville/
+1. Saint Luke's Primary Care - Parkville | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Saint Luke's Primary Care - Parkville is a family medicine practice in Parkville, MO at 6185 Jefferson Avenue, Parkville, MO 64152. | https://registry-edge.dingalinged.workers.dev/c/saint-lukes-primary-care-parkville-parkville/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor parkville mo | category: Health & medical | industry benchmark: Physicians & Surgeons

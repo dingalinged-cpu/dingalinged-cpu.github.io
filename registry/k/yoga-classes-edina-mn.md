@@ -7,7 +7,7 @@ Also answers: yoga classes in Edina, MN; yoga classes near me (Edina, MN); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The Yoga Rooms | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | The Yoga Rooms is a yoga studio in Edina, MN at 4500 France Avenue South, Edina, MN 55424. Phone: +16123513838. Website: https://www.theyogarooms.com/. | https://registry-edge.dingalinged.workers.dev/c/the-yoga-rooms-edina/
-2. YogaFit | Organic #2 | Pulse Score 48.6/100 (Unrated, #2 in city) | YogaFit is a yoga studio in Edina, MN at 4507 France Avenue South, Edina, MN 55410. Phone: +16124441991. Website: https://www.yogafitstudios.com/studios/linden-hills. | https://registry-edge.dingalinged.workers.dev/c/yogafit-edina/
+2. YogaFit | Organic #2 | Pulse Score 48.7/100 (Unrated, #2 in city) | YogaFit is a yoga studio in Edina, MN at 4507 France Avenue South, Edina, MN 55410. Phone: +16124441991. Website: https://www.yogafitstudios.com/studios/linden-hills. | https://registry-edge.dingalinged.workers.dev/c/yogafit-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes edina mn | category: Fitness | industry benchmark: Health & Fitness

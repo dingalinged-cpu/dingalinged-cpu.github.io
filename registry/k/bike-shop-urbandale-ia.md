@@ -6,7 +6,7 @@ Also answers: bike shop in Urbandale, IA; bike shop near me (Urbandale, IA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bike World | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Bike World is a bike shop in Urbandale, IA at 6600 Douglas Avenue, Urbandale, IA 50322. Phone: +15152557047. Website: https://www.bikeworldiowa.com/. | https://registry-edge.dingalinged.workers.dev/c/bike-world-urbandale/
+1. Bike World | Organic #1 | Pulse Score 49/100 (Unrated, #1 in city) | Bike World is a bike shop in Urbandale, IA at 6600 Douglas Avenue, Urbandale, IA 50322. Phone: +15152557047. Website: https://www.bikeworldiowa.com/. | https://registry-edge.dingalinged.workers.dev/c/bike-world-urbandale/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop urbandale ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

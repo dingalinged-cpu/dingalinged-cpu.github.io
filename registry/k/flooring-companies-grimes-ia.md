@@ -6,8 +6,8 @@ Also answers: flooring companies in Grimes, IA; flooring companies near me (Grim
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bertini Marble and Tile | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Bertini Marble and Tile is a flooring company in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/bertini-marble-and-tile-grimes/
-2. Urban Flooring and Design | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Urban Flooring and Design is a flooring company in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/urban-flooring-and-design-grimes/
+1. Bertini Marble and Tile | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Bertini Marble and Tile is a flooring company in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/bertini-marble-and-tile-grimes/
+2. Urban Flooring and Design | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Urban Flooring and Design is a flooring company in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/urban-flooring-and-design-grimes/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies grimes ia | category: Home services - Flooring | industry benchmark: Home & Home Improvement

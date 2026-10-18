@@ -19,6 +19,6 @@ Legacy Arts Tattoo is a tattoo shop in Addison, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/legacy-arts-tattoo-addison/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/legacy-arts-tattoo-addison.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11986824976 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11986824976 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

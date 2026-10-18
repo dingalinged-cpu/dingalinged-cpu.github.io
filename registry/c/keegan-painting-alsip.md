@@ -13,7 +13,7 @@ Keegan Painting is a painting contractor in Alsip, IL at 3842 West 116th Place, 
 - Website: https://keeganpainting.biz/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 25% of painting contractors in Chicago, #1 of 1 painting contractors in Alsip (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 25% of painting contractors in Chicago, #1 of 1 painting contractors in Alsip (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

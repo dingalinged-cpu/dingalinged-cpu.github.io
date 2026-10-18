@@ -13,7 +13,7 @@ Allianz Investment Management is an insurance agent in Golden Valley, MN at 6051
 - Website: https://www.allianzim.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.1/100 — Building — top 69% of insurance agents in Minneapolis–St. Paul, #4 of 4 insurance agents in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.1/100 — Building — top 69% of insurance agents in Minneapolis–St. Paul, #4 of 4 insurance agents in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

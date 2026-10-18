@@ -6,14 +6,14 @@ Also answers: insurance agent in Flower Mound, TX; insurance agent near me (Flow
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southwest Insurance Management Group | Organic #1 | Pulse Score 49.1/100 (Building, #1 in city) | Southwest Insurance Management Group is an insurance agent in Flower Mound, TX. Phone: +19723180900. | https://registry-edge.dingalinged.workers.dev/c/southwest-insurance-management-group-flower-mound/
-2. Allstate | Organic #2 | Pulse Score 49/100 (Building, #2 in city) | Allstate is an insurance agent in Flower Mound, TX at 400 Flower Mound Road #130, Flower Mound, TX. Phone: +19035972447. | https://registry-edge.dingalinged.workers.dev/c/allstate-flower-mound/
-3. WFG National Title Insurance Company | Organic #3 | Pulse Score 46.5/100 (Building, #3 in city) | WFG National Title Insurance Company is an insurance agent in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/wfg-national-title-insurance-company-flower-mound/
-4. Nationwide | Organic #4 | Pulse Score 46.1/100 (Building, #4 in city) | Nationwide is an insurance agent in Flower Mound, TX at 2624 Long Prairie Road #100, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/nationwide-flower-mound-n13836358046/
-5. State Farm | Organic #5 | Pulse Score 44.6/100 (Building, #5 in city) | State Farm is an insurance agent in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/state-farm-flower-mound/
-6. Geico | Organic #6 | Pulse Score 42.8/100 (Unrated, #6 in city) | Geico is an insurance agent in Flower Mound, TX at 4630 Long Prairie Rd, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/geico-flower-mound/
-7. AAA Insurance | Organic #7 | Pulse Score 42.5/100 (Building, #7 in city) | AAA Insurance is an insurance agent in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/aaa-insurance-flower-mound/
-8. Nationwide | Organic #8 | Pulse Score 41.9/100 (Building, #8 in city) | Nationwide is an insurance agent in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/nationwide-flower-mound/
+1. Southwest Insurance Management Group | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | Southwest Insurance Management Group is an insurance agent in Flower Mound, TX. Phone: +19723180900. | https://registry-edge.dingalinged.workers.dev/c/southwest-insurance-management-group-flower-mound/
+2. Allstate | Organic #2 | Pulse Score 48.7/100 (Building, #2 in city) | Allstate is an insurance agent in Flower Mound, TX at 400 Flower Mound Road #130, Flower Mound, TX. Phone: +19035972447. | https://registry-edge.dingalinged.workers.dev/c/allstate-flower-mound/
+3. AAA Insurance | Organic #3 | Pulse Score 47.7/100 (Building, #3 in city) | AAA Insurance is an insurance agent in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/aaa-insurance-flower-mound/
+4. WFG National Title Insurance Company | Organic #4 | Pulse Score 46.4/100 (Building, #4 in city) | WFG National Title Insurance Company is an insurance agent in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/wfg-national-title-insurance-company-flower-mound/
+5. Nationwide | Organic #5 | Pulse Score 45.7/100 (Building, #5 in city) | Nationwide is an insurance agent in Flower Mound, TX at 2624 Long Prairie Road #100, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/nationwide-flower-mound-n13836358046/
+6. State Farm | Organic #6 | Pulse Score 44.6/100 (Building, #6 in city) | State Farm is an insurance agent in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/state-farm-flower-mound/
+7. Geico | Organic #7 | Pulse Score 42.6/100 (Unrated, #7 in city) | Geico is an insurance agent in Flower Mound, TX at 4630 Long Prairie Rd, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/geico-flower-mound/
+8. Nationwide | Organic #8 | Pulse Score 41.8/100 (Building, #8 in city) | Nationwide is an insurance agent in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/nationwide-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent flower mound tx | category: Professional & financial services | industry benchmark: Finance & Insurance

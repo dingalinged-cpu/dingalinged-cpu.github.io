@@ -19,6 +19,6 @@ Club Pilates is a pilates studio in Keller, TX at 242 Rufe Snow Drive #160, Kell
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/club-pilates-keller/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/club-pilates-keller.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10013657695 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10013657695 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

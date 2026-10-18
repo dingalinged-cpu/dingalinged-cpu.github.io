@@ -19,6 +19,6 @@ Tintn is an auto repair shop in League City, TX at 2809 Calder Drive #100, Leagu
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/tintn-league-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tintn-league-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13595571139 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13595571139 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

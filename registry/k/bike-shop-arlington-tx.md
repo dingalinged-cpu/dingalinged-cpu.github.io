@@ -6,7 +6,7 @@ Also answers: bike shop in Arlington, TX; bike shop near me (Arlington, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. UTA Bike Barn | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | UTA Bike Barn is a bike shop in Arlington, TX at 1100 South Pecan Street, Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/uta-bike-barn-arlington/
+1. UTA Bike Barn | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | UTA Bike Barn is a bike shop in Arlington, TX at 1100 South Pecan Street, Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/uta-bike-barn-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop arlington tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

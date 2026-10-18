@@ -6,7 +6,7 @@ Also answers: bakery in Stafford, TX; bakery near me (Stafford, TX); best bakery
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southern Maid Donuts | Organic #1 | Pulse Score 42/100 (Unrated, #1 in city) | Southern Maid Donuts is a bakery in Stafford, TX. | https://registry-edge.dingalinged.workers.dev/c/southern-maid-donuts-stafford/
+1. Southern Maid Donuts | Organic #1 | Pulse Score 42.1/100 (Unrated, #1 in city) | Southern Maid Donuts is a bakery in Stafford, TX. | https://registry-edge.dingalinged.workers.dev/c/southern-maid-donuts-stafford/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery stafford tx | category: Events & weddings | industry benchmark: Personal Services

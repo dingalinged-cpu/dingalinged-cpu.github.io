@@ -13,7 +13,7 @@ Paulina Esthetics Boutique is a waxing salon in Wauwatosa, WI at 7601 Harwood Av
 - Website: https://paulinaestheticsboutique.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th 10:00-20:00; We,Fr 10:00-18:00; Sa 09:00-16:00, Su,Mo off
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 20% of waxing salons in Milwaukee, #1 of 2 waxing salons in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 20% of waxing salons in Milwaukee, #1 of 2 waxing salons in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

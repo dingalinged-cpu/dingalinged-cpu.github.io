@@ -13,7 +13,7 @@ Storage Mart is a self-storage facility in Olathe, KS at 15282 West 134th Place,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 09:30-15:30
-- Pulse Score: 46.7/100 — Unrated (not enough evidence yet) — top 61% of self-storage facilitys in Kansas City, MO, #6 of 6 self-storage facilitys in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Unrated (not enough evidence yet) — top 64% of self-storage facilitys in Kansas City, MO, #6 of 6 self-storage facilitys in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

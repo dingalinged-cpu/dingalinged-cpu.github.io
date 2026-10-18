@@ -19,6 +19,6 @@ Lee Cleaners is a dry cleaner in Denton, TX at 1618 West University Drive, Dento
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/lee-cleaners-denton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lee-cleaners-denton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9412662517 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9412662517 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

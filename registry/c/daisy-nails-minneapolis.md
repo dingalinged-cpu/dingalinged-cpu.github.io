@@ -13,7 +13,7 @@ Daisy Nails is a nail salon in Minneapolis, MN at 2544 Hennepin Avenue South, Mi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 09:30-19:00; Su 11:00-18:00; PH closed
-- Pulse Score: 48.4/100 — Building — top 78% of nail salons in Minneapolis–St. Paul, #23 of 24 nail salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 76% of nail salons in Minneapolis–St. Paul, #22 of 24 nail salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

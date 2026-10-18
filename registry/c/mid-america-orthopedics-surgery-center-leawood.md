@@ -13,7 +13,7 @@ Mid-America Orthopedics Surgery Center is an orthopedic surgeon in Leawood, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:30
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 75% of orthopedic surgeons in Kansas City, MO, #1 of 1 orthopedic surgeons in Leawood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 75% of orthopedic surgeons in Kansas City, MO, #1 of 1 orthopedic surgeons in Leawood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

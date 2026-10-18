@@ -6,7 +6,7 @@ Also answers: martial arts in Shawnee, KS; martial arts near me (Shawnee, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Integrity Martial Arts | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Integrity Martial Arts is a martial arts school in Shawnee, KS at 15810 Shawnee Mission Parkway #G, Shawnee, KS 66217. Phone: +19139625425. Website: https://integritymartialartsofshawneeks.com/. | https://registry-edge.dingalinged.workers.dev/c/integrity-martial-arts-shawnee/
+1. Integrity Martial Arts | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Integrity Martial Arts is a martial arts school in Shawnee, KS at 15810 Shawnee Mission Parkway #G, Shawnee, KS 66217. Phone: +19139625425. Website: https://integritymartialartsofshawneeks.com/. | https://registry-edge.dingalinged.workers.dev/c/integrity-martial-arts-shawnee/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts shawnee ks | category: Fitness | industry benchmark: Health & Fitness

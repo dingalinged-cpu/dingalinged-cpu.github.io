@@ -13,7 +13,7 @@ Ulta Beauty is a skin care studio in Gretna, NE at 21417 Nebraska Crossing Drive
 - Website: https://www.ulta.com/stores/gretna-ne-1270
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 45.1/100 — Building — top 100% of skin care studios in Omaha, NE, #1 of 1 skin care studios in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Building — top 100% of skin care studios in Omaha, NE, #1 of 1 skin care studios in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

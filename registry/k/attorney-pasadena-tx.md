@@ -6,7 +6,7 @@ Also answers: attorney in Pasadena, TX; attorney near me (Pasadena, TX); best at
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ghuneim Law Firm | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Ghuneim Law Firm is a lawyer in Pasadena, TX at 3115 Preston Road, Pasadena, TX. Phone: +12814878929. | https://registry-edge.dingalinged.workers.dev/c/ghuneim-law-firm-pasadena/
+1. Ghuneim Law Firm | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Ghuneim Law Firm is a lawyer in Pasadena, TX at 3115 Preston Road, Pasadena, TX. Phone: +12814878929. | https://registry-edge.dingalinged.workers.dev/c/ghuneim-law-firm-pasadena/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney pasadena tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

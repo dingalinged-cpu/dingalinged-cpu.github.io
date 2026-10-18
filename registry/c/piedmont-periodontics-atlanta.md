@@ -13,7 +13,7 @@ Piedmont Periodontics is a dentist in Atlanta, GA at 222 12th Street Northeast #
 - Website: https://piedmontperiodontics.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Sa-Su off; Tu-Fr 08:00-17:00
-- Pulse Score: 62.6/100 — Good — top 13% of dentists in Atlanta, #6 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 12% of dentists in Atlanta, #5 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

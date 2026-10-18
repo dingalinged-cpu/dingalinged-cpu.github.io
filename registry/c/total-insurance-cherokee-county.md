@@ -13,7 +13,7 @@ Total Insurance is an insurance agent in Cherokee County, GA at 5554 Bells Ferry
 - Website: https://www.totalinsuranceusa.com/
 - Email: info@totalinsuranceus.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:30; Su off
-- Pulse Score: 64.1/100 — Good — top 1% of insurance agents in Atlanta, #1 of 1 insurance agents in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 1% of insurance agents in Atlanta, #1 of 1 insurance agents in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

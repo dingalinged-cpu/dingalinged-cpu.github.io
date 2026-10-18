@@ -13,7 +13,7 @@ Lisu L. Tan & CO CPAs is an accountant in Naperville, IL at 1112 East Ogden Aven
 - Website: https://www.lisutancpas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Good — top 19% of accountants in Chicago, #2 of 5 accountants in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Good — top 19% of accountants in Chicago, #2 of 5 accountants in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

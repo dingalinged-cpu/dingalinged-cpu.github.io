@@ -13,7 +13,7 @@ Lily Forest Designs is a florist in Madison, WI at 1252 Williamson Street, Madis
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Fr 10:00-17:00 || "by appointment"
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 7% of florists in Madison, #1 of 9 florists in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 7% of florists in Madison, #1 of 9 florists in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

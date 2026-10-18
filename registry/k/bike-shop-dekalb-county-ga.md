@@ -6,7 +6,7 @@ Also answers: bike shop in Dekalb County, GA; bike shop near me (Dekalb County, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Peachtree Bikes | Organic #1 | Pulse Score 63/100 (Good, #1 in city) | Peachtree Bikes is a bike shop in DeKalb County, GA at 2074 North Decatur Road, DeKalb County, GA. Phone: +14045952345. Website: https://peachtreebikes.com/. | https://registry-edge.dingalinged.workers.dev/c/peachtree-bikes-dekalb-county/
+1. Peachtree Bikes | Organic #1 | Pulse Score 62.9/100 (Good, #1 in city) | Peachtree Bikes is a bike shop in DeKalb County, GA at 2074 North Decatur Road, DeKalb County, GA. Phone: +14045952345. Website: https://peachtreebikes.com/. | https://registry-edge.dingalinged.workers.dev/c/peachtree-bikes-dekalb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop dekalb county ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

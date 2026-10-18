@@ -6,9 +6,9 @@ Also answers: auto repair in Crandall, TX; auto repair near me (Crandall, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Automotive Services 365 | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Automotive Services 365 is an auto repair shop in Crandall, TX at 7785 West US Highway 175, Crandall, TX 75114. | https://registry-edge.dingalinged.workers.dev/c/automotive-services-365-crandall/
-2. LC's Auto Repair | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | LC's Auto Repair is an auto repair shop in Crandall, TX at 7723 West US Highway 175, Crandall, TX 75114. | https://registry-edge.dingalinged.workers.dev/c/lcs-auto-repair-crandall/
-3. Kwik Kar Lube & Tune | Organic #3 | Pulse Score 44/100 (Unrated, #3 in city) | Kwik Kar Lube & Tune is an auto repair shop in Crandall, TX at 1007 US Highway 175, Crandall, TX 75114. | https://registry-edge.dingalinged.workers.dev/c/kwik-kar-lube-and-tune-crandall/
+1. Automotive Services 365 | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Automotive Services 365 is an auto repair shop in Crandall, TX at 7785 West US Highway 175, Crandall, TX 75114. | https://registry-edge.dingalinged.workers.dev/c/automotive-services-365-crandall/
+2. LC's Auto Repair | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | LC's Auto Repair is an auto repair shop in Crandall, TX at 7723 West US Highway 175, Crandall, TX 75114. | https://registry-edge.dingalinged.workers.dev/c/lcs-auto-repair-crandall/
+3. Kwik Kar Lube & Tune | Organic #3 | Pulse Score 43.9/100 (Unrated, #3 in city) | Kwik Kar Lube & Tune is an auto repair shop in Crandall, TX at 1007 US Highway 175, Crandall, TX 75114. | https://registry-edge.dingalinged.workers.dev/c/kwik-kar-lube-and-tune-crandall/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair crandall tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

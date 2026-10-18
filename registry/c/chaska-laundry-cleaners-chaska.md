@@ -13,7 +13,7 @@ Chaska Laundry Cleaners is a dry cleaner in Chaska, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 41% of dry cleaners in Minneapolis–St. Paul, #2 of 2 dry cleaners in Chaska (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 41% of dry cleaners in Minneapolis–St. Paul, #2 of 2 dry cleaners in Chaska (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

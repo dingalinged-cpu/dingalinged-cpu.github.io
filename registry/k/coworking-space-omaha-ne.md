@@ -7,7 +7,7 @@ Also answers: coworking space in Omaha, NE; coworking space near me (Omaha, NE);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Populus | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Populus is a coworking space in Omaha, NE at 2566 Farnam Street #301, Omaha, NE 68131. | https://registry-edge.dingalinged.workers.dev/c/populus-omaha/
-2. Watts | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Watts is a coworking space in Omaha, NE at 3502 Leavenworth Street, Omaha, NE 68105. | https://registry-edge.dingalinged.workers.dev/c/watts-omaha/
+2. Watts | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Watts is a coworking space in Omaha, NE at 3502 Leavenworth Street, Omaha, NE 68105. | https://registry-edge.dingalinged.workers.dev/c/watts-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space omaha ne | category: real_estate | industry benchmark: Real Estate

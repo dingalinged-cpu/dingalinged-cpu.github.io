@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Mckinney, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
- "keywords": 76,
+ "keywords": 81,
  "lists": {
   "by_volume": [
    {
@@ -20,7 +20,7 @@
     "search_value_index_usd": 550000,
     "equivalent_google_ads_cost_month_usd": 32000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 9,
+    "registry_competitors": 10,
     "ranked_by": "by_volume"
    },
    {
@@ -50,7 +50,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 16,
+    "registry_competitors": 17,
     "ranked_by": "by_volume"
    },
    {
@@ -80,7 +80,7 @@
     "search_value_index_usd": 75000,
     "equivalent_google_ads_cost_month_usd": 5400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 19,
+    "registry_competitors": 21,
     "ranked_by": "by_volume"
    },
    {
@@ -95,7 +95,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 2,
+    "registry_competitors": 4,
     "ranked_by": "by_volume"
    },
    {
@@ -125,7 +125,7 @@
     "search_value_index_usd": 15000,
     "equivalent_google_ads_cost_month_usd": 870,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 12,
+    "registry_competitors": 14,
     "ranked_by": "by_volume"
    },
    {
@@ -155,7 +155,7 @@
     "search_value_index_usd": 74000,
     "equivalent_google_ads_cost_month_usd": 4100,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 24,
+    "registry_competitors": 25,
     "ranked_by": "by_volume"
    },
    {
@@ -185,7 +185,7 @@
     "search_value_index_usd": 57000,
     "equivalent_google_ads_cost_month_usd": 3700,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 11,
+    "registry_competitors": 13,
     "ranked_by": "by_volume"
    },
    {
@@ -230,7 +230,7 @@
     "search_value_index_usd": 33000,
     "equivalent_google_ads_cost_month_usd": 1800,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 24,
+    "registry_competitors": 25,
     "ranked_by": "by_volume"
    }
   ],
@@ -251,6 +251,18 @@
     "ranked_by": "by_cpc"
    },
    {
+    "keyword": "plumbing services mckinney tx",
+    "slug": "plumbing-services-mckinney-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-mckinney-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 13.9,
+    "cpc_median_usd": 10.49,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "electrician mckinney tx",
     "slug": "electrician-mckinney-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-mckinney-tx/",
@@ -261,6 +273,18 @@
     "cpc_median_usd": 12.18,
     "search_value_index_usd": 74000,
     "equivalent_google_ads_cost_month_usd": 4700,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "plumber mckinney tx",
+    "slug": "plumber-mckinney-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-mckinney-tx/",
+    "us_monthly_searches": 823000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.04,
+    "cpc_median_usd": 10.49,
     "featured_spot_min_usd": 100,
     "registry_competitors": 1,
     "ranked_by": "by_cpc"
@@ -326,6 +350,18 @@
     "ranked_by": "by_cpc"
    },
    {
+    "keyword": "driveway paving mckinney tx",
+    "slug": "driveway-paving-mckinney-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driveway-paving-mckinney-tx/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "flooring companies mckinney tx",
     "slug": "flooring-companies-mckinney-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-mckinney-tx/",
@@ -371,6 +407,18 @@
     "ranked_by": "by_cpc"
    },
    {
+    "keyword": "plumbers mckinney tx",
+    "slug": "plumbers-mckinney-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-mckinney-tx/",
+    "us_monthly_searches": 3600,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "storage units mckinney tx",
     "slug": "storage-units-mckinney-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-mckinney-tx/",
@@ -397,67 +445,7 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 3000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 6,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "event venues mckinney tx",
-    "slug": "event-venues-mckinney-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-mckinney-tx/",
-    "us_monthly_searches": 220000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 5500,
-    "cpc_basis_usd": 7.17,
-    "cpc_median_usd": 7.17,
-    "search_value_index_usd": 39000,
-    "equivalent_google_ads_cost_month_usd": 3000,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "florist mckinney tx",
-    "slug": "florist-mckinney-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-mckinney-tx/",
-    "us_monthly_searches": 220000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 5500,
-    "cpc_basis_usd": 7.17,
-    "cpc_median_usd": 7.17,
-    "search_value_index_usd": 39000,
-    "equivalent_google_ads_cost_month_usd": 3000,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "dance studio mckinney tx",
-    "slug": "dance-studio-mckinney-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-mckinney-tx/",
-    "us_monthly_searches": 40000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 990,
-    "cpc_basis_usd": 6.17,
-    "cpc_median_usd": 6.17,
-    "search_value_index_usd": 6100,
-    "equivalent_google_ads_cost_month_usd": 440,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 3,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "martial arts mckinney tx",
-    "slug": "martial-arts-mckinney-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-mckinney-tx/",
-    "us_monthly_searches": 300000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 7400,
-    "cpc_basis_usd": 6.17,
-    "cpc_median_usd": 6.17,
-    "search_value_index_usd": 46000,
-    "equivalent_google_ads_cost_month_usd": 3300,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 5,
+    "registry_competitors": 7,
     "ranked_by": "by_cpc"
    }
   ],
@@ -474,7 +462,7 @@
     "search_value_index_usd": 550000,
     "equivalent_google_ads_cost_month_usd": 32000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 9,
+    "registry_competitors": 10,
     "ranked_by": "by_value"
    },
    {
@@ -519,7 +507,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 16,
+    "registry_competitors": 17,
     "ranked_by": "by_value"
    },
    {
@@ -534,7 +522,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 2,
+    "registry_competitors": 4,
     "ranked_by": "by_value"
    },
    {
@@ -549,7 +537,7 @@
     "search_value_index_usd": 75000,
     "equivalent_google_ads_cost_month_usd": 5400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 19,
+    "registry_competitors": 21,
     "ranked_by": "by_value"
    },
    {
@@ -579,7 +567,7 @@
     "search_value_index_usd": 74000,
     "equivalent_google_ads_cost_month_usd": 4100,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 24,
+    "registry_competitors": 25,
     "ranked_by": "by_value"
    },
    {
@@ -609,7 +597,7 @@
     "search_value_index_usd": 57000,
     "equivalent_google_ads_cost_month_usd": 3700,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 11,
+    "registry_competitors": 13,
     "ranked_by": "by_value"
    },
    {

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Amstill Roofing | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | Amstill Roofing is a roofer in Houston, TX at 14125 Memorial Drive, Houston, TX 77079. Phone: +12816128747. Website: https://amstillroofing.com/houston-roofing. | https://registry-edge.dingalinged.workers.dev/c/amstill-roofing-houston/
 2. TrueWorks Roofing | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | TrueWorks Roofing is a roofer in Houston, TX at 8566 Katy Fwy #Suite 122, Houston, TX 77024. Phone: +17139037663. Website: https://www.trueworksroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/trueworks-roofing-houston/
-3. New Image Roofing | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | New Image Roofing is a roofer in Houston, TX at 2450 Louisiana Street #400, Houston, TX 77006. Phone: +18324217474. Website: https://www.newimageroofing.net/. | https://registry-edge.dingalinged.workers.dev/c/new-image-roofing-houston/
+3. New Image Roofing | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | New Image Roofing is a roofer in Houston, TX at 2450 Louisiana Street #400, Houston, TX 77006. Phone: +18324217474. Website: https://www.newimageroofing.net/. | https://registry-edge.dingalinged.workers.dev/c/new-image-roofing-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer houston tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

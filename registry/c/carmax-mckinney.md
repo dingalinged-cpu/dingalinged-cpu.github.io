@@ -19,6 +19,6 @@ CarMax is an used car dealer in McKinney, TX. Website: https://www.carmax.com/st
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/carmax-mckinney/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/carmax-mckinney.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6285204225 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6285204225 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

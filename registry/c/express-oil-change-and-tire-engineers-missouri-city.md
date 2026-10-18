@@ -19,6 +19,6 @@ Express Oil Change & Tire Engineers is a tire shop in Missouri City, TX at 3801 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/express-oil-change-and-tire-engineers-missouri-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/express-oil-change-and-tire-engineers-missouri-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5649897850 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5649897850 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

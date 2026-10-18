@@ -6,7 +6,7 @@ Also answers: realtor in Roanoke, TX; realtor near me (Roanoke, TX); best realto
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Independence Title | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Independence Title is a real estate agency in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/independence-title-roanoke/
+1. Independence Title | Organic #1 | Pulse Score 41.3/100 (Unrated, #1 in city) | Independence Title is a real estate agency in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/independence-title-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor roanoke tx | category: real_estate | industry benchmark: Real Estate

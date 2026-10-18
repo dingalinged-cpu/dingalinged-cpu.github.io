@@ -13,7 +13,7 @@ Myndful Teaching CC Services is a preschool in Milwaukee, WI. Phone: +1414687965
 - Website: n/a
 - Email: blclde08@gmail.com
 - Opening hours (OSM syntax): 06:00-23:00
-- Pulse Score: 61.2/100 — Good — top 22% of preschools in Milwaukee, #6 of 19 preschools in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Good — top 22% of preschools in Milwaukee, #6 of 19 preschools in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

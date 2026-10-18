@@ -13,7 +13,7 @@ Compass Insurance Group is an insurance agent in Mount Pleasant, WI at 6021 Dura
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 20% of insurance agents in Milwaukee, #2 of 6 insurance agents in Mount Pleasant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 20% of insurance agents in Milwaukee, #2 of 6 insurance agents in Mount Pleasant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

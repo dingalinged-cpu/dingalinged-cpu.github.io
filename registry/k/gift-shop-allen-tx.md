@@ -6,7 +6,7 @@ Also answers: gift shop in Allen, TX; gift shop near me (Allen, TX); best gift s
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spencer's | Organic #1 | Pulse Score 44.1/100 (Building, #1 in city) | Spencer's is a gift shop in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/spencers-allen/
+1. Spencer's | Organic #1 | Pulse Score 44/100 (Building, #1 in city) | Spencer's is a gift shop in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/spencers-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop allen tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

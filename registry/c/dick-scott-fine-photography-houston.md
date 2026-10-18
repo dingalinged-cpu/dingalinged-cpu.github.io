@@ -19,6 +19,6 @@ Dick Scott Fine Photography is a photographer in Houston, TX at 861 Wakefield Dr
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/dick-scott-fine-photography-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dick-scott-fine-photography-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/8178061111 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8178061111 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

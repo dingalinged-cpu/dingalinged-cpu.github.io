@@ -13,7 +13,7 @@ Trailside Estates is a property management company in Waterford, WI at 648 East 
 - Website: https://trailsideestates.com/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 72% of property management companys in Milwaukee, #3 of 3 property management companys in Waterford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 72% of property management companys in Milwaukee, #3 of 3 property management companys in Waterford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

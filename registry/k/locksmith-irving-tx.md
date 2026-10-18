@@ -6,7 +6,7 @@ Also answers: locksmith in Irving, TX; locksmith near me (Irving, TX); best lock
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Locksmith Irving TX | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Locksmith Irving TX is a locksmith in Irving, TX at 136 East Irving Boulevard, Irving, TX 75060. Phone: +14697060800. Website: https://www.irvinglocksmithtx.com/. | https://registry-edge.dingalinged.workers.dev/c/locksmith-irving-tx-irving/
+1. Locksmith Irving TX | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Locksmith Irving TX is a locksmith in Irving, TX at 136 East Irving Boulevard, Irving, TX 75060. Phone: +14697060800. Website: https://www.irvinglocksmithtx.com/. | https://registry-edge.dingalinged.workers.dev/c/locksmith-irving-tx-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith irving tx | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

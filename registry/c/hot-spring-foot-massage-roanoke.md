@@ -19,6 +19,6 @@ Hot Spring Foot Massage is a massage studio in Roanoke, TX at 1224 North US High
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/hot-spring-foot-massage-roanoke/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hot-spring-foot-massage-roanoke.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12877739926 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12877739926 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

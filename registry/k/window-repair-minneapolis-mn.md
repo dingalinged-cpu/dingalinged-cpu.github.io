@@ -6,8 +6,8 @@ Also answers: window repair in Minneapolis, MN; window repair near me (Minneapol
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Art Glass Swenson | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Art Glass Swenson is a window repair service in Minneapolis, MN at 4328 Bryant Avenue South, Minneapolis, MN 55409. Phone: +16128241565. | https://registry-edge.dingalinged.workers.dev/c/art-glass-swenson-minneapolis/
-2. GlassArt Design | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | GlassArt Design is a window repair service in Minneapolis, MN at 427 10th Avenue North, Minneapolis, MN 55401. Website: https://www.glassartdesign.com/. | https://registry-edge.dingalinged.workers.dev/c/glassart-design-minneapolis/
+1. Art Glass Swenson | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Art Glass Swenson is a window repair service in Minneapolis, MN at 4328 Bryant Avenue South, Minneapolis, MN 55409. Phone: +16128241565. | https://registry-edge.dingalinged.workers.dev/c/art-glass-swenson-minneapolis/
+2. GlassArt Design | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | GlassArt Design is a window repair service in Minneapolis, MN at 427 10th Avenue North, Minneapolis, MN 55401. Website: https://www.glassartdesign.com/. | https://registry-edge.dingalinged.workers.dev/c/glassart-design-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair minneapolis mn | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

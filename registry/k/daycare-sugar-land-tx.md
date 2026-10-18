@@ -6,7 +6,7 @@ Also answers: daycare in Sugar Land, TX; daycare near me (Sugar Land, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Creative Minds Child Development Center | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Creative Minds Child Development Center is a daycare in Sugar Land, TX at 9920 Highway 90A, Sugar Land, TX 77478. Phone: +12813136463. Website: https://www.creativemindscdc.com/. | https://registry-edge.dingalinged.workers.dev/c/creative-minds-child-development-center-sugar-land/
+1. Creative Minds Child Development Center | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Creative Minds Child Development Center is a daycare in Sugar Land, TX at 9920 Highway 90A, Sugar Land, TX 77478. Phone: +12813136463. Website: https://www.creativemindscdc.com/. | https://registry-edge.dingalinged.workers.dev/c/creative-minds-child-development-center-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare sugar land tx | category: Education & childcare | industry benchmark: Education & Instruction

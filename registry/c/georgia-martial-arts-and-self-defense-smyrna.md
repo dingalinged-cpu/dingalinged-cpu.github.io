@@ -13,7 +13,7 @@ Georgia Martial Arts & Self Defense is a martial arts school in Smyrna, GA at 25
 - Website: https://gamasd.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 18:00-20:00; Tu, Th 17:30-20:30; We 18:30-20:30; Sa 09:30-13:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 30% of martial arts schools in Atlanta, #1 of 2 martial arts schools in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 30% of martial arts schools in Atlanta, #1 of 2 martial arts schools in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

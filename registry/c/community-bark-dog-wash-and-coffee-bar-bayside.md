@@ -13,7 +13,7 @@ Community Bark Dog Wash & Coffee Bar is a pet store in Bayside, WI. Phone: +1414
 - Website: https://communitybark.net/
 - Email: bayside@communitybark.net
 - Opening hours (OSM syntax): Mo-Su 08:00-18:00
-- Pulse Score: 61.2/100 — Good — top 9% of pet stores in Milwaukee, #1 of 1 pet stores in Bayside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Good — top 9% of pet stores in Milwaukee, #1 of 1 pet stores in Bayside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

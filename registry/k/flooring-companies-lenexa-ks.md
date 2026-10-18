@@ -6,8 +6,8 @@ Also answers: flooring companies in Lenexa, KS; flooring companies near me (Lene
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Redi Carpet | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Redi Carpet is a flooring company in Lenexa, KS at 9860 Britton Street, Lenexa, KS 66219. Phone: +19132755750. Website: https://redicarpet.com/. | https://registry-edge.dingalinged.workers.dev/c/redi-carpet-lenexa/
-2. Star Flooring | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | Star Flooring is a flooring company in Lenexa, KS at 7540 Quivira Road, Lenexa, KS 66216. Phone: +18169341016. | https://registry-edge.dingalinged.workers.dev/c/star-flooring-lenexa/
+1. Redi Carpet | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Redi Carpet is a flooring company in Lenexa, KS at 9860 Britton Street, Lenexa, KS 66219. Phone: +19132755750. Website: https://redicarpet.com/. | https://registry-edge.dingalinged.workers.dev/c/redi-carpet-lenexa/
+2. Star Flooring | Organic #2 | Pulse Score 58.7/100 (Unrated, #2 in city) | Star Flooring is a flooring company in Lenexa, KS at 7540 Quivira Road, Lenexa, KS 66216. Phone: +18169341016. | https://registry-edge.dingalinged.workers.dev/c/star-flooring-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies lenexa ks | category: Home services - Flooring | industry benchmark: Home & Home Improvement

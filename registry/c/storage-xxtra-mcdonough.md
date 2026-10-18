@@ -13,7 +13,7 @@ Storage Xxtra is a self-storage facility in McDonough, GA at 6 Farris Drive, McD
 - Website: n/a
 - Email: Hwy155@storagexxtra.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00, Sa 09:00-16:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 7% of self-storage facilitys in Atlanta, #1 of 3 self-storage facilitys in McDonough (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 6% of self-storage facilitys in Atlanta, #1 of 3 self-storage facilitys in McDonough (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

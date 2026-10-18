@@ -6,10 +6,10 @@ Also answers: hair salon in Forney, TX; hair salon near me (Forney, TX); best ha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Divine Salon | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Divine Salon is a hair salon in Forney, TX at 320 West Buffalo Street, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/divine-salon-forney/
-2. Dodd Barber Shop | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Dodd Barber Shop is a hair salon in Forney, TX at 425 Pinson Road #H, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/dodd-barber-shop-forney/
-3. Forney Salon Suites | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Forney Salon Suites is a hair salon in Forney, TX at 724 East US Highway 80, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/forney-salon-suites-forney/
-4. Lara's Hair Salon | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Lara's Hair Salon is a hair salon in Forney, TX at 1102 Ranch Road #200, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/laras-hair-salon-forney/
+1. Divine Salon | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Divine Salon is a hair salon in Forney, TX at 320 West Buffalo Street, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/divine-salon-forney/
+2. Dodd Barber Shop | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Dodd Barber Shop is a hair salon in Forney, TX at 425 Pinson Road #H, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/dodd-barber-shop-forney/
+3. Forney Salon Suites | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Forney Salon Suites is a hair salon in Forney, TX at 724 East US Highway 80, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/forney-salon-suites-forney/
+4. Lara's Hair Salon | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Lara's Hair Salon is a hair salon in Forney, TX at 1102 Ranch Road #200, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/laras-hair-salon-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon forney tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Apple Roofing is a roofer in Gretna, NE at 14218 South 220th Street, Gretna, NE 
 - Website: https://appleroof.com/omaha/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 45.3/100 — Unrated (not enough evidence yet) — top 100% of roofers in Omaha, NE, #1 of 1 roofers in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.4/100 — Unrated (not enough evidence yet) — top 100% of roofers in Omaha, NE, #1 of 1 roofers in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

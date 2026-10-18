@@ -13,7 +13,7 @@ Chick-fil-A is a caterer in Marietta, GA at 2661 Windy Hill Road Southeast, Mari
 - Website: https://www.chick-fil-a.com/locations/ga/windy-hill-road
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-22:00; Sa 06:30-22:00; Su off
-- Pulse Score: 50.3/100 — Fair — top 86% of caterers in Atlanta, #4 of 5 caterers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 86% of caterers in Atlanta, #4 of 5 caterers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,16 +6,16 @@ Also answers: jewelry store in Allen, TX; jewelry store near me (Allen, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allen Village Jewelers | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Allen Village Jewelers is a jewelry store in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/allen-village-jewelers-allen/
-2. Starbucks | Organic #2 | Pulse Score 49.4/100 (Building, #2 in city) | Starbucks is a jewelry store in Allen, TX at 985 West Bethany Drive, Allen, TX 75013. Phone: +19729083830. Website: https://www.starbucks.com/store-locator/store/1014884/market-street-allen-563-985-w-bethany-dr-allen-tx-75013-us. | https://registry-edge.dingalinged.workers.dev/c/starbucks-allen/
-3. James Avery Jewelry | Organic #3 | Pulse Score 48.1/100 (Building, #3 in city) | James Avery Jewelry is a jewelry store in Allen, TX at 190 E Stacy Road Ste 510, Allen, TX 75002. Phone: +19726784700. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=701. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-allen/
-4. Precious Jewelry Outlet | Organic #4 | Pulse Score 45.7/100 (Unrated, #4 in city) | Precious Jewelry Outlet is a jewelry store in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/precious-jewelry-outlet-allen/
-5. Pandora | Organic #5 | Pulse Score 45.3/100 (Building, #5 in city) | Pandora is a jewelry store in Allen, TX at 887 Watters Creek Boulevard, Allen, TX 75013. | https://registry-edge.dingalinged.workers.dev/c/pandora-allen/
-6. Kay Jewelers | Organic #6 | Pulse Score 43.5/100 (Building, #6 in city) | Kay Jewelers is a jewelry store in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-allen/
-7. Precious Jewelry Outlet | Organic #7 | Pulse Score 42.9/100 (Unrated, #7 in city) | Precious Jewelry Outlet is a jewelry store in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/precious-jewelry-outlet-allen-n9211002921/
-8. Zales | Organic #8 | Pulse Score 42.7/100 (Building, #8 in city) | Zales is a jewelry store in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/zales-allen/
-9. Swarovski | Organic #9 | Pulse Score 42.3/100 (Building, #9 in city) | Swarovski is a jewelry store in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/swarovski-allen/
-10. Kendra Scott | Organic #10 | Pulse Score 41.8/100 (Unrated, #10 in city) | Kendra Scott is a jewelry store in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/kendra-scott-allen/
+1. Allen Village Jewelers | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Allen Village Jewelers is a jewelry store in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/allen-village-jewelers-allen/
+2. Starbucks | Organic #2 | Pulse Score 49.3/100 (Building, #2 in city) | Starbucks is a jewelry store in Allen, TX at 985 West Bethany Drive, Allen, TX 75013. Phone: +19729083830. Website: https://www.starbucks.com/store-locator/store/1014884/market-street-allen-563-985-w-bethany-dr-allen-tx-75013-us. | https://registry-edge.dingalinged.workers.dev/c/starbucks-allen/
+3. James Avery Jewelry | Organic #3 | Pulse Score 47.9/100 (Building, #3 in city) | James Avery Jewelry is a jewelry store in Allen, TX at 190 E Stacy Road Ste 510, Allen, TX 75002. Phone: +19726784700. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=701. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-allen/
+4. Pandora | Organic #4 | Pulse Score 45/100 (Building, #4 in city) | Pandora is a jewelry store in Allen, TX at 887 Watters Creek Boulevard, Allen, TX 75013. | https://registry-edge.dingalinged.workers.dev/c/pandora-allen/
+5. Precious Jewelry Outlet | Organic #5 | Pulse Score 45/100 (Unrated, #5 in city) | Precious Jewelry Outlet is a jewelry store in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/precious-jewelry-outlet-allen/
+6. Kay Jewelers | Organic #6 | Pulse Score 43/100 (Building, #6 in city) | Kay Jewelers is a jewelry store in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-allen/
+7. Precious Jewelry Outlet | Organic #7 | Pulse Score 42.8/100 (Unrated, #7 in city) | Precious Jewelry Outlet is a jewelry store in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/precious-jewelry-outlet-allen-n9211002921/
+8. Zales | Organic #8 | Pulse Score 42.4/100 (Building, #8 in city) | Zales is a jewelry store in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/zales-allen/
+9. Swarovski | Organic #9 | Pulse Score 42.1/100 (Building, #9 in city) | Swarovski is a jewelry store in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/swarovski-allen/
+10. Kendra Scott | Organic #10 | Pulse Score 41.7/100 (Unrated, #10 in city) | Kendra Scott is a jewelry store in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/kendra-scott-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store allen tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

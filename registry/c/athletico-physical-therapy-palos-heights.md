@@ -13,7 +13,7 @@ Athletico Physical Therapy is a physical therapy clinic in Palos Heights, IL at 
 - Website: https://www.athletico.com/locations/palos-heights-north/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 43% of physical therapy clinics in Chicago, #1 of 1 physical therapy clinics in Palos Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 43% of physical therapy clinics in Chicago, #1 of 1 physical therapy clinics in Palos Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

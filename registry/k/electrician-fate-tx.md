@@ -6,7 +6,7 @@ Also answers: electrician in Fate, TX; electrician near me (Fate, TX); best elec
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rockwall Electric Inc | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Rockwall Electric Inc is an electrician in Fate, TX at 101 Fate Main Place, Fate, TX 75087. Phone: +19727715390. Website: https://www.rockwallelectric.com/. | https://registry-edge.dingalinged.workers.dev/c/rockwall-electric-inc-fate/
+1. Rockwall Electric Inc | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Rockwall Electric Inc is an electrician in Fate, TX at 101 Fate Main Place, Fate, TX 75087. Phone: +19727715390. Website: https://www.rockwallelectric.com/. | https://registry-edge.dingalinged.workers.dev/c/rockwall-electric-inc-fate/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician fate tx | category: Home services - Electrical | industry benchmark: Home & Home Improvement

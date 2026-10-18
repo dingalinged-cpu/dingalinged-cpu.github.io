@@ -13,7 +13,7 @@ The Paw Spa is a dog groomer in New Brighton, MN at 151 Silver Lake Road Northwe
 - Website: https://www.facebook.com/ThePawSpaNB/
 - Email: thepawspanb@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00
-- Pulse Score: 52.4/100 — Fair — top 97% of dog groomers in Minneapolis–St. Paul, #1 of 1 dog groomers in New Brighton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.2, Trust 68.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.4/100 — Fair — top 97% of dog groomers in Minneapolis–St. Paul, #1 of 1 dog groomers in New Brighton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.2, Trust 68. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

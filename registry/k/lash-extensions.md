@@ -6,9 +6,9 @@ Also answers: lash extensions in the United States; lash extensions near me (the
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bailee Glam Beauty Bar | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Bailee Glam Beauty Bar is a nail salon in Arlington, TX at 2111 North Collins Street #223, Arlington, TX 76011. Phone: +12144443466. Website: https://www.baileeglambeautybar.com/. | https://registry-edge.dingalinged.workers.dev/c/bailee-glam-beauty-bar-arlington/
-2. Meraki Beauty Collective | Organic #2 | Pulse Score 59.6/100 (Unrated, #1 in city) | Meraki Beauty Collective is a lash studio in Sterling Heights, MI at 14432 15 Mile Road, Sterling Heights, MI 48312. | https://registry-edge.dingalinged.workers.dev/c/meraki-beauty-collective-sterling-heights/
-3. Deka Lash | Organic #3 | Pulse Score 57.8/100 (Unrated, #1 in city) | Deka Lash is a lash studio in Highlands Ranch, CO at 1485 Park Central Drive #Unit 200, Highlands Ranch, CO 80129. | https://registry-edge.dingalinged.workers.dev/c/deka-lash-highlands-ranch/
+1. Bailee Glam Beauty Bar | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Bailee Glam Beauty Bar is a nail salon in Arlington, TX at 2111 North Collins Street #223, Arlington, TX 76011. Phone: +12144443466. Website: https://www.baileeglambeautybar.com/. | https://registry-edge.dingalinged.workers.dev/c/bailee-glam-beauty-bar-arlington/
+2. Meraki Beauty Collective | Organic #2 | Pulse Score 59.5/100 (Unrated, #1 in city) | Meraki Beauty Collective is a lash studio in Sterling Heights, MI at 14432 15 Mile Road, Sterling Heights, MI 48312. | https://registry-edge.dingalinged.workers.dev/c/meraki-beauty-collective-sterling-heights/
+3. Deka Lash | Organic #3 | Pulse Score 57.7/100 (Unrated, #1 in city) | Deka Lash is a lash studio in Highlands Ranch, CO at 1485 Park Central Drive #Unit 200, Highlands Ranch, CO 80129. | https://registry-edge.dingalinged.workers.dev/c/deka-lash-highlands-ranch/
 
 ## Market data (for advertisers and agents)
 - Keyword: lash extensions | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

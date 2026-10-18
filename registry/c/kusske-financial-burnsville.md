@@ -13,7 +13,7 @@ Kusske Financial is a financial advisor in Burnsville, MN at 11980 Portland Ave,
 - Website: https://www.kusskefinancial.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 21% of financial advisors in Minneapolis–St. Paul, #1 of 1 financial advisors in Burnsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 18% of financial advisors in Minneapolis–St. Paul, #1 of 1 financial advisors in Burnsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

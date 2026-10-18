@@ -6,7 +6,7 @@ Also answers: dermatologist in Cobb County, GA; dermatologist near me (Cobb Coun
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dermani Medspa | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | Dermani Medspa is a dermatologist in Cobb County, GA at 1205 Johnson Ferry Road Northeast #129, Cobb County, GA. Phone: +14049055099. | https://registry-edge.dingalinged.workers.dev/c/dermani-medspa-cobb-county-n12986016816/
+1. Dermani Medspa | Organic #1 | Pulse Score 48.2/100 (Building, #1 in city) | Dermani Medspa is a dermatologist in Cobb County, GA at 1205 Johnson Ferry Road Northeast #129, Cobb County, GA. Phone: +14049055099. | https://registry-edge.dingalinged.workers.dev/c/dermani-medspa-cobb-county-n12986016816/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist cobb county ga | category: Health & medical | industry benchmark: Physicians & Surgeons

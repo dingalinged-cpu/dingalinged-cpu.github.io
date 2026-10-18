@@ -19,6 +19,6 @@ Express Oil Change & Tire Engineers is a tire shop in Cypress, TX at 9340 Barker
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/express-oil-change-and-tire-engineers-cypress/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/express-oil-change-and-tire-engineers-cypress.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5649897849 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5649897849 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

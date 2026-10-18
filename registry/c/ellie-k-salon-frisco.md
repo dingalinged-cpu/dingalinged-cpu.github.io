@@ -19,6 +19,6 @@ Ellie K Salon is a hair salon in Frisco, TX at 2552 Stonebrook Parkway #200, Fri
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/ellie-k-salon-frisco/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ellie-k-salon-frisco.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13389069970 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13389069970 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

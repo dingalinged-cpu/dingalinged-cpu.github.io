@@ -13,7 +13,7 @@ Goodwill is a thrift store in Milwaukee, WI at 2830 North Oakland Avenue, Milwau
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-20:00
-- Pulse Score: 47.1/100 — Building — top 61% of thrift stores in Milwaukee, #8 of 12 thrift stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 59% of thrift stores in Milwaukee, #8 of 12 thrift stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

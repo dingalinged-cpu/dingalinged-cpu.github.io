@@ -6,9 +6,9 @@ Also answers: barber shop in Katy, TX; barber shop near me (Katy, TX); best barb
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grayscale Barbershop | Organic #1 | Pulse Score 64.4/100 (Good, #1 in city) | Grayscale Barbershop is a barber shop in Katy, TX at 19909 Morton Road #800, Katy, TX 77449. Phone: +18329744986. Website: https://grayscalebarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/grayscale-barbershop-katy/
-2. Hair by Daniel | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Hair by Daniel is a barber shop in Katy, TX at 1420 South Mason Road #200, Katy, TX 77450. Phone: +12816657207. | https://registry-edge.dingalinged.workers.dev/c/hair-by-daniel-katy/
-3. Gratitude Barber Studio | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | Gratitude Barber Studio is a barber shop in Katy, TX at 3810 Mason Road #B, Katy, TX 77449. | https://registry-edge.dingalinged.workers.dev/c/gratitude-barber-studio-katy/
+1. Grayscale Barbershop | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | Grayscale Barbershop is a barber shop in Katy, TX at 19909 Morton Road #800, Katy, TX 77449. Phone: +18329744986. Website: https://grayscalebarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/grayscale-barbershop-katy/
+2. Hair by Daniel | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Hair by Daniel is a barber shop in Katy, TX at 1420 South Mason Road #200, Katy, TX 77450. Phone: +12816657207. | https://registry-edge.dingalinged.workers.dev/c/hair-by-daniel-katy/
+3. Gratitude Barber Studio | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | Gratitude Barber Studio is a barber shop in Katy, TX at 3810 Mason Road #B, Katy, TX 77449. | https://registry-edge.dingalinged.workers.dev/c/gratitude-barber-studio-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop katy tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

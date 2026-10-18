@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Cloud Communications Group | Organic #1 | Pulse Score 62.7/100 (Unrated, #2 in city) | Cloud Communications Group is an IT support company in Dallas, TX at 2727 Lyndon B Johnson Freeway #710, Dallas, TX 75234. Phone: +19727553070. Website: https://cloudcomgroup.net/. | https://registry-edge.dingalinged.workers.dev/c/cloud-communications-group-dallas/
 2. Paranet Solutions | Organic #2 | Pulse Score 60.4/100 (Unrated, #6 in city) | Paranet Solutions is an IT support company in Dallas, TX at 5001 Spring Valley Road #1050-W, Dallas, TX 75244. Phone: +18557272638. Website: https://www.paranet.com/. | https://registry-edge.dingalinged.workers.dev/c/paranet-solutions-dallas/
-3. Infor | Organic #3 | Pulse Score 55.6/100 (Unrated, #10 in city) | Infor is an IT support company in Dallas, TX at 14185 Dallas Parkway #500, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/infor-dallas/
+3. Infor | Organic #3 | Pulse Score 55.7/100 (Unrated, #10 in city) | Infor is an IT support company in Dallas, TX at 14185 Dallas Parkway #500, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/infor-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support farmers branch tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

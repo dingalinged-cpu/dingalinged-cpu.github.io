@@ -13,7 +13,7 @@ Midwest Dental is a dentist in Minneapolis, MN at 2010 27th Avenue South, Minnea
 - Website: https://midwest-dental.com/dental-office/minneapolis-seward/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-17:00, Fr 08:00-12:00
-- Pulse Score: 51/100 — Fair — top 91% of dentists in Minneapolis–St. Paul, #39 of 40 dentists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 67.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Fair — top 91% of dentists in Minneapolis–St. Paul, #39 of 40 dentists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

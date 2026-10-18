@@ -8,17 +8,17 @@ Public Storage is a self-storage facility in Houston, TX at 11900 Katy Freeway, 
 - City: Houston
 - State: TX
 - ZIP: n/a
-- Coordinates: 29.7855204, -95.5972759
+- Coordinates: 29.7855203, -95.5972759
 - Phone: +18666775147
 - Website: https://publicstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa-Su 09:30-17:00
-- Pulse Score: 50.7/100 — Fair — top 40% of self-storage facilitys in Houston, #22 of 81 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 36% of self-storage facilitys in Houston, #23 of 84 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/public-storage-houston-w1473525852/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/public-storage-houston-w1473525852.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1473525852 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1473525852 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

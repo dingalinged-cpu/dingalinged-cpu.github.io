@@ -6,7 +6,7 @@ Also answers: financial advisor in Papillion, NE; financial advisor near me (Pap
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | Edward Jones is a financial advisor in Papillion, NE. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-papillion/
+1. Edward Jones | Organic #1 | Pulse Score 43.2/100 (Building, #1 in city) | Edward Jones is a financial advisor in Papillion, NE. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-papillion/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor papillion ne | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -6,7 +6,7 @@ Also answers: bakery in Windsor Heights, IA; bakery near me (Windsor Heights, IA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Bake Shoppe | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | The Bake Shoppe is a bakery in Windsor Heights, IA at 6611 University Avenue, Windsor Heights, IA 50324. | https://registry-edge.dingalinged.workers.dev/c/the-bake-shoppe-windsor-heights/
+1. The Bake Shoppe | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | The Bake Shoppe is a bakery in Windsor Heights, IA at 6611 University Avenue, Windsor Heights, IA 50324. | https://registry-edge.dingalinged.workers.dev/c/the-bake-shoppe-windsor-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery windsor heights ia | category: Events & weddings | industry benchmark: Personal Services

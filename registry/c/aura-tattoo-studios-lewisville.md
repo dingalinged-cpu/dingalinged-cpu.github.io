@@ -19,6 +19,6 @@ Aura Tattoo Studios is a tattoo shop in Lewisville, TX at 880 Hebron Parkway #13
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/aura-tattoo-studios-lewisville/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aura-tattoo-studios-lewisville.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11112893956 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11112893956 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

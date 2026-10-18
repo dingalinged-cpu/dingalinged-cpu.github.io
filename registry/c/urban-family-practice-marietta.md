@@ -13,7 +13,7 @@ Urban Family Practice is a family medicine practice in Marietta, GA at 2520 Wind
 - Website: https://www.urbanfamilypractice.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:15-16:15
-- Pulse Score: 58.8/100 — Fair — top 29% of family medicine practices in Atlanta, #1 of 6 family medicine practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Fair — top 29% of family medicine practices in Atlanta, #1 of 6 family medicine practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

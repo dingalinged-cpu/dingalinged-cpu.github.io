@@ -6,7 +6,7 @@ Also answers: window repair in Town Of Middleton, WI; window repair near me (Tow
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brunke Glass and Window Company | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Brunke Glass and Window Company is a window repair service in Town of Middleton, WI. | https://registry-edge.dingalinged.workers.dev/c/brunke-glass-and-window-company-town-of-middleton/
+1. Brunke Glass and Window Company | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Brunke Glass and Window Company is a window repair service in Town of Middleton, WI. | https://registry-edge.dingalinged.workers.dev/c/brunke-glass-and-window-company-town-of-middleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair town of middleton wi | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

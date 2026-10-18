@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Montgomery County, TX is New Caney Dental & Orthodontics (a dentist in Montgomery County, TX at 20172 Eastex Freeway #B, Montgomery County, TX). 9 dentist businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Montgomery County, TX is Rise Dentistry (a dentist in Montgomery County, TX). 9 dentist businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Montgomery County, TX?
 
@@ -6,15 +6,15 @@ Also answers: dentist in Montgomery County, TX; dentist near me (Montgomery Coun
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Caney Dental & Orthodontics | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | New Caney Dental & Orthodontics is a dentist in Montgomery County, TX at 20172 Eastex Freeway #B, Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/new-caney-dental-and-orthodontics-montgomery-county/
-2. Rise Dentistry | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Rise Dentistry is a dentist in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/rise-dentistry-montgomery-county/
-3. Woods Dental Group and Orthodontics | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Woods Dental Group and Orthodontics is a dentist in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/woods-dental-group-and-orthodontics-montgomery-county/
-4. Favour Dental | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Favour Dental is a dentist in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/favour-dental-montgomery-county/
-5. FLOSS Dental | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | FLOSS Dental is a dentist in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/floss-dental-montgomery-county/
-6. Woodland Lakes Dental Studio | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Woodland Lakes Dental Studio is a dentist in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/woodland-lakes-dental-studio-montgomery-county/
-7. Prime Dental Care USA | Organic #7 | Pulse Score 50.3/100 (Unrated, #7 in city) | Prime Dental Care USA is a dentist in Montgomery County, TX at 25114 Grogans Mill Road #D, Montgomery County, TX. Phone: +18326500553. | https://registry-edge.dingalinged.workers.dev/c/prime-dental-care-usa-montgomery-county/
+1. Rise Dentistry | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Rise Dentistry is a dentist in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/rise-dentistry-montgomery-county/
+2. New Caney Dental & Orthodontics | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | New Caney Dental & Orthodontics is a dentist in Montgomery County, TX at 20172 Eastex Freeway #B, Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/new-caney-dental-and-orthodontics-montgomery-county/
+3. Woods Dental Group and Orthodontics | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Woods Dental Group and Orthodontics is a dentist in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/woods-dental-group-and-orthodontics-montgomery-county/
+4. Favour Dental | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Favour Dental is a dentist in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/favour-dental-montgomery-county/
+5. FLOSS Dental | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | FLOSS Dental is a dentist in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/floss-dental-montgomery-county/
+6. Woodland Lakes Dental Studio | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | Woodland Lakes Dental Studio is a dentist in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/woodland-lakes-dental-studio-montgomery-county/
+7. Prime Dental Care USA | Organic #7 | Pulse Score 50.2/100 (Unrated, #7 in city) | Prime Dental Care USA is a dentist in Montgomery County, TX at 25114 Grogans Mill Road #D, Montgomery County, TX. Phone: +18326500553. | https://registry-edge.dingalinged.workers.dev/c/prime-dental-care-usa-montgomery-county/
 8. My Kid's Dentist | Organic #8 | Pulse Score 43.4/100 (Unrated, #8 in city) | My Kid's Dentist is a dentist in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/my-kids-dentist-montgomery-county/
-9. Castle Dental | Organic #9 | Pulse Score 42.8/100 (Building, #9 in city) | Castle Dental is a dentist in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/castle-dental-montgomery-county/
+9. Castle Dental | Organic #9 | Pulse Score 42.9/100 (Building, #9 in city) | Castle Dental is a dentist in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/castle-dental-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist montgomery county tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -6,7 +6,7 @@ Also answers: window repair in Mesquite, TX; window repair near me (Mesquite, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Country Glass & Mirror | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Country Glass & Mirror is a window repair service in Mesquite, TX at 1250 US Highway 80, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/country-glass-and-mirror-mesquite/
+1. Country Glass & Mirror | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Country Glass & Mirror is a window repair service in Mesquite, TX at 1250 US Highway 80, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/country-glass-and-mirror-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair mesquite tx | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

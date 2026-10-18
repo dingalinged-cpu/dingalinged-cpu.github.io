@@ -19,6 +19,6 @@ Some Like It Hot Yoga & Fitness is a yoga studio in Harris County, TX at 11403 B
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/some-like-it-hot-yoga-and-fitness-harris-county/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/some-like-it-hot-yoga-and-fitness-harris-county.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/8011771121 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8011771121 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

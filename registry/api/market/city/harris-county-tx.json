@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Harris County, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
- "keywords": 81,
+ "keywords": 88,
  "lists": {
   "by_volume": [
    {
@@ -20,7 +20,22 @@
     "search_value_index_usd": 550000,
     "equivalent_google_ads_cost_month_usd": 32000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 20,
+    "registry_competitors": 22,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "urgent care harris county tx",
+    "slug": "urgent-care-harris-county-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-harris-county-tx/",
+    "us_monthly_searches": 2740000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 63000,
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "search_value_index_usd": 300000,
+    "equivalent_google_ads_cost_month_usd": 20000,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
     "ranked_by": "by_volume"
    },
    {
@@ -35,7 +50,7 @@
     "search_value_index_usd": 180000,
     "equivalent_google_ads_cost_month_usd": 10000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 49,
+    "registry_competitors": 54,
     "ranked_by": "by_volume"
    },
    {
@@ -50,7 +65,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 73,
+    "registry_competitors": 90,
     "ranked_by": "by_volume"
    },
    {
@@ -65,7 +80,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 5000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 34,
+    "registry_competitors": 37,
     "ranked_by": "by_volume"
    },
    {
@@ -80,7 +95,7 @@
     "search_value_index_usd": 180000,
     "equivalent_google_ads_cost_month_usd": 10000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 6,
+    "registry_competitors": 7,
     "ranked_by": "by_volume"
    },
    {
@@ -95,7 +110,7 @@
     "search_value_index_usd": 19000,
     "equivalent_google_ads_cost_month_usd": 1100,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 78,
+    "registry_competitors": 97,
     "ranked_by": "by_volume"
    },
    {
@@ -110,7 +125,7 @@
     "search_value_index_usd": 14000,
     "equivalent_google_ads_cost_month_usd": 800,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 49,
+    "registry_competitors": 61,
     "ranked_by": "by_volume"
    },
    {
@@ -140,7 +155,7 @@
     "search_value_index_usd": 11000,
     "equivalent_google_ads_cost_month_usd": 640,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 11,
+    "registry_competitors": 12,
     "ranked_by": "by_volume"
    },
    {
@@ -155,7 +170,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 3900,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 86,
+    "registry_competitors": 108,
     "ranked_by": "by_volume"
    },
    {
@@ -170,7 +185,7 @@
     "search_value_index_usd": 57000,
     "equivalent_google_ads_cost_month_usd": 3100,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 15,
+    "registry_competitors": 19,
     "ranked_by": "by_volume"
    },
    {
@@ -200,7 +215,7 @@
     "search_value_index_usd": 41000,
     "equivalent_google_ads_cost_month_usd": 2700,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 4,
+    "registry_competitors": 6,
     "ranked_by": "by_volume"
    },
    {
@@ -215,22 +230,7 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 2200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 89,
-    "ranked_by": "by_volume"
-   },
-   {
-    "keyword": "auto repair harris county tx",
-    "slug": "auto-repair-harris-county-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-harris-county-tx/",
-    "us_monthly_searches": 301000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 7000,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 30000,
-    "equivalent_google_ads_cost_month_usd": 1700,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 86,
+    "registry_competitors": 109,
     "ranked_by": "by_volume"
    }
   ],
@@ -292,7 +292,7 @@
     "search_value_index_usd": 17000,
     "equivalent_google_ads_cost_month_usd": 1000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 3,
+    "registry_competitors": 4,
     "ranked_by": "by_cpc"
    },
    {
@@ -307,7 +307,37 @@
     "search_value_index_usd": 11000,
     "equivalent_google_ads_cost_month_usd": 650,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 3,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "window replacement harris county tx",
+    "slug": "window-replacement-harris-county-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-replacement-harris-county-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 5100,
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "search_value_index_usd": 45000,
+    "equivalent_google_ads_cost_month_usd": 2800,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "concrete contractor harris county tx",
+    "slug": "concrete-contractor-harris-county-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/concrete-contractor-harris-county-tx/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 930,
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "search_value_index_usd": 7700,
+    "equivalent_google_ads_cost_month_usd": 490,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
     "ranked_by": "by_cpc"
    },
    {
@@ -322,7 +352,7 @@
     "search_value_index_usd": 3500,
     "equivalent_google_ads_cost_month_usd": 220,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 4,
+    "registry_competitors": 5,
     "ranked_by": "by_cpc"
    },
    {
@@ -382,7 +412,7 @@
     "search_value_index_usd": 42000,
     "equivalent_google_ads_cost_month_usd": 2700,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 42,
+    "registry_competitors": 55,
     "ranked_by": "by_cpc"
    },
    {
@@ -397,7 +427,7 @@
     "search_value_index_usd": 37000,
     "equivalent_google_ads_cost_month_usd": 2800,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 18,
+    "registry_competitors": 21,
     "ranked_by": "by_cpc"
    },
    {
@@ -429,36 +459,6 @@
     "featured_spot_min_usd": 20,
     "registry_competitors": 4,
     "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "florist harris county tx",
-    "slug": "florist-harris-county-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-harris-county-tx/",
-    "us_monthly_searches": 220000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 5100,
-    "cpc_basis_usd": 7.17,
-    "cpc_median_usd": 7.17,
-    "search_value_index_usd": 37000,
-    "equivalent_google_ads_cost_month_usd": 2800,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 4,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "crossfit harris county tx",
-    "slug": "crossfit-harris-county-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit-harris-county-tx/",
-    "us_monthly_searches": 40500,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 940,
-    "cpc_basis_usd": 6.17,
-    "cpc_median_usd": 6.17,
-    "search_value_index_usd": 5800,
-    "equivalent_google_ads_cost_month_usd": 420,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 3,
-    "ranked_by": "by_cpc"
    }
   ],
   "by_value": [
@@ -474,7 +474,22 @@
     "search_value_index_usd": 550000,
     "equivalent_google_ads_cost_month_usd": 32000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 20,
+    "registry_competitors": 22,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "urgent care harris county tx",
+    "slug": "urgent-care-harris-county-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-harris-county-tx/",
+    "us_monthly_searches": 2740000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 63000,
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "search_value_index_usd": 300000,
+    "equivalent_google_ads_cost_month_usd": 20000,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
     "ranked_by": "by_value"
    },
    {
@@ -504,7 +519,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 73,
+    "registry_competitors": 90,
     "ranked_by": "by_value"
    },
    {
@@ -519,7 +534,7 @@
     "search_value_index_usd": 180000,
     "equivalent_google_ads_cost_month_usd": 10000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 49,
+    "registry_competitors": 54,
     "ranked_by": "by_value"
    },
    {
@@ -534,7 +549,7 @@
     "search_value_index_usd": 180000,
     "equivalent_google_ads_cost_month_usd": 10000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 6,
+    "registry_competitors": 7,
     "ranked_by": "by_value"
    },
    {
@@ -549,7 +564,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 5000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 34,
+    "registry_competitors": 37,
     "ranked_by": "by_value"
    },
    {
@@ -564,7 +579,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 3900,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 86,
+    "registry_competitors": 108,
     "ranked_by": "by_value"
    },
    {
@@ -579,7 +594,7 @@
     "search_value_index_usd": 57000,
     "equivalent_google_ads_cost_month_usd": 3100,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 15,
+    "registry_competitors": 19,
     "ranked_by": "by_value"
    },
    {
@@ -613,6 +628,21 @@
     "ranked_by": "by_value"
    },
    {
+    "keyword": "pilates harris county tx",
+    "slug": "pilates-harris-county-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-harris-county-tx/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 7000,
+    "cpc_basis_usd": 6.17,
+    "cpc_median_usd": 6.17,
+    "search_value_index_usd": 43000,
+    "equivalent_google_ads_cost_month_usd": 3100,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_value"
+   },
+   {
     "keyword": "dog groomer harris county tx",
     "slug": "dog-groomer-harris-county-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-harris-county-tx/",
@@ -624,7 +654,7 @@
     "search_value_index_usd": 41000,
     "equivalent_google_ads_cost_month_usd": 2700,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 4,
+    "registry_competitors": 6,
     "ranked_by": "by_value"
    },
    {
@@ -639,7 +669,7 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 2200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 89,
+    "registry_competitors": 109,
     "ranked_by": "by_value"
    },
    {
@@ -654,37 +684,7 @@
     "search_value_index_usd": 30000,
     "equivalent_google_ads_cost_month_usd": 1700,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 86,
-    "ranked_by": "by_value"
-   },
-   {
-    "keyword": "hvac repair harris county tx",
-    "slug": "hvac-repair-harris-county-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-harris-county-tx/",
-    "us_monthly_searches": 74000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 1700,
-    "cpc_basis_usd": 17.76,
-    "cpc_median_usd": 9.68,
-    "search_value_index_usd": 30000,
-    "equivalent_google_ads_cost_month_usd": 1900,
-    "featured_spot_min_usd": 100,
-    "registry_competitors": 1,
-    "ranked_by": "by_value"
-   },
-   {
-    "keyword": "chiropractor harris county tx",
-    "slug": "chiropractor-harris-county-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-harris-county-tx/",
-    "us_monthly_searches": 246000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 5700,
-    "cpc_basis_usd": 4.76,
-    "cpc_median_usd": 4.76,
-    "search_value_index_usd": 27000,
-    "equivalent_google_ads_cost_month_usd": 1800,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 5,
+    "registry_competitors": 108,
     "ranked_by": "by_value"
    }
   ]

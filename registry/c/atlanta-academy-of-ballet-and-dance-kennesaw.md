@@ -13,7 +13,7 @@ Atlanta Academy of Ballet and Dance is a dance studio in Kennesaw, GA at 2255 Mc
 - Website: https://www.aabdstudios.com/
 - Email: aabdoffice@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Good — top 37% of dance studios in Atlanta, #2 of 2 dance studios in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Good — top 37% of dance studios in Atlanta, #2 of 2 dance studios in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

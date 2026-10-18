@@ -13,7 +13,7 @@ Pyramid Roofing, Inc. is a roofer in Omaha, NE at 2105 South 56th Street, Omaha,
 - Website: https://pyramidroof.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 34% of roofers in Omaha, NE, #2 of 5 roofers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 34% of roofers in Omaha, NE, #2 of 5 roofers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

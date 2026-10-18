@@ -6,7 +6,7 @@ Also answers: mechanic in Deforest, WI; mechanic near me (Deforest, WI); best me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fleet Farm Service | Organic #1 | Pulse Score 42.8/100 (Building, #1 in city) | Fleet Farm Service is an auto repair shop in DeForest, WI. | https://registry-edge.dingalinged.workers.dev/c/fleet-farm-service-deforest/
+1. Fleet Farm Service | Organic #1 | Pulse Score 42.7/100 (Building, #1 in city) | Fleet Farm Service is an auto repair shop in DeForest, WI. | https://registry-edge.dingalinged.workers.dev/c/fleet-farm-service-deforest/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic deforest wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

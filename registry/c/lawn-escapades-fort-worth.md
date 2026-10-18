@@ -13,12 +13,12 @@ Lawn Escapades is a general contractor in Fort Worth, TX at 5601 Bridge Street #
 - Website: https://www.lawnescapades.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-18:00; Sa 09:00-16:00
-- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 12% of general contractors in Dallas–Fort Worth, #1 of 1 general contractors in Fort Worth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 9% of general contractors in Dallas–Fort Worth, #1 of 1 general contractors in Fort Worth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/lawn-escapades-fort-worth/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lawn-escapades-fort-worth.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11782698783 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11782698783 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

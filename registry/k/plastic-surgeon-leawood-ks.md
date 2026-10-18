@@ -7,8 +7,8 @@ Also answers: plastic surgeon in Leawood, KS; plastic surgeon near me (Leawood, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Quinn Plastic Surgery & Aesthetic Center | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Quinn Plastic Surgery & Aesthetic Center is a plastic surgeon in Leawood, KS at 6920 West 121st Street #102, Leawood, KS 66209. Phone: +19134923443. Website: https://quinnplasticsurgery.com/. | https://registry-edge.dingalinged.workers.dev/c/quinn-plastic-surgery-and-aesthetic-center-leawood/
-2. FACE Leawood | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | FACE Leawood is a plastic surgeon in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/face-leawood-leawood/
-3. Kansas City Ambulatory Surgery Center | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | Kansas City Ambulatory Surgery Center is a plastic surgeon in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/kansas-city-ambulatory-surgery-center-leawood/
+2. FACE Leawood | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | FACE Leawood is a plastic surgeon in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/face-leawood-leawood/
+3. Kansas City Ambulatory Surgery Center | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Kansas City Ambulatory Surgery Center is a plastic surgeon in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/kansas-city-ambulatory-surgery-center-leawood/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon leawood ks | category: Health & medical | industry benchmark: Physicians & Surgeons

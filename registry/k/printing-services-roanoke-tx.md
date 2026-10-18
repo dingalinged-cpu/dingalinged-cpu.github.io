@@ -6,8 +6,8 @@ Also answers: printing services in Roanoke, TX; printing services near me (Roano
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PostNet | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | PostNet is a printing service in Roanoke, TX at 1224 North US Highway 377 #Suite 303, Roanoke, TX 76262. Phone: +18175678023. Website: https://locations.postnet.com/tx/roanoke/1224-us-377. | https://registry-edge.dingalinged.workers.dev/c/postnet-roanoke/
-2. The UPS Store | Organic #2 | Pulse Score 41.8/100 (Building, #2 in city) | The UPS Store is a printing service in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-roanoke/
+1. PostNet | Organic #1 | Pulse Score 48.5/100 (Unrated, #1 in city) | PostNet is a printing service in Roanoke, TX at 1224 North US Highway 377 #Suite 303, Roanoke, TX 76262. Phone: +18175678023. Website: https://locations.postnet.com/tx/roanoke/1224-us-377. | https://registry-edge.dingalinged.workers.dev/c/postnet-roanoke/
+2. The UPS Store | Organic #2 | Pulse Score 41.7/100 (Building, #2 in city) | The UPS Store is a printing service in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services roanoke tx | category: Professional & financial services | industry benchmark: Finance & Insurance

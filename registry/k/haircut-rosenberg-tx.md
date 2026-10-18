@@ -6,12 +6,12 @@ Also answers: haircut in Rosenberg, TX; haircut near me (Rosenberg, TX); best ha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salon Ambi Natural Hair Studio | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Salon Ambi Natural Hair Studio is a hair salon in Rosenberg, TX at 4122 FM 762 #STE 604, Rosenberg, TX 77469. Phone: +17136599877. | https://registry-edge.dingalinged.workers.dev/c/salon-ambi-natural-hair-studio-rosenberg/
-2. Guys Grooming Shop | Organic #2 | Pulse Score 51.8/100 (Unrated, #2 in city) | Guys Grooming Shop is a hair salon in Rosenberg, TX at 4122 FM 762 #108, Rosenberg, TX 77469. Phone: +13462425983. Website: https://www.guysgroomingshop.com/. | https://registry-edge.dingalinged.workers.dev/c/guys-grooming-shop-rosenberg/
-3. Barber Shop | Organic #3 | Pulse Score 47.6/100 (Unrated, #3 in city) | Barber Shop is a hair salon in Rosenberg, TX at 2320 B F Terry Boulevard #400, Rosenberg, TX. | https://registry-edge.dingalinged.workers.dev/c/barber-shop-rosenberg/
+1. Salon Ambi Natural Hair Studio | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Salon Ambi Natural Hair Studio is a hair salon in Rosenberg, TX at 4122 FM 762 #STE 604, Rosenberg, TX 77469. Phone: +17136599877. | https://registry-edge.dingalinged.workers.dev/c/salon-ambi-natural-hair-studio-rosenberg/
+2. Guys Grooming Shop | Organic #2 | Pulse Score 51.7/100 (Unrated, #2 in city) | Guys Grooming Shop is a hair salon in Rosenberg, TX at 4122 FM 762 #108, Rosenberg, TX 77469. Phone: +13462425983. Website: https://www.guysgroomingshop.com/. | https://registry-edge.dingalinged.workers.dev/c/guys-grooming-shop-rosenberg/
+3. Barber Shop | Organic #3 | Pulse Score 47.5/100 (Unrated, #3 in city) | Barber Shop is a hair salon in Rosenberg, TX at 2320 B F Terry Boulevard #400, Rosenberg, TX. | https://registry-edge.dingalinged.workers.dev/c/barber-shop-rosenberg/
 4. Cost Cutters | Organic #4 | Pulse Score 46.7/100 (Unrated, #4 in city) | Cost Cutters is a hair salon in Rosenberg, TX at 4002 FM 762 #300, Rosenberg, TX 77469. | https://registry-edge.dingalinged.workers.dev/c/cost-cutters-rosenberg/
-5. Tune Up | Organic #5 | Pulse Score 46.5/100 (Unrated, #5 in city) | Tune Up is a hair salon in Rosenberg, TX at 24200 Southwest Freeway #302, Rosenberg, TX 77471. | https://registry-edge.dingalinged.workers.dev/c/tune-up-rosenberg/
-6. SH Salon | Organic #6 | Pulse Score 45.3/100 (Unrated, #6 in city) | SH Salon is a hair salon in Rosenberg, TX. | https://registry-edge.dingalinged.workers.dev/c/sh-salon-rosenberg/
+5. SH Salon | Organic #5 | Pulse Score 45.4/100 (Unrated, #5 in city) | SH Salon is a hair salon in Rosenberg, TX. | https://registry-edge.dingalinged.workers.dev/c/sh-salon-rosenberg/
+6. Tune Up | Organic #6 | Pulse Score 45.4/100 (Unrated, #6 in city) | Tune Up is a hair salon in Rosenberg, TX at 24200 Southwest Freeway #302, Rosenberg, TX 77471. | https://registry-edge.dingalinged.workers.dev/c/tune-up-rosenberg/
 7. Sport Clips | Organic #7 | Pulse Score 42.7/100 (Building, #7 in city) | Sport Clips is a hair salon in Rosenberg, TX. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-rosenberg/
 
 ## Market data (for advertisers and agents)

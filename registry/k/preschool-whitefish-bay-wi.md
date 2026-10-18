@@ -6,7 +6,7 @@ Also answers: preschool in Whitefish Bay, WI; preschool near me (Whitefish Bay, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JCC Gan Ami Preschool | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | JCC Gan Ami Preschool is a preschool in Whitefish Bay, WI. Phone: +14149678241. Website: https://www.jccmilwaukee.org/programs/education-families/early-childhood-education/gan-ami-whitefish-bay/. | https://registry-edge.dingalinged.workers.dev/c/jcc-gan-ami-preschool-whitefish-bay/
+1. JCC Gan Ami Preschool | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | JCC Gan Ami Preschool is a preschool in Whitefish Bay, WI. Phone: +14149678241. Website: https://www.jccmilwaukee.org/programs/education-families/early-childhood-education/gan-ami-whitefish-bay/. | https://registry-edge.dingalinged.workers.dev/c/jcc-gan-ami-preschool-whitefish-bay/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool whitefish bay wi | category: Education & childcare | industry benchmark: Education & Instruction

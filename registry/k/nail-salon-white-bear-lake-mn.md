@@ -6,7 +6,7 @@ Also answers: nail salon in White Bear Lake, MN; nail salon near me (White Bear 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elite Nails + Spa | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Elite Nails + Spa is a nail salon in White Bear Lake, MN. | https://registry-edge.dingalinged.workers.dev/c/elite-nails-spa-white-bear-lake/
+1. Elite Nails + Spa | Organic #1 | Pulse Score 42/100 (Unrated, #1 in city) | Elite Nails + Spa is a nail salon in White Bear Lake, MN. | https://registry-edge.dingalinged.workers.dev/c/elite-nails-spa-white-bear-lake/
 2. Super Nails | Organic #2 | Pulse Score 42/100 (Unrated, #2 in city) | Super Nails is a nail salon in White Bear Lake, MN. | https://registry-edge.dingalinged.workers.dev/c/super-nails-white-bear-lake/
 
 ## Market data (for advertisers and agents)

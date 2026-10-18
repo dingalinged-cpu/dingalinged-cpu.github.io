@@ -6,7 +6,7 @@ Also answers: oil change in Mesquite, TX; oil change near me (Mesquite, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Take 5 Oil Change | Organic #1 | Pulse Score 44.8/100 (Building, #47 in city) | Take 5 Oil Change is an auto repair shop in Mesquite, TX at 2214 North Town East Boulevard, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-mesquite/
+1. Take 5 Oil Change | Organic #1 | Pulse Score 44.7/100 (Building, #45 in city) | Take 5 Oil Change is an auto repair shop in Mesquite, TX at 2214 North Town East Boulevard, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change mesquite tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Bone-A-Patreat is a pet store in Des Moines, IA at 4110 University Avenue, Des M
 - Website: https://www.boneapatreat.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-18:30; Fr 09:00-18:00; Sa 09:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 5% of pet stores in Des Moines, IA, #1 of 7 pet stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 5% of pet stores in Des Moines, IA, #1 of 7 pet stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

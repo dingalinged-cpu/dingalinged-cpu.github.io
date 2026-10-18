@@ -6,7 +6,7 @@ Also answers: mattress store in Oak Creek, WI; mattress store near me (Oak Creek
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | Organic #1 | Pulse Score 48.6/100 (Building, #1 in city) | Mattress Firm is a mattress store in Oak Creek, WI at 320 West Town Square Way #100, Oak Creek, WI 53154. Phone: +14147641022. Website: https://www.mattressfirm.com/en-us/stores/wi/oak-creek/059103/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-oak-creek/
+1. Mattress Firm | Organic #1 | Pulse Score 48.5/100 (Building, #1 in city) | Mattress Firm is a mattress store in Oak Creek, WI at 320 West Town Square Way #100, Oak Creek, WI 53154. Phone: +14147641022. Website: https://www.mattressfirm.com/en-us/stores/wi/oak-creek/059103/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store oak creek wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

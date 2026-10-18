@@ -6,7 +6,7 @@ Also answers: audiologist in Greendale, WI; audiologist near me (Greendale, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Avada Audiology | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Avada Audiology is an audiologist in Greenfield, WI at 5411 South 76th Street, Greenfield, WI. | https://registry-edge.dingalinged.workers.dev/c/avada-audiology-greenfield/
+1. Avada Audiology | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Avada Audiology is an audiologist in Greenfield, WI at 5411 South 76th Street, Greenfield, WI. | https://registry-edge.dingalinged.workers.dev/c/avada-audiology-greenfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: audiologist greendale wi | category: Health & medical | industry benchmark: Physicians & Surgeons

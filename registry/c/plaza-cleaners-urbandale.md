@@ -13,7 +13,7 @@ Plaza Cleaners is a dry cleaner in Urbandale, IA at 3816 70th Street, Urbandale,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 42% of dry cleaners in Des Moines, IA, #1 of 1 dry cleaners in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.9/100 — Unrated (not enough evidence yet) — top 89% of dry cleaners in Des Moines, IA, #1 of 1 dry cleaners in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

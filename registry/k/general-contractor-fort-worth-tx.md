@@ -6,7 +6,7 @@ Also answers: general contractor in Fort Worth, TX; general contractor near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lawn Escapades | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | Lawn Escapades is a general contractor in Fort Worth, TX at 5601 Bridge Street #300, Fort Worth, TX 76112. Phone: +16822382349. Website: https://www.lawnescapades.com/. | https://registry-edge.dingalinged.workers.dev/c/lawn-escapades-fort-worth/
+1. Lawn Escapades | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Lawn Escapades is a general contractor in Fort Worth, TX at 5601 Bridge Street #300, Fort Worth, TX 76112. Phone: +16822382349. Website: https://www.lawnescapades.com/. | https://registry-edge.dingalinged.workers.dev/c/lawn-escapades-fort-worth/
 
 ## Market data (for advertisers and agents)
 - Keyword: general contractor fort worth tx | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

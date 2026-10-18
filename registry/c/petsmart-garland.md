@@ -13,12 +13,12 @@ PetSmart is a pet store in Garland, TX at 5401 North Garland Avenue, Garland, TX
 - Website: https://www.petsmart.com/stores/us/tx/garland-store1109.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 49.8/100 — Building — top 34% of pet stores in Dallas–Fort Worth, #2 of 4 pet stores in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 34% of pet stores in Dallas–Fort Worth, #2 of 4 pet stores in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 66.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/petsmart-garland/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petsmart-garland.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/679572081 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/679572081 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

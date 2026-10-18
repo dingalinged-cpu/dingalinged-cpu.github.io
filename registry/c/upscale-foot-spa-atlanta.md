@@ -13,7 +13,7 @@ Upscale Foot Spa is a massage studio in Atlanta, GA at 132 Walker Street Southwe
 - Website: https://upscalefootspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 12:30-18:00; Sa-Su 12:15-20:00
-- Pulse Score: 62.5/100 — Good — top 15% of massage studios in Atlanta, #4 of 13 massage studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Good — top 14% of massage studios in Atlanta, #3 of 13 massage studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

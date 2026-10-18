@@ -13,7 +13,7 @@ Sola Salons is a nail salon in West Des Moines, IA at 4520 University Avenue #11
 - Website: https://www.solasalonstudios.com/locations/the-shoppes-at-three-fountains
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.2/100 — Building — top 93% of nail salons in Des Moines, IA, #8 of 9 nail salons in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 82% of nail salons in Des Moines, IA, #7 of 9 nail salons in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

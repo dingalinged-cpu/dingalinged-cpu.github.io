@@ -6,9 +6,9 @@ Also answers: hair salon in Roanoke, TX; hair salon near me (Roanoke, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beauty Hive Salon | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Beauty Hive Salon is a hair salon in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/beauty-hive-salon-roanoke/
-2. Sport Clips | Organic #2 | Pulse Score 49.1/100 (Building, #2 in city) | Sport Clips is a hair salon in Roanoke, TX at 1224 North US Highway 377 #Suite 305, Roanoke, TX 76262. Phone: +18174913388. Website: https://sportclips.com/us-tx-roanoke-tx425. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-roanoke/
-3. Supercuts | Organic #3 | Pulse Score 44.8/100 (Building, #3 in city) | Supercuts is a hair salon in Roanoke, TX at 1320 North US Highway 377 #200, Roanoke, TX 76262. | https://registry-edge.dingalinged.workers.dev/c/supercuts-roanoke/
+1. Beauty Hive Salon | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Beauty Hive Salon is a hair salon in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/beauty-hive-salon-roanoke/
+2. Sport Clips | Organic #2 | Pulse Score 49/100 (Building, #2 in city) | Sport Clips is a hair salon in Roanoke, TX at 1224 North US Highway 377 #Suite 305, Roanoke, TX 76262. Phone: +18174913388. Website: https://sportclips.com/us-tx-roanoke-tx425. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-roanoke/
+3. Supercuts | Organic #3 | Pulse Score 44.7/100 (Building, #3 in city) | Supercuts is a hair salon in Roanoke, TX at 1320 North US Highway 377 #200, Roanoke, TX 76262. | https://registry-edge.dingalinged.workers.dev/c/supercuts-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon roanoke tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

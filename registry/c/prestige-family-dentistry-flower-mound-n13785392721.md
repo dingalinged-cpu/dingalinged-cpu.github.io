@@ -13,12 +13,12 @@ Prestige Family Dentistry is a dentist in Flower Mound, TX at 4351 Cross Timbers
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 58% of dentists in Dallas–Fort Worth, #24 of 34 dentists in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 59% of dentists in Dallas–Fort Worth, #23 of 36 dentists in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/prestige-family-dentistry-flower-mound-n13785392721/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/prestige-family-dentistry-flower-mound-n13785392721.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13785392721 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13785392721 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

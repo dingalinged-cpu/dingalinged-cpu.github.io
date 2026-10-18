@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Summit Hill Chiropractic & Physical Therapy | Organic #1 | Pulse Score 59.6/100 (Unrated, #8 in city) | Summit Hill Chiropractic & Physical Therapy is a chiropractor in Saint Paul, MN at 976 Grand Avenue, Saint Paul, MN 55105. Phone: +16512920050. Website: https://www.summithillchiro.com/. | https://registry-edge.dingalinged.workers.dev/c/summit-hill-chiropractic-and-physical-therapy-saint-paul/
 2. Viverant | Organic #2 | Pulse Score 47.9/100 (Unrated, #1 in city) | Viverant is a physical therapy clinic in Saint Paul, MN at 30 Fairview Avenue South #200, Saint Paul, MN 55105. Phone: +19528354512. Website: https://www.viverant.com/locations/st._paul__mn/. | https://registry-edge.dingalinged.workers.dev/c/viverant-saint-paul/
-3. Doctors of Physical Therapy | Organic #3 | Pulse Score 43.6/100 (Building, #2 in city) | Doctors of Physical Therapy is a physical therapy clinic in Saint Paul, MN at 1661 Saint Anthony Avenue ##2, Saint Paul, MN 55104. | https://registry-edge.dingalinged.workers.dev/c/doctors-of-physical-therapy-saint-paul/
+3. Doctors of Physical Therapy | Organic #3 | Pulse Score 43.5/100 (Building, #2 in city) | Doctors of Physical Therapy is a physical therapy clinic in Saint Paul, MN at 1661 Saint Anthony Avenue ##2, Saint Paul, MN 55104. | https://registry-edge.dingalinged.workers.dev/c/doctors-of-physical-therapy-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy saint paul mn | category: Health & medical | industry benchmark: Physicians & Surgeons

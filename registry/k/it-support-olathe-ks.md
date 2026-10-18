@@ -6,9 +6,9 @@ Also answers: it support in Olathe, KS; it support near me (Olathe, KS); best it
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Apex Innovations Inc | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Apex Innovations Inc is an IT support company in Olathe, KS at 19951 West 162nd Street, Olathe, KS 66062. Phone: +19132540250. Website: https://www.apex-innovations.com/. | https://registry-edge.dingalinged.workers.dev/c/apex-innovations-inc-olathe/
-2. Kansys Inc | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | Kansys Inc is an IT support company in Olathe, KS at 910 West Frontier Lane, Olathe, KS 66061. Phone: +19137805291. Website: https://kansys.com/. | https://registry-edge.dingalinged.workers.dev/c/kansys-inc-olathe/
-3. SITECH Central | Organic #3 | Pulse Score 60.1/100 (Unrated, #3 in city) | SITECH Central is an IT support company in Olathe, KS at 19992 West 162nd Street, Olathe, KS 66062. Phone: +19138399201. Website: https://www.sitech-central.com/. | https://registry-edge.dingalinged.workers.dev/c/sitech-central-olathe/
+1. Apex Innovations Inc | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Apex Innovations Inc is an IT support company in Olathe, KS at 19951 West 162nd Street, Olathe, KS 66062. Phone: +19132540250. Website: https://www.apex-innovations.com/. | https://registry-edge.dingalinged.workers.dev/c/apex-innovations-inc-olathe/
+2. Kansys Inc | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Kansys Inc is an IT support company in Olathe, KS at 910 West Frontier Lane, Olathe, KS 66061. Phone: +19137805291. Website: https://kansys.com/. | https://registry-edge.dingalinged.workers.dev/c/kansys-inc-olathe/
+3. SITECH Central | Organic #3 | Pulse Score 60.2/100 (Unrated, #3 in city) | SITECH Central is an IT support company in Olathe, KS at 19992 West 162nd Street, Olathe, KS 66062. Phone: +19138399201. Website: https://www.sitech-central.com/. | https://registry-edge.dingalinged.workers.dev/c/sitech-central-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support olathe ks | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

@@ -7,7 +7,7 @@ Also answers: mechanic in College Park, GA; mechanic near me (College Park, GA);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Sear's Service Center | Organic #1 | Pulse Score 57.3/100 (Unrated, #23 in city) | Sear's Service Center is an auto repair shop in Atlanta, GA at 2511 Sullivan Road, Atlanta, GA 30337. | https://registry-edge.dingalinged.workers.dev/c/sears-service-center-atlanta/
-2. Metro Muscle Cars | Organic #2 | Pulse Score 46.2/100 (Building, #35 in city) | Metro Muscle Cars is an auto repair shop in Atlanta, GA at 4764 Old National Highway, Atlanta, GA 30337. Website: https://www.metromusclecars.com/. | https://registry-edge.dingalinged.workers.dev/c/metro-muscle-cars-atlanta/
+2. Metro Muscle Cars | Organic #2 | Pulse Score 46.1/100 (Building, #35 in city) | Metro Muscle Cars is an auto repair shop in Atlanta, GA at 4764 Old National Highway, Atlanta, GA 30337. Website: https://www.metromusclecars.com/. | https://registry-edge.dingalinged.workers.dev/c/metro-muscle-cars-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic college park ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

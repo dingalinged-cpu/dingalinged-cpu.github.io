@@ -13,7 +13,7 @@ Diva Nail Spa is a nail salon in Cobb County, GA at 50 Ernest W. Barrett Parkway
 - Website: https://divanailsspamarietta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 09:30-19:00; Su 11:30-18:00
-- Pulse Score: 62.4/100 — Good — top 17% of nail salons in Atlanta, #7 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 16% of nail salons in Atlanta, #7 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

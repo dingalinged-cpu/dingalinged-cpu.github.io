@@ -6,7 +6,7 @@ Also answers: gym in Plattsmouth, NE; gym near me (Plattsmouth, NE); best gym Pl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | Organic #1 | Pulse Score 50.1/100 (Fair, #1 in city) | Anytime Fitness is a gym in Plattsmouth, NE at 2380 West 8th Avenue #1-2, Plattsmouth, NE 68048. Phone: +14022984351. Website: https://www.anytimefitness.com/gyms/2948/plattsmouth-ne-68048/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-plattsmouth/
+1. Anytime Fitness | Organic #1 | Pulse Score 50/100 (Fair, #1 in city) | Anytime Fitness is a gym in Plattsmouth, NE at 2380 West 8th Avenue #1-2, Plattsmouth, NE 68048. Phone: +14022984351. Website: https://www.anytimefitness.com/gyms/2948/plattsmouth-ne-68048/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-plattsmouth/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym plattsmouth ne | category: Fitness | industry benchmark: Health & Fitness

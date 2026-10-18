@@ -13,7 +13,7 @@ Carere Music is a music school in Peachtree Corners, GA at 6385 Spalding Drive #
 - Website: https://www.careremusic.com/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 63/100 — Good — top 13% of music schools in Atlanta, #1 of 1 music schools in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 13% of music schools in Atlanta, #1 of 1 music schools in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

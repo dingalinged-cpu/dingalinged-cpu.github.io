@@ -13,7 +13,7 @@ Chudy Chiropractic Clinic is a chiropractor in Waukesha, WI. Phone: +12625604977
 - Website: https://chudychiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Fair — top 37% of chiropractors in Milwaukee, #2 of 4 chiropractors in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Fair — top 37% of chiropractors in Milwaukee, #2 of 4 chiropractors in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

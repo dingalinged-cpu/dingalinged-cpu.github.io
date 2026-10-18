@@ -8,7 +8,7 @@ DriveTime is an used car dealer in Dallas, TX at 39510 Lyndon B Johnson Freeway,
 - City: Dallas
 - State: TX
 - ZIP: 75232
-- Coordinates: 32.6435062, -96.8519069
+- Coordinates: 32.6435063, -96.8519069
 - Phone: n/a
 - Website: n/a
 - Email: n/a
@@ -19,6 +19,6 @@ DriveTime is an used car dealer in Dallas, TX at 39510 Lyndon B Johnson Freeway,
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/drivetime-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/drivetime-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1154082448 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1154082448 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

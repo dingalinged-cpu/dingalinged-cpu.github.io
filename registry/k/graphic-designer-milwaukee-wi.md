@@ -6,7 +6,7 @@ Also answers: graphic designer in Milwaukee, WI; graphic designer near me (Milwa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blue Mound Graphics | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Blue Mound Graphics is a graphic designer in Milwaukee, WI at 376 South 76th Street, Milwaukee, WI 53213. Phone: +14144757500. Website: https://www.bluemoundcalendars.com/. | https://registry-edge.dingalinged.workers.dev/c/blue-mound-graphics-milwaukee/
+1. Blue Mound Graphics | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Blue Mound Graphics is a graphic designer in Milwaukee, WI at 376 South 76th Street, Milwaukee, WI 53213. Phone: +14144757500. Website: https://www.bluemoundcalendars.com/. | https://registry-edge.dingalinged.workers.dev/c/blue-mound-graphics-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer milwaukee wi | category: professional_marketing | industry benchmark: Business Services

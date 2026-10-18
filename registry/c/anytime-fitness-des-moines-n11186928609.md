@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Des Moines, IA at 5921 Southeast 14th Street, Des Mo
 - Website: https://www.anytimefitness.com/gyms/2066/des-moines-ia-50320/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 69% of gyms in Des Moines, IA, #14 of 18 gyms in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 67% of gyms in Des Moines, IA, #14 of 18 gyms in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

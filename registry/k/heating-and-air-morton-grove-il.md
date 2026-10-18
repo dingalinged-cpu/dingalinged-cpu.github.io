@@ -6,7 +6,7 @@ Also answers: heating and air in Morton Grove, IL; heating and air near me (Mort
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. South Side Control Supply Co. | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | South Side Control Supply Co. is a HVAC contractor in Morton Grove, IL at 6010 West Dempster Street, Morton Grove, IL 60053. Website: https://www.southsidecontrol.com/. | https://registry-edge.dingalinged.workers.dev/c/south-side-control-supply-co-morton-grove/
+1. South Side Control Supply Co. | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | South Side Control Supply Co. is a HVAC contractor in Morton Grove, IL at 6010 West Dempster Street, Morton Grove, IL 60053. Website: https://www.southsidecontrol.com/. | https://registry-edge.dingalinged.workers.dev/c/south-side-control-supply-co-morton-grove/
 2. Skokie Valley Air Control | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Skokie Valley Air Control is a HVAC contractor in Morton Grove, IL at Lincoln Avenue, Morton Grove, IL 60053. | https://registry-edge.dingalinged.workers.dev/c/skokie-valley-air-control-morton-grove/
 
 ## Market data (for advertisers and agents)

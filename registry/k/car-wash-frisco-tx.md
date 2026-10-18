@@ -8,12 +8,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Auto Splish Splash | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Auto Splish Splash is a car wash in Frisco, TX at 8300 Farm-to-Market Road 423, Frisco, TX 75034. Phone: +12146185858. Website: https://autosplishsplash.com/. | https://registry-edge.dingalinged.workers.dev/c/auto-splish-splash-frisco/
 2. Legacy Car Wash & Detail Center | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Legacy Car Wash & Detail Center is a car wash in Frisco, TX at 3232 Legacy Drive, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/legacy-car-wash-and-detail-center-frisco/
-3. Frisco Water Works Car Wash | Organic #3 | Pulse Score 60.4/100 (Unrated, #3 in city) | Frisco Water Works Car Wash is a car wash in Frisco, TX at 6582 Preston Road, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/frisco-water-works-car-wash-frisco/
-4. WASHGUYS Car Wash | Organic #4 | Pulse Score 58/100 (Unrated, #4 in city) | WASHGUYS Car Wash is a car wash in Frisco, TX at 4677 Preston Road, Frisco, TX 75034. | https://registry-edge.dingalinged.workers.dev/c/washguys-car-wash-frisco/
+3. Frisco Water Works Car Wash | Organic #3 | Pulse Score 60.2/100 (Unrated, #3 in city) | Frisco Water Works Car Wash is a car wash in Frisco, TX at 6582 Preston Road, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/frisco-water-works-car-wash-frisco/
+4. WASHGUYS Car Wash | Organic #4 | Pulse Score 57.9/100 (Unrated, #4 in city) | WASHGUYS Car Wash is a car wash in Frisco, TX at 4677 Preston Road, Frisco, TX 75034. | https://registry-edge.dingalinged.workers.dev/c/washguys-car-wash-frisco/
 5. Clean Getaway Car Wash | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Clean Getaway Car Wash is a car wash in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/clean-getaway-car-wash-frisco/
 6. H-E-B Car Wash | Organic #6 | Pulse Score 48.5/100 (Building, #6 in city) | H-E-B Car Wash is a car wash in Frisco, TX at 4800 Main Street, Frisco, TX 75033. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-frisco/
-7. Carmel Car Wash | Organic #7 | Pulse Score 45.2/100 (Unrated, #7 in city) | Carmel Car Wash is a car wash in Frisco, TX at 5780 Eldorado Parkway, Frisco, TX 75034. | https://registry-edge.dingalinged.workers.dev/c/carmel-car-wash-frisco/
-8. H-E-B Car Wash | Organic #8 | Pulse Score 43.4/100 (Building, #8 in city) | H-E-B Car Wash is a car wash in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-frisco-w1486478381/
+7. Carmel Car Wash | Organic #7 | Pulse Score 48.2/100 (Building, #7 in city) | Carmel Car Wash is a car wash in Frisco, TX at 5780 Eldorado Parkway, Frisco, TX 75034. | https://registry-edge.dingalinged.workers.dev/c/carmel-car-wash-frisco/
+8. H-E-B Car Wash | Organic #8 | Pulse Score 43.3/100 (Building, #8 in city) | H-E-B Car Wash is a car wash in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-frisco-w1486478381/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash frisco tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

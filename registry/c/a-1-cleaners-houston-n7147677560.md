@@ -19,6 +19,6 @@ A-1 Cleaners is a dry cleaner in Houston, TX at 2536 South Voss Road, Houston, T
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-1-cleaners-houston-n7147677560/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-1-cleaners-houston-n7147677560.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7147677560 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7147677560 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

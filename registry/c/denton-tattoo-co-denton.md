@@ -19,6 +19,6 @@ Denton Tattoo Co is a tattoo shop in Denton, TX at 616 Fort Worth Drive, Denton,
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/denton-tattoo-co-denton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/denton-tattoo-co-denton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/709812104 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/709812104 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

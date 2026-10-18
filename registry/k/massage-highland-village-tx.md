@@ -6,7 +6,7 @@ Also answers: massage in Highland Village, TX; massage near me (Highland Village
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Float Away Spa | Organic #1 | Pulse Score 62.1/100 (Good, #1 in city) | Float Away Spa is a massage studio in Highland Village, TX at 1856 Justin Road, Highland Village, TX. Phone: +19496988737. | https://registry-edge.dingalinged.workers.dev/c/float-away-spa-highland-village/
+1. Float Away Spa | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Float Away Spa is a massage studio in Highland Village, TX at 1856 Justin Road, Highland Village, TX. Phone: +19496988737. | https://registry-edge.dingalinged.workers.dev/c/float-away-spa-highland-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage highland village tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

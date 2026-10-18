@@ -13,12 +13,12 @@ TLC Landscapes LLC is a landscaping company in Frisco, TX. Phone: +19726757683. 
 - Website: https://tlclandscapesllc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:30-19:30
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 29% of landscaping companys in Dallas–Fort Worth, #1 of 1 landscaping companys in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 40% of landscaping companys in Dallas–Fort Worth, #2 of 2 landscaping companys in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/tlc-landscapes-llc-frisco/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tlc-landscapes-llc-frisco.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5767512977 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5767512977 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

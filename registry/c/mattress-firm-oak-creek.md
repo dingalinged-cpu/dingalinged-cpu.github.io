@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Oak Creek, WI at 320 West Town Square Way #
 - Website: https://www.mattressfirm.com/en-us/stores/wi/oak-creek/059103/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 55% of mattress stores in Milwaukee, #1 of 1 mattress stores in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 55% of mattress stores in Milwaukee, #1 of 1 mattress stores in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.5, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

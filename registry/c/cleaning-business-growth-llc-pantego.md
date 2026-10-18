@@ -19,6 +19,6 @@ Cleaning Business Growth LLC is a marketing agency in Pantego, TX at 3630 W. Pio
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/cleaning-business-growth-llc-pantego/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cleaning-business-growth-llc-pantego.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12655642529 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12655642529 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

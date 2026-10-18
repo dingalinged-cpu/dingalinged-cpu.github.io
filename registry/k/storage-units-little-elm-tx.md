@@ -7,9 +7,9 @@ Also answers: storage units in Little Elm, TX; storage units near me (Little Elm
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Storage | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Storage is a self-storage facility in Little Elm, TX. | https://registry-edge.dingalinged.workers.dev/c/storage-little-elm/
-2. Public Storage | Organic #2 | Pulse Score 46.5/100 (Building, #2 in city) | Public Storage is a self-storage facility in Little Elm, TX at 4150 Gazebo Street, Little Elm, TX. | https://registry-edge.dingalinged.workers.dev/c/public-storage-little-elm/
-3. Public Storage | Organic #3 | Pulse Score 44.2/100 (Building, #3 in city) | Public Storage is a self-storage facility in Little Elm, TX at 26740 University Drive, Little Elm, TX 76227. | https://registry-edge.dingalinged.workers.dev/c/public-storage-little-elm-w650409113/
-4. U-Haul | Organic #4 | Pulse Score 41.8/100 (Building, #4 in city) | U-Haul is a self-storage facility in Little Elm, TX. | https://registry-edge.dingalinged.workers.dev/c/u-haul-little-elm/
+2. Public Storage | Organic #2 | Pulse Score 46.4/100 (Building, #2 in city) | Public Storage is a self-storage facility in Little Elm, TX at 4150 Gazebo Street, Little Elm, TX. | https://registry-edge.dingalinged.workers.dev/c/public-storage-little-elm/
+3. Public Storage | Organic #3 | Pulse Score 44/100 (Building, #3 in city) | Public Storage is a self-storage facility in Little Elm, TX at 26740 University Drive, Little Elm, TX 76227. | https://registry-edge.dingalinged.workers.dev/c/public-storage-little-elm-w650409113/
+4. U-Haul | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | U-Haul is a self-storage facility in Little Elm, TX. | https://registry-edge.dingalinged.workers.dev/c/u-haul-little-elm/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units little elm tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

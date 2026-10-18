@@ -6,7 +6,7 @@ Also answers: pet store in Little Canada, MN; pet store near me (Little Canada, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blossom Pet Salon | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Blossom Pet Salon is a pet store in Little Canada, MN at 2900 Rice Street #260, Little Canada, MN. Phone: +16512160542. Website: https://www.blossompetsalonmn.com/. | https://registry-edge.dingalinged.workers.dev/c/blossom-pet-salon-little-canada/
+1. Blossom Pet Salon | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Blossom Pet Salon is a pet store in Little Canada, MN at 2900 Rice Street #260, Little Canada, MN. Phone: +16512160542. Website: https://www.blossompetsalonmn.com/. | https://registry-edge.dingalinged.workers.dev/c/blossom-pet-salon-little-canada/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store little canada mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -8,17 +8,17 @@ Retina Institute of Texas is an eye care practice in Denton, TX at 3331 Unicorn 
 - City: Denton
 - State: TX
 - ZIP: 76210
-- Coordinates: 33.1726306, -97.0957126
+- Coordinates: 33.1726307, -97.0957126
 - Phone: n/a
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 42% of eye care practices in Dallas–Fort Worth, #3 of 4 eye care practices in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 44% of eye care practices in Dallas–Fort Worth, #3 of 4 eye care practices in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/retina-institute-of-texas-denton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/retina-institute-of-texas-denton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/653614304 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/653614304 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

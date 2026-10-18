@@ -13,7 +13,7 @@ Farmers Insurance - Jacob Eaton is an insurance agent in Lenexa, KS at 10101 Woo
 - Website: https://agents.farmers.com/ks/lenexa/jacob-eaton/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 49.2/100 — Building — top 48% of insurance agents in Kansas City, MO, #2 of 4 insurance agents in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 44% of insurance agents in Kansas City, MO, #2 of 4 insurance agents in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

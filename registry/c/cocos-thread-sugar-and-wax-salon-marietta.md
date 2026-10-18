@@ -13,7 +13,7 @@ Coco's Thread Sugar & Wax Salon is a waxing salon in Marietta, GA at 2421 Shallo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu-We 11:00-18:00; Th 14:00-18:00; Fr-Sa 11:00-18:00; Su off
-- Pulse Score: 57.7/100 — Fair — top 32% of waxing salons in Atlanta, #2 of 5 waxing salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Fair — top 32% of waxing salons in Atlanta, #2 of 5 waxing salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

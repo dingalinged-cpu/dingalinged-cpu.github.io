@@ -13,7 +13,7 @@ Douceur de France is a bakery in Marietta, GA at 277 South Marietta Parkway Sout
 - Website: https://www.douceurdefrance.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-18:00; Su 09:00-16:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 26% of bakerys in Atlanta, #7 of 13 bakerys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 25% of bakerys in Atlanta, #7 of 13 bakerys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

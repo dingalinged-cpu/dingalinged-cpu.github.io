@@ -6,7 +6,7 @@ Also answers: caterers in Brookfield, WI; caterers near me (Brookfield, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carrabba's Italian Grill | Organic #1 | Pulse Score 42.6/100 (Building, #1 in city) | Carrabba's Italian Grill is a caterer in Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/carrabbas-italian-grill-brookfield/
+1. Carrabba's Italian Grill | Organic #1 | Pulse Score 42.4/100 (Building, #1 in city) | Carrabba's Italian Grill is a caterer in Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/carrabbas-italian-grill-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers brookfield wi | category: Events & weddings | industry benchmark: Personal Services

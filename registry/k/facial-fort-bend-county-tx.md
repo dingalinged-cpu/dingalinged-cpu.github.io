@@ -6,7 +6,7 @@ Also answers: facial in Fort Bend County, TX; facial near me (Fort Bend County, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Skin Laundry | Organic #1 | Pulse Score 40.4/100 (Building, #1 in city) | Skin Laundry is a skin care studio in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/skin-laundry-fort-bend-county/
+1. Skin Laundry | Organic #1 | Pulse Score 40.3/100 (Building, #1 in city) | Skin Laundry is a skin care studio in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/skin-laundry-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial fort bend county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

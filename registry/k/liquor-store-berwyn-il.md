@@ -6,7 +6,7 @@ Also answers: liquor store in Berwyn, IL; liquor store near me (Berwyn, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Central Discount Liquor | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Central Discount Liquor is a liquor store in Berwyn, IL at 6721 West Roosevelt Road, Berwyn, IL 60402. | https://registry-edge.dingalinged.workers.dev/c/central-discount-liquor-berwyn/
+1. Central Discount Liquor | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Central Discount Liquor is a liquor store in Berwyn, IL at 6721 West Roosevelt Road, Berwyn, IL 60402. | https://registry-edge.dingalinged.workers.dev/c/central-discount-liquor-berwyn/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store berwyn il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -23,13 +23,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 15. Saturn | Organic #15 | Pulse Score 56.8/100 (Unrated, #14 in city) | Saturn is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/saturn-minneapolis/
 16. Ban Sabai | Organic #16 | Pulse Score 56.2/100 (Unrated, #15 in city) | Ban Sabai is a nail salon in Minneapolis, MN at 1704 West Lake Street, Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/ban-sabai-minneapolis/
 17. Cheon Luxe Nails | Organic #17 | Pulse Score 55.7/100 (Unrated, #16 in city) | Cheon Luxe Nails is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/cheon-luxe-nails-minneapolis/
-18. E Nails | Organic #18 | Pulse Score 55.7/100 (Unrated, #17 in city) | E Nails is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/e-nails-minneapolis/
-19. Do Me Nails | Organic #19 | Pulse Score 54.8/100 (Unrated, #18 in city) | Do Me Nails is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/do-me-nails-minneapolis/
-20. Lupita's Nail Salon | Organic #20 | Pulse Score 54.8/100 (Unrated, #19 in city) | Lupita's Nail Salon is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/lupitas-nail-salon-minneapolis/
-21. Mystic Nails | Organic #21 | Pulse Score 54.8/100 (Unrated, #20 in city) | Mystic Nails is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/mystic-nails-minneapolis/
-22. Nail & Beauty Skin Care | Organic #22 | Pulse Score 54.8/100 (Unrated, #21 in city) | Nail & Beauty Skin Care is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/nail-and-beauty-skin-care-minneapolis/
-23. Paula's Salon | Organic #23 | Pulse Score 54.8/100 (Unrated, #22 in city) | Paula's Salon is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/paulas-salon-minneapolis/
-24. Daisy Nails | Organic #24 | Pulse Score 48.4/100 (Building, #23 in city) | Daisy Nails is a nail salon in Minneapolis, MN at 2544 Hennepin Avenue South, Minneapolis, MN. Phone: +16129779047. | https://registry-edge.dingalinged.workers.dev/c/daisy-nails-minneapolis/
+18. Do Me Nails | Organic #18 | Pulse Score 54.8/100 (Unrated, #17 in city) | Do Me Nails is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/do-me-nails-minneapolis/
+19. Lupita's Nail Salon | Organic #19 | Pulse Score 54.8/100 (Unrated, #18 in city) | Lupita's Nail Salon is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/lupitas-nail-salon-minneapolis/
+20. Mystic Nails | Organic #20 | Pulse Score 54.8/100 (Unrated, #19 in city) | Mystic Nails is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/mystic-nails-minneapolis/
+21. Nail & Beauty Skin Care | Organic #21 | Pulse Score 54.8/100 (Unrated, #20 in city) | Nail & Beauty Skin Care is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/nail-and-beauty-skin-care-minneapolis/
+22. Paula's Salon | Organic #22 | Pulse Score 54.8/100 (Unrated, #21 in city) | Paula's Salon is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/paulas-salon-minneapolis/
+23. Daisy Nails | Organic #23 | Pulse Score 48.4/100 (Building, #22 in city) | Daisy Nails is a nail salon in Minneapolis, MN at 2544 Hennepin Avenue South, Minneapolis, MN. Phone: +16129779047. | https://registry-edge.dingalinged.workers.dev/c/daisy-nails-minneapolis/
+24. E Nails | Organic #24 | Pulse Score 42.9/100 (Unrated, #23 in city) | E Nails is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/e-nails-minneapolis/
 25. Daisy Nails | Organic #25 | Pulse Score 42/100 (Unrated, #24 in city) | Daisy Nails is a nail salon in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/daisy-nails-minneapolis-n12175225572/
 
 ## Market data (for advertisers and agents)

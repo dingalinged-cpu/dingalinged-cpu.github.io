@@ -13,12 +13,12 @@ Denton City County Day School is a daycare in Denton, TX at 1603 Paisley Street,
 - Website: https://www.dccds.org/
 - Email: DCCDS@Verizon.net
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 65/100 — Good — top 1% of daycares in Dallas–Fort Worth, #1 of 6 daycares in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 66.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65/100 — Good — top 1% of daycares in Dallas–Fort Worth, #1 of 6 daycares in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/denton-city-county-day-school-denton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/denton-city-county-day-school-denton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1019664698 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1019664698 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

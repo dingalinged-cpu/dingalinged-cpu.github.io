@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Community CPA & Associates | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Community CPA & Associates is an accountant in Des Moines, IA at 3816 Ingersoll Avenue, Des Moines, IA 50312. Phone: +15152883188. Website: https://www.communitycpa.com/. | https://registry-edge.dingalinged.workers.dev/c/community-cpa-and-associates-des-moines/
 2. Ameriprise - Barzen & Associates | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Ameriprise - Barzen & Associates is an accountant in Des Moines, IA at 2716 Grand Avenue, Des Moines, IA 50312. | https://registry-edge.dingalinged.workers.dev/c/ameriprise-barzen-and-associates-des-moines/
-3. Peak & Co. PC | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Peak & Co. PC is an accountant in Des Moines, IA. Website: https://peakcpa.com/. | https://registry-edge.dingalinged.workers.dev/c/peak-and-co-pc-des-moines/
+3. Peak & Co. PC | Organic #3 | Pulse Score 55.8/100 (Unrated, #3 in city) | Peak & Co. PC is an accountant in Des Moines, IA. Website: https://peakcpa.com/. | https://registry-edge.dingalinged.workers.dev/c/peak-and-co-pc-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant des moines ia | category: professional_accounting | industry benchmark: Business Services

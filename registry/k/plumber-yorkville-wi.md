@@ -6,7 +6,7 @@ Also answers: plumber in Yorkville, WI; plumber near me (Yorkville, WI); best pl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Plumbers & Steamfitters Training Center | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Plumbers & Steamfitters Training Center is a plumber in Yorkville, WI. | https://registry-edge.dingalinged.workers.dev/c/plumbers-and-steamfitters-training-center-yorkville/
+1. Plumbers & Steamfitters Training Center | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Plumbers & Steamfitters Training Center is a plumber in Yorkville, WI. | https://registry-edge.dingalinged.workers.dev/c/plumbers-and-steamfitters-training-center-yorkville/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber yorkville wi | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ East Coast Tae Kwon Do Club is a martial arts school in Altoona, IA at 204 8th S
 - Website: https://www.eastcoasttaekwondo.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 25% of martial arts schools in Des Moines, IA, #1 of 1 martial arts schools in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 25% of martial arts schools in Des Moines, IA, #1 of 1 martial arts schools in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: funeral home in Robbinsdale, MN; funeral home near me (Robbinsdale
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Washburn-McReavy Robbinsdale Chapel | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Washburn-McReavy Robbinsdale Chapel is a funeral home in Robbinsdale, MN at 4239 West Broadway Avenue, Robbinsdale, MN 55422. | https://registry-edge.dingalinged.workers.dev/c/washburn-mcreavy-robbinsdale-chapel-robbinsdale/
-2. Gearty Delmore Funeral Chapels | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Gearty Delmore Funeral Chapels is a funeral home in Robbinsdale, MN. | https://registry-edge.dingalinged.workers.dev/c/gearty-delmore-funeral-chapels-robbinsdale/
+1. Washburn-McReavy Robbinsdale Chapel | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Washburn-McReavy Robbinsdale Chapel is a funeral home in Robbinsdale, MN at 4239 West Broadway Avenue, Robbinsdale, MN 55422. | https://registry-edge.dingalinged.workers.dev/c/washburn-mcreavy-robbinsdale-chapel-robbinsdale/
+2. Gearty Delmore Funeral Chapels | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Gearty Delmore Funeral Chapels is a funeral home in Robbinsdale, MN. | https://registry-edge.dingalinged.workers.dev/c/gearty-delmore-funeral-chapels-robbinsdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home robbinsdale mn | category: Professional & financial services | industry benchmark: Finance & Insurance

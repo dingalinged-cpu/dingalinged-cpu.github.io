@@ -6,10 +6,10 @@ Also answers: yoga classes in Frisco, TX; yoga classes near me (Frisco, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Frisco Athletic Center | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Frisco Athletic Center is a yoga studio in Frisco, TX at 5828 Nancy Jane Lane, Frisco, TX 75035. Phone: +19722926600. Website: https://playfrisco.org/fac. | https://registry-edge.dingalinged.workers.dev/c/frisco-athletic-center-frisco/
-2. The Alchemy Yoga | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | The Alchemy Yoga is a yoga studio in Frisco, TX at 8877 Wade Boulevard #100, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/the-alchemy-yoga-frisco/
-3. Life Time | Organic #3 | Pulse Score 50.3/100 (Fair, #3 in city) | Life Time is a yoga studio in Frisco, TX at 4900 Throne Hall Dr, Frisco, TX. Phone: +14694763900. Website: https://www.lifetime.life/locations/tx/frisco.html. | https://registry-edge.dingalinged.workers.dev/c/life-time-frisco/
-4. HotWorx | Organic #4 | Pulse Score 44.3/100 (Building, #4 in city) | HotWorx is a yoga studio in Frisco, TX at 2155 West University Drive #130, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/hotworx-frisco/
+1. Frisco Athletic Center | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Frisco Athletic Center is a yoga studio in Frisco, TX at 5828 Nancy Jane Lane, Frisco, TX 75035. Phone: +19722926600. Website: https://playfrisco.org/fac. | https://registry-edge.dingalinged.workers.dev/c/frisco-athletic-center-frisco/
+2. The Alchemy Yoga | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | The Alchemy Yoga is a yoga studio in Frisco, TX at 8877 Wade Boulevard #100, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/the-alchemy-yoga-frisco/
+3. Life Time | Organic #3 | Pulse Score 50.4/100 (Fair, #3 in city) | Life Time is a yoga studio in Frisco, TX at 4900 Throne Hall Dr, Frisco, TX. Phone: +14694763900. Website: https://www.lifetime.life/locations/tx/frisco.html. | https://registry-edge.dingalinged.workers.dev/c/life-time-frisco/
+4. HotWorx | Organic #4 | Pulse Score 44.4/100 (Building, #4 in city) | HotWorx is a yoga studio in Frisco, TX at 2155 West University Drive #130, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/hotworx-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes frisco tx | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Jenny Craig is a therapy practice in Brookfield, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.3/100 — Building — top 100% of therapy practices in Milwaukee, #4 of 4 therapy practices in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 37.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.3/100 — Building — top 100% of therapy practices in Milwaukee, #4 of 4 therapy practices in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 37.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

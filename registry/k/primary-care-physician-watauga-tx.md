@@ -6,7 +6,7 @@ Also answers: primary care physician in Watauga, TX; primary care physician near
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gertrude Tarpley Watauga Health Center | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Gertrude Tarpley Watauga Health Center is a family medicine practice in Watauga, TX at 6601 Watauga Road ##124, Watauga, TX 76148. Phone: +18177021100. Website: https://www.teamacclaim.org/locations/locations-profile/gertrude-tarpley-watauga-health-center/. | https://registry-edge.dingalinged.workers.dev/c/gertrude-tarpley-watauga-health-center-watauga/
+1. Gertrude Tarpley Watauga Health Center | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Gertrude Tarpley Watauga Health Center is a family medicine practice in Watauga, TX at 6601 Watauga Road ##124, Watauga, TX 76148. Phone: +18177021100. Website: https://www.teamacclaim.org/locations/locations-profile/gertrude-tarpley-watauga-health-center/. | https://registry-edge.dingalinged.workers.dev/c/gertrude-tarpley-watauga-health-center-watauga/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician watauga tx | category: Health & medical | industry benchmark: Physicians & Surgeons

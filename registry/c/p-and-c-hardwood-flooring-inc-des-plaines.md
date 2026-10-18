@@ -13,7 +13,7 @@ P & C Hardwood Flooring Inc. is a flooring company in Des Plaines, IL at 2775 Sc
 - Website: https://pchardwoodflooring.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Fair — top 34% of flooring companys in Chicago, #1 of 1 flooring companys in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Fair — top 34% of flooring companys in Chicago, #1 of 1 flooring companys in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

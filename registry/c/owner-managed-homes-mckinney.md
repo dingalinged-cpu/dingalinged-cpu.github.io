@@ -19,6 +19,6 @@ Owner Managed Homes is a real estate agency in McKinney, TX at 2150 South Centra
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/owner-managed-homes-mckinney/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/owner-managed-homes-mckinney.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6048290204 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6048290204 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

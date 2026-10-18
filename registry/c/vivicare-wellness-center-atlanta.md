@@ -13,7 +13,7 @@ Vivicare Wellness Center is a chiropractor in Atlanta, GA at 4920 Roswell Road #
 - Website: https://vivicarewellness.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-19:00; Tu 09:00-14:00; Th 14:00-18:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 33% of chiropractors in Atlanta, #8 of 18 chiropractors in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 32% of chiropractors in Atlanta, #8 of 18 chiropractors in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

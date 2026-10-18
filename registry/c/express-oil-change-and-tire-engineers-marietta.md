@@ -13,7 +13,7 @@ Express Oil Change & Tire Engineers is a tire shop in Marietta, GA at 168 Barret
 - Website: https://www.expressoil.com/stores/marietta/ga/0081/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00;Sa 08:00-17:00
-- Pulse Score: 49.6/100 — Building — top 51% of tire shops in Atlanta, #7 of 8 tire shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 50% of tire shops in Atlanta, #7 of 8 tire shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

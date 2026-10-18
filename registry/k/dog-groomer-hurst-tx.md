@@ -6,7 +6,7 @@ Also answers: dog groomer in Hurst, TX; dog groomer near me (Hurst, TX); best do
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Waggamuffins Grooming and Doggy Daycare | Organic #1 | Pulse Score 61.8/100 (Good, #1 in city) | Waggamuffins Grooming and Doggy Daycare is a dog groomer in Hurst, TX at 846 West Pipeline Road, Hurst, TX 76053. Phone: +18176163346. Website: https://waggamuffinsdfw.com/. | https://registry-edge.dingalinged.workers.dev/c/waggamuffins-grooming-and-doggy-daycare-hurst/
+1. Waggamuffins Grooming and Doggy Daycare | Organic #1 | Pulse Score 61.6/100 (Good, #1 in city) | Waggamuffins Grooming and Doggy Daycare is a dog groomer in Hurst, TX at 846 West Pipeline Road, Hurst, TX 76053. Phone: +18176163346. Website: https://waggamuffinsdfw.com/. | https://registry-edge.dingalinged.workers.dev/c/waggamuffins-grooming-and-doggy-daycare-hurst/
 2. The Grooming Boutique | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | The Grooming Boutique is a dog groomer in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/the-grooming-boutique-hurst/
 
 ## Market data (for advertisers and agents)

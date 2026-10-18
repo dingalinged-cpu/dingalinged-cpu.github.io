@@ -6,7 +6,7 @@ Also answers: haircut in Burnsville, MN; haircut near me (Burnsville, MN); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barber Shop | Organic #1 | Pulse Score 45/100 (Unrated, #1 in city) | Barber Shop is a barber shop in Burnsville, MN at 2520, Burnsville, MN. Phone: +16124343587. | https://registry-edge.dingalinged.workers.dev/c/barber-shop-burnsville/
+1. Barber Shop | Organic #1 | Pulse Score 44.9/100 (Unrated, #1 in city) | Barber Shop is a barber shop in Burnsville, MN at 2520, Burnsville, MN. Phone: +16124343587. | https://registry-edge.dingalinged.workers.dev/c/barber-shop-burnsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut burnsville mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Elequent Jewelry Inc is a jewelry store in Saint Louis Park, MN at 7915 Minneton
 - Website: https://www.elequentjewelry.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of jewelry stores in Minneapolis–St. Paul, #4 of 8 jewelry stores in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of jewelry stores in Minneapolis–St. Paul, #4 of 8 jewelry stores in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

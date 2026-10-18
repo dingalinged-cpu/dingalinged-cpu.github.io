@@ -19,6 +19,6 @@ N. B. Exxon is an auto repair shop in Richardson, TX at 1702 East Belt Line Road
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/n-b-exxon-richardson/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/n-b-exxon-richardson.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13121723845 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13121723845 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

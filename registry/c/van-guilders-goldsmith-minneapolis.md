@@ -13,7 +13,7 @@ Van Guilder's Goldsmith is a jewelry store in Minneapolis, MN at 4999 France Ave
 - Website: https://www.vanguilders.biz/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 37% of jewelry stores in Minneapolis–St. Paul, #7 of 18 jewelry stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 37% of jewelry stores in Minneapolis–St. Paul, #7 of 18 jewelry stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

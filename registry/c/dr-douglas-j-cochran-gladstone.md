@@ -13,7 +13,7 @@ Dr. Douglas J Cochran is a dentist in Gladstone, MO at 7101 North Oak Trafficway
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00, Sa 08:00-12:00
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 46% of dentists in Kansas City, MO, #2 of 4 dentists in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 46% of dentists in Kansas City, MO, #2 of 4 dentists in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: waxing in Addison, TX; waxing near me (Addison, TX); best waxing A
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. European Wax Center | Organic #1 | Pulse Score 42.4/100 (Building, #4 in city) | European Wax Center is a waxing salon in Dallas, TX at 5000 Belt Line Road, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/european-wax-center-dallas-n11810008562/
+1. European Wax Center | Organic #1 | Pulse Score 42.3/100 (Building, #4 in city) | European Wax Center is a waxing salon in Dallas, TX at 5000 Belt Line Road, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/european-wax-center-dallas-n11810008562/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing addison tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

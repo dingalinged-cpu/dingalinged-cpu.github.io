@@ -13,7 +13,7 @@ Chance's Express Doggie Spa is a dog groomer in Milwaukee, WI at 6924 West Capit
 - Website: https://chancesexpressdoggiespa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00; Sa 09:00-14:00; Su off
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 28% of dog groomers in Milwaukee, #2 of 5 dog groomers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 28% of dog groomers in Milwaukee, #2 of 5 dog groomers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

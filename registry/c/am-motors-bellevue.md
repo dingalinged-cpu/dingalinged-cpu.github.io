@@ -13,7 +13,7 @@ AM Motors is an used car dealer in Bellevue, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 60% of used car dealers in Omaha, NE, #1 of 1 used car dealers in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 39.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 60% of used car dealers in Omaha, NE, #1 of 1 used car dealers in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 39.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,4 +1,4 @@
-Keyword market for Terrell, TX: 17 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
+Keyword market for Terrell, TX: 18 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
 
 # Top keywords in Terrell, TX
 
@@ -21,21 +21,21 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 14. insurance agent terrell tx | searches/mo 1,000 (est) | CPC $3.39 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-terrell-tx/
 
 ## By CPC
-1. tax preparer terrell tx | searches/mo 1,500 (est) | CPC $5.87 | value $8,800 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-terrell-tx/
-2. pediatrician terrell tx | searches/mo 2,200 (est) | CPC $4.76 | value $10,000 | Google Ads equiv $700/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pediatrician-terrell-tx/
-3. dentist terrell tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-terrell-tx/
-4. haircut terrell tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/haircut-terrell-tx/
-5. tattoo shop terrell tx | searches/mo 23,000 (est) | CPC $4.62 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-terrell-tx/
-6. auto repair terrell tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-terrell-tx/
-7. mechanic terrell tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/mechanic-terrell-tx/
-8. tire shop terrell tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-terrell-tx/
-9. jewelry store terrell tx | searches/mo 3,500 (est) | CPC $4.14 | value $14,000 | Google Ads equiv $1,300/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/jewelry-store-terrell-tx/
-10. liquor store terrell tx | searches/mo 3,500 (est) | CPC $4.14 | value $14,000 | Google Ads equiv $1,300/mo | our featured min $10/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-terrell-tx/
-11. dog groomer terrell tx | searches/mo 11,000 (est) | CPC $4.06 | value $45,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-terrell-tx/
-12. insurance agency terrell tx | searches/mo 2,200 (est) | CPC $3.39 | value $7,500 | Google Ads equiv $620/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-terrell-tx/
-13. insurance agent terrell tx | searches/mo 1,000 (est) | CPC $3.39 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-terrell-tx/
-14. insurance agents terrell tx | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-terrell-tx/
-15. tax preparation terrell tx | searches/mo 1,800 (est) | CPC $3.25 | value $5,800 | Google Ads equiv $490/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-terrell-tx/
+1. driveway paving terrell tx | searches/mo 990 (est) | CPC $8.33 | value $8,200 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/driveway-paving-terrell-tx/
+2. tax preparer terrell tx | searches/mo 1,500 (est) | CPC $5.87 | value $8,800 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-terrell-tx/
+3. pediatrician terrell tx | searches/mo 2,200 (est) | CPC $4.76 | value $10,000 | Google Ads equiv $700/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pediatrician-terrell-tx/
+4. dentist terrell tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-terrell-tx/
+5. haircut terrell tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/haircut-terrell-tx/
+6. tattoo shop terrell tx | searches/mo 23,000 (est) | CPC $4.62 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-terrell-tx/
+7. auto repair terrell tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-terrell-tx/
+8. mechanic terrell tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/mechanic-terrell-tx/
+9. tire shop terrell tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-terrell-tx/
+10. jewelry store terrell tx | searches/mo 3,500 (est) | CPC $4.14 | value $14,000 | Google Ads equiv $1,300/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/jewelry-store-terrell-tx/
+11. liquor store terrell tx | searches/mo 3,500 (est) | CPC $4.14 | value $14,000 | Google Ads equiv $1,300/mo | our featured min $10/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-terrell-tx/
+12. dog groomer terrell tx | searches/mo 11,000 (est) | CPC $4.06 | value $45,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-terrell-tx/
+13. insurance agency terrell tx | searches/mo 2,200 (est) | CPC $3.39 | value $7,500 | Google Ads equiv $620/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-terrell-tx/
+14. insurance agent terrell tx | searches/mo 1,000 (est) | CPC $3.39 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-terrell-tx/
+15. insurance agents terrell tx | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-terrell-tx/
 
 ## By value (searches x CPC)
 1. dentist terrell tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-terrell-tx/

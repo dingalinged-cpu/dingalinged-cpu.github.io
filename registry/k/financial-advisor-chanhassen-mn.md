@@ -6,8 +6,8 @@ Also answers: financial advisor in Chanhassen, MN; financial advisor near me (Ch
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cetera Advisors | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Cetera Advisors is a financial advisor in Chanhassen, MN at 7955 Stone Creek Drive #20, Chanhassen, MN 55317. | https://registry-edge.dingalinged.workers.dev/c/cetera-advisors-chanhassen/
-2. Wealth Guidance | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Wealth Guidance is a financial advisor in Chanhassen, MN at 7925 Stone Creek Drive #110, Chanhassen, MN 55317. | https://registry-edge.dingalinged.workers.dev/c/wealth-guidance-chanhassen/
+1. Cetera Advisors | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Cetera Advisors is a financial advisor in Chanhassen, MN at 7955 Stone Creek Drive #20, Chanhassen, MN 55317. | https://registry-edge.dingalinged.workers.dev/c/cetera-advisors-chanhassen/
+2. Wealth Guidance | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Wealth Guidance is a financial advisor in Chanhassen, MN at 7925 Stone Creek Drive #110, Chanhassen, MN 55317. | https://registry-edge.dingalinged.workers.dev/c/wealth-guidance-chanhassen/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor chanhassen mn | category: Professional & financial services | industry benchmark: Finance & Insurance

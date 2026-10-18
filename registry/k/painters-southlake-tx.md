@@ -6,7 +6,7 @@ Also answers: painters in Southlake, TX; painters near me (Southlake, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Honey Hues Painting | Organic #1 | Pulse Score 58.8/100 (Fair, #1 in city) | Honey Hues Painting is a painting contractor in Southlake, TX at 1721 East Southlake Boulevard #130, Southlake, TX 76092. Phone: +18175187376. Website: https://www.honeyhuespainting.com/. | https://registry-edge.dingalinged.workers.dev/c/honey-hues-painting-southlake/
+1. Honey Hues Painting | Organic #1 | Pulse Score 58.9/100 (Fair, #1 in city) | Honey Hues Painting is a painting contractor in Southlake, TX at 1721 East Southlake Boulevard #130, Southlake, TX 76092. Phone: +18175187376. Website: https://www.honeyhuespainting.com/. | https://registry-edge.dingalinged.workers.dev/c/honey-hues-painting-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters southlake tx | category: Home services - Painting | industry benchmark: Home & Home Improvement

@@ -19,6 +19,6 @@ Gold Dust is a tattoo shop in Dallas, TX at 1902 Greenville Avenue, Dallas, TX. 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/gold-dust-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gold-dust-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7080501031 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7080501031 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ La Petite Academy of Merriam is a preschool in Merriam, KS at 6410 Antioch Road,
 - Website: https://www.lapetite.com/your-local-school/merriam-ks-7043/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 59% of preschools in Kansas City, MO, #1 of 1 preschools in Merriam (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 59% of preschools in Kansas City, MO, #1 of 1 preschools in Merriam (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

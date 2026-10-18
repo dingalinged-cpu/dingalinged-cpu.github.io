@@ -6,7 +6,7 @@ Also answers: flooring companies in Park Ridge, IL; flooring companies near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ace Flooring Co. | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Ace Flooring Co. is a flooring company in Park Ridge, IL at 1024 Busse Highway, Park Ridge, IL 60068. Phone: +18476962800. Website: https://aceflooring.biz/. | https://registry-edge.dingalinged.workers.dev/c/ace-flooring-co-park-ridge/
+1. Ace Flooring Co. | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Ace Flooring Co. is a flooring company in Park Ridge, IL at 1024 Busse Highway, Park Ridge, IL 60068. Phone: +18476962800. Website: https://aceflooring.biz/. | https://registry-edge.dingalinged.workers.dev/c/ace-flooring-co-park-ridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies park ridge il | category: Home services - Flooring | industry benchmark: Home & Home Improvement

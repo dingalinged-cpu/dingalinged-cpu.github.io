@@ -6,8 +6,8 @@ Also answers: property management company in Schaumburg, IL; property management
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fieldpointe of Schaumburg Management and Leasing Office | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Fieldpointe of Schaumburg Management and Leasing Office is a property management company in Schaumburg, IL at 1708 Arbor Square, Schaumburg, IL 60173. Phone: +18334675229. Website: https://www.fieldpointe-apartments.com/. | https://registry-edge.dingalinged.workers.dev/c/fieldpointe-of-schaumburg-management-and-leasing-office-schaumburg/
-2. The Quin Leasing Office | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | The Quin Leasing Office is a property management company in Schaumburg, IL at 2450 Old Plum Grove Road, Schaumburg, IL 60173. Phone: +18474967171. | https://registry-edge.dingalinged.workers.dev/c/the-quin-leasing-office-schaumburg/
+1. Fieldpointe of Schaumburg Management and Leasing Office | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Fieldpointe of Schaumburg Management and Leasing Office is a property management company in Schaumburg, IL at 1708 Arbor Square, Schaumburg, IL 60173. Phone: +18334675229. Website: https://www.fieldpointe-apartments.com/. | https://registry-edge.dingalinged.workers.dev/c/fieldpointe-of-schaumburg-management-and-leasing-office-schaumburg/
+2. The Quin Leasing Office | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | The Quin Leasing Office is a property management company in Schaumburg, IL at 2450 Old Plum Grove Road, Schaumburg, IL 60173. Phone: +18474967171. | https://registry-edge.dingalinged.workers.dev/c/the-quin-leasing-office-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company schaumburg il | category: Professional & financial services | industry benchmark: Finance & Insurance

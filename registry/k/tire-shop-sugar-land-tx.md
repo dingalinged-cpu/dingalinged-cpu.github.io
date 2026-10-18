@@ -6,7 +6,7 @@ Also answers: tire shop in Sugar Land, TX; tire shop near me (Sugar Land, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | Discount Tire is a tire shop in Sugar Land, TX at 4507 State Highway 6 South, Sugar Land, TX 77478. Phone: +12815652005. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-sugar-land/
+1. Discount Tire | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | Discount Tire is a tire shop in Sugar Land, TX at 4507 State Highway 6 South, Sugar Land, TX 77478. Phone: +12815652005. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-sugar-land/
 2. Discount Tire | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | Discount Tire is a tire shop in Sugar Land, TX at 10205 Highway 6 South, Sugar Land, TX 77498. Phone: +12815650496. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-sugar-land-w681165866/
 3. Discount Tire | Organic #3 | Pulse Score 46.3/100 (Building, #3 in city) | Discount Tire is a tire shop in Sugar Land, TX at 7620 Hwy 90A, Sugar Land, TX 77478. Phone: +18329356018. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-sugar-land-w681170979/
 

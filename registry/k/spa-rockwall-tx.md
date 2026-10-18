@@ -7,7 +7,7 @@ Also answers: spa in Rockwall, TX; spa near me (Rockwall, TX); best spa Rockwall
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Rockwall Salon & Spa | Organic #1 | Pulse Score 62.3/100 (Unrated, #3 in city) | Rockwall Salon & Spa is a nail salon in Rockwall, TX at 983 East Interstate 30 #117, Rockwall, TX 75087. Phone: +19727222470. Website: https://rockwallsalonandspa.com/. | https://registry-edge.dingalinged.workers.dev/c/rockwall-salon-and-spa-rockwall/
-2. Rockwall Complete Healing & Wellness | Organic #2 | Pulse Score 61.2/100 (Unrated, #1 in city) | Rockwall Complete Healing & Wellness is a spa in Rockwall, TX at 2455 Ridge Road #151, Rockwall, TX 75087. Phone: +19727718900. Website: https://rockwallcompletewellness.com/. | https://registry-edge.dingalinged.workers.dev/c/rockwall-complete-healing-and-wellness-rockwall/
+2. Rockwall Complete Healing & Wellness | Organic #2 | Pulse Score 61.5/100 (Unrated, #1 in city) | Rockwall Complete Healing & Wellness is a spa in Rockwall, TX at 2455 Ridge Road #151, Rockwall, TX 75087. Phone: +19727718900. Website: https://rockwallcompletewellness.com/. | https://registry-edge.dingalinged.workers.dev/c/rockwall-complete-healing-and-wellness-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa rockwall tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

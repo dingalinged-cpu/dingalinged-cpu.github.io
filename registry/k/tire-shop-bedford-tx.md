@@ -7,8 +7,8 @@ Also answers: tire shop in Bedford, TX; tire shop near me (Bedford, TX); best ti
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Tire Store Service Center | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Tire Store Service Center is a tire shop in Bedford, TX at 3928 East Harwood Road, Bedford, TX 76021. | https://registry-edge.dingalinged.workers.dev/c/tire-store-service-center-bedford/
-2. Discount Tire | Organic #2 | Pulse Score 45.8/100 (Building, #2 in city) | Discount Tire is a tire shop in Bedford, TX at 3233 East Harwood Road, Bedford, TX 76021. Phone: +18175712341. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-bedford/
-3. Mavis Tires & Brakes | Organic #3 | Pulse Score 44.8/100 (Building, #5 in city) | Mavis Tires & Brakes is an auto repair shop in Bedford, TX at 3120 Harwood Road, Bedford, TX 76021. | https://registry-edge.dingalinged.workers.dev/c/mavis-tires-and-brakes-bedford/
+2. Discount Tire | Organic #2 | Pulse Score 45.7/100 (Building, #2 in city) | Discount Tire is a tire shop in Bedford, TX at 3233 East Harwood Road, Bedford, TX 76021. Phone: +18175712341. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-bedford/
+3. Mavis Tires & Brakes | Organic #3 | Pulse Score 44.7/100 (Building, #5 in city) | Mavis Tires & Brakes is an auto repair shop in Bedford, TX at 3120 Harwood Road, Bedford, TX 76021. | https://registry-edge.dingalinged.workers.dev/c/mavis-tires-and-brakes-bedford/
 4. Firestone Complete Auto Care | Organic #4 | Pulse Score 41.5/100 (Unrated, #3 in city) | Firestone Complete Auto Care is a tire shop in Bedford, TX. | https://registry-edge.dingalinged.workers.dev/c/firestone-complete-auto-care-bedford/
 
 ## Market data (for advertisers and agents)

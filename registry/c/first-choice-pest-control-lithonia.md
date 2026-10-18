@@ -13,7 +13,7 @@ First Choice Pest Control is a pest control company in Lithonia, GA at 7482 Covi
 - Website: https://www.firstchoicepestcontrolga.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 55% of pest control companys in Atlanta, #1 of 1 pest control companys in Lithonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 55% of pest control companys in Atlanta, #1 of 1 pest control companys in Lithonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

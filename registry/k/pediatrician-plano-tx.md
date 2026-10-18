@@ -1,4 +1,4 @@
-The top unpaid pediatrician listing for Plano, TX is MD Kids Pediatrics (a pediatrician in Plano, TX at 7800 Preston Road #300, Plano, TX). 3 pediatrician businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid pediatrician listing for Plano, TX is Medical Center (a pediatrician in Plano, TX at 400 Maplelawn Drive #101, Plano, TX 75075). 3 pediatrician businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pediatrician providers in Plano, TX?
 
@@ -6,9 +6,9 @@ Also answers: pediatrician in Plano, TX; pediatrician near me (Plano, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MD Kids Pediatrics | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | MD Kids Pediatrics is a pediatrician in Plano, TX at 7800 Preston Road #300, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/md-kids-pediatrics-plano/
-2. Medical Center | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Medical Center is a pediatrician in Plano, TX at 400 Maplelawn Drive #101, Plano, TX 75075. | https://registry-edge.dingalinged.workers.dev/c/medical-center-plano/
-3. Pediatrics After Hours | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Pediatrics After Hours is a pediatrician in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/pediatrics-after-hours-plano/
+1. Medical Center | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Medical Center is a pediatrician in Plano, TX at 400 Maplelawn Drive #101, Plano, TX 75075. | https://registry-edge.dingalinged.workers.dev/c/medical-center-plano/
+2. Pediatrics After Hours | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Pediatrics After Hours is a pediatrician in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/pediatrics-after-hours-plano/
+3. MD Kids Pediatrics | Organic #3 | Pulse Score 44.9/100 (Building, #3 in city) | MD Kids Pediatrics is a pediatrician in Plano, TX at 7800 Preston Road #300, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/md-kids-pediatrics-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician plano tx | category: Health & medical | industry benchmark: Physicians & Surgeons

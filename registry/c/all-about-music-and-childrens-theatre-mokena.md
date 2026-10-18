@@ -13,7 +13,7 @@ All About Music & Children's Theatre is a music school in Mokena, IL at 19108 Wo
 - Website: https://allaboutmusicmokena.com/
 - Email: AllAboutMusicMokena@yahoo.com
 - Opening hours (OSM syntax): Mo-Th 14:00-19:30
-- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 7% of music schools in Chicago, #1 of 2 music schools in Mokena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 7% of music schools in Chicago, #1 of 2 music schools in Mokena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

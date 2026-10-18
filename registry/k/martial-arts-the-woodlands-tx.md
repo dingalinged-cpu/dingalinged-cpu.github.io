@@ -6,11 +6,11 @@ Also answers: martial arts in The Woodlands, TX; martial arts near me (The Woodl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ince Karate | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Ince Karate is a martial arts school in The Woodlands, TX at 8000 Research Forest Drive #165, The Woodlands, TX 77382. Website: https://www.incekarate.com/. | https://registry-edge.dingalinged.workers.dev/c/ince-karate-the-woodlands/
-2. 9 Round Kickbox Fitness | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | 9 Round Kickbox Fitness is a martial arts school in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/9-round-kickbox-fitness-the-woodlands/
-3. Karate & MMA | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Karate & MMA is a martial arts school in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/karate-and-mma-the-woodlands/
-4. Teakwondo | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Teakwondo is a martial arts school in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/teakwondo-the-woodlands/
-5. Tiger Rock Martial Arts | Organic #5 | Pulse Score 42.6/100 (Unrated, #5 in city) | Tiger Rock Martial Arts is a martial arts school in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/tiger-rock-martial-arts-the-woodlands/
+1. Ince Karate | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Ince Karate is a martial arts school in The Woodlands, TX at 8000 Research Forest Drive #165, The Woodlands, TX 77382. Website: https://www.incekarate.com/. | https://registry-edge.dingalinged.workers.dev/c/ince-karate-the-woodlands/
+2. 9 Round Kickbox Fitness | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | 9 Round Kickbox Fitness is a martial arts school in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/9-round-kickbox-fitness-the-woodlands/
+3. Karate & MMA | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Karate & MMA is a martial arts school in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/karate-and-mma-the-woodlands/
+4. Teakwondo | Organic #4 | Pulse Score 55.2/100 (Unrated, #4 in city) | Teakwondo is a martial arts school in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/teakwondo-the-woodlands/
+5. Tiger Rock Martial Arts | Organic #5 | Pulse Score 42.4/100 (Unrated, #5 in city) | Tiger Rock Martial Arts is a martial arts school in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/tiger-rock-martial-arts-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts the woodlands tx | category: Fitness | industry benchmark: Health & Fitness

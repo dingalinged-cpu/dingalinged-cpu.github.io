@@ -6,8 +6,8 @@ Also answers: mechanic in Fulshear, TX; mechanic near me (Fulshear, TX); best me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Christian Brothers Automotive Fulshear | Organic #1 | Pulse Score 60.6/100 (Unrated, #4 in city) | Christian Brothers Automotive Fulshear is an auto repair shop in Katy, TX at 6150 FM 1463, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-fulshear-katy/
-2. Allstar Auto Glass | Organic #2 | Pulse Score 57.6/100 (Unrated, #1 in city) | Allstar Auto Glass is an auto repair shop in Fulshear, TX at 6610 FM 359 #800, Fulshear, TX 77441. | https://registry-edge.dingalinged.workers.dev/c/allstar-auto-glass-fulshear/
+1. Christian Brothers Automotive Fulshear | Organic #1 | Pulse Score 60.5/100 (Unrated, #4 in city) | Christian Brothers Automotive Fulshear is an auto repair shop in Katy, TX at 6150 FM 1463, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-fulshear-katy/
+2. Allstar Auto Glass | Organic #2 | Pulse Score 57.7/100 (Unrated, #1 in city) | Allstar Auto Glass is an auto repair shop in Fulshear, TX at 6610 FM 359 #800, Fulshear, TX 77441. | https://registry-edge.dingalinged.workers.dev/c/allstar-auto-glass-fulshear/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic fulshear tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

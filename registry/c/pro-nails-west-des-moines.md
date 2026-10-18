@@ -13,7 +13,7 @@ Pro Nails is a nail salon in West Des Moines, IA at 5004 E P True Parkway, West 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.9/100 — Unrated (not enough evidence yet) — top 100% of nail salons in Des Moines, IA, #9 of 9 nail salons in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.9/100 — Unrated (not enough evidence yet) — top 97% of nail salons in Des Moines, IA, #9 of 9 nail salons in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

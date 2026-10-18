@@ -13,7 +13,7 @@ Anderson Automotive is an auto repair shop in Olathe, KS at 19745 West 159th Str
 - Website: https://www.andersonautomotive.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 7% of auto repair shops in Kansas City, MO, #2 of 23 auto repair shops in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 74% of auto repair shops in Kansas City, MO, #11 of 23 auto repair shops in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

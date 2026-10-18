@@ -6,7 +6,7 @@ Also answers: photographer in Ramsey, MN; photographer near me (Ramsey, MN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sportsline Photography | Organic #1 | Pulse Score 66.5/100 (Good, #1 in city) | Sportsline Photography is a photographer in Ramsey, MN at 6451 McKinley Street Northwest #E, Ramsey, MN 55303. Phone: +16128392618. Website: https://www.sportslinephotography.com/. | https://registry-edge.dingalinged.workers.dev/c/sportsline-photography-ramsey/
+1. Sportsline Photography | Organic #1 | Pulse Score 66.4/100 (Good, #1 in city) | Sportsline Photography is a photographer in Ramsey, MN at 6451 McKinley Street Northwest #E, Ramsey, MN 55303. Phone: +16128392618. Website: https://www.sportslinephotography.com/. | https://registry-edge.dingalinged.workers.dev/c/sportsline-photography-ramsey/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer ramsey mn | category: Events & weddings | industry benchmark: Personal Services

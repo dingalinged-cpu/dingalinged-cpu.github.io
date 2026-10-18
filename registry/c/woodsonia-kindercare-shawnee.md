@@ -13,7 +13,7 @@ Woodsonia KinderCare is a preschool in Shawnee, KS at 5410 Woodsonia Drive, Shaw
 - Website: https://www.kindercare.com/our-centers/shawnee/ks/301973
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 52% of preschools in Kansas City, MO, #1 of 3 preschools in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 52% of preschools in Kansas City, MO, #1 of 3 preschools in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: flooring companies in Lee'S Summit, MO; flooring companies near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Harmon Floor Covering | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Harmon Floor Covering is a flooring company in Lee's Summit, MO at 104 Southwest 3rd Street, Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/harmon-floor-covering-lees-summit/
+1. Harmon Floor Covering | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Harmon Floor Covering is a flooring company in Lee's Summit, MO at 104 Southwest 3rd Street, Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/harmon-floor-covering-lees-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies lee's summit mo | category: Home services - Flooring | industry benchmark: Home & Home Improvement

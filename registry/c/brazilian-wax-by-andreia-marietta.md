@@ -13,7 +13,7 @@ Brazilian Wax by Andreia is a waxing salon in Marietta, GA at 1205 Johnson Ferry
 - Website: https://brazilianwax.com/locations/east-cobb/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-19:00; Sa 9:00-17:00
-- Pulse Score: 50.3/100 — Fair — top 76% of waxing salons in Atlanta, #5 of 5 waxing salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 76% of waxing salons in Atlanta, #5 of 5 waxing salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

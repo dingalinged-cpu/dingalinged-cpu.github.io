@@ -13,7 +13,7 @@ Absolute Chiropractic and Wellness is a chiropractor in Roswell, GA at 45 West C
 - Website: https://www.absolutechiros.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 08:30-18:30; Tu 14:00-18:30; Th,Sa-Su off
-- Pulse Score: 61.3/100 — Good — top 21% of chiropractors in Atlanta, #1 of 9 chiropractors in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Good — top 20% of chiropractors in Atlanta, #1 of 9 chiropractors in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

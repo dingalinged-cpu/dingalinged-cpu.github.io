@@ -6,9 +6,9 @@ Also answers: martial arts in Lewisville, TX; martial arts near me (Lewisville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Silva Academy Brazilian Jiu-Jitsu | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | Silva Academy Brazilian Jiu-Jitsu is a martial arts school in Lewisville, TX at 2488 Meadowglen Drive #201, Lewisville, TX. Phone: +14693229616. Website: https://www.silvaacademy.com/. | https://registry-edge.dingalinged.workers.dev/c/silva-academy-brazilian-jiu-jitsu-lewisville/
-2. Kim's USA Taekwondo | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Kim's USA Taekwondo is a martial arts school in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/kims-usa-taekwondo-lewisville/
-3. Kenpo Karate | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Kenpo Karate is a martial arts school in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/kenpo-karate-lewisville/
+1. Silva Academy Brazilian Jiu-Jitsu | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | Silva Academy Brazilian Jiu-Jitsu is a martial arts school in Lewisville, TX at 2488 Meadowglen Drive #201, Lewisville, TX. Phone: +14693229616. Website: https://www.silvaacademy.com/. | https://registry-edge.dingalinged.workers.dev/c/silva-academy-brazilian-jiu-jitsu-lewisville/
+2. Kim's USA Taekwondo | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Kim's USA Taekwondo is a martial arts school in Lewisville, TX. Phone: +19723151103. | https://registry-edge.dingalinged.workers.dev/c/kims-usa-taekwondo-lewisville/
+3. Kenpo Karate | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Kenpo Karate is a martial arts school in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/kenpo-karate-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts lewisville tx | category: Fitness | industry benchmark: Health & Fitness

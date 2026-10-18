@@ -7,7 +7,7 @@ Also answers: dry cleaners in Oak Lawn, IL; dry cleaners near me (Oak Lawn, IL);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Mayfield Cleaners | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Mayfield Cleaners is a dry cleaner in Oak Lawn, IL at 5955 West 87th Street, Oak Lawn, IL 60453. | https://registry-edge.dingalinged.workers.dev/c/mayfield-cleaners-oak-lawn/
-2. CD One Price Cleaners | Organic #2 | Pulse Score 47.8/100 (Building, #2 in city) | CD One Price Cleaners is a dry cleaner in Oak Lawn, IL at 6326 West 95th Street, Oak Lawn, IL 60453. Website: https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-oak-lawn/. | https://registry-edge.dingalinged.workers.dev/c/cd-one-price-cleaners-oak-lawn/
+2. CD One Price Cleaners | Organic #2 | Pulse Score 47.7/100 (Building, #2 in city) | CD One Price Cleaners is a dry cleaner in Oak Lawn, IL at 6326 West 95th Street, Oak Lawn, IL 60453. Website: https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-oak-lawn/. | https://registry-edge.dingalinged.workers.dev/c/cd-one-price-cleaners-oak-lawn/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners oak lawn il | category: Professional & financial services | industry benchmark: Finance & Insurance

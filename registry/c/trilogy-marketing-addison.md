@@ -19,6 +19,6 @@ Trilogy Marketing is a marketing agency in Addison, TX at 4961 Addison Circle, A
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/trilogy-marketing-addison/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trilogy-marketing-addison.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11861521652 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11861521652 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

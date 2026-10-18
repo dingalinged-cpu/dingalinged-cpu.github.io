@@ -6,7 +6,7 @@ Also answers: dentist in Dayton, TX; dentist near me (Dayton, TX); best dentist 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Smile Club | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Smile Club is a dentist in Dayton, TX. | https://registry-edge.dingalinged.workers.dev/c/smile-club-dayton/
+1. Smile Club | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Smile Club is a dentist in Dayton, TX. | https://registry-edge.dingalinged.workers.dev/c/smile-club-dayton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist dayton tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

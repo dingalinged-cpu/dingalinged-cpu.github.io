@@ -13,7 +13,7 @@ Des Moines Family Dentistry is a dentist in Des Moines, IA at 2301 Ingersoll Ave
 - Website: https://dsmfamilydentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th 08:00-16:30; We 08:00-17:00; Fr 09:00-14:00
-- Pulse Score: 64.2/100 — Good — top 5% of dentists in Des Moines, IA, #1 of 16 dentists in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 5% of dentists in Des Moines, IA, #1 of 16 dentists in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

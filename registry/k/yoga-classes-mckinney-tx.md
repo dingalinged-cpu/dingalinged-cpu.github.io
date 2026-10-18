@@ -7,9 +7,9 @@ Also answers: yoga classes in Mckinney, TX; yoga classes near me (Mckinney, TX);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Apex Centre | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Apex Centre is a yoga studio in McKinney, TX at 3003 Alma Road, McKinney, TX 75070. Phone: +19725472739. Website: https://www.mckinneytexas.org/1315/Apex-Centre. | https://registry-edge.dingalinged.workers.dev/c/apex-centre-mckinney/
-2. Pryme Yoga | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Pryme Yoga is a yoga studio in McKinney, TX at 7710 Stacy Road #800, McKinney, TX 75070. | https://registry-edge.dingalinged.workers.dev/c/pryme-yoga-mckinney/
-3. YogaSix | Organic #3 | Pulse Score 44.7/100 (Building, #3 in city) | YogaSix is a yoga studio in McKinney, TX at 1620 North Hardin Boulevard #600, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/yogasix-mckinney-n13636479917/
-4. YogaSix | Organic #4 | Pulse Score 44.5/100 (Building, #4 in city) | YogaSix is a yoga studio in McKinney, TX at 3041 South Custer Road #500, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/yogasix-mckinney/
+2. Pryme Yoga | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Pryme Yoga is a yoga studio in McKinney, TX at 7710 Stacy Road #800, McKinney, TX 75070. | https://registry-edge.dingalinged.workers.dev/c/pryme-yoga-mckinney/
+3. YogaSix | Organic #3 | Pulse Score 44.8/100 (Building, #3 in city) | YogaSix is a yoga studio in McKinney, TX at 1620 North Hardin Boulevard #600, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/yogasix-mckinney-n13636479917/
+4. YogaSix | Organic #4 | Pulse Score 44.6/100 (Building, #4 in city) | YogaSix is a yoga studio in McKinney, TX at 3041 South Custer Road #500, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/yogasix-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes mckinney tx | category: Fitness | industry benchmark: Health & Fitness

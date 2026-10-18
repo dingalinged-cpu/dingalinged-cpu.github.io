@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Independence, MO at 19130 East 39th Street 
 - Website: https://www.mattressfirm.com/en-us/stores/mo/independence/009001/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.7/100 — Building — top 53% of mattress stores in Kansas City, MO, #1 of 1 mattress stores in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 48% of mattress stores in Kansas City, MO, #1 of 1 mattress stores in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

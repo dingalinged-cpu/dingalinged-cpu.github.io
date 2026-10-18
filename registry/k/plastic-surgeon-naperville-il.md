@@ -6,8 +6,8 @@ Also answers: plastic surgeon in Naperville, IL; plastic surgeon near me (Naperv
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Liposuction and Cosmetic Surgery Institute | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Liposuction and Cosmetic Surgery Institute is a plastic surgeon in Naperville, IL at 630 North Washington Street, Naperville, IL 60563. Phone: +16309224000. Website: https://www.lipodoc.com/. | https://registry-edge.dingalinged.workers.dev/c/liposuction-and-cosmetic-surgery-institute-naperville/
-2. LightRX Face & Body | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | LightRX Face & Body is a plastic surgeon in Naperville, IL at 1763 Freedom Drive #125, Naperville, IL 60563. Phone: +16304243635. Website: https://www.lightrx.com/locations/naperville/. | https://registry-edge.dingalinged.workers.dev/c/lightrx-face-and-body-naperville/
+1. Liposuction and Cosmetic Surgery Institute | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Liposuction and Cosmetic Surgery Institute is a plastic surgeon in Naperville, IL at 630 North Washington Street, Naperville, IL 60563. Phone: +16309224000. Website: https://www.lipodoc.com/. | https://registry-edge.dingalinged.workers.dev/c/liposuction-and-cosmetic-surgery-institute-naperville/
+2. LightRX Face & Body | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | LightRX Face & Body is a plastic surgeon in Naperville, IL at 1763 Freedom Drive #125, Naperville, IL 60563. Phone: +16304243635. Website: https://www.lightrx.com/locations/naperville/. | https://registry-edge.dingalinged.workers.dev/c/lightrx-face-and-body-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon naperville il | category: Health & medical | industry benchmark: Physicians & Surgeons

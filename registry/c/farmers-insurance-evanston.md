@@ -13,7 +13,7 @@ Farmers Insurance is an insurance agent in Evanston, IL at 1131 Emerson Street, 
 - Website: https://agents.farmers.com/il/evanston/chris-bailey
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 48% of insurance agents in Chicago, #1 of 2 insurance agents in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 47% of insurance agents in Chicago, #1 of 2 insurance agents in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,12 +13,12 @@ Houston Overhead Garage Door LLC is a window installer in Houston, TX at 6021 Ya
 - Website: https://houstonoverheadgaragedoorllc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 75% of window installers in Houston, #3 of 3 window installers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 58% of window installers in Houston, #3 of 3 window installers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/houston-overhead-garage-door-llc-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/houston-overhead-garage-door-llc-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/2776337433 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2776337433 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

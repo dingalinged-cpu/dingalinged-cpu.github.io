@@ -19,6 +19,6 @@ Mott & Moffett LLP is a lawyer in Cypress, TX at 14150 Huffmeister Road #200-082
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mott-and-moffett-llp-cypress/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mott-and-moffett-llp-cypress.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11175864148 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11175864148 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

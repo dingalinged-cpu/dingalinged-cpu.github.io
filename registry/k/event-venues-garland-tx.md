@@ -6,9 +6,9 @@ Also answers: event venues in Garland, TX; event venues near me (Garland, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Curtis Culwell Center | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Curtis Culwell Center is an event venue in Garland, TX at 4999 Naaman Forest Boulevard, Garland, TX 75040. Website: https://www.curtisculwellcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/curtis-culwell-center-garland/
+1. Curtis Culwell Center | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Curtis Culwell Center is an event venue in Garland, TX at 4999 Naaman Forest Boulevard, Garland, TX 75040. Website: https://www.curtisculwellcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/curtis-culwell-center-garland/
 2. PEA Events Center | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | PEA Events Center is an event venue in Garland, TX. Website: https://peaeventscenter.com/. | https://registry-edge.dingalinged.workers.dev/c/pea-events-center-garland/
-3. Poetry Place | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Poetry Place is an event venue in Garland, TX at 620 Main Street, Garland, TX 75040. | https://registry-edge.dingalinged.workers.dev/c/poetry-place-garland/
+3. Poetry Place | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Poetry Place is an event venue in Garland, TX at 620 Main Street, Garland, TX 75040. | https://registry-edge.dingalinged.workers.dev/c/poetry-place-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues garland tx | category: Events & weddings | industry benchmark: Personal Services

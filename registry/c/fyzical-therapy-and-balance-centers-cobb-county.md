@@ -13,7 +13,7 @@ Fyzical Therapy & Balance Centers is a physical therapy clinic in Cobb County, G
 - Website: https://www.fyzical.com/sprayberry-ga
 - Email: sprayberry@fyzical.com
 - Opening hours (OSM syntax): Mo 07:00-16:00; Tu 09:00-18:00; We 07:00-16:00; Th 09:00-18:00; Fr 07:00-16:00; Sa off; Su off
-- Pulse Score: 60.5/100 — Good — top 16% of physical therapy clinics in Atlanta, #2 of 10 physical therapy clinics in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 55% of physical therapy clinics in Atlanta, #5 of 10 physical therapy clinics in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

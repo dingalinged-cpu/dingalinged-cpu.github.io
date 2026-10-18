@@ -19,6 +19,6 @@ Baker's Cleaners is a dry cleaner in Dallas, TX at 8447 Park Lane, Dallas, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/bakers-cleaners-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bakers-cleaners-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13332465908 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13332465908 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

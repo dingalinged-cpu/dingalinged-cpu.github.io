@@ -13,12 +13,12 @@ Shala Yoga Loft is a yoga studio in Plano, TX at 1021 East 15th Street, Plano, T
 - Website: https://www.shalayogaloft.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 33% of yoga studios in Dallas–Fort Worth, #3 of 3 yoga studios in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 32% of yoga studios in Dallas–Fort Worth, #3 of 3 yoga studios in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/shala-yoga-loft-plano/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/shala-yoga-loft-plano.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12981158221 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12981158221 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

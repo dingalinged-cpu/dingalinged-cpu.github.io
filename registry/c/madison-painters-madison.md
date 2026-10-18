@@ -13,7 +13,7 @@ Madison Painters is a painting contractor in Madison, WI. Phone: +16084969288. W
 - Website: https://www.paintingcontractorsmadison.com/
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-17:00
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 34% of painting contractors in Madison, #1 of 1 painting contractors in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 67% of painting contractors in Madison, #1 of 1 painting contractors in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

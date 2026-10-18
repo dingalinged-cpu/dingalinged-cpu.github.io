@@ -19,6 +19,6 @@ Fairways at Prestonwood is a real estate agency in Dallas, TX at 5769 Belt Line 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/fairways-at-prestonwood-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fairways-at-prestonwood-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5707536358 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5707536358 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

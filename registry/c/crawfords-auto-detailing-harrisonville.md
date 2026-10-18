@@ -13,7 +13,7 @@ Crawford's Auto Detailing is an auto repair shop in Harrisonville, MO at 2204 Ea
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 13% of auto repair shops in Kansas City, MO, #1 of 1 auto repair shops in Harrisonville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 13% of auto repair shops in Kansas City, MO, #1 of 1 auto repair shops in Harrisonville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

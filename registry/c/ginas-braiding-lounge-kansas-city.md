@@ -13,7 +13,7 @@ Gina's Braiding Lounge is a hair salon in Kansas City, KS at 8035 State Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-18:00; Fr 10:00-21:00; Sa 08:00-21:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 5% of hair salons in Kansas City, MO, #4 of 115 hair salons in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 6% of hair salons in Kansas City, MO, #4 of 115 hair salons in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

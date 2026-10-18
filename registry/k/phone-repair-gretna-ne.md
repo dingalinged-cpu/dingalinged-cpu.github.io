@@ -6,7 +6,7 @@ Also answers: phone repair in Gretna, NE; phone repair near me (Gretna, NE); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. iDevice Repair Service & Sales | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | iDevice Repair Service & Sales is a phone repair shop in Gretna, NE at 602 North Highway 6, Gretna, NE 68028. Phone: +14022009286. Website: https://www.iphonerepairnebraska.com/. | https://registry-edge.dingalinged.workers.dev/c/idevice-repair-service-and-sales-gretna/
+1. iDevice Repair Service & Sales | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | iDevice Repair Service & Sales is a phone repair shop in Gretna, NE at 602 North Highway 6, Gretna, NE 68028. Phone: +14022009286. Website: https://www.iphonerepairnebraska.com/. | https://registry-edge.dingalinged.workers.dev/c/idevice-repair-service-and-sales-gretna/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair gretna ne | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Ly Ly Nails & Spa is a nail salon in Glendale, WI at 480 West Silver Spring Driv
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 59% of nail salons in Milwaukee, #2 of 3 nail salons in Glendale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 57% of nail salons in Milwaukee, #2 of 3 nail salons in Glendale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

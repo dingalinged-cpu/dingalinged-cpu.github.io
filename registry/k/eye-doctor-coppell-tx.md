@@ -6,7 +6,7 @@ Also answers: eye doctor in Coppell, TX; eye doctor near me (Coppell, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vision Source | Organic #1 | Pulse Score 48.5/100 (Building, #1 in city) | Vision Source is an eye care practice in Coppell, TX at 175 South Denton Tap Road, Coppell, TX. | https://registry-edge.dingalinged.workers.dev/c/vision-source-coppell/
+1. Vision Source | Organic #1 | Pulse Score 48.2/100 (Building, #1 in city) | Vision Source is an eye care practice in Coppell, TX at 175 South Denton Tap Road, Coppell, TX. | https://registry-edge.dingalinged.workers.dev/c/vision-source-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor coppell tx | category: Health & medical | industry benchmark: Physicians & Surgeons

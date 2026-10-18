@@ -6,9 +6,9 @@ Also answers: chiropractor in Montgomery County, TX; chiropractor near me (Montg
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Institute for Physical & Regenerative Medicine | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Institute for Physical & Regenerative Medicine is a chiropractor in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/institute-for-physical-and-regenerative-medicine-montgomery-county/
-2. Laser Spine & Pain Institute | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Laser Spine & Pain Institute is a chiropractor in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/laser-spine-and-pain-institute-montgomery-county/
-3. The Joint Chiropractic | Organic #3 | Pulse Score 42.8/100 (Building, #3 in city) | The Joint Chiropractic is a chiropractor in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-montgomery-county/
+1. Institute for Physical & Regenerative Medicine | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Institute for Physical & Regenerative Medicine is a chiropractor in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/institute-for-physical-and-regenerative-medicine-montgomery-county/
+2. Laser Spine & Pain Institute | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Laser Spine & Pain Institute is a chiropractor in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/laser-spine-and-pain-institute-montgomery-county/
+3. The Joint Chiropractic | Organic #3 | Pulse Score 43.2/100 (Building, #3 in city) | The Joint Chiropractic is a chiropractor in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor montgomery county tx | category: Health & medical | industry benchmark: Physicians & Surgeons

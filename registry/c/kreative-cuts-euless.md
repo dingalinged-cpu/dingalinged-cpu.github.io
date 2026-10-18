@@ -13,12 +13,12 @@ Kreative Cuts is a barber shop in Euless, TX at 501 North Main Street #107, Eule
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 50% of barber shops in Dallas–Fort Worth, #2 of 6 barber shops in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 53% of barber shops in Dallas–Fort Worth, #2 of 6 barber shops in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/kreative-cuts-euless/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kreative-cuts-euless.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13755601738 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13755601738 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

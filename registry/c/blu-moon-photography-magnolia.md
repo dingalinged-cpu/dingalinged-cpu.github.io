@@ -19,6 +19,6 @@ Blu Moon Photography is a photographer in Magnolia, TX at 8450 Prine Lane, Magno
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/blu-moon-photography-magnolia/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/blu-moon-photography-magnolia.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/8112031742 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8112031742 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

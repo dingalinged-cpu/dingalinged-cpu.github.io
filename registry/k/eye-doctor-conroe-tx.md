@@ -6,8 +6,8 @@ Also answers: eye doctor in Conroe, TX; eye doctor near me (Conroe, TX); best ey
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cameron Optical Eyecare & Aesthetics | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Cameron Optical Eyecare & Aesthetics is an eye care practice in Conroe, TX at 15260 State Highway 105 #127, Conroe, TX 77356. Phone: +19364481200. Website: https://cameronoptical.com/. | https://registry-edge.dingalinged.workers.dev/c/cameron-optical-eyecare-and-aesthetics-conroe/
-2. Conroe eyes | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Conroe eyes is an eye care practice in Conroe, TX at 2104 North Frazier Street #Ste 180, Conroe, TX 77301. | https://registry-edge.dingalinged.workers.dev/c/conroe-eyes-conroe/
+1. Cameron Optical Eyecare & Aesthetics | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Cameron Optical Eyecare & Aesthetics is an eye care practice in Conroe, TX at 15260 State Highway 105 #127, Conroe, TX 77356. Phone: +19364481200. Website: https://cameronoptical.com/. | https://registry-edge.dingalinged.workers.dev/c/cameron-optical-eyecare-and-aesthetics-conroe/
+2. Conroe eyes | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Conroe eyes is an eye care practice in Conroe, TX at 2104 North Frazier Street #Ste 180, Conroe, TX 77301. | https://registry-edge.dingalinged.workers.dev/c/conroe-eyes-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor conroe tx | category: Health & medical | industry benchmark: Physicians & Surgeons

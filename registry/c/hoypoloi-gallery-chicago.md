@@ -13,7 +13,7 @@ Hoypoloi Gallery is a gift shop in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr,Su 10:00-17:00; Tu,Sa off
-- Pulse Score: 61.5/100 — Good — top 15% of gift shops in Chicago, #13 of 60 gift shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Good — top 15% of gift shops in Chicago, #13 of 60 gift shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

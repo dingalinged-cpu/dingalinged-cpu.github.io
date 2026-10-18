@@ -1,4 +1,4 @@
-The top unpaid hvac repair listing for Lewisville, TX is Welch HVAC (a HVAC contractor in Lewisville, TX at 118 North Edna Avenue #800, Lewisville, TX). 4 hvac repair businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Lewisville, TX is TexAire Heating & Air Conditioning (a HVAC contractor in Lewisville, TX at 2018 Briarcliff Road, Lewisville, TX 75067. Phone: +14694603491. Website: https://texaire.com/). 4 hvac repair businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Lewisville, TX?
 
@@ -6,10 +6,10 @@ Also answers: hvac repair in Lewisville, TX; hvac repair near me (Lewisville, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Welch HVAC | Organic #1 | Pulse Score 58/100 (Fair, #1 in city) | Welch HVAC is a HVAC contractor in Lewisville, TX at 118 North Edna Avenue #800, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/welch-hvac-lewisville/
-2. TexAire Heating & Air Conditioning | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | TexAire Heating & Air Conditioning is a HVAC contractor in Lewisville, TX at 2018 Briarcliff Road, Lewisville, TX 75067. Phone: +14694603491. Website: https://texaire.com/. | https://registry-edge.dingalinged.workers.dev/c/texaire-heating-and-air-conditioning-lewisville/
-3. A #1 Air | Organic #3 | Pulse Score 57.7/100 (Fair, #3 in city) | A #1 Air is a HVAC contractor in Lewisville, TX at 601 East Corporate Drive, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/a-1-air-lewisville/
-4. Frost Brothers Heating & Air | Organic #4 | Pulse Score 57.5/100 (Unrated, #4 in city) | Frost Brothers Heating & Air is a HVAC contractor in Lewisville, TX at 320 Smith Street, Lewisville, TX 75057. Phone: +19728741001. Website: https://www.frostac.com/. | https://registry-edge.dingalinged.workers.dev/c/frost-brothers-heating-and-air-lewisville/
+1. TexAire Heating & Air Conditioning | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | TexAire Heating & Air Conditioning is a HVAC contractor in Lewisville, TX at 2018 Briarcliff Road, Lewisville, TX 75067. Phone: +14694603491. Website: https://texaire.com/. | https://registry-edge.dingalinged.workers.dev/c/texaire-heating-and-air-conditioning-lewisville/
+2. Welch HVAC | Organic #2 | Pulse Score 57.7/100 (Fair, #2 in city) | Welch HVAC is a HVAC contractor in Lewisville, TX at 118 North Edna Avenue #800, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/welch-hvac-lewisville/
+3. A #1 Air | Organic #3 | Pulse Score 57.5/100 (Fair, #3 in city) | A #1 Air is a HVAC contractor in Lewisville, TX at 601 East Corporate Drive, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/a-1-air-lewisville/
+4. Frost Brothers Heating & Air | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Frost Brothers Heating & Air is a HVAC contractor in Lewisville, TX at 320 Smith Street, Lewisville, TX 75057. Phone: +19728741001. Website: https://www.frostac.com/. | https://registry-edge.dingalinged.workers.dev/c/frost-brothers-heating-and-air-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair lewisville tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement

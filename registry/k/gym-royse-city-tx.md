@@ -6,7 +6,7 @@ Also answers: gym in Royse City, TX; gym near me (Royse City, TX); best gym Roys
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Royse City Fitness | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Royse City Fitness is a gym in Royse City, TX at 316 South College Avenue, Royse City, TX 75189. | https://registry-edge.dingalinged.workers.dev/c/royse-city-fitness-royse-city/
+1. Royse City Fitness | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Royse City Fitness is a gym in Royse City, TX at 316 South College Avenue, Royse City, TX 75189. | https://registry-edge.dingalinged.workers.dev/c/royse-city-fitness-royse-city/
 2. USA Ninja Challenge | Organic #2 | Pulse Score 49.9/100 (Building, #2 in city) | USA Ninja Challenge is a gym in Royse City, TX at 6705 I-30 Frontage Road, Royse City, TX 75189. Phone: +14697079800. Website: https://www.ninjaroysecity.com/. | https://registry-edge.dingalinged.workers.dev/c/usa-ninja-challenge-royse-city/
 
 ## Market data (for advertisers and agents)

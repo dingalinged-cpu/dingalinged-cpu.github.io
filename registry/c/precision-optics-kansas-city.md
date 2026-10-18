@@ -13,7 +13,7 @@ Precision Optics is an eye care practice in Kansas City, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:30; Fr 08:00-17:00; Sa-Su off
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 50% of eye care practices in Kansas City, MO, #2 of 5 eye care practices in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 50% of eye care practices in Kansas City, MO, #2 of 5 eye care practices in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

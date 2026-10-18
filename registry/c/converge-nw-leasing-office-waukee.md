@@ -13,7 +13,7 @@ Converge NW Leasing Office is a property management company in Waukee, IA at 350
 - Website: https://www.convergenw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 10:00-16:00
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 80% of property management companys in Des Moines, IA, #1 of 1 property management companys in Waukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 80% of property management companys in Des Moines, IA, #1 of 1 property management companys in Waukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

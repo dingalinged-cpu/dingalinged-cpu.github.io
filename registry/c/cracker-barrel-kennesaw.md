@@ -13,7 +13,7 @@ Cracker Barrel is a gift shop in Kennesaw, GA at 3389 Busbee Drive Northwest, Ke
 - Website: https://www.crackerbarrel.com/Locations/States/ga/kennesaw/20/
 - Email: n/a
 - Opening hours (OSM syntax): Su-Th 06:00-22:00; Fr-Sa 06:00-23:00
-- Pulse Score: 50.9/100 — Fair — top 70% of gift shops in Atlanta, #2 of 2 gift shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.8/100 — Fair — top 70% of gift shops in Atlanta, #2 of 2 gift shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

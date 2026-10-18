@@ -13,7 +13,7 @@ Corporate Housing of Kansas City is a real estate agency in Overland Park, KS at
 - Website: https://www.corporatehousingofkansascity.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:30-18:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 15% of real estate agencys in Kansas City, MO, #3 of 8 real estate agencys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 15% of real estate agencys in Kansas City, MO, #3 of 8 real estate agencys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Pet Hospital is a veterinarian in Kansas City, MO at 6519 North Cosby Avenue, Ka
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Su 09:00-12:00
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 38% of veterinarians in Kansas City, MO, #8 of 18 veterinarians in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 37% of veterinarians in Kansas City, MO, #8 of 18 veterinarians in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

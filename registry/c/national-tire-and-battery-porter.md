@@ -19,6 +19,6 @@ National Tire and Battery is an auto repair shop in Porter, TX at 22180 Farris G
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/national-tire-and-battery-porter/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/national-tire-and-battery-porter.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/426000974 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/426000974 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

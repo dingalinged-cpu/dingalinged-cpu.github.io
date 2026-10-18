@@ -6,7 +6,7 @@ Also answers: window replacement in Denton, TX; window replacement near me (Dent
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Royal Glass Company | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Royal Glass Company is a window installer in Denton, TX at 9064 Teasley Lane, Denton, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/royal-glass-company-denton/
+1. Royal Glass Company | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Royal Glass Company is a window installer in Denton, TX at 9064 Teasley Lane, Denton, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/royal-glass-company-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement denton tx | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

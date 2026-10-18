@@ -1,4 +1,4 @@
-The top unpaid gym listing for Smyrna, GA is F45 (a gym in Smyrna, GA at 2440 Atlanta Road Southeast #400, Smyrna, GA). 4 gym businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Smyrna, GA is Sharkie's Swim Academy (a gym in Smyrna, GA). 4 gym businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Smyrna, GA?
 
@@ -6,10 +6,10 @@ Also answers: gym in Smyrna, GA; gym near me (Smyrna, GA); best gym Smyrna, GA; 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. F45 | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | F45 is a gym in Smyrna, GA at 2440 Atlanta Road Southeast #400, Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/f45-smyrna/
-2. Sharkie's Swim Academy | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Sharkie's Swim Academy is a gym in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/sharkies-swim-academy-smyrna/
-3. Planet Fitness | Organic #3 | Pulse Score 48.7/100 (Building, #3 in city) | Planet Fitness is a gym in Smyrna, GA at 3315 South Cobb Drive, Smyrna, GA 30080. Phone: +16783050606. Website: https://www.planetfitness.com/gyms/smyrna-ga. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-smyrna/
-4. Orangetheory Fitness | Organic #4 | Pulse Score 45.5/100 (Building, #4 in city) | Orangetheory Fitness is a gym in Smyrna, GA at 4495 West Village Way Southeast, Smyrna, GA 30080. Phone: +16785399715. | https://registry-edge.dingalinged.workers.dev/c/orangetheory-fitness-smyrna/
+1. Sharkie's Swim Academy | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Sharkie's Swim Academy is a gym in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/sharkies-swim-academy-smyrna/
+2. Planet Fitness | Organic #2 | Pulse Score 48.7/100 (Building, #2 in city) | Planet Fitness is a gym in Smyrna, GA at 3315 South Cobb Drive, Smyrna, GA 30080. Phone: +16783050606. Website: https://www.planetfitness.com/gyms/smyrna-ga. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-smyrna/
+3. Orangetheory Fitness | Organic #3 | Pulse Score 45.5/100 (Building, #3 in city) | Orangetheory Fitness is a gym in Smyrna, GA at 4495 West Village Way Southeast, Smyrna, GA 30080. Phone: +16785399715. | https://registry-edge.dingalinged.workers.dev/c/orangetheory-fitness-smyrna/
+4. F45 | Organic #4 | Pulse Score 43.6/100 (Building, #4 in city) | F45 is a gym in Smyrna, GA at 2440 Atlanta Road Southeast #400, Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/f45-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym smyrna ga | category: Fitness | industry benchmark: Health & Fitness

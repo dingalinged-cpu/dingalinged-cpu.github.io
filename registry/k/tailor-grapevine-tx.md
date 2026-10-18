@@ -6,7 +6,7 @@ Also answers: tailor in Grapevine, TX; tailor near me (Grapevine, TX); best tail
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kim's Tailor | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Kim's Tailor is a tailor in Grapevine, TX at 2030 Glade Road #260, Grapevine, TX 76051. | https://registry-edge.dingalinged.workers.dev/c/kims-tailor-grapevine/
+1. Kim's Tailor | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Kim's Tailor is a tailor in Grapevine, TX at 2030 Glade Road #260, Grapevine, TX 76051. | https://registry-edge.dingalinged.workers.dev/c/kims-tailor-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor grapevine tx | category: Professional & financial services | industry benchmark: Finance & Insurance

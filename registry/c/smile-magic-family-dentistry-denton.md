@@ -13,12 +13,12 @@ Smile Magic Family Dentistry is a dentist in Denton, TX at 3600 East McKinney St
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 49% of dentists in Dallas–Fort Worth, #17 of 29 dentists in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 50% of dentists in Dallas–Fort Worth, #16 of 29 dentists in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/smile-magic-family-dentistry-denton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/smile-magic-family-dentistry-denton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10776966312 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10776966312 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

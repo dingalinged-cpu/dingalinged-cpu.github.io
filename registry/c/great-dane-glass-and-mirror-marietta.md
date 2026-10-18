@@ -13,7 +13,7 @@ Great Dane Glass & Mirror is a window repair service in Marietta, GA at 1951 Can
 - Website: https://glassshopmarietta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00
-- Pulse Score: 61.1/100 — Good — top 58% of window repair services in Atlanta, #2 of 3 window repair services in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Good — top 58% of window repair services in Atlanta, #2 of 3 window repair services in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Hectors Painting & Home Improvement | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Hectors Painting & Home Improvement is a painting contractor in Kennesaw, GA at 3464 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +16782906387. Website: https://hectorspainting.com/. | https://registry-edge.dingalinged.workers.dev/c/hectors-painting-and-home-improvement-kennesaw/
 2. Rodriguez Painting | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Rodriguez Painting is a painting contractor in Kennesaw, GA at 3670 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +16783556162. Website: https://www.rodriguezpaintingga.com/. | https://registry-edge.dingalinged.workers.dev/c/rodriguez-painting-kennesaw/
-3. Eagle Painting | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Eagle Painting is a painting contractor in Kennesaw, GA at 1630 Acworth Due West Road Northwest, Kennesaw, GA 30152. Phone: +17704242901. Website: https://www.calleaglepainting.com/. | https://registry-edge.dingalinged.workers.dev/c/eagle-painting-kennesaw/
+3. Eagle Painting | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Eagle Painting is a painting contractor in Kennesaw, GA at 1630 Acworth Due West Road Northwest, Kennesaw, GA 30152. Phone: +17704242901. Website: https://www.calleaglepainting.com/. | https://registry-edge.dingalinged.workers.dev/c/eagle-painting-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters kennesaw ga | category: Home services - Painting | industry benchmark: Home & Home Improvement

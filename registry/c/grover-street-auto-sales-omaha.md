@@ -13,7 +13,7 @@ Grover Street Auto Sales is an used car dealer in Omaha, NE at 6328 Grover Stree
 - Website: https://groverstreetauto.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of used car dealers in Omaha, NE, #2 of 15 used car dealers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of used car dealers in Omaha, NE, #2 of 15 used car dealers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

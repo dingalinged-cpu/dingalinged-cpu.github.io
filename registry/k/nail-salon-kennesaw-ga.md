@@ -16,7 +16,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 8. Signature Nails & Spa | Organic #8 | Pulse Score 58/100 (Unrated, #8 in city) | Signature Nails & Spa is a nail salon in Kennesaw, GA at 3895 Cherokee Street Northwest #220, Kennesaw, GA 30144. | https://registry-edge.dingalinged.workers.dev/c/signature-nails-and-spa-kennesaw/
 9. Grace Nails | Organic #9 | Pulse Score 56.4/100 (Unrated, #9 in city) | Grace Nails is a nail salon in Kennesaw, GA at 1735 Tuscan Heights Boulevard #106, Kennesaw, GA. | https://registry-edge.dingalinged.workers.dev/c/grace-nails-kennesaw/
 10. Luxury Nails Spa | Organic #10 | Pulse Score 51.6/100 (Fair, #10 in city) | Luxury Nails Spa is a nail salon in Kennesaw, GA at 1300 Ernest W. Barrett Parkway Northwest #280, Kennesaw, GA. Phone: +14704291008. Website: https://www.facebook.com/Luxury-Nails-Spa-264671087346122/. | https://registry-edge.dingalinged.workers.dev/c/luxury-nails-spa-kennesaw/
-11. Lush Nail Bar | Organic #11 | Pulse Score 50.6/100 (Unrated, #11 in city) | Lush Nail Bar is a nail salon in Kennesaw, GA at 4430 Wade Green Road #130, Kennesaw, GA 30144. Phone: +16785403191. Website: https://lushnailbarwadegreen.com/. | https://registry-edge.dingalinged.workers.dev/c/lush-nail-bar-kennesaw/
+11. Lush Nail Bar | Organic #11 | Pulse Score 49.5/100 (Building, #11 in city) | Lush Nail Bar is a nail salon in Kennesaw, GA at 4430 Wade Green Road #130, Kennesaw, GA 30144. Phone: +16785403191. Website: https://lushnailbarwadegreen.com/. | https://registry-edge.dingalinged.workers.dev/c/lush-nail-bar-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon kennesaw ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

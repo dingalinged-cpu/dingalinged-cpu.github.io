@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Discount Tire | Organic #1 | Pulse Score 46.3/100 (Building, #1 in city) | Discount Tire is a tire shop in Pearland, TX at 2832 East Broadway Street, Pearland, TX 77581. Phone: +12814126070. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-pearland/
 2. Discount Tire | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | Discount Tire is a tire shop in Pearland, TX at 10331 West Broadway Street, Pearland, TX 77584. Phone: +17134366045. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-pearland-w630062559/
-3. NTB | Organic #3 | Pulse Score 44/100 (Unrated, #2 in city) | NTB is a tire shop in Friendswood, TX at 1505 Broadway Street, Friendswood, TX. | https://registry-edge.dingalinged.workers.dev/c/ntb-friendswood/
+3. NTB | Organic #3 | Pulse Score 44.1/100 (Unrated, #2 in city) | NTB is a tire shop in Friendswood, TX at 1505 Broadway Street, Friendswood, TX. | https://registry-edge.dingalinged.workers.dev/c/ntb-friendswood/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop pearland tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

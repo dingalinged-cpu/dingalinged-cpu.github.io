@@ -6,7 +6,7 @@ Also answers: caterers in Menomonee Falls, WI; caterers near me (Menomonee Falls
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Davians Catering & Conference Center | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Davians Catering & Conference Center is a caterer in Menomonee Falls, WI at N56W16300 Silver Spring Drive, Menomonee Falls, WI 53051. Phone: +12627813333. Website: https://www.davians.com/. | https://registry-edge.dingalinged.workers.dev/c/davians-catering-and-conference-center-menomonee-falls/
+1. Davians Catering & Conference Center | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Davians Catering & Conference Center is a caterer in Menomonee Falls, WI at N56W16300 Silver Spring Drive, Menomonee Falls, WI 53051. Phone: +12627813333. Website: https://www.davians.com/. | https://registry-edge.dingalinged.workers.dev/c/davians-catering-and-conference-center-menomonee-falls/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers menomonee falls wi | category: Events & weddings | industry benchmark: Personal Services

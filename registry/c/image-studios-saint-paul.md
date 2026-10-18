@@ -13,7 +13,7 @@ Image Studios is a photographer in Saint Paul, MN at 550 Vandalia Street ##213, 
 - Website: https://imagempls.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Unrated (not enough evidence yet) — top 100% of photographers in Minneapolis–St. Paul, #3 of 3 photographers in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Unrated (not enough evidence yet) — top 100% of photographers in Minneapolis–St. Paul, #3 of 3 photographers in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

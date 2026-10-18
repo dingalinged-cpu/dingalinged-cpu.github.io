@@ -1,4 +1,4 @@
-The top unpaid shoe repair listing for Naperville, IL is Lindsay's Leather and Shoe Repair (a shoe repair in Naperville, IL at 1512 Naper Boulevard #148, Naperville, IL 60563. Phone: +16309551550. Website: https://cobblestonequalityshoerepairnaperville.com/). 2 shoe repair businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Naperville, IL is Cobbler Shoe Repair (a shoe repair in Naperville, IL at 1031 West Ogden Avenue, Naperville, IL 60563. Phone: +16309611499. Website: https://naperville-repair.edan.io/). 2 shoe repair businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Naperville, IL?
 
@@ -6,8 +6,8 @@ Also answers: shoe repair in Naperville, IL; shoe repair near me (Naperville, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lindsay's Leather and Shoe Repair | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Lindsay's Leather and Shoe Repair is a shoe repair in Naperville, IL at 1512 Naper Boulevard #148, Naperville, IL 60563. Phone: +16309551550. Website: https://cobblestonequalityshoerepairnaperville.com/. | https://registry-edge.dingalinged.workers.dev/c/lindsays-leather-and-shoe-repair-naperville/
-2. Cobbler Shoe Repair | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Cobbler Shoe Repair is a shoe repair in Naperville, IL at 1031 West Ogden Avenue, Naperville, IL 60563. Phone: +16309611499. Website: https://naperville-repair.edan.io/. | https://registry-edge.dingalinged.workers.dev/c/cobbler-shoe-repair-naperville/
+1. Cobbler Shoe Repair | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Cobbler Shoe Repair is a shoe repair in Naperville, IL at 1031 West Ogden Avenue, Naperville, IL 60563. Phone: +16309611499. Website: https://naperville-repair.edan.io/. | https://registry-edge.dingalinged.workers.dev/c/cobbler-shoe-repair-naperville/
+2. Lindsay's Leather and Shoe Repair | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | Lindsay's Leather and Shoe Repair is a shoe repair in Naperville, IL at 1512 Naper Boulevard #148, Naperville, IL 60563. Phone: +16309551550. Website: https://cobblestonequalityshoerepairnaperville.com/. | https://registry-edge.dingalinged.workers.dev/c/lindsays-leather-and-shoe-repair-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair naperville il | category: Professional & financial services | industry benchmark: Finance & Insurance

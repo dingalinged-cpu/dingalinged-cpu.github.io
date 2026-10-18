@@ -13,7 +13,7 @@ Fashion Cleaners is a dry cleaner in Omaha, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43/100 — Unrated (not enough evidence yet) — top 85% of dry cleaners in Omaha, NE, #9 of 11 dry cleaners in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.9/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Omaha, NE, #11 of 11 dry cleaners in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

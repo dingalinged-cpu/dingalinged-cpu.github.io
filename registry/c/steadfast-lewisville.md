@@ -13,7 +13,7 @@ Steadfast is a gym in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-19:00; Fr 05:00-17:00; PH closed; Sa 07:30-15:00
-- Pulse Score: 60.6/100 — Good — top 10% of gyms in Dallas–Fort Worth, #1 of 5 gyms in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Good — top 10% of gyms in Dallas–Fort Worth, #1 of 5 gyms in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

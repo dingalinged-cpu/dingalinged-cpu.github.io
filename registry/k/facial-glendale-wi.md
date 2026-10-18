@@ -6,7 +6,7 @@ Also answers: facial in Glendale, WI; facial near me (Glendale, WI); best facial
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ulta Beauty | Organic #1 | Pulse Score 45.1/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Glendale, WI at 5654 North Bayshore Drive #F-118, Glendale, WI 53217. Phone: +14143323150. Website: https://www.ulta.com/stores/glendale-wi-646. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-glendale/
+1. Ulta Beauty | Organic #1 | Pulse Score 45/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Glendale, WI at 5654 North Bayshore Drive #F-118, Glendale, WI 53217. Phone: +14143323150. Website: https://www.ulta.com/stores/glendale-wi-646. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-glendale/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial glendale wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

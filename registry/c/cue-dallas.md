@@ -19,6 +19,6 @@ Cue is a coworking space in Dallas, TX at 750 North Saint Paul Street #200, Dall
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/cue-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cue-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9605244779 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9605244779 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -8,17 +8,17 @@ Campanile on Eldridge is an assisted living facility in Houston, TX at 13650 Bee
 - City: Houston
 - State: TX
 - ZIP: 77083
-- Coordinates: 29.6894467, -95.6233562
+- Coordinates: 29.6894468, -95.6233562
 - Phone: n/a
 - Website: https://www.campanileoneldridge.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 35% of assisted living facilitys in Houston, #10 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 30% of assisted living facilitys in Houston, #10 of 34 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/campanile-on-eldridge-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/campanile-on-eldridge-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1393412405 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1393412405 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

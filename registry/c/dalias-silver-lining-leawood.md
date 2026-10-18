@@ -13,7 +13,7 @@ Dalia's Silver Lining is a jewelry store in Leawood, KS at 11527 Ash Street, Lea
 - Website: https://www.daliassilver.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Su 10:00-18:00
-- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 2% of jewelry stores in Kansas City, MO, #1 of 1 jewelry stores in Leawood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 2% of jewelry stores in Kansas City, MO, #1 of 1 jewelry stores in Leawood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

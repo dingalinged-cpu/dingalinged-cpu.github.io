@@ -6,7 +6,7 @@ Also answers: orthopedic surgeon in Downers Grove, IL; orthopedic surgeon near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Advocate Good Samaritan Outpatient Center | Organic #1 | Pulse Score 46.1/100 (Building, #1 in city) | Advocate Good Samaritan Outpatient Center is an orthopedic surgeon in Downers Grove, IL at 6840 Main Street, Downers Grove, IL 60516. | https://registry-edge.dingalinged.workers.dev/c/advocate-good-samaritan-outpatient-center-downers-grove/
+1. Advocate Good Samaritan Outpatient Center | Organic #1 | Pulse Score 45.8/100 (Building, #1 in city) | Advocate Good Samaritan Outpatient Center is an orthopedic surgeon in Downers Grove, IL at 6840 Main Street, Downers Grove, IL 60516. | https://registry-edge.dingalinged.workers.dev/c/advocate-good-samaritan-outpatient-center-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon downers grove il | category: Health & medical | industry benchmark: Physicians & Surgeons

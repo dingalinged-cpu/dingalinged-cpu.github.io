@@ -6,7 +6,7 @@ Also answers: hair salon in Keller, TX; hair salon near me (Keller, TX); best ha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Just Cut It - Men's and Kid's Haircuts | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Just Cut It - Men's and Kid's Haircuts is a hair salon in Keller, TX. | https://registry-edge.dingalinged.workers.dev/c/just-cut-it-mens-and-kids-haircuts-keller/
+1. Just Cut It - Men's and Kid's Haircuts | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Just Cut It - Men's and Kid's Haircuts is a hair salon in Keller, TX. | https://registry-edge.dingalinged.workers.dev/c/just-cut-it-mens-and-kids-haircuts-keller/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon keller tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

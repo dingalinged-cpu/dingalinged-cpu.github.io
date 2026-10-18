@@ -13,7 +13,7 @@ Amato Hyundai of Glendale is an used car dealer in Glendale, WI at 5200 North Po
 - Website: https://www.amatohyundaiglendale.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Building — top 83% of used car dealers in Milwaukee, #1 of 1 used car dealers in Glendale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.9/100 — Building — top 83% of used car dealers in Milwaukee, #1 of 1 used car dealers in Glendale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

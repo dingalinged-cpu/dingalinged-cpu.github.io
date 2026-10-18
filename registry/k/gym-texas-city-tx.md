@@ -6,8 +6,8 @@ Also answers: gym in Texas City, TX; gym near me (Texas City, TX); best gym Texa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Booker T's Gym Arena | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Booker T's Gym Arena is a gym in Texas City, TX at 10000 Emmett F Lowry Expressway, Texas City, TX 77591. | https://registry-edge.dingalinged.workers.dev/c/booker-ts-gym-arena-texas-city/
-2. World Gym | Organic #2 | Pulse Score 43.4/100 (Building, #2 in city) | World Gym is a gym in Texas City, TX. | https://registry-edge.dingalinged.workers.dev/c/world-gym-texas-city/
+1. Booker T's Gym Arena | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Booker T's Gym Arena is a gym in Texas City, TX at 10000 Emmett F Lowry Expressway, Texas City, TX 77591. | https://registry-edge.dingalinged.workers.dev/c/booker-ts-gym-arena-texas-city/
+2. World Gym | Organic #2 | Pulse Score 43.2/100 (Building, #2 in city) | World Gym is a gym in Texas City, TX. | https://registry-edge.dingalinged.workers.dev/c/world-gym-texas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym texas city tx | category: Fitness | industry benchmark: Health & Fitness

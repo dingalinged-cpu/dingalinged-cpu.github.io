@@ -13,7 +13,7 @@ Dealroom, Inc. is an IT support company in Chicago, IL at 2045 West Grand Avenue
 - Website: https://dealroom.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Fair — top 55% of IT support companys in Chicago, #3 of 3 IT support companys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Fair — top 55% of IT support companys in Chicago, #3 of 3 IT support companys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

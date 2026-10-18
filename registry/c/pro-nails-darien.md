@@ -13,7 +13,7 @@ Pro Nails is a nail salon in Darien, IL at 7533 South Cass Avenue, Darien, IL 60
 - Website: https://pronailsdarien.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 84% of nail salons in Chicago, #4 of 4 nail salons in Darien (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 83% of nail salons in Chicago, #4 of 4 nail salons in Darien (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

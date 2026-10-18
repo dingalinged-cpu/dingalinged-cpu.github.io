@@ -13,7 +13,7 @@ Mister Car Wash is a car wash in Douglasville, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 98% of car washes in Atlanta, #3 of 3 car washes in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.9/100 — Unrated (not enough evidence yet) — top 98% of car washes in Atlanta, #3 of 3 car washes in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,7 +8,7 @@ Dark Age Tattoo Studio is a tattoo shop in Denton, TX at 124 West Oak Street, De
 - City: Denton
 - State: TX
 - ZIP: 76201
-- Coordinates: 33.2158584, -97.1335193
+- Coordinates: 33.2158583, -97.1335193
 - Phone: +19408988200
 - Website: https://www.darkagetattoostudio.com/
 - Email: n/a
@@ -19,6 +19,6 @@ Dark Age Tattoo Studio is a tattoo shop in Denton, TX at 124 West Oak Street, De
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/dark-age-tattoo-studio-denton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dark-age-tattoo-studio-denton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/297126680 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/297126680 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

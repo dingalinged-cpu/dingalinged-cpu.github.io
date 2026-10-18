@@ -13,7 +13,7 @@ Ace & A HVAC, Heating & AC Repair is a HVAC contractor in Decatur, GA at 2768 Ea
 - Website: https://www.aceanda.com/services/air-conditioning/air-conditioning-repair/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 40% of HVAC contractors in Atlanta, #1 of 1 HVAC contractors in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 40% of HVAC contractors in Atlanta, #1 of 1 HVAC contractors in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

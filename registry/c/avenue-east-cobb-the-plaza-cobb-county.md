@@ -13,7 +13,7 @@ Avenue East Cobb - The Plaza is an event venue in Cobb County, GA at 4475 Roswel
 - Website: https://avenueeastcobb.com/directory/the-plaza/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Fair — top 47% of event venues in Atlanta, #8 of 11 event venues in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Fair — top 47% of event venues in Atlanta, #8 of 11 event venues in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: roofer in Lenexa, KS; roofer near me (Lenexa, KS); best roofer Len
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HT Roofing & Construction | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | HT Roofing & Construction is a roofer in Lenexa, KS at 11437 Strang Line Rd, Lenexa, KS 66215. Phone: +19138287663. Website: https://htroofs.com/. | https://registry-edge.dingalinged.workers.dev/c/ht-roofing-and-construction-lenexa/
+1. HT Roofing & Construction | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | HT Roofing & Construction is a roofer in Lenexa, KS at 11437 Strang Line Rd, Lenexa, KS 66215. Phone: +19138287663. Website: https://htroofs.com/. | https://registry-edge.dingalinged.workers.dev/c/ht-roofing-and-construction-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer lenexa ks | category: Home services - Roofing | industry benchmark: Home & Home Improvement

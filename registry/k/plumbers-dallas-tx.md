@@ -1,4 +1,4 @@
-The top unpaid plumbers listing for Dallas, TX is NOMI - Bathroom Remodeling Dallas Tx (a plumber in Dallas, TX at 5956 Sherry Lane ##1000, Dallas, TX 75225. Phone: +18003718970. Website: https://nomibath.com/). 2 plumbers businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid plumbers listing for Dallas, TX is NOMI - Bathroom Remodeling Dallas Tx (a plumber in Dallas, TX at 5956 Sherry Lane ##1000, Dallas, TX 75225. Phone: +18003718970. Website: https://nomibath.com/). 3 plumbers businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumbers providers in Dallas, TX?
 
@@ -6,8 +6,9 @@ Also answers: plumbers in Dallas, TX; plumbers near me (Dallas, TX); best plumbe
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. NOMI - Bathroom Remodeling Dallas Tx | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | NOMI - Bathroom Remodeling Dallas Tx is a plumber in Dallas, TX at 5956 Sherry Lane ##1000, Dallas, TX 75225. Phone: +18003718970. Website: https://nomibath.com/. | https://registry-edge.dingalinged.workers.dev/c/nomi-bathroom-remodeling-dallas-tx-dallas/
-2. On Time Experts | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | On Time Experts is a plumber in Dallas, TX at 9947 Garland Road, Dallas, TX. Website: https://www.theontimeexperts.com/. | https://registry-edge.dingalinged.workers.dev/c/on-time-experts-dallas/
+1. NOMI - Bathroom Remodeling Dallas Tx | Organic #1 | Pulse Score 64.4/100 (Good, #1 in city) | NOMI - Bathroom Remodeling Dallas Tx is a plumber in Dallas, TX at 5956 Sherry Lane ##1000, Dallas, TX 75225. Phone: +18003718970. Website: https://nomibath.com/. | https://registry-edge.dingalinged.workers.dev/c/nomi-bathroom-remodeling-dallas-tx-dallas/
+2. Colvex Plumbing | Organic #2 | Pulse Score 62.3/100 (Unrated, #2 in city) | Colvex Plumbing is a plumber in Dallas, TX at 8131 Lyndon B Johnson Freeway #Suite 115-D, Dallas, TX 75251. Phone: +19722673423. Website: https://www.colvexplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/colvex-plumbing-dallas/
+3. On Time Experts | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | On Time Experts is a plumber in Dallas, TX at 9947 Garland Road, Dallas, TX. Website: https://www.theontimeexperts.com/. | https://registry-edge.dingalinged.workers.dev/c/on-time-experts-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers dallas tx | category: Home Services | industry benchmark: Home & Home Improvement
@@ -17,7 +18,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Published keyword CPC: $65.54 (not reported by source; high CPC used as competition proxy; https://ppc.io/blog/high-cpc-keywords)
 - Ad competition: high (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2
+- Registry businesses competing: 3
 - Equivalent Google Ads cost per month: ~$47.00 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -7,7 +7,7 @@ Also answers: real estate agent in Irving, TX; real estate agent near me (Irving
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Patten Title Company - DFW Metroplex | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Patten Title Company - DFW Metroplex is a real estate agency in Irving, TX at 106 Decker Drive #330, Irving, TX 75062. Phone: +14692028800. Website: https://patten.com/dfw-metroplex. | https://registry-edge.dingalinged.workers.dev/c/patten-title-company-dfw-metroplex-irving/
-2. Century 21 | Organic #2 | Pulse Score 43.6/100 (Building, #2 in city) | Century 21 is a real estate agency in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/century-21-irving/
+2. Century 21 | Organic #2 | Pulse Score 43.5/100 (Building, #2 in city) | Century 21 is a real estate agency in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/century-21-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent irving tx | category: Professional & financial services | industry benchmark: Finance & Insurance

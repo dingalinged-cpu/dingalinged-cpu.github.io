@@ -13,7 +13,7 @@ Evansville Barber Shop is a hair salon in Evansville, WI at West Main Street, Ev
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 14:00-20:00; Tu,Th 13:00-20:00; We 11:00-20:00; Fr 08:00-17:30; Sa 08:00-12:00
-- Pulse Score: 64/100 — Good — top 2% of hair salons in Madison, #1 of 7 hair salons in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64/100 — Good — top 2% of hair salons in Madison, #1 of 7 hair salons in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: window repair in West Bend, WI; window repair near me (West Bend, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Glass Doctor | Organic #1 | Pulse Score 42.3/100 (Building, #1 in city) | Glass Doctor is a window repair service in West Bend, WI. | https://registry-edge.dingalinged.workers.dev/c/glass-doctor-west-bend/
+1. Glass Doctor | Organic #1 | Pulse Score 42.2/100 (Building, #1 in city) | Glass Doctor is a window repair service in West Bend, WI. | https://registry-edge.dingalinged.workers.dev/c/glass-doctor-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair west bend wi | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

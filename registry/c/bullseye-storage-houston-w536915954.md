@@ -8,17 +8,17 @@ Bullseye Storage is a self-storage facility in Houston, TX at 3200 West Dallas S
 - City: Houston
 - State: TX
 - ZIP: n/a
-- Coordinates: 29.7576185, -95.3993569
+- Coordinates: 29.7576184, -95.3993569
 - Phone: n/a
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 22% of self-storage facilitys in Houston, #15 of 81 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 18% of self-storage facilitys in Houston, #15 of 84 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/bullseye-storage-houston-w536915954/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bullseye-storage-houston-w536915954.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/536915954 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/536915954 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

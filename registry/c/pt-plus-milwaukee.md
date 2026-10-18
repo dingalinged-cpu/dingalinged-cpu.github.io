@@ -13,7 +13,7 @@ PT Plus is an occupational therapist in Milwaukee, WI. Phone: +14144469291. Webs
 - Website: https://www.ptplus.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th-Fr 12:00-20:00; We,Sa 08:00-14:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of occupational therapists in Milwaukee, #1 of 2 occupational therapists in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of occupational therapists in Milwaukee, #1 of 2 occupational therapists in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

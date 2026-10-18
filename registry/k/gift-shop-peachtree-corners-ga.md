@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Francesca's Collections | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Francesca's Collections is a gift shop in Peachtree Corners, GA. | https://registry-edge.dingalinged.workers.dev/c/francescas-collections-peachtree-corners/
 4. Mori Luggage and Gifts | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Mori Luggage and Gifts is a gift shop in Peachtree Corners, GA. | https://registry-edge.dingalinged.workers.dev/c/mori-luggage-and-gifts-peachtree-corners/
 5. Hallmark | Organic #5 | Pulse Score 44.8/100 (Building, #5 in city) | Hallmark is a gift shop in Peachtree Corners, GA. | https://registry-edge.dingalinged.workers.dev/c/hallmark-peachtree-corners/
-6. Brighton Collectibles | Organic #6 | Pulse Score 44.5/100 (Building, #6 in city) | Brighton Collectibles is a gift shop in Peachtree Corners, GA. | https://registry-edge.dingalinged.workers.dev/c/brighton-collectibles-peachtree-corners/
+6. Brighton Collectibles | Organic #6 | Pulse Score 44.6/100 (Building, #6 in city) | Brighton Collectibles is a gift shop in Peachtree Corners, GA. | https://registry-edge.dingalinged.workers.dev/c/brighton-collectibles-peachtree-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop peachtree corners ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

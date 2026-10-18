@@ -12,11 +12,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. Champlin Tire | Organic #4 | Pulse Score 60.7/100 (Unrated, #2 in city) | Champlin Tire is a tire shop in Omaha, NE at 3215 South 66th Avenue Circle, Omaha, NE 68106. Phone: +14023934991. | https://registry-edge.dingalinged.workers.dev/c/champlin-tire-omaha/
 5. Jensen Tire & Auto | Organic #5 | Pulse Score 50/100 (Unrated, #49 in city) | Jensen Tire & Auto is an auto repair shop in Omaha, NE at 2010 Harney Street, Omaha, NE 68102. Phone: +14023425076. Website: https://jensentireandauto.com/locations/2010-harney-street/. | https://registry-edge.dingalinged.workers.dev/c/jensen-tire-and-auto-omaha-w466422404/
 6. Discount Tire | Organic #6 | Pulse Score 48.2/100 (Building, #3 in city) | Discount Tire is a tire shop in Omaha, NE at 18520 Wright Street, Omaha, NE 68130. Phone: +14026862036. Website: https://stores.discounttire.com/ne/omaha/neo-05/. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-omaha/
-7. Tires Plus | Organic #7 | Pulse Score 44.2/100 (Building, #4 in city) | Tires Plus is a tire shop in Omaha, NE at 7437 Pacific Street, Omaha, NE 68114. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-omaha/
-8. Tires Plus | Organic #8 | Pulse Score 44.2/100 (Building, #5 in city) | Tires Plus is a tire shop in Omaha, NE at 2610 South 144th Street, Omaha, NE 68144. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-omaha-w180773964/
+7. Tires Plus | Organic #7 | Pulse Score 44.1/100 (Building, #4 in city) | Tires Plus is a tire shop in Omaha, NE at 7437 Pacific Street, Omaha, NE 68114. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-omaha/
+8. Tires Plus | Organic #8 | Pulse Score 44.1/100 (Building, #5 in city) | Tires Plus is a tire shop in Omaha, NE at 2610 South 144th Street, Omaha, NE 68144. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-omaha-w180773964/
 9. Jensen Tire & Auto | Organic #9 | Pulse Score 43.1/100 (Unrated, #6 in city) | Jensen Tire & Auto is a tire shop in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/jensen-tire-and-auto-omaha-w575338230/
-10. Discount Tire | Organic #10 | Pulse Score 42.7/100 (Building, #7 in city) | Discount Tire is a tire shop in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-omaha-w937899415/
-11. Tires Plus | Organic #11 | Pulse Score 42/100 (Building, #8 in city) | Tires Plus is a tire shop in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-omaha-w488841287/
+10. Discount Tire | Organic #10 | Pulse Score 42.6/100 (Building, #7 in city) | Discount Tire is a tire shop in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-omaha-w937899415/
+11. Tires Plus | Organic #11 | Pulse Score 41.9/100 (Building, #8 in city) | Tires Plus is a tire shop in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-omaha-w488841287/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop omaha ne | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

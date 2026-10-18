@@ -6,7 +6,7 @@ Also answers: preschool in Brookfield, WI; preschool near me (Brookfield, WI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KinderCare | Organic #1 | Pulse Score 43.8/100 (Building, #1 in city) | KinderCare is a preschool in Brookfield, WI at 18205 West Bluemound Road, Brookfield, WI 53045. | https://registry-edge.dingalinged.workers.dev/c/kindercare-brookfield/
+1. KinderCare | Organic #1 | Pulse Score 43.7/100 (Building, #1 in city) | KinderCare is a preschool in Brookfield, WI at 18205 West Bluemound Road, Brookfield, WI 53045. | https://registry-edge.dingalinged.workers.dev/c/kindercare-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool brookfield wi | category: Education & childcare | industry benchmark: Education & Instruction

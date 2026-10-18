@@ -19,6 +19,6 @@ Paragon Cleaners is a dry cleaner in Dallas, TX at 5365 Spring Valley Road #134,
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/paragon-cleaners-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/paragon-cleaners-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13464302143 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13464302143 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

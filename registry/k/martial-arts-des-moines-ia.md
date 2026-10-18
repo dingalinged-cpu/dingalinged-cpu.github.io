@@ -6,7 +6,7 @@ Also answers: martial arts in Des Moines, IA; martial arts near me (Des Moines, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Two Rivers Martial Arts | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Two Rivers Martial Arts is a martial arts school in Des Moines, IA at 2017 Southlawn Drive #D, Des Moines, IA 50315. Website: https://tworiversmartialarts.com/. | https://registry-edge.dingalinged.workers.dev/c/two-rivers-martial-arts-des-moines/
+1. Two Rivers Martial Arts | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Two Rivers Martial Arts is a martial arts school in Des Moines, IA at 2017 Southlawn Drive #D, Des Moines, IA 50315. Website: https://tworiversmartialarts.com/. | https://registry-edge.dingalinged.workers.dev/c/two-rivers-martial-arts-des-moines/
 2. Des Moines Jiu-Jitsu Academy | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Des Moines Jiu-Jitsu Academy is a martial arts school in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/des-moines-jiu-jitsu-academy-des-moines/
 
 ## Market data (for advertisers and agents)

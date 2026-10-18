@@ -13,7 +13,7 @@ Bolingbrook Pediatrician is a pediatrician in Bolingbrook, IL at 550 East Bought
 - Website: https://azmedpeds.com/
 - Email: info@azmedpeds.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 34% of pediatricians in Chicago, #1 of 1 pediatricians in Bolingbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 34% of pediatricians in Chicago, #1 of 1 pediatricians in Bolingbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

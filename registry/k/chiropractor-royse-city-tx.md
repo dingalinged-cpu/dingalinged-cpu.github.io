@@ -6,8 +6,8 @@ Also answers: chiropractor in Royse City, TX; chiropractor near me (Royse City, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Baker Spine and Sport | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Baker Spine and Sport is a chiropractor in Royse City, TX at 102 West Old Greenville Road, Royse City, TX 75189. Phone: +19453338060. Website: https://www.roysecitychiropractor.com/. | https://registry-edge.dingalinged.workers.dev/c/baker-spine-and-sport-royse-city/
-2. The Spark | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | The Spark is a chiropractor in Royse City, TX at 118 East Main Street #101, Royse City, TX 75189. | https://registry-edge.dingalinged.workers.dev/c/the-spark-royse-city/
+1. Baker Spine and Sport | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Baker Spine and Sport is a chiropractor in Royse City, TX at 102 West Old Greenville Road, Royse City, TX 75189. Phone: +19453338060. Website: https://www.roysecitychiropractor.com/. | https://registry-edge.dingalinged.workers.dev/c/baker-spine-and-sport-royse-city/
+2. The Spark | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | The Spark is a chiropractor in Royse City, TX at 118 East Main Street #101, Royse City, TX 75189. | https://registry-edge.dingalinged.workers.dev/c/the-spark-royse-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor royse city tx | category: Health & medical | industry benchmark: Physicians & Surgeons

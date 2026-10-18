@@ -6,7 +6,7 @@ Also answers: storage units in Richland Hills, TX; storage units near me (Richla
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Public Storage | Organic #1 | Pulse Score 45.3/100 (Building, #1 in city) | Public Storage is a self-storage facility in Richland Hills, TX at 7601 Airport Freeway, Richland Hills, TX 76118. | https://registry-edge.dingalinged.workers.dev/c/public-storage-richland-hills/
+1. Public Storage | Organic #1 | Pulse Score 45.2/100 (Building, #1 in city) | Public Storage is a self-storage facility in Richland Hills, TX at 7601 Airport Freeway, Richland Hills, TX 76118. | https://registry-edge.dingalinged.workers.dev/c/public-storage-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units richland hills tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

@@ -6,7 +6,7 @@ Also answers: used cars for sale in Gladstone, MO; used cars for sale near me (G
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SS Auto Inc. | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | SS Auto Inc. is an used car dealer in Gladstone, MO at 6417 North Oak Trafficway, Gladstone, MO 64118. Website: https://www.ssautokc.com/. | https://registry-edge.dingalinged.workers.dev/c/ss-auto-inc-gladstone/
+1. SS Auto Inc. | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | SS Auto Inc. is an used car dealer in Gladstone, MO at 6417 North Oak Trafficway, Gladstone, MO 64118. Website: https://www.ssautokc.com/. | https://registry-edge.dingalinged.workers.dev/c/ss-auto-inc-gladstone/
 2. Van Subaru | Organic #2 | Pulse Score 50.5/100 (Fair, #2 in city) | Van Subaru is an used car dealer in Gladstone, MO at 90 Northwest Vivion Road, Gladstone, MO 64118. Phone: +18448737968. Website: https://www.vansubaru.com/. | https://registry-edge.dingalinged.workers.dev/c/van-subaru-gladstone/
 
 ## Market data (for advertisers and agents)

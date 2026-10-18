@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. The Visual Factory | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | The Visual Factory is a photographer in Milwaukee, WI at 7319 West Dean Road, Milwaukee, WI 53223. Phone: +14142060001. Website: https://www.theevisualfactory.com/. | https://registry-edge.dingalinged.workers.dev/c/the-visual-factory-milwaukee/
 2. RJ Harris Photography | Organic #2 | Pulse Score 58.5/100 (Fair, #2 in city) | RJ Harris Photography is a photographer in Milwaukee, WI at 8201 West Capitol Drive #Suite A, Milwaukee, WI 53222. Phone: +14149395906. Website: https://www.rjharrisphotography.com/. | https://registry-edge.dingalinged.workers.dev/c/rj-harris-photography-milwaukee/
-3. Grand Studio Photography | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | Grand Studio Photography is a photographer in Milwaukee, WI at 539 West Historic Mitchell Street, Milwaukee, WI 53204. Phone: +14143845590. | https://registry-edge.dingalinged.workers.dev/c/grand-studio-photography-milwaukee/
+3. Grand Studio Photography | Organic #3 | Pulse Score 58.5/100 (Unrated, #3 in city) | Grand Studio Photography is a photographer in Milwaukee, WI at 539 West Historic Mitchell Street, Milwaukee, WI 53204. Phone: +14143845590. | https://registry-edge.dingalinged.workers.dev/c/grand-studio-photography-milwaukee/
 4. Fairview Photography Studion | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Fairview Photography Studion is a photographer in Milwaukee, WI at 6706 West Fairview Avenue, Milwaukee, WI 53213. | https://registry-edge.dingalinged.workers.dev/c/fairview-photography-studion-milwaukee/
 
 ## Market data (for advertisers and agents)

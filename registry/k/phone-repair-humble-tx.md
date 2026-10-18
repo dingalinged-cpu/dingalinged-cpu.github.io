@@ -6,7 +6,7 @@ Also answers: phone repair in Humble, TX; phone repair near me (Humble, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ÜPhone Phone & Tablet Repair | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | ÜPhone Phone & Tablet Repair is a phone repair shop in Humble, TX at 19763 Eastex Freeway, Humble, TX. Phone: +17137144447. Website: https://www.mygadgetmd.com/locations/humble.html. | https://registry-edge.dingalinged.workers.dev/c/phone-phone-and-tablet-repair-humble/
+1. ÜPhone Phone & Tablet Repair | Organic #1 | Pulse Score 62.1/100 (Good, #1 in city) | ÜPhone Phone & Tablet Repair is a phone repair shop in Humble, TX at 19763 Eastex Freeway, Humble, TX. Phone: +17137144447. Website: https://www.mygadgetmd.com/locations/humble.html. | https://registry-edge.dingalinged.workers.dev/c/phone-phone-and-tablet-repair-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair humble tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

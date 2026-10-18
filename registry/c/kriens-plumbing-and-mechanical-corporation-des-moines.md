@@ -13,7 +13,7 @@ Kriens Plumbing & Mechanical Corporation is a plumber in Des Moines, IA at 2110 
 - Website: https://kriensplumbing.com/
 - Email: kriensplumbing@gmail.com
 - Opening hours (OSM syntax): Sa-Su closed; Mo-Fr 08:00-16:30
-- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 15% of plumbers in Des Moines, IA, #1 of 1 plumbers in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 15% of plumbers in Des Moines, IA, #1 of 1 plumbers in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

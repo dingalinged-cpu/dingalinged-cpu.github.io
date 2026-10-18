@@ -6,7 +6,7 @@ Also answers: primary care physician in Brooklyn Park, MN; primary care physicia
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. North Memorial Health Clinic | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | North Memorial Health Clinic is a family medicine practice in Brooklyn Park, MN at 8559 Edinbrook Pkwy. #Ste. 100, Brooklyn Park, MN 55443. | https://registry-edge.dingalinged.workers.dev/c/north-memorial-health-clinic-brooklyn-park/
+1. North Memorial Health Clinic | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | North Memorial Health Clinic is a family medicine practice in Brooklyn Park, MN at 8559 Edinbrook Pkwy. #Ste. 100, Brooklyn Park, MN 55443. | https://registry-edge.dingalinged.workers.dev/c/north-memorial-health-clinic-brooklyn-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician brooklyn park mn | category: Health & medical | industry benchmark: Physicians & Surgeons

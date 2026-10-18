@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Citywide Printing | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Citywide Printing is a printing service in Des Plaines, IL at Lee Street, Des Plaines, IL 60016. | https://registry-edge.dingalinged.workers.dev/c/citywide-printing-des-plaines/
 2. The UPS Store | Organic #2 | Pulse Score 45/100 (Building, #2 in city) | The UPS Store is a printing service in Des Plaines, IL at 1153 Lee Street, Des Plaines, IL 60016. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-des-plaines/
-3. AlphaGraphics | Organic #3 | Pulse Score 41/100 (Building, #3 in city) | AlphaGraphics is a printing service in Des Plaines, IL. | https://registry-edge.dingalinged.workers.dev/c/alphagraphics-des-plaines/
+3. AlphaGraphics | Organic #3 | Pulse Score 41.1/100 (Building, #3 in city) | AlphaGraphics is a printing service in Des Plaines, IL. | https://registry-edge.dingalinged.workers.dev/c/alphagraphics-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services des plaines il | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -6,7 +6,7 @@ Also answers: event venues in League City, TX; event venues near me (League City
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Walding Station Event Venue | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Walding Station Event Venue is an event venue in League City, TX at 100 Perkins Avenue, League City, TX 77573. Phone: +18326322726. Website: https://www.waldingstation.com/. | https://registry-edge.dingalinged.workers.dev/c/walding-station-event-venue-league-city/
+1. Walding Station Event Venue | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Walding Station Event Venue is an event venue in League City, TX at 100 Perkins Avenue, League City, TX 77573. Phone: +18326322726. Website: https://www.waldingstation.com/. | https://registry-edge.dingalinged.workers.dev/c/walding-station-event-venue-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues league city tx | category: Events & weddings | industry benchmark: Personal Services

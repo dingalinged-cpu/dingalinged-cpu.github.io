@@ -19,6 +19,6 @@ Painted Tree is a gift shop in Webster, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/painted-tree-webster/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/painted-tree-webster.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13608607453 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13608607453 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

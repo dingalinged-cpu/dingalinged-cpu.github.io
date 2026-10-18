@@ -1,4 +1,4 @@
-Keyword market for Colleyville, TX: 21 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
+Keyword market for Colleyville, TX: 23 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
 
 # Top keywords in Colleyville, TX
 
@@ -20,21 +20,21 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 13. insurance agent colleyville tx | searches/mo 1,000 (est) | CPC $3.39 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-colleyville-tx/
 
 ## By CPC
-1. attorney colleyville tx | searches/mo 1,800 (est) | CPC $9.87 | value $18,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/attorney-colleyville-tx/
-2. lawyer colleyville tx | searches/mo 1,200 (est) | CPC $9.87 | value $12,000 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/lawyer-colleyville-tx/
-3. caterers colleyville tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/caterers-colleyville-tx/
-4. music lessons colleyville tx | searches/mo 990 (est) | CPC $4.81 | value $4,800 | Google Ads equiv $270/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/music-lessons-colleyville-tx/
-5. eye doctor colleyville tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-colleyville-tx/
-6. physical therapy colleyville tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/physical-therapy-colleyville-tx/
-7. plastic surgeon colleyville tx | searches/mo 820 (est) | CPC $4.76 | value $3,900 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plastic-surgeon-colleyville-tx/
-8. therapist colleyville tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/therapist-colleyville-tx/
-9. dentist colleyville tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/dentist-colleyville-tx/
-10. facial colleyville tx | searches/mo 1,800 (est) | CPC $4.62 | value $8,300 | Google Ads equiv $470/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/facial-colleyville-tx/
-11. haircut colleyville tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-colleyville-tx/
-12. auto repair colleyville tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-colleyville-tx/
-13. mechanic colleyville tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-colleyville-tx/
-14. pet store colleyville tx | searches/mo 3,500 (est) | CPC $4.14 | value $14,000 | Google Ads equiv $1,300/mo | our featured min $10/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/pet-store-colleyville-tx/
-15. vet colleyville tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-colleyville-tx/
+1. roofing contractor colleyville tx | searches/mo n/a (est) | CPC $11.79 | value $n/a | Google Ads equiv $n/a/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-colleyville-tx/
+2. roofer colleyville tx | searches/mo n/a (est) | CPC $10.70 | value $n/a | Google Ads equiv $n/a/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-colleyville-tx/
+3. attorney colleyville tx | searches/mo 1,800 (est) | CPC $9.87 | value $18,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/attorney-colleyville-tx/
+4. lawyer colleyville tx | searches/mo 1,200 (est) | CPC $9.87 | value $12,000 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/lawyer-colleyville-tx/
+5. caterers colleyville tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/caterers-colleyville-tx/
+6. music lessons colleyville tx | searches/mo 990 (est) | CPC $4.81 | value $4,800 | Google Ads equiv $270/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/music-lessons-colleyville-tx/
+7. eye doctor colleyville tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-colleyville-tx/
+8. physical therapy colleyville tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/physical-therapy-colleyville-tx/
+9. plastic surgeon colleyville tx | searches/mo 820 (est) | CPC $4.76 | value $3,900 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plastic-surgeon-colleyville-tx/
+10. therapist colleyville tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/therapist-colleyville-tx/
+11. dentist colleyville tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/dentist-colleyville-tx/
+12. facial colleyville tx | searches/mo 1,800 (est) | CPC $4.62 | value $8,300 | Google Ads equiv $470/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/facial-colleyville-tx/
+13. haircut colleyville tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-colleyville-tx/
+14. auto repair colleyville tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-colleyville-tx/
+15. mechanic colleyville tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-colleyville-tx/
 
 ## By value (searches x CPC)
 1. dentist colleyville tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/dentist-colleyville-tx/

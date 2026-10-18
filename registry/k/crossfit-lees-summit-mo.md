@@ -6,7 +6,7 @@ Also answers: crossfit in Lee'S Summit, MO; crossfit near me (Lee'S Summit, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Champion Weightlifting | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Champion Weightlifting is a CrossFit gym in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/champion-weightlifting-lees-summit/
+1. Champion Weightlifting | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Champion Weightlifting is a CrossFit gym in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/champion-weightlifting-lees-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: crossfit lee's summit mo | category: Fitness | industry benchmark: Health & Fitness

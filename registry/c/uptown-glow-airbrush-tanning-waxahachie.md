@@ -19,6 +19,6 @@ Uptown Glow Airbrush Tanning is a tanning salon in Waxahachie, TX at 110 Panoram
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/uptown-glow-airbrush-tanning-waxahachie/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/uptown-glow-airbrush-tanning-waxahachie.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11291030870 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11291030870 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

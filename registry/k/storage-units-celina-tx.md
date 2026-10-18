@@ -6,7 +6,7 @@ Also answers: storage units in Celina, TX; storage units near me (Celina, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Public Storage | Organic #1 | Pulse Score 46.6/100 (Building, #1 in city) | Public Storage is a self-storage facility in Celina, TX at 920 West Frontier Parkway, Celina, TX. | https://registry-edge.dingalinged.workers.dev/c/public-storage-celina/
+1. Public Storage | Organic #1 | Pulse Score 46.4/100 (Building, #1 in city) | Public Storage is a self-storage facility in Celina, TX at 920 West Frontier Parkway, Celina, TX. | https://registry-edge.dingalinged.workers.dev/c/public-storage-celina/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units celina tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

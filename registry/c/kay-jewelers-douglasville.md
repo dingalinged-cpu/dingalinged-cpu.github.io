@@ -13,7 +13,7 @@ Kay Jewelers is a jewelry store in Douglasville, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.1/100 — Building — top 95% of jewelry stores in Atlanta, #1 of 3 jewelry stores in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.1/100 — Building — top 95% of jewelry stores in Atlanta, #1 of 3 jewelry stores in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

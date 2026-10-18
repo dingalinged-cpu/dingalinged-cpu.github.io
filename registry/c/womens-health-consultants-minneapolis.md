@@ -13,7 +13,7 @@ Women's Health Consultants is an OB-GYN practice in Minneapolis, MN at 2800 Chic
 - Website: https://www.womenshealthconsultantsmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 100% of OB-GYN practices in Minneapolis–St. Paul, #1 of 1 OB-GYN practices in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 100% of OB-GYN practices in Minneapolis–St. Paul, #1 of 1 OB-GYN practices in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

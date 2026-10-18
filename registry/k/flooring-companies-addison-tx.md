@@ -6,7 +6,7 @@ Also answers: flooring companies in Addison, TX; flooring companies near me (Add
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MyGarageFloors.com | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | MyGarageFloors.com is a flooring company in Addison, TX at 4006 Belt Line Road #178 B, Addison, TX 75001. Phone: +14699909990. Website: https://mygaragefloors.com/service-area/garage-floor-coating-addison/. | https://registry-edge.dingalinged.workers.dev/c/mygaragefloors-com-addison/
+1. MyGarageFloors.com | Organic #1 | Pulse Score 48.9/100 (Unrated, #1 in city) | MyGarageFloors.com is a flooring company in Addison, TX at 4006 Belt Line Road #178 B, Addison, TX 75001. Phone: +14699909990. Website: https://mygaragefloors.com/service-area/garage-floor-coating-addison/. | https://registry-edge.dingalinged.workers.dev/c/mygaragefloors-com-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies addison tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

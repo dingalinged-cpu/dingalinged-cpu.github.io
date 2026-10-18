@@ -6,9 +6,9 @@ Also answers: flooring companies in Frisco, TX; flooring companies near me (Fris
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GC Flooring Pros | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | GC Flooring Pros is a flooring company in Frisco, TX at 3110 Main Street #200, Frisco, TX 75034. | https://registry-edge.dingalinged.workers.dev/c/gc-flooring-pros-frisco/
-2. Robinson Floors | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Robinson Floors is a flooring company in Frisco, TX at 9351 Warren Parkway #101, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/robinson-floors-frisco/
-3. Style Floors | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Style Floors is a flooring company in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/style-floors-frisco/
+1. GC Flooring Pros | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | GC Flooring Pros is a flooring company in Frisco, TX at 3110 Main Street #200, Frisco, TX 75034. | https://registry-edge.dingalinged.workers.dev/c/gc-flooring-pros-frisco/
+2. Style Floors | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Style Floors is a flooring company in Frisco, TX at 11550 Legacy Drive #400, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/style-floors-frisco/
+3. Robinson Floors | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | Robinson Floors is a flooring company in Frisco, TX at 9351 Warren Parkway #101, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/robinson-floors-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies frisco tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

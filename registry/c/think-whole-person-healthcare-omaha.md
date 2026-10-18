@@ -13,7 +13,7 @@ Think Whole Person Healthcare is a family medicine practice in Omaha, NE at 7100
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 60% of family medicine practices in Omaha, NE, #2 of 2 family medicine practices in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 60% of family medicine practices in Omaha, NE, #2 of 2 family medicine practices in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

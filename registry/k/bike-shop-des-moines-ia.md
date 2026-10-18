@@ -6,7 +6,7 @@ Also answers: bike shop in Des Moines, IA; bike shop near me (Des Moines, IA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Des Moines Bicycle Collective | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Des Moines Bicycle Collective is a bike shop in Des Moines, IA at 506 East 6th Street, Des Moines, IA 50309. Phone: +15152888022. Website: https://www.dsmstreetcollective.org/. | https://registry-edge.dingalinged.workers.dev/c/des-moines-bicycle-collective-des-moines/
+1. Des Moines Bicycle Collective | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Des Moines Bicycle Collective is a bike shop in Des Moines, IA at 506 East 6th Street, Des Moines, IA 50309. Phone: +15152888022. Website: https://www.dsmstreetcollective.org/. | https://registry-edge.dingalinged.workers.dev/c/des-moines-bicycle-collective-des-moines/
 2. Beaverdale Bicycle | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Beaverdale Bicycle is a bike shop in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/beaverdale-bicycle-des-moines/
 
 ## Market data (for advertisers and agents)

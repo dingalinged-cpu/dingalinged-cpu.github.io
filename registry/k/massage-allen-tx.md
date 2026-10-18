@@ -6,7 +6,7 @@ Also answers: massage in Allen, TX; massage near me (Allen, TX); best massage Al
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elements Massage | Organic #1 | Pulse Score 47/100 (Building, #1 in city) | Elements Massage is a massage studio in Allen, TX at 945 West Stacy Road #170, Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/elements-massage-allen/
+1. Elements Massage | Organic #1 | Pulse Score 46.9/100 (Building, #1 in city) | Elements Massage is a massage studio in Allen, TX at 945 West Stacy Road #170, Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/elements-massage-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage allen tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

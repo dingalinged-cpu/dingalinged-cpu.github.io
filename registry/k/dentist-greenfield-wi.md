@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Gould Dentistry | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Gould Dentistry is a dentist in Greenfield, WI. | https://registry-edge.dingalinged.workers.dev/c/gould-dentistry-greenfield/
 3. Kraklow Quality Dentistry | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Kraklow Quality Dentistry is a dentist in Greenfield, WI. | https://registry-edge.dingalinged.workers.dev/c/kraklow-quality-dentistry-greenfield/
 4. Sweet Tooth Dental | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Sweet Tooth Dental is a dentist in Greenfield, WI. | https://registry-edge.dingalinged.workers.dev/c/sweet-tooth-dental-greenfield/
-5. DentalWorks | Organic #5 | Pulse Score 44.3/100 (Building, #5 in city) | DentalWorks is a dentist in Greenfield, WI at 7995 West Layton Avenue, Greenfield, WI 53220. | https://registry-edge.dingalinged.workers.dev/c/dentalworks-greenfield/
+5. DentalWorks | Organic #5 | Pulse Score 44.2/100 (Building, #5 in city) | DentalWorks is a dentist in Greenfield, WI at 7995 West Layton Avenue, Greenfield, WI 53220. | https://registry-edge.dingalinged.workers.dev/c/dentalworks-greenfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist greenfield wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

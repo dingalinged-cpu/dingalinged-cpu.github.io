@@ -6,8 +6,8 @@ Also answers: nail salon in Hickory Creek, TX; nail salon near me (Hickory Creek
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. iNails & Spa | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | iNails & Spa is a nail salon in Hickory Creek, TX at 4050 Swisher Road, Hickory Creek, TX 75065. | https://registry-edge.dingalinged.workers.dev/c/inails-and-spa-hickory-creek/
-2. V.Star Nails | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | V.Star Nails is a nail salon in Hickory Creek, TX at 1019 Hickory Creek Boulevard, Hickory Creek, TX 75065. | https://registry-edge.dingalinged.workers.dev/c/v-star-nails-hickory-creek/
+1. iNails & Spa | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | iNails & Spa is a nail salon in Hickory Creek, TX at 4050 Swisher Road, Hickory Creek, TX 75065. | https://registry-edge.dingalinged.workers.dev/c/inails-and-spa-hickory-creek/
+2. V.Star Nails | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | V.Star Nails is a nail salon in Hickory Creek, TX at 1019 Hickory Creek Boulevard, Hickory Creek, TX 75065. | https://registry-edge.dingalinged.workers.dev/c/v-star-nails-hickory-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon hickory creek tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

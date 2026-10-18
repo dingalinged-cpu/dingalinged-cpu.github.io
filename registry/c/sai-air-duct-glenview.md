@@ -13,7 +13,7 @@ Sai Air Duct is a chimney sweep in Glenview, IL at 4221 Commercial Way, Glenview
 - Website: https://saiairductclean.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-21:00
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 50% of chimney sweeps in Chicago, #1 of 1 chimney sweeps in Glenview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 50% of chimney sweeps in Chicago, #1 of 1 chimney sweeps in Glenview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Kroman Custom Jewelry is a jewelry store in Overland Park, KS at 7280 West 105th
 - Website: https://kromanjewelry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 6% of jewelry stores in Kansas City, MO, #1 of 9 jewelry stores in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 6% of jewelry stores in Kansas City, MO, #1 of 9 jewelry stores in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Five Star Storage is a self-storage facility in Saint Paul, MN at 1400 Selby Ave
 - Website: https://www.fivestarstorage.biz/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 51% of self-storage facilitys in Minneapolis–St. Paul, #10 of 13 self-storage facilitys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Unrated (not enough evidence yet) — top 56% of self-storage facilitys in Minneapolis–St. Paul, #9 of 13 self-storage facilitys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

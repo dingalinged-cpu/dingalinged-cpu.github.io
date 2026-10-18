@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Gathered Boutique & Workshop | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Gathered Boutique & Workshop is a gift shop in Mount Prospect, IL. | https://registry-edge.dingalinged.workers.dev/c/gathered-boutique-and-workshop-mount-prospect/
 2. Hallmark | Organic #2 | Pulse Score 44.4/100 (Building, #2 in city) | Hallmark is a gift shop in Mount Prospect, IL. | https://registry-edge.dingalinged.workers.dev/c/hallmark-mount-prospect/
-3. Edible Arrangements | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | Edible Arrangements is a gift shop in Mount Prospect, IL. | https://registry-edge.dingalinged.workers.dev/c/edible-arrangements-mount-prospect/
+3. Edible Arrangements | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Edible Arrangements is a gift shop in Mount Prospect, IL. | https://registry-edge.dingalinged.workers.dev/c/edible-arrangements-mount-prospect/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop mount prospect il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

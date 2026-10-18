@@ -13,7 +13,7 @@ Northeast Cobb County VA Clinic is a family medicine practice in Marietta, GA at
 - Website: https://www.va.gov/atlanta-health-care/locations/northeast-cobb-county-va-clinic/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 51.9/100 — Fair — top 67% of family medicine practices in Atlanta, #4 of 6 family medicine practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.8, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.9/100 — Fair — top 67% of family medicine practices in Atlanta, #4 of 6 family medicine practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.8, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

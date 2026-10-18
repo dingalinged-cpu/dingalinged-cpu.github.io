@@ -13,7 +13,7 @@ National Karate is a martial arts school in Ramsey, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Minneapolis–St. Paul, #1 of 1 martial arts schools in Ramsey (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Minneapolis–St. Paul, #1 of 1 martial arts schools in Ramsey (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

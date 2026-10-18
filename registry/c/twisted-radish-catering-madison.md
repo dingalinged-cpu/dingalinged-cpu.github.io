@@ -13,7 +13,7 @@ Twisted Radish Catering is a caterer in Madison, WI at 1219 North Sherman Avenue
 - Website: https://twistedradish.com/
 - Email: twistedradishcatering@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa 08:30-12:00
-- Pulse Score: 63.8/100 — Good — top 34% of caterers in Madison, #1 of 2 caterers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 34% of caterers in Madison, #1 of 2 caterers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

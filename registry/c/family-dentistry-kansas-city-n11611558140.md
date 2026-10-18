@@ -13,7 +13,7 @@ Family Dentistry is a dentist in Kansas City, MO. Phone: +18169312342. Website: 
 - Website: https://briansuttondds.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Building — top 94% of dentists in Kansas City, MO, #38 of 44 dentists in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 94% of dentists in Kansas City, MO, #38 of 44 dentists in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

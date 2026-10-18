@@ -6,9 +6,9 @@ Also answers: heating and air in Des Moines, IA; heating and air near me (Des Mo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Schaal Plumbing, Heating and Cooling | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Schaal Plumbing, Heating and Cooling is a HVAC contractor in Des Moines, IA at 2701 6th Avenue, Des Moines, IA 50313. Phone: +15152883631. Website: https://www.callschaalyaall.com/. | https://registry-edge.dingalinged.workers.dev/c/schaal-plumbing-heating-and-cooling-des-moines/
-2. Fini Conditioned Air | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Fini Conditioned Air is a HVAC contractor in Des Moines, IA at 5501 East Douglas Avenue, Des Moines, IA 50317. Phone: +15152629694. | https://registry-edge.dingalinged.workers.dev/c/fini-conditioned-air-des-moines/
-3. Nichols Controls & Supply Inc | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Nichols Controls & Supply Inc is a HVAC contractor in Des Moines, IA at 1721 Dean Avenue, Des Moines, IA 50316. | https://registry-edge.dingalinged.workers.dev/c/nichols-controls-and-supply-inc-des-moines/
+1. Schaal Plumbing, Heating and Cooling | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Schaal Plumbing, Heating and Cooling is a HVAC contractor in Des Moines, IA at 2701 6th Avenue, Des Moines, IA 50313. Phone: +15152883631. Website: https://www.callschaalyaall.com/. | https://registry-edge.dingalinged.workers.dev/c/schaal-plumbing-heating-and-cooling-des-moines/
+2. Fini Conditioned Air | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Fini Conditioned Air is a HVAC contractor in Des Moines, IA at 5501 East Douglas Avenue, Des Moines, IA 50317. Phone: +15152629694. | https://registry-edge.dingalinged.workers.dev/c/fini-conditioned-air-des-moines/
+3. Nichols Controls & Supply Inc | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Nichols Controls & Supply Inc is a HVAC contractor in Des Moines, IA at 1721 Dean Avenue, Des Moines, IA 50316. | https://registry-edge.dingalinged.workers.dev/c/nichols-controls-and-supply-inc-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air des moines ia | category: Home Services | industry benchmark: Home & Home Improvement

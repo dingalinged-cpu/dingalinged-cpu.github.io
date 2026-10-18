@@ -6,7 +6,7 @@ Also answers: jewelry store in Wylie, TX; jewelry store near me (Wylie, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. James Avery Jewelry | Organic #1 | Pulse Score 45.3/100 (Building, #1 in city) | James Avery Jewelry is a jewelry store in Wylie, TX at 3400 FM 544 #Suite 608, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-wylie/
+1. James Avery Jewelry | Organic #1 | Pulse Score 45/100 (Building, #1 in city) | James Avery Jewelry is a jewelry store in Wylie, TX at 3400 FM 544 #Suite 608, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store wylie tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

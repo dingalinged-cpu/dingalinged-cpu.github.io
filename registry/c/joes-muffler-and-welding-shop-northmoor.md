@@ -13,7 +13,7 @@ Joe's Muffler and Welding Shop is an auto repair shop in Northmoor, MO at 1802 N
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-17:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 19% of auto repair shops in Kansas City, MO, #1 of 3 auto repair shops in Northmoor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 18% of auto repair shops in Kansas City, MO, #1 of 3 auto repair shops in Northmoor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

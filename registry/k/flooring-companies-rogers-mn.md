@@ -6,7 +6,7 @@ Also answers: flooring companies in Rogers, MN; flooring companies near me (Roge
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Flooring Avenue | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Flooring Avenue is a flooring company in Rogers, MN. | https://registry-edge.dingalinged.workers.dev/c/flooring-avenue-rogers/
+1. Flooring Avenue | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Flooring Avenue is a flooring company in Rogers, MN. | https://registry-edge.dingalinged.workers.dev/c/flooring-avenue-rogers/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies rogers mn | category: Home services - Flooring | industry benchmark: Home & Home Improvement

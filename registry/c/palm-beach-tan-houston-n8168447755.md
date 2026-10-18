@@ -13,12 +13,12 @@ Palm Beach Tan is a tanning salon in Houston, TX. Website: https://palmbeachtan.
 - Website: https://palmbeachtan.com/locations/TX/Houston-Eldridge-Parkway
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Building — top 91% of tanning salons in Houston, #5 of 5 tanning salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 77% of tanning salons in Houston, #5 of 6 tanning salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-houston-n8168447755/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/palm-beach-tan-houston-n8168447755.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/8168447755 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8168447755 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

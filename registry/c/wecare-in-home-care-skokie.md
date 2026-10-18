@@ -13,7 +13,7 @@ WeCare In Home Care is an assisted living facility in Skokie, IL at 5360 Fargo A
 - Website: https://www.midwestwecare.com/
 - Email: DawnW@midwestproviders.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 9% of assisted living facilitys in Chicago, #1 of 1 assisted living facilitys in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 9% of assisted living facilitys in Chicago, #1 of 1 assisted living facilitys in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

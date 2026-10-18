@@ -13,7 +13,7 @@ Avalon Photography is a photographer in Edina, MN. Phone: +19529226300. Website:
 - Website: https://avalonphoto.net/
 - Email: jolene@avalonphoto.net
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Good — top 36% of photographers in Minneapolis–St. Paul, #2 of 2 photographers in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Good — top 36% of photographers in Minneapolis–St. Paul, #2 of 2 photographers in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,10 +6,10 @@ Also answers: gym in Euless, TX; gym near me (Euless, TX); best gym Euless, TX; 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Senior Center | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Senior Center is a gym in Euless, TX. | https://registry-edge.dingalinged.workers.dev/c/senior-center-euless/
+1. Senior Center | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Senior Center is a gym in Euless, TX. | https://registry-edge.dingalinged.workers.dev/c/senior-center-euless/
 2. Planet Fitness | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | Planet Fitness is a gym in Euless, TX at 1200 North Main Street #100, Euless, TX 76039. Phone: +12149195462. Website: https://www.planetfitness.com/gyms/euless-tx. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-euless/
-3. EoS Fitness | Organic #3 | Pulse Score 43.9/100 (Unrated, #3 in city) | EoS Fitness is a gym in Euless, TX at 2401 Rio Grande Boulevard, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/eos-fitness-euless/
-4. LA Fitness | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | LA Fitness is a gym in Euless, TX. | https://registry-edge.dingalinged.workers.dev/c/la-fitness-euless/
+3. EōS Fitness | Organic #3 | Pulse Score 46.3/100 (Building, #3 in city) | EōS Fitness is a gym in Euless, TX at 2401 Rio Grande Boulevard, Euless, TX 76039. Website: https://www.eosfitness.com/gym/euless-rio-grande-blvd-goodnight-trail. | https://registry-edge.dingalinged.workers.dev/c/eos-fitness-euless/
+4. LA Fitness | Organic #4 | Pulse Score 41.8/100 (Building, #4 in city) | LA Fitness is a gym in Euless, TX. | https://registry-edge.dingalinged.workers.dev/c/la-fitness-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym euless tx | category: Fitness | industry benchmark: Health & Fitness

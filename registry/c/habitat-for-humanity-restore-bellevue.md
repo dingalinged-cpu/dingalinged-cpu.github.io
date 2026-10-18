@@ -13,7 +13,7 @@ Habitat for Humanity ReStore is a thrift store in Bellevue, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 12:00-18:00; Fr 09:00-18:00; Sa 09:00-17:00
-- Pulse Score: 44.9/100 — Building — top 63% of thrift stores in Omaha, NE, #3 of 5 thrift stores in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.9/100 — Building — top 63% of thrift stores in Omaha, NE, #3 of 5 thrift stores in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

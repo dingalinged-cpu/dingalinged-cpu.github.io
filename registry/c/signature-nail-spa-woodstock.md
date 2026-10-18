@@ -13,7 +13,7 @@ Signature Nail Spa is a nail salon in Woodstock, GA at 10029 Highway 92 #100, Wo
 - Website: n/a
 - Email: signaturenailspanguyen@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-18:00
-- Pulse Score: 63.3/100 — Good — top 10% of nail salons in Atlanta, #4 of 12 nail salons in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.6, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 79% of nail salons in Atlanta, #10 of 12 nail salons in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.7, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

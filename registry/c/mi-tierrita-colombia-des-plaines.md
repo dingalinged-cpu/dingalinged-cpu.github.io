@@ -13,7 +13,7 @@ Mi Tierrita Colombia is a bakery in Des Plaines, IL at 1942 East Touhy Avenue, D
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 06:00-20:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 42% of bakerys in Chicago, #1 of 2 bakerys in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 41% of bakerys in Chicago, #1 of 2 bakerys in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

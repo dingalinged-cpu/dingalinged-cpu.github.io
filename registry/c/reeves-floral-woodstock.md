@@ -13,7 +13,7 @@ Reeves Floral is a florist in Woodstock, GA at 10288 Highway 92, Woodstock, GA. 
 - Website: https://reevesfloral.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-15:00
-- Pulse Score: 62.7/100 — Good — top 21% of florists in Atlanta, #2 of 3 florists in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 21% of florists in Atlanta, #2 of 3 florists in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Sokol Advanced EyeCare is an eye care practice in Madison, WI at 2000 Atwood Ave
 - Website: https://sokoleyecare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-19:00; Tu 08:00-18:00; We 09:00-19:00; Th 08:00-18:00; Fr 09:00-16:00; Sa "by appointment"
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 10% of eye care practices in Madison, #1 of 4 eye care practices in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 10% of eye care practices in Madison, #1 of 4 eye care practices in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

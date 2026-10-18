@@ -13,7 +13,7 @@ Whistle Express Car Wash is a car wash in Cobb County, GA at 1274 Johnson Ferry 
 - Website: https://whistleexpresscarwash.com/locations/1274-johnson-ferry-road-marietta-ga/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-19:00
-- Pulse Score: 50.6/100 — Fair — top 67% of car washes in Atlanta, #18 of 21 car washes in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 65% of car washes in Atlanta, #18 of 21 car washes in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

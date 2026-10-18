@@ -13,12 +13,12 @@ Refined Dentistry is a dentist in Irving, TX at 6941 Riverside Drive #140, Irvin
 - Website: https://www.refineddentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 30% of dentists in Dallas–Fort Worth, #2 of 32 dentists in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 30% of dentists in Dallas–Fort Worth, #2 of 32 dentists in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/refined-dentistry-irving/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/refined-dentistry-irving.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11135263853 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11135263853 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

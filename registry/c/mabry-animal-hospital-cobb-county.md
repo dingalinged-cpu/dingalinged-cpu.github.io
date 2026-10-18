@@ -13,7 +13,7 @@ Mabry Animal Hospital is a veterinarian in Cobb County, GA at 4540 Mabry Road No
 - Website: https://mabryvet.com/
 - Email: care@mabryvet.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 60.8/100 — Good — top 38% of veterinarians in Atlanta, #7 of 20 veterinarians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Good — top 38% of veterinarians in Atlanta, #7 of 20 veterinarians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

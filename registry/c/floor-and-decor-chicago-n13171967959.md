@@ -13,7 +13,7 @@ Floor & Decor is a flooring company in Chicago, IL at 3448 West Addison Street, 
 - Website: https://www.flooranddecor.com/store?StoreID=218
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Building — top 67% of flooring companys in Chicago, #2 of 3 flooring companys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 67% of flooring companys in Chicago, #2 of 3 flooring companys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

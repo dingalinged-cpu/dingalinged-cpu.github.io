@@ -13,12 +13,12 @@ Caliber Collision is an auto repair shop in Wylie, TX at 451 Westgate Way, Wylie
 - Website: https://www.caliber.com/find-a-location/wylie
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 70% of auto repair shops in Dallas–Fort Worth, #3 of 8 auto repair shops in Wylie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 69% of auto repair shops in Dallas–Fort Worth, #3 of 8 auto repair shops in Wylie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/caliber-collision-wylie/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/caliber-collision-wylie.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11466875611 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11466875611 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

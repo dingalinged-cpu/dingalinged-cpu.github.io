@@ -19,6 +19,6 @@ Greg A. Hughes, P.C. is a lawyer in Friendswood, TX at 217B East Parkwood Avenue
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/greg-a-hughes-p-c-friendswood/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/greg-a-hughes-p-c-friendswood.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/4678151820 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4678151820 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

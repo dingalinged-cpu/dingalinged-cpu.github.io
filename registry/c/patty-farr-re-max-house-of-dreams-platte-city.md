@@ -13,7 +13,7 @@ Patty Farr, RE/MAX House of Dreams is a real estate agency in Platte City, MO at
 - Website: https://www.pattyfarr.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 91% of real estate agencys in Kansas City, MO, #3 of 3 real estate agencys in Platte City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 91% of real estate agencys in Kansas City, MO, #3 of 3 real estate agencys in Platte City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

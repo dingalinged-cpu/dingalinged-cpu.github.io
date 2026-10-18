@@ -7,7 +7,7 @@ Also answers: gym in Montgomery County, TX; gym near me (Montgomery County, TX);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Delta Life Fitness | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Delta Life Fitness is a gym in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/delta-life-fitness-montgomery-county/
-2. F45 Training | Organic #2 | Pulse Score 42.9/100 (Building, #2 in city) | F45 Training is a gym in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/f45-training-montgomery-county/
+2. F45 Training | Organic #2 | Pulse Score 42.8/100 (Building, #2 in city) | F45 Training is a gym in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/f45-training-montgomery-county/
 3. Hotworx | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Hotworx is a gym in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/hotworx-montgomery-county/
 
 ## Market data (for advertisers and agents)

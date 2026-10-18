@@ -13,7 +13,7 @@ Lake Region Storage is a self-storage facility in Saint Paul, MN at 606 Vandalia
 - Website: https://st-paul.lakeregionstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-15:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 4% of self-storage facilitys in Minneapolis–St. Paul, #2 of 13 self-storage facilitys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 3% of self-storage facilitys in Minneapolis–St. Paul, #1 of 13 self-storage facilitys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

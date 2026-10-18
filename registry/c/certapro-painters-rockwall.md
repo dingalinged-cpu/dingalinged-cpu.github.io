@@ -19,6 +19,6 @@ CertaPro Painters is a painting contractor in Rockwall, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/certapro-painters-rockwall/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/certapro-painters-rockwall.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12123512902 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12123512902 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

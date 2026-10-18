@@ -6,7 +6,7 @@ Also answers: dentist in Providence Village, TX; dentist near me (Providence Vil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Healthy Crowns Dentist | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Healthy Crowns Dentist is a dentist in Providence Village, TX at 26621 US Highway 380 East, Providence Village, TX. | https://registry-edge.dingalinged.workers.dev/c/healthy-crowns-dentist-providence-village/
+1. Healthy Crowns Dentist | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Healthy Crowns Dentist is a dentist in Providence Village, TX at 26621 US Highway 380 East, Providence Village, TX. | https://registry-edge.dingalinged.workers.dev/c/healthy-crowns-dentist-providence-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist providence village tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -7,7 +7,7 @@ Also answers: event venues in Mableton, GA; event venues near me (Mableton, GA);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Riverside EpiCenter | Organic #1 | Pulse Score 63.7/100 (Good, #1 in city) | Riverside EpiCenter is an event venue in Austell, GA at 135 Riverside Parkway, Austell, GA 30168. Phone: +16789035480. Website: https://riversideepicenter.com/. | https://registry-edge.dingalinged.workers.dev/c/riverside-epicenter-austell/
-2. Mableton Banquet Hall | Organic #2 | Pulse Score 56.3/100 (Unrated, #1 in city) | Mableton Banquet Hall is an event venue in Mableton, GA at 6114 Mableton Parkway, Mableton, GA 30126. | https://registry-edge.dingalinged.workers.dev/c/mableton-banquet-hall-mableton/
+2. Mableton Banquet Hall | Organic #2 | Pulse Score 56.4/100 (Unrated, #1 in city) | Mableton Banquet Hall is an event venue in Mableton, GA at 6114 Mableton Parkway, Mableton, GA 30126. | https://registry-edge.dingalinged.workers.dev/c/mableton-banquet-hall-mableton/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues mableton ga | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ Just Tires is a tire shop in Des Plaines, IL at 1180 East Oakton Street, Des Pla
 - Website: https://www.justtires.com/en-US/shop/IL/Des-Plaines/000901267-60018-2034
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 53% of tire shops in Chicago, #1 of 1 tire shops in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 52% of tire shops in Chicago, #1 of 1 tire shops in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

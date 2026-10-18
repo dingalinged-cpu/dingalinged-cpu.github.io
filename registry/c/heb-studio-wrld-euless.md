@@ -19,6 +19,6 @@ HEB Studio WRLD is a hair salon in Euless, TX at 1606 West Euless Boulevard #207
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/heb-studio-wrld-euless/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/heb-studio-wrld-euless.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13798400859 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13798400859 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

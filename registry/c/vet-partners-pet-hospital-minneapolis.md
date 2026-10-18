@@ -13,7 +13,7 @@ Vet Partners Pet Hospital is a veterinarian in Minneapolis, MN at 1030 Washingto
 - Website: https://myvetpartners.com/
 - Email: Mpls@MyVetPartners.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 23% of veterinarians in Minneapolis–St. Paul, #7 of 18 veterinarians in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 23% of veterinarians in Minneapolis–St. Paul, #7 of 18 veterinarians in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

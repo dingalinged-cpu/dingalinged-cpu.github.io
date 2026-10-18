@@ -13,7 +13,7 @@ Premier Dental is a dentist in Atlanta, GA at 77 12th Street Northeast #1, Atlan
 - Website: https://perimeterdentalga.com/locations/midtown/
 - Email: info@perimeterdentalmidtown.com
 - Opening hours (OSM syntax): Mo-Th 07:00-15:00; Fr-Su off
-- Pulse Score: 63.2/100 — Good — top 9% of dentists in Atlanta, #4 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 89% of dentists in Atlanta, #31 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

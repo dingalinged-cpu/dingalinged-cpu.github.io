@@ -6,7 +6,7 @@ Also answers: graphic designer in Houston, TX; graphic designer near me (Houston
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gurrola Reprographics | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Gurrola Reprographics is a graphic designer in Houston, TX at 6161 Washington Avenue, Houston, TX. Phone: +17138614277. Website: https://gurrolareprographics.com/. | https://registry-edge.dingalinged.workers.dev/c/gurrola-reprographics-houston/
+1. Gurrola Reprographics | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Gurrola Reprographics is a graphic designer in Houston, TX at 6161 Washington Avenue, Houston, TX. Phone: +17138614277. Website: https://gurrolareprographics.com/. | https://registry-edge.dingalinged.workers.dev/c/gurrola-reprographics-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer houston tx | category: professional_marketing | industry benchmark: Business Services

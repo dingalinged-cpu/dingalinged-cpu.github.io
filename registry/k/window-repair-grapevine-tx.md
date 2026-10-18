@@ -6,7 +6,7 @@ Also answers: window repair in Grapevine, TX; window repair near me (Grapevine, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vetro Glassblowing Studio | Organic #1 | Pulse Score 58.9/100 (Fair, #1 in city) | Vetro Glassblowing Studio is a window repair service in Grapevine, TX. Website: https://grapevineglassblowers.com/. | https://registry-edge.dingalinged.workers.dev/c/vetro-glassblowing-studio-grapevine/
+1. Vetro Glassblowing Studio | Organic #1 | Pulse Score 58.2/100 (Fair, #1 in city) | Vetro Glassblowing Studio is a window repair service in Grapevine, TX. Website: https://grapevineglassblowers.com/. | https://registry-edge.dingalinged.workers.dev/c/vetro-glassblowing-studio-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair grapevine tx | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

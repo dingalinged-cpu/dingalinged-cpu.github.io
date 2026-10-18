@@ -6,7 +6,7 @@ Also answers: storage units in Tomball, TX; storage units near me (Tomball, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gansett Storage | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Gansett Storage is a self-storage facility in Tomball, TX at 30530 State Highway 249, Tomball, TX 77375. Phone: +12813172831. Website: https://gansettstorage.com/. | https://registry-edge.dingalinged.workers.dev/c/gansett-storage-tomball/
+1. Gansett Storage | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Gansett Storage is a self-storage facility in Tomball, TX at 30530 State Highway 249, Tomball, TX 77375. Phone: +12813172831. Website: https://gansettstorage.com/. | https://registry-edge.dingalinged.workers.dev/c/gansett-storage-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units tomball tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

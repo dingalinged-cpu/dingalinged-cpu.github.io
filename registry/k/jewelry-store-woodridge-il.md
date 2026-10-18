@@ -6,7 +6,7 @@ Also answers: jewelry store in Woodridge, IL; jewelry store near me (Woodridge, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Paolucci Jewelers | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Paolucci Jewelers is a jewelry store in Woodridge, IL at 1001 75th Street, Woodridge, IL 60517. Phone: +16309100660. Website: https://www.paoluccijewelers.com/. | https://registry-edge.dingalinged.workers.dev/c/paolucci-jewelers-woodridge/
+1. Paolucci Jewelers | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Paolucci Jewelers is a jewelry store in Woodridge, IL at 1001 75th Street, Woodridge, IL 60517. Phone: +16309100660. Website: https://www.paoluccijewelers.com/. | https://registry-edge.dingalinged.workers.dev/c/paolucci-jewelers-woodridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store woodridge il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

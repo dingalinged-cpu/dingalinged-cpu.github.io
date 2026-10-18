@@ -13,7 +13,7 @@ Lillian's Flowers is a florist in Omaha, NE at 3521 Leavenworth Street, Omaha, N
 - Website: https://lilliansflowers.placeweb.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-16:00; Su 10:00-16:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 40% of florists in Omaha, NE, #1 of 3 florists in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 40% of florists in Omaha, NE, #1 of 3 florists in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: martial arts in Fulshear, TX; martial arts near me (Fulshear, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Golden Eagle Taekwondo | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Golden Eagle Taekwondo is a martial arts school in Fulshear, TX at 6420 FM 1463 #400, Fulshear, TX 77441. | https://registry-edge.dingalinged.workers.dev/c/golden-eagle-taekwondo-fulshear/
-2. Premier Martial Arts | Organic #2 | Pulse Score 46.5/100 (Building, #2 in city) | Premier Martial Arts is a martial arts school in Fulshear, TX at 6300 FM 1463 #250, Fulshear, TX 77441. | https://registry-edge.dingalinged.workers.dev/c/premier-martial-arts-fulshear/
+1. Golden Eagle Taekwondo | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Golden Eagle Taekwondo is a martial arts school in Fulshear, TX at 6420 FM 1463 #400, Fulshear, TX 77441. | https://registry-edge.dingalinged.workers.dev/c/golden-eagle-taekwondo-fulshear/
+2. Premier Martial Arts | Organic #2 | Pulse Score 46.2/100 (Building, #2 in city) | Premier Martial Arts is a martial arts school in Fulshear, TX at 6300 FM 1463 #250, Fulshear, TX 77441. | https://registry-edge.dingalinged.workers.dev/c/premier-martial-arts-fulshear/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts fulshear tx | category: Fitness | industry benchmark: Health & Fitness

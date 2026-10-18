@@ -6,7 +6,7 @@ Also answers: driving school in Edina, MN; driving school near me (Edina, MN); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ESSE Driving School | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | ESSE Driving School is a driving school in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/esse-driving-school-edina/
+1. ESSE Driving School | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | ESSE Driving School is a driving school in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/esse-driving-school-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school edina mn | category: Education & childcare | industry benchmark: Education & Instruction

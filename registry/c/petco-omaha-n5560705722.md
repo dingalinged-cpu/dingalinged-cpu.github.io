@@ -13,7 +13,7 @@ Petco is a pet store in Omaha, NE at 13660 West Maple Road, Omaha, NE 68164. Pho
 - Website: https://stores.petco.com/ne/omaha/pet-supplies-omaha-ne-287.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 46.5/100 — Building — top 90% of pet stores in Omaha, NE, #9 of 10 pet stores in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 90% of pet stores in Omaha, NE, #9 of 10 pet stores in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

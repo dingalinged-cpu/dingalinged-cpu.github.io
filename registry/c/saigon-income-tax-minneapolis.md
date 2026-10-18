@@ -13,7 +13,7 @@ Saigon Income Tax is a tax preparation service in Minneapolis, MN at 2424 Nicoll
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-21:00; Sa 11:00-19:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 10% of tax preparation services in Minneapolis–St. Paul, #2 of 14 tax preparation services in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 10% of tax preparation services in Minneapolis–St. Paul, #2 of 14 tax preparation services in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

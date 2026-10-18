@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Middleton, WI at 8230 Greenway Boulevard, M
 - Website: https://www.mattressfirm.com/en-us/stores/wi/middleton/111008/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 55% of mattress stores in Madison, #1 of 1 mattress stores in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 55% of mattress stores in Madison, #1 of 1 mattress stores in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

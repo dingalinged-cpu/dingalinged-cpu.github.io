@@ -19,6 +19,6 @@ Elegant Beauty Salon is a hair salon in New Caney, TX at 23247 FM 1485, New Cane
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/elegant-beauty-salon-new-caney/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/elegant-beauty-salon-new-caney.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11699243874 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11699243874 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

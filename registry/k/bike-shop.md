@@ -1,4 +1,4 @@
-The top unpaid bike shop listing for the United States is Bike Mart (a bike shop in Dallas, TX at 5427 West Lovers Lane, Dallas, TX 75209. Phone: +19727077581. Website: https://www.bikemart.com/). 664 bike shop businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for the United States is Bike Mart (a bike shop in Dallas, TX at 5427 West Lovers Lane, Dallas, TX 75209. Phone: +19727077581. Website: https://www.bikemart.com/). 785 bike shop businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in the United States?
 
@@ -6,65 +6,67 @@ Also answers: bike shop in the United States; bike shop near me (the United Stat
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bike Mart | Organic #1 | Pulse Score 65.6/100 (Good, #1 in city) | Bike Mart is a bike shop in Dallas, TX at 5427 West Lovers Lane, Dallas, TX 75209. Phone: +19727077581. Website: https://www.bikemart.com/. | https://registry-edge.dingalinged.workers.dev/c/bike-mart-dallas-n12185250277/
-2. Strategic Fitting | Organic #2 | Pulse Score 64.9/100 (Good, #1 in city) | Strategic Fitting is a bike shop in Boulder, CO at 2060 Broadway #B1, Boulder, CO 80302. Phone: +17207372920. Website: https://strategicfitting.com/. | https://registry-edge.dingalinged.workers.dev/c/strategic-fitting-boulder/
-3. Strategic Fitting | Organic #3 | Pulse Score 64.9/100 (Good, #1 in city) | Strategic Fitting is a bike shop in Littleton, CO at 791 Southpark Drive, Littleton, CO 80120. Phone: +17207372920. Website: https://strategicfitting.com/. | https://registry-edge.dingalinged.workers.dev/c/strategic-fitting-littleton/
-4. West End Bicycles | Organic #4 | Pulse Score 64.9/100 (Good, #1 in city) | West End Bicycles is a bike shop in Houston, TX at 5427 Blossom Street, Houston, TX 77007. Phone: +17138612271. Website: https://www.westendbikes.com/. | https://registry-edge.dingalinged.workers.dev/c/west-end-bicycles-houston/
+1. Bike Mart | Organic #1 | Pulse Score 65.5/100 (Good, #1 in city) | Bike Mart is a bike shop in Dallas, TX at 5427 West Lovers Lane, Dallas, TX 75209. Phone: +19727077581. Website: https://www.bikemart.com/. | https://registry-edge.dingalinged.workers.dev/c/bike-mart-dallas-n12185250277/
+2. West End Bicycles | Organic #2 | Pulse Score 65/100 (Good, #1 in city) | West End Bicycles is a bike shop in Houston, TX at 5427 Blossom Street, Houston, TX 77007. Phone: +17138612271. Website: https://www.westendbikes.com/. | https://registry-edge.dingalinged.workers.dev/c/west-end-bicycles-houston/
+3. Strategic Fitting | Organic #3 | Pulse Score 64.8/100 (Good, #1 in city) | Strategic Fitting is a bike shop in Boulder, CO at 2060 Broadway #B1, Boulder, CO 80302. Phone: +17207372920. Website: https://strategicfitting.com/. | https://registry-edge.dingalinged.workers.dev/c/strategic-fitting-boulder/
+4. Strategic Fitting | Organic #4 | Pulse Score 64.8/100 (Good, #1 in city) | Strategic Fitting is a bike shop in Littleton, CO at 791 Southpark Drive, Littleton, CO 80120. Phone: +17207372920. Website: https://strategicfitting.com/. | https://registry-edge.dingalinged.workers.dev/c/strategic-fitting-littleton/
 5. Igor Does My Bike | Organic #5 | Pulse Score 64.8/100 (Good, #1 in city) | Igor Does My Bike is a bike shop in Chicago, IL. Phone: +17739682453. Website: https://www.igordoesmybike.com/. | https://registry-edge.dingalinged.workers.dev/c/igor-does-my-bike-chicago/
-6. Trek Bicycle St. Peters | Organic #6 | Pulse Score 64.7/100 (Good, #1 in city) | Trek Bicycle St. Peters is a bike shop in Saint Peters, MO at 384 Mid Rivers Mall Drive, Saint Peters, MO 63376. Phone: +16365341539. Website: https://www.trekbikes.com/us/en_US/retail/st_peters/. | https://registry-edge.dingalinged.workers.dev/c/trek-bicycle-st-peters-saint-peters/
-7. Bike & Trike Outlet of Omaha | Organic #7 | Pulse Score 64.6/100 (Good, #1 in city) | Bike & Trike Outlet of Omaha is a bike shop in Omaha, NE at 634 South 72nd Street, Omaha, NE 68114. Phone: +15319998197. Website: https://biketrikeomaha.com/. | https://registry-edge.dingalinged.workers.dev/c/bike-and-trike-outlet-of-omaha-omaha/
-8. Crazy Lenny's E-Bikes | Organic #8 | Pulse Score 64.6/100 (Good, #1 in city) | Crazy Lenny's E-Bikes is a bike shop in Madison, WI at 6017 Odana Road, Madison, WI 53719. Phone: +16082765921. Website: https://www.crazylennysebikes.com/. | https://registry-edge.dingalinged.workers.dev/c/crazy-lennys-e-bikes-madison/
-9. Free Ride Pittsburgh | Organic #9 | Pulse Score 64.3/100 (Good, #1 in city) | Free Ride Pittsburgh is a bike shop in Pittsburgh, PA at 214 North Lexington Street, Pittsburgh, PA 15208. Phone: +14127312474. Website: https://freeridepgh.org/. | https://registry-edge.dingalinged.workers.dev/c/free-ride-pittsburgh-pittsburgh/
-10. Milwaukee Bicycle Collective | Organic #10 | Pulse Score 64.2/100 (Good, #1 in city) | Milwaukee Bicycle Collective is a bike shop in Milwaukee, WI at 2930 West Clybourn Street, Milwaukee, WI 53208. Phone: +14144310825. Website: https://www.bikecollective.org/. | https://registry-edge.dingalinged.workers.dev/c/milwaukee-bicycle-collective-milwaukee/
-11. Motorless Motion Bicycles | Organic #11 | Pulse Score 63.9/100 (Good, #2 in city) | Motorless Motion Bicycles is a bike shop in Madison, WI at 640 West Washington Avenue, Madison, WI. Phone: +16084430640. Website: https://www.motorlessmotionbicycles.com/. | https://registry-edge.dingalinged.workers.dev/c/motorless-motion-bicycles-madison/
-12. Makeshift Bikes | Organic #12 | Pulse Score 63.8/100 (Unrated, #2 in city) | Makeshift Bikes is a bike shop in Pittsburgh, PA at 431 East Ohio Street, Pittsburgh, PA 15212. Phone: +14125865410. Website: https://makeshiftbikes.com/. | https://registry-edge.dingalinged.workers.dev/c/makeshift-bikes-pittsburgh/
-13. Full Cycle | Organic #13 | Pulse Score 63.7/100 (Unrated, #1 in city) | Full Cycle is a bike shop in Minneapolis, MN at 3515 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16128247581. Website: https://fullcyclebikeshop.org/. | https://registry-edge.dingalinged.workers.dev/c/full-cycle-minneapolis/
-14. Nokomis Cycle | Organic #14 | Pulse Score 63.7/100 (Unrated, #2 in city) | Nokomis Cycle is a bike shop in Minneapolis, MN at 4553 Bloomington Avenue South, Minneapolis, MN 55407. Phone: +16127212959. Website: https://www.nokomiscycle.com/. | https://registry-edge.dingalinged.workers.dev/c/nokomis-cycle-minneapolis/
-15. Rusty Spokes Bicycle Shop | Organic #15 | Pulse Score 63.7/100 (Unrated, #1 in city) | Rusty Spokes Bicycle Shop is a bike shop in Pataskala, OH at 360 East Broad Street, Pataskala, OH 43062. Phone: +17409510033. Website: https://www.rsbikeco.com/. | https://registry-edge.dingalinged.workers.dev/c/rusty-spokes-bicycle-shop-pataskala/
-16. Small Shop Cycles & Service | Organic #16 | Pulse Score 63.7/100 (Unrated, #2 in city) | Small Shop Cycles & Service is a bike shop in Chicago, IL at 4250 South Cottage Grove Avenue, Chicago, IL 60653. Phone: +17736888449. Website: https://smallshopchicago.com/. | https://registry-edge.dingalinged.workers.dev/c/small-shop-cycles-and-service-chicago/
-17. Southwest Rides | Organic #17 | Pulse Score 63.5/100 (Good, #1 in city) | Southwest Rides is a bike shop in Detroit, MI at 2026 Lawndale Street, Detroit, MI. Phone: +13133152360. Website: https://swridesdetroit.wordpress.com/. | https://registry-edge.dingalinged.workers.dev/c/southwest-rides-detroit/
-18. Sopo Bike Co-op | Organic #18 | Pulse Score 63.5/100 (Unrated, #1 in city) | Sopo Bike Co-op is a bike shop in Atlanta, GA at 680 Murphy Avenue Southwest #6072, Atlanta, GA 30310. Phone: +14044259989. Website: https://sopobikes.org/. | https://registry-edge.dingalinged.workers.dev/c/sopo-bike-co-op-atlanta/
-19. The Bicycle Recycle | Organic #19 | Pulse Score 63.3/100 (Good, #3 in city) | The Bicycle Recycle is a bike shop in Madison, WI at 72 North Bryan Street, Madison, WI 53714. Phone: +16084513403. Website: https://www.facebook.com/The-Bicycle-Recycle-518401914865235/. | https://registry-edge.dingalinged.workers.dev/c/the-bicycle-recycle-madison/
-20. Mike's Bikes | Organic #20 | Pulse Score 63.2/100 (Good, #2 in city) | Mike's Bikes is a bike shop in Boulder, CO at 2355 30th Street, Boulder, CO. Phone: +13034401002. Website: https://www.fullcyclebikes.com/. | https://registry-edge.dingalinged.workers.dev/c/mikes-bikes-boulder/
-21. TRY Bike Shop | Organic #21 | Pulse Score 63.1/100 (Good, #1 in city) | TRY Bike Shop is a bike shop in Cobb County, GA at 2309 Shallowford Road Northeast #12, Cobb County, GA. Phone: +17704850865. Website: https://trybikeshop.com/. | https://registry-edge.dingalinged.workers.dev/c/try-bike-shop-cobb-county/
-22. Peachtree Bikes | Organic #22 | Pulse Score 63/100 (Good, #1 in city) | Peachtree Bikes is a bike shop in DeKalb County, GA at 2074 North Decatur Road, DeKalb County, GA. Phone: +14045952345. Website: https://peachtreebikes.com/. | https://registry-edge.dingalinged.workers.dev/c/peachtree-bikes-dekalb-county/
-23. Blackstone Bicycle Works | Organic #23 | Pulse Score 62.9/100 (Unrated, #3 in city) | Blackstone Bicycle Works is a bike shop in Chicago, IL at 6100 South Blackstone Avenue, Chicago, IL 60637. Phone: +17732415458. Website: https://www.experimentalstation.org/blackstone. | https://registry-edge.dingalinged.workers.dev/c/blackstone-bicycle-works-chicago/
-24. Glenview Cycle | Organic #24 | Pulse Score 62.9/100 (Unrated, #1 in city) | Glenview Cycle is a bike shop in Glenview, IL at 1011 Harlem Avenue, Glenview, IL 60025. Phone: +18479985900. Website: https://glenviewcycle.com/. | https://registry-edge.dingalinged.workers.dev/c/glenview-cycle-glenview/
-25. Weber Sports | Organic #25 | Pulse Score 62.9/100 (Unrated, #1 in city) | Weber Sports is a bike shop in Aurora, IN at 238 Main Street, Aurora, IN 47001. Phone: +18129261200. Website: https://weber-sports.com/. | https://registry-edge.dingalinged.workers.dev/c/weber-sports-aurora/
-26. Metropolis Cycles | Organic #26 | Pulse Score 62.8/100 (Good, #1 in city) | Metropolis Cycles is a bike shop in Ferndale, MI at 504 Livernois Street, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/metropolis-cycles-ferndale/
-27. Freeflite | Organic #27 | Pulse Score 62.7/100 (Good, #2 in city) | Freeflite is a bike shop in Cobb County, GA at 2949 Canton Road #1000, Cobb County, GA. Phone: +17704225237. Website: https://www.freeflite.com/contact/marietta-pg1271.htm. | https://registry-edge.dingalinged.workers.dev/c/freeflite-cobb-county/
-28. Bikes for All People | Organic #28 | Pulse Score 62.7/100 (Unrated, #1 in city) | Bikes for All People is a bike shop in Columbus, OH at 934 Parsons Avenue, Columbus, OH 43206. Phone: +16146708685. Website: https://www.bikes4allpeople.com/. | https://registry-edge.dingalinged.workers.dev/c/bikes-for-all-people-columbus/
-29. Thick Bikes | Organic #29 | Pulse Score 62.7/100 (Unrated, #3 in city) | Thick Bikes is a bike shop in Pittsburgh, PA at 62 South 15th Street, Pittsburgh, PA 15203. Phone: +14123903590. Website: https://www.thickbikes.com/. | https://registry-edge.dingalinged.workers.dev/c/thick-bikes-pittsburgh/
-30. The Hub | Organic #30 | Pulse Score 62.7/100 (Unrated, #2 in city) | The Hub is a bike shop in Detroit, MI at 3611 Cass Avenue, Detroit, MI 48201. Phone: +13138330813. Website: https://thehubofdetroit.org/. | https://registry-edge.dingalinged.workers.dev/c/the-hub-detroit/
-31. Niwot Wheel Works | Organic #31 | Pulse Score 62.6/100 (Unrated, #1 in city) | Niwot Wheel Works is a bike shop in Niwot, CO at 124 2nd Avenue, Niwot, CO 80544. Phone: +17203402979. Website: https://www.niwotwheelworks.com/. | https://registry-edge.dingalinged.workers.dev/c/niwot-wheel-works-niwot/
-32. Perennial Cycle | Organic #32 | Pulse Score 62.5/100 (Unrated, #3 in city) | Perennial Cycle is a bike shop in Minneapolis, MN at 3342 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16128278000. Website: https://www.perennialcycle.com/. | https://registry-edge.dingalinged.workers.dev/c/perennial-cycle-minneapolis/
-33. 816 Bike Collective | Organic #33 | Pulse Score 62.4/100 (Unrated, #1 in city) | 816 Bike Collective is a bike shop in Kansas City, MO at 518 East 31st Street, Kansas City, MO 64108. Phone: +18163438518. Website: https://816bike.org/. | https://registry-edge.dingalinged.workers.dev/c/816-bike-collective-kansas-city/
-34. Bike People | Organic #34 | Pulse Score 62.4/100 (Unrated, #1 in city) | Bike People is a bike shop in Indianapolis, IN at 414 Dorman Street, Indianapolis, IN 46202. Phone: +13176506343. Website: https://www.bikepeopleindy.com/. | https://registry-edge.dingalinged.workers.dev/c/bike-people-indianapolis/
-35. Hardt Family Cyclery | Organic #35 | Pulse Score 62.4/100 (Unrated, #1 in city) | Hardt Family Cyclery is a bike shop in Aurora, CO at 10255 East 25th Avenue #A1, Aurora, CO 80010. Phone: +17202551603. Website: https://www.hardtfamilycyclery.com/. | https://registry-edge.dingalinged.workers.dev/c/hardt-family-cyclery-aurora/
-36. Pearland Bicycles | Organic #36 | Pulse Score 62.3/100 (Unrated, #1 in city) | Pearland Bicycles is a bike shop in Pearland, TX at 2819 Cullen Boulevard #112, Pearland, TX 77584. Phone: +12817412115. Website: https://www.pearlandbicycles.com/. | https://registry-edge.dingalinged.workers.dev/c/pearland-bicycles-pearland/
-37. Rudy's Cycle and Fitness | Organic #37 | Pulse Score 62.3/100 (Unrated, #4 in city) | Rudy's Cycle and Fitness is a bike shop in Chicago, IL at 5711 West Irving Park Road, Chicago, IL 60634. Phone: +17737364395. Website: https://www.rudysbikes.com/. | https://registry-edge.dingalinged.workers.dev/c/rudys-cycle-and-fitness-chicago/
-38. Vecchio's Bicicletteria | Organic #38 | Pulse Score 62.3/100 (Unrated, #3 in city) | Vecchio's Bicicletteria is a bike shop in Boulder, CO at 2725 Iris Avenue, Boulder, CO 80304. Phone: +13034403535. Website: https://www.vecchios.com/. | https://registry-edge.dingalinged.workers.dev/c/vecchios-bicicletteria-boulder/
-39. Westerville Bike Shop | Organic #39 | Pulse Score 62.3/100 (Unrated, #1 in city) | Westerville Bike Shop is a bike shop in Westerville, OH at 29 Main Street, Westerville, OH 43081. Phone: +16148915654. Website: https://westervillebikeshop.com/. | https://registry-edge.dingalinged.workers.dev/c/westerville-bike-shop-westerville/
-40. Nearly New Bikes | Organic #40 | Pulse Score 62.2/100 (Good, #5 in city) | Nearly New Bikes is a bike shop in Chicago, IL at 4075 North Broadway, Chicago, IL 60613. Phone: +17735250692. Website: https://nearlynewbikes.com/. | https://registry-edge.dingalinged.workers.dev/c/nearly-new-bikes-chicago/
-41. Roscoe Village Bikes | Organic #41 | Pulse Score 62.2/100 (Good, #6 in city) | Roscoe Village Bikes is a bike shop in Chicago, IL at 2016 West Roscoe Street, Chicago, IL 60618. Phone: +17734777550. Website: https://roscoevillagebikes.com/. | https://registry-edge.dingalinged.workers.dev/c/roscoe-village-bikes-chicago/
-42. HomeGrown Cycles | Organic #42 | Pulse Score 62.2/100 (Unrated, #1 in city) | HomeGrown Cycles is a bike shop in Troy, MI at 724 Kenyon Drive, Troy, MI 48083. Phone: +12484575182. Website: https://hgc.bike/. | https://registry-edge.dingalinged.workers.dev/c/homegrown-cycles-troy/
-43. Mikes Bike Shop | Organic #43 | Pulse Score 62.2/100 (Unrated, #1 in city) | Mikes Bike Shop is a bike shop in Palatine, IL at 155 East Northwest Highway, Palatine, IL 60067. Phone: +18473580948. Website: https://mikesbikeshoppalatine.com/. | https://registry-edge.dingalinged.workers.dev/c/mikes-bike-shop-palatine/
-44. Outback Bikes | Organic #44 | Pulse Score 62.2/100 (Unrated, #2 in city) | Outback Bikes is a bike shop in Atlanta, GA at 484 Moreland Avenue Northeast, Atlanta, GA 30307. Phone: +14046884878. Website: https://www.outback-bikes.com/. | https://registry-edge.dingalinged.workers.dev/c/outback-bikes-atlanta/
-45. University Bicycles | Organic #45 | Pulse Score 62.2/100 (Unrated, #4 in city) | University Bicycles is a bike shop in Boulder, CO at 839 Pearl Street, Boulder, CO 80302. Phone: +13034444196. Website: https://www.ubikes.com/. | https://registry-edge.dingalinged.workers.dev/c/university-bicycles-boulder/
-46. Kingsville Cycle Works | Organic #46 | Pulse Score 62.2/100 (Unrated, #1 in city) | Kingsville Cycle Works is a bike shop in Kingsville, MI at 122 Division Street South, Kingsville, MI N9Y 1P6. Phone: +12262022453. Website: https://www.kingsvillecycleworks.com/. | https://registry-edge.dingalinged.workers.dev/c/kingsville-cycle-works-kingsville/
-47. Community Bike Project Omaha | Organic #47 | Pulse Score 62.1/100 (Unrated, #2 in city) | Community Bike Project Omaha is a bike shop in Omaha, NE at 525 North 33rd Street, Omaha, NE 68131. Phone: +14029572454. Website: https://www.communitybicycleshopomaha.org/. | https://registry-edge.dingalinged.workers.dev/c/community-bike-project-omaha-omaha/
-48. Cycology Bike Shop | Organic #48 | Pulse Score 62.1/100 (Unrated, #1 in city) | Cycology Bike Shop is a bike shop in Hiram, GA at 4484 Jimmy Lee Smith Parkway, Hiram, GA 30141. Phone: +16789092472. Website: https://www.cycologybikeshop.com/. | https://registry-edge.dingalinged.workers.dev/c/cycology-bike-shop-hiram/
-49. Truly Spoken Cycles | Organic #49 | Pulse Score 62.1/100 (Unrated, #2 in city) | Truly Spoken Cycles is a bike shop in Milwaukee, WI at 604 East Center Street, Milwaukee, WI 53212. Phone: +14142632453. Website: https://trulyspokencycles.company.site/. | https://registry-edge.dingalinged.workers.dev/c/truly-spoken-cycles-milwaukee/
-50. Bicycle House | Organic #50 | Pulse Score 62.1/100 (Unrated, #1 in city) | Bicycle House is a bike shop in West Chester Township, OH at 6844 Tylersville Road, West Chester Township, OH 45069. Phone: +15138471986. Website: https://www.bicycle-house.com/. | https://registry-edge.dingalinged.workers.dev/c/bicycle-house-west-chester-township/
+6. Bike & Trike Outlet of Omaha | Organic #6 | Pulse Score 64.6/100 (Good, #1 in city) | Bike & Trike Outlet of Omaha is a bike shop in Omaha, NE at 634 South 72nd Street, Omaha, NE 68114. Phone: +15319998197. Website: https://biketrikeomaha.com/. | https://registry-edge.dingalinged.workers.dev/c/bike-and-trike-outlet-of-omaha-omaha/
+7. Crazy Lenny's E-Bikes | Organic #7 | Pulse Score 64.6/100 (Good, #1 in city) | Crazy Lenny's E-Bikes is a bike shop in Madison, WI at 6017 Odana Road, Madison, WI 53719. Phone: +16082765921. Website: https://www.crazylennysebikes.com/. | https://registry-edge.dingalinged.workers.dev/c/crazy-lennys-e-bikes-madison/
+8. Trek Bicycle St. Peters | Organic #8 | Pulse Score 64.6/100 (Good, #1 in city) | Trek Bicycle St. Peters is a bike shop in Saint Peters, MO at 384 Mid Rivers Mall Drive, Saint Peters, MO 63376. Phone: +16365341539. Website: https://www.trekbikes.com/us/en_US/retail/st_peters/. | https://registry-edge.dingalinged.workers.dev/c/trek-bicycle-st-peters-saint-peters/
+9. The Bike Station Store | Organic #9 | Pulse Score 64.3/100 (Good, #1 in city) | The Bike Station Store is a bike shop in El Paso, TX at 8387 Alameda Avenue #E, El Paso, TX 79907. Phone: +19153074050. Website: https://bikestationstore.com/. | https://registry-edge.dingalinged.workers.dev/c/the-bike-station-store-el-paso/
+10. Free Ride Pittsburgh | Organic #10 | Pulse Score 64.2/100 (Good, #1 in city) | Free Ride Pittsburgh is a bike shop in Pittsburgh, PA at 214 North Lexington Street, Pittsburgh, PA 15208. Phone: +14127312474. Website: https://freeridepgh.org/. | https://registry-edge.dingalinged.workers.dev/c/free-ride-pittsburgh-pittsburgh/
+11. Milwaukee Bicycle Collective | Organic #11 | Pulse Score 64.1/100 (Good, #1 in city) | Milwaukee Bicycle Collective is a bike shop in Milwaukee, WI at 2930 West Clybourn Street, Milwaukee, WI 53208. Phone: +14144310825. Website: https://www.bikecollective.org/. | https://registry-edge.dingalinged.workers.dev/c/milwaukee-bicycle-collective-milwaukee/
+12. Motorless Motion Bicycles | Organic #12 | Pulse Score 63.9/100 (Good, #2 in city) | Motorless Motion Bicycles is a bike shop in Madison, WI at 640 West Washington Avenue, Madison, WI. Phone: +16084430640. Website: https://www.motorlessmotionbicycles.com/. | https://registry-edge.dingalinged.workers.dev/c/motorless-motion-bicycles-madison/
+13. Texas 87 Cycles | Organic #13 | Pulse Score 63.9/100 (Good, #1 in city) | Texas 87 Cycles is a bike shop in Galveston, TX at 1106 39th Street, Galveston, TX 77550. Phone: +14093542876. Website: https://www.texas87cycles.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-87-cycles-galveston/
+14. Makeshift Bikes | Organic #14 | Pulse Score 63.8/100 (Unrated, #2 in city) | Makeshift Bikes is a bike shop in Pittsburgh, PA at 431 East Ohio Street, Pittsburgh, PA 15212. Phone: +14125865410. Website: https://makeshiftbikes.com/. | https://registry-edge.dingalinged.workers.dev/c/makeshift-bikes-pittsburgh/
+15. Dogspeed Cycles | Organic #15 | Pulse Score 63.7/100 (Good, #1 in city) | Dogspeed Cycles is a bike shop in Austin, TX at 1619 East Cesar Chavez Street, Austin, TX 78702. Phone: +15129022486. Website: https://dogspeedcycles.com/. | https://registry-edge.dingalinged.workers.dev/c/dogspeed-cycles-austin/
+16. Full Cycle | Organic #16 | Pulse Score 63.7/100 (Unrated, #1 in city) | Full Cycle is a bike shop in Minneapolis, MN at 3515 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16128247581. Website: https://fullcyclebikeshop.org/. | https://registry-edge.dingalinged.workers.dev/c/full-cycle-minneapolis/
+17. Nokomis Cycle | Organic #17 | Pulse Score 63.7/100 (Unrated, #2 in city) | Nokomis Cycle is a bike shop in Minneapolis, MN at 4553 Bloomington Avenue South, Minneapolis, MN 55407. Phone: +16127212959. Website: https://www.nokomiscycle.com/. | https://registry-edge.dingalinged.workers.dev/c/nokomis-cycle-minneapolis/
+18. Rusty Spokes Bicycle Shop | Organic #18 | Pulse Score 63.7/100 (Unrated, #1 in city) | Rusty Spokes Bicycle Shop is a bike shop in Pataskala, OH at 360 East Broad Street, Pataskala, OH 43062. Phone: +17409510033. Website: https://www.rsbikeco.com/. | https://registry-edge.dingalinged.workers.dev/c/rusty-spokes-bicycle-shop-pataskala/
+19. Small Shop Cycles & Service | Organic #19 | Pulse Score 63.7/100 (Unrated, #2 in city) | Small Shop Cycles & Service is a bike shop in Chicago, IL at 4250 South Cottage Grove Avenue, Chicago, IL 60653. Phone: +17736888449. Website: https://smallshopchicago.com/. | https://registry-edge.dingalinged.workers.dev/c/small-shop-cycles-and-service-chicago/
+20. Southwest Rides | Organic #20 | Pulse Score 63.4/100 (Good, #1 in city) | Southwest Rides is a bike shop in Detroit, MI at 2026 Lawndale Street, Detroit, MI. Phone: +13133152360. Website: https://swridesdetroit.wordpress.com/. | https://registry-edge.dingalinged.workers.dev/c/southwest-rides-detroit/
+21. Sopo Bike Co-op | Organic #21 | Pulse Score 63.4/100 (Unrated, #1 in city) | Sopo Bike Co-op is a bike shop in Atlanta, GA at 680 Murphy Avenue Southwest #6072, Atlanta, GA 30310. Phone: +14044259989. Website: https://sopobikes.org/. | https://registry-edge.dingalinged.workers.dev/c/sopo-bike-co-op-atlanta/
+22. The Bicycle Recycle | Organic #22 | Pulse Score 63.3/100 (Good, #3 in city) | The Bicycle Recycle is a bike shop in Madison, WI at 72 North Bryan Street, Madison, WI 53714. Phone: +16084513403. Website: https://www.facebook.com/The-Bicycle-Recycle-518401914865235/. | https://registry-edge.dingalinged.workers.dev/c/the-bicycle-recycle-madison/
+23. Mike's Bikes | Organic #23 | Pulse Score 63.2/100 (Good, #2 in city) | Mike's Bikes is a bike shop in Boulder, CO at 2355 30th Street, Boulder, CO. Phone: +13034401002. Website: https://www.fullcyclebikes.com/. | https://registry-edge.dingalinged.workers.dev/c/mikes-bikes-boulder/
+24. TRY Bike Shop | Organic #24 | Pulse Score 63.1/100 (Good, #1 in city) | TRY Bike Shop is a bike shop in Cobb County, GA at 2309 Shallowford Road Northeast #12, Cobb County, GA. Phone: +17704850865. Website: https://trybikeshop.com/. | https://registry-edge.dingalinged.workers.dev/c/try-bike-shop-cobb-county/
+25. Bike Shop Joe's | Organic #25 | Pulse Score 63/100 (Unrated, #1 in city) | Bike Shop Joe's is a bike shop in Bentonville, AR at 1206 Moberly Lane #6, Bentonville, AR 72712. Phone: +14797092242. Website: https://bikeshopjoes.com/. | https://registry-edge.dingalinged.workers.dev/c/bike-shop-joes-bentonville/
+26. The Meteor Bike Shop | Organic #26 | Pulse Score 63/100 (Unrated, #2 in city) | The Meteor Bike Shop is a bike shop in Bentonville, AR at 401 Southeast D Street #9, Bentonville, AR 72712. Phone: +14792684747. Website: https://themeteor.cafe/bike. | https://registry-edge.dingalinged.workers.dev/c/the-meteor-bike-shop-bentonville/
+27. Peachtree Bikes | Organic #27 | Pulse Score 62.9/100 (Good, #1 in city) | Peachtree Bikes is a bike shop in DeKalb County, GA at 2074 North Decatur Road, DeKalb County, GA. Phone: +14045952345. Website: https://peachtreebikes.com/. | https://registry-edge.dingalinged.workers.dev/c/peachtree-bikes-dekalb-county/
+28. Blackstone Bicycle Works | Organic #28 | Pulse Score 62.9/100 (Unrated, #3 in city) | Blackstone Bicycle Works is a bike shop in Chicago, IL at 6100 South Blackstone Avenue, Chicago, IL 60637. Phone: +17732415458. Website: https://www.experimentalstation.org/blackstone. | https://registry-edge.dingalinged.workers.dev/c/blackstone-bicycle-works-chicago/
+29. Glenview Cycle | Organic #29 | Pulse Score 62.9/100 (Unrated, #1 in city) | Glenview Cycle is a bike shop in Glenview, IL at 1011 Harlem Avenue, Glenview, IL 60025. Phone: +18479985900. Website: https://glenviewcycle.com/. | https://registry-edge.dingalinged.workers.dev/c/glenview-cycle-glenview/
+30. Weber Sports | Organic #30 | Pulse Score 62.9/100 (Unrated, #1 in city) | Weber Sports is a bike shop in Aurora, IN at 238 Main Street, Aurora, IN 47001. Phone: +18129261200. Website: https://weber-sports.com/. | https://registry-edge.dingalinged.workers.dev/c/weber-sports-aurora/
+31. Metropolis Cycles | Organic #31 | Pulse Score 62.8/100 (Good, #1 in city) | Metropolis Cycles is a bike shop in Ferndale, MI at 504 Livernois Street, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/metropolis-cycles-ferndale/
+32. Mojo Cycling | Organic #32 | Pulse Score 62.8/100 (Unrated, #3 in city) | Mojo Cycling is a bike shop in Bentonville, AR at 1100 North Walton Boulevard, Bentonville, AR 72712. Phone: +14792717201. Website: https://www.mojocycling.com/. | https://registry-edge.dingalinged.workers.dev/c/mojo-cycling-bentonville/
+33. The Hub | Organic #33 | Pulse Score 62.7/100 (Unrated, #2 in city) | The Hub is a bike shop in Detroit, MI at 3611 Cass Avenue, Detroit, MI 48201. Phone: +13138330813. Website: https://thehubofdetroit.org/. | https://registry-edge.dingalinged.workers.dev/c/the-hub-detroit/
+34. Freeflite | Organic #34 | Pulse Score 62.6/100 (Good, #2 in city) | Freeflite is a bike shop in Cobb County, GA at 2949 Canton Road #1000, Cobb County, GA. Phone: +17704225237. Website: https://www.freeflite.com/contact/marietta-pg1271.htm. | https://registry-edge.dingalinged.workers.dev/c/freeflite-cobb-county/
+35. Bikes for All People | Organic #35 | Pulse Score 62.6/100 (Unrated, #1 in city) | Bikes for All People is a bike shop in Columbus, OH at 934 Parsons Avenue, Columbus, OH 43206. Phone: +16146708685. Website: https://www.bikes4allpeople.com/. | https://registry-edge.dingalinged.workers.dev/c/bikes-for-all-people-columbus/
+36. Thick Bikes | Organic #36 | Pulse Score 62.6/100 (Unrated, #3 in city) | Thick Bikes is a bike shop in Pittsburgh, PA at 62 South 15th Street, Pittsburgh, PA 15203. Phone: +14123903590. Website: https://www.thickbikes.com/. | https://registry-edge.dingalinged.workers.dev/c/thick-bikes-pittsburgh/
+37. Niwot Wheel Works | Organic #37 | Pulse Score 62.6/100 (Unrated, #1 in city) | Niwot Wheel Works is a bike shop in Niwot, CO at 124 2nd Avenue, Niwot, CO 80544. Phone: +17203402979. Website: https://www.niwotwheelworks.com/. | https://registry-edge.dingalinged.workers.dev/c/niwot-wheel-works-niwot/
+38. Hilltop Bicycle Center | Organic #38 | Pulse Score 62.5/100 (Unrated, #1 in city) | Hilltop Bicycle Center is a bike shop in Mansfield, TX at 130 North Main Street, Mansfield, TX 76063. Phone: +18172256275. Website: https://hilltop.bike/. | https://registry-edge.dingalinged.workers.dev/c/hilltop-bicycle-center-mansfield/
+39. OZ Bike Fit | Organic #39 | Pulse Score 62.5/100 (Unrated, #1 in city) | OZ Bike Fit is a bike shop in Rogers, AR at 6028 Stoney Brook Road #3, Rogers, AR 72758. Phone: +14796196775. Website: https://ozbike.fit/. | https://registry-edge.dingalinged.workers.dev/c/oz-bike-fit-rogers/
+40. Perennial Cycle | Organic #40 | Pulse Score 62.5/100 (Unrated, #3 in city) | Perennial Cycle is a bike shop in Minneapolis, MN at 3342 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16128278000. Website: https://www.perennialcycle.com/. | https://registry-edge.dingalinged.workers.dev/c/perennial-cycle-minneapolis/
+41. The Bike Stop | Organic #41 | Pulse Score 62.5/100 (Unrated, #1 in city) | The Bike Stop is a bike shop in Wichita Falls, TX at 2708 Southwest Parkway #138, Wichita Falls, TX 76308. Phone: +19403227301. Website: https://www.thebikestoponline.com/. | https://registry-edge.dingalinged.workers.dev/c/the-bike-stop-wichita-falls/
+42. 816 Bike Collective | Organic #42 | Pulse Score 62.4/100 (Unrated, #1 in city) | 816 Bike Collective is a bike shop in Kansas City, MO at 518 East 31st Street, Kansas City, MO 64108. Phone: +18163438518. Website: https://816bike.org/. | https://registry-edge.dingalinged.workers.dev/c/816-bike-collective-kansas-city/
+43. Bike People | Organic #43 | Pulse Score 62.4/100 (Unrated, #1 in city) | Bike People is a bike shop in Indianapolis, IN at 414 Dorman Street, Indianapolis, IN 46202. Phone: +13176506343. Website: https://www.bikepeopleindy.com/. | https://registry-edge.dingalinged.workers.dev/c/bike-people-indianapolis/
+44. Buddy Pegs Family Bicycle HQ | Organic #44 | Pulse Score 62.3/100 (Unrated, #1 in city) | Buddy Pegs Family Bicycle HQ is a bike shop in Bentonville, AR at 13013 Wishing Spring Road, Bentonville, AR 72712. Phone: +14792684030. Website: https://buddypegs.com/. | https://registry-edge.dingalinged.workers.dev/c/buddy-pegs-family-bicycle-hq-bentonville/
+45. Hardt Family Cyclery | Organic #45 | Pulse Score 62.3/100 (Unrated, #1 in city) | Hardt Family Cyclery is a bike shop in Aurora, CO at 10255 East 25th Avenue #A1, Aurora, CO 80010. Phone: +17202551603. Website: https://www.hardtfamilycyclery.com/. | https://registry-edge.dingalinged.workers.dev/c/hardt-family-cyclery-aurora/
+46. Pearland Bicycles | Organic #46 | Pulse Score 62.3/100 (Unrated, #1 in city) | Pearland Bicycles is a bike shop in Pearland, TX at 2819 Cullen Boulevard #112, Pearland, TX 77584. Phone: +12817412115. Website: https://www.pearlandbicycles.com/. | https://registry-edge.dingalinged.workers.dev/c/pearland-bicycles-pearland/
+47. Rudy's Cycle and Fitness | Organic #47 | Pulse Score 62.3/100 (Unrated, #4 in city) | Rudy's Cycle and Fitness is a bike shop in Chicago, IL at 5711 West Irving Park Road, Chicago, IL 60634. Phone: +17737364395. Website: https://www.rudysbikes.com/. | https://registry-edge.dingalinged.workers.dev/c/rudys-cycle-and-fitness-chicago/
+48. Vecchio's Bicicletteria | Organic #48 | Pulse Score 62.3/100 (Unrated, #3 in city) | Vecchio's Bicicletteria is a bike shop in Boulder, CO at 2725 Iris Avenue, Boulder, CO 80304. Phone: +13034403535. Website: https://www.vecchios.com/. | https://registry-edge.dingalinged.workers.dev/c/vecchios-bicicletteria-boulder/
+49. Westerville Bike Shop | Organic #49 | Pulse Score 62.3/100 (Unrated, #1 in city) | Westerville Bike Shop is a bike shop in Westerville, OH at 29 Main Street, Westerville, OH 43081. Phone: +16148915654. Website: https://westervillebikeshop.com/. | https://registry-edge.dingalinged.workers.dev/c/westerville-bike-shop-westerville/
+50. Nearly New Bikes | Organic #50 | Pulse Score 62.2/100 (Good, #5 in city) | Nearly New Bikes is a bike shop in Chicago, IL at 4075 North Broadway, Chicago, IL 60613. Phone: +17735250692. Website: https://nearlynewbikes.com/. | https://registry-edge.dingalinged.workers.dev/c/nearly-new-bikes-chicago/
 
-## More bike shop listings (664 total; top 50 unpaid shown)
+## More bike shop listings (785 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/bike-shop.jsonl
 - Chicago, IL: 68 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-chicago-il/
 - Madison, WI: 24 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-madison-wi/
+- Austin, TX: 23 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-austin-tx/
 - Boulder, CO: 18 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-boulder-co/
-- Houston, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-houston-tx/
+- Houston, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-houston-tx/
 - Columbus, OH: 15 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-columbus-oh/
 - Minneapolis, MN: 15 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-minneapolis-mn/
+- Bentonville, AR: 15 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-bentonville-ar/
 - Atlanta, GA: 15 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-atlanta-ga/
 - Cincinnati, OH: 14 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-cincinnati-oh/
 - Pittsburgh, PA: 14 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-pittsburgh-pa/
@@ -75,18 +77,22 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Saint Paul, MN: 9 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-saint-paul-mn/
 - Detroit, MI: 8 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-detroit-mi/
 - Milwaukee, WI: 8 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-milwaukee-wi/
+- San Antonio, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-san-antonio-tx/
 - Springfield, MO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-springfield-mo/
 - Aurora, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-aurora-co/
 - Golden, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-golden-co/
 - Oak Park, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-oak-park-il/
 - Jefferson County, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-jefferson-county-co/
 - Littleton, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-littleton-co/
+- El Paso, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-el-paso-tx/
+- Little Rock, AR: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-little-rock-ar/
 - Evanston, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-evanston-il/
 - Carmel, IN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-carmel-in/
 - Centennial, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-centennial-co/
 - West Chester Township, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-west-chester-township-oh/
-- Cobb County, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-cobb-county-ga/
+- Corpus Christi, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-corpus-christi-tx/
 - Denton, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-denton-tx/
+- Cobb County, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-cobb-county-ga/
 - Lawrence, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-lawrence-ks/
 - Wheaton, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-wheaton-il/
 - Edwardsville, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-edwardsville-il/
@@ -94,7 +100,14 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Columbia, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-columbia-mo/
 - Louisville, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-louisville-co/
 - Wheat Ridge, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-wheat-ridge-co/
+- Fort Worth, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-fort-worth-tx/
+- San Marcos, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-san-marcos-tx/
+- Georgetown, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-georgetown-tx/
+- Lubbock, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-lubbock-tx/
 - Saint Louis Park, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-saint-louis-park-mn/
+- Hot Springs, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-hot-springs-ar/
+- Fayetteville, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-fayetteville-ar/
+- Rogers, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-rogers-ar/
 - Roswell, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-roswell-ga/
 - Ankeny, IA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-ankeny-ia/
 - Wichita, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-wichita-ks/
@@ -118,6 +131,14 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Lancaster, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-lancaster-oh/
 - Worthington, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-worthington-oh/
 - Westerville, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-westerville-oh/
+- Waco, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-waco-tx/
+- Frisco, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-frisco-tx/
+- Mckinney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-mckinney-tx/
+- Richardson, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-richardson-tx/
+- Flower Mound, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-flower-mound-tx/
+- Wichita Falls, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-wichita-falls-tx/
+- Longview, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-longview-tx/
+- New Braunfels, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-new-braunfels-tx/
 - Livonia, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-livonia-mi/
 - Northville, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-northville-mi/
 - Ferndale, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-ferndale-mi/
@@ -131,12 +152,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Eden Prairie, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-eden-prairie-mn/
 - Bloomington, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-bloomington-mn/
 - Hopkins, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-hopkins-mn/
+- Fort Smith, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-fort-smith-ar/
+- Siloam Springs, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-siloam-springs-ar/
+- Jonesboro, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-jonesboro-ar/
 - Brookhaven, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-brookhaven-ga/
 - Peachtree City, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-peachtree-city-ga/
-- Frisco, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-frisco-tx/
-- Mckinney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-mckinney-tx/
-- Richardson, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-richardson-tx/
-- Flower Mound, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-flower-mound-tx/
 - Des Moines, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-des-moines-ia/
 - West Des Moines, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-west-des-moines-ia/
 - Council Bluffs, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-council-bluffs-ia/
@@ -227,6 +247,47 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - New Albany, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-new-albany-oh/
 - Liberty Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-liberty-township-oh/
 - Powell, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-powell-oh/
+- Cedar Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-cedar-hill-tx/
+- Texarkana, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-texarkana-tx/
+- Magnolia, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-magnolia-tx/
+- Mcallen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-mcallen-tx/
+- Brownsville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-brownsville-tx/
+- Harlingen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-harlingen-tx/
+- Southlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-southlake-tx/
+- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-allen-tx/
+- Shenandoah, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-shenandoah-tx/
+- Hill Country Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-hill-country-village-tx/
+- Buda, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-buda-tx/
+- Seguin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-seguin-tx/
+- Katy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-katy-tx/
+- Kerrville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-kerrville-tx/
+- Carrollton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-carrollton-tx/
+- Tyler, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-tyler-tx/
+- Weatherford, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-weatherford-tx/
+- Helotes, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-helotes-tx/
+- Mansfield, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-mansfield-tx/
+- Lancaster, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-lancaster-tx/
+- Beaumont, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-beaumont-tx/
+- Grapevine, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-grapevine-tx/
+- Roanoke, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-roanoke-tx/
+- Jersey Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-jersey-village-tx/
+- Pearland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-pearland-tx/
+- Midland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-midland-tx/
+- Leon Valley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-leon-valley-tx/
+- Rockwall, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-rockwall-tx/
+- Round Rock, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-round-rock-tx/
+- Farmers Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-farmers-branch-tx/
+- Amarillo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-amarillo-tx/
+- Taylor, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-taylor-tx/
+- Galveston, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-galveston-tx/
+- Cedar Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-cedar-park-tx/
+- Bee Cave, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-bee-cave-tx/
+- College Station, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-college-station-tx/
+- Coppell, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-coppell-tx/
+- University Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-university-park-tx/
+- Alamo Heights, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-alamo-heights-tx/
+- Arlington, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-arlington-tx/
+- Keller, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-keller-tx/
 - Woodhaven, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-woodhaven-mi/
 - Commerce Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-commerce-charter-township-mi/
 - Walled Lake, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-walled-lake-mi/
@@ -288,6 +349,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Saint Bonifacius, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-saint-bonifacius-mn/
 - Maplewood, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-maplewood-mn/
 - Champlin, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-champlin-mn/
+- Russellville, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-russellville-ar/
+- Bella Vista, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-bella-vista-ar/
+- Springdale, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-springdale-ar/
+- Conway, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-conway-ar/
 - Duluth, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-duluth-ga/
 - Stone Mountain, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-stone-mountain-ga/
 - Powder Springs, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-powder-springs-ga/
@@ -304,23 +369,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Norcross, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-norcross-ga/
 - Henry County, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-henry-county-ga/
 - Milton, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-milton-ga/
-- Cedar Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-cedar-hill-tx/
-- Magnolia, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-magnolia-tx/
-- Southlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-southlake-tx/
-- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-allen-tx/
-- Shenandoah, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-shenandoah-tx/
-- Katy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-katy-tx/
-- Carrollton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-carrollton-tx/
-- Mansfield, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-mansfield-tx/
-- Lancaster, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-lancaster-tx/
-- Grapevine, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-grapevine-tx/
-- Roanoke, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-roanoke-tx/
-- Jersey Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-jersey-village-tx/
-- Pearland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-pearland-tx/
-- Rockwall, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-rockwall-tx/
-- Coppell, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-coppell-tx/
-- University Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-university-park-tx/
-- Arlington, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-arlington-tx/
 - Fremont, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-fremont-ne/
 - Papillion, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-papillion-ne/
 - Clive, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-clive-ia/
@@ -357,7 +405,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 664
+- Registry businesses competing: 785
 - Equivalent Google Ads cost per month: ~$52,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -19,6 +19,6 @@ Cobblestone Cottage Gifts & More is a gift shop in Fulshear, TX at 8504 FM 359, 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/cobblestone-cottage-gifts-and-more-fulshear/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cobblestone-cottage-gifts-and-more-fulshear.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/8539582908 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8539582908 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

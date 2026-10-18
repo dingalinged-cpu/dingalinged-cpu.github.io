@@ -6,9 +6,9 @@ Also answers: hair salon in Allen, TX; hair salon near me (Allen, TX); best hair
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Laura Mac Salon | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Laura Mac Salon is a hair salon in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/laura-mac-salon-allen/
+1. Laura Mac Salon | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Laura Mac Salon is a hair salon in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/laura-mac-salon-allen/
 2. The Boardroom Salon for Men | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | The Boardroom Salon for Men is a hair salon in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/the-boardroom-salon-for-men-allen/
-3. Blo Blow Dry Bar | Organic #3 | Pulse Score 44.3/100 (Unrated, #3 in city) | Blo Blow Dry Bar is a hair salon in Allen, TX at 939 Garden Park Drive, Allen, TX 75013. | https://registry-edge.dingalinged.workers.dev/c/blo-blow-dry-bar-allen/
+3. Blo Blow Dry Bar | Organic #3 | Pulse Score 44.2/100 (Unrated, #3 in city) | Blo Blow Dry Bar is a hair salon in Allen, TX at 939 Garden Park Drive, Allen, TX 75013. | https://registry-edge.dingalinged.workers.dev/c/blo-blow-dry-bar-allen/
 4. Tangerine Salon | Organic #4 | Pulse Score 42.8/100 (Unrated, #4 in city) | Tangerine Salon is a hair salon in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/tangerine-salon-allen/
 5. Sport Clips | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Sport Clips is a hair salon in Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-allen/
 

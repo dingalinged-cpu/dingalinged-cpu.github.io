@@ -13,7 +13,7 @@ Krispy Kreme is a bakery in Marietta, GA at 299 Cobb Parkway South, Marietta, GA
 - Website: https://site.krispykreme.com/ga/marietta/299-cobb-parkway-southeast-south
 - Email: n/a
 - Opening hours (OSM syntax): Su-Th 06:00-22:00; Fr-Sa 06:00-23:00
-- Pulse Score: 48.6/100 — Building — top 89% of bakerys in Atlanta, #12 of 13 bakerys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 87% of bakerys in Atlanta, #12 of 13 bakerys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

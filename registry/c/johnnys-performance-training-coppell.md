@@ -19,6 +19,6 @@ Johnny's Performance Training is a gym in Coppell, TX at 150 South Denton Tap Ro
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/johnnys-performance-training-coppell/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/johnnys-performance-training-coppell.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10894599576 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10894599576 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

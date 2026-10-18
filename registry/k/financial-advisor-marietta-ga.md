@@ -6,7 +6,7 @@ Also answers: financial advisor in Marietta, GA; financial advisor near me (Mari
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Warnick & Cain | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | Warnick & Cain is a financial advisor in Marietta, GA at 255 Village Parkway Northeast #210, Marietta, GA 30067. Phone: +16789053292. Website: https://wcplanning.com/. | https://registry-edge.dingalinged.workers.dev/c/warnick-and-cain-marietta/
+1. Warnick & Cain | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Warnick & Cain is a financial advisor in Marietta, GA at 255 Village Parkway Northeast #210, Marietta, GA 30067. Phone: +16789053292. Website: https://wcplanning.com/. | https://registry-edge.dingalinged.workers.dev/c/warnick-and-cain-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor marietta ga | category: Professional & financial services | industry benchmark: Finance & Insurance

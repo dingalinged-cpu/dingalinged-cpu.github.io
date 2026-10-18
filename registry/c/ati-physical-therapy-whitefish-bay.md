@@ -13,7 +13,7 @@ ATI Physical Therapy is a physical therapy clinic in Whitefish Bay, WI at 106 We
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Building — top 76% of physical therapy clinics in Milwaukee, #1 of 1 physical therapy clinics in Whitefish Bay (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.5/100 — Building — top 76% of physical therapy clinics in Milwaukee, #1 of 1 physical therapy clinics in Whitefish Bay (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

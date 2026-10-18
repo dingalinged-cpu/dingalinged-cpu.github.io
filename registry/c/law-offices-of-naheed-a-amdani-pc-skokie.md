@@ -13,7 +13,7 @@ Law Offices of Naheed A. Amdani, PC is a lawyer in Skokie, IL at 4909 Oakton Str
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 70% of lawyers in Chicago, #3 of 3 lawyers in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 69% of lawyers in Chicago, #3 of 3 lawyers in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

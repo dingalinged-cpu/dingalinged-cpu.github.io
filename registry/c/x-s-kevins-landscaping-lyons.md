@@ -13,7 +13,7 @@ X S Kevin's Landscaping is a landscaping company in Lyons, IL. Website: https://
 - Website: https://m.facebook.com/XSKevinsLandscaping/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 54% of landscaping companys in Chicago, #2 of 3 landscaping companys in Lyons (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 54% of landscaping companys in Chicago, #2 of 3 landscaping companys in Lyons (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

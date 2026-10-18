@@ -9,10 +9,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Innovations Salon | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Innovations Salon is a hair salon in West Saint Paul, MN at 1020 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16514551231. | https://registry-edge.dingalinged.workers.dev/c/innovations-salon-west-saint-paul/
 2. The Hair Shoppe | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | The Hair Shoppe is a hair salon in West Saint Paul, MN. Phone: +16514579308. | https://registry-edge.dingalinged.workers.dev/c/the-hair-shoppe-west-saint-paul/
 3. Patricia's Hair Studio | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Patricia's Hair Studio is a hair salon in West Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/patricias-hair-studio-west-saint-paul/
-4. The Barber Shop | Organic #4 | Pulse Score 54.5/100 (Unrated, #1 in city) | The Barber Shop is a barber shop in West Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/the-barber-shop-west-saint-paul/
-5. Cost Cutters | Organic #5 | Pulse Score 44.2/100 (Building, #4 in city) | Cost Cutters is a hair salon in West Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/cost-cutters-west-saint-paul/
-6. Sport Clips | Organic #6 | Pulse Score 42.3/100 (Building, #5 in city) | Sport Clips is a hair salon in West Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-west-saint-paul/
-7. Sola Salons | Organic #7 | Pulse Score 41.7/100 (Unrated, #6 in city) | Sola Salons is a hair salon in West Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/sola-salons-west-saint-paul/
+4. Cost Cutters | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Cost Cutters is a hair salon in West Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/cost-cutters-west-saint-paul/
+5. Sport Clips | Organic #5 | Pulse Score 42.3/100 (Building, #5 in city) | Sport Clips is a hair salon in West Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-west-saint-paul/
+6. Sola Salons | Organic #6 | Pulse Score 41.7/100 (Unrated, #6 in city) | Sola Salons is a hair salon in West Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/sola-salons-west-saint-paul/
+7. The Barber Shop | Organic #7 | Pulse Score 41.7/100 (Unrated, #1 in city) | The Barber Shop is a barber shop in West Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/the-barber-shop-west-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut west saint paul mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

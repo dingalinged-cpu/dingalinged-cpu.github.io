@@ -6,7 +6,7 @@ Also answers: plastic surgeon in Colleyville, TX; plastic surgeon near me (Colle
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. WOW Cosemetic Surgery Institute | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | WOW Cosemetic Surgery Institute is a plastic surgeon in Colleyville, TX at 5400 Highway 121 #102, Colleyville, TX 76034. | https://registry-edge.dingalinged.workers.dev/c/wow-cosemetic-surgery-institute-colleyville/
+1. WOW Cosemetic Surgery Institute | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | WOW Cosemetic Surgery Institute is a plastic surgeon in Colleyville, TX at 5400 Highway 121 #102, Colleyville, TX 76034. | https://registry-edge.dingalinged.workers.dev/c/wow-cosemetic-surgery-institute-colleyville/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon colleyville tx | category: Health & medical | industry benchmark: Physicians & Surgeons

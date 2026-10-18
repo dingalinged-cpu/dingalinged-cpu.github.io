@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Cobb County, GA at 2307 Canton Road
 - Website: https://www.publicstorage.com/self-storage-ga-marietta/5570.html
 - Email: n/a
 - Opening hours (OSM syntax): 06:00-21:00
-- Pulse Score: 52.5/100 — Fair — top 18% of self-storage facilitys in Atlanta, #6 of 29 self-storage facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 70.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.5/100 — Fair — top 18% of self-storage facilitys in Atlanta, #5 of 29 self-storage facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 70.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

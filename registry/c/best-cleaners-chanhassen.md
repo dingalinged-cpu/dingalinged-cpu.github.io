@@ -13,7 +13,7 @@ Best Cleaners is a dry cleaner in Chanhassen, MN at 7886 Market Boulevard, Chanh
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Unrated (not enough evidence yet) — top 83% of dry cleaners in Minneapolis–St. Paul, #2 of 2 dry cleaners in Chanhassen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.8/100 — Unrated (not enough evidence yet) — top 83% of dry cleaners in Minneapolis–St. Paul, #2 of 2 dry cleaners in Chanhassen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

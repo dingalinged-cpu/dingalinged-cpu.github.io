@@ -19,6 +19,6 @@ Ronnie’s Dry Clean Center is a dry cleaner in Royse City, TX at 140 West Main 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/ronnie-s-dry-clean-center-royse-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ronnie-s-dry-clean-center-royse-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5824912654 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5824912654 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

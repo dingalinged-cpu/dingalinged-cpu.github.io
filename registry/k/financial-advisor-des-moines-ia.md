@@ -6,7 +6,7 @@ Also answers: financial advisor in Des Moines, IA; financial advisor near me (De
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. West Financial Advisors | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | West Financial Advisors is a financial advisor in Des Moines, IA at 111 East Grand Avenue #412, Des Moines, IA 50309. Phone: +15152841011. Website: https://www.westfinancialadvisors.com/. | https://registry-edge.dingalinged.workers.dev/c/west-financial-advisors-des-moines/
+1. West Financial Advisors | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | West Financial Advisors is a financial advisor in Des Moines, IA at 111 East Grand Avenue #412, Des Moines, IA 50309. Phone: +15152841011. Website: https://www.westfinancialadvisors.com/. | https://registry-edge.dingalinged.workers.dev/c/west-financial-advisors-des-moines/
 2. Edward Jones | Organic #2 | Pulse Score 49.2/100 (Building, #2 in city) | Edward Jones is a financial advisor in Des Moines, IA at 4227 Fleur Drive, Des Moines, IA 50321. Phone: +15152851838. Website: https://www.edwardjones.com/us-en/financial-advisor/kevin-pearson. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-des-moines-n12686464474/
 3. Edward Jones | Organic #3 | Pulse Score 45/100 (Building, #3 in city) | Edward Jones is a financial advisor in Des Moines, IA. Website: https://www.edwardjones.com/us-en. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-des-moines/
 

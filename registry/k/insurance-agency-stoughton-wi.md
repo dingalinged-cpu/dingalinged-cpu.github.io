@@ -7,7 +7,7 @@ Also answers: insurance agency in Stoughton, WI; insurance agency near me (Stoug
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Evolve Insurance Solutions | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Evolve Insurance Solutions is an insurance agent in Stoughton, WI at 214 S. Forrest St. Ste. 2, Stoughton, WI 53589. Phone: +16088869507. Website: https://eiswi.com/. | https://registry-edge.dingalinged.workers.dev/c/evolve-insurance-solutions-stoughton/
-2. American Family Insurance | Organic #2 | Pulse Score 45.4/100 (Building, #2 in city) | American Family Insurance is an insurance agent in Stoughton, WI at 809 West Main Street, Stoughton, WI 53589. | https://registry-edge.dingalinged.workers.dev/c/american-family-insurance-stoughton/
+2. American Family Insurance | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | American Family Insurance is an insurance agent in Stoughton, WI at 809 West Main Street, Stoughton, WI 53589. | https://registry-edge.dingalinged.workers.dev/c/american-family-insurance-stoughton/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency stoughton wi | category: insurance | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Kimberly Reed - State Farm Insurance Agent is an insurance agent in Des Moines, 
 - Website: https://www.statefarm.com/agent/US/IA/Des-Moines/Kimberly-Reed-KPHZ31YS000
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 18% of insurance agents in Des Moines, IA, #2 of 11 insurance agents in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 18% of insurance agents in Des Moines, IA, #2 of 11 insurance agents in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

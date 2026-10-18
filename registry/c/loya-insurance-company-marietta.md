@@ -13,7 +13,7 @@ Loya Insurance Company is an insurance agent in Marietta, GA at 1323 Roswell Roa
 - Website: https://www.fredloya.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su off
-- Pulse Score: 51/100 — Fair — top 41% of insurance agents in Atlanta, #6 of 10 insurance agents in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.7, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Fair — top 41% of insurance agents in Atlanta, #6 of 10 insurance agents in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.8, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

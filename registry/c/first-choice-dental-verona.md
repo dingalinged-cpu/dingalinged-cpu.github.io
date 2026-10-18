@@ -13,7 +13,7 @@ First Choice Dental is a dentist in Verona, WI at 927 North Main Street, Verona,
 - Website: https://www.firstchoicedental.com/locations/view/verona/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 73% of dentists in Madison, #4 of 5 dentists in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 73% of dentists in Madison, #4 of 5 dentists in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

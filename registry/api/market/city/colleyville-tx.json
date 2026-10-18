@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Colleyville, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
- "keywords": 21,
+ "keywords": 23,
  "lists": {
   "by_volume": [
    {
@@ -206,6 +206,30 @@
   ],
   "by_cpc": [
    {
+    "keyword": "roofing contractor colleyville tx",
+    "slug": "roofing-contractor-colleyville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-colleyville-tx/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofer colleyville tx",
+    "slug": "roofer-colleyville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-colleyville-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "attorney colleyville tx",
     "slug": "attorney-colleyville-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-colleyville-tx/",
@@ -396,36 +420,6 @@
     "cpc_median_usd": 4.35,
     "search_value_index_usd": 74000,
     "equivalent_google_ads_cost_month_usd": 4100,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "pet store colleyville tx",
-    "slug": "pet-store-colleyville-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-colleyville-tx/",
-    "us_monthly_searches": 140000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 3500,
-    "cpc_basis_usd": 4.14,
-    "cpc_median_usd": 4.14,
-    "search_value_index_usd": 14000,
-    "equivalent_google_ads_cost_month_usd": 1300,
-    "featured_spot_min_usd": 10,
-    "registry_competitors": 2,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "vet colleyville tx",
-    "slug": "vet-colleyville-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-colleyville-tx/",
-    "us_monthly_searches": 550000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 14000,
-    "cpc_basis_usd": 4.06,
-    "cpc_median_usd": 4.06,
-    "search_value_index_usd": 57000,
-    "equivalent_google_ads_cost_month_usd": 3700,
     "featured_spot_min_usd": 20,
     "registry_competitors": 1,
     "ranked_by": "by_cpc"

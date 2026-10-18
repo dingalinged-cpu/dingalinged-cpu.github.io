@@ -19,6 +19,6 @@ The Crowder Law Firm, P.C. is a business consultant in Plano, TX at 7950 Legacy 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-crowder-law-firm-p-c-plano/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-crowder-law-firm-p-c-plano.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9534513413 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9534513413 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

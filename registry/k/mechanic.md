@@ -1,4 +1,4 @@
-The top unpaid mechanic listing for the United States is Parr Public Safety Equipment (an auto repair shop in Blue Ash, OH at 11326 Tamarco Drive, Blue Ash, OH 45242. Phone: +14198347135. Website: https://parrpse.com/). 6577 mechanic businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for the United States is Parr Public Safety Equipment (an auto repair shop in Blue Ash, OH at 11326 Tamarco Drive, Blue Ash, OH 45242. Phone: +14198347135. Website: https://parrpse.com/). 8288 mechanic businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in the United States?
 
@@ -9,67 +9,72 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Parr Public Safety Equipment | Organic #1 | Pulse Score 67/100 (Good, #1 in city) | Parr Public Safety Equipment is an auto repair shop in Blue Ash, OH at 11326 Tamarco Drive, Blue Ash, OH 45242. Phone: +14198347135. Website: https://parrpse.com/. | https://registry-edge.dingalinged.workers.dev/c/parr-public-safety-equipment-blue-ash/
 2. Parr Public Safety Equipment | Organic #2 | Pulse Score 66.9/100 (Good, #1 in city) | Parr Public Safety Equipment is an auto repair shop in Columbus, OH at 6106 Bausch Road, Columbus, OH 43119. Phone: +16148737200. Website: https://parrpse.com/. | https://registry-edge.dingalinged.workers.dev/c/parr-public-safety-equipment-columbus/
 3. Lincoln Square Service | Organic #3 | Pulse Score 66.8/100 (Good, #1 in city) | Lincoln Square Service is an auto repair shop in Chicago, IL at 4754 North Leavitt Street, Chicago, IL. Phone: +17735619300. Website: https://www.lincolnsquareautoservice.com/. | https://registry-edge.dingalinged.workers.dev/c/lincoln-square-service-chicago/
-4. Columbia Auto Repair | Organic #4 | Pulse Score 66.3/100 (Good, #1 in city) | Columbia Auto Repair is an auto repair shop in Saint Louis, MO at 5335 Southwest Avenue, Saint Louis, MO 63139. Phone: +13148651372. Website: https://www.columbiaautorepairstl.com/. | https://registry-edge.dingalinged.workers.dev/c/columbia-auto-repair-saint-louis/
-5. Goodyear Bloomington Auto, Tire & Glass | Organic #5 | Pulse Score 66.1/100 (Good, #1 in city) | Goodyear Bloomington Auto, Tire & Glass is an auto repair shop in Bloomington, MN at 9331 East Bloomington Freeway, Bloomington, MN 55420. Phone: +19522240378. Website: https://lamettrysautotech.com/locations/bl-auto-tire/. | https://registry-edge.dingalinged.workers.dev/c/goodyear-bloomington-auto-tire-and-glass-bloomington/
-6. Eiffel's Place | Organic #6 | Pulse Score 65.9/100 (Good, #1 in city) | Eiffel's Place is an auto repair shop in Marietta, GA at 1791 Roswell Road, Marietta, GA 30062. Phone: +17705098883. Website: https://eiffelsplace.com/. | https://registry-edge.dingalinged.workers.dev/c/eiffels-place-marietta/
-7. B & P Tire And Automotive Repair | Organic #7 | Pulse Score 65.6/100 (Good, #1 in city) | B & P Tire And Automotive Repair is an auto repair shop in Woodstock, GA at 9405 Main Street, Woodstock, GA. Phone: +17705910190. Website: https://thetirepatch.com/. | https://registry-edge.dingalinged.workers.dev/c/b-and-p-tire-and-automotive-repair-woodstock/
-8. Midwest Auto Body Shop Inc. | Organic #8 | Pulse Score 65.5/100 (Good, #1 in city) | Midwest Auto Body Shop Inc. is an auto repair shop in Melrose Park, IL at 1327 North 31st Avenue, Melrose Park, IL 60160. Phone: +17084500700. Website: https://www.midwestautobodyshop.com/. | https://registry-edge.dingalinged.workers.dev/c/midwest-auto-body-shop-inc-melrose-park/
-9. Bennett Coachworks | Organic #9 | Pulse Score 65.4/100 (Good, #1 in city) | Bennett Coachworks is an auto repair shop in Milwaukee, WI at 1500 North Vel R. Phillips Avenue, Milwaukee, WI 53212. Phone: +14142982068. Website: https://www.hotrodbuilders.com/. | https://registry-edge.dingalinged.workers.dev/c/bennett-coachworks-milwaukee/
-10. Blue Diamond Auto Glass | Organic #10 | Pulse Score 65.4/100 (Good, #1 in city) | Blue Diamond Auto Glass is an auto repair shop in Houston, TX at 9850 Westpark Drive, Houston, TX 77063. Phone: +18327732220. Website: https://bluediamondautoglass.com/. | https://registry-edge.dingalinged.workers.dev/c/blue-diamond-auto-glass-houston/
-11. Fischer's Mobile Auto Mechanic | Organic #11 | Pulse Score 65.3/100 (Good, #1 in city) | Fischer's Mobile Auto Mechanic is an auto repair shop in Olathe, KS at 129 South Mahaffie Street, Olathe, KS 66061. Phone: +18166594206. Website: https://fischers-mobile-automotive13.square.site/. | https://registry-edge.dingalinged.workers.dev/c/fischers-mobile-auto-mechanic-olathe/
-12. Circle D Transmission | Organic #12 | Pulse Score 65.2/100 (Good, #2 in city) | Circle D Transmission is an auto repair shop in Houston, TX at 13706 Hempstead Road, Houston, TX 77040. Phone: +17138957019. Website: https://circledtrans.com/. | https://registry-edge.dingalinged.workers.dev/c/circle-d-transmission-houston/
-13. QuickShade Window Tinting | Organic #13 | Pulse Score 65.2/100 (Good, #1 in city) | QuickShade Window Tinting is an auto repair shop in Lenexa, KS at 14014 West 107th Street, Lenexa, KS 66215. Phone: +19136086153. Website: https://quickshade.square.site/. | https://registry-edge.dingalinged.workers.dev/c/quickshade-window-tinting-lenexa/
-14. Barebones Auto & Diesel Repar | Organic #14 | Pulse Score 65.1/100 (Good, #1 in city) | Barebones Auto & Diesel Repar is an auto repair shop in Denton, TX at 3826 Market Street, Denton, TX 76209. Phone: +14696447100. Website: https://wwwbarebonesautodenton.com/. | https://registry-edge.dingalinged.workers.dev/c/barebones-auto-and-diesel-repar-denton/
-15. Golden Automotive | Organic #15 | Pulse Score 65.1/100 (Good, #1 in city) | Golden Automotive is an auto repair shop in East Pittsburgh, PA at 425 Highland Avenue East, East Pittsburgh, PA 15112. Phone: +14125332650. Website: https://goldentires.net/. | https://registry-edge.dingalinged.workers.dev/c/golden-automotive-east-pittsburgh/
-16. Reliable Auto Care | Organic #16 | Pulse Score 65.1/100 (Good, #1 in city) | Reliable Auto Care is an auto repair shop in Pataskala, OH at 330 Jefferson Park Drive, Pataskala, OH 43062. Phone: +17409190383. Website: https://reliableautocareohio.com/. | https://registry-edge.dingalinged.workers.dev/c/reliable-auto-care-pataskala/
-17. Wicked Metallics Automotive Customization Shop | Organic #17 | Pulse Score 65.1/100 (Good, #1 in city) | Wicked Metallics Automotive Customization Shop is an auto repair shop in Wyandotte, MI at 2151 Eureka Road, Wyandotte, MI 48192. Phone: +17345962200. Website: https://www.wickedmetallics.com/. | https://registry-edge.dingalinged.workers.dev/c/wicked-metallics-automotive-customization-shop-wyandotte/
-18. Mobile Super Service | Organic #18 | Pulse Score 65.1/100 (Good, #1 in city) | Mobile Super Service is an auto repair shop in Des Moines, IA at 605 Scott Avenue, Des Moines, IA 50309. Phone: +15152807787. Website: https://www.mss-audio.com/. | https://registry-edge.dingalinged.workers.dev/c/mobile-super-service-des-moines/
-19. Collision Pro Fix | Organic #19 | Pulse Score 65/100 (Good, #2 in city) | Collision Pro Fix is an auto repair shop in Marietta, GA at 1460 Roswell Road, Marietta, GA. Phone: +17707550042. Website: https://www.collisionprofix.com/. | https://registry-edge.dingalinged.workers.dev/c/collision-pro-fix-marietta/
-20. Atlas Auto Repair | Organic #20 | Pulse Score 65/100 (Good, #1 in city) | Atlas Auto Repair is an auto repair shop in Omaha, NE at 4952 South 36th Street, Omaha, NE 68107. Phone: +14028890330. Website: https://www.driveatlasauto.com/. | https://registry-edge.dingalinged.workers.dev/c/atlas-auto-repair-omaha/
-21. Tapout Tuning | Organic #21 | Pulse Score 65/100 (Good, #1 in city) | Tapout Tuning is an auto repair shop in Plain City, OH at 8430 Estates Court, Plain City, OH 43064. Phone: +16145046024. Website: https://www.tapouttuning.com/. | https://registry-edge.dingalinged.workers.dev/c/tapout-tuning-plain-city/
-22. The Wrap Empire | Organic #22 | Pulse Score 65/100 (Good, #1 in city) | The Wrap Empire is an auto repair shop in Rosenberg, TX at 4709 Highway 36 South #32, Rosenberg, TX 77471. Phone: +19793984958. Website: https://thewrapempire.com/. | https://registry-edge.dingalinged.workers.dev/c/the-wrap-empire-rosenberg/
-23. Atlanta Pneus Tire Repair | Organic #23 | Pulse Score 64.9/100 (Good, #3 in city) | Atlanta Pneus Tire Repair is an auto repair shop in Marietta, GA at 1798 Lower Roswell Road Southeast, Marietta, GA. Phone: +14704352216. Website: https://atlantatires.us/. | https://registry-edge.dingalinged.workers.dev/c/atlanta-pneus-tire-repair-marietta/
-24. Chloe's Auto Repair | Organic #24 | Pulse Score 64.9/100 (Good, #1 in city) | Chloe's Auto Repair is an auto repair shop in Roswell, GA at 4750 Alabama Road, Roswell, GA. Phone: +17706417400. Website: https://www.chloesautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/chloes-auto-repair-roswell/
-25. AutoTint Houston | Organic #25 | Pulse Score 64.9/100 (Good, #1 in city) | AutoTint Houston is an auto repair shop in Humble, TX at 99D Isaacks Road, Humble, TX 77338. Phone: +13465524836. Website: https://autotinthouston713.com/. | https://registry-edge.dingalinged.workers.dev/c/autotint-houston-humble/
-26. Empire Auto Glass | Organic #26 | Pulse Score 64.9/100 (Good, #2 in city) | Empire Auto Glass is an auto repair shop in Roswell, GA at 11235 Alpharetta Highway #125, Roswell, GA 30076. Phone: +17707270997. Website: https://www.empireautoglassatlanta.com/. | https://registry-edge.dingalinged.workers.dev/c/empire-auto-glass-roswell/
-27. Harris Window Tinting | Organic #27 | Pulse Score 64.9/100 (Good, #1 in city) | Harris Window Tinting is an auto repair shop in Deer Park, TX at 2676 Center Street, Deer Park, TX 77536. Phone: +18324295390. Website: https://www.harriswindowtinting.com/. | https://registry-edge.dingalinged.workers.dev/c/harris-window-tinting-deer-park/
-28. Route 66 Auto Service | Organic #28 | Pulse Score 64.9/100 (Good, #1 in city) | Route 66 Auto Service is an auto repair shop in Willowbrook, IL at 7551 South Madison Street, Willowbrook, IL 60527. Phone: +16309200905. Website: https://www.rt66autoservice.com/. | https://registry-edge.dingalinged.workers.dev/c/route-66-auto-service-willowbrook/
-29. Tintn | Organic #29 | Pulse Score 64.9/100 (Good, #1 in city) | Tintn is an auto repair shop in League City, TX at 2809 Calder Drive #100, League City, TX 77573. Phone: +18326328493. Website: https://windowtintn.com/. | https://registry-edge.dingalinged.workers.dev/c/tintn-league-city/
-30. Lara Auto Service 2 | Organic #30 | Pulse Score 64.8/100 (Good, #2 in city) | Lara Auto Service 2 is an auto repair shop in Chicago, IL at 4817 South Knox Avenue, Chicago, IL 60632. Phone: +17735859040. Website: https://laraautoservice2.com/. | https://registry-edge.dingalinged.workers.dev/c/lara-auto-service-2-chicago/
-31. Park Service | Organic #31 | Pulse Score 64.7/100 (Good, #1 in city) | Park Service is an auto repair shop in Saint Paul, MN at 2277 Como Avenue, Saint Paul, MN 55108. Phone: +16516444775. Website: https://facebook.com/ParkServiceInc/. | https://registry-edge.dingalinged.workers.dev/c/park-service-saint-paul/
-32. Crown Auto Sales and Service | Organic #32 | Pulse Score 64.7/100 (Good, #1 in city) | Crown Auto Sales and Service is an auto repair shop in Springfield, MO at 1419 East Kearney Street, Springfield, MO 65803. Phone: +14177715435. | https://registry-edge.dingalinged.workers.dev/c/crown-auto-sales-and-service-springfield/
-33. Legends Auto Spa | Organic #33 | Pulse Score 64.7/100 (Good, #1 in city) | Legends Auto Spa is an auto repair shop in Columbia, MO at 5053 South Providence Trail #103, Columbia, MO 65203. Phone: +15738251446. Website: https://legends-autospa.com/. | https://registry-edge.dingalinged.workers.dev/c/legends-auto-spa-columbia/
-34. TintFellas | Organic #34 | Pulse Score 64.7/100 (Good, #4 in city) | TintFellas is an auto repair shop in Marietta, GA at 337 Cobb Parkway South, Marietta, GA 30062. Phone: +17708206200. Website: https://www.tintfellasatl.com/. | https://registry-edge.dingalinged.workers.dev/c/tintfellas-marietta/
-35. Bluemound Automotive, Inc. | Organic #35 | Pulse Score 64.7/100 (Good, #1 in city) | Bluemound Automotive, Inc. is an auto repair shop in Wauwatosa, WI at 6000 West Bluemound Road, Wauwatosa, WI 53213. Phone: +14142581000. Website: https://www.bluemoundautomotive.com/. | https://registry-edge.dingalinged.workers.dev/c/bluemound-automotive-inc-wauwatosa/
-36. McCullough NAPA Auto Care | Organic #36 | Pulse Score 64.7/100 (Good, #1 in city) | McCullough NAPA Auto Care is an auto repair shop in Atlanta, GA at 5810 Roswell Road, Atlanta, GA 30328. Phone: +14042523014. Website: https://www.napacarcare.com/. | https://registry-edge.dingalinged.workers.dev/c/mccullough-napa-auto-care-atlanta/
-37. 317 Auto Service | Organic #37 | Pulse Score 64.6/100 (Good, #1 in city) | 317 Auto Service is an auto repair shop in Greenwood, IN at 499 Wall Street, Greenwood, IN 46143. Phone: +13174539111. | https://registry-edge.dingalinged.workers.dev/c/317-auto-service-greenwood/
-38. Kennesaw Tire Company | Organic #38 | Pulse Score 64.5/100 (Good, #1 in city) | Kennesaw Tire Company is an auto repair shop in Kennesaw, GA at 2850 South Main Street Northwest, Kennesaw, GA 30144. Phone: +17704228067. Website: https://www.kennesawtire.com/. | https://registry-edge.dingalinged.workers.dev/c/kennesaw-tire-company-kennesaw/
-39. East Hill Garage | Organic #39 | Pulse Score 64.5/100 (Unrated, #1 in city) | East Hill Garage is an auto repair shop in Cincinnati, OH at 3009 Lavinia Avenue, Cincinnati, OH 45208. Phone: +15133213955. Website: https://www.cinbbb.net/east_hill_garage_inc. | https://registry-edge.dingalinged.workers.dev/c/east-hill-garage-cincinnati/
-40. Professional Auto Care | Organic #40 | Pulse Score 64.5/100 (Unrated, #3 in city) | Professional Auto Care is an auto repair shop in Houston, TX at 9916 Honeywell, Houston, TX 77074. Phone: +17132700474. Website: https://professionalautocare.com/. | https://registry-edge.dingalinged.workers.dev/c/professional-auto-care-houston/
-41. Scott DeLong's Auto Service | Organic #41 | Pulse Score 64.4/100 (Good, #1 in city) | Scott DeLong's Auto Service is an auto repair shop in Cobb County, GA at 2140 Post Oak Tritt Road Northeast, Cobb County, GA. Phone: +17705090222. Website: https://scottdelongsauto.com/. | https://registry-edge.dingalinged.workers.dev/c/scott-delongs-auto-service-cobb-county/
-42. SK Detail & Aesthetics | Organic #42 | Pulse Score 64.4/100 (Good, #1 in city) | SK Detail & Aesthetics is an auto repair shop in Kansas City, KS at 3123 Merriam Drive, Kansas City, KS 66106. Phone: +19132259315. Website: https://www.s-kdetailaesthetics.com/. | https://registry-edge.dingalinged.workers.dev/c/sk-detail-and-aesthetics-kansas-city/
-43. Massey Automotove | Organic #43 | Pulse Score 64.4/100 (Good, #2 in city) | Massey Automotove is an auto repair shop in Cobb County, GA at 2250 Lower Roswell Road Southeast, Cobb County, GA. Phone: +17706924149. Website: https://masseyautomotive.com/. | https://registry-edge.dingalinged.workers.dev/c/massey-automotove-cobb-county/
-44. DW Campbell of Atlanta Tire and Service Center | Organic #44 | Pulse Score 64.3/100 (Good, #2 in city) | DW Campbell of Atlanta Tire and Service Center is an auto repair shop in Atlanta, GA at 1921 Howell Mill Road Northwest, Atlanta, GA 30318. Phone: +14043520001. Website: https://www.dwctireandservice.com/. | https://registry-edge.dingalinged.workers.dev/c/dw-campbell-of-atlanta-tire-and-service-center-atlanta/
-45. Galaxy Drive Garage | Organic #45 | Pulse Score 64.3/100 (Good, #1 in city) | Galaxy Drive Garage is an auto repair shop in Webster, TX at 18004 State Highway 3, Webster, TX 77598. Phone: +18325576388. Website: https://www.galaxydrivegaragetx.com/. | https://registry-edge.dingalinged.workers.dev/c/galaxy-drive-garage-webster/
-46. Pep Boys Auto Service & Tire Shop | Organic #46 | Pulse Score 64.3/100 (Good, #2 in city) | Pep Boys Auto Service & Tire Shop is an auto repair shop in Kennesaw, GA at 4290 Bells Ferry Road Northwest #102, Kennesaw, GA 30144. Phone: +17705920811. Website: https://www.pepboys.com/stores/ga/kennesaw/4290-bells-ferry-road-nw?storecode=1656. | https://registry-edge.dingalinged.workers.dev/c/pep-boys-auto-service-and-tire-shop-kennesaw/
-47. Prime Collision Repair | Organic #47 | Pulse Score 64.3/100 (Good, #3 in city) | Prime Collision Repair is an auto repair shop in Cobb County, GA at 4509 Canton Road Northeast, Cobb County, GA. Phone: +17709242080. Website: https://primecollisionrepair.com/. | https://registry-edge.dingalinged.workers.dev/c/prime-collision-repair-cobb-county/
-48. Drip Ur Ride Automotive Detailing | Organic #48 | Pulse Score 64.2/100 (Good, #1 in city) | Drip Ur Ride Automotive Detailing is an auto repair shop in Douglasville, GA at 7403 Stone Bluff Drive, Douglasville, GA 30134. Phone: +14042074722. Website: https://dripurrideautodetailing.square.site/. | https://registry-edge.dingalinged.workers.dev/c/drip-ur-ride-automotive-detailing-douglasville/
-49. Meggamaxxx | Organic #49 | Pulse Score 64.2/100 (Good, #5 in city) | Meggamaxxx is an auto repair shop in Marietta, GA at 80 Cobb Parkway North, Marietta, GA. Phone: +16783559300. Website: https://www.meggamaxx.com/. | https://registry-edge.dingalinged.workers.dev/c/meggamaxxx-marietta/
-50. Don Freely Auto Clinic | Organic #50 | Pulse Score 64.2/100 (Good, #1 in city) | Don Freely Auto Clinic is an auto repair shop in Overland Park, KS at 6210 Marty Lane, Overland Park, KS 66202. Phone: +19134321080. Website: https://www.facebook.com/people/Don-Freely-Auto-Clinic/100063518920771/. | https://registry-edge.dingalinged.workers.dev/c/don-freely-auto-clinic-overland-park/
+4. Excalibur Auto Repair | Organic #4 | Pulse Score 66.3/100 (Good, #1 in city) | Excalibur Auto Repair is an auto repair shop in Austin, TX at 8701 Research Boulevard #H, Austin, TX 78758. Phone: +15124543733. Website: https://excaliburautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/excalibur-auto-repair-austin/
+5. Columbia Auto Repair | Organic #5 | Pulse Score 66.3/100 (Good, #1 in city) | Columbia Auto Repair is an auto repair shop in Saint Louis, MO at 5335 Southwest Avenue, Saint Louis, MO 63139. Phone: +13148651372. Website: https://www.columbiaautorepairstl.com/. | https://registry-edge.dingalinged.workers.dev/c/columbia-auto-repair-saint-louis/
+6. Goodyear Bloomington Auto, Tire & Glass | Organic #6 | Pulse Score 66.1/100 (Good, #1 in city) | Goodyear Bloomington Auto, Tire & Glass is an auto repair shop in Bloomington, MN at 9331 East Bloomington Freeway, Bloomington, MN 55420. Phone: +19522240378. Website: https://lamettrysautotech.com/locations/bl-auto-tire/. | https://registry-edge.dingalinged.workers.dev/c/goodyear-bloomington-auto-tire-and-glass-bloomington/
+7. Eiffel's Place | Organic #7 | Pulse Score 65.9/100 (Good, #1 in city) | Eiffel's Place is an auto repair shop in Marietta, GA at 1791 Roswell Road, Marietta, GA 30062. Phone: +17705098883. Website: https://eiffelsplace.com/. | https://registry-edge.dingalinged.workers.dev/c/eiffels-place-marietta/
+8. B & P Tire And Automotive Repair | Organic #8 | Pulse Score 65.6/100 (Good, #1 in city) | B & P Tire And Automotive Repair is an auto repair shop in Woodstock, GA at 9405 Main Street, Woodstock, GA. Phone: +17705910190. Website: https://thetirepatch.com/. | https://registry-edge.dingalinged.workers.dev/c/b-and-p-tire-and-automotive-repair-woodstock/
+9. Auto Glass in San Antonio | Organic #9 | Pulse Score 65.5/100 (Good, #1 in city) | Auto Glass in San Antonio is an auto repair shop in San Antonio, TX at 1846 North Loop 1604 West #205, San Antonio, TX 78248. Phone: +12107937115. Website: https://autoglassinsanantonio.com/. | https://registry-edge.dingalinged.workers.dev/c/auto-glass-in-san-antonio-san-antonio/
+10. Midwest Auto Body Shop Inc. | Organic #10 | Pulse Score 65.5/100 (Good, #1 in city) | Midwest Auto Body Shop Inc. is an auto repair shop in Melrose Park, IL at 1327 North 31st Avenue, Melrose Park, IL 60160. Phone: +17084500700. Website: https://www.midwestautobodyshop.com/. | https://registry-edge.dingalinged.workers.dev/c/midwest-auto-body-shop-inc-melrose-park/
+11. Bennett Coachworks | Organic #11 | Pulse Score 65.4/100 (Good, #1 in city) | Bennett Coachworks is an auto repair shop in Milwaukee, WI at 1500 North Vel R. Phillips Avenue, Milwaukee, WI 53212. Phone: +14142982068. Website: https://www.hotrodbuilders.com/. | https://registry-edge.dingalinged.workers.dev/c/bennett-coachworks-milwaukee/
+12. Blue Diamond Auto Glass | Organic #12 | Pulse Score 65.4/100 (Good, #1 in city) | Blue Diamond Auto Glass is an auto repair shop in Houston, TX at 9850 Westpark Drive, Houston, TX 77063. Phone: +18327732220. Website: https://bluediamondautoglass.com/. | https://registry-edge.dingalinged.workers.dev/c/blue-diamond-auto-glass-houston/
+13. Keller Alliance Auto Repair | Organic #13 | Pulse Score 65.4/100 (Good, #1 in city) | Keller Alliance Auto Repair is an auto repair shop in Keller, TX at 1485 South Main Street #Suite C, Keller, TX 76248. Phone: +18174310009. Website: https://kellerallianceautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/keller-alliance-auto-repair-keller/
+14. Fischer's Mobile Auto Mechanic | Organic #14 | Pulse Score 65.3/100 (Good, #1 in city) | Fischer's Mobile Auto Mechanic is an auto repair shop in Olathe, KS at 129 South Mahaffie Street, Olathe, KS 66061. Phone: +18166594206. Website: https://fischers-mobile-automotive13.square.site/. | https://registry-edge.dingalinged.workers.dev/c/fischers-mobile-auto-mechanic-olathe/
+15. Circle D Transmission | Organic #15 | Pulse Score 65.2/100 (Good, #2 in city) | Circle D Transmission is an auto repair shop in Houston, TX at 13706 Hempstead Road, Houston, TX 77040. Phone: +17138957019. Website: https://circledtrans.com/. | https://registry-edge.dingalinged.workers.dev/c/circle-d-transmission-houston/
+16. QuickShade Window Tinting | Organic #16 | Pulse Score 65.2/100 (Good, #1 in city) | QuickShade Window Tinting is an auto repair shop in Lenexa, KS at 14014 West 107th Street, Lenexa, KS 66215. Phone: +19136086153. Website: https://quickshade.square.site/. | https://registry-edge.dingalinged.workers.dev/c/quickshade-window-tinting-lenexa/
+17. Barebones Auto & Diesel Repar | Organic #17 | Pulse Score 65.1/100 (Good, #1 in city) | Barebones Auto & Diesel Repar is an auto repair shop in Denton, TX at 3826 Market Street, Denton, TX 76209. Phone: +14696447100. Website: https://wwwbarebonesautodenton.com/. | https://registry-edge.dingalinged.workers.dev/c/barebones-auto-and-diesel-repar-denton/
+18. Below the Belt Services | Organic #18 | Pulse Score 65.1/100 (Good, #1 in city) | Below the Belt Services is an auto repair shop in Canyon Lake, TX at 7796 FM 2673, Canyon Lake, TX 78133. Phone: +18308992109. Website: https://www.belowthebeltservices.com/. | https://registry-edge.dingalinged.workers.dev/c/below-the-belt-services-canyon-lake/
+19. Golden Automotive | Organic #19 | Pulse Score 65.1/100 (Good, #1 in city) | Golden Automotive is an auto repair shop in East Pittsburgh, PA at 425 Highland Avenue East, East Pittsburgh, PA 15112. Phone: +14125332650. Website: https://goldentires.net/. | https://registry-edge.dingalinged.workers.dev/c/golden-automotive-east-pittsburgh/
+20. Reliable Auto Care | Organic #20 | Pulse Score 65.1/100 (Good, #1 in city) | Reliable Auto Care is an auto repair shop in Pataskala, OH at 330 Jefferson Park Drive, Pataskala, OH 43062. Phone: +17409190383. Website: https://reliableautocareohio.com/. | https://registry-edge.dingalinged.workers.dev/c/reliable-auto-care-pataskala/
+21. Tint and Car Audio Concepts | Organic #21 | Pulse Score 65.1/100 (Good, #1 in city) | Tint and Car Audio Concepts is an auto repair shop in Fort Worth, TX at 7119 W Vickery Blvd #131, Fort Worth, TX 76116. Phone: +18177308044. Website: https://tintandcaraudioconcepts.godaddysites.com/. | https://registry-edge.dingalinged.workers.dev/c/tint-and-car-audio-concepts-fort-worth/
+22. Wicked Metallics Automotive Customization Shop | Organic #22 | Pulse Score 65.1/100 (Good, #1 in city) | Wicked Metallics Automotive Customization Shop is an auto repair shop in Wyandotte, MI at 2151 Eureka Road, Wyandotte, MI 48192. Phone: +17345962200. Website: https://www.wickedmetallics.com/. | https://registry-edge.dingalinged.workers.dev/c/wicked-metallics-automotive-customization-shop-wyandotte/
+23. Mobile Super Service | Organic #23 | Pulse Score 65.1/100 (Good, #1 in city) | Mobile Super Service is an auto repair shop in Des Moines, IA at 605 Scott Avenue, Des Moines, IA 50309. Phone: +15152807787. Website: https://www.mss-audio.com/. | https://registry-edge.dingalinged.workers.dev/c/mobile-super-service-des-moines/
+24. Collision Pro Fix | Organic #24 | Pulse Score 65/100 (Good, #2 in city) | Collision Pro Fix is an auto repair shop in Marietta, GA at 1460 Roswell Road, Marietta, GA. Phone: +17707550042. Website: https://www.collisionprofix.com/. | https://registry-edge.dingalinged.workers.dev/c/collision-pro-fix-marietta/
+25. Atlas Auto Repair | Organic #25 | Pulse Score 65/100 (Good, #1 in city) | Atlas Auto Repair is an auto repair shop in Omaha, NE at 4952 South 36th Street, Omaha, NE 68107. Phone: +14028890330. Website: https://www.driveatlasauto.com/. | https://registry-edge.dingalinged.workers.dev/c/atlas-auto-repair-omaha/
+26. Five Star Automotive & Collision | Organic #26 | Pulse Score 65/100 (Good, #3 in city) | Five Star Automotive & Collision is an auto repair shop in Houston, TX at 2121 Brittmoore Road #4400, Houston, TX 77043. Phone: +13462055525. Website: https://www.myfivestarauto.com/. | https://registry-edge.dingalinged.workers.dev/c/five-star-automotive-and-collision-houston/
+27. Tapout Tuning | Organic #27 | Pulse Score 65/100 (Good, #1 in city) | Tapout Tuning is an auto repair shop in Plain City, OH at 8430 Estates Court, Plain City, OH 43064. Phone: +16145046024. Website: https://www.tapouttuning.com/. | https://registry-edge.dingalinged.workers.dev/c/tapout-tuning-plain-city/
+28. The Wrap Empire | Organic #28 | Pulse Score 65/100 (Good, #1 in city) | The Wrap Empire is an auto repair shop in Rosenberg, TX at 4709 Highway 36 South #32, Rosenberg, TX 77471. Phone: +19793984958. Website: https://thewrapempire.com/. | https://registry-edge.dingalinged.workers.dev/c/the-wrap-empire-rosenberg/
+29. Atlanta Pneus Tire Repair | Organic #29 | Pulse Score 64.9/100 (Good, #3 in city) | Atlanta Pneus Tire Repair is an auto repair shop in Marietta, GA at 1798 Lower Roswell Road Southeast, Marietta, GA. Phone: +14704352216. Website: https://atlantatires.us/. | https://registry-edge.dingalinged.workers.dev/c/atlanta-pneus-tire-repair-marietta/
+30. Chloe's Auto Repair | Organic #30 | Pulse Score 64.9/100 (Good, #1 in city) | Chloe's Auto Repair is an auto repair shop in Roswell, GA at 4750 Alabama Road, Roswell, GA. Phone: +17706417400. Website: https://www.chloesautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/chloes-auto-repair-roswell/
+31. AutoTint Houston | Organic #31 | Pulse Score 64.9/100 (Good, #1 in city) | AutoTint Houston is an auto repair shop in Humble, TX at 99D Isaacks Road, Humble, TX 77338. Phone: +13465524836. Website: https://autotinthouston713.com/. | https://registry-edge.dingalinged.workers.dev/c/autotint-houston-humble/
+32. Empire Auto Glass | Organic #32 | Pulse Score 64.9/100 (Good, #2 in city) | Empire Auto Glass is an auto repair shop in Roswell, GA at 11235 Alpharetta Highway #125, Roswell, GA 30076. Phone: +17707270997. Website: https://www.empireautoglassatlanta.com/. | https://registry-edge.dingalinged.workers.dev/c/empire-auto-glass-roswell/
+33. G1 Window Tinting | Organic #33 | Pulse Score 64.9/100 (Good, #2 in city) | G1 Window Tinting is an auto repair shop in Austin, TX at 4229 Ranch Road 620 North #128, Austin, TX 78734. Phone: +17372519290. Website: https://www.g1windowtinting.com/. | https://registry-edge.dingalinged.workers.dev/c/g1-window-tinting-austin/
+34. Harris Window Tinting | Organic #34 | Pulse Score 64.9/100 (Good, #1 in city) | Harris Window Tinting is an auto repair shop in Deer Park, TX at 2676 Center Street, Deer Park, TX 77536. Phone: +18324295390. Website: https://www.harriswindowtinting.com/. | https://registry-edge.dingalinged.workers.dev/c/harris-window-tinting-deer-park/
+35. Route 66 Auto Service | Organic #35 | Pulse Score 64.9/100 (Good, #1 in city) | Route 66 Auto Service is an auto repair shop in Willowbrook, IL at 7551 South Madison Street, Willowbrook, IL 60527. Phone: +16309200905. Website: https://www.rt66autoservice.com/. | https://registry-edge.dingalinged.workers.dev/c/route-66-auto-service-willowbrook/
+36. Smiley Autowerks | Organic #36 | Pulse Score 64.9/100 (Good, #1 in city) | Smiley Autowerks is an auto repair shop in Kyle, TX at 1701 Bebee Road #B, Kyle, TX 78640. Phone: +15123610972. Website: https://www.smileyautowerks.com/. | https://registry-edge.dingalinged.workers.dev/c/smiley-autowerks-kyle/
+37. Tintn | Organic #37 | Pulse Score 64.9/100 (Good, #1 in city) | Tintn is an auto repair shop in League City, TX at 2809 Calder Drive #100, League City, TX 77573. Phone: +18326328493. Website: https://windowtintn.com/. | https://registry-edge.dingalinged.workers.dev/c/tintn-league-city/
+38. Cheap Towing | Organic #38 | Pulse Score 64.9/100 (Good, #1 in city) | Cheap Towing is an auto repair shop in Lubbock, TX at 2601 34th Street, Lubbock, TX 79410. Phone: +18067815263. | https://registry-edge.dingalinged.workers.dev/c/cheap-towing-lubbock/
+39. Lara Auto Service 2 | Organic #39 | Pulse Score 64.8/100 (Good, #2 in city) | Lara Auto Service 2 is an auto repair shop in Chicago, IL at 4817 South Knox Avenue, Chicago, IL 60632. Phone: +17735859040. Website: https://laraautoservice2.com/. | https://registry-edge.dingalinged.workers.dev/c/lara-auto-service-2-chicago/
+40. Park Service | Organic #40 | Pulse Score 64.7/100 (Good, #1 in city) | Park Service is an auto repair shop in Saint Paul, MN at 2277 Como Avenue, Saint Paul, MN 55108. Phone: +16516444775. Website: https://facebook.com/ParkServiceInc/. | https://registry-edge.dingalinged.workers.dev/c/park-service-saint-paul/
+41. Crown Auto Sales and Service | Organic #41 | Pulse Score 64.7/100 (Good, #1 in city) | Crown Auto Sales and Service is an auto repair shop in Springfield, MO at 1419 East Kearney Street, Springfield, MO 65803. Phone: +14177715435. | https://registry-edge.dingalinged.workers.dev/c/crown-auto-sales-and-service-springfield/
+42. Dialed Wraps | Organic #42 | Pulse Score 64.7/100 (Good, #1 in city) | Dialed Wraps is an auto repair shop in Round Rock, TX at 2100 Double Creek Drive #510, Round Rock, TX 78664. Phone: +15127300101. Website: https://www.dialedwraps.com/. | https://registry-edge.dingalinged.workers.dev/c/dialed-wraps-round-rock/
+43. Legends Auto Spa | Organic #43 | Pulse Score 64.7/100 (Good, #1 in city) | Legends Auto Spa is an auto repair shop in Columbia, MO at 5053 South Providence Trail #103, Columbia, MO 65203. Phone: +15738251446. Website: https://legends-autospa.com/. | https://registry-edge.dingalinged.workers.dev/c/legends-auto-spa-columbia/
+44. TintFellas | Organic #44 | Pulse Score 64.7/100 (Good, #4 in city) | TintFellas is an auto repair shop in Marietta, GA at 337 Cobb Parkway South, Marietta, GA 30062. Phone: +17708206200. Website: https://www.tintfellasatl.com/. | https://registry-edge.dingalinged.workers.dev/c/tintfellas-marietta/
+45. Bluemound Automotive, Inc. | Organic #45 | Pulse Score 64.7/100 (Good, #1 in city) | Bluemound Automotive, Inc. is an auto repair shop in Wauwatosa, WI at 6000 West Bluemound Road, Wauwatosa, WI 53213. Phone: +14142581000. Website: https://www.bluemoundautomotive.com/. | https://registry-edge.dingalinged.workers.dev/c/bluemound-automotive-inc-wauwatosa/
+46. McCullough NAPA Auto Care | Organic #46 | Pulse Score 64.7/100 (Good, #1 in city) | McCullough NAPA Auto Care is an auto repair shop in Atlanta, GA at 5810 Roswell Road, Atlanta, GA 30328. Phone: +14042523014. Website: https://www.napacarcare.com/. | https://registry-edge.dingalinged.workers.dev/c/mccullough-napa-auto-care-atlanta/
+47. 317 Auto Service | Organic #47 | Pulse Score 64.6/100 (Good, #1 in city) | 317 Auto Service is an auto repair shop in Greenwood, IN at 499 Wall Street, Greenwood, IN 46143. Phone: +13174539111. | https://registry-edge.dingalinged.workers.dev/c/317-auto-service-greenwood/
+48. Vick Autosports | Organic #48 | Pulse Score 64.6/100 (Good, #1 in city) | Vick Autosports is an auto repair shop in Cleburne, TX at 601 East Chambers Street, Cleburne, TX 76031. Phone: +18004663428. Website: https://www.vickauto.com/. | https://registry-edge.dingalinged.workers.dev/c/vick-autosports-cleburne/
+49. Barney's Auto Service | Organic #49 | Pulse Score 64.6/100 (Good, #1 in city) | Barney's Auto Service is an auto repair shop in Amarillo, TX at 810 North Western Street, Amarillo, TX 79106. Phone: +18063739746. Website: https://www.facebook.com/BarneysAutoService/. | https://registry-edge.dingalinged.workers.dev/c/barneys-auto-service-amarillo/
+50. Kennesaw Tire Company | Organic #50 | Pulse Score 64.5/100 (Good, #1 in city) | Kennesaw Tire Company is an auto repair shop in Kennesaw, GA at 2850 South Main Street Northwest, Kennesaw, GA 30144. Phone: +17704228067. Website: https://www.kennesawtire.com/. | https://registry-edge.dingalinged.workers.dev/c/kennesaw-tire-company-kennesaw/
 
-## More mechanic listings (6577 total; top 50 unpaid shown)
-- Houston, TX: 213 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-houston-tx/
+## More mechanic listings (8288 total; top 50 unpaid shown)
+- Houston, TX: 223 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-houston-tx/
 - Indianapolis, IN: 175 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-indianapolis-in/
 - Chicago, IL: 169 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-chicago-il/
+- Austin, TX: 150 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-austin-tx/
+- Amarillo, TX: 130 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-amarillo-tx/
+- San Antonio, TX: 127 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-san-antonio-tx/
 - Dallas, TX: 122 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-dallas-tx/
 - Detroit, MI: 121 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-detroit-mi/
+- Lubbock, TX: 109 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lubbock-tx/
+- Harris County, TX: 108 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-harris-county-tx/
 - Columbus, OH: 108 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-columbus-oh/
 - Milwaukee, WI: 101 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-milwaukee-wi/
 - Pittsburgh, PA: 90 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-pittsburgh-pa/
 - Aurora, CO: 87 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-aurora-co/
-- Harris County, TX: 86 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-harris-county-tx/
 - Omaha, NE: 81 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-omaha-ne/
 - Marietta, GA: 77 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-marietta-ga/
+- Fort Worth, TX: 76 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-fort-worth-tx/
 - Cobb County, GA: 74 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-cobb-county-ga/
 - Minneapolis, MN: 70 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-minneapolis-mn/
 - Kansas City, MO: 68 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-kansas-city-mo/
@@ -79,57 +84,71 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Madison, WI: 59 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-madison-wi/
 - Mesquite, TX: 56 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-mesquite-tx/
 - Cincinnati, OH: 52 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-cincinnati-oh/
+- Georgetown, TX: 49 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-georgetown-tx/
 - Des Moines, IA: 49 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-des-moines-ia/
+- Plano, TX: 47 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-plano-tx/
 - Lakewood, CO: 47 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lakewood-co/
 - Atlanta, GA: 46 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-atlanta-ga/
 - Parker, CO: 42 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-parker-co/
-- Plano, TX: 41 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-plano-tx/
 - Sterling Heights, MI: 39 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-sterling-heights-mi/
+- Russellville, AR: 39 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-russellville-ar/
 - Denton, TX: 38 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-denton-tx/
 - Lincoln Park, MI: 37 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lincoln-park-mi/
+- El Paso, TX: 37 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-el-paso-tx/
+- Cedar Park, TX: 34 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-cedar-park-tx/
 - Kansas City, KS: 34 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-kansas-city-ks/
-- Lewisville, TX: 31 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lewisville-tx/
+- Leander, TX: 33 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-leander-tx/
+- Lewisville, TX: 33 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lewisville-tx/
 - Lawrence, KS: 31 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lawrence-ks/
+- Cleburne, TX: 29 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-cleburne-tx/
 - Naperville, IL: 28 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-naperville-il/
 - Douglasville, GA: 28 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-douglasville-ga/
 - Merriam, KS: 28 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-merriam-ks/
 - Gwinnett County, GA: 27 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-gwinnett-county-ga/
 - Wyandotte, MI: 26 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-wyandotte-mi/
+- Frisco, TX: 26 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-frisco-tx/
+- Lufkin, TX: 26 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lufkin-tx/
 - Lancaster, OH: 26 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lancaster-oh/
 - Ross Township, PA: 25 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-ross-township-pa/
+- Texarkana, TX: 25 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-texarkana-tx/
+- Mckinney, TX: 25 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-mckinney-tx/
 - Carmel, IN: 25 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-carmel-in/
 - Castle Rock, CO: 25 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-castle-rock-co/
-- Frisco, TX: 24 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-frisco-tx/
-- Mckinney, TX: 24 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-mckinney-tx/
 - Columbia, MO: 24 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-columbia-mo/
 - Saint Louis County, MO: 24 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-saint-louis-county-mo/
 - Gary, IN: 24 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-gary-in/
 - Boulder, CO: 24 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-boulder-co/
 - Urbandale, IA: 24 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-urbandale-ia/
+- Round Rock, TX: 23 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-round-rock-tx/
+- Humble, TX: 23 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-humble-tx/
+- Arlington, TX: 23 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-arlington-tx/
 - Kennesaw, GA: 23 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-kennesaw-ga/
 - Olathe, KS: 23 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-olathe-ks/
+- Waco, TX: 22 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-waco-tx/
+- Carrollton, TX: 22 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-carrollton-tx/
+- Irving, TX: 22 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-irving-tx/
 - Dekalb County, GA: 22 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-dekalb-county-ga/
 - Topeka, KS: 22 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-topeka-ks/
-- Arlington, TX: 21 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-arlington-tx/
-- Irving, TX: 21 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-irving-tx/
+- Kerrville, TX: 21 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-kerrville-tx/
 - Roswell, GA: 21 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-roswell-ga/
 - Shawnee, KS: 21 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-shawnee-ks/
 - Wichita, KS: 21 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-wichita-ks/
 - Dearborn, MI: 20 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-dearborn-mi/
-- Humble, TX: 20 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-humble-tx/
-- Carrollton, TX: 20 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-carrollton-tx/
+- San Marcos, TX: 20 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-san-marcos-tx/
+- Sherman, TX: 20 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-sherman-tx/
 - Lilburn, GA: 20 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lilburn-ga/
 - Southgate, MI: 19 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-southgate-mi/
+- Garland, TX: 19 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-garland-tx/
 - Brookfield, IL: 19 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-brookfield-il/
 - Overland, MO: 19 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-overland-mo/
 - Union Township, OH: 19 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-union-township-oh/
+- Fayetteville, AR: 19 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-fayetteville-ar/
 - Livonia, MI: 18 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-livonia-mi/
 - Evanston, IL: 18 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-evanston-il/
 - Littleton, CO: 18 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-littleton-co/
 - Englewood, CO: 18 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-englewood-co/
 - Mccandless, PA: 17 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-mccandless-pa/
 - Waxahachie, TX: 17 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-waxahachie-tx/
-- Garland, TX: 17 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-garland-tx/
 - Countryside, IL: 17 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-countryside-il/
 - Forest Park, GA: 17 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-forest-park-ga/
 - Manhattan, KS: 17 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-manhattan-ks/
@@ -138,7 +157,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Farmington Hills, MI: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-farmington-hills-mi/
 - Taylor, MI: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-taylor-mi/
 - Katy, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-katy-tx/
+- Wichita Falls, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-wichita-falls-tx/
 - Richardson, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-richardson-tx/
+- Beaumont, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-beaumont-tx/
 - Magnolia, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-magnolia-tx/
 - Skokie, IL: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-skokie-il/
 - Gladstone, MO: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-gladstone-mo/
@@ -146,13 +167,18 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Colerain Township, OH: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-colerain-township-oh/
 - Longmont, CO: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-longmont-co/
 - Jefferson County, CO: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-jefferson-county-co/
+- Fort Smith, AR: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-fort-smith-ar/
+- Little Rock, AR: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-little-rock-ar/
 - Eagan, MN: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-eagan-mn/
 - Clive, IA: 16 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-clive-ia/
+- Abilene, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-abilene-tx/
+- Longview, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-longview-tx/
+- Hurst, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-hurst-tx/
 - Forney, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-forney-tx/
 - Schaumburg, IL: 15 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-schaumburg-il/
 - West Chester Township, OH: 15 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-west-chester-township-oh/
-- Hurst, TX: 14 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-hurst-tx/
 - Rockwall, TX: 14 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-rockwall-tx/
+- Midland, TX: 14 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-midland-tx/
 - Des Plaines, IL: 14 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-des-plaines-il/
 - Blue Springs, MO: 14 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-blue-springs-mo/
 - Clayton County, GA: 14 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-clayton-county-ga/
@@ -165,6 +191,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Warren, MI: 13 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-warren-mi/
 - Madison Heights, MI: 13 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-madison-heights-mi/
 - Waterford Township, MI: 13 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-waterford-township-mi/
+- Tyler, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-tyler-tx/
 - Lombard, IL: 13 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lombard-il/
 - Smyrna, GA: 13 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-smyrna-ga/
 - Woodstock, GA: 13 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-woodstock-ga/
@@ -174,19 +201,34 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Monroeville, PA: 12 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-monroeville-pa/
 - Cranberry Township, PA: 12 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-cranberry-township-pa/
 - Westland, MI: 12 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-westland-mi/
+- Boerne, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-boerne-tx/
+- Greenville, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-greenville-tx/
+- Pflugerville, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-pflugerville-tx/
 - Saint Peters, MO: 12 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-saint-peters-mo/
 - Tucker, GA: 12 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-tucker-ga/
 - Greenwood, IN: 12 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-greenwood-in/
+- Conway, AR: 12 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-conway-ar/
+- North Little Rock, AR: 12 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-north-little-rock-ar/
 - Saint Louis Park, MN: 12 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-saint-louis-park-mn/
 - Royal Oak, MI: 11 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-royal-oak-mi/
 - Roseville, MI: 11 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-roseville-mi/
+- Sugar Land, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-sugar-land-tx/
+- Rosenberg, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-rosenberg-tx/
+- Corpus Christi, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-corpus-christi-tx/
+- San Angelo, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-san-angelo-tx/
+- Temple, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-temple-tx/
 - Flower Mound, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-flower-mound-tx/
 - Saint Joseph, MO: 11 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-saint-joseph-mo/
+- Cabot, AR: 11 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-cabot-ar/
+- Jacksonville, AR: 11 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-jacksonville-ar/
 - Ankeny, IA: 11 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-ankeny-ia/
 - Bellevue, NE: 11 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bellevue-ne/
 - North Huntingdon Township, PA: 10 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-north-huntingdon-township-pa/
 - Canton Township, MI: 10 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-canton-township-mi/
+- Weatherford, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-weatherford-tx/
 - North Richland Hills, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-north-richland-hills-tx/
+- Hutto, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-hutto-tx/
+- Laredo, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-laredo-tx/
 - Pearland, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-pearland-tx/
 - Palatine, IL: 10 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-palatine-il/
 - Orland Park, IL: 10 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-orland-park-il/
@@ -201,9 +243,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - West Allis, WI: 10 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-west-allis-wi/
 - Pleasant Hills, PA: 9 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-pleasant-hills-pa/
 - Allen Park, MI: 9 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-allen-park-mi/
-- Rosenberg, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-rosenberg-tx/
+- Conroe, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-conroe-tx/
+- Missouri City, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-missouri-city-tx/
+- New Braunfels, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-new-braunfels-tx/
 - Tomball, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-tomball-tx/
 - Roanoke, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-roanoke-tx/
+- Richmond, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-richmond-tx/
 - Oak Lawn, IL: 9 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-oak-lawn-il/
 - Lee'S Summit, MO: 9 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lees-summit-mo/
 - Independence, MO: 9 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-independence-mo/
@@ -213,13 +258,18 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - West Saint Paul, MN: 9 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-west-saint-paul-mn/
 - Sun Prairie, WI: 9 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-sun-prairie-wi/
 - Ecorse, MI: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-ecorse-mi/
-- Conroe, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-conroe-tx/
 - Addison, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-addison-tx/
+- College Station, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-college-station-tx/
+- Liberty Hill, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-liberty-hill-tx/
+- Fort Bend County, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-fort-bend-county-tx/
+- Burleson, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-burleson-tx/
 - Grapevine, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-grapevine-tx/
+- Kyle, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-kyle-tx/
 - Little Elm, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-little-elm-tx/
 - Wylie, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-wylie-tx/
 - Bedford, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bedford-tx/
 - Cedar Hill, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-cedar-hill-tx/
+- Haltom City, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-haltom-city-tx/
 - Oak Park, IL: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-oak-park-il/
 - Alton, IL: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-alton-il/
 - Lyons, IL: 8 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lyons-il/
@@ -248,9 +298,15 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Ferndale, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-ferndale-mi/
 - Garden City, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-garden-city-mi/
 - Montgomery County, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-montgomery-county-tx/
-- Fort Bend County, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-fort-bend-county-tx/
+- Denison, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-denison-tx/
+- Joshua, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-joshua-tx/
+- Seguin, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-seguin-tx/
+- Euless, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-euless-tx/
 - Prosper, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-prosper-tx/
-- Richmond, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-richmond-tx/
+- Belton, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-belton-tx/
+- The Woodlands, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-the-woodlands-tx/
+- Bastrop, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bastrop-tx/
+- Hollywood Park, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-hollywood-park-tx/
 - Forest Park, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-forest-park-il/
 - Hoffman Estates, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-hoffman-estates-il/
 - New Lenox, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-new-lenox-il/
@@ -267,6 +323,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Sheridan, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-sheridan-co/
 - Fort Lupton, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-fort-lupton-co/
 - Boulder County, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-boulder-county-co/
+- Jonesboro, AR: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-jonesboro-ar/
 - Maple Grove, MN: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-maple-grove-mn/
 - Roseville, MN: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-roseville-mn/
 - Newport, MN: 7 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-newport-mn/
@@ -284,10 +341,19 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Wayne, MI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-wayne-mi/
 - Brownstown Charter Township, MI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-brownstown-charter-township-mi/
 - Duncanville, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-duncanville-tx/
-- Sugar Land, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-sugar-land-tx/
-- Euless, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-euless-tx/
+- Helotes, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-helotes-tx/
+- Angleton, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-angleton-tx/
+- Farmers Branch, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-farmers-branch-tx/
+- Bryan, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bryan-tx/
+- Allen, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-allen-tx/
+- Celina, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-celina-tx/
 - Rowlett, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-rowlett-tx/
-- The Woodlands, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-the-woodlands-tx/
+- Wells Branch, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-wells-branch-tx/
+- Buda, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-buda-tx/
+- Corsicana, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-corsicana-tx/
+- La Porte, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-la-porte-tx/
+- Deer Park, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-deer-park-tx/
+- Killeen, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-killeen-tx/
 - Arlington Heights, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-arlington-heights-il/
 - Downers Grove, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-downers-grove-il/
 - La Grange, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-la-grange-il/
@@ -327,11 +393,14 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Shelby Charter Township, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-shelby-charter-township-mi/
 - Inkster, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-inkster-mi/
 - Pontiac, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-pontiac-mi/
-- Farmers Branch, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-farmers-branch-tx/
-- Allen, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-allen-tx/
+- Bellmead, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bellmead-tx/
+- Paris, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-paris-tx/
+- The Colony, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-the-colony-tx/
 - Sachse, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-sachse-tx/
 - Murphy, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-murphy-tx/
+- Spring Branch, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-spring-branch-tx/
 - Brazoria County, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-brazoria-county-tx/
+- Royse City, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-royse-city-tx/
 - Oak Forest, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-oak-forest-il/
 - Glenview, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-glenview-il/
 - Lansing, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lansing-il/
@@ -384,14 +453,25 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Harrison Township, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-harrison-township-mi/
 - Southfield, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-southfield-mi/
 - Town Of Essex, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-town-of-essex-mi/
+- Nash, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-nash-tx/
+- Converse, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-converse-tx/
 - Alvarado, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-alvarado-tx/
 - Seabrook, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-seabrook-tx/
+- Mcallen, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-mcallen-tx/
+- White Settlement, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-white-settlement-tx/
+- Eagle Pass, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-eagle-pass-tx/
+- Bandera, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bandera-tx/
+- Benbrook, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-benbrook-tx/
+- Wolfforth, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-wolfforth-tx/
+- El Paso County, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-el-paso-county-tx/
+- Bexar County, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bexar-county-tx/
 - Bellaire, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bellaire-tx/
 - League City, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-league-city-tx/
+- Bulverde, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bulverde-tx/
 - Webster, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-webster-tx/
-- Deer Park, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-deer-park-tx/
+- Crowley, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-crowley-tx/
+- Travis County, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-travis-county-tx/
 - Terrell, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-terrell-tx/
-- Royse City, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-royse-city-tx/
 - Cicero, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-cicero-il/
 - Bridgeview, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bridgeview-il/
 - Hanover Park, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-hanover-park-il/
@@ -440,6 +520,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Louisville, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-louisville-co/
 - Northglenn, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-northglenn-co/
 - Adams County, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-adams-county-co/
+- Texarkana, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-texarkana-ar/
+- Rogers, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-rogers-ar/
 - Minnetonka, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-minnetonka-mn/
 - Maplewood, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-maplewood-mn/
 - Saint Bonifacius, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-saint-bonifacius-mn/
@@ -486,13 +568,29 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Utica, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-utica-mi/
 - Belleville, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-belleville-mi/
 - Fate, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-fate-tx/
+- Lakeway, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lakeway-tx/
 - Crandall, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-crandall-tx/
+- Odessa, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-odessa-tx/
+- Hill Country Village, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-hill-country-village-tx/
 - Cross Roads, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-cross-roads-tx/
+- Harlingen, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-harlingen-tx/
+- Schertz, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-schertz-tx/
+- Harker Heights, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-harker-heights-tx/
+- Anna, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-anna-tx/
+- Elgin, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-elgin-tx/
+- Keller, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-keller-tx/
 - Corinth, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-corinth-tx/
+- Melissa, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-melissa-tx/
+- Wimberley, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-wimberley-tx/
 - Lucas, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lucas-tx/
-- The Colony, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-the-colony-tx/
+- Williamson County, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-williamson-county-tx/
+- Galveston, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-galveston-tx/
+- Mansfield, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-mansfield-tx/
+- Victoria, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-victoria-tx/
 - Grand Prairie, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-grand-prairie-tx/
+- Floresville, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-floresville-tx/
 - Lancaster, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lancaster-tx/
+- Manor, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-manor-tx/
 - Ferris, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-ferris-tx/
 - Vernon Hills, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-vernon-hills-il/
 - Chicago Heights, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-chicago-heights-il/
@@ -546,6 +644,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Norwood, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-norwood-oh/
 - Erie, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-erie-co/
 - Edgewater, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-edgewater-co/
+- Hot Springs, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-hot-springs-ar/
+- Siloam Springs, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-siloam-springs-ar/
+- Barling, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-barling-ar/
+- Springdale, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-springdale-ar/
 - South Saint Paul, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-south-saint-paul-mn/
 - Rogers, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-rogers-mn/
 - Fridley, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-fridley-mn/
@@ -597,17 +699,37 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Sunnyvale, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-sunnyvale-tx/
 - Fulshear, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-fulshear-tx/
 - Manvel, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-manvel-tx/
+- Pasadena, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-pasadena-tx/
 - Balch Springs, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-balch-springs-tx/
 - Collin County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-collin-county-tx/
-- Missouri City, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-missouri-city-tx/
+- Nolanville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-nolanville-tx/
+- Huntsville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-huntsville-tx/
 - Stafford, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-stafford-tx/
+- Bastrop County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bastrop-county-tx/
+- Devine, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-devine-tx/
 - Denton County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-denton-county-tx/
+- Alamo Heights, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-alamo-heights-tx/
+- Balcones Heights, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-balcones-heights-tx/
 - Desoto, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-desoto-tx/
-- Mansfield, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-mansfield-tx/
+- Lake Worth, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lake-worth-tx/
+- Leon Valley, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-leon-valley-tx/
+- Watauga, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-watauga-tx/
+- Dripping Springs, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-dripping-springs-tx/
+- Weir, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-weir-tx/
+- Rollingwood, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-rollingwood-tx/
+- Brownsville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-brownsville-tx/
+- Nederland, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-nederland-tx/
 - Farmersville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-farmersville-tx/
 - Baytown, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-baytown-tx/
+- Clute, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-clute-tx/
 - Pantego, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-pantego-tx/
 - Dickinson, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-dickinson-tx/
+- Lytle, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lytle-tx/
+- Robinson, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-robinson-tx/
+- Universal City, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-universal-city-tx/
+- Edinburg, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-edinburg-tx/
+- Copperas Cove, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-copperas-cove-tx/
+- Beverly Hills, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-beverly-hills-tx/
 - Crest Hill, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-crest-hill-il/
 - Swansea, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-swansea-il/
 - Bethalto, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bethalto-il/
@@ -679,6 +801,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Federal Heights, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-federal-heights-co/
 - Keenesburg, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-keenesburg-co/
 - Lone Tree, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lone-tree-co/
+- Benton, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-benton-ar/
+- Sherwood, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-sherwood-ar/
+- Bentonville, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bentonville-ar/
+- Hill Township, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-hill-township-ar/
+- Centerton, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-centerton-ar/
 - Crystal, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-crystal-mn/
 - Robbinsdale, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-robbinsdale-mn/
 - Brooklyn Center, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-brooklyn-center-mn/
@@ -746,29 +873,70 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Rochester, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-rochester-mi/
 - Huron Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-huron-charter-township-mi/
 - Saint Clair Shores, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-saint-clair-shores-mi/
-- Pasadena, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-pasadena-tx/
+- Shallowater, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-shallowater-tx/
+- Port Aransas, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-port-aransas-tx/
+- Coryell County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-coryell-county-tx/
+- Natalia, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-natalia-tx/
+- Troy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-troy-tx/
+- Jarrell, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-jarrell-tx/
+- Southmayd, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-southmayd-tx/
+- Hays County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-hays-county-tx/
 - Palmer, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-palmer-tx/
 - Richland Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-richland-hills-tx/
-- Celina, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-celina-tx/
+- Peñitas, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-pe-itas-tx/
+- Castle Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-castle-hills-tx/
+- Hewitt, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-hewitt-tx/
+- Pottsboro, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-pottsboro-tx/
+- Lake Jackson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lake-jackson-tx/
 - Red Oak, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-red-oak-tx/
+- Cibolo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-cibolo-tx/
 - South Houston, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-south-houston-tx/
+- Castroville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-castroville-tx/
+- Woodway, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-woodway-tx/
+- Marion, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-marion-tx/
 - Colleyville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-colleyville-tx/
+- Ennis, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-ennis-tx/
+- Bertram, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bertram-tx/
 - Caddo Mills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-caddo-mills-tx/
+- Bell County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bell-county-tx/
 - Coppell, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-coppell-tx/
+- Windcrest, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-windcrest-tx/
+- Portland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-portland-tx/
+- Haslet, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-haslet-tx/
+- Randall County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-randall-county-tx/
+- Weslaco, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-weslaco-tx/
 - Sealy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-sealy-tx/
+- Westworth Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-westworth-village-tx/
 - Dallas County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-dallas-county-tx/
+- Bee Cave, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bee-cave-tx/
 - Jersey Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-jersey-village-tx/
+- Tarrant County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-tarrant-county-tx/
 - Midlothian, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-midlothian-tx/
 - Nevada, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-nevada-tx/
+- Shenandoah, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-shenandoah-tx/
+- Kempner, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-kempner-tx/
 - Dalworthington Gardens, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-dalworthington-gardens-tx/
+- Jonestown, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-jonestown-tx/
 - Lavon, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lavon-tx/
 - Southlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-southlake-tx/
 - Alvin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-alvin-tx/
+- Mission, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-mission-tx/
+- Anthony, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-anthony-tx/
+- Pharr, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-pharr-tx/
+- Port Neches, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-port-neches-tx/
 - Ellis County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-ellis-county-tx/
-- Fort Worth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-fort-worth-tx/
 - Cut And Shoot, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-cut-and-shoot-tx/
+- Tye, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-tye-tx/
+- Poteet, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-poteet-tx/
+- Noonday, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-noonday-tx/
+- Del Rio, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-del-rio-tx/
+- Salado, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-salado-tx/
 - Santa Fe, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-santa-fe-tx/
+- Alma, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-alma-tx/
 - Fairchilds, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-fairchilds-tx/
+- Comal County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-comal-county-tx/
+- Johnson County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-johnson-county-tx/
+- Nacogdoches, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-nacogdoches-tx/
 - Hempstead, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-hempstead-tx/
 - Robbins, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-robbins-il/
 - North Riverside, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-north-riverside-il/
@@ -926,6 +1094,16 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Morrison, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-morrison-co/
 - Castle Pines, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-castle-pines-co/
 - Frederick, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-frederick-co/
+- Greenland, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-greenland-ar/
+- Highfill, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-highfill-ar/
+- Big Rock Township, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-big-rock-township-ar/
+- Bella Vista, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bella-vista-ar/
+- Lowell, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lowell-ar/
+- Dardanelle, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-dardanelle-ar/
+- Pine Bluff, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-pine-bluff-ar/
+- Bryant, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-bryant-ar/
+- Pottsville, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-pottsville-ar/
+- Tontitown, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-tontitown-ar/
 - Lino Lakes, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-lino-lakes-mn/
 - Greenfield, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-greenfield-mn/
 - Saint Michael, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/mechanic-saint-michael-mn/
@@ -989,7 +1167,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 6577
+- Registry businesses competing: 8288
 - Equivalent Google Ads cost per month: ~$160,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

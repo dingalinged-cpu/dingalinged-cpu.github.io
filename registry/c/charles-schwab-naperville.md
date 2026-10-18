@@ -13,7 +13,7 @@ Charles Schwab is a financial advisor in Naperville, IL at 19 West Chicago Avenu
 - Website: https://client.schwab.com/public/branchlocator/branchdetails.aspx?branchid=1127
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa, Su off
-- Pulse Score: 49.2/100 — Building — top 33% of financial advisors in Chicago, #4 of 5 financial advisors in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 33% of financial advisors in Chicago, #4 of 5 financial advisors in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

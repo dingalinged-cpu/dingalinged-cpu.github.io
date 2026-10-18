@@ -13,7 +13,7 @@ Light Rx Face and Body is a plastic surgeon in Maple Grove, MN at 11720 Elm Cree
 - Website: https://www.lightrx.com/maple-grove/
 - Email: maplegrove@lightrx.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 29% of plastic surgeons in Minneapolis–St. Paul, #1 of 1 plastic surgeons in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 29% of plastic surgeons in Minneapolis–St. Paul, #1 of 1 plastic surgeons in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

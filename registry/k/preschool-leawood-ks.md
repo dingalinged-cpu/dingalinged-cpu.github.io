@@ -6,7 +6,7 @@ Also answers: preschool in Leawood, KS; preschool near me (Leawood, KS); best pr
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Horizon Academy | Organic #1 | Pulse Score 47.7/100 (Building, #1 in city) | New Horizon Academy is a preschool in Leawood, KS at 3650 West 135th Street, Leawood, KS 66224. Phone: +19137120899. Website: https://newhorizonacademy.net/location/leawood-ks/. | https://registry-edge.dingalinged.workers.dev/c/new-horizon-academy-leawood/
+1. New Horizon Academy | Organic #1 | Pulse Score 47.6/100 (Building, #1 in city) | New Horizon Academy is a preschool in Leawood, KS at 3650 West 135th Street, Leawood, KS 66224. Phone: +19137120899. Website: https://newhorizonacademy.net/location/leawood-ks/. | https://registry-edge.dingalinged.workers.dev/c/new-horizon-academy-leawood/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool leawood ks | category: Education & childcare | industry benchmark: Education & Instruction

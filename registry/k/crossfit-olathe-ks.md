@@ -6,7 +6,7 @@ Also answers: crossfit in Olathe, KS; crossfit near me (Olathe, KS); best crossf
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Strength Guild | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Strength Guild is a CrossFit gym in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/strength-guild-olathe/
+1. Strength Guild | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Strength Guild is a CrossFit gym in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/strength-guild-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: crossfit olathe ks | category: Fitness | industry benchmark: Health & Fitness

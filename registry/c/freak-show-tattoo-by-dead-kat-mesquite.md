@@ -19,6 +19,6 @@ Freak Show Tattoo by Dead Kat is a tattoo shop in Mesquite, TX at 4550 Gus Thoma
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/freak-show-tattoo-by-dead-kat-mesquite/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/freak-show-tattoo-by-dead-kat-mesquite.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13358179809 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13358179809 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

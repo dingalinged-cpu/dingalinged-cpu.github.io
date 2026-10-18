@@ -6,7 +6,7 @@ Also answers: eye doctor in Cleveland, TX; eye doctor near me (Cleveland, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mann Eye Institute | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Mann Eye Institute is an eye care practice in Cleveland, TX at 429 West Southline Street, Cleveland, TX 77327. Phone: +12815924343. Website: https://www.manneye.com/locations-directions/cleveland-location/. | https://registry-edge.dingalinged.workers.dev/c/mann-eye-institute-cleveland/
+1. Mann Eye Institute | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Mann Eye Institute is an eye care practice in Cleveland, TX at 429 West Southline Street, Cleveland, TX 77327. Phone: +12815924343. Website: https://www.manneye.com/locations-directions/cleveland-location/. | https://registry-edge.dingalinged.workers.dev/c/mann-eye-institute-cleveland/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor cleveland tx | category: Health & medical | industry benchmark: Physicians & Surgeons

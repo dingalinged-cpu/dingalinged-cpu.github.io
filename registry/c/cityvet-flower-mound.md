@@ -13,12 +13,12 @@ CityVet is a pet store in Flower Mound, TX at 1221-2 Flower Mound Road #319, Flo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-18:00; PH closed; Su 16:00-18:00
-- Pulse Score: 47.5/100 — Building — top 47% of pet stores in Dallas–Fort Worth, #2 of 5 pet stores in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 47% of pet stores in Dallas–Fort Worth, #2 of 5 pet stores in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.7, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/cityvet-flower-mound/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cityvet-flower-mound.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/612896817 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/612896817 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

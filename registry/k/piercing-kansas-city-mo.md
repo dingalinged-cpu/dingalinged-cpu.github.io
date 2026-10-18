@@ -6,7 +6,7 @@ Also answers: piercing in Kansas City, MO; piercing near me (Kansas City, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rowan | Organic #1 | Pulse Score 44.1/100 (Unrated, #1 in city) | Rowan is a piercing studio in Kansas City, MO at 225 Nichols Road, Kansas City, MO 64112. Website: https://heyrowan.com/pages/country-club-plaza-piercing-studio. | https://registry-edge.dingalinged.workers.dev/c/rowan-kansas-city/
+1. Rowan | Organic #1 | Pulse Score 44.2/100 (Unrated, #1 in city) | Rowan is a piercing studio in Kansas City, MO at 225 Nichols Road, Kansas City, MO 64112. Website: https://heyrowan.com/pages/country-club-plaza-piercing-studio. | https://registry-edge.dingalinged.workers.dev/c/rowan-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: piercing kansas city mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

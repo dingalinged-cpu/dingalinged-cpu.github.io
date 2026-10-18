@@ -19,6 +19,6 @@ Beyond Braces is a dentist in Sachse, TX at 5120 State Highway 78 #800, Sachse, 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/beyond-braces-sachse/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/beyond-braces-sachse.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7721738908 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7721738908 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

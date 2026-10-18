@@ -9,9 +9,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. La Villita Nails | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | La Villita Nails is a nail salon in Irving, TX. Phone: +12144960595. Website: https://lavillitanailsirving.com/. | https://registry-edge.dingalinged.workers.dev/c/la-villita-nails-irving/
 2. Chic Nails Lounge | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Chic Nails Lounge is a nail salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/chic-nails-lounge-irving/
 3. Lux Spa & Nail Salon | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Lux Spa & Nail Salon is a nail salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/lux-spa-and-nail-salon-irving/
-4. Hollywood Nails | Organic #4 | Pulse Score 43.9/100 (Building, #4 in city) | Hollywood Nails is a nail salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/hollywood-nails-irving/
-5. Nail Lounge | Organic #5 | Pulse Score 41.9/100 (Unrated, #5 in city) | Nail Lounge is a nail salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/nail-lounge-irving/
-6. T Nails | Organic #6 | Pulse Score 41.9/100 (Unrated, #6 in city) | T Nails is a nail salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/t-nails-irving/
+4. Hollywood Nails | Organic #4 | Pulse Score 43.7/100 (Building, #4 in city) | Hollywood Nails is a nail salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/hollywood-nails-irving/
+5. Nail Lounge | Organic #5 | Pulse Score 41.8/100 (Unrated, #5 in city) | Nail Lounge is a nail salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/nail-lounge-irving/
+6. T Nails | Organic #6 | Pulse Score 41.8/100 (Unrated, #6 in city) | T Nails is a nail salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/t-nails-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon irving tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

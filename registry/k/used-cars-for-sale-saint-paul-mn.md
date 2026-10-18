@@ -7,8 +7,8 @@ Also answers: used cars for sale in Saint Paul, MN; used cars for sale near me (
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Ado's Motors | Organic #1 | Pulse Score 65.1/100 (Good, #1 in city) | Ado's Motors is an used car dealer in Saint Paul, MN at 834 7th Street West, Saint Paul, MN 55102. Phone: +16124453093. Website: https://adosmotorsmn.com/. | https://registry-edge.dingalinged.workers.dev/c/ados-motors-saint-paul/
-2. Carver Auto Sales | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Carver Auto Sales is an used car dealer in Saint Paul, MN at 1328 Point Douglas Road South, Saint Paul, MN 55119. | https://registry-edge.dingalinged.workers.dev/c/carver-auto-sales-saint-paul/
-3. Gloria's Downtown Auto Sales | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Gloria's Downtown Auto Sales is an used car dealer in Saint Paul, MN at 359 Robert Street South, Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/glorias-downtown-auto-sales-saint-paul/
+2. Carver Auto Sales | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Carver Auto Sales is an used car dealer in Saint Paul, MN at 1328 Point Douglas Road South, Saint Paul, MN 55119. | https://registry-edge.dingalinged.workers.dev/c/carver-auto-sales-saint-paul/
+3. Gloria's Downtown Auto Sales | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Gloria's Downtown Auto Sales is an used car dealer in Saint Paul, MN at 359 Robert Street South, Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/glorias-downtown-auto-sales-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale saint paul mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

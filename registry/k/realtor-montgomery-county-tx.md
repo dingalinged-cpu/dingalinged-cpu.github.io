@@ -6,7 +6,7 @@ Also answers: realtor in Montgomery County, TX; realtor near me (Montgomery Coun
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Collection Real Estate | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | The Collection Real Estate is a real estate agency in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/the-collection-real-estate-montgomery-county/
+1. The Collection Real Estate | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | The Collection Real Estate is a real estate agency in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/the-collection-real-estate-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor montgomery county tx | category: real_estate | industry benchmark: Real Estate

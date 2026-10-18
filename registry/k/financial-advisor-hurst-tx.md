@@ -7,7 +7,7 @@ Also answers: financial advisor in Hurst, TX; financial advisor near me (Hurst, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Edward Jones | Organic #1 | Pulse Score 50.6/100 (Fair, #1 in city) | Edward Jones is a financial advisor in Hurst, TX at 1222 W Hurst Boulevard #500, Hurst, TX 76053. Phone: +18172821946. Website: https://www.edwardjones.com/financial-advisor/index.html?CIRN=OPI8NBq8fk2jTTdk8coX4IEpFiNxBo%2F07PZQ7tdHpw3vlJd57DVzTGPB8zd%2BJhUV. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-hurst/
-2. Edward Jones | Organic #2 | Pulse Score 42.4/100 (Building, #2 in city) | Edward Jones is a financial advisor in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-hurst-w668007314/
+2. Edward Jones | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | Edward Jones is a financial advisor in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-hurst-w668007314/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor hurst tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -6,7 +6,7 @@ Also answers: electrician in Dallas, TX; electrician near me (Dallas, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Electrician On Call | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Electrician On Call is an electrician in Dallas, TX at 6703 Levelland Road #B, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/electrician-on-call-dallas/
+1. Electrician On Call | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Electrician On Call is an electrician in Dallas, TX at 6703 Levelland Road #B, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/electrician-on-call-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician dallas tx | category: Home services - Electrical | industry benchmark: Home & Home Improvement

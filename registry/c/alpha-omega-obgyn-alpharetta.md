@@ -13,7 +13,7 @@ Alpha Omega OBGYN is an OB-GYN practice in Alpharetta, GA at 3400 Old Milton Par
 - Website: https://alphaomegaobgyn.com/
 - Email: info@alphaomegaobgyn.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00; Sa, Su off
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 20% of OB-GYN practices in Atlanta, #1 of 1 OB-GYN practices in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 20% of OB-GYN practices in Atlanta, #1 of 1 OB-GYN practices in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

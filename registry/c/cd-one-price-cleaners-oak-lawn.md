@@ -13,7 +13,7 @@ CD One Price Cleaners is a dry cleaner in Oak Lawn, IL at 6326 West 95th Street,
 - Website: https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-oak-lawn/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 84% of dry cleaners in Chicago, #2 of 2 dry cleaners in Oak Lawn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 84% of dry cleaners in Chicago, #2 of 2 dry cleaners in Oak Lawn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -19,6 +19,6 @@ Black Heart Studios is a tattoo shop in Dallas, TX at 17509 Coit Road #4, Dallas
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/black-heart-studios-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/black-heart-studios-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13323639138 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13323639138 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

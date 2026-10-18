@@ -13,7 +13,7 @@ Ark Pet Hospital is a veterinarian in New Brighton, MN at 151 Silver Lake Road N
 - Website: https://newbrightonpethospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:00; Sa 08:30-13:00
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 7% of veterinarians in Minneapolis–St. Paul, #2 of 2 veterinarians in New Brighton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 8% of veterinarians in Minneapolis–St. Paul, #2 of 2 veterinarians in New Brighton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

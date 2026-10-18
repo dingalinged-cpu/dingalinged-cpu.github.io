@@ -13,12 +13,12 @@ Golden Eagle Taekwondo is a martial arts school in Fulshear, TX at 6420 FM 1463 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 40% of martial arts schools in Houston, #1 of 2 martial arts schools in Fulshear (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 45% of martial arts schools in Houston, #1 of 2 martial arts schools in Fulshear (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/golden-eagle-taekwondo-fulshear/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/golden-eagle-taekwondo-fulshear.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5256216785 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5256216785 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

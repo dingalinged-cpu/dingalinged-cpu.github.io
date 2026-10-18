@@ -13,7 +13,7 @@ LightRX Face & Body is a plastic surgeon in Naperville, IL at 1763 Freedom Drive
 - Website: https://www.lightrx.com/locations/naperville/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 75% of plastic surgeons in Chicago, #2 of 2 plastic surgeons in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 75% of plastic surgeons in Chicago, #2 of 2 plastic surgeons in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 44.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Pon Nail Spa is a nail salon in Ankeny, IA at 2575 SE Hulsizer Dr #101, Ankeny, 
 - Website: https://ponnailspaankeny.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 23% of nail salons in Des Moines, IA, #1 of 4 nail salons in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 23% of nail salons in Des Moines, IA, #1 of 4 nail salons in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

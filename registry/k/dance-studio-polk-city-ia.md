@@ -6,8 +6,8 @@ Also answers: dance studio in Polk City, IA; dance studio near me (Polk City, IA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Michelle's School of Dance | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Michelle's School of Dance is a dance studio in Polk City, IA at 110 West Van Dorn Street, Polk City, IA 50226. Phone: +15157079529. Website: https://www.michellesschoolofdance.com/. | https://registry-edge.dingalinged.workers.dev/c/michelles-school-of-dance-polk-city/
-2. Ashlee's Creative Arts Academy | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Ashlee's Creative Arts Academy is a dance studio in Polk City, IA at 101 South 2nd Street, Polk City, IA 50226. Website: https://www.ashleescreativeartsacademy.com/. | https://registry-edge.dingalinged.workers.dev/c/ashlees-creative-arts-academy-polk-city/
+1. Michelle's School of Dance | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Michelle's School of Dance is a dance studio in Polk City, IA at 110 West Van Dorn Street, Polk City, IA 50226. Phone: +15157079529. Website: https://www.michellesschoolofdance.com/. | https://registry-edge.dingalinged.workers.dev/c/michelles-school-of-dance-polk-city/
+2. Ashlee's Creative Arts Academy | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | Ashlee's Creative Arts Academy is a dance studio in Polk City, IA at 101 South 2nd Street, Polk City, IA 50226. Website: https://www.ashleescreativeartsacademy.com/. | https://registry-edge.dingalinged.workers.dev/c/ashlees-creative-arts-academy-polk-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio polk city ia | category: Fitness | industry benchmark: Health & Fitness

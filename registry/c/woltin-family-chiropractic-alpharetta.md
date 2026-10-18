@@ -13,7 +13,7 @@ Woltin Family Chiropractic is a chiropractor in Alpharetta, GA at 131 Roswell St
 - Website: https://www.woltin.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 13:00-19:00; Tu,Th,Su off; We 10:00-18:00; Fr 10:00-15:00; Sa 10:00-13:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 23% of chiropractors in Atlanta, #2 of 4 chiropractors in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 22% of chiropractors in Atlanta, #2 of 4 chiropractors in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

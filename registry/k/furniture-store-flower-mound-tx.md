@@ -6,8 +6,8 @@ Also answers: furniture store in Flower Mound, TX; furniture store near me (Flow
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stacy Furniture & Design - Outlet | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Stacy Furniture & Design - Outlet is a furniture store in Grapevine, TX at 709 Enterprise Drive, Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/stacy-furniture-and-design-outlet-grapevine/
-2. World Market | Organic #2 | Pulse Score 56.6/100 (Unrated, #1 in city) | World Market is a furniture store in Flower Mound, TX at 6101 Long Prairie Rd, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/world-market-flower-mound/
+1. Stacy Furniture & Design - Outlet | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Stacy Furniture & Design - Outlet is a furniture store in Grapevine, TX at 709 Enterprise Drive, Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/stacy-furniture-and-design-outlet-grapevine/
+2. World Market | Organic #2 | Pulse Score 56.4/100 (Unrated, #1 in city) | World Market is a furniture store in Flower Mound, TX at 6101 Long Prairie Rd, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/world-market-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store flower mound tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

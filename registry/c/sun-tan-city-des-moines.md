@@ -13,7 +13,7 @@ Sun Tan City is a tanning salon in Des Moines, IA at 3807 Merle Hay Road, Des Mo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Unrated (not enough evidence yet) — top 84% of tanning salons in Des Moines, IA, #1 of 1 tanning salons in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.8/100 — Unrated (not enough evidence yet) — top 84% of tanning salons in Des Moines, IA, #1 of 1 tanning salons in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

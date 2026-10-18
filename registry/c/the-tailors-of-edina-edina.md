@@ -13,7 +13,7 @@ The Tailors of Edina is a tailor in Edina, MN. Phone: +19529208785.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-16:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 33% of tailors in Minneapolis–St. Paul, #1 of 1 tailors in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 31% of tailors in Minneapolis–St. Paul, #1 of 1 tailors in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

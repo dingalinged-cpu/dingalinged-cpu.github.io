@@ -6,7 +6,7 @@ Also answers: ob gyn in Minneapolis, MN; ob gyn near me (Minneapolis, MN); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Women's Health Consultants | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Women's Health Consultants is an OB-GYN practice in Minneapolis, MN at 2800 Chicago Avenue #101, Minneapolis, MN 55407. Website: https://www.womenshealthconsultantsmn.com/. | https://registry-edge.dingalinged.workers.dev/c/womens-health-consultants-minneapolis/
+1. Women's Health Consultants | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Women's Health Consultants is an OB-GYN practice in Minneapolis, MN at 2800 Chicago Avenue #101, Minneapolis, MN 55407. Website: https://www.womenshealthconsultantsmn.com/. | https://registry-edge.dingalinged.workers.dev/c/womens-health-consultants-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn minneapolis mn | category: Health & medical | industry benchmark: Physicians & Surgeons

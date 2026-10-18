@@ -12,8 +12,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. Omega Dentist | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Omega Dentist is a dentist in Eden Prairie, MN at 6203 Dell Road, Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/omega-dentist-eden-prairie/
 5. Eden Lakes Dental | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | Eden Lakes Dental is a dentist in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/eden-lakes-dental-eden-prairie/
 6. Eden Prairie Dental Care | Organic #6 | Pulse Score 54.1/100 (Unrated, #6 in city) | Eden Prairie Dental Care is a dentist in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/eden-prairie-dental-care-eden-prairie/
-7. Metro DentalCare | Organic #7 | Pulse Score 42.5/100 (Unrated, #7 in city) | Metro DentalCare is a dentist in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/metro-dentalcare-eden-prairie/
-8. Pediatric Dentistry | Organic #8 | Pulse Score 41.4/100 (Unrated, #8 in city) | Pediatric Dentistry is a dentist in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/pediatric-dentistry-eden-prairie/
+7. Metro DentalCare | Organic #7 | Pulse Score 42.4/100 (Unrated, #7 in city) | Metro DentalCare is a dentist in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/metro-dentalcare-eden-prairie/
+8. Pediatric Dentistry | Organic #8 | Pulse Score 41.3/100 (Unrated, #8 in city) | Pediatric Dentistry is a dentist in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/pediatric-dentistry-eden-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist eden prairie mn | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

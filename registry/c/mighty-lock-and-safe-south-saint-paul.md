@@ -13,7 +13,7 @@ Mighty Lock and Safe is a locksmith in South Saint Paul, MN at 1523 5th Avenue S
 - Website: https://www.mightylockandsafe.com/
 - Email: mightylockandsafe@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 25% of locksmiths in Minneapolis–St. Paul, #1 of 1 locksmiths in South Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 25% of locksmiths in Minneapolis–St. Paul, #1 of 1 locksmiths in South Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

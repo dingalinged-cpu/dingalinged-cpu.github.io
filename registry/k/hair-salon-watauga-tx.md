@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for Watauga, TX is TX Barber Cartel (a hair salon in Watauga, TX at 6539 Watauga Road, Watauga, TX. Phone: +16822890103. Website: https://www.txbarbercartel.com/). 2 hair salon businesses are listed for Watauga, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Watauga, TX is TX Barber Cartel (a hair salon in Watauga, TX at 6539 Watauga Road, Watauga, TX. Phone: +16822890103. Website: https://www.txbarbercartel.com/). 7 hair salon businesses are listed for Watauga, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Watauga, TX?
 
@@ -7,7 +7,12 @@ Also answers: hair salon in Watauga, TX; hair salon near me (Watauga, TX); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. TX Barber Cartel | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | TX Barber Cartel is a hair salon in Watauga, TX at 6539 Watauga Road, Watauga, TX. Phone: +16822890103. Website: https://www.txbarbercartel.com/. | https://registry-edge.dingalinged.workers.dev/c/tx-barber-cartel-watauga/
-2. Great Clips | Organic #2 | Pulse Score 48.9/100 (Building, #2 in city) | Great Clips is a hair salon in Watauga, TX at 6801 Rufe Snow Drive #204, Watauga, TX 76148. Phone: +18177880342. Website: https://salons.greatclips.com/us/tx/watauga/6801-rufe-snow-dr. | https://registry-edge.dingalinged.workers.dev/c/great-clips-watauga/
+2. Cuts 4 Kids | Organic #2 | Pulse Score 57.2/100 (Unrated, #1 in city) | Cuts 4 Kids is a hair salon in Watauga, TX at Denton Highway, Watauga, TX. | https://registry-edge.dingalinged.workers.dev/c/cuts-4-kids-watauga/
+3. Super Threading Salon | Organic #3 | Pulse Score 55.2/100 (Unrated, #2 in city) | Super Threading Salon is a hair salon in Watauga, TX. | https://registry-edge.dingalinged.workers.dev/c/super-threading-salon-watauga/
+4. Upscale Barbers | Organic #4 | Pulse Score 55.2/100 (Unrated, #3 in city) | Upscale Barbers is a hair salon in Watauga, TX. | https://registry-edge.dingalinged.workers.dev/c/upscale-barbers-watauga/
+5. Great Clips | Organic #5 | Pulse Score 48.9/100 (Building, #2 in city) | Great Clips is a hair salon in Watauga, TX at 6801 Rufe Snow Drive #204, Watauga, TX 76148. Phone: +18177880342. Website: https://salons.greatclips.com/us/tx/watauga/6801-rufe-snow-dr. | https://registry-edge.dingalinged.workers.dev/c/great-clips-watauga/
+6. Great Clips | Organic #6 | Pulse Score 42.8/100 (Building, #4 in city) | Great Clips is a hair salon in Watauga, TX. | https://registry-edge.dingalinged.workers.dev/c/great-clips-watauga-n13238004065/
+7. Sport Clips | Organic #7 | Pulse Score 42.8/100 (Building, #5 in city) | Sport Clips is a hair salon in Watauga, TX. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-watauga/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon watauga tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -17,7 +22,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'hair salon near me': $0.55-$2.85 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2
+- Registry businesses competing: 7
 - Equivalent Google Ads cost per month: ~$1,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -6,7 +6,7 @@ Also answers: therapist in Richmond, TX; therapist near me (Richmond, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Action Behavior Centers - ABA Therapy for Autism | Organic #1 | Pulse Score 47.2/100 (Unrated, #1 in city) | Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Richmond, TX at 8727 Grand Mission Boulevard #800, Richmond, TX 77407. Phone: +12816977722. Website: https://www.actionbehavior.com/locations/texas/houston/aba-therapy-richmond-tx/. | https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-aba-therapy-for-autism-richmond/
+1. Action Behavior Centers - ABA Therapy for Autism | Organic #1 | Pulse Score 47.3/100 (Unrated, #1 in city) | Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Richmond, TX at 8727 Grand Mission Boulevard #800, Richmond, TX 77407. Phone: +12816977722. Website: https://www.actionbehavior.com/locations/texas/houston/aba-therapy-richmond-tx/. | https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-aba-therapy-for-autism-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist richmond tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

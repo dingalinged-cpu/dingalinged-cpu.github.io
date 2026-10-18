@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Optimae LifeServices | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Optimae LifeServices is a therapy practice in Des Moines, IA at 513 East 6th Street, Des Moines, IA 50309. Phone: +15152831230. Website: https://www.optimaelifeservices.com/. | https://registry-edge.dingalinged.workers.dev/c/optimae-lifeservices-des-moines/
 3. Eyerly Ball Polk County Clinic | Organic #3 | Pulse Score 47.7/100 (Unrated, #3 in city) | Eyerly Ball Polk County Clinic is a therapy practice in Des Moines, IA at 1301 Center Street, Des Moines, IA 50309. Phone: +15152410982. Website: https://www.unitypoint.org/desmoines/eyerly-ball-tba.aspx. | https://registry-edge.dingalinged.workers.dev/c/eyerly-ball-polk-county-clinic-des-moines/
 4. Eyerly Ball Community Mental Health Services | Organic #4 | Pulse Score 44.7/100 (Unrated, #4 in city) | Eyerly Ball Community Mental Health Services is a therapy practice in Des Moines, IA at 945 19th Street, Des Moines, IA 50314. | https://registry-edge.dingalinged.workers.dev/c/eyerly-ball-community-mental-health-services-des-moines/
-5. Planned Parenthood | Organic #5 | Pulse Score 42.5/100 (Building, #5 in city) | Planned Parenthood is a therapy practice in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/planned-parenthood-des-moines/
+5. Planned Parenthood | Organic #5 | Pulse Score 42.6/100 (Building, #5 in city) | Planned Parenthood is a therapy practice in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/planned-parenthood-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist des moines ia | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

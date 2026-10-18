@@ -13,7 +13,7 @@ Lush Nail Bar is a nail salon in Atlanta, GA at 1197 Peachtree Street Northeast 
 - Website: https://www.lushnailbar-colonysquare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-18:00
-- Pulse Score: 52.1/100 — Fair — top 78% of nail salons in Atlanta, #27 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.4, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Fair — top 78% of nail salons in Atlanta, #26 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

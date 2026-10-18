@@ -13,7 +13,7 @@ Woodstock Flowers is a florist in Woodstock, GA at 9515 Main Street, Woodstock, 
 - Website: https://woodstockflowers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-14:00; Su off
-- Pulse Score: 62.7/100 — Good — top 24% of florists in Atlanta, #3 of 3 florists in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 24% of florists in Atlanta, #3 of 3 florists in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

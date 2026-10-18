@@ -6,12 +6,12 @@ Also answers: gym in Fort Bend County, TX; gym near me (Fort Bend County, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. VillaSport | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | VillaSport is a gym in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/villasport-fort-bend-county/
+1. VillaSport | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | VillaSport is a gym in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/villasport-fort-bend-county/
 2. Charlo Boxing and Fitness Club | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Charlo Boxing and Fitness Club is a gym in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/charlo-boxing-and-fitness-club-fort-bend-county/
 3. Fitness FX | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Fitness FX is a gym in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/fitness-fx-fort-bend-county/
-4. EōS Fitness | Organic #4 | Pulse Score 46.4/100 (Building, #4 in city) | EōS Fitness is a gym in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/e-s-fitness-fort-bend-county/
-5. F45 Training | Organic #5 | Pulse Score 44.6/100 (Building, #5 in city) | F45 Training is a gym in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/f45-training-fort-bend-county/
-6. LA Fitness | Organic #6 | Pulse Score 43.4/100 (Building, #6 in city) | LA Fitness is a gym in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/la-fitness-fort-bend-county/
+4. EōS Fitness | Organic #4 | Pulse Score 48.4/100 (Building, #4 in city) | EōS Fitness is a gym in Fort Bend County, TX. Website: https://www.eosfitness.com/gym/richmond-grand-parkway-w-airport-blvd. | https://registry-edge.dingalinged.workers.dev/c/e-s-fitness-fort-bend-county/
+5. F45 Training | Organic #5 | Pulse Score 44.5/100 (Building, #5 in city) | F45 Training is a gym in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/f45-training-fort-bend-county/
+6. LA Fitness | Organic #6 | Pulse Score 43.3/100 (Building, #6 in city) | LA Fitness is a gym in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/la-fitness-fort-bend-county/
 7. 24 Hour Fitness | Organic #7 | Pulse Score 42.3/100 (Building, #7 in city) | 24 Hour Fitness is a gym in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/24-hour-fitness-fort-bend-county/
 8. Hotworx | Organic #8 | Pulse Score 42.3/100 (Building, #8 in city) | Hotworx is a gym in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/hotworx-fort-bend-county/
 

@@ -6,8 +6,8 @@ Also answers: nail salon in Rosenberg, TX; nail salon near me (Rosenberg, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Executive Nails & Spa | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Executive Nails & Spa is a nail salon in Rosenberg, TX at 4130 FM 762 #100, Rosenberg, TX 77469. | https://registry-edge.dingalinged.workers.dev/c/executive-nails-and-spa-rosenberg/
-2. Image Nails | Organic #2 | Pulse Score 45.1/100 (Building, #2 in city) | Image Nails is a nail salon in Rosenberg, TX. | https://registry-edge.dingalinged.workers.dev/c/image-nails-rosenberg/
+1. Executive Nails & Spa | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Executive Nails & Spa is a nail salon in Rosenberg, TX at 4130 FM 762 #100, Rosenberg, TX 77469. | https://registry-edge.dingalinged.workers.dev/c/executive-nails-and-spa-rosenberg/
+2. Image Nails | Organic #2 | Pulse Score 45.2/100 (Building, #2 in city) | Image Nails is a nail salon in Rosenberg, TX. | https://registry-edge.dingalinged.workers.dev/c/image-nails-rosenberg/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon rosenberg tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

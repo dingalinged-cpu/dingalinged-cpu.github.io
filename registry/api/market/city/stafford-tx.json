@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Stafford, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
- "keywords": 22,
+ "keywords": 23,
  "lists": {
   "by_volume": [
    {
@@ -111,6 +111,21 @@
     "equivalent_google_ads_cost_month_usd": 3900,
     "featured_spot_min_usd": 20,
     "registry_competitors": 2,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "vet stafford tx",
+    "slug": "vet-stafford-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-stafford-tx/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 13000,
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "search_value_index_usd": 53000,
+    "equivalent_google_ads_cost_month_usd": 3500,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
     "ranked_by": "by_volume"
    },
    {
@@ -416,6 +431,21 @@
     "ranked_by": "by_cpc"
    },
    {
+    "keyword": "vet stafford tx",
+    "slug": "vet-stafford-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-stafford-tx/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 13000,
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "search_value_index_usd": 53000,
+    "equivalent_google_ads_cost_month_usd": 3500,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "insurance agency stafford tx",
     "slug": "insurance-agency-stafford-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-stafford-tx/",
@@ -427,21 +457,6 @@
     "search_value_index_usd": 7100,
     "equivalent_google_ads_cost_month_usd": 590,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "insurance agent stafford tx",
-    "slug": "insurance-agent-stafford-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-stafford-tx/",
-    "us_monthly_searches": 40500,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 940,
-    "cpc_basis_usd": 3.39,
-    "cpc_median_usd": 3.39,
-    "search_value_index_usd": 3200,
-    "equivalent_google_ads_cost_month_usd": 270,
-    "featured_spot_min_usd": 50,
     "registry_competitors": 1,
     "ranked_by": "by_cpc"
    }
@@ -505,6 +520,21 @@
     "equivalent_google_ads_cost_month_usd": 3900,
     "featured_spot_min_usd": 20,
     "registry_competitors": 2,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "vet stafford tx",
+    "slug": "vet-stafford-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-stafford-tx/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 13000,
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "search_value_index_usd": 53000,
+    "equivalent_google_ads_cost_month_usd": 3500,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
     "ranked_by": "by_value"
    },
    {

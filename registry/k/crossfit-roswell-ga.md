@@ -6,7 +6,7 @@ Also answers: crossfit in Roswell, GA; crossfit near me (Roswell, GA); best cros
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allsouth Barbell | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Allsouth Barbell is a CrossFit gym in Roswell, GA at 23 Maple Street, Roswell, GA 30075. | https://registry-edge.dingalinged.workers.dev/c/allsouth-barbell-roswell/
+1. Allsouth Barbell | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Allsouth Barbell is a CrossFit gym in Roswell, GA at 23 Maple Street, Roswell, GA 30075. | https://registry-edge.dingalinged.workers.dev/c/allsouth-barbell-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: crossfit roswell ga | category: Fitness | industry benchmark: Health & Fitness

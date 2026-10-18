@@ -13,7 +13,7 @@ Sam's Liquor and Smoke Shop is a liquor store in Basehor, KS at 15510 State Aven
 - Website: https://m.facebook.com/samsliquorbasehor/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 22% of liquor stores in Kansas City, MO, #1 of 2 liquor stores in Basehor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 22% of liquor stores in Kansas City, MO, #1 of 2 liquor stores in Basehor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

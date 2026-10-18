@@ -13,7 +13,7 @@
 - Website: https://414eyes.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-17:00; Tu,Th 09:00-16:00; Fr 09:00-14:00; Sa 09:00-13:00; We,Su off
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 39% of eye care practices in Milwaukee, #2 of 4 eye care practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 39% of eye care practices in Milwaukee, #2 of 4 eye care practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: bike shop in Cedar Hill, TX; bike shop near me (Cedar Hill, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. B&B Bicycles | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | B&B Bicycles is a bike shop in Cedar Hill, TX at 223 East Farm-to-Market Road 1382 #Ste. 127, Cedar Hill, TX 75104. Phone: +19722933100. Website: https://www.bbbicycles.com/. | https://registry-edge.dingalinged.workers.dev/c/b-and-b-bicycles-cedar-hill/
+1. B&B Bicycles | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | B&B Bicycles is a bike shop in Cedar Hill, TX at 223 East Farm-to-Market Road 1382 #Ste. 127, Cedar Hill, TX 75104. Phone: +19722933100. Website: https://www.bbbicycles.com/. | https://registry-edge.dingalinged.workers.dev/c/b-and-b-bicycles-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop cedar hill tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

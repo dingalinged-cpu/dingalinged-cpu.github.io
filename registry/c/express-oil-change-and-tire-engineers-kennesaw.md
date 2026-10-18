@@ -13,7 +13,7 @@ Express Oil Change & Tire Engineers is a tire shop in Kennesaw, GA at 3209 Cobb 
 - Website: https://www.expressoil.com/stores/acworth/ga/0533/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00;Sa 08:00-17:00
-- Pulse Score: 48.6/100 — Building — top 54% of tire shops in Atlanta, #3 of 4 tire shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 53% of tire shops in Atlanta, #3 of 4 tire shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ All-Pro Automotive is an auto repair shop in Kennesaw, GA at 2517 Cobb Parkway, 
 - Website: https://allproautokennesaw.com/
 - Email: allpro.kennesaw@gmail.com
 - Opening hours (OSM syntax): Mo-Th 08:00-17:30; Fr 08:00-16:00; Sa off; Su off
-- Pulse Score: 63.1/100 — Good — top 9% of auto repair shops in Atlanta, #3 of 23 auto repair shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 8% of auto repair shops in Atlanta, #3 of 23 auto repair shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

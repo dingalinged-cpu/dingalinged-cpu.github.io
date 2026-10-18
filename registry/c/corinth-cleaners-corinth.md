@@ -19,6 +19,6 @@ Corinth Cleaners is a dry cleaner in Corinth, TX at 3400 Corinth Parkway #Suite 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/corinth-cleaners-corinth/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/corinth-cleaners-corinth.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9452675000 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9452675000 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

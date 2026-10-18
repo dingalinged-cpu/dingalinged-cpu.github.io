@@ -13,7 +13,7 @@ Midgard Self Storage is a self-storage facility in Acworth, GA at 5534 Highway 9
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-19:00
-- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 33% of self-storage facilitys in Atlanta, #2 of 5 self-storage facilitys in Acworth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 32% of self-storage facilitys in Atlanta, #2 of 5 self-storage facilitys in Acworth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

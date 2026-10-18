@@ -6,7 +6,7 @@ Also answers: electrician in Ankeny, IA; electrician near me (Ankeny, IA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Baker Group | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Baker Group is an electrician in Ankeny, IA at 1200 Southeast Corporate Woods Drive, Ankeny, IA 50021. Phone: +15152624000. Website: https://thebakergroup.com/. | https://registry-edge.dingalinged.workers.dev/c/baker-group-ankeny/
+1. Baker Group | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Baker Group is an electrician in Ankeny, IA at 1200 Southeast Corporate Woods Drive, Ankeny, IA 50021. Phone: +15152624000. Website: https://thebakergroup.com/. | https://registry-edge.dingalinged.workers.dev/c/baker-group-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician ankeny ia | category: Home services - Electrical | industry benchmark: Home & Home Improvement

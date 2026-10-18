@@ -6,10 +6,10 @@ Also answers: dry cleaners in Irving, TX; dry cleaners near me (Irving, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ZOOM Dry Cleaning | Organic #1 | Pulse Score 59.3/100 (Fair, #1 in city) | ZOOM Dry Cleaning is a dry cleaner in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/zoom-dry-cleaning-irving/
-2. Custom Cleaners | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Custom Cleaners is a dry cleaner in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/custom-cleaners-irving/
-3. Friendly Cleaners | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Friendly Cleaners is a dry cleaner in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/friendly-cleaners-irving/
-4. K Cleaners & Tailor | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | K Cleaners & Tailor is a dry cleaner in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/k-cleaners-and-tailor-irving/
+1. ZOOM Dry Cleaning | Organic #1 | Pulse Score 59.2/100 (Fair, #1 in city) | ZOOM Dry Cleaning is a dry cleaner in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/zoom-dry-cleaning-irving/
+2. Custom Cleaners | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Custom Cleaners is a dry cleaner in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/custom-cleaners-irving/
+3. Friendly Cleaners | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Friendly Cleaners is a dry cleaner in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/friendly-cleaners-irving/
+4. K Cleaners & Tailor | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | K Cleaners & Tailor is a dry cleaner in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/k-cleaners-and-tailor-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners irving tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Mac's Pet Depot Barkery is a pet store in Milwaukee, WI at 2197 South Kinnickinn
 - Website: https://macspetdepotbarkery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-18:00
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 20% of pet stores in Milwaukee, #3 of 4 pet stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 20% of pet stores in Milwaukee, #3 of 4 pet stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

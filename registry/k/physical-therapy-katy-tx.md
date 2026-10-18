@@ -1,4 +1,4 @@
-The top unpaid physical therapy listing for Katy, TX is Airrosti (a physical therapy clinic in Katy, TX at 24022 Cinco Village Center Boulevard #110, Katy, TX 77494. Phone: +18004046050. Website: https://www.airrosti.com/location/Texas/CINCO/). 2 physical therapy businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Katy, TX is Viva 3 Physical Therapy (a physical therapy clinic in Katy, TX at 6445 FM 1463 #290, Katy, TX 77494). 2 physical therapy businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Katy, TX?
 
@@ -6,8 +6,8 @@ Also answers: physical therapy in Katy, TX; physical therapy near me (Katy, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Airrosti | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Airrosti is a physical therapy clinic in Katy, TX at 24022 Cinco Village Center Boulevard #110, Katy, TX 77494. Phone: +18004046050. Website: https://www.airrosti.com/location/Texas/CINCO/. | https://registry-edge.dingalinged.workers.dev/c/airrosti-katy/
-2. Viva 3 Physical Therapy | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Viva 3 Physical Therapy is a physical therapy clinic in Katy, TX at 6445 FM 1463 #290, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/viva-3-physical-therapy-katy/
+1. Viva 3 Physical Therapy | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Viva 3 Physical Therapy is a physical therapy clinic in Katy, TX at 6445 FM 1463 #290, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/viva-3-physical-therapy-katy/
+2. Airrosti | Organic #2 | Pulse Score 49.7/100 (Unrated, #2 in city) | Airrosti is a physical therapy clinic in Katy, TX at 24022 Cinco Village Center Boulevard #110, Katy, TX 77494. Phone: +18004046050. Website: https://www.airrosti.com/location/Texas/CINCO/. | https://registry-edge.dingalinged.workers.dev/c/airrosti-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy katy tx | category: Health & medical | industry benchmark: Physicians & Surgeons

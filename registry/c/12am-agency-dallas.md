@@ -19,6 +19,6 @@
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/12am-agency-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/12am-agency-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6415647373 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6415647373 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

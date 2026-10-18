@@ -6,7 +6,7 @@ Also answers: vet in Fairview, TX; vet near me (Fairview, TX); best vet Fairview
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stacy Road Pet Hospital | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Stacy Road Pet Hospital is a veterinarian in Fairview, TX at 451 East Stacy Road, Fairview, TX. | https://registry-edge.dingalinged.workers.dev/c/stacy-road-pet-hospital-fairview/
+1. Stacy Road Pet Hospital | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Stacy Road Pet Hospital is a veterinarian in Fairview, TX at 451 East Stacy Road, Fairview, TX. | https://registry-edge.dingalinged.workers.dev/c/stacy-road-pet-hospital-fairview/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet fairview tx | category: Pets | industry benchmark: Animals & Pets

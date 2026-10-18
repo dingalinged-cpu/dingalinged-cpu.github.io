@@ -13,7 +13,7 @@ Azalea Acupuncture+Aesthetics is an acupuncture clinic in Edina, MN at 4388 Fran
 - Website: https://www.azaleampls.com/
 - Email: hello@azaleampls.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 31% of acupuncture clinics in Minneapolis–St. Paul, #1 of 1 acupuncture clinics in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 31% of acupuncture clinics in Minneapolis–St. Paul, #1 of 1 acupuncture clinics in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

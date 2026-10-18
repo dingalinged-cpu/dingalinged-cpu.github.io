@@ -13,7 +13,7 @@ Northeast Tattoo & Supply is a tattoo shop in Kansas City, MO at 3619 Saint John
 - Website: https://localbeautysalons.net/explore/northeast-tattoo-supply/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 42% of tattoo shops in Kansas City, MO, #12 of 24 tattoo shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 42% of tattoo shops in Kansas City, MO, #12 of 24 tattoo shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

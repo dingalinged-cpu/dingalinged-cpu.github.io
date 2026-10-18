@@ -6,8 +6,8 @@ Also answers: pet store in Montgomery County, TX; pet store near me (Montgomery 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fish R Us | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Fish R Us is a pet store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/fish-r-us-montgomery-county/
-2. EarthWise Pet | Organic #2 | Pulse Score 41.4/100 (Building, #2 in city) | EarthWise Pet is a pet store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/earthwise-pet-montgomery-county/
+1. Fish R Us | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Fish R Us is a pet store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/fish-r-us-montgomery-county/
+2. EarthWise Pet | Organic #2 | Pulse Score 41.5/100 (Building, #2 in city) | EarthWise Pet is a pet store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/earthwise-pet-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store montgomery county tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

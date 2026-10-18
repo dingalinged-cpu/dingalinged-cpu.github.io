@@ -13,7 +13,7 @@ Diesel David Inc. is an auto repair shop in Cherokee County, GA at 10262 Main St
 - Website: https://dieseldavid.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr-Su off
-- Pulse Score: 61.7/100 — Good — top 17% of auto repair shops in Atlanta, #2 of 4 auto repair shops in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Good — top 16% of auto repair shops in Atlanta, #2 of 4 auto repair shops in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

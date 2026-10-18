@@ -13,12 +13,12 @@ Aspen Dental is a dentist in New Caney, TX at 21690 Eastex Freeway #300, New Can
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.8/100 — Building — top 88% of dentists in Houston, #4 of 4 dentists in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 87% of dentists in Houston, #4 of 4 dentists in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/aspen-dental-new-caney/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aspen-dental-new-caney.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10114908018 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10114908018 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

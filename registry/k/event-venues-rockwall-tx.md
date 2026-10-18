@@ -6,7 +6,7 @@ Also answers: event venues in Rockwall, TX; event venues near me (Rockwall, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 505 Events | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | 505 Events is an event venue in Rockwall, TX at 505 East Boydstun Avenue, Rockwall, TX 75087. Phone: +14693385500. Website: https://www.littlewrenweddings.com/505-events. | https://registry-edge.dingalinged.workers.dev/c/505-events-rockwall/
+1. 505 Events | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | 505 Events is an event venue in Rockwall, TX at 505 East Boydstun Avenue, Rockwall, TX 75087. Phone: +14693385500. Website: https://www.littlewrenweddings.com/505-events. | https://registry-edge.dingalinged.workers.dev/c/505-events-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues rockwall tx | category: Events & weddings | industry benchmark: Personal Services

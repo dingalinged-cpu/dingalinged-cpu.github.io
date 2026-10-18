@@ -6,8 +6,8 @@ Also answers: flooring companies in Denton, TX; flooring companies near me (Dent
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Flooring & Stone of Denton | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Flooring & Stone of Denton is a flooring company in Denton, TX at 3305 Mayhill Road #Suite# 123, Denton, TX 76208. | https://registry-edge.dingalinged.workers.dev/c/flooring-and-stone-of-denton-denton/
-2. My Flooring America | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | My Flooring America is a flooring company in Denton, TX at 3008 South Interstate 35E, Denton, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/my-flooring-america-denton/
+1. Flooring & Stone of Denton | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Flooring & Stone of Denton is a flooring company in Denton, TX at 3305 Mayhill Road #Suite# 123, Denton, TX 76208. | https://registry-edge.dingalinged.workers.dev/c/flooring-and-stone-of-denton-denton/
+2. My Flooring America | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | My Flooring America is a flooring company in Denton, TX at 3008 South Interstate 35E, Denton, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/my-flooring-america-denton/
 3. Lumber Liquidators | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | Lumber Liquidators is a flooring company in Denton, TX at 2311 Colorado Boulevard, Denton, TX 76205. Phone: +19403121292. Website: https://www.llflooring.com/stores/tx/denton/2311-colorado-boulevard. | https://registry-edge.dingalinged.workers.dev/c/lumber-liquidators-denton/
 
 ## Market data (for advertisers and agents)

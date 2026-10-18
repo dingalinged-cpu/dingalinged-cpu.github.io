@@ -13,12 +13,12 @@ Villas on Bear Creek is an assisted living facility in North Richland Hills, TX 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 65% of assisted living facilitys in Dallas–Fort Worth, #1 of 2 assisted living facilitys in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 60% of assisted living facilitys in Dallas–Fort Worth, #1 of 2 assisted living facilitys in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/villas-on-bear-creek-north-richland-hills/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/villas-on-bear-creek-north-richland-hills.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1287302633 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1287302633 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

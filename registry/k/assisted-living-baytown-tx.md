@@ -6,7 +6,7 @@ Also answers: assisted living in Baytown, TX; assisted living near me (Baytown, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Visiting Angels Senior Home Care Baytown, TX | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Visiting Angels Senior Home Care Baytown, TX is an assisted living facility in Baytown, TX at 6236 Texas 146 ##11, Baytown, TX 77523. Phone: +18325146539. Website: https://www.visitingangels.com/baytown/home. | https://registry-edge.dingalinged.workers.dev/c/visiting-angels-senior-home-care-baytown-tx-baytown/
+1. Visiting Angels Senior Home Care Baytown, TX | Organic #1 | Pulse Score 48.4/100 (Building, #1 in city) | Visiting Angels Senior Home Care Baytown, TX is an assisted living facility in Baytown, TX at 6236 Texas 146 ##11, Baytown, TX 77523. Phone: +18325146539. Website: https://www.visitingangels.com/baytown/home. | https://registry-edge.dingalinged.workers.dev/c/visiting-angels-senior-home-care-baytown-tx-baytown/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living baytown tx | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

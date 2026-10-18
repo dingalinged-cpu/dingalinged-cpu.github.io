@@ -13,7 +13,7 @@ Sweet Hut is a bakery in Doraville, GA at 5150 Buford Highway #A-100, Doraville,
 - Website: https://www.sweethutbakery.com/
 - Email: doraville@sweethut.com
 - Opening hours (OSM syntax): Mo-Su 09:00-22:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 23% of bakerys in Atlanta, #1 of 5 bakerys in Doraville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 22% of bakerys in Atlanta, #1 of 5 bakerys in Doraville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

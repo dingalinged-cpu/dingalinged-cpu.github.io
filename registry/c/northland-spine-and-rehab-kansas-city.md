@@ -13,7 +13,7 @@ Northland Spine And Rehab is a chiropractor in Kansas City, MO at 8002 North Oak
 - Website: https://www.northlandspineandrehab.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 67% of chiropractors in Kansas City, MO, #8 of 12 chiropractors in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 67% of chiropractors in Kansas City, MO, #8 of 12 chiropractors in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

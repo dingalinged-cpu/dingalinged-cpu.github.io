@@ -6,7 +6,7 @@ Also answers: thrift store in Burlington, WI; thrift store near me (Burlington, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salvation Army Family Store | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Salvation Army Family Store is a thrift store in Burlington, WI at 248 South Pine Street, Burlington, WI 53105. | https://registry-edge.dingalinged.workers.dev/c/salvation-army-family-store-burlington/
+1. Salvation Army Family Store | Organic #1 | Pulse Score 47.1/100 (Unrated, #1 in city) | Salvation Army Family Store is a thrift store in Burlington, WI at 248 South Pine Street, Burlington, WI 53105. | https://registry-edge.dingalinged.workers.dev/c/salvation-army-family-store-burlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store burlington wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

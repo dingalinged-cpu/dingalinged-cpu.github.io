@@ -13,7 +13,7 @@ Discount Tire is a tire shop in Kennesaw, GA at 1206 Ernest W. Barrett Parkway N
 - Website: https://www.discounttire.com/store/ga/kennesaw/s/2225
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
-- Pulse Score: 50.7/100 — Fair — top 49% of tire shops in Atlanta, #2 of 4 tire shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 48% of tire shops in Atlanta, #2 of 4 tire shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

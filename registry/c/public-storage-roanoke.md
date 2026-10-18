@@ -19,6 +19,6 @@ Public Storage is a self-storage facility in Roanoke, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/public-storage-roanoke/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/public-storage-roanoke.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/766792244 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/766792244 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

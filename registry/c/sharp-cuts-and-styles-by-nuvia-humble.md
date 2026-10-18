@@ -8,17 +8,17 @@ Sharp Cuts & Styles by Nuvia is a hair salon in Humble, TX at 5444 Atascocita Ro
 - City: Humble
 - State: TX
 - ZIP: 77346
-- Coordinates: 29.9884488, -95.1909158
+- Coordinates: 29.9884213, -95.1909786
 - Phone: +18324475671
 - Website: https://sharpcutsandstyles.square.site/
 - Email: nuvia.zepeda@icloud.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 4% of hair salons in Houston, #2 of 10 hair salons in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 64.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 4% of hair salons in Houston, #2 of 11 hair salons in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/sharp-cuts-and-styles-by-nuvia-humble/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sharp-cuts-and-styles-by-nuvia-humble.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13606886981 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13606886981 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

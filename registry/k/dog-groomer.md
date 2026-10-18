@@ -1,4 +1,4 @@
-The top unpaid dog groomer listing for the United States is Community Bark (a dog groomer in Milwaukee, WI at 2440 South Kinnickinnic Avenue, Milwaukee, WI. Phone: +14147442275. Website: https://communitybark.net/). 413 dog groomer businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for the United States is Community Bark (a dog groomer in Milwaukee, WI at 2440 South Kinnickinnic Avenue, Milwaukee, WI. Phone: +14147442275. Website: https://communitybark.net/). 497 dog groomer businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in the United States?
 
@@ -8,80 +8,89 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Community Bark | Organic #1 | Pulse Score 65.4/100 (Good, #1 in city) | Community Bark is a dog groomer in Milwaukee, WI at 2440 South Kinnickinnic Avenue, Milwaukee, WI. Phone: +14147442275. Website: https://communitybark.net/. | https://registry-edge.dingalinged.workers.dev/c/community-bark-milwaukee/
 2. Salty Dog Pet Spa | Organic #2 | Pulse Score 65.1/100 (Good, #1 in city) | Salty Dog Pet Spa is a dog groomer in Menomonee Falls, WI at N86W16392 Appleton Avenue, Menomonee Falls, WI 53051. Phone: +12627357622. Website: https://www.saltydogpetsspa.com/. | https://registry-edge.dingalinged.workers.dev/c/salty-dog-pet-spa-menomonee-falls/
-3. Blissful Bark Dog Wash | Organic #3 | Pulse Score 64.8/100 (Good, #1 in city) | Blissful Bark Dog Wash is a dog groomer in Flower Mound, TX. Phone: +19725396047. Website: https://www.blissfulbarkdogwash.com/. | https://registry-edge.dingalinged.workers.dev/c/blissful-bark-dog-wash-flower-mound/
-4. Cappoochino's | Organic #4 | Pulse Score 64.8/100 (Good, #1 in city) | Cappoochino's is a dog groomer in New Berlin, WI at 3640 South Moorland Road, New Berlin, WI. Phone: +12627895210. | https://registry-edge.dingalinged.workers.dev/c/cappoochinos-new-berlin/
-5. The Dog House Pet Salon - Galleria | Organic #5 | Pulse Score 64.8/100 (Good, #1 in city) | The Dog House Pet Salon - Galleria is a dog groomer in Houston, TX at 5917 Richmond Avenue, Houston, TX 77057. Phone: +17138206140. Website: https://www.thedoghouseps.com/locations/galleria-pet-salon/. | https://registry-edge.dingalinged.workers.dev/c/the-dog-house-pet-salon-galleria-houston/
-6. Biscuits & Bows | Organic #6 | Pulse Score 64.5/100 (Good, #1 in city) | Biscuits & Bows is a dog groomer in Rolling Meadows, IL at 1945 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +18472027877. Website: https://www.biscuitsandbowsnw.com/. | https://registry-edge.dingalinged.workers.dev/c/biscuits-and-bows-rolling-meadows/
-7. Hot Dogs and Cool Cats Dog Grooming Spa | Organic #7 | Pulse Score 64.5/100 (Good, #1 in city) | Hot Dogs and Cool Cats Dog Grooming Spa is a dog groomer in Marietta, GA at 255 Village Parkway Northeast #730, Marietta, GA 30067. Phone: +17708581000. Website: https://hotdogscoolcats.net/. | https://registry-edge.dingalinged.workers.dev/c/hot-dogs-and-cool-cats-dog-grooming-spa-marietta/
-8. Lovely Pet Spa | Organic #8 | Pulse Score 64.5/100 (Good, #1 in city) | Lovely Pet Spa is a dog groomer in Parker, CO at 16526 Keystone Boulevard #C, Parker, CO 80134. Phone: +13039978987. Website: https://www.facebook.com/LovelyPetSpa. | https://registry-edge.dingalinged.workers.dev/c/lovely-pet-spa-parker/
-9. The Dog House Pet Salon - Memorial Park | Organic #9 | Pulse Score 64.2/100 (Good, #2 in city) | The Dog House Pet Salon - Memorial Park is a dog groomer in Houston, TX at 6434 Washington Avenue, Houston, TX 77007. Phone: +17138206140. Website: https://www.thedoghouseps.com/locations/memorial-park-location/. | https://registry-edge.dingalinged.workers.dev/c/the-dog-house-pet-salon-memorial-park-houston/
-10. Taxi Doggy Pet Grooming | Organic #10 | Pulse Score 64.2/100 (Good, #2 in city) | Taxi Doggy Pet Grooming is a dog groomer in Marietta, GA at 2856 Delk Road Southeast #308, Marietta, GA 30067. Phone: +16783248329. Website: https://taxidoggypetgroomingllc.setmore.com/. | https://registry-edge.dingalinged.workers.dev/c/taxi-doggy-pet-grooming-marietta/
-11. Lulu & Luigi | Organic #11 | Pulse Score 64/100 (Good, #1 in city) | Lulu & Luigi is a dog groomer in Saint Louis Park, MN at 3699 Joppa Avenue South, Saint Louis Park, MN 55416. Phone: +19529291200. Website: https://luluandluigi.com/. | https://registry-edge.dingalinged.workers.dev/c/lulu-and-luigi-saint-louis-park/
-12. Natural Grooming | Organic #12 | Pulse Score 63.9/100 (Good, #1 in city) | Natural Grooming is a dog groomer in North Richland Hills, TX at 8415 Davis Boulevard #309, North Richland Hills, TX 76182. Phone: +18176050423. Website: https://natural-grooming.edan.io/. | https://registry-edge.dingalinged.workers.dev/c/natural-grooming-north-richland-hills/
-13. Best Pals | Organic #13 | Pulse Score 63.7/100 (Unrated, #1 in city) | Best Pals is a dog groomer in Edwardsville, IL at 1725 Troy Road, Edwardsville, IL 62025. Phone: +16186961717. Website: https://bestpalsllc.square.site/. | https://registry-edge.dingalinged.workers.dev/c/best-pals-edwardsville/
-14. Emi Pet Salon & Boutique | Organic #14 | Pulse Score 63.7/100 (Unrated, #1 in city) | Emi Pet Salon & Boutique is a dog groomer in Columbus, OH at 743 North High Street, Columbus, OH 43215. Phone: +16142997387. Website: https://www.emipet.com/short-north-location/. | https://registry-edge.dingalinged.workers.dev/c/emi-pet-salon-and-boutique-columbus/
-15. Kennel Club USA | Organic #15 | Pulse Score 63.7/100 (Unrated, #1 in city) | Kennel Club USA is a dog groomer in Johnstown, OH at 12525 Jug Street, Johnstown, OH 43031. Phone: +17409678050. Website: https://www.kennelclub-usa.com/. | https://registry-edge.dingalinged.workers.dev/c/kennel-club-usa-johnstown/
-16. Dog Cuts | Organic #16 | Pulse Score 63.6/100 (Unrated, #1 in city) | Dog Cuts is a dog groomer in Utica, MI at 44860 Utica Road, Utica, MI 48317. Phone: +15869914240. Website: https://dogcuts.com/. | https://registry-edge.dingalinged.workers.dev/c/dog-cuts-utica/
-17. Groome Grooming | Organic #17 | Pulse Score 63.6/100 (Unrated, #1 in city) | Groome Grooming is a dog groomer in Lewisville, TX at 101 East Corporate Drive #220, Lewisville, TX 75067. Phone: +14694691324. Website: https://groomelewisville.com/. | https://registry-edge.dingalinged.workers.dev/c/groome-grooming-lewisville/
-18. PawsAbilities | Organic #18 | Pulse Score 63.6/100 (Unrated, #1 in city) | PawsAbilities is a dog groomer in Ankeny, IA at 217 South Ankeny Boulevard, Ankeny, IA 50023. Phone: +15157826224. Website: https://www.pawsabilitiesia.org/. | https://registry-edge.dingalinged.workers.dev/c/pawsabilities-ankeny/
-19. lather. | Organic #19 | Pulse Score 63.5/100 (Good, #1 in city) | lather. is a dog groomer in Pittsburgh, PA at 5100 Liberty Avenue, Pittsburgh, PA 15224. Phone: +14122357199. Website: https://latherbathhouse.com/. | https://registry-edge.dingalinged.workers.dev/c/lather-pittsburgh/
-20. Woof Gang Bakery and Grooming | Organic #20 | Pulse Score 63.5/100 (Unrated, #1 in city) | Woof Gang Bakery and Grooming is a dog groomer in The Woodlands, TX at 3091 College Park Drive #280, The Woodlands, TX 77384. Phone: +13462209663. Website: https://woofgangbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/woof-gang-bakery-and-grooming-the-woodlands/
-21. K-9 Culture Dog Training | Organic #21 | Pulse Score 63.4/100 (Unrated, #1 in city) | K-9 Culture Dog Training is a dog groomer in Carrollton, TX at 1000 W. Crosby Road #120, Carrollton, TX 75006. Phone: +19722451587. Website: https://www.k-9culture.com/. | https://registry-edge.dingalinged.workers.dev/c/k-9-culture-dog-training-carrollton/
-22. Hotel K Pet Sitting & Dog Walking | Organic #22 | Pulse Score 63.3/100 (Unrated, #1 in city) | Hotel K Pet Sitting & Dog Walking is a dog groomer in Madison, WI at 5376 Farmco Drive #Suite 1, Madison, WI 53704. Phone: +16082861573. Website: https://freebellyrubs.com/. | https://registry-edge.dingalinged.workers.dev/c/hotel-k-pet-sitting-and-dog-walking-madison/
-23. Old Town Dog Groomers | Organic #23 | Pulse Score 63.2/100 (Good, #2 in city) | Old Town Dog Groomers is a dog groomer in Lewisville, TX at 252 South Mill Street #110, Lewisville, TX. Phone: +12145855553. | https://registry-edge.dingalinged.workers.dev/c/old-town-dog-groomers-lewisville/
-24. Legacy Grooming | Organic #24 | Pulse Score 63.1/100 (Unrated, #1 in city) | Legacy Grooming is a dog groomer in McKinney, TX at 5261 McKinney Ranch Pkwy #200, McKinney, TX 75070. Phone: +14696310929. Website: https://legacygrooming.com/. | https://registry-edge.dingalinged.workers.dev/c/legacy-grooming-mckinney/
-25. Tsuru Pet Spa | Organic #25 | Pulse Score 62.9/100 (Good, #1 in city) | Tsuru Pet Spa is a dog groomer in Roswell, GA at 1575 Old Alabama Road, Roswell, GA 30076. Phone: +17708800008. Website: https://tsurupets.com/. | https://registry-edge.dingalinged.workers.dev/c/tsuru-pet-spa-roswell/
-26. A Dog's Best Friend Grooming | Organic #26 | Pulse Score 62.9/100 (Unrated, #1 in city) | A Dog's Best Friend Grooming is a dog groomer in Reynoldsburg, OH at 7598 East Main Street, Reynoldsburg, OH 43068. Phone: +16148669094. Website: https://dogsbestfriendgrooming.com/. | https://registry-edge.dingalinged.workers.dev/c/a-dogs-best-friend-grooming-reynoldsburg/
-27. Wag n Wheel | Organic #27 | Pulse Score 62.7/100 (Unrated, #1 in city) | Wag n Wheel is a dog groomer in Wauconda, IL at 375 West Liberty Street, Wauconda, IL 60084. Phone: +18474874990. Website: https://www.wagnwheeldoggrooming.com/. | https://registry-edge.dingalinged.workers.dev/c/wag-n-wheel-wauconda/
-28. JP's Top Dog Professional Grooming | Organic #28 | Pulse Score 62.6/100 (Good, #1 in city) | JP's Top Dog Professional Grooming is a dog groomer in Cobb County, GA at 2300 Shallowford Road Northeast #10, Cobb County, GA. Phone: +17705166558. Website: https://jpstopdog.weebly.com/. | https://registry-edge.dingalinged.workers.dev/c/jps-top-dog-professional-grooming-cobb-county/
-29. Lucky Dog Grooming | Organic #29 | Pulse Score 62.6/100 (Unrated, #1 in city) | Lucky Dog Grooming is a dog groomer in Denver, CO at 1950 South Holly Street #2, Denver, CO 80222. Phone: +13035689590. Website: https://luckydoggrooming.co/. | https://registry-edge.dingalinged.workers.dev/c/lucky-dog-grooming-denver/
-30. Paw Wash Grooming Salon | Organic #30 | Pulse Score 62.5/100 (Good, #1 in city) | Paw Wash Grooming Salon is a dog groomer in Manchester, MO at 661 Big Bend Road, Manchester, MO 63021. Phone: +13142392169. Website: https://www.facebook.com/PawWashGroomingSalon/. | https://registry-edge.dingalinged.workers.dev/c/paw-wash-grooming-salon-manchester/
-31. The Dog House Pet Salon - Pearland | Organic #31 | Pulse Score 62.4/100 (Good, #1 in city) | The Dog House Pet Salon - Pearland is a dog groomer in Pearland, TX at 2810 Business Center Drive #126, Pearland, TX 77584. Phone: +17138206140. Website: https://www.thedoghouseps.com/locations/pearland-location/. | https://registry-edge.dingalinged.workers.dev/c/the-dog-house-pet-salon-pearland-pearland/
-32. Club Meow Inc. | Organic #32 | Pulse Score 62.4/100 (Unrated, #1 in city) | Club Meow Inc. is a dog groomer in Council Bluffs, IA at 752 West Broadway, Council Bluffs, IA 51503. Phone: +17122428689. Website: https://www.clubmeowinc.com/. | https://registry-edge.dingalinged.workers.dev/c/club-meow-inc-council-bluffs/
-33. Pinky's Pet Salon | Organic #33 | Pulse Score 62.4/100 (Unrated, #1 in city) | Pinky's Pet Salon is a dog groomer in Warren, MI at 3850 East 12 Mile Road, Warren, MI 48092. Phone: +15864864288. Website: https://pinkyssalon.info/. | https://registry-edge.dingalinged.workers.dev/c/pinkys-pet-salon-warren/
-34. Barksville Dog Daycare and Boarding | Organic #34 | Pulse Score 62.3/100 (Unrated, #1 in city) | Barksville Dog Daycare and Boarding is a dog groomer in Chicago, IL at 3301 West Belmont Avenue, Chicago, IL 60618. Phone: +18722042275. Website: https://barksvillechicago.com/. | https://registry-edge.dingalinged.workers.dev/c/barksville-dog-daycare-and-boarding-chicago/
-35. Holly's Pet Shoppe | Organic #35 | Pulse Score 62.3/100 (Unrated, #1 in city) | Holly's Pet Shoppe is a dog groomer in Hutchinson, KS. Phone: +16202592460. Website: https://www.hollyspetshoppellc.com/. | https://registry-edge.dingalinged.workers.dev/c/hollys-pet-shoppe-hutchinson/
-36. Jerry's Paw Spaw | Organic #36 | Pulse Score 62.3/100 (Unrated, #2 in city) | Jerry's Paw Spaw is a dog groomer in North Richland Hills, TX at 7800 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18174278400. Website: https://www.jerryspawspaw.com/. | https://registry-edge.dingalinged.workers.dev/c/jerrys-paw-spaw-north-richland-hills/
-37. Lakeside Pet Spa | Organic #37 | Pulse Score 62.3/100 (Unrated, #1 in city) | Lakeside Pet Spa is a dog groomer in Plano, TX at 4017 Preston Road #545, Plano, TX 75093. Phone: +19724038801. Website: https://www.lakesidepetspa.com/. | https://registry-edge.dingalinged.workers.dev/c/lakeside-pet-spa-plano/
-38. Lux Dog Grooming | Organic #38 | Pulse Score 62.2/100 (Good, #1 in city) | Lux Dog Grooming is a dog groomer in Peachtree Corners, GA at 6365 Spalding Drive, Peachtree Corners, GA. Phone: +14707701843. Website: https://www.lux-dogroomer.com/. | https://registry-edge.dingalinged.workers.dev/c/lux-dog-grooming-peachtree-corners/
-39. Splash and Dash | Organic #39 | Pulse Score 62.2/100 (Unrated, #1 in city) | Splash and Dash is a dog groomer in Sugar Land, TX at 13513 University Boulevard #B900, Sugar Land, TX 77479. Phone: +13465214010. Website: https://splashanddashfordogs.com/sugarland/. | https://registry-edge.dingalinged.workers.dev/c/splash-and-dash-sugar-land/
-40. Beauty & The Barks | Organic #40 | Pulse Score 62.2/100 (Unrated, #1 in city) | Beauty & The Barks is a dog groomer in Wauwatosa, WI at 6909 West North Avenue, Wauwatosa, WI 53213. Phone: +14147396295. Website: https://beautyandthebarks.square.site/. | https://registry-edge.dingalinged.workers.dev/c/beauty-and-the-barks-wauwatosa/
-41. Blue Ribbon Grooming | Organic #41 | Pulse Score 62.1/100 (Good, #1 in city) | Blue Ribbon Grooming is a dog groomer in Oakdale, MN at 5679 Geneva Avenue North, Oakdale, MN 55128. Phone: +16517488885. Website: https://www.facebook.com/brgrooming/. | https://registry-edge.dingalinged.workers.dev/c/blue-ribbon-grooming-oakdale/
-42. Grand Groomers | Organic #42 | Pulse Score 62.1/100 (Good, #1 in city) | Grand Groomers is a dog groomer in Saint Paul, MN at 956 Grand Avenue, Saint Paul, MN 55105. Phone: +16512271733. Website: https://www.facebook.com/Grand-Groomers-110815275649763/. | https://registry-edge.dingalinged.workers.dev/c/grand-groomers-saint-paul/
-43. Barkers Pet Salon | Organic #43 | Pulse Score 62.1/100 (Unrated, #1 in city) | Barkers Pet Salon is a dog groomer in Plymouth, MI at 746 North Mill Street, Plymouth, MI 48170. Phone: +17342549703. Website: https://www.bakerspetsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/barkers-pet-salon-plymouth/
-44. The Groom Gallery | Organic #44 | Pulse Score 62.1/100 (Unrated, #1 in city) | The Groom Gallery is a dog groomer in Olathe, KS at 129 South Parker Street, Olathe, KS 66061. Phone: +19138393522. Website: https://thegroomgallery.com/olathe/. | https://registry-edge.dingalinged.workers.dev/c/the-groom-gallery-olathe/
-45. Puppy United | Organic #45 | Pulse Score 62/100 (Good, #1 in city) | Puppy United is a dog groomer in Atlanta, GA at 976 Piedmont Avenue Northeast, Atlanta, GA. Phone: +14044016634. Website: https://www.puppyunited.com/. | https://registry-edge.dingalinged.workers.dev/c/puppy-united-atlanta/
-46. Foxy Dogs | Organic #46 | Pulse Score 62/100 (Unrated, #1 in city) | Foxy Dogs is a dog groomer in Minneapolis, MN at 5457 Nicollet Avenue South, Minneapolis, MN 55419. Phone: +16128243699. Website: https://www.foxydogs.com/. | https://registry-edge.dingalinged.workers.dev/c/foxy-dogs-minneapolis/
-47. Pets & Things Grooming | Organic #47 | Pulse Score 62/100 (Unrated, #2 in city) | Pets & Things Grooming is a dog groomer in Wauconda, IL at 213 North Main Street, Wauconda, IL 60084. Phone: +18475265510. Website: https://www.petsandthingswauconda.com/. | https://registry-edge.dingalinged.workers.dev/c/pets-and-things-grooming-wauconda/
-48. B's Beauty Petique | Organic #48 | Pulse Score 62/100 (Unrated, #1 in city) | B's Beauty Petique is a dog groomer in Monroeville, PA at 306 Noel Drive, Monroeville, PA 15146. Phone: +17247339489. Website: https://www.bsbeautypetique.me/. | https://registry-edge.dingalinged.workers.dev/c/bs-beauty-petique-monroeville/
-49. Beach for Dogs | Organic #49 | Pulse Score 62/100 (Unrated, #1 in city) | Beach for Dogs is a dog groomer in Naperville, IL at 790 Royal Saint George Drive #119, Naperville, IL 60563. Phone: +16306324979. Website: https://www.beachfordogs.com/naperville-il. | https://registry-edge.dingalinged.workers.dev/c/beach-for-dogs-naperville/
-50. Bubbly Paws | Organic #50 | Pulse Score 62/100 (Unrated, #2 in city) | Bubbly Paws is a dog groomer in Saint Louis Park, MN at 3730 Grand Way, Saint Louis Park, MN 55416. Phone: +19526575300. Website: https://www.bubblypaws.com/. | https://registry-edge.dingalinged.workers.dev/c/bubbly-paws-saint-louis-park/
+3. The Dog House Pet Salon - Galleria | Organic #3 | Pulse Score 64.9/100 (Good, #1 in city) | The Dog House Pet Salon - Galleria is a dog groomer in Houston, TX at 5917 Richmond Avenue, Houston, TX 77057. Phone: +17138206140. Website: https://www.thedoghouseps.com/locations/galleria-pet-salon/. | https://registry-edge.dingalinged.workers.dev/c/the-dog-house-pet-salon-galleria-houston/
+4. Blissful Bark Dog Wash | Organic #4 | Pulse Score 64.8/100 (Good, #1 in city) | Blissful Bark Dog Wash is a dog groomer in Flower Mound, TX. Phone: +19725396047. Website: https://www.blissfulbarkdogwash.com/. | https://registry-edge.dingalinged.workers.dev/c/blissful-bark-dog-wash-flower-mound/
+5. Cappoochino's | Organic #5 | Pulse Score 64.7/100 (Good, #1 in city) | Cappoochino's is a dog groomer in New Berlin, WI at 3640 South Moorland Road, New Berlin, WI. Phone: +12627895210. | https://registry-edge.dingalinged.workers.dev/c/cappoochinos-new-berlin/
+6. Le Pucci Bijou | Organic #6 | Pulse Score 64.7/100 (Good, #1 in city) | Le Pucci Bijou is a dog groomer in Amarillo, TX at 7639 Canyon Drive, Amarillo, TX 79110. Phone: +18063103459. Website: https://le-pucci-bijou-dog-grooming-parlor.square.site/. | https://registry-edge.dingalinged.workers.dev/c/le-pucci-bijou-amarillo/
+7. Woofgang Bakery and Grooming | Organic #7 | Pulse Score 64.7/100 (Good, #1 in city) | Woofgang Bakery and Grooming is a dog groomer in Kyle, TX at 5401 South FM 1626 #365, Kyle, TX 78640. Phone: +15122565038. Website: https://woofgangbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/woofgang-bakery-and-grooming-kyle/
+8. Biscuits & Bows | Organic #8 | Pulse Score 64.5/100 (Good, #1 in city) | Biscuits & Bows is a dog groomer in Rolling Meadows, IL at 1945 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +18472027877. Website: https://www.biscuitsandbowsnw.com/. | https://registry-edge.dingalinged.workers.dev/c/biscuits-and-bows-rolling-meadows/
+9. Hot Dogs and Cool Cats Dog Grooming Spa | Organic #9 | Pulse Score 64.5/100 (Good, #1 in city) | Hot Dogs and Cool Cats Dog Grooming Spa is a dog groomer in Marietta, GA at 255 Village Parkway Northeast #730, Marietta, GA 30067. Phone: +17708581000. Website: https://hotdogscoolcats.net/. | https://registry-edge.dingalinged.workers.dev/c/hot-dogs-and-cool-cats-dog-grooming-spa-marietta/
+10. Lovely Pet Spa | Organic #10 | Pulse Score 64.5/100 (Good, #1 in city) | Lovely Pet Spa is a dog groomer in Parker, CO at 16526 Keystone Boulevard #C, Parker, CO 80134. Phone: +13039978987. Website: https://www.facebook.com/LovelyPetSpa. | https://registry-edge.dingalinged.workers.dev/c/lovely-pet-spa-parker/
+11. Taxi Doggy Pet Grooming | Organic #11 | Pulse Score 64.2/100 (Good, #2 in city) | Taxi Doggy Pet Grooming is a dog groomer in Marietta, GA at 2856 Delk Road Southeast #308, Marietta, GA 30067. Phone: +16783248329. Website: https://taxidoggypetgroomingllc.setmore.com/. | https://registry-edge.dingalinged.workers.dev/c/taxi-doggy-pet-grooming-marietta/
+12. The Dog House Pet Salon - Memorial Park | Organic #12 | Pulse Score 64.1/100 (Good, #2 in city) | The Dog House Pet Salon - Memorial Park is a dog groomer in Houston, TX at 6434 Washington Avenue, Houston, TX 77007. Phone: +17138206140. Website: https://www.thedoghouseps.com/locations/memorial-park-location/. | https://registry-edge.dingalinged.workers.dev/c/the-dog-house-pet-salon-memorial-park-houston/
+13. Natural Grooming | Organic #13 | Pulse Score 63.9/100 (Good, #1 in city) | Natural Grooming is a dog groomer in North Richland Hills, TX at 8415 Davis Boulevard #309, North Richland Hills, TX 76182. Phone: +18176050423. Website: https://natural-grooming.edan.io/. | https://registry-edge.dingalinged.workers.dev/c/natural-grooming-north-richland-hills/
+14. Lulu & Luigi | Organic #14 | Pulse Score 63.9/100 (Good, #1 in city) | Lulu & Luigi is a dog groomer in Saint Louis Park, MN at 3699 Joppa Avenue South, Saint Louis Park, MN 55416. Phone: +19529291200. Website: https://luluandluigi.com/. | https://registry-edge.dingalinged.workers.dev/c/lulu-and-luigi-saint-louis-park/
+15. Moo Moo’s Grooming | Organic #15 | Pulse Score 63.7/100 (Good, #1 in city) | Moo Moo’s Grooming is a dog groomer in El Paso, TX at 12400 Montwood Drive #H, El Paso, TX 79928. Phone: +19159907506. | https://registry-edge.dingalinged.workers.dev/c/moo-moo-s-grooming-el-paso/
+16. Best Pals | Organic #16 | Pulse Score 63.7/100 (Unrated, #1 in city) | Best Pals is a dog groomer in Edwardsville, IL at 1725 Troy Road, Edwardsville, IL 62025. Phone: +16186961717. Website: https://bestpalsllc.square.site/. | https://registry-edge.dingalinged.workers.dev/c/best-pals-edwardsville/
+17. Pampering Your Pets | Organic #17 | Pulse Score 63.6/100 (Unrated, #1 in city) | Pampering Your Pets is a dog groomer in San Antonio, TX at 9818 Silver Mist Way, San Antonio, TX 78254. Phone: +12107409105. Website: https://square.site/book/T70C0WPRWGKH6/pampering-your-pets-san-antonio-tx. | https://registry-edge.dingalinged.workers.dev/c/pampering-your-pets-san-antonio/
+18. Woof Gang Bakery and Grooming | Organic #18 | Pulse Score 63.6/100 (Unrated, #1 in city) | Woof Gang Bakery and Grooming is a dog groomer in The Woodlands, TX at 3091 College Park Drive #280, The Woodlands, TX 77384. Phone: +13462209663. Website: https://woofgangbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/woof-gang-bakery-and-grooming-the-woodlands/
+19. Dog Cuts | Organic #19 | Pulse Score 63.6/100 (Unrated, #1 in city) | Dog Cuts is a dog groomer in Utica, MI at 44860 Utica Road, Utica, MI 48317. Phone: +15869914240. Website: https://dogcuts.com/. | https://registry-edge.dingalinged.workers.dev/c/dog-cuts-utica/
+20. Emi Pet Salon & Boutique | Organic #20 | Pulse Score 63.6/100 (Unrated, #1 in city) | Emi Pet Salon & Boutique is a dog groomer in Columbus, OH at 743 North High Street, Columbus, OH 43215. Phone: +16142997387. Website: https://www.emipet.com/short-north-location/. | https://registry-edge.dingalinged.workers.dev/c/emi-pet-salon-and-boutique-columbus/
+21. Groome Grooming | Organic #21 | Pulse Score 63.6/100 (Unrated, #1 in city) | Groome Grooming is a dog groomer in Lewisville, TX at 101 East Corporate Drive #220, Lewisville, TX 75067. Phone: +14694691324. Website: https://groomelewisville.com/. | https://registry-edge.dingalinged.workers.dev/c/groome-grooming-lewisville/
+22. Kennel Club USA | Organic #22 | Pulse Score 63.6/100 (Unrated, #1 in city) | Kennel Club USA is a dog groomer in Johnstown, OH at 12525 Jug Street, Johnstown, OH 43031. Phone: +17409678050. Website: https://www.kennelclub-usa.com/. | https://registry-edge.dingalinged.workers.dev/c/kennel-club-usa-johnstown/
+23. PawsAbilities | Organic #23 | Pulse Score 63.6/100 (Unrated, #1 in city) | PawsAbilities is a dog groomer in Ankeny, IA at 217 South Ankeny Boulevard, Ankeny, IA 50023. Phone: +15157826224. Website: https://www.pawsabilitiesia.org/. | https://registry-edge.dingalinged.workers.dev/c/pawsabilities-ankeny/
+24. lather. | Organic #24 | Pulse Score 63.4/100 (Good, #1 in city) | lather. is a dog groomer in Pittsburgh, PA at 5100 Liberty Avenue, Pittsburgh, PA 15224. Phone: +14122357199. Website: https://latherbathhouse.com/. | https://registry-edge.dingalinged.workers.dev/c/lather-pittsburgh/
+25. Mutz & Kutz Grooming | Organic #25 | Pulse Score 63.4/100 (Good, #1 in city) | Mutz & Kutz Grooming is a dog groomer in Georgetown, TX at 2803 Williams Drive #106, Georgetown, TX 78628. Phone: +15129438425. Website: https://www.mutzandkutz.com/. | https://registry-edge.dingalinged.workers.dev/c/mutz-and-kutz-grooming-georgetown/
+26. K-9 Culture Dog Training | Organic #26 | Pulse Score 63.4/100 (Unrated, #1 in city) | K-9 Culture Dog Training is a dog groomer in Carrollton, TX at 1000 W. Crosby Road #120, Carrollton, TX 75006. Phone: +19722451587. Website: https://www.k-9culture.com/. | https://registry-edge.dingalinged.workers.dev/c/k-9-culture-dog-training-carrollton/
+27. Hotel K Pet Sitting & Dog Walking | Organic #27 | Pulse Score 63.3/100 (Unrated, #1 in city) | Hotel K Pet Sitting & Dog Walking is a dog groomer in Madison, WI at 5376 Farmco Drive #Suite 1, Madison, WI 53704. Phone: +16082861573. Website: https://freebellyrubs.com/. | https://registry-edge.dingalinged.workers.dev/c/hotel-k-pet-sitting-and-dog-walking-madison/
+28. Old Town Dog Groomers | Organic #28 | Pulse Score 63.1/100 (Good, #2 in city) | Old Town Dog Groomers is a dog groomer in Lewisville, TX at 252 South Mill Street #110, Lewisville, TX. Phone: +12145855553. | https://registry-edge.dingalinged.workers.dev/c/old-town-dog-groomers-lewisville/
+29. Clean Canine Grooming | Organic #29 | Pulse Score 63.1/100 (Good, #1 in city) | Clean Canine Grooming is a dog groomer in Fayetteville, AR at 2235 South School Avenue, Fayetteville, AR 72701. Phone: +14795026776. Website: https://www.facebook.com/people/Clean-Canine-Grooming-LLC/61556269935950/. | https://registry-edge.dingalinged.workers.dev/c/clean-canine-grooming-fayetteville/
+30. Legacy Grooming | Organic #30 | Pulse Score 63.1/100 (Unrated, #1 in city) | Legacy Grooming is a dog groomer in McKinney, TX at 5261 McKinney Ranch Pkwy #200, McKinney, TX 75070. Phone: +14696310929. Website: https://legacygrooming.com/. | https://registry-edge.dingalinged.workers.dev/c/legacy-grooming-mckinney/
+31. Tsuru Pet Spa | Organic #31 | Pulse Score 62.9/100 (Good, #1 in city) | Tsuru Pet Spa is a dog groomer in Roswell, GA at 1575 Old Alabama Road, Roswell, GA 30076. Phone: +17708800008. Website: https://tsurupets.com/. | https://registry-edge.dingalinged.workers.dev/c/tsuru-pet-spa-roswell/
+32. A Dog's Best Friend Grooming | Organic #32 | Pulse Score 62.9/100 (Unrated, #1 in city) | A Dog's Best Friend Grooming is a dog groomer in Reynoldsburg, OH at 7598 East Main Street, Reynoldsburg, OH 43068. Phone: +16148669094. Website: https://dogsbestfriendgrooming.com/. | https://registry-edge.dingalinged.workers.dev/c/a-dogs-best-friend-grooming-reynoldsburg/
+33. Sydnees Pet Groomin | Organic #33 | Pulse Score 62.7/100 (Good, #1 in city) | Sydnees Pet Groomin is a dog groomer in Lakeway, TX at 2300 Lohmans Spur #192, Lakeway, TX 78738. Phone: +17373001001. Website: https://sydneespetgrooming.com/. | https://registry-edge.dingalinged.workers.dev/c/sydnees-pet-groomin-lakeway/
+34. Wag n Wheel | Organic #34 | Pulse Score 62.7/100 (Unrated, #1 in city) | Wag n Wheel is a dog groomer in Wauconda, IL at 375 West Liberty Street, Wauconda, IL 60084. Phone: +18474874990. Website: https://www.wagnwheeldoggrooming.com/. | https://registry-edge.dingalinged.workers.dev/c/wag-n-wheel-wauconda/
+35. JP's Top Dog Professional Grooming | Organic #35 | Pulse Score 62.6/100 (Good, #1 in city) | JP's Top Dog Professional Grooming is a dog groomer in Cobb County, GA at 2300 Shallowford Road Northeast #10, Cobb County, GA. Phone: +17705166558. Website: https://jpstopdog.weebly.com/. | https://registry-edge.dingalinged.workers.dev/c/jps-top-dog-professional-grooming-cobb-county/
+36. Lucky Dog Grooming | Organic #36 | Pulse Score 62.6/100 (Unrated, #1 in city) | Lucky Dog Grooming is a dog groomer in Denver, CO at 1950 South Holly Street #2, Denver, CO 80222. Phone: +13035689590. Website: https://luckydoggrooming.co/. | https://registry-edge.dingalinged.workers.dev/c/lucky-dog-grooming-denver/
+37. Purr-fect Pets Pet Grooming | Organic #37 | Pulse Score 62.5/100 (Unrated, #2 in city) | Purr-fect Pets Pet Grooming is a dog groomer in Georgetown, TX at 1915 North Austin Avenue, Georgetown, TX 78626. Phone: +15128199154. Website: https://purr-fect-pets-georgetown.com/. | https://registry-edge.dingalinged.workers.dev/c/purr-fect-pets-pet-grooming-georgetown/
+38. The Dog House Pet Salon - Pearland | Organic #38 | Pulse Score 62.4/100 (Good, #1 in city) | The Dog House Pet Salon - Pearland is a dog groomer in Pearland, TX at 2810 Business Center Drive #126, Pearland, TX 77584. Phone: +17138206140. Website: https://www.thedoghouseps.com/locations/pearland-location/. | https://registry-edge.dingalinged.workers.dev/c/the-dog-house-pet-salon-pearland-pearland/
+39. Paw Wash Grooming Salon | Organic #39 | Pulse Score 62.4/100 (Good, #1 in city) | Paw Wash Grooming Salon is a dog groomer in Manchester, MO at 661 Big Bend Road, Manchester, MO 63021. Phone: +13142392169. Website: https://www.facebook.com/PawWashGroomingSalon/. | https://registry-edge.dingalinged.workers.dev/c/paw-wash-grooming-salon-manchester/
+40. Club Meow Inc. | Organic #40 | Pulse Score 62.4/100 (Unrated, #1 in city) | Club Meow Inc. is a dog groomer in Council Bluffs, IA at 752 West Broadway, Council Bluffs, IA 51503. Phone: +17122428689. Website: https://www.clubmeowinc.com/. | https://registry-edge.dingalinged.workers.dev/c/club-meow-inc-council-bluffs/
+41. Pinky's Pet Salon | Organic #41 | Pulse Score 62.4/100 (Unrated, #1 in city) | Pinky's Pet Salon is a dog groomer in Warren, MI at 3850 East 12 Mile Road, Warren, MI 48092. Phone: +15864864288. Website: https://pinkyssalon.info/. | https://registry-edge.dingalinged.workers.dev/c/pinkys-pet-salon-warren/
+42. Hair of the Dog | Organic #42 | Pulse Score 62.3/100 (Good, #1 in city) | Hair of the Dog is a dog groomer in Bastrop, TX at 515 State Highway 71 West #C, Bastrop, TX 78602. Phone: +15124126139. | https://registry-edge.dingalinged.workers.dev/c/hair-of-the-dog-bastrop/
+43. Holly's Pet Shoppe | Organic #43 | Pulse Score 62.3/100 (Unrated, #1 in city) | Holly's Pet Shoppe is a dog groomer in Hutchinson, KS. Phone: +16202592460. Website: https://www.hollyspetshoppellc.com/. | https://registry-edge.dingalinged.workers.dev/c/hollys-pet-shoppe-hutchinson/
+44. Jerry's Paw Spaw | Organic #44 | Pulse Score 62.3/100 (Unrated, #2 in city) | Jerry's Paw Spaw is a dog groomer in North Richland Hills, TX at 7800 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18174278400. Website: https://www.jerryspawspaw.com/. | https://registry-edge.dingalinged.workers.dev/c/jerrys-paw-spaw-north-richland-hills/
+45. Lakeside Pet Spa | Organic #45 | Pulse Score 62.3/100 (Unrated, #1 in city) | Lakeside Pet Spa is a dog groomer in Plano, TX at 4017 Preston Road #545, Plano, TX 75093. Phone: +19724038801. Website: https://www.lakesidepetspa.com/. | https://registry-edge.dingalinged.workers.dev/c/lakeside-pet-spa-plano/
+46. Barksville Dog Daycare and Boarding | Organic #46 | Pulse Score 62.2/100 (Unrated, #1 in city) | Barksville Dog Daycare and Boarding is a dog groomer in Chicago, IL at 3301 West Belmont Avenue, Chicago, IL 60618. Phone: +18722042275. Website: https://barksvillechicago.com/. | https://registry-edge.dingalinged.workers.dev/c/barksville-dog-daycare-and-boarding-chicago/
+47. Furever Clean | Organic #47 | Pulse Score 62.2/100 (Unrated, #1 in city) | Furever Clean is a dog groomer in Cleburne, TX at 1439 West Henderson Street, Cleburne, TX. Phone: +18175561777. Website: https://fureverclean.com/. | https://registry-edge.dingalinged.workers.dev/c/furever-clean-cleburne/
+48. Beauty & The Barks | Organic #48 | Pulse Score 62.2/100 (Unrated, #1 in city) | Beauty & The Barks is a dog groomer in Wauwatosa, WI at 6909 West North Avenue, Wauwatosa, WI 53213. Phone: +14147396295. Website: https://beautyandthebarks.square.site/. | https://registry-edge.dingalinged.workers.dev/c/beauty-and-the-barks-wauwatosa/
+49. Scrub A Dub Pet Salon | Organic #49 | Pulse Score 62.2/100 (Unrated, #1 in city) | Scrub A Dub Pet Salon is a dog groomer in Odessa, TX at 4103 Faudree Road #140, Odessa, TX 79765. Phone: +14322357017. Website: https://scrub-a-dub.us/. | https://registry-edge.dingalinged.workers.dev/c/scrub-a-dub-pet-salon-odessa/
+50. Lux Dog Grooming | Organic #50 | Pulse Score 62.1/100 (Good, #1 in city) | Lux Dog Grooming is a dog groomer in Peachtree Corners, GA at 6365 Spalding Drive, Peachtree Corners, GA. Phone: +14707701843. Website: https://www.lux-dogroomer.com/. | https://registry-edge.dingalinged.workers.dev/c/lux-dog-grooming-peachtree-corners/
 
-## More dog groomer listings (413 total; top 50 unpaid shown)
+## More dog groomer listings (497 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/dog-groomer.jsonl
 - Chicago, IL: 17 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-chicago-il/
 - Columbus, OH: 13 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-columbus-oh/
 - Dallas, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-dallas-tx/
-- Houston, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-houston-tx/
+- Amarillo, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-amarillo-tx/
+- Houston, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-houston-tx/
 - Cobb County, GA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-cobb-county-ga/
 - Kansas City, MO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-kansas-city-mo/
+- San Antonio, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-san-antonio-tx/
+- Harris County, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-harris-county-tx/
+- El Paso, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-el-paso-tx/
 - Aurora, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-aurora-co/
 - Indianapolis, IN: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-indianapolis-in/
+- Frisco, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-frisco-tx/
+- Georgetown, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-georgetown-tx/
 - Milwaukee, WI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-milwaukee-wi/
 - Centennial, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-centennial-co/
 - Naperville, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-naperville-il/
-- Frisco, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-frisco-tx/
 - Omaha, NE: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-omaha-ne/
+- Plano, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-plano-tx/
+- Austin, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-austin-tx/
+- Flower Mound, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-flower-mound-tx/
 - Madison, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-madison-wi/
 - Olathe, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-olathe-ks/
-- Flower Mound, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-flower-mound-tx/
-- Harris County, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-harris-county-tx/
 - Southgate, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-southgate-mi/
 - Atlanta, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-atlanta-ga/
 - Marietta, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-marietta-ga/
 - Minneapolis, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-minneapolis-mn/
 - Saint Louis Park, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-saint-louis-park-mn/
 - Saint Paul, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-saint-paul-mn/
+- Mesquite, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-mesquite-tx/
+- Arlington, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-arlington-tx/
+- Lewisville, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-lewisville-tx/
 - Wauwatosa, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-wauwatosa-wi/
 - Longmont, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-longmont-co/
 - Pittsburgh, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-pittsburgh-pa/
@@ -90,14 +99,27 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Lawrence, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-lawrence-ks/
 - Topeka, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-topeka-ks/
 - Wichita, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-wichita-ks/
-- Mesquite, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-mesquite-tx/
-- Arlington, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-arlington-tx/
-- Lewisville, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-lewisville-tx/
-- Plano, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-plano-tx/
 - Plainfield, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-plainfield-in/
 - Saint Joseph, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-saint-joseph-mo/
 - White Bear Lake, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-white-bear-lake-mn/
 - Ankeny, IA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-ankeny-ia/
+- Pflugerville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-pflugerville-tx/
+- Euless, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-euless-tx/
+- Mcallen, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-mcallen-tx/
+- Terrell, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-terrell-tx/
+- Dripping Springs, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-dripping-springs-tx/
+- Leander, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-leander-tx/
+- North Richland Hills, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-north-richland-hills-tx/
+- Rockwall, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-rockwall-tx/
+- Round Rock, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-round-rock-tx/
+- Mckinney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-mckinney-tx/
+- Odessa, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-odessa-tx/
+- San Marcos, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-san-marcos-tx/
+- Conroe, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-conroe-tx/
+- Addison, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-addison-tx/
+- Sugar Land, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-sugar-land-tx/
+- San Angelo, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-san-angelo-tx/
+- Hurst, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-hurst-tx/
 - West Bend, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-west-bend-wi/
 - Boulder County, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-boulder-county-co/
 - Parker, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-parker-co/
@@ -114,15 +136,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Lenexa, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-lenexa-ks/
 - Hutchinson, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-hutchinson-ks/
 - Overland Park, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-overland-park-ks/
-- Euless, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-euless-tx/
-- Terrell, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-terrell-tx/
-- North Richland Hills, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-north-richland-hills-tx/
-- Rockwall, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-rockwall-tx/
-- Mckinney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-mckinney-tx/
-- Conroe, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-conroe-tx/
-- Addison, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-addison-tx/
-- Sugar Land, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-sugar-land-tx/
-- Hurst, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-hurst-tx/
 - Shelbyville, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-shelbyville-in/
 - Lincoln Park, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-lincoln-park-mi/
 - Plymouth, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-plymouth-mi/
@@ -139,6 +152,52 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Columbia, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-columbia-mo/
 - West Saint Paul, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-west-saint-paul-mn/
 - Eagan, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-eagan-mn/
+- Fayetteville, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-fayetteville-ar/
+- Bella Vista, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-bella-vista-ar/
+- Fort Smith, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-fort-smith-ar/
+- Montgomery County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-montgomery-county-tx/
+- Kerrville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-kerrville-tx/
+- Denton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-denton-tx/
+- Harker Heights, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-harker-heights-tx/
+- Waco, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-waco-tx/
+- Greenville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-greenville-tx/
+- Forney, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-forney-tx/
+- Cleburne, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-cleburne-tx/
+- Fort Worth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-fort-worth-tx/
+- Bastrop, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-bastrop-tx/
+- Corinth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-corinth-tx/
+- Hutto, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-hutto-tx/
+- Abilene, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-abilene-tx/
+- Farmers Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-farmers-branch-tx/
+- Carrollton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-carrollton-tx/
+- Desoto, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-desoto-tx/
+- Deer Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-deer-park-tx/
+- Corpus Christi, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-corpus-christi-tx/
+- Helotes, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-helotes-tx/
+- Haltom City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-haltom-city-tx/
+- Parker County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-parker-county-tx/
+- Corsicana, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-corsicana-tx/
+- College Station, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-college-station-tx/
+- Lubbock, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-lubbock-tx/
+- Sachse, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-sachse-tx/
+- Trophy Club, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-trophy-club-tx/
+- Beaumont, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-beaumont-tx/
+- Haslet, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-haslet-tx/
+- Fort Bend County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-fort-bend-county-tx/
+- Godley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-godley-tx/
+- Duncanville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-duncanville-tx/
+- Simonton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-simonton-tx/
+- Copperas Cove, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-copperas-cove-tx/
+- Coppell, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-coppell-tx/
+- Lakeway, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-lakeway-tx/
+- Pearland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-pearland-tx/
+- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-allen-tx/
+- Midland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-midland-tx/
+- Katy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-katy-tx/
+- The Woodlands, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-the-woodlands-tx/
+- West Lake Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-west-lake-hills-tx/
+- Kyle, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-kyle-tx/
+- Prosper, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-prosper-tx/
 - Middleton, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-middleton-wi/
 - Shorewood, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-shorewood-wi/
 - Waunakee, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-waunakee-wi/
@@ -210,24 +269,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Prairie Village, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-prairie-village-ks/
 - Pottawatomie County, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-pottawatomie-county-ks/
 - Kansas City, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-kansas-city-ks/
-- Montgomery County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-montgomery-county-tx/
-- Denton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-denton-tx/
-- Forney, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-forney-tx/
-- Corinth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-corinth-tx/
-- Farmers Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-farmers-branch-tx/
-- Carrollton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-carrollton-tx/
-- Desoto, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-desoto-tx/
-- Sachse, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-sachse-tx/
-- Trophy Club, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-trophy-club-tx/
-- Fort Bend County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-fort-bend-county-tx/
-- Duncanville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-duncanville-tx/
-- Simonton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-simonton-tx/
-- Coppell, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-coppell-tx/
-- Pearland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-pearland-tx/
-- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-allen-tx/
-- Katy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-katy-tx/
-- The Woodlands, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-the-woodlands-tx/
-- Prosper, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-prosper-tx/
 - Cumberland, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-cumberland-in/
 - Whiting, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-whiting-in/
 - Allen Park, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-allen-park-mi/
@@ -272,6 +313,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Chanhassen, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-chanhassen-mn/
 - Anoka, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-anoka-mn/
 - New Brighton, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-new-brighton-mn/
+- Russellville, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-russellville-ar/
+- Barling, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-barling-ar/
 - Council Bluffs, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-council-bluffs-ia/
 - Des Moines, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-des-moines-ia/
 - Boone County, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-boone-county-ky/
@@ -283,7 +326,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.97, median $4.06, high $4.06 (Animals & Pets median CPC 2026 $4.06 [https://www.localiq.com/blog/search-advertising-benchmarks]; Animals & Pets median CPC 2025 $3.97 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 413
+- Registry businesses competing: 497
 - Equivalent Google Ads cost per month: ~$120,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

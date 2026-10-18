@@ -13,10 +13,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 5. Racing Tires | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Racing Tires is a tire shop in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/racing-tires-clayton-county/
 6. RimTyme | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | RimTyme is a tire shop in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/rimtyme-clayton-county/
 7. Somo's Tires | Organic #7 | Pulse Score 54.8/100 (Unrated, #7 in city) | Somo's Tires is a tire shop in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/somos-tires-clayton-county/
-8. Southern Tire Mart | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Southern Tire Mart is a tire shop in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/southern-tire-mart-clayton-county/
-9. Tiremax | Organic #9 | Pulse Score 54.8/100 (Unrated, #9 in city) | Tiremax is a tire shop in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/tiremax-clayton-county/
-10. Tiremaxx | Organic #10 | Pulse Score 54.8/100 (Unrated, #10 in city) | Tiremaxx is a tire shop in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/tiremaxx-clayton-county/
-11. Mavis Tires & Brakes | Organic #11 | Pulse Score 42.1/100 (Unrated, #11 in city) | Mavis Tires & Brakes is a tire shop in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/mavis-tires-and-brakes-clayton-county/
+8. Tiremax | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Tiremax is a tire shop in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/tiremax-clayton-county/
+9. Tiremaxx | Organic #9 | Pulse Score 54.8/100 (Unrated, #9 in city) | Tiremaxx is a tire shop in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/tiremaxx-clayton-county/
+10. Mavis Tires & Brakes | Organic #10 | Pulse Score 42.1/100 (Unrated, #10 in city) | Mavis Tires & Brakes is a tire shop in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/mavis-tires-and-brakes-clayton-county/
+11. Southern Tire Mart | Organic #11 | Pulse Score 42.1/100 (Unrated, #11 in city) | Southern Tire Mart is a tire shop in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/southern-tire-mart-clayton-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop clayton county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

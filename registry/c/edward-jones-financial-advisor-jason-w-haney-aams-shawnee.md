@@ -13,7 +13,7 @@ Edward Jones - Financial Advisor: Jason W Haney, AAMS is a financial advisor in 
 - Website: https://www.edwardjones.com/jason-haney
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.7/100 — Building — top 35% of financial advisors in Kansas City, MO, #1 of 3 financial advisors in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 35% of financial advisors in Kansas City, MO, #1 of 3 financial advisors in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

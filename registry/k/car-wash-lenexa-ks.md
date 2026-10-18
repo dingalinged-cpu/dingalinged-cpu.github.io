@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Lenexa, KS is Speedy Car Wash (a car wash in Lenexa, KS at 10150 Walker Street, Lenexa, KS 66220. Phone: +19139489436. Website: https://www.speedycarwash.com/). 5 car wash businesses are listed for Lenexa, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Lenexa, KS is Lenexa Classic Car Wash (a car wash in Lenexa, KS at 13112 Santa Fe Trail Drive, Lenexa, KS 66215). 5 car wash businesses are listed for Lenexa, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Lenexa, KS?
 
@@ -6,11 +6,11 @@ Also answers: car wash in Lenexa, KS; car wash near me (Lenexa, KS); best car wa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Speedy Car Wash | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Speedy Car Wash is a car wash in Lenexa, KS at 10150 Walker Street, Lenexa, KS 66220. Phone: +19139489436. Website: https://www.speedycarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/speedy-car-wash-lenexa-w1390419298/
-2. Speedy Car Wash | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | Speedy Car Wash is a car wash in Lenexa, KS at 11230 Strang Line Road, Lenexa, KS 66215. Phone: +19139486600. Website: https://www.speedycarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/speedy-car-wash-lenexa/
-3. Lenexa Classic Car Wash | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | Lenexa Classic Car Wash is a car wash in Lenexa, KS at 13112 Santa Fe Trail Drive, Lenexa, KS 66215. | https://registry-edge.dingalinged.workers.dev/c/lenexa-classic-car-wash-lenexa/
-4. Sam's Club Car Wash | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Sam's Club Car Wash is a car wash in Lenexa, KS. | https://registry-edge.dingalinged.workers.dev/c/sams-club-car-wash-lenexa/
-5. Charlie's Car Wash | Organic #5 | Pulse Score 49.7/100 (Unrated, #5 in city) | Charlie's Car Wash is a car wash in Lenexa, KS at 16245 West 87th Street Parkway, Lenexa, KS 66219. Phone: +19133225416. Website: https://charlies.https://charlies.com/locations/lenexa-ks/com/locations/lenexa-ks-opening-soon/. | https://registry-edge.dingalinged.workers.dev/c/charlies-car-wash-lenexa/
+1. Lenexa Classic Car Wash | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Lenexa Classic Car Wash is a car wash in Lenexa, KS at 13112 Santa Fe Trail Drive, Lenexa, KS 66215. | https://registry-edge.dingalinged.workers.dev/c/lenexa-classic-car-wash-lenexa/
+2. Sam's Club Car Wash | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Sam's Club Car Wash is a car wash in Lenexa, KS. | https://registry-edge.dingalinged.workers.dev/c/sams-club-car-wash-lenexa/
+3. Charlie's Car Wash | Organic #3 | Pulse Score 49.7/100 (Unrated, #3 in city) | Charlie's Car Wash is a car wash in Lenexa, KS at 16245 West 87th Street Parkway, Lenexa, KS 66219. Phone: +19133225416. Website: https://charlies.https://charlies.com/locations/lenexa-ks/com/locations/lenexa-ks-opening-soon/. | https://registry-edge.dingalinged.workers.dev/c/charlies-car-wash-lenexa/
+4. Speedy Car Wash | Organic #4 | Pulse Score 49.5/100 (Unrated, #4 in city) | Speedy Car Wash is a car wash in Lenexa, KS at 10150 Walker Street, Lenexa, KS 66220. Phone: +19139489436. Website: https://www.speedycarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/speedy-car-wash-lenexa-w1390419298/
+5. Speedy Car Wash | Organic #5 | Pulse Score 49.3/100 (Unrated, #5 in city) | Speedy Car Wash is a car wash in Lenexa, KS at 11230 Strang Line Road, Lenexa, KS 66215. Phone: +19139486600. Website: https://www.speedycarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/speedy-car-wash-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash lenexa ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Scott's Diamond Designs is a jewelry store in Overland Park, KS at 7951 West 160
 - Website: https://www.scottsdiamonddesigns.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 10:00-15:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 10% of jewelry stores in Kansas City, MO, #2 of 9 jewelry stores in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 8% of jewelry stores in Kansas City, MO, #2 of 9 jewelry stores in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Phoenix Advertising is a marketing agency in Kansas City, MO at 800 East 101st T
 - Website: https://www.phoenixadvertising.io/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 48% of marketing agencys in Kansas City, MO, #3 of 10 marketing agencys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 48% of marketing agencys in Kansas City, MO, #3 of 10 marketing agencys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: family doctor in Gretna, NE; family doctor near me (Gretna, NE); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CHI Gretna | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | CHI Gretna is a family medicine practice in Gretna, NE at 102 West Gruenther Road, Gretna, NE 68028. Phone: +14023322772. Website: https://www.chihealth.com/en/location-search/location-details.location.27b9eeb6-3234-4537-81ff-97da8dd0a49b.html. | https://registry-edge.dingalinged.workers.dev/c/chi-gretna-gretna/
+1. CHI Gretna | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | CHI Gretna is a family medicine practice in Gretna, NE at 102 West Gruenther Road, Gretna, NE 68028. Phone: +14023322772. Website: https://www.chihealth.com/en/location-search/location-details.location.27b9eeb6-3234-4537-81ff-97da8dd0a49b.html. | https://registry-edge.dingalinged.workers.dev/c/chi-gretna-gretna/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor gretna ne | category: Health & medical | industry benchmark: Physicians & Surgeons

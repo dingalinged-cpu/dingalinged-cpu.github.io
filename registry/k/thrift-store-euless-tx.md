@@ -7,7 +7,7 @@ Also answers: thrift store in Euless, TX; thrift store near me (Euless, TX); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Cowboy Joe's Discount City | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Cowboy Joe's Discount City is a thrift store in Euless, TX at 801 East Mid Cities Boulevard #400, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/cowboy-joes-discount-city-euless/
-2. Uptown Cheapskate | Organic #2 | Pulse Score 49.7/100 (Unrated, #2 in city) | Uptown Cheapskate is a thrift store in Euless, TX at 1220 Chisholm Trail #200, Euless, TX 76039. Phone: +18173984222. Website: https://www.uptowncheapskate.com/colleyville/. | https://registry-edge.dingalinged.workers.dev/c/uptown-cheapskate-euless/
+2. Uptown Cheapskate | Organic #2 | Pulse Score 49.6/100 (Unrated, #2 in city) | Uptown Cheapskate is a thrift store in Euless, TX at 1220 Chisholm Trail #200, Euless, TX 76039. Phone: +18173984222. Website: https://www.uptowncheapskate.com/colleyville/. | https://registry-edge.dingalinged.workers.dev/c/uptown-cheapskate-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store euless tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

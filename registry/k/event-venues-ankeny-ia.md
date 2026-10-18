@@ -6,7 +6,7 @@ Also answers: event venues in Ankeny, IA; event venues near me (Ankeny, IA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sips & Songs in The District | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Sips & Songs in The District is an event venue in Ankeny, IA at 1500 Southwest Main Street, Ankeny, IA 50023. Phone: +15152725143. | https://registry-edge.dingalinged.workers.dev/c/sips-and-songs-in-the-district-ankeny/
+1. Sips & Songs in The District | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Sips & Songs in The District is an event venue in Ankeny, IA at 1500 Southwest Main Street, Ankeny, IA 50023. Phone: +15152725143. | https://registry-edge.dingalinged.workers.dev/c/sips-and-songs-in-the-district-ankeny/
 2. The District Venue | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | The District Venue is an event venue in Ankeny, IA. | https://registry-edge.dingalinged.workers.dev/c/the-district-venue-ankeny/
 
 ## Market data (for advertisers and agents)

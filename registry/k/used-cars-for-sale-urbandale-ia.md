@@ -6,8 +6,8 @@ Also answers: used cars for sale in Urbandale, IA; used cars for sale near me (U
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BMW of Des Moines | Organic #1 | Pulse Score 47.8/100 (Building, #1 in city) | BMW of Des Moines is an used car dealer in Urbandale, IA at 9631 Hickman Road, Urbandale, IA 50322. Phone: +15154463660. Website: https://www.bmwdesmoines.com/. | https://registry-edge.dingalinged.workers.dev/c/bmw-of-des-moines-urbandale/
-2. CarMax | Organic #2 | Pulse Score 43.4/100 (Building, #2 in city) | CarMax is an used car dealer in Urbandale, IA at 10325 Hickman Road, Urbandale, IA 50322. Website: https://www.carmax.com/stores/6004. | https://registry-edge.dingalinged.workers.dev/c/carmax-urbandale/
+1. BMW of Des Moines | Organic #1 | Pulse Score 47.7/100 (Building, #1 in city) | BMW of Des Moines is an used car dealer in Urbandale, IA at 9631 Hickman Road, Urbandale, IA 50322. Phone: +15154463660. Website: https://www.bmwdesmoines.com/. | https://registry-edge.dingalinged.workers.dev/c/bmw-of-des-moines-urbandale/
+2. CarMax | Organic #2 | Pulse Score 43.2/100 (Building, #2 in city) | CarMax is an used car dealer in Urbandale, IA at 10325 Hickman Road, Urbandale, IA 50322. Website: https://www.carmax.com/stores/6004. | https://registry-edge.dingalinged.workers.dev/c/carmax-urbandale/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale urbandale ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

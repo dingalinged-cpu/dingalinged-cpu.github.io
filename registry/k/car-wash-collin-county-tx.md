@@ -6,7 +6,7 @@ Also answers: car wash in Collin County, TX; car wash near me (Collin County, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clean Freak Car Wash | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Clean Freak Car Wash is a car wash in Collin County, TX at 1520 West Frontier Parkway, Collin County, TX. | https://registry-edge.dingalinged.workers.dev/c/clean-freak-car-wash-collin-county/
+1. Clean Freak Car Wash | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Clean Freak Car Wash is a car wash in Collin County, TX at 1520 West Frontier Parkway, Collin County, TX. | https://registry-edge.dingalinged.workers.dev/c/clean-freak-car-wash-collin-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash collin county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

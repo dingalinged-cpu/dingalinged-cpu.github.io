@@ -13,7 +13,7 @@ Milwaukee Memorials is a concrete contractor in Milwaukee, WI at 6401 West Apple
 - Website: https://www.milwaukeememorials.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.2/100 — Fair — top 100% of concrete contractors in Milwaukee, #1 of 1 concrete contractors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 100% of concrete contractors in Milwaukee, #1 of 1 concrete contractors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

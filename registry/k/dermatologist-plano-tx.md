@@ -6,7 +6,7 @@ Also answers: dermatologist in Plano, TX; dermatologist near me (Plano, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Neighborhood Dermatology | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Neighborhood Dermatology is a dermatologist in Plano, TX. Phone: +14696061360. Website: https://neighborderm.com/. | https://registry-edge.dingalinged.workers.dev/c/neighborhood-dermatology-plano/
+1. Neighborhood Dermatology | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Neighborhood Dermatology is a dermatologist in Plano, TX. Phone: +14696061360. Website: https://neighborderm.com/. | https://registry-edge.dingalinged.workers.dev/c/neighborhood-dermatology-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist plano tx | category: Health & medical | industry benchmark: Physicians & Surgeons

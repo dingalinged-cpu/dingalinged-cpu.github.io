@@ -7,7 +7,7 @@ Also answers: car wash in Cedar Hill, TX; car wash near me (Cedar Hill, TX); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Take 5 Car Wash | Organic #1 | Pulse Score 65.5/100 (Good, #1 in city) | Take 5 Car Wash is a car wash in Cedar Hill, TX at 204 East Belt Line Road, Cedar Hill, TX 75104. | https://registry-edge.dingalinged.workers.dev/c/take-5-car-wash-cedar-hill/
-2. Fuel City Car Wash | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Fuel City Car Wash is a car wash in Cedar Hill, TX at 1103 North J Elmer Weaver Freeway, Cedar Hill, TX 75104. | https://registry-edge.dingalinged.workers.dev/c/fuel-city-car-wash-cedar-hill/
+2. Fuel City Car Wash | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Fuel City Car Wash is a car wash in Cedar Hill, TX at 1103 North J Elmer Weaver Freeway, Cedar Hill, TX 75104. | https://registry-edge.dingalinged.workers.dev/c/fuel-city-car-wash-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash cedar hill tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

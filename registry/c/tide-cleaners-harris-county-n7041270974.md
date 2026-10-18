@@ -13,12 +13,12 @@ Tide Cleaners is a dry cleaner in Harris County, TX at 8854 Spring Cypress Road 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 64% of dry cleaners in Houston, #16 of 27 dry cleaners in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 65% of dry cleaners in Houston, #19 of 30 dry cleaners in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/tide-cleaners-harris-county-n7041270974/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tide-cleaners-harris-county-n7041270974.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7041270974 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7041270974 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

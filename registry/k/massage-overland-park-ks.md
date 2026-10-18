@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. In Touch Massage | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | In Touch Massage is a massage studio in Overland Park, KS at 7335 West 80th Street, Overland Park, KS 66204. Phone: +19134242315. Website: https://www.intouchtherapeuticmassageop.com/. | https://registry-edge.dingalinged.workers.dev/c/in-touch-massage-overland-park/
 2. Massage Thearpy | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Massage Thearpy is a massage studio in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/massage-thearpy-overland-park/
-3. MassageLuXe | Organic #3 | Pulse Score 48/100 (Unrated, #3 in city) | MassageLuXe is a massage studio in Overland Park, KS at 15913 Antioch Road, Overland Park, KS 66223. Phone: +19135385558. Website: https://massageluxe.com/locations/overland-park-ks/. | https://registry-edge.dingalinged.workers.dev/c/massageluxe-overland-park/
+3. MassageLuXe | Organic #3 | Pulse Score 47.9/100 (Unrated, #3 in city) | MassageLuXe is a massage studio in Overland Park, KS at 15913 Antioch Road, Overland Park, KS 66223. Phone: +19135385558. Website: https://massageluxe.com/locations/overland-park-ks/. | https://registry-edge.dingalinged.workers.dev/c/massageluxe-overland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage overland park ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

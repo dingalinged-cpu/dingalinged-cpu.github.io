@@ -6,7 +6,7 @@ Also answers: dry cleaners in Providence Village, TX; dry cleaners near me (Prov
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cleaners | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | Cleaners is a dry cleaner in Providence Village, TX. | https://registry-edge.dingalinged.workers.dev/c/cleaners-providence-village/
+1. Cleaners | Organic #1 | Pulse Score 43.2/100 (Building, #1 in city) | Cleaners is a dry cleaner in Providence Village, TX. | https://registry-edge.dingalinged.workers.dev/c/cleaners-providence-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners providence village tx | category: Professional & financial services | industry benchmark: Finance & Insurance

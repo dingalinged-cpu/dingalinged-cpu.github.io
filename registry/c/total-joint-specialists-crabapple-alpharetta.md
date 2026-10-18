@@ -13,7 +13,7 @@ Total Joint Specialists - Crabapple is an orthopedic surgeon in Alpharetta, GA a
 - Website: https://www.totaljointspecialists.com/locations/crabapple
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 50% of orthopedic surgeons in Atlanta, #2 of 2 orthopedic surgeons in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 50% of orthopedic surgeons in Atlanta, #2 of 2 orthopedic surgeons in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

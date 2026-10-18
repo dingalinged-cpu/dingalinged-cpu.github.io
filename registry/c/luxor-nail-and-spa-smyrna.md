@@ -13,7 +13,7 @@ Luxor Nail & Spa is a nail salon in Smyrna, GA at 2620 Cobb Parkway South #C, Sm
 - Website: https://luxornailsspa.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 28% of nail salons in Atlanta, #2 of 11 nail salons in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 27% of nail salons in Atlanta, #2 of 11 nail salons in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

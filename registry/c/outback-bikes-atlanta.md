@@ -13,7 +13,7 @@ Outback Bikes is a bike shop in Atlanta, GA at 484 Moreland Avenue Northeast, At
 - Website: https://www.outback-bikes.com/
 - Email: info@outback-bikes.com
 - Opening hours (OSM syntax): Tu-Fr 11:00-18:00, Sa 10:00-18:00, Su 12:00-18:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 13% of bike shops in Atlanta, #2 of 15 bike shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 13% of bike shops in Atlanta, #2 of 15 bike shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

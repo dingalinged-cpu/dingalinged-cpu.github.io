@@ -6,7 +6,7 @@ Also answers: florist in Norwalk, IA; florist near me (Norwalk, IA); best floris
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bellflower Florist & Gifts, LLC | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Bellflower Florist & Gifts, LLC is a florist in Norwalk, IA at 2251 Sunset Dr #Suit C, Norwalk, IA 50211. Phone: +15154102397. | https://registry-edge.dingalinged.workers.dev/c/bellflower-florist-and-gifts-llc-norwalk/
+1. Bellflower Florist & Gifts, LLC | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Bellflower Florist & Gifts, LLC is a florist in Norwalk, IA at 2251 Sunset Dr #Suit C, Norwalk, IA 50211. Phone: +15154102397. | https://registry-edge.dingalinged.workers.dev/c/bellflower-florist-and-gifts-llc-norwalk/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist norwalk ia | category: Events & weddings | industry benchmark: Personal Services

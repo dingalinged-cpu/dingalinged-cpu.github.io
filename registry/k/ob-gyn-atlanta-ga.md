@@ -6,7 +6,7 @@ Also answers: ob gyn in Atlanta, GA; ob gyn near me (Atlanta, GA); best ob gyn A
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Feminist Center for Reproductive Liberation | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Feminist Center for Reproductive Liberation is an OB-GYN practice in Atlanta, GA at 1924 Cliff Valley Way Northeast, Atlanta, GA 30329. Website: https://feministcenter.org/. | https://registry-edge.dingalinged.workers.dev/c/feminist-center-for-reproductive-liberation-atlanta/
+1. Feminist Center for Reproductive Liberation | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Feminist Center for Reproductive Liberation is an OB-GYN practice in Atlanta, GA at 1924 Cliff Valley Way Northeast, Atlanta, GA 30329. Website: https://feministcenter.org/. | https://registry-edge.dingalinged.workers.dev/c/feminist-center-for-reproductive-liberation-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn atlanta ga | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Affordable Dentures & Implants is a dentist in Belton, MO at 17049 Bel-Ray Boule
 - Website: https://www.dentalservice.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 91% of dentists in Kansas City, MO, #5 of 6 dentists in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.5, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 91% of dentists in Kansas City, MO, #5 of 6 dentists in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.5, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

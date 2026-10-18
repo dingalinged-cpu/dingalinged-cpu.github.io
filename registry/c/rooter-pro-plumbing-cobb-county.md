@@ -13,7 +13,7 @@ Rooter Pro Plumbing is a plumber in Cobb County, GA at 840 Pine Manor Northeast,
 - Website: https://www.rooterproplumbingga.com/
 - Email: info@rooterproplumbingga.com
 - Opening hours (OSM syntax): 08:00-17:00
-- Pulse Score: 62.2/100 — Good — top 15% of plumbers in Atlanta, #1 of 3 plumbers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Good — top 15% of plumbers in Atlanta, #1 of 3 plumbers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

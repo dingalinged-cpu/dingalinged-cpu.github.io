@@ -13,7 +13,7 @@ McFarland Liquor is a liquor store in McFarland, WI at 4716 Farwell Street, McFa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:00; Sa-Su 09:00-21:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 16% of liquor stores in Madison, #1 of 1 liquor stores in McFarland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 16% of liquor stores in Madison, #1 of 1 liquor stores in McFarland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

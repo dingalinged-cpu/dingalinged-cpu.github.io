@@ -13,12 +13,12 @@ Nails & Co is a nail salon in Fort Bend County, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.3/100 — Unrated (not enough evidence yet) — top 100% of nail salons in Houston, #10 of 10 nail salons in Fort Bend County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 100% of nail salons in Houston, #11 of 11 nail salons in Fort Bend County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/nails-and-co-fort-bend-county/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nails-and-co-fort-bend-county.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5256067137 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5256067137 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,7 +6,7 @@ Also answers: interior designer in Shorewood, WI; interior designer near me (Sho
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mary Best Design | Organic #1 | Pulse Score 60.9/100 (Good, #1 in city) | Mary Best Design is an interior designer in Shorewood, WI at 2219 East Capitol Drive, Shorewood, WI 53211. Phone: +14149758565. Website: https://www.marybestdesigns.com/. | https://registry-edge.dingalinged.workers.dev/c/mary-best-design-shorewood/
+1. Mary Best Design | Organic #1 | Pulse Score 60.1/100 (Good, #1 in city) | Mary Best Design is an interior designer in Shorewood, WI at 2219 East Capitol Drive, Shorewood, WI 53211. Phone: +14149758565. Website: https://www.marybestdesigns.com/. | https://registry-edge.dingalinged.workers.dev/c/mary-best-design-shorewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: interior designer shorewood wi | category: Home services - Design | industry benchmark: Home & Home Improvement

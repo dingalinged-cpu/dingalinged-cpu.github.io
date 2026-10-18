@@ -6,7 +6,7 @@ Also answers: chimney sweep in Glenview, IL; chimney sweep near me (Glenview, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sai Air Duct | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Sai Air Duct is a chimney sweep in Glenview, IL at 4221 Commercial Way, Glenview, IL 60025. Phone: +12242560071. Website: https://saiairductclean.com/. | https://registry-edge.dingalinged.workers.dev/c/sai-air-duct-glenview/
+1. Sai Air Duct | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Sai Air Duct is a chimney sweep in Glenview, IL at 4221 Commercial Way, Glenview, IL 60025. Phone: +12242560071. Website: https://saiairductclean.com/. | https://registry-edge.dingalinged.workers.dev/c/sai-air-duct-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: chimney sweep glenview il | category: Home services - Chimney | industry benchmark: Home & Home Improvement

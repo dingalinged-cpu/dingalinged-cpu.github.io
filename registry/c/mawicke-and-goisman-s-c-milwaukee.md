@@ -13,7 +13,7 @@ Mawicke & Goisman, S.C. is a lawyer in Milwaukee, WI at 1509 North Prospect Aven
 - Website: https://mawickelaw.com/
 - Email: info@mawickelaw.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Good — top 5% of lawyers in Milwaukee, #4 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 5% of lawyers in Milwaukee, #4 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,11 +7,11 @@ Also answers: dentist in Desoto, TX; dentist near me (Desoto, TX); best dentist 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Smile Time Dentistry - DeSoto | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Smile Time Dentistry - DeSoto is a dentist in DeSoto, TX at 2801 Duke of Gloucester St Suite 103-A, DeSoto, TX 75115. Website: https://www.smiletimedentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/smile-time-dentistry-desoto-desoto/
-2. Dentistry of DeSoto | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Dentistry of DeSoto is a dentist in DeSoto, TX at 2601 Bolton Boone Drive, DeSoto, TX 75115. | https://registry-edge.dingalinged.workers.dev/c/dentistry-of-desoto-desoto/
-3. Wheatland Dental Care | Organic #3 | Pulse Score 56.7/100 (Unrated, #67 in city) | Wheatland Dental Care is a dentist in Dallas, TX at 3940 West Wheatland Road, Dallas, TX 75237. | https://registry-edge.dingalinged.workers.dev/c/wheatland-dental-care-dallas/
-4. Art of Dentistry | Organic #4 | Pulse Score 54.5/100 (Unrated, #3 in city) | Art of Dentistry is a dentist in DeSoto, TX. | https://registry-edge.dingalinged.workers.dev/c/art-of-dentistry-desoto/
-5. Cosmetic & Family Dentistry | Organic #5 | Pulse Score 54.5/100 (Unrated, #4 in city) | Cosmetic & Family Dentistry is a dentist in DeSoto, TX. | https://registry-edge.dingalinged.workers.dev/c/cosmetic-and-family-dentistry-desoto/
-6. Lantern Dental | Organic #6 | Pulse Score 54.5/100 (Unrated, #5 in city) | Lantern Dental is a dentist in DeSoto, TX. | https://registry-edge.dingalinged.workers.dev/c/lantern-dental-desoto/
+2. Dentistry of DeSoto | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Dentistry of DeSoto is a dentist in DeSoto, TX at 2601 Bolton Boone Drive, DeSoto, TX 75115. | https://registry-edge.dingalinged.workers.dev/c/dentistry-of-desoto-desoto/
+3. Wheatland Dental Care | Organic #3 | Pulse Score 56.6/100 (Unrated, #73 in city) | Wheatland Dental Care is a dentist in Dallas, TX at 3940 West Wheatland Road, Dallas, TX 75237. | https://registry-edge.dingalinged.workers.dev/c/wheatland-dental-care-dallas/
+4. Art of Dentistry | Organic #4 | Pulse Score 54.4/100 (Unrated, #3 in city) | Art of Dentistry is a dentist in DeSoto, TX. | https://registry-edge.dingalinged.workers.dev/c/art-of-dentistry-desoto/
+5. Cosmetic & Family Dentistry | Organic #5 | Pulse Score 54.4/100 (Unrated, #4 in city) | Cosmetic & Family Dentistry is a dentist in DeSoto, TX. | https://registry-edge.dingalinged.workers.dev/c/cosmetic-and-family-dentistry-desoto/
+6. Lantern Dental | Organic #6 | Pulse Score 54.4/100 (Unrated, #5 in city) | Lantern Dental is a dentist in DeSoto, TX. | https://registry-edge.dingalinged.workers.dev/c/lantern-dental-desoto/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist desoto tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

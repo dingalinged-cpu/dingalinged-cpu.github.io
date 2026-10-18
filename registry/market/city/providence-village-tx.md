@@ -1,4 +1,4 @@
-Keyword market for Providence Village, TX: 4 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
+Keyword market for Providence Village, TX: 5 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
 
 # Top keywords in Providence Village, TX
 
@@ -8,10 +8,11 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 1. dentist providence village tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-providence-village-tx/
 
 ## By CPC
-1. daycare providence village tx | searches/mo 5,500 (est) | CPC $4.81 | value $26,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-providence-village-tx/
-2. dentist providence village tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-providence-village-tx/
-3. dry cleaners providence village tx | searches/mo 5,500 (est) | CPC $3.39 | value $19,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-providence-village-tx/
-4. phone repair providence village tx | searches/mo 5,500 (est) | CPC $3.39 | value $19,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/phone-repair-providence-village-tx/
+1. storage units providence village tx | searches/mo 5,500 (est) | CPC $8.33 | value $46,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-providence-village-tx/
+2. daycare providence village tx | searches/mo 5,500 (est) | CPC $4.81 | value $26,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-providence-village-tx/
+3. dentist providence village tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-providence-village-tx/
+4. dry cleaners providence village tx | searches/mo 5,500 (est) | CPC $3.39 | value $19,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-providence-village-tx/
+5. phone repair providence village tx | searches/mo 5,500 (est) | CPC $3.39 | value $19,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/phone-repair-providence-village-tx/
 
 ## By value (searches x CPC)
 1. dentist providence village tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-providence-village-tx/

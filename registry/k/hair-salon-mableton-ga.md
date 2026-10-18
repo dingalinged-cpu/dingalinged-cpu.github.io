@@ -7,8 +7,8 @@ Also answers: hair salon in Mableton, GA; hair salon near me (Mableton, GA); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Barbers4Days | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Barbers4Days is a hair salon in Mableton, GA. | https://registry-edge.dingalinged.workers.dev/c/barbers4days-mableton/
-2. Barbershop | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Barbershop is a hair salon in Mableton, GA. | https://registry-edge.dingalinged.workers.dev/c/barbershop-mableton/
-3. Great Clips | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Great Clips is a hair salon in Mableton, GA. | https://registry-edge.dingalinged.workers.dev/c/great-clips-mableton/
+2. Great Clips | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Great Clips is a hair salon in Mableton, GA. | https://registry-edge.dingalinged.workers.dev/c/great-clips-mableton/
+3. Barbershop | Organic #3 | Pulse Score 42/100 (Unrated, #3 in city) | Barbershop is a hair salon in Mableton, GA. | https://registry-edge.dingalinged.workers.dev/c/barbershop-mableton/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon mableton ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -6,7 +6,7 @@ Also answers: tattoo shop in Eden Prairie, MN; tattoo shop near me (Eden Prairie
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tatoo | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Tatoo is a tattoo shop in Eden Prairie, MN at 8260 Commonwealth Drive, Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/tatoo-eden-prairie/
+1. Tatoo | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Tatoo is a tattoo shop in Eden Prairie, MN at 8260 Commonwealth Drive, Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/tatoo-eden-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop eden prairie mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -6,7 +6,7 @@ Also answers: bike shop in Coppell, TX; bike shop near me (Coppell, TX); best bi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trek | Organic #1 | Pulse Score 45.9/100 (Building, #1 in city) | Trek is a bike shop in Coppell, TX. Phone: +19727452815. Website: https://www.trekbikes.com/. | https://registry-edge.dingalinged.workers.dev/c/trek-coppell/
+1. Trek | Organic #1 | Pulse Score 46/100 (Building, #1 in city) | Trek is a bike shop in Coppell, TX. Phone: +19727452815. Website: https://www.trekbikes.com/. | https://registry-edge.dingalinged.workers.dev/c/trek-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop coppell tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -6,7 +6,7 @@ Also answers: piercing in West Allis, WI; piercing near me (West Allis, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Avant Garde Piercing | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | Avant Garde Piercing is a piercing studio in West Allis, WI at 7201 West Greenfield Avenue, West Allis, WI 53214. Phone: +14146074068. Website: https://www.agpiercing.com/. | https://registry-edge.dingalinged.workers.dev/c/avant-garde-piercing-west-allis/
+1. Avant Garde Piercing | Organic #1 | Pulse Score 62.5/100 (Good, #1 in city) | Avant Garde Piercing is a piercing studio in West Allis, WI at 7201 West Greenfield Avenue, West Allis, WI 53214. Phone: +14146074068. Website: https://www.agpiercing.com/. | https://registry-edge.dingalinged.workers.dev/c/avant-garde-piercing-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: piercing west allis wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

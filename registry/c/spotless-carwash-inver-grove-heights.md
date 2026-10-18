@@ -13,7 +13,7 @@ Spotless Carwash is a car wash in Inver Grove Heights, MN at 3095 - 3099 65th St
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 19% of car washes in Minneapolis–St. Paul, #1 of 3 car washes in Inver Grove Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 19% of car washes in Minneapolis–St. Paul, #1 of 3 car washes in Inver Grove Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

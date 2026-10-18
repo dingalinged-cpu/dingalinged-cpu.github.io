@@ -6,7 +6,7 @@ Also answers: photographer in Grapevine, TX; photographer near me (Grapevine, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CADY | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | CADY is a photographer in Grapevine, TX at 3801 William D Tate Avenue #550, Grapevine, TX 76051. | https://registry-edge.dingalinged.workers.dev/c/cady-grapevine/
+1. CADY | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | CADY is a photographer in Grapevine, TX at 3801 William D Tate Avenue #550, Grapevine, TX 76051. | https://registry-edge.dingalinged.workers.dev/c/cady-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer grapevine tx | category: Events & weddings | industry benchmark: Personal Services

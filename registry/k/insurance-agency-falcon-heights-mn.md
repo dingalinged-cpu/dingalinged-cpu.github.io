@@ -6,7 +6,7 @@ Also answers: insurance agency in Falcon Heights, MN; insurance agency near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Family Insurance | Organic #1 | Pulse Score 42.8/100 (Building, #1 in city) | American Family Insurance is an insurance agent in Falcon Heights, MN at 1545 Larpenteur Avenue West, Falcon Heights, MN. | https://registry-edge.dingalinged.workers.dev/c/american-family-insurance-falcon-heights/
+1. American Family Insurance | Organic #1 | Pulse Score 42.7/100 (Building, #1 in city) | American Family Insurance is an insurance agent in Falcon Heights, MN at 1545 Larpenteur Avenue West, Falcon Heights, MN. | https://registry-edge.dingalinged.workers.dev/c/american-family-insurance-falcon-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency falcon heights mn | category: insurance | industry benchmark: Finance & Insurance

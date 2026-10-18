@@ -13,7 +13,7 @@ Dermatology & Skin Cancer Center is a dermatologist in Overland Park, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:00
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 58% of dermatologists in Kansas City, MO, #1 of 1 dermatologists in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 58% of dermatologists in Kansas City, MO, #1 of 1 dermatologists in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

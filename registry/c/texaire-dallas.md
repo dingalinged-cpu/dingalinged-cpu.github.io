@@ -13,12 +13,12 @@ Texaire is a HVAC contractor in Dallas, TX. Phone: +14692137730. Website: https:
 - Website: https://texaire.com/
 - Email: info@texaire.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 66% of HVAC contractors in Dallas–Fort Worth, #4 of 9 HVAC contractors in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 68% of HVAC contractors in Dallas–Fort Worth, #4 of 9 HVAC contractors in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/texaire-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texaire-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13416458037 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13416458037 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

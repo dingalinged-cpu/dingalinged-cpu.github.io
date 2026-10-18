@@ -13,7 +13,7 @@ State Farm is an insurance agent in Skokie, IL at 5012 West Dempster Street, Sko
 - Website: https://www.statefarm.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 10:00-13:00
-- Pulse Score: 46.8/100 — Building — top 52% of insurance agents in Chicago, #1 of 2 insurance agents in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 51% of insurance agents in Chicago, #1 of 2 insurance agents in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

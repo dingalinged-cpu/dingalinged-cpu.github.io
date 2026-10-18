@@ -13,7 +13,7 @@ Breadsmith Bakery is a bakery in Edina, MN. Phone: +19529202778. Website: https:
 - Website: https://www.breadsmith.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-19:00; Sa 06:30-18:00; Su 07:00-18:00
-- Pulse Score: 47.3/100 — Building — top 98% of bakerys in Minneapolis–St. Paul, #4 of 4 bakerys in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 97% of bakerys in Minneapolis–St. Paul, #4 of 4 bakerys in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

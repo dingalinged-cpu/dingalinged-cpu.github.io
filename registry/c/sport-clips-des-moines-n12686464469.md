@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Des Moines, IA at 4209 Fleur Drive #3, Des Moines
 - Website: https://sportclips.com/us-ia-desmoines-ia107
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:30-19:00; Fr 09:30-18:00; Sa 09:00-17:00; Su 10:00-15:00
-- Pulse Score: 50.3/100 — Fair — top 67% of hair salons in Des Moines, IA, #30 of 34 hair salons in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 67% of hair salons in Des Moines, IA, #30 of 34 hair salons in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

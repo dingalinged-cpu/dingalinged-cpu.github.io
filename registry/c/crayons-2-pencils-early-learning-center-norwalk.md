@@ -13,7 +13,7 @@ Crayons 2 Pencils Early Learning Center is a preschool in Norwalk, IA at 800 Col
 - Website: https://www.crayons2pencils.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 9% of preschools in Des Moines, IA, #2 of 2 preschools in Norwalk (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 9% of preschools in Des Moines, IA, #2 of 2 preschools in Norwalk (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

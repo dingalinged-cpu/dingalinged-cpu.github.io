@@ -13,7 +13,7 @@ Club Car Wash is a car wash in Grain Valley, MO at 720 North Main Street, Grain 
 - Website: https://clubcarwash.com/locations/grain-valley-mo-hwy-40-n-main-street/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.9/100 — Building — top 65% of car washes in Kansas City, MO, #1 of 1 car washes in Grain Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 59% of car washes in Kansas City, MO, #1 of 1 car washes in Grain Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

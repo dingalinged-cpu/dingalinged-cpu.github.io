@@ -7,8 +7,8 @@ Also answers: pilates in Mckinney, TX; pilates near me (Mckinney, TX); best pila
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Club Pilates | Organic #1 | Pulse Score 50.5/100 (Fair, #1 in city) | Club Pilates is a pilates studio in McKinney, TX at 9245 Virginia Parkway #200, McKinney, TX. Phone: +19728385558. Website: https://clubpilates.com/. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-mckinney-n13668947311/
-2. Club Pilates | Organic #2 | Pulse Score 43.8/100 (Building, #2 in city) | Club Pilates is a pilates studio in McKinney, TX at 7001 South Custer Road #500, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-mckinney-n13665403194/
-3. Club Pilates | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | Club Pilates is a pilates studio in McKinney, TX at 1620 North Hardin Boulevard #1300, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-mckinney/
+2. Club Pilates | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | Club Pilates is a pilates studio in McKinney, TX at 7001 South Custer Road #500, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-mckinney-n13665403194/
+3. Club Pilates | Organic #3 | Pulse Score 43.5/100 (Building, #3 in city) | Club Pilates is a pilates studio in McKinney, TX at 1620 North Hardin Boulevard #1300, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates mckinney tx | category: Fitness | industry benchmark: Health & Fitness

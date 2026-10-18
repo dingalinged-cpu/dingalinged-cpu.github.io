@@ -13,7 +13,7 @@ OMNI Medspa is a skin care studio in Marietta, GA at 4880 Lower Roswell Road #63
 - Website: https://theomnispa.com/location-marietta-ga
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Su off; Tu-Sa 10:00-18:00
-- Pulse Score: 59.7/100 — Fair — top 36% of skin care studios in Atlanta, #3 of 5 skin care studios in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Fair — top 36% of skin care studios in Atlanta, #3 of 5 skin care studios in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

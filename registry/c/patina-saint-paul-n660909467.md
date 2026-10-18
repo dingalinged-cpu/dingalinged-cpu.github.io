@@ -13,7 +13,7 @@ Patina is a gift shop in Saint Paul, MN at 2057 Ford Parkway, Saint Paul, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 99% of gift shops in Minneapolis–St. Paul, #16 of 16 gift shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 99% of gift shops in Minneapolis–St. Paul, #16 of 16 gift shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

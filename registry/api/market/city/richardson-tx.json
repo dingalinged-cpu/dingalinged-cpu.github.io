@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Richardson, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
- "keywords": 72,
+ "keywords": 73,
  "lists": {
   "by_volume": [
    {
@@ -50,7 +50,7 @@
     "search_value_index_usd": 210000,
     "equivalent_google_ads_cost_month_usd": 12000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 18,
+    "registry_competitors": 20,
     "ranked_by": "by_volume"
    },
    {
@@ -65,7 +65,7 @@
     "search_value_index_usd": 75000,
     "equivalent_google_ads_cost_month_usd": 5400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 12,
+    "registry_competitors": 14,
     "ranked_by": "by_volume"
    },
    {
@@ -95,7 +95,7 @@
     "search_value_index_usd": 20000,
     "equivalent_google_ads_cost_month_usd": 1200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 21,
+    "registry_competitors": 22,
     "ranked_by": "by_volume"
    },
    {
@@ -110,7 +110,7 @@
     "search_value_index_usd": 15000,
     "equivalent_google_ads_cost_month_usd": 870,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 8,
+    "registry_competitors": 9,
     "ranked_by": "by_volume"
    },
    {
@@ -200,7 +200,7 @@
     "search_value_index_usd": 42000,
     "equivalent_google_ads_cost_month_usd": 2400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 25,
+    "registry_competitors": 26,
     "ranked_by": "by_volume"
    },
    {
@@ -311,6 +311,21 @@
     "ranked_by": "by_cpc"
    },
    {
+    "keyword": "architect richardson tx",
+    "slug": "architect-richardson-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-richardson-tx/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 990,
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "search_value_index_usd": 8200,
+    "equivalent_google_ads_cost_month_usd": 530,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "flooring companies richardson tx",
     "slug": "flooring-companies-richardson-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-richardson-tx/",
@@ -397,7 +412,7 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 3000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 2,
+    "registry_competitors": 3,
     "ranked_by": "by_cpc"
    },
    {
@@ -444,21 +459,6 @@
     "featured_spot_min_usd": 50,
     "registry_competitors": 1,
     "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "dance studio richardson tx",
-    "slug": "dance-studio-richardson-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-richardson-tx/",
-    "us_monthly_searches": 40000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 990,
-    "cpc_basis_usd": 6.17,
-    "cpc_median_usd": 6.17,
-    "search_value_index_usd": 6100,
-    "equivalent_google_ads_cost_month_usd": 440,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 4,
-    "ranked_by": "by_cpc"
    }
   ],
   "by_value": [
@@ -504,7 +504,7 @@
     "search_value_index_usd": 210000,
     "equivalent_google_ads_cost_month_usd": 12000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 18,
+    "registry_competitors": 20,
     "ranked_by": "by_value"
    },
    {
@@ -549,7 +549,7 @@
     "search_value_index_usd": 75000,
     "equivalent_google_ads_cost_month_usd": 5400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 12,
+    "registry_competitors": 14,
     "ranked_by": "by_value"
    },
    {
@@ -609,7 +609,7 @@
     "search_value_index_usd": 42000,
     "equivalent_google_ads_cost_month_usd": 2400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 25,
+    "registry_competitors": 26,
     "ranked_by": "by_value"
    },
    {
@@ -669,7 +669,7 @@
     "search_value_index_usd": 25000,
     "equivalent_google_ads_cost_month_usd": 1600,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_value"
    },
    {
@@ -684,7 +684,7 @@
     "search_value_index_usd": 20000,
     "equivalent_google_ads_cost_month_usd": 1200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 21,
+    "registry_competitors": 22,
     "ranked_by": "by_value"
    }
   ]

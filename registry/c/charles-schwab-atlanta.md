@@ -13,7 +13,7 @@ Charles Schwab is a financial advisor in Atlanta, GA at 1075 Peachtree Street No
 - Website: https://client.schwab.com/public/branchlocator/branchdetails.aspx?branchid=1234
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 50.6/100 — Fair — top 49% of financial advisors in Atlanta, #3 of 4 financial advisors in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 41% of financial advisors in Atlanta, #3 of 4 financial advisors in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

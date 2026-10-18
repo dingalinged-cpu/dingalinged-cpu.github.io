@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Lone Chimney Mercantile | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Lone Chimney Mercantile is a gift shop in Richardson, TX at 205 West Main Street, Richardson, TX 75081. Phone: +12147348691. Website: https://www.lonechimneymercantile.com/. | https://registry-edge.dingalinged.workers.dev/c/lone-chimney-mercantile-richardson/
 2. Indian Fashion & Gifts | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Indian Fashion & Gifts is a gift shop in Richardson, TX at 524 West Belt Line Road, Richardson, TX 75080. Phone: +19722389055. | https://registry-edge.dingalinged.workers.dev/c/indian-fashion-and-gifts-richardson/
-3. Beaucoup | Organic #3 | Pulse Score 58.9/100 (Unrated, #3 in city) | Beaucoup is a gift shop in Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/beaucoup-richardson/
+3. Beaucoup | Organic #3 | Pulse Score 58.8/100 (Unrated, #3 in city) | Beaucoup is a gift shop in Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/beaucoup-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop richardson tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

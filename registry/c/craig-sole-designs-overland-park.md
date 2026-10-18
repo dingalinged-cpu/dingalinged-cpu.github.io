@@ -13,7 +13,7 @@ Craig Sole Designs is a florist in Overland Park, KS at 7928 Conser Street, Over
 - Website: https://www.craigsoledesigns.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 10% of florists in Kansas City, MO, #1 of 1 florists in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 10% of florists in Kansas City, MO, #1 of 1 florists in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

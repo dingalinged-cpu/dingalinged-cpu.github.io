@@ -6,8 +6,8 @@ Also answers: insurance agent in Little Elm, TX; insurance agent near me (Little
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | State Farm is an insurance agent in Little Elm, TX at 800 West Eldorado Parkway #116, Little Elm, TX 75068. Phone: +14692380912. Website: https://www.ryandunnsf.com/. | https://registry-edge.dingalinged.workers.dev/c/state-farm-little-elm/
-2. Allstate | Organic #2 | Pulse Score 42.4/100 (Building, #2 in city) | Allstate is an insurance agent in Little Elm, TX. | https://registry-edge.dingalinged.workers.dev/c/allstate-little-elm/
+1. State Farm | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | State Farm is an insurance agent in Little Elm, TX at 800 West Eldorado Parkway #116, Little Elm, TX 75068. Phone: +14692380912. Website: https://www.ryandunnsf.com/. | https://registry-edge.dingalinged.workers.dev/c/state-farm-little-elm/
+2. Allstate | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | Allstate is an insurance agent in Little Elm, TX. | https://registry-edge.dingalinged.workers.dev/c/allstate-little-elm/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent little elm tx | category: Professional & financial services | industry benchmark: Finance & Insurance

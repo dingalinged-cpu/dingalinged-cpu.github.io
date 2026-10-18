@@ -6,10 +6,10 @@ Also answers: funeral home in Lewisville, TX; funeral home near me (Lewisville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carrillo Funeral Home | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Carrillo Funeral Home is a funeral home in Lewisville, TX at 697 South Stemmons Freeway, Lewisville, TX 75067. Phone: +19724600460. Website: https://www.carrillofuneralhomes.com/about/lewisville-texas. | https://registry-edge.dingalinged.workers.dev/c/carrillo-funeral-home-lewisville/
-2. Furnales-USA | Organic #2 | Pulse Score 58.2/100 (Fair, #2 in city) | Furnales-USA is a funeral home in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/furnales-usa-lewisville/
-3. Thrash Funeral Chapel | Organic #3 | Pulse Score 58.2/100 (Unrated, #3 in city) | Thrash Funeral Chapel is a funeral home in Lewisville, TX at 150 Bellaire Boulevard, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/thrash-funeral-chapel-lewisville/
-4. Mulkey Mason Funeral Home | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Mulkey Mason Funeral Home is a funeral home in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/mulkey-mason-funeral-home-lewisville/
+1. Carrillo Funeral Home | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Carrillo Funeral Home is a funeral home in Lewisville, TX at 697 South Stemmons Freeway, Lewisville, TX 75067. Phone: +19724600460. Website: https://www.carrillofuneralhomes.com/about/lewisville-texas. | https://registry-edge.dingalinged.workers.dev/c/carrillo-funeral-home-lewisville/
+2. Thrash Funeral Chapel | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Thrash Funeral Chapel is a funeral home in Lewisville, TX at 150 Bellaire Boulevard, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/thrash-funeral-chapel-lewisville/
+3. Furnales-USA | Organic #3 | Pulse Score 57.8/100 (Fair, #3 in city) | Furnales-USA is a funeral home in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/furnales-usa-lewisville/
+4. Mulkey Mason Funeral Home | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Mulkey Mason Funeral Home is a funeral home in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/mulkey-mason-funeral-home-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home lewisville tx | category: Professional & financial services | industry benchmark: Finance & Insurance

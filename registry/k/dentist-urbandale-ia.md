@@ -6,9 +6,9 @@ Also answers: dentist in Urbandale, IA; dentist near me (Urbandale, IA); best de
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Children's Dental Center of Central Iowa | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Children's Dental Center of Central Iowa is a dentist in Urbandale, IA at 2401 128th Street, Urbandale, IA 50323. Website: https://www.mykidsdentist.com/. | https://registry-edge.dingalinged.workers.dev/c/childrens-dental-center-of-central-iowa-urbandale/
-2. Kroner Family Dentistry | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Kroner Family Dentistry is a dentist in Urbandale, IA at 6701 Douglas Avenue, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/kroner-family-dentistry-urbandale/
-3. Prigge Diana | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | Prigge Diana is a dentist in Urbandale, IA at 3835 70th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/prigge-diana-urbandale/
+1. Children's Dental Center of Central Iowa | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Children's Dental Center of Central Iowa is a dentist in Urbandale, IA at 2401 128th Street, Urbandale, IA 50323. Website: https://www.mykidsdentist.com/. | https://registry-edge.dingalinged.workers.dev/c/childrens-dental-center-of-central-iowa-urbandale/
+2. Kroner Family Dentistry | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Kroner Family Dentistry is a dentist in Urbandale, IA at 6701 Douglas Avenue, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/kroner-family-dentistry-urbandale/
+3. Prigge Diana | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Prigge Diana is a dentist in Urbandale, IA at 3835 70th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/prigge-diana-urbandale/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist urbandale ia | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

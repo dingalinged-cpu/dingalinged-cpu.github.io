@@ -19,6 +19,6 @@ MoreThanSEO is a marketing agency in Plano, TX at 8920 Coit Road, Plano, TX 7502
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/morethanseo-plano/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/morethanseo-plano.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13436286147 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13436286147 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

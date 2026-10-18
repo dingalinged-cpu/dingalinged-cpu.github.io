@@ -1,4 +1,4 @@
-The top unpaid gym listing for Pearland, TX is Wellbeing T50 Fitness (a gym in Pearland, TX at 12801 West Broadway Street, Pearland, TX. Website: https://www.t50fitness.com/). 6 gym businesses are listed for Pearland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Pearland, TX is Wellbeing T50 Fitness (a gym in Pearland, TX at 12801 West Broadway Street, Pearland, TX. Website: https://www.t50fitness.com/). 7 gym businesses are listed for Pearland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Pearland, TX?
 
@@ -6,12 +6,13 @@ Also answers: gym in Pearland, TX; gym near me (Pearland, TX); best gym Pearland
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wellbeing T50 Fitness | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Wellbeing T50 Fitness is a gym in Pearland, TX at 12801 West Broadway Street, Pearland, TX. Website: https://www.t50fitness.com/. | https://registry-edge.dingalinged.workers.dev/c/wellbeing-t50-fitness-pearland/
-2. Anytime Fitness | Organic #2 | Pulse Score 50.3/100 (Fair, #2 in city) | Anytime Fitness is a gym in Pearland, TX at 8703 West Broadway Street #101, Pearland, TX 77584. Phone: +18327369150. Website: https://www.anytimefitness.com/gyms/3071/pearland-tx-77584/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-pearland/
-3. Anytime Fitness | Organic #3 | Pulse Score 50.3/100 (Fair, #3 in city) | Anytime Fitness is a gym in Pearland, TX at 12573 West Broadway Street, Pearland, TX 77584. Phone: +18327363654. Website: https://www.anytimefitness.com/gyms/4404/pearland-tx-77584/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-pearland-w589008445/
-4. iLoveKickboxing | Organic #4 | Pulse Score 44.3/100 (Unrated, #4 in city) | iLoveKickboxing is a gym in Pearland, TX at 11200 West Broadway Street, Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/ilovekickboxing-pearland/
-5. F45 Training | Organic #5 | Pulse Score 42.9/100 (Building, #5 in city) | F45 Training is a gym in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/f45-training-pearland/
-6. Planet Fitness | Organic #6 | Pulse Score 42.3/100 (Building, #6 in city) | Planet Fitness is a gym in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-pearland/
+1. Wellbeing T50 Fitness | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Wellbeing T50 Fitness is a gym in Pearland, TX at 12801 West Broadway Street, Pearland, TX. Website: https://www.t50fitness.com/. | https://registry-edge.dingalinged.workers.dev/c/wellbeing-t50-fitness-pearland/
+2. Pearland Recreation Center | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Pearland Recreation Center is a gym in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/pearland-recreation-center-pearland/
+3. Anytime Fitness | Organic #3 | Pulse Score 50.1/100 (Fair, #3 in city) | Anytime Fitness is a gym in Pearland, TX at 8703 West Broadway Street #101, Pearland, TX 77584. Phone: +18327369150. Website: https://www.anytimefitness.com/gyms/3071/pearland-tx-77584/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-pearland/
+4. Anytime Fitness | Organic #4 | Pulse Score 50.1/100 (Fair, #4 in city) | Anytime Fitness is a gym in Pearland, TX at 12573 West Broadway Street, Pearland, TX 77584. Phone: +18327363654. Website: https://www.anytimefitness.com/gyms/4404/pearland-tx-77584/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-pearland-w589008445/
+5. iLoveKickboxing | Organic #5 | Pulse Score 44.2/100 (Unrated, #5 in city) | iLoveKickboxing is a gym in Pearland, TX at 11200 West Broadway Street, Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/ilovekickboxing-pearland/
+6. F45 Training | Organic #6 | Pulse Score 42.8/100 (Building, #6 in city) | F45 Training is a gym in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/f45-training-pearland/
+7. Planet Fitness | Organic #7 | Pulse Score 42.3/100 (Building, #7 in city) | Planet Fitness is a gym in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym pearland tx | category: Fitness | industry benchmark: Health & Fitness
@@ -21,7 +22,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'gym near me': $1.67-$6.14 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 6
+- Registry businesses competing: 7
 - Equivalent Google Ads cost per month: ~$5,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

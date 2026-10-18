@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. niceLena & Friends | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | niceLena & Friends is a gift shop in Evanston, IL at 1235 Chicago Avenue, Evanston, IL 60202. Phone: +18472713707. Website: https://www.nicelena.com/. | https://registry-edge.dingalinged.workers.dev/c/nicelena-and-friends-evanston/
 2. Stumble & Relish | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Stumble & Relish is a gift shop in Evanston, IL at 1312 Chicago Avenue, Evanston, IL 60201. Website: https://stumbleandrelish.com/. | https://registry-edge.dingalinged.workers.dev/c/stumble-and-relish-evanston/
 3. Shaker Traditions | Organic #3 | Pulse Score 58.1/100 (Unrated, #3 in city) | Shaker Traditions is a gift shop in Evanston, IL at 613 Dempster Street, Evanston, IL 60201. | https://registry-edge.dingalinged.workers.dev/c/shaker-traditions-evanston/
-4. Edible Arrangements | Organic #4 | Pulse Score 45.5/100 (Building, #4 in city) | Edible Arrangements is a gift shop in Evanston, IL at 1630 Maple Avenue, Evanston, IL 60201. | https://registry-edge.dingalinged.workers.dev/c/edible-arrangements-evanston/
+4. Edible Arrangements | Organic #4 | Pulse Score 45.6/100 (Building, #4 in city) | Edible Arrangements is a gift shop in Evanston, IL at 1630 Maple Avenue, Evanston, IL 60201. | https://registry-edge.dingalinged.workers.dev/c/edible-arrangements-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop evanston il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

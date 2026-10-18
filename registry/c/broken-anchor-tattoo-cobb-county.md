@@ -13,7 +13,7 @@ Broken Anchor Tattoo is a tattoo shop in Cobb County, GA at 2745 Sandy Plains Ro
 - Website: n/a
 - Email: brokenanchortattooatl@gmail.com
 - Opening hours (OSM syntax): Mo off; Tu-Th 12:00-20:00; Fr-Sa 00:00-24:00; Su 12:00-18:00
-- Pulse Score: 60.7/100 — Good — top 46% of tattoo shops in Atlanta, #5 of 7 tattoo shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.7, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Good — top 46% of tattoo shops in Atlanta, #5 of 7 tattoo shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.7, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

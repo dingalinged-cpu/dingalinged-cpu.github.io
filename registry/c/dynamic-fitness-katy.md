@@ -13,12 +13,12 @@ Dynamic Fitness is a gym in Katy, TX at 17750 Barker Cypress Road, Katy, TX 7709
 - Website: https://thedynamicfitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 9% of gyms in Houston, #4 of 8 gyms in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 10% of gyms in Houston, #3 of 8 gyms in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/dynamic-fitness-katy/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dynamic-fitness-katy.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/387394302 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/387394302 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ A Better Way Chiropractic - Memorial City is a chiropractor in Houston, TX at 89
 - Website: https://www.abetterwaychiropractic.com/memorial-city-tx/
 - Email: memorialcity@abetterwaychiropractic.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.4/100 — Good — top 5% of chiropractors in Houston, #1 of 19 chiropractors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 5% of chiropractors in Houston, #1 of 19 chiropractors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-better-way-chiropractic-memorial-city-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-better-way-chiropractic-memorial-city-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12946581763 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12946581763 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

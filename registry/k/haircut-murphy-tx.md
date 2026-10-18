@@ -7,9 +7,9 @@ Also answers: haircut in Murphy, TX; haircut near me (Murphy, TX); best haircut 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The Full Spectrum | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | The Full Spectrum is a hair salon in Murphy, TX at 141 North Murphy Road, Murphy, TX 75094. Phone: +19725091565. Website: https://www.thefullspectrum.us/. | https://registry-edge.dingalinged.workers.dev/c/the-full-spectrum-murphy/
-2. B-H-B Hair Salon | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | B-H-B Hair Salon is a hair salon in Murphy, TX. | https://registry-edge.dingalinged.workers.dev/c/b-h-b-hair-salon-murphy/
-3. Supercuts | Organic #3 | Pulse Score 45.2/100 (Building, #3 in city) | Supercuts is a hair salon in Murphy, TX at 121 E FM 544, Murphy, TX 75094. | https://registry-edge.dingalinged.workers.dev/c/supercuts-murphy/
-4. Sport Clips | Organic #4 | Pulse Score 44.8/100 (Building, #4 in city) | Sport Clips is a hair salon in Murphy, TX at 120 E FM 544, Murphy, TX 75094. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-murphy/
+2. B-H-B Hair Salon | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | B-H-B Hair Salon is a hair salon in Murphy, TX. | https://registry-edge.dingalinged.workers.dev/c/b-h-b-hair-salon-murphy/
+3. Supercuts | Organic #3 | Pulse Score 45.1/100 (Building, #3 in city) | Supercuts is a hair salon in Murphy, TX at 121 E FM 544, Murphy, TX 75094. | https://registry-edge.dingalinged.workers.dev/c/supercuts-murphy/
+4. Sport Clips | Organic #4 | Pulse Score 44.7/100 (Building, #4 in city) | Sport Clips is a hair salon in Murphy, TX at 120 E FM 544, Murphy, TX 75094. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-murphy/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut murphy tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

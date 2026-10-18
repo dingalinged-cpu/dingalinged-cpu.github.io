@@ -13,7 +13,7 @@ Architectural Products Inc. is a concrete contractor in West Des Moines, IA at 5
 - Website: https://architecturalproductsiowa.com/
 - Email: danielle@apiowa.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 50% of concrete contractors in Des Moines, IA, #1 of 1 concrete contractors in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 50% of concrete contractors in Des Moines, IA, #1 of 1 concrete contractors in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

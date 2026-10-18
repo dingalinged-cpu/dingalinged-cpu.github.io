@@ -6,9 +6,9 @@ Also answers: massage in Bedford, TX; massage near me (Bedford, TX); best massag
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. donEvita Wellness Spa | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | donEvita Wellness Spa is a massage studio in Bedford, TX at 3700 Cheek Sparger Road #100, Bedford, TX 76021. Phone: +16824572477. | https://registry-edge.dingalinged.workers.dev/c/donevita-wellness-spa-bedford/
-2. Lotus Foot Spa | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Lotus Foot Spa is a massage studio in Bedford, TX at 2900 State Highway 121 #141, Bedford, TX 76021. | https://registry-edge.dingalinged.workers.dev/c/lotus-foot-spa-bedford/
-3. Foot Relax | Organic #3 | Pulse Score 47.5/100 (Unrated, #3 in city) | Foot Relax is a massage studio in Bedford, TX at 3516 East Harwood Road #114, Bedford, TX 76021. Phone: +18176858161. | https://registry-edge.dingalinged.workers.dev/c/foot-relax-bedford/
+1. donEvita Wellness Spa | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | donEvita Wellness Spa is a massage studio in Bedford, TX at 3700 Cheek Sparger Road #100, Bedford, TX 76021. Phone: +16824572477. | https://registry-edge.dingalinged.workers.dev/c/donevita-wellness-spa-bedford/
+2. Lotus Foot Spa | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Lotus Foot Spa is a massage studio in Bedford, TX at 2900 State Highway 121 #141, Bedford, TX 76021. | https://registry-edge.dingalinged.workers.dev/c/lotus-foot-spa-bedford/
+3. Foot Relax | Organic #3 | Pulse Score 47.4/100 (Unrated, #3 in city) | Foot Relax is a massage studio in Bedford, TX at 3516 East Harwood Road #114, Bedford, TX 76021. Phone: +18176858161. | https://registry-edge.dingalinged.workers.dev/c/foot-relax-bedford/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage bedford tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

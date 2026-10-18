@@ -19,6 +19,6 @@ Extravagant Techniques is a hair salon in Rockwall, TX at 1901 South Goliad Stre
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/extravagant-techniques-rockwall/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/extravagant-techniques-rockwall.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12148102218 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12148102218 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

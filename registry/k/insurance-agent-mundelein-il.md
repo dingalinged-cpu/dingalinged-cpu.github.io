@@ -6,8 +6,8 @@ Also answers: insurance agent in Mundelein, IL; insurance agent near me (Mundele
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aleckson Insurance | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Aleckson Insurance is an insurance agent in Mundelein, IL. | https://registry-edge.dingalinged.workers.dev/c/aleckson-insurance-mundelein/
-2. State Farm | Organic #2 | Pulse Score 44.5/100 (Building, #2 in city) | State Farm is an insurance agent in Mundelein, IL at 722 South Butterfield Road, Mundelein, IL 60060. | https://registry-edge.dingalinged.workers.dev/c/state-farm-mundelein/
+1. Aleckson Insurance | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Aleckson Insurance is an insurance agent in Mundelein, IL. | https://registry-edge.dingalinged.workers.dev/c/aleckson-insurance-mundelein/
+2. State Farm | Organic #2 | Pulse Score 44.4/100 (Building, #2 in city) | State Farm is an insurance agent in Mundelein, IL at 722 South Butterfield Road, Mundelein, IL 60060. | https://registry-edge.dingalinged.workers.dev/c/state-farm-mundelein/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent mundelein il | category: Professional & financial services | industry benchmark: Finance & Insurance

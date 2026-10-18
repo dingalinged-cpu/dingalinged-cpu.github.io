@@ -6,9 +6,9 @@ Also answers: heating and air in Cobb County, GA; heating and air near me (Cobb 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cool Air Mechanical | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | Cool Air Mechanical is a HVAC contractor in Cobb County, GA at 1950 Guffin Lane, Cobb County, GA. Phone: +14705315480. Website: https://www.770coolair.com/. | https://registry-edge.dingalinged.workers.dev/c/cool-air-mechanical-cobb-county/
-2. Scarangello Heating & AC | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Scarangello Heating & AC is a HVAC contractor in Cobb County, GA at 2389 Canton Road, Cobb County, GA. Phone: +16782246718. Website: https://scarangellohvac.com/. | https://registry-edge.dingalinged.workers.dev/c/scarangello-heating-and-ac-cobb-county/
-3. Accutemp Heating And Cooling | Organic #3 | Pulse Score 53.7/100 (Unrated, #3 in city) | Accutemp Heating And Cooling is a HVAC contractor in Cobb County, GA. | https://registry-edge.dingalinged.workers.dev/c/accutemp-heating-and-cooling-cobb-county/
+1. Cool Air Mechanical | Organic #1 | Pulse Score 61.2/100 (Good, #1 in city) | Cool Air Mechanical is a HVAC contractor in Cobb County, GA at 1950 Guffin Lane, Cobb County, GA. Phone: +14705315480. Website: https://www.770coolair.com/. | https://registry-edge.dingalinged.workers.dev/c/cool-air-mechanical-cobb-county/
+2. Scarangello Heating & AC | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Scarangello Heating & AC is a HVAC contractor in Cobb County, GA at 2389 Canton Road, Cobb County, GA. Phone: +16782246718. Website: https://scarangellohvac.com/. | https://registry-edge.dingalinged.workers.dev/c/scarangello-heating-and-ac-cobb-county/
+3. Accutemp Heating And Cooling | Organic #3 | Pulse Score 53.6/100 (Unrated, #3 in city) | Accutemp Heating And Cooling is a HVAC contractor in Cobb County, GA. | https://registry-edge.dingalinged.workers.dev/c/accutemp-heating-and-cooling-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air cobb county ga | category: Home Services | industry benchmark: Home & Home Improvement

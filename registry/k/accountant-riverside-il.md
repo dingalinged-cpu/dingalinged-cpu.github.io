@@ -6,7 +6,7 @@ Also answers: accountant in Riverside, IL; accountant near me (Riverside, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Patek & Associates | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Patek & Associates is an accountant in Riverside, IL at 345 East Burlington Street, Riverside, IL 60546. | https://registry-edge.dingalinged.workers.dev/c/patek-and-associates-riverside/
+1. Patek & Associates | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Patek & Associates is an accountant in Riverside, IL at 345 East Burlington Street, Riverside, IL 60546. | https://registry-edge.dingalinged.workers.dev/c/patek-and-associates-riverside/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant riverside il | category: professional_accounting | industry benchmark: Business Services

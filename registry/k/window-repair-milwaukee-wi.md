@@ -6,9 +6,9 @@ Also answers: window repair in Milwaukee, WI; window repair near me (Milwaukee, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cobalt Glassworks | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Cobalt Glassworks is a window repair service in Milwaukee, WI. Phone: +14145347984. Website: https://cobaltglassworks.com/. | https://registry-edge.dingalinged.workers.dev/c/cobalt-glassworks-milwaukee/
-2. 414 Glass & Grooves | Organic #2 | Pulse Score 62/100 (Good, #2 in city) | 414 Glass & Grooves is a window repair service in Milwaukee, WI at 810 North 3rd Street, Milwaukee, WI 53203. Phone: +14148770999. Website: https://www.glassandgrooves.com/. | https://registry-edge.dingalinged.workers.dev/c/414-glass-and-grooves-milwaukee/
-3. Square One Art Glass | Organic #3 | Pulse Score 60.4/100 (Unrated, #3 in city) | Square One Art Glass is a window repair service in Milwaukee, WI at 5324 West Vliet Street, Milwaukee, WI 53208. Phone: +14142590811. Website: https://squareoneartglass.com/. | https://registry-edge.dingalinged.workers.dev/c/square-one-art-glass-milwaukee/
+1. Cobalt Glassworks | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Cobalt Glassworks is a window repair service in Milwaukee, WI. Phone: +14145347984. Website: https://cobaltglassworks.com/. | https://registry-edge.dingalinged.workers.dev/c/cobalt-glassworks-milwaukee/
+2. 414 Glass & Grooves | Organic #2 | Pulse Score 61.9/100 (Good, #2 in city) | 414 Glass & Grooves is a window repair service in Milwaukee, WI at 810 North 3rd Street, Milwaukee, WI 53203. Phone: +14148770999. Website: https://www.glassandgrooves.com/. | https://registry-edge.dingalinged.workers.dev/c/414-glass-and-grooves-milwaukee/
+3. Square One Art Glass | Organic #3 | Pulse Score 60.3/100 (Unrated, #3 in city) | Square One Art Glass is a window repair service in Milwaukee, WI at 5324 West Vliet Street, Milwaukee, WI 53208. Phone: +14142590811. Website: https://squareoneartglass.com/. | https://registry-edge.dingalinged.workers.dev/c/square-one-art-glass-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair milwaukee wi | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

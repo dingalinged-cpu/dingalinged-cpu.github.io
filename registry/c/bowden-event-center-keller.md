@@ -13,12 +13,12 @@ Bowden Event Center is an event venue in Keller, TX at 1775 Keller Parkway, Kell
 - Website: https://www.thebowden.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 43% of event venues in Dallas–Fort Worth, #1 of 1 event venues in Keller (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 42% of event venues in Dallas–Fort Worth, #1 of 1 event venues in Keller (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/bowden-event-center-keller/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bowden-event-center-keller.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/792997520 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/792997520 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

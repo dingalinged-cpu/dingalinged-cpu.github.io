@@ -13,7 +13,7 @@ Three Dog Bakery Overland Park is a pet store in Overland Park, KS at 7951 West 
 - Website: https://www.facebook.com/threedogbakery.bluhawk/about
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Fair — top 8% of pet stores in Kansas City, MO, #1 of 7 pet stores in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Fair — top 8% of pet stores in Kansas City, MO, #1 of 7 pet stores in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. JDR Automotive | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | JDR Automotive is an auto repair shop in Lansing, KS. | https://registry-edge.dingalinged.workers.dev/c/jdr-automotive-lansing/
 3. Platinum Automotive | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Platinum Automotive is an auto repair shop in Lansing, KS. | https://registry-edge.dingalinged.workers.dev/c/platinum-automotive-lansing/
 4. PPG Collision Repair Center | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | PPG Collision Repair Center is an auto repair shop in Lansing, KS. | https://registry-edge.dingalinged.workers.dev/c/ppg-collision-repair-center-lansing/
-5. Take 5 Oil Change | Organic #5 | Pulse Score 43.5/100 (Building, #5 in city) | Take 5 Oil Change is an auto repair shop in Lansing, KS. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-lansing/
+5. Take 5 Oil Change | Organic #5 | Pulse Score 43.4/100 (Building, #5 in city) | Take 5 Oil Change is an auto repair shop in Lansing, KS. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-lansing/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair lansing ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

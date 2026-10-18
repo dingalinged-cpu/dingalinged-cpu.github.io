@@ -13,12 +13,12 @@ Ecoutez Hearing Aid Boutique is an audiologist in Southlake, TX at 1438 E Southl
 - Website: https://ecoutez.com/
 - Email: info@ecoutez.com
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00, Fr 09:00-16:00, Sa "Appointment only"
-- Pulse Score: 63.3/100 — Good — top 20% of audiologists in Dallas–Fort Worth, #1 of 2 audiologists in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 20% of audiologists in Dallas–Fort Worth, #1 of 2 audiologists in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 66.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/ecoutez-hearing-aid-boutique-southlake/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ecoutez-hearing-aid-boutique-southlake.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11137561941 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11137561941 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

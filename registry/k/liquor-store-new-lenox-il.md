@@ -7,7 +7,7 @@ Also answers: liquor store in New Lenox, IL; liquor store near me (New Lenox, IL
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. United Liquor | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | United Liquor is a liquor store in New Lenox, IL at 148 West Illinois Highway, New Lenox, IL 60451. Phone: +18154639490. | https://registry-edge.dingalinged.workers.dev/c/united-liquor-new-lenox/
-2. New Lenox Food & Liquor | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | New Lenox Food & Liquor is a liquor store in New Lenox, IL at 13410 Maple Road, New Lenox, IL 60448. | https://registry-edge.dingalinged.workers.dev/c/new-lenox-food-and-liquor-new-lenox/
+2. New Lenox Food & Liquor | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | New Lenox Food & Liquor is a liquor store in New Lenox, IL at 13410 Maple Road, New Lenox, IL 60448. | https://registry-edge.dingalinged.workers.dev/c/new-lenox-food-and-liquor-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store new lenox il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Sodie Rivera Insurance Agency Inc. is an insurance agent in Wauwatosa, WI at 642
 - Website: https://sodierivera.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 48.9/100 — Building — top 51% of insurance agents in Milwaukee, #6 of 8 insurance agents in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 51% of insurance agents in Milwaukee, #6 of 8 insurance agents in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

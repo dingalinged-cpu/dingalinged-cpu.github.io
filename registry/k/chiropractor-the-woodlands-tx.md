@@ -6,8 +6,8 @@ Also answers: chiropractor in The Woodlands, TX; chiropractor near me (The Woodl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Boss Chiropractic & Rehabilitation | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Boss Chiropractic & Rehabilitation is a chiropractor in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/boss-chiropractic-and-rehabilitation-the-woodlands/
-2. Foundation Chiropractic | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Foundation Chiropractic is a chiropractor in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/foundation-chiropractic-the-woodlands/
+1. Boss Chiropractic & Rehabilitation | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Boss Chiropractic & Rehabilitation is a chiropractor in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/boss-chiropractic-and-rehabilitation-the-woodlands/
+2. Foundation Chiropractic | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Foundation Chiropractic is a chiropractor in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/foundation-chiropractic-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor the woodlands tx | category: Health & medical | industry benchmark: Physicians & Surgeons

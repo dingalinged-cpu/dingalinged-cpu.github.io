@@ -13,12 +13,12 @@ Discount Tire is a tire shop in Dallas, TX at 6616 East Northwest Highway, Dalla
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
-- Pulse Score: 47.8/100 — Building — top 64% of tire shops in Dallas–Fort Worth, #23 of 30 tire shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 64% of tire shops in Dallas–Fort Worth, #22 of 30 tire shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-dallas-w466473189/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-dallas-w466473189.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/466473189 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/466473189 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

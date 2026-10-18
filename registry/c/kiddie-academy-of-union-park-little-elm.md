@@ -19,6 +19,6 @@ Kiddie Academy of Union Park is a preschool in Little Elm, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/kiddie-academy-of-union-park-little-elm/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kiddie-academy-of-union-park-little-elm.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/902568091 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/902568091 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

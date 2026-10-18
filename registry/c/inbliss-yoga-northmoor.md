@@ -13,7 +13,7 @@ InBliss Yoga is a yoga studio in Northmoor, MO at 5106 Northwest Waukomis Drive,
 - Website: https://inblissyoga.mykajabi.com/store
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 34% of yoga studios in Kansas City, MO, #1 of 1 yoga studios in Northmoor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 34% of yoga studios in Kansas City, MO, #1 of 1 yoga studios in Northmoor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

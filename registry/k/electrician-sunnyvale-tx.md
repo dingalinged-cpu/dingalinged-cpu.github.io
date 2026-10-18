@@ -6,7 +6,7 @@ Also answers: electrician in Sunnyvale, TX; electrician near me (Sunnyvale, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clark Electric | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Clark Electric is an electrician in Sunnyvale, TX at 246 South Collins Road, Sunnyvale, TX 75182. | https://registry-edge.dingalinged.workers.dev/c/clark-electric-sunnyvale/
+1. Clark Electric | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Clark Electric is an electrician in Sunnyvale, TX at 246 South Collins Road, Sunnyvale, TX 75182. | https://registry-edge.dingalinged.workers.dev/c/clark-electric-sunnyvale/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician sunnyvale tx | category: Home services - Electrical | industry benchmark: Home & Home Improvement

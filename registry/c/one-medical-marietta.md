@@ -13,7 +13,7 @@ one medical is a family medicine practice in Marietta, GA at 1311 Johnson Ferry 
 - Website: https://www.onemedical.com/locations/atl/merchantswalk/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Th off
-- Pulse Score: 49.5/100 — Building — top 81% of family medicine practices in Atlanta, #6 of 6 family medicine practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 81% of family medicine practices in Atlanta, #6 of 6 family medicine practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

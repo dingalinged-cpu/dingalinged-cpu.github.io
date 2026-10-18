@@ -19,6 +19,6 @@ Plano Barbers is a barber shop in Plano, TX at 1031 East 15th Street, Plano, TX 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/plano-barbers-plano/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/plano-barbers-plano.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12385610516 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12385610516 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

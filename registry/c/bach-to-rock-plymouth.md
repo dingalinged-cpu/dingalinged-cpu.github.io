@@ -13,7 +13,7 @@ Bach to Rock is a music school in Plymouth, MN at 4345 Nathan Lane North, Plymou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.3/100 — Building — top 95% of music schools in Minneapolis–St. Paul, #1 of 1 music schools in Plymouth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 95% of music schools in Minneapolis–St. Paul, #1 of 1 music schools in Plymouth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

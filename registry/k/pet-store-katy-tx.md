@@ -6,10 +6,10 @@ Also answers: pet store in Katy, TX; pet store near me (Katy, TX); best pet stor
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | PetSmart is a pet store in Katy, TX at 19945 Katy Freeway, Katy, TX 77094. Phone: +12815991125. Website: https://www.petsmart.com/stores/us/tx/houston-store0204.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-katy/
-2. Petco | Organic #2 | Pulse Score 47.1/100 (Building, #2 in city) | Petco is a pet store in Katy, TX at 513 South Mason Road, Katy, TX 77450. Phone: +12816479779. Website: https://stores.petco.com/tx/katy/pet-supplies-katy-tx-464.html. | https://registry-edge.dingalinged.workers.dev/c/petco-katy/
-3. Petco | Organic #3 | Pulse Score 46.6/100 (Building, #3 in city) | Petco is a pet store in Katy, TX at 2844 West Grand Parkway North, Katy, TX 77449. Phone: +13463078133. Website: https://stores.petco.com/tx/katy/pet-supplies-katy-tx-2462.html. | https://registry-edge.dingalinged.workers.dev/c/petco-katy-n7001418523/
-4. PetSmart | Organic #4 | Pulse Score 42.6/100 (Building, #4 in city) | PetSmart is a pet store in Katy, TX at 26960 FM 1093, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/petsmart-katy-n13161108273/
+1. PetSmart | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | PetSmart is a pet store in Katy, TX at 19945 Katy Freeway, Katy, TX 77094. Phone: +12815991125. Website: https://www.petsmart.com/stores/us/tx/houston-store0204.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-katy/
+2. Petco | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | Petco is a pet store in Katy, TX at 513 South Mason Road, Katy, TX 77450. Phone: +12816479779. Website: https://stores.petco.com/tx/katy/pet-supplies-katy-tx-464.html. | https://registry-edge.dingalinged.workers.dev/c/petco-katy/
+3. Petco | Organic #3 | Pulse Score 46.7/100 (Building, #3 in city) | Petco is a pet store in Katy, TX at 2844 West Grand Parkway North, Katy, TX 77449. Phone: +13463078133. Website: https://stores.petco.com/tx/katy/pet-supplies-katy-tx-2462.html. | https://registry-edge.dingalinged.workers.dev/c/petco-katy-n7001418523/
+4. PetSmart | Organic #4 | Pulse Score 42.8/100 (Building, #4 in city) | PetSmart is a pet store in Katy, TX at 26960 FM 1093, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/petsmart-katy-n13161108273/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store katy tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

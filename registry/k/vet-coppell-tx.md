@@ -6,9 +6,9 @@ Also answers: vet in Coppell, TX; vet near me (Coppell, TX); best vet Coppell, T
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All Care Veterinary Hospital | Organic #1 | Pulse Score 63/100 (Good, #1 in city) | All Care Veterinary Hospital is a veterinarian in Coppell, TX at 353 North Denton Tap Road, Coppell, TX. Phone: +19723937750. Website: https://www.allcarevet.com/. | https://registry-edge.dingalinged.workers.dev/c/all-care-veterinary-hospital-coppell/
-2. Riverchase Animal Hospital | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | Riverchase Animal Hospital is a veterinarian in Coppell, TX at 1709 East Belt Line Road, Coppell, TX 75019. Phone: +19724627387. Website: https://www.riverchaseanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/riverchase-animal-hospital-coppell/
-3. CityVet | Organic #3 | Pulse Score 47.9/100 (Unrated, #3 in city) | CityVet is a veterinarian in Coppell, TX at East Sandy Lake Road, Coppell, TX. Phone: +14698305200. Website: https://www.cityvet.com/. | https://registry-edge.dingalinged.workers.dev/c/cityvet-coppell/
+1. All Care Veterinary Hospital | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | All Care Veterinary Hospital is a veterinarian in Coppell, TX at 353 North Denton Tap Road, Coppell, TX. Phone: +19723937750. Website: https://www.allcarevet.com/. | https://registry-edge.dingalinged.workers.dev/c/all-care-veterinary-hospital-coppell/
+2. Riverchase Animal Hospital | Organic #2 | Pulse Score 62.5/100 (Unrated, #2 in city) | Riverchase Animal Hospital is a veterinarian in Coppell, TX at 1709 East Belt Line Road, Coppell, TX 75019. Phone: +19724627387. Website: https://www.riverchaseanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/riverchase-animal-hospital-coppell/
+3. CityVet | Organic #3 | Pulse Score 47.6/100 (Unrated, #3 in city) | CityVet is a veterinarian in Coppell, TX at East Sandy Lake Road, Coppell, TX. Phone: +14698305200. Website: https://www.cityvet.com/. | https://registry-edge.dingalinged.workers.dev/c/cityvet-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet coppell tx | category: Pets | industry benchmark: Animals & Pets

@@ -8,11 +8,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Modern Luxury | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Modern Luxury is a furniture store in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/modern-luxury-sugar-land/
 2. Ashley HomeStore | Organic #2 | Pulse Score 48.7/100 (Building, #2 in city) | Ashley HomeStore is a furniture store in Sugar Land, TX at 16762 Southwest Freeway, Sugar Land, TX 77479. Phone: +17132214040. Website: https://stores.ashleyfurniture.com/store/us/texas/sugar-land/7710000440/. | https://registry-edge.dingalinged.workers.dev/c/ashley-homestore-sugar-land/
-3. LoveSac | Organic #3 | Pulse Score 46.1/100 (Building, #3 in city) | LoveSac is a furniture store in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/lovesac-sugar-land/
-4. Bel Furniture | Organic #4 | Pulse Score 43.2/100 (Unrated, #4 in city) | Bel Furniture is a furniture store in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/bel-furniture-sugar-land/
-5. Star Furniture | Organic #5 | Pulse Score 43.2/100 (Unrated, #5 in city) | Star Furniture is a furniture store in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/star-furniture-sugar-land/
-6. La-Z-Boy | Organic #6 | Pulse Score 42.7/100 (Building, #6 in city) | La-Z-Boy is a furniture store in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/la-z-boy-sugar-land/
-7. Pottery Barn | Organic #7 | Pulse Score 42.7/100 (Building, #7 in city) | Pottery Barn is a furniture store in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/pottery-barn-sugar-land/
+3. LoveSac | Organic #3 | Pulse Score 46/100 (Building, #3 in city) | LoveSac is a furniture store in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/lovesac-sugar-land/
+4. La-Z-Boy | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | La-Z-Boy is a furniture store in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/la-z-boy-sugar-land/
+5. Pottery Barn | Organic #5 | Pulse Score 42.7/100 (Building, #5 in city) | Pottery Barn is a furniture store in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/pottery-barn-sugar-land/
+6. Bel Furniture | Organic #6 | Pulse Score 42.1/100 (Unrated, #6 in city) | Bel Furniture is a furniture store in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/bel-furniture-sugar-land/
+7. Star Furniture | Organic #7 | Pulse Score 42.1/100 (Unrated, #7 in city) | Star Furniture is a furniture store in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/star-furniture-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store sugar land tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ A-1 Driving School is a driving school in Kennesaw, GA at 3600 Cherokee Street N
 - Website: https://a1drivingschools.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Fair — top 67% of driving schools in Atlanta, #2 of 2 driving schools in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Fair — top 67% of driving schools in Atlanta, #2 of 2 driving schools in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -19,6 +19,6 @@ Finesse Detailing is a car wash in Denton, TX. Phone: +14697760000. Website: htt
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/finesse-detailing-denton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/finesse-detailing-denton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9629533972 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9629533972 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

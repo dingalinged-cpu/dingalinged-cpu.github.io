@@ -13,7 +13,7 @@ Ocean Breeze Wellness + Massage is a massage studio in Carlisle, IA at 55 Main S
 - Website: https://www.oceanbreezewellness.com/
 - Email: info@oceanbreezewellness.com
 - Opening hours (OSM syntax): mo-su closed,
-- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 10% of massage studios in Des Moines, IA, #1 of 1 massage studios in Carlisle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 10% of massage studios in Des Moines, IA, #1 of 1 massage studios in Carlisle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

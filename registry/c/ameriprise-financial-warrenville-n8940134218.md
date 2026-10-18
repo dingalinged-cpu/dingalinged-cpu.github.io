@@ -13,7 +13,7 @@ Ameriprise Financial is a financial advisor in Warrenville, IL at 28377 Davis Pa
 - Website: https://www.ameripriseadvisors.com/team/ascent-financial-partners/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Building — top 37% of financial advisors in Chicago, #2 of 2 financial advisors in Warrenville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 37% of financial advisors in Chicago, #2 of 2 financial advisors in Warrenville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

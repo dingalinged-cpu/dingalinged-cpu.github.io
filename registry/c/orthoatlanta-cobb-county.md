@@ -13,7 +13,7 @@ OrthoAtlanta is an orthopedic surgeon in Cobb County, GA at 455 Legends Place #8
 - Website: https://www.orthoatlanta.com/locations/the-battery-atlanta
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 25% of orthopedic surgeons in Atlanta, #2 of 3 orthopedic surgeons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 25% of orthopedic surgeons in Atlanta, #2 of 3 orthopedic surgeons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

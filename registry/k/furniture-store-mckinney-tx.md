@@ -6,7 +6,7 @@ Also answers: furniture store in Mckinney, TX; furniture store near me (Mckinney
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tom Lavy's Stonewood Creators | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Tom Lavy's Stonewood Creators is a furniture store in McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/tom-lavys-stonewood-creators-mckinney/
+1. Tom Lavy's Stonewood Creators | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Tom Lavy's Stonewood Creators is a furniture store in McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/tom-lavys-stonewood-creators-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store mckinney tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

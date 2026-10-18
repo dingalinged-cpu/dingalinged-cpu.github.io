@@ -6,7 +6,7 @@ Also answers: window repair in Whiting, IN; window repair near me (Whiting, IN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bizik Glass Block Corp | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Bizik Glass Block Corp is a window repair service in Whiting, IN at 2435 Indianapolis Boulevard, Whiting, IN 46394. | https://registry-edge.dingalinged.workers.dev/c/bizik-glass-block-corp-whiting/
+1. Bizik Glass Block Corp | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Bizik Glass Block Corp is a window repair service in Whiting, IN at 2435 Indianapolis Boulevard, Whiting, IN 46394. | https://registry-edge.dingalinged.workers.dev/c/bizik-glass-block-corp-whiting/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair whiting in | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

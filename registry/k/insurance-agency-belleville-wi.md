@@ -6,7 +6,7 @@ Also answers: insurance agency in Belleville, WI; insurance agency near me (Bell
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Town & Country | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Town & Country is an insurance agent in Belleville, WI. | https://registry-edge.dingalinged.workers.dev/c/town-and-country-belleville/
+1. Town & Country | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Town & Country is an insurance agent in Belleville, WI. | https://registry-edge.dingalinged.workers.dev/c/town-and-country-belleville/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency belleville wi | category: insurance | industry benchmark: Finance & Insurance

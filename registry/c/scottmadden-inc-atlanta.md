@@ -13,7 +13,7 @@ ScottMadden, Inc is a business consultant in Atlanta, GA at 3565 Piedmont Road N
 - Website: https://www.scottmadden.com/
 - Email: info@scottmadden.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of business consultants in Atlanta, #2 of 7 business consultants in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of business consultants in Atlanta, #2 of 7 business consultants in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

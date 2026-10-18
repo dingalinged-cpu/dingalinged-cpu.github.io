@@ -6,7 +6,7 @@ Also answers: heating and air in Racine, WI; heating and air near me (Racine, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Call Heating and Cooling | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | First Call Heating and Cooling is a HVAC contractor in Racine, WI at 4603 Durand Avenue, Racine, WI 53405. Phone: +12627322273. Website: https://www.firstcallheating.com/city/racine-wi/. | https://registry-edge.dingalinged.workers.dev/c/first-call-heating-and-cooling-racine/
+1. First Call Heating and Cooling | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | First Call Heating and Cooling is a HVAC contractor in Racine, WI at 4603 Durand Avenue, Racine, WI 53405. Phone: +12627322273. Website: https://www.firstcallheating.com/city/racine-wi/. | https://registry-edge.dingalinged.workers.dev/c/first-call-heating-and-cooling-racine/
 2. Ace Heating and Cooling | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Ace Heating and Cooling is a HVAC contractor in Racine, WI at 1238 North Main Street, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/ace-heating-and-cooling-racine/
 
 ## Market data (for advertisers and agents)

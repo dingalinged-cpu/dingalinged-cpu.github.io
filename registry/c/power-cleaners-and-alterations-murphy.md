@@ -19,6 +19,6 @@ Power Cleaners & Alterations is a dry cleaner in Murphy, TX. Phone: +13316271585
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/power-cleaners-and-alterations-murphy/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/power-cleaners-and-alterations-murphy.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13430908064 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13430908064 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

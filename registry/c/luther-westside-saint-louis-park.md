@@ -13,7 +13,7 @@ Luther Westside is an used car dealer in Saint Louis Park, MN at 2440 State High
 - Website: https://www.westsidevw.com/parts/department.htm
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 21% of used car dealers in Minneapolis–St. Paul, #1 of 1 used car dealers in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 21% of used car dealers in Minneapolis–St. Paul, #1 of 1 used car dealers in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

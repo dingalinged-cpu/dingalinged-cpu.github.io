@@ -13,7 +13,7 @@ K-7 Liquors is a liquor store in Shawnee, KS at 22088 West 66th Street, Shawnee,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-23:00; Su 12:00-20:00
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 39% of liquor stores in Kansas City, MO, #6 of 8 liquor stores in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 39% of liquor stores in Kansas City, MO, #6 of 8 liquor stores in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

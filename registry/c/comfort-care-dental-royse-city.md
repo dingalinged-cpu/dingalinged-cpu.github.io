@@ -13,12 +13,12 @@ Comfort Care Dental is a dentist in Royse City, TX at 2763 Epps Road, Royse City
 - Website: https://www.comfortcaredental.net/
 - Email: roysecomfortcaredental@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 8% of dentists in Dallas–Fort Worth, #1 of 4 dentists in Royse City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 8% of dentists in Dallas–Fort Worth, #1 of 4 dentists in Royse City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/comfort-care-dental-royse-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/comfort-care-dental-royse-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/709030415 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/709030415 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

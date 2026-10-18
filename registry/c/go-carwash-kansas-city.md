@@ -13,7 +13,7 @@ Go Carwash is a car wash in Kansas City, KS at 923 North 78th Street, Kansas Cit
 - Website: https://gocarwash.com/location/78th-st-kck/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-19:00; Su 09:00-18:00
-- Pulse Score: 51.6/100 — Unrated (not enough evidence yet) — top 60% of car washes in Kansas City, MO, #15 of 24 car washes in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.4, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.6/100 — Unrated (not enough evidence yet) — top 58% of car washes in Kansas City, MO, #15 of 24 car washes in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.4, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

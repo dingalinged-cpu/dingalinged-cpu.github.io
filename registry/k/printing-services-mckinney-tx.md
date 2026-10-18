@@ -1,4 +1,4 @@
-The top unpaid printing services listing for Mckinney, TX is Groggy Dog (a printing service in McKinney, TX). 7 printing services businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Mckinney, TX is Minuteman Press (a printing service in McKinney, TX at 1502 West University Drive #111, McKinney, TX 75069). 7 printing services businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Mckinney, TX?
 
@@ -6,13 +6,13 @@ Also answers: printing services in Mckinney, TX; printing services near me (Mcki
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Groggy Dog | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Groggy Dog is a printing service in McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/groggy-dog-mckinney/
-2. Minuteman Press | Organic #2 | Pulse Score 46.5/100 (Building, #2 in city) | Minuteman Press is a printing service in McKinney, TX at 1502 West University Drive #111, McKinney, TX 75069. | https://registry-edge.dingalinged.workers.dev/c/minuteman-press-mckinney/
-3. FedEx Office | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | FedEx Office is a printing service in McKinney, TX at 4590 West University Drive #230, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-mckinney-n14003701658/
-4. FedEx Office | Organic #4 | Pulse Score 45.8/100 (Building, #4 in city) | FedEx Office is a printing service in McKinney, TX at 7645 Custer Road #428, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-mckinney/
-5. The UPS Store | Organic #5 | Pulse Score 41.8/100 (Building, #5 in city) | The UPS Store is a printing service in McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-mckinney/
-6. FedEx Office | Organic #6 | Pulse Score 41.3/100 (Building, #6 in city) | FedEx Office is a printing service in McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-mckinney-n7882575723/
-7. FedEx Office | Organic #7 | Pulse Score 41.3/100 (Building, #7 in city) | FedEx Office is a printing service in McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-mckinney-n9281658606/
+1. Minuteman Press | Organic #1 | Pulse Score 46.6/100 (Building, #1 in city) | Minuteman Press is a printing service in McKinney, TX at 1502 West University Drive #111, McKinney, TX 75069. | https://registry-edge.dingalinged.workers.dev/c/minuteman-press-mckinney/
+2. FedEx Office | Organic #2 | Pulse Score 45.6/100 (Building, #2 in city) | FedEx Office is a printing service in McKinney, TX at 4590 West University Drive #230, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-mckinney-n14003701658/
+3. FedEx Office | Organic #3 | Pulse Score 45.5/100 (Building, #3 in city) | FedEx Office is a printing service in McKinney, TX at 7645 Custer Road #428, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-mckinney/
+4. Groggy Dog | Organic #4 | Pulse Score 42.4/100 (Unrated, #4 in city) | Groggy Dog is a printing service in McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/groggy-dog-mckinney/
+5. The UPS Store | Organic #5 | Pulse Score 41.7/100 (Building, #5 in city) | The UPS Store is a printing service in McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-mckinney/
+6. FedEx Office | Organic #6 | Pulse Score 41.2/100 (Building, #6 in city) | FedEx Office is a printing service in McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-mckinney-n7882575723/
+7. FedEx Office | Organic #7 | Pulse Score 41.2/100 (Building, #7 in city) | FedEx Office is a printing service in McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-mckinney-n9281658606/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services mckinney tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ J.O. Thompson Flooring is a flooring company in Saint Paul, MN at 1558 Como Aven
 - Website: https://jothompsonflooring.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.8/100 — Good — top 10% of flooring companys in Minneapolis–St. Paul, #1 of 3 flooring companys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Good — top 10% of flooring companys in Minneapolis–St. Paul, #1 of 3 flooring companys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

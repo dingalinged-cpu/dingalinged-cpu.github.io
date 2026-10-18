@@ -13,7 +13,7 @@ Quantum Wellness is a chiropractor in Kansas City, MO at 5728 North Broadway, Ka
 - Website: https://drbakercares.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th 09:00-17:00; We 12:00-17:30
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 14% of chiropractors in Kansas City, MO, #2 of 12 chiropractors in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 14% of chiropractors in Kansas City, MO, #2 of 12 chiropractors in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

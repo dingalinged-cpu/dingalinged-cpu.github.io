@@ -13,7 +13,7 @@ MANIA Tattoos is a tattoo shop in Milwaukee, WI at 1810 North Doctor Martin Luth
 - Website: https://www.maniatattoos.com/
 - Email: mania.ink@gmail.com
 - Opening hours (OSM syntax): Tu-Sa 11:00-19:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 18% of tattoo shops in Milwaukee, #6 of 23 tattoo shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 18% of tattoo shops in Milwaukee, #6 of 23 tattoo shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

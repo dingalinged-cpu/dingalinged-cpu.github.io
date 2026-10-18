@@ -19,6 +19,6 @@ Magnolia Modern Dentistry is a dentist in Magnolia, TX at 32822 FM 2978 Road, Ma
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/magnolia-modern-dentistry-magnolia/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/magnolia-modern-dentistry-magnolia.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13148149972 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13148149972 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

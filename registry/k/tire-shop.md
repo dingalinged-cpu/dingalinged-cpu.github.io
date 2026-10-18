@@ -1,4 +1,4 @@
-The top unpaid tire shop listing for the United States is B & P Tire And Automotive Repair (an auto repair shop in Woodstock, GA at 9405 Main Street, Woodstock, GA. Phone: +17705910190. Website: https://thetirepatch.com/). 1216 tire shop businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for the United States is Excalibur Auto Repair (an auto repair shop in Austin, TX at 8701 Research Boulevard #H, Austin, TX 78758. Phone: +15124543733. Website: https://excaliburautorepair.com/). 1613 tire shop businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in the United States?
 
@@ -6,67 +6,72 @@ Also answers: tire shop in the United States; tire shop near me (the United Stat
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. B & P Tire And Automotive Repair | Organic #1 | Pulse Score 65.6/100 (Good, #1 in city) | B & P Tire And Automotive Repair is an auto repair shop in Woodstock, GA at 9405 Main Street, Woodstock, GA. Phone: +17705910190. Website: https://thetirepatch.com/. | https://registry-edge.dingalinged.workers.dev/c/b-and-p-tire-and-automotive-repair-woodstock/
-2. Collision Pro Fix | Organic #2 | Pulse Score 65/100 (Good, #2 in city) | Collision Pro Fix is an auto repair shop in Marietta, GA at 1460 Roswell Road, Marietta, GA. Phone: +17707550042. Website: https://www.collisionprofix.com/. | https://registry-edge.dingalinged.workers.dev/c/collision-pro-fix-marietta/
-3. Atlanta Pneus Tire Repair | Organic #3 | Pulse Score 64.9/100 (Good, #3 in city) | Atlanta Pneus Tire Repair is an auto repair shop in Marietta, GA at 1798 Lower Roswell Road Southeast, Marietta, GA. Phone: +14704352216. Website: https://atlantatires.us/. | https://registry-edge.dingalinged.workers.dev/c/atlanta-pneus-tire-repair-marietta/
-4. Chloe's Auto Repair | Organic #4 | Pulse Score 64.9/100 (Good, #1 in city) | Chloe's Auto Repair is an auto repair shop in Roswell, GA at 4750 Alabama Road, Roswell, GA. Phone: +17706417400. Website: https://www.chloesautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/chloes-auto-repair-roswell/
-5. Route 66 Auto Service | Organic #5 | Pulse Score 64.9/100 (Good, #1 in city) | Route 66 Auto Service is an auto repair shop in Willowbrook, IL at 7551 South Madison Street, Willowbrook, IL 60527. Phone: +16309200905. Website: https://www.rt66autoservice.com/. | https://registry-edge.dingalinged.workers.dev/c/route-66-auto-service-willowbrook/
-6. Park Service | Organic #6 | Pulse Score 64.7/100 (Good, #1 in city) | Park Service is an auto repair shop in Saint Paul, MN at 2277 Como Avenue, Saint Paul, MN 55108. Phone: +16516444775. Website: https://facebook.com/ParkServiceInc/. | https://registry-edge.dingalinged.workers.dev/c/park-service-saint-paul/
-7. Kennesaw Tire Company | Organic #7 | Pulse Score 64.5/100 (Good, #1 in city) | Kennesaw Tire Company is an auto repair shop in Kennesaw, GA at 2850 South Main Street Northwest, Kennesaw, GA 30144. Phone: +17704228067. Website: https://www.kennesawtire.com/. | https://registry-edge.dingalinged.workers.dev/c/kennesaw-tire-company-kennesaw/
-8. Scott DeLong's Auto Service | Organic #8 | Pulse Score 64.4/100 (Good, #1 in city) | Scott DeLong's Auto Service is an auto repair shop in Cobb County, GA at 2140 Post Oak Tritt Road Northeast, Cobb County, GA. Phone: +17705090222. Website: https://scottdelongsauto.com/. | https://registry-edge.dingalinged.workers.dev/c/scott-delongs-auto-service-cobb-county/
-9. Massey Automotove | Organic #9 | Pulse Score 64.4/100 (Good, #2 in city) | Massey Automotove is an auto repair shop in Cobb County, GA at 2250 Lower Roswell Road Southeast, Cobb County, GA. Phone: +17706924149. Website: https://masseyautomotive.com/. | https://registry-edge.dingalinged.workers.dev/c/massey-automotove-cobb-county/
-10. DW Campbell of Atlanta Tire and Service Center | Organic #10 | Pulse Score 64.3/100 (Good, #2 in city) | DW Campbell of Atlanta Tire and Service Center is an auto repair shop in Atlanta, GA at 1921 Howell Mill Road Northwest, Atlanta, GA 30318. Phone: +14043520001. Website: https://www.dwctireandservice.com/. | https://registry-edge.dingalinged.workers.dev/c/dw-campbell-of-atlanta-tire-and-service-center-atlanta/
-11. Pep Boys Auto Service & Tire Shop | Organic #11 | Pulse Score 64.3/100 (Good, #2 in city) | Pep Boys Auto Service & Tire Shop is an auto repair shop in Kennesaw, GA at 4290 Bells Ferry Road Northwest #102, Kennesaw, GA 30144. Phone: +17705920811. Website: https://www.pepboys.com/stores/ga/kennesaw/4290-bells-ferry-road-nw?storecode=1656. | https://registry-edge.dingalinged.workers.dev/c/pep-boys-auto-service-and-tire-shop-kennesaw/
-12. TRUE Automotive | Organic #12 | Pulse Score 64.1/100 (Good, #7 in city) | TRUE Automotive is an auto repair shop in Marietta, GA at 1280 Powder Springs Road, Marietta, GA. Phone: +17704282520. Website: https://www.trueautomotive.com/georgia-locations/marietta. | https://registry-edge.dingalinged.workers.dev/c/true-automotive-marietta/
-13. Archer Premier Tire Shop | Organic #13 | Pulse Score 64.1/100 (Unrated, #1 in city) | Archer Premier Tire Shop is a tire shop in Chicago, IL at 4825 South Archer Avenue, Chicago, IL 60632. Phone: +17737354760. Website: https://archerpremiertireshop.com/. | https://registry-edge.dingalinged.workers.dev/c/archer-premier-tire-shop-chicago/
-14. Blue Ridge Automotive | Organic #14 | Pulse Score 64.1/100 (Unrated, #1 in city) | Blue Ridge Automotive is an auto repair shop in Chamblee, GA at 3733 North Peachtree Road, Chamblee, GA 30341. Phone: +17702168474. Website: https://blueridgeauto.co/car-repair-shop-chamblee-ga/. | https://registry-edge.dingalinged.workers.dev/c/blue-ridge-automotive-chamblee/
-15. EP Auto, Tire & Glass | Organic #15 | Pulse Score 64/100 (Unrated, #1 in city) | EP Auto, Tire & Glass is a tire shop in Eden Prairie, MN at 12479 Plaza Drive, Eden Prairie, MN 55344. Phone: +19529288888. Website: https://lamettrysautotech.com/. | https://registry-edge.dingalinged.workers.dev/c/ep-auto-tire-and-glass-eden-prairie/
-16. Ben's Garage | Organic #16 | Pulse Score 63.8/100 (Unrated, #1 in city) | Ben's Garage is an auto repair shop in Brownsburg, IN at 9195 US Hwy 136, Brownsburg, IN 46112. Phone: +13177902318. Website: https://www.bensgarageautomotive.com/. | https://registry-edge.dingalinged.workers.dev/c/bens-garage-brownsburg/
-17. Hot Wheels City | Organic #17 | Pulse Score 63.8/100 (Unrated, #1 in city) | Hot Wheels City is a tire shop in Sterling Heights, MI at 38170 Van Dyke Avenue, Sterling Heights, MI 48312. Phone: +15869838384. Website: https://hotwheelcity.com/. | https://registry-edge.dingalinged.workers.dev/c/hot-wheels-city-sterling-heights/
-18. Angel's Automotive | Organic #18 | Pulse Score 63.7/100 (Good, #4 in city) | Angel's Automotive is an auto repair shop in Cobb County, GA at 2932 Canton Road #330, Cobb County, GA. Phone: +14703083258. Website: https://angelsautomotive.org/. | https://registry-edge.dingalinged.workers.dev/c/angels-automotive-cobb-county/
-19. D. W. Campbell Tire & Service | Organic #19 | Pulse Score 63.7/100 (Good, #5 in city) | D. W. Campbell Tire & Service is an auto repair shop in Cobb County, GA at 2970 George Busbee Parkway Northwest, Cobb County, GA. Phone: +17704051312. Website: https://www.dwcampbelltire.com/. | https://registry-edge.dingalinged.workers.dev/c/d-w-campbell-tire-and-service-cobb-county-w339568275/
-20. Viks Auto Care | Organic #20 | Pulse Score 63.7/100 (Unrated, #15 in city) | Viks Auto Care is an auto repair shop in Marietta, GA at 556 Roswell Street, Marietta, GA 30060. Phone: +17705759721. Website: https://www.viksautocare.com/. | https://registry-edge.dingalinged.workers.dev/c/viks-auto-care-marietta/
-21. Long Tire & Brake | Organic #21 | Pulse Score 63.6/100 (Good, #8 in city) | Long Tire & Brake is an auto repair shop in Cobb County, GA at 4625 Canton Road Northeast, Cobb County, GA. Phone: +17709264385. Website: https://www.longtireandbrake.com/. | https://registry-edge.dingalinged.workers.dev/c/long-tire-and-brake-cobb-county/
-22. Raceway Tires and Service | Organic #22 | Pulse Score 63.6/100 (Good, #1 in city) | Raceway Tires and Service is a tire shop in Milwaukee, WI at 2481 North Teutonia Avenue, Milwaukee, WI 53206. Phone: +14144354093. | https://registry-edge.dingalinged.workers.dev/c/raceway-tires-and-service-milwaukee/
-23. Xpress Pro Tire & Auto Greenwood US31 | Organic #23 | Pulse Score 63.5/100 (Unrated, #1 in city) | Xpress Pro Tire & Auto Greenwood US31 is a tire shop in Indianapolis, IN at 8012 US 31 South, Indianapolis, IN 42667. Phone: +13178871010. Website: https://www.xpresspro.com/local/IN/greenwood-us31. | https://registry-edge.dingalinged.workers.dev/c/xpress-pro-tire-and-auto-greenwood-us31-indianapolis/
-24. Auto-Serv | Organic #24 | Pulse Score 63.3/100 (Good, #13 in city) | Auto-Serv is an auto repair shop in Cobb County, GA at 3003 Johnson Ferry Road Northeast, Cobb County, GA. Phone: +17705184921. Website: https://autoservmarietta.com/. | https://registry-edge.dingalinged.workers.dev/c/auto-serv-cobb-county/
-25. The Brothers Auto Tires | Organic #25 | Pulse Score 63.3/100 (Unrated, #1 in city) | The Brothers Auto Tires is a tire shop in Cincinnati, OH at 2020 Central Parkway, Cincinnati, OH 45214. Phone: +15133818473. | https://registry-edge.dingalinged.workers.dev/c/the-brothers-auto-tires-cincinnati/
-26. Calley's Tires | Organic #26 | Pulse Score 63.2/100 (Good, #1 in city) | Calley's Tires is a tire shop in Kansas City, MO at 5901 Prospect Avenue, Kansas City, MO 64130. Phone: +18163338473. | https://registry-edge.dingalinged.workers.dev/c/calleys-tires-kansas-city/
-27. Top Tier Auto Repair | Organic #27 | Pulse Score 63.2/100 (Unrated, #3 in city) | Top Tier Auto Repair is an auto repair shop in Dallas, TX at 2533 Farrington Street, Suite A, Dallas, TX 75207. Phone: +19452230687. Website: https://www.toptierautodallas.com/. | https://registry-edge.dingalinged.workers.dev/c/top-tier-auto-repair-dallas/
-28. All-Pro Automotive | Organic #28 | Pulse Score 63.1/100 (Good, #3 in city) | All-Pro Automotive is an auto repair shop in Kennesaw, GA at 2517 Cobb Parkway, Kennesaw, GA. Phone: +17705909909. Website: https://allproautokennesaw.com/. | https://registry-edge.dingalinged.workers.dev/c/all-pro-automotive-kennesaw/
-29. EP Auto, Tire & Glass | Organic #29 | Pulse Score 63.1/100 (Unrated, #1 in city) | EP Auto, Tire & Glass is an auto repair shop in Minnetonka, MN at 13600 County Rd 62, Minnetonka, MN 55345. Phone: +19528889900. Website: https://lamettrysautotech.com/. | https://registry-edge.dingalinged.workers.dev/c/ep-auto-tire-and-glass-minnetonka/
-30. Stricker Auto Center | Organic #30 | Pulse Score 63.1/100 (Unrated, #1 in city) | Stricker Auto Center is an auto repair shop in Brentwood, MO at 421 Hanley Industrial Court, Brentwood, MO 63144. Phone: +13147816070. Website: https://strickerautocenter-repair.com/. | https://registry-edge.dingalinged.workers.dev/c/stricker-auto-center-brentwood/
-31. Alpha & Omega Automotive | Organic #31 | Pulse Score 63/100 (Good, #16 in city) | Alpha & Omega Automotive is an auto repair shop in Cobb County, GA at 4035 Canton Road Northeast, Cobb County, GA. Phone: +17709280006. Website: https://www.alpha-omega-auto.com/Marietta-auto-service-center.html. | https://registry-edge.dingalinged.workers.dev/c/alpha-and-omega-automotive-cobb-county/
-32. Ace Body and Motor | Organic #32 | Pulse Score 63/100 (Unrated, #4 in city) | Ace Body and Motor is an auto repair shop in Des Moines, IA at 625 Northeast 45th Place, Des Moines, IA 50313. Phone: +15152437133. Website: https://acebodyandmotor.com/. | https://registry-edge.dingalinged.workers.dev/c/ace-body-and-motor-des-moines/
-33. Empire Tire and Battery Co | Organic #33 | Pulse Score 63/100 (Unrated, #1 in city) | Empire Tire and Battery Co is an auto repair shop in Orland Park, IL at 16201 Wolf Road, Orland Park, IL 60467. Phone: +17083496280. Website: https://etabco.net/. | https://registry-edge.dingalinged.workers.dev/c/empire-tire-and-battery-co-orland-park/
-34. Hildreth Garage | Organic #34 | Pulse Score 63/100 (Unrated, #1 in city) | Hildreth Garage is an auto repair shop in Norwalk, IA at 6311 County Road G24, Norwalk, IA 50211. Phone: +15156815351. Website: https://hildrethgarage.com/. | https://registry-edge.dingalinged.workers.dev/c/hildreth-garage-norwalk/
-35. Richman Automotive & Towing | Organic #35 | Pulse Score 63/100 (Unrated, #1 in city) | Richman Automotive & Towing is an auto repair shop in West Des Moines, IA at 1272 8th Street, West Des Moines, IA 50265. Phone: +15152231447. Website: https://richmanautomotivetowing.com/. | https://registry-edge.dingalinged.workers.dev/c/richman-automotive-and-towing-west-des-moines/
-36. NAD Motor - NAD's Custom Whees & Tires | Organic #36 | Pulse Score 62.9/100 (Unrated, #1 in city) | NAD Motor - NAD's Custom Whees & Tires is a tire shop in Saint Louis, MO at 3705 Morganford Road, Saint Louis, MO 63116. Phone: +13143281873. | https://registry-edge.dingalinged.workers.dev/c/nad-motor-nads-custom-whees-and-tires-saint-louis/
-37. Racine Tire and Service | Organic #37 | Pulse Score 62.9/100 (Unrated, #1 in city) | Racine Tire and Service is a tire shop in Racine, WI at 2210 Lathrop Avenue, Racine, WI 53405. Phone: +12625830063. Website: https://racinetireandservice.com/. | https://registry-edge.dingalinged.workers.dev/c/racine-tire-and-service-racine/
-38. Smith Muffler | Organic #38 | Pulse Score 62.9/100 (Unrated, #1 in city) | Smith Muffler is an auto repair shop in Covington, KY at 435 Main Street, Covington, KY 41011. Phone: +18594315728. Website: https://smithmufflerky.com/. | https://registry-edge.dingalinged.workers.dev/c/smith-muffler-covington/
-39. Accurate Care Automotive | Organic #39 | Pulse Score 62.8/100 (Good, #19 in city) | Accurate Care Automotive is an auto repair shop in Cobb County, GA at 3143 Canton Road, Cobb County, GA. Phone: +17704239595. Website: https://www.accuratecareauto.com/. | https://registry-edge.dingalinged.workers.dev/c/accurate-care-automotive-cobb-county/
-40. 24 Hr Tire Shop/Roadside Assistance | Organic #40 | Pulse Score 62.8/100 (Unrated, #1 in city) | 24 Hr Tire Shop/Roadside Assistance is an auto repair shop in Smyrna, GA at 1075 Windy Hill Road Southeast, Smyrna, GA 30080. Phone: +16784038005. Website: https://www.24hoursroadassistance.com/. | https://registry-edge.dingalinged.workers.dev/c/24-hr-tire-shop-roadside-assistance-smyrna/
-41. Alvaro’s Tire Shop | Organic #41 | Pulse Score 62.8/100 (Unrated, #2 in city) | Alvaro’s Tire Shop is a tire shop in Chicago, IL at 717 North Cicero Avenue, Chicago, IL 60644. Phone: +17736885874. Website: https://alvarostireshop.com/. | https://registry-edge.dingalinged.workers.dev/c/alvaro-s-tire-shop-chicago/
-42. The Rim Plug (The Chrome Depot) | Organic #42 | Pulse Score 62.7/100 (Good, #1 in city) | The Rim Plug (The Chrome Depot) is a tire shop in Cicero, IL at 1817 South 55th Avenue, Cicero, IL 60804. Phone: +17087763119. Website: https://www.facebook.com/thechromedepot. | https://registry-edge.dingalinged.workers.dev/c/the-rim-plug-the-chrome-depot-cicero/
-43. A Auto Express | Organic #43 | Pulse Score 62.7/100 (Unrated, #1 in city) | A Auto Express is an auto repair shop in Raytown, MO at 6140 Blue Ridge Boulevard, Raytown, MO 64133. Phone: +18165036153. Website: https://www.raytownautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/a-auto-express-raytown/
-44. Christian Brothers Automotive Frisco West | Organic #44 | Pulse Score 62.7/100 (Unrated, #1 in city) | Christian Brothers Automotive Frisco West is an auto repair shop in Frisco, TX at 8110 FM 423, Frisco, TX 75034. Phone: +12147053341. Website: https://www.cbac.com/frisco-west/. | https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-frisco-west-frisco/
-45. Dred Scott Automotive | Organic #45 | Pulse Score 62.7/100 (Unrated, #3 in city) | Dred Scott Automotive is an auto repair shop in Bloomington, MN at 10800 Rhode Island Avenue South, Bloomington, MN 55438. Phone: +19529440010. Website: https://www.dredscottautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/dred-scott-automotive-bloomington/
-46. Lindenwood Auto Service | Organic #46 | Pulse Score 62.7/100 (Unrated, #1 in city) | Lindenwood Auto Service is an auto repair shop in Saint Charles, MO at 1011 Chargene Drive, Saint Charles, MO 63301. Phone: +16369463339. Website: https://www.lindenwoodautoservice.com/. | https://registry-edge.dingalinged.workers.dev/c/lindenwood-auto-service-saint-charles/
-47. Itasca Automotive Repair | Organic #47 | Pulse Score 62.7/100 (Unrated, #1 in city) | Itasca Automotive Repair is an auto repair shop in Itasca, IL at 210 West Irving Park Road, Itasca, IL 60143. Phone: +16307733373. Website: https://www.itascaauto.com/. | https://registry-edge.dingalinged.workers.dev/c/itasca-automotive-repair-itasca/
-48. Rt. 8 Auto Service | Organic #48 | Pulse Score 62.7/100 (Unrated, #1 in city) | Rt. 8 Auto Service is an auto repair shop in Valencia, PA at 1429 Pittsburgh Road, Valencia, PA 16059. Phone: +17244434400. Website: https://www.rt8autoservice.com/. | https://registry-edge.dingalinged.workers.dev/c/rt-8-auto-service-valencia/
-49. DW Campbell Tire & Auto Service | Organic #49 | Pulse Score 62.6/100 (Good, #1 in city) | DW Campbell Tire & Auto Service is a tire shop in Cobb County, GA at 3330 Canton Road Northeast, Cobb County, GA. Phone: +17704270234. Website: https://www.dwcampbelltire.com/. | https://registry-edge.dingalinged.workers.dev/c/dw-campbell-tire-and-auto-service-cobb-county/
-50. Bauer Built Tire & Service | Organic #50 | Pulse Score 62.6/100 (Unrated, #1 in city) | Bauer Built Tire & Service is a tire shop in Saint Paul, MN at 625 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16516461239. Website: https://www.bauerbuilt.com/. | https://registry-edge.dingalinged.workers.dev/c/bauer-built-tire-and-service-saint-paul/
+1. Excalibur Auto Repair | Organic #1 | Pulse Score 66.3/100 (Good, #1 in city) | Excalibur Auto Repair is an auto repair shop in Austin, TX at 8701 Research Boulevard #H, Austin, TX 78758. Phone: +15124543733. Website: https://excaliburautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/excalibur-auto-repair-austin/
+2. B & P Tire And Automotive Repair | Organic #2 | Pulse Score 65.6/100 (Good, #1 in city) | B & P Tire And Automotive Repair is an auto repair shop in Woodstock, GA at 9405 Main Street, Woodstock, GA. Phone: +17705910190. Website: https://thetirepatch.com/. | https://registry-edge.dingalinged.workers.dev/c/b-and-p-tire-and-automotive-repair-woodstock/
+3. Discount Tires | Organic #3 | Pulse Score 65.4/100 (Good, #1 in city) | Discount Tires is a tire shop in Temple, TX at 721 Southwest H K Dodgen Loop, Temple, TX 76502. Phone: +12547710260. Website: https://www.discounttire.com/store/tx/temple/s/1706. | https://registry-edge.dingalinged.workers.dev/c/discount-tires-temple/
+4. Collision Pro Fix | Organic #4 | Pulse Score 65/100 (Good, #2 in city) | Collision Pro Fix is an auto repair shop in Marietta, GA at 1460 Roswell Road, Marietta, GA. Phone: +17707550042. Website: https://www.collisionprofix.com/. | https://registry-edge.dingalinged.workers.dev/c/collision-pro-fix-marietta/
+5. Atlanta Pneus Tire Repair | Organic #5 | Pulse Score 64.9/100 (Good, #3 in city) | Atlanta Pneus Tire Repair is an auto repair shop in Marietta, GA at 1798 Lower Roswell Road Southeast, Marietta, GA. Phone: +14704352216. Website: https://atlantatires.us/. | https://registry-edge.dingalinged.workers.dev/c/atlanta-pneus-tire-repair-marietta/
+6. Chloe's Auto Repair | Organic #6 | Pulse Score 64.9/100 (Good, #1 in city) | Chloe's Auto Repair is an auto repair shop in Roswell, GA at 4750 Alabama Road, Roswell, GA. Phone: +17706417400. Website: https://www.chloesautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/chloes-auto-repair-roswell/
+7. Route 66 Auto Service | Organic #7 | Pulse Score 64.9/100 (Good, #1 in city) | Route 66 Auto Service is an auto repair shop in Willowbrook, IL at 7551 South Madison Street, Willowbrook, IL 60527. Phone: +16309200905. Website: https://www.rt66autoservice.com/. | https://registry-edge.dingalinged.workers.dev/c/route-66-auto-service-willowbrook/
+8. Park Service | Organic #8 | Pulse Score 64.7/100 (Good, #1 in city) | Park Service is an auto repair shop in Saint Paul, MN at 2277 Como Avenue, Saint Paul, MN 55108. Phone: +16516444775. Website: https://facebook.com/ParkServiceInc/. | https://registry-edge.dingalinged.workers.dev/c/park-service-saint-paul/
+9. Kennesaw Tire Company | Organic #9 | Pulse Score 64.5/100 (Good, #1 in city) | Kennesaw Tire Company is an auto repair shop in Kennesaw, GA at 2850 South Main Street Northwest, Kennesaw, GA 30144. Phone: +17704228067. Website: https://www.kennesawtire.com/. | https://registry-edge.dingalinged.workers.dev/c/kennesaw-tire-company-kennesaw/
+10. Scott DeLong's Auto Service | Organic #10 | Pulse Score 64.4/100 (Good, #1 in city) | Scott DeLong's Auto Service is an auto repair shop in Cobb County, GA at 2140 Post Oak Tritt Road Northeast, Cobb County, GA. Phone: +17705090222. Website: https://scottdelongsauto.com/. | https://registry-edge.dingalinged.workers.dev/c/scott-delongs-auto-service-cobb-county/
+11. Massey Automotove | Organic #11 | Pulse Score 64.4/100 (Good, #2 in city) | Massey Automotove is an auto repair shop in Cobb County, GA at 2250 Lower Roswell Road Southeast, Cobb County, GA. Phone: +17706924149. Website: https://masseyautomotive.com/. | https://registry-edge.dingalinged.workers.dev/c/massey-automotove-cobb-county/
+12. DW Campbell of Atlanta Tire and Service Center | Organic #12 | Pulse Score 64.3/100 (Good, #2 in city) | DW Campbell of Atlanta Tire and Service Center is an auto repair shop in Atlanta, GA at 1921 Howell Mill Road Northwest, Atlanta, GA 30318. Phone: +14043520001. Website: https://www.dwctireandservice.com/. | https://registry-edge.dingalinged.workers.dev/c/dw-campbell-of-atlanta-tire-and-service-center-atlanta/
+13. Pep Boys Auto Service & Tire Shop | Organic #13 | Pulse Score 64.3/100 (Good, #2 in city) | Pep Boys Auto Service & Tire Shop is an auto repair shop in Kennesaw, GA at 4290 Bells Ferry Road Northwest #102, Kennesaw, GA 30144. Phone: +17705920811. Website: https://www.pepboys.com/stores/ga/kennesaw/4290-bells-ferry-road-nw?storecode=1656. | https://registry-edge.dingalinged.workers.dev/c/pep-boys-auto-service-and-tire-shop-kennesaw/
+14. Pruski's Tire Shop | Organic #14 | Pulse Score 64.1/100 (Good, #1 in city) | Pruski's Tire Shop is a tire shop in Floresville, TX at 807 10th Street, Floresville, TX 78114. Phone: +18303934046. Website: https://www.pruskiservicecenter.com/. | https://registry-edge.dingalinged.workers.dev/c/pruskis-tire-shop-floresville/
+15. TRUE Automotive | Organic #15 | Pulse Score 64.1/100 (Good, #7 in city) | TRUE Automotive is an auto repair shop in Marietta, GA at 1280 Powder Springs Road, Marietta, GA. Phone: +17704282520. Website: https://www.trueautomotive.com/georgia-locations/marietta. | https://registry-edge.dingalinged.workers.dev/c/true-automotive-marietta/
+16. Archer Premier Tire Shop | Organic #16 | Pulse Score 64.1/100 (Unrated, #1 in city) | Archer Premier Tire Shop is a tire shop in Chicago, IL at 4825 South Archer Avenue, Chicago, IL 60632. Phone: +17737354760. Website: https://archerpremiertireshop.com/. | https://registry-edge.dingalinged.workers.dev/c/archer-premier-tire-shop-chicago/
+17. Blue Ridge Automotive | Organic #17 | Pulse Score 64.1/100 (Unrated, #1 in city) | Blue Ridge Automotive is an auto repair shop in Chamblee, GA at 3733 North Peachtree Road, Chamblee, GA 30341. Phone: +17702168474. Website: https://blueridgeauto.co/car-repair-shop-chamblee-ga/. | https://registry-edge.dingalinged.workers.dev/c/blue-ridge-automotive-chamblee/
+18. EP Auto, Tire & Glass | Organic #18 | Pulse Score 64/100 (Unrated, #1 in city) | EP Auto, Tire & Glass is a tire shop in Eden Prairie, MN at 12479 Plaza Drive, Eden Prairie, MN 55344. Phone: +19529288888. Website: https://lamettrysautotech.com/. | https://registry-edge.dingalinged.workers.dev/c/ep-auto-tire-and-glass-eden-prairie/
+19. Ben's Garage | Organic #19 | Pulse Score 63.8/100 (Unrated, #1 in city) | Ben's Garage is an auto repair shop in Brownsburg, IN at 9195 US Hwy 136, Brownsburg, IN 46112. Phone: +13177902318. Website: https://www.bensgarageautomotive.com/. | https://registry-edge.dingalinged.workers.dev/c/bens-garage-brownsburg/
+20. Hot Wheels City | Organic #20 | Pulse Score 63.8/100 (Unrated, #1 in city) | Hot Wheels City is a tire shop in Sterling Heights, MI at 38170 Van Dyke Avenue, Sterling Heights, MI 48312. Phone: +15869838384. Website: https://hotwheelcity.com/. | https://registry-edge.dingalinged.workers.dev/c/hot-wheels-city-sterling-heights/
+21. Angel's Automotive | Organic #21 | Pulse Score 63.7/100 (Good, #4 in city) | Angel's Automotive is an auto repair shop in Cobb County, GA at 2932 Canton Road #330, Cobb County, GA. Phone: +14703083258. Website: https://angelsautomotive.org/. | https://registry-edge.dingalinged.workers.dev/c/angels-automotive-cobb-county/
+22. D. W. Campbell Tire & Service | Organic #22 | Pulse Score 63.7/100 (Good, #5 in city) | D. W. Campbell Tire & Service is an auto repair shop in Cobb County, GA at 2970 George Busbee Parkway Northwest, Cobb County, GA. Phone: +17704051312. Website: https://www.dwcampbelltire.com/. | https://registry-edge.dingalinged.workers.dev/c/d-w-campbell-tire-and-service-cobb-county-w339568275/
+23. Viks Auto Care | Organic #23 | Pulse Score 63.7/100 (Unrated, #15 in city) | Viks Auto Care is an auto repair shop in Marietta, GA at 556 Roswell Street, Marietta, GA 30060. Phone: +17705759721. Website: https://www.viksautocare.com/. | https://registry-edge.dingalinged.workers.dev/c/viks-auto-care-marietta/
+24. Long Tire & Brake | Organic #24 | Pulse Score 63.6/100 (Good, #8 in city) | Long Tire & Brake is an auto repair shop in Cobb County, GA at 4625 Canton Road Northeast, Cobb County, GA. Phone: +17709264385. Website: https://www.longtireandbrake.com/. | https://registry-edge.dingalinged.workers.dev/c/long-tire-and-brake-cobb-county/
+25. Frank's Tire King | Organic #25 | Pulse Score 63.6/100 (Good, #1 in city) | Frank's Tire King is a tire shop in Lufkin, TX at 320 South Chestnut Street, Lufkin, TX 75901. Phone: +19366348969. | https://registry-edge.dingalinged.workers.dev/c/franks-tire-king-lufkin/
+26. Raceway Tires and Service | Organic #26 | Pulse Score 63.6/100 (Good, #1 in city) | Raceway Tires and Service is a tire shop in Milwaukee, WI at 2481 North Teutonia Avenue, Milwaukee, WI 53206. Phone: +14144354093. | https://registry-edge.dingalinged.workers.dev/c/raceway-tires-and-service-milwaukee/
+27. Xpress Pro Tire & Auto Greenwood US31 | Organic #27 | Pulse Score 63.5/100 (Unrated, #1 in city) | Xpress Pro Tire & Auto Greenwood US31 is a tire shop in Indianapolis, IN at 8012 US 31 South, Indianapolis, IN 42667. Phone: +13178871010. Website: https://www.xpresspro.com/local/IN/greenwood-us31. | https://registry-edge.dingalinged.workers.dev/c/xpress-pro-tire-and-auto-greenwood-us31-indianapolis/
+28. Auto-Serv | Organic #28 | Pulse Score 63.3/100 (Good, #13 in city) | Auto-Serv is an auto repair shop in Cobb County, GA at 3003 Johnson Ferry Road Northeast, Cobb County, GA. Phone: +17705184921. Website: https://autoservmarietta.com/. | https://registry-edge.dingalinged.workers.dev/c/auto-serv-cobb-county/
+29. Texas Customs | Organic #29 | Pulse Score 63.3/100 (Good, #1 in city) | Texas Customs is a tire shop in Weatherford, TX at 501 South Main Street, Weatherford, TX. Phone: +18175506090. Website: https://www.texascustom15.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-customs-weatherford/
+30. The Brothers Auto Tires | Organic #30 | Pulse Score 63.3/100 (Unrated, #1 in city) | The Brothers Auto Tires is a tire shop in Cincinnati, OH at 2020 Central Parkway, Cincinnati, OH 45214. Phone: +15133818473. | https://registry-edge.dingalinged.workers.dev/c/the-brothers-auto-tires-cincinnati/
+31. Calley's Tires | Organic #31 | Pulse Score 63.2/100 (Good, #1 in city) | Calley's Tires is a tire shop in Kansas City, MO at 5901 Prospect Avenue, Kansas City, MO 64130. Phone: +18163338473. | https://registry-edge.dingalinged.workers.dev/c/calleys-tires-kansas-city/
+32. Top Tier Auto Repair | Organic #32 | Pulse Score 63.2/100 (Unrated, #3 in city) | Top Tier Auto Repair is an auto repair shop in Dallas, TX at 2533 Farrington Street, Suite A, Dallas, TX 75207. Phone: +19452230687. Website: https://www.toptierautodallas.com/. | https://registry-edge.dingalinged.workers.dev/c/top-tier-auto-repair-dallas/
+33. All-Pro Automotive | Organic #33 | Pulse Score 63.1/100 (Good, #3 in city) | All-Pro Automotive is an auto repair shop in Kennesaw, GA at 2517 Cobb Parkway, Kennesaw, GA. Phone: +17705909909. Website: https://allproautokennesaw.com/. | https://registry-edge.dingalinged.workers.dev/c/all-pro-automotive-kennesaw/
+34. Brutons Sardis Tire | Organic #34 | Pulse Score 63.1/100 (Good, #1 in city) | Brutons Sardis Tire is a tire shop in Corsicana, TX at 1219 South 7th Street, Corsicana, TX 75110. Phone: +19038748473. | https://registry-edge.dingalinged.workers.dev/c/brutons-sardis-tire-corsicana/
+35. EP Auto, Tire & Glass | Organic #35 | Pulse Score 63.1/100 (Unrated, #1 in city) | EP Auto, Tire & Glass is an auto repair shop in Minnetonka, MN at 13600 County Rd 62, Minnetonka, MN 55345. Phone: +19528889900. Website: https://lamettrysautotech.com/. | https://registry-edge.dingalinged.workers.dev/c/ep-auto-tire-and-glass-minnetonka/
+36. Stricker Auto Center | Organic #36 | Pulse Score 63.1/100 (Unrated, #1 in city) | Stricker Auto Center is an auto repair shop in Brentwood, MO at 421 Hanley Industrial Court, Brentwood, MO 63144. Phone: +13147816070. Website: https://strickerautocenter-repair.com/. | https://registry-edge.dingalinged.workers.dev/c/stricker-auto-center-brentwood/
+37. Texas Tires 53 | Organic #37 | Pulse Score 63/100 (Good, #1 in city) | Texas Tires 53 is a tire shop in Round Rock, TX at 1213 Palm Valley Boulevard, Round Rock, TX 78664. Phone: +15123665069. Website: https://www.texastires53.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-tires-53-round-rock/
+38. Alpha & Omega Automotive | Organic #38 | Pulse Score 63/100 (Good, #15 in city) | Alpha & Omega Automotive is an auto repair shop in Cobb County, GA at 4035 Canton Road Northeast, Cobb County, GA. Phone: +17709280006. Website: https://www.alpha-omega-auto.com/Marietta-auto-service-center.html. | https://registry-edge.dingalinged.workers.dev/c/alpha-and-omega-automotive-cobb-county/
+39. Ace Body and Motor | Organic #39 | Pulse Score 63/100 (Unrated, #4 in city) | Ace Body and Motor is an auto repair shop in Des Moines, IA at 625 Northeast 45th Place, Des Moines, IA 50313. Phone: +15152437133. Website: https://acebodyandmotor.com/. | https://registry-edge.dingalinged.workers.dev/c/ace-body-and-motor-des-moines/
+40. Empire Tire and Battery Co | Organic #40 | Pulse Score 63/100 (Unrated, #1 in city) | Empire Tire and Battery Co is an auto repair shop in Orland Park, IL at 16201 Wolf Road, Orland Park, IL 60467. Phone: +17083496280. Website: https://etabco.net/. | https://registry-edge.dingalinged.workers.dev/c/empire-tire-and-battery-co-orland-park/
+41. Hildreth Garage | Organic #41 | Pulse Score 63/100 (Unrated, #1 in city) | Hildreth Garage is an auto repair shop in Norwalk, IA at 6311 County Road G24, Norwalk, IA 50211. Phone: +15156815351. Website: https://hildrethgarage.com/. | https://registry-edge.dingalinged.workers.dev/c/hildreth-garage-norwalk/
+42. Richman Automotive & Towing | Organic #42 | Pulse Score 63/100 (Unrated, #1 in city) | Richman Automotive & Towing is an auto repair shop in West Des Moines, IA at 1272 8th Street, West Des Moines, IA 50265. Phone: +15152231447. Website: https://richmanautomotivetowing.com/. | https://registry-edge.dingalinged.workers.dev/c/richman-automotive-and-towing-west-des-moines/
+43. NAD Motor - NAD's Custom Whees & Tires | Organic #43 | Pulse Score 62.9/100 (Unrated, #1 in city) | NAD Motor - NAD's Custom Whees & Tires is a tire shop in Saint Louis, MO at 3705 Morganford Road, Saint Louis, MO 63116. Phone: +13143281873. | https://registry-edge.dingalinged.workers.dev/c/nad-motor-nads-custom-whees-and-tires-saint-louis/
+44. Racine Tire and Service | Organic #44 | Pulse Score 62.9/100 (Unrated, #1 in city) | Racine Tire and Service is a tire shop in Racine, WI at 2210 Lathrop Avenue, Racine, WI 53405. Phone: +12625830063. Website: https://racinetireandservice.com/. | https://registry-edge.dingalinged.workers.dev/c/racine-tire-and-service-racine/
+45. Smith Muffler | Organic #45 | Pulse Score 62.9/100 (Unrated, #1 in city) | Smith Muffler is an auto repair shop in Covington, KY at 435 Main Street, Covington, KY 41011. Phone: +18594315728. Website: https://smithmufflerky.com/. | https://registry-edge.dingalinged.workers.dev/c/smith-muffler-covington/
+46. Accurate Care Automotive | Organic #46 | Pulse Score 62.8/100 (Good, #18 in city) | Accurate Care Automotive is an auto repair shop in Cobb County, GA at 3143 Canton Road, Cobb County, GA. Phone: +17704239595. Website: https://www.accuratecareauto.com/. | https://registry-edge.dingalinged.workers.dev/c/accurate-care-automotive-cobb-county/
+47. 24 Hr Tire Shop/Roadside Assistance | Organic #47 | Pulse Score 62.8/100 (Unrated, #1 in city) | 24 Hr Tire Shop/Roadside Assistance is an auto repair shop in Smyrna, GA at 1075 Windy Hill Road Southeast, Smyrna, GA 30080. Phone: +16784038005. Website: https://www.24hoursroadassistance.com/. | https://registry-edge.dingalinged.workers.dev/c/24-hr-tire-shop-roadside-assistance-smyrna/
+48. Jeremy Used Tires | Organic #48 | Pulse Score 62.8/100 (Unrated, #1 in city) | Jeremy Used Tires is a tire shop in Texarkana, TX at 2301 New Boston Road, Texarkana, TX 75501. Phone: +19037940710. Website: https://jeremy-used-tires.hub.biz/. | https://registry-edge.dingalinged.workers.dev/c/jeremy-used-tires-texarkana/
+49. Alvaro’s Tire Shop | Organic #49 | Pulse Score 62.8/100 (Unrated, #2 in city) | Alvaro’s Tire Shop is a tire shop in Chicago, IL at 717 North Cicero Avenue, Chicago, IL 60644. Phone: +17736885874. Website: https://alvarostireshop.com/. | https://registry-edge.dingalinged.workers.dev/c/alvaro-s-tire-shop-chicago/
+50. B & B Muffler & Tire | Organic #50 | Pulse Score 62.7/100 (Good, #3 in city) | B & B Muffler & Tire is an auto repair shop in Cleburne, TX at 402 South Main Street, Cleburne, TX 76031. Phone: +18176455900. | https://registry-edge.dingalinged.workers.dev/c/b-and-b-muffler-and-tire-cleburne/
 
-## More tire shop listings (1216 total; top 50 unpaid shown)
+## More tire shop listings (1613 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/tire-shop.jsonl
 - Houston, TX: 63 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-houston-tx/
 - Indianapolis, IN: 50 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-indianapolis-in/
 - Dallas, TX: 36 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-dallas-tx/
+- San Antonio, TX: 30 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-san-antonio-tx/
 - Cobb County, GA: 26 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-cobb-county-ga/
+- Lubbock, TX: 26 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-lubbock-tx/
+- Amarillo, TX: 24 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-amarillo-tx/
 - Detroit, MI: 22 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-detroit-mi/
 - Columbus, OH: 21 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-columbus-oh/
 - Aurora, CO: 20 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-aurora-co/
-- Harris County, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-harris-county-tx/
+- Harris County, TX: 19 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-harris-county-tx/
+- Austin, TX: 19 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-austin-tx/
+- Fort Worth, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-fort-worth-tx/
 - Marietta, GA: 14 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-marietta-ga/
 - Kansas City, MO: 14 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-kansas-city-mo/
 - Chicago, IL: 13 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-chicago-il/
@@ -76,14 +81,21 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Denton, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-denton-tx/
 - Cincinnati, OH: 11 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-cincinnati-oh/
 - Omaha, NE: 11 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-omaha-ne/
+- Longview, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-longview-tx/
 - Plano, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-plano-tx/
 - Douglasville, GA: 9 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-douglasville-ga/
 - Kennesaw, GA: 9 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-kennesaw-ga/
 - Mesquite, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-mesquite-tx/
 - Arlington, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-arlington-tx/
+- Cleburne, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-cleburne-tx/
+- Fort Smith, AR: 9 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-fort-smith-ar/
 - Saint Paul, MN: 9 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-saint-paul-mn/
 - Woodstock, GA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-woodstock-ga/
+- Round Rock, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-round-rock-tx/
+- El Paso, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-el-paso-tx/
+- Texarkana, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-texarkana-tx/
 - Lincoln Park, MI: 8 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-lincoln-park-mi/
+- Russellville, AR: 8 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-russellville-ar/
 - Lawrence, KS: 8 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-lawrence-ks/
 - Kansas City, KS: 8 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-kansas-city-ks/
 - Smyrna, GA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-smyrna-ga/
@@ -95,25 +107,43 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Roswell, GA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-roswell-ga/
 - Alpharetta, GA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-alpharetta-ga/
 - Lewisville, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-lewisville-tx/
+- Corpus Christi, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-corpus-christi-tx/
+- Beaumont, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-beaumont-tx/
+- Pflugerville, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-pflugerville-tx/
+- Fayetteville, AR: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-fayetteville-ar/
 - Gary, IN: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-gary-in/
 - Columbia, MO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-columbia-mo/
 - Springfield, MO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-springfield-mo/
 - Longmont, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-longmont-co/
 - Olathe, KS: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-olathe-ks/
 - Dekalb County, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-dekalb-county-ga/
+- San Angelo, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-san-angelo-tx/
+- College Station, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-college-station-tx/
+- Corsicana, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-corsicana-tx/
+- Seguin, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-seguin-tx/
+- Georgetown, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-georgetown-tx/
+- Conroe, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-conroe-tx/
+- Greenville, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-greenville-tx/
 - Humble, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-humble-tx/
+- Wichita Falls, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-wichita-falls-tx/
 - Pittsburgh, PA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-pittsburgh-pa/
 - Centennial, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-centennial-co/
 - Thornton, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-thornton-co/
 - Des Moines, IA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-des-moines-ia/
 - Naperville, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-naperville-il/
 - Waxahachie, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-waxahachie-tx/
+- Eagle Pass, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-eagle-pass-tx/
+- Boerne, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-boerne-tx/
+- Waco, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-waco-tx/
 - Frisco, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-frisco-tx/
 - Bedford, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-bedford-tx/
-- Conroe, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-conroe-tx/
 - Irving, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-irving-tx/
+- New Braunfels, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-new-braunfels-tx/
+- Tyler, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-tyler-tx/
+- Victoria, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-victoria-tx/
 - Dearborn, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-dearborn-mi/
 - Taylor, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-taylor-mi/
+- Conway, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-conway-ar/
 - Noblesville, IN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-noblesville-in/
 - Independence, MO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-independence-mo/
 - Union Township, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-union-township-oh/
@@ -138,20 +168,35 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Duluth, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-duluth-ga/
 - Tucker, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-tucker-ga/
 - Hurst, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-hurst-tx/
+- Lufkin, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-lufkin-tx/
+- Angleton, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-angleton-tx/
 - Mansfield, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-mansfield-tx/
 - Farmersville, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-farmersville-tx/
 - Allen, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-allen-tx/
+- Duncanville, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-duncanville-tx/
 - Forney, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-forney-tx/
 - Garland, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-garland-tx/
 - Carrollton, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-carrollton-tx/
+- Cedar Park, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-cedar-park-tx/
+- Del Rio, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-del-rio-tx/
+- Edinburg, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-edinburg-tx/
+- Laredo, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-laredo-tx/
+- Mcallen, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-mcallen-tx/
+- Midland, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-midland-tx/
 - Missouri City, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-missouri-city-tx/
 - Pasadena, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-pasadena-tx/
 - Pearland, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-pearland-tx/
+- San Marcos, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-san-marcos-tx/
 - Sugar Land, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-sugar-land-tx/
 - Wylie, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-wylie-tx/
+- Lockhart, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-lockhart-tx/
 - Southgate, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-southgate-mi/
 - Waterford Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-waterford-township-mi/
 - Woodhaven, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-woodhaven-mi/
+- Cabot, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-cabot-ar/
+- Little Rock, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-little-rock-ar/
+- Jacksonville, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-jacksonville-ar/
+- Tontitown, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-tontitown-ar/
 - Penn Hills, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-penn-hills-pa/
 - Carmel, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-carmel-in/
 - Plainfield, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-plainfield-in/
@@ -196,23 +241,45 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Stockbridge, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-stockbridge-ga/
 - Jonesboro, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-jonesboro-ga/
 - Hempstead, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-hempstead-tx/
+- Belton, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-belton-tx/
+- Leon Valley, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-leon-valley-tx/
+- Killeen, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-killeen-tx/
+- The Colony, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-the-colony-tx/
 - South Houston, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-south-houston-tx/
 - Sachse, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-sachse-tx/
 - Richardson, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-richardson-tx/
+- Beverly Hills, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-beverly-hills-tx/
 - Richmond, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-richmond-tx/
-- Duncanville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-duncanville-tx/
 - Prosper, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-prosper-tx/
 - Rockwall, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-rockwall-tx/
+- Denison, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-denison-tx/
+- Abilene, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-abilene-tx/
+- Bastrop, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-bastrop-tx/
 - Baytown, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-baytown-tx/
+- Burleson, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-burleson-tx/
 - Grand Prairie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-grand-prairie-tx/
 - Friendswood, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-friendswood-tx/
 - Grapevine, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-grapevine-tx/
+- Huntsville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-huntsville-tx/
+- Kerrville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-kerrville-tx/
 - League City, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-league-city-tx/
+- Leander, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-leander-tx/
+- Midlothian, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-midlothian-tx/
+- Montgomery County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-montgomery-county-tx/
+- Odessa, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-odessa-tx/
+- Port Arthur, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-port-arthur-tx/
 - Roanoke, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-roanoke-tx/
 - Rowlett, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-rowlett-tx/
+- Schertz, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-schertz-tx/
+- Sherman, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-sherman-tx/
 - Terrell, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-terrell-tx/
 - Texas City, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-texas-city-tx/
 - Tomball, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-tomball-tx/
+- Weatherford, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-weatherford-tx/
+- Temple, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-temple-tx/
+- Anthony, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-anthony-tx/
+- Elgin, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-elgin-tx/
+- Joshua, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-joshua-tx/
 - Canton Township, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-canton-township-mi/
 - Allen Park, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-allen-park-mi/
 - Macomb Township, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-macomb-township-mi/
@@ -225,6 +292,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Chesterfield Township, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-chesterfield-township-mi/
 - Fraser, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-fraser-mi/
 - Inkster, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-inkster-mi/
+- Sherwood, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-sherwood-ar/
+- Jonesboro, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-jonesboro-ar/
+- Texarkana, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-texarkana-ar/
+- Springdale, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-springdale-ar/
 - West Deer Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-west-deer-township-pa/
 - Mckees Rocks, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-mckees-rocks-pa/
 - Bethel Park, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-bethel-park-pa/
@@ -313,35 +384,73 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Powder Springs, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-powder-springs-ga/
 - South Fulton, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-south-fulton-ga/
 - Suwanee, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-suwanee-ga/
+- Horizon City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-horizon-city-tx/
 - Sunnyvale, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-sunnyvale-tx/
+- Natalia, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-natalia-tx/
+- Clint, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-clint-tx/
 - The Woodlands, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-the-woodlands-tx/
 - Southlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-southlake-tx/
+- Bee Cave, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-bee-cave-tx/
+- Bellmead, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-bellmead-tx/
+- Brownsville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-brownsville-tx/
+- Bryan, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-bryan-tx/
 - Cedar Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-cedar-hill-tx/
 - Clear Lake Shores, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-clear-lake-shores-tx/
+- Clute, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-clute-tx/
+- Copperas Cove, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-copperas-cove-tx/
 - Corinth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-corinth-tx/
 - Cross Roads, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-cross-roads-tx/
 - Desoto, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-desoto-tx/
 - Flower Mound, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-flower-mound-tx/
-- Fort Worth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-fort-worth-tx/
+- Forest Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-forest-hill-tx/
+- Harker Heights, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-harker-heights-tx/
+- Harlingen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-harlingen-tx/
+- Haslet, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-haslet-tx/
+- Hill Country Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-hill-country-village-tx/
 - Jacinto City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-jacinto-city-tx/
+- Hudson Oaks, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-hudson-oaks-tx/
+- Keller, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-keller-tx/
+- Kyle, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-kyle-tx/
 - La Porte, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-la-porte-tx/
+- Lake Jackson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-lake-jackson-tx/
+- Lake Worth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-lake-worth-tx/
 - Little Elm, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-little-elm-tx/
+- Manor, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-manor-tx/
 - Meadows Place, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-meadows-place-tx/
-- Midlothian, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-midlothian-tx/
+- Mission, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-mission-tx/
 - North Richland Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-north-richland-hills-tx/
+- Portland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-portland-tx/
 - Rosenberg, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-rosenberg-tx/
+- Live Oak, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-live-oak-tx/
+- Selma, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-selma-tx/
 - Shenandoah, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-shenandoah-tx/
-- The Colony, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-the-colony-tx/
+- Bulverde, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-bulverde-tx/
+- Spring Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-spring-branch-tx/
 - Webster, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-webster-tx/
+- Weslaco, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-weslaco-tx/
+- Windcrest, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-windcrest-tx/
+- Wake Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-wake-village-tx/
+- Watauga, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-watauga-tx/
 - Magnolia, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-magnolia-tx/
 - Lavon, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-lavon-tx/
+- Hidalgo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-hidalgo-tx/
+- Lytle, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-lytle-tx/
+- Devine, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-devine-tx/
 - Wharton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-wharton-tx/
-- Montgomery County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-montgomery-county-tx/
+- Travis County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-travis-county-tx/
+- Pleasanton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-pleasanton-tx/
+- Floresville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-floresville-tx/
 - San Felipe, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-san-felipe-tx/
+- Paris, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-paris-tx/
 - Royse City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-royse-city-tx/
+- Navarro County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-navarro-county-tx/
+- Converse, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-converse-tx/
 - Addison, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-addison-tx/
 - Lancaster, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-lancaster-tx/
 - Seabrook, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-seabrook-tx/
+- Liberty Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-liberty-hill-tx/
+- Dripping Springs, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-dripping-springs-tx/
+- Taylor, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-taylor-tx/
 - Farmington, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-farmington-mi/
 - Madison Heights, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-madison-heights-mi/
 - Plymouth Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-plymouth-charter-township-mi/
@@ -362,6 +471,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Redford Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-redford-township-mi/
 - Ecorse, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-ecorse-mi/
 - Utica, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-utica-mi/
+- North Little Rock, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-north-little-rock-ar/
+- Pine Bluff, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-pine-bluff-ar/
+- Siloam Springs, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-siloam-springs-ar/
+- Paragould, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-paragould-ar/
+- Benton, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-benton-ar/
 - Neville Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-neville-township-pa/
 - Kennedy Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-kennedy-township-pa/
 - Monongahela, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tire-shop-monongahela-pa/
@@ -491,7 +605,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1216
+- Registry businesses competing: 1613
 - Equivalent Google Ads cost per month: ~$130,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

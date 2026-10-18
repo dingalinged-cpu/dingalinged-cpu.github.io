@@ -13,7 +13,7 @@ Regus is a coworking space in Greenfield, WI at 4848 South 76th Street, Greenfie
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.7/100 — Building — top 94% of coworking spaces in Milwaukee, #1 of 1 coworking spaces in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.7/100 — Building — top 94% of coworking spaces in Milwaukee, #1 of 1 coworking spaces in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

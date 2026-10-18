@@ -13,12 +13,12 @@ Vision Max is an eye care practice in Houston, TX at 13427 East Freeway, Houston
 - Website: https://www.visionmaxhouston.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Fr 09:00-18:00; We 10:00-18:00; Th 09:00-17:00; Sa 09:00-14:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 23% of eye care practices in Houston, #8 of 19 eye care practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 22% of eye care practices in Houston, #9 of 20 eye care practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/vision-max-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/vision-max-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12672549501 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12672549501 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

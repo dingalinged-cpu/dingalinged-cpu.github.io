@@ -13,12 +13,12 @@ Ed's Garage is an auto repair shop in Hurst, TX at 1200 W Hurst Boulevard, Hurst
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 18% of auto repair shops in Dallas–Fort Worth, #8 of 14 auto repair shops in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 19% of auto repair shops in Dallas–Fort Worth, #8 of 14 auto repair shops in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/eds-garage-hurst/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/eds-garage-hurst.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/544409862 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/544409862 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

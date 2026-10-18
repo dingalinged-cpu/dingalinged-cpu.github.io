@@ -7,7 +7,7 @@ Also answers: gift shop in Humble, TX; gift shop near me (Humble, TX); best gift
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Gifts and Silver | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Gifts and Silver is a gift shop in Humble, TX at 5328 FM 1960 East, Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/gifts-and-silver-humble/
-2. Gifts of Texas | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Gifts of Texas is a gift shop in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/gifts-of-texas-humble/
+2. Gifts of Texas | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Gifts of Texas is a gift shop in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/gifts-of-texas-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop humble tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -6,8 +6,8 @@ Also answers: furniture store in Cleveland, TX; furniture store near me (Clevela
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Buddy's Home Furnishings | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Buddy's Home Furnishings is a furniture store in Cleveland, TX at 429 West Southline Street, Cleveland, TX 77327. Phone: +12815928200. Website: https://www.buddyrents.com/stores/cleveland-tx/. | https://registry-edge.dingalinged.workers.dev/c/buddys-home-furnishings-cleveland/
-2. Aaron's | Organic #2 | Pulse Score 46/100 (Building, #2 in city) | Aaron's is a furniture store in Cleveland, TX at 1721 East Houston Street, Cleveland, TX 77327. | https://registry-edge.dingalinged.workers.dev/c/aarons-cleveland/
+1. Buddy's Home Furnishings | Organic #1 | Pulse Score 49.4/100 (Unrated, #1 in city) | Buddy's Home Furnishings is a furniture store in Cleveland, TX at 429 West Southline Street, Cleveland, TX 77327. Phone: +12815928200. Website: https://www.buddyrents.com/stores/cleveland-tx/. | https://registry-edge.dingalinged.workers.dev/c/buddys-home-furnishings-cleveland/
+2. Aaron's | Organic #2 | Pulse Score 45.9/100 (Building, #2 in city) | Aaron's is a furniture store in Cleveland, TX at 1721 East Houston Street, Cleveland, TX 77327. | https://registry-edge.dingalinged.workers.dev/c/aarons-cleveland/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store cleveland tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

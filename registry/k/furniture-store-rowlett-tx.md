@@ -6,7 +6,7 @@ Also answers: furniture store in Rowlett, TX; furniture store near me (Rowlett, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aaron's | Organic #1 | Pulse Score 45/100 (Building, #1 in city) | Aaron's is a furniture store in Rowlett, TX at 5701 President George Bush Highway #190, Rowlett, TX 75088. | https://registry-edge.dingalinged.workers.dev/c/aarons-rowlett/
+1. Aaron's | Organic #1 | Pulse Score 44.8/100 (Building, #1 in city) | Aaron's is a furniture store in Rowlett, TX at 5701 President George Bush Highway #190, Rowlett, TX 75088. | https://registry-edge.dingalinged.workers.dev/c/aarons-rowlett/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store rowlett tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ North Suburban Family Physicians Clinic is a family medicine practice in Lino La
 - Website: https://www.healthpartners.com/care/find/location/primary-care-clinics/healthpartners-north-suburban-family-physicians/lino-lakes/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Fair — top 39% of family medicine practices in Minneapolis–St. Paul, #1 of 1 family medicine practices in Lino Lakes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Fair — top 39% of family medicine practices in Minneapolis–St. Paul, #1 of 1 family medicine practices in Lino Lakes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

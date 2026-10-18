@@ -6,13 +6,13 @@ Also answers: furniture store in Urbandale, IA; furniture store near me (Urbanda
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Homemakers | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Homemakers is a furniture store in Urbandale, IA at 10215 Douglas Avenue, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/homemakers-urbandale/
+1. Homemakers | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Homemakers is a furniture store in Urbandale, IA at 10215 Douglas Avenue, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/homemakers-urbandale/
 2. Amish Haus Furniture | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Amish Haus Furniture is a furniture store in Urbandale, IA at 3201 100th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/amish-haus-furniture-urbandale/
 3. Decor on Douglas | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Decor on Douglas is a furniture store in Urbandale, IA at 10870 Douglas Avenue, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/decor-on-douglas-urbandale/
 4. Homemakers Distribution Center | Organic #4 | Pulse Score 55.9/100 (Unrated, #4 in city) | Homemakers Distribution Center is a furniture store in Urbandale, IA at 4000 Northwest Urbandale Drive, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/homemakers-distribution-center-urbandale/
 5. Woodfields Furniture | Organic #5 | Pulse Score 55.9/100 (Unrated, #5 in city) | Woodfields Furniture is a furniture store in Urbandale, IA at 2745 100th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/woodfields-furniture-urbandale/
-6. Lebeda Mattress Factory | Organic #6 | Pulse Score 43.2/100 (Unrated, #6 in city) | Lebeda Mattress Factory is a furniture store in Urbandale, IA at 3180 100th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/lebeda-mattress-factory-urbandale/
-7. Midwest Mattress | Organic #7 | Pulse Score 43.2/100 (Unrated, #7 in city) | Midwest Mattress is a furniture store in Urbandale, IA at 3128 100th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/midwest-mattress-urbandale/
+6. Lebeda Mattress Factory | Organic #6 | Pulse Score 43.1/100 (Unrated, #6 in city) | Lebeda Mattress Factory is a furniture store in Urbandale, IA at 3180 100th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/lebeda-mattress-factory-urbandale/
+7. Midwest Mattress | Organic #7 | Pulse Score 43.1/100 (Unrated, #7 in city) | Midwest Mattress is a furniture store in Urbandale, IA at 3128 100th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/midwest-mattress-urbandale/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store urbandale ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

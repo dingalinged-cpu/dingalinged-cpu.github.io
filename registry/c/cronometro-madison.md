@@ -13,7 +13,7 @@ Cronometro is a bike shop in Madison, WI at 841 West Lakeside Street, Madison, W
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 12:00-18:00; Sa 11:00-16:00
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 64% of bike shops in Madison, #18 of 24 bike shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 43.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 64% of bike shops in Madison, #18 of 24 bike shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

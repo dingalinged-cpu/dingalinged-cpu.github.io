@@ -6,7 +6,7 @@ Also answers: preschool in Crandall, TX; preschool near me (Crandall, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dunkin Academy | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Dunkin Academy is a preschool in Crandall, TX at 1001 US Highway 175, Crandall, TX 75114. | https://registry-edge.dingalinged.workers.dev/c/dunkin-academy-crandall/
+1. Dunkin Academy | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Dunkin Academy is a preschool in Crandall, TX at 1001 US Highway 175, Crandall, TX 75114. | https://registry-edge.dingalinged.workers.dev/c/dunkin-academy-crandall/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool crandall tx | category: Education & childcare | industry benchmark: Education & Instruction

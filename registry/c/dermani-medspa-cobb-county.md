@@ -13,7 +13,7 @@ Dermani Medspa is a plastic surgeon in Cobb County, GA at Paces Ferry Road South
 - Website: https://dermanimedspa.com/vinings
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-13:30,14:15-19:00; Sa 09:00-13:30,14:15-17:00
-- Pulse Score: 45.2/100 — Unrated (not enough evidence yet) — top 100% of plastic surgeons in Atlanta, #2 of 2 plastic surgeons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 100% of plastic surgeons in Atlanta, #2 of 2 plastic surgeons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

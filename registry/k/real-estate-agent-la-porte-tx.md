@@ -6,7 +6,7 @@ Also answers: real estate agent in La Porte, TX; real estate agent near me (La P
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HistoryMaker Homes at Artesia Village | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | HistoryMaker Homes at Artesia Village is a real estate agency in La Porte, TX at 113 WEDGEWOOD TRACE LANE, La Porte, TX 77571. Phone: +18664191949. Website: https://www.historymaker.com/communities/houston/la-porte/artesia-village. | https://registry-edge.dingalinged.workers.dev/c/historymaker-homes-at-artesia-village-la-porte/
+1. HistoryMaker Homes at Artesia Village | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | HistoryMaker Homes at Artesia Village is a real estate agency in La Porte, TX at 113 WEDGEWOOD TRACE LANE, La Porte, TX 77571. Phone: +18664191949. Website: https://www.historymaker.com/communities/houston/la-porte/artesia-village. | https://registry-edge.dingalinged.workers.dev/c/historymaker-homes-at-artesia-village-la-porte/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent la porte tx | category: Professional & financial services | industry benchmark: Finance & Insurance

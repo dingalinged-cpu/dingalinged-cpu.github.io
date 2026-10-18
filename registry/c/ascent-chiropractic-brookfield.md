@@ -13,7 +13,7 @@ Ascent Chiropractic is a chiropractor in Brookfield, WI at 16620 West Bluemound 
 - Website: https://ascentchiropractic.com/
 - Email: info@ascentchiropractic.com
 - Opening hours (OSM syntax): Mo,We,Fr 08:30-17:45; Tu,Th 08:30-17:30; Sa 08:30-12:30
-- Pulse Score: 65/100 — Good — top 3% of chiropractors in Milwaukee, #1 of 4 chiropractors in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 3% of chiropractors in Milwaukee, #1 of 4 chiropractors in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ KinderCare is a preschool in White Bear Township, MN at 1000 Meadowlands Drive, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Building — top 72% of preschools in Minneapolis–St. Paul, #1 of 1 preschools in White Bear Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 72% of preschools in Minneapolis–St. Paul, #1 of 1 preschools in White Bear Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

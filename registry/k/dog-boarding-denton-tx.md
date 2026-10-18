@@ -6,7 +6,7 @@ Also answers: dog boarding in Denton, TX; dog boarding near me (Denton, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Club Canine Boarding and Grooming | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Club Canine Boarding and Grooming is a dog boarding facility in Denton, TX at 7800 East McKinney Street, Denton, TX 76208. Phone: +19403832766. Website: https://clubcanineboarding.com/. | https://registry-edge.dingalinged.workers.dev/c/club-canine-boarding-and-grooming-denton/
+1. Club Canine Boarding and Grooming | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Club Canine Boarding and Grooming is a dog boarding facility in Denton, TX at 7800 East McKinney Street, Denton, TX 76208. Phone: +19403832766. Website: https://clubcanineboarding.com/. | https://registry-edge.dingalinged.workers.dev/c/club-canine-boarding-and-grooming-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding denton tx | category: Pets | industry benchmark: Animals & Pets

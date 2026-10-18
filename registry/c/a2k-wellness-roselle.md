@@ -13,7 +13,7 @@ A2K Wellness is a skin care studio in Roselle, IL at 474 West Lake Street, Rosel
 - Website: https://a2kwellness.com/
 - Email: infoa2kwellness@gmail.com
 - Opening hours (OSM syntax): Tu,We 09:00-15:30; Fr-Sa 09:00-14:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 15% of skin care studios in Chicago, #1 of 1 skin care studios in Roselle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 15% of skin care studios in Chicago, #1 of 1 skin care studios in Roselle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

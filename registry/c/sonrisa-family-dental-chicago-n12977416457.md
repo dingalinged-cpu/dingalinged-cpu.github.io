@@ -13,7 +13,7 @@ Sonrisa Family Dental is a dentist in Chicago, IL at 1044 North Mozart Street #4
 - Website: https://sonrisafamilydental.com/locations/humboldt-park/
 - Email: info@sfdchicago.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 08:00-15:00
-- Pulse Score: 51.2/100 — Unrated (not enough evidence yet) — top 90% of dentists in Chicago, #127 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.7, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.2/100 — Unrated (not enough evidence yet) — top 90% of dentists in Chicago, #126 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.7, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: chiropractor in Garland, TX; chiropractor near me (Garland, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Joint Chiropractic | Organic #1 | Pulse Score 41.7/100 (Building, #1 in city) | The Joint Chiropractic is a chiropractor in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-garland/
+1. The Joint Chiropractic | Organic #1 | Pulse Score 41.6/100 (Building, #1 in city) | The Joint Chiropractic is a chiropractor in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor garland tx | category: Health & medical | industry benchmark: Physicians & Surgeons

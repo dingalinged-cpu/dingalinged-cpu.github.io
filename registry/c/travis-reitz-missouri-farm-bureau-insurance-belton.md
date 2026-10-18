@@ -13,7 +13,7 @@ Travis Reitz - Missouri Farm Bureau Insurance is an insurance agent in Belton, M
 - Website: https://agents.mofbinsurance.com/travis.reitz
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 54% of insurance agents in Kansas City, MO, #2 of 3 insurance agents in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 53% of insurance agents in Kansas City, MO, #2 of 3 insurance agents in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

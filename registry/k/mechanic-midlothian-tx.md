@@ -6,7 +6,7 @@ Also answers: mechanic in Midlothian, TX; mechanic near me (Midlothian, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Macks Automotive | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Macks Automotive is an auto repair shop in Midlothian, TX at 1391 North US Highway 67, Midlothian, TX 76065. | https://registry-edge.dingalinged.workers.dev/c/macks-automotive-midlothian/
+1. Macks Automotive | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Macks Automotive is an auto repair shop in Midlothian, TX at 1391 North US Highway 67, Midlothian, TX 76065. | https://registry-edge.dingalinged.workers.dev/c/macks-automotive-midlothian/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic midlothian tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -6,10 +6,10 @@ Also answers: dentist in Waukee, IA; dentist near me (Waukee, IA); best dentist 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Craig Dental Center | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Craig Dental Center is a dentist in Waukee, IA at 15 Warrior Lane, Waukee, IA 50263. Website: https://www.craigdentalcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/craig-dental-center-waukee/
-2. Des Moines Children's Dentistry | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Des Moines Children's Dentistry is a dentist in Waukee, IA at 2335 Southeast LA Grant Parkway, Waukee, IA 50263. | https://registry-edge.dingalinged.workers.dev/c/des-moines-childrens-dentistry-waukee/
-3. Waukee Family Dentistry | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | Waukee Family Dentistry is a dentist in Waukee, IA at 85 North Warrior Lane, Waukee, IA 50263. | https://registry-edge.dingalinged.workers.dev/c/waukee-family-dentistry-waukee/
-4. Johnson Orthodontics | Organic #4 | Pulse Score 45/100 (Unrated, #4 in city) | Johnson Orthodontics is a dentist in Waukee, IA at 2355 Southeast LA Grant Parkway, Waukee, IA 50263. | https://registry-edge.dingalinged.workers.dev/c/johnson-orthodontics-waukee/
+1. Craig Dental Center | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Craig Dental Center is a dentist in Waukee, IA at 15 Warrior Lane, Waukee, IA 50263. Website: https://www.craigdentalcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/craig-dental-center-waukee/
+2. Des Moines Children's Dentistry | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Des Moines Children's Dentistry is a dentist in Waukee, IA at 2335 Southeast LA Grant Parkway, Waukee, IA 50263. | https://registry-edge.dingalinged.workers.dev/c/des-moines-childrens-dentistry-waukee/
+3. Waukee Family Dentistry | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Waukee Family Dentistry is a dentist in Waukee, IA at 85 North Warrior Lane, Waukee, IA 50263. | https://registry-edge.dingalinged.workers.dev/c/waukee-family-dentistry-waukee/
+4. Johnson Orthodontics | Organic #4 | Pulse Score 44.9/100 (Unrated, #4 in city) | Johnson Orthodontics is a dentist in Waukee, IA at 2355 Southeast LA Grant Parkway, Waukee, IA 50263. | https://registry-edge.dingalinged.workers.dev/c/johnson-orthodontics-waukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist waukee ia | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

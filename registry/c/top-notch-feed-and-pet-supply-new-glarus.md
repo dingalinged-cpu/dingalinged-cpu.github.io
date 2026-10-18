@@ -13,7 +13,7 @@ Top Notch Feed & Pet Supply is a pet store in New Glarus, WI at 211 Hoesly Drive
 - Website: https://www.topnotchfeed.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 10% of pet stores in Madison, #1 of 1 pet stores in New Glarus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 15% of pet stores in Madison, #1 of 1 pet stores in New Glarus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

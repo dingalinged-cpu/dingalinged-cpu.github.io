@@ -56,15 +56,15 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 48. Gerber Collision & Glass | Organic #48 | Pulse Score 43.5/100 (Building, #48 in city) | Gerber Collision & Glass is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/gerber-collision-and-glass-madison/
 49. Valvoline | Organic #49 | Pulse Score 43.5/100 (Building, #49 in city) | Valvoline is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/valvoline-madison-w37783999/
 50. Caliber Collision | Organic #50 | Pulse Score 43.1/100 (Building, #50 in city) | Caliber Collision is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-madison/
-51. Car-X | Organic #51 | Pulse Score 42.8/100 (Building, #51 in city) | Car-X is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/car-x-madison/
-52. Car-X | Organic #52 | Pulse Score 42.8/100 (Building, #52 in city) | Car-X is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/car-x-madison-w678054848/
-53. Jiffy Lube | Organic #53 | Pulse Score 42.8/100 (Building, #53 in city) | Jiffy Lube is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-madison/
-54. Jiffy Lube | Organic #54 | Pulse Score 42.8/100 (Building, #54 in city) | Jiffy Lube is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-madison-w130709283/
-55. Jiffy Lube | Organic #55 | Pulse Score 42.8/100 (Building, #55 in city) | Jiffy Lube is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-madison-w281399234/
-56. Jiffy Lube | Organic #56 | Pulse Score 42.8/100 (Building, #56 in city) | Jiffy Lube is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-madison-w662266656/
-57. Jiffy Lube | Organic #57 | Pulse Score 42.8/100 (Building, #57 in city) | Jiffy Lube is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-madison-w71371394/
-58. Midas | Organic #58 | Pulse Score 42.8/100 (Building, #58 in city) | Midas is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/midas-madison-w38342952/
-59. NAPA AutoCare Center | Organic #59 | Pulse Score 42.8/100 (Building, #59 in city) | NAPA AutoCare Center is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/napa-autocare-center-madison/
+51. Car-X | Organic #51 | Pulse Score 42.7/100 (Building, #51 in city) | Car-X is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/car-x-madison/
+52. Car-X | Organic #52 | Pulse Score 42.7/100 (Building, #52 in city) | Car-X is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/car-x-madison-w678054848/
+53. Jiffy Lube | Organic #53 | Pulse Score 42.7/100 (Building, #53 in city) | Jiffy Lube is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-madison/
+54. Jiffy Lube | Organic #54 | Pulse Score 42.7/100 (Building, #54 in city) | Jiffy Lube is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-madison-w130709283/
+55. Jiffy Lube | Organic #55 | Pulse Score 42.7/100 (Building, #55 in city) | Jiffy Lube is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-madison-w281399234/
+56. Jiffy Lube | Organic #56 | Pulse Score 42.7/100 (Building, #56 in city) | Jiffy Lube is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-madison-w662266656/
+57. Jiffy Lube | Organic #57 | Pulse Score 42.7/100 (Building, #57 in city) | Jiffy Lube is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-madison-w71371394/
+58. Midas | Organic #58 | Pulse Score 42.7/100 (Building, #58 in city) | Midas is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/midas-madison-w38342952/
+59. NAPA AutoCare Center | Organic #59 | Pulse Score 42.7/100 (Building, #59 in city) | NAPA AutoCare Center is an auto repair shop in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/napa-autocare-center-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair madison wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

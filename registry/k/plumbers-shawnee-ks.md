@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Top Notch Heating, Cooling & Plumbing | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Top Notch Heating, Cooling & Plumbing is a plumber in Shawnee, KS at 23754 West 82nd Terrace, Shawnee, KS 66227. Phone: +19134418900. Website: https://www.topnotchheatingandair.com/. | https://registry-edge.dingalinged.workers.dev/c/top-notch-heating-cooling-and-plumbing-shawnee/
 2. Elements Sprinkler Company | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | Elements Sprinkler Company is a plumber in Shawnee, KS at 6917 Martindale Road, Shawnee, KS 66218. Phone: +19136537882. Website: https://elementssprinkler.com/. | https://registry-edge.dingalinged.workers.dev/c/elements-sprinkler-company-shawnee/
-3. Paul Vielhauer Plumbing Inc | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Paul Vielhauer Plumbing Inc is a plumber in Shawnee, KS at 6921 Martindale Road, Shawnee, KS 66218. Phone: +19134419400. | https://registry-edge.dingalinged.workers.dev/c/paul-vielhauer-plumbing-inc-shawnee/
-4. Jones Plumbing LLC | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Jones Plumbing LLC is a plumber in Shawnee, KS at 23757 West 82nd Terrace, Shawnee, KS 66227. Phone: +19134225327. | https://registry-edge.dingalinged.workers.dev/c/jones-plumbing-llc-shawnee/
+3. Paul Vielhauer Plumbing Inc | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | Paul Vielhauer Plumbing Inc is a plumber in Shawnee, KS at 6921 Martindale Road, Shawnee, KS 66218. Phone: +19134419400. | https://registry-edge.dingalinged.workers.dev/c/paul-vielhauer-plumbing-inc-shawnee/
+4. Jones Plumbing LLC | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Jones Plumbing LLC is a plumber in Shawnee, KS at 23757 West 82nd Terrace, Shawnee, KS 66227. Phone: +19134225327. | https://registry-edge.dingalinged.workers.dev/c/jones-plumbing-llc-shawnee/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers shawnee ks | category: Home Services | industry benchmark: Home & Home Improvement

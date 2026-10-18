@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Treasure Box | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Treasure Box is a gift shop in Frisco, TX at 9250 Dallas Parkway #170, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/treasure-box-frisco/
 3. Fu11mart | Organic #3 | Pulse Score 60.3/100 (Unrated, #3 in city) | Fu11mart is a gift shop in Frisco, TX at 9351 Warren Parkway #115, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/fu11mart-frisco/
 4. Cowboy's Pro Shop | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Cowboy's Pro Shop is a gift shop in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/cowboys-pro-shop-frisco/
-5. Hallmark | Organic #5 | Pulse Score 43.7/100 (Building, #5 in city) | Hallmark is a gift shop in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/hallmark-frisco/
+5. Hallmark | Organic #5 | Pulse Score 43.6/100 (Building, #5 in city) | Hallmark is a gift shop in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/hallmark-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop frisco tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

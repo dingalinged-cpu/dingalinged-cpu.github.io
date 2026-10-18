@@ -14,7 +14,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 6. Lee's Summit Total Auto Care | Organic #6 | Pulse Score 55.3/100 (Unrated, #6 in city) | Lee's Summit Total Auto Care is an auto repair shop in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/lees-summit-total-auto-care-lees-summit/
 7. Maxed Out Trucks | Organic #7 | Pulse Score 55.3/100 (Unrated, #7 in city) | Maxed Out Trucks is an auto repair shop in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/maxed-out-trucks-lees-summit/
 8. Royal Automotive | Organic #8 | Pulse Score 55.3/100 (Unrated, #8 in city) | Royal Automotive is an auto repair shop in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/royal-automotive-lees-summit/
-9. Firestone | Organic #9 | Pulse Score 43.5/100 (Building, #9 in city) | Firestone is an auto repair shop in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/firestone-lees-summit/
+9. Firestone | Organic #9 | Pulse Score 43.4/100 (Building, #9 in city) | Firestone is an auto repair shop in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/firestone-lees-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic lee's summit mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

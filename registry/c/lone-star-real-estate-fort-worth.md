@@ -19,6 +19,6 @@ Lone Star Real Estate is a real estate agency in Fort Worth, TX at 7601 Flagston
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/lone-star-real-estate-fort-worth/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lone-star-real-estate-fort-worth.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5729589105 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5729589105 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Planet Beach Spay & Spa is a tanning salon in Houston, TX at 2665 Royal Forest D
 - Website: https://planetbeach.com/spa/kingwood/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 19% of tanning salons in Houston, #1 of 5 tanning salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 16% of tanning salons in Houston, #1 of 6 tanning salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/planet-beach-spay-and-spa-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/planet-beach-spay-and-spa-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/8256573736 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8256573736 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

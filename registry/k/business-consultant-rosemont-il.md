@@ -6,7 +6,7 @@ Also answers: business consultant in Rosemont, IL; business consultant near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McKinsey & Company | Organic #1 | Pulse Score 42/100 (Building, #1 in city) | McKinsey & Company is a business consultant in Rosemont, IL at 5600 North River Road #450, Rosemont, IL 60018. | https://registry-edge.dingalinged.workers.dev/c/mckinsey-and-company-rosemont/
+1. McKinsey & Company | Organic #1 | Pulse Score 42.1/100 (Building, #1 in city) | McKinsey & Company is a business consultant in Rosemont, IL at 5600 North River Road #450, Rosemont, IL 60018. | https://registry-edge.dingalinged.workers.dev/c/mckinsey-and-company-rosemont/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant rosemont il | category: b2b_services | industry benchmark: Business Services

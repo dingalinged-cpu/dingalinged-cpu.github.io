@@ -6,7 +6,7 @@ Also answers: music lessons in Denton, TX; music lessons near me (Denton, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Denton Music Workshop | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Denton Music Workshop is a music school in Denton, TX at 221 North Locust Street, Denton, TX 76201. Phone: +19402151929. Website: https://www.dentonmusicworkshop.com/. | https://registry-edge.dingalinged.workers.dev/c/denton-music-workshop-denton/
+1. Denton Music Workshop | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Denton Music Workshop is a music school in Denton, TX at 221 North Locust Street, Denton, TX 76201. Phone: +19402151929. Website: https://www.dentonmusicworkshop.com/. | https://registry-edge.dingalinged.workers.dev/c/denton-music-workshop-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons denton tx | category: Education & childcare | industry benchmark: Education & Instruction

@@ -13,7 +13,7 @@ Past And Presents Card Gifts & Home is a gift shop in Lenexa, KS at 15020 West 8
 - Website: https://stores.hallmark.com/ks/lenexa/past-and-presents-card-gifts-home-lenexa-ks-032770.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 4% of gift shops in Kansas City, MO, #1 of 2 gift shops in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 4% of gift shops in Kansas City, MO, #1 of 2 gift shops in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Sandy Springs, GA at 6015 Roswell Road, San
 - Website: https://www.mattressfirm.com/en-us/stores/ga/sandy-springs/007064/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 81% of mattress stores in Atlanta, #1 of 1 mattress stores in Sandy Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 81% of mattress stores in Atlanta, #1 of 1 mattress stores in Sandy Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Aplomb Martial Arts Lenexa is a martial arts school in Lenexa, KS at 14920 West 
 - Website: https://www.aplombmartialarts.com/martial-arts-classes-in-lenexa/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 14:00-21:00; Tu 13:30-18:30; We 12:00-21:00; Th 14:00-21:00; Fr 14:00-19:00; Sa 09:00-14:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 11% of martial arts schools in Kansas City, MO, #1 of 3 martial arts schools in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 11% of martial arts schools in Kansas City, MO, #1 of 3 martial arts schools in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

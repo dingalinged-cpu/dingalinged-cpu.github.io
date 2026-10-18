@@ -13,7 +13,7 @@ Swarovski is a jewelry store in Fort Snelling Unorganized Territory, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.9/100 — Building — top 92% of jewelry stores in Minneapolis–St. Paul, #1 of 1 jewelry stores in Fort Snelling Unorganized Territory (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.9/100 — Building — top 92% of jewelry stores in Minneapolis–St. Paul, #1 of 1 jewelry stores in Fort Snelling Unorganized Territory (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 41.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

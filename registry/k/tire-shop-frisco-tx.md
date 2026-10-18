@@ -7,8 +7,8 @@ Also answers: tire shop in Frisco, TX; tire shop near me (Frisco, TX); best tire
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Christian Brothers Automotive Frisco West | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Christian Brothers Automotive Frisco West is an auto repair shop in Frisco, TX at 8110 FM 423, Frisco, TX 75034. Phone: +12147053341. Website: https://www.cbac.com/frisco-west/. | https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-frisco-west-frisco/
-2. Goodyear Tires | Organic #2 | Pulse Score 54.3/100 (Unrated, #1 in city) | Goodyear Tires is a tire shop in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/goodyear-tires-frisco/
-3. Costco Tire Center | Organic #3 | Pulse Score 48.4/100 (Building, #2 in city) | Costco Tire Center is a tire shop in Frisco, TX at 11220 Dallas Parkway, Frisco, TX. Website: https://www.costco.com/warehouse-locations/frisco-tx-1097.html. | https://registry-edge.dingalinged.workers.dev/c/costco-tire-center-frisco/
+2. Goodyear Tires | Organic #2 | Pulse Score 54.2/100 (Unrated, #1 in city) | Goodyear Tires is a tire shop in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/goodyear-tires-frisco/
+3. Costco Tire Center | Organic #3 | Pulse Score 48.3/100 (Building, #2 in city) | Costco Tire Center is a tire shop in Frisco, TX at 11220 Dallas Parkway, Frisco, TX. Website: https://www.costco.com/warehouse-locations/frisco-tx-1097.html. | https://registry-edge.dingalinged.workers.dev/c/costco-tire-center-frisco/
 4. Walmart Tire & Lube | Organic #4 | Pulse Score 44/100 (Unrated, #3 in city) | Walmart Tire & Lube is a tire shop in Frisco, TX. Phone: +14693626317. | https://registry-edge.dingalinged.workers.dev/c/walmart-tire-and-lube-frisco/
 
 ## Market data (for advertisers and agents)

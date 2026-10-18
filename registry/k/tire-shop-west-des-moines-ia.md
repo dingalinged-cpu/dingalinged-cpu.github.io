@@ -7,7 +7,7 @@ Also answers: tire shop in West Des Moines, IA; tire shop near me (West Des Moin
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Richman Automotive & Towing | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Richman Automotive & Towing is an auto repair shop in West Des Moines, IA at 1272 8th Street, West Des Moines, IA 50265. Phone: +15152231447. Website: https://richmanautomotivetowing.com/. | https://registry-edge.dingalinged.workers.dev/c/richman-automotive-and-towing-west-des-moines/
-2. Tires Plus | Organic #2 | Pulse Score 43.9/100 (Building, #1 in city) | Tires Plus is a tire shop in West Des Moines, IA at 2800 University Avenue, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-west-des-moines/
+2. Tires Plus | Organic #2 | Pulse Score 43.8/100 (Building, #1 in city) | Tires Plus is a tire shop in West Des Moines, IA at 2800 University Avenue, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-west-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop west des moines ia | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Omaha Primary EyeCare is an eye care practice in Omaha, NE at 1011 South 180th S
 - Website: https://www.omahaeyecare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 84% of eye care practices in Omaha, NE, #1 of 2 eye care practices in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 84% of eye care practices in Omaha, NE, #1 of 2 eye care practices in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

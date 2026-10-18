@@ -7,7 +7,7 @@ Also answers: car wash in Bonner Springs, KS; car wash near me (Bonner Springs, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Porter's Buggy Bath | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Porter's Buggy Bath is a car wash in Bonner Springs, KS. | https://registry-edge.dingalinged.workers.dev/c/porters-buggy-bath-bonner-springs/
-2. GO Car Wash | Organic #2 | Pulse Score 50.6/100 (Unrated, #2 in city) | GO Car Wash is a car wash in Bonner Springs, KS at 13015 Commercial Drive, Bonner Springs, KS 66012. Phone: +19132338266. Website: https://gocarwash.com/locations/bonner-springs. | https://registry-edge.dingalinged.workers.dev/c/go-car-wash-bonner-springs/
+2. GO Car Wash | Organic #2 | Pulse Score 49.5/100 (Unrated, #2 in city) | GO Car Wash is a car wash in Bonner Springs, KS at 13015 Commercial Drive, Bonner Springs, KS 66012. Phone: +19132338266. Website: https://gocarwash.com/locations/bonner-springs. | https://registry-edge.dingalinged.workers.dev/c/go-car-wash-bonner-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash bonner springs ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

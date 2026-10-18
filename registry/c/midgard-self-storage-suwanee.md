@@ -13,7 +13,7 @@ Midgard Self Storage is a self-storage facility in Suwanee, GA at 130 Peachtree 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-19:00
-- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 35% of self-storage facilitys in Atlanta, #1 of 1 self-storage facilitys in Suwanee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 34% of self-storage facilitys in Atlanta, #1 of 1 self-storage facilitys in Suwanee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,12 +13,12 @@ Texas Mattress Makers is a mattress store in Humble, TX at 19649 Eastex Freeway,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.3/100 — Unrated (not enough evidence yet) — top 80% of mattress stores in Houston, #3 of 6 mattress stores in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 74% of mattress stores in Houston, #3 of 7 mattress stores in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-mattress-makers-humble/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-mattress-makers-humble.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11929751009 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11929751009 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

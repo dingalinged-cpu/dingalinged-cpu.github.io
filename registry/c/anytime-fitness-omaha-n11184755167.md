@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Omaha, NE at 15505 Ruggles Street, Omaha, NE 68116. 
 - Website: https://www.anytimefitness.com/gyms/3122/omaha-ne-68116/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 51.9/100 — Fair — top 44% of gyms in Omaha, NE, #5 of 17 gyms in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 70.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.9/100 — Fair — top 44% of gyms in Omaha, NE, #5 of 17 gyms in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 70.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

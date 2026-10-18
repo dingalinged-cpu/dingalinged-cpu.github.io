@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Roseville, MN at 1751 Lexington Avenue No
 - Website: https://www.edwardjones.com/financial-advisor/index.html?CIRN=w4m%2B7spQgqE%2FYpDb5HqE4TJ0boXrTGmStlqhAxrMuo7xsLQi7Jg3MOPLMX2vnbGL
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.1/100 — Fair — top 52% of financial advisors in Minneapolis–St. Paul, #1 of 1 financial advisors in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 52% of financial advisors in Minneapolis–St. Paul, #1 of 1 financial advisors in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

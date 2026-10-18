@@ -13,7 +13,7 @@ Talk Of The Town Catering And Special Events is a caterer in Cobb County, GA at 
 - Website: https://talkofthetownatlanta.com/
 - Email: andrew@TOTTAtl.com
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 59.2/100 — Fair — top 36% of caterers in Atlanta, #2 of 5 caterers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Fair — top 36% of caterers in Atlanta, #2 of 5 caterers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,10 +6,10 @@ Also answers: insurance agent in Coppell, TX; insurance agent near me (Coppell, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm | Organic #1 | Pulse Score 51/100 (Fair, #1 in city) | State Farm is an insurance agent in Coppell, TX. Phone: +19729560011. Website: https://www.teamslaughter.com/. | https://registry-edge.dingalinged.workers.dev/c/state-farm-coppell/
-2. Farmers Insurance | Organic #2 | Pulse Score 48/100 (Building, #2 in city) | Farmers Insurance is an insurance agent in Coppell, TX. Phone: +19724624589. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-coppell/
-3. State Farm | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | State Farm is an insurance agent in Coppell, TX. Phone: +19728896570. | https://registry-edge.dingalinged.workers.dev/c/state-farm-coppell-n13076479520/
-4. Nationwide Insurance | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | Nationwide Insurance is an insurance agent in Coppell, TX. | https://registry-edge.dingalinged.workers.dev/c/nationwide-insurance-coppell/
+1. State Farm | Organic #1 | Pulse Score 50.6/100 (Fair, #1 in city) | State Farm is an insurance agent in Coppell, TX. Phone: +19729560011. Website: https://www.teamslaughter.com/. | https://registry-edge.dingalinged.workers.dev/c/state-farm-coppell/
+2. Farmers Insurance | Organic #2 | Pulse Score 47.7/100 (Building, #2 in city) | Farmers Insurance is an insurance agent in Coppell, TX. Phone: +19724624589. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-coppell/
+3. State Farm | Organic #3 | Pulse Score 47.7/100 (Building, #3 in city) | State Farm is an insurance agent in Coppell, TX. Phone: +19728896570. | https://registry-edge.dingalinged.workers.dev/c/state-farm-coppell-n13076479520/
+4. Nationwide Insurance | Organic #4 | Pulse Score 41.8/100 (Building, #4 in city) | Nationwide Insurance is an insurance agent in Coppell, TX. | https://registry-edge.dingalinged.workers.dev/c/nationwide-insurance-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent coppell tx | category: Professional & financial services | industry benchmark: Finance & Insurance

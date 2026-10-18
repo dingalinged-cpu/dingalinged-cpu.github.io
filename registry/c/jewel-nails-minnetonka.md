@@ -13,7 +13,7 @@ Jewel Nails is a nail salon in Minnetonka, MN at 17516 Minnetonka Boulevard, Min
 - Website: https://thejewelnails.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00, Sa 09:00-18:00, Su 11:00-17:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 4% of nail salons in Minneapolis–St. Paul, #1 of 4 nail salons in Minnetonka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 4% of nail salons in Minneapolis–St. Paul, #1 of 4 nail salons in Minnetonka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

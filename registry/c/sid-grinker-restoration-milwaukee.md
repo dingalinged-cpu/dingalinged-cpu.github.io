@@ -13,7 +13,7 @@ Sid Grinker Restoration is a general contractor in Milwaukee, WI at 416 West Wal
 - Website: https://www.sidgrinker.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 65.5/100 — Good — top 17% of general contractors in Milwaukee, #1 of 4 general contractors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 68.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 17% of general contractors in Milwaukee, #1 of 4 general contractors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 67.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

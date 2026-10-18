@@ -6,7 +6,7 @@ Also answers: heating and air in Stockbridge, GA; heating and air near me (Stock
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A Plus Heating Cooling, Plumbing & Septic | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | A Plus Heating Cooling, Plumbing & Septic is a HVAC contractor in Stockbridge, GA at 1446 Fairview Road, Stockbridge, GA 30281. Phone: +14043998744. Website: https://aplusga.net/. | https://registry-edge.dingalinged.workers.dev/c/a-plus-heating-cooling-plumbing-and-septic-stockbridge/
+1. A Plus Heating Cooling, Plumbing & Septic | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | A Plus Heating Cooling, Plumbing & Septic is a HVAC contractor in Stockbridge, GA at 1446 Fairview Road, Stockbridge, GA 30281. Phone: +14043998744. Website: https://aplusga.net/. | https://registry-edge.dingalinged.workers.dev/c/a-plus-heating-cooling-plumbing-and-septic-stockbridge/
 2. A&H Heating And Air Conditioning | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | A&H Heating And Air Conditioning is a HVAC contractor in Stockbridge, GA at 81 Brooks Drive, Stockbridge, GA 30281. Phone: +17703357832. Website: https://www.ahheatingair.com/stockbridge-hvac-company/. | https://registry-edge.dingalinged.workers.dev/c/a-and-h-heating-and-air-conditioning-stockbridge/
 
 ## Market data (for advertisers and agents)

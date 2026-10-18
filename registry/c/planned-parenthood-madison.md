@@ -13,7 +13,7 @@ Planned Parenthood is a therapy practice in Madison, WI at 2222 South Park Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 77% of therapy practices in Madison, #7 of 10 therapy practices in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 77% of therapy practices in Madison, #7 of 10 therapy practices in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.5, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

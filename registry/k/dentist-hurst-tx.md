@@ -7,9 +7,9 @@ Also answers: dentist in Hurst, TX; dentist near me (Hurst, TX); best dentist Hu
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. brush. | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | brush. is a dentist in Hurst, TX at 800 Forest Oaks Lane #A, Hurst, TX 76053. Phone: +18177700272. Website: https://brushheb.com/. | https://registry-edge.dingalinged.workers.dev/c/brush-hurst/
-2. Hurst Pediatric Dentistry | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Hurst Pediatric Dentistry is a dentist in Hurst, TX at 712 West Pipeline Road #600, Hurst, TX 76053. Website: https://hurstpediatricdentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/hurst-pediatric-dentistry-hurst/
-3. MidCities Dental | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | MidCities Dental is a dentist in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/midcities-dental-hurst/
-4. Richard Burk DDS | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Richard Burk DDS is a dentist in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/richard-burk-dds-hurst/
+2. Hurst Pediatric Dentistry | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Hurst Pediatric Dentistry is a dentist in Hurst, TX at 712 West Pipeline Road #600, Hurst, TX 76053. Website: https://hurstpediatricdentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/hurst-pediatric-dentistry-hurst/
+3. MidCities Dental | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | MidCities Dental is a dentist in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/midcities-dental-hurst/
+4. Richard Burk DDS | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Richard Burk DDS is a dentist in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/richard-burk-dds-hurst/
 5. Family Cosmetic Dentistry | Organic #5 | Pulse Score 41.7/100 (Unrated, #5 in city) | Family Cosmetic Dentistry is a dentist in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/family-cosmetic-dentistry-hurst/
 
 ## Market data (for advertisers and agents)

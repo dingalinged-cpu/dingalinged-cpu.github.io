@@ -13,7 +13,7 @@ White Hutchinson Producers And Designers is a business consultant in Kansas City
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.2/100 — Unrated (not enough evidence yet) — top 67% of business consultants in Kansas City, MO, #2 of 6 business consultants in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 36.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.3/100 — Unrated (not enough evidence yet) — top 67% of business consultants in Kansas City, MO, #2 of 6 business consultants in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 36.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

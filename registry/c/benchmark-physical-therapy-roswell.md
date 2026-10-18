@@ -13,7 +13,7 @@ Benchmark Physical Therapy is a physical therapy clinic in Roswell, GA at 540 We
 - Website: https://www.benchmarkpt.com/locations/roswell-hwy-92/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Pulse Score: 48.5/100 — Building — top 50% of physical therapy clinics in Atlanta, #2 of 4 physical therapy clinics in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 48% of physical therapy clinics in Atlanta, #2 of 4 physical therapy clinics in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

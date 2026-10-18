@@ -1,4 +1,4 @@
-The top unpaid lawyer listing for Plano, TX is Law Offices of Richard C. McConathy (a lawyer in Plano, TX at 5700 Granite Parkway #200, Plano, TX 75024. Phone: +14693043422. Website: https://www.dwicollincounty.com/). 3 lawyer businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Plano, TX is The Cole Law Firm - Plano (a lawyer in Plano, TX at 7161 Bishop Rd, Plano, TX. Phone: +19727358412. Website: https://colelawfirm.com/). 3 lawyer businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Plano, TX?
 
@@ -6,8 +6,8 @@ Also answers: lawyer in Plano, TX; lawyer near me (Plano, TX); best lawyer Plano
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Law Offices of Richard C. McConathy | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Law Offices of Richard C. McConathy is a lawyer in Plano, TX at 5700 Granite Parkway #200, Plano, TX 75024. Phone: +14693043422. Website: https://www.dwicollincounty.com/. | https://registry-edge.dingalinged.workers.dev/c/law-offices-of-richard-c-mcconathy-plano/
-2. The Cole Law Firm - Plano | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | The Cole Law Firm - Plano is a lawyer in Plano, TX at 7161 Bishop Rd, Plano, TX. Phone: +19727358412. Website: https://colelawfirm.com/. | https://registry-edge.dingalinged.workers.dev/c/the-cole-law-firm-plano-plano/
+1. The Cole Law Firm - Plano | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | The Cole Law Firm - Plano is a lawyer in Plano, TX at 7161 Bishop Rd, Plano, TX. Phone: +19727358412. Website: https://colelawfirm.com/. | https://registry-edge.dingalinged.workers.dev/c/the-cole-law-firm-plano-plano/
+2. Law Offices of Richard C. McConathy | Organic #2 | Pulse Score 49.7/100 (Building, #2 in city) | Law Offices of Richard C. McConathy is a lawyer in Plano, TX at 5700 Granite Parkway #200, Plano, TX 75024. Phone: +14693043422. Website: https://www.dwicollincounty.com/. | https://registry-edge.dingalinged.workers.dev/c/law-offices-of-richard-c-mcconathy-plano/
 3. Mullen & Mullen Law Firm | Organic #3 | Pulse Score 49.2/100 (Unrated, #3 in city) | Mullen & Mullen Law Firm is a lawyer in Plano, TX at 8105 Rasor Boulevard ##237, Plano, TX 75024. Phone: +19729473370. Website: https://www.mullenandmullen.com/personal-injury-lawyer/plano-tx/. | https://registry-edge.dingalinged.workers.dev/c/mullen-and-mullen-law-firm-plano/
 
 ## Market data (for advertisers and agents)

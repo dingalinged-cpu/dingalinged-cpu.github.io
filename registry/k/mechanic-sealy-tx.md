@@ -6,7 +6,7 @@ Also answers: mechanic in Sealy, TX; mechanic near me (Sealy, TX); best mechanic
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kwik Kar Oil & Lube | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Kwik Kar Oil & Lube is an auto repair shop in Sealy, TX at 828 Meyer Street, Sealy, TX. | https://registry-edge.dingalinged.workers.dev/c/kwik-kar-oil-and-lube-sealy/
+1. Kwik Kar Oil & Lube | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Kwik Kar Oil & Lube is an auto repair shop in Sealy, TX at 828 Meyer Street, Sealy, TX. | https://registry-edge.dingalinged.workers.dev/c/kwik-kar-oil-and-lube-sealy/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic sealy tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

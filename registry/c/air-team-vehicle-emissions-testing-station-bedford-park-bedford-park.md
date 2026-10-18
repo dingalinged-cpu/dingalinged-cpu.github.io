@@ -13,7 +13,7 @@ Air Team Vehicle Emissions Testing Station - Bedford Park is a vehicle inspectio
 - Website: https://www.ilairteam.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00 ; Sa 07:30-13:00 ; Su off ; PH off
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 43% of vehicle inspection stations in Chicago, #1 of 1 vehicle inspection stations in Bedford Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 43% of vehicle inspection stations in Chicago, #1 of 1 vehicle inspection stations in Bedford Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

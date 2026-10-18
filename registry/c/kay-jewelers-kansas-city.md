@@ -13,7 +13,7 @@ Kay Jewelers is a jewelry store in Kansas City, MO at 9302 Northeast 83rd Terrac
 - Website: https://stores.kay.com/mo/kansas-city/9302-ne-83rd-terrace.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 77% of jewelry stores in Kansas City, MO, #17 of 26 jewelry stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 77% of jewelry stores in Kansas City, MO, #17 of 26 jewelry stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: mechanic in Lucas, TX; mechanic near me (Lucas, TX); best mechanic
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Painting Palace | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | The Painting Palace is an auto repair shop in Lucas, TX at 1030 West Lucas Road, Lucas, TX 75002. Phone: +19727279411. | https://registry-edge.dingalinged.workers.dev/c/the-painting-palace-lucas/
-2. Craig's Car Care | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Craig's Car Care is an auto repair shop in Lucas, TX at 1005 West Lucas Road, Lucas, TX 75002. | https://registry-edge.dingalinged.workers.dev/c/craigs-car-care-lucas/
+1. The Painting Palace | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | The Painting Palace is an auto repair shop in Lucas, TX at 1030 West Lucas Road, Lucas, TX 75002. Phone: +19727279411. | https://registry-edge.dingalinged.workers.dev/c/the-painting-palace-lucas/
+2. Craig's Car Care | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Craig's Car Care is an auto repair shop in Lucas, TX at 1005 West Lucas Road, Lucas, TX 75002. | https://registry-edge.dingalinged.workers.dev/c/craigs-car-care-lucas/
 3. Kwik Kar | Organic #3 | Pulse Score 41.5/100 (Building, #3 in city) | Kwik Kar is an auto repair shop in Lucas, TX. | https://registry-edge.dingalinged.workers.dev/c/kwik-kar-lucas/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ The Dog Stop is a dog boarding facility in Deerfield, IL at 495 Lake Cook Rd, De
 - Website: https://thedogstop.com/il-deerfield/
 - Email: deerfield@thedogstop.com
 - Opening hours (OSM syntax): Mo-Fr 06:30-7:00
-- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 90% of dog boarding facilitys in Chicago, #1 of 1 dog boarding facilitys in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 90% of dog boarding facilitys in Chicago, #1 of 1 dog boarding facilitys in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

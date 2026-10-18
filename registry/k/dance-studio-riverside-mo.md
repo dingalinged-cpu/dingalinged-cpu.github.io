@@ -6,7 +6,7 @@ Also answers: dance studio in Riverside, MO; dance studio near me (Riverside, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heidi's Dance Center | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Heidi's Dance Center is a dance studio in Riverside, MO at 3000 Northwest 50th Street, Riverside, MO 64150. Phone: +18165873040. Website: https://heidisdance.com/. | https://registry-edge.dingalinged.workers.dev/c/heidis-dance-center-riverside/
+1. Heidi's Dance Center | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Heidi's Dance Center is a dance studio in Riverside, MO at 3000 Northwest 50th Street, Riverside, MO 64150. Phone: +18165873040. Website: https://heidisdance.com/. | https://registry-edge.dingalinged.workers.dev/c/heidis-dance-center-riverside/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio riverside mo | category: Fitness | industry benchmark: Health & Fitness

@@ -1,4 +1,4 @@
-The top unpaid liquor store listing for The Colony, TX is Loyalty Liquors (a liquor store in The Colony, TX at 5749 State Highway 121, The Colony, TX 75056). 3 liquor store businesses are listed for The Colony, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for The Colony, TX is Jerry's Liquor (a liquor store in The Colony, TX at 5749 State Highway 121, The Colony, TX 75056. Phone: +14694993389. Website: https://jerrysliquortx.com/). 3 liquor store businesses are listed for The Colony, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in The Colony, TX?
 
@@ -6,9 +6,9 @@ Also answers: liquor store in The Colony, TX; liquor store near me (The Colony, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Loyalty Liquors | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Loyalty Liquors is a liquor store in The Colony, TX at 5749 State Highway 121, The Colony, TX 75056. | https://registry-edge.dingalinged.workers.dev/c/loyalty-liquors-the-colony/
-2. Goody Goody | Organic #2 | Pulse Score 42.6/100 (Unrated, #2 in city) | Goody Goody is a liquor store in The Colony, TX. | https://registry-edge.dingalinged.workers.dev/c/goody-goody-the-colony/
-3. Spec's | Organic #3 | Pulse Score 42.1/100 (Building, #3 in city) | Spec's is a liquor store in The Colony, TX. | https://registry-edge.dingalinged.workers.dev/c/specs-the-colony/
+1. Jerry's Liquor | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Jerry's Liquor is a liquor store in The Colony, TX at 5749 State Highway 121, The Colony, TX 75056. Phone: +14694993389. Website: https://jerrysliquortx.com/. | https://registry-edge.dingalinged.workers.dev/c/loyalty-liquors-the-colony/
+2. Spec's | Organic #2 | Pulse Score 44.7/100 (Building, #2 in city) | Spec's is a liquor store in The Colony, TX at 4901 State Highway 121, The Colony, TX 75056. | https://registry-edge.dingalinged.workers.dev/c/specs-the-colony/
+3. Goody Goody | Organic #3 | Pulse Score 42.5/100 (Unrated, #3 in city) | Goody Goody is a liquor store in The Colony, TX. | https://registry-edge.dingalinged.workers.dev/c/goody-goody-the-colony/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store the colony tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

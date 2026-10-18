@@ -13,7 +13,7 @@ State Farm is an insurance agent in Liberty, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.5/100 — Building — top 99% of insurance agents in Kansas City, MO, #4 of 4 insurance agents in Liberty (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.5/100 — Building — top 97% of insurance agents in Kansas City, MO, #4 of 4 insurance agents in Liberty (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

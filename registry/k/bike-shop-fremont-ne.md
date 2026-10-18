@@ -6,7 +6,7 @@ Also answers: bike shop in Fremont, NE; bike shop near me (Fremont, NE); best bi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bad Dog Bikes | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Bad Dog Bikes is a bike shop in Fremont, NE at 520 North Main Street, Fremont, NE. | https://registry-edge.dingalinged.workers.dev/c/bad-dog-bikes-fremont/
+1. Bad Dog Bikes | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Bad Dog Bikes is a bike shop in Fremont, NE at 520 North Main Street, Fremont, NE. | https://registry-edge.dingalinged.workers.dev/c/bad-dog-bikes-fremont/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop fremont ne | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

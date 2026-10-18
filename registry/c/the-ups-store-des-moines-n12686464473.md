@@ -13,7 +13,7 @@ The UPS Store is a printing service in Des Moines, IA at 4225 Fleur Drive, Des M
 - Website: https://locations.theupsstore.com/ia/des-moines/4225-fleur-dr
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:30; Sa-Su 08:30-17:00
-- Pulse Score: 49.7/100 — Building — top 42% of printing services in Des Moines, IA, #3 of 4 printing services in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 42% of printing services in Des Moines, IA, #3 of 4 printing services in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

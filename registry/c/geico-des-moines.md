@@ -13,7 +13,7 @@ GEICO is an insurance agent in Des Moines, IA at 1221 Keosauqua Way, Des Moines,
 - Website: https://www.geico.com/insurance-agents/iowa/des-moines-ames/justin-krogman/?y_source=1_MTQ5NTQ4OTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.9/100 — Building — top 60% of insurance agents in Des Moines, IA, #8 of 11 insurance agents in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 60% of insurance agents in Des Moines, IA, #8 of 11 insurance agents in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

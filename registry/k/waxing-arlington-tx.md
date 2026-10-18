@@ -6,7 +6,7 @@ Also answers: waxing in Arlington, TX; waxing near me (Arlington, TX); best waxi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Om Threading & Spa | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Om Threading & Spa is a waxing salon in Arlington, TX at 2131 North Collins Street #423, Arlington, TX 76011. Phone: +18174229083. Website: https://www.omthreadings.com/index.html. | https://registry-edge.dingalinged.workers.dev/c/om-threading-and-spa-arlington/
+1. Om Threading & Spa | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Om Threading & Spa is a waxing salon in Arlington, TX at 2131 North Collins Street #423, Arlington, TX 76011. Phone: +18174229083. Website: https://www.omthreadings.com/index.html. | https://registry-edge.dingalinged.workers.dev/c/om-threading-and-spa-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing arlington tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

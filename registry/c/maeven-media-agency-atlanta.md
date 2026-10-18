@@ -13,7 +13,7 @@ Maeven Media Agency is a marketing agency in Atlanta, GA at 600 West Peachtree S
 - Website: n/a
 - Email: Info@maevenmediaagency.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 63/100 — Good — top 6% of marketing agencys in Atlanta, #1 of 10 marketing agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.2, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Good — top 6% of marketing agencys in Atlanta, #1 of 10 marketing agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.2, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

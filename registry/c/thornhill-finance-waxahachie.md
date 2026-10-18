@@ -8,7 +8,7 @@ Thornhill Finance is an used car dealer in Waxahachie, TX at 314 West Main Stree
 - City: Waxahachie
 - State: TX
 - ZIP: 75165
-- Coordinates: 32.3867816, -96.8490501
+- Coordinates: 32.3867817, -96.8490501
 - Phone: n/a
 - Website: n/a
 - Email: n/a
@@ -19,6 +19,6 @@ Thornhill Finance is an used car dealer in Waxahachie, TX at 314 West Main Stree
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/thornhill-finance-waxahachie/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/thornhill-finance-waxahachie.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/507408132 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/507408132 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

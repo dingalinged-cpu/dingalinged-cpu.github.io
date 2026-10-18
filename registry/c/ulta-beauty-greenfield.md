@@ -13,7 +13,7 @@ Ulta Beauty is a skin care studio in Greenfield, WI at 8500 Sura Lane, Greenfiel
 - Website: https://www.ulta.com/stores/greenfield-wi-1291
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 44.3/100 — Building — top 67% of skin care studios in Milwaukee, #1 of 1 skin care studios in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 67% of skin care studios in Milwaukee, #1 of 1 skin care studios in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

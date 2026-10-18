@@ -6,7 +6,7 @@ Also answers: window replacement in West Des Moines, IA; window replacement near
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Renewal by Andersen | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Renewal by Andersen is a window installer in West Des Moines, IA at 517 Railroad Avenue, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/renewal-by-andersen-west-des-moines/
+1. Renewal by Andersen | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Renewal by Andersen is a window installer in West Des Moines, IA at 517 Railroad Avenue, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/renewal-by-andersen-west-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement west des moines ia | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

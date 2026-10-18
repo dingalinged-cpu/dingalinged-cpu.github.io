@@ -19,6 +19,6 @@ Revolution Studio is a yoga studio in Houston, TX at 1121 Uptown Park Boulevard 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/revolution-studio-houston-n7108362856/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/revolution-studio-houston-n7108362856.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7108362856 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7108362856 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

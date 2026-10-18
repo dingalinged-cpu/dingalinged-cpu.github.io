@@ -13,7 +13,7 @@ North Georgia D.U.I. School is a driving school in Marietta, GA at 1000 Cobb Par
 - Website: https://www.northgaduischool.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Good — top 42% of driving schools in Atlanta, #3 of 3 driving schools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 42% of driving schools in Atlanta, #3 of 3 driving schools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Chicagoland 1031 Exchange | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Chicagoland 1031 Exchange is a financial advisor in Schaumburg, IL at 1827 Walden Office Square #500, Schaumburg, IL 60173. Phone: +12242455281. Website: https://chicagoland1031exchange.com/. | https://registry-edge.dingalinged.workers.dev/c/chicagoland-1031-exchange-schaumburg/
 2. Sunny Financial Strategies | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Sunny Financial Strategies is a financial advisor in Schaumburg, IL at 475 North Martingale Road #1250, Schaumburg, IL 60173. Phone: +18474149116. Website: https://sunnyfinancial.com/. | https://registry-edge.dingalinged.workers.dev/c/sunny-financial-strategies-schaumburg/
 3. Fidelity Investments | Organic #3 | Pulse Score 44.7/100 (Building, #3 in city) | Fidelity Investments is a financial advisor in Schaumburg, IL at 1572 East Golf Road, Schaumburg, IL 60173. | https://registry-edge.dingalinged.workers.dev/c/fidelity-investments-schaumburg/
-4. Charles Schwab | Organic #4 | Pulse Score 42.3/100 (Building, #4 in city) | Charles Schwab is a financial advisor in Schaumburg, IL. | https://registry-edge.dingalinged.workers.dev/c/charles-schwab-schaumburg/
+4. Charles Schwab | Organic #4 | Pulse Score 42.2/100 (Building, #4 in city) | Charles Schwab is a financial advisor in Schaumburg, IL. | https://registry-edge.dingalinged.workers.dev/c/charles-schwab-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor schaumburg il | category: Professional & financial services | industry benchmark: Finance & Insurance

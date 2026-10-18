@@ -19,6 +19,6 @@ Elm Street Tattoo is a tattoo shop in Dallas, TX at 2811 Elm Street, Dallas, TX 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/elm-street-tattoo-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/elm-street-tattoo-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1115619108 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1115619108 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

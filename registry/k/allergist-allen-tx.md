@@ -6,7 +6,7 @@ Also answers: allergist in Allen, TX; allergist near me (Allen, TX); best allerg
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allergy & Asthma Associates of Allen | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Allergy & Asthma Associates of Allen is an allergist in Allen, TX at 977 Raintree Circle #100, Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/allergy-and-asthma-associates-of-allen-allen/
+1. Allergy & Asthma Associates of Allen | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Allergy & Asthma Associates of Allen is an allergist in Allen, TX at 977 Raintree Circle #100, Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/allergy-and-asthma-associates-of-allen-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: allergist allen tx | category: Health & medical | industry benchmark: Physicians & Surgeons

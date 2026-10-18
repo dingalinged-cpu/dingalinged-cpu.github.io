@@ -7,8 +7,8 @@ Also answers: liquor store in Sugar Land, TX; liquor store near me (Sugar Land, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Bargain Liquors | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Bargain Liquors is a liquor store in Sugar Land, TX at 13500 West Airport Boulevard #G, Sugar Land, TX 77498. Phone: +12819804875. Website: https://bargainliquors.net/. | https://registry-edge.dingalinged.workers.dev/c/bargain-liquors-sugar-land/
-2. Angel Liquor | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Angel Liquor is a liquor store in Sugar Land, TX at 4734 LJ Parkway #308, Sugar Land, TX 77479. | https://registry-edge.dingalinged.workers.dev/c/angel-liquor-sugar-land/
-3. Spec's | Organic #3 | Pulse Score 46.7/100 (Building, #3 in city) | Spec's is a liquor store in Sugar Land, TX at 13827 Southwest Freeway, Sugar Land, TX 77478. | https://registry-edge.dingalinged.workers.dev/c/specs-sugar-land/
+2. Angel Liquor | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Angel Liquor is a liquor store in Sugar Land, TX at 4734 LJ Parkway #308, Sugar Land, TX 77479. | https://registry-edge.dingalinged.workers.dev/c/angel-liquor-sugar-land/
+3. Spec's | Organic #3 | Pulse Score 46.5/100 (Building, #3 in city) | Spec's is a liquor store in Sugar Land, TX at 13827 Southwest Freeway, Sugar Land, TX 77478. | https://registry-edge.dingalinged.workers.dev/c/specs-sugar-land/
 4. Spec's | Organic #4 | Pulse Score 43.2/100 (Building, #4 in city) | Spec's is a liquor store in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/specs-sugar-land-n6781830923/
 
 ## Market data (for advertisers and agents)

@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for Irving, TX is Jeanet's Beauty Salon (a hair salon in Irving, TX at 407 West Rochelle Road, Irving, TX 75062). 6 hair salon businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Irving, TX is Jeanet's Beauty Salon (a hair salon in Irving, TX at 407 West Rochelle Road, Irving, TX 75062). 7 hair salon businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Irving, TX?
 
@@ -6,12 +6,13 @@ Also answers: hair salon in Irving, TX; hair salon near me (Irving, TX); best ha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jeanet's Beauty Salon | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Jeanet's Beauty Salon is a hair salon in Irving, TX at 407 West Rochelle Road, Irving, TX 75062. | https://registry-edge.dingalinged.workers.dev/c/jeanets-beauty-salon-irving/
+1. Jeanet's Beauty Salon | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Jeanet's Beauty Salon is a hair salon in Irving, TX at 407 West Rochelle Road, Irving, TX 75062. | https://registry-edge.dingalinged.workers.dev/c/jeanets-beauty-salon-irving/
 2. Tailor Made Cuts | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Tailor Made Cuts is a hair salon in Irving, TX at 595 South Belt Line Road, Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/tailor-made-cuts-irving/
-3. blo | Organic #3 | Pulse Score 42.9/100 (Unrated, #3 in city) | blo is a hair salon in Irving, TX at 110 State Highway 161, Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/blo-irving/
-4. Great Clips | Organic #4 | Pulse Score 42.2/100 (Building, #4 in city) | Great Clips is a hair salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/great-clips-irving/
-5. Supercuts | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Supercuts is a hair salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/supercuts-irving/
-6. Supercuts | Organic #6 | Pulse Score 42.2/100 (Building, #6 in city) | Supercuts is a hair salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/supercuts-irving-n10245696289/
+3. Bella Hair Studio | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Bella Hair Studio is a hair salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/bella-hair-studio-irving/
+4. blo | Organic #4 | Pulse Score 42.8/100 (Unrated, #4 in city) | blo is a hair salon in Irving, TX at 110 State Highway 161, Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/blo-irving/
+5. Great Clips | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Great Clips is a hair salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/great-clips-irving/
+6. Supercuts | Organic #6 | Pulse Score 42.2/100 (Building, #6 in city) | Supercuts is a hair salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/supercuts-irving/
+7. Supercuts | Organic #7 | Pulse Score 42.2/100 (Building, #7 in city) | Supercuts is a hair salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/supercuts-irving-n10245696289/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon irving tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -21,7 +22,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'hair salon near me': $0.55-$2.85 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 6
+- Registry businesses competing: 7
 - Equivalent Google Ads cost per month: ~$1,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

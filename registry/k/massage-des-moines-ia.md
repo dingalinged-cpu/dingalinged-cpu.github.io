@@ -6,8 +6,8 @@ Also answers: massage in Des Moines, IA; massage near me (Des Moines, IA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Agape Therapeutic Massage | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Agape Therapeutic Massage is a massage studio in Des Moines, IA at 3107 Merle Hay Road, Des Moines, IA 50310. | https://registry-edge.dingalinged.workers.dev/c/agape-therapeutic-massage-des-moines/
-2. Ocean Breeze Massage | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Ocean Breeze Massage is a massage studio in Des Moines, IA at 2606 Beaver Avenue, Des Moines, IA 50310. | https://registry-edge.dingalinged.workers.dev/c/ocean-breeze-massage-des-moines/
+1. Agape Therapeutic Massage | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Agape Therapeutic Massage is a massage studio in Des Moines, IA at 3107 Merle Hay Road, Des Moines, IA 50310. | https://registry-edge.dingalinged.workers.dev/c/agape-therapeutic-massage-des-moines/
+2. Ocean Breeze Massage | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Ocean Breeze Massage is a massage studio in Des Moines, IA at 2606 Beaver Avenue, Des Moines, IA 50310. | https://registry-edge.dingalinged.workers.dev/c/ocean-breeze-massage-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage des moines ia | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

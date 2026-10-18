@@ -1,4 +1,4 @@
-The top unpaid bakery listing for Plano, TX is We're Dough A Lebanese Bakery (a bakery in Plano, TX at 3421 East Renner Road #107, Plano, TX 75074. Phone: +12145013587. Website: https://we-re-dough.com/). 7 bakery businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Plano, TX is Rum Cakes Factory (a bakery in Plano, TX at 6101 Windhaven Parkway #140, Plano, TX 75093. Phone: +19723309932. Website: https://rumcakesfactory.com/). 10 bakery businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Plano, TX?
 
@@ -6,13 +6,16 @@ Also answers: bakery in Plano, TX; bakery near me (Plano, TX); best bakery Plano
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. We're Dough A Lebanese Bakery | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | We're Dough A Lebanese Bakery is a bakery in Plano, TX at 3421 East Renner Road #107, Plano, TX 75074. Phone: +12145013587. Website: https://we-re-dough.com/. | https://registry-edge.dingalinged.workers.dev/c/were-dough-a-lebanese-bakery-plano/
-2. EatZi's Market and Bakery | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | EatZi's Market and Bakery is a bakery in Plano, TX. Phone: +19725356305. Website: https://eatzis.com/locations/. | https://registry-edge.dingalinged.workers.dev/c/eatzis-market-and-bakery-plano/
-3. Donut Queen | Organic #3 | Pulse Score 60.8/100 (Unrated, #3 in city) | Donut Queen is a bakery in Plano, TX at West Plano Parkway #112, Plano, TX. Phone: +19726088987. | https://registry-edge.dingalinged.workers.dev/c/donut-queen-plano/
-4. Bread Winners | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Bread Winners is a bakery in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/bread-winners-plano/
-5. Sugar Ray's Bake Shop | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Sugar Ray's Bake Shop is a bakery in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/sugar-rays-bake-shop-plano/
-6. Sweet Hut bakery & cafe | Organic #6 | Pulse Score 54.5/100 (Unrated, #6 in city) | Sweet Hut bakery & cafe is a bakery in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/sweet-hut-bakery-and-cafe-plano/
-7. Tous les Jours | Organic #7 | Pulse Score 43.7/100 (Building, #7 in city) | Tous les Jours is a bakery in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/tous-les-jours-plano/
+1. Rum Cakes Factory | Organic #1 | Pulse Score 65.2/100 (Good, #1 in city) | Rum Cakes Factory is a bakery in Plano, TX at 6101 Windhaven Parkway #140, Plano, TX 75093. Phone: +19723309932. Website: https://rumcakesfactory.com/. | https://registry-edge.dingalinged.workers.dev/c/rum-cakes-factory-plano/
+2. We're Dough A Lebanese Bakery | Organic #2 | Pulse Score 62/100 (Unrated, #2 in city) | We're Dough A Lebanese Bakery is a bakery in Plano, TX at 3421 East Renner Road #107, Plano, TX 75074. Phone: +12145013587. Website: https://we-re-dough.com/. | https://registry-edge.dingalinged.workers.dev/c/were-dough-a-lebanese-bakery-plano/
+3. Chelles Macarons | Organic #3 | Pulse Score 61.8/100 (Unrated, #3 in city) | Chelles Macarons is a bakery in Plano, TX at 2963 West 15th Street #2979, Plano, TX 75075. Phone: +19726644104. Website: https://www.chellesmacarons.com/. | https://registry-edge.dingalinged.workers.dev/c/chelles-macarons-plano/
+4. EatZi's Market and Bakery | Organic #4 | Pulse Score 60.8/100 (Unrated, #4 in city) | EatZi's Market and Bakery is a bakery in Plano, TX. Phone: +19725356305. Website: https://eatzis.com/locations/. | https://registry-edge.dingalinged.workers.dev/c/eatzis-market-and-bakery-plano/
+5. Donut Queen | Organic #5 | Pulse Score 60.6/100 (Unrated, #5 in city) | Donut Queen is a bakery in Plano, TX at West Plano Parkway #112, Plano, TX. Phone: +19726088987. | https://registry-edge.dingalinged.workers.dev/c/donut-queen-plano/
+6. Bread Winners | Organic #6 | Pulse Score 54.4/100 (Unrated, #6 in city) | Bread Winners is a bakery in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/bread-winners-plano/
+7. Sugar Ray's Bake Shop | Organic #7 | Pulse Score 54.4/100 (Unrated, #7 in city) | Sugar Ray's Bake Shop is a bakery in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/sugar-rays-bake-shop-plano/
+8. Sweet Hut bakery & cafe | Organic #8 | Pulse Score 54.4/100 (Unrated, #8 in city) | Sweet Hut bakery & cafe is a bakery in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/sweet-hut-bakery-and-cafe-plano/
+9. The Peach Cobbler Factory | Organic #9 | Pulse Score 49.7/100 (Building, #9 in city) | The Peach Cobbler Factory is a bakery in Plano, TX at 1025 North Central Expressway #300, Plano, TX. Phone: +14693040153. Website: https://peachcobblerfactory.com/location/plano-tx/. | https://registry-edge.dingalinged.workers.dev/c/the-peach-cobbler-factory-plano/
+10. Tous les Jours | Organic #10 | Pulse Score 43.4/100 (Building, #10 in city) | Tous les Jours is a bakery in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/tous-les-jours-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery plano tx | category: Events & weddings | industry benchmark: Personal Services
@@ -21,7 +24,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $5.81, median $7.17, high $7.17 (Personal Services median CPC 2026 $7.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Personal Services median CPC 2025 $5.81 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 7
+- Registry businesses competing: 10
 - Equivalent Google Ads cost per month: ~$3,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

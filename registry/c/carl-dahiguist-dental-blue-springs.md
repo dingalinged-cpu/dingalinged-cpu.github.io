@@ -13,7 +13,7 @@ Carl Dahiguist Dental is a dentist in Blue Springs, MO at 1508 Northwest Mock Av
 - Website: https://dahlquistdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of dentists in Kansas City, MO, #1 of 10 dentists in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of dentists in Kansas City, MO, #1 of 10 dentists in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

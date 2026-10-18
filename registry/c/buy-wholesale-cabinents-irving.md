@@ -19,6 +19,6 @@ Buy Wholesale Cabinents is a furniture store in Irving, TX at Luke Street, Irvin
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/buy-wholesale-cabinents-irving/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/buy-wholesale-cabinents-irving.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9738391637 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9738391637 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

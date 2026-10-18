@@ -13,7 +13,7 @@ Jackalope Tattoo is a tattoo shop in Minneapolis, MN at 3753 Cedar Avenue South,
 - Website: https://www.jackalopetattoo.com/
 - Email: n/a
 - Opening hours (OSM syntax): Su-Sa 12:00-18:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 14% of tattoo shops in Minneapolis–St. Paul, #3 of 26 tattoo shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 14% of tattoo shops in Minneapolis–St. Paul, #3 of 26 tattoo shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

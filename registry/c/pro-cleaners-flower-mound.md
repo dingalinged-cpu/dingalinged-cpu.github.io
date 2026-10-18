@@ -19,6 +19,6 @@ Pro Cleaners is a dry cleaner in Flower Mound, TX at 3413 Long Prairie Road, Flo
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/pro-cleaners-flower-mound/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pro-cleaners-flower-mound.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12269862142 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12269862142 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

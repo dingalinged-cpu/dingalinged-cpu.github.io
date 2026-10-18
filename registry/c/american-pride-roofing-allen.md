@@ -13,12 +13,12 @@ American Pride Roofing is a roofer in Allen, TX at 700 Central Expressway South 
 - Website: https://americanprideroofing.com/allen-tx-roofing-company/
 - Email: Allen@AmericanPrideRoofing.com
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00
-- Pulse Score: 51.7/100 — Fair — top 87% of roofers in Dallas–Fort Worth, #2 of 2 roofers in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.3, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.8/100 — Fair — top 84% of roofers in Dallas–Fort Worth, #3 of 3 roofers in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.4, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/american-pride-roofing-allen/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/american-pride-roofing-allen.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5600807082 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5600807082 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

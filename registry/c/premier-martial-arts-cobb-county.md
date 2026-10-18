@@ -13,7 +13,7 @@ Premier Martial Arts is a martial arts school in Cobb County, GA at 3595 Canton 
 - Website: https://premiermartialarts.com/georgia-marietta/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.3/100 — Building — top 96% of martial arts schools in Atlanta, #11 of 11 martial arts schools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 96% of martial arts schools in Atlanta, #11 of 11 martial arts schools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,9 +8,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Charter Furniture Solutions | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | Charter Furniture Solutions is a furniture store in Addison, TX at 15101 Midway Road, Addison, TX 75001. Phone: +19723851911. Website: https://charterfurnituresolutions.com/. | https://registry-edge.dingalinged.workers.dev/c/charter-furniture-solutions-addison/
 2. Charter Furniture Rental | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | Charter Furniture Rental is a furniture store in Addison, TX at 4181 Centurion Way, Addison, TX 75001. Phone: +19723853204. Website: https://charterfurnituresolutions.com/rental/. | https://registry-edge.dingalinged.workers.dev/c/charter-furniture-rental-addison/
-3. Relax The Back | Organic #3 | Pulse Score 57.4/100 (Unrated, #9 in city) | Relax The Back is a furniture store in Dallas, TX at 5100 Belt Line Road #840, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/relax-the-back-dallas/
-4. Dallas DESK | Organic #4 | Pulse Score 54.7/100 (Unrated, #3 in city) | Dallas DESK is a furniture store in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/dallas-desk-addison/
-5. Republic Elite | Organic #5 | Pulse Score 54.7/100 (Unrated, #4 in city) | Republic Elite is a furniture store in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/republic-elite-addison/
+3. Dallas DESK | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Dallas DESK is a furniture store in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/dallas-desk-addison/
+4. Republic Elite | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Republic Elite is a furniture store in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/republic-elite-addison/
+5. Relax The Back | Organic #5 | Pulse Score 44.5/100 (Unrated, #20 in city) | Relax The Back is a furniture store in Dallas, TX at 5100 Belt Line Road #840, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/relax-the-back-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store addison tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

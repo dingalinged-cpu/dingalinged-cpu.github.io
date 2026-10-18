@@ -19,6 +19,6 @@ ULR Properties - Dallas is a real estate agency in Dallas, TX at 2320 North Hous
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/ulr-properties-dallas-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ulr-properties-dallas-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5159506514 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5159506514 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

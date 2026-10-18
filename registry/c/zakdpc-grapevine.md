@@ -13,12 +13,12 @@ ZakDPC is a family medicine practice in Grapevine, TX at 220 N Park Boulevard #1
 - Website: https://zakdpc.com/
 - Email: info@zakdpc.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 6% of family medicine practices in Dallas–Fort Worth, #1 of 1 family medicine practices in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 7% of family medicine practices in Dallas–Fort Worth, #1 of 1 family medicine practices in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/zakdpc-grapevine/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/zakdpc-grapevine.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6384431291 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6384431291 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

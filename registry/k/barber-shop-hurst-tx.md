@@ -6,7 +6,7 @@ Also answers: barber shop in Hurst, TX; barber shop near me (Hurst, TX); best ba
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pronto Cuts | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Pronto Cuts is a barber shop in Hurst, TX at 352 East Pipeline Road, Hurst, TX 76053. Phone: +18172856183. | https://registry-edge.dingalinged.workers.dev/c/pronto-cuts-hurst/
+1. Pronto Cuts | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Pronto Cuts is a barber shop in Hurst, TX at 352 East Pipeline Road, Hurst, TX 76053. Phone: +18172856183. | https://registry-edge.dingalinged.workers.dev/c/pronto-cuts-hurst/
 2. Headquarter Barbershop | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Headquarter Barbershop is a barber shop in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/headquarter-barbershop-hurst/
 
 ## Market data (for advertisers and agents)

@@ -6,7 +6,7 @@ Also answers: staffing agency in Hilltop, MN; staffing agency near me (Hilltop, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Talent Masters Staffing | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Talent Masters Staffing is a staffing agency in Hilltop, MN at 775 45th Avenue Northeast, Hilltop, MN. Phone: +17632352805. Website: https://www.talentmastersstaffing.com/. | https://registry-edge.dingalinged.workers.dev/c/talent-masters-staffing-hilltop/
+1. Talent Masters Staffing | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Talent Masters Staffing is a staffing agency in Hilltop, MN at 775 45th Avenue Northeast, Hilltop, MN. Phone: +17632352805. Website: https://www.talentmastersstaffing.com/. | https://registry-edge.dingalinged.workers.dev/c/talent-masters-staffing-hilltop/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency hilltop mn | category: b2b_services | industry benchmark: Business Services

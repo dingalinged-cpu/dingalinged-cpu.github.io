@@ -13,7 +13,7 @@ Bike & Trike Outlet of Omaha is a bike shop in Omaha, NE at 634 South 72nd Stree
 - Website: https://biketrikeomaha.com/
 - Email: bikeandtrikeoutlet@gmail.com
 - Opening hours (OSM syntax): Tu-Fr 11:00-18:00; Sa 11:00-15:00
-- Pulse Score: 64.6/100 — Good — top 6% of bike shops in Omaha, NE, #1 of 12 bike shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 6% of bike shops in Omaha, NE, #1 of 12 bike shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 65.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

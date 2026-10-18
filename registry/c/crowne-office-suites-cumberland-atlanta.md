@@ -13,7 +13,7 @@ Crowne Office Suites Cumberland is a coworking space in Atlanta, GA at 1870 The 
 - Website: https://www.crowneofficesuites.com/locations/cumberland
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Fair — top 37% of coworking spaces in Atlanta, #3 of 14 coworking spaces in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Fair — top 37% of coworking spaces in Atlanta, #3 of 14 coworking spaces in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

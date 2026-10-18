@@ -13,7 +13,7 @@ Caliber Collision is an auto repair shop in Village of Waukesha, WI. Website: ht
 - Website: https://calibercollision.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44/100 — Building — top 92% of auto repair shops in Milwaukee, #2 of 2 auto repair shops in Village of Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.9/100 — Building — top 93% of auto repair shops in Milwaukee, #2 of 2 auto repair shops in Village of Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

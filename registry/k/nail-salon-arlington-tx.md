@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Arlington, TX is Bailee Glam Beauty Bar (a nail salon in Arlington, TX at 2111 North Collins Street #223, Arlington, TX 76011. Phone: +12144443466. Website: https://www.baileeglambeautybar.com/). 4 nail salon businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Arlington, TX is Bailee Glam Beauty Bar (a nail salon in Arlington, TX at 2111 North Collins Street #223, Arlington, TX 76011. Phone: +12144443466. Website: https://www.baileeglambeautybar.com/). 5 nail salon businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Arlington, TX?
 
@@ -6,10 +6,11 @@ Also answers: nail salon in Arlington, TX; nail salon near me (Arlington, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bailee Glam Beauty Bar | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Bailee Glam Beauty Bar is a nail salon in Arlington, TX at 2111 North Collins Street #223, Arlington, TX 76011. Phone: +12144443466. Website: https://www.baileeglambeautybar.com/. | https://registry-edge.dingalinged.workers.dev/c/bailee-glam-beauty-bar-arlington/
-2. Eden PediSpa & Nails | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Eden PediSpa & Nails is a nail salon in Arlington, TX at 2141 North Collins Street #521, Arlington, TX 76011. | https://registry-edge.dingalinged.workers.dev/c/eden-pedispa-and-nails-arlington/
-3. Cheveaux Salon | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Cheveaux Salon is a nail salon in Arlington, TX at 1023 South Bowen Road, Arlington, TX 76013. | https://registry-edge.dingalinged.workers.dev/c/cheveaux-salon-arlington/
+1. Bailee Glam Beauty Bar | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Bailee Glam Beauty Bar is a nail salon in Arlington, TX at 2111 North Collins Street #223, Arlington, TX 76011. Phone: +12144443466. Website: https://www.baileeglambeautybar.com/. | https://registry-edge.dingalinged.workers.dev/c/bailee-glam-beauty-bar-arlington/
+2. Eden PediSpa & Nails | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Eden PediSpa & Nails is a nail salon in Arlington, TX at 2141 North Collins Street #521, Arlington, TX 76011. | https://registry-edge.dingalinged.workers.dev/c/eden-pedispa-and-nails-arlington/
+3. Cheveaux Salon | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Cheveaux Salon is a nail salon in Arlington, TX at 1023 South Bowen Road, Arlington, TX 76013. | https://registry-edge.dingalinged.workers.dev/c/cheveaux-salon-arlington/
 4. blush Boutique Nail Salon | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | blush Boutique Nail Salon is a nail salon in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/blush-boutique-nail-salon-arlington/
+5. Palace Nails & Spa | Organic #5 | Pulse Score 48.2/100 (Unrated, #1 in city) | Palace Nails & Spa is a nail salon in Arlington, TX at 4101 West Green Oaks Boulevard #301, Arlington, TX 76016. Website: https://palacenailarlington.com/. | https://registry-edge.dingalinged.workers.dev/c/palace-nails-and-spa-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon arlington tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -19,7 +20,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'nail salon': $0.61-$2.10 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: low (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 4
+- Registry businesses competing: 5
 - Equivalent Google Ads cost per month: ~$870 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -12,8 +12,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. Bradshaw Funeral | Organic #4 | Pulse Score 60.9/100 (Unrated, #4 in city) | Bradshaw Funeral is a funeral home in Saint Paul, MN at 1078 Rice Street #Room BACK, Saint Paul, MN 55117. Phone: +16514891349. Website: https://www.bradshawfuneral.com/rice-street-location. | https://registry-edge.dingalinged.workers.dev/c/bradshaw-funeral-saint-paul/
 5. Anderson Funeral Home | Organic #5 | Pulse Score 60.3/100 (Unrated, #5 in city) | Anderson Funeral Home is a funeral home in Saint Paul, MN at 1401 Arcade Street, Saint Paul, MN. Phone: +16517762761. Website: https://andersonfuneralhome.com/. | https://registry-edge.dingalinged.workers.dev/c/anderson-funeral-home-saint-paul/
 6. Kessler & Maguire Funeral Home | Organic #6 | Pulse Score 56.9/100 (Unrated, #6 in city) | Kessler & Maguire Funeral Home is a funeral home in Saint Paul, MN at 640 7th Street West, Saint Paul, MN 55102. | https://registry-edge.dingalinged.workers.dev/c/kessler-and-maguire-funeral-home-saint-paul/
-7. Koobhmoo | Organic #7 | Pulse Score 54.6/100 (Unrated, #7 in city) | Koobhmoo is a funeral home in Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/koobhmoo-saint-paul/
-8. O'Halloran and Murphy Funeral Home | Organic #8 | Pulse Score 54.6/100 (Unrated, #8 in city) | O'Halloran and Murphy Funeral Home is a funeral home in Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/ohalloran-and-murphy-funeral-home-saint-paul/
+7. Koobhmoo | Organic #7 | Pulse Score 54.5/100 (Unrated, #7 in city) | Koobhmoo is a funeral home in Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/koobhmoo-saint-paul/
+8. O'Halloran and Murphy Funeral Home | Organic #8 | Pulse Score 54.5/100 (Unrated, #8 in city) | O'Halloran and Murphy Funeral Home is a funeral home in Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/ohalloran-and-murphy-funeral-home-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home saint paul mn | category: Professional & financial services | industry benchmark: Finance & Insurance

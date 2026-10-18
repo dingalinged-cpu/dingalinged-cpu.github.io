@@ -6,7 +6,7 @@ Also answers: auto repair in Dalworthington Gardens, TX; auto repair near me (Da
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Midas | Organic #1 | Pulse Score 46.5/100 (Building, #14 in city) | Midas is an auto repair shop in Arlington, TX at 3120 Pioneer Parkway, Arlington, TX 76013. | https://registry-edge.dingalinged.workers.dev/c/midas-arlington/
+1. Midas | Organic #1 | Pulse Score 46.4/100 (Building, #14 in city) | Midas is an auto repair shop in Arlington, TX at 3120 Pioneer Parkway, Arlington, TX 76013. | https://registry-edge.dingalinged.workers.dev/c/midas-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair dalworthington gardens tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

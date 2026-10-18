@@ -6,7 +6,7 @@ Also answers: physical therapy in Euless, TX; physical therapy near me (Euless, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ATI Physical Therapy | Organic #1 | Pulse Score 43.2/100 (Building, #1 in city) | ATI Physical Therapy is a physical therapy clinic in Euless, TX at 1060 North Main Street #101, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/ati-physical-therapy-euless/
+1. ATI Physical Therapy | Organic #1 | Pulse Score 43.1/100 (Building, #1 in city) | ATI Physical Therapy is a physical therapy clinic in Euless, TX at 1060 North Main Street #101, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/ati-physical-therapy-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy euless tx | category: Health & medical | industry benchmark: Physicians & Surgeons

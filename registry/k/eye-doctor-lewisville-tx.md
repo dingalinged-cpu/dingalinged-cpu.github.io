@@ -6,10 +6,10 @@ Also answers: eye doctor in Lewisville, TX; eye doctor near me (Lewisville, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lakeview Vision | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Lakeview Vision is an eye care practice in Lewisville, TX. Phone: +14693906558. | https://registry-edge.dingalinged.workers.dev/c/lakeview-vision-lewisville/
-2. Eye Clinic Medical | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Eye Clinic Medical is an eye care practice in Lewisville, TX. Phone: +14696162030. | https://registry-edge.dingalinged.workers.dev/c/eye-clinic-medical-lewisville/
-3. Optical Infinitu | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Optical Infinitu is an eye care practice in Lewisville, TX at Hebron Parkway #102,103, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/optical-infinitu-lewisville/
-4. My EyeLab | Organic #4 | Pulse Score 47.4/100 (Unrated, #4 in city) | My EyeLab is an eye care practice in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/my-eyelab-lewisville/
+1. Lakeview Vision | Organic #1 | Pulse Score 61.9/100 (Good, #1 in city) | Lakeview Vision is an eye care practice in Lewisville, TX. Phone: +14693906558. | https://registry-edge.dingalinged.workers.dev/c/lakeview-vision-lewisville/
+2. Eye Clinic Medical | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Eye Clinic Medical is an eye care practice in Lewisville, TX. Phone: +14696162030. | https://registry-edge.dingalinged.workers.dev/c/eye-clinic-medical-lewisville/
+3. Optical Infinitu | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Optical Infinitu is an eye care practice in Lewisville, TX at Hebron Parkway #102,103, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/optical-infinitu-lewisville/
+4. My EyeLab | Organic #4 | Pulse Score 47.3/100 (Unrated, #4 in city) | My EyeLab is an eye care practice in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/my-eyelab-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor lewisville tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,12 +13,12 @@
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:30; Sa 09:00-19:00; Su 11:00-18:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of nail salons in Dallas–Fort Worth, #2 of 13 nail salons in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 14% of nail salons in Dallas–Fort Worth, #2 of 13 nail salons in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/1-nails-spa-cedar-hill/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/1-nails-spa-cedar-hill.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13436002188 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13436002188 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Cobb County, GA at 600 Chastain Road #412, 
 - Website: https://palmbeachtan.com/locations/GA/Kennesaw-Chastain-Road-North-West
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-19:00
-- Pulse Score: 50.7/100 — Fair — top 86% of tanning salons in Atlanta, #1 of 1 tanning salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 86% of tanning salons in Atlanta, #1 of 1 tanning salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

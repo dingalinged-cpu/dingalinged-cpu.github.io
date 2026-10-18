@@ -13,7 +13,7 @@ Swift Shine Car Wash is a car wash in Blue Springs, MO at 2400 MO Hwy 7, Blue Sp
 - Website: https://swiftshinecarwash.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 4% of car washes in Kansas City, MO, #1 of 8 car washes in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 2% of car washes in Kansas City, MO, #1 of 8 car washes in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

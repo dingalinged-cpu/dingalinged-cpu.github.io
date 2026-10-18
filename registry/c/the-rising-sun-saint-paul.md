@@ -13,7 +13,7 @@ The Rising Sun is a martial arts school in Saint Paul, MN at 2058 Marshall Avenu
 - Website: https://risingsunmartialartssupply.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 25% of martial arts schools in Minneapolis–St. Paul, #2 of 4 martial arts schools in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 25% of martial arts schools in Minneapolis–St. Paul, #2 of 4 martial arts schools in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

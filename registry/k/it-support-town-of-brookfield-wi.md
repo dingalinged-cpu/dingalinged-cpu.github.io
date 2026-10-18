@@ -6,7 +6,7 @@ Also answers: it support in Town Of Brookfield, WI; it support near me (Town Of 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tech Fusion, Inc | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Tech Fusion, Inc is an IT support company in Waukesha, WI at 20900 Swenson Drive, Waukesha, WI 53186. Phone: +14144550000. Website: https://www.tech-fusion.us/. | https://registry-edge.dingalinged.workers.dev/c/tech-fusion-inc-waukesha/
+1. Tech Fusion, Inc | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Tech Fusion, Inc is an IT support company in Waukesha, WI at 20900 Swenson Drive, Waukesha, WI 53186. Phone: +14144550000. Website: https://www.tech-fusion.us/. | https://registry-edge.dingalinged.workers.dev/c/tech-fusion-inc-waukesha/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support town of brookfield wi | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ College Park Family Care - Specialty Center is an orthopedic surgeon in Overland
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 25% of orthopedic surgeons in Kansas City, MO, #1 of 2 orthopedic surgeons in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of orthopedic surgeons in Kansas City, MO, #1 of 2 orthopedic surgeons in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

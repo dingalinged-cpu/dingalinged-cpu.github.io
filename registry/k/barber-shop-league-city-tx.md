@@ -6,7 +6,7 @@ Also answers: barber shop in League City, TX; barber shop near me (League City, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shag the Barber | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Shag the Barber is a barber shop in League City, TX at 826 West Main Street, League City, TX 77573. | https://registry-edge.dingalinged.workers.dev/c/shag-the-barber-league-city/
+1. Shag the Barber | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Shag the Barber is a barber shop in League City, TX at 826 West Main Street, League City, TX 77573. | https://registry-edge.dingalinged.workers.dev/c/shag-the-barber-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop league city tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

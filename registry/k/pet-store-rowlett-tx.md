@@ -6,7 +6,7 @@ Also answers: pet store in Rowlett, TX; pet store near me (Rowlett, TX); best pe
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | Organic #1 | Pulse Score 49.8/100 (Building, #1 in city) | PetSmart is a pet store in Rowlett, TX at 5709 President George Bush Highway, Rowlett, TX 75088. Phone: +19724121624. Website: https://www.petsmart.com/stores/us/tx/rowlett-store1826.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-rowlett/
+1. PetSmart | Organic #1 | Pulse Score 49.9/100 (Building, #1 in city) | PetSmart is a pet store in Rowlett, TX at 5709 President George Bush Highway, Rowlett, TX 75088. Phone: +19724121624. Website: https://www.petsmart.com/stores/us/tx/rowlett-store1826.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-rowlett/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store rowlett tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

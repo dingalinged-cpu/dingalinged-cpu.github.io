@@ -13,7 +13,7 @@ GEICO is an insurance agent in Niles, IL at 7111 West Dempster Street, Niles, IL
 - Website: https://www.geico.com/insurance-agents/illinois/chicago/allan-gerszonovicz
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.8/100 — Building — top 57% of insurance agents in Chicago, #1 of 3 insurance agents in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 56% of insurance agents in Chicago, #1 of 3 insurance agents in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ MGM Wine & Spirits is a liquor store in Vadnais Heights, MN at 1050 Highway 96, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Unrated (not enough evidence yet) — top 93% of liquor stores in Minneapolis–St. Paul, #1 of 2 liquor stores in Vadnais Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Unrated (not enough evidence yet) — top 93% of liquor stores in Minneapolis–St. Paul, #1 of 2 liquor stores in Vadnais Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

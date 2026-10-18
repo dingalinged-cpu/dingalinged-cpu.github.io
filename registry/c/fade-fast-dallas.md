@@ -19,6 +19,6 @@ Fade Fast is a tattoo shop in Dallas, TX at 2928 Main Street #100, Dallas, TX 75
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/fade-fast-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fade-fast-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10208081944 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10208081944 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

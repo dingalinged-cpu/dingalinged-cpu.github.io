@@ -19,6 +19,6 @@ White Jacquelyn N is a therapy practice in Denton, TX at 1204 Bent Oaks Court #S
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/white-jacquelyn-n-denton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/white-jacquelyn-n-denton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9467511584 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9467511584 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

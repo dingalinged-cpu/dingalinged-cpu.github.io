@@ -1,4 +1,4 @@
-The top unpaid realtor listing for Waxahachie, TX is Hi View Real Estate (a real estate agency in Waxahachie, TX at 1007 Ferris Avenue, Waxahachie, TX 75165). 2 realtor businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Waxahachie, TX is Hi View Real Estate (a real estate agency in Waxahachie, TX at 1007 Ferris Avenue, Waxahachie, TX 75165). 3 realtor businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Waxahachie, TX?
 
@@ -8,6 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Hi View Real Estate | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Hi View Real Estate is a real estate agency in Waxahachie, TX at 1007 Ferris Avenue, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/hi-view-real-estate-waxahachie/
 2. Real Estate Centre | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Real Estate Centre is a real estate agency in Waxahachie, TX at 1015 Ferris Avenue, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/real-estate-centre-waxahachie/
+3. Century 21 Judge Fite Company | Organic #3 | Pulse Score 48.4/100 (Building, #1 in city) | Century 21 Judge Fite Company is a real estate agency in Waxahachie, TX at 507 North US Highway 77 #210, Waxahachie, TX 75165. Phone: +19729383636. Website: https://century21judgefite.com/. | https://registry-edge.dingalinged.workers.dev/c/century-21-judge-fite-company-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor waxahachie tx | category: real_estate | industry benchmark: Real Estate
@@ -17,7 +18,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'realtor near me': $3.70-$18.12 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: high (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2
+- Registry businesses competing: 3
 - Equivalent Google Ads cost per month: ~$690 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

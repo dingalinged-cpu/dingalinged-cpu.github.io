@@ -6,7 +6,7 @@ Also answers: auto repair in Red Oak, TX; auto repair near me (Red Oak, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caliber Collision | Organic #1 | Pulse Score 48/100 (Building, #1 in city) | Caliber Collision is an auto repair shop in Red Oak, TX at 202 Ryan Drive, Red Oak, TX 75154. Phone: +14695529617. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-red-oak/
+1. Caliber Collision | Organic #1 | Pulse Score 47.9/100 (Building, #1 in city) | Caliber Collision is an auto repair shop in Red Oak, TX at 202 Ryan Drive, Red Oak, TX 75154. Phone: +14695529617. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-red-oak/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair red oak tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

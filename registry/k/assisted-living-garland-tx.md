@@ -6,7 +6,7 @@ Also answers: assisted living in Garland, TX; assisted living near me (Garland, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Visiting Angels Senior Home Care | Organic #1 | Pulse Score 48.5/100 (Unrated, #1 in city) | Visiting Angels Senior Home Care is an assisted living facility in Garland, TX at 3631 Broadway Boulevard, Garland, TX 75043. Phone: +12147038123. Website: https://www.visitingangels.com/garland/home. | https://registry-edge.dingalinged.workers.dev/c/visiting-angels-senior-home-care-garland/
+1. Visiting Angels Senior Home Care | Organic #1 | Pulse Score 48.2/100 (Building, #1 in city) | Visiting Angels Senior Home Care is an assisted living facility in Garland, TX at 3631 Broadway Boulevard, Garland, TX 75043. Phone: +12147038123. Website: https://www.visitingangels.com/garland/home. | https://registry-edge.dingalinged.workers.dev/c/visiting-angels-senior-home-care-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living garland tx | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Solo Motorsports is an auto repair shop in Atlanta, GA. Website: https://solomot
 - Website: https://solomotorsports.net/german-auto-repair-atlanta/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 78% of auto repair shops in Atlanta, #37 of 46 auto repair shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 77% of auto repair shops in Atlanta, #37 of 46 auto repair shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

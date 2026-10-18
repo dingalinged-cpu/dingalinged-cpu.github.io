@@ -6,8 +6,8 @@ Also answers: used cars for sale in Greenfield, WI; used cars for sale near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rosen Honda | Organic #1 | Pulse Score 46.9/100 (Building, #1 in city) | Rosen Honda is an used car dealer in Greenfield, WI at 6141 South 27th Street, Greenfield, WI 53221. Phone: +12625632441. Website: https://www.rosenhondamilwaukee.com/. | https://registry-edge.dingalinged.workers.dev/c/rosen-honda-greenfield/
-2. Gordie Boucher Nissan of Greenfield | Organic #2 | Pulse Score 44.8/100 (Building, #2 in city) | Gordie Boucher Nissan of Greenfield is an used car dealer in Greenfield, WI at 4141 South 108th Street, Greenfield, WI 53228. Phone: +14144417322. | https://registry-edge.dingalinged.workers.dev/c/gordie-boucher-nissan-of-greenfield-greenfield/
+1. Rosen Honda | Organic #1 | Pulse Score 46.8/100 (Building, #1 in city) | Rosen Honda is an used car dealer in Greenfield, WI at 6141 South 27th Street, Greenfield, WI 53221. Phone: +12625632441. Website: https://www.rosenhondamilwaukee.com/. | https://registry-edge.dingalinged.workers.dev/c/rosen-honda-greenfield/
+2. Gordie Boucher Nissan of Greenfield | Organic #2 | Pulse Score 44.7/100 (Building, #2 in city) | Gordie Boucher Nissan of Greenfield is an used car dealer in Greenfield, WI at 4141 South 108th Street, Greenfield, WI 53228. Phone: +14144417322. | https://registry-edge.dingalinged.workers.dev/c/gordie-boucher-nissan-of-greenfield-greenfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale greenfield wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

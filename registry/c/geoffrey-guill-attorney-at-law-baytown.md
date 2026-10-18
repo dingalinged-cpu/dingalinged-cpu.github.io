@@ -13,12 +13,12 @@ Geoffrey Guill, Attorney At Law is a lawyer in Baytown, TX at 4721 Garth Road #S
 - Website: https://www.guill-law.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 32% of lawyers in Houston, #1 of 1 lawyers in Baytown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 31% of lawyers in Houston, #1 of 1 lawyers in Baytown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/geoffrey-guill-attorney-at-law-baytown/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/geoffrey-guill-attorney-at-law-baytown.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5850939868 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5850939868 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

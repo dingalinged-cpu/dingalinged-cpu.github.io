@@ -6,7 +6,7 @@ Also answers: movers in Milwaukee, WI; movers near me (Milwaukee, WI); best move
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blue District Logistics & Transportation | Organic #1 | Pulse Score 59.4/100 (Fair, #1 in city) | Blue District Logistics & Transportation is a moving company in Milwaukee, WI at 11414 West Park Place #202, Milwaukee, WI 53224. Phone: +14148853629. Website: https://bluedist.net/. | https://registry-edge.dingalinged.workers.dev/c/blue-district-logistics-and-transportation-milwaukee/
+1. Blue District Logistics & Transportation | Organic #1 | Pulse Score 59.2/100 (Fair, #1 in city) | Blue District Logistics & Transportation is a moving company in Milwaukee, WI at 11414 West Park Place #202, Milwaukee, WI 53224. Phone: +14148853629. Website: https://bluedist.net/. | https://registry-edge.dingalinged.workers.dev/c/blue-district-logistics-and-transportation-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: movers milwaukee wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

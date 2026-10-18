@@ -13,12 +13,12 @@ America’s ER Medical Center is a family medicine practice in Magnolia, TX at 3
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 44% of family medicine practices in Houston, #1 of 1 family medicine practices in Magnolia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 44.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 47% of family medicine practices in Houston, #1 of 1 family medicine practices in Magnolia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/america-s-er-medical-center-magnolia/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/america-s-er-medical-center-magnolia.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/372745133 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/372745133 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -19,6 +19,6 @@ HEB Driving School is a driving school in Bedford, TX at 505 North Industrial Bo
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/heb-driving-school-bedford/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/heb-driving-school-bedford.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13749502774 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13749502774 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

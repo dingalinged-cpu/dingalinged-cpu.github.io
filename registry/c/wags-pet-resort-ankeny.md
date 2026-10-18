@@ -13,7 +13,7 @@ Wags Pet Resort is a dog boarding facility in Ankeny, IA at 1650 Southwest Magaz
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 67% of dog boarding facilitys in Des Moines, IA, #1 of 1 dog boarding facilitys in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 67% of dog boarding facilitys in Des Moines, IA, #1 of 1 dog boarding facilitys in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

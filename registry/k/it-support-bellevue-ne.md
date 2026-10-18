@@ -6,7 +6,7 @@ Also answers: it support in Bellevue, NE; it support near me (Bellevue, NE); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tigerpaw Software | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Tigerpaw Software is an IT support company in Bellevue, NE at 2201 Thurston Circle, Bellevue, NE 68005. | https://registry-edge.dingalinged.workers.dev/c/tigerpaw-software-bellevue/
+1. Tigerpaw Software | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Tigerpaw Software is an IT support company in Bellevue, NE at 2201 Thurston Circle, Bellevue, NE 68005. | https://registry-edge.dingalinged.workers.dev/c/tigerpaw-software-bellevue/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support bellevue ne | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

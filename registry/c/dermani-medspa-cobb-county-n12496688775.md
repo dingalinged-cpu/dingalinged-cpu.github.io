@@ -13,7 +13,7 @@ Dermani Medspa is a skin care studio in Cobb County, GA. Website: https://derman
 - Website: https://dermanimedspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 40.6/100 — Building — top 95% of skin care studios in Atlanta, #8 of 8 skin care studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 36.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 40.6/100 — Building — top 95% of skin care studios in Atlanta, #8 of 8 skin care studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 36.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

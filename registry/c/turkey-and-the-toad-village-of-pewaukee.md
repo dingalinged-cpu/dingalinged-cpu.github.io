@@ -13,7 +13,7 @@ Turkey & The Toad is a bakery in Village of Pewaukee, WI at 161 West Wisconsin A
 - Website: https://www.turkeyandthetoad.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa-Su 08:00-13:00
-- Pulse Score: 62.8/100 — Good — top 11% of bakerys in Milwaukee, #1 of 1 bakerys in Village of Pewaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 11% of bakerys in Milwaukee, #1 of 1 bakerys in Village of Pewaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

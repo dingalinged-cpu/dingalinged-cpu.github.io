@@ -1,4 +1,4 @@
-The top unpaid barber shop listing for Garland, TX is MTP Barbershop (a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/). 2 barber shop businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Garland, TX is MTP Barbershop (a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/). 3 barber shop businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Garland, TX?
 
@@ -8,6 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. MTP Barbershop | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | MTP Barbershop is a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/. | https://registry-edge.dingalinged.workers.dev/c/mtp-barbershop-garland/
 2. Mr. Ice Water Fade  at Crown Barbershop | Organic #2 | Pulse Score 63/100 (Good, #2 in city) | Mr. Ice Water Fade  at Crown Barbershop is a barber shop in Garland, TX at 518 North Plano Road, Garland, TX 75042. Phone: +12145718950. | https://registry-edge.dingalinged.workers.dev/c/mr-ice-water-fade-at-crown-barbershop-garland/
+3. JV Barber Studio | Organic #3 | Pulse Score 59.6/100 (Unrated, #3 in city) | JV Barber Studio is a barber shop in Garland, TX at 4750 North Jupiter Road #114, Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/jv-barber-studio-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop garland tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -17,7 +18,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'barber shop': $0.70-$3.18 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: low (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2
+- Registry businesses competing: 3
 - Equivalent Google Ads cost per month: ~$680 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

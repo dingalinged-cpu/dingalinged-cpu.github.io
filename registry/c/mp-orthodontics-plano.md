@@ -13,12 +13,12 @@ MP Orthodontics is a dentist in Plano, TX at 3555 National Drive #300, Plano, TX
 - Website: https://mpbraces.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 11% of dentists in Dallas–Fort Worth, #5 of 32 dentists in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 9% of dentists in Dallas–Fort Worth, #6 of 33 dentists in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mp-orthodontics-plano/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mp-orthodontics-plano.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9776556226 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9776556226 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Earth Rider Cycling is a bike shop in Chicago, IL at 1873 North Milwaukee Avenue
 - Website: https://www.earthridercycling.com/
 - Email: n/a
 - Opening hours (OSM syntax): We 10:00-20:00; Th-Su 10:00-17:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 16% of bike shops in Chicago, #14 of 68 bike shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 16% of bike shops in Chicago, #14 of 68 bike shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

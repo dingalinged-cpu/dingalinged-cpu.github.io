@@ -6,7 +6,7 @@ Also answers: dentist in Black Earth, WI; dentist near me (Black Earth, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Village Family Dental | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Village Family Dental is a dentist in Black Earth, WI at 1209 Mills Street, Black Earth, WI 53515. | https://registry-edge.dingalinged.workers.dev/c/village-family-dental-black-earth/
+1. Village Family Dental | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Village Family Dental is a dentist in Black Earth, WI at 1209 Mills Street, Black Earth, WI 53515. | https://registry-edge.dingalinged.workers.dev/c/village-family-dental-black-earth/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist black earth wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

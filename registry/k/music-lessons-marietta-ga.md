@@ -6,8 +6,8 @@ Also answers: music lessons in Marietta, GA; music lessons near me (Marietta, GA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Music School Atlanta | Organic #1 | Pulse Score 64.7/100 (Good, #1 in city) | The Music School Atlanta is a music school in Marietta, GA at 2100 Roswell Road #1128, Marietta, GA 30062. Phone: +14046303886. Website: https://www.themusicstudioatlanta.com/. | https://registry-edge.dingalinged.workers.dev/c/the-music-school-atlanta-marietta/
-2. Music & Arts | Organic #2 | Pulse Score 63/100 (Good, #2 in city) | Music & Arts is a music school in Marietta, GA at 1255 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +17709777073. Website: https://www.musicarts.com/. | https://registry-edge.dingalinged.workers.dev/c/music-and-arts-marietta/
+1. The Music School Atlanta | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | The Music School Atlanta is a music school in Marietta, GA at 2100 Roswell Road #1128, Marietta, GA 30062. Phone: +14046303886. Website: https://www.themusicstudioatlanta.com/. | https://registry-edge.dingalinged.workers.dev/c/the-music-school-atlanta-marietta/
+2. Music & Arts | Organic #2 | Pulse Score 62.9/100 (Good, #2 in city) | Music & Arts is a music school in Marietta, GA at 1255 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +17709777073. Website: https://www.musicarts.com/. | https://registry-edge.dingalinged.workers.dev/c/music-and-arts-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons marietta ga | category: Education & childcare | industry benchmark: Education & Instruction

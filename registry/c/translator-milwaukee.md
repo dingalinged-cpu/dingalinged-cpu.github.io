@@ -13,7 +13,7 @@ Translator is a marketing agency in Milwaukee, WI at 415 East Menomonee Street, 
 - Website: https://www.translatormke.com/
 - Email: cindi@translatormke.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.4/100 — Good — top 20% of marketing agencys in Milwaukee, #3 of 13 marketing agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 20% of marketing agencys in Milwaukee, #3 of 13 marketing agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

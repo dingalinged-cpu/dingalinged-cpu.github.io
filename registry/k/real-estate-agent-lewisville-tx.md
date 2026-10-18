@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Avery | Organic #2 | Pulse Score 62.8/100 (Unrated, #2 in city) | Avery is a real estate agency in Lewisville, TX at 350 Continental Drive, Lewisville, TX 75067. Phone: +19728437059. Website: https://www.averyapartmenthomes.com/. | https://registry-edge.dingalinged.workers.dev/c/avery-lewisville/
 3. Bright Realty | Organic #3 | Pulse Score 61.1/100 (Unrated, #3 in city) | Bright Realty is a real estate agency in Lewisville, TX at 4400 State Highway 121 #Suite 900, Lewisville, TX 75056. Phone: +18772844968. Website: https://awesometechinc.com/. | https://registry-edge.dingalinged.workers.dev/c/bright-realty-lewisville/
 4. Dallas & Beyond | Organic #4 | Pulse Score 57.8/100 (Unrated, #4 in city) | Dallas & Beyond is a real estate agency in Lewisville, TX. Phone: +12146831834. | https://registry-edge.dingalinged.workers.dev/c/dallas-and-beyond-lewisville/
-5. Weichert | Organic #5 | Pulse Score 47.2/100 (Building, #5 in city) | Weichert is a real estate agency in Lewisville, TX. Phone: +19725446400. | https://registry-edge.dingalinged.workers.dev/c/weichert-lewisville/
+5. Weichert | Organic #5 | Pulse Score 46.9/100 (Building, #5 in city) | Weichert is a real estate agency in Lewisville, TX. Phone: +19725446400. | https://registry-edge.dingalinged.workers.dev/c/weichert-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent lewisville tx | category: Professional & financial services | industry benchmark: Finance & Insurance

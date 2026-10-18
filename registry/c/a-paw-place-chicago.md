@@ -13,7 +13,7 @@ A Paw Place is a dog groomer in Chicago, IL at 1457 East 53rd Street, Chicago, I
 - Website: https://apawplace.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 12:00-15:00; Tu-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-17:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 17% of dog groomers in Chicago, #2 of 16 dog groomers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 17% of dog groomers in Chicago, #2 of 16 dog groomers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

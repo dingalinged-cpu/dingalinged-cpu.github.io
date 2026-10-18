@@ -13,7 +13,7 @@ Karlin & Long, LLC is an accountant in Lenexa, KS at 10115 Cherry Lane, Lenexa, 
 - Website: https://www.karlinlong.com/lenexa-ks
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 8% of accountants in Kansas City, MO, #1 of 1 accountants in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 8% of accountants in Kansas City, MO, #1 of 1 accountants in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Shining Stars Daycare is a daycare in Marietta, GA at 100 Powers Ferry Road Sout
 - Website: https://www.ssdaycare2.com/
 - Email: shiningstarsdaycare2@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.1/100 — Good — top 12% of daycares in Atlanta, #2 of 2 daycares in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 12% of daycares in Atlanta, #2 of 2 daycares in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

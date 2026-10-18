@@ -6,7 +6,7 @@ Also answers: hvac repair in Richmond, TX; hvac repair near me (Richmond, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fresh Air, L.P. | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Fresh Air, L.P. is a HVAC contractor in Richmond, TX at 5702 Powerline Road, Richmond, TX 77469. Phone: +12814993511. Website: https://www.freshairinc.com/. | https://registry-edge.dingalinged.workers.dev/c/fresh-air-l-p-richmond/
+1. Fresh Air, L.P. | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Fresh Air, L.P. is a HVAC contractor in Richmond, TX at 5702 Powerline Road, Richmond, TX 77469. Phone: +12814993511. Website: https://www.freshairinc.com/. | https://registry-edge.dingalinged.workers.dev/c/fresh-air-l-p-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair richmond tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement

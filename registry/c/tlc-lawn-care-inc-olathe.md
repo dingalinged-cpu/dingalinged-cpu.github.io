@@ -13,7 +13,7 @@ TLC Lawn Care Inc. is a landscaping company in Olathe, KS at 19600 West 159th St
 - Website: https://tlclawncareinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.9/100 — Good — top 17% of landscaping companys in Kansas City, MO, #1 of 2 landscaping companys in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 17% of landscaping companys in Kansas City, MO, #1 of 2 landscaping companys in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Saint Paul, MN at 1049 Grand Avenue, Sa
 - Website: https://locations.waxcenter.com/mn/st-paul/st.-paul-grand-avenue-0473.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 67% of waxing salons in Minneapolis–St. Paul, #1 of 1 waxing salons in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 67% of waxing salons in Minneapolis–St. Paul, #1 of 1 waxing salons in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

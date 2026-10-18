@@ -13,7 +13,7 @@ Goodyear Commercial Tire and Service Center #280 is a tire shop in Kennesaw, GA.
 - Website: https://www.goodyearctsc.com/locations/details?ns=000134276
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 74% of tire shops in Atlanta, #4 of 4 tire shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 73% of tire shops in Atlanta, #4 of 4 tire shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

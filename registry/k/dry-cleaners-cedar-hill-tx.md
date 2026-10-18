@@ -6,7 +6,7 @@ Also answers: dry cleaners in Cedar Hill, TX; dry cleaners near me (Cedar Hill, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Starchies Dry Cleaners | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Starchies Dry Cleaners is a dry cleaner in Cedar Hill, TX. | https://registry-edge.dingalinged.workers.dev/c/starchies-dry-cleaners-cedar-hill/
+1. Starchies Dry Cleaners | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Starchies Dry Cleaners is a dry cleaner in Cedar Hill, TX. | https://registry-edge.dingalinged.workers.dev/c/starchies-dry-cleaners-cedar-hill/
 2. Dry Clean Super Center | Organic #2 | Pulse Score 41.9/100 (Unrated, #2 in city) | Dry Clean Super Center is a dry cleaner in Cedar Hill, TX. | https://registry-edge.dingalinged.workers.dev/c/dry-clean-super-center-cedar-hill/
 
 ## Market data (for advertisers and agents)

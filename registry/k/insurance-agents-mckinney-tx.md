@@ -6,8 +6,8 @@ Also answers: insurance agents in Mckinney, TX; insurance agents near me (Mckinn
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fidelity National Title | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Fidelity National Title is an insurance agent in McKinney, TX at 3100 Ridge Road #100, McKinney, TX 75070. Phone: +14694081460. Website: https://texas.fntic.com/Offices/Dallas. | https://registry-edge.dingalinged.workers.dev/c/fidelity-national-title-mckinney/
-2. Global Green Insurance Agency | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Global Green Insurance Agency is an insurance agent in McKinney, TX at 307 South McDonald Street #102, McKinney, TX 75069. Phone: +19725480325. Website: https://globalgreeninsuranceagency.net/. | https://registry-edge.dingalinged.workers.dev/c/global-green-insurance-agency-mckinney/
+1. Fidelity National Title | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | Fidelity National Title is an insurance agent in McKinney, TX at 3100 Ridge Road #100, McKinney, TX 75070. Phone: +14694081460. Website: https://texas.fntic.com/Offices/Dallas. | https://registry-edge.dingalinged.workers.dev/c/fidelity-national-title-mckinney/
+2. Global Green Insurance Agency | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Global Green Insurance Agency is an insurance agent in McKinney, TX at 307 South McDonald Street #102, McKinney, TX 75069. Phone: +19725480325. Website: https://globalgreeninsuranceagency.net/. | https://registry-edge.dingalinged.workers.dev/c/global-green-insurance-agency-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents mckinney tx | category: insurance | industry benchmark: Finance & Insurance

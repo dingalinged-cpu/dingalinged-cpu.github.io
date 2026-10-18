@@ -19,6 +19,6 @@ Comet Cleaners is a dry cleaner in McKinney, TX at 7650 Stacy Road #270, McKinne
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/comet-cleaners-mckinney/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/comet-cleaners-mckinney.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10158156917 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10158156917 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

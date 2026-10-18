@@ -13,7 +13,7 @@ Farmers Insurance is an insurance agent in Kansas City, MO at 116 West 3rd Stree
 - Website: https://recruitment.farmers.com/industry-recruiter-locator/mo/kansas-city/charles-peoples
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Building — top 60% of insurance agents in Kansas City, MO, #22 of 41 insurance agents in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 58% of insurance agents in Kansas City, MO, #21 of 41 insurance agents in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,4 +1,4 @@
-The top unpaid vet listing for Addison, TX is Modern Animal - Addisom (a veterinarian in Dallas, TX at 5290 Belt Line Road #134, Dallas, TX 75254. Phone: +14693739338. Website: https://www.modernanimal.com/clinics/addison). 3 vet businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Addison, TX is Modern Animal - Addison (a veterinarian in Dallas, TX at 5290 Belt Line Road #134, Dallas, TX 75254. Phone: +14693739338. Website: https://www.modernanimal.com/clinics/addison). 3 vet businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Addison, TX?
 
@@ -6,9 +6,9 @@ Also answers: vet in Addison, TX; vet near me (Addison, TX); best vet Addison, T
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Modern Animal - Addisom | Organic #1 | Pulse Score 61.4/100 (Unrated, #9 in city) | Modern Animal - Addisom is a veterinarian in Dallas, TX at 5290 Belt Line Road #134, Dallas, TX 75254. Phone: +14693739338. Website: https://www.modernanimal.com/clinics/addison. | https://registry-edge.dingalinged.workers.dev/c/modern-animal-addisom-dallas/
-2. Isla Veterinary | Organic #2 | Pulse Score 54.2/100 (Unrated, #1 in city) | Isla Veterinary is a veterinarian in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/isla-veterinary-addison/
-3. CityVet | Organic #3 | Pulse Score 46.9/100 (Unrated, #41 in city) | CityVet is a veterinarian in Dallas, TX at 5320 Belt Line Road, Dallas, TX 75254. Phone: +12142392346. Website: https://www.cityvet.com/cityvet/addison/. | https://registry-edge.dingalinged.workers.dev/c/cityvet-dallas/
+1. Modern Animal - Addison | Organic #1 | Pulse Score 61.2/100 (Unrated, #11 in city) | Modern Animal - Addison is a veterinarian in Dallas, TX at 5290 Belt Line Road #134, Dallas, TX 75254. Phone: +14693739338. Website: https://www.modernanimal.com/clinics/addison. | https://registry-edge.dingalinged.workers.dev/c/modern-animal-addisom-dallas/
+2. Isla Veterinary | Organic #2 | Pulse Score 54.1/100 (Unrated, #1 in city) | Isla Veterinary is a veterinarian in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/isla-veterinary-addison/
+3. CityVet | Organic #3 | Pulse Score 46.7/100 (Unrated, #44 in city) | CityVet is a veterinarian in Dallas, TX at 5320 Belt Line Road, Dallas, TX 75254. Phone: +12142392346. Website: https://www.cityvet.com/cityvet/addison/. | https://registry-edge.dingalinged.workers.dev/c/cityvet-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet addison tx | category: Pets | industry benchmark: Animals & Pets

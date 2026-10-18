@@ -13,7 +13,7 @@ Del Sur Bakery is a bakery in Chicago, IL at 4639 North Damen Avenue, Chicago, I
 - Website: https://www.delsurchicago.com/
 - Email: n/a
 - Opening hours (OSM syntax): Th-Su 08:00-15:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 17% of bakerys in Chicago, #54 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 16% of bakerys in Chicago, #54 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

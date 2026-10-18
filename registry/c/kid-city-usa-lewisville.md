@@ -19,6 +19,6 @@ Kid City USA is a preschool in Lewisville, TX at 1597 Glencairn Lane, Lewisville
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/kid-city-usa-lewisville/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kid-city-usa-lewisville.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/668316986 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/668316986 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

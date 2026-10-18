@@ -13,7 +13,7 @@ Western Specialty Contractors is a concrete contractor in Minneapolis, MN at 111
 - Website: https://westernspecialtycontractors.com/minneapolis-branch/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.2/100 — Good — top 50% of concrete contractors in Minneapolis–St. Paul, #1 of 1 concrete contractors in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Good — top 50% of concrete contractors in Minneapolis–St. Paul, #1 of 1 concrete contractors in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

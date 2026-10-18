@@ -13,7 +13,7 @@ Dealin Dj's Car & Truck Sales is an used car dealer in Omaha, NE at 6002 Center 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-17:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 23% of used car dealers in Omaha, NE, #4 of 15 used car dealers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 23% of used car dealers in Omaha, NE, #4 of 15 used car dealers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

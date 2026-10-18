@@ -6,10 +6,10 @@ Also answers: pet store in Conroe, TX; pet store near me (Conroe, TX); best pet 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | PetSmart is a pet store in Conroe, TX at 19075 Interstate 45 South #114, Conroe, TX 77385. Phone: +19362739888. Website: https://www.petsmart.com/stores/us/tx/conroe-store1046.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-conroe/
-2. PetSmart | Organic #2 | Pulse Score 49.3/100 (Building, #2 in city) | PetSmart is a pet store in Conroe, TX at 2900 Interstate 45 North, Conroe, TX 77301. Phone: +19364942500. Website: https://www.petsmart.com/stores/us/tx/conroe-store1534.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-conroe-w718778395/
-3. Petco | Organic #3 | Pulse Score 47.1/100 (Building, #3 in city) | Petco is a pet store in Conroe, TX at 1410 North Loop 336 West, Conroe, TX 77304. Phone: +19364414700. Website: https://stores.petco.com/tx/conroe/pet-supplies-conroe-tx-442.html. | https://registry-edge.dingalinged.workers.dev/c/petco-conroe/
-4. Pet Supplies Plus | Organic #4 | Pulse Score 41.8/100 (Building, #4 in city) | Pet Supplies Plus is a pet store in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/pet-supplies-plus-conroe/
+1. PetSmart | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | PetSmart is a pet store in Conroe, TX at 19075 Interstate 45 South #114, Conroe, TX 77385. Phone: +19362739888. Website: https://www.petsmart.com/stores/us/tx/conroe-store1046.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-conroe/
+2. PetSmart | Organic #2 | Pulse Score 49.4/100 (Building, #2 in city) | PetSmart is a pet store in Conroe, TX at 2900 Interstate 45 North, Conroe, TX 77301. Phone: +19364942500. Website: https://www.petsmart.com/stores/us/tx/conroe-store1534.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-conroe-w718778395/
+3. Petco | Organic #3 | Pulse Score 47.2/100 (Building, #3 in city) | Petco is a pet store in Conroe, TX at 1410 North Loop 336 West, Conroe, TX 77304. Phone: +19364414700. Website: https://stores.petco.com/tx/conroe/pet-supplies-conroe-tx-442.html. | https://registry-edge.dingalinged.workers.dev/c/petco-conroe/
+4. Pet Supplies Plus | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | Pet Supplies Plus is a pet store in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/pet-supplies-plus-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store conroe tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

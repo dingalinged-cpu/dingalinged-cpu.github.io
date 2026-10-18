@@ -6,7 +6,7 @@ Also answers: jewelry store in Menomonee Falls, WI; jewelry store near me (Menom
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Robert M. Jewelers | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Robert M. Jewelers is a jewelry store in Menomonee Falls, WI at W186N9511 Bancroft Drive, Menomonee Falls, WI 53051. Website: https://www.robertmjewelers.com/. | https://registry-edge.dingalinged.workers.dev/c/robert-m-jewelers-menomonee-falls/
+1. Robert M. Jewelers | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Robert M. Jewelers is a jewelry store in Menomonee Falls, WI at W186N9511 Bancroft Drive, Menomonee Falls, WI 53051. Website: https://www.robertmjewelers.com/. | https://registry-edge.dingalinged.workers.dev/c/robert-m-jewelers-menomonee-falls/
 2. Kay Jewelers | Organic #2 | Pulse Score 43.1/100 (Building, #2 in city) | Kay Jewelers is a jewelry store in Menomonee Falls, WI at W161N9249 Pershing Avenue, Menomonee Falls, WI 53051. | https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-menomonee-falls/
 
 ## Market data (for advertisers and agents)

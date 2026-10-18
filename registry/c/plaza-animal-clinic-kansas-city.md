@@ -13,7 +13,7 @@ Plaza Animal Clinic is a veterinarian in Kansas City, MO. Website: https://plaza
 - Website: https://plazaanimalclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30; Sa 09:00-13:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 28% of veterinarians in Kansas City, MO, #5 of 18 veterinarians in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 28% of veterinarians in Kansas City, MO, #5 of 18 veterinarians in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

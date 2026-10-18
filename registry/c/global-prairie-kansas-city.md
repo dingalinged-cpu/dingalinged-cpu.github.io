@@ -13,7 +13,7 @@ Global Prairie is a marketing agency in Kansas City, MO at 117 West 17th Street,
 - Website: https://www.globalprairie.com/contact-us/kansas-city-missouri
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 59% of marketing agencys in Kansas City, MO, #5 of 10 marketing agencys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 59% of marketing agencys in Kansas City, MO, #5 of 10 marketing agencys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

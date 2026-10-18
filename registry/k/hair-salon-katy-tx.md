@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for Katy, TX is Hair by Grace (a hair salon in Katy, TX at 5142 East Fifth Street, Katy, TX 77493. Phone: +18337373790. Website: https://hair-by-grace-108802.square.site/). 14 hair salon businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Katy, TX is Hair by Grace (a hair salon in Katy, TX at 5142 East Fifth Street, Katy, TX 77493. Phone: +18337373790. Website: https://hair-by-grace-108802.square.site/). 13 hair salon businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Katy, TX?
 
@@ -8,18 +8,17 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Hair by Grace | Organic #1 | Pulse Score 65.2/100 (Good, #1 in city) | Hair by Grace is a hair salon in Katy, TX at 5142 East Fifth Street, Katy, TX 77493. Phone: +18337373790. Website: https://hair-by-grace-108802.square.site/. | https://registry-edge.dingalinged.workers.dev/c/hair-by-grace-katy/
 2. Yumi Nguyen Beauty | Organic #2 | Pulse Score 65.1/100 (Good, #2 in city) | Yumi Nguyen Beauty is a hair salon in Katy, TX at 1227 Grand Boulevard West #B206, Katy, TX 77449. Phone: +18503324354. Website: https://yumi-hair.square.site/. | https://registry-edge.dingalinged.workers.dev/c/yumi-nguyen-beauty-katy/
-3. DLG Cosmetics Beauty studio | Organic #3 | Pulse Score 62.2/100 (Unrated, #3 in city) | DLG Cosmetics Beauty studio is a hair salon in Katy, TX at 20680 Westheimer Parkway #70, Katy, TX 77450. Phone: +12818299899. | https://registry-edge.dingalinged.workers.dev/c/dlg-cosmetics-beauty-studio-katy/
-4. Elevate Hair Salon | Organic #4 | Pulse Score 61.9/100 (Unrated, #4 in city) | Elevate Hair Salon is a hair salon in Katy, TX at 4020 FM 1463, Katy, TX 77494. Phone: +18324375994. | https://registry-edge.dingalinged.workers.dev/c/elevate-hair-salon-katy/
+3. DLG Cosmetics Beauty studio | Organic #3 | Pulse Score 62.1/100 (Unrated, #3 in city) | DLG Cosmetics Beauty studio is a hair salon in Katy, TX at 20680 Westheimer Parkway #70, Katy, TX 77450. Phone: +12818299899. | https://registry-edge.dingalinged.workers.dev/c/dlg-cosmetics-beauty-studio-katy/
+4. Elevate Hair Salon | Organic #4 | Pulse Score 61.8/100 (Unrated, #4 in city) | Elevate Hair Salon is a hair salon in Katy, TX at 4020 FM 1463, Katy, TX 77494. Phone: +18324375994. | https://registry-edge.dingalinged.workers.dev/c/elevate-hair-salon-katy/
 5. Sweet & Sassy | Organic #5 | Pulse Score 58.2/100 (Unrated, #5 in city) | Sweet & Sassy is a hair salon in Katy, TX at 6445 FM 1463 #210, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/sweet-and-sassy-katy/
 6. Secrets | Organic #6 | Pulse Score 57/100 (Unrated, #6 in city) | Secrets is a hair salon in Katy, TX at 1805 Mason Road, Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/secrets-katy/
 7. Cici Hair Salon | Organic #7 | Pulse Score 56.6/100 (Unrated, #7 in city) | Cici Hair Salon is a hair salon in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/cici-hair-salon-katy/
 8. Tender Touch Pedi-Spa & Nails | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Tender Touch Pedi-Spa & Nails is a hair salon in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/tender-touch-pedi-spa-and-nails-katy/
-9. Sugaring NYC | Organic #9 | Pulse Score 49.1/100 (Unrated, #9 in city) | Sugaring NYC is a hair salon in Katy, TX at 4020 FM 1463, Katy, TX 77441. Phone: +18324375994. | https://registry-edge.dingalinged.workers.dev/c/sugaring-nyc-katy/
-10. Sport Clips | Organic #10 | Pulse Score 46.2/100 (Building, #10 in city) | Sport Clips is a hair salon in Katy, TX at 6727 FM 1463 #210, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-katy-n13158828868/
+9. Sugaring NYC | Organic #9 | Pulse Score 49/100 (Unrated, #9 in city) | Sugaring NYC is a hair salon in Katy, TX at 4020 FM 1463, Katy, TX 77441. Phone: +18324375994. | https://registry-edge.dingalinged.workers.dev/c/sugaring-nyc-katy/
+10. Sport Clips | Organic #10 | Pulse Score 46.1/100 (Building, #10 in city) | Sport Clips is a hair salon in Katy, TX at 6727 FM 1463 #210, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-katy-n13158828868/
 11. Supercuts | Organic #11 | Pulse Score 45.4/100 (Building, #11 in city) | Supercuts is a hair salon in Katy, TX at 430 South Mason Road, Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/supercuts-katy/
-12. Sport Clips | Organic #12 | Pulse Score 45/100 (Building, #12 in city) | Sport Clips is a hair salon in Katy, TX at 19859 Katy Freeway #B, Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-katy/
-13. Great Clips | Organic #13 | Pulse Score 42.7/100 (Building, #13 in city) | Great Clips is a hair salon in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/great-clips-katy/
-14. Mastercuts | Organic #14 | Pulse Score 42.7/100 (Building, #14 in city) | Mastercuts is a hair salon in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/mastercuts-katy/
+12. Great Clips | Organic #12 | Pulse Score 42.7/100 (Building, #12 in city) | Great Clips is a hair salon in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/great-clips-katy/
+13. Mastercuts | Organic #13 | Pulse Score 42.7/100 (Building, #13 in city) | Mastercuts is a hair salon in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/mastercuts-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon katy tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -29,7 +28,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'hair salon near me': $0.55-$2.85 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 14
+- Registry businesses competing: 13
 - Equivalent Google Ads cost per month: ~$1,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

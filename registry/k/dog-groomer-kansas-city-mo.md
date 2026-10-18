@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Brookside Barkery and Bath | Organic #3 | Pulse Score 56.3/100 (Unrated, #4 in city) | Brookside Barkery and Bath is a dog groomer in Kansas City, MO. Website: https://www.brooksidebarkery.com/. | https://registry-edge.dingalinged.workers.dev/c/brookside-barkery-and-bath-kansas-city/
 4. Picasso Dog Groomery | Organic #4 | Pulse Score 56.3/100 (Unrated, #6 in city) | Picasso Dog Groomery is a dog groomer in Kansas City, MO. Website: https://picassodoggroomery.com/. | https://registry-edge.dingalinged.workers.dev/c/picasso-dog-groomery-kansas-city/
 5. Fur Babies Salon | Organic #5 | Pulse Score 56.3/100 (Unrated, #5 in city) | Fur Babies Salon is a dog groomer in Kansas City, MO at 9754 North Ash Avenue, Kansas City, MO 64157. | https://registry-edge.dingalinged.workers.dev/c/fur-babies-salon-kansas-city/
-6. Full Time Grooming | Organic #6 | Pulse Score 55.2/100 (Unrated, #7 in city) | Full Time Grooming is a dog groomer in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/full-time-grooming-kansas-city/
+6. Full Time Grooming | Organic #6 | Pulse Score 55.1/100 (Unrated, #7 in city) | Full Time Grooming is a dog groomer in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/full-time-grooming-kansas-city/
 7. Doggie Style Pet Salon | Organic #7 | Pulse Score 54.8/100 (Unrated, #8 in city) | Doggie Style Pet Salon is a dog groomer in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/doggie-style-pet-salon-kansas-city/
 
 ## Market data (for advertisers and agents)

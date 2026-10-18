@@ -19,6 +19,6 @@ Crystal Yoga Studio is a yoga studio in Sugar Land, TX at 16525 Lexington Boulev
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/crystal-yoga-studio-sugar-land/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/crystal-yoga-studio-sugar-land.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13812884510 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13812884510 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

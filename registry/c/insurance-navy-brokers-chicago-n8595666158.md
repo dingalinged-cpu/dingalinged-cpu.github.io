@@ -13,7 +13,7 @@ Insurance Navy Brokers is an insurance agent in Chicago, IL at 210 South Clark S
 - Website: https://www.insurancenavy.com/locations/il/the-loop-chicago/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Pulse Score: 48.6/100 — Building — top 43% of insurance agents in Chicago, #46 of 108 insurance agents in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 43% of insurance agents in Chicago, #45 of 108 insurance agents in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

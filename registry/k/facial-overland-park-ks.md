@@ -6,7 +6,7 @@ Also answers: facial in Overland Park, KS; facial near me (Overland Park, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ulta Beauty | Organic #1 | Pulse Score 44.9/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Overland Park, KS at 11860 West 95th Street, Overland Park, KS 66214. Phone: +19138880397. Website: https://www.ulta.com/stores/overland-park-ks-641. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-overland-park/
+1. Ulta Beauty | Organic #1 | Pulse Score 44.8/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Overland Park, KS at 11860 West 95th Street, Overland Park, KS 66214. Phone: +19138880397. Website: https://www.ulta.com/stores/overland-park-ks-641. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-overland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial overland park ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

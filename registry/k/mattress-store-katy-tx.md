@@ -6,9 +6,9 @@ Also answers: mattress store in Katy, TX; mattress store near me (Katy, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress 1 One | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Mattress 1 One is a mattress store in Katy, TX at 22903 Morton Ranch Road, Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-1-one-katy/
-2. Mattress Firm | Organic #2 | Pulse Score 48.4/100 (Building, #2 in city) | Mattress Firm is a mattress store in Katy, TX at 24600 Katy Freeway #1300, Katy, TX 77494. Phone: +12816651630. Website: https://www.mattressfirm.com/en-us/stores/tx/katy/001197/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-katy-w509137956/
-3. Mattress Firm | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | Mattress Firm is a mattress store in Katy, TX at 6727 FM 1463 #220, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-katy/
+1. Mattress 1 One | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Mattress 1 One is a mattress store in Katy, TX at 22903 Morton Ranch Road, Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-1-one-katy/
+2. Mattress Firm | Organic #2 | Pulse Score 48.5/100 (Building, #2 in city) | Mattress Firm is a mattress store in Katy, TX at 24600 Katy Freeway #1300, Katy, TX 77494. Phone: +12816651630. Website: https://www.mattressfirm.com/en-us/stores/tx/katy/001197/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-katy-w509137956/
+3. Mattress Firm | Organic #3 | Pulse Score 43.6/100 (Building, #3 in city) | Mattress Firm is a mattress store in Katy, TX at 6727 FM 1463 #220, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store katy tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -6,8 +6,8 @@ Also answers: oil change in Roanoke, TX; oil change near me (Roanoke, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Take 5 Oil Change | Organic #1 | Pulse Score 49.1/100 (Building, #3 in city) | Take 5 Oil Change is an auto repair shop in Roanoke, TX at 1209 North US Highway 377, Roanoke, TX 76262. Phone: +18174127469. Website: https://www.take5.com/locations/oil-change/texas/roanoke/30821/. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-roanoke/
-2. Pep Boys | Organic #2 | Pulse Score 45.2/100 (Building, #7 in city) | Pep Boys is an auto repair shop in Roanoke, TX at 121 East State Highway 114, Roanoke, TX 76262. | https://registry-edge.dingalinged.workers.dev/c/pep-boys-roanoke/
+1. Take 5 Oil Change | Organic #1 | Pulse Score 49/100 (Building, #3 in city) | Take 5 Oil Change is an auto repair shop in Roanoke, TX at 1209 North US Highway 377, Roanoke, TX 76262. Phone: +18174127469. Website: https://www.take5.com/locations/oil-change/texas/roanoke/30821/. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-roanoke/
+2. Pep Boys | Organic #2 | Pulse Score 45.1/100 (Building, #7 in city) | Pep Boys is an auto repair shop in Roanoke, TX at 121 East State Highway 114, Roanoke, TX 76262. | https://registry-edge.dingalinged.workers.dev/c/pep-boys-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change roanoke tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

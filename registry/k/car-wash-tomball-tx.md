@@ -6,8 +6,8 @@ Also answers: car wash in Tomball, TX; car wash near me (Tomball, TX); best car 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Quick Quack Car Wash | Organic #1 | Pulse Score 48/100 (Building, #1 in city) | Quick Quack Car Wash is a car wash in Tomball, TX at 1001 West Main Street, Tomball, TX 77375. Website: https://www.dontdrivedirty.com/location/tomball. | https://registry-edge.dingalinged.workers.dev/c/quick-quack-car-wash-tomball/
-2. H-E-B Car Wash | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | H-E-B Car Wash is a car wash in Tomball, TX. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-tomball/
+1. Quick Quack Car Wash | Organic #1 | Pulse Score 47.9/100 (Building, #1 in city) | Quick Quack Car Wash is a car wash in Tomball, TX at 1001 West Main Street, Tomball, TX 77375. Website: https://www.dontdrivedirty.com/location/tomball. | https://registry-edge.dingalinged.workers.dev/c/quick-quack-car-wash-tomball/
+2. H-E-B Car Wash | Organic #2 | Pulse Score 45.5/100 (Building, #2 in city) | H-E-B Car Wash is a car wash in Tomball, TX. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash tomball tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

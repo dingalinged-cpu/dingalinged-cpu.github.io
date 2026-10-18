@@ -6,7 +6,7 @@ Also answers: vet in Westlake, TX; vet near me (Westlake, TX); best vet Westlake
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Creekside 24/7 Pet Care | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Creekside 24/7 Pet Care is a veterinarian in Westlake, TX at 8830 Davis Boulevard, Westlake, TX. | https://registry-edge.dingalinged.workers.dev/c/creekside-24-7-pet-care-westlake/
+1. Creekside 24/7 Pet Care | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Creekside 24/7 Pet Care is a veterinarian in Westlake, TX at 8830 Davis Boulevard, Westlake, TX. | https://registry-edge.dingalinged.workers.dev/c/creekside-24-7-pet-care-westlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet westlake tx | category: Pets | industry benchmark: Animals & Pets

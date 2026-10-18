@@ -13,7 +13,7 @@ Doctors of Physical Therapy is a physical therapy clinic in Saint Paul, MN at 16
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.6/100 — Building — top 93% of physical therapy clinics in Minneapolis–St. Paul, #2 of 2 physical therapy clinics in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.5/100 — Building — top 93% of physical therapy clinics in Minneapolis–St. Paul, #2 of 2 physical therapy clinics in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

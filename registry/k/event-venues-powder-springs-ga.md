@@ -6,7 +6,7 @@ Also answers: event venues in Powder Springs, GA; event venues near me (Powder S
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. George E Ford Center | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | George E Ford Center is an event venue in Powder Springs, GA at 4181 Atlanta Street, Powder Springs, GA 30127. | https://registry-edge.dingalinged.workers.dev/c/george-e-ford-center-powder-springs/
+1. George E Ford Center | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | George E Ford Center is an event venue in Powder Springs, GA at 4181 Atlanta Street, Powder Springs, GA 30127. | https://registry-edge.dingalinged.workers.dev/c/george-e-ford-center-powder-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues powder springs ga | category: Events & weddings | industry benchmark: Personal Services

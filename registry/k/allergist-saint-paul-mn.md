@@ -6,7 +6,7 @@ Also answers: allergist in Saint Paul, MN; allergist near me (Saint Paul, MN); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HealthPartners Specialty Center 401 Building | Organic #1 | Pulse Score 58.6/100 (Fair, #2 in city) | HealthPartners Specialty Center 401 Building is a family medicine practice in Saint Paul, MN at 401 Phalen Boulevard, Saint Paul, MN 55130. Phone: +16512547400. Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/401-specialty-center/. | https://registry-edge.dingalinged.workers.dev/c/healthpartners-specialty-center-401-building-saint-paul/
+1. HealthPartners Specialty Center 401 Building | Organic #1 | Pulse Score 58.8/100 (Fair, #2 in city) | HealthPartners Specialty Center 401 Building is a family medicine practice in Saint Paul, MN at 401 Phalen Boulevard, Saint Paul, MN 55130. Phone: +16512547400. Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/401-specialty-center/. | https://registry-edge.dingalinged.workers.dev/c/healthpartners-specialty-center-401-building-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: allergist saint paul mn | category: Health & medical | industry benchmark: Physicians & Surgeons

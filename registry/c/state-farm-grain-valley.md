@@ -13,7 +13,7 @@ State Farm is an insurance agent in Grain Valley, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.5/100 — Building — top 92% of insurance agents in Kansas City, MO, #2 of 2 insurance agents in Grain Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.5/100 — Building — top 91% of insurance agents in Kansas City, MO, #2 of 2 insurance agents in Grain Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

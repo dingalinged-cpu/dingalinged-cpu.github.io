@@ -13,7 +13,7 @@ The UPS Store is a printing service in Ankeny, IA at 2310 Southeast Delaware Ave
 - Website: https://ankeny-ia-4842.theupsstorelocal.com/
 - Email: store4842@theupsstore.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 48% of printing services in Des Moines, IA, #1 of 1 printing services in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 48% of printing services in Des Moines, IA, #1 of 1 printing services in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Collision Tech is an auto repair shop in Cobb County, GA at 2115 Cobb Parkway, C
 - Website: https://www.collisiontech.com/
 - Email: office@collisiontech.com
 - Opening hours (OSM syntax): Mo-Th 09:00-06:00; Fr 09:00-05:00; Sa "by appointment"; Su off
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 13% of auto repair shops in Atlanta, #24 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 13% of auto repair shops in Atlanta, #23 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Primary Image Ltd. | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Primary Image Ltd. is a photographer in Des Moines, IA at 2717 Ingersoll Avenue, Des Moines, IA 50312. Phone: +15152832102. Website: https://www.primaryimageltd.com/. | https://registry-edge.dingalinged.workers.dev/c/primary-image-ltd-des-moines/
 2. The Creative Co. Studio | Organic #2 | Pulse Score 59/100 (Unrated, #3 in city) | The Creative Co. Studio is a photographer in Des Moines, IA at 118 Southeast 4th Street #119, Des Moines, IA 50309. Website: https://www.thecreativecodsm.com/. | https://registry-edge.dingalinged.workers.dev/c/the-creative-co-studio-des-moines/
 3. Jason Thomas Crocker Photography | Organic #3 | Pulse Score 59/100 (Unrated, #2 in city) | Jason Thomas Crocker Photography is a photographer in Des Moines, IA at 319 7th Street #103, Des Moines, IA 50309. | https://registry-edge.dingalinged.workers.dev/c/jason-thomas-crocker-photography-des-moines/
-4. Alexander's Photo | Organic #4 | Pulse Score 56.2/100 (Unrated, #4 in city) | Alexander's Photo is a photographer in Des Moines, IA at 3313 Ingersoll Avenue, Des Moines, IA 50312. | https://registry-edge.dingalinged.workers.dev/c/alexanders-photo-des-moines/
+4. Alexander's Photo | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Alexander's Photo is a photographer in Des Moines, IA at 3313 Ingersoll Avenue, Des Moines, IA 50312. | https://registry-edge.dingalinged.workers.dev/c/alexanders-photo-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer des moines ia | category: Events & weddings | industry benchmark: Personal Services

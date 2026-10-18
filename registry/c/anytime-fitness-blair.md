@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Blair, NE at 1844 Washington Street, Blair, NE 68008
 - Website: https://www.anytimefitness.com/gyms/1692/blair-ne-68008/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.1/100 — Fair — top 49% of gyms in Omaha, NE, #1 of 1 gyms in Blair (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 49% of gyms in Omaha, NE, #1 of 1 gyms in Blair (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

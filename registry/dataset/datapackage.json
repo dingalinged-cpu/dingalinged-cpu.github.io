@@ -18,6 +18,10 @@
    "format": "csv"
   },
   {
+   "path": "city/abilene-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/acworth-ga.jsonl",
    "format": "jsonl"
   },
@@ -46,11 +50,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/adkins-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/affton-mo.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/alamo-heights-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/alamo-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/albertville-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/aledo-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -75,6 +95,10 @@
   },
   {
    "path": "city/allen-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/alma-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -114,6 +138,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/amarillo-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/ambridge-pa.jsonl",
    "format": "jsonl"
   },
@@ -142,11 +170,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/angelina-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/angleton-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/ankeny-ia.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/anna-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/anoka-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/anthony-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -222,6 +266,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/atascosa-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/atlanta-ga.jsonl",
    "format": "jsonl"
   },
@@ -250,6 +298,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/austin-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/austin-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/avalon-pa.jsonl",
    "format": "jsonl"
   },
@@ -262,6 +318,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/azle-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/bacliff-tx.jsonl",
    "format": "jsonl"
   },
@@ -271,6 +331,10 @@
   },
   {
    "path": "city/balch-springs-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/balcones-heights-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -290,11 +354,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/bandera-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bandera-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/bannockburn-il.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/bargersville-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/barling-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -322,6 +398,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/bastrop-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bastrop-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/batavia-oh.jsonl",
    "format": "jsonl"
   },
@@ -342,6 +426,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/beaumont-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/beaver-pa.jsonl",
    "format": "jsonl"
   },
@@ -354,11 +442,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/bee-cave-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/beebe-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/beech-grove-in.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/bel-aire-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bell-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bella-vista-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -406,6 +510,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/bellmead-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/bellwood-il.jsonl",
    "format": "jsonl"
   },
@@ -414,7 +522,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/belton-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/ben-avon-pa.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/benbrook-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -438,7 +554,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/benton-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/benton-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bentonville-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -478,6 +602,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/bertram-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/berwyn-il.jsonl",
    "format": "jsonl"
   },
@@ -490,7 +618,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/beverly-hills-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bexar-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/bexley-oh.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/big-rock-township-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -558,6 +698,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/boerne-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/bolingbrook-il.jsonl",
    "format": "jsonl"
   },
@@ -607,6 +751,10 @@
   },
   {
    "path": "city/brentwood-pa.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bridge-city-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -690,7 +838,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/brownsville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bryan-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bryant-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/buckner-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/buda-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -702,7 +866,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/bulverde-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/burbank-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/burleson-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -730,11 +902,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/cabot-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/caddo-mills-tx.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/cahokia-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/caldwell-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -766,6 +946,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/cameron-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/campbell-county-ky.jsonl",
    "format": "jsonl"
   },
@@ -783,6 +967,14 @@
   },
   {
    "path": "city/canton-township-pa.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/canutillo-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/canyon-lake-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -830,6 +1022,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/castle-hills-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/castle-pines-co.jsonl",
    "format": "jsonl"
   },
@@ -842,11 +1038,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/castroville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/cave-springs-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/cecil-township-pa.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/cedar-creek-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/cedar-hill-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/cedar-park-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -866,11 +1078,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/center-point-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/center-township-pa.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/centerburg-oh.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/centerton-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -970,6 +1190,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/cibolo-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/cicero-il.jsonl",
    "format": "jsonl"
   },
@@ -1042,6 +1266,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/cleburne-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/clermont-in.jsonl",
    "format": "jsonl"
   },
@@ -1054,6 +1282,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/clint-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/clinton-township-mi.jsonl",
    "format": "jsonl"
   },
@@ -1063,6 +1295,10 @@
   },
   {
    "path": "city/clive-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/clute-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1083,6 +1319,10 @@
   },
   {
    "path": "city/college-park-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/college-station-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1142,6 +1382,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/comal-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/comfort-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/commerce-charter-township-mi.jsonl",
    "format": "jsonl"
   },
@@ -1162,6 +1410,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/converse-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/conway-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/conyers-ga.jsonl",
    "format": "jsonl"
   },
@@ -1174,6 +1430,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/copperas-cove-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/coraopolis-pa.jsonl",
    "format": "jsonl"
   },
@@ -1183,6 +1443,18 @@
   },
   {
    "path": "city/corinth-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/corpus-christi-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/corsicana-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/coryell-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1203,6 +1475,10 @@
   },
   {
    "path": "city/countryside-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/coupland-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1266,6 +1542,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/crowley-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/crown-point-in.jsonl",
    "format": "jsonl"
   },
@@ -1302,6 +1582,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/dale-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/dallas-county-tx.jsonl",
    "format": "jsonl"
   },
@@ -1318,11 +1602,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/danbury-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/dane-county-wi.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/danville-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dardanelle-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -1394,11 +1686,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/del-rio-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/del-valle-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/delaware-oh.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/delhi-township-oh.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/denison-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1438,6 +1742,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/devine-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/dickenson-tx.jsonl",
    "format": "jsonl"
   },
@@ -1455,6 +1763,10 @@
   },
   {
    "path": "city/dolton-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/donna-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1494,6 +1806,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/driftwood-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dripping-springs-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/dublin-oh.jsonl",
    "format": "jsonl"
   },
@@ -1527,6 +1847,10 @@
   },
   {
    "path": "city/eagan-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/eagle-pass-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1570,6 +1894,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/edcouch-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/eden-prairie-mn.jsonl",
    "format": "jsonl"
   },
@@ -1606,7 +1934,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/edinburg-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/edwardsville-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/el-paso-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/el-paso-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1619,6 +1959,10 @@
   },
   {
    "path": "city/elbing-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/elgin-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1646,6 +1990,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/elkins-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/ellis-county-tx.jsonl",
    "format": "jsonl"
   },
@@ -1670,6 +2018,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/elsa-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/elsah-il.jsonl",
    "format": "jsonl"
   },
@@ -1683,6 +2035,10 @@
   },
   {
    "path": "city/emsworth-pa.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/england-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -1750,6 +2106,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/fabens-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/fairburn-ga.jsonl",
    "format": "jsonl"
   },
@@ -1802,6 +2162,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/falls-city-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/farley-mo.jsonl",
    "format": "jsonl"
   },
@@ -1811,6 +2175,10 @@
   },
   {
    "path": "city/farmersville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/farmington-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -1826,11 +2194,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/faulkner-county-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/fawn-township-pa.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/fayette-county-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fayetteville-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -1890,6 +2266,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/florence-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/floresville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/florissant-mo.jsonl",
    "format": "jsonl"
   },
@@ -1899,6 +2283,10 @@
   },
   {
    "path": "city/flower-mound-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/forest-hill-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1938,11 +2326,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/fort-bliss-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fort-bloss-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fort-hood-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/fort-lupton-co.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/fort-mitchell-ky.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fort-smith-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -2074,6 +2478,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/garden-ridge-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/gardner-ks.jsonl",
    "format": "jsonl"
   },
@@ -2091,6 +2499,14 @@
   },
   {
    "path": "city/genoa-township-oh.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/gentry-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/georgetown-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2158,6 +2574,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/godley-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/goergetown-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/golden-co.jsonl",
    "format": "jsonl"
   },
@@ -2206,6 +2630,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/granger-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/granite-city-il.jsonl",
    "format": "jsonl"
   },
@@ -2215,6 +2643,14 @@
   },
   {
    "path": "city/grapevine-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/gravette-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/grayson-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2258,6 +2694,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/greenland-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/greenville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/greenwood-in.jsonl",
    "format": "jsonl"
   },
@@ -2271,6 +2715,10 @@
   },
   {
    "path": "city/greenwood-village-co.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/gregg-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2318,11 +2766,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/groves-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/guadalupe-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/gwinnett-county-ga.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/gypsum-township-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hackberry-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2378,7 +2838,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/harker-heights-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/harlem-township-oh.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/harlingen-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2391,6 +2859,10 @@
   },
   {
    "path": "city/harris-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/harrison-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2434,7 +2906,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/haslet-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/hawthorn-woods-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hays-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2470,6 +2950,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/heidenheimer-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/helotes-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/hempfield-township-pa.jsonl",
    "format": "jsonl"
   },
@@ -2486,6 +2974,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/hewitt-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/hickory-creek-tx.jsonl",
    "format": "jsonl"
   },
@@ -2494,7 +2986,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/hidalgo-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/high-ridge-township-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/highfill-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -2527,6 +3027,14 @@
   },
   {
    "path": "city/highwood-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hill-country-village-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hill-township-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -2578,6 +3086,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/hollywood-park-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/homer-glen-il.jsonl",
    "format": "jsonl"
   },
@@ -2602,11 +3114,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/horizon-city-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hot-springs-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/houston-tx.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/hudson-co.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hudson-oaks-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2630,6 +3154,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/huntsville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/huron-charter-township-mi.jsonl",
    "format": "jsonl"
   },
@@ -2639,6 +3167,10 @@
   },
   {
    "path": "city/hutchinson-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hutto-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2686,6 +3218,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/ingleside-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/ingram-pa.jsonl",
    "format": "jsonl"
   },
@@ -2722,11 +3258,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/jacksonville-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/jarrell-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/jefferson-city-mo.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/jefferson-county-co.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/jefferson-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2758,11 +3306,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/johnson-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/johnson-county-in.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/johnson-county-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/johnson-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2778,11 +3334,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/jonesboro-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/jonesboro-ga.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/jonestown-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/joplin-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/joshua-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2834,6 +3402,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/kempner-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/kendalia-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/kenilworth-il.jsonl",
    "format": "jsonl"
   },
@@ -2854,7 +3430,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/kerrville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/kildeer-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/killeen-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2870,11 +3454,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/kirby-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/kirkwood-mo.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/knollwood-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/krum-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/kyle-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2894,7 +3490,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/la-vernia-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/la-vista-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lacy-lakeview-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2903,6 +3507,14 @@
   },
   {
    "path": "city/lafayette-co.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lago-vista-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/laguna-vista-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2930,6 +3542,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lake-jackson-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lake-saint-louis-mo.jsonl",
    "format": "jsonl"
   },
@@ -2938,7 +3554,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lake-worth-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lake-zurich-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lakehills-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2951,6 +3575,10 @@
   },
   {
    "path": "city/lakeside-park-ky.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lakeway-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -2979,6 +3607,10 @@
   },
   {
    "path": "city/laplatte-i-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/laredo-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -3030,6 +3662,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/leander-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/leavenworth-county-ks.jsonl",
    "format": "jsonl"
   },
@@ -3074,6 +3710,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/leon-valley-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lewis-township-ia.jsonl",
    "format": "jsonl"
   },
@@ -3083,6 +3723,14 @@
   },
   {
    "path": "city/leyden-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/liberty-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/liberty-hill-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -3162,7 +3810,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/little-rock-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/littleton-co.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/live-oak-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -3171,6 +3827,10 @@
   },
   {
    "path": "city/lochbuie-co.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lockhart-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -3183,6 +3843,10 @@
   },
   {
    "path": "city/lombard-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/london-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -3210,7 +3874,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/longview-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lonoke-county-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/loretto-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/los-fresnos-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -3234,7 +3910,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lowell-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lower-burrell-pa.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lubbock-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lubbock-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -3243,6 +3931,10 @@
   },
   {
    "path": "city/ludlow-ky.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lufkin-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -3255,6 +3947,10 @@
   },
   {
    "path": "city/lyons-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lytle-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -3314,6 +4010,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/manchaca-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/manchester-mo.jsonl",
    "format": "jsonl"
   },
@@ -3327,6 +4027,10 @@
   },
   {
    "path": "city/manor-pa.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/manor-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -3378,6 +4082,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/marion-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/markham-il.jsonl",
    "format": "jsonl"
   },
@@ -3422,7 +4130,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/maumelle-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/maxwell-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mayflower-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -3431,6 +4147,10 @@
   },
   {
    "path": "city/mazomanie-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mcallen-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -3471,6 +4191,10 @@
   },
   {
    "path": "city/mckinney-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mclennan-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -3550,6 +4274,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/midland-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/midland-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/midlothian-il.jsonl",
    "format": "jsonl"
   },
@@ -3607,6 +4339,10 @@
   },
   {
    "path": "city/mission-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mission-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -3782,11 +4518,35 @@
    "format": "jsonl"
   },
   {
+   "path": "city/n-austin-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/nacogdoches-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/naperville-il.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/nash-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/nassau-bay-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/natalia-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/navarro-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/nederland-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -3811,6 +4571,10 @@
   },
   {
    "path": "city/new-berlin-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/new-braunfels-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -3902,6 +4666,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/nolanville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/noonday-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/norcross-ga.jsonl",
    "format": "jsonl"
   },
@@ -3947,6 +4719,10 @@
   },
   {
    "path": "city/north-kansas-city-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/north-little-rock-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -4090,6 +4866,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/odessa-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/ohio-county-in.jsonl",
    "format": "jsonl"
   },
@@ -4103,6 +4883,14 @@
   },
   {
    "path": "city/olivette-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/olmito-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/olmos-park-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -4170,6 +4958,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/palmhurst-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/palmview-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/palos-heights-il.jsonl",
    "format": "jsonl"
   },
@@ -4198,7 +4994,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/paragould-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/paris-township-oh.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/paris-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -4219,6 +5023,10 @@
   },
   {
    "path": "city/parker-co.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/parker-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -4258,6 +5066,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/penitas-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/penn-hills-pa.jsonl",
    "format": "jsonl"
   },
@@ -4282,6 +5094,18 @@
    "format": "jsonl"
   },
   {
+   "path": "city/peñitas-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/pflugerville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/pharr-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/phoenix-il.jsonl",
    "format": "jsonl"
   },
@@ -4294,11 +5118,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/pine-bluff-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/pine-township-pa.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/pinehurst-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/pipe-creek-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -4374,6 +5206,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/pleasant-valley-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/pleasanton-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/pleasantville-oh.jsonl",
    "format": "jsonl"
   },
@@ -4410,7 +5250,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/port-aransas-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/port-arthur-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/port-bolivar-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/port-neches-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -4426,11 +5278,31 @@
    "format": "jsonl"
   },
   {
+   "path": "city/portland-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/posen-il.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/poteet-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/poth-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/pottawatomie-county-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/pottsboro-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/pottsville-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -4439,6 +5311,10 @@
   },
   {
    "path": "city/powell-oh.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/prairie-grove-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -4451,6 +5327,10 @@
   },
   {
    "path": "city/princeton-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/progreso-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -4479,6 +5359,14 @@
   },
   {
    "path": "city/ramsey-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/randall-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/randolph-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -4515,6 +5403,10 @@
   },
   {
    "path": "city/reynoldsburg-oh.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/rhome-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -4566,7 +5458,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/richwood-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/riley-county-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/rio-medina-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -4630,6 +5530,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/robinson-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/robstown-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/rochester-hills-mi.jsonl",
    "format": "jsonl"
   },
@@ -4678,11 +5586,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/rogers-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/rogers-mn.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/rolling-meadows-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/rollingwood-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -4742,6 +5658,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/round-rock-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/rowlett-tx.jsonl",
    "format": "jsonl"
   },
@@ -4758,11 +5678,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/russellville-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/sachse-tx.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/saginaw-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/saginaw-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -4834,6 +5762,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/salado-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/salina-ks.jsonl",
    "format": "jsonl"
   },
@@ -4846,11 +5778,39 @@
    "format": "jsonl"
   },
   {
+   "path": "city/san-angelo-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/san-antonio-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/san-benito-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/san-elizario-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/san-felipe-tx.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/san-juan-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/san-marcos-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/sandy-springs-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/sanger-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -4882,7 +5842,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/schertz-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/schiller-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/scott-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -4910,7 +5878,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/sebastian-county-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/sedgwick-county-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/seguin-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/selma-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -4934,6 +5914,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/shallowater-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/sharonville-oh.jsonl",
    "format": "jsonl"
   },
@@ -4943,6 +5927,10 @@
   },
   {
    "path": "city/sharpsburg-pa.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/shavano-park-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -4982,6 +5970,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/sherman-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/sherwood-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/shiloh-il.jsonl",
    "format": "jsonl"
   },
@@ -5003,6 +5999,10 @@
   },
   {
    "path": "city/shrewsbury-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/siloam-springs-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -5034,6 +6034,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/smith-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/smithville-mo.jsonl",
    "format": "jsonl"
   },
@@ -5043,6 +6047,10 @@
   },
   {
    "path": "city/snellville-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/socorro-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -5122,6 +6130,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/southmayd-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/southport-in.jsonl",
    "format": "jsonl"
   },
@@ -5142,7 +6154,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/spicewood-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/splendora-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/spring-branch-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -5163,6 +6183,10 @@
   },
   {
    "path": "city/spring-valley-village-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/springdale-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -5302,6 +6326,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/sunset-valley-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/superior-co.jsonl",
    "format": "jsonl"
   },
@@ -5338,7 +6366,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/tarrant-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/tate-township-oh.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/taylor-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -5350,11 +6386,31 @@
    "format": "jsonl"
   },
   {
+   "path": "city/taylor-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/tecumseh-mi.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/temple-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/terrell-hills-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/terrell-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/texarkana-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/texarkana-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -5363,6 +6419,10 @@
   },
   {
    "path": "city/the-colony-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/the-hills-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -5399,6 +6459,10 @@
   },
   {
    "path": "city/tonka-bay-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/tontitown-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -5538,6 +6602,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/travis-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/trenton-mi.jsonl",
    "format": "jsonl"
   },
@@ -5558,6 +6626,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/troy-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/truro-township-oh.jsonl",
    "format": "jsonl"
   },
@@ -5571,6 +6643,14 @@
   },
   {
    "path": "city/twin-oaks-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/tye-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/tyler-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -5603,6 +6683,10 @@
   },
   {
    "path": "city/union-township-pa.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/universal-city-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -5658,6 +6742,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/van-buren-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/van-buren-charter-township-mi.jsonl",
    "format": "jsonl"
   },
@@ -5691,6 +6779,10 @@
   },
   {
    "path": "city/victoria-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/victoria-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -5742,6 +6834,18 @@
    "format": "jsonl"
   },
   {
+   "path": "city/waco-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wake-village-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/walburg-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/wall-pa.jsonl",
    "format": "jsonl"
   },
@@ -5766,6 +6870,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/ward-ar.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/waring-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/warren-mi.jsonl",
    "format": "jsonl"
   },
@@ -5775,6 +6887,10 @@
   },
   {
    "path": "city/warrenville-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/washington-county-ar.jsonl",
    "format": "jsonl"
   },
   {
@@ -5850,6 +6966,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/weatherford-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/webb-city-mo.jsonl",
    "format": "jsonl"
   },
@@ -5859,6 +6979,10 @@
   },
   {
    "path": "city/webster-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/weir-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -5874,7 +6998,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/wells-branch-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/wentzville-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/weslaco-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -5911,6 +7043,10 @@
   },
   {
    "path": "city/west-jefferson-oh.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/west-lake-hills-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -5978,6 +7114,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/westworth-village-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/wharton-tx.jsonl",
    "format": "jsonl"
   },
@@ -6018,6 +7158,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/white-oak-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/white-settlement-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/whitefish-bay-wi.jsonl",
    "format": "jsonl"
   },
@@ -6030,6 +7178,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/whitehouse-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/whitestown-in.jsonl",
    "format": "jsonl"
   },
@@ -6039,6 +7191,10 @@
   },
   {
    "path": "city/whiting-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wichita-falls-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -6066,6 +7222,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/williamson-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/willis-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/willow-springs-il.jsonl",
    "format": "jsonl"
   },
@@ -6078,7 +7242,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/wimberley-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/winchester-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/windcrest-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -6111,6 +7283,10 @@
   },
   {
    "path": "city/wixom-mi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wolfforth-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -6150,6 +7326,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/woodway-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/worth-il.jsonl",
    "format": "jsonl"
   },
@@ -6159,6 +7339,10 @@
   },
   {
    "path": "city/worthington-oh.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wrightsville-ar.jsonl",
    "format": "jsonl"
   },
   {

@@ -19,6 +19,6 @@ Lee & Associates is a real estate agency in Dallas, TX at 14950 Quorum Drive, Da
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/lee-and-associates-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lee-and-associates-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/169287393 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/169287393 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

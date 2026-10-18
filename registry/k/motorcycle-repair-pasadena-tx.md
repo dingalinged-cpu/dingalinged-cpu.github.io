@@ -6,7 +6,7 @@ Also answers: motorcycle repair in Pasadena, TX; motorcycle repair near me (Pasa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Service Department | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Service Department is a motorcycle repair shop in Pasadena, TX. Phone: +17133640827. Website: https://www.stubbshd.com/Departments/Service-Department. | https://registry-edge.dingalinged.workers.dev/c/service-department-pasadena/
+1. Service Department | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Service Department is a motorcycle repair shop in Pasadena, TX. Phone: +17133640827. Website: https://www.stubbshd.com/Departments/Service-Department. | https://registry-edge.dingalinged.workers.dev/c/service-department-pasadena/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair pasadena tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

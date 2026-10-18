@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. $4 Express Car Wash | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | $4 Express Car Wash is a car wash in Grand Prairie, TX at 3949 South Belt Line Road, Grand Prairie, TX 75052. | https://registry-edge.dingalinged.workers.dev/c/4-express-car-wash-grand-prairie/
 2. Marquez Car Wash | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | Marquez Car Wash is a car wash in Grand Prairie, TX at 211 Southwest 3rd Street, Grand Prairie, TX 75051. | https://registry-edge.dingalinged.workers.dev/c/marquez-car-wash-grand-prairie/
-3. Kleen Car | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Kleen Car is a car wash in Grand Prairie, TX. | https://registry-edge.dingalinged.workers.dev/c/kleen-car-grand-prairie/
+3. Kleen Car | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Kleen Car is a car wash in Grand Prairie, TX. | https://registry-edge.dingalinged.workers.dev/c/kleen-car-grand-prairie/
 4. Scrub-A-Dub | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Scrub-A-Dub is a car wash in Grand Prairie, TX. | https://registry-edge.dingalinged.workers.dev/c/scrub-a-dub-grand-prairie/
 5. Wash Masters | Organic #5 | Pulse Score 49.8/100 (Unrated, #5 in city) | Wash Masters is a car wash in Grand Prairie, TX at 3190 Lynn Creek Parkway, Grand Prairie, TX 75052. | https://registry-edge.dingalinged.workers.dev/c/wash-masters-grand-prairie/
 

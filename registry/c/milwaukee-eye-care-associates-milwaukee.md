@@ -13,7 +13,7 @@ Milwaukee Eye Care Associates is an eye care practice in Milwaukee, WI at 1684 N
 - Website: https://www.milwaukeeeyecare.com/wisconsin/milwaukee-east-side-office-and-optical.htm
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 24% of eye care practices in Milwaukee, #1 of 4 eye care practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 24% of eye care practices in Milwaukee, #1 of 4 eye care practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 65.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

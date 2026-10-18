@@ -13,7 +13,7 @@ LSI Staffing is a staffing agency in Independence, MO at 3600 South Noland Road 
 - Website: https://lsistaffing.com/locations/independence-missouri
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 7% of staffing agencys in Kansas City, MO, #1 of 1 staffing agencys in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 7% of staffing agencys in Kansas City, MO, #1 of 1 staffing agencys in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

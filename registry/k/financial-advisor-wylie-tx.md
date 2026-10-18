@@ -6,7 +6,7 @@ Also answers: financial advisor in Wylie, TX; financial advisor near me (Wylie, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Community Wealth Advisors | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Community Wealth Advisors is a financial advisor in Wylie, TX at 109 North Ballard Avenue, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/community-wealth-advisors-wylie/
+1. Community Wealth Advisors | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Community Wealth Advisors is a financial advisor in Wylie, TX at 109 North Ballard Avenue, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/community-wealth-advisors-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor wylie tx | category: Professional & financial services | industry benchmark: Finance & Insurance

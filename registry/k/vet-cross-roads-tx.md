@@ -6,7 +6,7 @@ Also answers: vet in Cross Roads, TX; vet near me (Cross Roads, TX); best vet Cr
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Village Veterinary Center | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Village Veterinary Center is a veterinarian in Cross Roads, TX at 11930 Highway 380, Cross Roads, TX. | https://registry-edge.dingalinged.workers.dev/c/village-veterinary-center-cross-roads/
+1. Village Veterinary Center | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Village Veterinary Center is a veterinarian in Cross Roads, TX at 11930 Highway 380, Cross Roads, TX. | https://registry-edge.dingalinged.workers.dev/c/village-veterinary-center-cross-roads/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet cross roads tx | category: Pets | industry benchmark: Animals & Pets

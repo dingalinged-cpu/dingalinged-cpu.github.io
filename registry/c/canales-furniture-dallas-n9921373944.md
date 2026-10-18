@@ -13,12 +13,12 @@ Canales Furniture is a furniture store in Dallas, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43/100 — Unrated (not enough evidence yet) — top 83% of furniture stores in Dallas–Fort Worth, #23 of 30 furniture stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.8/100 — Unrated (not enough evidence yet) — top 98% of furniture stores in Dallas–Fort Worth, #32 of 32 furniture stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/canales-furniture-dallas-n9921373944/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/canales-furniture-dallas-n9921373944.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9921373944 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9921373944 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

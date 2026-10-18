@@ -6,7 +6,7 @@ Also answers: heating and air in La Grange Park, IL; heating and air near me (La
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Purco Heating & Air Conditioning | Organic #1 | Pulse Score 53.6/100 (Unrated, #1 in city) | Purco Heating & Air Conditioning is a HVAC contractor in La Grange Park, IL. | https://registry-edge.dingalinged.workers.dev/c/purco-heating-and-air-conditioning-la-grange-park/
+1. Purco Heating & Air Conditioning | Organic #1 | Pulse Score 53.5/100 (Unrated, #1 in city) | Purco Heating & Air Conditioning is a HVAC contractor in La Grange Park, IL. | https://registry-edge.dingalinged.workers.dev/c/purco-heating-and-air-conditioning-la-grange-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air la grange park il | category: Home Services | industry benchmark: Home & Home Improvement

@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. I-20 Liquor Depot | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | I-20 Liquor Depot is a liquor store in Balch Springs, TX at 13881 Interstate 20 #B, Balch Springs, TX 75181. | https://registry-edge.dingalinged.workers.dev/c/i-20-liquor-depot-balch-springs/
 4. Liquor Zone | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | Liquor Zone is a liquor store in Balch Springs, TX at 1820 Bruton Road, Balch Springs, TX 75180. | https://registry-edge.dingalinged.workers.dev/c/liquor-zone-balch-springs/
 5. Payless Liquor | Organic #5 | Pulse Score 56.9/100 (Unrated, #5 in city) | Payless Liquor is a liquor store in Balch Springs, TX at 2497 South Peachtree Road, Balch Springs, TX 75180. | https://registry-edge.dingalinged.workers.dev/c/payless-liquor-balch-springs/
-6. Liquor Depot | Organic #6 | Pulse Score 44.2/100 (Unrated, #6 in city) | Liquor Depot is a liquor store in Balch Springs, TX at 11709 Seagoville Road, Balch Springs, TX 75180. | https://registry-edge.dingalinged.workers.dev/c/liquor-depot-balch-springs/
+6. Liquor Depot | Organic #6 | Pulse Score 44.1/100 (Unrated, #6 in city) | Liquor Depot is a liquor store in Balch Springs, TX at 11709 Seagoville Road, Balch Springs, TX 75180. | https://registry-edge.dingalinged.workers.dev/c/liquor-depot-balch-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store balch springs tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

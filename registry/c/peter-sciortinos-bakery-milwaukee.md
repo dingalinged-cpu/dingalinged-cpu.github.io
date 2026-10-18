@@ -13,7 +13,7 @@ Peter Sciortino's Bakery is a bakery in Milwaukee, WI at 1101 East Brady Street,
 - Website: https://petersciortinosbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 07:00-17:00; Su 07:00-13:00; PH off
-- Pulse Score: 63/100 — Good — top 9% of bakerys in Milwaukee, #2 of 17 bakerys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 9% of bakerys in Milwaukee, #2 of 17 bakerys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

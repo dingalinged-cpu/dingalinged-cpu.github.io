@@ -13,12 +13,12 @@ Discount Tire is a tire shop in Little Elm, TX at 2990 FM 423, Little Elm, TX 75
 - Website: https://www.discounttire.com/store/tx/little-elm/s/1757
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su off
-- Pulse Score: 52.3/100 — Fair — top 46% of tire shops in Dallas–Fort Worth, #1 of 1 tire shops in Little Elm (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 68.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.2/100 — Fair — top 44% of tire shops in Dallas–Fort Worth, #1 of 1 tire shops in Little Elm (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 68.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-little-elm/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-little-elm.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/691317347 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/691317347 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

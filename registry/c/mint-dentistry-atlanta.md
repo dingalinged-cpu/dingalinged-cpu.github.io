@@ -13,7 +13,7 @@ Mint Dentistry is a dentist in Atlanta, GA at 1010 West Peachtree Street Northwe
 - Website: https://midtownatl.mintdentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30
-- Pulse Score: 50.2/100 — Fair — top 90% of dentists in Atlanta, #32 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 90% of dentists in Atlanta, #32 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

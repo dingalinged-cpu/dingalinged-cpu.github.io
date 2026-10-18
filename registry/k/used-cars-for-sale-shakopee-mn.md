@@ -6,7 +6,7 @@ Also answers: used cars for sale in Shakopee, MN; used cars for sale near me (Sh
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MGM Auto Sales | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | MGM Auto Sales is an used car dealer in Shakopee, MN at 804 1st Avenue East, Shakopee, MN 55379. Phone: +19522331631. Website: https://www.wheels-and-dealsmn.com/. | https://registry-edge.dingalinged.workers.dev/c/mgm-auto-sales-shakopee/
+1. MGM Auto Sales | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | MGM Auto Sales is an used car dealer in Shakopee, MN at 804 1st Avenue East, Shakopee, MN 55379. Phone: +19522331631. Website: https://www.wheels-and-dealsmn.com/. | https://registry-edge.dingalinged.workers.dev/c/mgm-auto-sales-shakopee/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale shakopee mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -6,7 +6,7 @@ Also answers: therapist in Rosenberg, TX; therapist near me (Rosenberg, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texana Center Behavioral Healthcare Clinic at Rosenberg | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Texana Center Behavioral Healthcare Clinic at Rosenberg is a therapy practice in Rosenberg, TX at 4910 Airport Road, Rosenberg, TX 77471. Phone: +12813426384. Website: https://www.texanacenter.com/. | https://registry-edge.dingalinged.workers.dev/c/texana-center-behavioral-healthcare-clinic-at-rosenberg-rosenberg/
+1. Texana Center Behavioral Healthcare Clinic at Rosenberg | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Texana Center Behavioral Healthcare Clinic at Rosenberg is a therapy practice in Rosenberg, TX at 4910 Airport Road, Rosenberg, TX 77471. Phone: +12813426384. Website: https://www.texanacenter.com/. | https://registry-edge.dingalinged.workers.dev/c/texana-center-behavioral-healthcare-clinic-at-rosenberg-rosenberg/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist rosenberg tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

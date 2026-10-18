@@ -13,7 +13,7 @@ Saint Paul Floral is a florist in Saint Paul, MN at 960 Payne Avenue, Saint Paul
 - Website: https://www.stpaulfloral.com/
 - Email: stpaulfloral@yahoo.com
 - Opening hours (OSM syntax): Mo-Fr 09:30-16:00; Sa 09:30-14:00; Su off
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 11% of florists in Minneapolis–St. Paul, #2 of 8 florists in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 11% of florists in Minneapolis–St. Paul, #2 of 8 florists in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

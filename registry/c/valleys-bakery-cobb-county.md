@@ -13,7 +13,7 @@ Valley's Bakery is a bakery in Cobb County, GA at 3205 Canton Road #133, Cobb Co
 - Website: https://valleysbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Su off; Tu-Sa 08:00-16:00
-- Pulse Score: 61.4/100 — Good — top 25% of bakerys in Atlanta, #4 of 8 bakerys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 24% of bakerys in Atlanta, #4 of 8 bakerys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

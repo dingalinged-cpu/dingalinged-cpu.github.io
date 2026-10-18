@@ -6,7 +6,7 @@ Also answers: allergist in Frisco, TX; allergist near me (Frisco, TX); best alle
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allergy & Asthma Center of Texas | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Allergy & Asthma Center of Texas is an allergist in Frisco, TX at 6946 Lebanon Road, Frisco, TX. Phone: +19723779987. Website: https://aactmd.com/. | https://registry-edge.dingalinged.workers.dev/c/allergy-and-asthma-center-of-texas-frisco/
+1. Allergy & Asthma Center of Texas | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Allergy & Asthma Center of Texas is an allergist in Frisco, TX at 6946 Lebanon Road, Frisco, TX. Phone: +19723779987. Website: https://aactmd.com/. | https://registry-edge.dingalinged.workers.dev/c/allergy-and-asthma-center-of-texas-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: allergist frisco tx | category: Health & medical | industry benchmark: Physicians & Surgeons

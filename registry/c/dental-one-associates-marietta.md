@@ -13,7 +13,7 @@ Dental One Associates is a dentist in Marietta, GA at 1275 Powers Ferry Road Sou
 - Website: https://www.dentalone-ga.com/dentist-office/marietta-ga-30067
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00; Sa-Su off
-- Pulse Score: 64.1/100 — Good — top 3% of dentists in Atlanta, #3 of 25 dentists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64/100 — Good — top 4% of dentists in Atlanta, #4 of 25 dentists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: auto body shop in Collin County, TX; auto body shop near me (Colli
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caliber Collision | Organic #1 | Pulse Score 43.5/100 (Building, #2 in city) | Caliber Collision is an auto repair shop in Collin County, TX. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-collin-county/
+1. Caliber Collision | Organic #1 | Pulse Score 43.4/100 (Building, #2 in city) | Caliber Collision is an auto repair shop in Collin County, TX. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-collin-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop collin county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Piedmont Bark Doggie Daycare is a dog boarding facility in Atlanta, GA at 501 Am
 - Website: https://www.piedmontbark.com/
 - Email: info@piedmontbark.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:30; Sa 08:00-17:00; Su 15:00-18:00
-- Pulse Score: 62.8/100 — Good — top 8% of dog boarding facilitys in Atlanta, #1 of 6 dog boarding facilitys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Good — top 8% of dog boarding facilitys in Atlanta, #1 of 6 dog boarding facilitys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

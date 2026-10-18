@@ -6,7 +6,7 @@ Also answers: primary care physician in Lenexa, KS; primary care physician near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. College Park Family Care Center | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | College Park Family Care Center is a family medicine practice in Lenexa, KS at 17050 West 96th Street, Lenexa, KS 66219. Phone: +19133591771. Website: https://collegeparkfamilycare.com/locations/prairie-star-parkway. | https://registry-edge.dingalinged.workers.dev/c/college-park-family-care-center-lenexa/
+1. College Park Family Care Center | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | College Park Family Care Center is a family medicine practice in Lenexa, KS at 17050 West 96th Street, Lenexa, KS 66219. Phone: +19133591771. Website: https://collegeparkfamilycare.com/locations/prairie-star-parkway. | https://registry-edge.dingalinged.workers.dev/c/college-park-family-care-center-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician lenexa ks | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ AAA Insurance is an insurance agent in Shawnee, KS at 15810 Shawnee Mission Park
 - Website: https://www.ace.aaa.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.7/100 — Building — top 49% of insurance agents in Kansas City, MO, #6 of 11 insurance agents in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 48% of insurance agents in Kansas City, MO, #6 of 11 insurance agents in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

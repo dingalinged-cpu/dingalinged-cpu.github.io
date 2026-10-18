@@ -6,7 +6,7 @@ Also answers: gift shop in Marshall, WI; gift shop near me (Marshall, WI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Steven's Rocks & Gifts | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Steven's Rocks & Gifts is a gift shop in Marshall, WI. | https://registry-edge.dingalinged.workers.dev/c/stevens-rocks-and-gifts-marshall/
+1. Steven's Rocks & Gifts | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Steven's Rocks & Gifts is a gift shop in Marshall, WI. | https://registry-edge.dingalinged.workers.dev/c/stevens-rocks-and-gifts-marshall/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop marshall wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -7,7 +7,7 @@ Also answers: brake repair in Frisco, TX; brake repair near me (Frisco, TX); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Christian Brothers Automotive Frisco West | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Christian Brothers Automotive Frisco West is an auto repair shop in Frisco, TX at 8110 FM 423, Frisco, TX 75034. Phone: +12147053341. Website: https://www.cbac.com/frisco-west/. | https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-frisco-west-frisco/
-2. Rexroad Mobile Auto Repair | Organic #2 | Pulse Score 51.4/100 (Fair, #10 in city) | Rexroad Mobile Auto Repair is an auto repair shop in Frisco, TX at 15922 Eldorado Parkway #500, Frisco, TX 75035. Phone: +14694694521. Website: https://www.rexroadauto.com/. | https://registry-edge.dingalinged.workers.dev/c/rexroad-mobile-auto-repair-frisco/
+2. Rexroad Mobile Auto Repair | Organic #2 | Pulse Score 51.4/100 (Fair, #11 in city) | Rexroad Mobile Auto Repair is an auto repair shop in Frisco, TX at 15922 Eldorado Parkway #500, Frisco, TX 75035. Phone: +14694694521. Website: https://www.rexroadauto.com/. | https://registry-edge.dingalinged.workers.dev/c/rexroad-mobile-auto-repair-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: brake repair frisco tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

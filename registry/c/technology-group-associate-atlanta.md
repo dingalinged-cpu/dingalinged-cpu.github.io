@@ -13,7 +13,7 @@ Technology Group Associate is an IT support company in Atlanta, GA at 6675 Peach
 - Website: https://technologygroupassociates.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 10% of IT support companys in Atlanta, #1 of 6 IT support companys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 15% of IT support companys in Atlanta, #1 of 6 IT support companys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

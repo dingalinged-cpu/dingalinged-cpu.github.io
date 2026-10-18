@@ -8,17 +8,17 @@ Caliber Collision is an auto repair shop in Lewisville, TX at 1230 Justin Road, 
 - City: Lewisville
 - State: TX
 - ZIP: 75077
-- Coordinates: 33.0707947, -97.0243592
+- Coordinates: 33.0707946, -97.0243592
 - Phone: +19723170493
 - Website: https://www.caliber.com/find-a-location/flower-mound
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30
-- Pulse Score: 50.3/100 — Fair — top 57% of auto repair shops in Dallas–Fort Worth, #17 of 29 auto repair shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.7/100 — Fair — top 54% of auto repair shops in Dallas–Fort Worth, #15 of 31 auto repair shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 66.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/caliber-collision-lewisville/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/caliber-collision-lewisville.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1113160403 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1113160403 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

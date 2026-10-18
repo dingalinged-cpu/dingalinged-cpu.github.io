@@ -6,7 +6,7 @@ Also answers: primary care physician in Frankfort, IL; primary care physician ne
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Riverside Healthcare Frankfort Campus | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Riverside Healthcare Frankfort Campus is a family medicine practice in Frankfort, IL at 23120 South La Grange Road, Frankfort, IL 60423. Phone: +18154645440. Website: https://www.riversidehealthcare.org/location/riverside-healthcare-frankfort-campus. | https://registry-edge.dingalinged.workers.dev/c/riverside-healthcare-frankfort-campus-frankfort/
+1. Riverside Healthcare Frankfort Campus | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Riverside Healthcare Frankfort Campus is a family medicine practice in Frankfort, IL at 23120 South La Grange Road, Frankfort, IL 60423. Phone: +18154645440. Website: https://www.riversidehealthcare.org/location/riverside-healthcare-frankfort-campus. | https://registry-edge.dingalinged.workers.dev/c/riverside-healthcare-frankfort-campus-frankfort/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician frankfort il | category: Health & medical | industry benchmark: Physicians & Surgeons

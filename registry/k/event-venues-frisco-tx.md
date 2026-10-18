@@ -1,4 +1,4 @@
-The top unpaid event venues listing for Frisco, TX is Frisco Flyers (an event venue in Frisco, TX). 2 event venues businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Frisco, TX is Frisco Flyers (an event venue in Frisco, TX at 6300 Flyers Way, Frisco, TX). 2 event venues businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Frisco, TX?
 
@@ -6,7 +6,7 @@ Also answers: event venues in Frisco, TX; event venues near me (Frisco, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Frisco Flyers | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Frisco Flyers is an event venue in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/frisco-flyers-frisco/
+1. Frisco Flyers | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Frisco Flyers is an event venue in Frisco, TX at 6300 Flyers Way, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/frisco-flyers-frisco/
 2. Grandion Event Venue | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Grandion Event Venue is an event venue in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/grandion-event-venue-frisco/
 
 ## Market data (for advertisers and agents)

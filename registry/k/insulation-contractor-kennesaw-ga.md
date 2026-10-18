@@ -6,7 +6,7 @@ Also answers: insulation contractor in Kennesaw, GA; insulation contractor near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Foster Insulation | Organic #1 | Pulse Score 59.9/100 (Fair, #1 in city) | Foster Insulation is an insulation contractor in Kennesaw, GA at 2525 South Main Street #101, Kennesaw, GA. Phone: +17704246548. Website: https://fosterinsulation.net/. | https://registry-edge.dingalinged.workers.dev/c/foster-insulation-kennesaw/
+1. Foster Insulation | Organic #1 | Pulse Score 60.9/100 (Good, #1 in city) | Foster Insulation is an insulation contractor in Kennesaw, GA at 2525 South Main Street #101, Kennesaw, GA. Phone: +17704246548. Website: https://fosterinsulation.net/. | https://registry-edge.dingalinged.workers.dev/c/foster-insulation-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: insulation contractor kennesaw ga | category: Home services - Insulation | industry benchmark: Home & Home Improvement

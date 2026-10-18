@@ -6,7 +6,7 @@ Also answers: martial arts in South Milwaukee, WI; martial arts near me (South M
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sorce Martial Arts | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Sorce Martial Arts is a martial arts school in South Milwaukee, WI. | https://registry-edge.dingalinged.workers.dev/c/sorce-martial-arts-south-milwaukee/
+1. Sorce Martial Arts | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Sorce Martial Arts is a martial arts school in South Milwaukee, WI. | https://registry-edge.dingalinged.workers.dev/c/sorce-martial-arts-south-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts south milwaukee wi | category: Fitness | industry benchmark: Health & Fitness

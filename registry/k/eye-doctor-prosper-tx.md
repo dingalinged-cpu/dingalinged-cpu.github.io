@@ -6,7 +6,7 @@ Also answers: eye doctor in Prosper, TX; eye doctor near me (Prosper, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. EyeDeal Eye Care | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | EyeDeal Eye Care is an eye care practice in Prosper, TX at 4940 West University Drive #70, Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/eyedeal-eye-care-prosper/
+1. EyeDeal Eye Care | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | EyeDeal Eye Care is an eye care practice in Prosper, TX at 4940 West University Drive #70, Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/eyedeal-eye-care-prosper/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor prosper tx | category: Health & medical | industry benchmark: Physicians & Surgeons

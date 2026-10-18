@@ -6,7 +6,7 @@ Also answers: family doctor in Lino Lakes, MN; family doctor near me (Lino Lakes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. North Suburban Family Physicians Clinic | Organic #1 | Pulse Score 59.7/100 (Fair, #1 in city) | North Suburban Family Physicians Clinic is a family medicine practice in Lino Lakes, MN at 576 Apollo Drive, Lino Lakes, MN 55014. Phone: +19529676620. Website: https://www.healthpartners.com/care/find/location/primary-care-clinics/healthpartners-north-suburban-family-physicians/lino-lakes/. | https://registry-edge.dingalinged.workers.dev/c/north-suburban-family-physicians-clinic-lino-lakes/
+1. North Suburban Family Physicians Clinic | Organic #1 | Pulse Score 59.8/100 (Fair, #1 in city) | North Suburban Family Physicians Clinic is a family medicine practice in Lino Lakes, MN at 576 Apollo Drive, Lino Lakes, MN 55014. Phone: +19529676620. Website: https://www.healthpartners.com/care/find/location/primary-care-clinics/healthpartners-north-suburban-family-physicians/lino-lakes/. | https://registry-edge.dingalinged.workers.dev/c/north-suburban-family-physicians-clinic-lino-lakes/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor lino lakes mn | category: Health & medical | industry benchmark: Physicians & Surgeons

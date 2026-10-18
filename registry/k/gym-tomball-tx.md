@@ -6,9 +6,9 @@ Also answers: gym in Tomball, TX; gym near me (Tomball, TX); best gym Tomball, T
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Master Kim's PMA Taekwondo | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Master Kim's PMA Taekwondo is a gym in Tomball, TX at 25201 Kuykendahl Road #600, Tomball, TX 77375. Phone: +18327824414. Website: https://www.pmatkd.com/. | https://registry-edge.dingalinged.workers.dev/c/master-kims-pma-taekwondo-tomball/
-2. True Form Gym | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | True Form Gym is a gym in Tomball, TX at 205 Houston Street, Tomball, TX 77375. Phone: +13466768720. Website: https://trueformgym.com/. | https://registry-edge.dingalinged.workers.dev/c/true-form-gym-tomball/
-3. CrossFit | Organic #3 | Pulse Score 48.2/100 (Building, #3 in city) | CrossFit is a gym in Tomball, TX at 29935 Tomball Parkway, Tomball, TX 77375. Phone: +18323384656. Website: https://crossfitigneous.com/. | https://registry-edge.dingalinged.workers.dev/c/crossfit-tomball/
+1. Master Kim's PMA Taekwondo | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Master Kim's PMA Taekwondo is a gym in Tomball, TX at 25201 Kuykendahl Road #600, Tomball, TX 77375. Phone: +18327824414. Website: https://www.pmatkd.com/. | https://registry-edge.dingalinged.workers.dev/c/master-kims-pma-taekwondo-tomball/
+2. True Form Gym | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | True Form Gym is a gym in Tomball, TX at 205 Houston Street, Tomball, TX 77375. Phone: +13466768720. Website: https://trueformgym.com/. | https://registry-edge.dingalinged.workers.dev/c/true-form-gym-tomball/
+3. CrossFit | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | CrossFit is a gym in Tomball, TX at 29935 Tomball Parkway, Tomball, TX 77375. Phone: +18323384656. Website: https://crossfitigneous.com/. | https://registry-edge.dingalinged.workers.dev/c/crossfit-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym tomball tx | category: Fitness | industry benchmark: Health & Fitness

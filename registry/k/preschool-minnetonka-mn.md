@@ -6,7 +6,7 @@ Also answers: preschool in Minnetonka, MN; preschool near me (Minnetonka, MN); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Everbrook Academy | Organic #1 | Pulse Score 43.2/100 (Building, #1 in city) | Everbrook Academy is a preschool in Minnetonka, MN. | https://registry-edge.dingalinged.workers.dev/c/everbrook-academy-minnetonka/
+1. Everbrook Academy | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | Everbrook Academy is a preschool in Minnetonka, MN. | https://registry-edge.dingalinged.workers.dev/c/everbrook-academy-minnetonka/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool minnetonka mn | category: Education & childcare | industry benchmark: Education & Instruction

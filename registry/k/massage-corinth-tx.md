@@ -6,7 +6,7 @@ Also answers: massage in Corinth, TX; massage near me (Corinth, TX); best massag
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage Envy | Organic #1 | Pulse Score 44.8/100 (Building, #1 in city) | Massage Envy is a massage studio in Corinth, TX at 4451 Swisher Road #Suite 130, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-corinth/
+1. Massage Envy | Organic #1 | Pulse Score 44.7/100 (Building, #1 in city) | Massage Envy is a massage studio in Corinth, TX at 4451 Swisher Road #Suite 130, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-corinth/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage corinth tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

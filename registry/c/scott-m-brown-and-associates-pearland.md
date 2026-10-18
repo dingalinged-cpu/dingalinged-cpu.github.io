@@ -13,12 +13,12 @@ Scott M. Brown & Associates is a lawyer in Pearland, TX at 6302 Broadway St ##25
 - Website: https://sbrownlawyer.com/pearland/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Houston, #2 of 2 lawyers in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.3/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Houston, #2 of 2 lawyers in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/scott-m-brown-and-associates-pearland/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/scott-m-brown-and-associates-pearland.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13016341807 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13016341807 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

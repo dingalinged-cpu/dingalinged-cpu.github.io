@@ -6,8 +6,8 @@ Also answers: gym in Rowlett, TX; gym near me (Rowlett, TX); best gym Rowlett, T
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sideline Sports | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Sideline Sports is a gym in Rowlett, TX at 3806 Melcer Drive, Rowlett, TX 75088. Website: https://sidelinesports.org/. | https://registry-edge.dingalinged.workers.dev/c/sideline-sports-rowlett/
-2. LA Fitness | Organic #2 | Pulse Score 44.3/100 (Building, #2 in city) | LA Fitness is a gym in Rowlett, TX at 4401 Lakeview Parkway, Rowlett, TX 75088. | https://registry-edge.dingalinged.workers.dev/c/la-fitness-rowlett/
+1. Sideline Sports | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Sideline Sports is a gym in Rowlett, TX at 3806 Melcer Drive, Rowlett, TX 75088. Website: https://sidelinesports.org/. | https://registry-edge.dingalinged.workers.dev/c/sideline-sports-rowlett/
+2. LA Fitness | Organic #2 | Pulse Score 44.1/100 (Building, #2 in city) | LA Fitness is a gym in Rowlett, TX at 4401 Lakeview Parkway, Rowlett, TX 75088. | https://registry-edge.dingalinged.workers.dev/c/la-fitness-rowlett/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym rowlett tx | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Tommy's Express is a car wash in Bellevue, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.5/100 — Unrated (not enough evidence yet) — top 97% of car washes in Omaha, NE, #11 of 11 car washes in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.5/100 — Unrated (not enough evidence yet) — top 97% of car washes in Omaha, NE, #11 of 11 car washes in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

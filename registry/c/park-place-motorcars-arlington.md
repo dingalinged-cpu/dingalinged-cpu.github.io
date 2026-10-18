@@ -19,6 +19,6 @@ Park Place Motorcars is an used car dealer in Arlington, TX at 4201 Beltway Plac
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/park-place-motorcars-arlington/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/park-place-motorcars-arlington.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/555272623 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/555272623 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

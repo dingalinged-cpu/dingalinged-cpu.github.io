@@ -13,7 +13,7 @@ Relax & Wax is a waxing salon in Atlanta, GA at 2980 Cobb Parkway South, Atlanta
 - Website: https://www.relaxandwax.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-17:00
-- Pulse Score: 48.3/100 — Building — top 84% of waxing salons in Atlanta, #3 of 5 waxing salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 84% of waxing salons in Atlanta, #3 of 5 waxing salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

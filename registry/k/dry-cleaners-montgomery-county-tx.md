@@ -6,7 +6,7 @@ Also answers: dry cleaners in Montgomery County, TX; dry cleaners near me (Montg
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tran Cleaners | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Tran Cleaners is a dry cleaner in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/tran-cleaners-montgomery-county/
+1. Tran Cleaners | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Tran Cleaners is a dry cleaner in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/tran-cleaners-montgomery-county/
 2. Caney Creek Cleaners | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Caney Creek Cleaners is a dry cleaner in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/caney-creek-cleaners-montgomery-county/
 3. Tide Cleaners | Organic #3 | Pulse Score 43.1/100 (Building, #3 in city) | Tide Cleaners is a dry cleaner in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/tide-cleaners-montgomery-county/
 4. Comet Cleaners | Organic #4 | Pulse Score 43.1/100 (Unrated, #4 in city) | Comet Cleaners is a dry cleaner in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/comet-cleaners-montgomery-county/

@@ -6,7 +6,7 @@ Also answers: gift shop in Valley, NE; gift shop near me (Valley, NE); best gift
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eclectic Gift Shop | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Eclectic Gift Shop is a gift shop in Valley, NE at 224 North Spruce Street, Valley, NE 68064. | https://registry-edge.dingalinged.workers.dev/c/eclectic-gift-shop-valley/
+1. Eclectic Gift Shop | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Eclectic Gift Shop is a gift shop in Valley, NE at 224 North Spruce Street, Valley, NE 68064. | https://registry-edge.dingalinged.workers.dev/c/eclectic-gift-shop-valley/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop valley ne | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

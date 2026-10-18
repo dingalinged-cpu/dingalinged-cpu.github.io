@@ -13,7 +13,7 @@ Stockwell Family Dentistry is a dentist in Cobb County, GA at 3900 Frey Road Nor
 - Website: https://stockwellfamilydentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-15:00; Fr off; Sa off; Su off
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 30% of dentists in Atlanta, #13 of 29 dentists in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 29% of dentists in Atlanta, #13 of 29 dentists in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

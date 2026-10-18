@@ -13,12 +13,12 @@ Aria Nail Bar is a nail salon in McKinney, TX at 301 North Custer Road #150, McK
 - Website: https://ariacuster.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 09:00-19:00; Su 11:00-17:30
-- Pulse Score: 51.4/100 — Unrated (not enough evidence yet) — top 81% of nail salons in Dallas–Fort Worth, #8 of 12 nail salons in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.5, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 79% of nail salons in Dallas–Fort Worth, #8 of 12 nail salons in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/aria-nail-bar-mckinney/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aria-nail-bar-mckinney.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13668947338 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13668947338 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

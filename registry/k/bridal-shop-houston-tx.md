@@ -6,7 +6,7 @@ Also answers: bridal shop in Houston, TX; bridal shop near me (Houston, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Thatiana's Bridal | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Thatiana's Bridal is a bridal shop in Houston, TX at 4903 Airline Drive #A, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/thatianas-bridal-houston/
+1. Thatiana's Bridal | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Thatiana's Bridal is a bridal shop in Houston, TX at 4903 Airline Drive #A, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/thatianas-bridal-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: bridal shop houston tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

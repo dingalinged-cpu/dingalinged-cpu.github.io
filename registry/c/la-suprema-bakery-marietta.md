@@ -13,7 +13,7 @@ La Suprema Bakery is a bakery in Marietta, GA at 12 Cobb Parkway South, Marietta
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-21:00
-- Pulse Score: 60.6/100 — Good — top 30% of bakerys in Atlanta, #8 of 13 bakerys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Good — top 28% of bakerys in Atlanta, #8 of 13 bakerys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: nail salon in Harrisonville, MO; nail salon near me (Harrisonville
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cute Nails | Organic #1 | Pulse Score 46.8/100 (Unrated, #1 in city) | Cute Nails is a nail salon in Harrisonville, MO at 654 South Commercial Street, Harrisonville, MO 64701. | https://registry-edge.dingalinged.workers.dev/c/cute-nails-harrisonville/
+1. Cute Nails | Organic #1 | Pulse Score 46.7/100 (Unrated, #1 in city) | Cute Nails is a nail salon in Harrisonville, MO at 654 South Commercial Street, Harrisonville, MO 64701. | https://registry-edge.dingalinged.workers.dev/c/cute-nails-harrisonville/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon harrisonville mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

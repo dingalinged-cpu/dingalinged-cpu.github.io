@@ -13,7 +13,7 @@ Great Clips is a hair salon in Palos Heights, IL at 12801 Harlem Avenue #C, Palo
 - Website: https://salons.greatclips.com/us/il/palos-heights/12801-s-harlem-ave
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Building — top 81% of hair salons in Chicago, #1 of 1 hair salons in Palos Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 80% of hair salons in Chicago, #1 of 1 hair salons in Palos Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

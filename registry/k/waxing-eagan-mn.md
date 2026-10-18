@@ -6,7 +6,7 @@ Also answers: waxing in Eagan, MN; waxing near me (Eagan, MN); best waxing Eagan
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. European Wax Center | Organic #1 | Pulse Score 41/100 (Building, #1 in city) | European Wax Center is a waxing salon in Eagan, MN. | https://registry-edge.dingalinged.workers.dev/c/european-wax-center-eagan/
+1. European Wax Center | Organic #1 | Pulse Score 40.9/100 (Building, #1 in city) | European Wax Center is a waxing salon in Eagan, MN. | https://registry-edge.dingalinged.workers.dev/c/european-wax-center-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing eagan mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

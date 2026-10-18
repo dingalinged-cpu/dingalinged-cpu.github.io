@@ -13,7 +13,7 @@ Iron Palm Tattoos & Body Piercing is a tattoo shop in Atlanta, GA at 249 Trinity
 - Website: https://ironpalmtattoos.com/
 - Email: ironpalmtattoos@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 13:00-02:00; Su 13:00-24:00
-- Pulse Score: 63.2/100 — Good — top 10% of tattoo shops in Atlanta, #2 of 8 tattoo shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 10% of tattoo shops in Atlanta, #2 of 8 tattoo shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

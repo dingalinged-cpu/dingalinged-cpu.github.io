@@ -13,7 +13,7 @@ KMC Dance Studio is a dance studio in Shorewood, MN at 23470 Minnesota State Hig
 - Website: https://www.engagephysicaltherapymn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.8/100 — Good — top 14% of dance studios in Minneapolis–St. Paul, #1 of 1 dance studios in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 14% of dance studios in Minneapolis–St. Paul, #1 of 1 dance studios in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: liquor store in Arlington, TX; liquor store near me (Arlington, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sweet P Liquor | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Sweet P Liquor is a liquor store in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/sweet-p-liquor-arlington/
-2. Big Daddy’s | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Big Daddy’s is a liquor store in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/big-daddy-s-arlington/
+1. Sweet P Liquor | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Sweet P Liquor is a liquor store in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/sweet-p-liquor-arlington/
+2. Big Daddy’s | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Big Daddy’s is a liquor store in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/big-daddy-s-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store arlington tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

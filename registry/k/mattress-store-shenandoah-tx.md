@@ -6,8 +6,8 @@ Also answers: mattress store in Shenandoah, TX; mattress store near me (Shenando
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | Organic #1 | Pulse Score 47.1/100 (Building, #1 in city) | Mattress Firm is a mattress store in Shenandoah, TX at 100 Vision Park Drive, Shenandoah, TX 77384. Phone: +19362731001. Website: https://www.mattressfirm.com/en-us/stores/tx/shenandoah/001056/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-shenandoah/
-2. Sleep Number | Organic #2 | Pulse Score 42.1/100 (Building, #2 in city) | Sleep Number is a mattress store in Shenandoah, TX. | https://registry-edge.dingalinged.workers.dev/c/sleep-number-shenandoah/
+1. Mattress Firm | Organic #1 | Pulse Score 47.4/100 (Building, #1 in city) | Mattress Firm is a mattress store in Shenandoah, TX at 100 Vision Park Drive, Shenandoah, TX 77384. Phone: +19362731001. Website: https://www.mattressfirm.com/en-us/stores/tx/shenandoah/001056/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-shenandoah/
+2. Sleep Number | Organic #2 | Pulse Score 42.4/100 (Building, #2 in city) | Sleep Number is a mattress store in Shenandoah, TX. | https://registry-edge.dingalinged.workers.dev/c/sleep-number-shenandoah/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store shenandoah tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

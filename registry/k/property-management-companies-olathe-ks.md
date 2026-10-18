@@ -6,7 +6,7 @@ Also answers: property management companies in Olathe, KS; property management c
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oak Ridge Park Apartments Clubhouse | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Oak Ridge Park Apartments Clubhouse is a property management company in Olathe, KS at 18325 West 152nd Terrace, Olathe, KS 66062. Phone: +19137806300. | https://registry-edge.dingalinged.workers.dev/c/oak-ridge-park-apartments-clubhouse-olathe/
+1. Oak Ridge Park Apartments Clubhouse | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Oak Ridge Park Apartments Clubhouse is a property management company in Olathe, KS at 18325 West 152nd Terrace, Olathe, KS 66062. Phone: +19137806300. | https://registry-edge.dingalinged.workers.dev/c/oak-ridge-park-apartments-clubhouse-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies olathe ks | category: real_estate | industry benchmark: Real Estate

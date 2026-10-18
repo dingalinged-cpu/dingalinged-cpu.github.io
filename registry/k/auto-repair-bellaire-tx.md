@@ -7,9 +7,9 @@ Also answers: auto repair in Bellaire, TX; auto repair near me (Bellaire, TX); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. CarTalk Repair | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | CarTalk Repair is an auto repair shop in Bellaire, TX at 5211 Spruce Street, Bellaire, TX 77401. Phone: +18329258353. Website: https://www.cartalkrepair.com/. | https://registry-edge.dingalinged.workers.dev/c/cartalk-repair-bellaire/
-2. Volvos Only | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Volvos Only is an auto repair shop in Bellaire, TX at 5012 Bissonnet Street, Bellaire, TX 77401. | https://registry-edge.dingalinged.workers.dev/c/volvos-only-bellaire/
-3. Fournace Shell Auto Care Center | Organic #3 | Pulse Score 45.7/100 (Unrated, #3 in city) | Fournace Shell Auto Care Center is an auto repair shop in Bellaire, TX at 5910 West Loop South, Bellaire, TX 77401. | https://registry-edge.dingalinged.workers.dev/c/fournace-shell-auto-care-center-bellaire/
-4. Take 5 Oil Change | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | Take 5 Oil Change is an auto repair shop in Bellaire, TX. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-bellaire/
+2. Volvos Only | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Volvos Only is an auto repair shop in Bellaire, TX at 5012 Bissonnet Street, Bellaire, TX 77401. | https://registry-edge.dingalinged.workers.dev/c/volvos-only-bellaire/
+3. Fournace Shell Auto Care Center | Organic #3 | Pulse Score 45.8/100 (Unrated, #3 in city) | Fournace Shell Auto Care Center is an auto repair shop in Bellaire, TX at 5910 West Loop South, Bellaire, TX 77401. | https://registry-edge.dingalinged.workers.dev/c/fournace-shell-auto-care-center-bellaire/
+4. Take 5 Oil Change | Organic #4 | Pulse Score 42.8/100 (Building, #4 in city) | Take 5 Oil Change is an auto repair shop in Bellaire, TX. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-bellaire/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair bellaire tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

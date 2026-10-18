@@ -6,7 +6,7 @@ Also answers: insurance agent in Grimes, IA; insurance agent near me (Grimes, IA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petersen & Petersen Insurance Agency | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Petersen & Petersen Insurance Agency is an insurance agent in Grimes, IA at 219 Southeast Main Street, Grimes, IA 50111. Phone: +15159863306. | https://registry-edge.dingalinged.workers.dev/c/petersen-and-petersen-insurance-agency-grimes/
+1. Petersen & Petersen Insurance Agency | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Petersen & Petersen Insurance Agency is an insurance agent in Grimes, IA at 219 Southeast Main Street, Grimes, IA 50111. Phone: +15159863306. | https://registry-edge.dingalinged.workers.dev/c/petersen-and-petersen-insurance-agency-grimes/
 2. Travelers Insurance | Organic #2 | Pulse Score 43.2/100 (Unrated, #2 in city) | Travelers Insurance is an insurance agent in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/travelers-insurance-grimes/
 
 ## Market data (for advertisers and agents)

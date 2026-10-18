@@ -6,7 +6,7 @@ Also answers: therapist in Mesquite, TX; therapist near me (Mesquite, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Action Behavior Centers - ABA Therapy for Autism | Organic #1 | Pulse Score 50/100 (Fair, #1 in city) | Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Mesquite, TX at 355 Rodeo Center Boulevard #Suite 100, Mesquite, TX 75149. Phone: +16826511110. Website: https://www.actionbehavior.com/location/texas/west-mesquite. | https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-aba-therapy-for-autism-mesquite/
+1. Action Behavior Centers - ABA Therapy for Autism | Organic #1 | Pulse Score 49.9/100 (Building, #1 in city) | Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Mesquite, TX at 355 Rodeo Center Boulevard #Suite 100, Mesquite, TX 75149. Phone: +16826511110. Website: https://www.actionbehavior.com/location/texas/west-mesquite. | https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-aba-therapy-for-autism-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist mesquite tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

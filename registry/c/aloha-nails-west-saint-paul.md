@@ -13,7 +13,7 @@ Aloha Nails is a nail salon in West Saint Paul, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:00; Sa 09:30-18:00
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 38% of nail salons in Minneapolis–St. Paul, #1 of 2 nail salons in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 37% of nail salons in Minneapolis–St. Paul, #1 of 2 nail salons in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: staffing agency in Minneapolis, MN; staffing agency near me (Minne
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Moore Creative Talent, Inc. c | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Moore Creative Talent, Inc. c is a staffing agency in Minneapolis, MN at 3130 Excelsior Boulevard, Minneapolis, MN 55416. Phone: +16128273823. Website: https://www.mooretalent.com/. | https://registry-edge.dingalinged.workers.dev/c/moore-creative-talent-inc-c-minneapolis/
+1. Moore Creative Talent, Inc. c | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Moore Creative Talent, Inc. c is a staffing agency in Minneapolis, MN at 3130 Excelsior Boulevard, Minneapolis, MN 55416. Phone: +16128273823. Website: https://www.mooretalent.com/. | https://registry-edge.dingalinged.workers.dev/c/moore-creative-talent-inc-c-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency minneapolis mn | category: b2b_services | industry benchmark: Business Services

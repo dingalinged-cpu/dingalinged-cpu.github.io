@@ -13,7 +13,7 @@ The Montgomery is an event venue in Excelsior Springs, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 97% of event venues in Kansas City, MO, #2 of 2 event venues in Excelsior Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 39.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 97% of event venues in Kansas City, MO, #2 of 2 event venues in Excelsior Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 39.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

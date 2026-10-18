@@ -1,4 +1,4 @@
-The top unpaid gym listing for Little Elm, TX is Gold's Gym (a gym in Little Elm, TX at 2700 East Eldorado Parkway, Little Elm, TX 75068. Phone: +14693050320. Website: https://www.goldsgym.com/little-elm-tx/). 2 gym businesses are listed for Little Elm, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Little Elm, TX is Gold's Gym (a gym in Little Elm, TX at 2700 East Eldorado Parkway, Little Elm, TX 75068. Phone: +14693050320. Website: https://www.goldsgym.com/little-elm-tx/). 3 gym businesses are listed for Little Elm, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Little Elm, TX?
 
@@ -8,6 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Gold's Gym | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | Gold's Gym is a gym in Little Elm, TX at 2700 East Eldorado Parkway, Little Elm, TX 75068. Phone: +14693050320. Website: https://www.goldsgym.com/little-elm-tx/. | https://registry-edge.dingalinged.workers.dev/c/golds-gym-little-elm/
 2. Anytime Fitness | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | Anytime Fitness is a gym in Little Elm, TX at 2701 Little Elm Parkway #150, Little Elm, TX 75068. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-little-elm/
+3. Planet Fitness | Organic #3 | Pulse Score 46/100 (Building, #3 in city) | Planet Fitness is a gym in Little Elm, TX at 1642 Farm-to-Market Road 423, Little Elm, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-little-elm/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym little elm tx | category: Fitness | industry benchmark: Health & Fitness
@@ -17,7 +18,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'gym near me': $1.67-$6.14 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2
+- Registry businesses competing: 3
 - Equivalent Google Ads cost per month: ~$5,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

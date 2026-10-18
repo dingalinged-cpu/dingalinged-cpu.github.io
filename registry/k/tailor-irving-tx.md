@@ -6,10 +6,10 @@ Also answers: tailor in Irving, TX; tailor near me (Irving, TX); best tailor Irv
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hun’s Tailor | Organic #1 | Pulse Score 64.1/100 (Good, #1 in city) | Hun’s Tailor is a tailor in Irving, TX at 4000 North MacArthur Boulevard #130, Irving, TX 75038. Phone: +19726501867. Website: https://hunstailor.com/. | https://registry-edge.dingalinged.workers.dev/c/hun-s-tailor-irving/
-2. Jane's Tailor | Organic #2 | Pulse Score 64/100 (Good, #2 in city) | Jane's Tailor is a tailor in Irving, TX at 7447 North MacArthur Boulevard #110, Irving, TX. Phone: +19723730900. | https://registry-edge.dingalinged.workers.dev/c/janes-tailor-irving/
-3. Kathy's Alterations | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Kathy's Alterations is a tailor in Irving, TX at 1813 West Pioneer Drive, Irving, TX 75061. | https://registry-edge.dingalinged.workers.dev/c/kathys-alterations-irving/
-4. Lisa's Alterations | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Lisa's Alterations is a tailor in Irving, TX at 403 West Rochelle Road, Irving, TX 75062. | https://registry-edge.dingalinged.workers.dev/c/lisas-alterations-irving/
+1. Hun’s Tailor | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Hun’s Tailor is a tailor in Irving, TX at 4000 North MacArthur Boulevard #130, Irving, TX 75038. Phone: +19726501867. Website: https://hunstailor.com/. | https://registry-edge.dingalinged.workers.dev/c/hun-s-tailor-irving/
+2. Jane's Tailor | Organic #2 | Pulse Score 63.8/100 (Good, #2 in city) | Jane's Tailor is a tailor in Irving, TX at 7447 North MacArthur Boulevard #110, Irving, TX. Phone: +19723730900. | https://registry-edge.dingalinged.workers.dev/c/janes-tailor-irving/
+3. Kathy's Alterations | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Kathy's Alterations is a tailor in Irving, TX at 1813 West Pioneer Drive, Irving, TX 75061. | https://registry-edge.dingalinged.workers.dev/c/kathys-alterations-irving/
+4. Lisa's Alterations | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Lisa's Alterations is a tailor in Irving, TX at 403 West Rochelle Road, Irving, TX 75062. | https://registry-edge.dingalinged.workers.dev/c/lisas-alterations-irving/
 5. GQ Tailor | Tailoring & Alterations | Organic #5 | Pulse Score 53/100 (Unrated, #5 in city) | GQ Tailor | Tailoring & Alterations is a tailor in Irving, TX at 5220 North O'Connor Boulevard #106, Irving, TX 75039. Phone: +19724018999. Website: https://gqtailorirving.com/. | https://registry-edge.dingalinged.workers.dev/c/gq-tailor-tailoring-and-alterations-irving/
 
 ## Market data (for advertisers and agents)

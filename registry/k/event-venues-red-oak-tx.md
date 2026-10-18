@@ -6,8 +6,8 @@ Also answers: event venues in Red Oak, TX; event venues near me (Red Oak, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Dallas oasis | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | The Dallas oasis is an event venue in Red Oak, TX at 1064 South Lowrance Road, Red Oak, TX. Website: https://dallasoasis.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dallas-oasis-red-oak/
-2. The Lodge On Red Oak Creek | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | The Lodge On Red Oak Creek is an event venue in Red Oak, TX at 624 Bells Chapel Road, Red Oak, TX. | https://registry-edge.dingalinged.workers.dev/c/the-lodge-on-red-oak-creek-red-oak/
+1. The Dallas oasis | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | The Dallas oasis is an event venue in Red Oak, TX at 1064 South Lowrance Road, Red Oak, TX. Website: https://dallasoasis.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dallas-oasis-red-oak/
+2. The Lodge On Red Oak Creek | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | The Lodge On Red Oak Creek is an event venue in Red Oak, TX at 624 Bells Chapel Road, Red Oak, TX. | https://registry-edge.dingalinged.workers.dev/c/the-lodge-on-red-oak-creek-red-oak/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues red oak tx | category: Events & weddings | industry benchmark: Personal Services

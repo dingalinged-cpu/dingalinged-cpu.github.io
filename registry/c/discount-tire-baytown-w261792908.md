@@ -13,12 +13,12 @@ Discount Tire is a tire shop in Baytown, TX at 5219 Garth Road, Baytown, TX 7752
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Building — top 53% of tire shops in Houston, #2 of 2 tire shops in Baytown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 54% of tire shops in Houston, #2 of 2 tire shops in Baytown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-baytown-w261792908/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-baytown-w261792908.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/261792908 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/261792908 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Veterinary Center of Liberty | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Veterinary Center of Liberty is a veterinarian in Liberty, MO at 1127 West Kansas Street, Liberty, MO 64068. Phone: +18167810778. Website: https://www.vetcenterofliberty.com/. | https://registry-edge.dingalinged.workers.dev/c/veterinary-center-of-liberty-liberty/
 2. Veterinary Center of Liberty | Organic #2 | Pulse Score 62.2/100 (Unrated, #2 in city) | Veterinary Center of Liberty is a veterinarian in Liberty, MO at 1127 West Kansas Street, Liberty, MO 64068. Phone: +18167810778. Website: https://www.vetcenterofliberty.com/. | https://registry-edge.dingalinged.workers.dev/c/veterinary-center-of-liberty-liberty-w195211924/
-3. Ark Animal Hospital | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Ark Animal Hospital is a veterinarian in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/ark-animal-hospital-liberty/
-4. Eagle Animal Hospital at Liberty | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Eagle Animal Hospital at Liberty is a veterinarian in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/eagle-animal-hospital-at-liberty-liberty/
+3. Eagle Animal Hospital at Liberty | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Eagle Animal Hospital at Liberty is a veterinarian in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/eagle-animal-hospital-at-liberty-liberty/
+4. Ark Animal Hospital | Organic #4 | Pulse Score 42.3/100 (Unrated, #4 in city) | Ark Animal Hospital is a veterinarian in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/ark-animal-hospital-liberty/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet liberty mo | category: Pets | industry benchmark: Animals & Pets

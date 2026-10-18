@@ -13,7 +13,7 @@ Omaha School Of Massage Therapy is a massage studio in Omaha, NE at 5406 S 99th 
 - Website: https://osmt.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-21:00; Fr 09:00-19:00; Sa 09:00-17:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 17% of massage studios in Omaha, NE, #1 of 4 massage studios in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 17% of massage studios in Omaha, NE, #1 of 4 massage studios in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

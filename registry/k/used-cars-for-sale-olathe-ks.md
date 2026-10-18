@@ -6,7 +6,7 @@ Also answers: used cars for sale in Olathe, KS; used cars for sale near me (Olat
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Town and Country Motors | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Town and Country Motors is an used car dealer in Olathe, KS at 15860 US 169 Hwy, Olathe, KS 66062. Phone: +19133932020. | https://registry-edge.dingalinged.workers.dev/c/town-and-country-motors-olathe/
+1. Town and Country Motors | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Town and Country Motors is an used car dealer in Olathe, KS at 15860 US 169 Hwy, Olathe, KS 66062. Phone: +19133932020. | https://registry-edge.dingalinged.workers.dev/c/town-and-country-motors-olathe/
 2. Honda of Olathe | Organic #2 | Pulse Score 48.4/100 (Building, #2 in city) | Honda of Olathe is an used car dealer in Olathe, KS at 1000 North Rogers Road, Olathe, KS 66062. Phone: +19137120952. Website: https://www.hondaofolathe.com/. | https://registry-edge.dingalinged.workers.dev/c/honda-of-olathe-olathe/
 3. Enterprise Car Sales | Organic #3 | Pulse Score 42.4/100 (Building, #3 in city) | Enterprise Car Sales is an used car dealer in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/enterprise-car-sales-olathe/
 

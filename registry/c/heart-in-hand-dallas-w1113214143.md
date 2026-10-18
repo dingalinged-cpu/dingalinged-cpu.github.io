@@ -19,6 +19,6 @@ Heart in Hand is a tattoo shop in Dallas, TX at 2614 Elm Street ##120, Dallas, T
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/heart-in-hand-dallas-w1113214143/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/heart-in-hand-dallas-w1113214143.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1113214143 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1113214143 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

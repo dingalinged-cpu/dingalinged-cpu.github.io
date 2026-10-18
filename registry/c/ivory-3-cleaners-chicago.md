@@ -13,7 +13,7 @@ Ivory #3 Cleaners is a dry cleaner in Chicago, IL at 1005 East 53rd Street, Chic
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:30; Sa 08:00-18:00
-- Pulse Score: 63.5/100 — Good — top 2% of dry cleaners in Chicago, #3 of 97 dry cleaners in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 2% of dry cleaners in Chicago, #3 of 97 dry cleaners in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

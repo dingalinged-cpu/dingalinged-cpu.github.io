@@ -13,7 +13,7 @@ Wags is a dog boarding facility in Peculiar, MO at 117 South Main Street, Peculi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 36% of dog boarding facilitys in Kansas City, MO, #1 of 1 dog boarding facilitys in Peculiar (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 36% of dog boarding facilitys in Kansas City, MO, #1 of 1 dog boarding facilitys in Peculiar (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

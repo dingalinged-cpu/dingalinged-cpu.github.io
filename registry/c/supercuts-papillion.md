@@ -13,7 +13,7 @@ Supercuts is a hair salon in Papillion, NE at 7305 Towne Center Parkway #105, Pa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 10:00-17:00
-- Pulse Score: 45.1/100 — Building — top 81% of hair salons in Omaha, NE, #2 of 4 hair salons in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.1/100 — Building — top 80% of hair salons in Omaha, NE, #2 of 4 hair salons in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

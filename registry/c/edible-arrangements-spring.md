@@ -19,6 +19,6 @@ Edible Arrangements is a gift shop in Spring, TX at 2174 Spring Stuebner Road #S
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/edible-arrangements-spring/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edible-arrangements-spring.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9978733654 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9978733654 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

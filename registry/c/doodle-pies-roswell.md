@@ -13,7 +13,7 @@ Doodle Pies is a bakery in Roswell, GA at 1105 Woodstock Road #140, Roswell, GA.
 - Website: https://doodlepies.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Fair — top 33% of bakerys in Atlanta, #1 of 3 bakerys in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Fair — top 31% of bakerys in Atlanta, #1 of 3 bakerys in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

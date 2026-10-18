@@ -6,9 +6,9 @@ Also answers: printing services in Coppell, TX; printing services near me (Coppe
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. FedEx Office | Organic #1 | Pulse Score 49/100 (Building, #1 in city) | FedEx Office is a printing service in Coppell, TX at 240 North Denton Tap Road ##480, Coppell, TX 75019. Phone: +19723043963. Website: https://local.fedex.com/en-us/tx/coppell/office-1340. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-coppell/
-2. UPS Store | Organic #2 | Pulse Score 45.1/100 (Building, #2 in city) | UPS Store is a printing service in Coppell, TX at 820 South MacArthur Boulevard, Coppell, TX. | https://registry-edge.dingalinged.workers.dev/c/ups-store-coppell/
-3. The UPS Store | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | The UPS Store is a printing service in Coppell, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-coppell/
+1. FedEx Office | Organic #1 | Pulse Score 49.1/100 (Building, #1 in city) | FedEx Office is a printing service in Coppell, TX at 240 North Denton Tap Road ##480, Coppell, TX 75019. Phone: +19723043963. Website: https://local.fedex.com/en-us/tx/coppell/office-1340. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-coppell/
+2. UPS Store | Organic #2 | Pulse Score 45/100 (Building, #2 in city) | UPS Store is a printing service in Coppell, TX at 820 South MacArthur Boulevard, Coppell, TX. | https://registry-edge.dingalinged.workers.dev/c/ups-store-coppell/
+3. The UPS Store | Organic #3 | Pulse Score 41.7/100 (Building, #3 in city) | The UPS Store is a printing service in Coppell, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services coppell tx | category: Professional & financial services | industry benchmark: Finance & Insurance

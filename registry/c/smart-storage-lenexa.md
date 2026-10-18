@@ -13,7 +13,7 @@ Smart Storage is a self-storage facility in Lenexa, KS at 8600 Maurer Road, Lene
 - Website: https://www.absolutemgmt.com/storage-locations/ks/lenexa/smart-storage-lenexa
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 09:00-17:00; We off; Th-Fr 09:00-17:30; Sa 09:00-15:00; Su off
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 2% of self-storage facilitys in Kansas City, MO, #1 of 5 self-storage facilitys in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 2% of self-storage facilitys in Kansas City, MO, #1 of 5 self-storage facilitys in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

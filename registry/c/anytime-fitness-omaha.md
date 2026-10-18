@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Omaha, NE at 1121 South 180th Street, Omaha, NE 6813
 - Website: https://www.anytimefitness.com/gyms/122/omaha-ne-68130/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.2/100 — Fair — top 46% of gyms in Omaha, NE, #6 of 17 gyms in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 46% of gyms in Omaha, NE, #6 of 17 gyms in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

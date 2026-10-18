@@ -13,7 +13,7 @@ Kaiser Permanente Townpark Comprehensive Medical Center is an urgent care clinic
 - Website: https://healthy.kaiserpermanente.org/georgia/facilities/Kaiser-Permanente-TownPark-Comprehensive-Medical-Center-100453
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 49.3/100 — Building — top 67% of urgent care clinics in Atlanta, #1 of 1 urgent care clinics in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.3, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 67% of urgent care clinics in Atlanta, #1 of 1 urgent care clinics in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.2, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

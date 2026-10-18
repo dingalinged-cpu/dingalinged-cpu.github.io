@@ -13,7 +13,7 @@ American Family Insurance is an insurance agent in Hanover Park, IL at 27W250 On
 - Website: https://www.amfam.com/agents/illinois/hanover-park/gregory-puka
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 49% of insurance agents in Chicago, #2 of 4 insurance agents in Hanover Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 48% of insurance agents in Chicago, #2 of 4 insurance agents in Hanover Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

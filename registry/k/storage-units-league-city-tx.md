@@ -6,7 +6,7 @@ Also answers: storage units in League City, TX; storage units near me (League Ci
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. High Point Storage | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | High Point Storage is a self-storage facility in Dickinson, TX at 5600 FM 646 W, Dickinson, TX 77539. | https://registry-edge.dingalinged.workers.dev/c/high-point-storage-dickinson/
+1. High Point Storage | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | High Point Storage is a self-storage facility in Dickinson, TX at 5600 FM 646 W, Dickinson, TX 77539. | https://registry-edge.dingalinged.workers.dev/c/high-point-storage-dickinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units league city tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

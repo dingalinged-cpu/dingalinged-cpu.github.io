@@ -6,7 +6,7 @@ Also answers: window replacement in Brookfield, WI; window replacement near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Abby Windows & Exteriors | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Abby Windows & Exteriors is a window installer in Brookfield, WI at 14680 West Greenfield Avenue, Brookfield, WI 53005. | https://registry-edge.dingalinged.workers.dev/c/abby-windows-and-exteriors-brookfield/
+1. Abby Windows & Exteriors | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Abby Windows & Exteriors is a window installer in Brookfield, WI at 14680 West Greenfield Avenue, Brookfield, WI 53005. | https://registry-edge.dingalinged.workers.dev/c/abby-windows-and-exteriors-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement brookfield wi | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Chicago Reptile House is a pet store in Orland Park, IL at 14410 John Humphrey D
 - Website: https://chicagoreptile.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-20:00; Sa 10:00-18:00; Su 11:00-17:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 6% of pet stores in Chicago, #1 of 4 pet stores in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 6% of pet stores in Chicago, #1 of 4 pet stores in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

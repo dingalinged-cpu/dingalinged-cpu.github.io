@@ -13,7 +13,7 @@ Car Spa is a car wash in Marietta, GA at 2330 Cobb Parkway South, Marietta, GA 3
 - Website: https://carspa.net/locations/marietta-ga-car-wash/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-18:00
-- Pulse Score: 51.4/100 — Fair — top 65% of car washes in Atlanta, #14 of 15 car washes in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 69.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.4/100 — Fair — top 64% of car washes in Atlanta, #14 of 15 car washes in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 69.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

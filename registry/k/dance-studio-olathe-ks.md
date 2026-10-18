@@ -6,7 +6,7 @@ Also answers: dance studio in Olathe, KS; dance studio near me (Olathe, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Way Dance Studio | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | New Way Dance Studio is a dance studio in Olathe, KS at 2083 East Santa Fe Street, Olathe, KS 66062. Phone: +19134811721. Website: https://olatheballroom.com/. | https://registry-edge.dingalinged.workers.dev/c/new-way-dance-studio-olathe/
+1. New Way Dance Studio | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | New Way Dance Studio is a dance studio in Olathe, KS at 2083 East Santa Fe Street, Olathe, KS 66062. Phone: +19134811721. Website: https://olatheballroom.com/. | https://registry-edge.dingalinged.workers.dev/c/new-way-dance-studio-olathe/
 2. Greenleaf Performing Arts Academy - South Olathe | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Greenleaf Performing Arts Academy - South Olathe is a dance studio in Olathe, KS at 19976 West 162nd Street, Olathe, KS 66062. Phone: +19133977071. Website: https://www.greenleafstudio.org/. | https://registry-edge.dingalinged.workers.dev/c/greenleaf-performing-arts-academy-south-olathe-olathe/
 3. Olathe Dance Center | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Olathe Dance Center is a dance studio in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/olathe-dance-center-olathe/
 

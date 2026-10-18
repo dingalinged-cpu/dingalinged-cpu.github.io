@@ -7,17 +7,17 @@ Also answers: tailor in Dallas, TX; tailor near me (Dallas, TX); best tailor Dal
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Eliot's Tailor Shop | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Eliot's Tailor Shop is a tailor in Dallas, TX at 3564 Forest Lane, Dallas, TX 75234. Phone: +12143500449. | https://registry-edge.dingalinged.workers.dev/c/eliots-tailor-shop-dallas/
-2. Crest Tailor | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Crest Tailor is a tailor in Dallas, TX at 6465 East Mockingbird Lane #368, Dallas, TX. Phone: +12148280777. | https://registry-edge.dingalinged.workers.dev/c/crest-tailor-dallas/
-3. Town Tailor | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Town Tailor is a tailor in Dallas, TX at 18484 Preston Road #107, Dallas, TX 75252. | https://registry-edge.dingalinged.workers.dev/c/town-tailor-dallas/
-4. Unique Tailor | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Unique Tailor is a tailor in Dallas, TX at 5620 E Mockingbird Ln #100, Dallas, TX 75206. | https://registry-edge.dingalinged.workers.dev/c/unique-tailor-dallas/
-5. Young's Tailor | Organic #5 | Pulse Score 57.3/100 (Unrated, #5 in city) | Young's Tailor is a tailor in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/youngs-tailor-dallas/
+2. Crest Tailor | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | Crest Tailor is a tailor in Dallas, TX at 6465 East Mockingbird Lane #368, Dallas, TX. Phone: +12148280777. | https://registry-edge.dingalinged.workers.dev/c/crest-tailor-dallas/
+3. Young's Tailor | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Young's Tailor is a tailor in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/youngs-tailor-dallas/
+4. Town Tailor | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Town Tailor is a tailor in Dallas, TX at 18484 Preston Road #107, Dallas, TX 75252. | https://registry-edge.dingalinged.workers.dev/c/town-tailor-dallas/
+5. Unique Tailor | Organic #5 | Pulse Score 57.1/100 (Unrated, #5 in city) | Unique Tailor is a tailor in Dallas, TX at 5620 E Mockingbird Ln #100, Dallas, TX 75206. | https://registry-edge.dingalinged.workers.dev/c/unique-tailor-dallas/
 6. Top Alterations | Organic #6 | Pulse Score 56.9/100 (Unrated, #6 in city) | Top Alterations is a tailor in Dallas, TX at Trinity Mills Boulevard, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/top-alterations-dallas/
 7. B&B Tailor | Organic #7 | Pulse Score 56/100 (Unrated, #7 in city) | B&B Tailor is a tailor in Dallas, TX at 15203 Knoll Trail Drive #114, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/b-and-b-tailor-dallas/
 8. Hong Kong Tailor | Organic #8 | Pulse Score 56/100 (Unrated, #8 in city) | Hong Kong Tailor is a tailor in Dallas, TX at 294 Casa Linda Plaza #D, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/hong-kong-tailor-dallas/
 9. Lumae Boutique | Organic #9 | Pulse Score 56/100 (Unrated, #9 in city) | Lumae Boutique is a tailor in Dallas, TX at 3474 Highland Road #130, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/lumae-boutique-dallas/
-10. All Seasons Master Tailor | Organic #10 | Pulse Score 54.6/100 (Unrated, #10 in city) | All Seasons Master Tailor is a tailor in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/all-seasons-master-tailor-dallas/
-11. Lucy's Tailor | Organic #11 | Pulse Score 54.6/100 (Unrated, #11 in city) | Lucy's Tailor is a tailor in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/lucys-tailor-dallas/
-12. Red Carpet Tailor | Organic #12 | Pulse Score 54.6/100 (Unrated, #12 in city) | Red Carpet Tailor is a tailor in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/red-carpet-tailor-dallas/
+10. All Seasons Master Tailor | Organic #10 | Pulse Score 54.7/100 (Unrated, #10 in city) | All Seasons Master Tailor is a tailor in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/all-seasons-master-tailor-dallas/
+11. Lucy's Tailor | Organic #11 | Pulse Score 54.7/100 (Unrated, #11 in city) | Lucy's Tailor is a tailor in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/lucys-tailor-dallas/
+12. Red Carpet Tailor | Organic #12 | Pulse Score 54.7/100 (Unrated, #12 in city) | Red Carpet Tailor is a tailor in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/red-carpet-tailor-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor dallas tx | category: Professional & financial services | industry benchmark: Finance & Insurance

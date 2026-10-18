@@ -19,6 +19,6 @@ Extra Space Storage is a self-storage facility in Mansfield, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-mansfield/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/extra-space-storage-mansfield.json
-- Source: OpenStreetMap https://www.openstreetmap.org/relation/12349891 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/relation/12349891 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

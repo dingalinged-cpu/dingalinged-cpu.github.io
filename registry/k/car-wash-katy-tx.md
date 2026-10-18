@@ -7,13 +7,13 @@ Also answers: car wash in Katy, TX; car wash near me (Katy, TX); best car wash K
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. H2O Express Car Wash | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | H2O Express Car Wash is a car wash in Katy, TX at 4809 FM 1463, Katy, TX 77494. Phone: +12813922210. Website: https://www.h2oexpresswash.com/. | https://registry-edge.dingalinged.workers.dev/c/h2o-express-car-wash-katy/
-2. iShine Katy | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | iShine Katy is a car wash in Katy, TX at 23103 Clay Road, Katy, TX 77493. | https://registry-edge.dingalinged.workers.dev/c/ishine-katy-katy/
-3. Superior | Organic #3 | Pulse Score 58.5/100 (Unrated, #3 in city) | Superior is a car wash in Katy, TX at 2205 North Fry Road, Katy, TX 77449. | https://registry-edge.dingalinged.workers.dev/c/superior-katy/
-4. H-E-B Car Wash | Organic #4 | Pulse Score 46.7/100 (Unrated, #4 in city) | H-E-B Car Wash is a car wash in Katy, TX at 6711 South Fry Road, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-katy-w847268945/
-5. Quick Quack Car Wash | Organic #5 | Pulse Score 46.1/100 (Building, #5 in city) | Quick Quack Car Wash is a car wash in Katy, TX at 26742 FM 1093, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/quick-quack-car-wash-katy/
-6. Buc-ee's | Organic #6 | Pulse Score 45.7/100 (Building, #6 in city) | Buc-ee's is a car wash in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/buc-ees-katy/
+2. iShine Katy | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | iShine Katy is a car wash in Katy, TX at 23103 Clay Road, Katy, TX 77493. | https://registry-edge.dingalinged.workers.dev/c/ishine-katy-katy/
+3. Superior | Organic #3 | Pulse Score 58.6/100 (Unrated, #3 in city) | Superior is a car wash in Katy, TX at 2205 North Fry Road, Katy, TX 77449. | https://registry-edge.dingalinged.workers.dev/c/superior-katy/
+4. Buc-ee's | Organic #4 | Pulse Score 46.9/100 (Building, #4 in city) | Buc-ee's is a car wash in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/buc-ees-katy/
+5. H-E-B Car Wash | Organic #5 | Pulse Score 46.7/100 (Unrated, #5 in city) | H-E-B Car Wash is a car wash in Katy, TX at 6711 South Fry Road, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-katy-w847268945/
+6. Quick Quack Car Wash | Organic #6 | Pulse Score 46.2/100 (Building, #6 in city) | Quick Quack Car Wash is a car wash in Katy, TX at 26742 FM 1093, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/quick-quack-car-wash-katy/
 7. Quick Quack Car Wash | Organic #7 | Pulse Score 45.1/100 (Building, #7 in city) | Quick Quack Car Wash is a car wash in Katy, TX at 22743 Morton Ranch Road, Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/quick-quack-car-wash-katy-w748668388/
-8. H-E-B Car Wash | Organic #8 | Pulse Score 43/100 (Building, #8 in city) | H-E-B Car Wash is a car wash in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-katy/
+8. H-E-B Car Wash | Organic #8 | Pulse Score 43.1/100 (Building, #8 in city) | H-E-B Car Wash is a car wash in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash katy tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

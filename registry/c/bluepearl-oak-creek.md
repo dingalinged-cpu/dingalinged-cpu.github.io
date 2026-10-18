@@ -13,7 +13,7 @@ BluePearl is a veterinarian in Oak Creek, WI at 9472 South 27th Street, Oak Cree
 - Website: https://bluepearlvet.com/hospital/oak-creek-wi/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 100% of veterinarians in Milwaukee, #3 of 3 veterinarians in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 99% of veterinarians in Milwaukee, #3 of 3 veterinarians in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

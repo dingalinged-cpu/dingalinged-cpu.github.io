@@ -6,7 +6,7 @@ Also answers: facial in Rolling Meadows, IL; facial near me (Rolling Meadows, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Super Brow & Lash Bar | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Super Brow & Lash Bar is a skin care studio in Rolling Meadows, IL at 1917 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +12248018193. | https://registry-edge.dingalinged.workers.dev/c/super-brow-and-lash-bar-rolling-meadows/
+1. Super Brow & Lash Bar | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Super Brow & Lash Bar is a skin care studio in Rolling Meadows, IL at 1917 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +12248018193. | https://registry-edge.dingalinged.workers.dev/c/super-brow-and-lash-bar-rolling-meadows/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial rolling meadows il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

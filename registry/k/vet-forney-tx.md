@@ -6,9 +6,9 @@ Also answers: vet in Forney, TX; vet near me (Forney, TX); best vet Forney, TX; 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Animal Medical Center of Forney | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Animal Medical Center of Forney is a veterinarian in Forney, TX at 13799 FM 548, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/animal-medical-center-of-forney-forney/
-2. Stone Creek Veterinary Hospital | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Stone Creek Veterinary Hospital is a veterinarian in Forney, TX at 1300 College Avenue, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/stone-creek-veterinary-hospital-forney/
-3. VCA Animal Hospital | Organic #3 | Pulse Score 43.9/100 (Building, #3 in city) | VCA Animal Hospital is a veterinarian in Forney, TX at 202 East US Highway 80, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/vca-animal-hospital-forney/
+1. Animal Medical Center of Forney | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Animal Medical Center of Forney is a veterinarian in Forney, TX at 13799 FM 548, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/animal-medical-center-of-forney-forney/
+2. Stone Creek Veterinary Hospital | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Stone Creek Veterinary Hospital is a veterinarian in Forney, TX at 1300 College Avenue, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/stone-creek-veterinary-hospital-forney/
+3. VCA Animal Hospital | Organic #3 | Pulse Score 43.8/100 (Building, #3 in city) | VCA Animal Hospital is a veterinarian in Forney, TX at 202 East US Highway 80, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/vca-animal-hospital-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet forney tx | category: Pets | industry benchmark: Animals & Pets

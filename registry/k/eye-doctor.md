@@ -1,4 +1,4 @@
-The top unpaid eye doctor listing for the United States is Herslof Eye Care (an eye care practice in New Berlin, WI at 3556 South Moorland Road, New Berlin, WI 53151. Phone: +12627868860. Website: https://www.herslof.com/). 541 eye doctor businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for the United States is Herslof Eye Care (an eye care practice in New Berlin, WI at 3556 South Moorland Road, New Berlin, WI 53151. Phone: +12627868860. Website: https://www.herslof.com/). 711 eye doctor businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in the United States?
 
@@ -10,72 +10,80 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Uptown Vision | Organic #2 | Pulse Score 65.3/100 (Good, #1 in city) | Uptown Vision is an eye care practice in Minneapolis, MN at 3553 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16128225844. Website: https://uptownvision.com/. | https://registry-edge.dingalinged.workers.dev/c/uptown-vision-minneapolis/
 3. Eye Associates of Olathe | Organic #3 | Pulse Score 64.7/100 (Good, #2 in city) | Eye Associates of Olathe is an eye care practice in Olathe, KS at 15257 West 135th Street, Olathe, KS 66062. Phone: +19137809696. Website: https://www.seetheclarity.com/. | https://registry-edge.dingalinged.workers.dev/c/eye-associates-olathe/
 4. Eye Associates of South Olathe | Organic #4 | Pulse Score 64.7/100 (Good, #1 in city) | Eye Associates of South Olathe is an eye care practice in Olathe, KS at 16021 South Bradley Drive, Olathe, KS 66062. Phone: +19134409819. Website: https://www.seetheclarity.com/. | https://registry-edge.dingalinged.workers.dev/c/eye-associates-of-south-olathe-olathe/
-5. Moses-Mouser & Associates | Organic #5 | Pulse Score 64.4/100 (Good, #1 in city) | Moses-Mouser & Associates is an eye care practice in Grove City, OH at 1600 Gateway Circle, Grove City, OH 43123. Phone: +16142742020. Website: https://mosesmousereye.com/. | https://registry-edge.dingalinged.workers.dev/c/moses-mouser-and-associates-grove-city/
-6. Cargo Eye Care of Las Colinas | Organic #6 | Pulse Score 64.1/100 (Unrated, #1 in city) | Cargo Eye Care of Las Colinas is an eye care practice in Irving, TX at 1135 Kinwest Parkway #100, Irving, TX 75063. Phone: +19724322020. Website: https://cargoeyecare.com/. | https://registry-edge.dingalinged.workers.dev/c/cargo-eye-care-of-las-colinas-irving/
-7. Boulder Vision Associates | Organic #7 | Pulse Score 64/100 (Unrated, #1 in city) | Boulder Vision Associates is an eye care practice in Boulder, CO at 5305 Spine Road #B, Boulder, CO 80301. Phone: +13035302020. Website: https://www.bouldervision.com/. | https://registry-edge.dingalinged.workers.dev/c/boulder-vision-associates-boulder/
-8. Eye Encounters | Organic #8 | Pulse Score 64/100 (Unrated, #1 in city) | Eye Encounters is an eye care practice in Naperville, IL at 29 South Webster Street #104, Naperville, IL 60540. Phone: +16303576880. Website: https://eye-encounters.com/. | https://registry-edge.dingalinged.workers.dev/c/eye-encounters-naperville/
-9. Kraff Eye Institute | Organic #9 | Pulse Score 64/100 (Unrated, #1 in city) | Kraff Eye Institute is an eye care practice in Chicago, IL at 25 East Washington Street #606, Chicago, IL 60602. Phone: +13124441111. Website: https://kraffeye.com/. | https://registry-edge.dingalinged.workers.dev/c/kraff-eye-institute-chicago/
-10. Eye Care Vision Center of Wauwatosa | Organic #10 | Pulse Score 63.9/100 (Good, #1 in city) | Eye Care Vision Center of Wauwatosa is an eye care practice in Wauwatosa, WI at 6412 West North Avenue, Wauwatosa, WI 53213. Phone: +14142969400. Website: https://www.eyecarevisioncenter.com/. | https://registry-edge.dingalinged.workers.dev/c/eye-care-vision-center-of-wauwatosa-wauwatosa/
-11. Northeast Eye Center | Organic #11 | Pulse Score 63.8/100 (Good, #1 in city) | Northeast Eye Center is an eye care practice in Hurst, TX at 900 West Pipeline Road, Hurst, TX 76053. Phone: +18172845786. Website: https://www.neceyes.com/. | https://registry-edge.dingalinged.workers.dev/c/northeast-eye-center-hurst/
+5. Southwest Vision | Organic #5 | Pulse Score 64.5/100 (Good, #1 in city) | Southwest Vision is an eye care practice in Austin, TX at 3300 Bee Caves Road #395, Austin, TX 78746. Phone: +15123273130. Website: https://southwestvisionaustin.com/. | https://registry-edge.dingalinged.workers.dev/c/southwest-vision-austin/
+6. Moses-Mouser & Associates | Organic #6 | Pulse Score 64.4/100 (Good, #1 in city) | Moses-Mouser & Associates is an eye care practice in Grove City, OH at 1600 Gateway Circle, Grove City, OH 43123. Phone: +16142742020. Website: https://mosesmousereye.com/. | https://registry-edge.dingalinged.workers.dev/c/moses-mouser-and-associates-grove-city/
+7. Cargo Eye Care of Las Colinas | Organic #7 | Pulse Score 64.1/100 (Unrated, #1 in city) | Cargo Eye Care of Las Colinas is an eye care practice in Irving, TX at 1135 Kinwest Parkway #100, Irving, TX 75063. Phone: +19724322020. Website: https://cargoeyecare.com/. | https://registry-edge.dingalinged.workers.dev/c/cargo-eye-care-of-las-colinas-irving/
+8. Boulder Vision Associates | Organic #8 | Pulse Score 64/100 (Unrated, #1 in city) | Boulder Vision Associates is an eye care practice in Boulder, CO at 5305 Spine Road #B, Boulder, CO 80301. Phone: +13035302020. Website: https://www.bouldervision.com/. | https://registry-edge.dingalinged.workers.dev/c/boulder-vision-associates-boulder/
+9. Eye Encounters | Organic #9 | Pulse Score 64/100 (Unrated, #1 in city) | Eye Encounters is an eye care practice in Naperville, IL at 29 South Webster Street #104, Naperville, IL 60540. Phone: +16303576880. Website: https://eye-encounters.com/. | https://registry-edge.dingalinged.workers.dev/c/eye-encounters-naperville/
+10. Kraff Eye Institute | Organic #10 | Pulse Score 63.9/100 (Unrated, #1 in city) | Kraff Eye Institute is an eye care practice in Chicago, IL at 25 East Washington Street #606, Chicago, IL 60602. Phone: +13124441111. Website: https://kraffeye.com/. | https://registry-edge.dingalinged.workers.dev/c/kraff-eye-institute-chicago/
+11. Eye Care Vision Center of Wauwatosa | Organic #11 | Pulse Score 63.8/100 (Good, #1 in city) | Eye Care Vision Center of Wauwatosa is an eye care practice in Wauwatosa, WI at 6412 West North Avenue, Wauwatosa, WI 53213. Phone: +14142969400. Website: https://www.eyecarevisioncenter.com/. | https://registry-edge.dingalinged.workers.dev/c/eye-care-vision-center-of-wauwatosa-wauwatosa/
 12. Peachtree Corners Eye Care | Organic #12 | Pulse Score 63.7/100 (Good, #1 in city) | Peachtree Corners Eye Care is an eye care practice in Peachtree Corners, GA at 4005 Holcomb Bridge Road, Peachtree Corners, GA. Phone: +17704411211. Website: https://peachtree-eye.com/. | https://registry-edge.dingalinged.workers.dev/c/peachtree-corners-eye-care-peachtree-corners/
-13. Milwaukee Eye Care Associates | Organic #13 | Pulse Score 63.7/100 (Unrated, #1 in city) | Milwaukee Eye Care Associates is an eye care practice in Milwaukee, WI at 1684 North Prospect Avenue, Milwaukee, WI 53202. Phone: +14142712020. Website: https://www.milwaukeeeyecare.com/wisconsin/milwaukee-east-side-office-and-optical.htm. | https://registry-edge.dingalinged.workers.dev/c/milwaukee-eye-care-associates-milwaukee/
-14. Fraser Eye | Organic #14 | Pulse Score 63.7/100 (Unrated, #1 in city) | Fraser Eye is an eye care practice in Fraser, MI at 33080 Utica Road #Suite B, Fraser, MI 48026. Phone: +18662805519. Website: https://www.frasereye.com/about/locations/fraser/. | https://registry-edge.dingalinged.workers.dev/c/fraser-eye-fraser/
-15. Mission Eyes | Organic #15 | Pulse Score 63.4/100 (Unrated, #1 in city) | Mission Eyes is an eye care practice in Rolling Meadows, IL at 1915 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +18472129936. Website: https://www.instagram.com/mission_eyes/. | https://registry-edge.dingalinged.workers.dev/c/mission-eyes-rolling-meadows/
-16. Customeyes Family Eye Care & Optical | Organic #16 | Pulse Score 63.3/100 (Unrated, #1 in city) | Customeyes Family Eye Care & Optical is an eye care practice in Houston, TX at 8420 Katy Freeway #512, Houston, TX 77024. Phone: +17138279500. Website: https://yourcustomeyes.com/. | https://registry-edge.dingalinged.workers.dev/c/customeyes-family-eye-care-and-optical-houston/
-17. Stanton Optical | Organic #17 | Pulse Score 63.2/100 (Good, #1 in city) | Stanton Optical is an eye care practice in Marietta, GA at 2157 Roswell Road, Marietta, GA 30062. Phone: +17702992351. Website: https://www.stantonoptical.com/locations/marietta-ga/. | https://registry-edge.dingalinged.workers.dev/c/stanton-optical-marietta/
-18. Marietta Eye Clinic | Organic #18 | Pulse Score 63.2/100 (Good, #1 in city) | Marietta Eye Clinic is an eye care practice in Woodstock, GA at 2990 Eagle Drive, Woodstock, GA. Phone: +16784604810. Website: https://www.mariettaeye.com/. | https://registry-edge.dingalinged.workers.dev/c/marietta-eye-clinic-woodstock/
-19. Customeyes Family Eye Care & Optical | Organic #19 | Pulse Score 63.2/100 (Unrated, #1 in city) | Customeyes Family Eye Care & Optical is an eye care practice in Pearland, TX at 11150 West Broadway Street #100, Pearland, TX 77584. Phone: +17134366000. Website: https://yourcustomeyes.com/. | https://registry-edge.dingalinged.workers.dev/c/customeyes-family-eye-care-and-optical-pearland/
-20. Dr. Emily Baker & Associates PC | Organic #20 | Pulse Score 63/100 (Unrated, #1 in city) | Dr. Emily Baker & Associates PC is an eye care practice in Broomfield, CO at 500 Summit Boulevard, Broomfield, CO 80021. Phone: +13034663845. Website: https://www.bakervision.net/. | https://registry-edge.dingalinged.workers.dev/c/dr-emily-baker-and-associates-pc-broomfield/
-21. Rinkov Eyecare Centers | Organic #21 | Pulse Score 63/100 (Unrated, #1 in city) | Rinkov Eyecare Centers is an eye care practice in Columbus, OH at 81 East Gay Street, Columbus, OH 43215. Phone: +16142242414. Website: https://www.rinkoveyecare.com/locations/oh/columbus/downtown/. | https://registry-edge.dingalinged.workers.dev/c/rinkov-eyecare-centers-columbus/
-22. iDoctor | Organic #22 | Pulse Score 62.9/100 (Unrated, #1 in city) | iDoctor is an eye care practice in Glendale Heights, IL at 132 East Army Trail Road, Glendale Heights, IL 60139. Phone: +16304546899. Website: https://www.idoctoril.com/. | https://registry-edge.dingalinged.workers.dev/c/idoctor-glendale-heights/
-23. Arnett Vision Care | Organic #23 | Pulse Score 62.9/100 (Unrated, #1 in city) | Arnett Vision Care is an eye care practice in Florence, KY at 7921 Mall Road #Suite B, Florence, KY 41042. Phone: +18595250234. Website: https://www.arnettvisioncare.com/contact.html. | https://registry-edge.dingalinged.workers.dev/c/arnett-vision-care-florence/
-24. Marietta Eye Clinic - Johns Creek | Organic #24 | Pulse Score 62.7/100 (Good, #1 in city) | Marietta Eye Clinic - Johns Creek is an eye care practice in Johns Creek, GA at 4025 Johns Creek Court #200, Johns Creek, GA 30024. Phone: +16784392451. Website: https://www.mariettaeye.com/our-locations/johns-creek/. | https://registry-edge.dingalinged.workers.dev/c/marietta-eye-clinic-johns-creek-johns-creek/
-25. Tom Mueller | Organic #25 | Pulse Score 62.6/100 (Unrated, #1 in city) | Tom Mueller is an eye care practice in Belle Vernon, PA at 170 Finley Rd, Belle Vernon, PA 15012. Phone: +17249308250. Website: https://visionsource-rec.com/. | https://registry-edge.dingalinged.workers.dev/c/tom-mueller-belle-vernon/
-26. Sunshine Eye Clinic | Organic #26 | Pulse Score 62.5/100 (Unrated, #1 in city) | Sunshine Eye Clinic is an eye care practice in Springfield, MO at 1441 East Sunshine Street, Springfield, MO 65804. Phone: +14178862020. Website: https://www.sunshineeyeclinic.com/. | https://registry-edge.dingalinged.workers.dev/c/sunshine-eye-clinic-springfield/
-27. Rosin Eye Care | Organic #27 | Pulse Score 62.4/100 (Unrated, #2 in city) | Rosin Eye Care is an eye care practice in Naperville, IL at 705 East Ogden Avenue, Naperville, IL 60563. Phone: +16307782020. Website: https://www.rosineyecare.com/naperville-north-eye-doctor/. | https://registry-edge.dingalinged.workers.dev/c/rosin-eye-care-naperville/
-28. Sight & Style | Organic #28 | Pulse Score 62.4/100 (Unrated, #1 in city) | Sight & Style is an eye care practice in Plano, TX at 3400 Preston Road #240, Plano, TX 75093. Phone: +19725962220. Website: https://www.sightandstyle.com/. | https://registry-edge.dingalinged.workers.dev/c/sight-and-style-plano/
-29. Lawrence Eye Care Associates | Organic #29 | Pulse Score 62.4/100 (Unrated, #1 in city) | Lawrence Eye Care Associates is an eye care practice in Lawrence, KS at 1440 Wakarusa Drive #300, Lawrence, KS 66049. Phone: +17858412280. Website: https://lawrenceeyecare.org/. | https://registry-edge.dingalinged.workers.dev/c/lawrence-eye-care-associates-lawrence/
-30. Michigan Retina Center | Organic #30 | Pulse Score 62.4/100 (Unrated, #1 in city) | Michigan Retina Center is an eye care practice in Novi, MI at 24520 Meadowbrook Road #100, Novi, MI 48375. Phone: +13134412227. Website: https://www.michretina.com/. | https://registry-edge.dingalinged.workers.dev/c/michigan-retina-center-novi/
-31. eyetique | Organic #31 | Pulse Score 62.3/100 (Unrated, #1 in city) | eyetique is an eye care practice in Pittsburgh, PA at 3701 Forbes Avenue, Pittsburgh, PA 15213. Phone: +14126821499. Website: https://eyetique.com/. | https://registry-edge.dingalinged.workers.dev/c/eyetique-pittsburgh-n7960221746/
-32. Premier Eye Care LLC | Organic #32 | Pulse Score 62.3/100 (Unrated, #1 in city) | Premier Eye Care LLC is an eye care practice in Mt. Lebanon, PA at 669 Washington Road, Mt. Lebanon, PA 15228. Phone: +14125631020. Website: https://www.premiereye.org/. | https://registry-edge.dingalinged.workers.dev/c/premier-eye-care-llc-mt-lebanon/
-33. Hester Eye Associates | Organic #33 | Pulse Score 62.2/100 (Good, #1 in city) | Hester Eye Associates is an eye care practice in Kennesaw, GA at 3745 Cherokee Street Northwest #404, Kennesaw, GA. Phone: +17705908191. Website: https://hestereye.com/. | https://registry-edge.dingalinged.workers.dev/c/hester-eye-associates-kennesaw/
-34. Roseville Eye Associates | Organic #34 | Pulse Score 62.2/100 (Unrated, #1 in city) | Roseville Eye Associates is an eye care practice in Roseville, MN at 1790 Lexington Avenue North, Roseville, MN 55113. Phone: +16514886771. Website: https://rosevilleeye.com/. | https://registry-edge.dingalinged.workers.dev/c/roseville-eye-associates-roseville/
-35. Shanbom Eye Specialist | Organic #35 | Pulse Score 62.2/100 (Unrated, #1 in city) | Shanbom Eye Specialist is an eye care practice in Berkley, MI at 28747 South Woodward Avenue, Berkley, MI 48072. Phone: +12485462133. Website: https://www.shanbomeye.com/. | https://registry-edge.dingalinged.workers.dev/c/shanbom-eye-specialist-berkley/
-36. Arnold Eyecare Center | Organic #36 | Pulse Score 62.1/100 (Unrated, #1 in city) | Arnold Eyecare Center is an eye care practice in Arnold, MO at 1235 Water Tower Place, Arnold, MO 63010. Phone: +16362968612. Website: https://www.arnoldeye.com/. | https://registry-edge.dingalinged.workers.dev/c/arnold-eyecare-center-arnold/
-37. Children's Mercy Kansas City | Organic #37 | Pulse Score 62.1/100 (Unrated, #1 in city) | Children's Mercy Kansas City is a pediatrician in Kansas City, MO at 501 Northwest Barry Road, Kansas City, MO 64155. Phone: +18164132500. Website: https://www.childrensmercy.org/locations/childrens-mercy-northland/. | https://registry-edge.dingalinged.workers.dev/c/childrens-mercy-kansas-city-kansas-city/
-38. Columbus Laser & Cataract Center | Organic #38 | Pulse Score 62.1/100 (Unrated, #1 in city) | Columbus Laser & Cataract Center is an eye care practice in Westerville, OH at 6357 North Hamilton Road, Westerville, OH 43081. Website: https://columbuslaser.com/. | https://registry-edge.dingalinged.workers.dev/c/columbus-laser-and-cataract-center-westerville/
-39. Accuvision | Organic #39 | Pulse Score 62.1/100 (Unrated, #1 in city) | Accuvision is an eye care practice in Wauconda, IL at 345 West Mill Street, Wauconda, IL 60084. Phone: +18475262020. Website: https://www.accuvision.com/AboutUs/eye-doctor/wauconda/index.aspx. | https://registry-edge.dingalinged.workers.dev/c/accuvision-wauconda/
-40. Flory Optometry | Organic #40 | Pulse Score 62.1/100 (Unrated, #2 in city) | Flory Optometry is an eye care practice in Lawrence, KS at 3300 Bob Billings Parkway #9, Lawrence, KS 66049. Phone: +17857491010. Website: https://www.floryeye.com/. | https://registry-edge.dingalinged.workers.dev/c/flory-optometry-lawrence/
-41. Georgia Eye Associates | Organic #41 | Pulse Score 62.1/100 (Unrated, #1 in city) | Georgia Eye Associates is an eye care practice in Atlanta, GA at 3120 Maple Drive Northeast, Atlanta, GA 30305. Phone: +14042333267. Website: https://www.georgiaeyeassociates.com/. | https://registry-edge.dingalinged.workers.dev/c/georgia-eye-associates-atlanta/
-42. Kleiman Evangelista Eye Centers of Texas | Organic #42 | Pulse Score 62.1/100 (Unrated, #1 in city) | Kleiman Evangelista Eye Centers of Texas is an eye care practice in Southlake, TX at 1825 East Southlake Boulevard, Southlake, TX 76092. Phone: +18179048830. Website: https://keeyecenters.com/locations/southlake-texas/. | https://registry-edge.dingalinged.workers.dev/c/kleiman-evangelista-eye-centers-of-texas-southlake/
-43. Smyrna Eye Group | Organic #43 | Pulse Score 62.1/100 (Unrated, #1 in city) | Smyrna Eye Group is an eye care practice in Smyrna, GA at 4280 East-West Connector, Smyrna, GA 30082. Phone: +17704354457. Website: https://smyrnaeyegroup.com/. | https://registry-edge.dingalinged.workers.dev/c/smyrna-eye-group-smyrna/
-44. Springdale Eye Care | Organic #44 | Pulse Score 62.1/100 (Unrated, #1 in city) | Springdale Eye Care is an eye care practice in Western Springs, IL at 5450 Wolf Road, Western Springs, IL 60558. Phone: +17088202020. Website: https://springdaleeye.com/. | https://registry-edge.dingalinged.workers.dev/c/springdale-eye-care-western-springs/
-45. The Eye and Facial Clinic | Organic #45 | Pulse Score 62.1/100 (Unrated, #1 in city) | The Eye and Facial Clinic is an eye care practice in Warrenville, IL at 28375 Davis Parkway #905, Warrenville, IL 60555. Phone: +16308361616. Website: https://www.eyeandfacialclinic.com/. | https://registry-edge.dingalinged.workers.dev/c/the-eye-and-facial-clinic-warrenville/
-46. Vogue Vision | Organic #46 | Pulse Score 62.1/100 (Unrated, #1 in city) | Vogue Vision is an eye care practice in Clive, IA at 9749 University Avenue, Clive, IA 50325. Phone: +15152235000. Website: https://voguevision.com/. | https://registry-edge.dingalinged.workers.dev/c/vogue-vision-clive/
-47. Lakeview Vision | Organic #47 | Pulse Score 62/100 (Good, #1 in city) | Lakeview Vision is an eye care practice in Lewisville, TX. Phone: +14693906558. | https://registry-edge.dingalinged.workers.dev/c/lakeview-vision-lewisville/
-48. Precious Eyes | Organic #48 | Pulse Score 62/100 (Unrated, #1 in city) | Precious Eyes is an eye care practice in Dallas, TX at 16731 Coit Road #150, Dallas, TX. Phone: +14693997273. Website: https://www.preciouseyes2020.com/. | https://registry-edge.dingalinged.workers.dev/c/precious-eyes-dallas/
-49. Primary Eye Care Associates | Organic #49 | Pulse Score 62/100 (Unrated, #2 in city) | Primary Eye Care Associates is an eye care practice in Chicago, IL at 5460 South Archer Avenue, Chicago, IL. Phone: +17737356090. Website: https://www.wehelpchicagosee.com/. | https://registry-edge.dingalinged.workers.dev/c/primary-eye-care-associates-chicago/
-50. Look Eye Care | Organic #50 | Pulse Score 62/100 (Unrated, #2 in city) | Look Eye Care is an eye care practice in Pittsburgh, PA at 5831 Forbes Avenue, Pittsburgh, PA. Phone: +14123157876. | https://registry-edge.dingalinged.workers.dev/c/look-eye-care-pittsburgh/
+13. Northeast Eye Center | Organic #13 | Pulse Score 63.7/100 (Good, #1 in city) | Northeast Eye Center is an eye care practice in Hurst, TX at 900 West Pipeline Road, Hurst, TX 76053. Phone: +18172845786. Website: https://www.neceyes.com/. | https://registry-edge.dingalinged.workers.dev/c/northeast-eye-center-hurst/
+14. Milwaukee Eye Care Associates | Organic #14 | Pulse Score 63.7/100 (Unrated, #1 in city) | Milwaukee Eye Care Associates is an eye care practice in Milwaukee, WI at 1684 North Prospect Avenue, Milwaukee, WI 53202. Phone: +14142712020. Website: https://www.milwaukeeeyecare.com/wisconsin/milwaukee-east-side-office-and-optical.htm. | https://registry-edge.dingalinged.workers.dev/c/milwaukee-eye-care-associates-milwaukee/
+15. Fraser Eye | Organic #15 | Pulse Score 63.7/100 (Unrated, #1 in city) | Fraser Eye is an eye care practice in Fraser, MI at 33080 Utica Road #Suite B, Fraser, MI 48026. Phone: +18662805519. Website: https://www.frasereye.com/about/locations/fraser/. | https://registry-edge.dingalinged.workers.dev/c/fraser-eye-fraser/
+16. Dr. Scott Conroy & Associates | Organic #16 | Pulse Score 63.4/100 (Good, #1 in city) | Dr. Scott Conroy & Associates is an eye care practice in Beaumont, TX at 5854 Eastex Freeway, Beaumont, TX. Phone: +14098991177. Website: https://www.drscottconroy.com/. | https://registry-edge.dingalinged.workers.dev/c/dr-scott-conroy-and-associates-beaumont/
+17. Longview Ophthalmology Associates | Organic #17 | Pulse Score 63.4/100 (Good, #1 in city) | Longview Ophthalmology Associates is an eye care practice in Longview, TX at 3209 North Fourth Street #100, Longview, TX. Phone: +19037572020. Website: https://longvieweyes.com/. | https://registry-edge.dingalinged.workers.dev/c/longview-ophthalmology-associates-longview/
+18. Mission Eyes | Organic #18 | Pulse Score 63.4/100 (Unrated, #1 in city) | Mission Eyes is an eye care practice in Rolling Meadows, IL at 1915 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +18472129936. Website: https://www.instagram.com/mission_eyes/. | https://registry-edge.dingalinged.workers.dev/c/mission-eyes-rolling-meadows/
+19. Customeyes Family Eye Care & Optical | Organic #19 | Pulse Score 63.3/100 (Unrated, #1 in city) | Customeyes Family Eye Care & Optical is an eye care practice in Houston, TX at 8420 Katy Freeway #512, Houston, TX 77024. Phone: +17138279500. Website: https://yourcustomeyes.com/. | https://registry-edge.dingalinged.workers.dev/c/customeyes-family-eye-care-and-optical-houston/
+20. Stanton Optical | Organic #20 | Pulse Score 63.2/100 (Good, #1 in city) | Stanton Optical is an eye care practice in Marietta, GA at 2157 Roswell Road, Marietta, GA 30062. Phone: +17702992351. Website: https://www.stantonoptical.com/locations/marietta-ga/. | https://registry-edge.dingalinged.workers.dev/c/stanton-optical-marietta/
+21. Marietta Eye Clinic | Organic #21 | Pulse Score 63.2/100 (Good, #1 in city) | Marietta Eye Clinic is an eye care practice in Woodstock, GA at 2990 Eagle Drive, Woodstock, GA. Phone: +16784604810. Website: https://www.mariettaeye.com/. | https://registry-edge.dingalinged.workers.dev/c/marietta-eye-clinic-woodstock/
+22. Customeyes Family Eye Care & Optical | Organic #22 | Pulse Score 63.2/100 (Unrated, #1 in city) | Customeyes Family Eye Care & Optical is an eye care practice in Pearland, TX at 11150 West Broadway Street #100, Pearland, TX 77584. Phone: +17134366000. Website: https://yourcustomeyes.com/. | https://registry-edge.dingalinged.workers.dev/c/customeyes-family-eye-care-and-optical-pearland/
+23. Hill Country Vision Center | Organic #23 | Pulse Score 63.2/100 (Unrated, #1 in city) | Hill Country Vision Center is an eye care practice in San Antonio, TX at 810 Knights Cross Drive #101, San Antonio, TX 78258. Phone: +12104959020. Website: https://hillcountryvisioncenter-stone-oak.com/. | https://registry-edge.dingalinged.workers.dev/c/hill-country-vision-center-san-antonio/
+24. Nethery Eye Associates | Organic #24 | Pulse Score 63.1/100 (Good, #1 in city) | Nethery Eye Associates is an eye care practice in Cleburne, TX at 605 North Nolan River Road #E, Cleburne, TX 76033. Phone: +16828001072. Website: https://netheryeye.com/nethery-eye-associates-cleburne-office/. | https://registry-edge.dingalinged.workers.dev/c/nethery-eye-associates-cleburne/
+25. Dr. Emily Baker & Associates PC | Organic #25 | Pulse Score 63/100 (Unrated, #1 in city) | Dr. Emily Baker & Associates PC is an eye care practice in Broomfield, CO at 500 Summit Boulevard, Broomfield, CO 80021. Phone: +13034663845. Website: https://www.bakervision.net/. | https://registry-edge.dingalinged.workers.dev/c/dr-emily-baker-and-associates-pc-broomfield/
+26. Eye Associates of South Texas | Organic #26 | Pulse Score 63/100 (Unrated, #1 in city) | Eye Associates of South Texas is an eye care practice in New Braunfels, TX at 457 Landa Street #F, New Braunfels, TX 78130. Phone: +18306277327. Website: https://www.eyeassociatesofsouthtexas.com/locations/new-braunfels/. | https://registry-edge.dingalinged.workers.dev/c/eye-associates-of-south-texas-new-braunfels/
+27. Rinkov Eyecare Centers | Organic #27 | Pulse Score 63/100 (Unrated, #1 in city) | Rinkov Eyecare Centers is an eye care practice in Columbus, OH at 81 East Gay Street, Columbus, OH 43215. Phone: +16142242414. Website: https://www.rinkoveyecare.com/locations/oh/columbus/downtown/. | https://registry-edge.dingalinged.workers.dev/c/rinkov-eyecare-centers-columbus/
+28. San Gabriel Eye Center | Organic #28 | Pulse Score 62.9/100 (Good, #1 in city) | San Gabriel Eye Center is an eye care practice in Georgetown, TX at 1401 Williams Drive, Georgetown, TX 78628. Phone: +15128632078. Website: https://sangabrieleyecenter.com/. | https://registry-edge.dingalinged.workers.dev/c/san-gabriel-eye-center-georgetown/
+29. iDoctor | Organic #29 | Pulse Score 62.9/100 (Unrated, #1 in city) | iDoctor is an eye care practice in Glendale Heights, IL at 132 East Army Trail Road, Glendale Heights, IL 60139. Phone: +16304546899. Website: https://www.idoctoril.com/. | https://registry-edge.dingalinged.workers.dev/c/idoctor-glendale-heights/
+30. Arnett Vision Care | Organic #30 | Pulse Score 62.9/100 (Unrated, #1 in city) | Arnett Vision Care is an eye care practice in Florence, KY at 7921 Mall Road #Suite B, Florence, KY 41042. Phone: +18595250234. Website: https://www.arnettvisioncare.com/contact.html. | https://registry-edge.dingalinged.workers.dev/c/arnett-vision-care-florence/
+31. Fort Worth Eye Associates | Organic #31 | Pulse Score 62.8/100 (Unrated, #1 in city) | Fort Worth Eye Associates is an eye care practice in Fort Worth, TX at 5000 Collinwood Avenue, Fort Worth, TX. Phone: +18177325593. Website: https://www.ranelle.com/. | https://registry-edge.dingalinged.workers.dev/c/fort-worth-eye-associates-fort-worth/
+32. Marietta Eye Clinic - Johns Creek | Organic #32 | Pulse Score 62.7/100 (Good, #1 in city) | Marietta Eye Clinic - Johns Creek is an eye care practice in Johns Creek, GA at 4025 Johns Creek Court #200, Johns Creek, GA 30024. Phone: +16784392451. Website: https://www.mariettaeye.com/our-locations/johns-creek/. | https://registry-edge.dingalinged.workers.dev/c/marietta-eye-clinic-johns-creek-johns-creek/
+33. Optique | Organic #33 | Pulse Score 62.7/100 (Unrated, #2 in city) | Optique is an eye care practice in Austin, TX at 211 Walter Seaholm Drive #140, Austin, TX 78701. Phone: +15124723937. Website: https://optiqueaustin.com/. | https://registry-edge.dingalinged.workers.dev/c/optique-austin/
+34. Tom Mueller | Organic #34 | Pulse Score 62.6/100 (Unrated, #1 in city) | Tom Mueller is an eye care practice in Belle Vernon, PA at 170 Finley Rd, Belle Vernon, PA 15012. Phone: +17249308250. Website: https://visionsource-rec.com/. | https://registry-edge.dingalinged.workers.dev/c/tom-mueller-belle-vernon/
+35. Liberty Hill Eye Associates | Organic #35 | Pulse Score 62.5/100 (Good, #1 in city) | Liberty Hill Eye Associates is an eye care practice in Liberty Hill, TX at 14370 TX 29 #8, Liberty Hill, TX 78642. Phone: +15125155100. Website: https://www.libertyhilleyes.net/. | https://registry-edge.dingalinged.workers.dev/c/liberty-hill-eye-associates-liberty-hill/
+36. Rosin Eye Care | Organic #36 | Pulse Score 62.4/100 (Unrated, #2 in city) | Rosin Eye Care is an eye care practice in Naperville, IL at 705 East Ogden Avenue, Naperville, IL 60563. Phone: +16307782020. Website: https://www.rosineyecare.com/naperville-north-eye-doctor/. | https://registry-edge.dingalinged.workers.dev/c/rosin-eye-care-naperville/
+37. Texas Optical Center | Organic #37 | Pulse Score 62.4/100 (Unrated, #1 in city) | Texas Optical Center is an eye care practice in Greenville, TX at 5200 Wesley Street, Greenville, TX 75402. Phone: +19034550294. Website: https://texasopticalcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-optical-center-greenville/
+38. Lawrence Eye Care Associates | Organic #38 | Pulse Score 62.4/100 (Unrated, #1 in city) | Lawrence Eye Care Associates is an eye care practice in Lawrence, KS at 1440 Wakarusa Drive #300, Lawrence, KS 66049. Phone: +17858412280. Website: https://lawrenceeyecare.org/. | https://registry-edge.dingalinged.workers.dev/c/lawrence-eye-care-associates-lawrence/
+39. Michigan Retina Center | Organic #39 | Pulse Score 62.4/100 (Unrated, #1 in city) | Michigan Retina Center is an eye care practice in Novi, MI at 24520 Meadowbrook Road #100, Novi, MI 48375. Phone: +13134412227. Website: https://www.michretina.com/. | https://registry-edge.dingalinged.workers.dev/c/michigan-retina-center-novi/
+40. Sunshine Eye Clinic | Organic #40 | Pulse Score 62.4/100 (Unrated, #1 in city) | Sunshine Eye Clinic is an eye care practice in Springfield, MO at 1441 East Sunshine Street, Springfield, MO 65804. Phone: +14178862020. Website: https://www.sunshineeyeclinic.com/. | https://registry-edge.dingalinged.workers.dev/c/sunshine-eye-clinic-springfield/
+41. Reveal Eye Care & Surgery | Organic #41 | Pulse Score 62.3/100 (Good, #2 in city) | Reveal Eye Care & Surgery is an eye care practice in Georgetown, TX at 3613 Williams Drive #703, Georgetown, TX 78628. Phone: +15126861224. Website: https://www.revealeye.com/. | https://registry-edge.dingalinged.workers.dev/c/reveal-eye-care-and-surgery-georgetown/
+42. Sight & Style | Organic #42 | Pulse Score 62.3/100 (Unrated, #1 in city) | Sight & Style is an eye care practice in Plano, TX at 3400 Preston Road #240, Plano, TX 75093. Phone: +19725962220. Website: https://www.sightandstyle.com/. | https://registry-edge.dingalinged.workers.dev/c/sight-and-style-plano/
+43. See Clear Eye Care | Organic #43 | Pulse Score 62.3/100 (Unrated, #1 in city) | See Clear Eye Care is an eye care practice in Dallas, TX at 8055 Churchill Way, Dallas, TX. Phone: +14696807561. Website: https://www.seecleareyecare.com/. | https://registry-edge.dingalinged.workers.dev/c/see-clear-eye-care-dallas/
+44. Hester Eye Associates | Organic #44 | Pulse Score 62.2/100 (Good, #1 in city) | Hester Eye Associates is an eye care practice in Kennesaw, GA at 3745 Cherokee Street Northwest #404, Kennesaw, GA. Phone: +17705908191. Website: https://hestereye.com/. | https://registry-edge.dingalinged.workers.dev/c/hester-eye-associates-kennesaw/
+45. eyetique | Organic #45 | Pulse Score 62.2/100 (Unrated, #1 in city) | eyetique is an eye care practice in Pittsburgh, PA at 3701 Forbes Avenue, Pittsburgh, PA 15213. Phone: +14126821499. Website: https://eyetique.com/. | https://registry-edge.dingalinged.workers.dev/c/eyetique-pittsburgh-n7960221746/
+46. Fayetteville Eyecare Clinic | Organic #46 | Pulse Score 62.2/100 (Unrated, #1 in city) | Fayetteville Eyecare Clinic is an eye care practice in Fayetteville, AR at 1915 North Green Acres Road, Fayetteville, AR 72703. Phone: +14794428961. Website: https://www.fayettevilleeyecareclinic.com/. | https://registry-edge.dingalinged.workers.dev/c/fayetteville-eyecare-clinic-fayetteville/
+47. Premier Eye Care LLC | Organic #47 | Pulse Score 62.2/100 (Unrated, #1 in city) | Premier Eye Care LLC is an eye care practice in Mt. Lebanon, PA at 669 Washington Road, Mt. Lebanon, PA 15228. Phone: +14125631020. Website: https://www.premiereye.org/. | https://registry-edge.dingalinged.workers.dev/c/premier-eye-care-llc-mt-lebanon/
+48. Roseville Eye Associates | Organic #48 | Pulse Score 62.2/100 (Unrated, #1 in city) | Roseville Eye Associates is an eye care practice in Roseville, MN at 1790 Lexington Avenue North, Roseville, MN 55113. Phone: +16514886771. Website: https://rosevilleeye.com/. | https://registry-edge.dingalinged.workers.dev/c/roseville-eye-associates-roseville/
+49. Shanbom Eye Specialist | Organic #49 | Pulse Score 62.2/100 (Unrated, #1 in city) | Shanbom Eye Specialist is an eye care practice in Berkley, MI at 28747 South Woodward Avenue, Berkley, MI 48072. Phone: +12485462133. Website: https://www.shanbomeye.com/. | https://registry-edge.dingalinged.workers.dev/c/shanbom-eye-specialist-berkley/
+50. Arnold Eyecare Center | Organic #50 | Pulse Score 62.1/100 (Unrated, #1 in city) | Arnold Eyecare Center is an eye care practice in Arnold, MO at 1235 Water Tower Place, Arnold, MO 63010. Phone: +16362968612. Website: https://www.arnoldeye.com/. | https://registry-edge.dingalinged.workers.dev/c/arnold-eyecare-center-arnold/
 
-## More eye doctor listings (541 total; top 50 unpaid shown)
+## More eye doctor listings (711 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/eye-doctor.jsonl
 - Chicago, IL: 29 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-chicago-il/
-- Houston, TX: 19 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-houston-tx/
+- Houston, TX: 20 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-houston-tx/
+- San Antonio, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-san-antonio-tx/
+- Austin, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-austin-tx/
+- Dallas, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-dallas-tx/
 - Lancaster, OH: 10 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-lancaster-oh/
-- Dallas, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-dallas-tx/
+- Amarillo, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-amarillo-tx/
+- Harris County, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-harris-county-tx/
 - Pittsburgh, PA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-pittsburgh-pa/
+- Plano, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-plano-tx/
 - Olathe, KS: 8 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-olathe-ks/
 - Lawrence, KS: 8 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-lawrence-ks/
 - Sterling Heights, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-sterling-heights-mi/
-- Harris County, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-harris-county-tx/
 - Kansas City, MO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-kansas-city-mo/
 - Saint Louis County, MO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-saint-louis-county-mo/
-- Plano, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-plano-tx/
+- Fayetteville, AR: 6 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-fayetteville-ar/
 - Minneapolis, MN: 6 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-minneapolis-mn/
 - Indianapolis, IN: 6 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-indianapolis-in/
 - Cincinnati, OH: 6 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-cincinnati-oh/
 - Springfield, MO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-springfield-mo/
+- New Braunfels, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-new-braunfels-tx/
+- Longview, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-longview-tx/
 - Frisco, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-frisco-tx/
+- Georgetown, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-georgetown-tx/
+- Cleburne, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-cleburne-tx/
 - Westerville, OH: 5 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-westerville-oh/
 - Columbus, OH: 5 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-columbus-oh/
 - Aurora, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-aurora-co/
@@ -86,9 +94,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Milwaukee, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-milwaukee-wi/
 - Sun Prairie, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-sun-prairie-wi/
 - Madison, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-madison-wi/
+- El Paso, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-el-paso-tx/
+- Leander, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-leander-tx/
+- Fort Worth, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-fort-worth-tx/
 - Denton, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-denton-tx/
 - Lewisville, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-lewisville-tx/
 - Sugar Land, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-sugar-land-tx/
+- Rogers, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-rogers-ar/
 - Overland Park, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-overland-park-ks/
 - Edwardsville, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-edwardsville-il/
 - Naperville, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-naperville-il/
@@ -99,9 +111,17 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Dearborn, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-dearborn-mi/
 - Ross Township, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-ross-township-pa/
 - Mt. Lebanon, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-mt-lebanon-pa/
+- Texarkana, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-texarkana-tx/
+- Lakeway, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-lakeway-tx/
+- Burleson, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-burleson-tx/
+- Paris, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-paris-tx/
 - Irving, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-irving-tx/
+- Lubbock, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-lubbock-tx/
+- Fort Bend County, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-fort-bend-county-tx/
+- Cedar Park, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-cedar-park-tx/
 - Richardson, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-richardson-tx/
 - Rockwall, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-rockwall-tx/
+- Russellville, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-russellville-ar/
 - Florence, KY: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-florence-ky/
 - Saint Paul, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-saint-paul-mn/
 - Saint Louis Park, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-saint-louis-park-mn/
@@ -139,14 +159,29 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Charleroi, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-charleroi-pa/
 - Forest Hills, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-forest-hills-pa/
 - Monroeville, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-monroeville-pa/
+- San Marcos, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-san-marcos-tx/
 - Allen, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-allen-tx/
 - Hurst, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-hurst-tx/
+- Bastrop, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-bastrop-tx/
+- Boerne, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-boerne-tx/
 - Conroe, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-conroe-tx/
+- College Station, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-college-station-tx/
 - Pearland, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-pearland-tx/
-- Fort Bend County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-fort-bend-county-tx/
+- Round Rock, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-round-rock-tx/
+- Woodway, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-woodway-tx/
+- Humble, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-humble-tx/
 - Mesquite, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-mesquite-tx/
+- Bulverde, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-bulverde-tx/
 - Flower Mound, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-flower-mound-tx/
+- Corpus Christi, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-corpus-christi-tx/
+- Mcallen, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-mcallen-tx/
+- West Lake Hills, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-west-lake-hills-tx/
 - Trophy Club, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-trophy-club-tx/
+- Conway, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-conway-ar/
+- North Little Rock, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-north-little-rock-ar/
+- Fort Smith, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-fort-smith-ar/
+- Cabot, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-cabot-ar/
+- Little Rock, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-little-rock-ar/
 - Fort Mitchell, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-fort-mitchell-ky/
 - Shakopee, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-shakopee-mn/
 - Carmel, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-carmel-in/
@@ -254,32 +289,59 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Rostraver Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-rostraver-township-pa/
 - Belle Vernon, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-belle-vernon-pa/
 - Pleasant Hills, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-pleasant-hills-pa/
+- Bee Cave, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-bee-cave-tx/
+- Belton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-belton-tx/
 - Hedwig Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-hedwig-village-tx/
+- Waco, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-waco-tx/
 - The Woodlands, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-the-woodlands-tx/
 - Mckinney, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-mckinney-tx/
 - Cedar Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-cedar-hill-tx/
 - Spring Valley Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-spring-valley-village-tx/
+- Benbrook, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-benbrook-tx/
+- Denison, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-denison-tx/
 - Rowlett, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-rowlett-tx/
+- Beaumont, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-beaumont-tx/
+- Elgin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-elgin-tx/
 - Prosper, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-prosper-tx/
+- Abilene, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-abilene-tx/
 - Euless, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-euless-tx/
 - Westlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-westlake-tx/
+- Weatherford, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-weatherford-tx/
+- Schertz, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-schertz-tx/
+- Eagle Pass, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-eagle-pass-tx/
 - Richmond, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-richmond-tx/
+- Buda, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-buda-tx/
+- Leon Valley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-leon-valley-tx/
+- Cibolo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-cibolo-tx/
 - Montgomery County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-montgomery-county-tx/
+- Keller, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-keller-tx/
 - Southlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-southlake-tx/
+- Liberty Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-liberty-hill-tx/
+- Pflugerville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-pflugerville-tx/
+- Los Fresnos, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-los-fresnos-tx/
 - Cleveland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-cleveland-tx/
+- Angleton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-angleton-tx/
 - Wylie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-wylie-tx/
 - Murphy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-murphy-tx/
 - Carrollton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-carrollton-tx/
 - Roanoke, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-roanoke-tx/
 - Northlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-northlake-tx/
 - North Richland Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-north-richland-hills-tx/
+- Greenville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-greenville-tx/
+- Bryan, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-bryan-tx/
 - Farmers Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-farmers-branch-tx/
 - Magnolia, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-magnolia-tx/
 - Colleyville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-colleyville-tx/
 - Mansfield, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-mansfield-tx/
+- Midland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-midland-tx/
+- Edinburg, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-edinburg-tx/
+- Lockhart, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-lockhart-tx/
 - Arlington, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-arlington-tx/
 - Coppell, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-coppell-tx/
 - Katy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-katy-tx/
+- Manor, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-manor-tx/
+- Friendswood, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-friendswood-tx/
+- Bella Vista, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-bella-vista-ar/
 - Cold Spring, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-cold-spring-ky/
 - Independence, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-independence-ky/
 - Newport, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-newport-ky/
@@ -338,7 +400,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 541
+- Registry businesses competing: 711
 - Equivalent Google Ads cost per month: ~$70,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

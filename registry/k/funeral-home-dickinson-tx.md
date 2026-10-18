@@ -6,7 +6,7 @@ Also answers: funeral home in Dickinson, TX; funeral home near me (Dickinson, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crowder Funeral Home | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Crowder Funeral Home is a funeral home in Dickinson, TX at 851 FM 517 W, Dickinson, TX 77539. Phone: +12813371515. Website: https://crowderfuneralhome.com/. | https://registry-edge.dingalinged.workers.dev/c/crowder-funeral-home-dickinson/
+1. Crowder Funeral Home | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Crowder Funeral Home is a funeral home in Dickinson, TX at 851 FM 517 W, Dickinson, TX 77539. Phone: +12813371515. Website: https://crowderfuneralhome.com/. | https://registry-edge.dingalinged.workers.dev/c/crowder-funeral-home-dickinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home dickinson tx | category: Professional & financial services | industry benchmark: Finance & Insurance

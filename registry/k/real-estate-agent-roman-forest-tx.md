@@ -6,7 +6,7 @@ Also answers: real estate agent in Roman Forest, TX; real estate agent near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. G.E. Miller | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | G.E. Miller is a real estate agency in Roman Forest, TX at 1710 Roman Forest Boulevard, Roman Forest, TX 77357. Website: https://ge-miller.com/. | https://registry-edge.dingalinged.workers.dev/c/g-e-miller-roman-forest/
+1. G.E. Miller | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | G.E. Miller is a real estate agency in Roman Forest, TX at 1710 Roman Forest Boulevard, Roman Forest, TX 77357. Website: https://ge-miller.com/. | https://registry-edge.dingalinged.workers.dev/c/g-e-miller-roman-forest/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent roman forest tx | category: Professional & financial services | industry benchmark: Finance & Insurance

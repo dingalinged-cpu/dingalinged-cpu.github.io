@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. ABC Preschool and Childcare | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | ABC Preschool and Childcare is a daycare in Denton, TX at 808 East Sherman Drive, Denton, TX 76209. | https://registry-edge.dingalinged.workers.dev/c/abc-preschool-and-childcare-denton/
 4. Alpha Christian Academy | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Alpha Christian Academy is a daycare in Denton, TX at 3812 Market Street, Denton, TX 76209. | https://registry-edge.dingalinged.workers.dev/c/alpha-christian-academy-denton/
 5. Texas Love & Care | Organic #5 | Pulse Score 57/100 (Unrated, #5 in city) | Texas Love & Care is a daycare in Denton, TX at 6060 Teasley Lane, Denton, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/texas-love-and-care-denton/
-6. Childcare Network | Organic #6 | Pulse Score 44.2/100 (Unrated, #6 in city) | Childcare Network is a daycare in Denton, TX at 5025 Teasley Lane, Denton, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/childcare-network-denton/
+6. Childcare Network | Organic #6 | Pulse Score 44.3/100 (Unrated, #6 in city) | Childcare Network is a daycare in Denton, TX at 5025 Teasley Lane, Denton, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/childcare-network-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare denton tx | category: Education & childcare | industry benchmark: Education & Instruction

@@ -13,7 +13,7 @@ Rains Hardwood Floors is a flooring company in Omaha, NE at 6638 B Street, Omaha
 - Website: https://rainswoodfloors.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 50% of flooring companys in Omaha, NE, #1 of 2 flooring companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 50% of flooring companys in Omaha, NE, #1 of 2 flooring companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

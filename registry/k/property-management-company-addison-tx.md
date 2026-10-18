@@ -6,7 +6,7 @@ Also answers: property management company in Addison, TX; property management co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Peterson Group | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | The Peterson Group is a property management company in Addison, TX at 15058 Beltway Drive #119, Addison, TX 75001. Website: https://www.petersonmanagementgroup.net/. | https://registry-edge.dingalinged.workers.dev/c/the-peterson-group-addison/
+1. The Peterson Group | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | The Peterson Group is a property management company in Addison, TX at 15058 Beltway Drive #119, Addison, TX 75001. Website: https://www.petersonmanagementgroup.net/. | https://registry-edge.dingalinged.workers.dev/c/the-peterson-group-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company addison tx | category: Professional & financial services | industry benchmark: Finance & Insurance

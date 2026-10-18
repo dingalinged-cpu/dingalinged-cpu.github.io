@@ -13,7 +13,7 @@ Piedmont Nails & Spa is a nail salon in Atlanta, GA at 1000 Piedmont Avenue Nort
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu-Sa 10:00-19:00; Su 12:00-18:00
-- Pulse Score: 62.8/100 — Good — top 14% of nail salons in Atlanta, #8 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.6, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 13% of nail salons in Atlanta, #8 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.6, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

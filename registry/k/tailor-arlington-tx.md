@@ -6,8 +6,8 @@ Also answers: tailor in Arlington, TX; tailor near me (Arlington, TX); best tail
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alterations & Custom Designs | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Alterations & Custom Designs is a tailor in Arlington, TX at 1021 South Bowen Road, Arlington, TX 76013. Phone: +18172773828. | https://registry-edge.dingalinged.workers.dev/c/alterations-and-custom-designs-arlington/
-2. Back on the Rack | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Back on the Rack is a tailor in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/back-on-the-rack-arlington/
+1. Alterations & Custom Designs | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Alterations & Custom Designs is a tailor in Arlington, TX at 1021 South Bowen Road, Arlington, TX 76013. Phone: +18172773828. | https://registry-edge.dingalinged.workers.dev/c/alterations-and-custom-designs-arlington/
+2. Back on the Rack | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Back on the Rack is a tailor in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/back-on-the-rack-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor arlington tx | category: Professional & financial services | industry benchmark: Finance & Insurance

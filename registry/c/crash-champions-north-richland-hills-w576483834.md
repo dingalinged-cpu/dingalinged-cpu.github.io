@@ -13,12 +13,12 @@ Crash Champions is an auto repair shop in North Richland Hills, TX at 8225 North
 - Website: https://crashchampions.com/locations/crash-champions-colleyville
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 09:00-12:00
-- Pulse Score: 49.6/100 — Building — top 59% of auto repair shops in Dallas–Fort Worth, #2 of 9 auto repair shops in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 57% of auto repair shops in Dallas–Fort Worth, #2 of 9 auto repair shops in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/crash-champions-north-richland-hills-w576483834/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/crash-champions-north-richland-hills-w576483834.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/576483834 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/576483834 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

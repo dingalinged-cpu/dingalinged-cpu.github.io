@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for Waxahachie, TX is Salon Friends (a hair salon in Waxahachie, TX at 106 West Main Street, Waxahachie, TX 75165. Phone: +19729374247. Website: https://salonfriends.com/). 4 hair salon businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Waxahachie, TX is Dolche Luna Salon & Spa (a hair salon in Waxahachie, TX at 106 West Main Street, Waxahachie, TX 75165. Phone: +14697585862. Website: https://www.facebook.com/p/DolChe-Luna-SalonSpa-100075981852300/). 5 hair salon businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Waxahachie, TX?
 
@@ -6,10 +6,11 @@ Also answers: hair salon in Waxahachie, TX; hair salon near me (Waxahachie, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salon Friends | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Salon Friends is a hair salon in Waxahachie, TX at 106 West Main Street, Waxahachie, TX 75165. Phone: +19729374247. Website: https://salonfriends.com/. | https://registry-edge.dingalinged.workers.dev/c/salon-friends-waxahachie/
-2. The Hair House | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | The Hair House is a hair salon in Waxahachie, TX at 432 North Monroe Street, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/the-hair-house-waxahachie/
-3. Karen's Hairstyling | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | Karen's Hairstyling is a hair salon in Waxahachie, TX at 519 Ferris Avenue, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/karens-hairstyling-waxahachie/
-4. Simply Chic | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Simply Chic is a hair salon in Waxahachie, TX at 513 Ferris Avenue, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/simply-chic-waxahachie/
+1. Dolche Luna Salon & Spa | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Dolche Luna Salon & Spa is a hair salon in Waxahachie, TX at 106 West Main Street, Waxahachie, TX 75165. Phone: +14697585862. Website: https://www.facebook.com/p/DolChe-Luna-SalonSpa-100075981852300/. | https://registry-edge.dingalinged.workers.dev/c/salon-friends-waxahachie/
+2. Tru Love Salons | Organic #2 | Pulse Score 61.6/100 (Unrated, #1 in city) | Tru Love Salons is a hair salon in Waxahachie, TX at 110 North College Street, Waxahachie, TX 75165. Phone: +12149037208. Website: https://www.trulovesalons.com/. | https://registry-edge.dingalinged.workers.dev/c/tru-love-salons-waxahachie/
+3. The Hair House | Organic #3 | Pulse Score 58.1/100 (Unrated, #2 in city) | The Hair House is a hair salon in Waxahachie, TX at 432 North Monroe Street, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/the-hair-house-waxahachie/
+4. Karen's Hairstyling | Organic #4 | Pulse Score 57.7/100 (Unrated, #3 in city) | Karen's Hairstyling is a hair salon in Waxahachie, TX at 519 Ferris Avenue, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/karens-hairstyling-waxahachie/
+5. Simply Chic | Organic #5 | Pulse Score 57/100 (Unrated, #4 in city) | Simply Chic is a hair salon in Waxahachie, TX at 513 Ferris Avenue, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/simply-chic-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon waxahachie tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -19,7 +20,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'hair salon near me': $0.55-$2.85 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 4
+- Registry businesses competing: 5
 - Equivalent Google Ads cost per month: ~$1,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

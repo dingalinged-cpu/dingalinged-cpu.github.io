@@ -13,7 +13,7 @@ Guthrie Family Dental is a dentist in Grain Valley, MO at 1203 South Buckner Tar
 - Website: https://www.guthriefamilydental.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 32% of dentists in Kansas City, MO, #2 of 3 dentists in Grain Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 32% of dentists in Kansas City, MO, #2 of 3 dentists in Grain Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,9 +6,9 @@ Also answers: waxing in Milwaukee, WI; waxing near me (Milwaukee, WI); best waxi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kira's Kove | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Kira's Kove is a waxing salon in Milwaukee, WI at 4422 West North Avenue, Milwaukee, WI 53210. Phone: +14144994057. Website: https://www.kiraskove.com/. | https://registry-edge.dingalinged.workers.dev/c/kiras-kove-milwaukee/
-2. JB Nails & Spa | Organic #2 | Pulse Score 58/100 (Unrated, #25 in city) | JB Nails & Spa is a nail salon in Milwaukee, WI at 2138 South Kinnickinnic Avenue, Milwaukee, WI 53207. Website: https://jbnailsspa.com/. | https://registry-edge.dingalinged.workers.dev/c/jb-nails-and-spa-milwaukee/
-3. Salon Flo | Organic #3 | Pulse Score 54.1/100 (Unrated, #29 in city) | Salon Flo is a nail salon in Milwaukee, WI. | https://registry-edge.dingalinged.workers.dev/c/salon-flo-milwaukee/
+1. Kira's Kove | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Kira's Kove is a waxing salon in Milwaukee, WI at 4422 West North Avenue, Milwaukee, WI 53210. Phone: +14144994057. Website: https://www.kiraskove.com/. | https://registry-edge.dingalinged.workers.dev/c/kiras-kove-milwaukee/
+2. JB Nails & Spa | Organic #2 | Pulse Score 58/100 (Unrated, #23 in city) | JB Nails & Spa is a nail salon in Milwaukee, WI at 2138 South Kinnickinnic Avenue, Milwaukee, WI 53207. Website: https://jbnailsspa.com/. | https://registry-edge.dingalinged.workers.dev/c/jb-nails-and-spa-milwaukee/
+3. Salon Flo | Organic #3 | Pulse Score 54.1/100 (Unrated, #27 in city) | Salon Flo is a nail salon in Milwaukee, WI. | https://registry-edge.dingalinged.workers.dev/c/salon-flo-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing milwaukee wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

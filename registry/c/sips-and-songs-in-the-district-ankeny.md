@@ -13,7 +13,7 @@ Sips & Songs in The District is an event venue in Ankeny, IA at 1500 Southwest M
 - Website: n/a
 - Email: maggiep@thedistrictpt.com
 - Opening hours (OSM syntax): Fr 17:30-20:30
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 16% of event venues in Des Moines, IA, #1 of 2 event venues in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 16% of event venues in Des Moines, IA, #1 of 2 event venues in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Pet Boutique Grooming is a dog groomer in Cobb County, GA at 2995 Johnson Ferry 
 - Website: https://petboutique-grooming.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 07:30-18:00
-- Pulse Score: 59.7/100 — Fair — top 49% of dog groomers in Atlanta, #3 of 8 dog groomers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Fair — top 49% of dog groomers in Atlanta, #3 of 8 dog groomers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

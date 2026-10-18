@@ -6,7 +6,7 @@ Also answers: jewelry store in Bellevue, NE; jewelry store near me (Bellevue, NE
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Erwin's Jewelers | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Erwin's Jewelers is a jewelry store in Bellevue, NE at 223 West Mission Avenue, Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/erwins-jewelers-bellevue/
+1. Erwin's Jewelers | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Erwin's Jewelers is a jewelry store in Bellevue, NE at 223 West Mission Avenue, Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/erwins-jewelers-bellevue/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store bellevue ne | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

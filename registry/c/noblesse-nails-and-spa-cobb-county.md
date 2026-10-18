@@ -13,7 +13,7 @@ Noblesse Nails And Spa is a nail salon in Cobb County, GA at 4648 Woodstock Road
 - Website: n/a
 - Email: zrblack714@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 11:00-18:00
-- Pulse Score: 62.9/100 — Good — top 12% of nail salons in Atlanta, #5 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.6, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 11% of nail salons in Atlanta, #5 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.6, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

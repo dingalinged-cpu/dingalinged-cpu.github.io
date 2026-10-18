@@ -13,12 +13,12 @@ NOMI - Bathroom Remodeling Dallas Tx is a plumber in Dallas, TX at 5956 Sherry L
 - Website: https://nomibath.com/
 - Email: info@nomibath.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 64.5/100 — Good — top 8% of plumbers in Dallas–Fort Worth, #1 of 2 plumbers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.5, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 8% of plumbers in Dallas–Fort Worth, #1 of 3 plumbers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.5, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/nomi-bathroom-remodeling-dallas-tx-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nomi-bathroom-remodeling-dallas-tx-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11648674352 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11648674352 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

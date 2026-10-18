@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Fuller's Fast Lube | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Fuller's Fast Lube is an auto repair shop in Mokena, IL. | https://registry-edge.dingalinged.workers.dev/c/fullers-fast-lube-mokena/
 3. Gamboa's Auto Service | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Gamboa's Auto Service is an auto repair shop in Mokena, IL. | https://registry-edge.dingalinged.workers.dev/c/gamboas-auto-service-mokena/
 4. Ray's Auto Body | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Ray's Auto Body is an auto repair shop in Mokena, IL. | https://registry-edge.dingalinged.workers.dev/c/rays-auto-body-mokena/
-5. Crash Champions | Organic #5 | Pulse Score 48.8/100 (Building, #5 in city) | Crash Champions is an auto repair shop in Mokena, IL. Phone: +17084794321. Website: https://crashchampions.com/locations/crash-champions-mokena-191st. | https://registry-edge.dingalinged.workers.dev/c/crash-champions-mokena/
+5. Crash Champions | Organic #5 | Pulse Score 48.7/100 (Building, #5 in city) | Crash Champions is an auto repair shop in Mokena, IL. Phone: +17084794321. Website: https://crashchampions.com/locations/crash-champions-mokena-191st. | https://registry-edge.dingalinged.workers.dev/c/crash-champions-mokena/
 6. Firestone | Organic #6 | Pulse Score 42.2/100 (Building, #6 in city) | Firestone is an auto repair shop in Mokena, IL. | https://registry-edge.dingalinged.workers.dev/c/firestone-mokena/
 7. Goodyear | Organic #7 | Pulse Score 41.7/100 (Building, #7 in city) | Goodyear is an auto repair shop in Mokena, IL. | https://registry-edge.dingalinged.workers.dev/c/goodyear-mokena/
 

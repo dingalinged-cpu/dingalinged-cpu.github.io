@@ -6,9 +6,9 @@ Also answers: window repair in Marietta, GA; window repair near me (Marietta, GA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. D & S Glass | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | D & S Glass is a window repair service in Marietta, GA at 580 Cobb Parkway North, Marietta, GA. Phone: +17704199292. Website: https://www.dandsglass.com/. | https://registry-edge.dingalinged.workers.dev/c/d-and-s-glass-marietta/
-2. Great Dane Glass & Mirror | Organic #2 | Pulse Score 61.1/100 (Good, #2 in city) | Great Dane Glass & Mirror is a window repair service in Marietta, GA at 1951 Canton Road Northeast #140, Marietta, GA. Phone: +16787564452. Website: https://glassshopmarietta.com/. | https://registry-edge.dingalinged.workers.dev/c/great-dane-glass-and-mirror-marietta/
-3. Binswanger Glass | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Binswanger Glass is a window repair service in Marietta, GA. | https://registry-edge.dingalinged.workers.dev/c/binswanger-glass-marietta/
+1. D & S Glass | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | D & S Glass is a window repair service in Marietta, GA at 580 Cobb Parkway North, Marietta, GA. Phone: +17704199292. Website: https://www.dandsglass.com/. | https://registry-edge.dingalinged.workers.dev/c/d-and-s-glass-marietta/
+2. Great Dane Glass & Mirror | Organic #2 | Pulse Score 61/100 (Good, #2 in city) | Great Dane Glass & Mirror is a window repair service in Marietta, GA at 1951 Canton Road Northeast #140, Marietta, GA. Phone: +16787564452. Website: https://glassshopmarietta.com/. | https://registry-edge.dingalinged.workers.dev/c/great-dane-glass-and-mirror-marietta/
+3. Binswanger Glass | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Binswanger Glass is a window repair service in Marietta, GA. | https://registry-edge.dingalinged.workers.dev/c/binswanger-glass-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair marietta ga | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

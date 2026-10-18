@@ -6,7 +6,7 @@ Also answers: furniture store in Greenwood, NE; furniture store near me (Greenwo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Yoder's Amish Furniture | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Yoder's Amish Furniture is a furniture store in Greenwood, NE at 648 Main Street, Greenwood, NE 68366. Phone: +14027895111. Website: https://yodersamishfurniture.com/. | https://registry-edge.dingalinged.workers.dev/c/yoders-amish-furniture-greenwood/
+1. Yoder's Amish Furniture | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Yoder's Amish Furniture is a furniture store in Greenwood, NE at 648 Main Street, Greenwood, NE 68366. Phone: +14027895111. Website: https://yodersamishfurniture.com/. | https://registry-edge.dingalinged.workers.dev/c/yoders-amish-furniture-greenwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store greenwood ne | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

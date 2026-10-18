@@ -6,7 +6,7 @@ Also answers: window repair in Saint Paul, MN; window repair near me (Saint Paul
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. J Ring Glass Studio, Inc. | Organic #1 | Pulse Score 60.6/100 (Good, #1 in city) | J Ring Glass Studio, Inc. is a window repair service in Saint Paul, MN at 1902 Minnehaha Avenue, Saint Paul, MN 55104. Phone: +16516448193. Website: https://www.jringglass.com/. | https://registry-edge.dingalinged.workers.dev/c/j-ring-glass-studio-inc-saint-paul/
+1. J Ring Glass Studio, Inc. | Organic #1 | Pulse Score 60.5/100 (Good, #1 in city) | J Ring Glass Studio, Inc. is a window repair service in Saint Paul, MN at 1902 Minnehaha Avenue, Saint Paul, MN 55104. Phone: +16516448193. Website: https://www.jringglass.com/. | https://registry-edge.dingalinged.workers.dev/c/j-ring-glass-studio-inc-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair saint paul mn | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

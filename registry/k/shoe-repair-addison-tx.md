@@ -6,7 +6,7 @@ Also answers: shoe repair in Addison, TX; shoe repair near me (Addison, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Michael's Shoe Repair | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Michael's Shoe Repair is a shoe repair in Addison, TX at 4538 Belt Line Road, Addison, TX 75001. | https://registry-edge.dingalinged.workers.dev/c/michaels-shoe-repair-addison/
+1. Michael's Shoe Repair | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Michael's Shoe Repair is a shoe repair in Addison, TX at 4538 Belt Line Road, Addison, TX 75001. | https://registry-edge.dingalinged.workers.dev/c/michaels-shoe-repair-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair addison tx | category: Professional & financial services | industry benchmark: Finance & Insurance

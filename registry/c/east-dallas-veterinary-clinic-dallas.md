@@ -13,12 +13,12 @@ East Dallas Veterinary Clinic is a veterinarian in Dallas, TX at 8541 Ferguson R
 - Website: https://www.eastdallasvetclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, Th 07:30-20:00; Tu-We, Fr 07:30-18:00; Sa 08:00-14:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 19% of veterinarians in Dallas–Fort Worth, #8 of 48 veterinarians in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 22% of veterinarians in Dallas–Fort Worth, #10 of 50 veterinarians in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/east-dallas-veterinary-clinic-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/east-dallas-veterinary-clinic-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13652524701 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13652524701 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

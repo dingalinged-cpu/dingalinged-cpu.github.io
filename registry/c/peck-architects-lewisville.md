@@ -13,12 +13,12 @@ Peck Architects is an architect in Lewisville, TX at 105 W Main Street, Lewisvil
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Fair — top 50% of architects in Dallas–Fort Worth, #1 of 1 architects in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Fair — top 47% of architects in Dallas–Fort Worth, #1 of 1 architects in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/peck-architects-lewisville/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/peck-architects-lewisville.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12405657029 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12405657029 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

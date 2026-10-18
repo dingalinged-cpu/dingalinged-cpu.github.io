@@ -13,7 +13,7 @@ Sadler Roofing is a roofer in Cobb County, GA at 826 Blackwell Road, Cobb County
 - Website: https://www.sadlerroofing.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00; Sa-Su off
-- Pulse Score: 59.6/100 — Fair — top 39% of roofers in Atlanta, #1 of 3 roofers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Fair — top 39% of roofers in Atlanta, #1 of 3 roofers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

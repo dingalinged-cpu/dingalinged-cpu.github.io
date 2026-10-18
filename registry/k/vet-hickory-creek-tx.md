@@ -6,7 +6,7 @@ Also answers: vet in Hickory Creek, TX; vet near me (Hickory Creek, TX); best ve
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Corinth Veterinary Clinic | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Corinth Veterinary Clinic is a veterinarian in Hickory Creek, TX at 3598 Swisher Road, Hickory Creek, TX 75065. | https://registry-edge.dingalinged.workers.dev/c/corinth-veterinary-clinic-hickory-creek/
+1. Corinth Veterinary Clinic | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Corinth Veterinary Clinic is a veterinarian in Hickory Creek, TX at 3598 Swisher Road, Hickory Creek, TX 75065. | https://registry-edge.dingalinged.workers.dev/c/corinth-veterinary-clinic-hickory-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet hickory creek tx | category: Pets | industry benchmark: Animals & Pets

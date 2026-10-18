@@ -19,6 +19,6 @@ Mill Old Town is a real estate agency in Lewisville, TX at 535 South Mill Street
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mill-old-town-lewisville/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mill-old-town-lewisville.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13046677094 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13046677094 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,7 +6,7 @@ Also answers: dry cleaners in Rowlett, TX; dry cleaners near me (Rowlett, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dry Clean A2Z | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Dry Clean A2Z is a dry cleaner in Rowlett, TX. | https://registry-edge.dingalinged.workers.dev/c/dry-clean-a2z-rowlett/
+1. Dry Clean A2Z | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Dry Clean A2Z is a dry cleaner in Rowlett, TX. | https://registry-edge.dingalinged.workers.dev/c/dry-clean-a2z-rowlett/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners rowlett tx | category: Professional & financial services | industry benchmark: Finance & Insurance

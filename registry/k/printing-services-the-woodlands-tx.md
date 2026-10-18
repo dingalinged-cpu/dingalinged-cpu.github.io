@@ -6,10 +6,10 @@ Also answers: printing services in The Woodlands, TX; printing services near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | Organic #1 | Pulse Score 45.5/100 (Building, #1 in city) | The UPS Store is a printing service in The Woodlands, TX at 6700 Woodlands Parkway #230, The Woodlands, TX 77382. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-the-woodlands-n11682994181/
-2. The UPS Store | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | The UPS Store is a printing service in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-the-woodlands/
-3. FedEx Office | Organic #3 | Pulse Score 41.6/100 (Building, #3 in city) | FedEx Office is a printing service in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-the-woodlands/
-4. FedEx Office | Organic #4 | Pulse Score 41.6/100 (Building, #4 in city) | FedEx Office is a printing service in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-the-woodlands-n9177279463/
+1. The UPS Store | Organic #1 | Pulse Score 45.6/100 (Building, #1 in city) | The UPS Store is a printing service in The Woodlands, TX at 6700 Woodlands Parkway #230, The Woodlands, TX 77382. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-the-woodlands-n11682994181/
+2. The UPS Store | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | The UPS Store is a printing service in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-the-woodlands/
+3. FedEx Office | Organic #3 | Pulse Score 41.7/100 (Building, #3 in city) | FedEx Office is a printing service in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-the-woodlands/
+4. FedEx Office | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | FedEx Office is a printing service in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-the-woodlands-n9177279463/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services the woodlands tx | category: Professional & financial services | industry benchmark: Finance & Insurance

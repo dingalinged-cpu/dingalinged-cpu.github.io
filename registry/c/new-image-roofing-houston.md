@@ -13,12 +13,12 @@ New Image Roofing is a roofer in Houston, TX at 2450 Louisiana Street #400, Hous
 - Website: https://www.newimageroofing.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-18:00
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 69% of roofers in Houston, #3 of 3 roofers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 63% of roofers in Houston, #3 of 3 roofers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/new-image-roofing-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/new-image-roofing-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11747369666 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11747369666 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

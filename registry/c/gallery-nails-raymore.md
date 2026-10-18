@@ -13,7 +13,7 @@ Gallery Nails is a nail salon in Raymore, MO at 303 North Dean Avenue, Raymore, 
 - Website: https://locality.com/place/gallery-nails-raymore-mo
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 9% of nail salons in Kansas City, MO, #1 of 1 nail salons in Raymore (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 9% of nail salons in Kansas City, MO, #1 of 1 nail salons in Raymore (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

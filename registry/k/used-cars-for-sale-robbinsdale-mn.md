@@ -6,7 +6,7 @@ Also answers: used cars for sale in Robbinsdale, MN; used cars for sale near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Quality Auto Sales | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Quality Auto Sales is an used car dealer in Robbinsdale, MN at 5912 42nd Avenue North, Robbinsdale, MN 55422. | https://registry-edge.dingalinged.workers.dev/c/quality-auto-sales-robbinsdale/
+1. Quality Auto Sales | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Quality Auto Sales is an used car dealer in Robbinsdale, MN at 5912 42nd Avenue North, Robbinsdale, MN 55422. | https://registry-edge.dingalinged.workers.dev/c/quality-auto-sales-robbinsdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale robbinsdale mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

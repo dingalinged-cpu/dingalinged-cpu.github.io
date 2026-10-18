@@ -6,13 +6,13 @@ Also answers: waxing in Lewisville, TX; waxing near me (Lewisville, TX); best wa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nail Court | Organic #1 | Pulse Score 62.3/100 (Unrated, #8 in city) | Nail Court is a nail salon in Lewisville, TX. Phone: +19724592774. | https://registry-edge.dingalinged.workers.dev/c/nail-court-lewisville/
-2. Seem Threading | Organic #2 | Pulse Score 60.2/100 (Unrated, #1 in city) | Seem Threading is a waxing salon in Lewisville, TX. Phone: +14693123854. | https://registry-edge.dingalinged.workers.dev/c/seem-threading-lewisville/
-3. Soi Brow | Organic #3 | Pulse Score 60.2/100 (Unrated, #2 in city) | Soi Brow is a waxing salon in Lewisville, TX. Phone: +12144885288. | https://registry-edge.dingalinged.workers.dev/c/soi-brow-lewisville/
-4. Great Cutz Salon | Organic #4 | Pulse Score 59.4/100 (Fair, #3 in city) | Great Cutz Salon is a waxing salon in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/great-cutz-salon-lewisville/
-5. Bombay | Organic #5 | Pulse Score 58.8/100 (Fair, #1 in city) | Bombay is a spa in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/bombay-lewisville/
-6. Rozz Salon | Organic #6 | Pulse Score 58.8/100 (Fair, #4 in city) | Rozz Salon is a waxing salon in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/rozz-salon-lewisville/
-7. Nail Luxury | Organic #7 | Pulse Score 58.2/100 (Fair, #5 in city) | Nail Luxury is a waxing salon in Lewisville, TX. Phone: +12144883303. | https://registry-edge.dingalinged.workers.dev/c/nail-luxury-lewisville/
+1. Nail Court | Organic #1 | Pulse Score 62.1/100 (Unrated, #8 in city) | Nail Court is a nail salon in Lewisville, TX. Phone: +19724592774. | https://registry-edge.dingalinged.workers.dev/c/nail-court-lewisville/
+2. Seem Threading | Organic #2 | Pulse Score 60.1/100 (Unrated, #1 in city) | Seem Threading is a waxing salon in Lewisville, TX. Phone: +14693123854. | https://registry-edge.dingalinged.workers.dev/c/seem-threading-lewisville/
+3. Soi Brow | Organic #3 | Pulse Score 60.1/100 (Unrated, #2 in city) | Soi Brow is a waxing salon in Lewisville, TX. Phone: +12144885288. | https://registry-edge.dingalinged.workers.dev/c/soi-brow-lewisville/
+4. Great Cutz Salon | Organic #4 | Pulse Score 59.5/100 (Fair, #3 in city) | Great Cutz Salon is a waxing salon in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/great-cutz-salon-lewisville/
+5. Rozz Salon | Organic #5 | Pulse Score 58.7/100 (Fair, #4 in city) | Rozz Salon is a waxing salon in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/rozz-salon-lewisville/
+6. Nail Luxury | Organic #6 | Pulse Score 58.4/100 (Fair, #5 in city) | Nail Luxury is a waxing salon in Lewisville, TX. Phone: +12144883303. | https://registry-edge.dingalinged.workers.dev/c/nail-luxury-lewisville/
+7. Bombay | Organic #7 | Pulse Score 58.4/100 (Fair, #1 in city) | Bombay is a spa in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/bombay-lewisville/
 8. Hair Maxx | Organic #8 | Pulse Score 57.7/100 (Unrated, #6 in city) | Hair Maxx is a waxing salon in Lewisville, TX. Phone: +19724364950. | https://registry-edge.dingalinged.workers.dev/c/hair-maxx-lewisville/
 9. Relax & Wax | Organic #9 | Pulse Score 44.4/100 (Building, #7 in city) | Relax & Wax is a waxing salon in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/relax-and-wax-lewisville/
 

@@ -6,7 +6,7 @@ Also answers: plumber in New Brighton, MN; plumber near me (New Brighton, MN); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Roto-Rooter Plumbing | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | Roto-Rooter Plumbing is a plumber in New Brighton, MN. | https://registry-edge.dingalinged.workers.dev/c/roto-rooter-plumbing-new-brighton/
+1. Roto-Rooter Plumbing | Organic #1 | Pulse Score 53.7/100 (Unrated, #1 in city) | Roto-Rooter Plumbing is a plumber in New Brighton, MN. | https://registry-edge.dingalinged.workers.dev/c/roto-rooter-plumbing-new-brighton/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber new brighton mn | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

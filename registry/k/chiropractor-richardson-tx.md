@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Optimum Wellness Solutions | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Optimum Wellness Solutions is a chiropractor in Richardson, TX at 1980 Nantucket Drive ##104, Richardson, TX 75080. Phone: +19726712225. Website: https://www.optimumwellnesssolutions.com/. | https://registry-edge.dingalinged.workers.dev/c/optimum-wellness-solutions-richardson/
 2. Spring Creek Medical | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Spring Creek Medical is a chiropractor in Richardson, TX at 1201 Richardson Drive #100, Richardson, TX. Phone: +19729992676. Website: https://springcreekmed.com/. | https://registry-edge.dingalinged.workers.dev/c/spring-creek-medical-richardson/
-3. Spinal Wellness Chiropractic | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Spinal Wellness Chiropractic is a chiropractor in Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/spinal-wellness-chiropractic-richardson/
-4. The Joint Chiropractic | Organic #4 | Pulse Score 45.5/100 (Building, #4 in city) | The Joint Chiropractic is a chiropractor in Richardson, TX at 1415 East Renner Road #220, Richardson, TX 75082. | https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-richardson/
+3. Spinal Wellness Chiropractic | Organic #3 | Pulse Score 59.5/100 (Unrated, #3 in city) | Spinal Wellness Chiropractic is a chiropractor in Richardson, TX at 2010 North Plano Road #101, Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/spinal-wellness-chiropractic-richardson/
+4. The Joint Chiropractic | Organic #4 | Pulse Score 45.3/100 (Building, #4 in city) | The Joint Chiropractic is a chiropractor in Richardson, TX at 1415 East Renner Road #220, Richardson, TX 75082. | https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor richardson tx | category: Health & medical | industry benchmark: Physicians & Surgeons

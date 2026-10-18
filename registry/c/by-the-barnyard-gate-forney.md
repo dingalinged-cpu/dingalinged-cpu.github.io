@@ -13,12 +13,12 @@ By the Barnyard Gate is a daycare in Forney, TX at 552 FM 740, Forney, TX 75126.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 47% of daycares in Dallas–Fort Worth, #2 of 4 daycares in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 45% of daycares in Dallas–Fort Worth, #2 of 5 daycares in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/by-the-barnyard-gate-forney/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/by-the-barnyard-gate-forney.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/714882537 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/714882537 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

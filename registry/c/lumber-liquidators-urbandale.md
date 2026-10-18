@@ -13,7 +13,7 @@ Lumber Liquidators is a flooring company in Urbandale, IA at 10131 Hickman Road,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Unrated (not enough evidence yet) — top 100% of flooring companys in Des Moines, IA, #5 of 5 flooring companys in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 100% of flooring companys in Des Moines, IA, #5 of 5 flooring companys in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

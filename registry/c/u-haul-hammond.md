@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Hammond, IN at 822 165th Street, Hammond, I
 - Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Hammond-IN-46324/759022
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Building — top 34% of self-storage facilitys in Chicago, #4 of 4 self-storage facilitys in Hammond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 34% of self-storage facilitys in Chicago, #4 of 4 self-storage facilitys in Hammond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

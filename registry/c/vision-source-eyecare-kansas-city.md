@@ -13,7 +13,7 @@ Vision Source Eyecare is an eye care practice in Kansas City, MO at 1518 Walnut 
 - Website: https://vseyecare.com/locations/crossroads/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.7/100 — Building — top 97% of eye care practices in Kansas City, MO, #5 of 5 eye care practices in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.7/100 — Building — top 97% of eye care practices in Kansas City, MO, #5 of 5 eye care practices in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

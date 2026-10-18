@@ -13,12 +13,12 @@ Mattress Depot is a mattress store in Rockwall, TX at 905 South Goliad Street, R
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Unrated (not enough evidence yet) — top 53% of mattress stores in Dallas–Fort Worth, #2 of 3 mattress stores in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 66% of mattress stores in Dallas–Fort Worth, #2 of 3 mattress stores in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-depot-rockwall/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-depot-rockwall.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/805459435 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/805459435 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

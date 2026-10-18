@@ -6,7 +6,7 @@ Also answers: computer repair in Schaumburg, IL; computer repair near me (Schaum
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. P&P Computers Games & More LLC | Organic #1 | Pulse Score 61.6/100 (Good, #1 in city) | P&P Computers Games & More LLC is a computer repair shop in Schaumburg, IL at 955 W Wise Road, Schaumburg, IL 60193. Phone: +12243536438. Website: https://mypnpcomputers.com/. | https://registry-edge.dingalinged.workers.dev/c/p-and-p-computers-games-and-more-llc-schaumburg/
+1. P&P Computers Games & More LLC | Organic #1 | Pulse Score 59.4/100 (Fair, #1 in city) | P&P Computers Games & More LLC is a computer repair shop in Schaumburg, IL at 955 W Wise Road, Schaumburg, IL 60193. Phone: +12243536438. Website: https://mypnpcomputers.com/. | https://registry-edge.dingalinged.workers.dev/c/p-and-p-computers-games-and-more-llc-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: computer repair schaumburg il | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Dexter Lock Services is a locksmith in Chicago, IL at 3300 North Halsted Street,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 67% of locksmiths in Chicago, #8 of 10 locksmiths in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 67% of locksmiths in Chicago, #8 of 10 locksmiths in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

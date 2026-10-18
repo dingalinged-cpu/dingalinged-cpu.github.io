@@ -13,7 +13,7 @@ Window Concepts of Milwaukee, Inc. is a window installer in West Bend, WI at 148
 - Website: https://windowconceptsmilwaukee.com/west-bend
 - Email: sales@windowconceptsmilwaukee.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su "By Appointment only"
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 67% of window installers in Milwaukee, #1 of 1 window installers in West Bend (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 67% of window installers in Milwaukee, #1 of 1 window installers in West Bend (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

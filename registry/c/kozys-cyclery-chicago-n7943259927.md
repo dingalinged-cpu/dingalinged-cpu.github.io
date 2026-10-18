@@ -13,7 +13,7 @@ Kozy's Cyclery is a bike shop in Chicago, IL at 3712 North Halsted Street, Chica
 - Website: https://www.kozy.com/
 - Email: sales@kozy.com
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa, Su 11:00-17:00
-- Pulse Score: 50/100 — Unrated (not enough evidence yet) — top 89% of bike shops in Chicago, #64 of 68 bike shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.5, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Unrated (not enough evidence yet) — top 88% of bike shops in Chicago, #64 of 68 bike shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.5, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

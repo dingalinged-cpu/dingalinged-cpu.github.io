@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Waxahachie, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
- "keywords": 40,
+ "keywords": 47,
  "lists": {
   "by_volume": [
    {
@@ -35,7 +35,7 @@
     "search_value_index_usd": 210000,
     "equivalent_google_ads_cost_month_usd": 12000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 3,
+    "registry_competitors": 5,
     "ranked_by": "by_volume"
    },
    {
@@ -50,7 +50,7 @@
     "search_value_index_usd": 75000,
     "equivalent_google_ads_cost_month_usd": 5400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 2,
+    "registry_competitors": 4,
     "ranked_by": "by_volume"
    },
    {
@@ -80,7 +80,7 @@
     "search_value_index_usd": 20000,
     "equivalent_google_ads_cost_month_usd": 1200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 4,
+    "registry_competitors": 5,
     "ranked_by": "by_volume"
    },
    {
@@ -95,7 +95,7 @@
     "search_value_index_usd": 15000,
     "equivalent_google_ads_cost_month_usd": 870,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 3,
     "ranked_by": "by_volume"
    },
    {
@@ -170,7 +170,7 @@
     "search_value_index_usd": 42000,
     "equivalent_google_ads_cost_month_usd": 2400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 4,
+    "registry_competitors": 5,
     "ranked_by": "by_volume"
    },
    {
@@ -215,7 +215,7 @@
     "search_value_index_usd": 18000,
     "equivalent_google_ads_cost_month_usd": 1500,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 2,
+    "registry_competitors": 3,
     "ranked_by": "by_volume"
    },
    {
@@ -246,6 +246,18 @@
     "cpc_median_usd": 10.49,
     "search_value_index_usd": 17000,
     "equivalent_google_ads_cost_month_usd": 1100,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "electrician waxahachie tx",
+    "slug": "electrician-waxahachie-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-waxahachie-tx/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.18,
+    "cpc_median_usd": 12.18,
     "featured_spot_min_usd": 100,
     "registry_competitors": 1,
     "ranked_by": "by_cpc"
@@ -307,7 +319,7 @@
     "search_value_index_usd": 18000,
     "equivalent_google_ads_cost_month_usd": 1100,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 5,
+    "registry_competitors": 6,
     "ranked_by": "by_cpc"
    },
    {
@@ -322,7 +334,7 @@
     "search_value_index_usd": 12000,
     "equivalent_google_ads_cost_month_usd": 710,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 5,
+    "registry_competitors": 6,
     "ranked_by": "by_cpc"
    },
    {
@@ -371,6 +383,18 @@
     "ranked_by": "by_cpc"
    },
    {
+    "keyword": "bakery waxahachie tx",
+    "slug": "bakery-waxahachie-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-waxahachie-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "event venues waxahachie tx",
     "slug": "event-venues-waxahachie-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-waxahachie-tx/",
@@ -382,7 +406,7 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 3000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 4,
+    "registry_competitors": 5,
     "ranked_by": "by_cpc"
    },
    {
@@ -401,6 +425,18 @@
     "ranked_by": "by_cpc"
    },
    {
+    "keyword": "tax preparer waxahachie tx",
+    "slug": "tax-preparer-waxahachie-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-waxahachie-tx/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "daycare waxahachie tx",
     "slug": "daycare-waxahachie-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-waxahachie-tx/",
@@ -413,51 +449,6 @@
     "equivalent_google_ads_cost_month_usd": 1500,
     "featured_spot_min_usd": 20,
     "registry_competitors": 2,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "driving school waxahachie tx",
-    "slug": "driving-school-waxahachie-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school-waxahachie-tx/",
-    "us_monthly_searches": 40000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 990,
-    "cpc_basis_usd": 4.81,
-    "cpc_median_usd": 4.81,
-    "search_value_index_usd": 4800,
-    "equivalent_google_ads_cost_month_usd": 270,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "dentist waxahachie tx",
-    "slug": "dentist-waxahachie-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-waxahachie-tx/",
-    "us_monthly_searches": 1830000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 45000,
-    "cpc_basis_usd": 4.7,
-    "cpc_median_usd": 8.0,
-    "search_value_index_usd": 210000,
-    "equivalent_google_ads_cost_month_usd": 12000,
-    "featured_spot_min_usd": 100,
-    "registry_competitors": 3,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "haircut waxahachie tx",
-    "slug": "haircut-waxahachie-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-waxahachie-tx/",
-    "us_monthly_searches": 368000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 9100,
-    "cpc_basis_usd": 4.62,
-    "cpc_median_usd": 4.62,
-    "search_value_index_usd": 42000,
-    "equivalent_google_ads_cost_month_usd": 2400,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 4,
     "ranked_by": "by_cpc"
    }
   ],
@@ -489,7 +480,7 @@
     "search_value_index_usd": 210000,
     "equivalent_google_ads_cost_month_usd": 12000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 3,
+    "registry_competitors": 5,
     "ranked_by": "by_value"
    },
    {
@@ -534,7 +525,7 @@
     "search_value_index_usd": 75000,
     "equivalent_google_ads_cost_month_usd": 5400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 2,
+    "registry_competitors": 4,
     "ranked_by": "by_value"
    },
    {
@@ -594,7 +585,7 @@
     "search_value_index_usd": 42000,
     "equivalent_google_ads_cost_month_usd": 2400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 4,
+    "registry_competitors": 5,
     "ranked_by": "by_value"
    },
    {
@@ -654,7 +645,7 @@
     "search_value_index_usd": 20000,
     "equivalent_google_ads_cost_month_usd": 1200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 4,
+    "registry_competitors": 5,
     "ranked_by": "by_value"
    },
    {
@@ -669,7 +660,7 @@
     "search_value_index_usd": 18000,
     "equivalent_google_ads_cost_month_usd": 1100,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 5,
+    "registry_competitors": 6,
     "ranked_by": "by_value"
    },
    {
@@ -684,7 +675,7 @@
     "search_value_index_usd": 18000,
     "equivalent_google_ads_cost_month_usd": 1500,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 2,
+    "registry_competitors": 3,
     "ranked_by": "by_value"
    }
   ]

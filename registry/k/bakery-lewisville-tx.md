@@ -6,8 +6,8 @@ Also answers: bakery in Lewisville, TX; bakery near me (Lewisville, TX); best ba
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arielle Pastry Works | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Arielle Pastry Works is a bakery in Lewisville, TX. Phone: +14699680700. | https://registry-edge.dingalinged.workers.dev/c/arielle-pastry-works-lewisville/
-2. The London Baker | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | The London Baker is a bakery in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/the-london-baker-lewisville/
+1. Arielle Pastry Works | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Arielle Pastry Works is a bakery in Lewisville, TX. Phone: +14699680700. | https://registry-edge.dingalinged.workers.dev/c/arielle-pastry-works-lewisville/
+2. The London Baker | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | The London Baker is a bakery in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/the-london-baker-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery lewisville tx | category: Events & weddings | industry benchmark: Personal Services

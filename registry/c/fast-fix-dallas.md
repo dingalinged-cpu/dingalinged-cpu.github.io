@@ -13,12 +13,12 @@ Fast-Fix is a jewelry store in Dallas, TX at 8687 North Central Expressway, Dall
 - Website: https://fastfix.com/ourstores/northpark-center/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 12:00-18:00
-- Pulse Score: 50.4/100 — Fair — top 61% of jewelry stores in Dallas–Fort Worth, #20 of 35 jewelry stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 59% of jewelry stores in Dallas–Fort Worth, #21 of 38 jewelry stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/fast-fix-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fast-fix-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/2981793704 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2981793704 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

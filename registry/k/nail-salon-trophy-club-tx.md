@@ -6,7 +6,7 @@ Also answers: nail salon in Trophy Club, TX; nail salon near me (Trophy Club, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Luxury Nails and Spa | Organic #1 | Pulse Score 63.9/100 (Unrated, #1 in city) | Luxury Nails and Spa is a nail salon in Trophy Club, TX at 301 Trophy Lake Drive #140, Trophy Club, TX 76262. Phone: +18174918711. Website: https://myluxurynails.com/about-us.html. | https://registry-edge.dingalinged.workers.dev/c/luxury-nails-and-spa-trophy-club/
+1. Luxury Nails and Spa | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Luxury Nails and Spa is a nail salon in Trophy Club, TX at 301 Trophy Lake Drive #140, Trophy Club, TX 76262. Phone: +18174918711. Website: https://myluxurynails.com/about-us.html. | https://registry-edge.dingalinged.workers.dev/c/luxury-nails-and-spa-trophy-club/
 2. Trophy Nail Salon | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Trophy Nail Salon is a nail salon in Trophy Club, TX. | https://registry-edge.dingalinged.workers.dev/c/trophy-nail-salon-trophy-club/
 
 ## Market data (for advertisers and agents)

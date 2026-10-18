@@ -13,7 +13,7 @@ LA Tan is a tanning salon in Chicago, IL at 1300 South Wabash Avenue #103, Chica
 - Website: https://latan.com/locations/1300-s-wabash-suite-103/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 48% of tanning salons in Chicago, #3 of 7 tanning salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 48% of tanning salons in Chicago, #3 of 7 tanning salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

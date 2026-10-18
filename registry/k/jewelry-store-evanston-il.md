@@ -6,7 +6,7 @@ Also answers: jewelry store in Evanston, IL; jewelry store near me (Evanston, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Christopher Duquet Fine Jewelry | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Christopher Duquet Fine Jewelry is a jewelry store in Evanston, IL at 1224 Chicago Avenue #102, Evanston, IL 60202. Phone: +18477330656. Website: https://christopherduquet.com/. | https://registry-edge.dingalinged.workers.dev/c/christopher-duquet-fine-jewelry-evanston/
+1. Christopher Duquet Fine Jewelry | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Christopher Duquet Fine Jewelry is a jewelry store in Evanston, IL at 1224 Chicago Avenue #102, Evanston, IL 60202. Phone: +18477330656. Website: https://christopherduquet.com/. | https://registry-edge.dingalinged.workers.dev/c/christopher-duquet-fine-jewelry-evanston/
 2. Virag Jewelers | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | Virag Jewelers is a jewelry store in Evanston, IL at 703 Main Street, Evanston, IL 60202. | https://registry-edge.dingalinged.workers.dev/c/virag-jewelers-evanston/
 
 ## Market data (for advertisers and agents)

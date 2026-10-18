@@ -19,6 +19,6 @@ Primrose School is a preschool in Westlake, TX at 26 Arta Drive, Westlake, TX 76
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/primrose-school-westlake/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/primrose-school-westlake.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/765566656 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/765566656 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

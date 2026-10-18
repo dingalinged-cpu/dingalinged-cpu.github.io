@@ -6,8 +6,8 @@ Also answers: car wash in Fate, TX; car wash near me (Fate, TX); best car wash F
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stags Carwash | Organic #1 | Pulse Score 60.6/100 (Unrated, #3 in city) | Stags Carwash is a car wash in Rockwall, TX at 5325 East Interstate 30, Rockwall, TX 75087. Website: https://stagscarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/stags-carwash-rockwall/
-2. Scrubbies | Organic #2 | Pulse Score 58/100 (Unrated, #1 in city) | Scrubbies is a car wash in Fate, TX at 4790 East Interstate 30, Fate, TX 75189. | https://registry-edge.dingalinged.workers.dev/c/scrubbies-fate/
+1. Stags Carwash | Organic #1 | Pulse Score 60.6/100 (Unrated, #2 in city) | Stags Carwash is a car wash in Rockwall, TX at 5325 East Interstate 30, Rockwall, TX 75087. Website: https://stagscarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/stags-carwash-rockwall/
+2. Scrubbies | Organic #2 | Pulse Score 57.9/100 (Unrated, #1 in city) | Scrubbies is a car wash in Fate, TX at 4790 East Interstate 30, Fate, TX 75189. | https://registry-edge.dingalinged.workers.dev/c/scrubbies-fate/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash fate tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

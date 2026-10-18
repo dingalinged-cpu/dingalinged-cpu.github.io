@@ -6,10 +6,10 @@ Also answers: spa in Minneapolis, MN; spa near me (Minneapolis, MN); best spa Mi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Watershed Spa | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Watershed Spa is a spa in Minneapolis, MN at 514 Southeast 2nd Street, Minneapolis, MN 55414. Phone: +16123314182. Website: https://www.watershedspa.com/. | https://registry-edge.dingalinged.workers.dev/c/watershed-spa-minneapolis/
+1. Watershed Spa | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | Watershed Spa is a spa in Minneapolis, MN at 514 Southeast 2nd Street, Minneapolis, MN 55414. Phone: +16123314182. Website: https://www.watershedspa.com/. | https://registry-edge.dingalinged.workers.dev/c/watershed-spa-minneapolis/
 2. BeeQ Nails and Spa | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | BeeQ Nails and Spa is a spa in Minneapolis, MN at 5559 Xerxes Avenue South, Minneapolis, MN 55410. Phone: +19526810473. Website: https://beeqnailssalons.com/. | https://registry-edge.dingalinged.workers.dev/c/beeq-nails-and-spa-minneapolis/
-3. #FACE | Organic #3 | Pulse Score 58.8/100 (Fair, #3 in city) | #FACE is a spa in Minneapolis, MN at 925 West Lake Street, Minneapolis, MN 55408. Website: https://faceoflelas.com/. | https://registry-edge.dingalinged.workers.dev/c/face-minneapolis/
-4. Emerald City Day Spa | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Emerald City Day Spa is a spa in Minneapolis, MN. Website: https://emeraldcitydayspa.com/. | https://registry-edge.dingalinged.workers.dev/c/emerald-city-day-spa-minneapolis/
+3. #FACE | Organic #3 | Pulse Score 58.7/100 (Fair, #3 in city) | #FACE is a spa in Minneapolis, MN at 925 West Lake Street, Minneapolis, MN 55408. Website: https://faceoflelas.com/. | https://registry-edge.dingalinged.workers.dev/c/face-minneapolis/
+4. Emerald City Day Spa | Organic #4 | Pulse Score 55.2/100 (Unrated, #4 in city) | Emerald City Day Spa is a spa in Minneapolis, MN. Website: https://emeraldcitydayspa.com/. | https://registry-edge.dingalinged.workers.dev/c/emerald-city-day-spa-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa minneapolis mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

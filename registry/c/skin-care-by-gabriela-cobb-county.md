@@ -13,7 +13,7 @@ Skin Care By Gabriela is a skin care studio in Cobb County, GA at 3162 Johnson F
 - Website: https://www.skincarebygabriela.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Fair — top 65% of skin care studios in Atlanta, #6 of 8 skin care studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.3/100 — Fair — top 65% of skin care studios in Atlanta, #6 of 8 skin care studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 39.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

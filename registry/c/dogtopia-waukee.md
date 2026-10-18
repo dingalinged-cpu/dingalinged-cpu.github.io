@@ -13,7 +13,7 @@ Dogtopia is a dog boarding facility in Waukee, IA at 1500 Northwest Gettysburg L
 - Website: https://www.dogtopia.com/iowa-waukee/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 100% of dog boarding facilitys in Des Moines, IA, #1 of 1 dog boarding facilitys in Waukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 100% of dog boarding facilitys in Des Moines, IA, #1 of 1 dog boarding facilitys in Waukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

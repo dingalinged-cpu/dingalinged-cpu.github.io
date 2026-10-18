@@ -6,9 +6,9 @@ Also answers: massage in Rockwall, TX; massage near me (Rockwall, TX); best mass
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rockwall Massage Therapeutics | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Rockwall Massage Therapeutics is a massage studio in Rockwall, TX. Website: https://rockwallmassagetherapeutics.com/. | https://registry-edge.dingalinged.workers.dev/c/rockwall-massage-therapeutics-rockwall/
+1. Rockwall Massage Therapeutics | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Rockwall Massage Therapeutics is a massage studio in Rockwall, TX. Website: https://rockwallmassagetherapeutics.com/. | https://registry-edge.dingalinged.workers.dev/c/rockwall-massage-therapeutics-rockwall/
 2. Massage Envy | Organic #2 | Pulse Score 49.1/100 (Building, #2 in city) | Massage Envy is a massage studio in Rockwall, TX at 2951 Ridge Road #Suite 101, Rockwall, TX 75032. Phone: +19727229595. Website: https://locations.massageenvy.com/texas/rockwall/2951-ridge-rd.html. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-rockwall/
-3. Hand & Stone Massage and Facial Spa | Organic #3 | Pulse Score 44.8/100 (Building, #3 in city) | Hand & Stone Massage and Facial Spa is a massage studio in Rockwall, TX at 1053 East Interstate 30 #109, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/hand-and-stone-massage-and-facial-spa-rockwall/
+3. Hand & Stone Massage and Facial Spa | Organic #3 | Pulse Score 44.7/100 (Building, #3 in city) | Hand & Stone Massage and Facial Spa is a massage studio in Rockwall, TX at 1053 East Interstate 30 #109, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/hand-and-stone-massage-and-facial-spa-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage rockwall tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

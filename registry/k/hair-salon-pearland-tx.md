@@ -7,12 +7,12 @@ Also answers: hair salon in Pearland, TX; hair salon near me (Pearland, TX); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Thomas R Salons | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | Thomas R Salons is a hair salon in Pearland, TX at 2000 Reflection Bay #118, Pearland, TX 77584. Phone: +13464392963. | https://registry-edge.dingalinged.workers.dev/c/thomas-r-salons-pearland/
-2. Foxtail Salon & Boutique | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | Foxtail Salon & Boutique is a hair salon in Pearland, TX. Phone: +18322953821. Website: https://www.foxtailsalonandboutique.com/. | https://registry-edge.dingalinged.workers.dev/c/foxtail-salon-and-boutique-pearland/
-3. Griffin's Barber Shop | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | Griffin's Barber Shop is a hair salon in Pearland, TX. Phone: +12814851680. | https://registry-edge.dingalinged.workers.dev/c/griffins-barber-shop-pearland/
+2. Foxtail Salon & Boutique | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Foxtail Salon & Boutique is a hair salon in Pearland, TX. Phone: +18322953821. Website: https://www.foxtailsalonandboutique.com/. | https://registry-edge.dingalinged.workers.dev/c/foxtail-salon-and-boutique-pearland/
+3. Griffin's Barber Shop | Organic #3 | Pulse Score 59.3/100 (Unrated, #3 in city) | Griffin's Barber Shop is a hair salon in Pearland, TX. Phone: +12814851680. | https://registry-edge.dingalinged.workers.dev/c/griffins-barber-shop-pearland/
 4. Josephine's Day Spa and Salon | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Josephine's Day Spa and Salon is a hair salon in Pearland, TX at 11200 West Broadway Street #625, Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/josephines-day-spa-and-salon-pearland/
-5. It's Personal | Organic #5 | Pulse Score 56.5/100 (Unrated, #5 in city) | It's Personal is a hair salon in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/its-personal-pearland/
-6. Salons by JC | Organic #6 | Pulse Score 43.7/100 (Building, #6 in city) | Salons by JC is a hair salon in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/salons-by-jc-pearland/
-7. Tune Up | Organic #7 | Pulse Score 43.1/100 (Unrated, #7 in city) | Tune Up is a hair salon in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/tune-up-pearland/
+5. It's Personal | Organic #5 | Pulse Score 56.6/100 (Unrated, #5 in city) | It's Personal is a hair salon in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/its-personal-pearland/
+6. Salons by JC | Organic #6 | Pulse Score 43.8/100 (Building, #6 in city) | Salons by JC is a hair salon in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/salons-by-jc-pearland/
+7. Tune Up | Organic #7 | Pulse Score 42/100 (Unrated, #7 in city) | Tune Up is a hair salon in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/tune-up-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon pearland tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -19,6 +19,6 @@ Runyon's Fine Furniture is a furniture store in Roanoke, TX at 500 U.S. 377, Roa
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/runyons-fine-furniture-roanoke/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/runyons-fine-furniture-roanoke.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12782079659 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12782079659 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

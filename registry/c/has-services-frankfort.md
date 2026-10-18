@@ -13,7 +13,7 @@ HAS Services is a HVAC contractor in Frankfort, IL at 9306 West Dralle Road, Fra
 - Website: https://www.hasservs.com/
 - Email: kp@hasservs.com
 - Opening hours (OSM syntax): Mo-Su 08:00-22:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 10% of HVAC contractors in Chicago, #1 of 2 HVAC contractors in Frankfort (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 10% of HVAC contractors in Chicago, #1 of 2 HVAC contractors in Frankfort (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

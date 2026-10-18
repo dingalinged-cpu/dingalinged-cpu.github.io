@@ -6,7 +6,7 @@ Also answers: family doctor in Richmond, TX; family doctor near me (Richmond, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. West Oaks Urgent Care | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | West Oaks Urgent Care is a family medicine practice in Richmond, TX at 10450 FM 1464 #600, Richmond, TX 77407. Phone: +18325320004. Website: https://www.westoaksurgentcare.net/aliana-richmond/. | https://registry-edge.dingalinged.workers.dev/c/west-oaks-urgent-care-richmond/
+1. West Oaks Urgent Care | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | West Oaks Urgent Care is a family medicine practice in Richmond, TX at 10450 FM 1464 #600, Richmond, TX 77407. Phone: +18325320004. Website: https://www.westoaksurgentcare.net/aliana-richmond/. | https://registry-edge.dingalinged.workers.dev/c/west-oaks-urgent-care-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor richmond tx | category: Health & medical | industry benchmark: Physicians & Surgeons

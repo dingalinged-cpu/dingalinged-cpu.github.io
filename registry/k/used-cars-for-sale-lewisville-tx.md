@@ -6,7 +6,7 @@ Also answers: used cars for sale in Lewisville, TX; used cars for sale near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Honda AutoNation | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | Honda AutoNation is an used car dealer in Lewisville, TX at 601 Waters Ridge Drive, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/honda-autonation-lewisville/
+1. Honda AutoNation | Organic #1 | Pulse Score 49/100 (Building, #1 in city) | Honda AutoNation is an used car dealer in Lewisville, TX at 601 Waters Ridge Drive, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/honda-autonation-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale lewisville tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -7,9 +7,9 @@ Also answers: tire shop in Irving, TX; tire shop near me (Irving, TX); best tire
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Discount Tire | Organic #1 | Pulse Score 51.1/100 (Fair, #1 in city) | Discount Tire is a tire shop in Irving, TX at 8550 North MacArthur Boulevard, Irving, TX 75063. Phone: +19724328778. Website: https://www.discounttire.com/. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-irving-w469117014/
-2. Firestone | Organic #2 | Pulse Score 48.5/100 (Building, #13 in city) | Firestone is an auto repair shop in Irving, TX at 5410 North MacArthur Boulevard, Irving, TX 75038. | https://registry-edge.dingalinged.workers.dev/c/firestone-irving-w643448912/
-3. Discount Tire | Organic #3 | Pulse Score 45.8/100 (Building, #2 in city) | Discount Tire is a tire shop in Irving, TX at 3516 West Airport Freeway, Irving, TX 75062. Phone: +12145961267. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-irving/
-4. Firestone | Organic #4 | Pulse Score 45.3/100 (Building, #14 in city) | Firestone is an auto repair shop in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/firestone-irving-n10772373847/
+2. Firestone | Organic #2 | Pulse Score 48.4/100 (Building, #13 in city) | Firestone is an auto repair shop in Irving, TX at 5410 North MacArthur Boulevard, Irving, TX 75038. | https://registry-edge.dingalinged.workers.dev/c/firestone-irving-w643448912/
+3. Discount Tire | Organic #3 | Pulse Score 45.7/100 (Building, #2 in city) | Discount Tire is a tire shop in Irving, TX at 3516 West Airport Freeway, Irving, TX 75062. Phone: +12145961267. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-irving/
+4. Firestone | Organic #4 | Pulse Score 45.2/100 (Building, #15 in city) | Firestone is an auto repair shop in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/firestone-irving-n10772373847/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop irving tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

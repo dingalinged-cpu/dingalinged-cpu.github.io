@@ -7,7 +7,7 @@ Also answers: storage units in Magnolia, TX; storage units near me (Magnolia, TX
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Montgomery Self Storage Magnolia | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Montgomery Self Storage Magnolia is a self-storage facility in Magnolia, TX at 33319 Bear Branch Lane, Magnolia, TX 77354. Phone: +12812598106. Website: https://montgomeryss.com/locations/magnolia-tx/. | https://registry-edge.dingalinged.workers.dev/c/montgomery-self-storage-magnolia-magnolia/
-2. Amazing Spaces | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Amazing Spaces is a self-storage facility in Magnolia, TX at 32620 FM 2978, Magnolia, TX 77354. | https://registry-edge.dingalinged.workers.dev/c/amazing-spaces-magnolia/
+2. Amazing Spaces | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | Amazing Spaces is a self-storage facility in Magnolia, TX at 32620 FM 2978, Magnolia, TX 77354. | https://registry-edge.dingalinged.workers.dev/c/amazing-spaces-magnolia/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units magnolia tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

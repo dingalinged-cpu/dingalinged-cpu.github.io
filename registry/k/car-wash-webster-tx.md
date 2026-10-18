@@ -6,9 +6,9 @@ Also answers: car wash in Webster, TX; car wash near me (Webster, TX); best car 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ocean Express Car Wash | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Ocean Express Car Wash is a car wash in Webster, TX at 3000 FM 528, Webster, TX 77598. | https://registry-edge.dingalinged.workers.dev/c/ocean-express-car-wash-webster/
+1. Ocean Express Car Wash | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Ocean Express Car Wash is a car wash in Webster, TX at 3000 FM 528, Webster, TX 77598. | https://registry-edge.dingalinged.workers.dev/c/ocean-express-car-wash-webster/
 2. Car Spa Car Wash, Detail, & Oil Change | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Car Spa Car Wash, Detail, & Oil Change is a car wash in Webster, TX. | https://registry-edge.dingalinged.workers.dev/c/car-spa-car-wash-detail-and-oil-change-webster/
-3. H-E-B Car Wash | Organic #3 | Pulse Score 47.3/100 (Building, #3 in city) | H-E-B Car Wash is a car wash in Webster, TX at 18611 Eastfield Drive, Webster, TX 77598. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-webster/
+3. H-E-B Car Wash | Organic #3 | Pulse Score 47.4/100 (Building, #3 in city) | H-E-B Car Wash is a car wash in Webster, TX at 18611 Eastfield Drive, Webster, TX 77598. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-webster/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash webster tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

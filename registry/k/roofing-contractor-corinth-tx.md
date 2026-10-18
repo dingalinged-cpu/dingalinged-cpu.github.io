@@ -6,7 +6,7 @@ Also answers: roofing contractor in Corinth, TX; roofing contractor near me (Cor
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Out Roofing | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | First Out Roofing is a roofer in Corinth, TX at 4451 Swisher Road #Suite 200, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/first-out-roofing-corinth/
+1. First Out Roofing | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | First Out Roofing is a roofer in Corinth, TX at 4451 Swisher Road #Suite 200, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/first-out-roofing-corinth/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor corinth tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

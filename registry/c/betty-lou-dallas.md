@@ -13,12 +13,12 @@ Betty Lou is a gift shop in Dallas, TX at 6465 East Mockingbird Lane #312, Dalla
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 10:00-17:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 3% of gift shops in Dallas–Fort Worth, #2 of 13 gift shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 2% of gift shops in Dallas–Fort Worth, #2 of 14 gift shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/betty-lou-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/betty-lou-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12040610328 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12040610328 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

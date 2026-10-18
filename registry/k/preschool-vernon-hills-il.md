@@ -7,7 +7,7 @@ Also answers: preschool in Vernon Hills, IL; preschool near me (Vernon Hills, IL
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Hawthorn School for Young Learners | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Hawthorn School for Young Learners is a preschool in Vernon Hills, IL. | https://registry-edge.dingalinged.workers.dev/c/hawthorn-school-for-young-learners-vernon-hills/
-2. The Goddard School | Organic #2 | Pulse Score 48.5/100 (Building, #2 in city) | The Goddard School is a preschool in Vernon Hills, IL at 461 Townline Road, Vernon Hills, IL 60061. Phone: +18476801886. | https://registry-edge.dingalinged.workers.dev/c/the-goddard-school-vernon-hills/
+2. The Goddard School | Organic #2 | Pulse Score 48.4/100 (Building, #2 in city) | The Goddard School is a preschool in Vernon Hills, IL at 461 Townline Road, Vernon Hills, IL 60061. Phone: +18476801886. | https://registry-edge.dingalinged.workers.dev/c/the-goddard-school-vernon-hills/
 3. Kindercare | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | Kindercare is a preschool in Vernon Hills, IL. | https://registry-edge.dingalinged.workers.dev/c/kindercare-vernon-hills/
 4. Guidepost Montessori | Organic #4 | Pulse Score 41.6/100 (Building, #4 in city) | Guidepost Montessori is a preschool in Vernon Hills, IL. | https://registry-edge.dingalinged.workers.dev/c/guidepost-montessori-vernon-hills/
 

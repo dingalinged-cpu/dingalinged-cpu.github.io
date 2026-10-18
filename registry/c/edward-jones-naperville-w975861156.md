@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Naperville, IL at 2048 Aurora Avenue #116
 - Website: https://www.edwardjones.com/us-en/financial-advisor/mike-pine
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:30-17:00; Fr 07:30-15:00
-- Pulse Score: 50.6/100 — Fair — top 30% of financial advisors in Chicago, #3 of 5 financial advisors in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 30% of financial advisors in Chicago, #3 of 5 financial advisors in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

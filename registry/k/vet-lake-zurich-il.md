@@ -1,4 +1,4 @@
-The top unpaid vet listing for Lake Zurich, IL is All Creatures Animal Hospital (a veterinarian in Lake Zurich, IL at 1210 Main Street, Lake Zurich, IL 60047). 2 vet businesses are listed for Lake Zurich, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Lake Zurich, IL is Companion Animal Hospital (a veterinarian in Lake Zurich, IL at 917 Rand Road, Lake Zurich, IL 60047. Website: https://companionlz.com/). 2 vet businesses are listed for Lake Zurich, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Lake Zurich, IL?
 
@@ -6,8 +6,8 @@ Also answers: vet in Lake Zurich, IL; vet near me (Lake Zurich, IL); best vet La
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All Creatures Animal Hospital | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | All Creatures Animal Hospital is a veterinarian in Lake Zurich, IL at 1210 Main Street, Lake Zurich, IL 60047. | https://registry-edge.dingalinged.workers.dev/c/all-creatures-animal-hospital-lake-zurich/
-2. Companion Animal Hospital | Organic #2 | Pulse Score 49.2/100 (Building, #2 in city) | Companion Animal Hospital is a veterinarian in Lake Zurich, IL at 917 Rand Road, Lake Zurich, IL 60047. Website: https://companionlz.com/. | https://registry-edge.dingalinged.workers.dev/c/companion-animal-hospital-lake-zurich/
+1. Companion Animal Hospital | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | Companion Animal Hospital is a veterinarian in Lake Zurich, IL at 917 Rand Road, Lake Zurich, IL 60047. Website: https://companionlz.com/. | https://registry-edge.dingalinged.workers.dev/c/companion-animal-hospital-lake-zurich/
+2. All Creatures Animal Hospital | Organic #2 | Pulse Score 43.3/100 (Unrated, #2 in city) | All Creatures Animal Hospital is a veterinarian in Lake Zurich, IL at 1210 Main Street, Lake Zurich, IL 60047. | https://registry-edge.dingalinged.workers.dev/c/all-creatures-animal-hospital-lake-zurich/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet lake zurich il | category: Pets | industry benchmark: Animals & Pets

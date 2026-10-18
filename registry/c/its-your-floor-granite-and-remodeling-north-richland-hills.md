@@ -13,12 +13,12 @@ It's Your Floor Granite & Remodeling is a tile installer in North Richland Hills
 - Website: https://www.itsyourfloor.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Good — top 100% of tile installers in Dallas–Fort Worth, #1 of 1 tile installers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Good — top 100% of tile installers in Dallas–Fort Worth, #1 of 1 tile installers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/its-your-floor-granite-and-remodeling-north-richland-hills/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/its-your-floor-granite-and-remodeling-north-richland-hills.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/713513211 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/way/713513211 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

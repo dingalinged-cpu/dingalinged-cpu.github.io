@@ -1,4 +1,4 @@
-The top unpaid real estate agent listing for the United States is Re/Max Dallas Suburbs (a real estate agency in Plano, TX at 3915 McDermott Road #100, Plano, TX 75025. Phone: +19722089200. Website: https://www.dallassuburbs.com/). 1171 real estate agent businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for the United States is Re/Max Dallas Suburbs (a real estate agency in Plano, TX at 3915 McDermott Road #100, Plano, TX 75025. Phone: +19722089200. Website: https://www.dallassuburbs.com/). 1505 real estate agent businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in the United States?
 
@@ -6,78 +6,88 @@ Also answers: real estate agent in the United States; real estate agent near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Re/Max Dallas Suburbs | Organic #1 | Pulse Score 65.5/100 (Good, #1 in city) | Re/Max Dallas Suburbs is a real estate agency in Plano, TX at 3915 McDermott Road #100, Plano, TX 75025. Phone: +19722089200. Website: https://www.dallassuburbs.com/. | https://registry-edge.dingalinged.workers.dev/c/re-max-dallas-suburbs-plano/
+1. Re/Max Dallas Suburbs | Organic #1 | Pulse Score 65.4/100 (Good, #1 in city) | Re/Max Dallas Suburbs is a real estate agency in Plano, TX at 3915 McDermott Road #100, Plano, TX 75025. Phone: +19722089200. Website: https://www.dallassuburbs.com/. | https://registry-edge.dingalinged.workers.dev/c/re-max-dallas-suburbs-plano/
 2. Chicago Condo Finder | Organic #2 | Pulse Score 65.3/100 (Good, #1 in city) | Chicago Condo Finder is a real estate agency in Chicago, IL at 980 North Michigan Avenue, Chicago, IL 60611. Phone: +13129530961. Website: https://www.chicagocondofinder.com/. | https://registry-edge.dingalinged.workers.dev/c/chicago-condo-finder-chicago/
 3. GMS Realty Group, LLC | Organic #3 | Pulse Score 65.2/100 (Good, #1 in city) | GMS Realty Group, LLC is a real estate agency in Elmhurst, IL at 627 North York Street #Suite A, Elmhurst, IL 60126. Phone: +16308334422. Website: https://www.yourchicagohomesearch.com/. | https://registry-edge.dingalinged.workers.dev/c/gms-realty-group-llc-elmhurst/
 4. Faithful Home Buyers KC | Organic #4 | Pulse Score 64.9/100 (Good, #1 in city) | Faithful Home Buyers KC is a real estate agency in Kansas City, MO at 8357 Northwest Barrybrooke Drive, Kansas City, MO 64151. Phone: +18162370869. Website: https://www.faithfulhomebuyerskc.com/. | https://registry-edge.dingalinged.workers.dev/c/faithful-home-buyers-kc-kansas-city/
 5. Fat Property | Organic #5 | Pulse Score 64.9/100 (Good, #1 in city) | Fat Property is a real estate agency in Houston, TX at 3800 Garrott Street, Houston, TX 77006. Phone: +18326404444. Website: https://fatproperty.com/. | https://registry-edge.dingalinged.workers.dev/c/fat-property-houston/
 6. Lakes Sotheby's International Realty | Organic #6 | Pulse Score 64.7/100 (Good, #1 in city) | Lakes Sotheby's International Realty is a real estate agency in Edina, MN at 3946 West 50th Street, Edina, MN 55424. Phone: +16125010252. Website: https://www.joshsprague.com/. | https://registry-edge.dingalinged.workers.dev/c/lakes-sothebys-international-realty-edina/
-7. Dominion Properties | Organic #7 | Pulse Score 64.6/100 (Good, #1 in city) | Dominion Properties is a real estate agency in Milwaukee, WI at 2025 North Summit Avenue, Milwaukee, WI 53202. Phone: +14142645901. Website: https://dominion-properties.com/. | https://registry-edge.dingalinged.workers.dev/c/dominion-properties-milwaukee/
-8. GatoCity Properties | Organic #8 | Pulse Score 64.4/100 (Good, #2 in city) | GatoCity Properties is a real estate agency in Milwaukee, WI at 610 East Pleasant Street, Milwaukee, WI 53202. Phone: +14144038645. Website: https://www.gatocity.com/. | https://registry-edge.dingalinged.workers.dev/c/gatocity-properties-milwaukee/
-9. Metropolitan Associates | Organic #9 | Pulse Score 64.2/100 (Good, #3 in city) | Metropolitan Associates is a real estate agency in Milwaukee, WI at 1123 North Astor Street, Milwaukee, WI 53202. Phone: +14142761515. Website: https://www.metapts.com/. | https://registry-edge.dingalinged.workers.dev/c/metropolitan-associates-milwaukee/
-10. National Appraisal Partners LLP | Organic #10 | Pulse Score 64.2/100 (Unrated, #2 in city) | National Appraisal Partners LLP is a real estate agency in Houston, TX at 3203 Edloe Street, Houston, TX 77027. Phone: +17134638761. Website: https://www.napllp.com/. | https://registry-edge.dingalinged.workers.dev/c/national-appraisal-partners-llp-houston/
-11. McCaffery | Organic #11 | Pulse Score 64/100 (Unrated, #1 in city) | McCaffery is a real estate agency in Pittsburgh, PA at 1750 Spruce Way, Pittsburgh, PA 15222. Phone: +14127631660. Website: https://www.mccafferyinc.com/. | https://registry-edge.dingalinged.workers.dev/c/mccaffery-pittsburgh/
-12. Zerillo Realty | Organic #12 | Pulse Score 64/100 (Unrated, #1 in city) | Zerillo Realty is a real estate agency in Norridge, IL at 4840 North Cumberland Avenue, Norridge, IL 60706. Phone: +17085838300. Website: https://www.zerillorealty.com/. | https://registry-edge.dingalinged.workers.dev/c/zerillo-realty-norridge/
-13. Jeff Williamson Group - Cincinnati Realtor | Organic #13 | Pulse Score 63.9/100 (Unrated, #1 in city) | Jeff Williamson Group - Cincinnati Realtor is a real estate agency in Loveland, OH at 629 Woodsway Drive, Loveland, OH 45140. Phone: +15132057904. Website: https://realtorincincinnati.com/. | https://registry-edge.dingalinged.workers.dev/c/jeff-williamson-group-cincinnati-realtor-loveland/
-14. Botsford Place Terrace Apartments | Organic #14 | Pulse Score 63.9/100 (Unrated, #1 in city) | Botsford Place Terrace Apartments is a real estate agency in Farmington Hills, MI at 27883 Independence Street, Farmington Hills, MI 48336. Phone: +12486158920. Website: https://bptapartments.com/. | https://registry-edge.dingalinged.workers.dev/c/botsford-place-terrace-apartments-farmington-hills/
-15. John Goodman Real Estate | Organic #15 | Pulse Score 63.8/100 (Unrated, #1 in city) | John Goodman Real Estate is a real estate agency in Northville, MI at 42949 7 Mile Road, Northville, MI 48167. Phone: +12485320608. Website: https://www.johngoodmanrealestate.com/. | https://registry-edge.dingalinged.workers.dev/c/john-goodman-real-estate-northville/
-16. Gold & Associates, PC | Organic #16 | Pulse Score 63.8/100 (Unrated, #1 in city) | Gold & Associates, PC is a real estate agency in Plymouth, MI at 747 South Main Street #100, Plymouth, MI 48170. Phone: +17343357100. Website: https://www.goldandassociatespc.com/. | https://registry-edge.dingalinged.workers.dev/c/gold-and-associates-pc-plymouth/
-17. Nelson Property Management | Organic #17 | Pulse Score 63.8/100 (Unrated, #1 in city) | Nelson Property Management is a real estate agency in Fraser, MI at 32631 Utica Road, Fraser, MI 48026. Phone: +15868401337. Website: https://nelsonlandcapital.com/. | https://registry-edge.dingalinged.workers.dev/c/nelson-property-management-fraser/
-18. Shorewest Realtors | Organic #18 | Pulse Score 63.7/100 (Unrated, #4 in city) | Shorewest Realtors is a real estate agency in Milwaukee, WI at 1610 North Water Street, Milwaukee, WI 53202. Phone: +14142264570. Website: https://www.shorewest.com/wisconsin-real-estate-offices-milwaukee-downtown. | https://registry-edge.dingalinged.workers.dev/c/shorewest-realtors-milwaukee/
-19. Nick Ahrens Real Estate | Organic #19 | Pulse Score 63.6/100 (Good, #1 in city) | Nick Ahrens Real Estate is a real estate agency in Broomfield, CO at 2365 West 165th Avenue, Broomfield, CO 80023. Phone: +19492303625. Website: https://www.youranthemhome.com/. | https://registry-edge.dingalinged.workers.dev/c/nick-ahrens-real-estate-broomfield/
-20. Root Realty | Organic #20 | Pulse Score 63.5/100 (Unrated, #2 in city) | Root Realty is a real estate agency in Chicago, IL at 4237 North Lincoln Avenue, Chicago, IL 60618. Phone: +17733488080. Website: https://www.rootrealty.com/. | https://registry-edge.dingalinged.workers.dev/c/root-realty-chicago/
-21. Wabi Sabi Realty Group | Organic #21 | Pulse Score 63.5/100 (Unrated, #3 in city) | Wabi Sabi Realty Group is a real estate agency in Houston, TX at 2800 Post Oak Boulevard #4100, Houston, TX 77056. Phone: +12813065721. Website: https://www.wabisabirealty.com/. | https://registry-edge.dingalinged.workers.dev/c/wabi-sabi-realty-group-houston/
-22. The Courtyards at Lupton Village, an Epcon Community | Organic #22 | Pulse Score 63.4/100 (Unrated, #1 in city) | The Courtyards at Lupton Village, an Epcon Community is a real estate agency in Fort Lupton, CO at 375 Josef Circle, Fort Lupton, CO 80621. Phone: +19706903579. Website: https://eastmanhomes.co/community/fort-lupton/. | https://registry-edge.dingalinged.workers.dev/c/the-courtyards-at-lupton-village-an-epcon-community-fort-lupton/
-23. Local on Delmar | Organic #23 | Pulse Score 63.3/100 (Unrated, #1 in city) | Local on Delmar is a real estate agency in University City, MO at 6513 Delmar Boulevard, University City, MO 63130. Phone: +13144921300. Website: https://localondelmar.com/. | https://registry-edge.dingalinged.workers.dev/c/local-on-delmar-university-city/
-24. Wishbone Properties | Organic #24 | Pulse Score 63.3/100 (Unrated, #1 in city) | Wishbone Properties is a real estate agency in Saint Peters, MO at 35 Jamaica Drive #Suite #101, Saint Peters, MO 63376. Phone: +13143127264. Website: https://wishbonebuyshomes.com/. | https://registry-edge.dingalinged.workers.dev/c/wishbone-properties-saint-peters/
-25. Equity Real Estate | Organic #25 | Pulse Score 63.2/100 (Good, #2 in city) | Equity Real Estate is a real estate agency in Pittsburgh, PA. Phone: +14124229200. | https://registry-edge.dingalinged.workers.dev/c/equity-real-estate-pittsburgh/
-26. Catina Willis Realty Group | Organic #26 | Pulse Score 63.2/100 (Unrated, #1 in city) | Catina Willis Realty Group is a real estate agency in Westland, MI at 226 Fischer Drive, Westland, MI 48186. Phone: +17345060076. Website: https://catinasells.com/. | https://registry-edge.dingalinged.workers.dev/c/catina-willis-realty-group-westland/
-27. LGI Homes - Vacek Country Meadows | Organic #27 | Pulse Score 63.2/100 (Unrated, #1 in city) | LGI Homes - Vacek Country Meadows is a real estate agency in Richmond, TX at 10714 Gossypium Court, Richmond, TX 77469. Phone: +18667794600. Website: https://www.lgihomes.com/texas/houston/vacek-country-meadows. | https://registry-edge.dingalinged.workers.dev/c/lgi-homes-vacek-country-meadows-richmond/
-28. Accardo Arts | Organic #28 | Pulse Score 63.2/100 (Unrated, #1 in city) | Accardo Arts is a real estate agency in Overland Park, KS at 6717 Shawnee Mission Parkway, Overland Park, KS. Phone: +19136334940. Website: https://www.accardoarts.com/6717-building. | https://registry-edge.dingalinged.workers.dev/c/accardo-arts-overland-park/
-29. Harvest By Hillwood Communities | Organic #29 | Pulse Score 63/100 (Unrated, #1 in city) | Harvest By Hillwood Communities is a real estate agency in Argyle, TX at 1301 Homestead Way, Argyle, TX 76226. Phone: +19403056093. Website: https://www.harvestbyhillwood.com/. | https://registry-edge.dingalinged.workers.dev/c/harvest-by-hillwood-communities-argyle/
-30. Lindsay Gallagher and Associates Real Estate | Organic #30 | Pulse Score 63/100 (Unrated, #1 in city) | Lindsay Gallagher and Associates Real Estate is a real estate agency in Stoughton, WI at 2420 US Highway 51, Stoughton, WI 53589. Phone: +16088739239. Website: https://www.lindsaygallagher.com/. | https://registry-edge.dingalinged.workers.dev/c/lindsay-gallagher-and-associates-real-estate-stoughton/
-31. Ryan & Company Realtors | Organic #31 | Pulse Score 62.9/100 (Good, #1 in city) | Ryan & Company Realtors is a real estate agency in Wauconda, IL at 206 North Main Street, Wauconda, IL 60084. Phone: +18475260300. Website: https://ryanrealtors.com/. | https://registry-edge.dingalinged.workers.dev/c/ryan-and-company-realtors-wauconda/
-32. Pecan Square By Hillwood Communities | Organic #32 | Pulse Score 62.9/100 (Unrated, #1 in city) | Pecan Square By Hillwood Communities is a real estate agency in Northlake, TX at 2701 N Mkt Sq Ln, Northlake, TX 76247. Phone: +18173983458. Website: https://www.pecansquarebyhillwood.com/. | https://registry-edge.dingalinged.workers.dev/c/pecan-square-by-hillwood-communities-northlake/
-33. Kris Kellar Coldwell Banker | Organic #33 | Pulse Score 62.9/100 (Unrated, #1 in city) | Kris Kellar Coldwell Banker is a real estate agency in Parker, CO at 18801 East Mainstreet, Parker, CO 80134. Phone: +13032507841. Website: https://parkercoloradohousesforsale.com/. | https://registry-edge.dingalinged.workers.dev/c/kris-kellar-coldwell-banker-parker/
-34. The Schueler Group | Organic #34 | Pulse Score 62.9/100 (Unrated, #1 in city) | The Schueler Group is a real estate agency in Lebanon, OH at 3000 Henkle Drive #G, Lebanon, OH 45036. Phone: +15139326010. Website: https://schuelergroup.com/. | https://registry-edge.dingalinged.workers.dev/c/the-schueler-group-lebanon/
-35. Mill Old Town | Organic #35 | Pulse Score 62.8/100 (Good, #1 in city) | Mill Old Town is a real estate agency in Lewisville, TX at 535 South Mill Street, Lewisville, TX. Phone: +19726954401. Website: https://www.milloldtown.com/. | https://registry-edge.dingalinged.workers.dev/c/mill-old-town-lewisville/
-36. The Blonde Apartments | Organic #36 | Pulse Score 62.8/100 (Unrated, #1 in city) | The Blonde Apartments is a real estate agency in Cincinnati, OH at 721 Main Street, Cincinnati, OH 45202. Phone: +15135062902. Website: https://apartments.naproperties.com/ohio/cincinnati/the-blonde-apartments. | https://registry-edge.dingalinged.workers.dev/c/the-blonde-apartments-cincinnati/
-37. Avery | Organic #37 | Pulse Score 62.8/100 (Unrated, #2 in city) | Avery is a real estate agency in Lewisville, TX at 350 Continental Drive, Lewisville, TX 75067. Phone: +19728437059. Website: https://www.averyapartmenthomes.com/. | https://registry-edge.dingalinged.workers.dev/c/avery-lewisville/
-38. Pretty Michigan Homes | Organic #38 | Pulse Score 62.8/100 (Unrated, #1 in city) | Pretty Michigan Homes is a real estate agency in Madison Heights, MI at 905 West 11 Mile Road, Madison Heights, MI 48071. Phone: +12486863535. Website: https://www.prettymihomes.com/. | https://registry-edge.dingalinged.workers.dev/c/pretty-michigan-homes-madison-heights/
-39. Center Coast Realty | Organic #39 | Pulse Score 62.8/100 (Unrated, #3 in city) | Center Coast Realty is a real estate agency in Chicago, IL at 2256 West North Avenue, Chicago, IL 60647. Phone: +13125614080. Website: https://centercoastrealty.com/. | https://registry-edge.dingalinged.workers.dev/c/center-coast-realty-chicago/
-40. MetroPlains Management, LLC | Organic #40 | Pulse Score 62.8/100 (Unrated, #1 in city) | MetroPlains Management, LLC is a real estate agency in Saint Paul, MN at 1600 University Avenue ##212, Saint Paul, MN 55104. Phone: +16516467848. Website: https://www.metroplains.com/. | https://registry-edge.dingalinged.workers.dev/c/metroplains-management-llc-saint-paul/
-41. Moody & Company Real Estate Services | Organic #41 | Pulse Score 62.8/100 (Unrated, #1 in city) | Moody & Company Real Estate Services is a real estate agency in Lebanon, IN at 118 South Meridian Street, Lebanon, IN 46052. Phone: +17653356295. Website: https://www.moodycompany.com/. | https://registry-edge.dingalinged.workers.dev/c/moody-and-company-real-estate-services-lebanon/
-42. PREAM Lands | Organic #42 | Pulse Score 62.7/100 (Good, #1 in city) | PREAM Lands is a real estate agency in Dallas, TX at 6060 North Central Expressway #Suite 510, Dallas, TX 75206. Phone: +14698404449. Website: https://www.webuylandntx.com/. | https://registry-edge.dingalinged.workers.dev/c/pream-lands-dallas/
-43. Sprinkman Real Estate | Organic #43 | Pulse Score 62.7/100 (Unrated, #1 in city) | Sprinkman Real Estate is a real estate agency in Madison, WI at 622 West Washington Avenue #100, Madison, WI 53703. Phone: +16084679596. Website: https://sprinkmanrealestate.com/. | https://registry-edge.dingalinged.workers.dev/c/sprinkman-real-estate-madison/
-44. Lyons Realty | Organic #44 | Pulse Score 62.7/100 (Unrated, #1 in city) | Lyons Realty is a real estate agency in Sheridan, IN at 807 South White Avenue, Sheridan, IN 46069. Phone: +13173453960. Website: https://www.lyons-realty.com/. | https://registry-edge.dingalinged.workers.dev/c/lyons-realty-sheridan/
-45. MoJo Real Estate Team | Organic #45 | Pulse Score 62.7/100 (Unrated, #2 in city) | MoJo Real Estate Team is a real estate agency in Kansas City, MO at 310 Northwest Englewood Road, Kansas City, MO 64118. Phone: +18162686068. Website: https://mojokc.com/. | https://registry-edge.dingalinged.workers.dev/c/mojo-real-estate-team-kansas-city/
-46. Richey Real Estate Group | Organic #46 | Pulse Score 62.7/100 (Unrated, #1 in city) | Richey Real Estate Group is a real estate agency in Lee's Summit, MO at 222 Southwest Main Street, Lee's Summit, MO 64063. Phone: +18167868485. Website: https://www.relyonrichey.com/. | https://registry-edge.dingalinged.workers.dev/c/richey-real-estate-group-lees-summit/
-47. DGS Group | Organic #47 | Pulse Score 62.6/100 (Good, #1 in city) | DGS Group is a real estate agency in Marietta, GA at 1263 Roswell Road, Marietta, GA. Phone: +16788926335. Website: https://dgsgroupga.com/. | https://registry-edge.dingalinged.workers.dev/c/dgs-group-marietta/
-48. Farah Siddiqui Exp Realty Home Selling Team Atlanta Metro | Organic #48 | Pulse Score 62.6/100 (Good, #1 in city) | Farah Siddiqui Exp Realty Home Selling Team Atlanta Metro is a real estate agency in Atlanta, GA at 1230 Peachtree Street Northeast #1900, Atlanta, GA 30309. Phone: +16785717389. Website: https://farahsiddiqui.exprealty.com/. | https://registry-edge.dingalinged.workers.dev/c/farah-siddiqui-exp-realty-home-selling-team-atlanta-metro-atlanta/
-49. Trent Ecklar Real Estate Team | Organic #49 | Pulse Score 62.6/100 (Unrated, #1 in city) | Trent Ecklar Real Estate Team is a real estate agency in Columbus, OH at 580 South High Street #210, Columbus, OH 43215. Phone: +16149177800. Website: https://www.zillow.com/profile/TrentEdwardEcklar. | https://registry-edge.dingalinged.workers.dev/c/trent-ecklar-real-estate-team-columbus/
-50. BeeHive Realty I & D LLC | Organic #50 | Pulse Score 62.6/100 (Unrated, #2 in city) | BeeHive Realty I & D LLC is a real estate agency in Cincinnati, OH at 524 West Liberty Street, Cincinnati, OH 45214. Phone: +15135790777. Website: https://familyfinehomes.com/. | https://registry-edge.dingalinged.workers.dev/c/beehive-realty-i-and-d-llc-cincinnati/
+7. Wilson County Abstract Company | Organic #7 | Pulse Score 64.6/100 (Good, #1 in city) | Wilson County Abstract Company is a real estate agency in Floresville, TX at 1429 3rd Street, Floresville, TX 78114. Phone: +18303932810. | https://registry-edge.dingalinged.workers.dev/c/wilson-county-abstract-company-floresville/
+8. Dominion Properties | Organic #8 | Pulse Score 64.6/100 (Good, #1 in city) | Dominion Properties is a real estate agency in Milwaukee, WI at 2025 North Summit Avenue, Milwaukee, WI 53202. Phone: +14142645901. Website: https://dominion-properties.com/. | https://registry-edge.dingalinged.workers.dev/c/dominion-properties-milwaukee/
+9. GatoCity Properties | Organic #9 | Pulse Score 64.4/100 (Good, #2 in city) | GatoCity Properties is a real estate agency in Milwaukee, WI at 610 East Pleasant Street, Milwaukee, WI 53202. Phone: +14144038645. Website: https://www.gatocity.com/. | https://registry-edge.dingalinged.workers.dev/c/gatocity-properties-milwaukee/
+10. Metropolitan Associates | Organic #10 | Pulse Score 64.2/100 (Good, #3 in city) | Metropolitan Associates is a real estate agency in Milwaukee, WI at 1123 North Astor Street, Milwaukee, WI 53202. Phone: +14142761515. Website: https://www.metapts.com/. | https://registry-edge.dingalinged.workers.dev/c/metropolitan-associates-milwaukee/
+11. National Appraisal Partners LLP | Organic #11 | Pulse Score 64.2/100 (Unrated, #2 in city) | National Appraisal Partners LLP is a real estate agency in Houston, TX at 3203 Edloe Street, Houston, TX 77027. Phone: +17134638761. Website: https://www.napllp.com/. | https://registry-edge.dingalinged.workers.dev/c/national-appraisal-partners-llp-houston/
+12. McCaffery | Organic #12 | Pulse Score 64/100 (Unrated, #1 in city) | McCaffery is a real estate agency in Pittsburgh, PA at 1750 Spruce Way, Pittsburgh, PA 15222. Phone: +14127631660. Website: https://www.mccafferyinc.com/. | https://registry-edge.dingalinged.workers.dev/c/mccaffery-pittsburgh/
+13. Zerillo Realty | Organic #13 | Pulse Score 64/100 (Unrated, #1 in city) | Zerillo Realty is a real estate agency in Norridge, IL at 4840 North Cumberland Avenue, Norridge, IL 60706. Phone: +17085838300. Website: https://www.zerillorealty.com/. | https://registry-edge.dingalinged.workers.dev/c/zerillo-realty-norridge/
+14. Jeff Williamson Group - Cincinnati Realtor | Organic #14 | Pulse Score 63.9/100 (Unrated, #1 in city) | Jeff Williamson Group - Cincinnati Realtor is a real estate agency in Loveland, OH at 629 Woodsway Drive, Loveland, OH 45140. Phone: +15132057904. Website: https://realtorincincinnati.com/. | https://registry-edge.dingalinged.workers.dev/c/jeff-williamson-group-cincinnati-realtor-loveland/
+15. Botsford Place Terrace Apartments | Organic #15 | Pulse Score 63.9/100 (Unrated, #1 in city) | Botsford Place Terrace Apartments is a real estate agency in Farmington Hills, MI at 27883 Independence Street, Farmington Hills, MI 48336. Phone: +12486158920. Website: https://bptapartments.com/. | https://registry-edge.dingalinged.workers.dev/c/botsford-place-terrace-apartments-farmington-hills/
+16. John Goodman Real Estate | Organic #16 | Pulse Score 63.8/100 (Unrated, #1 in city) | John Goodman Real Estate is a real estate agency in Northville, MI at 42949 7 Mile Road, Northville, MI 48167. Phone: +12485320608. Website: https://www.johngoodmanrealestate.com/. | https://registry-edge.dingalinged.workers.dev/c/john-goodman-real-estate-northville/
+17. Melissa Linton Realtor | Organic #17 | Pulse Score 63.8/100 (Unrated, #1 in city) | Melissa Linton Realtor is a real estate agency in Austin, TX at 7600 Chevy Chase Drive #300, Austin, TX 78752. Phone: +15127734955. Website: https://www.melissalinton.com/. | https://registry-edge.dingalinged.workers.dev/c/melissa-linton-realtor-austin/
+18. Gold & Associates, PC | Organic #18 | Pulse Score 63.8/100 (Unrated, #1 in city) | Gold & Associates, PC is a real estate agency in Plymouth, MI at 747 South Main Street #100, Plymouth, MI 48170. Phone: +17343357100. Website: https://www.goldandassociatespc.com/. | https://registry-edge.dingalinged.workers.dev/c/gold-and-associates-pc-plymouth/
+19. Nelson Property Management | Organic #19 | Pulse Score 63.8/100 (Unrated, #1 in city) | Nelson Property Management is a real estate agency in Fraser, MI at 32631 Utica Road, Fraser, MI 48026. Phone: +15868401337. Website: https://nelsonlandcapital.com/. | https://registry-edge.dingalinged.workers.dev/c/nelson-property-management-fraser/
+20. Shorewest Realtors | Organic #20 | Pulse Score 63.7/100 (Unrated, #4 in city) | Shorewest Realtors is a real estate agency in Milwaukee, WI at 1610 North Water Street, Milwaukee, WI 53202. Phone: +14142264570. Website: https://www.shorewest.com/wisconsin-real-estate-offices-milwaukee-downtown. | https://registry-edge.dingalinged.workers.dev/c/shorewest-realtors-milwaukee/
+21. Nick Ahrens Real Estate | Organic #21 | Pulse Score 63.6/100 (Good, #1 in city) | Nick Ahrens Real Estate is a real estate agency in Broomfield, CO at 2365 West 165th Avenue, Broomfield, CO 80023. Phone: +19492303625. Website: https://www.youranthemhome.com/. | https://registry-edge.dingalinged.workers.dev/c/nick-ahrens-real-estate-broomfield/
+22. De La Garza Realty Group LLC | Organic #22 | Pulse Score 63.6/100 (Unrated, #1 in city) | De La Garza Realty Group LLC is a real estate agency in McAllen, TX at 3400 North McColl Road #24, McAllen, TX 78501. Phone: +19567818229. Website: https://www.dlgrealtygroup.com/. | https://registry-edge.dingalinged.workers.dev/c/de-la-garza-realty-group-llc-mcallen/
+23. Briggs Freeman Sotheby's International Realty | Organic #23 | Pulse Score 63.5/100 (Unrated, #2 in city) | Briggs Freeman Sotheby's International Realty is a real estate agency in Plano, TX at 7301 Lone Star Drive #A-115, Plano, TX 75024. Phone: +19722025900. Website: https://www.briggsfreeman.com/realestate/agents/11021/. | https://registry-edge.dingalinged.workers.dev/c/briggs-freeman-sothebys-international-realty-plano/
+24. Root Realty | Organic #24 | Pulse Score 63.5/100 (Unrated, #2 in city) | Root Realty is a real estate agency in Chicago, IL at 4237 North Lincoln Avenue, Chicago, IL 60618. Phone: +17733488080. Website: https://www.rootrealty.com/. | https://registry-edge.dingalinged.workers.dev/c/root-realty-chicago/
+25. Wabi Sabi Realty Group | Organic #25 | Pulse Score 63.5/100 (Unrated, #3 in city) | Wabi Sabi Realty Group is a real estate agency in Houston, TX at 2800 Post Oak Boulevard #4100, Houston, TX 77056. Phone: +12813065721. Website: https://www.wabisabirealty.com/. | https://registry-edge.dingalinged.workers.dev/c/wabi-sabi-realty-group-houston/
+26. TXC Realty | Organic #26 | Pulse Score 63.4/100 (Unrated, #1 in city) | TXC Realty is a real estate agency in Bryan, TX at 2817 W Osr, Bryan, TX 77807. Phone: +19792683200. Website: https://www.txcrealty.com/. | https://registry-edge.dingalinged.workers.dev/c/txc-realty-bryan/
+27. The Courtyards at Lupton Village, an Epcon Community | Organic #27 | Pulse Score 63.4/100 (Unrated, #1 in city) | The Courtyards at Lupton Village, an Epcon Community is a real estate agency in Fort Lupton, CO at 375 Josef Circle, Fort Lupton, CO 80621. Phone: +19706903579. Website: https://eastmanhomes.co/community/fort-lupton/. | https://registry-edge.dingalinged.workers.dev/c/the-courtyards-at-lupton-village-an-epcon-community-fort-lupton/
+28. Local on Delmar | Organic #28 | Pulse Score 63.3/100 (Unrated, #1 in city) | Local on Delmar is a real estate agency in University City, MO at 6513 Delmar Boulevard, University City, MO 63130. Phone: +13144921300. Website: https://localondelmar.com/. | https://registry-edge.dingalinged.workers.dev/c/local-on-delmar-university-city/
+29. Magnolia Reality Temple-Belton | Organic #29 | Pulse Score 63.3/100 (Unrated, #1 in city) | Magnolia Reality Temple-Belton is a real estate agency in Temple, TX at 1195 North Pea Ridge Road, Temple, TX 76502. Phone: +12542136336. Website: https://www.magnoliarealtytemplebelton.com/. | https://registry-edge.dingalinged.workers.dev/c/magnolia-reality-temple-belton-temple/
+30. Wishbone Properties | Organic #30 | Pulse Score 63.3/100 (Unrated, #1 in city) | Wishbone Properties is a real estate agency in Saint Peters, MO at 35 Jamaica Drive #Suite #101, Saint Peters, MO 63376. Phone: +13143127264. Website: https://wishbonebuyshomes.com/. | https://registry-edge.dingalinged.workers.dev/c/wishbone-properties-saint-peters/
+31. Catina Willis Realty Group | Organic #31 | Pulse Score 63.2/100 (Unrated, #1 in city) | Catina Willis Realty Group is a real estate agency in Westland, MI at 226 Fischer Drive, Westland, MI 48186. Phone: +17345060076. Website: https://catinasells.com/. | https://registry-edge.dingalinged.workers.dev/c/catina-willis-realty-group-westland/
+32. J. Paul Aubin Real Estate | Organic #32 | Pulse Score 63.2/100 (Unrated, #1 in city) | J. Paul Aubin Real Estate is a real estate agency in Georgetown, TX at 810 South Main Street, Georgetown, TX 78626. Phone: +15125637093. Website: https://www.jpaulaubin.com/. | https://registry-edge.dingalinged.workers.dev/c/j-paul-aubin-real-estate-georgetown/
+33. LGI Homes - Vacek Country Meadows | Organic #33 | Pulse Score 63.2/100 (Unrated, #1 in city) | LGI Homes - Vacek Country Meadows is a real estate agency in Richmond, TX at 10714 Gossypium Court, Richmond, TX 77469. Phone: +18667794600. Website: https://www.lgihomes.com/texas/houston/vacek-country-meadows. | https://registry-edge.dingalinged.workers.dev/c/lgi-homes-vacek-country-meadows-richmond/
+34. Accardo Arts | Organic #34 | Pulse Score 63.2/100 (Unrated, #1 in city) | Accardo Arts is a real estate agency in Overland Park, KS at 6717 Shawnee Mission Parkway, Overland Park, KS. Phone: +19136334940. Website: https://www.accardoarts.com/6717-building. | https://registry-edge.dingalinged.workers.dev/c/accardo-arts-overland-park/
+35. Equity Real Estate | Organic #35 | Pulse Score 63.1/100 (Good, #2 in city) | Equity Real Estate is a real estate agency in Pittsburgh, PA. Phone: +14124229200. | https://registry-edge.dingalinged.workers.dev/c/equity-real-estate-pittsburgh/
+36. Harvest By Hillwood Communities | Organic #36 | Pulse Score 63/100 (Unrated, #1 in city) | Harvest By Hillwood Communities is a real estate agency in Argyle, TX at 1301 Homestead Way, Argyle, TX 76226. Phone: +19403056093. Website: https://www.harvestbyhillwood.com/. | https://registry-edge.dingalinged.workers.dev/c/harvest-by-hillwood-communities-argyle/
+37. Lindsay Gallagher and Associates Real Estate | Organic #37 | Pulse Score 63/100 (Unrated, #1 in city) | Lindsay Gallagher and Associates Real Estate is a real estate agency in Stoughton, WI at 2420 US Highway 51, Stoughton, WI 53589. Phone: +16088739239. Website: https://www.lindsaygallagher.com/. | https://registry-edge.dingalinged.workers.dev/c/lindsay-gallagher-and-associates-real-estate-stoughton/
+38. Ryan & Company Realtors | Organic #38 | Pulse Score 62.9/100 (Good, #1 in city) | Ryan & Company Realtors is a real estate agency in Wauconda, IL at 206 North Main Street, Wauconda, IL 60084. Phone: +18475260300. Website: https://ryanrealtors.com/. | https://registry-edge.dingalinged.workers.dev/c/ryan-and-company-realtors-wauconda/
+39. Pecan Square By Hillwood Communities | Organic #39 | Pulse Score 62.9/100 (Unrated, #1 in city) | Pecan Square By Hillwood Communities is a real estate agency in Northlake, TX at 2701 N Mkt Sq Ln, Northlake, TX 76247. Phone: +18173983458. Website: https://www.pecansquarebyhillwood.com/. | https://registry-edge.dingalinged.workers.dev/c/pecan-square-by-hillwood-communities-northlake/
+40. Kris Kellar Coldwell Banker | Organic #40 | Pulse Score 62.9/100 (Unrated, #1 in city) | Kris Kellar Coldwell Banker is a real estate agency in Parker, CO at 18801 East Mainstreet, Parker, CO 80134. Phone: +13032507841. Website: https://parkercoloradohousesforsale.com/. | https://registry-edge.dingalinged.workers.dev/c/kris-kellar-coldwell-banker-parker/
+41. Pace Realty | Organic #41 | Pulse Score 62.9/100 (Unrated, #1 in city) | Pace Realty is a real estate agency in Amarillo, TX at 4005 Southwest 50th Avenue, Amarillo, TX 79109. Phone: +18064142300. Website: https://www.pacerealtytexas.com/. | https://registry-edge.dingalinged.workers.dev/c/pace-realty-amarillo/
+42. The Schueler Group | Organic #42 | Pulse Score 62.9/100 (Unrated, #1 in city) | The Schueler Group is a real estate agency in Lebanon, OH at 3000 Henkle Drive #G, Lebanon, OH 45036. Phone: +15139326010. Website: https://schuelergroup.com/. | https://registry-edge.dingalinged.workers.dev/c/the-schueler-group-lebanon/
+43. Mill Old Town | Organic #43 | Pulse Score 62.8/100 (Good, #1 in city) | Mill Old Town is a real estate agency in Lewisville, TX at 535 South Mill Street, Lewisville, TX. Phone: +19726954401. Website: https://www.milloldtown.com/. | https://registry-edge.dingalinged.workers.dev/c/mill-old-town-lewisville/
+44. Avery | Organic #44 | Pulse Score 62.8/100 (Unrated, #2 in city) | Avery is a real estate agency in Lewisville, TX at 350 Continental Drive, Lewisville, TX 75067. Phone: +19728437059. Website: https://www.averyapartmenthomes.com/. | https://registry-edge.dingalinged.workers.dev/c/avery-lewisville/
+45. Pretty Michigan Homes | Organic #45 | Pulse Score 62.8/100 (Unrated, #1 in city) | Pretty Michigan Homes is a real estate agency in Madison Heights, MI at 905 West 11 Mile Road, Madison Heights, MI 48071. Phone: +12486863535. Website: https://www.prettymihomes.com/. | https://registry-edge.dingalinged.workers.dev/c/pretty-michigan-homes-madison-heights/
+46. Top Texas Realty | Organic #46 | Pulse Score 62.8/100 (Unrated, #1 in city) | Top Texas Realty is a real estate agency in Burleson, TX at 217 W Bufford St, Burleson, TX 76028. Phone: +18177448300. Website: https://www.toptexasrealty.com/. | https://registry-edge.dingalinged.workers.dev/c/top-texas-realty-burleson/
+47. Center Coast Realty | Organic #47 | Pulse Score 62.8/100 (Unrated, #3 in city) | Center Coast Realty is a real estate agency in Chicago, IL at 2256 West North Avenue, Chicago, IL 60647. Phone: +13125614080. Website: https://centercoastrealty.com/. | https://registry-edge.dingalinged.workers.dev/c/center-coast-realty-chicago/
+48. MetroPlains Management, LLC | Organic #48 | Pulse Score 62.8/100 (Unrated, #1 in city) | MetroPlains Management, LLC is a real estate agency in Saint Paul, MN at 1600 University Avenue ##212, Saint Paul, MN 55104. Phone: +16516467848. Website: https://www.metroplains.com/. | https://registry-edge.dingalinged.workers.dev/c/metroplains-management-llc-saint-paul/
+49. Moody & Company Real Estate Services | Organic #49 | Pulse Score 62.8/100 (Unrated, #1 in city) | Moody & Company Real Estate Services is a real estate agency in Lebanon, IN at 118 South Meridian Street, Lebanon, IN 46052. Phone: +17653356295. Website: https://www.moodycompany.com/. | https://registry-edge.dingalinged.workers.dev/c/moody-and-company-real-estate-services-lebanon/
+50. PREAM Lands | Organic #50 | Pulse Score 62.7/100 (Good, #1 in city) | PREAM Lands is a real estate agency in Dallas, TX at 6060 North Central Expressway #Suite 510, Dallas, TX 75206. Phone: +14698404449. Website: https://www.webuylandntx.com/. | https://registry-edge.dingalinged.workers.dev/c/pream-lands-dallas/
 
-## More real estate agent listings (1171 total; top 50 unpaid shown)
+## More real estate agent listings (1505 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/real-estate-agent.jsonl
 - Chicago, IL: 69 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-chicago-il/
 - Dallas, TX: 36 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-dallas-tx/
 - Columbus, OH: 35 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-columbus-oh/
 - Indianapolis, IN: 30 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-indianapolis-in/
+- Amarillo, TX: 27 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-amarillo-tx/
+- Austin, TX: 25 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-austin-tx/
 - Houston, TX: 25 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-houston-tx/
 - Minneapolis, MN: 21 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-minneapolis-mn/
 - Kansas City, MO: 20 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-kansas-city-mo/
+- Lubbock, TX: 19 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lubbock-tx/
+- San Antonio, TX: 19 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-san-antonio-tx/
 - Milwaukee, WI: 19 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-milwaukee-wi/
 - Cincinnati, OH: 18 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-cincinnati-oh/
 - Saint Paul, MN: 17 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-saint-paul-mn/
 - Pittsburgh, PA: 17 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-pittsburgh-pa/
 - Atlanta, GA: 16 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-atlanta-ga/
 - Madison, WI: 15 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-madison-wi/
+- Georgetown, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-georgetown-tx/
 - Frisco, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-frisco-tx/
 - Wauwatosa, WI: 11 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-wauwatosa-wi/
 - Detroit, MI: 9 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-detroit-mi/
 - Lawrence, KS: 9 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lawrence-ks/
 - Naperville, IL: 9 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-naperville-il/
+- Fort Smith, AR: 9 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-fort-smith-ar/
+- Rogers, AR: 9 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-rogers-ar/
 - Lancaster, OH: 8 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lancaster-oh/
+- Harris County, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-harris-county-tx/
+- New Braunfels, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-new-braunfels-tx/
+- Cleburne, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-cleburne-tx/
 - Southgate, MI: 8 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-southgate-mi/
 - Sterling Heights, MI: 8 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-sterling-heights-mi/
 - Overland Park, KS: 8 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-overland-park-ks/
@@ -86,18 +96,24 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Boulder, CO: 8 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-boulder-co/
 - Omaha, NE: 8 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-omaha-ne/
 - Marietta, GA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-marietta-ga/
-- Trenton, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-trenton-mi/
-- Dearborn, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-dearborn-mi/
+- Fort Worth, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-fort-worth-tx/
 - Rockwall, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-rockwall-tx/
 - Plano, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-plano-tx/
 - Denton, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-denton-tx/
+- Mcallen, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-mcallen-tx/
+- Trenton, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-trenton-mi/
+- Dearborn, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-dearborn-mi/
+- Conway, AR: 7 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-conway-ar/
 - Ankeny, IA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-ankeny-ia/
 - Mccandless, PA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-mccandless-pa/
 - Jefferson County, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-jefferson-county-co/
 - Montgomery, OH: 6 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-montgomery-oh/
 - Roswell, GA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-roswell-ga/
+- Abilene, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-abilene-tx/
+- Weatherford, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-weatherford-tx/
 - Birmingham, MI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-birmingham-mi/
-- Harris County, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-harris-county-tx/
+- Russellville, AR: 6 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-russellville-ar/
+- Little Rock, AR: 6 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-little-rock-ar/
 - Springfield, MO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-springfield-mo/
 - Racine, WI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-racine-wi/
 - Carmel, IN: 6 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-carmel-in/
@@ -105,10 +121,16 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Centennial, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-centennial-co/
 - Woodstock, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-woodstock-ga/
 - Cobb County, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-cobb-county-ga/
-- Wichita, KS: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-wichita-ks/
 - Lewisville, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lewisville-tx/
+- Flower Mound, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-flower-mound-tx/
+- El Paso, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-el-paso-tx/
+- Sherman, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-sherman-tx/
+- Longview, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-longview-tx/
 - League City, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-league-city-tx/
 - Addison, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-addison-tx/
+- Leander, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-leander-tx/
+- Wichita, KS: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-wichita-ks/
+- Fayetteville, AR: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-fayetteville-ar/
 - Columbia, MO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-columbia-mo/
 - Eagan, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-eagan-mn/
 - Edina, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-edina-mn/
@@ -116,13 +138,17 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Parker, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-parker-co/
 - Upper Arlington, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-upper-arlington-oh/
 - Deerfield Township, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-deerfield-township-oh/
+- Corpus Christi, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-corpus-christi-tx/
+- Texas City, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-texas-city-tx/
+- College Station, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-college-station-tx/
+- Cedar Park, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-cedar-park-tx/
+- Boerne, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-boerne-tx/
+- Southlake, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-southlake-tx/
 - Hutchinson, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-hutchinson-ks/
 - Manhattan, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-manhattan-ks/
 - New Lenox, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-new-lenox-il/
 - Downers Grove, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-downers-grove-il/
-- Texas City, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-texas-city-tx/
-- Flower Mound, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-flower-mound-tx/
-- Southlake, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-southlake-tx/
+- Cabot, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-cabot-ar/
 - Saint Louis County, MO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-saint-louis-county-mo/
 - Evansville, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-evansville-wi/
 - Waunakee, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-waunakee-wi/
@@ -140,6 +166,18 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Loveland, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-loveland-oh/
 - Sycamore Township, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-sycamore-township-oh/
 - Alpharetta, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-alpharetta-ga/
+- Greenville, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-greenville-tx/
+- Waco, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-waco-tx/
+- Crandall, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-crandall-tx/
+- Midland, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-midland-tx/
+- Texarkana, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-texarkana-tx/
+- Waxahachie, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-waxahachie-tx/
+- Mesquite, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-mesquite-tx/
+- Dripping Springs, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-dripping-springs-tx/
+- Richmond, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-richmond-tx/
+- Round Rock, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-round-rock-tx/
+- Bastrop, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-bastrop-tx/
+- Kerrville, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-kerrville-tx/
 - Farmington Hills, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-farmington-hills-mi/
 - Utica, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-utica-mi/
 - Wyandotte, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-wyandotte-mi/
@@ -150,8 +188,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Western Springs, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-western-springs-il/
 - Schaumburg, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-schaumburg-il/
 - Elmhurst, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-elmhurst-il/
-- Crandall, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-crandall-tx/
-- Mesquite, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-mesquite-tx/
+- Jonesboro, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-jonesboro-ar/
 - Lee'S Summit, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lees-summit-mo/
 - Saint Joseph, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-saint-joseph-mo/
 - Platte City, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-platte-city-mo/
@@ -173,6 +210,36 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Douglasville, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-douglasville-ga/
 - Smyrna, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-smyrna-ga/
 - Dekalb County, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-dekalb-county-ga/
+- Mckinney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-mckinney-tx/
+- Brazoria County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-brazoria-county-tx/
+- Beaumont, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-beaumont-tx/
+- Bandera, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-bandera-tx/
+- Fulshear, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-fulshear-tx/
+- Fort Bend County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-fort-bend-county-tx/
+- Angleton, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-angleton-tx/
+- Carrollton, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-carrollton-tx/
+- Victoria, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-victoria-tx/
+- Lufkin, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lufkin-tx/
+- Cedar Hill, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-cedar-hill-tx/
+- Denison, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-denison-tx/
+- Irving, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-irving-tx/
+- Port Aransas, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-port-aransas-tx/
+- Wichita Falls, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-wichita-falls-tx/
+- Richardson, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-richardson-tx/
+- Pflugerville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-pflugerville-tx/
+- Bee Cave, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-bee-cave-tx/
+- Lockhart, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lockhart-tx/
+- Argyle, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-argyle-tx/
+- Galveston, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-galveston-tx/
+- Odessa, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-odessa-tx/
+- Spring Branch, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-spring-branch-tx/
+- The Woodlands, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-the-woodlands-tx/
+- Westlake, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-westlake-tx/
+- Comal County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-comal-county-tx/
+- Harlingen, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-harlingen-tx/
+- Forney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-forney-tx/
+- Liberty Hill, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-liberty-hill-tx/
+- Arlington, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-arlington-tx/
 - Brownstown Charter Township, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-brownstown-charter-township-mi/
 - Grosse Ile Township, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-grosse-ile-township-mi/
 - Kingsville, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-kingsville-mi/
@@ -195,19 +262,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Wauconda, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-wauconda-il/
 - Bethalto, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-bethalto-il/
 - Tinley Park, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-tinley-park-il/
-- Brazoria County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-brazoria-county-tx/
-- Fulshear, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-fulshear-tx/
-- Fort Bend County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-fort-bend-county-tx/
-- Carrollton, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-carrollton-tx/
-- Cedar Hill, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-cedar-hill-tx/
-- Irving, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-irving-tx/
-- Richardson, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-richardson-tx/
-- Argyle, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-argyle-tx/
-- Waxahachie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-waxahachie-tx/
-- The Woodlands, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-the-woodlands-tx/
-- Westlake, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-westlake-tx/
-- Forney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-forney-tx/
-- Arlington, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-arlington-tx/
+- Farmington, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-farmington-ar/
 - Smithville, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-smithville-mo/
 - Kearney, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-kearney-mo/
 - Franklin, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-franklin-wi/
@@ -260,6 +315,63 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Acworth, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-acworth-ga/
 - Milton, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-milton-ga/
 - Johns Creek, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-johns-creek-ga/
+- Poteet, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-poteet-tx/
+- Pantego, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-pantego-tx/
+- Little Elm, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-little-elm-tx/
+- Joshua, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-joshua-tx/
+- Anna, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-anna-tx/
+- Magnolia, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-magnolia-tx/
+- Paris, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-paris-tx/
+- Seguin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-seguin-tx/
+- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-allen-tx/
+- Todd Mission, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-todd-mission-tx/
+- Salado, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-salado-tx/
+- Brownsville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-brownsville-tx/
+- Conroe, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-conroe-tx/
+- Natalia, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-natalia-tx/
+- Roman Forest, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-roman-forest-tx/
+- Cibolo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-cibolo-tx/
+- Heath, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-heath-tx/
+- Prosper, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-prosper-tx/
+- La Porte, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-la-porte-tx/
+- Terrell Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-terrell-hills-tx/
+- Schertz, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-schertz-tx/
+- Mansfield, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-mansfield-tx/
+- Roanoke, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-roanoke-tx/
+- Pearland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-pearland-tx/
+- Copperas Cove, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-copperas-cove-tx/
+- Elgin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-elgin-tx/
+- Crowley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-crowley-tx/
+- Corsicana, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-corsicana-tx/
+- Murphy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-murphy-tx/
+- Tyler, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-tyler-tx/
+- Woodbranch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-woodbranch-tx/
+- Temple, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-temple-tx/
+- Coppell, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-coppell-tx/
+- Sachse, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-sachse-tx/
+- Haltom City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-haltom-city-tx/
+- North Cleveland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-north-cleveland-tx/
+- Cleveland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-cleveland-tx/
+- Benbrook, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-benbrook-tx/
+- Sugar Land, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-sugar-land-tx/
+- Northlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-northlake-tx/
+- Katy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-katy-tx/
+- Taylor, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-taylor-tx/
+- Pottsboro, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-pottsboro-tx/
+- Grapevine, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-grapevine-tx/
+- Godley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-godley-tx/
+- Wimberley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-wimberley-tx/
+- San Angelo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-san-angelo-tx/
+- Montgomery County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-montgomery-county-tx/
+- Lakeway, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lakeway-tx/
+- Kennedale, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-kennedale-tx/
+- Santa Fe, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-santa-fe-tx/
+- Burleson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-burleson-tx/
+- Trophy Club, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-trophy-club-tx/
+- Bryan, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-bryan-tx/
+- Floresville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-floresville-tx/
+- North Richland Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-north-richland-hills-tx/
+- Killeen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-killeen-tx/
 - Lincoln Park, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lincoln-park-mi/
 - Shelby Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-shelby-charter-township-mi/
 - Westland, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-westland-mi/
@@ -310,36 +422,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Willow Springs, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-willow-springs-il/
 - Hillside, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-hillside-il/
 - Norridge, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-norridge-il/
-- Pantego, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-pantego-tx/
-- Little Elm, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-little-elm-tx/
-- Magnolia, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-magnolia-tx/
-- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-allen-tx/
-- Todd Mission, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-todd-mission-tx/
-- Roman Forest, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-roman-forest-tx/
-- Heath, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-heath-tx/
-- Prosper, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-prosper-tx/
-- La Porte, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-la-porte-tx/
-- Mansfield, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-mansfield-tx/
-- Roanoke, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-roanoke-tx/
-- Pearland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-pearland-tx/
-- Murphy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-murphy-tx/
-- Richmond, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-richmond-tx/
-- Woodbranch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-woodbranch-tx/
-- Fort Worth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-fort-worth-tx/
-- Coppell, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-coppell-tx/
-- Sachse, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-sachse-tx/
-- Mckinney, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-mckinney-tx/
-- North Cleveland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-north-cleveland-tx/
-- Cleveland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-cleveland-tx/
-- Sugar Land, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-sugar-land-tx/
-- Northlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-northlake-tx/
-- Katy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-katy-tx/
-- Grapevine, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-grapevine-tx/
-- Montgomery County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-montgomery-county-tx/
-- Kennedale, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-kennedale-tx/
-- Santa Fe, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-santa-fe-tx/
-- Trophy Club, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-trophy-club-tx/
-- North Richland Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-north-richland-hills-tx/
+- Springdale, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-springdale-ar/
+- Pine Bluff, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-pine-bluff-ar/
+- Hot Springs, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-hot-springs-ar/
+- Paragould, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-paragould-ar/
+- Gentry, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-gentry-ar/
+- North Little Rock, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-north-little-rock-ar/
 - O’Fallon, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-o-fallon-mo/
 - Independence, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-independence-mo/
 - Olivette, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-olivette-mo/
@@ -438,7 +526,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'real estate agent': $3.61-$18.18 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: low (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1171
+- Registry businesses competing: 1505
 - Equivalent Google Ads cost per month: ~$60,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

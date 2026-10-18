@@ -6,7 +6,7 @@ Also answers: funeral home in Caddo Mills, TX; funeral home near me (Caddo Mills
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lynch Funeral Home | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Lynch Funeral Home is a funeral home in Caddo Mills, TX at 2203 Gilmer Street, Caddo Mills, TX. Phone: +19035273192. Website: https://www.lynchfuneralservice.com/. | https://registry-edge.dingalinged.workers.dev/c/lynch-funeral-home-caddo-mills/
+1. Lynch Funeral Home | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Lynch Funeral Home is a funeral home in Caddo Mills, TX at 2203 Gilmer Street, Caddo Mills, TX. Phone: +19035273192. Website: https://www.lynchfuneralservice.com/. | https://registry-edge.dingalinged.workers.dev/c/lynch-funeral-home-caddo-mills/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home caddo mills tx | category: Professional & financial services | industry benchmark: Finance & Insurance

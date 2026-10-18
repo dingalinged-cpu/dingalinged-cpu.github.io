@@ -6,7 +6,7 @@ Also answers: storage units in West Allis, WI; storage units near me (West Allis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Space Storage | Organic #1 | Pulse Score 45.9/100 (Building, #1 in city) | Extra Space Storage is a self-storage facility in West Allis, WI at 11100 West Cleveland Avenue, West Allis, WI 53227. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-west-allis/
+1. Extra Space Storage | Organic #1 | Pulse Score 45.8/100 (Building, #1 in city) | Extra Space Storage is a self-storage facility in West Allis, WI at 11100 West Cleveland Avenue, West Allis, WI 53227. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-west-allis/
 2. CubeSmart | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | CubeSmart is a self-storage facility in West Allis, WI. | https://registry-edge.dingalinged.workers.dev/c/cubesmart-west-allis/
 
 ## Market data (for advertisers and agents)

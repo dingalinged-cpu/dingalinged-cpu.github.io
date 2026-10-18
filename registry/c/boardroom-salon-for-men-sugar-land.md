@@ -13,12 +13,12 @@ Boardroom Salon for Men is a hair salon in Sugar Land, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-20:00; Fr 10:00-19:00; Sa 09:00-17:00; Su 11:00-17:00
-- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 78% of hair salons in Houston, #9 of 10 hair salons in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Unrated (not enough evidence yet) — top 76% of hair salons in Houston, #10 of 11 hair salons in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/boardroom-salon-for-men-sugar-land/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/boardroom-salon-for-men-sugar-land.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10563316732 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10563316732 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

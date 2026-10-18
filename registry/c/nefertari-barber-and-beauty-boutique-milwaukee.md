@@ -13,7 +13,7 @@ Nefertari Barber & Beauty Boutique is a hair salon in Milwaukee, WI at 2372 Nort
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-We 09:00-18:00; Th-Fr 09:00-21:00; Sa 08:00-17:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 13% of hair salons in Milwaukee, #31 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 13% of hair salons in Milwaukee, #31 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

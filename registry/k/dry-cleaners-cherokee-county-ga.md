@@ -6,7 +6,7 @@ Also answers: dry cleaners in Cherokee County, GA; dry cleaners near me (Cheroke
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mr. Cleaners | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Mr. Cleaners is a dry cleaner in Cherokee County, GA at 5505 Bells Ferry Road #100, Cherokee County, GA. Phone: +17705170300. | https://registry-edge.dingalinged.workers.dev/c/mr-cleaners-cherokee-county/
+1. Mr. Cleaners | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | Mr. Cleaners is a dry cleaner in Cherokee County, GA at 5505 Bells Ferry Road #100, Cherokee County, GA. Phone: +17705170300. | https://registry-edge.dingalinged.workers.dev/c/mr-cleaners-cherokee-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners cherokee county ga | category: Professional & financial services | industry benchmark: Finance & Insurance

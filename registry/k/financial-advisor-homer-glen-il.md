@@ -7,7 +7,7 @@ Also answers: financial advisor in Homer Glen, IL; financial advisor near me (Ho
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Edward Jones | Organic #1 | Pulse Score 47.6/100 (Building, #1 in city) | Edward Jones is a financial advisor in Homer Glen, IL at 13201 West 143rd Street, Homer Glen, IL 60491. Website: https://www.edwardjones.com/. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-homer-glen/
-2. Edward Jones | Organic #2 | Pulse Score 44/100 (Building, #2 in city) | Edward Jones is a financial advisor in Homer Glen, IL at 15915 Crystal Creek Drive, Homer Glen, IL 60491. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-homer-glen-n11158136535/
+2. Edward Jones | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | Edward Jones is a financial advisor in Homer Glen, IL at 15915 Crystal Creek Drive, Homer Glen, IL 60491. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-homer-glen-n11158136535/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor homer glen il | category: Professional & financial services | industry benchmark: Finance & Insurance

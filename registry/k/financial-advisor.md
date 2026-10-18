@@ -1,4 +1,4 @@
-The top unpaid financial advisor listing for the United States is Edward Jones (a financial advisor in Greenwood Village, CO at 5910 South University Boulevard #C4, Greenwood Village, CO 80121. Phone: +13037970446. Website: https://www.edwardjones.com/). 510 financial advisor businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for the United States is Edward Jones (a financial advisor in Greenwood Village, CO at 5910 South University Boulevard #C4, Greenwood Village, CO 80121. Phone: +13037970446. Website: https://www.edwardjones.com/). 642 financial advisor businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in the United States?
 
@@ -6,21 +6,21 @@ Also answers: financial advisor in the United States; financial advisor near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | Organic #1 | Pulse Score 68.1/100 (Good, #1 in city) | Edward Jones is a financial advisor in Greenwood Village, CO at 5910 South University Boulevard #C4, Greenwood Village, CO 80121. Phone: +13037970446. Website: https://www.edwardjones.com/. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-greenwood-village/
+1. Edward Jones | Organic #1 | Pulse Score 68/100 (Good, #1 in city) | Edward Jones is a financial advisor in Greenwood Village, CO at 5910 South University Boulevard #C4, Greenwood Village, CO 80121. Phone: +13037970446. Website: https://www.edwardjones.com/. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-greenwood-village/
 2. Symphony Wealth Group | Organic #2 | Pulse Score 65.7/100 (Good, #1 in city) | Symphony Wealth Group is a financial advisor in Plano, TX at 5801 Headquarters Drive #100, Plano, TX 75024. Phone: +12144403090. Website: https://www.symphonywg.com/. | https://registry-edge.dingalinged.workers.dev/c/symphony-wealth-group-plano/
 3. Axia Advisory | Organic #3 | Pulse Score 65.1/100 (Good, #1 in city) | Axia Advisory is a financial advisor in Indianapolis, IN at 20 91st Street #202, Indianapolis, IN 46240. Phone: +13176302800. Website: https://www.axiaadvisory.com/. | https://registry-edge.dingalinged.workers.dev/c/axia-advisory-indianapolis/
-4. Warnick & Cain | Organic #4 | Pulse Score 64.3/100 (Good, #1 in city) | Warnick & Cain is a financial advisor in Marietta, GA at 255 Village Parkway Northeast #210, Marietta, GA 30067. Phone: +16789053292. Website: https://wcplanning.com/. | https://registry-edge.dingalinged.workers.dev/c/warnick-and-cain-marietta/
-5. Brighton Jones | Organic #5 | Pulse Score 64.2/100 (Good, #1 in city) | Brighton Jones is a financial advisor in Dallas, TX at 5956 Sherry Lane #20th Floor, Dallas, TX 75225. Phone: +14697221526. Website: https://www.brightonjones.com/locations/dallas/. | https://registry-edge.dingalinged.workers.dev/c/brighton-jones-dallas/
-6. Brighton Jones | Organic #6 | Pulse Score 64.2/100 (Good, #1 in city) | Brighton Jones is a financial advisor in Edina, MN at 4951 West 77th Street, Edina, MN 55435. Phone: +16514614872. Website: https://www.brightonjones.com/locations/minneapolis. | https://registry-edge.dingalinged.workers.dev/c/brighton-jones-edina/
-7. Oak Tree Financial Services - Brookfield, WI: Ameriprise | Organic #7 | Pulse Score 63.6/100 (Good, #1 in city) | Oak Tree Financial Services - Brookfield, WI: Ameriprise is a financial advisor in Brookfield, WI at 13555 Bishops Court #255, Brookfield, WI 53005. Phone: +12626499202. Website: https://www.ameripriseadvisors.com/team/oak-tree-financial-services/. | https://registry-edge.dingalinged.workers.dev/c/oak-tree-financial-services-brookfield-wi-ameriprise-brookfield/
+4. Jackson Wealth Preservation & Advisory Group | Organic #4 | Pulse Score 64.7/100 (Good, #1 in city) | Jackson Wealth Preservation & Advisory Group is a financial advisor in Fayetteville, AR at 4778 Castlewood Lane, Fayetteville, AR 72764. Phone: +14795270547. Website: https://www.jacksonwealth.net/. | https://registry-edge.dingalinged.workers.dev/c/jackson-wealth-preservation-and-advisory-group-fayetteville/
+5. Warnick & Cain | Organic #5 | Pulse Score 64.2/100 (Good, #1 in city) | Warnick & Cain is a financial advisor in Marietta, GA at 255 Village Parkway Northeast #210, Marietta, GA 30067. Phone: +16789053292. Website: https://wcplanning.com/. | https://registry-edge.dingalinged.workers.dev/c/warnick-and-cain-marietta/
+6. Oak Tree Financial Services - Brookfield, WI: Ameriprise | Organic #6 | Pulse Score 63.5/100 (Good, #1 in city) | Oak Tree Financial Services - Brookfield, WI: Ameriprise is a financial advisor in Brookfield, WI at 13555 Bishops Court #255, Brookfield, WI 53005. Phone: +12626499202. Website: https://www.ameripriseadvisors.com/team/oak-tree-financial-services/. | https://registry-edge.dingalinged.workers.dev/c/oak-tree-financial-services-brookfield-wi-ameriprise-brookfield/
+7. Caprock | Organic #7 | Pulse Score 63.3/100 (Unrated, #1 in city) | Caprock is a financial advisor in Austin, TX at 3600 North Capital of Texas Highway #200, Austin, TX 78746. Phone: +15128724597. Website: https://caprock.com/about/locations/wealth-management-austin/. | https://registry-edge.dingalinged.workers.dev/c/caprock-austin/
 8. Bowman Financial Strategies | Organic #8 | Pulse Score 63.1/100 (Unrated, #1 in city) | Bowman Financial Strategies is a financial advisor in Englewood, CO at 385 Inverness Parkway #390, Englewood, CO 80012. Phone: +13032228034. Website: https://www.bowmanfinancialstrategies.com/. | https://registry-edge.dingalinged.workers.dev/c/bowman-financial-strategies-englewood/
 9. Freedom Wealth Alliance | Organic #9 | Pulse Score 62.9/100 (Good, #2 in city) | Freedom Wealth Alliance is a financial advisor in Brookfield, WI at 675 North Barker Road ##220, Brookfield, WI 53045. Phone: +12627987979. Website: https://freedomwealthalliance.com/. | https://registry-edge.dingalinged.workers.dev/c/freedom-wealth-alliance-brookfield/
 10. VZD Capital Management, LLC | Organic #10 | Pulse Score 62.9/100 (Unrated, #1 in city) | VZD Capital Management, LLC is a financial advisor in Lenexa, KS at 8953 Mill Creek Road, Lenexa, KS 66219. Phone: +18167267066. Website: https://vzdcap.com/. | https://registry-edge.dingalinged.workers.dev/c/vzd-capital-management-llc-lenexa/
 11. Rhame & Gorrell Wealth Management | Organic #11 | Pulse Score 62.7/100 (Unrated, #1 in city) | Rhame & Gorrell Wealth Management is a financial advisor in The Woodlands, TX at 1330 Lake Robbins Drive, The Woodlands, TX 77380. Phone: +18327891100. Website: https://rgwealth.com/. | https://registry-edge.dingalinged.workers.dev/c/rhame-and-gorrell-wealth-management-the-woodlands/
-12. Edward Jones Kelsey Burgett | Organic #12 | Pulse Score 62.4/100 (Good, #1 in city) | Edward Jones Kelsey Burgett is a financial advisor in Sunbury, OH. Phone: +17409360778. Website: https://www.edwardjones.com/. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-kelsey-burgett-sunbury/
-13. Keil Financial Partners | Organic #13 | Pulse Score 62.4/100 (Unrated, #1 in city) | Keil Financial Partners is a financial advisor in New Berlin, WI at 15350 West National Avenue, New Berlin, WI 53151. Phone: +12623338353. Website: https://keilfp.com/. | https://registry-edge.dingalinged.workers.dev/c/keil-financial-partners-new-berlin/
-14. HORAN | Organic #14 | Pulse Score 62.4/100 (Unrated, #1 in city) | HORAN is a financial advisor in Cincinnati, OH at 8044 Montgomery Road #Suite 640, Cincinnati, OH 45236. Phone: +15137450707. Website: https://horanassoc.com/. | https://registry-edge.dingalinged.workers.dev/c/horan-cincinnati/
-15. NSE Financial Group | Organic #15 | Pulse Score 62.4/100 (Unrated, #1 in city) | NSE Financial Group is a financial advisor in Overland Park, KS at 10551 Barkley Street, Overland Park, KS 66213. Phone: +17853172229. Website: https://nsefinancialgroup.com/. | https://registry-edge.dingalinged.workers.dev/c/nse-financial-group-overland-park/
+12. Keil Financial Partners | Organic #12 | Pulse Score 62.4/100 (Unrated, #1 in city) | Keil Financial Partners is a financial advisor in New Berlin, WI at 15350 West National Avenue, New Berlin, WI 53151. Phone: +12623338353. Website: https://keilfp.com/. | https://registry-edge.dingalinged.workers.dev/c/keil-financial-partners-new-berlin/
+13. HORAN | Organic #13 | Pulse Score 62.4/100 (Unrated, #1 in city) | HORAN is a financial advisor in Cincinnati, OH at 8044 Montgomery Road #Suite 640, Cincinnati, OH 45236. Phone: +15137450707. Website: https://horanassoc.com/. | https://registry-edge.dingalinged.workers.dev/c/horan-cincinnati/
+14. NSE Financial Group | Organic #14 | Pulse Score 62.4/100 (Unrated, #1 in city) | NSE Financial Group is a financial advisor in Overland Park, KS at 10551 Barkley Street, Overland Park, KS 66213. Phone: +17853172229. Website: https://nsefinancialgroup.com/. | https://registry-edge.dingalinged.workers.dev/c/nse-financial-group-overland-park/
+15. Edward Jones Kelsey Burgett | Organic #15 | Pulse Score 62.3/100 (Good, #1 in city) | Edward Jones Kelsey Burgett is a financial advisor in Sunbury, OH. Phone: +17409360778. Website: https://www.edwardjones.com/. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-kelsey-burgett-sunbury/
 16. Allodium Investment Consultants, LLC | Organic #16 | Pulse Score 62.3/100 (Unrated, #1 in city) | Allodium Investment Consultants, LLC is a financial advisor in Minneapolis, MN at 500 South Washington Avenue ##4400, Minneapolis, MN 55415. Phone: +16122303700. Website: https://allodium.com/. | https://registry-edge.dingalinged.workers.dev/c/allodium-investment-consultants-llc-minneapolis/
 17. Family Financial Solutions and More | Organic #17 | Pulse Score 62.3/100 (Unrated, #1 in city) | Family Financial Solutions and More is a financial advisor in Sterling Heights, MI at 2785 East 14 Mile Road, Sterling Heights, MI 48310. Phone: +15863012002. Website: https://www.ffsandmore.com/. | https://registry-edge.dingalinged.workers.dev/c/family-financial-solutions-and-more-sterling-heights/
 18. Financial Impact Financial Coaching | Organic #18 | Pulse Score 62.3/100 (Unrated, #1 in city) | Financial Impact Financial Coaching is a financial advisor in Denver, CO at 2100 16th St Mall #310, Denver, CO 80202. Phone: +17209854804. Website: https://financialimpact.com/. | https://registry-edge.dingalinged.workers.dev/c/financial-impact-financial-coaching-denver/
@@ -28,38 +28,41 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 20. Chicagoland 1031 Exchange | Organic #20 | Pulse Score 62.1/100 (Unrated, #1 in city) | Chicagoland 1031 Exchange is a financial advisor in Schaumburg, IL at 1827 Walden Office Square #500, Schaumburg, IL 60173. Phone: +12242455281. Website: https://chicagoland1031exchange.com/. | https://registry-edge.dingalinged.workers.dev/c/chicagoland-1031-exchange-schaumburg/
 21. Fifteen:22 Financial Partners | Organic #21 | Pulse Score 62.1/100 (Unrated, #1 in city) | Fifteen:22 Financial Partners is a financial advisor in Lawrence, KS at 3310 Mesa Way #101, Lawrence, KS 66049. Phone: +17858437070. Website: https://www.fifteen22fp.com/. | https://registry-edge.dingalinged.workers.dev/c/fifteen-22-financial-partners-lawrence/
 22. J.P. Cannata & Associates | Organic #22 | Pulse Score 62.1/100 (Unrated, #1 in city) | J.P. Cannata & Associates is a financial advisor in Roselle, IL at 25 East Main Street #202, Roselle, IL 60172. Phone: +18473180700. Website: https://jpcannata.com/. | https://registry-edge.dingalinged.workers.dev/c/j-p-cannata-and-associates-roselle/
-23. NobleMark Financial | Organic #23 | Pulse Score 62/100 (Unrated, #1 in city) | NobleMark Financial is a financial advisor in Utica, MI at 8300 Hall Road #201, Utica, MI 48317. Phone: +15867377496. Website: https://www.noblemarkfinancial.com/. | https://registry-edge.dingalinged.workers.dev/c/noblemark-financial-utica/
-24. Rowland Miller + Partners | Organic #24 | Pulse Score 62/100 (Unrated, #1 in city) | Rowland Miller + Partners is a financial advisor in Atlanta, GA at 3060 Peachtree Street #710, Atlanta, GA 30305. Phone: +14048165350. Website: https://rowlandmiller.com/. | https://registry-edge.dingalinged.workers.dev/c/rowland-miller-partners-atlanta/
-25. Thomas Financial | Organic #25 | Pulse Score 62/100 (Unrated, #2 in city) | Thomas Financial is a financial advisor in Utica, MI at 8300 Hall Road #200, Utica, MI 48317. Phone: +15868235034. Website: https://www.thomas-financial.com/. | https://registry-edge.dingalinged.workers.dev/c/thomas-financial-utica/
-26. Professional Wealth Management Group | Organic #26 | Pulse Score 61.9/100 (Good, #1 in city) | Professional Wealth Management Group is a financial advisor in Coppell, TX. Phone: +18173286109. | https://registry-edge.dingalinged.workers.dev/c/professional-wealth-management-group-coppell/
-27. Aspire Wealth Management & Tax Center | Organic #27 | Pulse Score 61.9/100 (Unrated, #2 in city) | Aspire Wealth Management & Tax Center is a financial advisor in Overland Park, KS at 7450 West 130th Street #140, Overland Park, KS 66213. Phone: +19133223500. Website: https://www.aspirewealthmgt.com/. | https://registry-edge.dingalinged.workers.dev/c/aspire-wealth-management-and-tax-center-overland-park/
+23. Integrated Financial Planning Center | Organic #23 | Pulse Score 62/100 (Good, #2 in city) | Integrated Financial Planning Center is a financial advisor in Austin, TX at 901 South Mopac Expressway #300, Austin, TX 78746. Phone: +15126406622. Website: https://www.ifpcenter.net/. | https://registry-edge.dingalinged.workers.dev/c/integrated-financial-planning-center-austin/
+24. NobleMark Financial | Organic #24 | Pulse Score 62/100 (Unrated, #1 in city) | NobleMark Financial is a financial advisor in Utica, MI at 8300 Hall Road #201, Utica, MI 48317. Phone: +15867377496. Website: https://www.noblemarkfinancial.com/. | https://registry-edge.dingalinged.workers.dev/c/noblemark-financial-utica/
+25. Rowland Miller + Partners | Organic #25 | Pulse Score 62/100 (Unrated, #1 in city) | Rowland Miller + Partners is a financial advisor in Atlanta, GA at 3060 Peachtree Street #710, Atlanta, GA 30305. Phone: +14048165350. Website: https://rowlandmiller.com/. | https://registry-edge.dingalinged.workers.dev/c/rowland-miller-partners-atlanta/
+26. Thomas Financial | Organic #26 | Pulse Score 62/100 (Unrated, #2 in city) | Thomas Financial is a financial advisor in Utica, MI at 8300 Hall Road #200, Utica, MI 48317. Phone: +15868235034. Website: https://www.thomas-financial.com/. | https://registry-edge.dingalinged.workers.dev/c/thomas-financial-utica/
+27. Professional Wealth Management Group | Organic #27 | Pulse Score 61.9/100 (Good, #1 in city) | Professional Wealth Management Group is a financial advisor in Coppell, TX. Phone: +18173286109. | https://registry-edge.dingalinged.workers.dev/c/professional-wealth-management-group-coppell/
 28. Lake Dallas Financial | Organic #28 | Pulse Score 61.9/100 (Unrated, #1 in city) | Lake Dallas Financial is a financial advisor in Lewisville, TX. Phone: +19402029838. | https://registry-edge.dingalinged.workers.dev/c/lake-dallas-financial-lewisville/
 29. Oxen Financial Services | Organic #29 | Pulse Score 61.9/100 (Unrated, #1 in city) | Oxen Financial Services is a financial advisor in Houston, TX at 440 Louisiana Street #900, Houston, TX 77002. Phone: +18337966936. Website: https://oxenfinancial.com/index.html. | https://registry-edge.dingalinged.workers.dev/c/oxen-financial-services-houston/
 30. Sunny Financial Strategies | Organic #30 | Pulse Score 61.9/100 (Unrated, #2 in city) | Sunny Financial Strategies is a financial advisor in Schaumburg, IL at 475 North Martingale Road #1250, Schaumburg, IL 60173. Phone: +18474149116. Website: https://sunnyfinancial.com/. | https://registry-edge.dingalinged.workers.dev/c/sunny-financial-strategies-schaumburg/
-31. Red Cedar Investment Management | Organic #31 | Pulse Score 61.8/100 (Unrated, #2 in city) | Red Cedar Investment Management is a financial advisor in Cincinnati, OH at 1404 Vine Street #2nd Floor, Cincinnati, OH 45202. Phone: +15133454414. Website: https://www.redcedarim.com/. | https://registry-edge.dingalinged.workers.dev/c/red-cedar-investment-management-cincinnati/
-32. Hennsler Financial | Organic #32 | Pulse Score 61.7/100 (Good, #1 in city) | Hennsler Financial is a financial advisor in Kennesaw, GA at 3735 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +17706287751. Website: https://www.hensslerkennesaw.com/. | https://registry-edge.dingalinged.workers.dev/c/hennsler-financial-kennesaw/
+31. Aspire Wealth Management & Tax Center | Organic #31 | Pulse Score 61.8/100 (Unrated, #2 in city) | Aspire Wealth Management & Tax Center is a financial advisor in Overland Park, KS at 7450 West 130th Street #140, Overland Park, KS 66213. Phone: +19133223500. Website: https://www.aspirewealthmgt.com/. | https://registry-edge.dingalinged.workers.dev/c/aspire-wealth-management-and-tax-center-overland-park/
+32. Red Cedar Investment Management | Organic #32 | Pulse Score 61.7/100 (Unrated, #2 in city) | Red Cedar Investment Management is a financial advisor in Cincinnati, OH at 1404 Vine Street #2nd Floor, Cincinnati, OH 45202. Phone: +15133454414. Website: https://www.redcedarim.com/. | https://registry-edge.dingalinged.workers.dev/c/red-cedar-investment-management-cincinnati/
 33. Next Degree Financial | Organic #33 | Pulse Score 61.7/100 (Unrated, #2 in city) | Next Degree Financial is a financial advisor in Sterling Heights, MI at 38800 Van Dyke Avenue #Suite 200, Sterling Heights, MI 48312. Phone: +15865246614. Website: https://www.nextdegreefinancial.com/. | https://registry-edge.dingalinged.workers.dev/c/next-degree-financial-sterling-heights/
 34. QOLity Financial | Organic #34 | Pulse Score 61.7/100 (Unrated, #3 in city) | QOLity Financial is a financial advisor in Utica, MI at 7669 Auburn Road, Utica, MI 48317. Phone: +15865802470. Website: https://www.qolity.com/. | https://registry-edge.dingalinged.workers.dev/c/qolity-financial-utica/
 35. Trinity Wealth Solutions | Organic #35 | Pulse Score 61.7/100 (Unrated, #3 in city) | Trinity Wealth Solutions is a financial advisor in Sterling Heights, MI at 38800 Van Dyke Avenue #Suite 800, Sterling Heights, MI 48312. Phone: +12485192338. Website: https://www.trinitywealth.net/. | https://registry-edge.dingalinged.workers.dev/c/trinity-wealth-solutions-sterling-heights/
 36. David Gossett CPA,CFP | Organic #36 | Pulse Score 61.7/100 (Unrated, #1 in city) | David Gossett CPA,CFP is a financial advisor in Broomfield, CO at 11811 Upham Street ##F, Broomfield, CO 80020. Phone: +13034663755. Website: https://www.gossettwealth.com/. | https://registry-edge.dingalinged.workers.dev/c/david-gossett-cpa-cfp-broomfield/
 37. JD Rowe Financial | Organic #37 | Pulse Score 61.7/100 (Unrated, #1 in city) | JD Rowe Financial is a financial advisor in Glendale, CO at 501 South Cherry Street, Glendale, CO 80246. Phone: +13039072389. Website: https://jdrowefinancial.com/. | https://registry-edge.dingalinged.workers.dev/c/jd-rowe-financial-glendale/
-38. Hightower and Associates Bookkeeping and Tax Service | Organic #38 | Pulse Score 61.6/100 (Unrated, #1 in city) | Hightower and Associates Bookkeeping and Tax Service is a financial advisor in Southlake, TX at 280 Miron Drive, Southlake, TX 76092. Phone: +18177490721. Website: https://www.hightowertax.com/. | https://registry-edge.dingalinged.workers.dev/c/hightower-and-associates-bookkeeping-and-tax-service-southlake/
-39. Retirement Income Planning LLC | Organic #39 | Pulse Score 61.5/100 (Unrated, #1 in city) | Retirement Income Planning LLC is a financial advisor in Madison, WI at 2310 Crossroads Drive #4700, Madison, WI 53718. Phone: +16088071100. Website: https://retirementincomeplanningllc.com/. | https://registry-edge.dingalinged.workers.dev/c/retirement-income-planning-llc-madison/
-40. LCPI Institutional | Organic #40 | Pulse Score 61.4/100 (Good, #2 in city) | LCPI Institutional is a financial advisor in Atlanta, GA at 1270 West Peachtree Street Northwest #3, Atlanta, GA. Phone: +14703267920. Website: https://lcpi.com/. | https://registry-edge.dingalinged.workers.dev/c/lcpi-institutional-atlanta/
-41. Prudential | Organic #41 | Pulse Score 61.4/100 (Good, #2 in city) | Prudential is a financial advisor in Englewood, CO at 8000 South Chester Street #325, Englewood, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/prudential-englewood/
-42. Enders Wealth Management | Organic #42 | Pulse Score 61.4/100 (Unrated, #4 in city) | Enders Wealth Management is a financial advisor in Sterling Heights, MI at 38700 Van Dyke Avenue #Suite 125, Sterling Heights, MI 48312. Phone: +15865547969. Website: https://www.enderswm.com/. | https://registry-edge.dingalinged.workers.dev/c/enders-wealth-management-sterling-heights/
-43. Q3 Advisors, LLC | Organic #43 | Pulse Score 61.3/100 (Unrated, #1 in city) | Q3 Advisors, LLC is a financial advisor in Arvada, CO at 7314 Ralston Road, Arvada, CO 80002. Phone: +17207305650. Website: https://q3adv.com/. | https://registry-edge.dingalinged.workers.dev/c/q3-advisors-llc-arvada/
-44. Three Peaks Capital Management | Organic #44 | Pulse Score 61.3/100 (Unrated, #1 in city) | Three Peaks Capital Management is a financial advisor in Castle Rock, CO at 3750 Dacoro Lane #100, Castle Rock, CO 80109. Phone: +13032219480. Website: https://www.threepeaks.com/. | https://registry-edge.dingalinged.workers.dev/c/three-peaks-capital-management-castle-rock/
-45. Triad Financial Group | Organic #45 | Pulse Score 61.3/100 (Unrated, #1 in city) | Triad Financial Group is a financial advisor in Creve Coeur, MO at 425 North New Ballas Road #205, Creve Coeur, MO 63141. Phone: +13143926800. Website: https://www.triadfinancialgroup.net/. | https://registry-edge.dingalinged.workers.dev/c/triad-financial-group-creve-coeur/
-46. Destiney Mobile Consulting & Notary LLC | Organic #46 | Pulse Score 61.2/100 (Unrated, #1 in city) | Destiney Mobile Consulting & Notary LLC is a financial advisor in Roseville, MI at 16667 Waterman Drive, Roseville, MI 48066. Phone: +15862616147. Website: https://mobileconsultingandnotary.com/. | https://registry-edge.dingalinged.workers.dev/c/destiney-mobile-consulting-and-notary-llc-roseville/
-47. Karp Financial Advisors Inc | Organic #47 | Pulse Score 61.2/100 (Unrated, #1 in city) | Karp Financial Advisors Inc is a financial advisor in Saint Paul, MN at 400 Selby Avenue #Suite P, Saint Paul, MN 55102. Phone: +16512098980. Website: https://www.karpfinancialadvisors.com/. | https://registry-edge.dingalinged.workers.dev/c/karp-financial-advisors-inc-saint-paul/
-48. Mowery & Schoenfeld Wealth Management | Organic #48 | Pulse Score 61.2/100 (Unrated, #1 in city) | Mowery & Schoenfeld Wealth Management is a financial advisor in Lake Forest, IL at 550 Oakwood Avenue, Lake Forest, IL 60045. Phone: +18476151555. Website: https://www.msllcwealth.com/. | https://registry-edge.dingalinged.workers.dev/c/mowery-and-schoenfeld-wealth-management-lake-forest/
-49. SGF Associates | Organic #49 | Pulse Score 61.2/100 (Unrated, #3 in city) | SGF Associates is a financial advisor in Cincinnati, OH at 1333 Walnut Street, Cincinnati, OH 45202. Phone: +15139140161. Website: https://www.sgfwm.com/. | https://registry-edge.dingalinged.workers.dev/c/sgf-associates-cincinnati/
-50. Annex Wealth Management | Organic #50 | Pulse Score 61.1/100 (Unrated, #1 in city) | Annex Wealth Management is a financial advisor in Milwaukee, WI. Phone: +14143956000. Website: https://annexwealth.com/. | https://registry-edge.dingalinged.workers.dev/c/annex-wealth-management-milwaukee/
+38. Absolute Financial Planning | Organic #38 | Pulse Score 61.6/100 (Good, #3 in city) | Absolute Financial Planning is a financial advisor in Austin, TX at 1015 Beecave Woods Drive #201, Austin, TX 78746. Phone: +15123272276. Website: https://www.absolutefinancialplan.com/. | https://registry-edge.dingalinged.workers.dev/c/absolute-financial-planning-austin/
+39. Hennsler Financial | Organic #39 | Pulse Score 61.6/100 (Good, #1 in city) | Hennsler Financial is a financial advisor in Kennesaw, GA at 3735 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +17706287751. Website: https://www.hensslerkennesaw.com/. | https://registry-edge.dingalinged.workers.dev/c/hennsler-financial-kennesaw/
+40. Hightower and Associates Bookkeeping and Tax Service | Organic #40 | Pulse Score 61.6/100 (Unrated, #1 in city) | Hightower and Associates Bookkeeping and Tax Service is a financial advisor in Southlake, TX at 280 Miron Drive, Southlake, TX 76092. Phone: +18177490721. Website: https://www.hightowertax.com/. | https://registry-edge.dingalinged.workers.dev/c/hightower-and-associates-bookkeeping-and-tax-service-southlake/
+41. Mariner Finance | Organic #41 | Pulse Score 61.6/100 (Unrated, #1 in city) | Mariner Finance is a financial advisor in Fort Worth, TX at 5812 Southwest Loop 820, Fort Worth, TX 76132. Phone: +18179844274. Website: https://www.marinerfinance.com/locations/texas/personal-loans-in-ft-worth-tx/. | https://registry-edge.dingalinged.workers.dev/c/mariner-finance-fort-worth/
+42. e3 Wealth | Organic #42 | Pulse Score 61.4/100 (Good, #1 in city) | e3 Wealth is a financial advisor in Kyle, TX at 165 Elmhurst Drive #B, Kyle, TX 78640. Phone: +15122689220. Website: https://e3wealth.com/. | https://registry-edge.dingalinged.workers.dev/c/e3-wealth-kyle/
+43. LCPI Institutional | Organic #43 | Pulse Score 61.4/100 (Good, #2 in city) | LCPI Institutional is a financial advisor in Atlanta, GA at 1270 West Peachtree Street Northwest #3, Atlanta, GA. Phone: +14703267920. Website: https://lcpi.com/. | https://registry-edge.dingalinged.workers.dev/c/lcpi-institutional-atlanta/
+44. Prudential | Organic #44 | Pulse Score 61.4/100 (Good, #2 in city) | Prudential is a financial advisor in Englewood, CO at 8000 South Chester Street #325, Englewood, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/prudential-englewood/
+45. Enders Wealth Management | Organic #45 | Pulse Score 61.4/100 (Unrated, #4 in city) | Enders Wealth Management is a financial advisor in Sterling Heights, MI at 38700 Van Dyke Avenue #Suite 125, Sterling Heights, MI 48312. Phone: +15865547969. Website: https://www.enderswm.com/. | https://registry-edge.dingalinged.workers.dev/c/enders-wealth-management-sterling-heights/
+46. Retirement Income Planning LLC | Organic #46 | Pulse Score 61.4/100 (Unrated, #1 in city) | Retirement Income Planning LLC is a financial advisor in Madison, WI at 2310 Crossroads Drive #4700, Madison, WI 53718. Phone: +16088071100. Website: https://retirementincomeplanningllc.com/. | https://registry-edge.dingalinged.workers.dev/c/retirement-income-planning-llc-madison/
+47. Q3 Advisors, LLC | Organic #47 | Pulse Score 61.3/100 (Unrated, #1 in city) | Q3 Advisors, LLC is a financial advisor in Arvada, CO at 7314 Ralston Road, Arvada, CO 80002. Phone: +17207305650. Website: https://q3adv.com/. | https://registry-edge.dingalinged.workers.dev/c/q3-advisors-llc-arvada/
+48. Three Peaks Capital Management | Organic #48 | Pulse Score 61.3/100 (Unrated, #1 in city) | Three Peaks Capital Management is a financial advisor in Castle Rock, CO at 3750 Dacoro Lane #100, Castle Rock, CO 80109. Phone: +13032219480. Website: https://www.threepeaks.com/. | https://registry-edge.dingalinged.workers.dev/c/three-peaks-capital-management-castle-rock/
+49. Triad Financial Group | Organic #49 | Pulse Score 61.3/100 (Unrated, #1 in city) | Triad Financial Group is a financial advisor in Creve Coeur, MO at 425 North New Ballas Road #205, Creve Coeur, MO 63141. Phone: +13143926800. Website: https://www.triadfinancialgroup.net/. | https://registry-edge.dingalinged.workers.dev/c/triad-financial-group-creve-coeur/
+50. Destiney Mobile Consulting & Notary LLC | Organic #50 | Pulse Score 61.2/100 (Unrated, #1 in city) | Destiney Mobile Consulting & Notary LLC is a financial advisor in Roseville, MI at 16667 Waterman Drive, Roseville, MI 48066. Phone: +15862616147. Website: https://mobileconsultingandnotary.com/. | https://registry-edge.dingalinged.workers.dev/c/destiney-mobile-consulting-and-notary-llc-roseville/
 
-## More financial advisor listings (510 total; top 50 unpaid shown)
+## More financial advisor listings (642 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/financial-advisor.jsonl
+- Austin, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-austin-tx/
 - Houston, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-houston-tx/
+- Amarillo, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-amarillo-tx/
+- Georgetown, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-georgetown-tx/
 - Lawrence, KS: 9 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-lawrence-ks/
 - Indianapolis, IN: 8 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-indianapolis-in/
 - Sterling Heights, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-sterling-heights-mi/
@@ -68,12 +71,14 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Overland Park, KS: 7 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-overland-park-ks/
 - Hutchinson, KS: 7 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-hutchinson-ks/
 - Lancaster, OH: 7 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-lancaster-oh/
+- Beaumont, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-beaumont-tx/
 - Southlake, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-southlake-tx/
 - Pittsburgh, PA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-pittsburgh-pa/
 - Saint Louis County, MO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-saint-louis-county-mo/
 - Brookfield, WI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-brookfield-wi/
 - Madison, WI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-madison-wi/
 - Cincinnati, OH: 6 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-cincinnati-oh/
+- Lubbock, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-lubbock-tx/
 - Flower Mound, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-flower-mound-tx/
 - Rockwall, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-rockwall-tx/
 - Saint Paul, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-saint-paul-mn/
@@ -86,6 +91,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Atlanta, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-atlanta-ga/
 - Roswell, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-roswell-ga/
 - Lewisville, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-lewisville-tx/
+- Cleburne, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-cleburne-tx/
+- Leander, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-leander-tx/
+- Russellville, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-russellville-ar/
+- Fort Smith, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-fort-smith-ar/
 - Birmingham, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-birmingham-mi/
 - Minneapolis, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-minneapolis-mn/
 - Edina, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-edina-mn/
@@ -95,12 +104,24 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Centennial, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-centennial-co/
 - Englewood, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-englewood-co/
 - Kennesaw, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-kennesaw-ga/
+- Fort Worth, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-fort-worth-tx/
+- College Station, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-college-station-tx/
 - Dallas, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-dallas-tx/
 - Coppell, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-coppell-tx/
+- Frisco, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-frisco-tx/
 - Plano, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-plano-tx/
 - Sugar Land, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-sugar-land-tx/
+- Kyle, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-kyle-tx/
+- Benbrook, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-benbrook-tx/
+- Crowley, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-crowley-tx/
+- Greenville, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-greenville-tx/
 - Montgomery County, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-montgomery-county-tx/
+- New Braunfels, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-new-braunfels-tx/
+- Sherman, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-sherman-tx/
 - The Woodlands, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-the-woodlands-tx/
+- Conway, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-conway-ar/
+- Fayetteville, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-fayetteville-ar/
+- Rogers, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-rogers-ar/
 - Saint Louis Park, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-saint-louis-park-mn/
 - Saint Joseph, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-saint-joseph-mo/
 - Middleton, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-middleton-wi/
@@ -119,9 +140,19 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Woodstock, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-woodstock-ga/
 - Cobb County, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-cobb-county-ga/
 - Gwinnett County, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-gwinnett-county-ga/
-- Frisco, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-frisco-tx/
+- Rollingwood, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-rollingwood-tx/
+- Abilene, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-abilene-tx/
+- Angleton, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-angleton-tx/
+- Cedar Park, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-cedar-park-tx/
+- Elgin, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-elgin-tx/
+- Floresville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-floresville-tx/
 - Hurst, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-hurst-tx/
+- Lufkin, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-lufkin-tx/
+- San Antonio, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-san-antonio-tx/
+- Texarkana, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-texarkana-tx/
 - Waxahachie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-waxahachie-tx/
+- Weatherford, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-weatherford-tx/
+- Longview, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-longview-tx/
 - Troy, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-troy-mi/
 - Southgate, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-southgate-mi/
 - Wyandotte, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-wyandotte-mi/
@@ -178,20 +209,39 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Marietta, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-marietta-ga/
 - Forest Park, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-forest-park-ga/
 - Morrow, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-morrow-ga/
+- Temple, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-temple-tx/
+- Comal County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-comal-county-tx/
 - Addison, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-addison-tx/
 - Wylie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-wylie-tx/
+- Bandera, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-bandera-tx/
 - Harris County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-harris-county-tx/
+- Bee Cave, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-bee-cave-tx/
 - Cedar Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-cedar-hill-tx/
+- Denison, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-denison-tx/
 - Denton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-denton-tx/
 - Forney, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-forney-tx/
+- Hutto, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-hutto-tx/
+- Joshua, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-joshua-tx/
+- Mcallen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-mcallen-tx/
 - Needville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-needville-tx/
 - Oak Ridge North, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-oak-ridge-north-tx/
+- Odessa, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-odessa-tx/
+- Pflugerville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-pflugerville-tx/
+- Alamo Heights, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-alamo-heights-tx/
+- Wichita Falls, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-wichita-falls-tx/
 - Irving, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-irving-tx/
 - University Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-university-park-tx/
 - Kaufman, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-kaufman-tx/
 - Mckinney, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-mckinney-tx/
 - Royse City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-royse-city-tx/
+- Kerrville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-kerrville-tx/
 - Carrollton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-carrollton-tx/
+- Burleson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-burleson-tx/
+- Bella Vista, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-bella-vista-ar/
+- Cabot, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-cabot-ar/
+- Johnson, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-johnson-ar/
+- Siloam Springs, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-siloam-springs-ar/
+- Texarkana, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-texarkana-ar/
 - Allen Park, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-allen-park-mi/
 - Trenton, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-trenton-mi/
 - Roseville, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-roseville-mi/
@@ -327,7 +377,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.39, median $3.39, high $3.46 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 510
+- Registry businesses competing: 642
 - Equivalent Google Ads cost per month: ~$69,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -13,7 +13,7 @@ Resident Office is a property management company in Marietta, GA at 1554 Terrell
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-18:00; Tu-We 09:00-18:00; Th 10:00-18:00; Fr 09:00-18:00
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 18% of property management companys in Atlanta, #3 of 3 property management companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 18% of property management companys in Atlanta, #3 of 3 property management companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

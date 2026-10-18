@@ -19,6 +19,6 @@ BE Fit Modern Pilates - DTX Lovers Lane is a pilates studio in Dallas, TX at 550
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/be-fit-modern-pilates-dtx-lovers-lane-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/be-fit-modern-pilates-dtx-lovers-lane-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13766349819 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13766349819 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

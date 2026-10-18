@@ -6,7 +6,7 @@ Also answers: dry cleaners in Magnolia, TX; dry cleaners near me (Magnolia, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tide Cleaners | Organic #1 | Pulse Score 47.6/100 (Building, #1 in city) | Tide Cleaners is a dry cleaner in Magnolia, TX at 6531 FM 1488 #305, Magnolia, TX 77354. | https://registry-edge.dingalinged.workers.dev/c/tide-cleaners-magnolia/
+1. Tide Cleaners | Organic #1 | Pulse Score 47.5/100 (Building, #1 in city) | Tide Cleaners is a dry cleaner in Magnolia, TX at 6531 FM 1488 #305, Magnolia, TX 77354. | https://registry-edge.dingalinged.workers.dev/c/tide-cleaners-magnolia/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners magnolia tx | category: Professional & financial services | industry benchmark: Finance & Insurance

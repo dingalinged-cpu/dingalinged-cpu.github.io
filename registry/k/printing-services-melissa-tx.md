@@ -6,7 +6,7 @@ Also answers: printing services in Melissa, TX; printing services near me (Melis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | Organic #1 | Pulse Score 41.8/100 (Building, #1 in city) | The UPS Store is a printing service in Melissa, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-melissa/
+1. The UPS Store | Organic #1 | Pulse Score 41.7/100 (Building, #1 in city) | The UPS Store is a printing service in Melissa, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-melissa/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services melissa tx | category: Professional & financial services | industry benchmark: Finance & Insurance

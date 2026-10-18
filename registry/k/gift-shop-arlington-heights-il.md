@@ -7,7 +7,7 @@ Also answers: gift shop in Arlington Heights, IL; gift shop near me (Arlington H
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Express Gifts | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Express Gifts is a gift shop in Arlington Heights, IL at 2300 East Rand Road, Arlington Heights, IL 60004. Phone: +18477881000. Website: https://expressgiftsil.com/. | https://registry-edge.dingalinged.workers.dev/c/express-gifts-arlington-heights/
-2. Hallmark | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | Hallmark is a gift shop in Arlington Heights, IL. | https://registry-edge.dingalinged.workers.dev/c/hallmark-arlington-heights/
+2. Hallmark | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Hallmark is a gift shop in Arlington Heights, IL. | https://registry-edge.dingalinged.workers.dev/c/hallmark-arlington-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop arlington heights il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ DelBrenna Jewelry is a jewelry store in Kansas City, MO at 307 East 55th Street,
 - Website: https://delbrenna.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-17:00
-- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 4% of jewelry stores in Kansas City, MO, #1 of 26 jewelry stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 4% of jewelry stores in Kansas City, MO, #1 of 26 jewelry stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

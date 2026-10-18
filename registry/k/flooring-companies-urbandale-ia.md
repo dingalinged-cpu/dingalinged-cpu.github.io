@@ -6,11 +6,11 @@ Also answers: flooring companies in Urbandale, IA; flooring companies near me (U
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Royal Flooring | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Royal Flooring is a flooring company in Urbandale, IA at 11801 Hickman Road, Urbandale, IA. Phone: +15159579738. | https://registry-edge.dingalinged.workers.dev/c/royal-flooring-urbandale/
-2. Renaissance Marble & Tile | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Renaissance Marble & Tile is a flooring company in Urbandale, IA at 4124 Northwest Urbandale Drive, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/renaissance-marble-and-tile-urbandale/
-3. Tile Shop | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Tile Shop is a flooring company in Urbandale, IA at 10151 Hickman Road, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/tile-shop-urbandale/
-4. United Brick & Tile | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | United Brick & Tile is a flooring company in Urbandale, IA at 10449 Hickman Road, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/united-brick-and-tile-urbandale/
-5. Lumber Liquidators | Organic #5 | Pulse Score 44.4/100 (Unrated, #5 in city) | Lumber Liquidators is a flooring company in Urbandale, IA at 10131 Hickman Road, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/lumber-liquidators-urbandale/
+1. Royal Flooring | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Royal Flooring is a flooring company in Urbandale, IA at 11801 Hickman Road, Urbandale, IA. Phone: +15159579738. | https://registry-edge.dingalinged.workers.dev/c/royal-flooring-urbandale/
+2. Renaissance Marble & Tile | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Renaissance Marble & Tile is a flooring company in Urbandale, IA at 4124 Northwest Urbandale Drive, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/renaissance-marble-and-tile-urbandale/
+3. Tile Shop | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Tile Shop is a flooring company in Urbandale, IA at 10151 Hickman Road, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/tile-shop-urbandale/
+4. United Brick & Tile | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | United Brick & Tile is a flooring company in Urbandale, IA at 10449 Hickman Road, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/united-brick-and-tile-urbandale/
+5. Lumber Liquidators | Organic #5 | Pulse Score 44.2/100 (Unrated, #5 in city) | Lumber Liquidators is a flooring company in Urbandale, IA at 10131 Hickman Road, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/lumber-liquidators-urbandale/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies urbandale ia | category: Home services - Flooring | industry benchmark: Home & Home Improvement

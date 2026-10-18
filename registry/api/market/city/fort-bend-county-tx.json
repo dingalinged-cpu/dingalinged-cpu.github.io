@@ -5,9 +5,24 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Fort Bend County, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
- "keywords": 39,
+ "keywords": 41,
  "lists": {
   "by_volume": [
+   {
+    "keyword": "massage fort bend county tx",
+    "slug": "massage-fort-bend-county-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-fort-bend-county-tx/",
+    "us_monthly_searches": 5000000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 120000,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 550000,
+    "equivalent_google_ads_cost_month_usd": 32000,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   },
    {
     "keyword": "urgent care fort bend county tx",
     "slug": "urgent-care-fort-bend-county-tx",
@@ -20,7 +35,7 @@
     "search_value_index_usd": 300000,
     "equivalent_google_ads_cost_month_usd": 20000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_volume"
    },
    {
@@ -35,7 +50,7 @@
     "search_value_index_usd": 180000,
     "equivalent_google_ads_cost_month_usd": 10000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 5,
+    "registry_competitors": 7,
     "ranked_by": "by_volume"
    },
    {
@@ -50,7 +65,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 15,
+    "registry_competitors": 16,
     "ranked_by": "by_volume"
    },
    {
@@ -80,7 +95,7 @@
     "search_value_index_usd": 19000,
     "equivalent_google_ads_cost_month_usd": 1100,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 8,
+    "registry_competitors": 9,
     "ranked_by": "by_volume"
    },
    {
@@ -95,7 +110,7 @@
     "search_value_index_usd": 14000,
     "equivalent_google_ads_cost_month_usd": 800,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 10,
+    "registry_competitors": 11,
     "ranked_by": "by_volume"
    },
    {
@@ -125,7 +140,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 3900,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 7,
+    "registry_competitors": 8,
     "ranked_by": "by_volume"
    },
    {
@@ -140,7 +155,7 @@
     "search_value_index_usd": 53000,
     "equivalent_google_ads_cost_month_usd": 3500,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 9,
+    "registry_competitors": 10,
     "ranked_by": "by_volume"
    },
    {
@@ -170,7 +185,7 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 2200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 10,
+    "registry_competitors": 11,
     "ranked_by": "by_volume"
    },
    {
@@ -185,7 +200,22 @@
     "search_value_index_usd": 30000,
     "equivalent_google_ads_cost_month_usd": 1700,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 7,
+    "registry_competitors": 8,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "dog boarding fort bend county tx",
+    "slug": "dog-boarding-fort-bend-county-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-fort-bend-county-tx/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 5700,
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "search_value_index_usd": 23000,
+    "equivalent_google_ads_cost_month_usd": 1500,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
     "ranked_by": "by_volume"
    },
    {
@@ -201,36 +231,6 @@
     "equivalent_google_ads_cost_month_usd": 1400,
     "featured_spot_min_usd": 50,
     "registry_competitors": 2,
-    "ranked_by": "by_volume"
-   },
-   {
-    "keyword": "car inspection fort bend county tx",
-    "slug": "car-inspection-fort-bend-county-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/car-inspection-fort-bend-county-tx/",
-    "us_monthly_searches": 90500,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 2100,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 9100,
-    "equivalent_google_ads_cost_month_usd": 510,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_volume"
-   },
-   {
-    "keyword": "insurance agency fort bend county tx",
-    "slug": "insurance-agency-fort-bend-county-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fort-bend-county-tx/",
-    "us_monthly_searches": 90500,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 2100,
-    "cpc_basis_usd": 3.39,
-    "cpc_median_usd": 3.39,
-    "search_value_index_usd": 7100,
-    "equivalent_google_ads_cost_month_usd": 590,
-    "featured_spot_min_usd": 100,
-    "registry_competitors": 4,
     "ranked_by": "by_volume"
    }
   ],
@@ -337,7 +337,7 @@
     "search_value_index_usd": 24000,
     "equivalent_google_ads_cost_month_usd": 1600,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 2,
+    "registry_competitors": 3,
     "ranked_by": "by_cpc"
    },
    {
@@ -382,7 +382,7 @@
     "search_value_index_usd": 300000,
     "equivalent_google_ads_cost_month_usd": 20000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_cpc"
    },
    {
@@ -397,7 +397,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 15,
+    "registry_competitors": 16,
     "ranked_by": "by_cpc"
    },
    {
@@ -427,7 +427,22 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 2200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 10,
+    "registry_competitors": 11,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "massage fort bend county tx",
+    "slug": "massage-fort-bend-county-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-fort-bend-county-tx/",
+    "us_monthly_searches": 5000000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 120000,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 550000,
+    "equivalent_google_ads_cost_month_usd": 32000,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
     "ranked_by": "by_cpc"
    },
    {
@@ -444,24 +459,24 @@
     "featured_spot_min_usd": 50,
     "registry_competitors": 2,
     "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "auto body shop fort bend county tx",
-    "slug": "auto-body-shop-fort-bend-county-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-fort-bend-county-tx/",
-    "us_monthly_searches": 60500,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 1400,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 6100,
-    "equivalent_google_ads_cost_month_usd": 340,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
    }
   ],
   "by_value": [
+   {
+    "keyword": "massage fort bend county tx",
+    "slug": "massage-fort-bend-county-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-fort-bend-county-tx/",
+    "us_monthly_searches": 5000000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 120000,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 550000,
+    "equivalent_google_ads_cost_month_usd": 32000,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   },
    {
     "keyword": "urgent care fort bend county tx",
     "slug": "urgent-care-fort-bend-county-tx",
@@ -474,7 +489,7 @@
     "search_value_index_usd": 300000,
     "equivalent_google_ads_cost_month_usd": 20000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_value"
    },
    {
@@ -489,7 +504,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 15,
+    "registry_competitors": 16,
     "ranked_by": "by_value"
    },
    {
@@ -504,7 +519,7 @@
     "search_value_index_usd": 180000,
     "equivalent_google_ads_cost_month_usd": 10000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 5,
+    "registry_competitors": 7,
     "ranked_by": "by_value"
    },
    {
@@ -534,7 +549,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 3900,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 7,
+    "registry_competitors": 8,
     "ranked_by": "by_value"
    },
    {
@@ -549,7 +564,7 @@
     "search_value_index_usd": 53000,
     "equivalent_google_ads_cost_month_usd": 3500,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 9,
+    "registry_competitors": 10,
     "ranked_by": "by_value"
    },
    {
@@ -579,7 +594,7 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 2200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 10,
+    "registry_competitors": 11,
     "ranked_by": "by_value"
    },
    {
@@ -594,7 +609,22 @@
     "search_value_index_usd": 30000,
     "equivalent_google_ads_cost_month_usd": 1700,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 7,
+    "registry_competitors": 8,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "dog boarding fort bend county tx",
+    "slug": "dog-boarding-fort-bend-county-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-fort-bend-county-tx/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 5700,
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "search_value_index_usd": 23000,
+    "equivalent_google_ads_cost_month_usd": 1500,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
     "ranked_by": "by_value"
    },
    {
@@ -609,7 +639,7 @@
     "search_value_index_usd": 19000,
     "equivalent_google_ads_cost_month_usd": 1100,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 8,
+    "registry_competitors": 9,
     "ranked_by": "by_value"
    },
    {
@@ -639,7 +669,7 @@
     "search_value_index_usd": 14000,
     "equivalent_google_ads_cost_month_usd": 800,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 10,
+    "registry_competitors": 11,
     "ranked_by": "by_value"
    },
    {
@@ -655,36 +685,6 @@
     "equivalent_google_ads_cost_month_usd": 640,
     "featured_spot_min_usd": 50,
     "registry_competitors": 2,
-    "ranked_by": "by_value"
-   },
-   {
-    "keyword": "car inspection fort bend county tx",
-    "slug": "car-inspection-fort-bend-county-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/car-inspection-fort-bend-county-tx/",
-    "us_monthly_searches": 90500,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 2100,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 9100,
-    "equivalent_google_ads_cost_month_usd": 510,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_value"
-   },
-   {
-    "keyword": "facial fort bend county tx",
-    "slug": "facial-fort-bend-county-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-fort-bend-county-tx/",
-    "us_monthly_searches": 74000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 1700,
-    "cpc_basis_usd": 4.62,
-    "cpc_median_usd": 4.62,
-    "search_value_index_usd": 7900,
-    "equivalent_google_ads_cost_month_usd": 450,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
     "ranked_by": "by_value"
    }
   ]

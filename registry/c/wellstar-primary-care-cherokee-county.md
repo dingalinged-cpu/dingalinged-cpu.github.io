@@ -13,7 +13,7 @@ Wellstar Primary Care is a family medicine practice in Cherokee County, GA at 14
 - Website: https://www.wellstar.org/locations/medical-practice/primary-care-woodstock-14205-highway-92-suite-101
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:30-16:30; Fr 07:30-13:30; Sa-Su off
-- Pulse Score: 49.5/100 — Building — top 86% of family medicine practices in Atlanta, #1 of 1 family medicine practices in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 86% of family medicine practices in Atlanta, #1 of 1 family medicine practices in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.7, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

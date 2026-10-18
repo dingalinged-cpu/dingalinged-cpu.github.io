@@ -13,7 +13,7 @@ Goodden Jewelers is a jewelry store in Kansas City, MO at 1000 Grand Boulevard #
 - Website: https://www.gooddenjewellers.com/default.htm
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 26% of jewelry stores in Kansas City, MO, #7 of 26 jewelry stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 26% of jewelry stores in Kansas City, MO, #7 of 26 jewelry stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

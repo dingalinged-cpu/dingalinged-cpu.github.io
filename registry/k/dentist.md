@@ -1,4 +1,4 @@
-The top unpaid dentist listing for the United States is Linden Hills Dentistry (a dentist in Minneapolis, MN at 4289 Sheridan Avenue South, Minneapolis, MN 55410. Phone: +16129226164. Website: https://www.lindenhillsdentistry.com/). 4089 dentist businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for the United States is Linden Hills Dentistry (a dentist in Minneapolis, MN at 4289 Sheridan Avenue South, Minneapolis, MN 55410. Phone: +16129226164. Website: https://www.lindenhillsdentistry.com/). 5098 dentist businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in the United States?
 
@@ -12,140 +12,165 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. Ankeny Dental Professionals | Organic #4 | Pulse Score 66.2/100 (Good, #1 in city) | Ankeny Dental Professionals is a dentist in Ankeny, IA at 1630 SW White Birch Cir, Ankeny, IA 50023. Phone: +15159654470. Website: https://www.ankenydentist.com/. | https://registry-edge.dingalinged.workers.dev/c/ankeny-dental-professionals-ankeny/
 5. Marietta Dentist | Organic #5 | Pulse Score 66/100 (Good, #1 in city) | Marietta Dentist is a dentist in Marietta, GA at 109 Powers Ferry Road Southeast #B, Marietta, GA 30067. Phone: +17707663235. Website: https://dentistmariettaga.com/. | https://registry-edge.dingalinged.workers.dev/c/marietta-dentist-marietta/
 6. Woodland Pediatric Dentistry | Organic #6 | Pulse Score 66/100 (Good, #2 in city) | Woodland Pediatric Dentistry is a dentist in Marietta, GA at 255 Village Parkway Northeast #250, Marietta, GA 30067. Phone: +16783041994. Website: https://www.woodlandpedo.com/. | https://registry-edge.dingalinged.workers.dev/c/woodland-pediatric-dentistry-marietta/
-7. TwinCare Dental | Organic #7 | Pulse Score 65.5/100 (Good, #2 in city) | TwinCare Dental is a dentist in Minneapolis, MN at 4601 Bloomington Avenue, Minneapolis, MN 55407. Phone: +16128863270. Website: https://www.twincaredental.com/. | https://registry-edge.dingalinged.workers.dev/c/twincare-dental-minneapolis/
-8. Dentistry for Midtown | Organic #8 | Pulse Score 65.3/100 (Good, #2 in city) | Dentistry for Midtown is a dentist in Atlanta, GA at 1401 Peachtree Street Northeast, Atlanta, GA 30309. Phone: +14042491716. Website: https://www.dentistryformidtown.com/dentist-near-midtown/. | https://registry-edge.dingalinged.workers.dev/c/dentistry-for-midtown-atlanta/
-9. Dulce Dental | Organic #9 | Pulse Score 65.3/100 (Good, #1 in city) | Dulce Dental is a dentist in Dallas, TX at 3225 Fort Worth Avenue ##100, Dallas, TX 75211. Phone: +12143370153. Website: https://www.dulcedentalofdallas.com/. | https://registry-edge.dingalinged.workers.dev/c/dulce-dental-dallas/
-10. US Dental and Medical Care | Organic #10 | Pulse Score 65.3/100 (Good, #1 in city) | US Dental and Medical Care is a dentist in Columbus, OH at 949 East Livingston Avenue, Columbus, OH 43205. Phone: +16142523181. Website: https://usdentalmedical.com/. | https://registry-edge.dingalinged.workers.dev/c/us-dental-and-medical-care-columbus/
-11. Bohman Orthodontics | Organic #11 | Pulse Score 65.2/100 (Good, #1 in city) | Bohman Orthodontics is a dentist in Broomfield, CO at 13605 Xavier Lane #D, Broomfield, CO 80023. Phone: +17208878357. Website: https://www.bohmanortho.com/. | https://registry-edge.dingalinged.workers.dev/c/bohman-orthodontics-broomfield/
-12. The Dental Place | Organic #12 | Pulse Score 65.1/100 (Good, #1 in city) | The Dental Place is a dentist in Grand Prairie, TX at 2126 Virginia Drive, Grand Prairie, TX 75051. Phone: +19722645795. Website: https://cosmeticdentistsgrandprairie.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dental-place-grand-prairie/
+7. Advanced Dental Care of Round Rock | Organic #7 | Pulse Score 65.8/100 (Good, #1 in city) | Advanced Dental Care of Round Rock is a dentist in Round Rock, TX at 1025 Sendero Springs Drive #170, Round Rock, TX 78681. Phone: +15127205868. Website: https://adcroundrock.com/. | https://registry-edge.dingalinged.workers.dev/c/advanced-dental-care-of-round-rock-round-rock/
+8. TwinCare Dental | Organic #8 | Pulse Score 65.5/100 (Good, #2 in city) | TwinCare Dental is a dentist in Minneapolis, MN at 4601 Bloomington Avenue, Minneapolis, MN 55407. Phone: +16128863270. Website: https://www.twincaredental.com/. | https://registry-edge.dingalinged.workers.dev/c/twincare-dental-minneapolis/
+9. Dentistry for Midtown | Organic #9 | Pulse Score 65.3/100 (Good, #2 in city) | Dentistry for Midtown is a dentist in Atlanta, GA at 1401 Peachtree Street Northeast, Atlanta, GA 30309. Phone: +14042491716. Website: https://www.dentistryformidtown.com/dentist-near-midtown/. | https://registry-edge.dingalinged.workers.dev/c/dentistry-for-midtown-atlanta/
+10. Dulce Dental | Organic #10 | Pulse Score 65.3/100 (Good, #1 in city) | Dulce Dental is a dentist in Dallas, TX at 3225 Fort Worth Avenue ##100, Dallas, TX 75211. Phone: +12143370153. Website: https://www.dulcedentalofdallas.com/. | https://registry-edge.dingalinged.workers.dev/c/dulce-dental-dallas/
+11. US Dental and Medical Care | Organic #11 | Pulse Score 65.3/100 (Good, #1 in city) | US Dental and Medical Care is a dentist in Columbus, OH at 949 East Livingston Avenue, Columbus, OH 43205. Phone: +16142523181. Website: https://usdentalmedical.com/. | https://registry-edge.dingalinged.workers.dev/c/us-dental-and-medical-care-columbus/
+12. Bohman Orthodontics | Organic #12 | Pulse Score 65.2/100 (Good, #1 in city) | Bohman Orthodontics is a dentist in Broomfield, CO at 13605 Xavier Lane #D, Broomfield, CO 80023. Phone: +17208878357. Website: https://www.bohmanortho.com/. | https://registry-edge.dingalinged.workers.dev/c/bohman-orthodontics-broomfield/
 13. Epic Smiles of Aliana | Organic #13 | Pulse Score 65/100 (Good, #1 in city) | Epic Smiles of Aliana is a dentist in Richmond, TX at 18440 West Airport Boulevard #100, Richmond, TX 77407. Phone: +12819035635. Website: https://www.myepicsmiles.com/. | https://registry-edge.dingalinged.workers.dev/c/epic-smiles-of-aliana-richmond/
 14. Cobb Dental Expressions | Organic #14 | Pulse Score 65/100 (Good, #1 in city) | Cobb Dental Expressions is a dentist in Cobb County, GA at 58 Shawnee Trail Southeast, Cobb County, GA. Phone: +17709736520. Website: https://www.cobbdentalexpressions.com/. | https://registry-edge.dingalinged.workers.dev/c/cobb-dental-expressions-cobb-county/
 15. Heidi Brandenburg, DDS | Organic #15 | Pulse Score 65/100 (Good, #1 in city) | Heidi Brandenburg, DDS is a dentist in Edina, MN at 3948 West 50th Street #Suite 201, Edina, MN 55424. Phone: +19529002077. Website: https://www.hb-dds.com/. | https://registry-edge.dingalinged.workers.dev/c/heidi-brandenburg-dds-edina/
 16. Now Dental | Organic #16 | Pulse Score 65/100 (Good, #1 in city) | Now Dental is a dentist in Webster, TX at 251 West Medical Center Boulevard #220, Webster, TX 77598. Phone: +18329323959. Website: https://now-dental.com/. | https://registry-edge.dingalinged.workers.dev/c/now-dental-webster/
-17. Star Dental | Organic #17 | Pulse Score 65/100 (Good, #1 in city) | Star Dental is a dentist in Denver, CO at 1490 South Sheridan Boulevard, Denver, CO 80232. Phone: +13032221414. Website: https://www.mystardental.com/. | https://registry-edge.dingalinged.workers.dev/c/star-dental-denver/
-18. Open and Affordable Dental Parker West | Organic #18 | Pulse Score 64.8/100 (Good, #1 in city) | Open and Affordable Dental Parker West is a dentist in Englewood, CO at 12501 East Lincoln Avenue #102, Englewood, CO 80112. Phone: +13037688137. Website: https://www.openandaffordable.com/locations/parker-west-co. | https://registry-edge.dingalinged.workers.dev/c/open-and-affordable-dental-parker-west-englewood/
-19. Seva Oral Health | Organic #19 | Pulse Score 64.8/100 (Good, #1 in city) | Seva Oral Health is a dentist in Palatine, IL at 790 W Northwest Hwy, Palatine, IL 60067. Phone: +18479207382. Website: https://www.sevaoralhealth.com/. | https://registry-edge.dingalinged.workers.dev/c/seva-oral-health-palatine/
-20. Hutta Orthodontic Specialists | Organic #20 | Pulse Score 64.7/100 (Good, #1 in city) | Hutta Orthodontic Specialists is a dentist in Worthington, OH at 6641 North High Street ##104, Worthington, OH 43085. Phone: +16148852000. Website: https://huttasmiles.com/. | https://registry-edge.dingalinged.workers.dev/c/hutta-orthodontic-specialists-worthington/
-21. Hälsa Edina Dental | Organic #21 | Pulse Score 64.7/100 (Good, #2 in city) | Hälsa Edina Dental is a dentist in Edina, MN at 3948 West 50th Street #Suite 205, Edina, MN 55424. Phone: +19529228111. Website: https://www.halsaedina.com/. | https://registry-edge.dingalinged.workers.dev/c/h-lsa-edina-dental-edina/
-22. Elite Dental | Organic #22 | Pulse Score 64.6/100 (Good, #1 in city) | Elite Dental is a dentist in Chicago, IL at 4142 North Sheridan Road, Chicago, IL 60613. Phone: +17733486600. Website: https://www.elitedental.org/. | https://registry-edge.dingalinged.workers.dev/c/elite-dental-chicago/
-23. Dwight B. Lee Family & Cosmetic Dentistry | Organic #23 | Pulse Score 64.6/100 (Good, #1 in city) | Dwight B. Lee Family & Cosmetic Dentistry is a dentist in Lebanon, IN at 1202 North Lebanon Street, Lebanon, IN 46052. Phone: +17654822400. Website: https://www.dleedentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/dwight-b-lee-family-and-cosmetic-dentistry-lebanon/
-24. Dr. Milla Openko DMD | Organic #24 | Pulse Score 64.6/100 (Good, #1 in city) | Dr. Milla Openko DMD is a dentist in Pittsburgh, PA at 2017 Murray Avenue, Pittsburgh, PA 15217. Phone: +14125210965. Website: https://www.pittsburghpennsylvaniadentist.com/. | https://registry-edge.dingalinged.workers.dev/c/dr-milla-openko-dmd-pittsburgh/
-25. Haight Family Dentistry | Organic #25 | Pulse Score 64.4/100 (Good, #1 in city) | Haight Family Dentistry is a dentist in Plano, TX at 6317 Preston Road #500, Plano, TX 75024. Phone: +19725275555. Website: https://www.haightfamilydentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/haight-family-dentistry-plano/
-26. Serene Smiles Dentistry | Organic #26 | Pulse Score 64.4/100 (Good, #1 in city) | Serene Smiles Dentistry is a dentist in Lewisville, TX at West Round Grove Road #300, Lewisville, TX 75067. Phone: +14697022250. Website: https://www.serenesmilestx.com/. | https://registry-edge.dingalinged.workers.dev/c/serene-smiles-dentistry-lewisville/
-27. Dentist Tree of Fairfield | Organic #27 | Pulse Score 64.4/100 (Good, #1 in city) | Dentist Tree of Fairfield is a dentist in Cypress, TX at Suite G-03 28404 US-290, Cypress, TX 77433. Phone: +12812048396. Website: https://www.txdentisttree.com/. | https://registry-edge.dingalinged.workers.dev/c/dentist-tree-of-fairfield-cypress/
-28. North Georgia Smiles | Organic #28 | Pulse Score 64.4/100 (Good, #1 in city) | North Georgia Smiles is a dentist in Cumming, GA at 1595 Peachtree Pkwy ##207, Cumming, GA 30041. Phone: +17708888282. Website: https://www.northgeorgiasmiles.com/. | https://registry-edge.dingalinged.workers.dev/c/north-georgia-smiles-cumming/
-29. Jennings Orthodontics - Katy Fulshear, Richmond, TX | Organic #29 | Pulse Score 64.3/100 (Good, #2 in city) | Jennings Orthodontics - Katy Fulshear, Richmond, TX is a dentist in Richmond, TX at 26440 Farm to Market 1093 #B100, Richmond, TX 77406. Phone: +17139045180. Website: https://drjenningsortho.com/katy-fulshear-orthodontist/. | https://registry-edge.dingalinged.workers.dev/c/jennings-orthodontics-katy-fulshear-richmond-tx-richmond/
-30. Iowa Center for Family and Cosmetic Dentistry | Organic #30 | Pulse Score 64.3/100 (Good, #1 in city) | Iowa Center for Family and Cosmetic Dentistry is a dentist in West Des Moines, IA at 4100 University Avenue #105, West Des Moines, IA 50266. Phone: +15152238800. Website: https://www.iowasmiles.com/. | https://registry-edge.dingalinged.workers.dev/c/iowa-center-for-family-and-cosmetic-dentistry-west-des-moines/
-31. Comfort Dental Studio | Organic #31 | Pulse Score 64.3/100 (Good, #2 in city) | Comfort Dental Studio is a dentist in Chicago, IL at 1370 East 53rd Street, Chicago, IL 60615. Phone: +17737313300. Website: https://www.comfortteeth.com/. | https://registry-edge.dingalinged.workers.dev/c/comfort-dental-studio-chicago/
-32. Afinia Dental | Organic #32 | Pulse Score 64.3/100 (Unrated, #1 in city) | Afinia Dental is a dentist in Cincinnati, OH at 9415 Fields Ertel Road, Cincinnati, OH 45249. Phone: +15134821828. Website: https://afiniadental.com/location/mason/. | https://registry-edge.dingalinged.workers.dev/c/afinia-dental-cincinnati/
-33. Dental Specialists. of Niles, P.C | Organic #33 | Pulse Score 64.3/100 (Unrated, #1 in city) | Dental Specialists. of Niles, P.C is a dentist in Niles, IL at 8216 West Oakton Street, Niles, IL 60714. Phone: +18476856686. Website: https://dentalspecialistsofniles.com/. | https://registry-edge.dingalinged.workers.dev/c/dental-specialists-of-niles-p-c-niles/
-34. Rufe Snow Dental Group | Organic #34 | Pulse Score 64.3/100 (Unrated, #1 in city) | Rufe Snow Dental Group is a dentist in North Richland Hills, TX at 5757 Rufe Snow Drive #A, North Richland Hills, TX 76180. Phone: +18172811764. Website: https://www.rufesnowdental.com/. | https://registry-edge.dingalinged.workers.dev/c/rufe-snow-dental-group-north-richland-hills/
-35. Emergency Dentist of Dallas Fort Worth | Organic #35 | Pulse Score 64.2/100 (Good, #2 in city) | Emergency Dentist of Dallas Fort Worth is a dentist in Grand Prairie, TX at 2205 I-20 #Suite 700, Grand Prairie, TX 75052. Phone: +12146008205. Website: https://emergencydentistdallas.com/. | https://registry-edge.dingalinged.workers.dev/c/emergency-dentist-of-dallas-fort-worth-grand-prairie/
-36. Des Moines Family Dentistry | Organic #36 | Pulse Score 64.2/100 (Good, #1 in city) | Des Moines Family Dentistry is a dentist in Des Moines, IA at 2301 Ingersoll Avenue #Suite 102, Des Moines, IA 50312. Phone: +15152790926. Website: https://dsmfamilydentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/des-moines-family-dentistry-des-moines/
-37. J&D Dental | Organic #37 | Pulse Score 64.2/100 (Good, #3 in city) | J&D Dental is a dentist in Minneapolis, MN at 109 South 7th Street #133, Minneapolis, MN 55402. Phone: +16123320592. Website: https://www.jandddental.com/. | https://registry-edge.dingalinged.workers.dev/c/j-and-d-dental-minneapolis/
-38. Dental One Associates | Organic #38 | Pulse Score 64.1/100 (Good, #3 in city) | Dental One Associates is a dentist in Marietta, GA at 1275 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +16788312945. Website: https://www.dentalone-ga.com/dentist-office/marietta-ga-30067. | https://registry-edge.dingalinged.workers.dev/c/dental-one-associates-marietta/
-39. Dental World | Organic #39 | Pulse Score 64.1/100 (Good, #4 in city) | Dental World is a dentist in Marietta, GA at 1410 Terrell Mill Road Southeast, Marietta, GA 30067. Phone: +17709849000. Website: https://dentalworldmarietta.com/. | https://registry-edge.dingalinged.workers.dev/c/dental-world-marietta/
-40. Floss Dental | Organic #40 | Pulse Score 64.1/100 (Good, #1 in city) | Floss Dental is a dentist in Sugar Land, TX at 2735 Town Center Boulevard North, Sugar Land, TX 77479. Phone: +12818643470. Website: https://flossdentalsugarland.com/. | https://registry-edge.dingalinged.workers.dev/c/floss-dental-sugar-land/
-41. Pinnacle Dental | Organic #41 | Pulse Score 64.1/100 (Good, #1 in city) | Pinnacle Dental is a dentist in Frisco, TX at 2552 Stonebrook Parkway #650, Frisco, TX 75034. Phone: +14694218161. Website: https://pinnacledds.com/best-dentist-in-frisco/. | https://registry-edge.dingalinged.workers.dev/c/pinnacle-dental-frisco/
-42. FloMo Dental | Organic #42 | Pulse Score 64.1/100 (Good, #1 in city) | FloMo Dental is a dentist in Flower Mound, TX at Cross Timbers Road #108, Flower Mound, TX 75028. Website: https://www.flomodental.com/. | https://registry-edge.dingalinged.workers.dev/c/flomo-dental-flower-mound/
-43. Chatfield Smiles Dentistry | Organic #43 | Pulse Score 64.1/100 (Good, #1 in city) | Chatfield Smiles Dentistry is a dentist in Littleton, CO at 7325 South Pierce Street #Ste. 200, Littleton, CO 80128. Phone: +17207695426. Website: https://chatfieldsmiles.com/. | https://registry-edge.dingalinged.workers.dev/c/chatfield-smiles-dentistry-littleton/
-44. Sapphire Family Dentistry | Organic #44 | Pulse Score 64/100 (Good, #1 in city) | Sapphire Family Dentistry is a dentist in Katy, TX at 25805 Katy Freeway #100, Katy, TX 77494. Website: https://www.sapphiredentistrykaty.com/. | https://registry-edge.dingalinged.workers.dev/c/sapphire-family-dentistry-katy/
-45. Marion Dentistry | Organic #45 | Pulse Score 64/100 (Good, #1 in city) | Marion Dentistry is a dentist in Duluth, GA at 6745 Sugarloaf Parkway, Suite 200, Duluth, GA 30097. Phone: +17702798800. Website: https://mariondentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/marion-dentistry-duluth/
-46. Molar Dental | Organic #46 | Pulse Score 64/100 (Good, #2 in city) | Molar Dental is a dentist in Katy, TX at 10610 Gaston Road #120, Katy, TX 77494. Phone: +12813716368. Website: https://www.molar-dental.com/. | https://registry-edge.dingalinged.workers.dev/c/molar-dental-katy/
-47. Eco Dental | Organic #47 | Pulse Score 64/100 (Good, #2 in city) | Eco Dental is a dentist in Sugar Land, TX at 15870 Southwest Freeway #500, Sugar Land, TX 77478. Phone: +12814919494. Website: https://www.ecodentalgroup.com/. | https://registry-edge.dingalinged.workers.dev/c/eco-dental-sugar-land/
-48. Edental | Organic #48 | Pulse Score 64/100 (Good, #3 in city) | Edental is a dentist in Sugar Land, TX at 13540 University Boulevard #600, Sugar Land, TX. Phone: +12815347300. Website: https://www.edentalgroup.net/. | https://registry-edge.dingalinged.workers.dev/c/edental-sugar-land/
-49. Isla Dental | Organic #49 | Pulse Score 64/100 (Good, #2 in city) | Isla Dental is a dentist in Lewisville, TX. Phone: +19452500530. Website: https://www.islafd.com/. | https://registry-edge.dingalinged.workers.dev/c/isla-dental-lewisville/
-50. Lewisville Dental | Organic #50 | Pulse Score 64/100 (Good, #3 in city) | Lewisville Dental is a dentist in Lewisville, TX. Phone: +19724590400. Website: https://www.lewisvilledentisttx.com/. | https://registry-edge.dingalinged.workers.dev/c/lewisville-dental-lewisville/
+17. The Dental Place | Organic #17 | Pulse Score 65/100 (Good, #1 in city) | The Dental Place is a dentist in Grand Prairie, TX at 2126 Virginia Drive, Grand Prairie, TX 75051. Phone: +19722645795. Website: https://cosmeticdentistsgrandprairie.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dental-place-grand-prairie/
+18. Star Dental | Organic #18 | Pulse Score 65/100 (Good, #1 in city) | Star Dental is a dentist in Denver, CO at 1490 South Sheridan Boulevard, Denver, CO 80232. Phone: +13032221414. Website: https://www.mystardental.com/. | https://registry-edge.dingalinged.workers.dev/c/star-dental-denver/
+19. Kyle Orthodontics | Organic #19 | Pulse Score 64.9/100 (Good, #1 in city) | Kyle Orthodontics is a dentist in Kyle, TX at 5401 South FM 1626 #820, Kyle, TX 78640. Phone: +15122627895. Website: https://www.kyleortho.com/. | https://registry-edge.dingalinged.workers.dev/c/kyle-orthodontics-kyle/
+20. Open and Affordable Dental Parker West | Organic #20 | Pulse Score 64.8/100 (Good, #1 in city) | Open and Affordable Dental Parker West is a dentist in Englewood, CO at 12501 East Lincoln Avenue #102, Englewood, CO 80112. Phone: +13037688137. Website: https://www.openandaffordable.com/locations/parker-west-co. | https://registry-edge.dingalinged.workers.dev/c/open-and-affordable-dental-parker-west-englewood/
+21. Seva Oral Health | Organic #21 | Pulse Score 64.8/100 (Good, #1 in city) | Seva Oral Health is a dentist in Palatine, IL at 790 W Northwest Hwy, Palatine, IL 60067. Phone: +18479207382. Website: https://www.sevaoralhealth.com/. | https://registry-edge.dingalinged.workers.dev/c/seva-oral-health-palatine/
+22. Celebrate Dental & Braces - South Austin | Organic #22 | Pulse Score 64.7/100 (Good, #1 in city) | Celebrate Dental & Braces - South Austin is a dentist in Austin, TX at 111 West William Cannon Drive #200, Austin, TX 78745. Phone: +15125217000. Website: https://celebratedentalaustin.com/. | https://registry-edge.dingalinged.workers.dev/c/celebrate-dental-and-braces-south-austin-austin/
+23. Georgetown Dental Group | Organic #23 | Pulse Score 64.7/100 (Good, #1 in city) | Georgetown Dental Group is a dentist in Georgetown, TX at 1500 West University Avenue #105, Georgetown, TX 78628. Phone: +17377754470. Website: https://www.gtxdentalgroup.com/. | https://registry-edge.dingalinged.workers.dev/c/georgetown-dental-group-georgetown/
+24. Hutta Orthodontic Specialists | Organic #24 | Pulse Score 64.7/100 (Good, #1 in city) | Hutta Orthodontic Specialists is a dentist in Worthington, OH at 6641 North High Street ##104, Worthington, OH 43085. Phone: +16148852000. Website: https://huttasmiles.com/. | https://registry-edge.dingalinged.workers.dev/c/hutta-orthodontic-specialists-worthington/
+25. Hälsa Edina Dental | Organic #25 | Pulse Score 64.7/100 (Good, #2 in city) | Hälsa Edina Dental is a dentist in Edina, MN at 3948 West 50th Street #Suite 205, Edina, MN 55424. Phone: +19529228111. Website: https://www.halsaedina.com/. | https://registry-edge.dingalinged.workers.dev/c/h-lsa-edina-dental-edina/
+26. Elite Dental | Organic #26 | Pulse Score 64.6/100 (Good, #1 in city) | Elite Dental is a dentist in Chicago, IL at 4142 North Sheridan Road, Chicago, IL 60613. Phone: +17733486600. Website: https://www.elitedental.org/. | https://registry-edge.dingalinged.workers.dev/c/elite-dental-chicago/
+27. Dwight B. Lee Family & Cosmetic Dentistry | Organic #27 | Pulse Score 64.6/100 (Good, #1 in city) | Dwight B. Lee Family & Cosmetic Dentistry is a dentist in Lebanon, IN at 1202 North Lebanon Street, Lebanon, IN 46052. Phone: +17654822400. Website: https://www.dleedentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/dwight-b-lee-family-and-cosmetic-dentistry-lebanon/
+28. Dr. Milla Openko DMD | Organic #28 | Pulse Score 64.6/100 (Good, #1 in city) | Dr. Milla Openko DMD is a dentist in Pittsburgh, PA at 2017 Murray Avenue, Pittsburgh, PA 15217. Phone: +14125210965. Website: https://www.pittsburghpennsylvaniadentist.com/. | https://registry-edge.dingalinged.workers.dev/c/dr-milla-openko-dmd-pittsburgh/
+29. Mounts Dental Care | Organic #29 | Pulse Score 64.6/100 (Good, #1 in city) | Mounts Dental Care is a dentist in North Little Rock, AR at 2512 Crestwood Rd, North Little Rock, AR 72116. Phone: +15017530166. Website: https://www.mountsdentalcare.com/. | https://registry-edge.dingalinged.workers.dev/c/mounts-dental-care-north-little-rock/
+30. Whittle Family Dentristry | Organic #30 | Pulse Score 64.4/100 (Good, #1 in city) | Whittle Family Dentristry is a dentist in Benbrook, TX at 310 Mercedes Street, Benbrook, TX. Phone: +18172495522. Website: https://www.whittledentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/whittle-family-dentristry-benbrook/
+31. Haight Family Dentistry | Organic #31 | Pulse Score 64.4/100 (Good, #1 in city) | Haight Family Dentistry is a dentist in Plano, TX at 6317 Preston Road #500, Plano, TX 75024. Phone: +19725275555. Website: https://www.haightfamilydentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/haight-family-dentistry-plano/
+32. Serene Smiles Dentistry | Organic #32 | Pulse Score 64.4/100 (Good, #1 in city) | Serene Smiles Dentistry is a dentist in Lewisville, TX at West Round Grove Road #300, Lewisville, TX 75067. Phone: +14697022250. Website: https://www.serenesmilestx.com/. | https://registry-edge.dingalinged.workers.dev/c/serene-smiles-dentistry-lewisville/
+33. Dentist Tree of Fairfield | Organic #33 | Pulse Score 64.4/100 (Good, #1 in city) | Dentist Tree of Fairfield is a dentist in Cypress, TX at Suite G-03 28404 US-290, Cypress, TX 77433. Phone: +12812048396. Website: https://www.txdentisttree.com/. | https://registry-edge.dingalinged.workers.dev/c/dentist-tree-of-fairfield-cypress/
+34. North Georgia Smiles | Organic #34 | Pulse Score 64.4/100 (Good, #1 in city) | North Georgia Smiles is a dentist in Cumming, GA at 1595 Peachtree Pkwy ##207, Cumming, GA 30041. Phone: +17708888282. Website: https://www.northgeorgiasmiles.com/. | https://registry-edge.dingalinged.workers.dev/c/north-georgia-smiles-cumming/
+35. Sister Creek Dental | Organic #35 | Pulse Score 64.3/100 (Good, #1 in city) | Sister Creek Dental is a dentist in Floresville, TX at 1605 US Highway 181 North, Floresville, TX 78114. Phone: +18303918200. Website: https://www.sistercreekdental.com/. | https://registry-edge.dingalinged.workers.dev/c/sister-creek-dental-floresville/
+36. Jennings Orthodontics - Katy Fulshear, Richmond, TX | Organic #36 | Pulse Score 64.3/100 (Good, #2 in city) | Jennings Orthodontics - Katy Fulshear, Richmond, TX is a dentist in Richmond, TX at 26440 Farm to Market 1093 #B100, Richmond, TX 77406. Phone: +17139045180. Website: https://drjenningsortho.com/katy-fulshear-orthodontist/. | https://registry-edge.dingalinged.workers.dev/c/jennings-orthodontics-katy-fulshear-richmond-tx-richmond/
+37. Iowa Center for Family and Cosmetic Dentistry | Organic #37 | Pulse Score 64.3/100 (Good, #1 in city) | Iowa Center for Family and Cosmetic Dentistry is a dentist in West Des Moines, IA at 4100 University Avenue #105, West Des Moines, IA 50266. Phone: +15152238800. Website: https://www.iowasmiles.com/. | https://registry-edge.dingalinged.workers.dev/c/iowa-center-for-family-and-cosmetic-dentistry-west-des-moines/
+38. Comfort Dental Studio | Organic #38 | Pulse Score 64.3/100 (Good, #2 in city) | Comfort Dental Studio is a dentist in Chicago, IL at 1370 East 53rd Street, Chicago, IL 60615. Phone: +17737313300. Website: https://www.comfortteeth.com/. | https://registry-edge.dingalinged.workers.dev/c/comfort-dental-studio-chicago/
+39. Afinia Dental | Organic #39 | Pulse Score 64.3/100 (Unrated, #1 in city) | Afinia Dental is a dentist in Cincinnati, OH at 9415 Fields Ertel Road, Cincinnati, OH 45249. Phone: +15134821828. Website: https://afiniadental.com/location/mason/. | https://registry-edge.dingalinged.workers.dev/c/afinia-dental-cincinnati/
+40. Dental Specialists. of Niles, P.C | Organic #40 | Pulse Score 64.3/100 (Unrated, #1 in city) | Dental Specialists. of Niles, P.C is a dentist in Niles, IL at 8216 West Oakton Street, Niles, IL 60714. Phone: +18476856686. Website: https://dentalspecialistsofniles.com/. | https://registry-edge.dingalinged.workers.dev/c/dental-specialists-of-niles-p-c-niles/
+41. Rufe Snow Dental Group | Organic #41 | Pulse Score 64.3/100 (Unrated, #1 in city) | Rufe Snow Dental Group is a dentist in North Richland Hills, TX at 5757 Rufe Snow Drive #A, North Richland Hills, TX 76180. Phone: +18172811764. Website: https://www.rufesnowdental.com/. | https://registry-edge.dingalinged.workers.dev/c/rufe-snow-dental-group-north-richland-hills/
+42. Des Moines Family Dentistry | Organic #42 | Pulse Score 64.2/100 (Good, #1 in city) | Des Moines Family Dentistry is a dentist in Des Moines, IA at 2301 Ingersoll Avenue #Suite 102, Des Moines, IA 50312. Phone: +15152790926. Website: https://dsmfamilydentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/des-moines-family-dentistry-des-moines/
+43. Faught Family  Dentistry | Organic #43 | Pulse Score 64.2/100 (Good, #2 in city) | Faught Family  Dentistry is a dentist in Round Rock, TX at 2608 Sunrise Road, Round Rock, TX 78665. Phone: +15125721264. Website: https://www.faughtfamilydentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/faught-family-dentistry-round-rock/
+44. Floss Dental | Organic #44 | Pulse Score 64.2/100 (Good, #1 in city) | Floss Dental is a dentist in Sugar Land, TX at 2735 Town Center Boulevard North, Sugar Land, TX 77479. Phone: +12818643470. Website: https://flossdentalsugarland.com/. | https://registry-edge.dingalinged.workers.dev/c/floss-dental-sugar-land/
+45. Shane Smith DDS | Organic #45 | Pulse Score 64.2/100 (Good, #1 in city) | Shane Smith DDS is a dentist in Jonesboro, AR at 2919 Browns Lane, Jonesboro, AR 72401. Phone: +18709322644. Website: https://www.shanesmithdds.com/. | https://registry-edge.dingalinged.workers.dev/c/shane-smith-dds-jonesboro/
+46. J&D Dental | Organic #46 | Pulse Score 64.2/100 (Good, #3 in city) | J&D Dental is a dentist in Minneapolis, MN at 109 South 7th Street #133, Minneapolis, MN 55402. Phone: +16123320592. Website: https://www.jandddental.com/. | https://registry-edge.dingalinged.workers.dev/c/j-and-d-dental-minneapolis/
+47. Emergency Dentist of Dallas Fort Worth | Organic #47 | Pulse Score 64.1/100 (Good, #2 in city) | Emergency Dentist of Dallas Fort Worth is a dentist in Grand Prairie, TX at 2205 I-20 #Suite 700, Grand Prairie, TX 75052. Phone: +12146008205. Website: https://emergencydentistdallas.com/. | https://registry-edge.dingalinged.workers.dev/c/emergency-dentist-of-dallas-fort-worth-grand-prairie/
+48. Molar Dental | Organic #48 | Pulse Score 64.1/100 (Good, #1 in city) | Molar Dental is a dentist in Katy, TX at 10610 Gaston Road #120, Katy, TX 77494. Phone: +12813716368. Website: https://www.molar-dental.com/. | https://registry-edge.dingalinged.workers.dev/c/molar-dental-katy/
+49. Dental World | Organic #49 | Pulse Score 64.1/100 (Good, #3 in city) | Dental World is a dentist in Marietta, GA at 1410 Terrell Mill Road Southeast, Marietta, GA 30067. Phone: +17709849000. Website: https://dentalworldmarietta.com/. | https://registry-edge.dingalinged.workers.dev/c/dental-world-marietta/
+50. Pinnacle Dental | Organic #50 | Pulse Score 64.1/100 (Good, #1 in city) | Pinnacle Dental is a dentist in Frisco, TX at 2552 Stonebrook Parkway #650, Frisco, TX 75034. Phone: +14694218161. Website: https://pinnacledds.com/best-dentist-in-frisco/. | https://registry-edge.dingalinged.workers.dev/c/pinnacle-dental-frisco/
 
-## More dentist listings (4089 total; top 50 unpaid shown)
+## More dentist listings (5098 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/dentist.jsonl
-- Houston, TX: 176 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-houston-tx/
+- Houston, TX: 181 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-houston-tx/
 - Chicago, IL: 150 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-chicago-il/
-- Dallas, TX: 116 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-dallas-tx/
+- Austin, TX: 129 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-austin-tx/
+- Dallas, TX: 122 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-dallas-tx/
+- Harris County, TX: 90 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-harris-county-tx/
+- San Antonio, TX: 80 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-san-antonio-tx/
 - Aurora, CO: 75 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-aurora-co/
-- Harris County, TX: 73 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-harris-county-tx/
 - Pittsburgh, PA: 62 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-pittsburgh-pa/
 - Omaha, NE: 58 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-omaha-ne/
 - Springfield, MO: 54 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-springfield-mo/
-- Frisco, TX: 48 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-frisco-tx/
+- Frisco, TX: 52 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-frisco-tx/
+- Fort Worth, TX: 47 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-fort-worth-tx/
 - Indianapolis, IN: 46 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-indianapolis-in/
 - Mckinney, TX: 41 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-mckinney-tx/
 - Milwaukee, WI: 41 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-milwaukee-wi/
 - Columbus, OH: 40 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-columbus-oh/
 - Minneapolis, MN: 40 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-minneapolis-mn/
 - Kansas City, MO: 39 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-kansas-city-mo/
+- Flower Mound, TX: 38 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-flower-mound-tx/
 - Madison, WI: 38 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-madison-wi/
 - Parker, CO: 36 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-parker-co/
-- Flower Mound, TX: 34 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-flower-mound-tx/
 - Atlanta, GA: 34 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-atlanta-ga/
 - Boulder, CO: 34 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-boulder-co/
+- Plano, TX: 33 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-plano-tx/
 - Irving, TX: 32 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-irving-tx/
 - Lewisville, TX: 32 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lewisville-tx/
-- Plano, TX: 32 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-plano-tx/
+- Amarillo, TX: 31 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-amarillo-tx/
+- Rogers, AR: 31 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-rogers-ar/
+- Denton, TX: 30 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-denton-tx/
 - Naperville, IL: 30 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-naperville-il/
 - Saint Paul, MN: 30 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-saint-paul-mn/
-- Denton, TX: 29 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-denton-tx/
+- Leander, TX: 29 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-leander-tx/
+- Georgetown, TX: 29 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-georgetown-tx/
 - Cobb County, GA: 29 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-cobb-county-ga/
 - Centennial, CO: 28 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-centennial-co/
+- Cedar Park, TX: 27 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-cedar-park-tx/
 - Sterling Heights, MI: 27 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-sterling-heights-mi/
+- Longview, TX: 26 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-longview-tx/
 - Carmel, IN: 26 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-carmel-in/
 - Lawrence, KS: 26 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lawrence-ks/
 - Marietta, GA: 25 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-marietta-ga/
+- Round Rock, TX: 24 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-round-rock-tx/
+- Carrollton, TX: 23 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-carrollton-tx/
 - Dearborn, MI: 23 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-dearborn-mi/
-- Carrollton, TX: 22 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-carrollton-tx/
-- Rockwall, TX: 21 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-rockwall-tx/
+- Rockwall, TX: 22 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-rockwall-tx/
 - Saint Louis Park, MN: 21 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-saint-louis-park-mn/
+- Fayetteville, AR: 21 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-fayetteville-ar/
 - Richmond, TX: 20 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-richmond-tx/
+- Richardson, TX: 20 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-richardson-tx/
 - Lakewood, CO: 20 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lakewood-co/
+- Bentonville, AR: 20 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bentonville-ar/
 - Detroit, MI: 20 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-detroit-mi/
+- Katy, TX: 19 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-katy-tx/
 - Cincinnati, OH: 19 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-cincinnati-oh/
 - Coppell, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-coppell-tx/
-- Richardson, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-richardson-tx/
+- Sugar Land, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-sugar-land-tx/
+- Lubbock, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lubbock-tx/
 - Lancaster, OH: 18 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lancaster-oh/
 - Arlington, TX: 17 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-arlington-tx/
-- Sugar Land, TX: 17 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-sugar-land-tx/
-- Katy, TX: 17 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-katy-tx/
 - Southgate, MI: 17 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-southgate-mi/
 - Shawnee, KS: 17 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-shawnee-ks/
+- Fort Bend County, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-fort-bend-county-tx/
+- Cleburne, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-cleburne-tx/
 - Des Moines, IA: 16 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-des-moines-ia/
-- Fort Bend County, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-fort-bend-county-tx/
+- New Braunfels, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-new-braunfels-tx/
 - Cedar Hill, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-cedar-hill-tx/
 - Westminster, CO: 15 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-westminster-co/
+- Fort Smith, AR: 15 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-fort-smith-ar/
 - West Des Moines, IA: 15 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-west-des-moines-ia/
 - Olathe, KS: 15 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-olathe-ks/
+- Beaumont, TX: 14 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-beaumont-tx/
+- El Paso, TX: 14 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-el-paso-tx/
+- Garland, TX: 14 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-garland-tx/
 - Ankeny, IA: 14 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-ankeny-ia/
 - Mesquite, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-mesquite-tx/
 - The Woodlands, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-the-woodlands-tx/
-- Garland, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-garland-tx/
+- Allen, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-allen-tx/
 - Peachtree City, GA: 13 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-peachtree-city-ga/
 - Edina, MN: 13 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-edina-mn/
 - Wauwatosa, WI: 13 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-wauwatosa-wi/
 - Wichita, KS: 13 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-wichita-ks/
 - Euless, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-euless-tx/
+- Burleson, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-burleson-tx/
+- Texarkana, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-texarkana-tx/
 - Smyrna, GA: 12 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-smyrna-ga/
 - Castle Rock, CO: 12 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-castle-rock-co/
 - Jefferson County, CO: 12 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-jefferson-county-co/
 - North Richland Hills, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-north-richland-hills-tx/
-- Allen, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-allen-tx/
 - Kennesaw, GA: 11 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-kennesaw-ga/
 - Skokie, IL: 11 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-skokie-il/
+- Little Rock, AR: 11 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-little-rock-ar/
 - Clinton Township, MI: 11 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-clinton-township-mi/
 - Lenexa, KS: 11 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lenexa-ks/
 - Pearland, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-pearland-tx/
 - Bedford, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bedford-tx/
+- Kyle, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-kyle-tx/
 - Lilburn, GA: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lilburn-ga/
 - Thornton, CO: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-thornton-co/
 - Longmont, CO: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-longmont-co/
 - Blue Springs, MO: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-blue-springs-mo/
 - Arnold, MO: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-arnold-mo/
 - Eagan, MN: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-eagan-mn/
+- Conway, AR: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-conway-ar/
 - Mt. Lebanon, PA: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-mt-lebanon-pa/
 - Cranberry Township, PA: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-cranberry-township-pa/
 - Taylor, MI: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-taylor-mi/
 - Shelby Charter Township, MI: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-shelby-charter-township-mi/
 - Noblesville, IN: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-noblesville-in/
 - Overland Park, KS: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-overland-park-ks/
+- Bastrop, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bastrop-tx/
 - Montgomery County, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-montgomery-county-tx/
+- Keller, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-keller-tx/
 - Roswell, GA: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-roswell-ga/
 - Fayetteville, GA: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-fayetteville-ga/
 - Arlington Heights, IL: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-arlington-heights-il/
@@ -153,6 +178,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Arvada, CO: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-arvada-co/
 - Littleton, CO: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-littleton-co/
 - West Chester Township, OH: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-west-chester-township-oh/
+- Russellville, AR: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-russellville-ar/
 - Mccandless, PA: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-mccandless-pa/
 - Birmingham, MI: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-birmingham-mi/
 - Canton Township, MI: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-canton-township-mi/
@@ -160,19 +186,26 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Racine, WI: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-racine-wi/
 - West Allis, WI: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-west-allis-wi/
 - Conroe, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-conroe-tx/
+- Hutto, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-hutto-tx/
 - Brookfield, IL: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-brookfield-il/
 - Erie, CO: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-erie-co/
 - Saint Peters, MO: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-saint-peters-mo/
 - Eden Prairie, MN: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-eden-prairie-mn/
+- Cabot, AR: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-cabot-ar/
 - Hampton Township, PA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-hampton-township-pa/
 - Florence, KY: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-florence-ky/
+- Benbrook, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-benbrook-tx/
 - Addison, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-addison-tx/
+- San Marcos, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-san-marcos-tx/
 - Tomball, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-tomball-tx/
+- Lakeway, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lakeway-tx/
+- Saginaw, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-saginaw-tx/
+- Pflugerville, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-pflugerville-tx/
 - Mansfield, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-mansfield-tx/
 - Corinth, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-corinth-tx/
 - Humble, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-humble-tx/
-- Keller, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-keller-tx/
 - Wylie, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-wylie-tx/
+- Midland, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-midland-tx/
 - Evanston, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-evanston-il/
 - Glenview, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-glenview-il/
 - Englewood, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-englewood-co/
@@ -187,8 +220,14 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Fraser, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-fraser-mi/
 - Fishers, IN: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-fishers-in/
 - Topeka, KS: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-topeka-ks/
+- Temple, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-temple-tx/
 - Colleyville, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-colleyville-tx/
 - Desoto, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-desoto-tx/
+- Abilene, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-abilene-tx/
+- Greenville, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-greenville-tx/
+- Kerrville, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-kerrville-tx/
+- Dripping Springs, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-dripping-springs-tx/
+- Weatherford, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-weatherford-tx/
 - Grand Prairie, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-grand-prairie-tx/
 - Woodstock, GA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-woodstock-ga/
 - Gwinnett County, GA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-gwinnett-county-ga/
@@ -204,6 +243,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Worthington, OH: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-worthington-oh/
 - Loveland, OH: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-loveland-oh/
 - New Brighton, MN: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-new-brighton-mn/
+- Centerton, AR: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-centerton-ar/
 - Ross Township, PA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-ross-township-pa/
 - Lincoln Park, MI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lincoln-park-mi/
 - Allen Park, MI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-allen-park-mi/
@@ -218,14 +258,22 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Sun Prairie, WI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-sun-prairie-wi/
 - Hutchinson, KS: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-hutchinson-ks/
 - Fulshear, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-fulshear-tx/
+- Webster, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-webster-tx/
 - Roanoke, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-roanoke-tx/
+- Laredo, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-laredo-tx/
 - Murphy, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-murphy-tx/
 - Duncanville, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-duncanville-tx/
 - Denton County, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-denton-county-tx/
+- Corpus Christi, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-corpus-christi-tx/
+- Lufkin, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lufkin-tx/
+- Tyler, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-tyler-tx/
 - Grapevine, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-grapevine-tx/
 - Sachse, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-sachse-tx/
 - Hurst, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-hurst-tx/
+- Rosenberg, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-rosenberg-tx/
+- Sherman, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-sherman-tx/
 - Prosper, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-prosper-tx/
+- Waxahachie, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-waxahachie-tx/
 - Acworth, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-acworth-ga/
 - Tyrone, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-tyrone-ga/
 - Johns Creek, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-johns-creek-ga/
@@ -249,6 +297,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Dublin, OH: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-dublin-oh/
 - West Saint Paul, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-west-saint-paul-mn/
 - Chanhassen, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-chanhassen-mn/
+- North Little Rock, AR: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-north-little-rock-ar/
 - Pine Township, PA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-pine-township-pa/
 - Bellevue, PA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bellevue-pa/
 - Saint Clair Shores, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-saint-clair-shores-mi/
@@ -265,10 +314,18 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Bellevue, NE: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bellevue-ne/
 - Kansas City, KS: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-kansas-city-ks/
 - Manhattan, KS: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-manhattan-ks/
-- Webster, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-webster-tx/
+- Mcallen, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-mcallen-tx/
+- Brownsville, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-brownsville-tx/
+- Harlingen, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-harlingen-tx/
+- Seguin, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-seguin-tx/
 - Royse City, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-royse-city-tx/
+- Boerne, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-boerne-tx/
 - Trophy Club, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-trophy-club-tx/
 - Southlake, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-southlake-tx/
+- Wichita Falls, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-wichita-falls-tx/
+- Northlake, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-northlake-tx/
+- Mission, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-mission-tx/
+- Floresville, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-floresville-tx/
 - Suwanee, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-suwanee-ga/
 - Mount Prospect, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-mount-prospect-il/
 - La Grange Park, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-la-grange-park-il/
@@ -297,6 +354,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Coon Rapids, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-coon-rapids-mn/
 - Plymouth, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-plymouth-mn/
 - Robbinsdale, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-robbinsdale-mn/
+- Siloam Springs, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-siloam-springs-ar/
 - Monroeville, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-monroeville-pa/
 - Washington, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-washington-pa/
 - Richland Township, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-richland-township-pa/
@@ -314,9 +372,25 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - La Vista, NE: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-la-vista-ne/
 - Derby, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-derby-ks/
 - Leavenworth, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-leavenworth-ks/
-- Rosenberg, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-rosenberg-tx/
+- Williamson County, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-williamson-county-tx/
+- Killeen, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-killeen-tx/
+- Lake Jackson, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lake-jackson-tx/
+- College Station, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-college-station-tx/
+- Corsicana, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-corsicana-tx/
+- Waco, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-waco-tx/
+- La Porte, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-la-porte-tx/
+- Manor, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-manor-tx/
 - Highland Village, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-highland-village-tx/
-- Waxahachie, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-waxahachie-tx/
+- The Colony, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-the-colony-tx/
+- Bee Cave, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bee-cave-tx/
+- Denison, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-denison-tx/
+- Elgin, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-elgin-tx/
+- Forney, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-forney-tx/
+- Deer Park, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-deer-park-tx/
+- Farmers Branch, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-farmers-branch-tx/
+- Melissa, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-melissa-tx/
+- Paris, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-paris-tx/
+- Edinburg, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-edinburg-tx/
 - Sealy, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-sealy-tx/
 - Terrell, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-terrell-tx/
 - Alpharetta, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-alpharetta-ga/
@@ -364,6 +438,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Maple Grove, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-maple-grove-mn/
 - Inver Grove Heights, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-inver-grove-heights-mn/
 - Bloomington, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bloomington-mn/
+- Bella Vista, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bella-vista-ar/
+- Jonesboro, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-jonesboro-ar/
+- Bryant, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bryant-ar/
 - Robinson Township, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-robinson-township-pa/
 - West View, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-west-view-pa/
 - South Park Township, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-south-park-township-pa/
@@ -393,19 +470,39 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Ralston, NE: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-ralston-ne/
 - Newport, KY: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-newport-ky/
 - Boone County, KY: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-boone-county-ky/
+- Watauga, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-watauga-tx/
+- Bexar County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bexar-county-tx/
+- Odessa, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-odessa-tx/
+- Taylor, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-taylor-tx/
+- Crowley, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-crowley-tx/
+- Bryan, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bryan-tx/
+- Port Arthur, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-port-arthur-tx/
 - Texas City, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-texas-city-tx/
+- Victoria, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-victoria-tx/
+- Galveston, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-galveston-tx/
+- Converse, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-converse-tx/
+- Leon Valley, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-leon-valley-tx/
+- Cibolo, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-cibolo-tx/
 - Hickory Creek, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-hickory-creek-tx/
-- The Colony, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-the-colony-tx/
+- Lockhart, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lockhart-tx/
 - League City, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-league-city-tx/
+- Lake Worth, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lake-worth-tx/
 - Brazoria County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-brazoria-county-tx/
+- Wells Branch, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-wells-branch-tx/
+- Huntsville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-huntsville-tx/
+- Harker Heights, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-harker-heights-tx/
 - Farmersville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-farmersville-tx/
 - Balch Springs, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-balch-springs-tx/
-- Farmers Branch, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-farmers-branch-tx/
+- West Lake Hills, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-west-lake-hills-tx/
+- Joshua, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-joshua-tx/
 - Mont Belvieu, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-mont-belvieu-tx/
+- Hollywood Park, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-hollywood-park-tx/
 - Magnolia, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-magnolia-tx/
-- Fort Worth, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-fort-worth-tx/
-- Northlake, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-northlake-tx/
-- Deer Park, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-deer-park-tx/
+- Pasadena, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-pasadena-tx/
+- Little Elm, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-little-elm-tx/
+- Live Oak, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-live-oak-tx/
+- Liberty Hill, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-liberty-hill-tx/
+- Celina, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-celina-tx/
 - Lancaster, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lancaster-tx/
 - Stafford, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-stafford-tx/
 - Hiram, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-hiram-ga/
@@ -466,6 +563,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Rogers, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-rogers-mn/
 - Minnetonka, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-minnetonka-mn/
 - Chaska, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-chaska-mn/
+- Jacksonville, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-jacksonville-ar/
+- Springdale, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-springdale-ar/
 - Center Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-center-township-pa/
 - Pleasant Hills, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-pleasant-hills-pa/
 - Ambridge, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-ambridge-pa/
@@ -511,31 +610,55 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Fort Wright, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-fort-wright-ky/
 - Cold Spring, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-cold-spring-ky/
 - Waller, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-waller-tx/
-- Watauga, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-watauga-tx/
 - Cleveland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-cleveland-tx/
+- Hewitt, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-hewitt-tx/
+- Hays County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-hays-county-tx/
+- Weslaco, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-weslaco-tx/
+- Anthony, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-anthony-tx/
 - Spring Valley Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-spring-valley-village-tx/
 - Hitchcock, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-hitchcock-tx/
+- Belton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-belton-tx/
+- Bertram, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bertram-tx/
 - Bellaire, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bellaire-tx/
+- Bellmead, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bellmead-tx/
 - La Marque, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-la-marque-tx/
+- Windcrest, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-windcrest-tx/
+- Hill Country Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-hill-country-village-tx/
 - Rowlett, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-rowlett-tx/
 - Southside Place, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-southside-place-tx/
+- Devine, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-devine-tx/
 - Jacinto City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-jacinto-city-tx/
+- Rollingwood, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-rollingwood-tx/
+- Castle Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-castle-hills-tx/
+- Missouri City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-missouri-city-tx/
+- Bell County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-bell-county-tx/
+- Angleton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-angleton-tx/
 - Providence Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-providence-village-tx/
+- Helotes, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-helotes-tx/
 - Hempstead, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-hempstead-tx/
-- Forney, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-forney-tx/
+- Woodway, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-woodway-tx/
 - Baytown, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-baytown-tx/
 - Seabrook, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-seabrook-tx/
-- Pasadena, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-pasadena-tx/
 - Midlothian, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-midlothian-tx/
 - Shenandoah, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-shenandoah-tx/
 - Red Oak, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-red-oak-tx/
-- Little Elm, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-little-elm-tx/
+- Portland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-portland-tx/
+- Forest Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-forest-hill-tx/
+- San Angelo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-san-angelo-tx/
 - Friendswood, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-friendswood-tx/
-- La Porte, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-la-porte-tx/
+- Haltom City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-haltom-city-tx/
+- Socorro, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-socorro-tx/
+- Alamo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-alamo-tx/
+- Pharr, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-pharr-tx/
+- Argyle, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-argyle-tx/
 - Fairview, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-fairview-tx/
 - Dayton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-dayton-tx/
+- White Settlement, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-white-settlement-tx/
 - Lucas, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-lucas-tx/
+- Robinson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-robinson-tx/
 - Sunnyvale, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-sunnyvale-tx/
+- Clute, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-clute-tx/
+- Wimberley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-wimberley-tx/
 - Mableton, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-mableton-ga/
 - Mcdonough, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-mcdonough-ga/
 - Sandy Springs, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-sandy-springs-ga/
@@ -670,6 +793,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Excelsior, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-excelsior-mn/
 - Wayzata, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-wayzata-mn/
 - Mound, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-mound-mn/
+- Dardanelle, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-dardanelle-ar/
+- Mayflower, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-mayflower-ar/
+- Farmington, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-farmington-ar/
+- Sherwood, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-sherwood-ar/
 - Castle Shannon, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-castle-shannon-pa/
 - Homestead, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-homestead-pa/
 - Wilkins Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-wilkins-township-pa/
@@ -789,7 +916,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'dentist near me': $4.70-$21.56 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 4089
+- Registry businesses competing: 5098
 - Equivalent Google Ads cost per month: ~$470,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $500/month, spots 2-4 from $50/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

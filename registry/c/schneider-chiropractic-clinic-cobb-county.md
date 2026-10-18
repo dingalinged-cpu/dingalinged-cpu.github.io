@@ -13,7 +13,7 @@ Schneider Chiropractic Clinic is a chiropractor in Cobb County, GA at 2593 Canto
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 08:00-18:00; Tu 08:00-13:00
-- Pulse Score: 59.6/100 — Fair — top 38% of chiropractors in Atlanta, #6 of 16 chiropractors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Fair — top 37% of chiropractors in Atlanta, #6 of 16 chiropractors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

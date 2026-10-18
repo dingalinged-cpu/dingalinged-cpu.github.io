@@ -13,7 +13,7 @@ Bachman Furniture is a furniture store in Milwaukee, WI at 1741 West Saint Paul 
 - Website: https://bachmanfurniture.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.7/100 — Good — top 4% of furniture stores in Milwaukee, #3 of 30 furniture stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 4% of furniture stores in Milwaukee, #3 of 30 furniture stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,9 +6,9 @@ Also answers: furniture store in Waxahachie, TX; furniture store near me (Waxaha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Happy's Home Furnishings | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Happy's Home Furnishings is a furniture store in Waxahachie, TX at 114 West Main Street, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/happys-home-furnishings-waxahachie/
-2. Amanda & Ashley's Resale | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Amanda & Ashley's Resale is a furniture store in Waxahachie, TX at 3280 Dallas Highway, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/amanda-and-ashleys-resale-waxahachie/
-3. Furniture By Sleep Quarters | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Furniture By Sleep Quarters is a furniture store in Waxahachie, TX at 500 Dallas Highway, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/furniture-by-sleep-quarters-waxahachie/
+1. Happy's Home Furnishings | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Happy's Home Furnishings is a furniture store in Waxahachie, TX at 114 West Main Street, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/happys-home-furnishings-waxahachie/
+2. Amanda & Ashley's Resale | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Amanda & Ashley's Resale is a furniture store in Waxahachie, TX at 3280 Dallas Highway, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/amanda-and-ashleys-resale-waxahachie/
+3. Furniture By Sleep Quarters | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Furniture By Sleep Quarters is a furniture store in Waxahachie, TX at 500 Dallas Highway, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/furniture-by-sleep-quarters-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store waxahachie tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

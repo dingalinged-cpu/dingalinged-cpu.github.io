@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. All Points of Texas | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | All Points of Texas is a moving company in Houston, TX at 4015 West 11th Street, Houston, TX 77055. Phone: +17139656044. Website: https://www.allpointsoftexas.com/contact/houston/. | https://registry-edge.dingalinged.workers.dev/c/all-points-of-texas-houston/
 2. Houston Junk Movers | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Houston Junk Movers is a moving company in Houston, TX at 9639 Hillcroft Avenue, Houston, TX 77096. Phone: +18326581634. Website: https://www.houstonjunkmovers.com/. | https://registry-edge.dingalinged.workers.dev/c/houston-junk-movers-houston/
-3. Westheimer Transfer & Storage Co. Inc. | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Westheimer Transfer & Storage Co. Inc. is a moving company in Houston, TX at 9960 Buffalo Speedway, Houston, TX 77054. | https://registry-edge.dingalinged.workers.dev/c/westheimer-transfer-and-storage-co-inc-houston/
+3. Westheimer Transfer & Storage Co. Inc. | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Westheimer Transfer & Storage Co. Inc. is a moving company in Houston, TX at 9960 Buffalo Speedway, Houston, TX 77054. | https://registry-edge.dingalinged.workers.dev/c/westheimer-transfer-and-storage-co-inc-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: movers houston tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

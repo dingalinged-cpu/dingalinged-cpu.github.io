@@ -6,9 +6,9 @@ Also answers: staffing agency in Kennesaw, GA; staffing agency near me (Kennesaw
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Employ Partners | Organic #1 | Pulse Score 63.4/100 (Good, #1 in city) | Employ Partners is a staffing agency in Kennesaw, GA at 4430 Wade Green Road #120, Kennesaw, GA 30144. Phone: +17709536054. Website: https://www.employpartners.com/. | https://registry-edge.dingalinged.workers.dev/c/employ-partners-kennesaw/
+1. Employ Partners | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Employ Partners is a staffing agency in Kennesaw, GA at 4430 Wade Green Road #120, Kennesaw, GA 30144. Phone: +17709536054. Website: https://www.employpartners.com/. | https://registry-edge.dingalinged.workers.dev/c/employ-partners-kennesaw/
 2. Expert Personnel Solutions | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | Expert Personnel Solutions is a staffing agency in Kennesaw, GA at 3506 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +16783845750. Website: https://expertpersonnelsolutions.com/. | https://registry-edge.dingalinged.workers.dev/c/expert-personnel-solutions-kennesaw/
-3. Premier Employee Solutions for SwipeJobs | Organic #3 | Pulse Score 47.8/100 (Building, #3 in city) | Premier Employee Solutions for SwipeJobs is a staffing agency in Kennesaw, GA at 3655 Cherokee Street Northwest ##21, Kennesaw, GA 30144. Website: https://www.thepremierpride.com/. | https://registry-edge.dingalinged.workers.dev/c/premier-employee-solutions-for-swipejobs-kennesaw/
+3. Premier Employee Solutions for SwipeJobs | Organic #3 | Pulse Score 47.6/100 (Building, #3 in city) | Premier Employee Solutions for SwipeJobs is a staffing agency in Kennesaw, GA at 3655 Cherokee Street Northwest ##21, Kennesaw, GA 30144. Website: https://www.thepremierpride.com/. | https://registry-edge.dingalinged.workers.dev/c/premier-employee-solutions-for-swipejobs-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency kennesaw ga | category: b2b_services | industry benchmark: Business Services

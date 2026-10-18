@@ -1,4 +1,4 @@
-The top unpaid barber shop listing for Frisco, TX is Select Barbers (a barber shop in Frisco, TX at 2693 Preston Road #37, Frisco, TX 75034. Phone: +12142476182. Website: https://www.selectbarbershop.com/). 6 barber shop businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Frisco, TX is Bink Suites Frisco (a barber shop in Frisco, TX at 4740 Eldorado Parkway #244, Frisco, TX 75035. Phone: +12145644930. Website: https://binkfrisco.com/). 6 barber shop businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Frisco, TX?
 
@@ -6,12 +6,12 @@ Also answers: barber shop in Frisco, TX; barber shop near me (Frisco, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Select Barbers | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | Select Barbers is a barber shop in Frisco, TX at 2693 Preston Road #37, Frisco, TX 75034. Phone: +12142476182. Website: https://www.selectbarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/select-barbers-frisco/
-2. Bink Suites Frisco | Organic #2 | Pulse Score 64.5/100 (Good, #2 in city) | Bink Suites Frisco is a barber shop in Frisco, TX at 4740 Eldorado Parkway #244, Frisco, TX 75035. Phone: +12145644930. Website: https://binkfrisco.com/. | https://registry-edge.dingalinged.workers.dev/c/bink-suites-frisco-frisco/
-3. The Gents Place | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | The Gents Place is a barber shop in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/the-gents-place-frisco/
-4. Rebellious Barber Studio | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Rebellious Barber Studio is a barber shop in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/rebellious-barber-studio-frisco/
-5. Floyd’s 99 Barbershop | Organic #5 | Pulse Score 45.6/100 (Building, #5 in city) | Floyd’s 99 Barbershop is a barber shop in Frisco, TX at 5170 Main Street, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/floyd-s-99-barbershop-frisco-n13320213948/
-6. Floyd’s 99 Barbershop | Organic #6 | Pulse Score 45.5/100 (Building, #6 in city) | Floyd’s 99 Barbershop is a barber shop in Frisco, TX at 1555 US Hwy 380 #400, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/floyd-s-99-barbershop-frisco/
+1. Bink Suites Frisco | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | Bink Suites Frisco is a barber shop in Frisco, TX at 4740 Eldorado Parkway #244, Frisco, TX 75035. Phone: +12145644930. Website: https://binkfrisco.com/. | https://registry-edge.dingalinged.workers.dev/c/bink-suites-frisco-frisco/
+2. Select Barbers | Organic #2 | Pulse Score 64.5/100 (Good, #2 in city) | Select Barbers is a barber shop in Frisco, TX at 2693 Preston Road #37, Frisco, TX 75034. Phone: +12142476182. Website: https://www.selectbarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/select-barbers-frisco/
+3. Rebellious Barber Studio | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Rebellious Barber Studio is a barber shop in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/rebellious-barber-studio-frisco/
+4. Floyd’s 99 Barbershop | Organic #4 | Pulse Score 45.2/100 (Building, #4 in city) | Floyd’s 99 Barbershop is a barber shop in Frisco, TX at 5170 Main Street, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/floyd-s-99-barbershop-frisco-n13320213948/
+5. Floyd’s 99 Barbershop | Organic #5 | Pulse Score 45.1/100 (Building, #5 in city) | Floyd’s 99 Barbershop is a barber shop in Frisco, TX at 1555 US Hwy 380 #400, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/floyd-s-99-barbershop-frisco/
+6. The Gents Place | Organic #6 | Pulse Score 42.5/100 (Unrated, #6 in city) | The Gents Place is a barber shop in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/the-gents-place-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop frisco tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

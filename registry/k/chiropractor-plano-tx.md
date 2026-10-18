@@ -1,4 +1,4 @@
-The top unpaid chiropractor listing for Plano, TX is HealthWorks Family Chiropractic (a chiropractor in Plano, TX at 2317 Coit Road #Ste B, Plano, TX 75075. Phone: +19726121800. Website: https://healthworkstx.com/). 5 chiropractor businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Plano, TX is HealthWorks Family Chiropractic (a chiropractor in Plano, TX at 2317 Coit Road #Ste B, Plano, TX 75075. Phone: +19726121800. Website: https://healthworkstx.com/). 6 chiropractor businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Plano, TX?
 
@@ -7,10 +7,11 @@ Also answers: chiropractor in Plano, TX; chiropractor near me (Plano, TX); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. HealthWorks Family Chiropractic | Organic #1 | Pulse Score 65.3/100 (Good, #1 in city) | HealthWorks Family Chiropractic is a chiropractor in Plano, TX at 2317 Coit Road #Ste B, Plano, TX 75075. Phone: +19726121800. Website: https://healthworkstx.com/. | https://registry-edge.dingalinged.workers.dev/c/healthworks-family-chiropractic-plano/
-2. Epic Chiropractic | Organic #2 | Pulse Score 64.1/100 (Good, #2 in city) | Epic Chiropractic is a chiropractor in Plano, TX at 5000 Legacy Drive #310, Plano, TX 75024. Phone: +19724736325. Website: https://www.epicchiro.net/. | https://registry-edge.dingalinged.workers.dev/c/epic-chiropractic-plano/
+2. Epic Chiropractic | Organic #2 | Pulse Score 64.2/100 (Good, #2 in city) | Epic Chiropractic is a chiropractor in Plano, TX at 5000 Legacy Drive #310, Plano, TX 75024. Phone: +19724736325. Website: https://www.epicchiro.net/. | https://registry-edge.dingalinged.workers.dev/c/epic-chiropractic-plano/
 3. Performance Medicine & Sports Therapy | Organic #3 | Pulse Score 61.4/100 (Unrated, #3 in city) | Performance Medicine & Sports Therapy is a chiropractor in Plano, TX at 6101 Windhaven Parkway #145, Plano, TX 75093. Phone: +19724738980. Website: https://recoverwithpurpose.com/. | https://registry-edge.dingalinged.workers.dev/c/performance-medicine-and-sports-therapy-plano/
-4. Shippy Chiropractic | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Shippy Chiropractic is a chiropractor in Plano, TX at 4000 West Park Boulevard, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/shippy-chiropractic-plano/
-5. Chiropractic Acupuncture | Organic #5 | Pulse Score 46.8/100 (Unrated, #5 in city) | Chiropractic Acupuncture is a chiropractor in Plano, TX at 425 Maplelawn Drive #101, Plano, TX 75075. | https://registry-edge.dingalinged.workers.dev/c/chiropractic-acupuncture-plano/
+4. Zhang Chiropractic & TCM Clinic | Organic #4 | Pulse Score 59.9/100 (Unrated, #4 in city) | Zhang Chiropractic & TCM Clinic is a chiropractor in Plano, TX at 2411 Coit Road #100, Plano, TX 75075. Phone: +19727697345. | https://registry-edge.dingalinged.workers.dev/c/zhang-chiropractic-and-tcm-clinic-plano/
+5. Shippy Chiropractic | Organic #5 | Pulse Score 56.9/100 (Unrated, #5 in city) | Shippy Chiropractic is a chiropractor in Plano, TX at 4000 West Park Boulevard, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/shippy-chiropractic-plano/
+6. Chiropractic Acupuncture | Organic #6 | Pulse Score 46.6/100 (Unrated, #6 in city) | Chiropractic Acupuncture is a chiropractor in Plano, TX at 425 Maplelawn Drive #101, Plano, TX 75075. | https://registry-edge.dingalinged.workers.dev/c/chiropractic-acupuncture-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor plano tx | category: Health & medical | industry benchmark: Physicians & Surgeons
@@ -19,7 +20,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 5
+- Registry businesses competing: 6
 - Equivalent Google Ads cost per month: ~$2,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

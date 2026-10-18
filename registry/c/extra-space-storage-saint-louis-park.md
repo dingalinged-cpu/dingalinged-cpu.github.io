@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Saint Louis Park, MN at 5051 H
 - Website: https://www.extraspace.com/storage/facilities/us/minnesota/minneapolis/1000000684/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 46% of self-storage facilitys in Minneapolis–St. Paul, #1 of 4 self-storage facilitys in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 45% of self-storage facilitys in Minneapolis–St. Paul, #1 of 4 self-storage facilitys in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -35,7 +35,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 27. Brammeier Dental Associates of Naperville | Organic #27 | Pulse Score 57/100 (Unrated, #27 in city) | Brammeier Dental Associates of Naperville is a dentist in Naperville, IL at 2603 South Washington Street, Naperville, IL 60565. | https://registry-edge.dingalinged.workers.dev/c/brammeier-dental-associates-of-naperville-naperville/
 28. Naperville Perio | Organic #28 | Pulse Score 57/100 (Unrated, #28 in city) | Naperville Perio is a dentist in Naperville, IL at 1816 Bay Scott Circle ##104, Naperville, IL 60540. | https://registry-edge.dingalinged.workers.dev/c/naperville-perio-naperville/
 29. Pearly Dental Care | Organic #29 | Pulse Score 56/100 (Unrated, #29 in city) | Pearly Dental Care is a dentist in Naperville, IL at 1060 East Ogden Avenue #100, Naperville, IL 60563. | https://registry-edge.dingalinged.workers.dev/c/pearly-dental-care-naperville/
-30. Sunrise Family Dental | Organic #30 | Pulse Score 55.3/100 (Unrated, #30 in city) | Sunrise Family Dental is a dentist in Naperville, IL. | https://registry-edge.dingalinged.workers.dev/c/sunrise-family-dental-naperville/
+30. Sunrise Family Dental | Organic #30 | Pulse Score 42.5/100 (Building, #30 in city) | Sunrise Family Dental is a dentist in Naperville, IL. | https://registry-edge.dingalinged.workers.dev/c/sunrise-family-dental-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist naperville il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

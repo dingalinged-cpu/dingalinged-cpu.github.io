@@ -19,6 +19,6 @@ Sundance Painting is a painting contractor in Dallas, TX at 3702 North Buckner B
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/sundance-painting-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sundance-painting-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/466454518 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/way/466454518 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

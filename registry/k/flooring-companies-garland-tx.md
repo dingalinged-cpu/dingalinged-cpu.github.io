@@ -6,7 +6,7 @@ Also answers: flooring companies in Garland, TX; flooring companies near me (Gar
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dobson's Flooring America | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Dobson's Flooring America is a flooring company in Garland, TX at 12925 Lyndon B Johnson Freeway, Garland, TX 75041. | https://registry-edge.dingalinged.workers.dev/c/dobsons-flooring-america-garland/
+1. Dobson's Flooring America | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Dobson's Flooring America is a flooring company in Garland, TX at 12925 Lyndon B Johnson Freeway, Garland, TX 75041. | https://registry-edge.dingalinged.workers.dev/c/dobsons-flooring-america-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies garland tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

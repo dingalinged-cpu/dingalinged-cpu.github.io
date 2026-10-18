@@ -6,7 +6,7 @@ Also answers: property management companies in Bennington, NE; property manageme
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Redwood Bennington | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Redwood Bennington is a property management company in Bennington, NE at 16925 Jardine Plaza, Bennington, NE 68007. | https://registry-edge.dingalinged.workers.dev/c/redwood-bennington-bennington/
+1. Redwood Bennington | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Redwood Bennington is a property management company in Bennington, NE at 16925 Jardine Plaza, Bennington, NE 68007. | https://registry-edge.dingalinged.workers.dev/c/redwood-bennington-bennington/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies bennington ne | category: real_estate | industry benchmark: Real Estate

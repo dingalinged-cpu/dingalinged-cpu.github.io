@@ -13,7 +13,7 @@ Animal Hospital At Hillshore is a veterinarian in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We,Fr 08:00-18:00; Th 08:00-13:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 29% of veterinarians in Madison, #7 of 25 veterinarians in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 29% of veterinarians in Madison, #7 of 25 veterinarians in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

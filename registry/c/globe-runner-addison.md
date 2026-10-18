@@ -19,6 +19,6 @@ Globe Runner is a marketing agency in Addison, TX at 4900 Airport Parkway #Unit 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/globe-runner-addison/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/globe-runner-addison.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12151429290 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12151429290 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

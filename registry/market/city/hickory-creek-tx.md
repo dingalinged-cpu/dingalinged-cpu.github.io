@@ -1,4 +1,4 @@
-Keyword market for Hickory Creek, TX: 14 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
+Keyword market for Hickory Creek, TX: 15 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
 
 # Top keywords in Hickory Creek, TX
 
@@ -20,20 +20,21 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 13. insurance agent hickory creek tx | searches/mo 1,000 (est) | CPC $3.39 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hickory-creek-tx/
 
 ## By CPC
-1. tax preparer hickory creek tx | searches/mo 1,500 (est) | CPC $5.87 | value $8,800 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hickory-creek-tx/
-2. daycare hickory creek tx | searches/mo 5,500 (est) | CPC $4.81 | value $26,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-hickory-creek-tx/
-3. dentist hickory creek tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-hickory-creek-tx/
-4. haircut hickory creek tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-hickory-creek-tx/
-5. car wash hickory creek tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-hickory-creek-tx/
-6. dog boarding hickory creek tx | searches/mo 6,100 (est) | CPC $4.06 | value $25,000 | Google Ads equiv $1,600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-hickory-creek-tx/
-7. vet hickory creek tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-hickory-creek-tx/
-8. insurance agency hickory creek tx | searches/mo 2,200 (est) | CPC $3.39 | value $7,500 | Google Ads equiv $620/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hickory-creek-tx/
-9. insurance agent hickory creek tx | searches/mo 1,000 (est) | CPC $3.39 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hickory-creek-tx/
-10. insurance agents hickory creek tx | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hickory-creek-tx/
-11. tax preparation hickory creek tx | searches/mo 1,800 (est) | CPC $3.25 | value $5,800 | Google Ads equiv $490/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hickory-creek-tx/
-12. gym hickory creek tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-hickory-creek-tx/
-13. nail salon hickory creek tx | searches/mo 25,000 (est) | CPC $0.61 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-hickory-creek-tx/
-14. hair salon hickory creek tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-hickory-creek-tx/
+1. event venues hickory creek tx | searches/mo n/a (est) | CPC $7.17 | value $n/a | Google Ads equiv $n/a/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/event-venues-hickory-creek-tx/
+2. tax preparer hickory creek tx | searches/mo 1,500 (est) | CPC $5.87 | value $8,800 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hickory-creek-tx/
+3. daycare hickory creek tx | searches/mo 5,500 (est) | CPC $4.81 | value $26,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-hickory-creek-tx/
+4. dentist hickory creek tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-hickory-creek-tx/
+5. haircut hickory creek tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-hickory-creek-tx/
+6. car wash hickory creek tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-hickory-creek-tx/
+7. dog boarding hickory creek tx | searches/mo 6,100 (est) | CPC $4.06 | value $25,000 | Google Ads equiv $1,600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-hickory-creek-tx/
+8. vet hickory creek tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-hickory-creek-tx/
+9. insurance agency hickory creek tx | searches/mo 2,200 (est) | CPC $3.39 | value $7,500 | Google Ads equiv $620/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hickory-creek-tx/
+10. insurance agent hickory creek tx | searches/mo 1,000 (est) | CPC $3.39 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hickory-creek-tx/
+11. insurance agents hickory creek tx | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hickory-creek-tx/
+12. tax preparation hickory creek tx | searches/mo 1,800 (est) | CPC $3.25 | value $5,800 | Google Ads equiv $490/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hickory-creek-tx/
+13. gym hickory creek tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-hickory-creek-tx/
+14. nail salon hickory creek tx | searches/mo 25,000 (est) | CPC $0.61 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-hickory-creek-tx/
+15. hair salon hickory creek tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-hickory-creek-tx/
 
 ## By value (searches x CPC)
 1. dentist hickory creek tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-hickory-creek-tx/

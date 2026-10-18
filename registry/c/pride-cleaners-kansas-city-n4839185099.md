@@ -13,7 +13,7 @@ Pride Cleaners is a dry cleaner in Kansas City, MO at 6507 North Cosby Avenue, K
 - Website: https://pridecleaners.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-18:00
-- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 65% of dry cleaners in Kansas City, MO, #13 of 19 dry cleaners in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 65% of dry cleaners in Kansas City, MO, #13 of 19 dry cleaners in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

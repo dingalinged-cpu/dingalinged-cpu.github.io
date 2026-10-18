@@ -13,12 +13,12 @@ Planned Parenthood North Dallas Shelburne is a therapy practice in Dallas, TX at
 - Website: https://www.plannedparenthood.org/health-center/texas/dallas/75231/north-dallas-shelburne-health-center-2521-91620
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 92% of therapy practices in Dallas–Fort Worth, #9 of 10 therapy practices in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 91% of therapy practices in Dallas–Fort Worth, #9 of 10 therapy practices in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/planned-parenthood-north-dallas-shelburne-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/planned-parenthood-north-dallas-shelburne-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13956187611 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13956187611 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

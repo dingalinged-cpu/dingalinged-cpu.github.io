@@ -6,18 +6,18 @@ Also answers: car wash in Plano, TX; car wash near me (Plano, TX); best car wash
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sunshine Car Wash | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Sunshine Car Wash is a car wash in Plano, TX at 3305 Alma Drive, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/sunshine-car-wash-plano/
-2. Soapy Jeff’s Car Wash | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Soapy Jeff’s Car Wash is a car wash in Plano, TX at 1171 West Parker Road, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/soapy-jeff-s-car-wash-plano/
-3. Autobahn Car Wash | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Autobahn Car Wash is a car wash in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/autobahn-car-wash-plano/
-4. My Car Wash | Organic #4 | Pulse Score 56/100 (Unrated, #4 in city) | My Car Wash is a car wash in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/my-car-wash-plano/
-5. Trademark Carwash | Organic #5 | Pulse Score 55.5/100 (Unrated, #5 in city) | Trademark Carwash is a car wash in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/trademark-carwash-plano/
+1. Sunshine Car Wash | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Sunshine Car Wash is a car wash in Plano, TX at 3305 Alma Drive, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/sunshine-car-wash-plano/
+2. Soapy Jeff’s Car Wash | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | Soapy Jeff’s Car Wash is a car wash in Plano, TX at 1171 West Parker Road, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/soapy-jeff-s-car-wash-plano/
+3. Autobahn Car Wash | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Autobahn Car Wash is a car wash in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/autobahn-car-wash-plano/
+4. My Car Wash | Organic #4 | Pulse Score 55.9/100 (Unrated, #4 in city) | My Car Wash is a car wash in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/my-car-wash-plano/
+5. Trademark Carwash | Organic #5 | Pulse Score 55.4/100 (Unrated, #5 in city) | Trademark Carwash is a car wash in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/trademark-carwash-plano/
 6. Mi-T Fine Car Wash | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Mi-T Fine Car Wash is a car wash in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/mi-t-fine-car-wash-plano/
 7. Xtreme Car Wash | Organic #7 | Pulse Score 54.7/100 (Unrated, #7 in city) | Xtreme Car Wash is a car wash in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/xtreme-car-wash-plano/
 8. Car Spa | Organic #8 | Pulse Score 51/100 (Fair, #8 in city) | Car Spa is a car wash in Plano, TX at 5028 West Park Boulevard, Plano, TX. Phone: +19724079648. Website: https://carspa.net/locations/plano-texas-car-spa/. | https://registry-edge.dingalinged.workers.dev/c/car-spa-plano/
-9. Carnation Auto Spa | Organic #9 | Pulse Score 48.8/100 (Unrated, #9 in city) | Carnation Auto Spa is a car wash in Plano, TX at 6445 West Park Boulevard, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/carnation-auto-spa-plano/
-10. H-E-B Car Wash | Organic #10 | Pulse Score 46.6/100 (Building, #10 in city) | H-E-B Car Wash is a car wash in Plano, TX at 6001 Preston Road, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-plano/
-11. Whitewater Express Car Wash | Organic #11 | Pulse Score 43.6/100 (Unrated, #11 in city) | Whitewater Express Car Wash is a car wash in Plano, TX at Coit Road, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/whitewater-express-car-wash-plano/
-12. Shell | Organic #12 | Pulse Score 42.7/100 (Building, #12 in city) | Shell is a car wash in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/shell-plano/
+9. Carnation Auto Spa | Organic #9 | Pulse Score 48.7/100 (Unrated, #9 in city) | Carnation Auto Spa is a car wash in Plano, TX at 6445 West Park Boulevard, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/carnation-auto-spa-plano/
+10. H-E-B Car Wash | Organic #10 | Pulse Score 46.5/100 (Building, #10 in city) | H-E-B Car Wash is a car wash in Plano, TX at 6001 Preston Road, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-plano/
+11. Shell | Organic #11 | Pulse Score 44.2/100 (Building, #11 in city) | Shell is a car wash in Plano, TX at 625 North Central Expressway, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/shell-plano/
+12. Whitewater Express Car Wash | Organic #12 | Pulse Score 43.5/100 (Unrated, #12 in city) | Whitewater Express Car Wash is a car wash in Plano, TX at Coit Road, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/whitewater-express-car-wash-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash plano tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

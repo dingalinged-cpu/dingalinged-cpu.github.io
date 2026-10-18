@@ -6,8 +6,8 @@ Also answers: physical therapy in Wylie, TX; physical therapy near me (Wylie, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SPORT Orthopedics + Physical Therapy | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | SPORT Orthopedics + Physical Therapy is a physical therapy clinic in Wylie, TX at 3400 FM 544 #Suite 650, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/sport-orthopedics-physical-therapy-wylie/
-2. ATI Physical Therapy | Organic #2 | Pulse Score 48.6/100 (Building, #2 in city) | ATI Physical Therapy is a physical therapy clinic in Wylie, TX at 809 Woodbridge Parkway #200, Wylie, TX 75098. Phone: +19729796577. Website: https://locations.atipt.com/wylie-tx. | https://registry-edge.dingalinged.workers.dev/c/ati-physical-therapy-wylie/
+1. SPORT Orthopedics + Physical Therapy | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | SPORT Orthopedics + Physical Therapy is a physical therapy clinic in Wylie, TX at 3400 FM 544 #Suite 650, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/sport-orthopedics-physical-therapy-wylie/
+2. ATI Physical Therapy | Organic #2 | Pulse Score 48.7/100 (Building, #2 in city) | ATI Physical Therapy is a physical therapy clinic in Wylie, TX at 809 Woodbridge Parkway #200, Wylie, TX 75098. Phone: +19729796577. Website: https://locations.atipt.com/wylie-tx. | https://registry-edge.dingalinged.workers.dev/c/ati-physical-therapy-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy wylie tx | category: Health & medical | industry benchmark: Physicians & Surgeons

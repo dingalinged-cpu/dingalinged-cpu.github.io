@@ -13,7 +13,7 @@ Moonshot Solutions is an IT support company in Overland Park, KS at 9800 Metcalf
 - Website: https://moonshot-solutions.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 12% of IT support companys in Kansas City, MO, #1 of 5 IT support companys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 12% of IT support companys in Kansas City, MO, #1 of 5 IT support companys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

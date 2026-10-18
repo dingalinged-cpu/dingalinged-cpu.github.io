@@ -13,7 +13,7 @@ Ameristar Roofing & Restoration is a roofer in Gladstone, MO at 706 Northeast 76
 - Website: https://www.ameristarroofingkc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-20:00
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 56% of roofers in Kansas City, MO, #2 of 2 roofers in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 56% of roofers in Kansas City, MO, #2 of 2 roofers in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

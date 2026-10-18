@@ -6,7 +6,7 @@ Also answers: shoe repair in South Houston, TX; shoe repair near me (South Houst
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jesse's Shoe Repair & Western Wear | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Jesse's Shoe Repair & Western Wear is a shoe repair in South Houston, TX at 607 College Avenue, South Houston, TX 77587. Website: https://www.jessesshoerepair.com/. | https://registry-edge.dingalinged.workers.dev/c/jesses-shoe-repair-and-western-wear-south-houston/
+1. Jesse's Shoe Repair & Western Wear | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Jesse's Shoe Repair & Western Wear is a shoe repair in South Houston, TX at 607 College Avenue, South Houston, TX 77587. Website: https://www.jessesshoerepair.com/. | https://registry-edge.dingalinged.workers.dev/c/jesses-shoe-repair-and-western-wear-south-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair south houston tx | category: Professional & financial services | industry benchmark: Finance & Insurance

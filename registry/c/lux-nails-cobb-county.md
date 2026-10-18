@@ -13,7 +13,7 @@ Lux Nails is a nail salon in Cobb County, GA at 2520 Shallowford Road Northeast 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Su 12:00-18:00; Tu-Sa 10:00-19:00
-- Pulse Score: 47.6/100 — Building — top 84% of nail salons in Atlanta, #42 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 84% of nail salons in Atlanta, #42 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.9, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

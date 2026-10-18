@@ -6,11 +6,11 @@ Also answers: vet in Irving, TX; vet near me (Irving, TX); best vet Irving, TX; 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. UrgentVet - Irving | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | UrgentVet - Irving is a veterinarian in Irving, TX at 6440 North MacArthur Boulevard, Irving, TX 75039. Phone: +14699429600. Website: https://urgentvet.com/. | https://registry-edge.dingalinged.workers.dev/c/urgentvet-irving-irving/
-2. Valley Ranch Pet Clinic | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Valley Ranch Pet Clinic is a veterinarian in Irving, TX at 455 Cimarron Trail, Irving, TX 75063. Phone: +19725561966. Website: https://www.valleyranchpetclinic.com/. | https://registry-edge.dingalinged.workers.dev/c/valley-ranch-pet-clinic-irving/
-3. My Village Pet Clinic | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | My Village Pet Clinic is a veterinarian in Irving, TX at East Shady Grove Road, Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/my-village-pet-clinic-irving/
-4. Low Cost Pet Vet | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Low Cost Pet Vet is a veterinarian in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/low-cost-pet-vet-irving/
-5. Story Road Animal Hospital | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Story Road Animal Hospital is a veterinarian in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/story-road-animal-hospital-irving/
+1. UrgentVet - Irving | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | UrgentVet - Irving is a veterinarian in Irving, TX at 6440 North MacArthur Boulevard, Irving, TX 75039. Phone: +14699429600. Website: https://urgentvet.com/. | https://registry-edge.dingalinged.workers.dev/c/urgentvet-irving-irving/
+2. Valley Ranch Pet Clinic | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Valley Ranch Pet Clinic is a veterinarian in Irving, TX at 455 Cimarron Trail, Irving, TX 75063. Phone: +19725561966. Website: https://www.valleyranchpetclinic.com/. | https://registry-edge.dingalinged.workers.dev/c/valley-ranch-pet-clinic-irving/
+3. My Village Pet Clinic | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | My Village Pet Clinic is a veterinarian in Irving, TX at East Shady Grove Road, Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/my-village-pet-clinic-irving/
+4. Low Cost Pet Vet | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Low Cost Pet Vet is a veterinarian in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/low-cost-pet-vet-irving/
+5. Story Road Animal Hospital | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | Story Road Animal Hospital is a veterinarian in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/story-road-animal-hospital-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet irving tx | category: Pets | industry benchmark: Animals & Pets

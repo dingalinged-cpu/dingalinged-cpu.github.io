@@ -13,7 +13,7 @@ Fresh Bikes is a bike shop in Roswell, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 10:00-18:00+; Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-16:00
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 66% of bike shops in Atlanta, #2 of 3 bike shops in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 66% of bike shops in Atlanta, #2 of 3 bike shops in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

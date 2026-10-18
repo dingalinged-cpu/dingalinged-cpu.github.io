@@ -13,7 +13,7 @@ USA Nails is a nail salon in West Allis, WI at 6712 West Greenfield Avenue, West
 - Website: https://usanailswestallis.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su off
-- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 88% of nail salons in Milwaukee, #3 of 5 nail salons in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 85% of nail salons in Milwaukee, #2 of 5 nail salons in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

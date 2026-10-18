@@ -6,8 +6,8 @@ Also answers: jewelry store in University Park, TX; jewelry store near me (Unive
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Matthew Trent | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Matthew Trent is a jewelry store in University Park, TX. | https://registry-edge.dingalinged.workers.dev/c/matthew-trent-university-park/
-2. Kendra Scott | Organic #2 | Pulse Score 47.9/100 (Unrated, #23 in city) | Kendra Scott is a jewelry store in Dallas, TX at 8383 Preston Center Plaza #Suite 160, Dallas, TX 75225. Phone: +14698048538. Website: https://kendrascott.com/. | https://registry-edge.dingalinged.workers.dev/c/kendra-scott-dallas-n11140077933/
+1. Matthew Trent | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Matthew Trent is a jewelry store in University Park, TX. | https://registry-edge.dingalinged.workers.dev/c/matthew-trent-university-park/
+2. Kendra Scott | Organic #2 | Pulse Score 47.7/100 (Unrated, #23 in city) | Kendra Scott is a jewelry store in Dallas, TX at 8383 Preston Center Plaza #Suite 160, Dallas, TX 75225. Phone: +14698048538. Website: https://kendrascott.com/. | https://registry-edge.dingalinged.workers.dev/c/kendra-scott-dallas-n11140077933/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store university park tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

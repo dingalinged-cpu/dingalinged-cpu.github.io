@@ -13,7 +13,7 @@ Suburban Glassworks is a window repair service in Lino Lakes, MN at 474 Apollo D
 - Website: https://suburbanglassworksmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 43% of window repair services in Minneapolis–St. Paul, #1 of 1 window repair services in Lino Lakes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 43% of window repair services in Minneapolis–St. Paul, #1 of 1 window repair services in Lino Lakes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

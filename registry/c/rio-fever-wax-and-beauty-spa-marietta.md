@@ -13,7 +13,7 @@ Rio Fever Wax and Beauty Spa is a waxing salon in Marietta, GA at 3000 Windy Hil
 - Website: https://www.riofeverbeauty.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We-Fr 10:00-19:00; Th 12:00-19:00; Sa 9:30-17:30
-- Pulse Score: 64.8/100 — Good — top 4% of waxing salons in Atlanta, #1 of 5 waxing salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.4, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 4% of waxing salons in Atlanta, #1 of 5 waxing salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

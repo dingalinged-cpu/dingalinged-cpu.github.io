@@ -7,7 +7,7 @@ Also answers: plastic surgeon in Chicago, IL; plastic surgeon near me (Chicago, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Shifrin Plastic Surgery | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Shifrin Plastic Surgery is a plastic surgeon in Chicago, IL at 2335 South Michigan Avenue #2, Chicago, IL 60616. Phone: +13125026200. Website: https://www.davidshifrinmd.com/. | https://registry-edge.dingalinged.workers.dev/c/shifrin-plastic-surgery-chicago/
-2. Chapter Aesthetic Studio | Organic #2 | Pulse Score 53/100 (Unrated, #2 in city) | Chapter Aesthetic Studio is a plastic surgeon in Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/chapter-aesthetic-studio-chicago/
+2. Chapter Aesthetic Studio | Organic #2 | Pulse Score 52.9/100 (Unrated, #2 in city) | Chapter Aesthetic Studio is a plastic surgeon in Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/chapter-aesthetic-studio-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon chicago il | category: Health & medical | industry benchmark: Physicians & Surgeons

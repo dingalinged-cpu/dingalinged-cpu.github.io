@@ -6,7 +6,7 @@ Also answers: property management company in Rosemont, IL; property management c
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Management Office | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Management Office is a property management company in Rosemont, IL. | https://registry-edge.dingalinged.workers.dev/c/management-office-rosemont/
+1. Management Office | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Management Office is a property management company in Rosemont, IL. | https://registry-edge.dingalinged.workers.dev/c/management-office-rosemont/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company rosemont il | category: Professional & financial services | industry benchmark: Finance & Insurance

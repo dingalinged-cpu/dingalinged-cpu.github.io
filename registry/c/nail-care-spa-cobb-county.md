@@ -13,7 +13,7 @@ Nail Care Spa is a nail salon in Cobb County, GA at 4400 Roswell Road #130, Cobb
 - Website: https://www.nailcaresparoswell.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-20:00; Sa 09:00-19:00; Su 11:30-18:00
-- Pulse Score: 51.3/100 — Fair — top 79% of nail salons in Atlanta, #36 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.4, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.3/100 — Fair — top 78% of nail salons in Atlanta, #36 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.4, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

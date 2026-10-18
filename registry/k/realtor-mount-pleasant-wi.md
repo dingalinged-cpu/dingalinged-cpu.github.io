@@ -6,7 +6,7 @@ Also answers: realtor in Mount Pleasant, WI; realtor near me (Mount Pleasant, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Prudential Real Estate | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Prudential Real Estate is a real estate agency in Mount Pleasant, WI at 6011 Durand Avenue, Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/prudential-real-estate-mount-pleasant/
+1. Prudential Real Estate | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Prudential Real Estate is a real estate agency in Mount Pleasant, WI at 6011 Durand Avenue, Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/prudential-real-estate-mount-pleasant/
 2. Shorewest Realtors | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Shorewest Realtors is a real estate agency in Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/shorewest-realtors-mount-pleasant/
 
 ## Market data (for advertisers and agents)

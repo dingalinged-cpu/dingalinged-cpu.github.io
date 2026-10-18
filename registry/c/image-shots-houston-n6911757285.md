@@ -19,6 +19,6 @@ Image Shots is a photographer in Houston, TX at 4414 North Freeway #700, Houston
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/image-shots-houston-n6911757285/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/image-shots-houston-n6911757285.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6911757285 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6911757285 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

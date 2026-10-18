@@ -13,7 +13,7 @@ Dick's Sports Barbers is a barber shop in Edina, MN at 4404 France Avenue South,
 - Website: https://www.dicksbarbers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:00-19:00; Tu-Th 08:00-19:00; Fr 07:00-18:00; Sa 08:00-17:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 21% of barber shops in Minneapolis–St. Paul, #2 of 2 barber shops in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 24% of barber shops in Minneapolis–St. Paul, #2 of 2 barber shops in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

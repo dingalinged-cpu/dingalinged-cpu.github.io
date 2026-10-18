@@ -13,7 +13,7 @@ Chicagoland Accordion Academy is a music school in Western Springs, IL at 500 52
 - Website: https://chicagolandaccordionacademy.com/
 - Email: maryann@chicagolandaccordionacademy.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 22% of music schools in Chicago, #1 of 2 music schools in Western Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 22% of music schools in Chicago, #1 of 2 music schools in Western Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

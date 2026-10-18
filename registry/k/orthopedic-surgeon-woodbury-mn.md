@@ -6,7 +6,7 @@ Also answers: orthopedic surgeon in Woodbury, MN; orthopedic surgeon near me (Wo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Summit Orthopedics | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Summit Orthopedics is an orthopedic surgeon in Woodbury, MN at 2090 Woodwinds Drive, Woodbury, MN 55125. | https://registry-edge.dingalinged.workers.dev/c/summit-orthopedics-woodbury/
+1. Summit Orthopedics | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Summit Orthopedics is an orthopedic surgeon in Woodbury, MN at 2090 Woodwinds Drive, Woodbury, MN 55125. | https://registry-edge.dingalinged.workers.dev/c/summit-orthopedics-woodbury/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon woodbury mn | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -10,12 +10,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Signature Barbershop | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Signature Barbershop is a hair salon in Orland Park, IL at 7844 West 159th Street, Orland Park, IL 60462. Website: https://signaturebarbershop.org/. | https://registry-edge.dingalinged.workers.dev/c/signature-barbershop-orland-park/
 3. Avanzato Salon and Spa | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | Avanzato Salon and Spa is a hair salon in Orland Park, IL at 11317 West 159th Street, Orland Park, IL 60467. | https://registry-edge.dingalinged.workers.dev/c/avanzato-salon-and-spa-orland-park/
 4. Chic Beauty Botique | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Chic Beauty Botique is a hair salon in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/chic-beauty-botique-orland-park/
-5. Cool Cuts 4 Kids | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Cool Cuts 4 Kids is a hair salon in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/cool-cuts-4-kids-orland-park/
-6. Jefferey LaMorte Salon & Day Spa | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Jefferey LaMorte Salon & Day Spa is a hair salon in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/jefferey-lamorte-salon-and-day-spa-orland-park/
-7. Sass Studios and Salon Suites | Organic #7 | Pulse Score 54.7/100 (Unrated, #7 in city) | Sass Studios and Salon Suites is a hair salon in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/sass-studios-and-salon-suites-orland-park/
-8. Studio 45 | Organic #8 | Pulse Score 54.7/100 (Unrated, #8 in city) | Studio 45 is a hair salon in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/studio-45-orland-park/
-9. Uroda Hair Design | Organic #9 | Pulse Score 54.7/100 (Unrated, #9 in city) | Uroda Hair Design is a hair salon in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/uroda-hair-design-orland-park/
-10. Supercuts | Organic #10 | Pulse Score 42.5/100 (Building, #10 in city) | Supercuts is a hair salon in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/supercuts-orland-park/
+5. Jefferey LaMorte Salon & Day Spa | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Jefferey LaMorte Salon & Day Spa is a hair salon in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/jefferey-lamorte-salon-and-day-spa-orland-park/
+6. Sass Studios and Salon Suites | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Sass Studios and Salon Suites is a hair salon in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/sass-studios-and-salon-suites-orland-park/
+7. Studio 45 | Organic #7 | Pulse Score 54.7/100 (Unrated, #7 in city) | Studio 45 is a hair salon in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/studio-45-orland-park/
+8. Uroda Hair Design | Organic #8 | Pulse Score 54.7/100 (Unrated, #8 in city) | Uroda Hair Design is a hair salon in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/uroda-hair-design-orland-park/
+9. Supercuts | Organic #9 | Pulse Score 42.5/100 (Building, #9 in city) | Supercuts is a hair salon in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/supercuts-orland-park/
+10. Cool Cuts 4 Kids | Organic #10 | Pulse Score 41.9/100 (Unrated, #10 in city) | Cool Cuts 4 Kids is a hair salon in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/cool-cuts-4-kids-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon orland park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

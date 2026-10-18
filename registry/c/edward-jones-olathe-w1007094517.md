@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Olathe, KS at 1072 West Santa Fe Street, 
 - Website: https://www.edwardjones.com/us-en/financial-advisor/amy-palmer
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.8/100 — Building — top 32% of financial advisors in Kansas City, MO, #2 of 4 financial advisors in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 32% of financial advisors in Kansas City, MO, #2 of 4 financial advisors in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Visiting Angels Senior Home Care is an assisted living facility in Rockwall, TX 
 - Website: https://www.visitingangels.com/rockwall/home
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.5/100 — Unrated (not enough evidence yet) — top 98% of assisted living facilitys in Dallas–Fort Worth, #6 of 6 assisted living facilitys in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 98% of assisted living facilitys in Dallas–Fort Worth, #6 of 6 assisted living facilitys in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

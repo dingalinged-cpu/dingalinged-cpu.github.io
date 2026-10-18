@@ -13,7 +13,7 @@ Reflections Jewelry is a jewelry store in Milwaukee, WI at 1306 West Forest Home
 - Website: https://pawnmilwaukee.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 22% of jewelry stores in Milwaukee, #9 of 20 jewelry stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 22% of jewelry stores in Milwaukee, #9 of 20 jewelry stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

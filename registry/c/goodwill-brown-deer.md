@@ -13,7 +13,7 @@ Goodwill is a thrift store in Brown Deer, WI at 9305 North Green Bay Road, Brown
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su 09:00-17:00
-- Pulse Score: 47.7/100 — Building — top 59% of thrift stores in Milwaukee, #1 of 1 thrift stores in Brown Deer (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 57% of thrift stores in Milwaukee, #1 of 1 thrift stores in Brown Deer (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

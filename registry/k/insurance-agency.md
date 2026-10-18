@@ -1,4 +1,4 @@
-The top unpaid insurance agency listing for the United States is The Sterling Insurance Group (an insurance agent in Plano, TX at 3415 Custer Rd #Suite 104, Plano, TX 75023. Phone: +19729644825. Website: https://sterlinginsnow.com/). 2292 insurance agency businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for the United States is Farmer's Insurance - Perry Sanford (an insurance agent in Cedar Park, TX at 1001 Cypress Creek Road #301, Cedar Park, TX 78613. Phone: +15124028048. Website: https://agents.farmers.com/tx/cedar-park/perry-sanford). 3018 insurance agency businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in the United States?
 
@@ -6,68 +6,76 @@ Also answers: insurance agency in the United States; insurance agency near me (t
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Sterling Insurance Group | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | The Sterling Insurance Group is an insurance agent in Plano, TX at 3415 Custer Rd #Suite 104, Plano, TX 75023. Phone: +19729644825. Website: https://sterlinginsnow.com/. | https://registry-edge.dingalinged.workers.dev/c/the-sterling-insurance-group-plano/
-2. Insurish | Organic #2 | Pulse Score 64.5/100 (Good, #1 in city) | Insurish is an insurance agent in Northville, MI at 133 West Main Street #Suite 160, Northville, MI 48167. Phone: +12484584357. Website: https://www.insurish.com/. | https://registry-edge.dingalinged.workers.dev/c/insurish-northville/
-3. Absolute Insurance Group Inc | Organic #3 | Pulse Score 64.2/100 (Unrated, #1 in city) | Absolute Insurance Group Inc is an insurance agent in Olathe, KS at 14106 West 135th Street, Olathe, KS 66062. Phone: +19138512886. Website: https://www.absoluteinsgroup.com/. | https://registry-edge.dingalinged.workers.dev/c/absolute-insurance-group-inc-olathe/
-4. Gerald L Lukton Co | Organic #4 | Pulse Score 64.2/100 (Unrated, #1 in city) | Gerald L Lukton Co is an insurance agent in Greenwood Village, CO at 5600 Greenwood Plaza Blvd, #325, Greenwood Village, CO 80111. Phone: +13036912415. Website: https://luktoncompany.com/. | https://registry-edge.dingalinged.workers.dev/c/gerald-l-lukton-co-greenwood-village/
-5. Total Insurance | Organic #5 | Pulse Score 64.1/100 (Good, #1 in city) | Total Insurance is an insurance agent in Cherokee County, GA at 5554 Bells Ferry Road, Cherokee County, GA. Phone: +17706272123. Website: https://www.totalinsuranceusa.com/. | https://registry-edge.dingalinged.workers.dev/c/total-insurance-cherokee-county/
-6. Covered Insurance | Organic #6 | Pulse Score 64.1/100 (Unrated, #1 in city) | Covered Insurance is an insurance agent in Denver, CO at 1391 Speer Boulevard #850, Denver, CO 80204. Phone: +18334872683. Website: https://itscovered.com/. | https://registry-edge.dingalinged.workers.dev/c/covered-insurance-denver/
-7. Texas American Insurers | Organic #7 | Pulse Score 64.1/100 (Unrated, #1 in city) | Texas American Insurers is an insurance agent in Hurst, TX at 669 Airport Freeway #302, Hurst, TX 76053. Phone: +18178773101. Website: https://txam.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-american-insurers-hurst/
-8. Lane Galloway - State Farm Insurance Agent | Organic #8 | Pulse Score 64/100 (Unrated, #1 in city) | Lane Galloway - State Farm Insurance Agent is an insurance agent in Conroe, TX at 206 South Loop 336 West #F, Conroe, TX 77304. Phone: +19365391865. Website: https://www.lanegalloway.com/. | https://registry-edge.dingalinged.workers.dev/c/lane-galloway-state-farm-insurance-agent-conroe/
-9. Odis Mack: Allstate Insurance | Organic #9 | Pulse Score 64/100 (Unrated, #1 in city) | Odis Mack: Allstate Insurance is an insurance agent in Houston, TX at 7171 Hwy 6 N, #105, Houston, TX 77095. Phone: +13462058543. Website: https://agents.allstate.com/odis-mack-houston-tx.html. | https://registry-edge.dingalinged.workers.dev/c/odis-mack-allstate-insurance-houston/
-10. GBG Insurance Agency | Organic #10 | Pulse Score 63.9/100 (Good, #1 in city) | GBG Insurance Agency is an insurance agent in Milwaukee, WI at 1930 North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212. Phone: +14142641400. Website: https://www.gbginsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/gbg-insurance-agency-milwaukee/
-11. Conner Insurance Group | Organic #11 | Pulse Score 63.9/100 (Unrated, #1 in city) | Conner Insurance Group is an insurance agent in Farmington Hills, MI at 31600 West 13 Mile Road #130, Farmington Hills, MI 48334. Phone: +12484279400. Website: https://connerinsgrp.com/. | https://registry-edge.dingalinged.workers.dev/c/conner-insurance-group-farmington-hills/
-12. Garrett Wietholter - State Farm Insurance Agent | Organic #12 | Pulse Score 63.8/100 (Unrated, #1 in city) | Garrett Wietholter - State Farm Insurance Agent is an insurance agent in Zionsville, IN at 11145 North Michigan Road ##100, Zionsville, IN 46077. Phone: +13178733230. Website: https://garrettwietholter.com/. | https://registry-edge.dingalinged.workers.dev/c/garrett-wietholter-state-farm-insurance-agent-zionsville/
-13. Georgia Health Insurance Marketplace | Organic #13 | Pulse Score 63.7/100 (Good, #1 in city) | Georgia Health Insurance Marketplace is an insurance agent in Atlanta, GA at 1100 Peachtree Street Northeast #200, Atlanta, GA 30309. Phone: +14049753313. Website: https://georgiahealthinsurancemarketplace.com/. | https://registry-edge.dingalinged.workers.dev/c/georgia-health-insurance-marketplace-atlanta/
-14. Family First Insurance Group | Organic #14 | Pulse Score 63.7/100 (Unrated, #1 in city) | Family First Insurance Group is an insurance agent in Centerburg, OH at 28 East Main Street, Centerburg, OH 43011. Phone: +17407123344. Website: https://familyfirstig.com/. | https://registry-edge.dingalinged.workers.dev/c/family-first-insurance-group-centerburg/
-15. A Public Adjuster Group LLC | Organic #15 | Pulse Score 63.6/100 (Unrated, #1 in city) | A Public Adjuster Group LLC is an insurance agent in Pearland, TX at 2808 Morenci, Pearland, TX 77581. Phone: +17135229463. Website: https://statepublicadjuster.com/. | https://registry-edge.dingalinged.workers.dev/c/a-public-adjuster-group-llc-pearland/
-16. Cincinnatus Insurance LLC | Organic #16 | Pulse Score 63.6/100 (Unrated, #1 in city) | Cincinnatus Insurance LLC is an insurance agent in Cincinnati, OH at 4790 Red Bank Road;Red Bank Expressway #207, Cincinnati, OH 45227. Phone: +15135873553. Website: https://www.cincinnatusinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/cincinnatus-insurance-llc-cincinnati/
-17. Fidelity National Title | Organic #17 | Pulse Score 63.6/100 (Unrated, #1 in city) | Fidelity National Title is an insurance agent in McKinney, TX at 3100 Ridge Road #100, McKinney, TX 75070. Phone: +14694081460. Website: https://texas.fntic.com/Offices/Dallas. | https://registry-edge.dingalinged.workers.dev/c/fidelity-national-title-mckinney/
-18. Hurl & Hurl Insurance Agency | Organic #18 | Pulse Score 63.5/100 (Unrated, #1 in city) | Hurl & Hurl Insurance Agency is an insurance agent in Lakewood, CO at 1650 South Deframe Street, Lakewood, CO 80228. Phone: +17207572934. Website: https://davidhurl.net/. | https://registry-edge.dingalinged.workers.dev/c/hurl-and-hurl-insurance-agency-lakewood/
-19. Chanda Gatton Agency | Organic #19 | Pulse Score 63.4/100 (Unrated, #1 in city) | Chanda Gatton Agency is an insurance agent in Greenwood, IN at 360 South Madison Avenue ##109, Greenwood, IN 46142. Phone: +13178845055. Website: https://www.voldico.com/find-an-agent/chanda-gatton-agency. | https://registry-edge.dingalinged.workers.dev/c/chanda-gatton-agency-greenwood/
-20. Compass Insurance Agency | Organic #20 | Pulse Score 63.4/100 (Unrated, #1 in city) | Compass Insurance Agency is an insurance agent in Schaumburg, IL at 2401 West Schaumburg Road #201, Schaumburg, IL 60194. Phone: +18479083301. Website: https://www.compassinsuranceschaumburg.com/. | https://registry-edge.dingalinged.workers.dev/c/compass-insurance-agency-schaumburg/
-21. Mischel Pendleton: Allstate Insurance | Organic #21 | Pulse Score 63.4/100 (Unrated, #1 in city) | Mischel Pendleton: Allstate Insurance is an insurance agent in McDonough, GA at 393 Keys Ferry St, McDonough, GA 30253. Phone: +17709543360. Website: https://agents.allstate.com/mischel-pendleton-mcdonough-ga.html. | https://registry-edge.dingalinged.workers.dev/c/mischel-pendleton-allstate-insurance-mcdonough/
-22. Everly Life | Organic #22 | Pulse Score 63.3/100 (Good, #1 in city) | Everly Life is an insurance agent in Topeka, KS at 1 SW Security Benefit Place, Topeka, KS 66636. Phone: +18552900529. Website: https://www.everlylife.com/. | https://registry-edge.dingalinged.workers.dev/c/everly-life-topeka/
-23. AIMC | Organic #23 | Pulse Score 63.3/100 (Good, #1 in city) | AIMC is an insurance agent in Woodstock, GA at 220 Cinema View, Woodstock, GA. Phone: +18003210102. Website: https://aimc.net/. | https://registry-edge.dingalinged.workers.dev/c/aimc-woodstock/
-24. Insura Insurance Agency | Organic #24 | Pulse Score 63.3/100 (Unrated, #1 in city) | Insura Insurance Agency is an insurance agent in Reynoldsburg, OH at 6501 Livingston Avenue #3A, Reynoldsburg, OH 43068. Phone: +16145004147. Website: https://insura4you.com/. | https://registry-edge.dingalinged.workers.dev/c/insura-insurance-agency-reynoldsburg/
-25. AIM Association Insurance Management | Organic #25 | Pulse Score 63.3/100 (Unrated, #1 in city) | AIM Association Insurance Management is an insurance agent in Dallas, TX at 12221 Merit Drive #1670, Dallas, TX 75251. Phone: +12143600801. Website: https://aim-companies.com/. | https://registry-edge.dingalinged.workers.dev/c/aim-association-insurance-management-dallas/
-26. Hickman & Associates Insurance | Organic #26 | Pulse Score 63.3/100 (Unrated, #1 in city) | Hickman & Associates Insurance is an insurance agent in Indianapolis, IN at 1455 East Southport Road #D, Indianapolis, IN 46227. Phone: +13177887390. Website: https://hickmaninsuranceonline.com/. | https://registry-edge.dingalinged.workers.dev/c/hickman-and-associates-insurance-indianapolis/
-27. Jeremy Normand - State Farm Insurance Agent | Organic #27 | Pulse Score 63.3/100 (Unrated, #1 in city) | Jeremy Normand - State Farm Insurance Agent is an insurance agent in Arlington, TX at 3000 South Cooper Street, Arlington, TX 76015. Phone: +18174656292. Website: https://www.arlingtontxinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/jeremy-normand-state-farm-insurance-agent-arlington/
-28. Duet Insurance Group | Organic #28 | Pulse Score 63.2/100 (Good, #1 in city) | Duet Insurance Group is an insurance agent in Norridge, IL at 7545 West Montrose Avenue, Norridge, IL 60706. Phone: +17736585737. | https://registry-edge.dingalinged.workers.dev/c/duet-insurance-group-norridge/
-29. Fusion Insurance | Organic #29 | Pulse Score 63.2/100 (Unrated, #1 in city) | Fusion Insurance is an insurance agent in Kansas City, KS at 151 South 18th Street, Kansas City, KS 66102. Phone: +19132040404. Website: https://www.fiagency.com/. | https://registry-edge.dingalinged.workers.dev/c/fusion-insurance-kansas-city/
-30. TIA- Texas Insurance Agency | Organic #30 | Pulse Score 63.2/100 (Unrated, #1 in city) | TIA- Texas Insurance Agency is an insurance agent in Harris County, TX at 13370 Woodforest Boulevard, Harris County, TX 77015. Phone: +12819475800. Website: https://gettia.com/texas-insurance-agency-1015/. | https://registry-edge.dingalinged.workers.dev/c/tia-texas-insurance-agency-harris-county/
-31. A-La Auto Insurance | Organic #31 | Pulse Score 63/100 (Good, #1 in city) | A-La Auto Insurance is an insurance agent in Lewisville, TX. Phone: +19724310838. Website: https://www.alaautoinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/a-la-auto-insurance-lewisville/
-32. Progressive Claims Office | Organic #32 | Pulse Score 63/100 (Unrated, #1 in city) | Progressive Claims Office is an insurance agent in West Chester Township, OH at 9050 Centre Pointe Drive, West Chester Township, OH 45069. Phone: +15138784230. Website: https://progressive.com/. | https://registry-edge.dingalinged.workers.dev/c/progressive-claims-office-west-chester-township/
-33. Kelley Potter- State Farm Insurance Agent | Organic #33 | Pulse Score 63/100 (Unrated, #2 in city) | Kelley Potter- State Farm Insurance Agent is an insurance agent in Zionsville, IN at 130 West Hawthorne Street, Zionsville, IN 46077. Phone: +13178732606. Website: https://www.kelleypotterinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/kelley-potter-state-farm-insurance-agent-zionsville/
-34. Shelter Insurance- Luke Mcginn | Organic #34 | Pulse Score 63/100 (Unrated, #1 in city) | Shelter Insurance- Luke Mcginn is an insurance agent in Urbandale, IA at 3969 100th Street, Urbandale, IA 50322. Phone: +15152700718. Website: https://www.shelterinsurance.com/CA/agent/LMCGINN. | https://registry-edge.dingalinged.workers.dev/c/shelter-insurance-luke-mcginn-urbandale/
-35. Texas Insurance Advisors | Organic #35 | Pulse Score 62.9/100 (Unrated, #1 in city) | Texas Insurance Advisors is an insurance agent in Irving, TX at 3585 North Belt Line Road, Irving, TX 75062. Phone: +19722561800. Website: https://mytexasagent.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-insurance-advisors-irving/
-36. United Insurance Agencies & Affordable Auto Insurance | Organic #36 | Pulse Score 62.9/100 (Unrated, #1 in city) | United Insurance Agencies & Affordable Auto Insurance is an insurance agent in Omaha, NE at 1055 North 115th Street #208, Omaha, NE 68154. Phone: +14024928020. Website: https://uiagencies.com/. | https://registry-edge.dingalinged.workers.dev/c/united-insurance-agencies-and-affordable-auto-insurance-omaha/
-37. Fazio Insurance | Organic #37 | Pulse Score 62.9/100 (Unrated, #1 in city) | Fazio Insurance is an insurance agent in Joliet, IL at 550 Ruby Street, Joliet, IL 60435. Phone: +18157272611. Website: https://fazioins.com/. | https://registry-edge.dingalinged.workers.dev/c/fazio-insurance-joliet/
-38. Allstate Insurance Agency - The Sarimento Agency | Organic #38 | Pulse Score 62.8/100 (Good, #1 in city) | Allstate Insurance Agency - The Sarimento Agency is an insurance agent in Cobb County, GA at 3750 Palladian Village Drive #330, Cobb County, GA. Phone: +17708818545. Website: https://agents.allstate.com/the-sarmiento-agency-marietta-ga.html. | https://registry-edge.dingalinged.workers.dev/c/allstate-insurance-agency-the-sarimento-agency-cobb-county/
-39. State Farm Insurance Agent - Tonia Kiser | Organic #39 | Pulse Score 62.8/100 (Good, #2 in city) | State Farm Insurance Agent - Tonia Kiser is an insurance agent in Cobb County, GA at 3759 Palladian Village Drive #510, Cobb County, GA. Phone: +16784949903. Website: https://www.statefarm.com/agent/us/ga/marietta/tonia-kiser-bnbc91ys000. | https://registry-edge.dingalinged.workers.dev/c/state-farm-insurance-agent-tonia-kiser-cobb-county/
-40. John Ren Insurance Agency | Organic #40 | Pulse Score 62.8/100 (Unrated, #1 in city) | John Ren Insurance Agency is an insurance agent in Dublin, OH at 6457 Reflections Drive ##270, Dublin, OH 43017. Phone: +16149237783. Website: https://johnren123.com/. | https://registry-edge.dingalinged.workers.dev/c/john-ren-insurance-agency-dublin/
-41. AABCO National Insurance Agency | Organic #41 | Pulse Score 62.8/100 (Unrated, #1 in city) | AABCO National Insurance Agency is an insurance agent in Arnold, MO at 465 Jeffco Boulevard, Arnold, MO 63010. Phone: +16362822500. | https://registry-edge.dingalinged.workers.dev/c/aabco-national-insurance-agency-arnold/
-42. A to Z Insurance LLC | Organic #42 | Pulse Score 62.8/100 (Unrated, #1 in city) | A to Z Insurance LLC is an insurance agent in Aurora, CO at 10351 East Jewell Avenue, Aurora, CO 80247. Phone: +13033374600. Website: https://www.atozinsure.com/. | https://registry-edge.dingalinged.workers.dev/c/a-to-z-insurance-llc-aurora/
-43. Konovalov & Associates Public Adjusting Services, LLC | Organic #43 | Pulse Score 62.8/100 (Unrated, #2 in city) | Konovalov & Associates Public Adjusting Services, LLC is an insurance agent in Denver, CO at 2121 South Oneida Street, Denver, CO 80224. Phone: +17205606097. Website: https://kapublicadjusting.com/. | https://registry-edge.dingalinged.workers.dev/c/konovalov-and-associates-public-adjusting-services-llc-denver/
-44. Northland Independent Insurance Group | Organic #44 | Pulse Score 62.8/100 (Unrated, #2 in city) | Northland Independent Insurance Group is an insurance agent in Kansas City, MO at 10525 N Ambassador Dr, Kansas City, MO 64153. Phone: +18165871826. Website: https://northlandindependentgroup.com/. | https://registry-edge.dingalinged.workers.dev/c/northland-independent-insurance-group-kansas-city/
-45. New York Life Insurance Company | Organic #45 | Pulse Score 62.7/100 (Unrated, #1 in city) | New York Life Insurance Company is an insurance agent in Ankeny, IA at 1615 Southwest Main Street #201, Ankeny, IA. Phone: +15154531300. Website: https://desmoines.nyloffices.com/. | https://registry-edge.dingalinged.workers.dev/c/new-york-life-insurance-company-ankeny/
-46. Reagan Insurance Agency | Organic #46 | Pulse Score 62.7/100 (Unrated, #1 in city) | Reagan Insurance Agency is an insurance agent in Sterling Heights, MI at 14426 15 Mile Road, Sterling Heights, MI 48312. Phone: +15868385656. Website: https://www.reaganinsuranceagency.com/. | https://registry-edge.dingalinged.workers.dev/c/reagan-insurance-agency-sterling-heights/
-47. Doubleday Insurance Agency | Organic #47 | Pulse Score 62.7/100 (Unrated, #2 in city) | Doubleday Insurance Agency is an insurance agent in Ankeny, IA at 110 Southeast Grant Street #203, Ankeny, IA 50021. Phone: +15159640637. Website: https://doubledayinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/doubleday-insurance-agency-ankeny/
-48. Ryan Barclay Insurance | Organic #48 | Pulse Score 62.7/100 (Unrated, #2 in city) | Ryan Barclay Insurance is an insurance agent in Greenwood, IN at 50 Airport Parkway #Q, Greenwood, IN 46143. Phone: +13172150060. Website: https://www.barclaysf.com/. | https://registry-edge.dingalinged.workers.dev/c/ryan-barclay-insurance-greenwood/
-49. Action Insurance Services | Organic #49 | Pulse Score 62.6/100 (Unrated, #1 in city) | Action Insurance Services is an insurance agent in Utica, MI at 7659 Auburn Road, Utica, MI 48317. Phone: +15867399080. Website: https://www.actionin.com/. | https://registry-edge.dingalinged.workers.dev/c/action-insurance-services-utica/
-50. The Salvati Insurance Group | Organic #50 | Pulse Score 62.6/100 (Unrated, #2 in city) | The Salvati Insurance Group is an insurance agent in Sterling Heights, MI at 42370 Van Dyke Avenue #Suite 711, Sterling Heights, MI 48314. Phone: +12487201130. Website: https://www.salvati-insurance.com/. | https://registry-edge.dingalinged.workers.dev/c/the-salvati-insurance-group-sterling-heights/
+1. Farmer's Insurance - Perry Sanford | Organic #1 | Pulse Score 65.2/100 (Good, #1 in city) | Farmer's Insurance - Perry Sanford is an insurance agent in Cedar Park, TX at 1001 Cypress Creek Road #301, Cedar Park, TX 78613. Phone: +15124028048. Website: https://agents.farmers.com/tx/cedar-park/perry-sanford. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-perry-sanford-cedar-park/
+2. Safe Beacon Insurance | Organic #2 | Pulse Score 65/100 (Good, #1 in city) | Safe Beacon Insurance is an insurance agent in Round Rock, TX at 3309 Forest Creek Drive #401, Round Rock, TX 78664. Phone: +15125351918. Website: https://www.safebeaconinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/safe-beacon-insurance-round-rock/
+3. The Sterling Insurance Group | Organic #3 | Pulse Score 64.9/100 (Good, #1 in city) | The Sterling Insurance Group is an insurance agent in Plano, TX at 3415 Custer Rd #Suite 104, Plano, TX 75023. Phone: +19729644825. Website: https://sterlinginsnow.com/. | https://registry-edge.dingalinged.workers.dev/c/the-sterling-insurance-group-plano/
+4. Farmer Brown | Organic #4 | Pulse Score 64.7/100 (Good, #1 in city) | Farmer Brown is an insurance agent in San Antonio, TX at 21750 Hardy Oak Boulevard #Suite 104 #58548, San Antonio, TX 78258. Phone: +18889730016. Website: https://farmerbrown.com/. | https://registry-edge.dingalinged.workers.dev/c/farmer-brown-san-antonio/
+5. Insurish | Organic #5 | Pulse Score 64.5/100 (Good, #1 in city) | Insurish is an insurance agent in Northville, MI at 133 West Main Street #Suite 160, Northville, MI 48167. Phone: +12484584357. Website: https://www.insurish.com/. | https://registry-edge.dingalinged.workers.dev/c/insurish-northville/
+6. Absolute Insurance Group Inc | Organic #6 | Pulse Score 64.2/100 (Unrated, #1 in city) | Absolute Insurance Group Inc is an insurance agent in Olathe, KS at 14106 West 135th Street, Olathe, KS 66062. Phone: +19138512886. Website: https://www.absoluteinsgroup.com/. | https://registry-edge.dingalinged.workers.dev/c/absolute-insurance-group-inc-olathe/
+7. Gerald L Lukton Co | Organic #7 | Pulse Score 64.2/100 (Unrated, #1 in city) | Gerald L Lukton Co is an insurance agent in Greenwood Village, CO at 5600 Greenwood Plaza Blvd, #325, Greenwood Village, CO 80111. Phone: +13036912415. Website: https://luktoncompany.com/. | https://registry-edge.dingalinged.workers.dev/c/gerald-l-lukton-co-greenwood-village/
+8. Total Insurance | Organic #8 | Pulse Score 64.1/100 (Good, #1 in city) | Total Insurance is an insurance agent in Cherokee County, GA at 5554 Bells Ferry Road, Cherokee County, GA. Phone: +17706272123. Website: https://www.totalinsuranceusa.com/. | https://registry-edge.dingalinged.workers.dev/c/total-insurance-cherokee-county/
+9. Covered Insurance | Organic #9 | Pulse Score 64.1/100 (Unrated, #1 in city) | Covered Insurance is an insurance agent in Denver, CO at 1391 Speer Boulevard #850, Denver, CO 80204. Phone: +18334872683. Website: https://itscovered.com/. | https://registry-edge.dingalinged.workers.dev/c/covered-insurance-denver/
+10. Texas American Insurers | Organic #10 | Pulse Score 64.1/100 (Unrated, #1 in city) | Texas American Insurers is an insurance agent in Hurst, TX at 669 Airport Freeway #302, Hurst, TX 76053. Phone: +18178773101. Website: https://txam.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-american-insurers-hurst/
+11. Lane Galloway - State Farm Insurance Agent | Organic #11 | Pulse Score 64/100 (Unrated, #1 in city) | Lane Galloway - State Farm Insurance Agent is an insurance agent in Conroe, TX at 206 South Loop 336 West #F, Conroe, TX 77304. Phone: +19365391865. Website: https://www.lanegalloway.com/. | https://registry-edge.dingalinged.workers.dev/c/lane-galloway-state-farm-insurance-agent-conroe/
+12. Odis Mack: Allstate Insurance | Organic #12 | Pulse Score 64/100 (Unrated, #1 in city) | Odis Mack: Allstate Insurance is an insurance agent in Houston, TX at 7171 Hwy 6 N, #105, Houston, TX 77095. Phone: +13462058543. Website: https://agents.allstate.com/odis-mack-houston-tx.html. | https://registry-edge.dingalinged.workers.dev/c/odis-mack-allstate-insurance-houston/
+13. GBG Insurance Agency | Organic #13 | Pulse Score 63.9/100 (Good, #1 in city) | GBG Insurance Agency is an insurance agent in Milwaukee, WI at 1930 North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212. Phone: +14142641400. Website: https://www.gbginsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/gbg-insurance-agency-milwaukee/
+14. Conner Insurance Group | Organic #14 | Pulse Score 63.9/100 (Unrated, #1 in city) | Conner Insurance Group is an insurance agent in Farmington Hills, MI at 31600 West 13 Mile Road #130, Farmington Hills, MI 48334. Phone: +12484279400. Website: https://connerinsgrp.com/. | https://registry-edge.dingalinged.workers.dev/c/conner-insurance-group-farmington-hills/
+15. My Insurance Store | Organic #15 | Pulse Score 63.8/100 (Good, #1 in city) | My Insurance Store is an insurance agent in Cleburne, TX at 1609 North Main Street, Cleburne, TX 76033. Phone: +18177740488. Website: https://www.myinsurancestore.com/. | https://registry-edge.dingalinged.workers.dev/c/my-insurance-store-cleburne/
+16. Garrett Wietholter - State Farm Insurance Agent | Organic #16 | Pulse Score 63.8/100 (Unrated, #1 in city) | Garrett Wietholter - State Farm Insurance Agent is an insurance agent in Zionsville, IN at 11145 North Michigan Road ##100, Zionsville, IN 46077. Phone: +13178733230. Website: https://garrettwietholter.com/. | https://registry-edge.dingalinged.workers.dev/c/garrett-wietholter-state-farm-insurance-agent-zionsville/
+17. Neptune Insurance Agency | Organic #17 | Pulse Score 63.8/100 (Unrated, #1 in city) | Neptune Insurance Agency is an insurance agent in Beaumont, TX at 2678 Calder Avenue, Beaumont, TX 77702. Phone: +14098355900. Website: https://neptuneinsagency.com/. | https://registry-edge.dingalinged.workers.dev/c/neptune-insurance-agency-beaumont/
+18. Lubbock Insurance Agency | Organic #18 | Pulse Score 63.8/100 (Unrated, #1 in city) | Lubbock Insurance Agency is an insurance agent in Lubbock, TX at 7021 Kewaunee Avenue #Bldg 5, Ste 103, Lubbock, TX 79424. Phone: +18064450222. Website: https://lubbockinsuranceagency.com/. | https://registry-edge.dingalinged.workers.dev/c/lubbock-insurance-agency-lubbock/
+19. Georgia Health Insurance Marketplace | Organic #19 | Pulse Score 63.7/100 (Good, #1 in city) | Georgia Health Insurance Marketplace is an insurance agent in Atlanta, GA at 1100 Peachtree Street Northeast #200, Atlanta, GA 30309. Phone: +14049753313. Website: https://georgiahealthinsurancemarketplace.com/. | https://registry-edge.dingalinged.workers.dev/c/georgia-health-insurance-marketplace-atlanta/
+20. Caleb Kesler: Allstate Insurance | Organic #20 | Pulse Score 63.7/100 (Unrated, #1 in city) | Caleb Kesler: Allstate Insurance is an insurance agent in Texarkana, TX at 515 Main St, Texarkana, TX 75501. Phone: +19038313866. Website: https://agents.allstate.com/caleb-kesler-texarkana-tx.html. | https://registry-edge.dingalinged.workers.dev/c/caleb-kesler-allstate-insurance-texarkana/
+21. Family First Insurance Group | Organic #21 | Pulse Score 63.7/100 (Unrated, #1 in city) | Family First Insurance Group is an insurance agent in Centerburg, OH at 28 East Main Street, Centerburg, OH 43011. Phone: +17407123344. Website: https://familyfirstig.com/. | https://registry-edge.dingalinged.workers.dev/c/family-first-insurance-group-centerburg/
+22. Knippa-Buchhorn Insurance Agency | Organic #22 | Pulse Score 63.6/100 (Good, #1 in city) | Knippa-Buchhorn Insurance Agency is an insurance agent in Georgetown, TX at 4726 FM 1105, Georgetown, TX 78626. Phone: +15128632329. Website: https://www.kbagents.com/. | https://registry-edge.dingalinged.workers.dev/c/knippa-buchhorn-insurance-agency-georgetown/
+23. Talley Benefits Insurance Group, LLC | Organic #23 | Pulse Score 63.6/100 (Good, #1 in city) | Talley Benefits Insurance Group, LLC is an insurance agent in Floresville, TX at 1033 C Street, Floresville, TX 78114. Phone: +18303934102. Website: https://www.talleybenefits.com/. | https://registry-edge.dingalinged.workers.dev/c/talley-benefits-insurance-group-llc-floresville/
+24. A Public Adjuster Group LLC | Organic #24 | Pulse Score 63.6/100 (Unrated, #1 in city) | A Public Adjuster Group LLC is an insurance agent in Pearland, TX at 2808 Morenci, Pearland, TX 77581. Phone: +17135229463. Website: https://statepublicadjuster.com/. | https://registry-edge.dingalinged.workers.dev/c/a-public-adjuster-group-llc-pearland/
+25. Cincinnatus Insurance LLC | Organic #25 | Pulse Score 63.6/100 (Unrated, #1 in city) | Cincinnatus Insurance LLC is an insurance agent in Cincinnati, OH at 4790 Red Bank Road;Red Bank Expressway #207, Cincinnati, OH 45227. Phone: +15135873553. Website: https://www.cincinnatusinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/cincinnatus-insurance-llc-cincinnati/
+26. Fidelity National Title | Organic #26 | Pulse Score 63.5/100 (Unrated, #1 in city) | Fidelity National Title is an insurance agent in McKinney, TX at 3100 Ridge Road #100, McKinney, TX 75070. Phone: +14694081460. Website: https://texas.fntic.com/Offices/Dallas. | https://registry-edge.dingalinged.workers.dev/c/fidelity-national-title-mckinney/
+27. Hurl & Hurl Insurance Agency | Organic #27 | Pulse Score 63.5/100 (Unrated, #1 in city) | Hurl & Hurl Insurance Agency is an insurance agent in Lakewood, CO at 1650 South Deframe Street, Lakewood, CO 80228. Phone: +17207572934. Website: https://davidhurl.net/. | https://registry-edge.dingalinged.workers.dev/c/hurl-and-hurl-insurance-agency-lakewood/
+28. Chanda Gatton Agency | Organic #28 | Pulse Score 63.4/100 (Unrated, #1 in city) | Chanda Gatton Agency is an insurance agent in Greenwood, IN at 360 South Madison Avenue ##109, Greenwood, IN 46142. Phone: +13178845055. Website: https://www.voldico.com/find-an-agent/chanda-gatton-agency. | https://registry-edge.dingalinged.workers.dev/c/chanda-gatton-agency-greenwood/
+29. Compass Insurance Agency | Organic #29 | Pulse Score 63.4/100 (Unrated, #1 in city) | Compass Insurance Agency is an insurance agent in Schaumburg, IL at 2401 West Schaumburg Road #201, Schaumburg, IL 60194. Phone: +18479083301. Website: https://www.compassinsuranceschaumburg.com/. | https://registry-edge.dingalinged.workers.dev/c/compass-insurance-agency-schaumburg/
+30. Mischel Pendleton: Allstate Insurance | Organic #30 | Pulse Score 63.4/100 (Unrated, #1 in city) | Mischel Pendleton: Allstate Insurance is an insurance agent in McDonough, GA at 393 Keys Ferry St, McDonough, GA 30253. Phone: +17709543360. Website: https://agents.allstate.com/mischel-pendleton-mcdonough-ga.html. | https://registry-edge.dingalinged.workers.dev/c/mischel-pendleton-allstate-insurance-mcdonough/
+31. Everly Life | Organic #31 | Pulse Score 63.3/100 (Good, #1 in city) | Everly Life is an insurance agent in Topeka, KS at 1 SW Security Benefit Place, Topeka, KS 66636. Phone: +18552900529. Website: https://www.everlylife.com/. | https://registry-edge.dingalinged.workers.dev/c/everly-life-topeka/
+32. AIMC | Organic #32 | Pulse Score 63.3/100 (Good, #1 in city) | AIMC is an insurance agent in Woodstock, GA at 220 Cinema View, Woodstock, GA. Phone: +18003210102. Website: https://aimc.net/. | https://registry-edge.dingalinged.workers.dev/c/aimc-woodstock/
+33. Insura Insurance Agency | Organic #33 | Pulse Score 63.3/100 (Unrated, #1 in city) | Insura Insurance Agency is an insurance agent in Reynoldsburg, OH at 6501 Livingston Avenue #3A, Reynoldsburg, OH 43068. Phone: +16145004147. Website: https://insura4you.com/. | https://registry-edge.dingalinged.workers.dev/c/insura-insurance-agency-reynoldsburg/
+34. Hickman & Associates Insurance | Organic #34 | Pulse Score 63.3/100 (Unrated, #1 in city) | Hickman & Associates Insurance is an insurance agent in Indianapolis, IN at 1455 East Southport Road #D, Indianapolis, IN 46227. Phone: +13177887390. Website: https://hickmaninsuranceonline.com/. | https://registry-edge.dingalinged.workers.dev/c/hickman-and-associates-insurance-indianapolis/
+35. Duet Insurance Group | Organic #35 | Pulse Score 63.2/100 (Good, #1 in city) | Duet Insurance Group is an insurance agent in Norridge, IL at 7545 West Montrose Avenue, Norridge, IL 60706. Phone: +17736585737. | https://registry-edge.dingalinged.workers.dev/c/duet-insurance-group-norridge/
+36. Fusion Insurance | Organic #36 | Pulse Score 63.2/100 (Unrated, #1 in city) | Fusion Insurance is an insurance agent in Kansas City, KS at 151 South 18th Street, Kansas City, KS 66102. Phone: +19132040404. Website: https://www.fiagency.com/. | https://registry-edge.dingalinged.workers.dev/c/fusion-insurance-kansas-city/
+37. AIM Association Insurance Management | Organic #37 | Pulse Score 63.2/100 (Unrated, #1 in city) | AIM Association Insurance Management is an insurance agent in Dallas, TX at 12221 Merit Drive #1670, Dallas, TX 75251. Phone: +12143600801. Website: https://aim-companies.com/. | https://registry-edge.dingalinged.workers.dev/c/aim-association-insurance-management-dallas/
+38. Jeremy Normand - State Farm Insurance Agent | Organic #38 | Pulse Score 63.2/100 (Unrated, #1 in city) | Jeremy Normand - State Farm Insurance Agent is an insurance agent in Arlington, TX at 3000 South Cooper Street, Arlington, TX 76015. Phone: +18174656292. Website: https://www.arlingtontxinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/jeremy-normand-state-farm-insurance-agent-arlington/
+39. TIA- Texas Insurance Agency | Organic #39 | Pulse Score 63.2/100 (Unrated, #1 in city) | TIA- Texas Insurance Agency is an insurance agent in Harris County, TX at 13370 Woodforest Boulevard, Harris County, TX 77015. Phone: +12819475800. Website: https://gettia.com/texas-insurance-agency-1015/. | https://registry-edge.dingalinged.workers.dev/c/tia-texas-insurance-agency-harris-county/
+40. Progressive Claims Office | Organic #40 | Pulse Score 63/100 (Unrated, #1 in city) | Progressive Claims Office is an insurance agent in West Chester Township, OH at 9050 Centre Pointe Drive, West Chester Township, OH 45069. Phone: +15138784230. Website: https://progressive.com/. | https://registry-edge.dingalinged.workers.dev/c/progressive-claims-office-west-chester-township/
+41. Kelley Potter- State Farm Insurance Agent | Organic #41 | Pulse Score 63/100 (Unrated, #2 in city) | Kelley Potter- State Farm Insurance Agent is an insurance agent in Zionsville, IN at 130 West Hawthorne Street, Zionsville, IN 46077. Phone: +13178732606. Website: https://www.kelleypotterinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/kelley-potter-state-farm-insurance-agent-zionsville/
+42. Cover Mile | Organic #42 | Pulse Score 63/100 (Unrated, #1 in city) | Cover Mile is an insurance agent in Austin, TX at 1700 South Lamar Boulevard #Suite 338, Austin, TX 78704. Phone: +15126198776. Website: https://www.covermile.com/. | https://registry-edge.dingalinged.workers.dev/c/cover-mile-austin/
+43. Shelter Insurance- Luke Mcginn | Organic #43 | Pulse Score 63/100 (Unrated, #1 in city) | Shelter Insurance- Luke Mcginn is an insurance agent in Urbandale, IA at 3969 100th Street, Urbandale, IA 50322. Phone: +15152700718. Website: https://www.shelterinsurance.com/CA/agent/LMCGINN. | https://registry-edge.dingalinged.workers.dev/c/shelter-insurance-luke-mcginn-urbandale/
+44. Fazio Insurance | Organic #44 | Pulse Score 62.9/100 (Unrated, #1 in city) | Fazio Insurance is an insurance agent in Joliet, IL at 550 Ruby Street, Joliet, IL 60435. Phone: +18157272611. Website: https://fazioins.com/. | https://registry-edge.dingalinged.workers.dev/c/fazio-insurance-joliet/
+45. Allstate Insurance Agency - The Sarimento Agency | Organic #45 | Pulse Score 62.8/100 (Good, #1 in city) | Allstate Insurance Agency - The Sarimento Agency is an insurance agent in Cobb County, GA at 3750 Palladian Village Drive #330, Cobb County, GA. Phone: +17708818545. Website: https://agents.allstate.com/the-sarmiento-agency-marietta-ga.html. | https://registry-edge.dingalinged.workers.dev/c/allstate-insurance-agency-the-sarimento-agency-cobb-county/
+46. State Farm Insurance Agent - Tonia Kiser | Organic #46 | Pulse Score 62.8/100 (Good, #2 in city) | State Farm Insurance Agent - Tonia Kiser is an insurance agent in Cobb County, GA at 3759 Palladian Village Drive #510, Cobb County, GA. Phone: +16784949903. Website: https://www.statefarm.com/agent/us/ga/marietta/tonia-kiser-bnbc91ys000. | https://registry-edge.dingalinged.workers.dev/c/state-farm-insurance-agent-tonia-kiser-cobb-county/
+47. United Insurance Agencies & Affordable Auto Insurance | Organic #47 | Pulse Score 62.8/100 (Unrated, #1 in city) | United Insurance Agencies & Affordable Auto Insurance is an insurance agent in Omaha, NE at 1055 North 115th Street #208, Omaha, NE 68154. Phone: +14024928020. Website: https://uiagencies.com/. | https://registry-edge.dingalinged.workers.dev/c/united-insurance-agencies-and-affordable-auto-insurance-omaha/
+48. AABCO National Insurance Agency | Organic #48 | Pulse Score 62.8/100 (Unrated, #1 in city) | AABCO National Insurance Agency is an insurance agent in Arnold, MO at 465 Jeffco Boulevard, Arnold, MO 63010. Phone: +16362822500. | https://registry-edge.dingalinged.workers.dev/c/aabco-national-insurance-agency-arnold/
+49. A to Z Insurance LLC | Organic #49 | Pulse Score 62.8/100 (Unrated, #1 in city) | A to Z Insurance LLC is an insurance agent in Aurora, CO at 10351 East Jewell Avenue, Aurora, CO 80247. Phone: +13033374600. Website: https://www.atozinsure.com/. | https://registry-edge.dingalinged.workers.dev/c/a-to-z-insurance-llc-aurora/
+50. Konovalov & Associates Public Adjusting Services, LLC | Organic #50 | Pulse Score 62.8/100 (Unrated, #2 in city) | Konovalov & Associates Public Adjusting Services, LLC is an insurance agent in Denver, CO at 2121 South Oneida Street, Denver, CO 80224. Phone: +17205606097. Website: https://kapublicadjusting.com/. | https://registry-edge.dingalinged.workers.dev/c/konovalov-and-associates-public-adjusting-services-llc-denver/
 
-## More insurance agency listings (2292 total; top 50 unpaid shown)
-- Houston, TX: 112 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-houston-tx/
+## More insurance agency listings (3018 total; top 50 unpaid shown)
+- Houston, TX: 114 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-houston-tx/
 - Chicago, IL: 108 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-chicago-il/
-- Dallas, TX: 47 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-dallas-tx/
-- Harris County, TX: 36 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-harris-county-tx/
+- San Antonio, TX: 73 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-san-antonio-tx/
+- Lubbock, TX: 58 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lubbock-tx/
+- Dallas, TX: 53 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-dallas-tx/
+- Amarillo, TX: 46 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-amarillo-tx/
+- Harris County, TX: 42 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-harris-county-tx/
+- Austin, TX: 35 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-austin-tx/
 - Aurora, CO: 33 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-aurora-co/
 - Kansas City, MO: 31 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-kansas-city-mo/
+- Fort Worth, TX: 29 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fort-worth-tx/
 - Indianapolis, IN: 29 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-indianapolis-in/
 - Springfield, MO: 25 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-springfield-mo/
+- El Paso, TX: 23 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-el-paso-tx/
 - Columbus, OH: 23 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-columbus-oh/
 - Milwaukee, WI: 23 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-milwaukee-wi/
+- Georgetown, TX: 21 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-georgetown-tx/
+- Beaumont, TX: 21 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-beaumont-tx/
 - Parker, CO: 21 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-parker-co/
 - Cobb County, GA: 21 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-cobb-county-ga/
 - Omaha, NE: 21 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-omaha-ne/
@@ -80,31 +88,42 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Boulder, CO: 17 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-boulder-co/
 - Gwinnett County, GA: 17 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-gwinnett-county-ga/
 - Saint Paul, MN: 17 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-saint-paul-mn/
+- Russellville, AR: 16 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-russellville-ar/
+- Cleburne, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-cleburne-tx/
 - Ross Township, PA: 15 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-ross-township-pa/
-- Carmel, IN: 14 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-carmel-in/
 - Rockwall, TX: 14 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-rockwall-tx/
+- Carmel, IN: 14 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-carmel-in/
 - Centennial, CO: 14 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-centennial-co/
 - Atlanta, GA: 14 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-atlanta-ga/
 - Madison, WI: 14 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-madison-wi/
+- Arlington, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-arlington-tx/
 - Detroit, MI: 13 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-detroit-mi/
 - Naperville, IL: 13 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-naperville-il/
 - Minneapolis, MN: 13 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-minneapolis-mn/
 - Denton, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-denton-tx/
 - Mesquite, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-mesquite-tx/
+- Bastrop, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bastrop-tx/
 - Wyandotte, MI: 12 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-wyandotte-mi/
 - Topeka, KS: 12 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-topeka-ks/
 - Wichita, KS: 12 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-wichita-ks/
-- Arlington, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-arlington-tx/
+- Longview, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-longview-tx/
+- Texarkana, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-texarkana-tx/
+- Leander, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-leander-tx/
 - Longmont, CO: 11 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-longmont-co/
 - Shawnee, KS: 11 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-shawnee-ks/
 - Olathe, KS: 11 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-olathe-ks/
 - Hutchinson, KS: 11 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hutchinson-ks/
 - Des Moines, IA: 11 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-des-moines-ia/
+- Fayetteville, AR: 11 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fayetteville-ar/
+- Little Rock, AR: 11 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-little-rock-ar/
+- Round Rock, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-round-rock-tx/
 - Richardson, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-richardson-tx/
+- Wichita Falls, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-wichita-falls-tx/
 - Marietta, GA: 10 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-marietta-ga/
 - Southgate, MI: 10 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-southgate-mi/
 - Greenfield, WI: 10 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-greenfield-wi/
 - Kansas City, KS: 10 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-kansas-city-ks/
+- Lufkin, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lufkin-tx/
 - Smyrna, GA: 9 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-smyrna-ga/
 - Roswell, GA: 9 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-roswell-ga/
 - Columbia, MO: 9 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-columbia-mo/
@@ -113,7 +132,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Racine, WI: 9 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-racine-wi/
 - Wauwatosa, WI: 9 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-wauwatosa-wi/
 - Manhattan, KS: 9 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-manhattan-ks/
+- Rogers, AR: 9 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-rogers-ar/
+- Garland, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-garland-tx/
+- Irving, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-irving-tx/
+- Odessa, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-odessa-tx/
+- Humble, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-humble-tx/
 - Flower Mound, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-flower-mound-tx/
+- Corpus Christi, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-corpus-christi-tx/
 - Jefferson County, CO: 8 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-jefferson-county-co/
 - Lakewood, CO: 8 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lakewood-co/
 - Mccandless, PA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-mccandless-pa/
@@ -125,7 +150,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Loveland, OH: 8 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-loveland-oh/
 - Mount Pleasant, WI: 8 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-mount-pleasant-wi/
 - West Des Moines, IA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-west-des-moines-ia/
-- Humble, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-humble-tx/
+- Fort Smith, AR: 8 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fort-smith-ar/
+- Corsicana, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-corsicana-tx/
+- New Braunfels, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-new-braunfels-tx/
 - Bethel Park, PA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bethel-park-pa/
 - Woodstock, GA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-woodstock-ga/
 - Saint Peters, MO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-saint-peters-mo/
@@ -133,8 +160,18 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Dearborn, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-dearborn-mi/
 - Riverview, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-riverview-mi/
 - Bethalto, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bethalto-il/
+- Conway, AR: 7 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-conway-ar/
+- Carrollton, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-carrollton-tx/
+- Burleson, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-burleson-tx/
+- Tyler, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-tyler-tx/
+- San Marcos, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-san-marcos-tx/
+- Kerrville, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-kerrville-tx/
+- Bedford, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bedford-tx/
+- Benbrook, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-benbrook-tx/
+- Conroe, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-conroe-tx/
 - The Woodlands, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-the-woodlands-tx/
 - Waxahachie, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-waxahachie-tx/
+- Angleton, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-angleton-tx/
 - Englewood, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-englewood-co/
 - Washington, PA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-washington-pa/
 - Clayton County, GA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-clayton-county-ga/
@@ -142,13 +179,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - La Grange, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-la-grange-il/
 - Brookfield, WI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-brookfield-wi/
 - Waunakee, WI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-waunakee-wi/
-- Garland, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-garland-tx/
 - Addison, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-addison-tx/
-- Bedford, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bedford-tx/
-- Conroe, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-conroe-tx/
 - Desoto, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-desoto-tx/
-- Carrollton, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-carrollton-tx/
-- Irving, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-irving-tx/
+- Montgomery County, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-montgomery-county-tx/
+- San Angelo, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-san-angelo-tx/
+- Harlingen, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-harlingen-tx/
 - Castle Rock, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-castle-rock-co/
 - Morrow, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-morrow-ga/
 - Forest Park, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-forest-park-ga/
@@ -168,15 +203,26 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Evansville, WI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-evansville-wi/
 - Union Grove, WI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-union-grove-wi/
 - Clive, IA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-clive-ia/
-- Greenwood, IN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-greenwood-in/
+- Duncanville, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-duncanville-tx/
 - Frisco, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-frisco-tx/
-- Montgomery County, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-montgomery-county-tx/
+- Midland, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-midland-tx/
 - Euless, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-euless-tx/
+- Eagle Pass, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-eagle-pass-tx/
+- Waco, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-waco-tx/
+- Pasadena, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-pasadena-tx/
+- Abilene, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-abilene-tx/
+- Weatherford, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-weatherford-tx/
+- College Station, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-college-station-tx/
 - Coppell, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-coppell-tx/
+- Haltom City, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-haltom-city-tx/
+- Port Arthur, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-port-arthur-tx/
+- Sherman, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-sherman-tx/
 - Tomball, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-tomball-tx/
 - Lancaster, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lancaster-tx/
 - Sugar Land, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-sugar-land-tx/
+- Lockhart, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lockhart-tx/
 - Fort Bend County, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fort-bend-county-tx/
+- Greenwood, IN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-greenwood-in/
 - Pleasant Hills, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-pleasant-hills-pa/
 - Rostraver Township, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-rostraver-township-pa/
 - Monongahela, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-monongahela-pa/
@@ -212,21 +258,30 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Leavenworth, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-leavenworth-ks/
 - Lenexa, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lenexa-ks/
 - Urbandale, IA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-urbandale-ia/
-- Plainfield, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-plainfield-in/
-- Zionsville, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-zionsville-in/
+- Cabot, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-cabot-ar/
 - Pearland, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-pearland-tx/
-- Duncanville, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-duncanville-tx/
+- Nederland, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-nederland-tx/
 - Magnolia, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-magnolia-tx/
+- Cedar Park, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-cedar-park-tx/
+- Denison, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-denison-tx/
+- Edinburg, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-edinburg-tx/
 - Forney, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-forney-tx/
+- Greenville, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-greenville-tx/
+- Laredo, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-laredo-tx/
 - Mansfield, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-mansfield-tx/
 - North Richland Hills, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-north-richland-hills-tx/
 - Cedar Hill, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-cedar-hill-tx/
-- Pasadena, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-pasadena-tx/
 - Royse City, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-royse-city-tx/
 - Hurst, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hurst-tx/
 - Sunnyvale, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-sunnyvale-tx/
+- Joshua, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-joshua-tx/
+- Temple, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-temple-tx/
 - Katy, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-katy-tx/
+- Floresville, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-floresville-tx/
+- Kyle, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-kyle-tx/
 - Kaufman, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-kaufman-tx/
+- Plainfield, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-plainfield-in/
+- Zionsville, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-zionsville-in/
 - Westminster, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-westminster-co/
 - Thornton, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-thornton-co/
 - Lafayette, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lafayette-co/
@@ -281,25 +336,44 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Lansing, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lansing-ks/
 - Overland Park, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-overland-park-ks/
 - Ankeny, IA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-ankeny-ia/
+- Paragould, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-paragould-ar/
+- North Little Rock, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-north-little-rock-ar/
+- Helotes, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-helotes-tx/
+- Hewitt, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hewitt-tx/
+- Friendswood, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-friendswood-tx/
+- Lakeway, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lakeway-tx/
+- Little Elm, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-little-elm-tx/
+- Paris, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-paris-tx/
+- Keller, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-keller-tx/
+- Trophy Club, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-trophy-club-tx/
+- Westlake, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-westlake-tx/
+- Brownsville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-brownsville-tx/
+- Elgin, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-elgin-tx/
+- Richmond, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-richmond-tx/
+- Liberty Hill, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-liberty-hill-tx/
+- Mcallen, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-mcallen-tx/
+- Southlake, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-southlake-tx/
+- Roanoke, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-roanoke-tx/
+- Boerne, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-boerne-tx/
+- Pflugerville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-pflugerville-tx/
+- Comal County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-comal-county-tx/
+- Sachse, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-sachse-tx/
+- Grapevine, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-grapevine-tx/
+- Mckinney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-mckinney-tx/
+- Huntsville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-huntsville-tx/
+- Wylie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-wylie-tx/
+- Farmers Branch, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-farmers-branch-tx/
+- Alamo Heights, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-alamo-heights-tx/
+- Los Fresnos, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-los-fresnos-tx/
+- Terrell, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-terrell-tx/
+- Belton, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-belton-tx/
+- La Porte, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-la-porte-tx/
 - Merrillville, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-merrillville-in/
 - Brownsburg, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-brownsburg-in/
 - Whiting, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-whiting-in/
 - Hammond, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hammond-in/
 - Gary, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-gary-in/
 - Pendleton, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-pendleton-in/
-- Friendswood, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-friendswood-tx/
-- Little Elm, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-little-elm-tx/
-- Trophy Club, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-trophy-club-tx/
-- Westlake, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-westlake-tx/
-- Richmond, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-richmond-tx/
-- Southlake, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-southlake-tx/
-- Roanoke, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-roanoke-tx/
-- Sachse, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-sachse-tx/
-- Grapevine, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-grapevine-tx/
-- Mckinney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-mckinney-tx/
-- Wylie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-wylie-tx/
-- Farmers Branch, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-farmers-branch-tx/
-- Terrell, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-terrell-tx/
 - Federal Heights, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-federal-heights-co/
 - Littleton, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-littleton-co/
 - Arapahoe County, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-arapahoe-county-co/
@@ -390,7 +464,75 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Waukee, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-waukee-ia/
 - Grimes, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-grimes-ia/
 - Indianola, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-indianola-ia/
+- Springdale, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-springdale-ar/
+- Benton, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-benton-ar/
+- Sherwood, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-sherwood-ar/
+- Hot Springs, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hot-springs-ar/
+- Lowell, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lowell-ar/
+- Siloam Springs, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-siloam-springs-ar/
+- Texarkana, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-texarkana-ar/
+- Jacksonville, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-jacksonville-ar/
+- Pine Bluff, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-pine-bluff-ar/
 - Papillion, NE: 2 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-papillion-ne/
+- Oak Ridge North, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-oak-ridge-north-tx/
+- Killeen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-killeen-tx/
+- Deer Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-deer-park-tx/
+- Hickory Creek, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hickory-creek-tx/
+- Shenandoah, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-shenandoah-tx/
+- Beverly Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-beverly-hills-tx/
+- Pharr, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-pharr-tx/
+- Alamo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-alamo-tx/
+- Crowley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-crowley-tx/
+- Prosper, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-prosper-tx/
+- Devine, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-devine-tx/
+- Hutto, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hutto-tx/
+- League City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-league-city-tx/
+- Nash, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-nash-tx/
+- Port Neches, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-port-neches-tx/
+- Pottsboro, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-pottsboro-tx/
+- Rosenberg, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-rosenberg-tx/
+- Hedwig Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hedwig-village-tx/
+- Lake Jackson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lake-jackson-tx/
+- Manor, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-manor-tx/
+- Mission, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-mission-tx/
+- Portland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-portland-tx/
+- Socorro, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-socorro-tx/
+- Spring Valley Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-spring-valley-village-tx/
+- Taylor, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-taylor-tx/
+- Hitchcock, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hitchcock-tx/
+- Fate, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fate-tx/
+- Seabrook, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-seabrook-tx/
+- Celina, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-celina-tx/
+- South Houston, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-south-houston-tx/
+- Balch Springs, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-balch-springs-tx/
+- Midlothian, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-midlothian-tx/
+- Grand Prairie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-grand-prairie-tx/
+- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-allen-tx/
+- Noonday, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-noonday-tx/
+- Castle Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-castle-hills-tx/
+- Baytown, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-baytown-tx/
+- Stafford, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-stafford-tx/
+- Texas City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-texas-city-tx/
+- Bryan, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bryan-tx/
+- Venus, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-venus-tx/
+- Brazoria County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-brazoria-county-tx/
+- Castroville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-castroville-tx/
+- Cibolo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-cibolo-tx/
+- Colleyville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-colleyville-tx/
+- Corinth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-corinth-tx/
+- Nacogdoches, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-nacogdoches-tx/
+- Missouri City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-missouri-city-tx/
+- Travis County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-travis-county-tx/
+- Universal City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-universal-city-tx/
+- West Lake Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-west-lake-hills-tx/
+- Wharton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-wharton-tx/
+- Farmersville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-farmersville-tx/
+- Seguin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-seguin-tx/
+- Bandera, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bandera-tx/
+- Liberty, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-liberty-tx/
+- Cleveland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-cleveland-tx/
+- Godley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-godley-tx/
+- Sealy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-sealy-tx/
 - Schererville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-schererville-in/
 - New Palestine, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-new-palestine-in/
 - Munster, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-munster-in/
@@ -405,36 +547,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Beech Grove, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-beech-grove-in/
 - Noblesville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-noblesville-in/
 - Anderson, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-anderson-in/
-- Oak Ridge North, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-oak-ridge-north-tx/
-- Hickory Creek, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hickory-creek-tx/
-- Keller, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-keller-tx/
-- Shenandoah, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-shenandoah-tx/
-- Prosper, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-prosper-tx/
-- League City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-league-city-tx/
-- Rosenberg, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-rosenberg-tx/
-- Hedwig Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hedwig-village-tx/
-- Spring Valley Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-spring-valley-village-tx/
-- Hitchcock, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hitchcock-tx/
-- Fate, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fate-tx/
-- Seabrook, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-seabrook-tx/
-- South Houston, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-south-houston-tx/
-- Balch Springs, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-balch-springs-tx/
-- Midlothian, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-midlothian-tx/
-- Grand Prairie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-grand-prairie-tx/
-- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-allen-tx/
-- Baytown, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-baytown-tx/
-- Stafford, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-stafford-tx/
-- Texas City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-texas-city-tx/
-- Venus, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-venus-tx/
-- Brazoria County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-brazoria-county-tx/
-- Colleyville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-colleyville-tx/
-- Corinth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-corinth-tx/
-- Missouri City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-missouri-city-tx/
-- Wharton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-wharton-tx/
-- Farmersville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-farmersville-tx/
-- Liberty, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-liberty-tx/
-- Cleveland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-cleveland-tx/
-- Sealy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-sealy-tx/
 - Wheat Ridge, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-wheat-ridge-co/
 - Commerce City, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-commerce-city-co/
 - Brighton, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-brighton-co/
@@ -657,6 +769,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Huxley, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-huxley-ia/
 - Altoona, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-altoona-ia/
 - Windsor Heights, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-windsor-heights-ia/
+- Jonesboro, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-jonesboro-ar/
+- Barling, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-barling-ar/
+- Gravette, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-gravette-ar/
+- Ward, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-ward-ar/
+- Bella Vista, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bella-vista-ar/
 - Fremont, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fremont-ne/
 - Papillion Second I Precinct, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-papillion-second-i-precinct-ne/
 - Bellevue, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bellevue-ne/
@@ -667,7 +784,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.39, median $3.39, high $6.02 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks]; Insurance Providers CPC 2024 (Semrush-based) $6.02 [https://www.digitalposition.com/resources/blog/ppc/2024-google-ads-cpc-benchmarks-insights-from-3-6m-keywords/])
 - Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2292
+- Registry businesses competing: 3018
 - Equivalent Google Ads cost per month: ~$26,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $500/month, spots 2-4 from $50/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -13,7 +13,7 @@ La Casa del Pan is a bakery in Milwaukee, WI at 1100 West Historic Mitchell Stre
 - Website: n/a
 - Email: lacasadelpan1100@gmail.com
 - Opening hours (OSM syntax): Mo-Su 06:00-20:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 33% of bakerys in Milwaukee, #7 of 17 bakerys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 31% of bakerys in Milwaukee, #6 of 17 bakerys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

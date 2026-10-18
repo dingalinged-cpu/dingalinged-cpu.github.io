@@ -13,7 +13,7 @@ HealthPartners Specialty Center 435 Building is a podiatrist in Saint Paul, MN a
 - Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/435-specialty-center/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62/100 — Good — top 50% of podiatrists in Minneapolis–St. Paul, #1 of 1 podiatrists in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 50% of podiatrists in Minneapolis–St. Paul, #1 of 1 podiatrists in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

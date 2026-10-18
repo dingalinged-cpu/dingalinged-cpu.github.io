@@ -19,6 +19,6 @@ Altar'd State is a gift shop in The Woodlands, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/altard-state-the-woodlands/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/altard-state-the-woodlands.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5235821740 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5235821740 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

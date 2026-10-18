@@ -6,7 +6,7 @@ Also answers: primary care physician in Overland Park, KS; primary care physicia
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Quivera Internal Medicine | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Quivera Internal Medicine is a family medicine practice in Overland Park, KS at 10601 Quivira Road #200, Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/quivera-internal-medicine-overland-park/
+1. Quivera Internal Medicine | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Quivera Internal Medicine is a family medicine practice in Overland Park, KS at 10601 Quivira Road #200, Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/quivera-internal-medicine-overland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician overland park ks | category: Health & medical | industry benchmark: Physicians & Surgeons

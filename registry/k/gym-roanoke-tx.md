@@ -6,8 +6,8 @@ Also answers: gym in Roanoke, TX; gym near me (Roanoke, TX); best gym Roanoke, T
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Roanoke Recreation Center | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Roanoke Recreation Center is a gym in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/roanoke-recreation-center-roanoke/
-2. Planet Fitness | Organic #2 | Pulse Score 41.9/100 (Building, #2 in city) | Planet Fitness is a gym in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-roanoke/
+1. Roanoke Recreation Center | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Roanoke Recreation Center is a gym in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/roanoke-recreation-center-roanoke/
+2. Planet Fitness | Organic #2 | Pulse Score 41.8/100 (Building, #2 in city) | Planet Fitness is a gym in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym roanoke tx | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Sewing Place Alterations is a tailor in Cobb County, GA at 2323 Shallowford Road
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-17:00
-- Pulse Score: 62.6/100 — Good — top 14% of tailors in Atlanta, #1 of 5 tailors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Good — top 14% of tailors in Atlanta, #1 of 5 tailors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

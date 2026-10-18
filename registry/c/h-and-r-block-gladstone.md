@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Gladstone, MO at 5941 North Antioch Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Fr 09:00-19:00; Mo,We,Sa 09:00-18:00; Tu,Th 13:00-19:00
-- Pulse Score: 46.8/100 — Building — top 50% of tax preparation services in Kansas City, MO, #2 of 3 tax preparation services in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 50% of tax preparation services in Kansas City, MO, #2 of 3 tax preparation services in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

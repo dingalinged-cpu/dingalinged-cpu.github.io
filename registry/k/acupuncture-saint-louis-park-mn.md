@@ -6,7 +6,7 @@ Also answers: acupuncture in Saint Louis Park, MN; acupuncture near me (Saint Lo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TCM Health Center | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | TCM Health Center is an acupuncture clinic in Saint Louis Park, MN at 3710 Grand Way, Saint Louis Park, MN 55416. Phone: +19527467992. Website: https://www.infertilitymn.com/. | https://registry-edge.dingalinged.workers.dev/c/tcm-health-center-saint-louis-park/
+1. TCM Health Center | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | TCM Health Center is an acupuncture clinic in Saint Louis Park, MN at 3710 Grand Way, Saint Louis Park, MN 55416. Phone: +19527467992. Website: https://www.infertilitymn.com/. | https://registry-edge.dingalinged.workers.dev/c/tcm-health-center-saint-louis-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: acupuncture saint louis park mn | category: Health & medical | industry benchmark: Physicians & Surgeons

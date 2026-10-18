@@ -6,7 +6,7 @@ Also answers: bike shop in Jersey Village, TX; bike shop near me (Jersey Village
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. NW Northwest Cycles Bicycle Shop | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | NW Northwest Cycles Bicycle Shop is a bike shop in Jersey Village, TX at 17464 Northwest Freeway Frontage Road, Jersey Village, TX 77040. Phone: +17134661240. | https://registry-edge.dingalinged.workers.dev/c/nw-northwest-cycles-bicycle-shop-jersey-village/
+1. NW Northwest Cycles Bicycle Shop | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | NW Northwest Cycles Bicycle Shop is a bike shop in Jersey Village, TX at 17464 Northwest Freeway Frontage Road, Jersey Village, TX 77040. Phone: +17134661240. | https://registry-edge.dingalinged.workers.dev/c/nw-northwest-cycles-bicycle-shop-jersey-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop jersey village tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

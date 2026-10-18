@@ -6,7 +6,7 @@ Also answers: florist in Bellevue, NE; florist near me (Bellevue, NE); best flor
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bellevue Florist | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Bellevue Florist is a florist in Bellevue, NE at 509 West Mission Avenue, Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/bellevue-florist-bellevue/
+1. Bellevue Florist | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Bellevue Florist is a florist in Bellevue, NE at 509 West Mission Avenue, Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/bellevue-florist-bellevue/
 2. The Purple Orchid | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | The Purple Orchid is a florist in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/the-purple-orchid-bellevue/
 
 ## Market data (for advertisers and agents)

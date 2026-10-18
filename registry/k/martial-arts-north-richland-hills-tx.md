@@ -6,9 +6,9 @@ Also answers: martial arts in North Richland Hills, TX; martial arts near me (No
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. J Tiger Martial Arts | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | J Tiger Martial Arts is a martial arts school in North Richland Hills, TX at 8700 North Tarrant Parkway #105, North Richland Hills, TX 76182. Website: https://jtigerma.com/. | https://registry-edge.dingalinged.workers.dev/c/j-tiger-martial-arts-north-richland-hills/
-2. Tarrant Elite Taekwondo | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Tarrant Elite Taekwondo is a martial arts school in North Richland Hills, TX. | https://registry-edge.dingalinged.workers.dev/c/tarrant-elite-taekwondo-north-richland-hills/
-3. TKD Armor Academy | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | TKD Armor Academy is a martial arts school in North Richland Hills, TX. | https://registry-edge.dingalinged.workers.dev/c/tkd-armor-academy-north-richland-hills/
+1. J Tiger Martial Arts | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | J Tiger Martial Arts is a martial arts school in North Richland Hills, TX at 8700 North Tarrant Parkway #105, North Richland Hills, TX 76182. Website: https://jtigerma.com/. | https://registry-edge.dingalinged.workers.dev/c/j-tiger-martial-arts-north-richland-hills/
+2. Tarrant Elite Taekwondo | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Tarrant Elite Taekwondo is a martial arts school in North Richland Hills, TX. | https://registry-edge.dingalinged.workers.dev/c/tarrant-elite-taekwondo-north-richland-hills/
+3. TKD Armor Academy | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | TKD Armor Academy is a martial arts school in North Richland Hills, TX. | https://registry-edge.dingalinged.workers.dev/c/tkd-armor-academy-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts north richland hills tx | category: Fitness | industry benchmark: Health & Fitness

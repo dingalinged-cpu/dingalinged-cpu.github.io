@@ -6,8 +6,8 @@ Also answers: dermatologist in Omaha, NE; dermatologist near me (Omaha, NE); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MOD Dermatology | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | MOD Dermatology is a dermatologist in Omaha, NE at 144 South 40th Street, Omaha, NE 68131. Phone: +14025058777. Website: https://moddermatology.com/. | https://registry-edge.dingalinged.workers.dev/c/mod-dermatology-omaha/
-2. CHI Health Clinic (Dundee) | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | CHI Health Clinic (Dundee) is a dermatologist in Omaha, NE at 5002 North 50th Street, Omaha, NE 68132. Website: https://www.chihealth.com/clinic.html. | https://registry-edge.dingalinged.workers.dev/c/chi-health-clinic-dundee-omaha/
+1. MOD Dermatology | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | MOD Dermatology is a dermatologist in Omaha, NE at 144 South 40th Street, Omaha, NE 68131. Phone: +14025058777. Website: https://moddermatology.com/. | https://registry-edge.dingalinged.workers.dev/c/mod-dermatology-omaha/
+2. CHI Health Clinic (Dundee) | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | CHI Health Clinic (Dundee) is a dermatologist in Omaha, NE at 5002 North 50th Street, Omaha, NE 68132. Website: https://www.chihealth.com/clinic.html. | https://registry-edge.dingalinged.workers.dev/c/chi-health-clinic-dundee-omaha/
 3. Dr. Joel Schlessinger | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Dr. Joel Schlessinger is a dermatologist in Omaha, NE at 2802 Oak View Drive, Omaha, NE 68144. | https://registry-edge.dingalinged.workers.dev/c/dr-joel-schlessinger-omaha/
 
 ## Market data (for advertisers and agents)

@@ -6,7 +6,7 @@ Also answers: plumber in Lewisville, TX; plumber near me (Lewisville, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CW Service Pros Plumbing, Heating & Air Conditioning | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | CW Service Pros Plumbing, Heating & Air Conditioning is a plumber in Lewisville, TX at 1890 Midway Road, Lewisville, TX 75056. Phone: +19728458220. Website: https://www.cwservicepros.com/. | https://registry-edge.dingalinged.workers.dev/c/cw-service-pros-plumbing-heating-and-air-conditioning-lewisville/
+1. CW Service Pros Plumbing, Heating & Air Conditioning | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | CW Service Pros Plumbing, Heating & Air Conditioning is a plumber in Lewisville, TX at 1890 Midway Road, Lewisville, TX 75056. Phone: +19728458220. Website: https://www.cwservicepros.com/. | https://registry-edge.dingalinged.workers.dev/c/cw-service-pros-plumbing-heating-and-air-conditioning-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber lewisville tx | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

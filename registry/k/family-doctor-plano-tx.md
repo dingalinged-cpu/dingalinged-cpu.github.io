@@ -6,9 +6,9 @@ Also answers: family doctor in Plano, TX; family doctor near me (Plano, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. WellBridge Healthcare | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | WellBridge Healthcare is a family medicine practice in Plano, TX at 4301 Mapleshade Lane, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/wellbridge-healthcare-plano/
-2. Sleep Rehab | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Sleep Rehab is a family medicine practice in Plano, TX at 3447 East Renner Road, Plano, TX 75074. | https://registry-edge.dingalinged.workers.dev/c/sleep-rehab-plano/
-3. Urgent Care of Texas | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Urgent Care of Texas is a family medicine practice in Plano, TX at 3909 West Parker Road #104, Plano, TX 75075. | https://registry-edge.dingalinged.workers.dev/c/urgent-care-of-texas-plano/
+1. WellBridge Healthcare | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | WellBridge Healthcare is a family medicine practice in Plano, TX at 4301 Mapleshade Lane, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/wellbridge-healthcare-plano/
+2. Sleep Rehab | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Sleep Rehab is a family medicine practice in Plano, TX at 3447 East Renner Road, Plano, TX 75074. | https://registry-edge.dingalinged.workers.dev/c/sleep-rehab-plano/
+3. Urgent Care of Texas | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Urgent Care of Texas is a family medicine practice in Plano, TX at 3909 West Parker Road #104, Plano, TX 75075. | https://registry-edge.dingalinged.workers.dev/c/urgent-care-of-texas-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor plano tx | category: Health & medical | industry benchmark: Physicians & Surgeons

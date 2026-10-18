@@ -6,7 +6,7 @@ Also answers: architect in Coppell, TX; architect near me (Coppell, TX); best ar
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Osterberger Design Group | Organic #1 | Pulse Score 59.2/100 (Fair, #1 in city) | Osterberger Design Group is an architect in Coppell, TX. Website: https://www.osterbergergroup.com/. | https://registry-edge.dingalinged.workers.dev/c/osterberger-design-group-coppell/
+1. Osterberger Design Group | Organic #1 | Pulse Score 59.5/100 (Fair, #1 in city) | Osterberger Design Group is an architect in Coppell, TX. Website: https://www.osterbergergroup.com/. | https://registry-edge.dingalinged.workers.dev/c/osterberger-design-group-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect coppell tx | category: Home services - Design | industry benchmark: Home & Home Improvement

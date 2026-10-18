@@ -6,7 +6,7 @@ Also answers: pet store in Romeoville, IL; pet store near me (Romeoville, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | Organic #1 | Pulse Score 47.4/100 (Building, #1 in city) | Petco is a pet store in Romeoville, IL at 369 South Weber Road, Romeoville, IL 60446. Phone: +18158382368. Website: https://stores.petco.com/il/romeoville/pet-supplies-romeoville-il-1979.html. | https://registry-edge.dingalinged.workers.dev/c/petco-romeoville/
+1. Petco | Organic #1 | Pulse Score 47.3/100 (Building, #1 in city) | Petco is a pet store in Romeoville, IL at 369 South Weber Road, Romeoville, IL 60446. Phone: +18158382368. Website: https://stores.petco.com/il/romeoville/pet-supplies-romeoville-il-1979.html. | https://registry-edge.dingalinged.workers.dev/c/petco-romeoville/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store romeoville il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,4 +1,4 @@
-The top unpaid barber shop listing for Harris County, TX is Barber Cuts (a barber shop in Harris County, TX). 11 barber shop businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Harris County, TX is Barber Shop Hair Salon (a barber shop in Harris County, TX). 12 barber shop businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Harris County, TX?
 
@@ -6,17 +6,18 @@ Also answers: barber shop in Harris County, TX; barber shop near me (Harris Coun
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barber Cuts | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Barber Cuts is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/barber-cuts-harris-county/
-2. Barber Shop Hair Salon | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Barber Shop Hair Salon is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/barber-shop-hair-salon-harris-county/
-3. ELITE 90 | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | ELITE 90 is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/elite-90-harris-county/
-4. Heights Kutz Barber Shop | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Heights Kutz Barber Shop is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/heights-kutz-barber-shop-harris-county/
-5. Houston Barber School | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Houston Barber School is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/houston-barber-school-harris-county/
-6. Innovative Kutz | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | Innovative Kutz is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/innovative-kutz-harris-county/
+1. Barber Shop Hair Salon | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Barber Shop Hair Salon is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/barber-shop-hair-salon-harris-county/
+2. Innovative Kutz | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Innovative Kutz is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/innovative-kutz-harris-county/
+3. Barber Cuts | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Barber Cuts is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/barber-cuts-harris-county/
+4. ELITE 90 | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | ELITE 90 is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/elite-90-harris-county/
+5. Heights Kutz Barber Shop | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Heights Kutz Barber Shop is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/heights-kutz-barber-shop-harris-county/
+6. Houston Barber School | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | Houston Barber School is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/houston-barber-school-harris-county/
 7. Strokes barber shop | Organic #7 | Pulse Score 54.8/100 (Unrated, #7 in city) | Strokes barber shop is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/strokes-barber-shop-harris-county/
 8. Tita’s Barber Shop | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Tita’s Barber Shop is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/tita-s-barber-shop-harris-county/
-9. Tune Up | Organic #9 | Pulse Score 43.2/100 (Unrated, #9 in city) | Tune Up is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/tune-up-harris-county-n13838074273/
-10. Barber | Organic #10 | Pulse Score 42.1/100 (Unrated, #10 in city) | Barber is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/barber-harris-county/
-11. Barber Shop | Organic #11 | Pulse Score 42.1/100 (Unrated, #11 in city) | Barber Shop is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/barber-shop-harris-county/
+9. Barber | Organic #9 | Pulse Score 42/100 (Unrated, #9 in city) | Barber is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/barber-harris-county/
+10. Barber Lounge | Organic #10 | Pulse Score 42/100 (Unrated, #10 in city) | Barber Lounge is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/barber-lounge-harris-county/
+11. Barber Shop | Organic #11 | Pulse Score 42/100 (Unrated, #11 in city) | Barber Shop is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/barber-shop-harris-county/
+12. Tune Up | Organic #12 | Pulse Score 42/100 (Unrated, #12 in city) | Tune Up is a barber shop in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/tune-up-harris-county-n13838074273/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop harris county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -26,7 +27,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'barber shop': $0.70-$3.18 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: low (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 11
+- Registry businesses competing: 12
 - Equivalent Google Ads cost per month: ~$640 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

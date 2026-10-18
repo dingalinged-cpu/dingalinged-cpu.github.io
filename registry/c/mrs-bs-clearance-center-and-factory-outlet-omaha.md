@@ -13,7 +13,7 @@ Mrs B's Clearance Center & Factory Outlet is a furniture store in Omaha, NE at 7
 - Website: https://www.nfm.com/mrs-bs-clearance-store
 - Email: n/a
 - Opening hours (OSM syntax): Su-Fr 11:00-20:00; Sa 10:00-20:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 11% of furniture stores in Omaha, NE, #2 of 10 furniture stores in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 11% of furniture stores in Omaha, NE, #2 of 10 furniture stores in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

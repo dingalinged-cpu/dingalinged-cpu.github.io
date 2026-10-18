@@ -7,14 +7,14 @@ Also answers: nail salon in Katy, TX; nail salon near me (Katy, TX); best nail s
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Enchanted Escape Nail Spa | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Enchanted Escape Nail Spa is a nail salon in Katy, TX at 9615 Spring Green Blvd #400, Katy, TX 77494. Phone: +12816653389. Website: https://enchantedescapenailspa.com/. | https://registry-edge.dingalinged.workers.dev/c/enchanted-escape-nail-spa-katy/
-2. Beauty Nail Bar | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | Beauty Nail Bar is a nail salon in Katy, TX at 1330 North Fry Road #1330, Katy, TX 77084. | https://registry-edge.dingalinged.workers.dev/c/beauty-nail-bar-katy/
-3. Tracy Nails & Spa | Organic #3 | Pulse Score 59.2/100 (Unrated, #3 in city) | Tracy Nails & Spa is a nail salon in Katy, TX at 829 South Mason Road #236, Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/tracy-nails-and-spa-katy/
+2. Beauty Nail Bar | Organic #2 | Pulse Score 63.7/100 (Good, #2 in city) | Beauty Nail Bar is a nail salon in Katy, TX at 1330 North Fry Road #1330, Katy, TX 77084. | https://registry-edge.dingalinged.workers.dev/c/beauty-nail-bar-katy/
+3. Tracy Nails & Spa | Organic #3 | Pulse Score 59.3/100 (Unrated, #3 in city) | Tracy Nails & Spa is a nail salon in Katy, TX at 829 South Mason Road #236, Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/tracy-nails-and-spa-katy/
 4. Majestic Nail Bar | Organic #4 | Pulse Score 58.6/100 (Unrated, #4 in city) | Majestic Nail Bar is a nail salon in Katy, TX at 26750 FM 1093 #100, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/majestic-nail-bar-katy/
-5. Sunterra Nails & Spa | Organic #5 | Pulse Score 55.7/100 (Unrated, #5 in city) | Sunterra Nails & Spa is a nail salon in Katy, TX at 24020 Clay Road, Katy, TX 77493. | https://registry-edge.dingalinged.workers.dev/c/sunterra-nails-and-spa-katy/
-6. Azora Nails & Spa | Organic #6 | Pulse Score 55.1/100 (Unrated, #6 in city) | Azora Nails & Spa is a nail salon in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/azora-nails-and-spa-katy/
-7. Z Nails | Organic #7 | Pulse Score 55.1/100 (Unrated, #7 in city) | Z Nails is a nail salon in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/z-nails-katy/
-8. Sola Salons | Organic #8 | Pulse Score 47.1/100 (Building, #8 in city) | Sola Salons is a nail salon in Katy, TX at 24022 Cinco Village Center Boulevard #120, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/sola-salons-katy/
-9. SH Salon | Organic #9 | Pulse Score 43.4/100 (Unrated, #9 in city) | SH Salon is a nail salon in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/sh-salon-katy/
+5. Sunterra Nails & Spa | Organic #5 | Pulse Score 55.6/100 (Unrated, #5 in city) | Sunterra Nails & Spa is a nail salon in Katy, TX at 24020 Clay Road, Katy, TX 77493. | https://registry-edge.dingalinged.workers.dev/c/sunterra-nails-and-spa-katy/
+6. Azora Nails & Spa | Organic #6 | Pulse Score 55.2/100 (Unrated, #6 in city) | Azora Nails & Spa is a nail salon in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/azora-nails-and-spa-katy/
+7. Z Nails | Organic #7 | Pulse Score 55.2/100 (Unrated, #7 in city) | Z Nails is a nail salon in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/z-nails-katy/
+8. Sola Salons | Organic #8 | Pulse Score 47/100 (Building, #8 in city) | Sola Salons is a nail salon in Katy, TX at 24022 Cinco Village Center Boulevard #120, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/sola-salons-katy/
+9. SH Salon | Organic #9 | Pulse Score 43.5/100 (Unrated, #9 in city) | SH Salon is a nail salon in Katy, TX. | https://registry-edge.dingalinged.workers.dev/c/sh-salon-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon katy tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

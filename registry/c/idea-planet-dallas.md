@@ -19,6 +19,6 @@ Idea Planet is a marketing agency in Dallas, TX at 18170 Hillcrest Road, Dallas,
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/idea-planet-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/idea-planet-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/470346112 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/470346112 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Heidi Brandenburg, DDS is a dentist in Edina, MN at 3948 West 50th Street #Suite
 - Website: https://www.hb-dds.com/
 - Email: frontdesk@hb-dds.com
 - Opening hours (OSM syntax): Mo-Tu 07:30-17:00; We 07:00-14:00; Th 07:30-17:00
-- Pulse Score: 65/100 — Good — top 2% of dentists in Minneapolis–St. Paul, #1 of 13 dentists in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 66.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65/100 — Good — top 2% of dentists in Minneapolis–St. Paul, #1 of 13 dentists in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

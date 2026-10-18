@@ -13,7 +13,7 @@ Tosa Physical Therapy and Wellness is a physical therapy clinic in Wauwatosa, WI
 - Website: https://www.tosapt.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Good — top 19% of physical therapy clinics in Milwaukee, #2 of 5 physical therapy clinics in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Good — top 19% of physical therapy clinics in Milwaukee, #2 of 5 physical therapy clinics in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,12 +13,12 @@ Semihan Chiropractic Clinic is a chiropractor in Lewisville, TX at 2670 Lake Vis
 - Website: https://www.semihanchiro.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 24% of chiropractors in Dallas–Fort Worth, #6 of 10 chiropractors in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 22% of chiropractors in Dallas–Fort Worth, #5 of 10 chiropractors in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/semihan-chiropractic-clinic-lewisville/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/semihan-chiropractic-clinic-lewisville.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13622072992 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13622072992 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

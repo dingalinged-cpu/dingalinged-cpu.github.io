@@ -6,10 +6,10 @@ Also answers: haircut in Desoto, TX; haircut near me (Desoto, TX); best haircut 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jill at Scarlet | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Jill at Scarlet is a hair salon in DeSoto, TX at 2021 North Hampton Road #150, DeSoto, TX 75115. | https://registry-edge.dingalinged.workers.dev/c/jill-at-scarlet-desoto/
-2. Braids & Weaves | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Braids & Weaves is a hair salon in DeSoto, TX. | https://registry-edge.dingalinged.workers.dev/c/braids-and-weaves-desoto/
-3. Hair Couture Salon | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Hair Couture Salon is a hair salon in DeSoto, TX. | https://registry-edge.dingalinged.workers.dev/c/hair-couture-salon-desoto/
-4. Corn's Cutz | Organic #4 | Pulse Score 54.4/100 (Unrated, #1 in city) | Corn's Cutz is a barber shop in DeSoto, TX. | https://registry-edge.dingalinged.workers.dev/c/corns-cutz-desoto/
+1. Jill at Scarlet | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Jill at Scarlet is a hair salon in DeSoto, TX at 2021 North Hampton Road #150, DeSoto, TX 75115. | https://registry-edge.dingalinged.workers.dev/c/jill-at-scarlet-desoto/
+2. Braids & Weaves | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Braids & Weaves is a hair salon in DeSoto, TX. | https://registry-edge.dingalinged.workers.dev/c/braids-and-weaves-desoto/
+3. Corn's Cutz | Organic #3 | Pulse Score 54.4/100 (Unrated, #1 in city) | Corn's Cutz is a barber shop in DeSoto, TX. | https://registry-edge.dingalinged.workers.dev/c/corns-cutz-desoto/
+4. Hair Couture Salon | Organic #4 | Pulse Score 54.4/100 (Unrated, #3 in city) | Hair Couture Salon is a hair salon in DeSoto, TX. | https://registry-edge.dingalinged.workers.dev/c/hair-couture-salon-desoto/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut desoto tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

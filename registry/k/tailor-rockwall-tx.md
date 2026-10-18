@@ -7,7 +7,7 @@ Also answers: tailor in Rockwall, TX; tailor near me (Rockwall, TX); best tailor
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. N Tailor | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | N Tailor is a tailor in Rockwall, TX at 919 East Interstate 30 #113, Rockwall, TX 75087. Phone: +19727224828. | https://registry-edge.dingalinged.workers.dev/c/n-tailor-rockwall/
-2. Rockwall Tailor & Shoe Repair | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Rockwall Tailor & Shoe Repair is a tailor in Rockwall, TX at 109 East Bourn Street, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/rockwall-tailor-and-shoe-repair-rockwall/
+2. Rockwall Tailor & Shoe Repair | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Rockwall Tailor & Shoe Repair is a tailor in Rockwall, TX at 109 East Bourn Street, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/rockwall-tailor-and-shoe-repair-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor rockwall tx | category: Professional & financial services | industry benchmark: Finance & Insurance

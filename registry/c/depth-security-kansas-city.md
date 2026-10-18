@@ -13,7 +13,7 @@ Depth Security is an IT support company in Kansas City, MO at 2131 Washington St
 - Website: https://www.depthsecurity.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 19% of IT support companys in Kansas City, MO, #2 of 13 IT support companys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 19% of IT support companys in Kansas City, MO, #2 of 13 IT support companys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

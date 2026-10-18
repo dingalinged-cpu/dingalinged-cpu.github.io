@@ -6,8 +6,8 @@ Also answers: chiropractor in Pearland, TX; chiropractor near me (Pearland, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elite Healthcare & Therapy | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Elite Healthcare & Therapy is a chiropractor in Pearland, TX at 11710 West Broadway Street #130, Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/elite-healthcare-and-therapy-pearland/
-2. The Joint Chiropractic | Organic #2 | Pulse Score 43.2/100 (Building, #2 in city) | The Joint Chiropractic is a chiropractor in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-pearland/
+1. Elite Healthcare & Therapy | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Elite Healthcare & Therapy is a chiropractor in Pearland, TX at 11710 West Broadway Street #130, Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/elite-healthcare-and-therapy-pearland/
+2. The Joint Chiropractic | Organic #2 | Pulse Score 43.6/100 (Building, #2 in city) | The Joint Chiropractic is a chiropractor in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor pearland tx | category: Health & medical | industry benchmark: Physicians & Surgeons

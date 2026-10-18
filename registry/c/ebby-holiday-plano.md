@@ -19,6 +19,6 @@ Ebby Holiday is a real estate agency in Plano, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/ebby-holiday-plano/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ebby-holiday-plano.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12400793680 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12400793680 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

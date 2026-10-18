@@ -6,10 +6,10 @@ Also answers: insurance agent in Euless, TX; insurance agent near me (Euless, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Insurance | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Texas Insurance is an insurance agent in Euless, TX at 113 West Harwood Road, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/texas-insurance-euless/
-2. Alpa Insurance | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Alpa Insurance is an insurance agent in Euless, TX. | https://registry-edge.dingalinged.workers.dev/c/alpa-insurance-euless/
-3. State Farm | Organic #3 | Pulse Score 44.3/100 (Building, #3 in city) | State Farm is an insurance agent in Euless, TX at 296 North Main Street, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/state-farm-euless/
-4. State Farm | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | State Farm is an insurance agent in Euless, TX. | https://registry-edge.dingalinged.workers.dev/c/state-farm-euless-w652915286/
+1. Texas Insurance | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Texas Insurance is an insurance agent in Euless, TX at 113 West Harwood Road, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/texas-insurance-euless/
+2. Alpa Insurance | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Alpa Insurance is an insurance agent in Euless, TX. | https://registry-edge.dingalinged.workers.dev/c/alpa-insurance-euless/
+3. State Farm | Organic #3 | Pulse Score 44.1/100 (Building, #3 in city) | State Farm is an insurance agent in Euless, TX at 296 North Main Street, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/state-farm-euless/
+4. State Farm | Organic #4 | Pulse Score 41.8/100 (Building, #4 in city) | State Farm is an insurance agent in Euless, TX. | https://registry-edge.dingalinged.workers.dev/c/state-farm-euless-w652915286/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent euless tx | category: Professional & financial services | industry benchmark: Finance & Insurance

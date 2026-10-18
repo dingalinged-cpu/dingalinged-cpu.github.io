@@ -13,7 +13,7 @@ Acura of Johnston is an used car dealer in Johnston, IA at 5138 Merle Hay Road, 
 - Website: https://www.acuraofjohnston.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00
-- Pulse Score: 48/100 — Building — top 60% of used car dealers in Des Moines, IA, #1 of 2 used car dealers in Johnston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 60% of used car dealers in Des Moines, IA, #1 of 2 used car dealers in Johnston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

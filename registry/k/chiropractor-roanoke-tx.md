@@ -7,8 +7,8 @@ Also answers: chiropractor in Roanoke, TX; chiropractor near me (Roanoke, TX); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Roanoke Chiropractic & Rehab | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Roanoke Chiropractic & Rehab is a chiropractor in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/roanoke-chiropractic-and-rehab-roanoke/
-2. Brindlewood Chiropractic | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Brindlewood Chiropractic is a chiropractor in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/brindlewood-chiropractic-roanoke/
-3. Essentials For Wellness Family Chiropractic | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Essentials For Wellness Family Chiropractic is a chiropractor in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/essentials-for-wellness-family-chiropractic-roanoke/
+2. Brindlewood Chiropractic | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Brindlewood Chiropractic is a chiropractor in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/brindlewood-chiropractic-roanoke/
+3. Essentials For Wellness Family Chiropractic | Organic #3 | Pulse Score 54/100 (Unrated, #3 in city) | Essentials For Wellness Family Chiropractic is a chiropractor in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/essentials-for-wellness-family-chiropractic-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor roanoke tx | category: Health & medical | industry benchmark: Physicians & Surgeons

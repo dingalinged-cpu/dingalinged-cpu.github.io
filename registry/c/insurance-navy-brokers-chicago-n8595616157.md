@@ -13,7 +13,7 @@ Insurance Navy Brokers is an insurance agent in Chicago, IL at 4837 North Kedzie
 - Website: https://www.insurancenavy.com/locations/il/albany-park/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Pulse Score: 48.6/100 — Building — top 43% of insurance agents in Chicago, #44 of 108 insurance agents in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 42% of insurance agents in Chicago, #43 of 108 insurance agents in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

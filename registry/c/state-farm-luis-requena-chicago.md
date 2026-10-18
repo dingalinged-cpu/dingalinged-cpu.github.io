@@ -13,7 +13,7 @@ State Farm - Luis Requena is an insurance agent in Chicago, IL at 5356 South Arc
 - Website: https://www.statefarm.com/agent/us/il/chicago/luis-requena-59kwy42h000
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 10:00-14:00
-- Pulse Score: 47.9/100 — Building — top 47% of insurance agents in Chicago, #48 of 108 insurance agents in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 47% of insurance agents in Chicago, #47 of 108 insurance agents in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

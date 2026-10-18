@@ -19,6 +19,6 @@ Southlake Strength & Fitness is a gym in Southlake, TX at 280 Commerce Street #S
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/southlake-strength-and-fitness-southlake/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/southlake-strength-and-fitness-southlake.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13169234955 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13169234955 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

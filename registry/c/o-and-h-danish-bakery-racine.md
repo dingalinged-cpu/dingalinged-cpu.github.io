@@ -13,7 +13,7 @@ O&H Danish Bakery is a bakery in Racine, WI at 4006 Durand Avenue, Racine, WI 53
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 94% of bakerys in Milwaukee, #5 of 5 bakerys in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.3/100 — Unrated (not enough evidence yet) — top 94% of bakerys in Milwaukee, #5 of 5 bakerys in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

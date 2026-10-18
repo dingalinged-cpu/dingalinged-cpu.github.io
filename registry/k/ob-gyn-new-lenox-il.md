@@ -6,7 +6,7 @@ Also answers: ob gyn in New Lenox, IL; ob gyn near me (New Lenox, IL); best ob g
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Women's Center | Organic #1 | Pulse Score 53.7/100 (Unrated, #1 in city) | The Women's Center is an OB-GYN practice in New Lenox, IL. | https://registry-edge.dingalinged.workers.dev/c/the-womens-center-new-lenox/
+1. The Women's Center | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | The Women's Center is an OB-GYN practice in New Lenox, IL. | https://registry-edge.dingalinged.workers.dev/c/the-womens-center-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn new lenox il | category: Health & medical | industry benchmark: Physicians & Surgeons

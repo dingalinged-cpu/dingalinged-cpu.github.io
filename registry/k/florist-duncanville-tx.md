@@ -6,7 +6,7 @@ Also answers: florist in Duncanville, TX; florist near me (Duncanville, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Poseys 'N' Partys Florist & Wedding Flowers | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Poseys 'N' Partys Florist & Wedding Flowers is a florist in Duncanville, TX at 910 South Cockrell Hill Road, Duncanville, TX 75137. | https://registry-edge.dingalinged.workers.dev/c/poseys-n-partys-florist-and-wedding-flowers-duncanville/
+1. Poseys 'N' Partys Florist & Wedding Flowers | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Poseys 'N' Partys Florist & Wedding Flowers is a florist in Duncanville, TX at 910 South Cockrell Hill Road, Duncanville, TX 75137. | https://registry-edge.dingalinged.workers.dev/c/poseys-n-partys-florist-and-wedding-flowers-duncanville/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist duncanville tx | category: Events & weddings | industry benchmark: Personal Services

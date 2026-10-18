@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in New Hope, MN at 3216 Winnetka 
 - Website: https://www.extraspace.com/storage/facilities/us/minnesota/minneapolis/7561/?cid=org%3A%3Amaps
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.3/100 — Building — top 55% of self-storage facilitys in Minneapolis–St. Paul, #1 of 3 self-storage facilitys in New Hope (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 52% of self-storage facilitys in Minneapolis–St. Paul, #1 of 3 self-storage facilitys in New Hope (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

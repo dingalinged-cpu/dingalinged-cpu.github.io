@@ -13,7 +13,7 @@ Sploot Veterinary Care - Logan Square is a veterinarian in Chicago, IL at 2510 N
 - Website: https://www.splootvets.com/locations/chicago/logan-square
 - Email: info@splootvets.com
 - Opening hours (OSM syntax): Mo-Su 10:00-22:00
-- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 1% of veterinarians in Chicago, #1 of 51 veterinarians in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 1% of veterinarians in Chicago, #1 of 51 veterinarians in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

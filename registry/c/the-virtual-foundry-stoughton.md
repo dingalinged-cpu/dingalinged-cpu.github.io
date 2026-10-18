@@ -13,7 +13,7 @@ The Virtual Foundry is a graphic designer in Stoughton, WI at 1471 US HWY 51, St
 - Website: https://thevirtualfoundry.com/
 - Email: info@thevirtualfoundry.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 50% of graphic designers in Madison, #1 of 1 graphic designers in Stoughton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 50% of graphic designers in Madison, #1 of 1 graphic designers in Stoughton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ McBee's Coffee & Carwash is a car wash in Independence, MO at 4121 South Little 
 - Website: https://mcbeescnc.com/independence-little-blue-pkwy
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 8% of car washes in Kansas City, MO, #1 of 6 car washes in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 6% of car washes in Kansas City, MO, #1 of 6 car washes in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

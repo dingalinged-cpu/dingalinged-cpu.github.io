@@ -13,7 +13,7 @@ Charlie's II Beer Wine & Spirits is a liquor store in Cobb County, GA at 5080 Be
 - Website: https://charliestwo.com/store/bz_charlies2
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 12:00-19:00
-- Pulse Score: 63/100 — Good — top 14% of liquor stores in Atlanta, #5 of 14 liquor stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 14% of liquor stores in Atlanta, #5 of 14 liquor stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ NKC Health Primary Care Gashland is an urgent care clinic in Kansas City, MO at 
 - Website: https://www.nkchealth.org/location/nkc-health-primary-care-gashland
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 34% of urgent care clinics in Kansas City, MO, #1 of 1 urgent care clinics in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 34% of urgent care clinics in Kansas City, MO, #1 of 1 urgent care clinics in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

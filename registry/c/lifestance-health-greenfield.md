@@ -13,7 +13,7 @@ LifeStance Health is a therapy practice in Greenfield, WI at 4811 South 76th Str
 - Website: https://lifestance.com/location/greenfield-wi-4811-s-76th-st/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-21:00; Sa,Su "By Appointment"
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 16% of therapy practices in Milwaukee, #1 of 7 therapy practices in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 16% of therapy practices in Milwaukee, #1 of 7 therapy practices in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

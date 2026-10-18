@@ -158,7 +158,7 @@
     "search_value_index_usd": 830000,
     "equivalent_google_ads_cost_month_usd": 69000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 510,
+    "registry_competitors": 642,
     "ranked_by": "by_volume"
    },
    {
@@ -186,7 +186,7 @@
     "search_value_index_usd": 730000,
     "equivalent_google_ads_cost_month_usd": 60000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 1171,
+    "registry_competitors": 1505,
     "ranked_by": "by_volume"
    },
    {
@@ -256,7 +256,7 @@
     "search_value_index_usd": 310000,
     "equivalent_google_ads_cost_month_usd": 26000,
     "featured_spot_min_usd": 500,
-    "registry_competitors": 2292,
+    "registry_competitors": 3018,
     "ranked_by": "by_volume"
    },
    {
@@ -328,7 +328,7 @@
     "search_value_index_usd": 730000,
     "equivalent_google_ads_cost_month_usd": 60000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 1171,
+    "registry_competitors": 1505,
     "ranked_by": "by_cpc"
    },
    {
@@ -552,7 +552,7 @@
     "search_value_index_usd": 310000,
     "equivalent_google_ads_cost_month_usd": 26000,
     "featured_spot_min_usd": 500,
-    "registry_competitors": 2292,
+    "registry_competitors": 3018,
     "ranked_by": "by_cpc"
    },
    {
@@ -566,7 +566,7 @@
     "search_value_index_usd": 170000,
     "equivalent_google_ads_cost_month_usd": 14000,
     "featured_spot_min_usd": 500,
-    "registry_competitors": 2292,
+    "registry_competitors": 3018,
     "ranked_by": "by_cpc"
    }
   ],
@@ -722,7 +722,7 @@
     "search_value_index_usd": 830000,
     "equivalent_google_ads_cost_month_usd": 69000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 510,
+    "registry_competitors": 642,
     "ranked_by": "by_value"
    },
    {
@@ -736,7 +736,7 @@
     "search_value_index_usd": 730000,
     "equivalent_google_ads_cost_month_usd": 60000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 1171,
+    "registry_competitors": 1505,
     "ranked_by": "by_value"
    },
    {
@@ -820,7 +820,7 @@
     "search_value_index_usd": 310000,
     "equivalent_google_ads_cost_month_usd": 26000,
     "featured_spot_min_usd": 500,
-    "registry_competitors": 2292,
+    "registry_competitors": 3018,
     "ranked_by": "by_value"
    },
    {

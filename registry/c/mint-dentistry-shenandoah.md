@@ -19,6 +19,6 @@ Mint Dentistry is a dentist in Shenandoah, TX at 19073 Interstate 45 South #185,
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mint-dentistry-shenandoah/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mint-dentistry-shenandoah.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/2684621622 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2684621622 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

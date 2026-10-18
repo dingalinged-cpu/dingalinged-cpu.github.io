@@ -13,7 +13,7 @@ Regent Restoration is a roofer in Plano, TX at 6275 W Plano Pkwy, Plano, TX 7509
 - Website: https://regentrestoration.com/water-damage-restoration-service-plano-tx/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 29% of roofers in Dallas–Fort Worth, #1 of 4 roofers in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 96% of roofers in Dallas–Fort Worth, #3 of 4 roofers in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.7, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

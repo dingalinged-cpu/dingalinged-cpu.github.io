@@ -6,7 +6,7 @@ Also answers: nail salon in Kemah, TX; nail salon near me (Kemah, TX); best nail
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LA Nails | Organic #1 | Pulse Score 42.3/100 (Unrated, #1 in city) | LA Nails is a nail salon in Kemah, TX. | https://registry-edge.dingalinged.workers.dev/c/la-nails-kemah/
+1. LA Nails | Organic #1 | Pulse Score 42.4/100 (Unrated, #1 in city) | LA Nails is a nail salon in Kemah, TX. | https://registry-edge.dingalinged.workers.dev/c/la-nails-kemah/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon kemah tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

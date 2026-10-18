@@ -13,7 +13,7 @@ SS Auto Inc. is an used car dealer in Gladstone, MO at 6417 North Oak Trafficway
 - Website: https://www.ssautokc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 10% of used car dealers in Kansas City, MO, #1 of 2 used car dealers in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 10% of used car dealers in Kansas City, MO, #1 of 2 used car dealers in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

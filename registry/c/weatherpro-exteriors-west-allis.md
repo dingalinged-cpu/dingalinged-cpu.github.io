@@ -13,7 +13,7 @@ WeatherPro Exteriors is a roofer in West Allis, WI at 12200 West Adler Lane, Wes
 - Website: https://www.weatherproexteriors.com/
 - Email: info@weatherproexteriors.com
 - Opening hours (OSM syntax): Mo - Fr 08:00-18:00; Sa 09:00-13:00
-- Pulse Score: 62/100 — Good — top 23% of roofers in Milwaukee, #1 of 4 roofers in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 23% of roofers in Milwaukee, #1 of 4 roofers in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

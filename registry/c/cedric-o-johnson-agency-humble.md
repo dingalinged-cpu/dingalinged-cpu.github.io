@@ -13,12 +13,12 @@ Cedric O. Johnson Agency is an insurance agent in Humble, TX at 8998 Will Clayto
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Unrated (not enough evidence yet) — top 72% of insurance agents in Houston, #3 of 7 insurance agents in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.4/100 — Unrated (not enough evidence yet) — top 70% of insurance agents in Houston, #4 of 8 insurance agents in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/cedric-o-johnson-agency-humble/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cedric-o-johnson-agency-humble.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7799559077 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7799559077 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

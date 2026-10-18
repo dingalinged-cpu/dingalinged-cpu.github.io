@@ -13,7 +13,7 @@ Meylor Chiropractic and Acupuncture is a chiropractor in Lenexa, KS at 12980 Wes
 - Website: https://www.meylorchiro.com/us/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:30-12:30,15:00-18:00; Th 09:30-12:30
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 17% of chiropractors in Kansas City, MO, #1 of 5 chiropractors in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 17% of chiropractors in Kansas City, MO, #1 of 5 chiropractors in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

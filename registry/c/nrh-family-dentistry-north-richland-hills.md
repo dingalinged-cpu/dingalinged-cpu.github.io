@@ -13,12 +13,12 @@ NRH Family Dentistry is a dentist in North Richland Hills, TX at 8701 North Tarr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 25% of dentists in Dallas–Fort Worth, #4 of 11 dentists in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 26% of dentists in Dallas–Fort Worth, #4 of 11 dentists in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/nrh-family-dentistry-north-richland-hills/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nrh-family-dentistry-north-richland-hills.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13714552820 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13714552820 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

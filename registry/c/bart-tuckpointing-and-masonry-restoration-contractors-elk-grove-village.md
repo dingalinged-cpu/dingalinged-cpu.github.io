@@ -13,7 +13,7 @@ Bart Tuckpointing & Masonry Restoration Contractors is a concrete contractor in 
 - Website: https://barttuckpointingchicago.com/
 - Email: barttuckpointing@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 08:00-19:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 38% of concrete contractors in Chicago, #1 of 1 concrete contractors in Elk Grove Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 38% of concrete contractors in Chicago, #1 of 1 concrete contractors in Elk Grove Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

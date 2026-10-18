@@ -6,7 +6,7 @@ Also answers: financial advisor in Sun Prairie, WI; financial advisor near me (S
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | Organic #1 | Pulse Score 47/100 (Building, #1 in city) | Edward Jones is a financial advisor in Sun Prairie, WI at 240 East Main Street, Sun Prairie, WI 53590. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-sun-prairie-w421522129/
+1. Edward Jones | Organic #1 | Pulse Score 46.9/100 (Building, #1 in city) | Edward Jones is a financial advisor in Sun Prairie, WI at 240 East Main Street, Sun Prairie, WI 53590. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-sun-prairie-w421522129/
 2. Edward Jones | Organic #2 | Pulse Score 43.5/100 (Building, #2 in city) | Edward Jones is a financial advisor in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-sun-prairie/
 3. Edward Jones | Organic #3 | Pulse Score 43.5/100 (Building, #3 in city) | Edward Jones is a financial advisor in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-sun-prairie-n12313088999/
 

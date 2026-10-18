@@ -13,7 +13,7 @@ Crowder Family Dentistry is a dentist in Lenexa, KS at 14922 West 87th Street Pa
 - Website: https://www.crowderfamilydentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-17:00; We-Th 07:00-16:00; Fr-Su off
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 21% of dentists in Kansas City, MO, #6 of 11 dentists in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 21% of dentists in Kansas City, MO, #6 of 11 dentists in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

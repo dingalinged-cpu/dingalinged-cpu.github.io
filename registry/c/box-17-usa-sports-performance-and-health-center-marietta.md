@@ -13,7 +13,7 @@ BOX 17 USA Sports Performance & Health Center is a gym in Marietta, GA at 1477 R
 - Website: https://box17usa.com/
 - Email: info@box17usa.com
 - Opening hours (OSM syntax): Mo-Fr 06:00-21:00; Sa 08:00-22:00; Su off
-- Pulse Score: 65.1/100 — Good — top 3% of gyms in Atlanta, #2 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.7, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 2% of gyms in Atlanta, #2 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.7, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

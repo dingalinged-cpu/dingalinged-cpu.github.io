@@ -13,7 +13,7 @@ K's Nails is a nail salon in Chicago, IL at 5813 South Archer Avenue, Chicago, I
 - Website: https://www.boardofcosmetology.net/ks-nails-chicago-il-sl8408
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 87% of nail salons in Chicago, #79 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 86% of nail salons in Chicago, #78 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

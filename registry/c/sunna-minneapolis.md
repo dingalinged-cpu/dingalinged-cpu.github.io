@@ -13,7 +13,7 @@ Sunna is a pilates studio in Minneapolis, MN at 514 Southeast 2nd Street #105, M
 - Website: https://www.spacesunna.com/
 - Email: contact@spacesunna.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 13% of pilates studios in Minneapolis–St. Paul, #1 of 3 pilates studios in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 13% of pilates studios in Minneapolis–St. Paul, #1 of 3 pilates studios in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

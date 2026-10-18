@@ -6,7 +6,7 @@ Also answers: graphic designer in Mission, KS; graphic designer near me (Mission
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ocean & Sea | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | Ocean & Sea is a graphic designer in Mission, KS at 5602 Johnson Drive, Mission, KS 66202. Website: https://oceanandsea.com/. | https://registry-edge.dingalinged.workers.dev/c/ocean-and-sea-mission/
+1. Ocean & Sea | Organic #1 | Pulse Score 63/100 (Good, #1 in city) | Ocean & Sea is a graphic designer in Mission, KS at 5602 Johnson Drive, Mission, KS 66202. Website: https://oceanandsea.com/. | https://registry-edge.dingalinged.workers.dev/c/ocean-and-sea-mission/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer mission ks | category: professional_marketing | industry benchmark: Business Services

@@ -6,7 +6,7 @@ Also answers: thrift store in Kaufman, TX; thrift store near me (Kaufman, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Salvation Army | Organic #1 | Pulse Score 43.2/100 (Building, #1 in city) | The Salvation Army is a thrift store in Kaufman, TX at 5 Oak Creek Drive, Kaufman, TX 75142. | https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-kaufman/
+1. The Salvation Army | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | The Salvation Army is a thrift store in Kaufman, TX at 5 Oak Creek Drive, Kaufman, TX 75142. | https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-kaufman/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store kaufman tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

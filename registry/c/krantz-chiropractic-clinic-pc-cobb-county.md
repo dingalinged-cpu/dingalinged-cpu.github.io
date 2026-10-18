@@ -13,7 +13,7 @@ Krantz Chiropractic Clinic PC is a chiropractor in Cobb County, GA. Phone: +1770
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Th 07:30-11:30,13:00-18:00; Tu 12:00-16:30; Fr-Su off
-- Pulse Score: 57.6/100 — Fair — top 51% of chiropractors in Atlanta, #10 of 16 chiropractors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Fair — top 50% of chiropractors in Atlanta, #10 of 16 chiropractors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

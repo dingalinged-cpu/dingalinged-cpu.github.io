@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Overland Park, KS at 7951 West 160th Stre
 - Website: https://www.edwardjones.com/us-en/financial-advisor/chad-shaddox
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Building — top 45% of financial advisors in Kansas City, MO, #4 of 6 financial advisors in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 45% of financial advisors in Kansas City, MO, #4 of 6 financial advisors in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

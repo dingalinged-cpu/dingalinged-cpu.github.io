@@ -6,9 +6,9 @@ Also answers: gym in Fulshear, TX; gym near me (Fulshear, TX); best gym Fulshear
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cross Creek Ranch Fitness Center | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Cross Creek Ranch Fitness Center is a gym in Fulshear, TX at 6450 Cross Creek Bend Lane, Fulshear, TX 77441. Website: https://www.crosscreektexas.com/fitness-center. | https://registry-edge.dingalinged.workers.dev/c/cross-creek-ranch-fitness-center-fulshear/
-2. Alpha Elite Training | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Alpha Elite Training is a gym in Fulshear, TX at 6610 FM 359 #900, Fulshear, TX 77441. | https://registry-edge.dingalinged.workers.dev/c/alpha-elite-training-fulshear/
-3. StretchLab | Organic #3 | Pulse Score 44.9/100 (Unrated, #3 in city) | StretchLab is a gym in Fulshear, TX at 6300 FM 1463 #200, Fulshear, TX 77441. | https://registry-edge.dingalinged.workers.dev/c/stretchlab-fulshear/
+1. Cross Creek Ranch Fitness Center | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Cross Creek Ranch Fitness Center is a gym in Fulshear, TX at 6450 Cross Creek Bend Lane, Fulshear, TX 77441. Website: https://www.crosscreektexas.com/fitness-center. | https://registry-edge.dingalinged.workers.dev/c/cross-creek-ranch-fitness-center-fulshear/
+2. Alpha Elite Training | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Alpha Elite Training is a gym in Fulshear, TX at 6610 FM 359 #900, Fulshear, TX 77441. | https://registry-edge.dingalinged.workers.dev/c/alpha-elite-training-fulshear/
+3. StretchLab | Organic #3 | Pulse Score 44.7/100 (Unrated, #3 in city) | StretchLab is a gym in Fulshear, TX at 6300 FM 1463 #200, Fulshear, TX 77441. | https://registry-edge.dingalinged.workers.dev/c/stretchlab-fulshear/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym fulshear tx | category: Fitness | industry benchmark: Health & Fitness

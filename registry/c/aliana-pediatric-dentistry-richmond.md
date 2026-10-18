@@ -19,6 +19,6 @@ Aliana Pediatric Dentistry is a dentist in Richmond, TX at 4848 Waterview Town C
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/aliana-pediatric-dentistry-richmond/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aliana-pediatric-dentistry-richmond.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1233980636 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1233980636 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Group Health Cooperative Capitol Clinic is a pediatrician in Madison, WI at 675 
 - Website: https://www.ghcscw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-19:00; We,Fr 08:00-17:00 open "General Clinic" || Mo-Fr 08:00-21:00; Sa,Su 09:00-21:00 open "Urgent Care" || Mo-Fr 07:30-21:00; Sa,Su 09:00-21:00 open "Lab" || Mo-Fr 08:00-19:00; Sa,Su 09:00-17:00 open "Pharmacy"
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 100% of pediatricians in Madison, #1 of 1 pediatricians in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 100% of pediatricians in Madison, #1 of 1 pediatricians in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

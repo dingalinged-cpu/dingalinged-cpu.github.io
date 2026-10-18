@@ -13,7 +13,7 @@ HomeSealed Exteriors, LLC is a window installer in New Berlin, WI at 2718 South 
 - Website: https://www.homesealed.com/
 - Email: service@homesealed.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 64/100 — Good — top 34% of window installers in Milwaukee, #1 of 1 window installers in New Berlin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 67.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64/100 — Good — top 34% of window installers in Milwaukee, #1 of 1 window installers in New Berlin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Cobb County, GA at 4205 Bells Ferry
 - Website: https://www.publicstorage.com/self-storage-ga-kennesaw/1605.html
 - Email: n/a
 - Opening hours (OSM syntax): 06:00-21:00
-- Pulse Score: 52.7/100 — Fair — top 18% of self-storage facilitys in Atlanta, #5 of 29 self-storage facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 70. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.7/100 — Fair — top 17% of self-storage facilitys in Atlanta, #4 of 29 self-storage facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 70. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

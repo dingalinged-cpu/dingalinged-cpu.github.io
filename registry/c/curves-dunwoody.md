@@ -13,7 +13,7 @@ Curves is a gym in Dunwoody, GA at 1424 Dunwoody Village Parkway, Dunwoody, GA 3
 - Website: https://www.curves.com/locations/club/GA/US/30338/Dunwoody-1
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:30-19:30; Tu 07:30-13:00, 15:30-19:30; We 07:30-19:30; Th 07:30-13:00, 15:30-19:30; Fr 07:30-13:00, 15:30-18:30; Sa 09:00-13:00
-- Pulse Score: 48.7/100 — Building — top 60% of gyms in Atlanta, #1 of 3 gyms in Dunwoody (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 59% of gyms in Atlanta, #1 of 3 gyms in Dunwoody (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

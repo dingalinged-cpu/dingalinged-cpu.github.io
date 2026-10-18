@@ -6,7 +6,7 @@ Also answers: funeral home in Gwinnett County, GA; funeral home near me (Gwinnet
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tom M. Wages Funeral Service, LLC | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Tom M. Wages Funeral Service, LLC is a funeral home in Gwinnett County, GA at 3705, Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/tom-m-wages-funeral-service-llc-gwinnett-county/
+1. Tom M. Wages Funeral Service, LLC | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Tom M. Wages Funeral Service, LLC is a funeral home in Gwinnett County, GA at 3705, Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/tom-m-wages-funeral-service-llc-gwinnett-county/
 2. Eternal Hills Funeral Home & Cremation Services | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Eternal Hills Funeral Home & Cremation Services is a funeral home in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/eternal-hills-funeral-home-and-cremation-services-gwinnett-county/
 
 ## Market data (for advertisers and agents)

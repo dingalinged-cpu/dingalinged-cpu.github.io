@@ -13,7 +13,7 @@ Whole Body Pilates is a pilates studio in Mission, KS at 5732 Johnson Drive, Mis
 - Website: https://www.wholebodypilateskc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 50% of pilates studios in Kansas City, MO, #1 of 1 pilates studios in Mission (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 50% of pilates studios in Kansas City, MO, #1 of 1 pilates studios in Mission (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

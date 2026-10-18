@@ -13,12 +13,12 @@ Highland Oaks Family Dentistry - Keller, TX is a dentist in Keller, TX at 700 N 
 - Website: https://highlandoaksfamilydentistry.com/
 - Email: info@highlandoaksfamilydentistry.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 64/100 — Good — top 2% of dentists in Dallas–Fort Worth, #1 of 7 dentists in Keller (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 2% of dentists in Dallas–Fort Worth, #1 of 7 dentists in Keller (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/highland-oaks-family-dentistry-keller-tx-keller/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/highland-oaks-family-dentistry-keller-tx-keller.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12009560072 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12009560072 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

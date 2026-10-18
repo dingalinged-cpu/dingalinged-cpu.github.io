@@ -6,7 +6,7 @@ Also answers: dance studio in Kansas City, KS; dance studio near me (Kansas City
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Walters Dance Center | Organic #1 | Pulse Score 62/100 (Unrated, #2 in city) | Walters Dance Center is a dance studio in Kansas City, KS at 5023 Minnesota Avenue, Kansas City, KS 66102. Phone: +19132873355. Website: https://waltersdancecenter.com/. | https://registry-edge.dingalinged.workers.dev/c/walters-dance-center-kansas-city/
+1. Walters Dance Center | Organic #1 | Pulse Score 61.9/100 (Unrated, #2 in city) | Walters Dance Center is a dance studio in Kansas City, KS at 5023 Minnesota Avenue, Kansas City, KS 66102. Phone: +19132873355. Website: https://waltersdancecenter.com/. | https://registry-edge.dingalinged.workers.dev/c/walters-dance-center-kansas-city/
 2. Rosie's Dance Academy | Organic #2 | Pulse Score 54.5/100 (Unrated, #8 in city) | Rosie's Dance Academy is a dance studio in Kansas City, KS. | https://registry-edge.dingalinged.workers.dev/c/rosies-dance-academy-kansas-city/
 
 ## Market data (for advertisers and agents)

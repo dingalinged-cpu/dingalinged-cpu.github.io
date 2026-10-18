@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. LT Professional Handwash & Express | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | LT Professional Handwash & Express is a car wash in Douglasville, GA at 12521 Veterans Memorial Highway, Douglasville, GA 30134. | https://registry-edge.dingalinged.workers.dev/c/lt-professional-handwash-and-express-douglasville/
 2. Cactus Car Wash | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Cactus Car Wash is a car wash in Douglasville, GA. | https://registry-edge.dingalinged.workers.dev/c/cactus-car-wash-douglasville/
-3. Mister Car Wash | Organic #3 | Pulse Score 42/100 (Unrated, #3 in city) | Mister Car Wash is a car wash in Douglasville, GA. | https://registry-edge.dingalinged.workers.dev/c/mister-car-wash-douglasville/
+3. Mister Car Wash | Organic #3 | Pulse Score 41.9/100 (Unrated, #3 in city) | Mister Car Wash is a car wash in Douglasville, GA. | https://registry-edge.dingalinged.workers.dev/c/mister-car-wash-douglasville/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash douglasville ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

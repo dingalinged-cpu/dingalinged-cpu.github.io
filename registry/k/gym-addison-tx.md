@@ -6,14 +6,14 @@ Also answers: gym in Addison, TX; gym near me (Addison, TX); best gym Addison, T
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cox Gymnasium | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Cox Gymnasium is a gym in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/cox-gymnasium-addison/
-2. Phillips Gymnasium | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Phillips Gymnasium is a gym in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/phillips-gymnasium-addison/
+1. Cox Gymnasium | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Cox Gymnasium is a gym in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/cox-gymnasium-addison/
+2. Phillips Gymnasium | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Phillips Gymnasium is a gym in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/phillips-gymnasium-addison/
 3. EōS Fitness | Organic #3 | Pulse Score 47.9/100 (Building, #3 in city) | EōS Fitness is a gym in Addison, TX at 3854 Belt Line Road, Addison, TX 75001. | https://registry-edge.dingalinged.workers.dev/c/e-s-fitness-addison/
-4. Orangetheory Fitness | Organic #4 | Pulse Score 47/100 (Building, #43 in city) | Orangetheory Fitness is a gym in Dallas, TX at 5290 Belt Line Road #156, Dallas, TX 75254. Phone: +12147580338. | https://registry-edge.dingalinged.workers.dev/c/orangetheory-fitness-dallas-n11809781375/
-5. F45 Training | Organic #5 | Pulse Score 46.6/100 (Building, #45 in city) | F45 Training is a gym in Dallas, TX at 5100 Belt Line Road #716, Dallas, TX 75254. Website: https://f45training.com/studio/addisoneast/. | https://registry-edge.dingalinged.workers.dev/c/f45-training-dallas/
-6. Pure Barre | Organic #6 | Pulse Score 44.8/100 (Building, #49 in city) | Pure Barre is a gym in Dallas, TX at 5000 Belt Line Road #200, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/pure-barre-dallas/
-7. Crunch Fitness | Organic #7 | Pulse Score 44.3/100 (Building, #4 in city) | Crunch Fitness is a gym in Addison, TX at 3854 Belt Line Road, Addison, TX 75001. | https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-addison/
-8. Stretch Lab | Organic #8 | Pulse Score 43.9/100 (Unrated, #56 in city) | Stretch Lab is a gym in Dallas, TX at 5100 Belt Line Road #850, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/stretch-lab-dallas/
+4. Orangetheory Fitness | Organic #4 | Pulse Score 46.9/100 (Building, #46 in city) | Orangetheory Fitness is a gym in Dallas, TX at 5290 Belt Line Road #156, Dallas, TX 75254. Phone: +12147580338. | https://registry-edge.dingalinged.workers.dev/c/orangetheory-fitness-dallas-n11809781375/
+5. F45 Training | Organic #5 | Pulse Score 46.6/100 (Building, #49 in city) | F45 Training is a gym in Dallas, TX at 5100 Belt Line Road #716, Dallas, TX 75254. Website: https://f45training.com/studio/addisoneast/. | https://registry-edge.dingalinged.workers.dev/c/f45-training-dallas/
+6. Pure Barre | Organic #6 | Pulse Score 44.6/100 (Building, #54 in city) | Pure Barre is a gym in Dallas, TX at 5000 Belt Line Road #200, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/pure-barre-dallas/
+7. Crunch Fitness | Organic #7 | Pulse Score 44.1/100 (Building, #4 in city) | Crunch Fitness is a gym in Addison, TX at 3854 Belt Line Road, Addison, TX 75001. | https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-addison/
+8. Stretch Lab | Organic #8 | Pulse Score 43.8/100 (Unrated, #60 in city) | Stretch Lab is a gym in Dallas, TX at 5100 Belt Line Road #850, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/stretch-lab-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym addison tx | category: Fitness | industry benchmark: Health & Fitness

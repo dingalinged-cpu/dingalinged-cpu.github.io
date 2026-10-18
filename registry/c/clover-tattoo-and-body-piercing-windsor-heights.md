@@ -13,7 +13,7 @@ Clover Tattoo & Body Piercing is a tattoo shop in Windsor Heights, IA at 6565 Un
 - Website: https://clovertat2.jimdo.com/
 - Email: clovertat2@hotmail.com
 - Opening hours (OSM syntax): Su 12:00-20:00, Tu-Th 12:00-20:00, Fr-Sa 12:00-22:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 11% of tattoo shops in Des Moines, IA, #1 of 1 tattoo shops in Windsor Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 11% of tattoo shops in Des Moines, IA, #1 of 1 tattoo shops in Windsor Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

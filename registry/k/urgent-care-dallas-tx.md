@@ -6,8 +6,8 @@ Also answers: urgent care in Dallas, TX; urgent care near me (Dallas, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CareNow | Organic #1 | Pulse Score 46/100 (Building, #1 in city) | CareNow is an urgent care clinic in Dallas, TX at 39769 I-20, Dallas, TX 75237. Phone: +19727800802. Website: https://www.carenow.com/locations/dallas-fort-worth/i-20-and-wheatland/. | https://registry-edge.dingalinged.workers.dev/c/carenow-dallas/
-2. CareNOW | Organic #2 | Pulse Score 41.8/100 (Unrated, #2 in city) | CareNOW is an urgent care clinic in Dallas, TX at 9540 Garland Road #408, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/carenow-dallas-n13887660653/
+1. CareNow | Organic #1 | Pulse Score 46.2/100 (Building, #1 in city) | CareNow is an urgent care clinic in Dallas, TX at 39769 I-20, Dallas, TX 75237. Phone: +19727800802. Website: https://www.carenow.com/locations/dallas-fort-worth/i-20-and-wheatland/. | https://registry-edge.dingalinged.workers.dev/c/carenow-dallas/
+2. CareNOW | Organic #2 | Pulse Score 41.9/100 (Unrated, #2 in city) | CareNOW is an urgent care clinic in Dallas, TX at 9540 Garland Road #408, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/carenow-dallas-n13887660653/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care dallas tx | category: Health & medical | industry benchmark: Physicians & Surgeons

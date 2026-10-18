@@ -6,7 +6,7 @@ Also answers: financial advisor in Forney, TX; financial advisor near me (Forney
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | Organic #1 | Pulse Score 44.8/100 (Building, #1 in city) | Edward Jones is a financial advisor in Forney, TX at 425 Pinson Road #A, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-forney/
+1. Edward Jones | Organic #1 | Pulse Score 44.5/100 (Building, #1 in city) | Edward Jones is a financial advisor in Forney, TX at 425 Pinson Road #A, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor forney tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Keleny Top Soil is a landscaping company in Verona, WI at 7486 Valley View Road,
 - Website: https://www.kelenytopsoil.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:30; Sa 08:00-12:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 40% of landscaping companys in Madison, #1 of 2 landscaping companys in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 40% of landscaping companys in Madison, #1 of 2 landscaping companys in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

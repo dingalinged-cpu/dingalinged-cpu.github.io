@@ -13,7 +13,7 @@ Allatoona Heating & Cooling is a HVAC contractor in Acworth, GA at 4461 Bretton 
 - Website: https://allatoonaheatingandair.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 24% of HVAC contractors in Atlanta, #2 of 2 HVAC contractors in Acworth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 24% of HVAC contractors in Atlanta, #2 of 2 HVAC contractors in Acworth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Sun Prairie, WI at 485 South Legacy Way, Su
 - Website: https://www.mattressfirm.com/en-us/stores/wi/sun-prairie/111010/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.9/100 — Building — top 46% of mattress stores in Madison, #1 of 1 mattress stores in Sun Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 46% of mattress stores in Madison, #1 of 1 mattress stores in Sun Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

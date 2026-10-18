@@ -13,7 +13,7 @@ Luxury Nails Spa is a nail salon in Kennesaw, GA at 1300 Ernest W. Barrett Parkw
 - Website: https://www.facebook.com/Luxury-Nails-Spa-264671087346122/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 51.6/100 — Fair — top 79% of nail salons in Atlanta, #10 of 11 nail salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 67.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.6/100 — Fair — top 77% of nail salons in Atlanta, #10 of 11 nail salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 67.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

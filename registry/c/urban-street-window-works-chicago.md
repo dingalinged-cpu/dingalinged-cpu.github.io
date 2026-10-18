@@ -13,7 +13,7 @@ Urban Street Window Works is a window installer in Chicago, IL at 2334 West Nels
 - Website: https://urbanstreetwindowworks.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su off
-- Pulse Score: 62.5/100 — Good — top 11% of window installers in Chicago, #1 of 4 window installers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Good — top 11% of window installers in Chicago, #1 of 4 window installers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

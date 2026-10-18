@@ -19,6 +19,6 @@ Rightway Dental is a dentist in Fulshear, TX at 6630 FM 1463 #600, Fulshear, TX 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/rightway-dental-fulshear/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rightway-dental-fulshear.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5256216778 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5256216778 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

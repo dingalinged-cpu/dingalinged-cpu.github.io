@@ -6,7 +6,7 @@ Also answers: graphic designer in Kansas City, MO; graphic designer near me (Kan
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carpenter Collective | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Carpenter Collective is a graphic designer in Kansas City, MO at 1803 Wyandotte Street #102, Kansas City, MO 64108. | https://registry-edge.dingalinged.workers.dev/c/carpenter-collective-kansas-city/
+1. Carpenter Collective | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Carpenter Collective is a graphic designer in Kansas City, MO at 1803 Wyandotte Street #102, Kansas City, MO 64108. | https://registry-edge.dingalinged.workers.dev/c/carpenter-collective-kansas-city/
 2. Focal Design Studio | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Focal Design Studio is a graphic designer in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/focal-design-studio-kansas-city/
 
 ## Market data (for advertisers and agents)

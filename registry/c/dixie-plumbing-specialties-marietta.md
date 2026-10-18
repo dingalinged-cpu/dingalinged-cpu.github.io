@@ -13,7 +13,7 @@ Dixie Plumbing Specialties is a plumber in Marietta, GA at 1810 Lower Roswell Ro
 - Website: https://dixieplumbingspecialties.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Fair — top 50% of plumbers in Atlanta, #3 of 3 plumbers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Fair — top 50% of plumbers in Atlanta, #3 of 3 plumbers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

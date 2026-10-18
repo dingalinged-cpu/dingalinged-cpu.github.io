@@ -13,7 +13,7 @@ MacPhail Center for Music is a music school in Minneapolis, MN at 501 South 2nd 
 - Website: https://www.macphail.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 5% of music schools in Minneapolis–St. Paul, #1 of 5 music schools in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 5% of music schools in Minneapolis–St. Paul, #1 of 5 music schools in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

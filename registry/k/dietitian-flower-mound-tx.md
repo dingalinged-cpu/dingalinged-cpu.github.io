@@ -6,7 +6,7 @@ Also answers: dietitian in Flower Mound, TX; dietitian near me (Flower Mound, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Possibility Institute | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Possibility Institute is a dietitian in Flower Mound, TX at 3305 Long Prairie Road #115, Flower Mound, TX. Phone: +18173084794. Website: https://www.neurorejuvination.com/. | https://registry-edge.dingalinged.workers.dev/c/possibility-institute-flower-mound/
+1. Possibility Institute | Organic #1 | Pulse Score 61.9/100 (Good, #1 in city) | Possibility Institute is a dietitian in Flower Mound, TX at 3305 Long Prairie Road #115, Flower Mound, TX. Phone: +18173084794. Website: https://www.neurorejuvination.com/. | https://registry-edge.dingalinged.workers.dev/c/possibility-institute-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: dietitian flower mound tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Golly Gear | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Golly Gear is a pet store in Skokie, IL at 7951 Babb Avenue, Skokie, IL 60077. | https://registry-edge.dingalinged.workers.dev/c/golly-gear-skokie/
 2. PetSmart | Organic #2 | Pulse Score 49.7/100 (Building, #2 in city) | PetSmart is a pet store in Skokie, IL at 5485 West Touhy Avenue #17, Skokie, IL 60077. Phone: +18476744654. Website: https://www.petsmart.com/stores/us/il/skokie-store1139.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-skokie/
-3. Petco | Organic #3 | Pulse Score 47.4/100 (Building, #3 in city) | Petco is a pet store in Skokie, IL at 9645 Skokie Boulevard, Skokie, IL 60077. Phone: +18476742192. Website: https://stores.petco.com/il/skokie/pet-supplies-skokie-il-1940.html. | https://registry-edge.dingalinged.workers.dev/c/petco-skokie/
+3. Petco | Organic #3 | Pulse Score 47.3/100 (Building, #3 in city) | Petco is a pet store in Skokie, IL at 9645 Skokie Boulevard, Skokie, IL 60077. Phone: +18476742192. Website: https://stores.petco.com/il/skokie/pet-supplies-skokie-il-1940.html. | https://registry-edge.dingalinged.workers.dev/c/petco-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store skokie il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

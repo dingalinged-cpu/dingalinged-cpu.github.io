@@ -13,7 +13,7 @@ Windy Hill Athletic Club is a gym in Cobb County, GA at 135 Interstate North Par
 - Website: https://www.midtown.com/locations/atlanta/
 - Email: contact.win@windyhillclub.com
 - Opening hours (OSM syntax): Mo-Fr 05:00-22:00; Sa 07:00-20:00; Su 08:00-20:00
-- Pulse Score: 65.2/100 — Good — top 2% of gyms in Atlanta, #2 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.7, Trust 64.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 2% of gyms in Atlanta, #1 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.7, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

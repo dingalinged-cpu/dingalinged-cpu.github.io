@@ -19,6 +19,6 @@ Team Tataje - Keller Williams is a real estate agency in Southlake, TX at 850 Ea
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/team-tataje-keller-williams-southlake/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/team-tataje-keller-williams-southlake.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10241263818 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10241263818 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

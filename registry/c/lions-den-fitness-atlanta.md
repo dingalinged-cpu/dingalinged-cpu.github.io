@@ -13,7 +13,7 @@ Lion's Den Fitness is a gym in Atlanta, GA at 900 Peachtree Street Northeast #10
 - Website: https://www.lionsdenfitnessatl.com/
 - Email: lionsdenfitnessatl@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Good — top 12% of gyms in Atlanta, #5 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Good — top 12% of gyms in Atlanta, #5 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

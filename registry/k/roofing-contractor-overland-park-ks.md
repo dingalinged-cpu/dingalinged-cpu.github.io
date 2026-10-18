@@ -7,7 +7,7 @@ Also answers: roofing contractor in Overland Park, KS; roofing contractor near m
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Crown Town Restoration, Inc. | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Crown Town Restoration, Inc. is a roofer in Overland Park, KS at 7320 W 162nd St #Suite 106, Overland Park, KS 66085. Phone: +19132149028. Website: https://crowntownrestoration.com/. | https://registry-edge.dingalinged.workers.dev/c/crown-town-restoration-inc-overland-park/
-2. Shamrock Roofing and Construction | Organic #2 | Pulse Score 49.5/100 (Unrated, #2 in city) | Shamrock Roofing and Construction is a roofer in Overland Park, KS at 7899 East Frontage Road, Overland Park, KS 66204. Phone: +19138506556. Website: https://shamrockroofer.com/. | https://registry-edge.dingalinged.workers.dev/c/shamrock-roofing-and-construction-overland-park/
+2. Shamrock Roofing and Construction | Organic #2 | Pulse Score 49.6/100 (Unrated, #2 in city) | Shamrock Roofing and Construction is a roofer in Overland Park, KS at 7899 East Frontage Road, Overland Park, KS 66204. Phone: +19138506556. Website: https://shamrockroofer.com/. | https://registry-edge.dingalinged.workers.dev/c/shamrock-roofing-and-construction-overland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor overland park ks | category: Home services - Roofing | industry benchmark: Home & Home Improvement

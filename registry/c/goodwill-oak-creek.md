@@ -13,7 +13,7 @@ Goodwill is a thrift store in Oak Creek, WI at 8201 South Howell Avenue #Suite 1
 - Website: https://www.goodwillgreatermc.org/contact/all-locations/location-details/oak-creek-store-and-donation-center
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-20:00
-- Pulse Score: 49.8/100 — Building — top 46% of thrift stores in Milwaukee, #2 of 2 thrift stores in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 44% of thrift stores in Milwaukee, #2 of 2 thrift stores in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

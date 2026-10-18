@@ -6,7 +6,7 @@ Also answers: martial arts in Sachse, TX; martial arts near me (Sachse, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. White Tiger | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | White Tiger is a martial arts school in Sachse, TX at 5250 State Highway 78 #700, Sachse, TX 75048. Website: https://mywhitetigermartialarts.com/. | https://registry-edge.dingalinged.workers.dev/c/white-tiger-sachse/
+1. White Tiger | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | White Tiger is a martial arts school in Sachse, TX at 5250 State Highway 78 #700, Sachse, TX 75048. Website: https://mywhitetigermartialarts.com/. | https://registry-edge.dingalinged.workers.dev/c/white-tiger-sachse/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts sachse tx | category: Fitness | industry benchmark: Health & Fitness

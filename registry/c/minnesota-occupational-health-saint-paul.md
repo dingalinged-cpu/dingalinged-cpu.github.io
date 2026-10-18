@@ -13,7 +13,7 @@ Minnesota Occupational Health is an occupational therapist in Saint Paul, MN at 
 - Website: https://www.mohonline.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 67% of occupational therapists in Minneapolis–St. Paul, #2 of 2 occupational therapists in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 67% of occupational therapists in Minneapolis–St. Paul, #2 of 2 occupational therapists in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

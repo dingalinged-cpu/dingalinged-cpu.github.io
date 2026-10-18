@@ -6,7 +6,7 @@ Also answers: martial arts in Westchester, IL; martial arts near me (Westchester
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Powell's Way of Kenpo | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Powell's Way of Kenpo is a martial arts school in Westchester, IL at 1921 South Mannheim Road, Westchester, IL 60154. Website: https://www.wayofkenpo.com/. | https://registry-edge.dingalinged.workers.dev/c/powells-way-of-kenpo-westchester/
+1. Powell's Way of Kenpo | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Powell's Way of Kenpo is a martial arts school in Westchester, IL at 1921 South Mannheim Road, Westchester, IL 60154. Website: https://www.wayofkenpo.com/. | https://registry-edge.dingalinged.workers.dev/c/powells-way-of-kenpo-westchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts westchester il | category: Fitness | industry benchmark: Health & Fitness

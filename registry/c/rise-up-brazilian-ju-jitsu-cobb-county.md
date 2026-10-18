@@ -13,7 +13,7 @@ Rise Up Brazilian Ju Jitsu is a martial arts school in Cobb County, GA at 4290 B
 - Website: https://riseupbjj.com/
 - Email: riseuptoyourpotential@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.2/100 — Good — top 24% of martial arts schools in Atlanta, #4 of 11 martial arts schools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Good — top 24% of martial arts schools in Atlanta, #4 of 11 martial arts schools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

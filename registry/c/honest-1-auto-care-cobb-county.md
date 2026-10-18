@@ -13,7 +13,7 @@ Honest-1 Auto Care is an auto repair shop in Cobb County, GA at 1391 East Cobb D
 - Website: https://www.honest1eastcobb.com/
 - Email: EastCobb@Honest-1.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Pulse Score: 51.2/100 — Fair — top 65% of auto repair shops in Atlanta, #44 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.6, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.2/100 — Fair — top 64% of auto repair shops in Atlanta, #43 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.6, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

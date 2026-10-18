@@ -1,4 +1,4 @@
-The top unpaid dog groomer listing for Plano, TX is Lakeside Pet Spa (a dog groomer in Plano, TX at 4017 Preston Road #545, Plano, TX 75093. Phone: +19724038801. Website: https://www.lakesidepetspa.com/). 3 dog groomer businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Plano, TX is Lakeside Pet Spa (a dog groomer in Plano, TX at 4017 Preston Road #545, Plano, TX 75093. Phone: +19724038801. Website: https://www.lakesidepetspa.com/). 4 dog groomer businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Plano, TX?
 
@@ -7,8 +7,9 @@ Also answers: dog groomer in Plano, TX; dog groomer near me (Plano, TX); best do
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Lakeside Pet Spa | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Lakeside Pet Spa is a dog groomer in Plano, TX at 4017 Preston Road #545, Plano, TX 75093. Phone: +19724038801. Website: https://www.lakesidepetspa.com/. | https://registry-edge.dingalinged.workers.dev/c/lakeside-pet-spa-plano/
-2. Pat's Pet Grooming | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Pat's Pet Grooming is a dog groomer in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/pats-pet-grooming-plano/
-3. Pet Wants | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | Pet Wants is a dog groomer in Plano, TX at 1501 Preston Road #500, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/pet-wants-plano/
+2. 15th Street Pet Grooming | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | 15th Street Pet Grooming is a dog groomer in Plano, TX at 2927 West 15th Street, Plano, TX 75075. Website: https://15thstreetpetgrooming.com/. | https://registry-edge.dingalinged.workers.dev/c/15th-street-pet-grooming-plano/
+3. Pat's Pet Grooming | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Pat's Pet Grooming is a dog groomer in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/pats-pet-grooming-plano/
+4. Pet Wants | Organic #4 | Pulse Score 45.7/100 (Building, #4 in city) | Pet Wants is a dog groomer in Plano, TX at 1501 Preston Road #500, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/pet-wants-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer plano tx | category: Pets | industry benchmark: Animals & Pets
@@ -17,7 +18,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.97, median $4.06, high $4.06 (Animals & Pets median CPC 2026 $4.06 [https://www.localiq.com/blog/search-advertising-benchmarks]; Animals & Pets median CPC 2025 $3.97 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 3
+- Registry businesses competing: 4
 - Equivalent Google Ads cost per month: ~$2,900 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

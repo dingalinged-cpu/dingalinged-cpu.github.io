@@ -6,7 +6,7 @@ Also answers: yoga classes in Grapevine, TX; yoga classes near me (Grapevine, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Movement Grapevine | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | Movement Grapevine is a yoga studio in Grapevine, TX at 3105 William D Tate Avenue, Grapevine, TX 76051. Website: https://movementgyms.com/grapevine/. | https://registry-edge.dingalinged.workers.dev/c/movement-grapevine-grapevine/
+1. Movement Grapevine | Organic #1 | Pulse Score 62.4/100 (Good, #1 in city) | Movement Grapevine is a yoga studio in Grapevine, TX at 3105 William D Tate Avenue, Grapevine, TX 76051. Website: https://movementgyms.com/grapevine/. | https://registry-edge.dingalinged.workers.dev/c/movement-grapevine-grapevine/
 2. Yoga Studio | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Yoga Studio is a yoga studio in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/yoga-studio-grapevine/
 
 ## Market data (for advertisers and agents)

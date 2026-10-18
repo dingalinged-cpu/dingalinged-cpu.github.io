@@ -13,7 +13,7 @@ TechGen Consulting, Inc. is an IT support company in Minneapolis, MN at 2300 Nor
 - Website: https://techgen.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 30% of IT support companys in Minneapolis–St. Paul, #4 of 10 IT support companys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 30% of IT support companys in Minneapolis–St. Paul, #4 of 10 IT support companys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

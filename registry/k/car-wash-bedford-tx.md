@@ -6,7 +6,7 @@ Also answers: car wash in Bedford, TX; car wash near me (Bedford, TX); best car 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trinity Shine Car Wash | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Trinity Shine Car Wash is a car wash in Bedford, TX at 721 North Industrial Boulevard, Bedford, TX 76021. | https://registry-edge.dingalinged.workers.dev/c/trinity-shine-car-wash-bedford/
+1. Trinity Shine Car Wash | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Trinity Shine Car Wash is a car wash in Bedford, TX at 721 North Industrial Boulevard, Bedford, TX 76021. | https://registry-edge.dingalinged.workers.dev/c/trinity-shine-car-wash-bedford/
 2. Speedway Express Car Wash | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Speedway Express Car Wash is a car wash in Bedford, TX. Website: https://www.speedwaycarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/speedway-express-car-wash-bedford/
 3. Best Car Wash | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Best Car Wash is a car wash in Bedford, TX. | https://registry-edge.dingalinged.workers.dev/c/best-car-wash-bedford/
 4. H-E-B Car Wash | Organic #4 | Pulse Score 45/100 (Building, #5 in city) | H-E-B Car Wash is a car wash in Euless, TX at 2105 Rio Grande Boulevard, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-euless/

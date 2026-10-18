@@ -6,9 +6,9 @@ Also answers: florist in Kennesaw, GA; florist near me (Kennesaw, GA); best flor
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Faith Designs Florist | Organic #1 | Pulse Score 61.9/100 (Good, #1 in city) | Faith Designs Florist is a florist in Kennesaw, GA at 2680 Cobb Parkway #D, Kennesaw, GA. Phone: +17704256570. Website: https://faithdesignsflorist.com/. | https://registry-edge.dingalinged.workers.dev/c/faith-designs-florist-kennesaw/
+1. Faith Designs Florist | Organic #1 | Pulse Score 61.8/100 (Good, #1 in city) | Faith Designs Florist is a florist in Kennesaw, GA at 2680 Cobb Parkway #D, Kennesaw, GA. Phone: +17704256570. Website: https://faithdesignsflorist.com/. | https://registry-edge.dingalinged.workers.dev/c/faith-designs-florist-kennesaw/
 2. Kennesaw Florist | Organic #2 | Pulse Score 61.4/100 (Good, #2 in city) | Kennesaw Florist is a florist in Kennesaw, GA at 2724 Summers Street Northwest, Kennesaw, GA. Phone: +17704221674. Website: https://www.kennesawflorist.com/. | https://registry-edge.dingalinged.workers.dev/c/kennesaw-florist-kennesaw/
-3. A Petal Pusher Florist | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | A Petal Pusher Florist is a florist in Kennesaw, GA at 2213 Northbrook Ridge Northwest, Kennesaw, GA 30152. Phone: +17704320015. Website: https://apetalpusher.com/. | https://registry-edge.dingalinged.workers.dev/c/a-petal-pusher-florist-kennesaw/
+3. A Petal Pusher Florist | Organic #3 | Pulse Score 59/100 (Unrated, #3 in city) | A Petal Pusher Florist is a florist in Kennesaw, GA at 2213 Northbrook Ridge Northwest, Kennesaw, GA 30152. Phone: +17704320015. Website: https://apetalpusher.com/. | https://registry-edge.dingalinged.workers.dev/c/a-petal-pusher-florist-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist kennesaw ga | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ Extreme Auto Plaza is an used car dealer in Des Moines, IA at 1453 East 14th Str
 - Website: https://www.extremeautoplaza.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-18:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 20% of used car dealers in Des Moines, IA, #1 of 2 used car dealers in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 20% of used car dealers in Des Moines, IA, #1 of 2 used car dealers in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

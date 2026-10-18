@@ -6,7 +6,7 @@ Also answers: vet in Balch Springs, TX; vet near me (Balch Springs, TX); best ve
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dallas County Veterinary Hospital | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Dallas County Veterinary Hospital is a veterinarian in Balch Springs, TX at 3475 South Belt Line Road, Balch Springs, TX 75181. | https://registry-edge.dingalinged.workers.dev/c/dallas-county-veterinary-hospital-balch-springs/
+1. Dallas County Veterinary Hospital | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Dallas County Veterinary Hospital is a veterinarian in Balch Springs, TX at 3475 South Belt Line Road, Balch Springs, TX 75181. | https://registry-edge.dingalinged.workers.dev/c/dallas-county-veterinary-hospital-balch-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet balch springs tx | category: Pets | industry benchmark: Animals & Pets

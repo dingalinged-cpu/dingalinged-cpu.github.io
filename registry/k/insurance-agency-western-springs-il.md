@@ -6,7 +6,7 @@ Also answers: insurance agency in Western Springs, IL; insurance agency near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Robert James Insurance Services | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Robert James Insurance Services is an insurance agent in Western Springs, IL at 4367 Lawn Avenue, Western Springs, IL 60558. Phone: +17082471525. Website: https://www.robertjamesinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/robert-james-insurance-services-western-springs/
+1. Robert James Insurance Services | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Robert James Insurance Services is an insurance agent in Western Springs, IL at 4367 Lawn Avenue, Western Springs, IL 60558. Phone: +17082471525. Website: https://www.robertjamesinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/robert-james-insurance-services-western-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency western springs il | category: insurance | industry benchmark: Finance & Insurance

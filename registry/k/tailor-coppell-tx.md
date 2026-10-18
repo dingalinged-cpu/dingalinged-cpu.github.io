@@ -6,7 +6,7 @@ Also answers: tailor in Coppell, TX; tailor near me (Coppell, TX); best tailor C
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A+ Tailor | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | A+ Tailor is a tailor in Coppell, TX. Phone: +19723930445. | https://registry-edge.dingalinged.workers.dev/c/a-tailor-coppell/
+1. A+ Tailor | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | A+ Tailor is a tailor in Coppell, TX. Phone: +19723930445. | https://registry-edge.dingalinged.workers.dev/c/a-tailor-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor coppell tx | category: Professional & financial services | industry benchmark: Finance & Insurance

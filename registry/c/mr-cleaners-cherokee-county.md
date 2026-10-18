@@ -13,7 +13,7 @@ Mr. Cleaners is a dry cleaner in Cherokee County, GA at 5505 Bells Ferry Road #1
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 10:00-16:00; Su off
-- Pulse Score: 63.6/100 — Good — top 10% of dry cleaners in Atlanta, #1 of 1 dry cleaners in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 11% of dry cleaners in Atlanta, #1 of 1 dry cleaners in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

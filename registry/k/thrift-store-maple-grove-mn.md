@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. TurnStyle | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | TurnStyle is a thrift store in Maple Grove, MN at 13744 83rd Way North, Maple Grove, MN 55369. Phone: +17634202864. Website: https://www.turnstyleconsign.com/. | https://registry-edge.dingalinged.workers.dev/c/turnstyle-maple-grove/
 2. Goodwill | Organic #2 | Pulse Score 49.3/100 (Building, #2 in city) | Goodwill is a thrift store in Maple Grove, MN at 13605 80th Circle North, Maple Grove, MN 55369. Phone: +17634163681. Website: https://www.goodwilleasterseals.org/. | https://registry-edge.dingalinged.workers.dev/c/goodwill-maple-grove-w612725532/
-3. Goodwill | Organic #3 | Pulse Score 45/100 (Building, #3 in city) | Goodwill is a thrift store in Maple Grove, MN at 9530 Dunkirk Lane North, Maple Grove, MN 55311. | https://registry-edge.dingalinged.workers.dev/c/goodwill-maple-grove/
+3. Goodwill | Organic #3 | Pulse Score 45.1/100 (Building, #3 in city) | Goodwill is a thrift store in Maple Grove, MN at 9530 Dunkirk Lane North, Maple Grove, MN 55311. | https://registry-edge.dingalinged.workers.dev/c/goodwill-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store maple grove mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

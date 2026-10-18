@@ -6,8 +6,8 @@ Also answers: family doctor in Tomball, TX; family doctor near me (Tomball, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Feray Family Practice | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Feray Family Practice is a family medicine practice in Tomball, TX at 720 Lawrence Street, Tomball, TX 77375. Website: https://www.drferay.com/. | https://registry-edge.dingalinged.workers.dev/c/feray-family-practice-tomball/
-2. First Primary Care | Organic #2 | Pulse Score 48.7/100 (Building, #2 in city) | First Primary Care is a family medicine practice in Tomball, TX at 12426 Spring Cypress Road #C, Tomball, TX 77377. Phone: +18322199414. Website: https://www.firstprimarycare.com/. | https://registry-edge.dingalinged.workers.dev/c/first-primary-care-tomball/
+1. Feray Family Practice | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Feray Family Practice is a family medicine practice in Tomball, TX at 720 Lawrence Street, Tomball, TX 77375. Website: https://www.drferay.com/. | https://registry-edge.dingalinged.workers.dev/c/feray-family-practice-tomball/
+2. First Primary Care | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | First Primary Care is a family medicine practice in Tomball, TX at 12426 Spring Cypress Road #C, Tomball, TX 77377. Phone: +18322199414. Website: https://www.firstprimarycare.com/. | https://registry-edge.dingalinged.workers.dev/c/first-primary-care-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor tomball tx | category: Health & medical | industry benchmark: Physicians & Surgeons

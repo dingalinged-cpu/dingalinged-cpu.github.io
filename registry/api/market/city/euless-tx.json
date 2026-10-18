@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Euless, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
- "keywords": 47,
+ "keywords": 50,
  "lists": {
   "by_volume": [
    {
@@ -125,7 +125,7 @@
     "search_value_index_usd": 74000,
     "equivalent_google_ads_cost_month_usd": 4100,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 6,
+    "registry_competitors": 7,
     "ranked_by": "by_volume"
    },
    {
@@ -170,7 +170,7 @@
     "search_value_index_usd": 33000,
     "equivalent_google_ads_cost_month_usd": 1800,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 6,
+    "registry_competitors": 7,
     "ranked_by": "by_volume"
    },
    {
@@ -281,6 +281,18 @@
     "ranked_by": "by_cpc"
    },
    {
+    "keyword": "exterminator euless tx",
+    "slug": "exterminator-euless-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/exterminator-euless-tx/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "heating and air euless tx",
     "slug": "heating-and-air-euless-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-euless-tx/",
@@ -292,6 +304,18 @@
     "search_value_index_usd": 740,
     "equivalent_google_ads_cost_month_usd": 47.0,
     "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "pest control euless tx",
+    "slug": "pest-control-euless-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pest-control-euless-tx/",
+    "us_monthly_searches": 165000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
     "registry_competitors": 1,
     "ranked_by": "by_cpc"
    },
@@ -429,36 +453,6 @@
     "featured_spot_min_usd": 100,
     "registry_competitors": 1,
     "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "eye doctor euless tx",
-    "slug": "eye-doctor-euless-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-euless-tx/",
-    "us_monthly_searches": 220000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 5500,
-    "cpc_basis_usd": 4.76,
-    "cpc_median_usd": 4.76,
-    "search_value_index_usd": 26000,
-    "equivalent_google_ads_cost_month_usd": 1800,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "family doctor euless tx",
-    "slug": "family-doctor-euless-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-euless-tx/",
-    "us_monthly_searches": 33100,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 820,
-    "cpc_basis_usd": 4.76,
-    "cpc_median_usd": 4.76,
-    "search_value_index_usd": 3900,
-    "equivalent_google_ads_cost_month_usd": 260,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
    }
   ],
   "by_value": [
@@ -534,7 +528,7 @@
     "search_value_index_usd": 74000,
     "equivalent_google_ads_cost_month_usd": 4100,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 6,
+    "registry_competitors": 7,
     "ranked_by": "by_value"
    },
    {
@@ -579,7 +573,7 @@
     "search_value_index_usd": 33000,
     "equivalent_google_ads_cost_month_usd": 1800,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 6,
+    "registry_competitors": 7,
     "ranked_by": "by_value"
    },
    {

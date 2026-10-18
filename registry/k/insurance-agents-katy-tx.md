@@ -6,7 +6,7 @@ Also answers: insurance agents in Katy, TX; insurance agents near me (Katy, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Farmers Insurance - Willard Mays | Organic #1 | Pulse Score 49/100 (Building, #1 in city) | Farmers Insurance - Willard Mays is an insurance agent in Katy, TX at 2020 Katy Hockley Cut Off Road ##B, Katy, TX 77493. Phone: +12812312280. Website: https://agents.farmers.com/tx/katy/willard-mays. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-willard-mays-katy/
+1. Farmers Insurance - Willard Mays | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | Farmers Insurance - Willard Mays is an insurance agent in Katy, TX at 2020 Katy Hockley Cut Off Road ##B, Katy, TX 77493. Phone: +12812312280. Website: https://agents.farmers.com/tx/katy/willard-mays. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-willard-mays-katy/
 2. State Farm Insurance | Organic #2 | Pulse Score 47.6/100 (Building, #2 in city) | State Farm Insurance is an insurance agent in Katy, TX at 3020 North Fry Road, Katy, TX 77449. Phone: +12818295656. Website: https://agentandrade.com/. | https://registry-edge.dingalinged.workers.dev/c/state-farm-insurance-katy/
 3. State Farm | Organic #3 | Pulse Score 44.9/100 (Building, #3 in city) | State Farm is an insurance agent in Katy, TX at 1310 Pin Oak Road, Katy, TX 77494. | https://registry-edge.dingalinged.workers.dev/c/state-farm-katy/
 

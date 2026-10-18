@@ -6,7 +6,7 @@ Also answers: thrift store in Rowlett, TX; thrift store near me (Rowlett, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Life Message Thrift | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Life Message Thrift is a thrift store in Rowlett, TX at 4501 Rowlett Road #100, Rowlett, TX 75088. Phone: +19724124092. Website: https://lifemessage.org/thrift-store. | https://registry-edge.dingalinged.workers.dev/c/life-message-thrift-rowlett/
+1. Life Message Thrift | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Life Message Thrift is a thrift store in Rowlett, TX at 4501 Rowlett Road #100, Rowlett, TX 75088. Phone: +19724124092. Website: https://lifemessage.org/thrift-store. | https://registry-edge.dingalinged.workers.dev/c/life-message-thrift-rowlett/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store rowlett tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

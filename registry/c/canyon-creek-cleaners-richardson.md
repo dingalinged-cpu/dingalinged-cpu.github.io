@@ -19,6 +19,6 @@ Canyon Creek Cleaners is a dry cleaner in Richardson, TX at 3501 Custer Parkway 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/canyon-creek-cleaners-richardson/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/canyon-creek-cleaners-richardson.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7235900802 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7235900802 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

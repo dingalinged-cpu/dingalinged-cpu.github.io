@@ -6,7 +6,7 @@ Also answers: used cars for sale in Town Of Union, WI; used cars for sale near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Union Auto Sales | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Union Auto Sales is an used car dealer in Evansville, WI at 10247 US Highway 14, Evansville, WI 53536. Phone: +16084707803. Website: https://www.unionautosaleswi.com/. | https://registry-edge.dingalinged.workers.dev/c/union-auto-sales-evansville/
+1. Union Auto Sales | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Union Auto Sales is an used car dealer in Evansville, WI at 10247 US Highway 14, Evansville, WI 53536. Phone: +16084707803. Website: https://www.unionautosaleswi.com/. | https://registry-edge.dingalinged.workers.dev/c/union-auto-sales-evansville/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale town of union wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

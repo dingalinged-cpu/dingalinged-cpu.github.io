@@ -6,7 +6,7 @@ Also answers: printing services in Fort Bend County, TX; printing services near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Postal Copy Center #20 | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Postal Copy Center #20 is a printing service in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/postal-copy-center-20-fort-bend-county/
+1. Postal Copy Center #20 | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Postal Copy Center #20 is a printing service in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/postal-copy-center-20-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services fort bend county tx | category: Professional & financial services | industry benchmark: Finance & Insurance

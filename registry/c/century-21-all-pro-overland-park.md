@@ -13,7 +13,7 @@ Century 21 All-Pro is a real estate agency in Overland Park, KS at 11727 College
 - Website: https://century21.com/real-estate-office/profile/century-21-all-pro-10019111
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 26% of real estate agencys in Kansas City, MO, #5 of 8 real estate agencys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 25% of real estate agencys in Kansas City, MO, #5 of 8 real estate agencys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

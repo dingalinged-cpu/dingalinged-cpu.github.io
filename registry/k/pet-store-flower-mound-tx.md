@@ -8,9 +8,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Dallas Parrots | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Dallas Parrots is a pet store in Flower Mound, TX. Phone: +14697060972. Website: https://www.dallasparrots.com/. | https://registry-edge.dingalinged.workers.dev/c/dallas-parrots-flower-mound/
 2. CityVet | Organic #2 | Pulse Score 47.5/100 (Building, #2 in city) | CityVet is a pet store in Flower Mound, TX at 1221-2 Flower Mound Road #319, Flower Mound, TX. Phone: +19723552124. | https://registry-edge.dingalinged.workers.dev/c/cityvet-flower-mound/
-3. Hollywood Feed | Organic #3 | Pulse Score 44.8/100 (Unrated, #3 in city) | Hollywood Feed is a pet store in Flower Mound, TX. Website: https://www.hollywoodfeed.com/. | https://registry-edge.dingalinged.workers.dev/c/hollywood-feed-flower-mound/
-4. Petbar | Organic #4 | Pulse Score 42.1/100 (Unrated, #4 in city) | Petbar is a pet store in Flower Mound, TX at 4610 Long Prairie Rd, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/petbar-flower-mound/
-5. PetSmart | Organic #5 | Pulse Score 41.1/100 (Building, #5 in city) | PetSmart is a pet store in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/petsmart-flower-mound/
+3. PetSmart | Organic #3 | Pulse Score 46.7/100 (Building, #3 in city) | PetSmart is a pet store in Flower Mound, TX at 6060 Long Prairie Rd #200, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/petsmart-flower-mound/
+4. Hollywood Feed | Organic #4 | Pulse Score 44.7/100 (Unrated, #4 in city) | Hollywood Feed is a pet store in Flower Mound, TX. Website: https://www.hollywoodfeed.com/. | https://registry-edge.dingalinged.workers.dev/c/hollywood-feed-flower-mound/
+5. Petbar | Organic #5 | Pulse Score 42/100 (Unrated, #5 in city) | Petbar is a pet store in Flower Mound, TX at 4610 Long Prairie Rd, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/petbar-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store flower mound tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

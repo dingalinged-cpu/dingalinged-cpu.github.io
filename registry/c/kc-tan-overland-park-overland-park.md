@@ -13,7 +13,7 @@ KC Tan Overland Park is a tanning salon in Overland Park, KS at 8819 Metcalf Ave
 - Website: https://kctan.com/
 - Email: info@kctan.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 36% of tanning salons in Kansas City, MO, #1 of 1 tanning salons in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 36% of tanning salons in Kansas City, MO, #1 of 1 tanning salons in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Humble, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
- "keywords": 46,
+ "keywords": 54,
  "lists": {
   "by_volume": [
    {
@@ -20,6 +20,21 @@
     "search_value_index_usd": 550000,
     "equivalent_google_ads_cost_month_usd": 32000,
     "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "car wash humble tx",
+    "slug": "car-wash-humble-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-humble-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 42000,
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "search_value_index_usd": 180000,
+    "equivalent_google_ads_cost_month_usd": 10000,
+    "featured_spot_min_usd": 20,
     "registry_competitors": 1,
     "ranked_by": "by_volume"
    },
@@ -50,7 +65,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 5000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 7,
+    "registry_competitors": 9,
     "ranked_by": "by_volume"
    },
    {
@@ -65,7 +80,7 @@
     "search_value_index_usd": 19000,
     "equivalent_google_ads_cost_month_usd": 1100,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 10,
+    "registry_competitors": 11,
     "ranked_by": "by_volume"
    },
    {
@@ -110,7 +125,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 3900,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 20,
+    "registry_competitors": 23,
     "ranked_by": "by_volume"
    },
    {
@@ -155,7 +170,7 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 2200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 10,
+    "registry_competitors": 11,
     "ranked_by": "by_volume"
    },
    {
@@ -170,7 +185,7 @@
     "search_value_index_usd": 30000,
     "equivalent_google_ads_cost_month_usd": 1700,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 20,
+    "registry_competitors": 23,
     "ranked_by": "by_volume"
    },
    {
@@ -189,6 +204,21 @@
     "ranked_by": "by_volume"
    },
    {
+    "keyword": "chiropractor humble tx",
+    "slug": "chiropractor-humble-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-humble-tx/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 5700,
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "search_value_index_usd": 27000,
+    "equivalent_google_ads_cost_month_usd": 1800,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   },
+   {
     "keyword": "dog boarding humble tx",
     "slug": "dog-boarding-humble-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-humble-tx/",
@@ -202,39 +232,24 @@
     "featured_spot_min_usd": 20,
     "registry_competitors": 1,
     "ranked_by": "by_volume"
-   },
-   {
-    "keyword": "locksmith humble tx",
-    "slug": "locksmith-humble-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-humble-tx/",
-    "us_monthly_searches": 246000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 5700,
-    "cpc_basis_usd": 8.33,
-    "cpc_median_usd": 8.33,
-    "search_value_index_usd": 47000,
-    "equivalent_google_ads_cost_month_usd": 3000,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
-    "ranked_by": "by_volume"
-   },
-   {
-    "keyword": "landscaping humble tx",
-    "slug": "landscaping-humble-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-humble-tx/",
-    "us_monthly_searches": 201000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 4600,
-    "cpc_basis_usd": 8.76,
-    "cpc_median_usd": 8.76,
-    "search_value_index_usd": 40000,
-    "equivalent_google_ads_cost_month_usd": 2600,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
-    "ranked_by": "by_volume"
    }
   ],
   "by_cpc": [
+   {
+    "keyword": "hvac repair humble tx",
+    "slug": "hvac-repair-humble-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-humble-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 1700,
+    "cpc_basis_usd": 17.76,
+    "cpc_median_usd": 9.68,
+    "search_value_index_usd": 30000,
+    "equivalent_google_ads_cost_month_usd": 1900,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
    {
     "keyword": "plumbing services humble tx",
     "slug": "plumbing-services-humble-tx",
@@ -308,6 +323,21 @@
     "equivalent_google_ads_cost_month_usd": 220,
     "featured_spot_min_usd": 50,
     "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "heating and air humble tx",
+    "slug": "heating-and-air-humble-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-humble-tx/",
+    "us_monthly_searches": 3600,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 83.0,
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "search_value_index_usd": 690,
+    "equivalent_google_ads_cost_month_usd": 44.0,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
     "ranked_by": "by_cpc"
    },
    {
@@ -397,7 +427,7 @@
     "search_value_index_usd": 37000,
     "equivalent_google_ads_cost_month_usd": 2800,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_cpc"
    },
    {
@@ -427,37 +457,7 @@
     "search_value_index_usd": 43000,
     "equivalent_google_ads_cost_month_usd": 3100,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 2,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "tax preparer humble tx",
-    "slug": "tax-preparer-humble-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-humble-tx/",
-    "us_monthly_searches": 60500,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 1400,
-    "cpc_basis_usd": 5.87,
-    "cpc_median_usd": 5.87,
-    "search_value_index_usd": 8200,
-    "equivalent_google_ads_cost_month_usd": 460,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 4,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "daycare humble tx",
-    "slug": "daycare-humble-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-humble-tx/",
-    "us_monthly_searches": 220000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 5100,
-    "cpc_basis_usd": 4.81,
-    "cpc_median_usd": 4.81,
-    "search_value_index_usd": 25000,
-    "equivalent_google_ads_cost_month_usd": 1400,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 2,
+    "registry_competitors": 3,
     "ranked_by": "by_cpc"
    }
   ],
@@ -508,6 +508,21 @@
     "ranked_by": "by_value"
    },
    {
+    "keyword": "car wash humble tx",
+    "slug": "car-wash-humble-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-humble-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 42000,
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "search_value_index_usd": 180000,
+    "equivalent_google_ads_cost_month_usd": 10000,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   },
+   {
     "keyword": "gym humble tx",
     "slug": "gym-humble-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/gym-humble-tx/",
@@ -519,7 +534,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 5000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 7,
+    "registry_competitors": 9,
     "ranked_by": "by_value"
    },
    {
@@ -534,7 +549,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 3900,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 20,
+    "registry_competitors": 23,
     "ranked_by": "by_value"
    },
    {
@@ -639,7 +654,7 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 2200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 10,
+    "registry_competitors": 11,
     "ranked_by": "by_value"
    },
    {
@@ -654,37 +669,22 @@
     "search_value_index_usd": 30000,
     "equivalent_google_ads_cost_month_usd": 1700,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 20,
+    "registry_competitors": 23,
     "ranked_by": "by_value"
    },
    {
-    "keyword": "dog boarding humble tx",
-    "slug": "dog-boarding-humble-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-humble-tx/",
-    "us_monthly_searches": 246000,
+    "keyword": "hvac repair humble tx",
+    "slug": "hvac-repair-humble-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-humble-tx/",
+    "us_monthly_searches": 74000,
     "us_volume_method": "cited",
-    "local_monthly_searches_est": 5700,
-    "cpc_basis_usd": 4.06,
-    "cpc_median_usd": 4.06,
-    "search_value_index_usd": 23000,
-    "equivalent_google_ads_cost_month_usd": 1500,
-    "featured_spot_min_usd": 20,
+    "local_monthly_searches_est": 1700,
+    "cpc_basis_usd": 17.76,
+    "cpc_median_usd": 9.68,
+    "search_value_index_usd": 30000,
+    "equivalent_google_ads_cost_month_usd": 1900,
+    "featured_spot_min_usd": 100,
     "registry_competitors": 1,
-    "ranked_by": "by_value"
-   },
-   {
-    "keyword": "hair salon humble tx",
-    "slug": "hair-salon-humble-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-humble-tx/",
-    "us_monthly_searches": 1500000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 35000,
-    "cpc_basis_usd": 0.55,
-    "cpc_median_usd": 4.62,
-    "search_value_index_usd": 19000,
-    "equivalent_google_ads_cost_month_usd": 1100,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 10,
     "ranked_by": "by_value"
    }
   ]

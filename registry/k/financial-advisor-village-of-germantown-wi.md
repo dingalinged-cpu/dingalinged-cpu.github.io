@@ -6,7 +6,7 @@ Also answers: financial advisor in Village Of Germantown, WI; financial advisor 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. EDEN Financial Services LLC | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | EDEN Financial Services LLC is a financial advisor in Village of Germantown, WI at W156N11048 Pilgrim Road, Village of Germantown, WI 53022. | https://registry-edge.dingalinged.workers.dev/c/eden-financial-services-llc-village-of-germantown/
+1. EDEN Financial Services LLC | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | EDEN Financial Services LLC is a financial advisor in Village of Germantown, WI at W156N11048 Pilgrim Road, Village of Germantown, WI 53022. | https://registry-edge.dingalinged.workers.dev/c/eden-financial-services-llc-village-of-germantown/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor village of germantown wi | category: Professional & financial services | industry benchmark: Finance & Insurance

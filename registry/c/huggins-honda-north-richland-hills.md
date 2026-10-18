@@ -8,17 +8,17 @@ Huggins Honda is an used car dealer in North Richland Hills, TX at 7551 Northeas
 - City: North Richland Hills
 - State: TX
 - ZIP: 76180
-- Coordinates: 32.8356918, -97.2188661
+- Coordinates: 32.8356917, -97.2188661
 - Phone: n/a
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-21:00; Sa 08:30-20:00; Su off
-- Pulse Score: 48.9/100 — Building — top 78% of used car dealers in Dallas–Fort Worth, #1 of 1 used car dealers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 79% of used car dealers in Dallas–Fort Worth, #1 of 1 used car dealers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.5, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/huggins-honda-north-richland-hills/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/huggins-honda-north-richland-hills.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/670740628 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/670740628 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

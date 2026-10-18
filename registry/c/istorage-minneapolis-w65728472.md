@@ -13,7 +13,7 @@ iStorage is a self-storage facility in Minneapolis, MN at 3601 Hiawatha Avenue, 
 - Website: https://www.istorage.com/storage/minnesota/storage-units-minneapolis/3601-Hiawatha-Ave-369
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 49% of self-storage facilitys in Minneapolis–St. Paul, #4 of 11 self-storage facilitys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 47% of self-storage facilitys in Minneapolis–St. Paul, #4 of 11 self-storage facilitys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

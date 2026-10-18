@@ -6,7 +6,7 @@ Also answers: hair salon in Pantego, TX; hair salon near me (Pantego, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beauty & Style Salon | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Beauty & Style Salon is a hair salon in Pantego, TX at 2400 West Park Row Drive, Pantego, TX 76013. | https://registry-edge.dingalinged.workers.dev/c/beauty-and-style-salon-pantego/
+1. Beauty & Style Salon | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Beauty & Style Salon is a hair salon in Pantego, TX at 2400 West Park Row Drive, Pantego, TX 76013. | https://registry-edge.dingalinged.workers.dev/c/beauty-and-style-salon-pantego/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon pantego tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

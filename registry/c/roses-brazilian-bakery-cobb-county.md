@@ -13,7 +13,7 @@ Rose's Brazilian Bakery is a bakery in Cobb County, GA at 3349 Canton Road North
 - Website: https://linktr.ee/rosesbrazilianbakery
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-20:00; Su 07:00-19:30
-- Pulse Score: 62.2/100 — Good — top 19% of bakerys in Atlanta, #3 of 8 bakerys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Good — top 18% of bakerys in Atlanta, #3 of 8 bakerys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Atlanta Cycling is a bike shop in Atlanta, GA at 4335 Cobb Parkway South, Atlant
 - Website: https://www.atlantacycling.com/storelocator/atlanta-cycling-vinings-2.htm
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00
-- Pulse Score: 49.4/100 — Building — top 91% of bike shops in Atlanta, #13 of 15 bike shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.4, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 91% of bike shops in Atlanta, #13 of 15 bike shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.3, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

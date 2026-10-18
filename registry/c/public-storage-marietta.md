@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Marietta, GA at 4951 Lower Roswell 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:00-21:00
-- Pulse Score: 47.5/100 — Building — top 38% of self-storage facilitys in Atlanta, #16 of 22 self-storage facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 38% of self-storage facilitys in Atlanta, #16 of 22 self-storage facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Regional Medical Group is a family medicine practice in Marietta, GA at 220 Cobb
 - Website: https://regionalmedicalgroup.com/locations/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Su off
-- Pulse Score: 57.3/100 — Fair — top 39% of family medicine practices in Atlanta, #2 of 6 family medicine practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Fair — top 39% of family medicine practices in Atlanta, #2 of 6 family medicine practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

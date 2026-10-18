@@ -13,7 +13,7 @@ Peter Sarpy Kids' Time is a preschool in Bellevue Second I Precinct, NE at 2908 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 32% of preschools in Omaha, NE, #2 of 2 preschools in Bellevue Second I Precinct (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 32% of preschools in Omaha, NE, #2 of 2 preschools in Bellevue Second I Precinct (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

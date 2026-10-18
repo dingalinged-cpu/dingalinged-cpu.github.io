@@ -13,7 +13,7 @@ Jeff Moore State Farm is an insurance agent in Omaha, NE at 4801 Center Street, 
 - Website: https://www.statefarm.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:30; Fr 08:00-17:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 15% of insurance agents in Omaha, NE, #4 of 21 insurance agents in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 15% of insurance agents in Omaha, NE, #4 of 21 insurance agents in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Metropolis Design Group is an interior designer in Minneapolis, MN. Phone: +1612
 - Website: https://www.metropolisdesigngroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Fair — top 100% of interior designers in Minneapolis–St. Paul, #1 of 1 interior designers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Fair — top 100% of interior designers in Minneapolis–St. Paul, #1 of 1 interior designers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

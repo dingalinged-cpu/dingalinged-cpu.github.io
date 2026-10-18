@@ -6,7 +6,7 @@ Also answers: motorcycle repair in Lee'S Summit, MO; motorcycle repair near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Iron Eagle Customs | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Iron Eagle Customs is a motorcycle repair shop in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/iron-eagle-customs-lees-summit/
+1. Iron Eagle Customs | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Iron Eagle Customs is a motorcycle repair shop in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/iron-eagle-customs-lees-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair lee's summit mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

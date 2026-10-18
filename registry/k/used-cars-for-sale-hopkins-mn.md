@@ -7,7 +7,7 @@ Also answers: used cars for sale in Hopkins, MN; used cars for sale near me (Hop
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Metro Motorcars Inc. | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Metro Motorcars Inc. is an used car dealer in Hopkins, MN at 8660 Excelsior Boulevard, Hopkins, MN 55343. Phone: +19529352275. Website: https://www.metromotorcarsmn.com/. | https://registry-edge.dingalinged.workers.dev/c/metro-motorcars-inc-hopkins/
-2. Warner Motors LLC | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Warner Motors LLC is an used car dealer in Hopkins, MN at 400 11th Avenue South, Hopkins, MN 55343. | https://registry-edge.dingalinged.workers.dev/c/warner-motors-llc-hopkins/
+2. Warner Motors LLC | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Warner Motors LLC is an used car dealer in Hopkins, MN at 400 11th Avenue South, Hopkins, MN 55343. | https://registry-edge.dingalinged.workers.dev/c/warner-motors-llc-hopkins/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale hopkins mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

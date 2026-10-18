@@ -19,6 +19,6 @@ Balance In Life Massage is a massage studio in Pantego, TX at 3630 West Pioneer 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/balance-in-life-massage-pantego/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/balance-in-life-massage-pantego.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13835031186 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13835031186 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

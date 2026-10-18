@@ -13,7 +13,7 @@ Childrens Physicians Clinic is a pediatrician in Omaha, NE at 2412 North 24th St
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-19:00
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 75% of pediatricians in Omaha, NE, #2 of 2 pediatricians in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 75% of pediatricians in Omaha, NE, #2 of 2 pediatricians in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

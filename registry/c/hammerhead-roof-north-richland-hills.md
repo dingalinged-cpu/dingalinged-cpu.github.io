@@ -13,12 +13,12 @@ Hammerhead Roof is a roofer in North Richland Hills, TX at 4925 Davis Boulevard 
 - Website: https://hammerheadroof.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 33% of roofers in Dallas–Fort Worth, #1 of 6 roofers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 31% of roofers in Dallas–Fort Worth, #1 of 6 roofers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/hammerhead-roof-north-richland-hills/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hammerhead-roof-north-richland-hills.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11747400645 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11747400645 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

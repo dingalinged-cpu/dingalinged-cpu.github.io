@@ -13,12 +13,12 @@ Bullseye Bike Shop is a bike shop in Denton, TX at 108 West McKinney Street #100
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:30-18:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 18% of bike shops in Dallas–Fort Worth, #1 of 4 bike shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 17% of bike shops in Dallas–Fort Worth, #1 of 4 bike shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/bullseye-bike-shop-denton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bullseye-bike-shop-denton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12948983042 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12948983042 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

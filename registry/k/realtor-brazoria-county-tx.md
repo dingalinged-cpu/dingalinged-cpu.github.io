@@ -6,8 +6,8 @@ Also answers: realtor in Brazoria County, TX; realtor near me (Brazoria County, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anglia Homes Martha's Vineyard | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Anglia Homes Martha's Vineyard is a real estate agency in Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/anglia-homes-marthas-vineyard-brazoria-county/
-2. Castlerock Communities Martha's Vineyard | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Castlerock Communities Martha's Vineyard is a real estate agency in Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/castlerock-communities-marthas-vineyard-brazoria-county/
+1. Anglia Homes Martha's Vineyard | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Anglia Homes Martha's Vineyard is a real estate agency in Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/anglia-homes-marthas-vineyard-brazoria-county/
+2. Castlerock Communities Martha's Vineyard | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Castlerock Communities Martha's Vineyard is a real estate agency in Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/castlerock-communities-marthas-vineyard-brazoria-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor brazoria county tx | category: real_estate | industry benchmark: Real Estate

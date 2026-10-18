@@ -13,7 +13,7 @@ Hudson's Pack N Move is a moving company in Cobb County, GA at 3372 Canton Road 
 - Website: https://www.hudsonspacknmovemarietta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-15:00
-- Pulse Score: 59.4/100 — Fair — top 72% of moving companys in Atlanta, #2 of 3 moving companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Fair — top 58% of moving companys in Atlanta, #1 of 3 moving companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

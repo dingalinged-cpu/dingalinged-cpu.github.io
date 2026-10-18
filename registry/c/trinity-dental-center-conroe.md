@@ -13,12 +13,12 @@ Trinity Dental Center is a dentist in Conroe, TX at 1304 West Davis Street #A, C
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Good — top 18% of dentists in Houston, #1 of 8 dentists in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 18% of dentists in Houston, #1 of 8 dentists in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/trinity-dental-center-conroe/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trinity-dental-center-conroe.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12055131343 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12055131343 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

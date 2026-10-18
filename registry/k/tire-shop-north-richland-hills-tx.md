@@ -6,7 +6,7 @@ Also answers: tire shop in North Richland Hills, TX; tire shop near me (North Ri
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | Organic #1 | Pulse Score 47.8/100 (Building, #1 in city) | Discount Tire is a tire shop in North Richland Hills, TX at 8632 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18177881557. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-north-richland-hills/
+1. Discount Tire | Organic #1 | Pulse Score 47.6/100 (Building, #1 in city) | Discount Tire is a tire shop in North Richland Hills, TX at 8632 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18177881557. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop north richland hills tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

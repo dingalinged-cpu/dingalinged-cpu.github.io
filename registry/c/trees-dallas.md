@@ -13,12 +13,12 @@ Trees is an event venue in Dallas, TX at 2709 Elm Street, Dallas, TX 75226. Phon
 - Website: https://www.treesdallas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.7/100 — Good — top 3% of event venues in Dallas–Fort Worth, #1 of 17 event venues in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 4% of event venues in Dallas–Fort Worth, #1 of 18 event venues in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/trees-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trees-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/361449471 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/361449471 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

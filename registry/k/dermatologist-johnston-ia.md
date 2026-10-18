@@ -6,7 +6,7 @@ Also answers: dermatologist in Johnston, IA; dermatologist near me (Johnston, IA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Central Iowa Dermatology | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Central Iowa Dermatology is a dermatologist in Johnston, IA at 5705 Northwest 100th Street, Johnston, IA. Phone: +15157263376. Website: https://www.centraliowadermatology.com/. | https://registry-edge.dingalinged.workers.dev/c/central-iowa-dermatology-johnston/
+1. Central Iowa Dermatology | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Central Iowa Dermatology is a dermatologist in Johnston, IA at 5705 Northwest 100th Street, Johnston, IA. Phone: +15157263376. Website: https://www.centraliowadermatology.com/. | https://registry-edge.dingalinged.workers.dev/c/central-iowa-dermatology-johnston/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist johnston ia | category: Health & medical | industry benchmark: Physicians & Surgeons

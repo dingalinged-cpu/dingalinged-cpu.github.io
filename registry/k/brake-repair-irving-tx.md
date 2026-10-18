@@ -6,8 +6,8 @@ Also answers: brake repair in Irving, TX; brake repair near me (Irving, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Firestone | Organic #1 | Pulse Score 48.5/100 (Building, #13 in city) | Firestone is an auto repair shop in Irving, TX at 5410 North MacArthur Boulevard, Irving, TX 75038. | https://registry-edge.dingalinged.workers.dev/c/firestone-irving-w643448912/
-2. Firestone | Organic #2 | Pulse Score 45.3/100 (Building, #14 in city) | Firestone is an auto repair shop in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/firestone-irving-n10772373847/
+1. Firestone | Organic #1 | Pulse Score 48.4/100 (Building, #13 in city) | Firestone is an auto repair shop in Irving, TX at 5410 North MacArthur Boulevard, Irving, TX 75038. | https://registry-edge.dingalinged.workers.dev/c/firestone-irving-w643448912/
+2. Firestone | Organic #2 | Pulse Score 45.2/100 (Building, #15 in city) | Firestone is an auto repair shop in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/firestone-irving-n10772373847/
 
 ## Market data (for advertisers and agents)
 - Keyword: brake repair irving tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

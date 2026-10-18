@@ -19,6 +19,6 @@ Pampered by Teliya Jean is a nail salon in Rockwall, TX at 2109 Summer Lee Drive
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/pampered-by-teliya-jean-rockwall/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pampered-by-teliya-jean-rockwall.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13640806156 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13640806156 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

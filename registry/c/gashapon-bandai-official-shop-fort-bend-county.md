@@ -19,6 +19,6 @@ Gashapon Bandai Official Shop is a gift shop in Fort Bend County, TX at 23501 Ci
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/gashapon-bandai-official-shop-fort-bend-county/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gashapon-bandai-official-shop-fort-bend-county.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/107773602 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/107773602 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,7 +6,7 @@ Also answers: preschool in Coon Rapids, MN; preschool near me (Coon Rapids, MN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Horizon Academy | Organic #1 | Pulse Score 48.1/100 (Building, #1 in city) | New Horizon Academy is a preschool in Coon Rapids, MN at 11441 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637553064. Website: https://www.newhorizonacademy.net/location/coon-rapids/. | https://registry-edge.dingalinged.workers.dev/c/new-horizon-academy-coon-rapids-w1002158993/
+1. New Horizon Academy | Organic #1 | Pulse Score 48/100 (Building, #1 in city) | New Horizon Academy is a preschool in Coon Rapids, MN at 11441 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637553064. Website: https://www.newhorizonacademy.net/location/coon-rapids/. | https://registry-edge.dingalinged.workers.dev/c/new-horizon-academy-coon-rapids-w1002158993/
 2. New Horizon Academy | Organic #2 | Pulse Score 47.3/100 (Building, #2 in city) | New Horizon Academy is a preschool in Coon Rapids, MN at 13130 Riverdale Drive NW, Coon Rapids, MN 55448. Phone: +17635533099. | https://registry-edge.dingalinged.workers.dev/c/new-horizon-academy-coon-rapids/
 
 ## Market data (for advertisers and agents)

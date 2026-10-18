@@ -13,7 +13,7 @@ Petco is a pet store in Atlanta, GA at 2955 Cobb Parkway South #410, Atlanta, GA
 - Website: https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-1554.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-20:00
-- Pulse Score: 47.4/100 — Building — top 52% of pet stores in Atlanta, #13 of 20 pet stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 52% of pet stores in Atlanta, #13 of 20 pet stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

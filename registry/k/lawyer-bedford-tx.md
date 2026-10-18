@@ -7,7 +7,7 @@ Also answers: lawyer in Bedford, TX; lawyer near me (Bedford, TX); best lawyer B
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. John R. Salazar, P.C. | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | John R. Salazar, P.C. is a lawyer in Bedford, TX. Phone: +18007459070. Website: https://johnrsalazar.com/. | https://registry-edge.dingalinged.workers.dev/c/john-r-salazar-p-c-bedford/
-2. The Parker Law Firm | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | The Parker Law Firm is a lawyer in Bedford, TX at 2317 Plaza Parkway #100, Bedford, TX 76021. Website: https://www.parkerlawfirm.com/. | https://registry-edge.dingalinged.workers.dev/c/the-parker-law-firm-bedford/
+2. The Parker Law Firm | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | The Parker Law Firm is a lawyer in Bedford, TX at 2317 Plaza Parkway #100, Bedford, TX 76021. Website: https://www.parkerlawfirm.com/. | https://registry-edge.dingalinged.workers.dev/c/the-parker-law-firm-bedford/
 3. Bailey & Galyen Attorneys At Law | Organic #3 | Pulse Score 53.6/100 (Unrated, #3 in city) | Bailey & Galyen Attorneys At Law is a lawyer in Bedford, TX. | https://registry-edge.dingalinged.workers.dev/c/bailey-and-galyen-attorneys-at-law-bedford/
 
 ## Market data (for advertisers and agents)

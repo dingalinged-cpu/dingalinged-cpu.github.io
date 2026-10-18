@@ -6,8 +6,8 @@ Also answers: therapist in The Woodlands, TX; therapist near me (The Woodlands, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Action Behavior Centers | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | Action Behavior Centers is a therapy practice in The Woodlands, TX at 3608 Research Forest Drive #500, The Woodlands, TX 77381. Phone: +17133886410. Website: https://www.actionbehavior.com/locations/aba-therapy-woodlands/. | https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-the-woodlands/
-2. WW Studio | Organic #2 | Pulse Score 41.6/100 (Building, #2 in city) | WW Studio is a therapy practice in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/ww-studio-the-woodlands/
+1. Action Behavior Centers | Organic #1 | Pulse Score 50.7/100 (Fair, #1 in city) | Action Behavior Centers is a therapy practice in The Woodlands, TX at 3608 Research Forest Drive #500, The Woodlands, TX 77381. Phone: +17133886410. Website: https://www.actionbehavior.com/locations/aba-therapy-woodlands/. | https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-the-woodlands/
+2. WW Studio | Organic #2 | Pulse Score 41.8/100 (Building, #2 in city) | WW Studio is a therapy practice in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/ww-studio-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist the woodlands tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

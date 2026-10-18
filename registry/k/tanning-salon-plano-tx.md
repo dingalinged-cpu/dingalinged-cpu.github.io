@@ -6,8 +6,8 @@ Also answers: tanning salon in Plano, TX; tanning salon near me (Plano, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Minaya Beauty Spa | Organic #1 | Pulse Score 62.8/100 (Unrated, #3 in city) | Minaya Beauty Spa is a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/. | https://registry-edge.dingalinged.workers.dev/c/minaya-beauty-spa-plano/
-2. Sugared + Bronzed | Organic #2 | Pulse Score 60.2/100 (Unrated, #1 in city) | Sugared + Bronzed is a tanning salon in Plano, TX at 7301 Lone Star Drive #A-112, Plano, TX 75024. Phone: +19724405156. | https://registry-edge.dingalinged.workers.dev/c/sugared-bronzed-plano/
+1. Minaya Beauty Spa | Organic #1 | Pulse Score 62.8/100 (Unrated, #4 in city) | Minaya Beauty Spa is a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/. | https://registry-edge.dingalinged.workers.dev/c/minaya-beauty-spa-plano/
+2. Sugared + Bronzed | Organic #2 | Pulse Score 62.3/100 (Unrated, #1 in city) | Sugared + Bronzed is a tanning salon in Plano, TX at 7301 Lone Star Drive #A-112, Plano, TX 75024. Phone: +19724405156. | https://registry-edge.dingalinged.workers.dev/c/sugared-bronzed-plano/
 3. Palm Beach Tan | Organic #3 | Pulse Score 44/100 (Building, #2 in city) | Palm Beach Tan is a tanning salon in Plano, TX at 3645 Dallas Parkway #509, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-plano/
 
 ## Market data (for advertisers and agents)

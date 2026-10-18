@@ -6,7 +6,7 @@ Also answers: gift shop in Doraville, GA; gift shop near me (Doraville, GA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Phúc Lộc Thọ Gift Shop | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Phúc Lộc Thọ Gift Shop is a gift shop in Doraville, GA. | https://registry-edge.dingalinged.workers.dev/c/ph-c-l-c-th-gift-shop-doraville/
+1. Phúc Lộc Thọ Gift Shop | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Phúc Lộc Thọ Gift Shop is a gift shop in Doraville, GA. | https://registry-edge.dingalinged.workers.dev/c/ph-c-l-c-th-gift-shop-doraville/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop doraville ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

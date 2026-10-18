@@ -13,7 +13,7 @@ Rhodes Hall is an event venue in Atlanta, GA at 1516 Peachtree Street Northeast,
 - Website: https://rhodeshall.org/
 - Email: events@georgiatrust.org
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 10:00-14:00
-- Pulse Score: 66/100 — Good — top 3% of event venues in Atlanta, #2 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.6, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 66/100 — Good — top 3% of event venues in Atlanta, #2 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.6, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -19,6 +19,6 @@ Richardson Inspection Service Inc. is a real estate agency in Plano, TX at 3301 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/richardson-inspection-service-inc-plano/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/richardson-inspection-service-inc-plano.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6697118170 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6697118170 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Westgate Cosmetic Surgery Center is a plastic surgeon in Grapevine, TX at 2301 W
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 45% of plastic surgeons in Dallas–Fort Worth, #1 of 1 plastic surgeons in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 43.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 40% of plastic surgeons in Dallas–Fort Worth, #1 of 1 plastic surgeons in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/westgate-cosmetic-surgery-center-grapevine/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/westgate-cosmetic-surgery-center-grapevine.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/961715170 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/961715170 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

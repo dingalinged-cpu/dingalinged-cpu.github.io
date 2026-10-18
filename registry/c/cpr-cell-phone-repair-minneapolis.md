@@ -13,7 +13,7 @@ CPR Cell Phone Repair is a phone repair shop in Minneapolis, MN at 806 Southeast
 - Website: https://www.cellphonerepair.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.3/100 — Building — top 60% of phone repair shops in Minneapolis–St. Paul, #2 of 3 phone repair shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 60% of phone repair shops in Minneapolis–St. Paul, #2 of 3 phone repair shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

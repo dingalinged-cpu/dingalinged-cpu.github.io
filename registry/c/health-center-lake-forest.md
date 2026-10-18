@@ -13,7 +13,7 @@ Health Center is a family medicine practice in Lake Forest, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.6/100 — Unrated (not enough evidence yet) — top 80% of family medicine practices in Chicago, #1 of 1 family medicine practices in Lake Forest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 38. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.6/100 — Unrated (not enough evidence yet) — top 80% of family medicine practices in Chicago, #1 of 1 family medicine practices in Lake Forest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 38. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

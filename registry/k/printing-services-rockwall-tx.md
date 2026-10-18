@@ -6,8 +6,8 @@ Also answers: printing services in Rockwall, TX; printing services near me (Rock
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | Organic #1 | Pulse Score 45.3/100 (Building, #1 in city) | The UPS Store is a printing service in Rockwall, TX at 3090 North Goliad Street #102, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-rockwall/
-2. FedEx Office | Organic #2 | Pulse Score 44/100 (Building, #2 in city) | FedEx Office is a printing service in Rockwall, TX at 909 East Interstate 30 #107, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-rockwall/
+1. The UPS Store | Organic #1 | Pulse Score 45.2/100 (Building, #1 in city) | The UPS Store is a printing service in Rockwall, TX at 3090 North Goliad Street #102, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-rockwall/
+2. FedEx Office | Organic #2 | Pulse Score 43.8/100 (Building, #2 in city) | FedEx Office is a printing service in Rockwall, TX at 909 East Interstate 30 #107, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services rockwall tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -6,8 +6,8 @@ Also answers: dentist in Johnston, IA; dentist near me (Johnston, IA); best dent
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Foxboro Family Dentistry | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Foxboro Family Dentistry is a dentist in Johnston, IA at 6163 Northwest 62nd Avenue, Johnston, IA 50131. | https://registry-edge.dingalinged.workers.dev/c/foxboro-family-dentistry-johnston/
-2. Johnston Dental | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Johnston Dental is a dentist in Johnston, IA at 5541 Northwest 86th Street, Johnston, IA 50131. | https://registry-edge.dingalinged.workers.dev/c/johnston-dental-johnston/
+1. Foxboro Family Dentistry | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Foxboro Family Dentistry is a dentist in Johnston, IA at 6163 Northwest 62nd Avenue, Johnston, IA 50131. | https://registry-edge.dingalinged.workers.dev/c/foxboro-family-dentistry-johnston/
+2. Johnston Dental | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Johnston Dental is a dentist in Johnston, IA at 5541 Northwest 86th Street, Johnston, IA 50131. | https://registry-edge.dingalinged.workers.dev/c/johnston-dental-johnston/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist johnston ia | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

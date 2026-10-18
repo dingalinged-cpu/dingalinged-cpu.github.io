@@ -6,8 +6,8 @@ Also answers: realtor in Smyrna, GA; realtor near me (Smyrna, GA); best realtor 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. T.A.M.G Realty Incorporated | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | T.A.M.G Realty Incorporated is a real estate agency in Smyrna, GA. Phone: +16782789439. | https://registry-edge.dingalinged.workers.dev/c/t-a-m-g-realty-incorporated-smyrna/
-2. Keller Williams | Organic #2 | Pulse Score 41.6/100 (Unrated, #2 in city) | Keller Williams is a real estate agency in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/keller-williams-smyrna/
+1. T.A.M.G Realty Incorporated | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | T.A.M.G Realty Incorporated is a real estate agency in Smyrna, GA. Phone: +16782789439. | https://registry-edge.dingalinged.workers.dev/c/t-a-m-g-realty-incorporated-smyrna/
+2. Keller Williams | Organic #2 | Pulse Score 41.5/100 (Unrated, #2 in city) | Keller Williams is a real estate agency in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/keller-williams-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor smyrna ga | category: real_estate | industry benchmark: Real Estate

@@ -6,9 +6,9 @@ Also answers: car inspection in Atlanta, GA; car inspection near me (Atlanta, GA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All Season Emission | Organic #1 | Pulse Score 57.9/100 (Fair, #1 in city) | All Season Emission is a vehicle inspection station in Atlanta, GA at 157 North Avenue Northeast, Atlanta, GA 30308. Phone: +14048490657. | https://registry-edge.dingalinged.workers.dev/c/all-season-emission-atlanta/
-2. Emissions | Organic #2 | Pulse Score 56.4/100 (Fair, #2 in city) | Emissions is a vehicle inspection station in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/emissions-atlanta/
-3. DEKRA Emissions & Safety | Organic #3 | Pulse Score 48.9/100 (Building, #3 in city) | DEKRA Emissions & Safety is a vehicle inspection station in Atlanta, GA at 1180 Collier Road Northwest, Atlanta, GA. Phone: +14043513062. Website: https://www.dekra.us/en/georgia/atlanta-1180-collier-rd/. | https://registry-edge.dingalinged.workers.dev/c/dekra-emissions-and-safety-atlanta/
+1. All Season Emission | Organic #1 | Pulse Score 58.2/100 (Fair, #1 in city) | All Season Emission is a vehicle inspection station in Atlanta, GA at 157 North Avenue Northeast, Atlanta, GA 30308. Phone: +14048490657. | https://registry-edge.dingalinged.workers.dev/c/all-season-emission-atlanta/
+2. Emissions | Organic #2 | Pulse Score 56.8/100 (Fair, #2 in city) | Emissions is a vehicle inspection station in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/emissions-atlanta/
+3. DEKRA Emissions & Safety | Organic #3 | Pulse Score 49.1/100 (Building, #3 in city) | DEKRA Emissions & Safety is a vehicle inspection station in Atlanta, GA at 1180 Collier Road Northwest, Atlanta, GA. Phone: +14043513062. Website: https://www.dekra.us/en/georgia/atlanta-1180-collier-rd/. | https://registry-edge.dingalinged.workers.dev/c/dekra-emissions-and-safety-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: car inspection atlanta ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

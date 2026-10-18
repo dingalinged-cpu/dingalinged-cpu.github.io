@@ -7,7 +7,7 @@ Also answers: printing services in Countryside, IL; printing services near me (C
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. C J Printing | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | C J Printing is a printing service in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/c-j-printing-countryside/
-2. FedEx Office | Organic #2 | Pulse Score 41/100 (Building, #2 in city) | FedEx Office is a printing service in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-countryside/
+2. FedEx Office | Organic #2 | Pulse Score 41.1/100 (Building, #2 in city) | FedEx Office is a printing service in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-countryside/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services countryside il | category: Professional & financial services | industry benchmark: Finance & Insurance

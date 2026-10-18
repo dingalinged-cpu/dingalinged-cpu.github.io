@@ -6,7 +6,7 @@ Also answers: pet store in New Glarus, WI; pet store near me (New Glarus, WI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Top Notch Feed & Pet Supply | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Top Notch Feed & Pet Supply is a pet store in New Glarus, WI at 211 Hoesly Drive, New Glarus, WI 53574. Phone: +16085273333. Website: https://www.topnotchfeed.com/. | https://registry-edge.dingalinged.workers.dev/c/top-notch-feed-and-pet-supply-new-glarus/
+1. Top Notch Feed & Pet Supply | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Top Notch Feed & Pet Supply is a pet store in New Glarus, WI at 211 Hoesly Drive, New Glarus, WI 53574. Phone: +16085273333. Website: https://www.topnotchfeed.com/. | https://registry-edge.dingalinged.workers.dev/c/top-notch-feed-and-pet-supply-new-glarus/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store new glarus wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

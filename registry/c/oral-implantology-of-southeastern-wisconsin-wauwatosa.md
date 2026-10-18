@@ -13,7 +13,7 @@ Oral Implantology Of Southeastern Wisconsin is a dentist in Wauwatosa, WI at 122
 - Website: n/a
 - Email: implants@call4smiles.com
 - Opening hours (OSM syntax): Mo,We,Th,Fr 07:00-17:00; Tu 07:00-18:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 26% of dentists in Milwaukee, #10 of 13 dentists in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 25% of dentists in Milwaukee, #10 of 13 dentists in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

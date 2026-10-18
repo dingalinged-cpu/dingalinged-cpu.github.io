@@ -6,7 +6,7 @@ Also answers: car wash in Alvin, TX; car wash near me (Alvin, TX); best car wash
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dove's Car Wash | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Dove's Car Wash is a car wash in Alvin, TX at 414 South Johnson Street, Alvin, TX 77511. | https://registry-edge.dingalinged.workers.dev/c/doves-car-wash-alvin/
+1. Dove's Car Wash | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Dove's Car Wash is a car wash in Alvin, TX at 414 South Johnson Street, Alvin, TX 77511. | https://registry-edge.dingalinged.workers.dev/c/doves-car-wash-alvin/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash alvin tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -6,8 +6,8 @@ Also answers: bakery in Coppell, TX; bakery near me (Coppell, TX); best bakery C
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Frost Cupcakery | Organic #1 | Pulse Score 58.3/100 (Fair, #1 in city) | Frost Cupcakery is a bakery in Coppell, TX. | https://registry-edge.dingalinged.workers.dev/c/frost-cupcakery-coppell/
-2. Paris Baguette | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Paris Baguette is a bakery in Coppell, TX. | https://registry-edge.dingalinged.workers.dev/c/paris-baguette-coppell/
+1. Frost Cupcakery | Organic #1 | Pulse Score 58.1/100 (Fair, #1 in city) | Frost Cupcakery is a bakery in Coppell, TX. | https://registry-edge.dingalinged.workers.dev/c/frost-cupcakery-coppell/
+2. Paris Baguette | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | Paris Baguette is a bakery in Coppell, TX. | https://registry-edge.dingalinged.workers.dev/c/paris-baguette-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery coppell tx | category: Events & weddings | industry benchmark: Personal Services

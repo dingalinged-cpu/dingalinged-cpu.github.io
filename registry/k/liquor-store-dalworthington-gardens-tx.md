@@ -6,7 +6,7 @@ Also answers: liquor store in Dalworthington Gardens, TX; liquor store near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spec's Wines, Spirits & Finer Foods | Organic #1 | Pulse Score 44.2/100 (Unrated, #1 in city) | Spec's Wines, Spirits & Finer Foods is a liquor store in Dalworthington Gardens, TX at 3200 Pioneer Parkway, Dalworthington Gardens, TX 76013. | https://registry-edge.dingalinged.workers.dev/c/specs-wines-spirits-and-finer-foods-dalworthington-gardens/
+1. Spec's Wines, Spirits & Finer Foods | Organic #1 | Pulse Score 44.1/100 (Unrated, #1 in city) | Spec's Wines, Spirits & Finer Foods is a liquor store in Dalworthington Gardens, TX at 3200 Pioneer Parkway, Dalworthington Gardens, TX 76013. | https://registry-edge.dingalinged.workers.dev/c/specs-wines-spirits-and-finer-foods-dalworthington-gardens/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store dalworthington gardens tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

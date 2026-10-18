@@ -19,6 +19,6 @@
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/357-ink-tattoo-and-piercings-mckinney/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/357-ink-tattoo-and-piercings-mckinney.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9281718068 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9281718068 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

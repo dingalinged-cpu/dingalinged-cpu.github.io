@@ -8,7 +8,7 @@ Charter Furniture Solutions is a furniture store in Addison, TX at 15101 Midway 
 - City: Addison
 - State: TX
 - ZIP: 75001
-- Coordinates: 32.9559669, -96.8396168
+- Coordinates: 32.955967, -96.8396168
 - Phone: +19723851911
 - Website: https://charterfurnituresolutions.com/
 - Email: n/a
@@ -19,6 +19,6 @@ Charter Furniture Solutions is a furniture store in Addison, TX at 15101 Midway 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/charter-furniture-solutions-addison/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/charter-furniture-solutions-addison.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/425018409 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/425018409 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

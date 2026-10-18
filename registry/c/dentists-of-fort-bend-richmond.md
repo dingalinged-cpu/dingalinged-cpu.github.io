@@ -19,6 +19,6 @@ Dentists of Fort Bend is a dentist in Richmond, TX at 10177 West Grand Parkway S
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/dentists-of-fort-bend-richmond/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dentists-of-fort-bend-richmond.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1346229839 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1346229839 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

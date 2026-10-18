@@ -13,7 +13,7 @@ Nagios Enterprises, LLC is an IT support company in Saint Paul, MN at 1295 #165 
 - Website: https://www.nagios.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 34% of IT support companys in Minneapolis–St. Paul, #2 of 2 IT support companys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 34% of IT support companys in Minneapolis–St. Paul, #2 of 2 IT support companys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

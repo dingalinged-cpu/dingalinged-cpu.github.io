@@ -6,7 +6,7 @@ Also answers: phone repair in Gwinnett County, GA; phone repair near me (Gwinnet
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. iwillfixyourphone | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | iwillfixyourphone is a phone repair shop in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/iwillfixyourphone-gwinnett-county/
+1. iwillfixyourphone | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | iwillfixyourphone is a phone repair shop in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/iwillfixyourphone-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair gwinnett county ga | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

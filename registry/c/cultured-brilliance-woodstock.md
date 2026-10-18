@@ -13,7 +13,7 @@ Cultured Brilliance is a jewelry store in Woodstock, GA at 8744 Main Street #103
 - Website: https://culturedbrilliance.com/
 - Email: sales@culturedbrilliance.com
 - Opening hours (OSM syntax): Mo,Su off; Tu-Fr 10:00-17:30; Sa 10:00-16:00
-- Pulse Score: 63.9/100 — Good — top 4% of jewelry stores in Atlanta, #1 of 3 jewelry stores in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 64.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 5% of jewelry stores in Atlanta, #1 of 3 jewelry stores in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

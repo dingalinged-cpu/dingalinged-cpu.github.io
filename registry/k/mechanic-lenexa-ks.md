@@ -10,8 +10,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Tesla Collision | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Tesla Collision is an auto repair shop in Lenexa, KS at 15125 West 101st Terrace, Lenexa, KS 66219. Phone: +19136939071. | https://registry-edge.dingalinged.workers.dev/c/tesla-collision-lenexa/
 3. Shore Tire | Organic #3 | Pulse Score 60.1/100 (Unrated, #3 in city) | Shore Tire is an auto repair shop in Lenexa, KS at 9300 Marshall Drive, Lenexa, KS 66218. Website: https://shoretire.com/. | https://registry-edge.dingalinged.workers.dev/c/shore-tire-lenexa/
 4. Goodyear | Organic #4 | Pulse Score 49.2/100 (Building, #4 in city) | Goodyear is an auto repair shop in Lenexa, KS at 10220 Stevenson Street, Lenexa, KS 66220. Phone: +19132540072. Website: https://www.goodyearautoservice.com/en_US/location/Lenexa-KS-66220-US-000904325. | https://registry-edge.dingalinged.workers.dev/c/goodyear-lenexa/
-5. Firestone | Organic #5 | Pulse Score 43.5/100 (Building, #5 in city) | Firestone is an auto repair shop in Lenexa, KS. | https://registry-edge.dingalinged.workers.dev/c/firestone-lenexa/
-6. Meineke | Organic #6 | Pulse Score 43.5/100 (Building, #6 in city) | Meineke is an auto repair shop in Lenexa, KS. | https://registry-edge.dingalinged.workers.dev/c/meineke-lenexa/
+5. Firestone | Organic #5 | Pulse Score 43.4/100 (Building, #5 in city) | Firestone is an auto repair shop in Lenexa, KS. | https://registry-edge.dingalinged.workers.dev/c/firestone-lenexa/
+6. Meineke | Organic #6 | Pulse Score 43.4/100 (Building, #6 in city) | Meineke is an auto repair shop in Lenexa, KS. | https://registry-edge.dingalinged.workers.dev/c/meineke-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic lenexa ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

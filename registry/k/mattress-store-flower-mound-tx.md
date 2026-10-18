@@ -1,4 +1,4 @@
-The top unpaid mattress store listing for Flower Mound, TX is Sleep Experts (a mattress store in Flower Mound, TX). 2 mattress store businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Flower Mound, TX is Mattress Firm (a mattress store in Flower Mound, TX). 2 mattress store businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Flower Mound, TX?
 
@@ -6,8 +6,8 @@ Also answers: mattress store in Flower Mound, TX; mattress store near me (Flower
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sleep Experts | Organic #1 | Pulse Score 43.8/100 (Building, #1 in city) | Sleep Experts is a mattress store in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/sleep-experts-flower-mound/
-2. Mattress Firm | Organic #2 | Pulse Score 41.7/100 (Building, #2 in city) | Mattress Firm is a mattress store in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-flower-mound/
+1. Mattress Firm | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | Mattress Firm is a mattress store in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-flower-mound/
+2. Mattress Firm | Organic #2 | Pulse Score 43.7/100 (Building, #2 in city) | Mattress Firm is a mattress store in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/sleep-experts-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store flower mound tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ The UPS Store is a printing service in Kansas City, MO at 1221 West 103rd Street
 - Website: https://locations.theupsstore.com/mo/kansas-city/1221-w-103rd-st
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 43% of printing services in Kansas City, MO, #6 of 16 printing services in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 43% of printing services in Kansas City, MO, #6 of 16 printing services in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

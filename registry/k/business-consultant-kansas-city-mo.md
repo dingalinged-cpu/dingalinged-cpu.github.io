@@ -6,11 +6,11 @@ Also answers: business consultant in Kansas City, MO; business consultant near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. IFF | Organic #1 | Pulse Score 53.2/100 (Unrated, #1 in city) | IFF is a business consultant in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/iff-kansas-city/
-2. White Hutchinson Producers And Designers | Organic #2 | Pulse Score 53.2/100 (Unrated, #2 in city) | White Hutchinson Producers And Designers is a business consultant in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/white-hutchinson-producers-and-designers-kansas-city/
+1. IFF | Organic #1 | Pulse Score 53.3/100 (Unrated, #1 in city) | IFF is a business consultant in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/iff-kansas-city/
+2. White Hutchinson Producers And Designers | Organic #2 | Pulse Score 53.3/100 (Unrated, #2 in city) | White Hutchinson Producers And Designers is a business consultant in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/white-hutchinson-producers-and-designers-kansas-city/
 3. EY | Organic #3 | Pulse Score 44.9/100 (Building, #3 in city) | EY is a business consultant in Kansas City, MO at 1200 Main Street #2500, Kansas City, MO 64105. Website: https://www.ey.com/en_us/locations/united-states. | https://registry-edge.dingalinged.workers.dev/c/ey-kansas-city/
 4. PwC | Organic #4 | Pulse Score 44.9/100 (Building, #4 in city) | PwC is a business consultant in Kansas City, MO at 1100 Walnut Street #1300, Kansas City, MO 64106. Website: https://www.pwc.com/us/en/about-us/pwc-office-locations.html. | https://registry-edge.dingalinged.workers.dev/c/pwc-kansas-city/
-5. Deloitte | Organic #5 | Pulse Score 44.3/100 (Building, #5 in city) | Deloitte is a business consultant in Kansas City, MO at 1100 Walnut Street #3300, Kansas City, MO 64106. Website: https://www2.deloitte.com/us/en/footerlinks/office-locator/missouri/kansas-city.html. | https://registry-edge.dingalinged.workers.dev/c/deloitte-kansas-city/
+5. Deloitte | Organic #5 | Pulse Score 44.4/100 (Building, #5 in city) | Deloitte is a business consultant in Kansas City, MO at 1100 Walnut Street #3300, Kansas City, MO 64106. Website: https://www2.deloitte.com/us/en/footerlinks/office-locator/missouri/kansas-city.html. | https://registry-edge.dingalinged.workers.dev/c/deloitte-kansas-city/
 6. KPMG | Organic #6 | Pulse Score 42.4/100 (Building, #6 in city) | KPMG is a business consultant in Kansas City, MO at 1000 Walnut Street #1000, Kansas City, MO 64106. | https://registry-edge.dingalinged.workers.dev/c/kpmg-kansas-city/
 
 ## Market data (for advertisers and agents)

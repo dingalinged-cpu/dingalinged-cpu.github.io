@@ -6,8 +6,8 @@ Also answers: preschool in Richmond, TX; preschool near me (Richmond, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Imaginare School | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Imaginare School is a preschool in Richmond, TX at 748 Crabb River Road, Richmond, TX 77469. Phone: +12815458386. Website: https://imaginareschool.net/. | https://registry-edge.dingalinged.workers.dev/c/imaginare-school-richmond/
-2. MELA Montessori & Reggio School | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | MELA Montessori & Reggio School is a preschool in Richmond, TX at 8311 FM 723, Richmond, TX 77406. | https://registry-edge.dingalinged.workers.dev/c/mela-montessori-and-reggio-school-richmond/
+1. Imaginare School | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Imaginare School is a preschool in Richmond, TX at 748 Crabb River Road, Richmond, TX 77469. Phone: +12815458386. Website: https://imaginareschool.net/. | https://registry-edge.dingalinged.workers.dev/c/imaginare-school-richmond/
+2. MELA Montessori & Reggio School | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | MELA Montessori & Reggio School is a preschool in Richmond, TX at 8311 FM 723, Richmond, TX 77406. | https://registry-edge.dingalinged.workers.dev/c/mela-montessori-and-reggio-school-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool richmond tx | category: Education & childcare | industry benchmark: Education & Instruction

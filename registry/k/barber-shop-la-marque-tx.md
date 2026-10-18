@@ -6,7 +6,7 @@ Also answers: barber shop in La Marque, TX; barber shop near me (La Marque, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Razor Sharp Barbershop | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Razor Sharp Barbershop is a barber shop in La Marque, TX at 1211 1st street, La Marque, TX 77568. | https://registry-edge.dingalinged.workers.dev/c/razor-sharp-barbershop-la-marque/
+1. Razor Sharp Barbershop | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Razor Sharp Barbershop is a barber shop in La Marque, TX at 1211 1st street, La Marque, TX 77568. | https://registry-edge.dingalinged.workers.dev/c/razor-sharp-barbershop-la-marque/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop la marque tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

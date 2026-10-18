@@ -13,7 +13,7 @@ T&T Nails is a nail salon in De Soto, KS at 33951 West 91st Terrace #E, De Soto,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.6/100 — Unrated (not enough evidence yet) — top 90% of nail salons in Kansas City, MO, #1 of 1 nail salons in De Soto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.6/100 — Unrated (not enough evidence yet) — top 89% of nail salons in Kansas City, MO, #1 of 1 nail salons in De Soto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

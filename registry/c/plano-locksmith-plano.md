@@ -19,6 +19,6 @@ Plano Locksmith is a locksmith in Plano, TX at 3700 Preston Road, Plano, TX 7509
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/plano-locksmith-plano/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/plano-locksmith-plano.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5414383025 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5414383025 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

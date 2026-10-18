@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Fort Worth, TX is Caliber Car Wash (a car wash in Fort Worth, TX). 1 car wash businesses are listed for Fort Worth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Fort Worth, TX is Texas Pride Car Wash (a car wash in Fort Worth, TX at 4100 Bryant Irvin Road, Fort Worth, TX 76109). 22 car wash businesses are listed for Fort Worth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Fort Worth, TX?
 
@@ -6,7 +6,28 @@ Also answers: car wash in Fort Worth, TX; car wash near me (Fort Worth, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caliber Car Wash | Organic #1 | Pulse Score 41.9/100 (Unrated, #1 in city) | Caliber Car Wash is a car wash in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/caliber-car-wash-fort-worth/
+1. Texas Pride Car Wash | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Texas Pride Car Wash is a car wash in Fort Worth, TX at 4100 Bryant Irvin Road, Fort Worth, TX 76109. | https://registry-edge.dingalinged.workers.dev/c/texas-pride-car-wash-fort-worth/
+2. BriteZone Carwash | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | BriteZone Carwash is a car wash in Fort Worth, TX at 5750 Bryant Irvin Road, Fort Worth, TX 76132. Phone: +18172942600. Website: https://www.carwashforyou.com/. | https://registry-edge.dingalinged.workers.dev/c/britezone-carwash-fort-worth/
+3. Cityview Car Wash & Lube Center | Organic #3 | Pulse Score 61.7/100 (Unrated, #3 in city) | Cityview Car Wash & Lube Center is a car wash in Fort Worth, TX at 4665 Bryant Irvin Road, Fort Worth, TX 76132. Phone: +18173619274. Website: https://cityviewcarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/cityview-car-wash-and-lube-center-fort-worth/
+4. Jerry's Express Car Wash North Fort Worth/Keller | Organic #4 | Pulse Score 61.6/100 (Unrated, #4 in city) | Jerry's Express Car Wash North Fort Worth/Keller is a car wash in Fort Worth, TX at 4784 Golden Triangle Boulevard, Fort Worth, TX 76244. | https://registry-edge.dingalinged.workers.dev/c/jerrys-express-car-wash-north-fort-worth-keller-fort-worth/
+5. Texas Star Autowash | Organic #5 | Pulse Score 59.1/100 (Unrated, #5 in city) | Texas Star Autowash is a car wash in Fort Worth, TX at 9801 Denton Highway, Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/texas-star-autowash-fort-worth/
+6. Superstar Car Wash | Organic #6 | Pulse Score 57.9/100 (Unrated, #6 in city) | Superstar Car Wash is a car wash in Fort Worth, TX at 100 West Rendon Crowley Road, Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/superstar-car-wash-fort-worth/
+7. USA Laserwash | Organic #7 | Pulse Score 57.9/100 (Unrated, #7 in city) | USA Laserwash is a car wash in Fort Worth, TX at 2101 Green Oaks Road, Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/usa-laserwash-fort-worth/
+8. Wash Masters #7 | Organic #8 | Pulse Score 57.9/100 (Unrated, #8 in city) | Wash Masters #7 is a car wash in Fort Worth, TX at 12400 South Freeway, Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/wash-masters-7-fort-worth/
+9. Cowtown Car Wash | Organic #9 | Pulse Score 55.5/100 (Unrated, #9 in city) | Cowtown Car Wash is a car wash in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/cowtown-car-wash-fort-worth/
+10. Five Star Express Carwash | Organic #10 | Pulse Score 55.5/100 (Unrated, #10 in city) | Five Star Express Carwash is a car wash in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/five-star-express-carwash-fort-worth/
+11. Groove Carwash | Organic #11 | Pulse Score 55.5/100 (Unrated, #11 in city) | Groove Carwash is a car wash in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/groove-carwash-fort-worth/
+12. Guzman's Handwash Car Wash | Organic #12 | Pulse Score 55.5/100 (Unrated, #12 in city) | Guzman's Handwash Car Wash is a car wash in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/guzmans-handwash-car-wash-fort-worth/
+13. Star Express Car Wash | Organic #13 | Pulse Score 55.5/100 (Unrated, #13 in city) | Star Express Car Wash is a car wash in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/star-express-car-wash-fort-worth/
+14. Trucker Drivers Wash | Organic #14 | Pulse Score 55.5/100 (Unrated, #14 in city) | Trucker Drivers Wash is a car wash in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/trucker-drivers-wash-fort-worth/
+15. Valero | Organic #15 | Pulse Score 46.9/100 (Building, #15 in city) | Valero is a car wash in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/valero-fort-worth/
+16. WhiteWater Express Car Wash | Organic #16 | Pulse Score 46.5/100 (Unrated, #16 in city) | WhiteWater Express Car Wash is a car wash in Fort Worth, TX at 8917 Lower Sonoma Lane, Fort Worth, TX 76177. | https://registry-edge.dingalinged.workers.dev/c/whitewater-express-car-wash-fort-worth/
+17. Rub A Dub Car Wash | Organic #17 | Pulse Score 45.9/100 (Unrated, #17 in city) | Rub A Dub Car Wash is a car wash in Fort Worth, TX at 8471 Camp Bowie West Boulevard, Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/rub-a-dub-car-wash-fort-worth/
+18. 7-Eleven | Organic #18 | Pulse Score 45.8/100 (Building, #18 in city) | 7-Eleven is a car wash in Fort Worth, TX at 9401 White Settlement Road, Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/7-eleven-fort-worth/
+19. 7-Eleven | Organic #19 | Pulse Score 45.8/100 (Building, #19 in city) | 7-Eleven is a car wash in Fort Worth, TX at 8421 Boat Club Road, Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/7-eleven-fort-worth-w510540702/
+20. Zips Express Car Wash | Organic #20 | Pulse Score 43.5/100 (Unrated, #20 in city) | Zips Express Car Wash is a car wash in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/zips-express-car-wash-fort-worth/
+21. Club Car Wash | Organic #21 | Pulse Score 42.7/100 (Unrated, #21 in city) | Club Car Wash is a car wash in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/club-car-wash-fort-worth/
+22. Caliber Car Wash | Organic #22 | Pulse Score 41.9/100 (Unrated, #1 in city) | Caliber Car Wash is a car wash in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/caliber-car-wash-fort-worth/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash fort worth tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -15,7 +36,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1
+- Registry businesses competing: 22
 - Equivalent Google Ads cost per month: ~$11,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

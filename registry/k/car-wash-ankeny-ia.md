@@ -7,13 +7,13 @@ Also answers: car wash in Ankeny, IA; car wash near me (Ankeny, IA); best car wa
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Executive Car Wash | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Executive Car Wash is a car wash in Ankeny, IA at 1825 Southwest Oralabor Road, Ankeny, IA 50021. | https://registry-edge.dingalinged.workers.dev/c/executive-car-wash-ankeny/
-2. Splash Car Wash | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Splash Car Wash is a car wash in Ankeny, IA at 1325 North Ankeny Boulevard, Ankeny, IA 50021. Website: https://www.splashcarwash.net/. | https://registry-edge.dingalinged.workers.dev/c/splash-car-wash-ankeny/
-3. Ankeny Auto Spa | Organic #3 | Pulse Score 57.9/100 (Unrated, #3 in city) | Ankeny Auto Spa is a car wash in Ankeny, IA at 909 East 1st Street, Ankeny, IA 50021. | https://registry-edge.dingalinged.workers.dev/c/ankeny-auto-spa-ankeny/
-4. Mills Car Wash | Organic #4 | Pulse Score 57.9/100 (Unrated, #4 in city) | Mills Car Wash is a car wash in Ankeny, IA at 3875 Southeast Delaware Avenue, Ankeny, IA 50021. | https://registry-edge.dingalinged.workers.dev/c/mills-car-wash-ankeny/
-5. The Shine Shop | Organic #5 | Pulse Score 57.9/100 (Unrated, #5 in city) | The Shine Shop is a car wash in Ankeny, IA at 3301 North Ankeny Boulevard, Ankeny, IA 50023. | https://registry-edge.dingalinged.workers.dev/c/the-shine-shop-ankeny/
-6. Karl's Car Wash | Organic #6 | Pulse Score 54.9/100 (Unrated, #6 in city) | Karl's Car Wash is a car wash in Ankeny, IA. | https://registry-edge.dingalinged.workers.dev/c/karls-car-wash-ankeny/
-7. Oasis | Organic #7 | Pulse Score 54.9/100 (Unrated, #7 in city) | Oasis is a car wash in Ankeny, IA. | https://registry-edge.dingalinged.workers.dev/c/oasis-ankeny/
-8. Super Wash | Organic #8 | Pulse Score 50.4/100 (Fair, #8 in city) | Super Wash is a car wash in Ankeny, IA at 2310 West 1st Street, Ankeny, IA 50023. Website: https://www.superwash.com/. | https://registry-edge.dingalinged.workers.dev/c/super-wash-ankeny/
+2. Ankeny Auto Spa | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Ankeny Auto Spa is a car wash in Ankeny, IA at 909 East 1st Street, Ankeny, IA 50021. | https://registry-edge.dingalinged.workers.dev/c/ankeny-auto-spa-ankeny/
+3. Mills Car Wash | Organic #3 | Pulse Score 57.9/100 (Unrated, #3 in city) | Mills Car Wash is a car wash in Ankeny, IA at 3875 Southeast Delaware Avenue, Ankeny, IA 50021. | https://registry-edge.dingalinged.workers.dev/c/mills-car-wash-ankeny/
+4. The Shine Shop | Organic #4 | Pulse Score 57.9/100 (Unrated, #4 in city) | The Shine Shop is a car wash in Ankeny, IA at 3301 North Ankeny Boulevard, Ankeny, IA 50023. | https://registry-edge.dingalinged.workers.dev/c/the-shine-shop-ankeny/
+5. Karl's Car Wash | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | Karl's Car Wash is a car wash in Ankeny, IA. | https://registry-edge.dingalinged.workers.dev/c/karls-car-wash-ankeny/
+6. Oasis | Organic #6 | Pulse Score 54.9/100 (Unrated, #6 in city) | Oasis is a car wash in Ankeny, IA. | https://registry-edge.dingalinged.workers.dev/c/oasis-ankeny/
+7. Super Wash | Organic #7 | Pulse Score 50.4/100 (Fair, #7 in city) | Super Wash is a car wash in Ankeny, IA at 2310 West 1st Street, Ankeny, IA 50023. Website: https://www.superwash.com/. | https://registry-edge.dingalinged.workers.dev/c/super-wash-ankeny/
+8. Splash Car Wash | Organic #8 | Pulse Score 48.2/100 (Unrated, #8 in city) | Splash Car Wash is a car wash in Ankeny, IA at 1325 North Ankeny Boulevard, Ankeny, IA 50021. Website: https://www.splashcarwash.net/. | https://registry-edge.dingalinged.workers.dev/c/splash-car-wash-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash ankeny ia | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

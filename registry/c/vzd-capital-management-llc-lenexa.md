@@ -13,7 +13,7 @@ VZD Capital Management, LLC is a financial advisor in Lenexa, KS at 8953 Mill Cr
 - Website: https://vzdcap.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-16:30
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 4% of financial advisors in Kansas City, MO, #1 of 1 financial advisors in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 4% of financial advisors in Kansas City, MO, #1 of 1 financial advisors in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

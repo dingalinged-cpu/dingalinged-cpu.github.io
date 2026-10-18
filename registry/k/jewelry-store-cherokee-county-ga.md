@@ -6,7 +6,7 @@ Also answers: jewelry store in Cherokee County, GA; jewelry store near me (Chero
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rudi Fine Jewelry | Organic #1 | Pulse Score 61.5/100 (Good, #1 in city) | Rudi Fine Jewelry is a jewelry store in Cherokee County, GA at 6790 Highway 92 #102, Cherokee County, GA. Phone: +16784452626. Website: https://www.rudifinejewelry.com/. | https://registry-edge.dingalinged.workers.dev/c/rudi-fine-jewelry-cherokee-county/
+1. Rudi Fine Jewelry | Organic #1 | Pulse Score 61.4/100 (Good, #1 in city) | Rudi Fine Jewelry is a jewelry store in Cherokee County, GA at 6790 Highway 92 #102, Cherokee County, GA. Phone: +16784452626. Website: https://www.rudifinejewelry.com/. | https://registry-edge.dingalinged.workers.dev/c/rudi-fine-jewelry-cherokee-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store cherokee county ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

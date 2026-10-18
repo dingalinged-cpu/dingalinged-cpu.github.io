@@ -13,7 +13,7 @@ Eagle Animal Hospital and Resort is a veterinarian in Riverside, MO at 4825 Nort
 - Website: https://www.eagleanimalhospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-12:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 11% of veterinarians in Kansas City, MO, #1 of 1 veterinarians in Riverside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 11% of veterinarians in Kansas City, MO, #1 of 1 veterinarians in Riverside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

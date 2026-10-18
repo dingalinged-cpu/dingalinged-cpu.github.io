@@ -6,7 +6,7 @@ Also answers: tire shop in Jacinto City, TX; tire shop near me (Jacinto City, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | Organic #1 | Pulse Score 46.3/100 (Building, #36 in city) | Discount Tire is a tire shop in Houston, TX at 11500 East Freeway, Houston, TX 77029. Phone: +17134519690. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-houston-n6300489970/
+1. Discount Tire | Organic #1 | Pulse Score 46.3/100 (Building, #35 in city) | Discount Tire is a tire shop in Houston, TX at 11500 East Freeway, Houston, TX 77029. Phone: +17134519690. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-houston-n6300489970/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop jacinto city tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

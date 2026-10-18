@@ -7,7 +7,7 @@ Also answers: occupational therapist in Milwaukee, WI; occupational therapist ne
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. PT Plus | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | PT Plus is an occupational therapist in Milwaukee, WI. Phone: +14144469291. Website: https://www.ptplus.com/. | https://registry-edge.dingalinged.workers.dev/c/pt-plus-milwaukee/
-2. Geromove Physical Therapy | Organic #2 | Pulse Score 57.6/100 (Fair, #2 in city) | Geromove Physical Therapy is an occupational therapist in Milwaukee, WI at 763 North Broadway, Milwaukee, WI 53202. Phone: +14148567044. Website: https://www.geromove.com/contact-downtown-milwaukee. | https://registry-edge.dingalinged.workers.dev/c/geromove-physical-therapy-milwaukee/
+2. Geromove Physical Therapy | Organic #2 | Pulse Score 57.9/100 (Fair, #2 in city) | Geromove Physical Therapy is an occupational therapist in Milwaukee, WI at 763 North Broadway, Milwaukee, WI 53202. Phone: +14148567044. Website: https://www.geromove.com/contact-downtown-milwaukee. | https://registry-edge.dingalinged.workers.dev/c/geromove-physical-therapy-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: occupational therapist milwaukee wi | category: Health & medical | industry benchmark: Physicians & Surgeons

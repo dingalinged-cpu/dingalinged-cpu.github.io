@@ -6,7 +6,7 @@ Also answers: pet store in Bloomingdale, IL; pet store near me (Bloomingdale, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | Organic #1 | Pulse Score 44.4/100 (Building, #1 in city) | Petco is a pet store in Bloomingdale, IL at 412 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16303071210. | https://registry-edge.dingalinged.workers.dev/c/petco-bloomingdale/
+1. Petco | Organic #1 | Pulse Score 44.3/100 (Building, #1 in city) | Petco is a pet store in Bloomingdale, IL at 412 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16303071210. | https://registry-edge.dingalinged.workers.dev/c/petco-bloomingdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store bloomingdale il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

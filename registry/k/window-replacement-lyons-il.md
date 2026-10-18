@@ -6,7 +6,7 @@ Also answers: window replacement in Lyons, IL; window replacement near me (Lyons
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A to Z Windows-Siding-Exterior Work | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | A to Z Windows-Siding-Exterior Work is a window installer in Lyons, IL. Phone: +17084431400. | https://registry-edge.dingalinged.workers.dev/c/a-to-z-windows-siding-exterior-work-lyons/
+1. A to Z Windows-Siding-Exterior Work | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | A to Z Windows-Siding-Exterior Work is a window installer in Lyons, IL. Phone: +17084431400. | https://registry-edge.dingalinged.workers.dev/c/a-to-z-windows-siding-exterior-work-lyons/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement lyons il | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

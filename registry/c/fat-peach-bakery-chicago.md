@@ -13,7 +13,7 @@ Fat Peach Bakery is a bakery in Chicago, IL at 2907 South Archer Avenue, Chicago
 - Website: https://www.instagram.com/fatpeachbakery/
 - Email: n/a
 - Opening hours (OSM syntax): Fr-Su 09:00-14:00
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 40% of bakerys in Chicago, #148 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 39% of bakerys in Chicago, #148 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

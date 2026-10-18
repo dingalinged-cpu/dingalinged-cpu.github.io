@@ -13,7 +13,7 @@ Law Office of Andrew J. Harger is a lawyer in Chicago, IL at 300 North LaSalle B
 - Website: https://www.hargerlawfirm.com/
 - Email: n/a
 - Opening hours (OSM syntax): 08:30-17:00
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 40% of lawyers in Chicago, #33 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 39% of lawyers in Chicago, #32 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

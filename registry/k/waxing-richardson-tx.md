@@ -6,8 +6,8 @@ Also answers: waxing in Richardson, TX; waxing near me (Richardson, TX); best wa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Candle Nail Spa | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | Candle Nail Spa is a nail salon in Richardson, TX at 3501 Custer Parkway #123, Richardson, TX 75080. Phone: +19723499909. Website: https://www.candlerichardson.com/. | https://registry-edge.dingalinged.workers.dev/c/candle-nail-spa-richardson/
-2. Sugaring NYC | Organic #2 | Pulse Score 48.9/100 (Building, #1 in city) | Sugaring NYC is a waxing salon in Richardson, TX at 3501 Custer Parkway #103, Richardson, TX 75080. Phone: +12142387553. Website: https://www.sugaringnyc.com/locations/sugaring-nyc-richardson-texas/. | https://registry-edge.dingalinged.workers.dev/c/sugaring-nyc-richardson/
+1. Candle Nail Spa | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Candle Nail Spa is a nail salon in Richardson, TX at 3501 Custer Parkway #123, Richardson, TX 75080. Phone: +19723499909. Website: https://www.candlerichardson.com/. | https://registry-edge.dingalinged.workers.dev/c/candle-nail-spa-richardson/
+2. Sugaring NYC | Organic #2 | Pulse Score 49/100 (Building, #1 in city) | Sugaring NYC is a waxing salon in Richardson, TX at 3501 Custer Parkway #103, Richardson, TX 75080. Phone: +12142387553. Website: https://www.sugaringnyc.com/locations/sugaring-nyc-richardson-texas/. | https://registry-edge.dingalinged.workers.dev/c/sugaring-nyc-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing richardson tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

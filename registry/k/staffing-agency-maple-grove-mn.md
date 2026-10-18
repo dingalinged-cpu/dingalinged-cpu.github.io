@@ -6,7 +6,7 @@ Also answers: staffing agency in Maple Grove, MN; staffing agency near me (Maple
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Peak Staffing | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Peak Staffing is a staffing agency in Maple Grove, MN. Phone: +17634206825. Website: https://www.peakstaffinginc.com/. | https://registry-edge.dingalinged.workers.dev/c/peak-staffing-maple-grove/
+1. Peak Staffing | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Peak Staffing is a staffing agency in Maple Grove, MN. Phone: +17634206825. Website: https://www.peakstaffinginc.com/. | https://registry-edge.dingalinged.workers.dev/c/peak-staffing-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency maple grove mn | category: b2b_services | industry benchmark: Business Services

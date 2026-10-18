@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Top Cuts | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Top Cuts is a hair salon in Grand Prairie, TX at 410 East Pioneer Parkway, Grand Prairie, TX 75051. Phone: +19722620920. | https://registry-edge.dingalinged.workers.dev/c/top-cuts-grand-prairie/
 2. G-Will Barber Shop | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | G-Will Barber Shop is a hair salon in Grand Prairie, TX at 412 East Main Street, Grand Prairie, TX 75050. Phone: +12142993226. | https://registry-edge.dingalinged.workers.dev/c/g-will-barber-shop-grand-prairie/
-3. Center Street Barbers | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Center Street Barbers is a hair salon in Grand Prairie, TX at 111 South Center Street, Grand Prairie, TX 75050. | https://registry-edge.dingalinged.workers.dev/c/center-street-barbers-grand-prairie/
-4. Legendz Barber Shop | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Legendz Barber Shop is a hair salon in Grand Prairie, TX at 102 West Main Street, Grand Prairie, TX 75050. | https://registry-edge.dingalinged.workers.dev/c/legendz-barber-shop-grand-prairie/
+3. Center Street Barbers | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Center Street Barbers is a hair salon in Grand Prairie, TX at 111 South Center Street, Grand Prairie, TX 75050. | https://registry-edge.dingalinged.workers.dev/c/center-street-barbers-grand-prairie/
+4. Legendz Barber Shop | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Legendz Barber Shop is a hair salon in Grand Prairie, TX at 102 West Main Street, Grand Prairie, TX 75050. | https://registry-edge.dingalinged.workers.dev/c/legendz-barber-shop-grand-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon grand prairie tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

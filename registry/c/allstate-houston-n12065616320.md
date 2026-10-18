@@ -13,12 +13,12 @@ Allstate is an insurance agent in Houston, TX at 1202 Kingwood Drive #D, Houston
 - Website: https://agents.allstate.com/yasir-khan-kingwood-tx.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Building — top 66% of insurance agents in Houston, #79 of 111 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.9/100 — Building — top 64% of insurance agents in Houston, #79 of 113 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/allstate-houston-n12065616320/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/allstate-houston-n12065616320.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12065616320 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12065616320 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,7 +6,7 @@ Also answers: accountant in Flower Mound, TX; accountant near me (Flower Mound, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Assured | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Assured is an accountant in Flower Mound, TX at 1260 Flower Mound Road #400, Flower Mound, TX. Phone: +12142225234. Website: https://www.assuredbats.com/. | https://registry-edge.dingalinged.workers.dev/c/assured-flower-mound/
+1. Assured | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Assured is an accountant in Flower Mound, TX at 1260 Flower Mound Road #400, Flower Mound, TX. Phone: +12142225234. Website: https://www.assuredbats.com/. | https://registry-edge.dingalinged.workers.dev/c/assured-flower-mound/
 2. Chandler & Knowles CPAs, PLLC | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Chandler & Knowles CPAs, PLLC is an accountant in Flower Mound, TX at 7370 Hawk Road, Flower Mound, TX. Phone: +18174303000. Website: https://www.formycpa.com/. | https://registry-edge.dingalinged.workers.dev/c/chandler-and-knowles-cpas-pllc-flower-mound/
 3. Griffith & Company, CPA, P.C. | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Griffith & Company, CPA, P.C. is an accountant in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/griffith-and-company-cpa-p-c-flower-mound/
 

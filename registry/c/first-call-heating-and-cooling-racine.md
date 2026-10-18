@@ -13,7 +13,7 @@ First Call Heating and Cooling is a HVAC contractor in Racine, WI at 4603 Durand
 - Website: https://www.firstcallheating.com/city/racine-wi/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:30, Sa 08:00-15:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 27% of HVAC contractors in Milwaukee, #1 of 2 HVAC contractors in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 27% of HVAC contractors in Milwaukee, #1 of 2 HVAC contractors in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ The Peach Cobbler Factory is a bakery in Woodstock, GA at 1426 Towne Lake Parkwa
 - Website: https://www.peachcobblerfactory.com/the-peach-cobbler-factory-locations/646-woodstock-ga
 - Email: n/a
 - Opening hours (OSM syntax): 12:00-22:00
-- Pulse Score: 62.3/100 — Good — top 17% of bakerys in Atlanta, #2 of 4 bakerys in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 85% of bakerys in Atlanta, #4 of 4 bakerys in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

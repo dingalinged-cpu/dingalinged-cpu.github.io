@@ -13,7 +13,7 @@ Two Men and a Truck is a moving company in Overland Park, KS at 7225 West 95th S
 - Website: https://twomenandatruck.com/movers/ks/kansas-city
 - Email: contact@twomenandatruck.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-14:00
-- Pulse Score: 48.7/100 — Building — top 100% of moving companys in Kansas City, MO, #1 of 1 moving companys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 100% of moving companys in Kansas City, MO, #1 of 1 moving companys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

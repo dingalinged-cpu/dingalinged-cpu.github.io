@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Roswell, GA at 610 West Crossville Road #30
 - Website: https://www.mattressfirm.com/en-us/stores/ga/roswell/007089/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-20:00; Su 11:00-18:00
-- Pulse Score: 52.8/100 — Fair — top 24% of mattress stores in Atlanta, #1 of 2 mattress stores in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.9, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.8/100 — Fair — top 24% of mattress stores in Atlanta, #1 of 2 mattress stores in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 42, Trust 67.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

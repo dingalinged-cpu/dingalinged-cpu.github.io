@@ -13,7 +13,7 @@ Pure Barre is a gym in Ankeny, IA at 1450 Southwest Vintage Parkway #Ste. 140, A
 - Website: https://www.purebarre.com/location/ankeny-ia
 - Email: ankeny@purebarre.com
 - Opening hours (OSM syntax): Mo 05:00-19:30; Tu 05:00-18:30; We 05:00-19:30; Th 05:00-18:30; Fr 05:00-17:30; Sa 07:00-10:00; Su 08:00-13:00
-- Pulse Score: 48.9/100 — Building — top 53% of gyms in Des Moines, IA, #6 of 8 gyms in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 50% of gyms in Des Moines, IA, #6 of 8 gyms in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

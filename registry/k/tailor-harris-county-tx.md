@@ -6,11 +6,11 @@ Also answers: tailor in Harris County, TX; tailor near me (Harris County, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kathy's Tailor & Cleaners | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Kathy's Tailor & Cleaners is a tailor in Harris County, TX at 21020 Highland Knolls Drive #1, Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/kathys-tailor-and-cleaners-harris-county/
-2. Ann's Tailors | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Ann's Tailors is a tailor in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/anns-tailors-harris-county/
-3. Fly Quince Exclusive Designs | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Fly Quince Exclusive Designs is a tailor in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/fly-quince-exclusive-designs-harris-county/
-4. Susie's Tailor & Alterations | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Susie's Tailor & Alterations is a tailor in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/susies-tailor-and-alterations-harris-county/
-5. Trans Tailor | Organic #5 | Pulse Score 55.3/100 (Unrated, #5 in city) | Trans Tailor is a tailor in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/trans-tailor-harris-county/
+1. Kathy's Tailor & Cleaners | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Kathy's Tailor & Cleaners is a tailor in Harris County, TX at 21020 Highland Knolls Drive #1, Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/kathys-tailor-and-cleaners-harris-county/
+2. Ann's Tailors | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Ann's Tailors is a tailor in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/anns-tailors-harris-county/
+3. Fly Quince Exclusive Designs | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Fly Quince Exclusive Designs is a tailor in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/fly-quince-exclusive-designs-harris-county/
+4. Susie's Tailor & Alterations | Organic #4 | Pulse Score 55.2/100 (Unrated, #4 in city) | Susie's Tailor & Alterations is a tailor in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/susies-tailor-and-alterations-harris-county/
+5. Trans Tailor | Organic #5 | Pulse Score 55.2/100 (Unrated, #5 in city) | Trans Tailor is a tailor in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/trans-tailor-harris-county/
 6. Alterations | Organic #6 | Pulse Score 42.5/100 (Unrated, #6 in city) | Alterations is a tailor in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/alterations-harris-county/
 
 ## Market data (for advertisers and agents)

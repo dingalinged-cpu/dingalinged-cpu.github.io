@@ -6,8 +6,8 @@ Also answers: gift shop in Urbandale, IA; gift shop near me (Urbandale, IA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Denny's Gift Den | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Denny's Gift Den is a gift shop in Urbandale, IA at 3257 100th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/dennys-gift-den-urbandale/
-2. Greteman Brothers General Store | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Greteman Brothers General Store is a gift shop in Urbandale, IA. | https://registry-edge.dingalinged.workers.dev/c/greteman-brothers-general-store-urbandale/
+1. Denny's Gift Den | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Denny's Gift Den is a gift shop in Urbandale, IA at 3257 100th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/dennys-gift-den-urbandale/
+2. Greteman Brothers General Store | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Greteman Brothers General Store is a gift shop in Urbandale, IA. | https://registry-edge.dingalinged.workers.dev/c/greteman-brothers-general-store-urbandale/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop urbandale ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

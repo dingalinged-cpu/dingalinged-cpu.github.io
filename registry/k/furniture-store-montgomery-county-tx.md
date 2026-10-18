@@ -6,10 +6,10 @@ Also answers: furniture store in Montgomery County, TX; furniture store near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cantera Doors | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Cantera Doors is a furniture store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/cantera-doors-montgomery-county/
-2. igs | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | igs is a furniture store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/igs-montgomery-county/
-3. Madeval | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Madeval is a furniture store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/madeval-montgomery-county/
-4. Tipler | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Tipler is a furniture store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/tipler-montgomery-county/
+1. Cantera Doors | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Cantera Doors is a furniture store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/cantera-doors-montgomery-county/
+2. igs | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | igs is a furniture store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/igs-montgomery-county/
+3. Madeval | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Madeval is a furniture store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/madeval-montgomery-county/
+4. Tipler | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Tipler is a furniture store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/tipler-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store montgomery county tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

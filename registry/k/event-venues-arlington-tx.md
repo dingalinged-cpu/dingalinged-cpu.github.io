@@ -6,9 +6,9 @@ Also answers: event venues in Arlington, TX; event venues near me (Arlington, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Live! | Organic #1 | Pulse Score 64.9/100 (Good, #1 in city) | Texas Live! is an event venue in Arlington, TX at 1650 East Randol Mill Road, Arlington, TX 76011. Phone: +18178526688. Website: https://texas-live.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-live-arlington/
+1. Texas Live! | Organic #1 | Pulse Score 64.8/100 (Good, #1 in city) | Texas Live! is an event venue in Arlington, TX at 1650 East Randol Mill Road, Arlington, TX 76011. Phone: +18178526688. Website: https://texas-live.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-live-arlington/
 2. 360 Elite Arena of Arlington | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | 360 Elite Arena of Arlington is an event venue in Arlington, TX at 1600 West Interstate 20, Arlington, TX 76017. Website: https://360elitearenaofarlington.com/. | https://registry-edge.dingalinged.workers.dev/c/360-elite-arena-of-arlington-arlington/
-3. Bob Duncan Center | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Bob Duncan Center is an event venue in Arlington, TX at 2800 South Center Street, Arlington, TX 76014. | https://registry-edge.dingalinged.workers.dev/c/bob-duncan-center-arlington/
+3. Bob Duncan Center | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Bob Duncan Center is an event venue in Arlington, TX at 2800 South Center Street, Arlington, TX 76014. | https://registry-edge.dingalinged.workers.dev/c/bob-duncan-center-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues arlington tx | category: Events & weddings | industry benchmark: Personal Services

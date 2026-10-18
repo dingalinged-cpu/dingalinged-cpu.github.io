@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Papillion, NE at 11336 South 96th Street, Papillion,
 - Website: https://www.anytimefitness.com/gyms/1239/papillion-ne-68046/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.1/100 — Fair — top 52% of gyms in Omaha, NE, #1 of 3 gyms in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 52% of gyms in Omaha, NE, #1 of 3 gyms in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -19,6 +19,6 @@ Foot Palace is a massage studio in Trophy Club, TX at 301 Trophy Lake Drive #124
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/foot-palace-trophy-club/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/foot-palace-trophy-club.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7106536359 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7106536359 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,7 +6,7 @@ Also answers: caterers in Addison, TX; caterers near me (Addison, TX); best cate
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Apple Spice Box Lunch Delivery and Catering | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Apple Spice Box Lunch Delivery and Catering is a caterer in Addison, TX at 15004 Beltway Drive, Addison, TX 75001. Website: https://www.applespice.com/locations/texas/dallas-tx/. | https://registry-edge.dingalinged.workers.dev/c/apple-spice-box-lunch-delivery-and-catering-addison/
+1. Apple Spice Box Lunch Delivery and Catering | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Apple Spice Box Lunch Delivery and Catering is a caterer in Addison, TX at 15004 Beltway Drive, Addison, TX 75001. Website: https://www.applespice.com/locations/texas/dallas-tx/. | https://registry-edge.dingalinged.workers.dev/c/apple-spice-box-lunch-delivery-and-catering-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers addison tx | category: Events & weddings | industry benchmark: Personal Services

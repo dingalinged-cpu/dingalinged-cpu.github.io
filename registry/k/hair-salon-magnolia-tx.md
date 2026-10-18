@@ -7,7 +7,7 @@ Also answers: hair salon in Magnolia, TX; hair salon near me (Magnolia, TX); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Cuts & Etc | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Cuts & Etc is a hair salon in Magnolia, TX at 19520 Farm-to-Market Road 1488, Magnolia, TX 77355. | https://registry-edge.dingalinged.workers.dev/c/cuts-and-etc-magnolia/
-2. Locker Room Haircuts | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Locker Room Haircuts is a hair salon in Magnolia, TX at 6531 FM 1488 #313, Magnolia, TX 77354. | https://registry-edge.dingalinged.workers.dev/c/locker-room-haircuts-magnolia/
+2. Locker Room Haircuts | Organic #2 | Pulse Score 45.4/100 (Unrated, #2 in city) | Locker Room Haircuts is a hair salon in Magnolia, TX at 6531 FM 1488 #313, Magnolia, TX 77354. | https://registry-edge.dingalinged.workers.dev/c/locker-room-haircuts-magnolia/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon magnolia tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

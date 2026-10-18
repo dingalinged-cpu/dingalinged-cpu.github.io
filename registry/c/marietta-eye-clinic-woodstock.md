@@ -13,7 +13,7 @@ Marietta Eye Clinic is an eye care practice in Woodstock, GA at 2990 Eagle Drive
 - Website: https://www.mariettaeye.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.2/100 — Good — top 7% of eye care practices in Atlanta, #1 of 1 eye care practices in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 7% of eye care practices in Atlanta, #1 of 1 eye care practices in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

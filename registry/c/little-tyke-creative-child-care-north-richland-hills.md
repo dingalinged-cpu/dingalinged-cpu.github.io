@@ -19,6 +19,6 @@ Little Tyke Creative Child Care is a daycare in North Richland Hills, TX at 6700
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/little-tyke-creative-child-care-north-richland-hills/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/little-tyke-creative-child-care-north-richland-hills.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/713513646 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/713513646 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

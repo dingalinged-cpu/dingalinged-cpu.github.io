@@ -7,8 +7,8 @@ Also answers: insurance agent in Hurst, TX; insurance agent near me (Hurst, TX);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Texas American Insurers | Organic #1 | Pulse Score 64.1/100 (Unrated, #1 in city) | Texas American Insurers is an insurance agent in Hurst, TX at 669 Airport Freeway #302, Hurst, TX 76053. Phone: +18178773101. Website: https://txam.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-american-insurers-hurst/
-2. Century Insurance Agency | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Century Insurance Agency is an insurance agent in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/century-insurance-agency-hurst/
-3. State Farm | Organic #3 | Pulse Score 41.9/100 (Building, #3 in city) | State Farm is an insurance agent in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/state-farm-hurst/
+2. Century Insurance Agency | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Century Insurance Agency is an insurance agent in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/century-insurance-agency-hurst/
+3. State Farm | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | State Farm is an insurance agent in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/state-farm-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent hurst tx | category: Professional & financial services | industry benchmark: Finance & Insurance

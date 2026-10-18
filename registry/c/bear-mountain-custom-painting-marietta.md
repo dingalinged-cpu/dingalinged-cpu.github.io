@@ -13,7 +13,7 @@ Bear Mountain Custom Painting is a painting contractor in Marietta, GA at 3823 R
 - Website: https://bearmountainpainting.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 63.7/100 — Good — top 10% of painting contractors in Atlanta, #1 of 1 painting contractors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.8, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 10% of painting contractors in Atlanta, #1 of 1 painting contractors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.9, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Addison, TX is Urban Nail Bar (a nail salon in Addison, TX at 4150 Belt Line Road #105, Addison, TX 75001. Website: https://urbannailbaraddison.com/). 13 nail salon businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Addison, TX is Le's Nails (a nail salon in Addison, TX at 3718 Belt Line Road, Addison, TX 75001. Phone: +19724060302). 13 nail salon businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Addison, TX?
 
@@ -6,19 +6,19 @@ Also answers: nail salon in Addison, TX; nail salon near me (Addison, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Urban Nail Bar | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Urban Nail Bar is a nail salon in Addison, TX at 4150 Belt Line Road #105, Addison, TX 75001. Website: https://urbannailbaraddison.com/. | https://registry-edge.dingalinged.workers.dev/c/urban-nail-bar-addison/
-2. L.A. Nails & Spa | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | L.A. Nails & Spa is a nail salon in Addison, TX at 3756 Belt Line Road, Addison, TX 75001. | https://registry-edge.dingalinged.workers.dev/c/l-a-nails-and-spa-addison/
-3. Addison Nail Salon | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Addison Nail Salon is a nail salon in Addison, TX at 4285 Belt Line Road, Addison, TX 75001. | https://registry-edge.dingalinged.workers.dev/c/addison-nail-salon-addison/
-4. Castle Nails & Spa | Organic #4 | Pulse Score 57.2/100 (Unrated, #12 in city) | Castle Nails & Spa is a nail salon in Dallas, TX at 5290 Belt Line Road #138, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/castle-nails-and-spa-dallas/
-5. Le's Nails | Organic #5 | Pulse Score 57.2/100 (Unrated, #4 in city) | Le's Nails is a nail salon in Addison, TX at 3718 Belt Line Road, Addison, TX 75001. | https://registry-edge.dingalinged.workers.dev/c/les-nails-addison/
-6. Nail Bloom | Organic #6 | Pulse Score 57.2/100 (Unrated, #15 in city) | Nail Bloom is a nail salon in Dallas, TX at 4900 Belt Line Road #122, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/nail-bloom-dallas/
-7. Nails Now! | Organic #7 | Pulse Score 57.2/100 (Unrated, #17 in city) | Nails Now! is a nail salon in Dallas, TX at 5100 Belt Line Road #408, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/nails-now-dallas/
+1. Le's Nails | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Le's Nails is a nail salon in Addison, TX at 3718 Belt Line Road, Addison, TX 75001. Phone: +19724060302. | https://registry-edge.dingalinged.workers.dev/c/les-nails-addison/
+2. Urban Nail Bar | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Urban Nail Bar is a nail salon in Addison, TX at 4150 Belt Line Road #105, Addison, TX 75001. Website: https://urbannailbaraddison.com/. | https://registry-edge.dingalinged.workers.dev/c/urban-nail-bar-addison/
+3. L.A. Nails & Spa | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | L.A. Nails & Spa is a nail salon in Addison, TX at 3756 Belt Line Road, Addison, TX 75001. | https://registry-edge.dingalinged.workers.dev/c/l-a-nails-and-spa-addison/
+4. Addison Nail Salon | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Addison Nail Salon is a nail salon in Addison, TX at 4285 Belt Line Road, Addison, TX 75001. | https://registry-edge.dingalinged.workers.dev/c/addison-nail-salon-addison/
+5. Castle Nails & Spa | Organic #5 | Pulse Score 57/100 (Unrated, #14 in city) | Castle Nails & Spa is a nail salon in Dallas, TX at 5290 Belt Line Road #138, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/castle-nails-and-spa-dallas/
+6. Nail Bloom | Organic #6 | Pulse Score 57/100 (Unrated, #17 in city) | Nail Bloom is a nail salon in Dallas, TX at 4900 Belt Line Road #122, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/nail-bloom-dallas/
+7. Nails Now! | Organic #7 | Pulse Score 57/100 (Unrated, #19 in city) | Nails Now! is a nail salon in Dallas, TX at 5100 Belt Line Road #408, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/nails-now-dallas/
 8. Breathe Salon Suites | Organic #8 | Pulse Score 54.6/100 (Unrated, #5 in city) | Breathe Salon Suites is a nail salon in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/breathe-salon-suites-addison/
 9. Champions Nail Spa | Organic #9 | Pulse Score 54.6/100 (Unrated, #6 in city) | Champions Nail Spa is a nail salon in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/champions-nail-spa-addison/
 10. Josselyn's Studio | Organic #10 | Pulse Score 54.6/100 (Unrated, #7 in city) | Josselyn's Studio is a nail salon in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/josselyns-studio-addison/
 11. Luxury Nails & Day Spa | Organic #11 | Pulse Score 54.6/100 (Unrated, #8 in city) | Luxury Nails & Day Spa is a nail salon in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/luxury-nails-and-day-spa-addison/
 12. Nail Star | Organic #12 | Pulse Score 54.6/100 (Unrated, #9 in city) | Nail Star is a nail salon in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/nail-star-addison/
-13. Nail Lounge | Organic #13 | Pulse Score 44.4/100 (Unrated, #43 in city) | Nail Lounge is a nail salon in Dallas, TX at 5000 Belt Line Road, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/nail-lounge-dallas/
+13. Nail Lounge | Organic #13 | Pulse Score 44.2/100 (Unrated, #45 in city) | Nail Lounge is a nail salon in Dallas, TX at 5000 Belt Line Road, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/nail-lounge-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon addison tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

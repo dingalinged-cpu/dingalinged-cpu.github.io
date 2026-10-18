@@ -6,7 +6,7 @@ Also answers: physical therapy in Polk City, IA; physical therapy near me (Polk 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rock Valley Physical Therapy | Organic #1 | Pulse Score 43.4/100 (Unrated, #1 in city) | Rock Valley Physical Therapy is a physical therapy clinic in Polk City, IA at 419 West Bridge Road, Polk City, IA 50226. | https://registry-edge.dingalinged.workers.dev/c/rock-valley-physical-therapy-polk-city/
+1. Rock Valley Physical Therapy | Organic #1 | Pulse Score 43.3/100 (Unrated, #1 in city) | Rock Valley Physical Therapy is a physical therapy clinic in Polk City, IA at 419 West Bridge Road, Polk City, IA 50226. | https://registry-edge.dingalinged.workers.dev/c/rock-valley-physical-therapy-polk-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy polk city ia | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in Cobb County, GA at 2960 Shallowford Road Nor
 - Website: https://www.clubpilates.com/location/eastcobb
 - Email: eastcobb@clubpilates.com
 - Opening hours (OSM syntax): Mo,We,Fr 07:00-20:00; Tu,Th 07:30-20:30; Sa 07:30-16:30; Su 07:30-13:30
-- Pulse Score: 50.4/100 — Fair — top 46% of pilates studios in Atlanta, #3 of 3 pilates studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 46% of pilates studios in Atlanta, #3 of 3 pilates studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

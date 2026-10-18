@@ -19,6 +19,6 @@ Quik Pics Portrait Studio is a photographer in The Woodlands, TX at 25329 Budde 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/quik-pics-portrait-studio-the-woodlands/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/quik-pics-portrait-studio-the-woodlands.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9850053243 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9850053243 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

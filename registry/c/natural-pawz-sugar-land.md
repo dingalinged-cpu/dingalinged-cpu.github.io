@@ -13,12 +13,12 @@ Natural Pawz is a pet store in Sugar Land, TX at 18841 University Boulevard #400
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.7/100 — Unrated (not enough evidence yet) — top 80% of pet stores in Houston, #3 of 3 pet stores in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 44.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.7/100 — Unrated (not enough evidence yet) — top 86% of pet stores in Houston, #3 of 3 pet stores in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.6, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/natural-pawz-sugar-land/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/natural-pawz-sugar-land.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6655586327 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6655586327 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

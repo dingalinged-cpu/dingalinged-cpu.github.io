@@ -1,4 +1,4 @@
-Keyword market for Brazoria County, TX: 19 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Houston-Pasadena-The Woodlands, TX metro (US volume x population share).
+Keyword market for Brazoria County, TX: 20 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Houston-Pasadena-The Woodlands, TX metro (US volume x population share).
 
 # Top keywords in Brazoria County, TX
 
@@ -22,20 +22,20 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 
 ## By CPC
 1. locksmith brazoria county tx | searches/mo 5,700 (est) | CPC $8.33 | value $47,000 | Google Ads equiv $3,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/locksmith-brazoria-county-tx/
-2. martial arts brazoria county tx | searches/mo 6,900 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-brazoria-county-tx/
-3. preschool brazoria county tx | searches/mo 5,100 (est) | CPC $4.81 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/preschool-brazoria-county-tx/
-4. physical therapy brazoria county tx | searches/mo 5,100 (est) | CPC $4.76 | value $24,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/physical-therapy-brazoria-county-tx/
-5. dentist brazoria county tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-brazoria-county-tx/
-6. facial brazoria county tx | searches/mo 1,700 (est) | CPC $4.62 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/facial-brazoria-county-tx/
-7. haircut brazoria county tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-brazoria-county-tx/
-8. waxing brazoria county tx | searches/mo 22,000 (est) | CPC $4.62 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/waxing-brazoria-county-tx/
-9. auto repair brazoria county tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-brazoria-county-tx/
-10. car wash brazoria county tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-brazoria-county-tx/
-11. mechanic brazoria county tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/mechanic-brazoria-county-tx/
-12. realtor brazoria county tx | searches/mo 2,100 (est) | CPC $3.70 | value $7,800 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/realtor-brazoria-county-tx/
-13. real estate agent brazoria county tx | searches/mo 4,600 (est) | CPC $3.61 | value $17,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-brazoria-county-tx/
-14. dry cleaners brazoria county tx | searches/mo 5,100 (est) | CPC $3.39 | value $17,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-brazoria-county-tx/
-15. insurance agency brazoria county tx | searches/mo 2,100 (est) | CPC $3.39 | value $7,100 | Google Ads equiv $590/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-brazoria-county-tx/
+2. event venues brazoria county tx | searches/mo n/a (est) | CPC $7.17 | value $n/a | Google Ads equiv $n/a/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/event-venues-brazoria-county-tx/
+3. martial arts brazoria county tx | searches/mo 6,900 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-brazoria-county-tx/
+4. preschool brazoria county tx | searches/mo 5,100 (est) | CPC $4.81 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/preschool-brazoria-county-tx/
+5. physical therapy brazoria county tx | searches/mo 5,100 (est) | CPC $4.76 | value $24,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/physical-therapy-brazoria-county-tx/
+6. dentist brazoria county tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-brazoria-county-tx/
+7. facial brazoria county tx | searches/mo 1,700 (est) | CPC $4.62 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/facial-brazoria-county-tx/
+8. haircut brazoria county tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-brazoria-county-tx/
+9. waxing brazoria county tx | searches/mo 22,000 (est) | CPC $4.62 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/waxing-brazoria-county-tx/
+10. auto repair brazoria county tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-brazoria-county-tx/
+11. car wash brazoria county tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-brazoria-county-tx/
+12. mechanic brazoria county tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/mechanic-brazoria-county-tx/
+13. realtor brazoria county tx | searches/mo 2,100 (est) | CPC $3.70 | value $7,800 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/realtor-brazoria-county-tx/
+14. real estate agent brazoria county tx | searches/mo 4,600 (est) | CPC $3.61 | value $17,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-brazoria-county-tx/
+15. dry cleaners brazoria county tx | searches/mo 5,100 (est) | CPC $3.39 | value $17,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-brazoria-county-tx/
 
 ## By value (searches x CPC)
 1. dentist brazoria county tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-brazoria-county-tx/

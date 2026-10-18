@@ -13,7 +13,7 @@ U.S. HealthWorks Medical Group is an urgent care clinic in Independence, MO at 1
 - Website: https://www.ushealthworks.com/Medical-Center/Missouri/Independence.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 67% of urgent care clinics in Kansas City, MO, #1 of 2 urgent care clinics in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 67% of urgent care clinics in Kansas City, MO, #1 of 2 urgent care clinics in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

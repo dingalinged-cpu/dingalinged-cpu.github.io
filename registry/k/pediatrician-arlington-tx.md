@@ -6,7 +6,7 @@ Also answers: pediatrician in Arlington, TX; pediatrician near me (Arlington, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wee-Tots Pediatrics | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Wee-Tots Pediatrics is a pediatrician in Arlington, TX at 4201 Interway Place, Arlington, TX 76018. | https://registry-edge.dingalinged.workers.dev/c/wee-tots-pediatrics-arlington/
+1. Wee-Tots Pediatrics | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Wee-Tots Pediatrics is a pediatrician in Arlington, TX at 4201 Interway Place, Arlington, TX 76018. | https://registry-edge.dingalinged.workers.dev/c/wee-tots-pediatrics-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician arlington tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -6,7 +6,7 @@ Also answers: roofing contractor in Irving, TX; roofing contractor near me (Irvi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SPS Roofing | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | SPS Roofing is a roofer in Irving, TX at 4845 West Royal Lane, Irving, TX 75063. Phone: +19729299944. Website: https://spsroof.com/. | https://registry-edge.dingalinged.workers.dev/c/sps-roofing-irving/
+1. SPS Roofing | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | SPS Roofing is a roofer in Irving, TX at 4845 West Royal Lane, Irving, TX 75063. Phone: +19729299944. Website: https://spsroof.com/. | https://registry-edge.dingalinged.workers.dev/c/sps-roofing-irving/
 2. Kidd Roofing | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Kidd Roofing is a roofer in Irving, TX at 4827 West Royal Lane #A, Irving, TX 75063. Phone: +19728237663. Website: https://www.kiddroof.com/. | https://registry-edge.dingalinged.workers.dev/c/kidd-roofing-irving/
 3. Irving Roofing Contractors - IrvingRoofingPro | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | Irving Roofing Contractors - IrvingRoofingPro is a roofer in Irving, TX at 7750 North MacArthur Boulevard #120 #210, Irving, TX 75063. Phone: +19729791070. Website: https://irvingroofingpro.com/. | https://registry-edge.dingalinged.workers.dev/c/irving-roofing-contractors-irvingroofingpro-irving/
 

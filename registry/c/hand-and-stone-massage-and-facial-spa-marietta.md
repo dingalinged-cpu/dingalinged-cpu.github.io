@@ -13,7 +13,7 @@ Hand & Stone Massage and Facial Spa is a massage studio in Marietta, GA at 4475 
 - Website: https://avenueeastcobb.com/directory/hand-stone-massage/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 09:00-19:00
-- Pulse Score: 50.6/100 — Fair — top 81% of massage studios in Atlanta, #11 of 12 massage studios in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 79% of massage studios in Atlanta, #11 of 12 massage studios in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: florist in Katy, TX; florist near me (Katy, TX); best florist Katy
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kay-Tee Florist on Mason Road | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Kay-Tee Florist on Mason Road is a florist in Katy, TX at 870 South Mason Road #110, Katy, TX 77450. Phone: +12813922101. Website: https://kayteeflorist.com/. | https://registry-edge.dingalinged.workers.dev/c/kay-tee-florist-on-mason-road-katy/
+1. Kay-Tee Florist on Mason Road | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Kay-Tee Florist on Mason Road is a florist in Katy, TX at 870 South Mason Road #110, Katy, TX 77450. Phone: +12813922101. Website: https://kayteeflorist.com/. | https://registry-edge.dingalinged.workers.dev/c/kay-tee-florist-on-mason-road-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist katy tx | category: Events & weddings | industry benchmark: Personal Services

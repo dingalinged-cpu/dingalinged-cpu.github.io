@@ -13,7 +13,7 @@ New Creations Child Care & Learning Center | Waukee is a daycare in Urbandale, I
 - Website: https://www.newcreationschildcare.com/waukee
 - Email: Marketing@newcreationschildcare.com
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Pulse Score: 53.2/100 — Unrated (not enough evidence yet) — top 88% of daycares in Des Moines, IA, #1 of 1 daycares in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.2/100 — Unrated (not enough evidence yet) — top 88% of daycares in Des Moines, IA, #1 of 1 daycares in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -19,6 +19,6 @@ The Children's Courtyard is a daycare in Arlington, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-childrens-courtyard-arlington/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-childrens-courtyard-arlington.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/555008225 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/555008225 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

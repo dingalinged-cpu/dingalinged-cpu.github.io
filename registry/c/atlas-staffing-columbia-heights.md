@@ -13,7 +13,7 @@ Atlas Staffing is a staffing agency in Columbia Heights, MN at 4801 Central Aven
 - Website: https://atlasstaffinginc.com/contact/columbia-heights/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-17:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 25% of staffing agencys in Minneapolis–St. Paul, #1 of 1 staffing agencys in Columbia Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 25% of staffing agencys in Minneapolis–St. Paul, #1 of 1 staffing agencys in Columbia Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -19,6 +19,6 @@ Fieldings Local is a hair salon in Tomball, TX at 26400 Kuykendahl Road, Tomball
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/fieldings-local-tomball/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fieldings-local-tomball.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/521206580 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/521206580 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

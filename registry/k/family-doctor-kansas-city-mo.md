@@ -6,7 +6,7 @@ Also answers: family doctor in Kansas City, MO; family doctor near me (Kansas Ci
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ad Astra Health | Organic #1 | Pulse Score 61/100 (Good, #1 in city) | Ad Astra Health is a family medicine practice in Kansas City, MO at 100 West 9th Street, Kansas City, MO 64105. Website: https://adastrahealth.care/. | https://registry-edge.dingalinged.workers.dev/c/ad-astra-health-kansas-city/
+1. Ad Astra Health | Organic #1 | Pulse Score 61.1/100 (Good, #1 in city) | Ad Astra Health is a family medicine practice in Kansas City, MO at 100 West 9th Street, Kansas City, MO 64105. Website: https://adastrahealth.care/. | https://registry-edge.dingalinged.workers.dev/c/ad-astra-health-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor kansas city mo | category: Health & medical | industry benchmark: Physicians & Surgeons

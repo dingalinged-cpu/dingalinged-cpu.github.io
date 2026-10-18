@@ -13,7 +13,7 @@ PetSmart is a pet store in Eagan, MN at 1297 Promenade Place #2A, Eagan, MN 5512
 - Website: https://www.petsmart.com/stores/us/mn/eagan-store0469.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 48.4/100 — Building — top 60% of pet stores in Minneapolis–St. Paul, #2 of 3 pet stores in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 62% of pet stores in Minneapolis–St. Paul, #2 of 3 pet stores in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

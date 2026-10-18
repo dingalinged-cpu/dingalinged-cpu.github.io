@@ -13,12 +13,12 @@ Uptown Dance Centre is a dance studio in Houston, TX at 7417 Shadyvilla Lane, Ho
 - Website: https://www.uptowndance.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 18% of dance studios in Houston, #2 of 7 dance studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 20% of dance studios in Houston, #3 of 8 dance studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/uptown-dance-centre-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/uptown-dance-centre-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1070617062 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1070617062 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,8 +6,8 @@ Also answers: printing services in Conroe, TX; printing services near me (Conroe
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. FedEx Office | Organic #1 | Pulse Score 45.1/100 (Building, #1 in city) | FedEx Office is a printing service in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-conroe/
-2. The UPS Store | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | The UPS Store is a printing service in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-conroe/
+1. FedEx Office | Organic #1 | Pulse Score 45.2/100 (Building, #1 in city) | FedEx Office is a printing service in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-conroe/
+2. The UPS Store | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | The UPS Store is a printing service in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services conroe tx | category: Professional & financial services | industry benchmark: Finance & Insurance

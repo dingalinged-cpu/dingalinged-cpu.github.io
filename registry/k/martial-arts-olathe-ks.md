@@ -7,8 +7,8 @@ Also answers: martial arts in Olathe, KS; martial arts near me (Olathe, KS); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Yang’s Martial Arts Olathe | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Yang’s Martial Arts Olathe is a martial arts school in Olathe, KS at 159 North Parker Street, Olathe, KS 66061. Phone: +19132547211. Website: https://yangmartialarts.com/. | https://registry-edge.dingalinged.workers.dev/c/yang-s-martial-arts-olathe-olathe/
-2. Ko Martial Arts (KOMA) | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Ko Martial Arts (KOMA) is a martial arts school in Olathe, KS at 21701 College Boulevard, Olathe, KS 66061. Phone: +19138292929. Website: https://thekoma.com/. | https://registry-edge.dingalinged.workers.dev/c/ko-martial-arts-koma-olathe/
-3. Olathe Karate Academy | Organic #3 | Pulse Score 60/100 (Unrated, #3 in city) | Olathe Karate Academy is a martial arts school in Olathe, KS. Phone: +19138296873. Website: https://www.olathekarate.com/. | https://registry-edge.dingalinged.workers.dev/c/olathe-karate-academy-olathe/
+2. Ko Martial Arts (KOMA) | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | Ko Martial Arts (KOMA) is a martial arts school in Olathe, KS at 21701 College Boulevard, Olathe, KS 66061. Phone: +19138292929. Website: https://thekoma.com/. | https://registry-edge.dingalinged.workers.dev/c/ko-martial-arts-koma-olathe/
+3. Olathe Karate Academy | Organic #3 | Pulse Score 59.9/100 (Unrated, #3 in city) | Olathe Karate Academy is a martial arts school in Olathe, KS. Phone: +19138296873. Website: https://www.olathekarate.com/. | https://registry-edge.dingalinged.workers.dev/c/olathe-karate-academy-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts olathe ks | category: Fitness | industry benchmark: Health & Fitness

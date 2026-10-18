@@ -13,7 +13,7 @@ Kenny The Kleener is a dry cleaner in Wilmette, IL at 3520 Lake Avenue #101, Wil
 - Website: https://kennythekleener.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 82% of dry cleaners in Chicago, #1 of 1 dry cleaners in Wilmette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 81% of dry cleaners in Chicago, #1 of 1 dry cleaners in Wilmette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

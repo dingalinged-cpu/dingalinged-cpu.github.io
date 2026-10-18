@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Fitchburg, WI. Website: https:
 - Website: https://www.extraspace.com/storage/facilities/us/wisconsin/fitchburg/6975
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.1/100 — Building — top 84% of self-storage facilitys in Madison, #3 of 3 self-storage facilitys in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.1/100 — Building — top 84% of self-storage facilitys in Madison, #3 of 3 self-storage facilitys in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Healing Massage Spa is a nail salon in Marietta, GA at 2525 Shallowford Road Nor
 - Website: https://healingmassagefacial.com/
 - Email: n/a
 - Opening hours (OSM syntax): 08:30-21:45
-- Pulse Score: 62.6/100 — Good — top 16% of nail salons in Atlanta, #6 of 17 nail salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 15% of nail salons in Atlanta, #6 of 17 nail salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

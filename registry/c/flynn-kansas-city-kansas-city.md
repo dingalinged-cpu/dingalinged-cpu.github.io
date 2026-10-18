@@ -13,7 +13,7 @@ Flynn Kansas City is a roofer in Kansas City, MO at 8601 E US Highway 40, Kansas
 - Website: https://flynncompanies.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 23% of roofers in Kansas City, MO, #1 of 3 roofers in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 23% of roofers in Kansas City, MO, #1 of 3 roofers in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

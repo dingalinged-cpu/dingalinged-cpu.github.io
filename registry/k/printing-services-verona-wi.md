@@ -6,7 +6,7 @@ Also answers: printing services in Verona, WI; printing services near me (Verona
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | Organic #1 | Pulse Score 48.7/100 (Building, #1 in city) | The UPS Store is a printing service in Verona, WI at 801 West Verona Avenue #Ste. B, Verona, WI 53593. Phone: +16084970622. Website: https://locations.theupsstore.com/wi/verona/801-w-verona-ave. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-verona/
+1. The UPS Store | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | The UPS Store is a printing service in Verona, WI at 801 West Verona Avenue #Ste. B, Verona, WI 53593. Phone: +16084970622. Website: https://locations.theupsstore.com/wi/verona/801-w-verona-ave. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-verona/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services verona wi | category: Professional & financial services | industry benchmark: Finance & Insurance

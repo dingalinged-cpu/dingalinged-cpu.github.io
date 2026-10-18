@@ -13,7 +13,7 @@ Noah's Ark Animal Clinic is a veterinarian in Kansas City, MO at 6305 Main Stree
 - Website: https://noahsarkanimalclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 36% of veterinarians in Kansas City, MO, #7 of 18 veterinarians in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 35% of veterinarians in Kansas City, MO, #7 of 18 veterinarians in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

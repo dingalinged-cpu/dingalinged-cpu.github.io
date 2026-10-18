@@ -13,7 +13,7 @@ Kalina & Co. Jewelry Company is a jewelry store in Milwaukee, WI at 1812 East No
 - Website: https://www.kalinacojewelry.com/
 - Email: kalinacojewelry@gmail.com
 - Opening hours (OSM syntax): Su 11:00-17:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 18% of jewelry stores in Milwaukee, #8 of 20 jewelry stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 18% of jewelry stores in Milwaukee, #8 of 20 jewelry stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

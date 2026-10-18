@@ -13,7 +13,7 @@ Bubbles is a car wash in Smyrna, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-19:00; Fr-Su 08:00-20:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 25% of car washes in Atlanta, #2 of 4 car washes in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 25% of car washes in Atlanta, #2 of 4 car washes in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

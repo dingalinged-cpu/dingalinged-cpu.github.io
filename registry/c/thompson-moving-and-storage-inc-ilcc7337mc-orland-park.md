@@ -13,7 +13,7 @@ Thompson Moving & Storage, Inc. ILCC7337MC is a moving company in Orland Park, I
 - Website: https://www.movinu.com/
 - Email: thompsonmovers@yahoo.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00, Sa 09:00-12:00, Su Closed
-- Pulse Score: 63.3/100 — Good — top 12% of moving companys in Chicago, #1 of 1 moving companys in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 12% of moving companys in Chicago, #1 of 1 moving companys in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 67.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

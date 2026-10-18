@@ -1,4 +1,4 @@
-The top unpaid caterers listing for Richardson, TX is Royal Catering (a caterer in Richardson, TX at 800 South Central Expressway, Richardson, TX. Phone: +19724371466. Website: https://royalcateringdfw.com/). 2 caterers businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Richardson, TX is Royal Catering (a caterer in Richardson, TX at 800 South Central Expressway, Richardson, TX. Phone: +19724371466. Website: https://royalcateringdfw.com/). 3 caterers businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Richardson, TX?
 
@@ -8,6 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Royal Catering | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Royal Catering is a caterer in Richardson, TX at 800 South Central Expressway, Richardson, TX. Phone: +19724371466. Website: https://royalcateringdfw.com/. | https://registry-edge.dingalinged.workers.dev/c/royal-catering-richardson/
 2. The Festive Kitchen | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | The Festive Kitchen is a caterer in Richardson, TX at 515 West Campbell Road #106, Richardson, TX. Website: https://festivekitchen.com/. | https://registry-edge.dingalinged.workers.dev/c/the-festive-kitchen-richardson/
+3. Andy’s Catering | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Andy’s Catering is a caterer in Richardson, TX at 2122 East Belt Line Road, Richardson, TX. Website: https://andyscateringco.com/. | https://registry-edge.dingalinged.workers.dev/c/andy-s-catering-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers richardson tx | category: Events & weddings | industry benchmark: Personal Services
@@ -16,7 +17,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $5.81, median $7.17, high $7.17 (Personal Services median CPC 2026 $7.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Personal Services median CPC 2025 $5.81 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2
+- Registry businesses competing: 3
 - Equivalent Google Ads cost per month: ~$3,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -8,10 +8,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Red Rose Dentistry | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Red Rose Dentistry is a dentist in Brookfield, WI at 12780 West North Avenue #Suite A, Brookfield, WI 53005. Phone: +12628601500. Website: https://redrosedentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/red-rose-dentistry-brookfield/
 2. Matthews Dental Group | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | Matthews Dental Group is a dentist in Brookfield, WI at 13620 Capitol Drive, Brookfield, WI 53005. Phone: +12627815667. Website: https://dentistbrookfield.com/. | https://registry-edge.dingalinged.workers.dev/c/matthews-dental-group-brookfield/
-3. Small World Children's Dentistry | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Small World Children's Dentistry is a dentist in Brookfield, WI at 14430 West Greenfield Avenue, Brookfield, WI 53005. | https://registry-edge.dingalinged.workers.dev/c/small-world-childrens-dentistry-brookfield/
+3. Small World Children's Dentistry | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Small World Children's Dentistry is a dentist in Brookfield, WI at 14430 West Greenfield Avenue, Brookfield, WI 53005. | https://registry-edge.dingalinged.workers.dev/c/small-world-childrens-dentistry-brookfield/
 4. Dental Workds | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Dental Workds is a dentist in Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/dental-workds-brookfield/
 5. The Fun Kid's Dentist | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | The Fun Kid's Dentist is a dentist in Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/the-fun-kids-dentist-brookfield/
-6. Aspen Dental | Organic #6 | Pulse Score 44.3/100 (Building, #6 in city) | Aspen Dental is a dentist in Brookfield, WI at 12455 West Capitol Drive #E, Brookfield, WI 53005. | https://registry-edge.dingalinged.workers.dev/c/aspen-dental-brookfield/
+6. Aspen Dental | Organic #6 | Pulse Score 44.2/100 (Building, #6 in city) | Aspen Dental is a dentist in Brookfield, WI at 12455 West Capitol Drive #E, Brookfield, WI 53005. | https://registry-edge.dingalinged.workers.dev/c/aspen-dental-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist brookfield wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -19,6 +19,6 @@ Eco Thrift Texas is a thrift store in Alvin, TX at 2625 Alvin Bypass #140, Alvin
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/eco-thrift-texas-alvin/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/eco-thrift-texas-alvin.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11001662901 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11001662901 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

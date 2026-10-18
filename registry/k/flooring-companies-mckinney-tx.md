@@ -6,11 +6,11 @@ Also answers: flooring companies in Mckinney, TX; flooring companies near me (Mc
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwyn Flooring Companies | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Goodwyn Flooring Companies is a flooring company in McKinney, TX at 3100 Alma Road, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/goodwyn-flooring-companies-mckinney/
-2. CMA Flooring & Design | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | CMA Flooring & Design is a flooring company in McKinney, TX at 3194 West University Drive #100, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/cma-flooring-and-design-mckinney/
-3. Heritage Hardwood Floors | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Heritage Hardwood Floors is a flooring company in McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/heritage-hardwood-floors-mckinney/
-4. Floors Touch | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Floors Touch is a flooring company in McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/floors-touch-mckinney/
-5. Floor & Decor | Organic #5 | Pulse Score 45.9/100 (Building, #5 in city) | Floor & Decor is a flooring company in McKinney, TX at 2800 West University Drive, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/floor-and-decor-mckinney/
+1. Goodwyn Flooring Companies | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Goodwyn Flooring Companies is a flooring company in McKinney, TX at 3100 Alma Road, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/goodwyn-flooring-companies-mckinney/
+2. CMA Flooring & Design | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | CMA Flooring & Design is a flooring company in McKinney, TX at 3194 West University Drive #100, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/cma-flooring-and-design-mckinney/
+3. Heritage Hardwood Floors | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Heritage Hardwood Floors is a flooring company in McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/heritage-hardwood-floors-mckinney/
+4. Floors Touch | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Floors Touch is a flooring company in McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/floors-touch-mckinney/
+5. Floor & Decor | Organic #5 | Pulse Score 45.6/100 (Building, #5 in city) | Floor & Decor is a flooring company in McKinney, TX at 2800 West University Drive, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/floor-and-decor-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies mckinney tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

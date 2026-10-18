@@ -7,10 +7,10 @@ Also answers: liquor store in Conroe, TX; liquor store near me (Conroe, TX); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. H&S Liquor | Organic #1 | Pulse Score 64.4/100 (Good, #1 in city) | H&S Liquor is a liquor store in Conroe, TX at 1900 North Frazier Street #A, Conroe, TX 77301. Phone: +19367567033. | https://registry-edge.dingalinged.workers.dev/c/h-and-s-liquor-conroe/
-2. South Loop Spirits | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | South Loop Spirits is a liquor store in Conroe, TX at 224 South Loop 336 West #E, Conroe, TX 77304. | https://registry-edge.dingalinged.workers.dev/c/south-loop-spirits-conroe/
-3. Spec's | Organic #3 | Pulse Score 47.9/100 (Building, #3 in city) | Spec's is a liquor store in Conroe, TX at 1304 West Davis Street #F, Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/specs-conroe-n12055131339/
-4. Zipps Liquor | Organic #4 | Pulse Score 47/100 (Unrated, #4 in city) | Zipps Liquor is a liquor store in Conroe, TX at 11343 State Highway 105 East #B, Conroe, TX 77301. | https://registry-edge.dingalinged.workers.dev/c/zipps-liquor-conroe/
-5. Spec's | Organic #5 | Pulse Score 46.7/100 (Building, #5 in city) | Spec's is a liquor store in Conroe, TX at 1420 North Loop 336 West #100, Conroe, TX 77304. | https://registry-edge.dingalinged.workers.dev/c/specs-conroe/
+2. South Loop Spirits | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | South Loop Spirits is a liquor store in Conroe, TX at 224 South Loop 336 West #E, Conroe, TX 77304. | https://registry-edge.dingalinged.workers.dev/c/south-loop-spirits-conroe/
+3. Spec's | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | Spec's is a liquor store in Conroe, TX at 1420 North Loop 336 West #100, Conroe, TX 77304. | https://registry-edge.dingalinged.workers.dev/c/specs-conroe/
+4. Spec's | Organic #4 | Pulse Score 47.6/100 (Building, #4 in city) | Spec's is a liquor store in Conroe, TX at 1304 West Davis Street #F, Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/specs-conroe-n12055131339/
+5. Zipps Liquor | Organic #5 | Pulse Score 46.8/100 (Unrated, #5 in city) | Zipps Liquor is a liquor store in Conroe, TX at 11343 State Highway 105 East #B, Conroe, TX 77301. | https://registry-edge.dingalinged.workers.dev/c/zipps-liquor-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store conroe tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

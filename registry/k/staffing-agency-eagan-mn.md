@@ -7,7 +7,7 @@ Also answers: staffing agency in Eagan, MN; staffing agency near me (Eagan, MN);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. IT Works 365 | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | IT Works 365 is a staffing agency in Eagan, MN at 3140 Neil Armstrong Boulevard #310, Eagan, MN 55121. Phone: +16516866551. Website: https://itworks365.com/. | https://registry-edge.dingalinged.workers.dev/c/it-works-365-eagan/
-2. Express | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Express is a staffing agency in Eagan, MN at 1266 Lone Oak Road, Eagan, MN 55121. Phone: +19529152000. Website: https://www.expresspros.com/. | https://registry-edge.dingalinged.workers.dev/c/express-eagan/
+2. Express | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | Express is a staffing agency in Eagan, MN at 1266 Lone Oak Road, Eagan, MN 55121. Phone: +19529152000. Website: https://www.expresspros.com/. | https://registry-edge.dingalinged.workers.dev/c/express-eagan/
 3. Seek Careers and Staffing | Organic #3 | Pulse Score 54/100 (Unrated, #3 in city) | Seek Careers and Staffing is a staffing agency in Eagan, MN. | https://registry-edge.dingalinged.workers.dev/c/seek-careers-and-staffing-eagan/
 
 ## Market data (for advertisers and agents)

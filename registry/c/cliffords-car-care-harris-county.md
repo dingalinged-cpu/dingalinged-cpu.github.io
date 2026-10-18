@@ -13,12 +13,12 @@ Clifford's Car Care is an auto repair shop in Harris County, TX. Phone: +1281952
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 20% of auto repair shops in Houston, #2 of 86 auto repair shops in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 20% of auto repair shops in Houston, #2 of 108 auto repair shops in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/cliffords-car-care-harris-county/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cliffords-car-care-harris-county.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10571686430 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10571686430 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

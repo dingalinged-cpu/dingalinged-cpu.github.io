@@ -13,7 +13,7 @@ Tsuru Pet Spa is a dog groomer in Roswell, GA at 1575 Old Alabama Road, Roswell,
 - Website: https://tsurupets.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 09:00-17:00
-- Pulse Score: 62.9/100 — Good — top 10% of dog groomers in Atlanta, #1 of 2 dog groomers in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 10% of dog groomers in Atlanta, #1 of 2 dog groomers in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

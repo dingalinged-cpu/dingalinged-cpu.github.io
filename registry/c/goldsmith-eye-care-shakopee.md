@@ -13,7 +13,7 @@ Goldsmith Eye Care is an eye care practice in Shakopee, MN at 1127 Shakopee Town
 - Website: https://www.goldsmitheye.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 24% of eye care practices in Minneapolis–St. Paul, #2 of 2 eye care practices in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 24% of eye care practices in Minneapolis–St. Paul, #2 of 2 eye care practices in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: pet store in Highland Village, TX; pet store near me (Highland Vil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dogtopia | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | Dogtopia is a dog boarding facility in Highland Village, TX. Website: https://www.dogtopia.com/. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-highland-village/
+1. Dogtopia | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | Dogtopia is a dog boarding facility in Highland Village, TX. Website: https://www.dogtopia.com/. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-highland-village/
 2. Petco | Organic #2 | Pulse Score 47.6/100 (Building, #1 in city) | Petco is a pet store in Highland Village, TX at 3194 FM 407, Highland Village, TX 75077. Phone: +19723173268. Website: https://stores.petco.com/tx/highlandvillage/pet-supplies-highlandvillage-tx-1470.html. | https://registry-edge.dingalinged.workers.dev/c/petco-highland-village/
 
 ## Market data (for advertisers and agents)

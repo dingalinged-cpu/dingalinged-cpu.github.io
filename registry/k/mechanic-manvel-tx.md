@@ -6,8 +6,8 @@ Also answers: mechanic in Manvel, TX; mechanic near me (Manvel, TX); best mechan
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kwik n Kleen | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Kwik n Kleen is an auto repair shop in Manvel, TX at 7520 Russell Street, Manvel, TX 77578. Phone: +12814893810. | https://registry-edge.dingalinged.workers.dev/c/kwik-n-kleen-manvel/
-2. American Auto Care and Accessories LLC | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | American Auto Care and Accessories LLC is an auto repair shop in Manvel, TX at 20504 A Hwy 6, Manvel, TX 77578. | https://registry-edge.dingalinged.workers.dev/c/american-auto-care-and-accessories-llc-manvel/
+1. Kwik n Kleen | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Kwik n Kleen is an auto repair shop in Manvel, TX at 7520 Russell Street, Manvel, TX 77578. Phone: +12814893810. | https://registry-edge.dingalinged.workers.dev/c/kwik-n-kleen-manvel/
+2. American Auto Care and Accessories LLC | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | American Auto Care and Accessories LLC is an auto repair shop in Manvel, TX at 20504 A Hwy 6, Manvel, TX 77578. | https://registry-edge.dingalinged.workers.dev/c/american-auto-care-and-accessories-llc-manvel/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic manvel tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

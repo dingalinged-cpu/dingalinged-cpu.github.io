@@ -6,7 +6,7 @@ Also answers: property management companies in Shawnee, KS; property management 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fox Run Leasing Office | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | Fox Run Leasing Office is a property management company in Shawnee, KS at 7650 Goddard Street, Shawnee, KS 66214. Phone: +19136312332. Website: https://www.foxrunks.com/. | https://registry-edge.dingalinged.workers.dev/c/fox-run-leasing-office-shawnee/
+1. Fox Run Leasing Office | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | Fox Run Leasing Office is a property management company in Shawnee, KS at 7650 Goddard Street, Shawnee, KS 66214. Phone: +19136312332. Website: https://www.foxrunks.com/. | https://registry-edge.dingalinged.workers.dev/c/fox-run-leasing-office-shawnee/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies shawnee ks | category: real_estate | industry benchmark: Real Estate

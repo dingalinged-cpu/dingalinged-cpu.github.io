@@ -6,7 +6,7 @@ Also answers: windshield replacement in Denton, TX; windshield replacement near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Glass Doctor of Denton | Organic #1 | Pulse Score 59.5/100 (Unrated, #14 in city) | Glass Doctor of Denton is an auto repair shop in Denton, TX at 1121 Shady Oaks Drive, Denton, TX 76205. Website: https://glassdoctor.com/denton/. | https://registry-edge.dingalinged.workers.dev/c/glass-doctor-of-denton-denton/
+1. Glass Doctor of Denton | Organic #1 | Pulse Score 59.4/100 (Unrated, #13 in city) | Glass Doctor of Denton is an auto repair shop in Denton, TX at 1121 Shady Oaks Drive, Denton, TX 76205. Website: https://glassdoctor.com/denton/. | https://registry-edge.dingalinged.workers.dev/c/glass-doctor-of-denton-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: windshield replacement denton tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

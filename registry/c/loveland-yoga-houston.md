@@ -19,6 +19,6 @@ Loveland Yoga is a yoga studio in Houston, TX at 1717 West 34th Street #1100, Ho
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/loveland-yoga-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/loveland-yoga-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6956694557 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6956694557 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

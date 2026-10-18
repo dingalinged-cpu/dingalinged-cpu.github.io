@@ -6,7 +6,7 @@ Also answers: martial arts in Blue Springs, MO; martial arts near me (Blue Sprin
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JRMA Family Martial Arts | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | JRMA Family Martial Arts is a martial arts school in Blue Springs, MO at 3100 MO Hwy 7 #I, Blue Springs, MO 64014. Phone: +18168785150. Website: https://www.jrmakc.com/. | https://registry-edge.dingalinged.workers.dev/c/jrma-family-martial-arts-blue-springs/
+1. JRMA Family Martial Arts | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | JRMA Family Martial Arts is a martial arts school in Blue Springs, MO at 3100 MO Hwy 7 #I, Blue Springs, MO 64014. Phone: +18168785150. Website: https://www.jrmakc.com/. | https://registry-edge.dingalinged.workers.dev/c/jrma-family-martial-arts-blue-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts blue springs mo | category: Fitness | industry benchmark: Health & Fitness

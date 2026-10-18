@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Smyrna, GA at 4340 East West Connector #101
 - Website: https://www.mattressfirm.com/en-us/stores/ga/smyrna/007125/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 45% of mattress stores in Atlanta, #1 of 1 mattress stores in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 45% of mattress stores in Atlanta, #1 of 1 mattress stores in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

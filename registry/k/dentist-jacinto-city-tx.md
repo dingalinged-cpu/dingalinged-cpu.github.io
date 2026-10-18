@@ -6,7 +6,7 @@ Also answers: dentist in Jacinto City, TX; dentist near me (Jacinto City, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dorsey Dental Services | Organic #1 | Pulse Score 56.6/100 (Unrated, #103 in city) | Dorsey Dental Services is a dentist in Houston, TX at 10928 East Freeway, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/dorsey-dental-services-houston/
+1. Dorsey Dental Services | Organic #1 | Pulse Score 56.6/100 (Unrated, #108 in city) | Dorsey Dental Services is a dentist in Houston, TX at 10928 East Freeway, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/dorsey-dental-services-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist jacinto city tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

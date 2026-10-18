@@ -19,6 +19,6 @@ Disney Outlet is a gift shop in Texas City, TX at 5885 Gulf Freeway #735, Texas 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/disney-outlet-texas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/disney-outlet-texas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/8636766215 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8636766215 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Chuck's Main Street Auto | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Chuck's Main Street Auto is an auto repair shop in Sussex, WI at N64W23876 Main Street, Sussex, WI 53089. | https://registry-edge.dingalinged.workers.dev/c/chucks-main-street-auto-sussex/
 2. Sussex Auto, Inc | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Sussex Auto, Inc is an auto repair shop in Sussex, WI at N64W23936 Main Street, Sussex, WI 53089. | https://registry-edge.dingalinged.workers.dev/c/sussex-auto-inc-sussex/
-3. Valvoline | Organic #3 | Pulse Score 44.2/100 (Building, #3 in city) | Valvoline is an auto repair shop in Sussex, WI. Website: https://store.vioc.com/wi/sussex/oil-change-gr0067.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-sussex/
+3. Valvoline | Organic #3 | Pulse Score 44.1/100 (Building, #3 in city) | Valvoline is an auto repair shop in Sussex, WI. Website: https://store.vioc.com/wi/sussex/oil-change-gr0067.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-sussex/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair sussex wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

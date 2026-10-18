@@ -6,7 +6,7 @@ Also answers: staffing agency in Polk City, IA; staffing agency near me (Polk Ci
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hire Quality Solutions | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Hire Quality Solutions is a staffing agency in Polk City, IA at 109 South 2nd Street, Polk City, IA 50226. Phone: +15153319020. Website: https://www.hirequalitysolutions.com/. | https://registry-edge.dingalinged.workers.dev/c/hire-quality-solutions-polk-city/
+1. Hire Quality Solutions | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Hire Quality Solutions is a staffing agency in Polk City, IA at 109 South 2nd Street, Polk City, IA 50226. Phone: +15153319020. Website: https://www.hirequalitysolutions.com/. | https://registry-edge.dingalinged.workers.dev/c/hire-quality-solutions-polk-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency polk city ia | category: b2b_services | industry benchmark: Business Services

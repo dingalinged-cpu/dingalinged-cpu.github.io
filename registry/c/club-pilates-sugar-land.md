@@ -13,12 +13,12 @@ Club Pilates is a pilates studio in Sugar Land, TX at 3157 State Highway 6 South
 - Website: https://www.clubpilates.com/location/sugarland
 - Email: sugarland@clubpilates.com
 - Opening hours (OSM syntax): Mo,We 06:00-20:00; Tu,Th 06:00-20:30; Fr 06:00-18:00; Sa 08:30-14:30; Su 08:30-12:30
-- Pulse Score: 51/100 — Fair — top 67% of pilates studios in Houston, #1 of 1 pilates studios in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 68. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.2/100 — Fair — top 55% of pilates studios in Houston, #1 of 1 pilates studios in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 68.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/club-pilates-sugar-land/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/club-pilates-sugar-land.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12735415133 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12735415133 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

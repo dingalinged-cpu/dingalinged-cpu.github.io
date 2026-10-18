@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Wauwatosa, WI at 11616 West North Avenue 
 - Website: https://www.edwardjones.com/us-en/financial-advisor/daniel-green
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-16:00
-- Pulse Score: 50.8/100 — Fair — top 49% of financial advisors in Milwaukee, #2 of 2 financial advisors in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.8/100 — Fair — top 49% of financial advisors in Milwaukee, #2 of 2 financial advisors in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 67.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

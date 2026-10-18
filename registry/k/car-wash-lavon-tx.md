@@ -6,7 +6,7 @@ Also answers: car wash in Lavon, TX; car wash near me (Lavon, TX); best car wash
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Scrubbies Car Wash | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Scrubbies Car Wash is a car wash in Lavon, TX at 701 South State Highway 78, Lavon, TX 75166. | https://registry-edge.dingalinged.workers.dev/c/scrubbies-car-wash-lavon/
+1. Scrubbies Car Wash | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Scrubbies Car Wash is a car wash in Lavon, TX at 701 South State Highway 78, Lavon, TX 75166. | https://registry-edge.dingalinged.workers.dev/c/scrubbies-car-wash-lavon/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash lavon tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

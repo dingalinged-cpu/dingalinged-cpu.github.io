@@ -13,7 +13,7 @@ James Avery Jewelry is a jewelry store in Atlanta, GA at 4500 Ashford Dunwoody R
 - Website: https://www.jamesavery.com/custserv/store_details.jsp
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00, Su 12:00-19:00
-- Pulse Score: 48.6/100 — Building — top 68% of jewelry stores in Atlanta, #5 of 7 jewelry stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 68% of jewelry stores in Atlanta, #5 of 7 jewelry stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

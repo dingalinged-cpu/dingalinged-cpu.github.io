@@ -13,7 +13,7 @@ Wellstar Health Place is a gym in Marietta, GA at 330 Kennestone Hospital Boulev
 - Website: https://www.wellstarfitness.org/health-place/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 67% of gyms in Atlanta, #20 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 66% of gyms in Atlanta, #20 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

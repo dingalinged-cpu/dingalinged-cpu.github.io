@@ -13,7 +13,7 @@ Woodwright Contracting & Design is a furniture store in Gretna, NE at 118 North 
 - Website: https://www.houzz.com/pro/rlancaster/woodwright-contracting-and-design
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 37% of furniture stores in Omaha, NE, #1 of 1 furniture stores in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 37% of furniture stores in Omaha, NE, #1 of 1 furniture stores in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

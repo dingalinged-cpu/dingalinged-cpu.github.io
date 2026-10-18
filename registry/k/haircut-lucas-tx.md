@@ -6,7 +6,7 @@ Also answers: haircut in Lucas, TX; haircut near me (Lucas, TX); best haircut Lu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | Organic #1 | Pulse Score 44.8/100 (Building, #1 in city) | Great Clips is a hair salon in Lucas, TX at 2650 West Lucas Road #150, Lucas, TX 75002. | https://registry-edge.dingalinged.workers.dev/c/great-clips-lucas/
+1. Great Clips | Organic #1 | Pulse Score 44.7/100 (Building, #1 in city) | Great Clips is a hair salon in Lucas, TX at 2650 West Lucas Road #150, Lucas, TX 75002. | https://registry-edge.dingalinged.workers.dev/c/great-clips-lucas/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut lucas tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

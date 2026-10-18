@@ -13,7 +13,7 @@ Atlanta Skin Spot is a skin care studio in Atlanta, GA at 1820 Peachtree Road No
 - Website: https://www.shopatlantaskinspot.com/
 - Email: nicole@atlantaskinspot.com
 - Opening hours (OSM syntax): Tu,Th 10:00-20:00; Fr-Su 10:00-17:00; Mo,We off
-- Pulse Score: 63.5/100 — Good — top 12% of skin care studios in Atlanta, #1 of 8 skin care studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 65.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 12% of skin care studios in Atlanta, #1 of 8 skin care studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ D's Liquors is a liquor store in Edgerton, KS at 107 East Morgan Street, Edgerto
 - Website: https://www.facebook.com/Ds-Liquor-125596508181056
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.1/100 — Good — top 1% of liquor stores in Kansas City, MO, #1 of 1 liquor stores in Edgerton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 1% of liquor stores in Kansas City, MO, #1 of 1 liquor stores in Edgerton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

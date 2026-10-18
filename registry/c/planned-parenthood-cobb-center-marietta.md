@@ -13,7 +13,7 @@ Planned Parenthood - Cobb Center is a therapy practice in Marietta, GA at 220 Co
 - Website: https://www.plannedparenthood.org/health-center/georgia/marietta/30062/cobb-center-2270-90330
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 10:00-18:00; Tu,Th-Fr 08:00-16:00; Sa-Su off
-- Pulse Score: 49.7/100 — Building — top 91% of therapy practices in Atlanta, #3 of 3 therapy practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.4, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 91% of therapy practices in Atlanta, #3 of 3 therapy practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.4, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

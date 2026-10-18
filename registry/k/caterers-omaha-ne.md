@@ -6,8 +6,8 @@ Also answers: caterers in Omaha, NE; caterers near me (Omaha, NE); best caterers
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chef Hattam Catering | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Chef Hattam Catering is a caterer in Omaha, NE at 4963 Center Street, Omaha, NE 68106. Phone: +14027083474. Website: https://chefhattam.com/. | https://registry-edge.dingalinged.workers.dev/c/chef-hattam-catering-omaha/
-2. Lil Willy's Catering | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Lil Willy's Catering is a caterer in Omaha, NE at 3614 South 61st Avenue, Omaha, NE 68106. Website: https://lilwillyscateringomaha.com/. | https://registry-edge.dingalinged.workers.dev/c/lil-willys-catering-omaha/
+1. Chef Hattam Catering | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Chef Hattam Catering is a caterer in Omaha, NE at 4963 Center Street, Omaha, NE 68106. Phone: +14027083474. Website: https://chefhattam.com/. | https://registry-edge.dingalinged.workers.dev/c/chef-hattam-catering-omaha/
+2. Lil Willy's Catering | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Lil Willy's Catering is a caterer in Omaha, NE at 3614 South 61st Avenue, Omaha, NE 68106. Website: https://lilwillyscateringomaha.com/. | https://registry-edge.dingalinged.workers.dev/c/lil-willys-catering-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers omaha ne | category: Events & weddings | industry benchmark: Personal Services

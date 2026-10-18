@@ -6,11 +6,11 @@ Also answers: eye doctor in Frisco, TX; eye doctor near me (Frisco, TX); best ey
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hollingsworth Eye Care | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Hollingsworth Eye Care is an eye care practice in Frisco, TX at 11220 Dallas Parkway, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/hollingsworth-eye-care-frisco/
-2. Pearle Vision | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Pearle Vision is an eye care practice in Frisco, TX at 11550 Legacy Drive #470, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/pearle-vision-frisco/
-3. Avant-Garde Optometry | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Avant-Garde Optometry is an eye care practice in Frisco, TX at 9255 Dallas Parkway #140, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/avant-garde-optometry-frisco/
-4. Bright Vision Family Eyecare | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Bright Vision Family Eyecare is an eye care practice in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/bright-vision-family-eyecare-frisco/
-5. Clarkson Eyecare | Organic #5 | Pulse Score 46.8/100 (Building, #5 in city) | Clarkson Eyecare is an eye care practice in Frisco, TX. Phone: +12146195580. Website: https://www.clarksoneyecare.com/locations/tx/frisco/legacy. | https://registry-edge.dingalinged.workers.dev/c/clarkson-eyecare-frisco/
+1. Hollingsworth Eye Care | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Hollingsworth Eye Care is an eye care practice in Frisco, TX at 11220 Dallas Parkway, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/hollingsworth-eye-care-frisco/
+2. Pearle Vision | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Pearle Vision is an eye care practice in Frisco, TX at 11550 Legacy Drive #470, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/pearle-vision-frisco/
+3. Avant-Garde Optometry | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Avant-Garde Optometry is an eye care practice in Frisco, TX at 9255 Dallas Parkway #140, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/avant-garde-optometry-frisco/
+4. Bright Vision Family Eyecare | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Bright Vision Family Eyecare is an eye care practice in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/bright-vision-family-eyecare-frisco/
+5. Clarkson Eyecare | Organic #5 | Pulse Score 46.5/100 (Building, #5 in city) | Clarkson Eyecare is an eye care practice in Frisco, TX. Phone: +12146195580. Website: https://www.clarksoneyecare.com/locations/tx/frisco/legacy. | https://registry-edge.dingalinged.workers.dev/c/clarkson-eyecare-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor frisco tx | category: Health & medical | industry benchmark: Physicians & Surgeons

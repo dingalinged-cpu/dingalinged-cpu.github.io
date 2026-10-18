@@ -6,12 +6,12 @@ Also answers: mechanic in Wylie, TX; mechanic near me (Wylie, TX); best mechanic
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hwy 78 Auto | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Hwy 78 Auto is an auto repair shop in Wylie, TX at 3302 North State Highway 78, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/hwy-78-auto-wylie/
+1. Hwy 78 Auto | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Hwy 78 Auto is an auto repair shop in Wylie, TX at 3302 North State Highway 78, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/hwy-78-auto-wylie/
 2. Collision Center Paint and Body | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Collision Center Paint and Body is an auto repair shop in Wylie, TX. | https://registry-edge.dingalinged.workers.dev/c/collision-center-paint-and-body-wylie/
-3. Caliber Collision | Organic #3 | Pulse Score 46.8/100 (Building, #3 in city) | Caliber Collision is an auto repair shop in Wylie, TX at 451 Westgate Way, Wylie, TX 75098. Website: https://www.caliber.com/find-a-location/wylie. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-wylie/
-4. NTB | Organic #4 | Pulse Score 44.8/100 (Building, #4 in city) | NTB is an auto repair shop in Wylie, TX at 2029 North State Highway 78, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/ntb-wylie/
-5. Brakes Plus | Organic #5 | Pulse Score 44.4/100 (Building, #5 in city) | Brakes Plus is an auto repair shop in Wylie, TX at 1800 FM 544, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/brakes-plus-wylie/
-6. Jiffy Lube | Organic #6 | Pulse Score 44.4/100 (Building, #6 in city) | Jiffy Lube is an auto repair shop in Wylie, TX at 911 FM 544, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-wylie/
+3. Caliber Collision | Organic #3 | Pulse Score 46.7/100 (Building, #3 in city) | Caliber Collision is an auto repair shop in Wylie, TX at 451 Westgate Way, Wylie, TX 75098. Website: https://www.caliber.com/find-a-location/wylie. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-wylie/
+4. NTB | Organic #4 | Pulse Score 44.7/100 (Building, #4 in city) | NTB is an auto repair shop in Wylie, TX at 2029 North State Highway 78, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/ntb-wylie/
+5. Brakes Plus | Organic #5 | Pulse Score 44.3/100 (Building, #5 in city) | Brakes Plus is an auto repair shop in Wylie, TX at 1800 FM 544, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/brakes-plus-wylie/
+6. Jiffy Lube | Organic #6 | Pulse Score 44.3/100 (Building, #6 in city) | Jiffy Lube is an auto repair shop in Wylie, TX at 911 FM 544, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-wylie/
 7. Valvoline | Organic #7 | Pulse Score 42.2/100 (Building, #7 in city) | Valvoline is an auto repair shop in Wylie, TX. | https://registry-edge.dingalinged.workers.dev/c/valvoline-wylie/
 8. Kwik Kar Lube & Tune | Organic #8 | Pulse Score 41.4/100 (Unrated, #8 in city) | Kwik Kar Lube & Tune is an auto repair shop in Wylie, TX. | https://registry-edge.dingalinged.workers.dev/c/kwik-kar-lube-and-tune-wylie/
 

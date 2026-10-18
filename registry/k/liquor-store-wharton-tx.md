@@ -6,7 +6,7 @@ Also answers: liquor store in Wharton, TX; liquor store near me (Wharton, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Louie's Package Store | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Louie's Package Store is a liquor store in Wharton, TX at 2005 Bay City Highway, Wharton, TX. | https://registry-edge.dingalinged.workers.dev/c/louies-package-store-wharton-w915724227/
+1. Louie's Package Store | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Louie's Package Store is a liquor store in Wharton, TX at 2005 Bay City Highway, Wharton, TX. | https://registry-edge.dingalinged.workers.dev/c/louies-package-store-wharton-w915724227/
 2. Louie's Package Store | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Louie's Package Store is a liquor store in Wharton, TX at 1725 North Richmond Road, Wharton, TX. | https://registry-edge.dingalinged.workers.dev/c/louies-package-store-wharton/
 
 ## Market data (for advertisers and agents)

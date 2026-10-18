@@ -6,8 +6,8 @@ Also answers: event venues in Missouri City, TX; event venues near me (Missouri 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Akadia Event Center | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Akadia Event Center is an event venue in Missouri City, TX at 14808 Hillcroft Avenue, Missouri City, TX 77489. Phone: +17137847777. Website: https://www.theakadia.com/. | https://registry-edge.dingalinged.workers.dev/c/akadia-event-center-missouri-city/
-2. The Makenzie House | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | The Makenzie House is an event venue in Missouri City, TX at 1430 Texas Parkway, Missouri City, TX 77489. Website: https://themakenziehouse.com/. | https://registry-edge.dingalinged.workers.dev/c/the-makenzie-house-missouri-city/
+1. Akadia Event Center | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Akadia Event Center is an event venue in Missouri City, TX at 14808 Hillcroft Avenue, Missouri City, TX 77489. Phone: +17137847777. Website: https://www.theakadia.com/. | https://registry-edge.dingalinged.workers.dev/c/akadia-event-center-missouri-city/
+2. The Makenzie House | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | The Makenzie House is an event venue in Missouri City, TX at 1430 Texas Parkway, Missouri City, TX 77489. Website: https://themakenziehouse.com/. | https://registry-edge.dingalinged.workers.dev/c/the-makenzie-house-missouri-city/
 3. St. Joseph Hall | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | St. Joseph Hall is an event venue in Missouri City, TX. | https://registry-edge.dingalinged.workers.dev/c/st-joseph-hall-missouri-city/
 
 ## Market data (for advertisers and agents)

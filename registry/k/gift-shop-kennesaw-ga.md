@@ -7,7 +7,7 @@ Also answers: gift shop in Kennesaw, GA; gift shop near me (Kennesaw, GA); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Little Red Bird Gifts | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | Little Red Bird Gifts is a gift shop in Kennesaw, GA at 1300 Ernest W. Barrett Parkway Northwest #270, Kennesaw, GA. Phone: +14702229974. Website: https://littleredbirdgifts.com/. | https://registry-edge.dingalinged.workers.dev/c/little-red-bird-gifts-kennesaw/
-2. Cracker Barrel | Organic #2 | Pulse Score 50.9/100 (Fair, #2 in city) | Cracker Barrel is a gift shop in Kennesaw, GA at 3389 Busbee Drive Northwest, Kennesaw, GA 30144. Phone: +17704291524. Website: https://www.crackerbarrel.com/Locations/States/ga/kennesaw/20/. | https://registry-edge.dingalinged.workers.dev/c/cracker-barrel-kennesaw/
+2. Cracker Barrel | Organic #2 | Pulse Score 50.8/100 (Fair, #2 in city) | Cracker Barrel is a gift shop in Kennesaw, GA at 3389 Busbee Drive Northwest, Kennesaw, GA 30144. Phone: +17704291524. Website: https://www.crackerbarrel.com/Locations/States/ga/kennesaw/20/. | https://registry-edge.dingalinged.workers.dev/c/cracker-barrel-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop kennesaw ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

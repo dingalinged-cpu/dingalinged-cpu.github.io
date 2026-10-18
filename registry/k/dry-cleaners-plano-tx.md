@@ -6,12 +6,12 @@ Also answers: dry cleaners in Plano, TX; dry cleaners near me (Plano, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Liberty Cleaners | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Liberty Cleaners is a dry cleaner in Plano, TX at 3516 Preston Road #300, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/liberty-cleaners-plano/
+1. Liberty Cleaners | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Liberty Cleaners is a dry cleaner in Plano, TX at 3516 Preston Road #300, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/liberty-cleaners-plano/
 2. Meredith Cleaners | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | Meredith Cleaners is a dry cleaner in Plano, TX at 6009 West Parker Road #139, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/meredith-cleaners-plano/
-3. Central Park Cleaners | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Central Park Cleaners is a dry cleaner in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/central-park-cleaners-plano/
-4. Bibbentuckers | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Bibbentuckers is a dry cleaner in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/bibbentuckers-plano/
-5. Max Cleaners | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Max Cleaners is a dry cleaner in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/max-cleaners-plano/
-6. Star Cleaners | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Star Cleaners is a dry cleaner in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/star-cleaners-plano/
+3. Max Cleaners | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Max Cleaners is a dry cleaner in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/max-cleaners-plano/
+4. Central Park Cleaners | Organic #4 | Pulse Score 55.7/100 (Unrated, #4 in city) | Central Park Cleaners is a dry cleaner in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/central-park-cleaners-plano/
+5. Bibbentuckers | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Bibbentuckers is a dry cleaner in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/bibbentuckers-plano/
+6. Star Cleaners | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | Star Cleaners is a dry cleaner in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/star-cleaners-plano/
 7. Dry Clean Super Center | Organic #7 | Pulse Score 44.8/100 (Unrated, #7 in city) | Dry Clean Super Center is a dry cleaner in Plano, TX at 3901 West Parker Road #710, Plano, TX 75075. | https://registry-edge.dingalinged.workers.dev/c/dry-clean-super-center-plano/
 8. Tip Top Cleaners | Organic #8 | Pulse Score 44.8/100 (Unrated, #8 in city) | Tip Top Cleaners is a dry cleaner in Plano, TX at 4801 West Park Boulevard #427, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/tip-top-cleaners-plano/
 

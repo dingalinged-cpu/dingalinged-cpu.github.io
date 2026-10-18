@@ -13,7 +13,7 @@ Benchmark Physical Therapy is a physical therapy clinic in Marietta, GA at 1205 
 - Website: https://benchmark.urpt.com/locations/marietta-east-cobb/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-16:00
-- Pulse Score: 50/100 — Fair — top 38% of physical therapy clinics in Atlanta, #4 of 5 physical therapy clinics in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.3, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 36% of physical therapy clinics in Atlanta, #4 of 5 physical therapy clinics in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.3, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

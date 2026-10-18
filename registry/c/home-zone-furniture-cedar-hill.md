@@ -13,12 +13,12 @@ Home Zone Furniture is a furniture store in Cedar Hill, TX at 229 East Farm-to-M
 - Website: https://homezonefurniture.com/locations-cedar-hill-texas
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 50.3/100 — Unrated (not enough evidence yet) — top 54% of furniture stores in Dallas–Fort Worth, #2 of 2 furniture stores in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 53% of furniture stores in Dallas–Fort Worth, #2 of 2 furniture stores in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/home-zone-furniture-cedar-hill/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/home-zone-furniture-cedar-hill.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/3508695581 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3508695581 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

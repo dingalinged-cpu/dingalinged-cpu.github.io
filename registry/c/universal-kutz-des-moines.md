@@ -13,7 +13,7 @@ Universal Kutz is a hair salon in Des Moines, IA at 4803 University Avenue, Des 
 - Website: https://www.facebook.com/universalkutz
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Good — top 10% of hair salons in Des Moines, IA, #6 of 34 hair salons in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Good — top 10% of hair salons in Des Moines, IA, #6 of 34 hair salons in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

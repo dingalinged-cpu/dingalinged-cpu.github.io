@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Overland Park, KS at 8001 151st Street, Overland 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 08:00-18:00
-- Pulse Score: 47/100 — Building — top 83% of hair salons in Kansas City, MO, #19 of 27 hair salons in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 82% of hair salons in Kansas City, MO, #19 of 27 hair salons in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

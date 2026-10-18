@@ -13,12 +13,12 @@ UTMB Health Regional Maternal and Child Health Program is an OB-GYN practice in 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 08:00-17:00; Tu 08:00-19:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 60% of OB-GYN practices in Houston, #1 of 1 OB-GYN practices in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 60% of OB-GYN practices in Houston, #1 of 1 OB-GYN practices in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/utmb-health-regional-maternal-and-child-health-program-new-caney/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/utmb-health-regional-maternal-and-child-health-program-new-caney.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6006751530 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6006751530 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

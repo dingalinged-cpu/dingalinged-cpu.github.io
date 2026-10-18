@@ -6,11 +6,11 @@ Also answers: mechanic in Brazoria County, TX; mechanic near me (Brazoria County
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Morenos Auto Repair | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Morenos Auto Repair is an auto repair shop in Brazoria County, TX at 2306 Donley Drive, Brazoria County, TX 77583. | https://registry-edge.dingalinged.workers.dev/c/morenos-auto-repair-brazoria-county/
-2. Logos Automotive Repair | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Logos Automotive Repair is an auto repair shop in Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/logos-automotive-repair-brazoria-county/
-3. Jiffy Lube | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | Jiffy Lube is an auto repair shop in Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-brazoria-county/
-4. Firestone | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | Firestone is an auto repair shop in Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/firestone-brazoria-county/
-5. Havoline Xpress Lube | Organic #5 | Pulse Score 41.8/100 (Unrated, #5 in city) | Havoline Xpress Lube is an auto repair shop in Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/havoline-xpress-lube-brazoria-county/
+1. Morenos Auto Repair | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Morenos Auto Repair is an auto repair shop in Brazoria County, TX at 2306 Donley Drive, Brazoria County, TX 77583. | https://registry-edge.dingalinged.workers.dev/c/morenos-auto-repair-brazoria-county/
+2. Logos Automotive Repair | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Logos Automotive Repair is an auto repair shop in Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/logos-automotive-repair-brazoria-county/
+3. Jiffy Lube | Organic #3 | Pulse Score 43.8/100 (Building, #3 in city) | Jiffy Lube is an auto repair shop in Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-brazoria-county/
+4. Firestone | Organic #4 | Pulse Score 42.8/100 (Building, #4 in city) | Firestone is an auto repair shop in Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/firestone-brazoria-county/
+5. Havoline Xpress Lube | Organic #5 | Pulse Score 41.9/100 (Unrated, #5 in city) | Havoline Xpress Lube is an auto repair shop in Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/havoline-xpress-lube-brazoria-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic brazoria county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

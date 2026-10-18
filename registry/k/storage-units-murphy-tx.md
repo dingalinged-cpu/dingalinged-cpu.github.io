@@ -7,7 +7,7 @@ Also answers: storage units in Murphy, TX; storage units near me (Murphy, TX); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Murphy Self Storage | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Murphy Self Storage is a self-storage facility in Murphy, TX. | https://registry-edge.dingalinged.workers.dev/c/murphy-self-storage-murphy/
-2. RightSpace Storage | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | RightSpace Storage is a self-storage facility in Murphy, TX. | https://registry-edge.dingalinged.workers.dev/c/rightspace-storage-murphy/
+2. RightSpace Storage | Organic #2 | Pulse Score 41.4/100 (Unrated, #2 in city) | RightSpace Storage is a self-storage facility in Murphy, TX. | https://registry-edge.dingalinged.workers.dev/c/rightspace-storage-murphy/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units murphy tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

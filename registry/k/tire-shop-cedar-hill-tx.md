@@ -6,7 +6,7 @@ Also answers: tire shop in Cedar Hill, TX; tire shop near me (Cedar Hill, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | Organic #1 | Pulse Score 45.8/100 (Building, #1 in city) | Discount Tire is a tire shop in Cedar Hill, TX at 142 North Highway 67, Cedar Hill, TX 75104. Phone: +19722913939. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-cedar-hill/
+1. Discount Tire | Organic #1 | Pulse Score 45.7/100 (Building, #1 in city) | Discount Tire is a tire shop in Cedar Hill, TX at 142 North Highway 67, Cedar Hill, TX 75104. Phone: +19722913939. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop cedar hill tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

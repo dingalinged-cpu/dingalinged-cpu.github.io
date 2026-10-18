@@ -13,7 +13,7 @@ Animal Ark Thrift & Pet Store is a thrift store in Saint Paul, MN at 809 7th Str
 - Website: https://www.animalarkshelter.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 21% of thrift stores in Minneapolis–St. Paul, #3 of 11 thrift stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 19% of thrift stores in Minneapolis–St. Paul, #3 of 11 thrift stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

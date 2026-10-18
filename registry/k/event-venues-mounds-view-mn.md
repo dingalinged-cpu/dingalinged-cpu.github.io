@@ -6,7 +6,7 @@ Also answers: event venues in Mounds View, MN; event venues near me (Mounds View
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mermaid Entertainment and Event Center | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Mermaid Entertainment and Event Center is an event venue in Mounds View, MN at 2200 County Highway 10, Mounds View, MN 55112. Website: https://tripleshift.com/mermaid/bowling/. | https://registry-edge.dingalinged.workers.dev/c/mermaid-entertainment-and-event-center-mounds-view/
+1. Mermaid Entertainment and Event Center | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Mermaid Entertainment and Event Center is an event venue in Mounds View, MN at 2200 County Highway 10, Mounds View, MN 55112. Website: https://tripleshift.com/mermaid/bowling/. | https://registry-edge.dingalinged.workers.dev/c/mermaid-entertainment-and-event-center-mounds-view/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues mounds view mn | category: Events & weddings | industry benchmark: Personal Services

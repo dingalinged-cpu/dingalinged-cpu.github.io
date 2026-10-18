@@ -7,8 +7,8 @@ Also answers: financial advisor in Plano, TX; financial advisor near me (Plano, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Symphony Wealth Group | Organic #1 | Pulse Score 65.7/100 (Good, #1 in city) | Symphony Wealth Group is a financial advisor in Plano, TX at 5801 Headquarters Drive #100, Plano, TX 75024. Phone: +12144403090. Website: https://www.symphonywg.com/. | https://registry-edge.dingalinged.workers.dev/c/symphony-wealth-group-plano/
-2. Fidelity Investments | Organic #2 | Pulse Score 46.9/100 (Building, #2 in city) | Fidelity Investments is a financial advisor in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/fidelity-investments-plano/
-3. Charles Schwab | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | Charles Schwab is a financial advisor in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/charles-schwab-plano/
+2. Fidelity Investments | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Fidelity Investments is a financial advisor in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/fidelity-investments-plano/
+3. Charles Schwab | Organic #3 | Pulse Score 41.7/100 (Building, #3 in city) | Charles Schwab is a financial advisor in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/charles-schwab-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor plano tx | category: Professional & financial services | industry benchmark: Finance & Insurance

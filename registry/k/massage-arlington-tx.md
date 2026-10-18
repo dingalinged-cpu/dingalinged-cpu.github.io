@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Serenity Massage Therapy | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Serenity Massage Therapy is a massage studio in Arlington, TX at 6201 Matlock Road ##129, Arlington, TX 76002. Phone: +18174651134. Website: https://serenitymassagetherapydallas.com/. | https://registry-edge.dingalinged.workers.dev/c/serenity-massage-therapy-arlington/
 2. Massage Envy | Organic #2 | Pulse Score 49.2/100 (Building, #2 in city) | Massage Envy is a massage studio in Arlington, TX at 3900 Arlington Highlands Blvd. #125, Arlington, TX 76018. Phone: +18174653456. Website: https://www.massageenvy.com/. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-arlington-w1032456143/
-3. Massage Envy | Organic #3 | Pulse Score 44.8/100 (Building, #3 in city) | Massage Envy is a massage studio in Arlington, TX at North Collins Street, Arlington, TX 76011. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-arlington/
+3. Massage Envy | Organic #3 | Pulse Score 44.7/100 (Building, #3 in city) | Massage Envy is a massage studio in Arlington, TX at North Collins Street, Arlington, TX 76011. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage arlington tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

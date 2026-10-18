@@ -19,6 +19,6 @@ Avis is an used car dealer in Irving, TX. Website: https://www.aviscarsales.com/
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/avis-irving/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/avis-irving.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12852950242 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12852950242 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

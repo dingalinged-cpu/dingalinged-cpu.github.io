@@ -6,9 +6,9 @@ Also answers: car wash in Richmond, TX; car wash near me (Richmond, TX); best ca
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cool River Car Wash | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Cool River Car Wash is a car wash in Richmond, TX at 11287 FM 1464, Richmond, TX 77407. Phone: +12819144673. | https://registry-edge.dingalinged.workers.dev/c/cool-river-car-wash-richmond/
-2. H-E-B Car Wash | Organic #2 | Pulse Score 47.5/100 (Building, #2 in city) | H-E-B Car Wash is a car wash in Richmond, TX at 11105 Harlem Road, Richmond, TX 77406. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-richmond/
-3. Quick Quack Car Wash | Organic #3 | Pulse Score 46.1/100 (Building, #3 in city) | Quick Quack Car Wash is a car wash in Richmond, TX at West Bellfort Street, Richmond, TX 77407. | https://registry-edge.dingalinged.workers.dev/c/quick-quack-car-wash-richmond/
+1. Cool River Car Wash | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Cool River Car Wash is a car wash in Richmond, TX at 11287 FM 1464, Richmond, TX 77407. Phone: +12819144673. | https://registry-edge.dingalinged.workers.dev/c/cool-river-car-wash-richmond/
+2. H-E-B Car Wash | Organic #2 | Pulse Score 47.6/100 (Building, #2 in city) | H-E-B Car Wash is a car wash in Richmond, TX at 11105 Harlem Road, Richmond, TX 77406. | https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-richmond/
+3. Quick Quack Car Wash | Organic #3 | Pulse Score 46.2/100 (Building, #3 in city) | Quick Quack Car Wash is a car wash in Richmond, TX at West Bellfort Street, Richmond, TX 77407. | https://registry-edge.dingalinged.workers.dev/c/quick-quack-car-wash-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash richmond tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

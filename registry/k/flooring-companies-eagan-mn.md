@@ -6,7 +6,7 @@ Also answers: flooring companies in Eagan, MN; flooring companies near me (Eagan
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Value Plus Flooring | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Value Plus Flooring is a flooring company in Eagan, MN at 3109 Neil Armstrong Boulevard, Eagan, MN 55121. Phone: +16514549344. Website: https://valueplusflooring.com/. | https://registry-edge.dingalinged.workers.dev/c/value-plus-flooring-eagan/
+1. Value Plus Flooring | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Value Plus Flooring is a flooring company in Eagan, MN at 3109 Neil Armstrong Boulevard, Eagan, MN 55121. Phone: +16514549344. Website: https://valueplusflooring.com/. | https://registry-edge.dingalinged.workers.dev/c/value-plus-flooring-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies eagan mn | category: Home services - Flooring | industry benchmark: Home & Home Improvement

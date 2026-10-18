@@ -6,7 +6,7 @@ Also answers: property management companies in Falcon Heights, MN; property mana
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Larpenteur Manor Apartments Management Office | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Larpenteur Manor Apartments Management Office is a property management company in Falcon Heights, MN at 1740 Larpenteur Avenue West, Falcon Heights, MN 55113. | https://registry-edge.dingalinged.workers.dev/c/larpenteur-manor-apartments-management-office-falcon-heights/
+1. Larpenteur Manor Apartments Management Office | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Larpenteur Manor Apartments Management Office is a property management company in Falcon Heights, MN at 1740 Larpenteur Avenue West, Falcon Heights, MN 55113. | https://registry-edge.dingalinged.workers.dev/c/larpenteur-manor-apartments-management-office-falcon-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies falcon heights mn | category: real_estate | industry benchmark: Real Estate

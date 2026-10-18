@@ -13,7 +13,7 @@ Sleep Number is a mattress store in Maple Grove, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.6/100 — Building — top 88% of mattress stores in Minneapolis–St. Paul, #3 of 3 mattress stores in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.6/100 — Building — top 88% of mattress stores in Minneapolis–St. Paul, #3 of 3 mattress stores in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

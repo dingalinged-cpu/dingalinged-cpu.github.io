@@ -6,8 +6,8 @@ Also answers: music lessons in Saint Louis Park, MN; music lessons near me (Sain
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Maestoso Music Studio | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Maestoso Music Studio is a music school in Saint Louis Park, MN at 3402 Library Lane, Saint Louis Park, MN 55426. | https://registry-edge.dingalinged.workers.dev/c/maestoso-music-studio-saint-louis-park/
-2. Rock Camp Experience | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Rock Camp Experience is a music school in Saint Louis Park, MN at 6415 Walker Street, Saint Louis Park, MN 55426. | https://registry-edge.dingalinged.workers.dev/c/rock-camp-experience-saint-louis-park/
+1. Maestoso Music Studio | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Maestoso Music Studio is a music school in Saint Louis Park, MN at 3402 Library Lane, Saint Louis Park, MN 55426. | https://registry-edge.dingalinged.workers.dev/c/maestoso-music-studio-saint-louis-park/
+2. Rock Camp Experience | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Rock Camp Experience is a music school in Saint Louis Park, MN at 6415 Walker Street, Saint Louis Park, MN 55426. | https://registry-edge.dingalinged.workers.dev/c/rock-camp-experience-saint-louis-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons saint louis park mn | category: Education & childcare | industry benchmark: Education & Instruction

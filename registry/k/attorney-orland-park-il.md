@@ -6,7 +6,7 @@ Also answers: attorney in Orland Park, IL; attorney near me (Orland Park, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Reidy Law Office LLC | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Reidy Law Office LLC is a lawyer in Orland Park, IL at 11528 W. 183rd Place #Suite NW, Orland Park, IL 60467. Phone: +17085806767. Website: https://reidylawoffice.com/. | https://registry-edge.dingalinged.workers.dev/c/reidy-law-office-llc-orland-park/
+1. Reidy Law Office LLC | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Reidy Law Office LLC is a lawyer in Orland Park, IL at 11528 W. 183rd Place #Suite NW, Orland Park, IL 60467. Phone: +17085806767. Website: https://reidylawoffice.com/. | https://registry-edge.dingalinged.workers.dev/c/reidy-law-office-llc-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney orland park il | category: professional_legal | industry benchmark: Attorneys & Legal Services

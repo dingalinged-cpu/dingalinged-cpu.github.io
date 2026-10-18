@@ -13,7 +13,7 @@ T-Nails is a nail salon in Cobb County, GA at 125 Barrett Parkway #102, Cobb Cou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu-Sa 10:00-19:00; Su 11:00-17:00
-- Pulse Score: 48.5/100 — Building — top 82% of nail salons in Atlanta, #40 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 81% of nail salons in Atlanta, #39 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.9, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

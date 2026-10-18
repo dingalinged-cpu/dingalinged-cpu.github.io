@@ -6,7 +6,7 @@ Also answers: bakery in Crandall, TX; bakery near me (Crandall, TX); best bakery
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mistys Sweet Treats | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Mistys Sweet Treats is a bakery in Crandall, TX at 106 South Main Street, Crandall, TX 75114. | https://registry-edge.dingalinged.workers.dev/c/mistys-sweet-treats-crandall/
+1. Mistys Sweet Treats | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Mistys Sweet Treats is a bakery in Crandall, TX at 106 South Main Street, Crandall, TX 75114. | https://registry-edge.dingalinged.workers.dev/c/mistys-sweet-treats-crandall/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery crandall tx | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ Midwest Dental is a dentist in Evansville, WI at 449 South 1st Street, Evansvill
 - Website: https://midwest-dental.com/locations/wisconsin-dental-centers/evansville-wi/
 - Email: n/a
 - Opening hours (OSM syntax): Tu 08:00-17:00; We 07:00-16:00; Th 07:00-16:30; Fr 07:00-14:00
-- Pulse Score: 52.2/100 — Fair — top 70% of dentists in Madison, #3 of 3 dentists in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 68.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.2/100 — Fair — top 70% of dentists in Madison, #3 of 3 dentists in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 68.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

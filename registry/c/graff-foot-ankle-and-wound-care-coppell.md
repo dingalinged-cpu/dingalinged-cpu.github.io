@@ -13,12 +13,12 @@ Graff Foot Ankle & Wound Care is a podiatrist in Coppell, TX at 456 West State H
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 71% of podiatrists in Dallas–Fort Worth, #2 of 2 podiatrists in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 67% of podiatrists in Dallas–Fort Worth, #2 of 2 podiatrists in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/graff-foot-ankle-and-wound-care-coppell/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/graff-foot-ankle-and-wound-care-coppell.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13513439475 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13513439475 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

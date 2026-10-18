@@ -13,7 +13,7 @@ O'Boys Plumbing, Furnace & AC Repair is a HVAC contractor in Minneapolis, MN at 
 - Website: https://www.calloboys.com/minneapolis-hvac
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 14% of HVAC contractors in Minneapolis–St. Paul, #1 of 3 HVAC contractors in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 23% of HVAC contractors in Minneapolis–St. Paul, #2 of 3 HVAC contractors in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

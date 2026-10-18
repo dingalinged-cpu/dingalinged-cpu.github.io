@@ -6,7 +6,7 @@ Also answers: flooring companies in Shawnee, KS; flooring companies near me (Sha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Tile Shop | Organic #1 | Pulse Score 48/100 (Unrated, #1 in city) | The Tile Shop is a flooring company in Shawnee, KS at 6400 Nieman Road, Shawnee, KS 66203. Phone: +19136318453. Website: https://www.tileshop.com/store-locator/shawnee. | https://registry-edge.dingalinged.workers.dev/c/the-tile-shop-shawnee/
+1. The Tile Shop | Organic #1 | Pulse Score 47.9/100 (Unrated, #1 in city) | The Tile Shop is a flooring company in Shawnee, KS at 6400 Nieman Road, Shawnee, KS 66203. Phone: +19136318453. Website: https://www.tileshop.com/store-locator/shawnee. | https://registry-edge.dingalinged.workers.dev/c/the-tile-shop-shawnee/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies shawnee ks | category: Home services - Flooring | industry benchmark: Home & Home Improvement

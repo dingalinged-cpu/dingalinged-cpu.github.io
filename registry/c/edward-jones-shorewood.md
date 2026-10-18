@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Shorewood, WI at 2323 East Capitol Drive,
 - Website: https://www.edwardjones.com/us-en/financial-advisor/michael-obrien
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-16:00; Fr 08:00-15:00; Sa,Su off
-- Pulse Score: 50.6/100 — Fair — top 52% of financial advisors in Milwaukee, #1 of 1 financial advisors in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 52% of financial advisors in Milwaukee, #1 of 1 financial advisors in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 67.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

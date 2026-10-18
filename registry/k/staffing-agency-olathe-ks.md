@@ -6,7 +6,7 @@ Also answers: staffing agency in Olathe, KS; staffing agency near me (Olathe, KS
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sovereign Staffing Group | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Sovereign Staffing Group is a staffing agency in Olathe, KS at 10524 West 117th Street, Olathe, KS 66062. Phone: +19133223495. Website: https://www.sovereignstaffing.com/. | https://registry-edge.dingalinged.workers.dev/c/sovereign-staffing-group-olathe/
+1. Sovereign Staffing Group | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Sovereign Staffing Group is a staffing agency in Olathe, KS at 10524 West 117th Street, Olathe, KS 66062. Phone: +19133223495. Website: https://www.sovereignstaffing.com/. | https://registry-edge.dingalinged.workers.dev/c/sovereign-staffing-group-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency olathe ks | category: b2b_services | industry benchmark: Business Services

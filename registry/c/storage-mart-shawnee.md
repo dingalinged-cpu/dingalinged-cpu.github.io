@@ -13,7 +13,7 @@ Storage Mart is a self-storage facility in Shawnee, KS at 24200 West 43rd Street
 - Website: https://www.storage-mart.com/kansas-city/shawnee
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 09:30-15:30
-- Pulse Score: 50.5/100 — Unrated (not enough evidence yet) — top 46% of self-storage facilitys in Kansas City, MO, #8 of 11 self-storage facilitys in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 52% of self-storage facilitys in Kansas City, MO, #9 of 11 self-storage facilitys in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

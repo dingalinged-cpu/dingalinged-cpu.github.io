@@ -13,7 +13,7 @@ Jiffy Lube is an auto repair shop in Alpharetta, GA at 2965 A Holcomb Bridge Roa
 - Website: https://www.jiffylube.com/locations/ga/alpharetta/1060
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 74% of auto repair shops in Atlanta, #5 of 8 auto repair shops in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 73% of auto repair shops in Atlanta, #5 of 8 auto repair shops in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

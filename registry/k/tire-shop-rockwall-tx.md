@@ -7,7 +7,7 @@ Also answers: tire shop in Rockwall, TX; tire shop near me (Rockwall, TX); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Costco Tire Center | Organic #1 | Pulse Score 49.9/100 (Building, #1 in city) | Costco Tire Center is a tire shop in Rockwall, TX at 1225 State Highway 276, Rockwall, TX 75032. Phone: +19727721602. Website: https://www.costco.com/warehouse-locations/rockwall-tx-1049.html. | https://registry-edge.dingalinged.workers.dev/c/costco-tire-center-rockwall/
-2. Discount Tire | Organic #2 | Pulse Score 45.8/100 (Building, #2 in city) | Discount Tire is a tire shop in Rockwall, TX at 693 East Interstate 30, Rockwall, TX 75087. Phone: +19727227964. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-rockwall/
+2. Discount Tire | Organic #2 | Pulse Score 45.7/100 (Building, #2 in city) | Discount Tire is a tire shop in Rockwall, TX at 693 East Interstate 30, Rockwall, TX 75087. Phone: +19727227964. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop rockwall tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

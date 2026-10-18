@@ -13,7 +13,7 @@ Wild Birds Unlimited is a pet store in Shawnee, KS at 13222 West 62nd Terrace, S
 - Website: https://shawnee.wbu.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.2/100 — Building — top 76% of pet stores in Kansas City, MO, #2 of 2 pet stores in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 76% of pet stores in Kansas City, MO, #2 of 2 pet stores in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

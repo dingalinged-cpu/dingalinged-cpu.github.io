@@ -7,7 +7,7 @@ Also answers: yoga classes in Flower Mound, TX; yoga classes near me (Flower Mou
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Urban Vybe Yoga & Fitness | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Urban Vybe Yoga & Fitness is a yoga studio in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/urban-vybe-yoga-and-fitness-flower-mound/
-2. YogaSix | Organic #2 | Pulse Score 42.6/100 (Unrated, #2 in city) | YogaSix is a yoga studio in Flower Mound, TX at 4610 Long Prairie Rd, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/yogasix-flower-mound/
+2. YogaSix | Organic #2 | Pulse Score 42.7/100 (Unrated, #2 in city) | YogaSix is a yoga studio in Flower Mound, TX at 4610 Long Prairie Rd, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/yogasix-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes flower mound tx | category: Fitness | industry benchmark: Health & Fitness

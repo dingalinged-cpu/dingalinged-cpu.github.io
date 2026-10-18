@@ -6,7 +6,7 @@ Also answers: flooring companies in Gwinnett County, GA; flooring companies near
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lumber Liquidators | Organic #1 | Pulse Score 44.4/100 (Building, #1 in city) | Lumber Liquidators is a flooring company in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/lumber-liquidators-gwinnett-county/
+1. Lumber Liquidators | Organic #1 | Pulse Score 44.3/100 (Building, #1 in city) | Lumber Liquidators is a flooring company in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/lumber-liquidators-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies gwinnett county ga | category: Home services - Flooring | industry benchmark: Home & Home Improvement

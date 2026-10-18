@@ -13,7 +13,7 @@ Fry Orthodontic Specialists is a dentist in Overland Park, KS at 7777 West 159th
 - Website: https://fryorthodontics.com/offices/overland-park/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00, Fr 08:00-16:00
-- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 92% of dentists in Kansas City, MO, #9 of 10 dentists in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 92% of dentists in Kansas City, MO, #9 of 10 dentists in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.5, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

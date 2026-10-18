@@ -19,6 +19,6 @@ Solutions NTX Therapeutic Massage is a massage studio in Denton, TX at 207 West 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/solutions-ntx-therapeutic-massage-denton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/solutions-ntx-therapeutic-massage-denton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13027064270 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13027064270 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

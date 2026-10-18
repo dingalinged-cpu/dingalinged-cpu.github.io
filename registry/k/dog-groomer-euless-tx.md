@@ -6,7 +6,7 @@ Also answers: dog groomer in Euless, TX; dog groomer near me (Euless, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Autumn's Pampered Paws | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Autumn's Pampered Paws is a dog groomer in Euless, TX at 801 East Mid Cities Boulevard #600, Euless, TX 76039. Phone: +12818145352. | https://registry-edge.dingalinged.workers.dev/c/autumns-pampered-paws-euless/
+1. Autumn's Pampered Paws | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Autumn's Pampered Paws is a dog groomer in Euless, TX at 801 East Mid Cities Boulevard #600, Euless, TX 76039. Phone: +12818145352. | https://registry-edge.dingalinged.workers.dev/c/autumns-pampered-paws-euless/
 2. Scenthound | Organic #2 | Pulse Score 43.6/100 (Unrated, #2 in city) | Scenthound is a dog groomer in Euless, TX at 2720 State Hwy 121 #200, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/scenthound-euless/
 
 ## Market data (for advertisers and agents)

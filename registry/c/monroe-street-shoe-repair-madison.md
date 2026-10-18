@@ -13,7 +13,7 @@ Monroe Street Shoe Repair is a shoe repair in Madison, WI at 2630 Monroe Street,
 - Website: https://www.facebook.com/MonroeStreetShoeRepair/
 - Email: n/a
 - Opening hours (OSM syntax): We-Fr 10:00-17:00; Sa 10:00-13:00
-- Pulse Score: 62.9/100 — Good — top 50% of shoe repairs in Madison, #1 of 2 shoe repairs in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 50% of shoe repairs in Madison, #1 of 2 shoe repairs in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

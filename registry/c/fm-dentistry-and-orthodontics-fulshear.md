@@ -19,6 +19,6 @@ FM Dentistry & Orthodontics is a dentist in Fulshear, TX at 6420 FM 1463 #200, F
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/fm-dentistry-and-orthodontics-fulshear/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fm-dentistry-and-orthodontics-fulshear.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13163060105 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13163060105 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

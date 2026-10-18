@@ -6,7 +6,7 @@ Also answers: physical therapy in South Fulton, GA; physical therapy near me (So
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aashi-Aashi Foot & Leg Hydrotherapy Suite | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Aashi-Aashi Foot & Leg Hydrotherapy Suite is a physical therapy clinic in Atlanta, GA at 5835 Campbellton Road Southwest #105, Atlanta, GA 30331. Phone: +14043340696. Website: https://aashi-aashi.com/. | https://registry-edge.dingalinged.workers.dev/c/aashi-aashi-foot-and-leg-hydrotherapy-suite-atlanta/
+1. Aashi-Aashi Foot & Leg Hydrotherapy Suite | Organic #1 | Pulse Score 64.9/100 (Good, #1 in city) | Aashi-Aashi Foot & Leg Hydrotherapy Suite is a physical therapy clinic in Atlanta, GA at 5835 Campbellton Road Southwest #105, Atlanta, GA 30331. Phone: +14043340696. Website: https://aashi-aashi.com/. | https://registry-edge.dingalinged.workers.dev/c/aashi-aashi-foot-and-leg-hydrotherapy-suite-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy south fulton ga | category: Health & medical | industry benchmark: Physicians & Surgeons

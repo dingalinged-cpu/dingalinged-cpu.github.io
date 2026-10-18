@@ -13,7 +13,7 @@ The Village Shop is a gift shop in Edgerton, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th,Sa 12:00-19:00
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 50% of gift shops in Kansas City, MO, #1 of 1 gift shops in Edgerton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 50% of gift shops in Kansas City, MO, #1 of 1 gift shops in Edgerton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

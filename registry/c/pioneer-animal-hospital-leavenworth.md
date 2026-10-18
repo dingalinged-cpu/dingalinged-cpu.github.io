@@ -13,7 +13,7 @@ Pioneer Animal Hospital is a veterinarian in Leavenworth, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 82% of veterinarians in Kansas City, MO, #3 of 4 veterinarians in Leavenworth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 80% of veterinarians in Kansas City, MO, #3 of 4 veterinarians in Leavenworth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ North Cobb Animal Hospital is a veterinarian in Kennesaw, GA at 2680 Cobb Parkwa
 - Website: https://www.northcobbanimalhospital.com/
 - Email: bgreenberg@northcobbanimal.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 16% of veterinarians in Atlanta, #1 of 4 veterinarians in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 15% of veterinarians in Atlanta, #1 of 4 veterinarians in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

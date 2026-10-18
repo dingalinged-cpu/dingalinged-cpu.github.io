@@ -7,7 +7,7 @@ Also answers: tax preparer in Stafford, TX; tax preparer near me (Stafford, TX);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Liberty Tax | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | Liberty Tax is a tax preparation service in Stafford, TX at 508 FM 1092 Road #Suite B, Stafford, TX 77477. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-stafford/
-2. H&R Block | Organic #2 | Pulse Score 42.1/100 (Building, #2 in city) | H&R Block is a tax preparation service in Stafford, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-stafford/
+2. H&R Block | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | H&R Block is a tax preparation service in Stafford, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-stafford/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer stafford tx | category: professional_accounting | industry benchmark: Business Services

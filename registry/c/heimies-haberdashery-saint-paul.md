@@ -13,7 +13,7 @@ Heimie's Haberdashery is a tailor in Saint Paul, MN at 400 St Peter, Saint Paul,
 - Website: https://heimies.com/
 - Email: anthony@heimies.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-17:00
-- Pulse Score: 64.6/100 — Good — top 3% of tailors in Minneapolis–St. Paul, #1 of 10 tailors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 3% of tailors in Minneapolis–St. Paul, #1 of 10 tailors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

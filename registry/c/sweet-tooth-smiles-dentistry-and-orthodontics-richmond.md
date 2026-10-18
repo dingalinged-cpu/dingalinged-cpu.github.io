@@ -13,12 +13,12 @@ Sweet Tooth Smiles Dentistry and Orthodontics is a dentist in Richmond, TX at 66
 - Website: https://www.sweettoothsmile.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 5% of dentists in Houston, #3 of 20 dentists in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 5% of dentists in Houston, #3 of 20 dentists in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/sweet-tooth-smiles-dentistry-and-orthodontics-richmond/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sweet-tooth-smiles-dentistry-and-orthodontics-richmond.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9938653085 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9938653085 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

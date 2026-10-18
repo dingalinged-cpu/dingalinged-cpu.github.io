@@ -13,7 +13,7 @@ Kelly Services is a staffing agency in Gladstone, MO at 4770 North Belleview Ave
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 88% of staffing agencys in Kansas City, MO, #2 of 2 staffing agencys in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 88% of staffing agencys in Kansas City, MO, #2 of 2 staffing agencys in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

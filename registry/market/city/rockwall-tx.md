@@ -7,7 +7,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 ## By monthly searches
 1. massage rockwall tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/massage-rockwall-tx/
 2. car wash rockwall tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/car-wash-rockwall-tx/
-3. dentist rockwall tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 21 | https://registry-edge.dingalinged.workers.dev/k/dentist-rockwall-tx/
+3. dentist rockwall tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 22 | https://registry-edge.dingalinged.workers.dev/k/dentist-rockwall-tx/
 4. gym rockwall tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/gym-rockwall-tx/
 5. hair salon rockwall tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-rockwall-tx/
 6. nail salon rockwall tx | searches/mo 25,000 (est) | CPC $0.61 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-rockwall-tx/
@@ -40,7 +40,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 
 ## By value (searches x CPC)
 1. massage rockwall tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/massage-rockwall-tx/
-2. dentist rockwall tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 21 | https://registry-edge.dingalinged.workers.dev/k/dentist-rockwall-tx/
+2. dentist rockwall tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 22 | https://registry-edge.dingalinged.workers.dev/k/dentist-rockwall-tx/
 3. car wash rockwall tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/car-wash-rockwall-tx/
 4. gym rockwall tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/gym-rockwall-tx/
 5. mechanic rockwall tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 14 | https://registry-edge.dingalinged.workers.dev/k/mechanic-rockwall-tx/

@@ -13,7 +13,7 @@ Radiance Medspa is a plastic surgeon in Cobb County, GA at Paces Ferry Road Sout
 - Website: https://www.radiancemedspaatlanta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-13:00
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 72% of plastic surgeons in Atlanta, #1 of 2 plastic surgeons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 65% of plastic surgeons in Atlanta, #1 of 2 plastic surgeons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

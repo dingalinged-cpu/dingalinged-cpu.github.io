@@ -6,7 +6,7 @@ Also answers: painters in Santa Fe, TX; painters near me (Santa Fe, TX); best pa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. C & K Painting | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | C & K Painting is a painting contractor in Santa Fe, TX at 1720 Shouse Road, Santa Fe, TX 77510. Phone: +12819906333. Website: https://www.candkpainting.com/. | https://registry-edge.dingalinged.workers.dev/c/c-and-k-painting-santa-fe/
+1. C & K Painting | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | C & K Painting is a painting contractor in Santa Fe, TX at 1720 Shouse Road, Santa Fe, TX 77510. Phone: +12819906333. Website: https://www.candkpainting.com/. | https://registry-edge.dingalinged.workers.dev/c/c-and-k-painting-santa-fe/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters santa fe tx | category: Home services - Painting | industry benchmark: Home & Home Improvement

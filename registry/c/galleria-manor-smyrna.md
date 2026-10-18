@@ -13,7 +13,7 @@ Galleria Manor is an assisted living facility in Smyrna, GA at 2731 Woodland Ter
 - Website: https://www.galleriamanorga.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 44% of assisted living facilitys in Atlanta, #1 of 1 assisted living facilitys in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 44% of assisted living facilitys in Atlanta, #1 of 1 assisted living facilitys in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

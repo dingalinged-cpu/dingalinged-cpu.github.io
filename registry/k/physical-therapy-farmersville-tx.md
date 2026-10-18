@@ -6,7 +6,7 @@ Also answers: physical therapy in Farmersville, TX; physical therapy near me (Fa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Greater Therapy Centers | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Greater Therapy Centers is a physical therapy clinic in Farmersville, TX at 1022 North State Highway 78, Farmersville, TX 75442. Website: https://therapypartnersgroup.com/location/farmersville/. | https://registry-edge.dingalinged.workers.dev/c/greater-therapy-centers-farmersville/
+1. Greater Therapy Centers | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Greater Therapy Centers is a physical therapy clinic in Farmersville, TX at 1022 North State Highway 78, Farmersville, TX 75442. Website: https://therapypartnersgroup.com/location/farmersville/. | https://registry-edge.dingalinged.workers.dev/c/greater-therapy-centers-farmersville/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy farmersville tx | category: Health & medical | industry benchmark: Physicians & Surgeons

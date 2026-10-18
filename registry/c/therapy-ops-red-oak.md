@@ -13,12 +13,12 @@ Therapy OPS is an occupational therapist in Red Oak, TX at 200 North Interstate 
 - Website: https://therapyopstx.com/
 - Email: info@therapyopstx.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 34% of occupational therapists in Dallas–Fort Worth, #1 of 1 occupational therapists in Red Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 34% of occupational therapists in Dallas–Fort Worth, #1 of 1 occupational therapists in Red Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/therapy-ops-red-oak/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/therapy-ops-red-oak.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9892595574 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9892595574 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

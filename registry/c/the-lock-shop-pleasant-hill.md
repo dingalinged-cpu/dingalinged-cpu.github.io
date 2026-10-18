@@ -13,7 +13,7 @@ The Lock Shop is a locksmith in Pleasant Hill, MO at 204 1st Street, Pleasant Hi
 - Website: https://www.kclockshop.com/
 - Email: sales@kclockshop.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 67% of locksmiths in Kansas City, MO, #1 of 1 locksmiths in Pleasant Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 67% of locksmiths in Kansas City, MO, #1 of 1 locksmiths in Pleasant Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

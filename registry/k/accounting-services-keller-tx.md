@@ -6,7 +6,7 @@ Also answers: accounting services in Keller, TX; accounting services near me (Ke
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Paul B. Moore | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Paul B. Moore is an accountant in Keller, TX at 8821 Davis Boulevard #510, Keller, TX 76248. Website: https://www.paulbmoorecpa.com/. | https://registry-edge.dingalinged.workers.dev/c/paul-b-moore-keller/
+1. Paul B. Moore | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Paul B. Moore is an accountant in Keller, TX at 8821 Davis Boulevard #510, Keller, TX 76248. Website: https://www.paulbmoorecpa.com/. | https://registry-edge.dingalinged.workers.dev/c/paul-b-moore-keller/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services keller tx | category: professional_accounting | industry benchmark: Business Services

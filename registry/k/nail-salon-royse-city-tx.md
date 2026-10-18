@@ -6,8 +6,8 @@ Also answers: nail salon in Royse City, TX; nail salon near me (Royse City, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oasis Nail Spa | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Oasis Nail Spa is a nail salon in Royse City, TX at 925 North Erby Campbell Boulevard, Royse City, TX 75189. | https://registry-edge.dingalinged.workers.dev/c/oasis-nail-spa-royse-city/
-2. Pamper Nails | Organic #2 | Pulse Score 47.2/100 (Unrated, #2 in city) | Pamper Nails is a nail salon in Royse City, TX at 224 East Main Street, Royse City, TX 75189. Website: https://pampernails.com/. | https://registry-edge.dingalinged.workers.dev/c/pamper-nails-royse-city/
+1. Oasis Nail Spa | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Oasis Nail Spa is a nail salon in Royse City, TX at 925 North Erby Campbell Boulevard, Royse City, TX 75189. | https://registry-edge.dingalinged.workers.dev/c/oasis-nail-spa-royse-city/
+2. Pamper Nails | Organic #2 | Pulse Score 47/100 (Unrated, #2 in city) | Pamper Nails is a nail salon in Royse City, TX at 224 East Main Street, Royse City, TX 75189. Website: https://pampernails.com/. | https://registry-edge.dingalinged.workers.dev/c/pamper-nails-royse-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon royse city tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

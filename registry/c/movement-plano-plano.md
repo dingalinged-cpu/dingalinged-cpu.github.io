@@ -19,6 +19,6 @@ Movement Plano is a yoga studio in Plano, TX at 525 Talbert Dr, Plano, TX 75093.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/movement-plano-plano/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/movement-plano-plano.json
-- Source: OpenStreetMap https://www.openstreetmap.org/relation/19996176 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/relation/19996176 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

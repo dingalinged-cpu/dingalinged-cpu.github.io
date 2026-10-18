@@ -6,7 +6,7 @@ Also answers: electrician in Mckinney, TX; electrician near me (Mckinney, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blue Line Electric | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Blue Line Electric is an electrician in McKinney, TX at 3342 FM 1827 #1A, McKinney, TX 75071. Phone: +14698718114. Website: https://callblueline.com/. | https://registry-edge.dingalinged.workers.dev/c/blue-line-electric-mckinney/
+1. Blue Line Electric | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Blue Line Electric is an electrician in McKinney, TX at 3342 FM 1827 #1A, McKinney, TX 75071. Phone: +14698718114. Website: https://callblueline.com/. | https://registry-edge.dingalinged.workers.dev/c/blue-line-electric-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician mckinney tx | category: Home services - Electrical | industry benchmark: Home & Home Improvement

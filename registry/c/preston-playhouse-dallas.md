@@ -13,12 +13,12 @@ Preston Playhouse is a padel club in Dallas, TX at 13130 Preston Road, Dallas, T
 - Website: https://www.prestonpickleball.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-21:30; Su 07:00-17:30
-- Pulse Score: 61.8/100 — Good — top 100% of padel clubs in Dallas–Fort Worth, #1 of 1 padel clubs in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 100% of padel clubs in Dallas–Fort Worth, #1 of 1 padel clubs in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/preston-playhouse-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/preston-playhouse-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/220689287 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/220689287 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

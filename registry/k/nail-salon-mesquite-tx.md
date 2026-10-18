@@ -6,13 +6,13 @@ Also answers: nail salon in Mesquite, TX; nail salon near me (Mesquite, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bellini Nail Bar | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Bellini Nail Bar is a nail salon in Mesquite, TX at 1815 Range Drive #200, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/bellini-nail-bar-mesquite/
-2. Nice's Nails | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Nice's Nails is a nail salon in Mesquite, TX at 1830 Range Drive #110, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/nices-nails-mesquite/
-3. Red Salon | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Red Salon is a nail salon in Mesquite, TX at 1300 North Town East Boulevard #105, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/red-salon-mesquite/
-4. Rivera's Salon | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Rivera's Salon is a nail salon in Mesquite, TX at 1426 North Galloway Avenue, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/riveras-salon-mesquite/
-5. Rosey Nails 2 | Organic #5 | Pulse Score 57.2/100 (Unrated, #5 in city) | Rosey Nails 2 is a nail salon in Mesquite, TX at 500 North Galloway Avenue #54, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/rosey-nails-2-mesquite/
-6. Swank Salon | Organic #6 | Pulse Score 57.2/100 (Unrated, #6 in city) | Swank Salon is a nail salon in Mesquite, TX at 202 South Carmack Street, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/swank-salon-mesquite/
-7. Zuri Nails & Spa | Organic #7 | Pulse Score 57.2/100 (Unrated, #7 in city) | Zuri Nails & Spa is a nail salon in Mesquite, TX at 1433 South Belt Line Road #120, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/zuri-nails-and-spa-mesquite/
+1. Bellini Nail Bar | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Bellini Nail Bar is a nail salon in Mesquite, TX at 1815 Range Drive #200, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/bellini-nail-bar-mesquite/
+2. Nice's Nails | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Nice's Nails is a nail salon in Mesquite, TX at 1830 Range Drive #110, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/nices-nails-mesquite/
+3. Red Salon | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Red Salon is a nail salon in Mesquite, TX at 1300 North Town East Boulevard #105, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/red-salon-mesquite/
+4. Rivera's Salon | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Rivera's Salon is a nail salon in Mesquite, TX at 1426 North Galloway Avenue, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/riveras-salon-mesquite/
+5. Rosey Nails 2 | Organic #5 | Pulse Score 57/100 (Unrated, #5 in city) | Rosey Nails 2 is a nail salon in Mesquite, TX at 500 North Galloway Avenue #54, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/rosey-nails-2-mesquite/
+6. Swank Salon | Organic #6 | Pulse Score 57/100 (Unrated, #6 in city) | Swank Salon is a nail salon in Mesquite, TX at 202 South Carmack Street, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/swank-salon-mesquite/
+7. Zuri Nails & Spa | Organic #7 | Pulse Score 57/100 (Unrated, #7 in city) | Zuri Nails & Spa is a nail salon in Mesquite, TX at 1433 South Belt Line Road #120, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/zuri-nails-and-spa-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon mesquite tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

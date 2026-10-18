@@ -6,11 +6,11 @@ Also answers: jewelry store in Omaha, NE; jewelry store near me (Omaha, NE); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barrington Jewelers | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Barrington Jewelers is a jewelry store in Omaha, NE at 2571 South 171st Court, Omaha, NE 68130. | https://registry-edge.dingalinged.workers.dev/c/barrington-jewelers-omaha/
-2. Trollbeads | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Trollbeads is a jewelry store in Omaha, NE at 17306 Lakeside Hills Plaza, Omaha, NE 68130. | https://registry-edge.dingalinged.workers.dev/c/trollbeads-omaha/
+1. Barrington Jewelers | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Barrington Jewelers is a jewelry store in Omaha, NE at 2571 South 171st Court, Omaha, NE 68130. | https://registry-edge.dingalinged.workers.dev/c/barrington-jewelers-omaha/
+2. Trollbeads | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Trollbeads is a jewelry store in Omaha, NE at 17306 Lakeside Hills Plaza, Omaha, NE 68130. | https://registry-edge.dingalinged.workers.dev/c/trollbeads-omaha/
 3. Gunderson's Jewelry | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Gunderson's Jewelry is a jewelry store in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/gundersons-jewelry-omaha/
 4. JR's Jewelry & Gifts | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | JR's Jewelry & Gifts is a jewelry store in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/jrs-jewelry-and-gifts-omaha/
-5. Kendra Scott | Organic #5 | Pulse Score 43.5/100 (Building, #5 in city) | Kendra Scott is a jewelry store in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/kendra-scott-omaha/
+5. Kendra Scott | Organic #5 | Pulse Score 43.4/100 (Building, #5 in city) | Kendra Scott is a jewelry store in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/kendra-scott-omaha/
 6. Rowan | Organic #6 | Pulse Score 42.7/100 (Unrated, #6 in city) | Rowan is a jewelry store in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/rowan-omaha/
 
 ## Market data (for advertisers and agents)

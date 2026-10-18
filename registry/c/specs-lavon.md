@@ -13,12 +13,12 @@ Spec's is a liquor store in Lavon, TX at 900 South State Highway 78, Lavon, TX 7
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Building — top 87% of liquor stores in Dallas–Fort Worth, #1 of 1 liquor stores in Lavon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.7/100 — Building — top 83% of liquor stores in Dallas–Fort Worth, #1 of 1 liquor stores in Lavon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/specs-lavon/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/specs-lavon.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1413402126 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1413402126 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

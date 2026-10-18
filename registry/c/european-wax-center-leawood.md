@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Leawood, KS. Website: https://locations
 - Website: https://locations.waxcenter.com/ks/leawood/leawood-0187.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.6/100 — Building — top 50% of waxing salons in Kansas City, MO, #1 of 1 waxing salons in Leawood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 50% of waxing salons in Kansas City, MO, #1 of 1 waxing salons in Leawood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

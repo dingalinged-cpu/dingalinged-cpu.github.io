@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Blue Sky Cleaners | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Blue Sky Cleaners is a dry cleaner in Shawnee, KS at 5412 Roberts Street, Shawnee, KS 66226. Phone: +19134223433. Website: https://blueskykc.com/. | https://registry-edge.dingalinged.workers.dev/c/blue-sky-cleaners-shawnee/
 2. Pride Cleaners - Monticello | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Pride Cleaners - Monticello is a dry cleaner in Shawnee, KS at 22042 West 66th Street, Shawnee, KS 66226. | https://registry-edge.dingalinged.workers.dev/c/pride-cleaners-monticello-shawnee/
-3. Pride Cleaners | Organic #3 | Pulse Score 49.9/100 (Unrated, #3 in city) | Pride Cleaners is a dry cleaner in Shawnee, KS at 12121 Shawnee Mission Parkway, Shawnee, KS 66216. Phone: +19132482879. Website: https://pridecleaners.com/locations/shawnee-village/. | https://registry-edge.dingalinged.workers.dev/c/pride-cleaners-shawnee/
+3. Pride Cleaners | Organic #3 | Pulse Score 49.8/100 (Unrated, #3 in city) | Pride Cleaners is a dry cleaner in Shawnee, KS at 12121 Shawnee Mission Parkway, Shawnee, KS 66216. Phone: +19132482879. Website: https://pridecleaners.com/locations/shawnee-village/. | https://registry-edge.dingalinged.workers.dev/c/pride-cleaners-shawnee/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners shawnee ks | category: Professional & financial services | industry benchmark: Finance & Insurance

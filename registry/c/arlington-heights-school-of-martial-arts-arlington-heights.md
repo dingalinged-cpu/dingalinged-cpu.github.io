@@ -13,7 +13,7 @@ Arlington Heights School of Martial Arts is a martial arts school in Arlington H
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 17:00-20:00; Tu 10:00-13:30,16:15-20:00; We 16:15-20:30; Th 10:00-13:30,16:15-21:00; Sa 08:00-14:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 24% of martial arts schools in Chicago, #2 of 2 martial arts schools in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 24% of martial arts schools in Chicago, #2 of 2 martial arts schools in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

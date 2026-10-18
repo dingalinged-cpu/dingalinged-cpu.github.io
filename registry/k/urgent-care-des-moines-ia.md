@@ -6,7 +6,7 @@ Also answers: urgent care in Des Moines, IA; urgent care near me (Des Moines, IA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. UnityPoint Clinic | Organic #1 | Pulse Score 44.5/100 (Building, #2 in city) | UnityPoint Clinic is a family medicine practice in Des Moines, IA at 2103 Ingersoll Avenue, Des Moines, IA 50312. | https://registry-edge.dingalinged.workers.dev/c/unitypoint-clinic-des-moines/
+1. UnityPoint Clinic | Organic #1 | Pulse Score 44.7/100 (Building, #2 in city) | UnityPoint Clinic is a family medicine practice in Des Moines, IA at 2103 Ingersoll Avenue, Des Moines, IA 50312. | https://registry-edge.dingalinged.workers.dev/c/unitypoint-clinic-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care des moines ia | category: Health & medical | industry benchmark: Physicians & Surgeons

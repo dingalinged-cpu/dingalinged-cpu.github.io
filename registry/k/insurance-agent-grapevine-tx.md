@@ -6,8 +6,8 @@ Also answers: insurance agent in Grapevine, TX; insurance agent near me (Grapevi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fidelity National Title Insurance Company | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Fidelity National Title Insurance Company is an insurance agent in Grapevine, TX at 4841 Merlot Avenue #440, Grapevine, TX 76051. Phone: +18177708019. | https://registry-edge.dingalinged.workers.dev/c/fidelity-national-title-insurance-company-grapevine/
-2. State Farm | Organic #2 | Pulse Score 43.7/100 (Building, #2 in city) | State Farm is an insurance agent in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/state-farm-grapevine/
+1. Fidelity National Title Insurance Company | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Fidelity National Title Insurance Company is an insurance agent in Grapevine, TX at 4841 Merlot Avenue #440, Grapevine, TX 76051. Phone: +18177708019. | https://registry-edge.dingalinged.workers.dev/c/fidelity-national-title-insurance-company-grapevine/
+2. State Farm | Organic #2 | Pulse Score 43.4/100 (Building, #2 in city) | State Farm is an insurance agent in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/state-farm-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent grapevine tx | category: Professional & financial services | industry benchmark: Finance & Insurance

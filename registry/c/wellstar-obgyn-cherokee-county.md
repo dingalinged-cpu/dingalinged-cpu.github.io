@@ -13,7 +13,7 @@ Wellstar OBGYN is an OB-GYN practice in Cherokee County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.7/100 — Unrated (not enough evidence yet) — top 100% of OB-GYN practices in Atlanta, #1 of 1 OB-GYN practices in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 36.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.7/100 — Unrated (not enough evidence yet) — top 100% of OB-GYN practices in Atlanta, #1 of 1 OB-GYN practices in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 36.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

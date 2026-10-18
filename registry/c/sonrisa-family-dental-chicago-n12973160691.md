@@ -13,7 +13,7 @@ Sonrisa Family Dental is a dentist in Chicago, IL at 3450 South Archer Avenue, C
 - Website: https://sonrisafamilydental.com/locations/back-of-the-yards/
 - Email: info@sfdchicago.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 08:00-13:00
-- Pulse Score: 51.1/100 — Unrated (not enough evidence yet) — top 91% of dentists in Chicago, #129 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.1/100 — Unrated (not enough evidence yet) — top 91% of dentists in Chicago, #128 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

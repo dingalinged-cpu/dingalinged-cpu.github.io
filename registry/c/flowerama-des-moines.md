@@ -13,7 +13,7 @@ Flowerama is a florist in Des Moines, IA at 3310 Southeast 14th Street, Des Moin
 - Website: https://www.1800flowersdesmoines.flowerama.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-19:00; Sa 08:00-19:00; Su 10:00-16:00
-- Pulse Score: 50.5/100 — Fair — top 82% of florists in Des Moines, IA, #4 of 4 florists in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 82% of florists in Des Moines, IA, #4 of 4 florists in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

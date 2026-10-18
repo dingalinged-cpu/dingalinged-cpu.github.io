@@ -6,7 +6,7 @@ Also answers: podiatrist in Hometown, IL; podiatrist near me (Hometown, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dr. Jonathan Hook, DPM | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Dr. Jonathan Hook, DPM is a podiatrist in Hometown, IL at 8735 South Merrion Lane, Hometown, IL 60456. Phone: +17084251150. Website: https://www.drhookchicago.com/. | https://registry-edge.dingalinged.workers.dev/c/dr-jonathan-hook-dpm-hometown/
+1. Dr. Jonathan Hook, DPM | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | Dr. Jonathan Hook, DPM is a podiatrist in Hometown, IL at 8735 South Merrion Lane, Hometown, IL 60456. Phone: +17084251150. Website: https://www.drhookchicago.com/. | https://registry-edge.dingalinged.workers.dev/c/dr-jonathan-hook-dpm-hometown/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist hometown il | category: Health & medical | industry benchmark: Physicians & Surgeons

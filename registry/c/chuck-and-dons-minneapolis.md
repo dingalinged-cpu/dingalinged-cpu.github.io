@@ -13,7 +13,7 @@ Chuck & Don's is a pet store in Minneapolis, MN at 3246 Lake Street West, Minnea
 - Website: https://chuckanddons.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 09:00-19:00
-- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 72% of pet stores in Minneapolis–St. Paul, #8 of 11 pet stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 70% of pet stores in Minneapolis–St. Paul, #8 of 11 pet stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

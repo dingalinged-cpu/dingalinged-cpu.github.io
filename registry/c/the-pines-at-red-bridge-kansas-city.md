@@ -13,7 +13,7 @@ The Pines at Red Bridge is a property management company in Kansas City, MO at 3
 - Website: https://www.thepinesatredbridge.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 13% of property management companys in Kansas City, MO, #1 of 9 property management companys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 13% of property management companys in Kansas City, MO, #1 of 9 property management companys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

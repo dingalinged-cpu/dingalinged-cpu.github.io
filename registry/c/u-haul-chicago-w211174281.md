@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Chicago, IL at 1650 East 71st Street, Chica
 - Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Chicago-IL-60649/757075/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 20% of self-storage facilitys in Chicago, #21 of 108 self-storage facilitys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 20% of self-storage facilitys in Chicago, #21 of 108 self-storage facilitys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

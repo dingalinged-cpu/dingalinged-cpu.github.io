@@ -13,7 +13,7 @@ Childtime is a preschool in Ankeny, IA at 718 Northeast Grant Street, Ankeny, IA
 - Website: https://www.childtime.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Building — top 80% of preschools in Des Moines, IA, #3 of 4 preschools in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 80% of preschools in Des Moines, IA, #3 of 4 preschools in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

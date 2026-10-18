@@ -6,7 +6,7 @@ Also answers: spa in Ankeny, IA; spa near me (Ankeny, IA); best spa Ankeny, IA; 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spavia | Organic #1 | Pulse Score 48.2/100 (Unrated, #1 in city) | Spavia is a spa in Ankeny, IA at 1631 Southwest Main Street, Ankeny, IA 50023. Phone: +15154467800. Website: https://ankenyia.spaviadayspa.com/. | https://registry-edge.dingalinged.workers.dev/c/spavia-ankeny/
+1. Spavia | Organic #1 | Pulse Score 48.1/100 (Unrated, #1 in city) | Spavia is a spa in Ankeny, IA at 1631 Southwest Main Street, Ankeny, IA 50023. Phone: +15154467800. Website: https://ankenyia.spaviadayspa.com/. | https://registry-edge.dingalinged.workers.dev/c/spavia-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa ankeny ia | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

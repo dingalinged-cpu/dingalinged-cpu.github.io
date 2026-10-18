@@ -13,7 +13,7 @@ Ridgeview Eye Care is an eye care practice in Olathe, KS at 18208 West 119th Str
 - Website: https://www.ridgevieweyecare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 32% of eye care practices in Kansas City, MO, #5 of 8 eye care practices in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 32% of eye care practices in Kansas City, MO, #5 of 8 eye care practices in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Saint Vincent de Paul Thrift Store is a thrift store in Waukesha, WI at S30 W248
 - Website: https://www.svdpthrift.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 11:00-18:00
-- Pulse Score: 48.6/100 — Building — top 55% of thrift stores in Milwaukee, #1 of 3 thrift stores in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 53% of thrift stores in Milwaukee, #1 of 3 thrift stores in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

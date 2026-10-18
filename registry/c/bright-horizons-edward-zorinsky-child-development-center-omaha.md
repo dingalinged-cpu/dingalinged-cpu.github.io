@@ -13,7 +13,7 @@ Bright Horizons Edward Zorinsky Child Development Center is a preschool in Omaha
 - Website: https://child-care-preschool.brighthorizons.com/ne/omaha/omahagsa
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:30
-- Pulse Score: 49.6/100 — Building — top 86% of preschools in Omaha, NE, #15 of 19 preschools in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 83% of preschools in Omaha, NE, #14 of 19 preschools in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

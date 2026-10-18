@@ -6,7 +6,7 @@ Also answers: dog boarding in Coppell, TX; dog boarding near me (Coppell, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dogtopia | Organic #1 | Pulse Score 47.8/100 (Building, #1 in city) | Dogtopia is a dog boarding facility in Coppell, TX at 150 South Denton Tap Road, Coppell, TX 75019. Phone: +14699983888. Website: https://www.dogtopia.com/dallas-fortworth-coppell/. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-coppell/
+1. Dogtopia | Organic #1 | Pulse Score 47.6/100 (Building, #1 in city) | Dogtopia is a dog boarding facility in Coppell, TX at 150 South Denton Tap Road, Coppell, TX 75019. Phone: +14699983888. Website: https://www.dogtopia.com/dallas-fortworth-coppell/. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding coppell tx | category: Pets | industry benchmark: Animals & Pets

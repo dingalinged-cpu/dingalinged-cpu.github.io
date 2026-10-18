@@ -6,7 +6,7 @@ Also answers: podiatrist in Katy, TX; podiatrist near me (Katy, TX); best podiat
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Foot and Ankle Specialists | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Texas Foot and Ankle Specialists is a podiatrist in Katy, TX at 24022 Cinco Village Center Boulevard #240, Katy, TX 77494. Phone: +18323768600. Website: https://www.txfootankle.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-foot-and-ankle-specialists-katy/
+1. Texas Foot and Ankle Specialists | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Texas Foot and Ankle Specialists is a podiatrist in Katy, TX at 24022 Cinco Village Center Boulevard #240, Katy, TX 77494. Phone: +18323768600. Website: https://www.txfootankle.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-foot-and-ankle-specialists-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist katy tx | category: Health & medical | industry benchmark: Physicians & Surgeons

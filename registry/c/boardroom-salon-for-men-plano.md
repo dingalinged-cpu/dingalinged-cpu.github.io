@@ -13,12 +13,12 @@ Boardroom Salon for Men is a hair salon in Plano, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 12:00-17:00
-- Pulse Score: 44.7/100 — Unrated (not enough evidence yet) — top 88% of hair salons in Dallas–Fort Worth, #19 of 19 hair salons in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.6/100 — Unrated (not enough evidence yet) — top 88% of hair salons in Dallas–Fort Worth, #21 of 22 hair salons in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/boardroom-salon-for-men-plano/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/boardroom-salon-for-men-plano.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12404228528 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12404228528 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

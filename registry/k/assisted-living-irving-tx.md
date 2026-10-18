@@ -6,7 +6,7 @@ Also answers: assisted living in Irving, TX; assisted living near me (Irving, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Villages on MacArthur | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Villages on MacArthur is an assisted living facility in Irving, TX at 3443 North MacArthur Boulevard, Irving, TX 75062. | https://registry-edge.dingalinged.workers.dev/c/villages-on-macarthur-irving/
+1. Villages on MacArthur | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Villages on MacArthur is an assisted living facility in Irving, TX at 3443 North MacArthur Boulevard, Irving, TX 75062. | https://registry-edge.dingalinged.workers.dev/c/villages-on-macarthur-irving/
 2. Avalon Memory Care | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Avalon Memory Care is an assisted living facility in Irving, TX. Website: https://avalonmemorycare.com/location/irving/. | https://registry-edge.dingalinged.workers.dev/c/avalon-memory-care-irving/
 
 ## Market data (for advertisers and agents)

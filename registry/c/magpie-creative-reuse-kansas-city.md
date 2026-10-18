@@ -13,7 +13,7 @@ Magpie Creative Reuse is a thrift store in Kansas City, MO at 3331 Roanoke Road,
 - Website: https://magpiecreativereuse.org/
 - Email: info@magpiecreativereuse.org
 - Opening hours (OSM syntax): Th 15:00-20:00; Fr-Su 10:00-17:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 7% of thrift stores in Kansas City, MO, #3 of 26 thrift stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 7% of thrift stores in Kansas City, MO, #3 of 26 thrift stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

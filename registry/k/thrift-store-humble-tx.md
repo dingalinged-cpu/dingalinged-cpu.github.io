@@ -7,7 +7,7 @@ Also answers: thrift store in Humble, TX; thrift store near me (Humble, TX); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Family Thrift | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Family Thrift is a thrift store in Humble, TX. Website: https://familythriftcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/family-thrift-humble/
-2. HAAM resale store | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | HAAM resale store is a thrift store in Humble, TX at 1204 1st Street, Humble, TX 77338. | https://registry-edge.dingalinged.workers.dev/c/haam-resale-store-humble/
+2. HAAM resale store | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | HAAM resale store is a thrift store in Humble, TX at 1204 1st Street, Humble, TX 77338. | https://registry-edge.dingalinged.workers.dev/c/haam-resale-store-humble/
 3. Crazy Hot Buys | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Crazy Hot Buys is a thrift store in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/crazy-hot-buys-humble/
 4. Jake’s Buried Treasure | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Jake’s Buried Treasure is a thrift store in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/jake-s-buried-treasure-humble/
 5. Goodwill | Organic #5 | Pulse Score 42.4/100 (Building, #5 in city) | Goodwill is a thrift store in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/goodwill-humble/

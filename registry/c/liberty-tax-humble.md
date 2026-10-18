@@ -13,12 +13,12 @@ Liberty Tax is a tax preparation service in Humble, TX at 11411 North Sam Housto
 - Website: https://www.libertytaxservice.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.8/100 — Building — top 51% of tax preparation services in Houston, #2 of 4 tax preparation services in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 52% of tax preparation services in Houston, #2 of 4 tax preparation services in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/liberty-tax-humble/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/liberty-tax-humble.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5934053158 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5934053158 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

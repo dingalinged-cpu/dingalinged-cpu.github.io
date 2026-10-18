@@ -13,12 +13,12 @@ Lucid Private Offices is a coworking space in Dallas, TX at 13155 Noel Road #Sui
 - Website: https://www.lucidprivateoffices.com/texas/dallas/13155-noel-road/
 - Email: Workisgood@lucidprivateoffices.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 51/100 — Fair — top 70% of coworking spaces in Dallas–Fort Worth, #11 of 13 coworking spaces in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.1/100 — Fair — top 63% of coworking spaces in Dallas–Fort Worth, #11 of 13 coworking spaces in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.9, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/lucid-private-offices-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lucid-private-offices-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13504532520 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13504532520 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

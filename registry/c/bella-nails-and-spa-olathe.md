@@ -13,7 +13,7 @@ Bella Nails & Spa is a nail salon in Olathe, KS at 11136 South Lone Elm Road, Ol
 - Website: https://bellanailsnow.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 16% of nail salons in Kansas City, MO, #3 of 9 nail salons in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 16% of nail salons in Kansas City, MO, #3 of 9 nail salons in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: attorney in Mokena, IL; attorney near me (Mokena, IL); best attorn
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Law Office of Cheryl A. Morrison | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Law Office of Cheryl A. Morrison is a lawyer in Mokena, IL at 19065 Hickory Creek Drive #150, Mokena, IL 60448. Phone: +17084798855. Website: https://www.cherylmorrisonlaw.com/. | https://registry-edge.dingalinged.workers.dev/c/law-office-of-cheryl-a-morrison-mokena/
+1. Law Office of Cheryl A. Morrison | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Law Office of Cheryl A. Morrison is a lawyer in Mokena, IL at 19065 Hickory Creek Drive #150, Mokena, IL 60448. Phone: +17084798855. Website: https://www.cherylmorrisonlaw.com/. | https://registry-edge.dingalinged.workers.dev/c/law-office-of-cheryl-a-morrison-mokena/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney mokena il | category: professional_legal | industry benchmark: Attorneys & Legal Services

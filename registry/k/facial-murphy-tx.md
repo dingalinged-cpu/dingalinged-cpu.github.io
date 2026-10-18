@@ -6,7 +6,7 @@ Also answers: facial in Murphy, TX; facial near me (Murphy, TX); best facial Mur
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Thread Salon | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Thread Salon is a waxing salon in Murphy, TX. Phone: +19724421248. | https://registry-edge.dingalinged.workers.dev/c/thread-salon-murphy/
+1. Thread Salon | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Thread Salon is a waxing salon in Murphy, TX. Phone: +19724421248. | https://registry-edge.dingalinged.workers.dev/c/thread-salon-murphy/
 2. Nail Spa by heather | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Nail Spa by heather is a waxing salon in Murphy, TX. | https://registry-edge.dingalinged.workers.dev/c/nail-spa-by-heather-murphy/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Petco is a pet store in Waukesha, WI at 1240 West Sunset Drive #102, Waukesha, W
 - Website: https://stores.petco.com/wi/waukesha/pet-supplies-waukesha-wi-1686.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 47.4/100 — Building — top 66% of pet stores in Milwaukee, #1 of 2 pet stores in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 66% of pet stores in Milwaukee, #1 of 2 pet stores in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

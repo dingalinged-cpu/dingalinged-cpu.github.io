@@ -19,6 +19,6 @@ Trinity Loft is a real estate agency in Dallas, TX at 1403 Slocum Street, Dallas
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/trinity-loft-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trinity-loft-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5652981717 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5652981717 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

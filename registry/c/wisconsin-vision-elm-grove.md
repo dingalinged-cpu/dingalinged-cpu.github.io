@@ -13,7 +13,7 @@ Wisconsin Vision is an eye care practice in Elm Grove, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.3/100 — Unrated (not enough evidence yet) — top 93% of eye care practices in Milwaukee, #1 of 1 eye care practices in Elm Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 39.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.3/100 — Unrated (not enough evidence yet) — top 93% of eye care practices in Milwaukee, #1 of 1 eye care practices in Elm Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 39.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: orthodontist in Arlington, TX; orthodontist near me (Arlington, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Medico M.D. | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Medico M.D. is a family medicine practice in Arlington, TX at 801 West Park Row Drive, Arlington, TX. Phone: +18177847888. Website: https://www.medicomdtx.com/. | https://registry-edge.dingalinged.workers.dev/c/medico-m-d-arlington/
+1. Medico M.D. | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Medico M.D. is a family medicine practice in Arlington, TX at 801 West Park Row Drive, Arlington, TX. Phone: +18177847888. Website: https://www.medicomdtx.com/. | https://registry-edge.dingalinged.workers.dev/c/medico-m-d-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthodontist arlington tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

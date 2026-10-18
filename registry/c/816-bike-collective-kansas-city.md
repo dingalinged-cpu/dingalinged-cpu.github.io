@@ -13,7 +13,7 @@
 - Website: https://816bike.org/
 - Email: info@816bike.org
 - Opening hours (OSM syntax): Mo 15:00-18:00; Th 15:00-18:00; Sa 12:00-15:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 4% of bike shops in Kansas City, MO, #1 of 10 bike shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 4% of bike shops in Kansas City, MO, #1 of 10 bike shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

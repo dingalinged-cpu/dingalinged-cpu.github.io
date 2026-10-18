@@ -6,7 +6,7 @@ Also answers: chiropractor in North Richland Hills, TX; chiropractor near me (No
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Flower of Life Chiropractic | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Flower of Life Chiropractic is a chiropractor in North Richland Hills, TX at 8701 North Tarrant Parkway #100, North Richland Hills, TX. Phone: +18174054415. | https://registry-edge.dingalinged.workers.dev/c/flower-of-life-chiropractic-north-richland-hills/
+1. Flower of Life Chiropractic | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Flower of Life Chiropractic is a chiropractor in North Richland Hills, TX at 8701 North Tarrant Parkway #100, North Richland Hills, TX. Phone: +18174054415. | https://registry-edge.dingalinged.workers.dev/c/flower-of-life-chiropractic-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor north richland hills tx | category: Health & medical | industry benchmark: Physicians & Surgeons

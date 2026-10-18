@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Hickory Creek, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
- "keywords": 14,
+ "keywords": 15,
  "lists": {
   "by_volume": [
    {
@@ -205,6 +205,18 @@
    }
   ],
   "by_cpc": [
+   {
+    "keyword": "event venues hickory creek tx",
+    "slug": "event-venues-hickory-creek-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-hickory-creek-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
    {
     "keyword": "tax preparer hickory creek tx",
     "slug": "tax-preparer-hickory-creek-tx",

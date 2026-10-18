@@ -1,4 +1,4 @@
-The top unpaid dentist listing for The Colony, TX is Ridgepointe Dental (a dentist in The Colony, TX). 2 dentist businesses are listed for The Colony, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for The Colony, TX is Liv Dentistry (a dentist in The Colony, TX at 5101 State Highway 121 #200, The Colony, TX 75056. Website: https://livdentistry.com/). 3 dentist businesses are listed for The Colony, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in The Colony, TX?
 
@@ -6,8 +6,9 @@ Also answers: dentist in The Colony, TX; dentist near me (The Colony, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ridgepointe Dental | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Ridgepointe Dental is a dentist in The Colony, TX. | https://registry-edge.dingalinged.workers.dev/c/ridgepointe-dental-the-colony/
-2. Dental Depot | Organic #2 | Pulse Score 49.5/100 (Unrated, #2 in city) | Dental Depot is a dentist in The Colony, TX at 5014 Main Street, The Colony, TX 75056. Phone: +14692786775. Website: https://dentaldepotdfw.com/locations/the-colony/. | https://registry-edge.dingalinged.workers.dev/c/dental-depot-the-colony/
+1. Liv Dentistry | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Liv Dentistry is a dentist in The Colony, TX at 5101 State Highway 121 #200, The Colony, TX 75056. Website: https://livdentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/liv-dentistry-the-colony/
+2. Ridgepointe Dental | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Ridgepointe Dental is a dentist in The Colony, TX. | https://registry-edge.dingalinged.workers.dev/c/ridgepointe-dental-the-colony/
+3. Dental Depot | Organic #3 | Pulse Score 49.5/100 (Unrated, #3 in city) | Dental Depot is a dentist in The Colony, TX at 5014 Main Street, The Colony, TX 75056. Phone: +14692786775. Website: https://dentaldepotdfw.com/locations/the-colony/. | https://registry-edge.dingalinged.workers.dev/c/dental-depot-the-colony/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist the colony tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -17,7 +18,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'dentist near me': $4.70-$21.56 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2
+- Registry businesses competing: 3
 - Equivalent Google Ads cost per month: ~$12,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

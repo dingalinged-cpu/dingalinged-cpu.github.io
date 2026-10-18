@@ -13,7 +13,7 @@ CHI Health Clinic (Dundee) is a dermatologist in Omaha, NE at 5002 North 50th St
 - Website: https://www.chihealth.com/clinic.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 67% of dermatologists in Omaha, NE, #2 of 3 dermatologists in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 67% of dermatologists in Omaha, NE, #2 of 3 dermatologists in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Hazel General Store is a gift shop in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-18:00; Sa 11:00-17:00; Su 11:00-16:00
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 48% of gift shops in Madison, #6 of 14 gift shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 48% of gift shops in Madison, #6 of 14 gift shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

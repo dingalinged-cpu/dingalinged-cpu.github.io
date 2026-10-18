@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Waxahachie, TX is W-Nail Spa (a nail salon in Waxahachie, TX at 791 North US Highway 77 #501F, Waxahachie, TX 75165). 1 nail salon businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Waxahachie, TX is 1st Nails (a nail salon in Waxahachie, TX at 401 North US Highway 77 #5, Waxahachie, TX 75165. Website: https://1st-nails-waxahachie.jany.io/). 3 nail salon businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Waxahachie, TX?
 
@@ -6,7 +6,9 @@ Also answers: nail salon in Waxahachie, TX; nail salon near me (Waxahachie, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. W-Nail Spa | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | W-Nail Spa is a nail salon in Waxahachie, TX at 791 North US Highway 77 #501F, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/w-nail-spa-waxahachie/
+1. 1st Nails | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | 1st Nails is a nail salon in Waxahachie, TX at 401 North US Highway 77 #5, Waxahachie, TX 75165. Website: https://1st-nails-waxahachie.jany.io/. | https://registry-edge.dingalinged.workers.dev/c/1st-nails-waxahachie/
+2. Paradise Nails & Spa | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Paradise Nails & Spa is a nail salon in Waxahachie, TX at 507 North US Highway 77 #616, Waxahachie, TX 75165. Website: https://paradisenailspatx.com/. | https://registry-edge.dingalinged.workers.dev/c/paradise-nails-and-spa-waxahachie/
+3. W-Nail Spa | Organic #3 | Pulse Score 57/100 (Unrated, #1 in city) | W-Nail Spa is a nail salon in Waxahachie, TX at 791 North US Highway 77 #501F, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/w-nail-spa-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon waxahachie tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -16,7 +18,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'nail salon': $0.61-$2.10 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: low (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1
+- Registry businesses competing: 3
 - Equivalent Google Ads cost per month: ~$870 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

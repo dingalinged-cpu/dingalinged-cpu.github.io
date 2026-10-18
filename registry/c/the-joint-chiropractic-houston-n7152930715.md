@@ -13,12 +13,12 @@ The Joint Chiropractic is a chiropractor in Houston, TX at 5409 South Rice Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Building — top 80% of chiropractors in Houston, #17 of 19 chiropractors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 79% of chiropractors in Houston, #17 of 19 chiropractors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-houston-n7152930715/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-joint-chiropractic-houston-n7152930715.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7152930715 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7152930715 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

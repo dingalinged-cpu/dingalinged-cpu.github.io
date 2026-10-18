@@ -13,7 +13,7 @@ Aro Lock & Door is a locksmith in Milwaukee, WI at 5801 West North Avenue, Milwa
 - Website: https://www.arolock.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 13% of locksmiths in Milwaukee, #1 of 5 locksmiths in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 13% of locksmiths in Milwaukee, #1 of 5 locksmiths in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Tivol is a jewelry store in Overland Park, KS at 4721 West 119th Street, Overlan
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-17:30; Th 10:00-20:00; Fr-Sa 10:00-17:30
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 36% of jewelry stores in Kansas City, MO, #4 of 9 jewelry stores in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 36% of jewelry stores in Kansas City, MO, #4 of 9 jewelry stores in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

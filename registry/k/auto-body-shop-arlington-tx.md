@@ -6,7 +6,7 @@ Also answers: auto body shop in Arlington, TX; auto body shop near me (Arlington
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caliber Collision | Organic #1 | Pulse Score 46.6/100 (Building, #13 in city) | Caliber Collision is an auto repair shop in Arlington, TX at 4720 South Collins Street, Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-arlington/
+1. Caliber Collision | Organic #1 | Pulse Score 46.4/100 (Building, #13 in city) | Caliber Collision is an auto repair shop in Arlington, TX at 4720 South Collins Street, Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop arlington tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

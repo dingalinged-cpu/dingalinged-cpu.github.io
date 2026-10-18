@@ -13,7 +13,7 @@ The Bicycle Recycle is a bike shop in Madison, WI at 72 North Bryan Street, Madi
 - Website: https://www.facebook.com/The-Bicycle-Recycle-518401914865235/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-14:00
-- Pulse Score: 63.3/100 — Good — top 10% of bike shops in Madison, #3 of 24 bike shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 65.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 10% of bike shops in Madison, #3 of 24 bike shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

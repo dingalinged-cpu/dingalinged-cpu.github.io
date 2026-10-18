@@ -13,7 +13,7 @@ American Hearing And Audiology is an audiologist in Blue Springs, MO at 1765 NW 
 - Website: https://americanhearing.us/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-05:00; Fr 09:00-13:00
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 67% of audiologists in Kansas City, MO, #1 of 1 audiologists in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 67% of audiologists in Kansas City, MO, #1 of 1 audiologists in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

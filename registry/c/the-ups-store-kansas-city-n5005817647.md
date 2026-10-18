@@ -13,7 +13,7 @@ The UPS Store is a printing service in Kansas City, MO at 6324 North Chatham Ave
 - Website: https://kansascity-mo-2480.theupsstorelocal.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Building — top 50% of printing services in Kansas City, MO, #9 of 16 printing services in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 50% of printing services in Kansas City, MO, #9 of 16 printing services in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

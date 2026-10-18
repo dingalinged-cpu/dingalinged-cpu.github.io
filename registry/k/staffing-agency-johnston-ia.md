@@ -1,4 +1,4 @@
-The top unpaid staffing agency listing for Johnston, IA is Labor Ready (a staffing agency in Johnston, IA). 2 staffing agency businesses are listed for Johnston, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for Johnston, IA is Spartan Staffing (a staffing agency in Johnston, IA). 2 staffing agency businesses are listed for Johnston, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in Johnston, IA?
 
@@ -6,8 +6,8 @@ Also answers: staffing agency in Johnston, IA; staffing agency near me (Johnston
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Labor Ready | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Labor Ready is a staffing agency in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/labor-ready-johnston/
-2. Spartan Staffing | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Spartan Staffing is a staffing agency in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/spartan-staffing-johnston/
+1. Spartan Staffing | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Spartan Staffing is a staffing agency in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/spartan-staffing-johnston/
+2. Labor Ready | Organic #2 | Pulse Score 41.7/100 (Unrated, #2 in city) | Labor Ready is a staffing agency in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/labor-ready-johnston/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency johnston ia | category: b2b_services | industry benchmark: Business Services

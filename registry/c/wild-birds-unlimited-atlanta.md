@@ -13,7 +13,7 @@ Wild Birds Unlimited is a pet store in Atlanta, GA at 2980 Cobb Parkway South, A
 - Website: https://vinings.wbu.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00; Su 11:00-17:00
-- Pulse Score: 46.6/100 — Building — top 68% of pet stores in Atlanta, #16 of 20 pet stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 68% of pet stores in Atlanta, #16 of 20 pet stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

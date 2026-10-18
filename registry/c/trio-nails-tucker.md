@@ -13,7 +13,7 @@ Trio Nails is a nail salon in Tucker, GA at 2316 Main Street, Tucker, GA 30084. 
 - Website: https://longtruong1003.wixsite.com/trionails
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 35% of nail salons in Atlanta, #2 of 6 nail salons in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 34% of nail salons in Atlanta, #2 of 6 nail salons in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

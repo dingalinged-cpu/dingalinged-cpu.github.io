@@ -13,7 +13,7 @@ Bloom Works Floral is a florist in Council Bluffs, IA at 142 West Broadway, Coun
 - Website: https://www.ebloomworks.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00, Sa 09:00-12:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 20% of florists in Omaha, NE, #1 of 1 florists in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 20% of florists in Omaha, NE, #1 of 1 florists in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

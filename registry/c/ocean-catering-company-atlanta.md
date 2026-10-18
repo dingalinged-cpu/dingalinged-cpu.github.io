@@ -13,7 +13,7 @@ Ocean Catering Company is a caterer in Atlanta, GA at 489 Peachtree Street North
 - Website: https://oceancateringcompany.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Fair — top 79% of caterers in Atlanta, #3 of 3 caterers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 40.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.2/100 — Fair — top 79% of caterers in Atlanta, #3 of 3 caterers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 39.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

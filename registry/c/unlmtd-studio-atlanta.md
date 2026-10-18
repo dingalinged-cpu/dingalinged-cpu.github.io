@@ -13,7 +13,7 @@ Unlmtd Studio is a photographer in Atlanta, GA at 684 John Wesley Dobbs Avenue N
 - Website: https://unlmtdstudio.com/
 - Email: hello@unlmtdstudio.com
 - Opening hours (OSM syntax): "By appointment"
-- Pulse Score: 64.7/100 — Good — top 13% of photographers in Atlanta, #1 of 5 photographers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 13% of photographers in Atlanta, #1 of 5 photographers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 65.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

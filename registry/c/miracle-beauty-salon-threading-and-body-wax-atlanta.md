@@ -13,7 +13,7 @@ Miracle Beauty Salon Threading & Body Wax is a waxing salon in Atlanta, GA at 17
 - Website: https://www.miraclebeautysalonatl.com/
 - Email: info@miraclebeautysalonatl.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
-- Pulse Score: 61.7/100 — Good — top 16% of waxing salons in Atlanta, #1 of 5 waxing salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Good — top 16% of waxing salons in Atlanta, #1 of 5 waxing salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

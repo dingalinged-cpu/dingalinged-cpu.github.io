@@ -13,7 +13,7 @@ The Salon is a hair salon in Glenwood, IA at 107 North Walnut Street, Glenwood, 
 - Website: https://thesalonglenwood.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 09:00-19:00; Th 10:00-14:00; Fr 09:00-17:00; Sa 08:00-12:00
-- Pulse Score: 50/100 — Unrated (not enough evidence yet) — top 67% of hair salons in Omaha, NE, #2 of 2 hair salons in Glenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Unrated (not enough evidence yet) — top 66% of hair salons in Omaha, NE, #2 of 2 hair salons in Glenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

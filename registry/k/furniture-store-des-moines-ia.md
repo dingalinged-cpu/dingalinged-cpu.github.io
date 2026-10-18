@@ -24,7 +24,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 16. west elm | Organic #16 | Pulse Score 48.1/100 (Building, #16 in city) | west elm is a furniture store in Des Moines, IA at 219 East Grand Avenue #101, Des Moines, IA 50309. Phone: +15152822020. Website: https://www.westelm.com/stores/us-ia-des-moines. | https://registry-edge.dingalinged.workers.dev/c/west-elm-des-moines/
 17. Aaron's | Organic #17 | Pulse Score 43.8/100 (Building, #17 in city) | Aaron's is a furniture store in Des Moines, IA at 3430 Martin Luther King Junior Parkway, Des Moines, IA 50310. | https://registry-edge.dingalinged.workers.dev/c/aarons-des-moines/
 18. Rent-A-Center | Organic #18 | Pulse Score 43.8/100 (Building, #18 in city) | Rent-A-Center is a furniture store in Des Moines, IA at 3700 Merle Hay Road, Des Moines, IA 50310. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-des-moines/
-19. Lebeda Mattress Factory | Organic #19 | Pulse Score 43.2/100 (Unrated, #19 in city) | Lebeda Mattress Factory is a furniture store in Des Moines, IA at 4019 Merle Hay Road, Des Moines, IA 50310. | https://registry-edge.dingalinged.workers.dev/c/lebeda-mattress-factory-des-moines/
+19. Lebeda Mattress Factory | Organic #19 | Pulse Score 43.1/100 (Unrated, #19 in city) | Lebeda Mattress Factory is a furniture store in Des Moines, IA at 4019 Merle Hay Road, Des Moines, IA 50310. | https://registry-edge.dingalinged.workers.dev/c/lebeda-mattress-factory-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store des moines ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Hearing Health Center is an audiologist in Naperville, IL at 1212 South Naper Bo
 - Website: https://hearinghealthcenter.com/locations/naperville-audiologists/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Fair — top 67% of audiologists in Chicago, #1 of 1 audiologists in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Fair — top 67% of audiologists in Chicago, #1 of 1 audiologists in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Petco is a pet store in West Des Moines, IA at 6805 Mills Civic Parkway #140, We
 - Website: https://stores.petco.com/ia/westdesmoines/pet-supplies-westdesmoines-ia-1623.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 47.5/100 — Building — top 87% of pet stores in Des Moines, IA, #4 of 5 pet stores in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 87% of pet stores in Des Moines, IA, #4 of 5 pet stores in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: hvac repair in Brookfield, WI; hvac repair near me (Brookfield, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Third Coast HVAC, AC & Furnace Repair | Organic #1 | Pulse Score 61.8/100 (Good, #1 in city) | Third Coast HVAC, AC & Furnace Repair is a HVAC contractor in Brookfield, WI at 120 Bishops Way, Brookfield, WI 53005. Phone: +12622648626. Website: https://thirdcoast-hvac.com/. | https://registry-edge.dingalinged.workers.dev/c/third-coast-hvac-ac-and-furnace-repair-brookfield/
+1. Third Coast HVAC, AC & Furnace Repair | Organic #1 | Pulse Score 61.7/100 (Good, #1 in city) | Third Coast HVAC, AC & Furnace Repair is a HVAC contractor in Brookfield, WI at 120 Bishops Way, Brookfield, WI 53005. Phone: +12622648626. Website: https://thirdcoast-hvac.com/. | https://registry-edge.dingalinged.workers.dev/c/third-coast-hvac-ac-and-furnace-repair-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair brookfield wi | category: Home services - HVAC | industry benchmark: Home & Home Improvement

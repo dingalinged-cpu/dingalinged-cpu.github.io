@@ -6,7 +6,7 @@ Also answers: physical therapy in Grapevine, TX; physical therapy near me (Grape
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Therapy Partners of North Texas | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Therapy Partners of North Texas is a physical therapy clinic in Grapevine, TX at 2030 Glade Road #200, Grapevine, TX 76051. | https://registry-edge.dingalinged.workers.dev/c/therapy-partners-of-north-texas-grapevine/
+1. Therapy Partners of North Texas | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Therapy Partners of North Texas is a physical therapy clinic in Grapevine, TX at 2030 Glade Road #200, Grapevine, TX 76051. | https://registry-edge.dingalinged.workers.dev/c/therapy-partners-of-north-texas-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy grapevine tx | category: Health & medical | industry benchmark: Physicians & Surgeons

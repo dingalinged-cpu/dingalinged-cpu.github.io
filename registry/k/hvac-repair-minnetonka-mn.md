@@ -6,7 +6,7 @@ Also answers: hvac repair in Minnetonka, MN; hvac repair near me (Minnetonka, MN
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. VOGT Heating, Air Conditioning & Plumbing | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | VOGT Heating, Air Conditioning & Plumbing is a HVAC contractor in Minnetonka, MN at 15612 Highway 7 Suite 333, Minnetonka, MN 55345. Phone: +19524666571. Website: https://www.vogtheating.com/. | https://registry-edge.dingalinged.workers.dev/c/vogt-heating-air-conditioning-and-plumbing-minnetonka/
+1. VOGT Heating, Air Conditioning & Plumbing | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | VOGT Heating, Air Conditioning & Plumbing is a HVAC contractor in Minnetonka, MN at 15612 Highway 7 Suite 333, Minnetonka, MN 55345. Phone: +19524666571. Website: https://www.vogtheating.com/. | https://registry-edge.dingalinged.workers.dev/c/vogt-heating-air-conditioning-and-plumbing-minnetonka/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair minnetonka mn | category: Home services - HVAC | industry benchmark: Home & Home Improvement

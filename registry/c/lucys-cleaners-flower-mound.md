@@ -19,6 +19,6 @@ Lucy's Cleaners is a dry cleaner in Flower Mound, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/lucys-cleaners-flower-mound/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lucys-cleaners-flower-mound.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10798209848 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10798209848 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

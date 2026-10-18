@@ -13,7 +13,7 @@ Central Bark is a dog boarding facility in Milwaukee, WI at 3800 North 1st Stree
 - Website: https://www.centralbarkusa.com/milwaukee-eastside/
 - Email: eastmke@centralbarkusa.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:30; Sa 08:00-17:00; Su "by appointment only"
-- Pulse Score: 63/100 — Good — top 13% of dog boarding facilitys in Milwaukee, #1 of 4 dog boarding facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 65.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Good — top 13% of dog boarding facilitys in Milwaukee, #1 of 4 dog boarding facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 65.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

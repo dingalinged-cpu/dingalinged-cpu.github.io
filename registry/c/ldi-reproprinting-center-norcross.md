@@ -13,7 +13,7 @@ LDI Reproprinting Center is a printing service in Norcross, GA at 3030 Business 
 - Website: https://ldigwinnett.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 9% of printing services in Atlanta, #2 of 2 printing services in Norcross (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 9% of printing services in Atlanta, #2 of 2 printing services in Norcross (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

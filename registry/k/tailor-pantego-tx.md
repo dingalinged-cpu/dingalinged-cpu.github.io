@@ -6,7 +6,7 @@ Also answers: tailor in Pantego, TX; tailor near me (Pantego, TX); best tailor P
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stitch Niche | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Stitch Niche is a tailor in Pantego, TX at 2425 West Arkansas Lane, Pantego, TX 76013. Phone: +18172774281. | https://registry-edge.dingalinged.workers.dev/c/stitch-niche-pantego/
+1. Stitch Niche | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Stitch Niche is a tailor in Pantego, TX at 2425 West Arkansas Lane, Pantego, TX 76013. Phone: +18172774281. | https://registry-edge.dingalinged.workers.dev/c/stitch-niche-pantego/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor pantego tx | category: Professional & financial services | industry benchmark: Finance & Insurance

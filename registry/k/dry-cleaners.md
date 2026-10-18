@@ -1,4 +1,4 @@
-The top unpaid dry cleaners listing for the United States is US Cleaners (a dry cleaner in New Berlin, WI at 3616 South Moorland Road, New Berlin, WI 53151. Phone: +12627821188). 1143 dry cleaners businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for the United States is US Cleaners (a dry cleaner in New Berlin, WI at 3616 South Moorland Road, New Berlin, WI 53151. Phone: +12627821188). 1362 dry cleaners businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in the United States?
 
@@ -21,54 +21,58 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 13. Marinizing Cleaners | Organic #13 | Pulse Score 64.3/100 (Good, #1 in city) | Marinizing Cleaners is a dry cleaner in Flower Mound, TX. Phone: +19725375005. Website: https://www.martinizing.com/. | https://registry-edge.dingalinged.workers.dev/c/marinizing-cleaners-flower-mound/
 14. Morgan Cleaners | Organic #14 | Pulse Score 64.2/100 (Good, #2 in city) | Morgan Cleaners is a dry cleaner in Chicago, IL at 949 West Madison Street #48, Chicago, IL 60607. | https://registry-edge.dingalinged.workers.dev/c/morgan-cleaners-chicago/
 15. Band Box Cleaners | Organic #15 | Pulse Score 64.1/100 (Good, #1 in city) | Band Box Cleaners is a dry cleaner in Saint Louis, MO at 1110 Locust Street, Saint Louis, MO 63101. Phone: +13144213122. Website: https://www.facebook.com/pages/Band-Box-Cleaners-STL/331526660229697. | https://registry-edge.dingalinged.workers.dev/c/band-box-cleaners-saint-louis/
-16. My Favorite Cleaners | Organic #16 | Pulse Score 64/100 (Good, #1 in city) | My Favorite Cleaners is a dry cleaner in Richmond, TX at 11020 Harlem Road #600, Richmond, TX 77407. | https://registry-edge.dingalinged.workers.dev/c/my-favorite-cleaners-richmond/
+16. EcoClean Green Dry Cleaner & Laundry | Organic #16 | Pulse Score 64/100 (Good, #1 in city) | EcoClean Green Dry Cleaner & Laundry is a dry cleaner in Austin, TX at 3005 South Lamar Boulevard #D-114A, Austin, TX 78704. Phone: +15122368645. Website: https://ecocleanaustin.com/locations/south-austin/. | https://registry-edge.dingalinged.workers.dev/c/ecoclean-green-dry-cleaner-and-laundry-austin/
 17. Oaks Cleaners | Organic #17 | Pulse Score 64/100 (Unrated, #1 in city) | Oaks Cleaners is a dry cleaner in Arlington, TX at 1112 North Fielder Road, Arlington, TX 76012. Phone: +18172748729. Website: https://www.oakscleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/oaks-cleaners-arlington/
 18. Wildcat Cleaners | Organic #18 | Pulse Score 64/100 (Unrated, #1 in city) | Wildcat Cleaners is a dry cleaner in Dallas, TX at 9330 Lookout Point #166, Dallas, TX 75231. Phone: +19728509444. Website: https://wildcatcleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/wildcat-cleaners-dallas/
-19. TC Cleaners | Organic #19 | Pulse Score 63.9/100 (Unrated, #1 in city) | TC Cleaners is a dry cleaner in Kingwood, TX at 25639 Eastex Freeway #105, Kingwood, TX 77339. Phone: +12813546201. | https://registry-edge.dingalinged.workers.dev/c/tc-cleaners-kingwood/
-20. Bond One Hour Cleaners & Laundry | Organic #20 | Pulse Score 63.8/100 (Unrated, #2 in city) | Bond One Hour Cleaners & Laundry is a dry cleaner in Arlington, TX at 138 South Bowen Road, Arlington, TX 76012. Phone: +18172770121. | https://registry-edge.dingalinged.workers.dev/c/bond-one-hour-cleaners-and-laundry-arlington/
-21. Dapper Cleaners & Alterations | Organic #21 | Pulse Score 63.8/100 (Unrated, #1 in city) | Dapper Cleaners & Alterations is a dry cleaner in McKinney, TX at 9245 Virginia Parkway #600, McKinney, TX. Phone: +12148428147. Website: https://www.dappercleaner.com/. | https://registry-edge.dingalinged.workers.dev/c/dapper-cleaners-and-alterations-mckinney/
-22. Fabric Touch Cleaners | Organic #22 | Pulse Score 63.6/100 (Good, #1 in city) | Fabric Touch Cleaners is a dry cleaner in Woodstock, GA at 2990 Eagle Drive #112, Woodstock, GA. Phone: +17709268399. | https://registry-edge.dingalinged.workers.dev/c/fabric-touch-cleaners-woodstock/
-23. Mr. Cleaners | Organic #23 | Pulse Score 63.6/100 (Good, #1 in city) | Mr. Cleaners is a dry cleaner in Cherokee County, GA at 5505 Bells Ferry Road #100, Cherokee County, GA. Phone: +17705170300. | https://registry-edge.dingalinged.workers.dev/c/mr-cleaners-cherokee-county/
-24. Four Seasons Dry Cleaners and Laundry | Organic #24 | Pulse Score 63.6/100 (Unrated, #1 in city) | Four Seasons Dry Cleaners and Laundry is a dry cleaner in Carrollton, TX at North Josey Lane, Carrollton, TX. Phone: +19724461446. Website: https://www.dallasweclean.com/. | https://registry-edge.dingalinged.workers.dev/c/four-seasons-dry-cleaners-and-laundry-carrollton/
-25. ABC Alterations | Organic #25 | Pulse Score 63.5/100 (Good, #2 in city) | ABC Alterations is a dry cleaner in Woodstock, GA at 1426 Towne Lake Parkway #103, Woodstock, GA. Phone: +17709281098. | https://registry-edge.dingalinged.workers.dev/c/abc-alterations-woodstock/
-26. Gill's Alterations | Organic #26 | Pulse Score 63.5/100 (Good, #3 in city) | Gill's Alterations is a dry cleaner in Cobb County, GA at 2932 Canton Road #270, Cobb County, GA. Phone: +17704280152. | https://registry-edge.dingalinged.workers.dev/c/gills-alterations-cobb-county/
-27. Ivory #3 Cleaners | Organic #27 | Pulse Score 63.5/100 (Good, #3 in city) | Ivory #3 Cleaners is a dry cleaner in Chicago, IL at 1005 East 53rd Street, Chicago, IL 60615. | https://registry-edge.dingalinged.workers.dev/c/ivory-3-cleaners-chicago/
-28. Power Cleaners | Organic #28 | Pulse Score 63.4/100 (Good, #2 in city) | Power Cleaners is a dry cleaner in Marietta, GA at 2421 Shallowford Road Northeast #104, Marietta, GA 30066. Phone: +17705178816. | https://registry-edge.dingalinged.workers.dev/c/power-cleaners-marietta/
-29. Trophy Club Cleaners | Organic #29 | Pulse Score 63.4/100 (Unrated, #1 in city) | Trophy Club Cleaners is a dry cleaner in Trophy Club, TX at 301 Trophy Lake Drive #104, Trophy Club, TX 76262. Phone: +18174300261. | https://registry-edge.dingalinged.workers.dev/c/trophy-club-cleaners-trophy-club/
-30. The London Cleaners | Organic #30 | Pulse Score 63.3/100 (Unrated, #2 in city) | The London Cleaners is a dry cleaner in Milwaukee, WI at 778 North Milwaukee Street, Milwaukee, WI 53202. Phone: +14142763010. Website: https://www.londoncleanersmke.com/. | https://registry-edge.dingalinged.workers.dev/c/the-london-cleaners-milwaukee/
-31. Texas Cleaners | Organic #31 | Pulse Score 63.3/100 (Unrated, #1 in city) | Texas Cleaners is a dry cleaner in Lewisville, TX at West Round Grove Road #114, Lewisville, TX 75067. Website: https://www.texascleaners.net/. | https://registry-edge.dingalinged.workers.dev/c/texas-cleaners-lewisville/
-32. North Pointe Cleaners | Organic #32 | Pulse Score 63.3/100 (Unrated, #1 in city) | North Pointe Cleaners is a dry cleaner in Warren, MI at 11701 East 13 Mile Road, Warren, MI 48093. Phone: +15869396027. | https://registry-edge.dingalinged.workers.dev/c/north-pointe-cleaners-warren/
-33. Esquire Fine Cleaners | Organic #33 | Pulse Score 63.3/100 (Unrated, #1 in city) | Esquire Fine Cleaners is a dry cleaner in Houston, TX at 5816 Memorial Drive, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/esquire-fine-cleaners-houston/
-34. Mac N Jac Cleaners | Organic #34 | Pulse Score 63.2/100 (Good, #5 in city) | Mac N Jac Cleaners is a dry cleaner in Atlanta, GA at 860 Peachtree Street Northeast #E, Atlanta, GA. Phone: +14048159115. | https://registry-edge.dingalinged.workers.dev/c/mac-n-jac-cleaners-atlanta/
-35. Shallowford Cleaners | Organic #35 | Pulse Score 63.2/100 (Good, #1 in city) | Shallowford Cleaners is a dry cleaner in DeKalb County, GA at 2566 Shallowford Road Northeast #101, DeKalb County, GA. Phone: +14043201986. | https://registry-edge.dingalinged.workers.dev/c/shallowford-cleaners-dekalb-county/
-36. Swiss Cleaners | Organic #36 | Pulse Score 63.1/100 (Good, #4 in city) | Swiss Cleaners is a dry cleaner in Cobb County, GA at 2995 Johnson Ferry Road #200, Cobb County, GA. Phone: +17706498080. | https://registry-edge.dingalinged.workers.dev/c/swiss-cleaners-cobb-county/
-37. Manor Cleaners | Organic #37 | Pulse Score 63.1/100 (Unrated, #4 in city) | Manor Cleaners is a dry cleaner in Chicago, IL at 2913 North Broadway, Chicago, IL 60657. Phone: +17739299898. | https://registry-edge.dingalinged.workers.dev/c/manor-cleaners-chicago/
-38. LP Cleaners | Organic #38 | Pulse Score 63/100 (Good, #2 in city) | LP Cleaners is a dry cleaner in Lewisville, TX at 1302 South Business 121 #D, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/lp-cleaners-lewisville/
-39. 24/7 Dry Cleaners | Organic #39 | Pulse Score 63/100 (Unrated, #1 in city) | 24/7 Dry Cleaners is a dry cleaner in Parker, CO at 19521 East Parker Square Drive, Parker, CO 80134. Phone: +17203338369. Website: https://247drycleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/24-7-dry-cleaners-parker-n12899122393/
-40. Dry Cleaners Near Me | Organic #40 | Pulse Score 63/100 (Unrated, #1 in city) | Dry Cleaners Near Me is a dry cleaner in Clinton Township, MI at 43270 Hayes Road, Clinton Township, MI 48038. Phone: +15862631922. Website: https://drycleaners-nearme.com/. | https://registry-edge.dingalinged.workers.dev/c/dry-cleaners-near-me-clinton-township/
-41. Ryan's Cleaners | Organic #41 | Pulse Score 63/100 (Unrated, #1 in city) | Ryan's Cleaners is a dry cleaner in Porter, TX at 23741 Eastex Freeway #9, Porter, TX 77365. Phone: +12813546112. Website: https://www.ryanscleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/ryans-cleaners-porter/
-42. Platinum Dry Cleaners | Organic #42 | Pulse Score 62.9/100 (Unrated, #5 in city) | Platinum Dry Cleaners is a dry cleaner in Chicago, IL at 3707 North Broadway, Chicago, IL 60613. Phone: +17738809650. | https://registry-edge.dingalinged.workers.dev/c/platinum-dry-cleaners-chicago/
-43. Colonial Cleaners, Inc. | Organic #43 | Pulse Score 62.8/100 (Unrated, #1 in city) | Colonial Cleaners, Inc. is a dry cleaner in Minneapolis, MN at 3701 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128238095. Website: https://colonialcleanersmn.com/. | https://registry-edge.dingalinged.workers.dev/c/colonial-cleaners-inc-minneapolis/
-44. Roosevelt Cleaners | Organic #44 | Pulse Score 62.8/100 (Unrated, #6 in city) | Roosevelt Cleaners is a dry cleaner in Chicago, IL at 734 South Dearborn Street, Chicago, IL 60605. | https://registry-edge.dingalinged.workers.dev/c/roosevelt-cleaners-chicago/
-45. Hollister Cleaners | Organic #45 | Pulse Score 62.8/100 (Unrated, #2 in city) | Hollister Cleaners is a dry cleaner in Houston, TX at 5770 Hollister Street #H, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/hollister-cleaners-houston/
-46. Chee Cleaners | Organic #46 | Pulse Score 62.8/100 (Unrated, #7 in city) | Chee Cleaners is a dry cleaner in Chicago, IL. Phone: +17737047022. | https://registry-edge.dingalinged.workers.dev/c/chee-cleaners-chicago/
-47. Martinizing Cleaners | Organic #47 | Pulse Score 62.8/100 (Unrated, #1 in city) | Martinizing Cleaners is a dry cleaner in Gahanna, OH at 1177 N Hamilton Rd, Gahanna, OH 43230. Phone: +16144180150. Website: https://martinizing.com/. | https://registry-edge.dingalinged.workers.dev/c/martinizing-cleaners-gahanna/
-48. Novi Road Dry Cleaners | Organic #48 | Pulse Score 62.8/100 (Unrated, #1 in city) | Novi Road Dry Cleaners is a dry cleaner in Northville, MI at 43209 7 Mile Road, Northville, MI 48167. Phone: +12483498120. Website: https://novi-road-cleaners.business.site/. | https://registry-edge.dingalinged.workers.dev/c/novi-road-dry-cleaners-northville/
-49. Spring Dry Cleaners | Organic #49 | Pulse Score 62.7/100 (Good, #3 in city) | Spring Dry Cleaners is a dry cleaner in Marietta, GA at 1362 Terrell Mill Road Southeast, Marietta, GA 30067. Phone: +17709161004. | https://registry-edge.dingalinged.workers.dev/c/spring-dry-cleaners-marietta/
-50. P-D-Q Dry Clean City | Organic #50 | Pulse Score 62.7/100 (Unrated, #1 in city) | P-D-Q Dry Clean City is a dry cleaner in North Richland Hills, TX at 8401 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18175037788. | https://registry-edge.dingalinged.workers.dev/c/p-d-q-dry-clean-city-north-richland-hills/
+19. Dapper Cleaners & Alterations | Organic #19 | Pulse Score 63.8/100 (Unrated, #1 in city) | Dapper Cleaners & Alterations is a dry cleaner in McKinney, TX at 9245 Virginia Parkway #600, McKinney, TX. Phone: +12148428147. Website: https://www.dappercleaner.com/. | https://registry-edge.dingalinged.workers.dev/c/dapper-cleaners-and-alterations-mckinney/
+20. Superior Dry Cleaners | Organic #20 | Pulse Score 63.8/100 (Unrated, #1 in city) | Superior Dry Cleaners is a dry cleaner in Sugar Land, TX at 1212 Eldridge Road, Sugar Land, TX 77478. Phone: +12819802266. Website: https://superiordryclean.com/. | https://registry-edge.dingalinged.workers.dev/c/superior-dry-cleaners-sugar-land/
+21. TC Cleaners | Organic #21 | Pulse Score 63.8/100 (Unrated, #1 in city) | TC Cleaners is a dry cleaner in Kingwood, TX at 25639 Eastex Freeway #105, Kingwood, TX 77339. Phone: +12813546201. | https://registry-edge.dingalinged.workers.dev/c/tc-cleaners-kingwood/
+22. My Favorite Cleaners | Organic #22 | Pulse Score 63.7/100 (Good, #1 in city) | My Favorite Cleaners is a dry cleaner in Richmond, TX at 11020 Harlem Road #600, Richmond, TX 77407. | https://registry-edge.dingalinged.workers.dev/c/my-favorite-cleaners-richmond/
+23. Bond One Hour Cleaners & Laundry | Organic #23 | Pulse Score 63.7/100 (Unrated, #2 in city) | Bond One Hour Cleaners & Laundry is a dry cleaner in Arlington, TX at 138 South Bowen Road, Arlington, TX 76012. Phone: +18172770121. | https://registry-edge.dingalinged.workers.dev/c/bond-one-hour-cleaners-and-laundry-arlington/
+24. Fabric Touch Cleaners | Organic #24 | Pulse Score 63.6/100 (Good, #1 in city) | Fabric Touch Cleaners is a dry cleaner in Woodstock, GA at 2990 Eagle Drive #112, Woodstock, GA. Phone: +17709268399. | https://registry-edge.dingalinged.workers.dev/c/fabric-touch-cleaners-woodstock/
+25. Four Seasons Dry Cleaners and Laundry | Organic #25 | Pulse Score 63.6/100 (Unrated, #1 in city) | Four Seasons Dry Cleaners and Laundry is a dry cleaner in Carrollton, TX at North Josey Lane, Carrollton, TX. Phone: +19724461446. Website: https://www.dallasweclean.com/. | https://registry-edge.dingalinged.workers.dev/c/four-seasons-dry-cleaners-and-laundry-carrollton/
+26. ABC Alterations | Organic #26 | Pulse Score 63.5/100 (Good, #2 in city) | ABC Alterations is a dry cleaner in Woodstock, GA at 1426 Towne Lake Parkway #103, Woodstock, GA. Phone: +17709281098. | https://registry-edge.dingalinged.workers.dev/c/abc-alterations-woodstock/
+27. Gill's Alterations | Organic #27 | Pulse Score 63.5/100 (Good, #3 in city) | Gill's Alterations is a dry cleaner in Cobb County, GA at 2932 Canton Road #270, Cobb County, GA. Phone: +17704280152. | https://registry-edge.dingalinged.workers.dev/c/gills-alterations-cobb-county/
+28. Mr. Cleaners | Organic #28 | Pulse Score 63.5/100 (Good, #1 in city) | Mr. Cleaners is a dry cleaner in Cherokee County, GA at 5505 Bells Ferry Road #100, Cherokee County, GA. Phone: +17705170300. | https://registry-edge.dingalinged.workers.dev/c/mr-cleaners-cherokee-county/
+29. Ivory #3 Cleaners | Organic #29 | Pulse Score 63.5/100 (Good, #3 in city) | Ivory #3 Cleaners is a dry cleaner in Chicago, IL at 1005 East 53rd Street, Chicago, IL 60615. | https://registry-edge.dingalinged.workers.dev/c/ivory-3-cleaners-chicago/
+30. Power Cleaners | Organic #30 | Pulse Score 63.4/100 (Good, #2 in city) | Power Cleaners is a dry cleaner in Marietta, GA at 2421 Shallowford Road Northeast #104, Marietta, GA 30066. Phone: +17705178816. | https://registry-edge.dingalinged.workers.dev/c/power-cleaners-marietta/
+31. Trophy Club Cleaners | Organic #31 | Pulse Score 63.4/100 (Unrated, #1 in city) | Trophy Club Cleaners is a dry cleaner in Trophy Club, TX at 301 Trophy Lake Drive #104, Trophy Club, TX 76262. Phone: +18174300261. | https://registry-edge.dingalinged.workers.dev/c/trophy-club-cleaners-trophy-club/
+32. The London Cleaners | Organic #32 | Pulse Score 63.3/100 (Unrated, #2 in city) | The London Cleaners is a dry cleaner in Milwaukee, WI at 778 North Milwaukee Street, Milwaukee, WI 53202. Phone: +14142763010. Website: https://www.londoncleanersmke.com/. | https://registry-edge.dingalinged.workers.dev/c/the-london-cleaners-milwaukee/
+33. Texas Cleaners | Organic #33 | Pulse Score 63.3/100 (Unrated, #1 in city) | Texas Cleaners is a dry cleaner in Lewisville, TX at West Round Grove Road #114, Lewisville, TX 75067. Website: https://www.texascleaners.net/. | https://registry-edge.dingalinged.workers.dev/c/texas-cleaners-lewisville/
+34. North Pointe Cleaners | Organic #34 | Pulse Score 63.3/100 (Unrated, #1 in city) | North Pointe Cleaners is a dry cleaner in Warren, MI at 11701 East 13 Mile Road, Warren, MI 48093. Phone: +15869396027. | https://registry-edge.dingalinged.workers.dev/c/north-pointe-cleaners-warren/
+35. Mac N Jac Cleaners | Organic #35 | Pulse Score 63.2/100 (Good, #5 in city) | Mac N Jac Cleaners is a dry cleaner in Atlanta, GA at 860 Peachtree Street Northeast #E, Atlanta, GA. Phone: +14048159115. | https://registry-edge.dingalinged.workers.dev/c/mac-n-jac-cleaners-atlanta/
+36. Shallowford Cleaners | Organic #36 | Pulse Score 63.2/100 (Good, #1 in city) | Shallowford Cleaners is a dry cleaner in DeKalb County, GA at 2566 Shallowford Road Northeast #101, DeKalb County, GA. Phone: +14043201986. | https://registry-edge.dingalinged.workers.dev/c/shallowford-cleaners-dekalb-county/
+37. Esquire Fine Cleaners | Organic #37 | Pulse Score 63.2/100 (Unrated, #1 in city) | Esquire Fine Cleaners is a dry cleaner in Houston, TX at 5816 Memorial Drive, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/esquire-fine-cleaners-houston/
+38. Swiss Cleaners | Organic #38 | Pulse Score 63.1/100 (Good, #4 in city) | Swiss Cleaners is a dry cleaner in Cobb County, GA at 2995 Johnson Ferry Road #200, Cobb County, GA. Phone: +17706498080. | https://registry-edge.dingalinged.workers.dev/c/swiss-cleaners-cobb-county/
+39. Manor Cleaners | Organic #39 | Pulse Score 63.1/100 (Unrated, #4 in city) | Manor Cleaners is a dry cleaner in Chicago, IL at 2913 North Broadway, Chicago, IL 60657. Phone: +17739299898. | https://registry-edge.dingalinged.workers.dev/c/manor-cleaners-chicago/
+40. LP Cleaners | Organic #40 | Pulse Score 63/100 (Good, #2 in city) | LP Cleaners is a dry cleaner in Lewisville, TX at 1302 South Business 121 #D, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/lp-cleaners-lewisville/
+41. 24/7 Dry Cleaners | Organic #41 | Pulse Score 63/100 (Unrated, #1 in city) | 24/7 Dry Cleaners is a dry cleaner in Parker, CO at 19521 East Parker Square Drive, Parker, CO 80134. Phone: +17203338369. Website: https://247drycleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/24-7-dry-cleaners-parker-n12899122393/
+42. Dry Cleaners Near Me | Organic #42 | Pulse Score 63/100 (Unrated, #1 in city) | Dry Cleaners Near Me is a dry cleaner in Clinton Township, MI at 43270 Hayes Road, Clinton Township, MI 48038. Phone: +15862631922. Website: https://drycleaners-nearme.com/. | https://registry-edge.dingalinged.workers.dev/c/dry-cleaners-near-me-clinton-township/
+43. Ryan's Cleaners | Organic #43 | Pulse Score 63/100 (Unrated, #1 in city) | Ryan's Cleaners is a dry cleaner in Porter, TX at 23741 Eastex Freeway #9, Porter, TX 77365. Phone: +12813546112. Website: https://www.ryanscleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/ryans-cleaners-porter/
+44. Platinum Dry Cleaners | Organic #44 | Pulse Score 62.9/100 (Unrated, #5 in city) | Platinum Dry Cleaners is a dry cleaner in Chicago, IL at 3707 North Broadway, Chicago, IL 60613. Phone: +17738809650. | https://registry-edge.dingalinged.workers.dev/c/platinum-dry-cleaners-chicago/
+45. Hollister Cleaners | Organic #45 | Pulse Score 62.9/100 (Unrated, #2 in city) | Hollister Cleaners is a dry cleaner in Houston, TX at 5770 Hollister Street #H, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/hollister-cleaners-houston/
+46. Colonial Cleaners, Inc. | Organic #46 | Pulse Score 62.8/100 (Unrated, #1 in city) | Colonial Cleaners, Inc. is a dry cleaner in Minneapolis, MN at 3701 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128238095. Website: https://colonialcleanersmn.com/. | https://registry-edge.dingalinged.workers.dev/c/colonial-cleaners-inc-minneapolis/
+47. Roosevelt Cleaners | Organic #47 | Pulse Score 62.8/100 (Unrated, #6 in city) | Roosevelt Cleaners is a dry cleaner in Chicago, IL at 734 South Dearborn Street, Chicago, IL 60605. | https://registry-edge.dingalinged.workers.dev/c/roosevelt-cleaners-chicago/
+48. Chee Cleaners | Organic #48 | Pulse Score 62.8/100 (Unrated, #7 in city) | Chee Cleaners is a dry cleaner in Chicago, IL. Phone: +17737047022. | https://registry-edge.dingalinged.workers.dev/c/chee-cleaners-chicago/
+49. Martinizing Cleaners | Organic #49 | Pulse Score 62.8/100 (Unrated, #1 in city) | Martinizing Cleaners is a dry cleaner in Gahanna, OH at 1177 N Hamilton Rd, Gahanna, OH 43230. Phone: +16144180150. Website: https://martinizing.com/. | https://registry-edge.dingalinged.workers.dev/c/martinizing-cleaners-gahanna/
+50. Novi Road Dry Cleaners | Organic #50 | Pulse Score 62.8/100 (Unrated, #1 in city) | Novi Road Dry Cleaners is a dry cleaner in Northville, MI at 43209 7 Mile Road, Northville, MI 48167. Phone: +12483498120. Website: https://novi-road-cleaners.business.site/. | https://registry-edge.dingalinged.workers.dev/c/novi-road-dry-cleaners-northville/
 
-## More dry cleaners listings (1143 total; top 50 unpaid shown)
+## More dry cleaners listings (1362 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/dry-cleaners.jsonl
 - Chicago, IL: 97 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-chicago-il/
 - Houston, TX: 69 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-houston-tx/
 - Dallas, TX: 43 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-dallas-tx/
-- Harris County, TX: 27 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-harris-county-tx/
+- Harris County, TX: 30 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-harris-county-tx/
+- Austin, TX: 27 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-austin-tx/
 - Cobb County, GA: 24 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-cobb-county-ga/
 - Atlanta, GA: 24 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-atlanta-ga/
 - Kansas City, MO: 17 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-kansas-city-mo/
+- San Antonio, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-san-antonio-tx/
 - Milwaukee, WI: 16 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-milwaukee-wi/
 - Detroit, MI: 15 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-detroit-mi/
+- Fort Worth, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-fort-worth-tx/
 - Minneapolis, MN: 13 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-minneapolis-mn/
+- Lubbock, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-lubbock-tx/
 - Aurora, CO: 12 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-aurora-co/
 - Columbus, OH: 12 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-columbus-oh/
 - Carmel, IN: 12 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-carmel-in/
@@ -76,6 +80,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Marietta, GA: 11 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-marietta-ga/
 - Omaha, NE: 11 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-omaha-ne/
 - Indianapolis, IN: 11 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-indianapolis-in/
+- Amarillo, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-amarillo-tx/
 - Evanston, IL: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-evanston-il/
 - Cincinnati, OH: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-cincinnati-oh/
 - Denton, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-denton-tx/
@@ -85,22 +90,29 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Oak Park, IL: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-oak-park-il/
 - Madison, WI: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-madison-wi/
 - Saint Paul, MN: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-saint-paul-mn/
+- Lufkin, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-lufkin-tx/
 - Gwinnett County, GA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-gwinnett-county-ga/
 - Birmingham, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-birmingham-mi/
 - Parker, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-parker-co/
 - Boulder, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-boulder-co/
 - Naperville, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-naperville-il/
+- Fayetteville, AR: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-fayetteville-ar/
+- Killeen, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-killeen-tx/
+- Beaumont, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-beaumont-tx/
+- Longview, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-longview-tx/
+- Corpus Christi, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-corpus-christi-tx/
 - Richardson, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-richardson-tx/
 - Mckinney, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-mckinney-tx/
 - Fort Bend County, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-fort-bend-county-tx/
+- Sugar Land, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-sugar-land-tx/
 - Kennesaw, GA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-kennesaw-ga/
 - Smyrna, GA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-smyrna-ga/
 - West Des Moines, IA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-west-des-moines-ia/
 - Flower Mound, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-flower-mound-tx/
 - Addison, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-addison-tx/
 - Montgomery County, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-montgomery-county-tx/
+- Midland, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-midland-tx/
 - Carrollton, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-carrollton-tx/
-- Sugar Land, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-sugar-land-tx/
 - The Woodlands, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-the-woodlands-tx/
 - Johns Creek, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-johns-creek-ga/
 - Westminster, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-westminster-co/
@@ -114,6 +126,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Irving, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-irving-tx/
 - Euless, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-euless-tx/
 - Lewisville, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-lewisville-tx/
+- Round Rock, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-round-rock-tx/
 - Brookhaven, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-brookhaven-ga/
 - Sterling Heights, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-sterling-heights-mi/
 - Farmington, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-farmington-mi/
@@ -125,8 +138,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Racine, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-racine-wi/
 - Maple Grove, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-maple-grove-mn/
 - Ross Township, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-ross-township-pa/
+- Sherman, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-sherman-tx/
+- Crowley, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-crowley-tx/
+- Alamo Heights, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-alamo-heights-tx/
 - University Park, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-university-park-tx/
 - Mesquite, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-mesquite-tx/
+- Cedar Park, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-cedar-park-tx/
+- Georgetown, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-georgetown-tx/
 - Woodstock, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-woodstock-ga/
 - Dekalb County, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-dekalb-county-ga/
 - Commerce Charter Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-commerce-charter-township-mi/
@@ -150,13 +168,31 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Loveland, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-loveland-oh/
 - Mason, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-mason-oh/
 - Liberty Township, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-liberty-township-oh/
+- Fort Smith, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-fort-smith-ar/
+- Cabot, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-cabot-ar/
 - Westfield, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-westfield-in/
+- La Porte, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-la-porte-tx/
+- El Paso, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-el-paso-tx/
+- Texarkana, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-texarkana-tx/
+- Odessa, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-odessa-tx/
 - Corinth, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-corinth-tx/
 - Forney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-forney-tx/
+- Benbrook, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-benbrook-tx/
 - Cedar Hill, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-cedar-hill-tx/
+- Cleburne, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-cleburne-tx/
 - Richmond, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-richmond-tx/
+- San Angelo, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-san-angelo-tx/
+- Weatherford, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-weatherford-tx/
+- Dripping Springs, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-dripping-springs-tx/
+- Kyle, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-kyle-tx/
+- Leander, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-leander-tx/
+- College Station, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-college-station-tx/
+- Victoria, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-victoria-tx/
+- Kerrville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-kerrville-tx/
+- Devine, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-devine-tx/
 - Rockwall, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-rockwall-tx/
 - Pearland, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-pearland-tx/
+- West Lake Hills, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-west-lake-hills-tx/
 - Dunwoody, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-dunwoody-ga/
 - Paulding County, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-paulding-county-ga/
 - Alpharetta, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-alpharetta-ga/
@@ -205,42 +241,82 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Shawnee Hills, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-shawnee-hills-oh/
 - Ankeny, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-ankeny-ia/
 - Papillion, NE: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-papillion-ne/
+- Sherwood, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-sherwood-ar/
+- Russellville, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-russellville-ar/
 - Munster, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-munster-in/
 - Bethel Park, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-bethel-park-pa/
 - Cranberry Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-cranberry-township-pa/
 - Mt. Lebanon, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-mt-lebanon-pa/
+- Deer Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-deer-park-tx/
 - Oak Ridge North, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-oak-ridge-north-tx/
 - Webster, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-webster-tx/
+- Copperas Cove, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-copperas-cove-tx/
+- Robinson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-robinson-tx/
 - Roanoke, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-roanoke-tx/
+- Mcallen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-mcallen-tx/
 - Providence Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-providence-village-tx/
 - Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-allen-tx/
+- Bastrop, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-bastrop-tx/
+- Denison, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-denison-tx/
 - Mansfield, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-mansfield-tx/
+- Nacogdoches, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-nacogdoches-tx/
 - Fate, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-fate-tx/
 - Crandall, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-crandall-tx/
+- Melissa, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-melissa-tx/
 - Rowlett, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-rowlett-tx/
 - Garland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-garland-tx/
+- Greenville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-greenville-tx/
 - Wylie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-wylie-tx/
+- Castle Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-castle-hills-tx/
 - Needville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-needville-tx/
+- Lytle, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-lytle-tx/
 - Brazoria County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-brazoria-county-tx/
 - Fulshear, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-fulshear-tx/
+- Wake Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-wake-village-tx/
+- Hutto, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-hutto-tx/
+- Bee Cave, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-bee-cave-tx/
+- Lakeway, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-lakeway-tx/
+- Travis County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-travis-county-tx/
+- Williamson County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-williamson-county-tx/
 - Grand Prairie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-grand-prairie-tx/
+- Temple, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-temple-tx/
 - Farmers Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-farmers-branch-tx/
+- Kirby, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-kirby-tx/
 - Prosper, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-prosper-tx/
+- Bandera, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-bandera-tx/
+- Boerne, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-boerne-tx/
 - Conroe, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-conroe-tx/
 - Kaufman, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-kaufman-tx/
+- Elgin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-elgin-tx/
 - Southlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-southlake-tx/
 - Sachse, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-sachse-tx/
+- Jefferson County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-jefferson-county-tx/
+- Hewitt, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-hewitt-tx/
 - North Richland Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-north-richland-hills-tx/
 - Murphy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-murphy-tx/
+- Abilene, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-abilene-tx/
 - Royse City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-royse-city-tx/
+- Seguin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-seguin-tx/
+- Watauga, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-watauga-tx/
+- Pasadena, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-pasadena-tx/
+- New Braunfels, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-new-braunfels-tx/
+- Wichita Falls, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-wichita-falls-tx/
 - Humble, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-humble-tx/
 - Wharton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-wharton-tx/
+- Pflugerville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-pflugerville-tx/
+- Huntsville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-huntsville-tx/
+- Taylor, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-taylor-tx/
+- Coryell County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-coryell-county-tx/
+- El Paso County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-el-paso-county-tx/
 - Keller, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-keller-tx/
+- Tyler, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-tyler-tx/
 - Bellaire, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-bellaire-tx/
 - Magnolia, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-magnolia-tx/
 - Tomball, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-tomball-tx/
+- Wells Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-wells-branch-tx/
 - Bedford, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-bedford-tx/
 - Trophy Club, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-trophy-club-tx/
+- San Marcos, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-san-marcos-tx/
 - Katy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-katy-tx/
 - West University Place, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-west-university-place-tx/
 - Austell, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-austell-ga/
@@ -406,6 +482,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Johnston, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-johnston-ia/
 - Urbandale, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-urbandale-ia/
 - Clive, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-clive-ia/
+- North Little Rock, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-north-little-rock-ar/
+- Little Rock, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-little-rock-ar/
+- Rogers, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-rogers-ar/
+- Conway, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-conway-ar/
 - Shelbyville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-shelbyville-in/
 - Beech Grove, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-beech-grove-in/
 - Schererville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-schererville-in/
@@ -440,7 +520,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.39, median $3.39, high $3.46 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1143
+- Registry businesses competing: 1362
 - Equivalent Google Ads cost per month: ~$62,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

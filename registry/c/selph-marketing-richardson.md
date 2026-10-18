@@ -19,6 +19,6 @@ Selph Marketing is a marketing agency in Richardson, TX at 1001 South Sherman St
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/selph-marketing-richardson/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/selph-marketing-richardson.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11379440970 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11379440970 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

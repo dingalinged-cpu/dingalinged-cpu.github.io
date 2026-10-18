@@ -13,7 +13,7 @@ Skin Care By Gabriela is a skin care studio in Marietta, GA at 255 Village Parkw
 - Website: https://skincarebygabriela.com/
 - Email: scbgemail@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su off
-- Pulse Score: 64.6/100 — Good — top 6% of skin care studios in Atlanta, #1 of 5 skin care studios in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74.7, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 6% of skin care studios in Atlanta, #1 of 5 skin care studios in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74.7, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,12 +13,12 @@ WG&D Masonry is a concrete contractor in Red Oak, TX at 104 Fox Trail, Red Oak, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 100% of concrete contractors in Dallas–Fort Worth, #1 of 1 concrete contractors in Red Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 100% of concrete contractors in Dallas–Fort Worth, #1 of 1 concrete contractors in Red Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/wg-and-d-masonry-red-oak/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wg-and-d-masonry-red-oak.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/2746734801 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2746734801 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

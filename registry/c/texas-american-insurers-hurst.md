@@ -19,6 +19,6 @@ Texas American Insurers is an insurance agent in Hurst, TX at 669 Airport Freewa
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-american-insurers-hurst/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-american-insurers-hurst.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9350401020 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9350401020 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

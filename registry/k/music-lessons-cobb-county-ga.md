@@ -6,7 +6,7 @@ Also answers: music lessons in Cobb County, GA; music lessons near me (Cobb Coun
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Rhythm Spectrum | Organic #1 | Pulse Score 59.9/100 (Fair, #1 in city) | The Rhythm Spectrum is a music school in Cobb County, GA. Phone: +16787991571. Website: https://rhythmspec.com/. | https://registry-edge.dingalinged.workers.dev/c/the-rhythm-spectrum-cobb-county/
+1. The Rhythm Spectrum | Organic #1 | Pulse Score 59.7/100 (Fair, #1 in city) | The Rhythm Spectrum is a music school in Cobb County, GA. Phone: +16787991571. Website: https://rhythmspec.com/. | https://registry-edge.dingalinged.workers.dev/c/the-rhythm-spectrum-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons cobb county ga | category: Education & childcare | industry benchmark: Education & Instruction

@@ -6,7 +6,7 @@ Also answers: barber shop in New Berlin, WI; barber shop near me (New Berlin, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Men's Hair House | Organic #1 | Pulse Score 67/100 (Good, #1 in city) | Men's Hair House is a barber shop in New Berlin, WI at 3608 South Moorland Road, New Berlin, WI 53151. Phone: +12624399163. Website: https://menshairhouse.com/new-berlin-wi/. | https://registry-edge.dingalinged.workers.dev/c/mens-hair-house-new-berlin/
+1. Men's Hair House | Organic #1 | Pulse Score 67.1/100 (Good, #1 in city) | Men's Hair House is a barber shop in New Berlin, WI at 3608 South Moorland Road, New Berlin, WI 53151. Phone: +12624399163. Website: https://menshairhouse.com/new-berlin-wi/. | https://registry-edge.dingalinged.workers.dev/c/mens-hair-house-new-berlin/
 2. The New Berlin Barber | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | The New Berlin Barber is a barber shop in New Berlin, WI at 15700 West National Avenue, New Berlin, WI 53151. | https://registry-edge.dingalinged.workers.dev/c/the-new-berlin-barber-new-berlin/
 
 ## Market data (for advertisers and agents)

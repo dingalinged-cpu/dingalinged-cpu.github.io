@@ -13,7 +13,7 @@ Alpha Lan Med Spa is a skin care studio in Alpharetta, GA at 11895 Jones Bridge 
 - Website: https://alphalanmedspaga.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 10:30-15:00
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 39% of skin care studios in Atlanta, #1 of 2 skin care studios in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 39% of skin care studios in Atlanta, #1 of 2 skin care studios in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,12 +13,12 @@ Renewaskin Spa is a spa in Coppell, TX at 760 North Denton Tap Road #110, Coppel
 - Website: https://renewaskin-spa.com/
 - Email: operations@renewaskin-spa.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00
-- Pulse Score: 60.4/100 — Good — top 32% of spas in Dallas–Fort Worth, #2 of 2 spas in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Good — top 32% of spas in Dallas–Fort Worth, #2 of 2 spas in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/renewaskin-spa-coppell/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/renewaskin-spa-coppell.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12281063864 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12281063864 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -7,7 +7,7 @@ Also answers: hvac repair in Frankfort, IL; hvac repair near me (Frankfort, IL);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. HAS Services | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | HAS Services is a HVAC contractor in Frankfort, IL at 9306 West Dralle Road, Frankfort, IL 60423. Phone: +17084658040. Website: https://www.hasservs.com/. | https://registry-edge.dingalinged.workers.dev/c/has-services-frankfort/
-2. Air Source 1 Heating & Air Conditioning | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Air Source 1 Heating & Air Conditioning is a HVAC contractor in Frankfort, IL at 7649 Jamison Drive, Frankfort, IL 60423. Phone: +17089908965. Website: https://as1air.com/. | https://registry-edge.dingalinged.workers.dev/c/air-source-1-heating-and-air-conditioning-frankfort/
+2. Air Source 1 Heating & Air Conditioning | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Air Source 1 Heating & Air Conditioning is a HVAC contractor in Frankfort, IL at 7649 Jamison Drive, Frankfort, IL 60423. Phone: +17089908965. Website: https://as1air.com/. | https://registry-edge.dingalinged.workers.dev/c/air-source-1-heating-and-air-conditioning-frankfort/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair frankfort il | category: Home services - HVAC | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Edwin Jarvis is a coworking space in Clarkston, GA at 980 Rowland Street #5140, 
 - Website: https://edwinjarvis.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 11:00-15:00
-- Pulse Score: 63.5/100 — Good — top 14% of coworking spaces in Atlanta, #1 of 1 coworking spaces in Clarkston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 14% of coworking spaces in Atlanta, #1 of 1 coworking spaces in Clarkston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

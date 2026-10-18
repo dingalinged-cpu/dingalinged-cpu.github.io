@@ -13,7 +13,7 @@ Planet Fitness is a gym in Marietta, GA at 1355 Roswell Road #210, Marietta, GA 
 - Website: https://www.planetfitness.com/gyms/marietta-roswell-rd-ga
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 00:00-24:00; Fr 00:00-21:00; Sa-Su 07:00-19:00
-- Pulse Score: 50.5/100 — Fair — top 51% of gyms in Atlanta, #14 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 50% of gyms in Atlanta, #14 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

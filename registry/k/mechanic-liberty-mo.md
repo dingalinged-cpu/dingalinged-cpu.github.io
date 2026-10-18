@@ -12,8 +12,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. Telle Tire & Auto Centers Liberty | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Telle Tire & Auto Centers Liberty is an auto repair shop in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/telle-tire-and-auto-centers-liberty-liberty/
 5. Toytechs Automotive Service | Organic #5 | Pulse Score 55.3/100 (Unrated, #5 in city) | Toytechs Automotive Service is an auto repair shop in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/toytechs-automotive-service-liberty/
 6. Valvoline | Organic #6 | Pulse Score 45.7/100 (Building, #6 in city) | Valvoline is an auto repair shop in Liberty, MO. Website: https://store.vioc.com/mo/liberty/oil-change-050115.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-liberty/
-7. Carstar | Organic #7 | Pulse Score 43.5/100 (Building, #7 in city) | Carstar is an auto repair shop in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/carstar-liberty/
-8. Firestone | Organic #8 | Pulse Score 43.5/100 (Building, #8 in city) | Firestone is an auto repair shop in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/firestone-liberty/
+7. Carstar | Organic #7 | Pulse Score 43.4/100 (Building, #7 in city) | Carstar is an auto repair shop in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/carstar-liberty/
+8. Firestone | Organic #8 | Pulse Score 43.4/100 (Building, #8 in city) | Firestone is an auto repair shop in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/firestone-liberty/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic liberty mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

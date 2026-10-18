@@ -13,7 +13,7 @@ Jiffy Lube is an auto repair shop in Eden Prairie, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.1/100 — Building — top 97% of auto repair shops in Minneapolis–St. Paul, #8 of 8 auto repair shops in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.1/100 — Building — top 97% of auto repair shops in Minneapolis–St. Paul, #8 of 8 auto repair shops in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 40. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

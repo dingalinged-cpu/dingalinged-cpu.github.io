@@ -1,4 +1,4 @@
-The top unpaid tanning salon listing for the United States is Sun City Tan (a tanning salon in Marietta, GA at 2421 Shallowford Road Northeast #108, Marietta, GA 30066. Phone: +17705652522. Website: https://www.coastatan.com/marietta). 275 tanning salon businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for the United States is Sun City Tan (a tanning salon in Marietta, GA at 2421 Shallowford Road Northeast #108, Marietta, GA 30066. Phone: +17705652522. Website: https://www.coastatan.com/marietta). 334 tanning salon businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in the United States?
 
@@ -6,76 +6,95 @@ Also answers: tanning salon in the United States; tanning salon near me (the Uni
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sun City Tan | Organic #1 | Pulse Score 65.1/100 (Good, #1 in city) | Sun City Tan is a tanning salon in Marietta, GA at 2421 Shallowford Road Northeast #108, Marietta, GA 30066. Phone: +17705652522. Website: https://www.coastatan.com/marietta. | https://registry-edge.dingalinged.workers.dev/c/sun-city-tan-marietta/
+1. Sun City Tan | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Sun City Tan is a tanning salon in Marietta, GA at 2421 Shallowford Road Northeast #108, Marietta, GA 30066. Phone: +17705652522. Website: https://www.coastatan.com/marietta. | https://registry-edge.dingalinged.workers.dev/c/sun-city-tan-marietta/
 2. Radiance Therapy Tanning | Organic #2 | Pulse Score 64.3/100 (Good, #2 in city) | Radiance Therapy Tanning is a tanning salon in Marietta, GA at 2100 Roswell Road #2182, Marietta, GA 30062. Phone: +16787014333. Website: https://radiancetherapytanning.com/. | https://registry-edge.dingalinged.workers.dev/c/radiance-therapy-tanning-marietta/
 3. Lectric Beach Wellness & Sun Club | Organic #3 | Pulse Score 64.1/100 (Good, #1 in city) | Lectric Beach Wellness & Sun Club is a tanning salon in Milwaukee, WI. Phone: +14142259090. Website: https://www.lectricbeach.com/. | https://registry-edge.dingalinged.workers.dev/c/lectric-beach-wellness-and-sun-club-milwaukee/
-4. Chili Pepper's | Organic #4 | Pulse Score 63.9/100 (Unrated, #1 in city) | Chili Pepper's is a tanning salon in Sterling Heights, MI at 5822 15 Mile Road, Sterling Heights, MI 48310. Phone: +15862760098. Website: https://chilipepperstanning.com/locations/sterling-heights/5822-15-mile/. | https://registry-edge.dingalinged.workers.dev/c/chili-peppers-sterling-heights/
+4. Chili Pepper's | Organic #4 | Pulse Score 63.8/100 (Unrated, #1 in city) | Chili Pepper's is a tanning salon in Sterling Heights, MI at 5822 15 Mile Road, Sterling Heights, MI 48310. Phone: +15862760098. Website: https://chilipepperstanning.com/locations/sterling-heights/5822-15-mile/. | https://registry-edge.dingalinged.workers.dev/c/chili-peppers-sterling-heights/
 5. VIP Tanning | Organic #5 | Pulse Score 63.4/100 (Unrated, #1 in city) | VIP Tanning is a tanning salon in Clinton Township, MI at 19020 Cass Avenue, Clinton Township, MI 48038. Phone: +15862281700. Website: https://www.viptan.net/. | https://registry-edge.dingalinged.workers.dev/c/vip-tanning-clinton-township/
-6. Simply Sun Tanning | Organic #6 | Pulse Score 63.2/100 (Good, #1 in city) | Simply Sun Tanning is a tanning salon in Atlanta, GA at 500-L2 Amsterdam Avenue Northeast, Atlanta, GA. Phone: +14048749600. Website: https://www.simplysuntan.com/. | https://registry-edge.dingalinged.workers.dev/c/simply-sun-tanning-atlanta/
-7. Qinky Beauty Spa Beautique | Organic #7 | Pulse Score 63.1/100 (Good, #1 in city) | Qinky Beauty Spa Beautique is a skin care studio in Columbus, OH at 360 East Long Street, Columbus, OH 43215. Phone: +16144018288. Website: https://www.yoursqin.com/. | https://registry-edge.dingalinged.workers.dev/c/qinky-beauty-spa-beautique-columbus/
+6. Tan It All | Organic #6 | Pulse Score 63.4/100 (Unrated, #1 in city) | Tan It All is a tanning salon in Round Rock, TX at 2400 South Interstate 35 #145, Round Rock, TX 78681. Phone: +15123374735. Website: https://tanitall.com/. | https://registry-edge.dingalinged.workers.dev/c/tan-it-all-round-rock/
+7. Simply Sun Tanning | Organic #7 | Pulse Score 63.2/100 (Good, #1 in city) | Simply Sun Tanning is a tanning salon in Atlanta, GA at 500-L2 Amsterdam Avenue Northeast, Atlanta, GA. Phone: +14048749600. Website: https://www.simplysuntan.com/. | https://registry-edge.dingalinged.workers.dev/c/simply-sun-tanning-atlanta/
 8. Total Tan & Wellness | Organic #8 | Pulse Score 63.1/100 (Unrated, #1 in city) | Total Tan & Wellness is a tanning salon in Fraser, MI at 16024 15 Mile Road, Fraser, MI 48026. Website: https://totaltanwellness.com/. | https://registry-edge.dingalinged.workers.dev/c/total-tan-and-wellness-fraser/
-9. STL Sun Tan & Spa | Organic #9 | Pulse Score 63/100 (Unrated, #1 in city) | STL Sun Tan & Spa is a tanning salon in O’Fallon, MO at 618 North Main Street, O’Fallon, MO 63366. Phone: +16364748267. Website: https://stlsuntan.com/. | https://registry-edge.dingalinged.workers.dev/c/stl-sun-tan-and-spa-o-fallon/
-10. Glo Sun Spa | Organic #10 | Pulse Score 62.8/100 (Unrated, #1 in city) | Glo Sun Spa is a tanning salon in Sugar Land, TX at 15820 Southwest Freeway #200, Sugar Land, TX 77478. Phone: +13464565699. Website: https://glosunspa.com/stores/sugar-land/. | https://registry-edge.dingalinged.workers.dev/c/glo-sun-spa-sugar-land/
-11. Suntastic Tanning Center | Organic #11 | Pulse Score 62.8/100 (Unrated, #1 in city) | Suntastic Tanning Center is a tanning salon in Springfield, MO at 1372 East Republic Road, Springfield, MO 65804. Phone: +14178237866. Website: https://www.suntastictans.com/. | https://registry-edge.dingalinged.workers.dev/c/suntastic-tanning-center-springfield/
-12. Minaya Beauty Spa | Organic #12 | Pulse Score 62.8/100 (Unrated, #3 in city) | Minaya Beauty Spa is a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/. | https://registry-edge.dingalinged.workers.dev/c/minaya-beauty-spa-plano/
-13. Spray Castle Rock | Organic #13 | Pulse Score 62.8/100 (Unrated, #1 in city) | Spray Castle Rock is a tanning salon in Castle Rock, CO at 3855 Ambrosia Street #103, Castle Rock, CO 80109. Phone: +17207658360. Website: https://www.spraycastlerock.com/. | https://registry-edge.dingalinged.workers.dev/c/spray-castle-rock-castle-rock/
-14. SunSeekers by Rosie | Organic #14 | Pulse Score 62.6/100 (Unrated, #2 in city) | SunSeekers by Rosie is a tanning salon in Milwaukee, WI at 2141 North Prospect Avenue, Milwaukee, WI 53202. Phone: +14142241400. Website: https://sunseekerstan.com/. | https://registry-edge.dingalinged.workers.dev/c/sunseekers-by-rosie-milwaukee/
-15. Halsted Street Beach Tanning Salon | Organic #15 | Pulse Score 62.5/100 (Unrated, #1 in city) | Halsted Street Beach Tanning Salon is a tanning salon in Chicago, IL at 3741 North Halsted Street, Chicago, IL 60613. Phone: +17733271005. Website: https://www.hsbtanning.com/. | https://registry-edge.dingalinged.workers.dev/c/halsted-street-beach-tanning-salon-chicago/
-16. Uptown Glow Airbrush Tanning | Organic #16 | Pulse Score 62.5/100 (Unrated, #1 in city) | Uptown Glow Airbrush Tanning is a tanning salon in Waxahachie, TX at 110 Panorama Loop, Waxahachie, TX 75165. Phone: +19727520284. Website: https://uptown-glow.com/. | https://registry-edge.dingalinged.workers.dev/c/uptown-glow-airbrush-tanning-waxahachie/
-17. Unlimited Tan | Organic #17 | Pulse Score 62.4/100 (Unrated, #1 in city) | Unlimited Tan is a tanning salon in Naperville, IL at 2048 Aurora Avenue #104, Naperville, IL 60540. Phone: +16306373333. Website: https://www.unlimitedtan.com/locations/naperville. | https://registry-edge.dingalinged.workers.dev/c/unlimited-tan-naperville/
-18. Callista Beauty and Medical Spa | Organic #18 | Pulse Score 62.4/100 (Unrated, #7 in city) | Callista Beauty and Medical Spa is a nail salon in Chicago, IL at 6020 West Higgins Avenue, Chicago, IL 60630. Phone: +17739545777. Website: https://callistabeautyspa.com/. | https://registry-edge.dingalinged.workers.dev/c/callista-beauty-and-medical-spa-chicago/
-19. Inch by Inch Tanning | Organic #19 | Pulse Score 62.3/100 (Unrated, #1 in city) | Inch by Inch Tanning is a tanning salon in West Allis, WI at 2193 South 60th Street, West Allis, WI 53219. Phone: +14143273090. | https://registry-edge.dingalinged.workers.dev/c/inch-by-inch-tanning-west-allis/
-20. Bronzed Denver | Organic #20 | Pulse Score 62.2/100 (Unrated, #1 in city) | Bronzed Denver is a tanning salon in Denver, CO at 1138 East 6th Avenue, Denver, CO 80218. Phone: +17209841484. Website: https://bronzeddenver.com/. | https://registry-edge.dingalinged.workers.dev/c/bronzed-denver-denver/
-21. Blinc Bronze Beauty | Organic #21 | Pulse Score 62.2/100 (Unrated, #1 in city) | Blinc Bronze Beauty is a waxing salon in Pittsburgh, PA at 2206 East Carson Street, Pittsburgh, PA 15203. Phone: +17249948421. Website: https://www.blincbronzebeauty.com/. | https://registry-edge.dingalinged.workers.dev/c/blinc-bronze-beauty-pittsburgh/
-22. Electric Sun Tanning & Boutique | Organic #22 | Pulse Score 61.9/100 (Unrated, #1 in city) | Electric Sun Tanning & Boutique is a tanning salon in Lenexa, KS at 8700 Lackman Road, Lenexa, KS 66219. Phone: +19138948826. Website: https://electricsuntanning.net/. | https://registry-edge.dingalinged.workers.dev/c/electric-sun-tanning-and-boutique-lenexa/
-23. Fit N Tan | Organic #23 | Pulse Score 61.9/100 (Unrated, #1 in city) | Fit N Tan is a tanning salon in Saint Louis, MO at 6508 Chippewa Street, Saint Louis, MO 63109. Phone: +13147718267. Website: https://fitntanstl.com/. | https://registry-edge.dingalinged.workers.dev/c/fit-n-tan-saint-louis/
-24. Solaire Sun Spray | Organic #24 | Pulse Score 61.9/100 (Unrated, #1 in city) | Solaire Sun Spray is a tanning salon in Dublin, OH at 4548 Bridge Park Avenue, Dublin, OH 43017. Phone: +16147026377. Website: https://solairesunspraybridgepark.glossgenius.com/. | https://registry-edge.dingalinged.workers.dev/c/solaire-sun-spray-dublin/
-25. SunSeekers | Organic #25 | Pulse Score 61.9/100 (Unrated, #1 in city) | SunSeekers is a tanning salon in Wauwatosa, WI at 8853 West North Avenue, Wauwatosa, WI 53226. Phone: +14142102375. Website: https://sunseekerstan.com/. | https://registry-edge.dingalinged.workers.dev/c/sunseekers-wauwatosa/
-26. Sunwerks | Organic #26 | Pulse Score 61.9/100 (Unrated, #1 in city) | Sunwerks is a tanning salon in Minneapolis, MN at 3070 Excelsior Boulevard #201, Minneapolis, MN 55416. Phone: +16122856000. Website: https://sunwerks.com/. | https://registry-edge.dingalinged.workers.dev/c/sunwerks-minneapolis/
-27. Ultimate Tan | Organic #27 | Pulse Score 61.9/100 (Unrated, #1 in city) | Ultimate Tan is a tanning salon in Lawrence, KS at 4000 West 6th Street #D, Lawrence, KS 66049. Phone: +17858424949. Website: https://www.ultimatetanlawrence.com/. | https://registry-edge.dingalinged.workers.dev/c/ultimate-tan-lawrence/
-28. Moka | Organic #28 | Pulse Score 61.8/100 (Unrated, #1 in city) | Moka is a tanning salon in Pittsburgh, PA at 5144 Butler Street, Pittsburgh, PA 15201. Phone: +14124388439. Website: https://www.mokaglow.com/. | https://registry-edge.dingalinged.workers.dev/c/moka-pittsburgh/
-29. Sunsational Tan | Organic #29 | Pulse Score 61.8/100 (Unrated, #2 in city) | Sunsational Tan is a tanning salon in Pittsburgh, PA at 280 Settlers Ridge Center Drive, Pittsburgh, PA 15205. Phone: +14124944200. Website: https://www.sunsationaltan.com/robinson. | https://registry-edge.dingalinged.workers.dev/c/sunsational-tan-pittsburgh/
-30. Great Tanz | Organic #30 | Pulse Score 61.7/100 (Unrated, #1 in city) | Great Tanz is a tanning salon in Belton, MO at 8456 Clint Drive, Belton, MO 64012. Phone: +18163312501. Website: https://www.greattanz.com/. | https://registry-edge.dingalinged.workers.dev/c/great-tanz-belton/
-31. KC Tan | Organic #31 | Pulse Score 61.6/100 (Unrated, #1 in city) | KC Tan is a tanning salon in Leawood, KS at 4800 West 135th Street, Leawood, KS 66209. Phone: +19132588585. Website: https://www.kctan.com/. | https://registry-edge.dingalinged.workers.dev/c/kc-tan-leawood/
-32. Solarium Super Tanning Salon | Organic #32 | Pulse Score 61.6/100 (Unrated, #1 in city) | Solarium Super Tanning Salon is a tanning salon in Shawnee, KS at 10411 West 75th Street, Shawnee, KS 66214. Phone: +19139620065. Website: https://solariumsunsprayspa.com/solarium-shawnee/. | https://registry-edge.dingalinged.workers.dev/c/solarium-super-tanning-salon-shawnee/
-33. Colorado Tan | Organic #33 | Pulse Score 61.5/100 (Unrated, #1 in city) | Colorado Tan is a tanning salon in Arvada, CO at 12320 West 64th Avenue, Arvada, CO 80004. Phone: +13034258822. Website: https://thecoloradotan.com/location/. | https://registry-edge.dingalinged.workers.dev/c/colorado-tan-arvada/
-34. Beauty Brands | Organic #34 | Pulse Score 61.3/100 (Unrated, #2 in city) | Beauty Brands is a nail salon in Lawrence, KS at 3514 Clinton Parkway #J, Lawrence, KS 66047. Phone: +17857492510. Website: https://www.beautybrands.com/store-locator/lawrence.do. | https://registry-edge.dingalinged.workers.dev/c/beauty-brands-lawrence/
-35. Tan Sanity | Organic #35 | Pulse Score 61.2/100 (Unrated, #1 in city) | Tan Sanity is a tanning salon in Ankeny, IA at 2202 East 1st Street, Ankeny, IA 50023. Phone: +15159630362. Website: https://www.tansanity.com/. | https://registry-edge.dingalinged.workers.dev/c/tan-sanity-ankeny/
-36. Total Tan | Organic #36 | Pulse Score 61.1/100 (Good, #1 in city) | Total Tan is a tanning salon in Kansas City, MO at 4704 North Ambassador Drive, Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/total-tan-kansas-city/
-37. Lifetime Tans | Organic #37 | Pulse Score 61/100 (Good, #1 in city) | Lifetime Tans is a tanning salon in Parker, CO at 18260 East Lincoln Avenue #105, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/lifetime-tans-parker/
-38. KC Tan Overland Park | Organic #38 | Pulse Score 61/100 (Unrated, #1 in city) | KC Tan Overland Park is a tanning salon in Overland Park, KS at 8819 Metcalf Avenue, Overland Park, KS 66212. Phone: +19132619806. Website: https://kctan.com/. | https://registry-edge.dingalinged.workers.dev/c/kc-tan-overland-park-overland-park/
-39. Mane Floor Salon | Organic #39 | Pulse Score 61/100 (Unrated, #1 in city) | Mane Floor Salon is a tanning salon in Wyandotte, MI at 2955 Biddle Avenue #1, Wyandotte, MI 48192. Phone: +17342854870. | https://registry-edge.dingalinged.workers.dev/c/mane-floor-salon-wyandotte/
-40. Smart Bronze | Organic #40 | Pulse Score 60.9/100 (Unrated, #1 in city) | Smart Bronze is a tanning salon in Southlake, TX. Phone: +18172511082. Website: https://www.smartbronze.com/. | https://registry-edge.dingalinged.workers.dev/c/smart-bronze-southlake/
-41. Paulina Esthetics Boutique | Organic #41 | Pulse Score 60.8/100 (Unrated, #1 in city) | Paulina Esthetics Boutique is a waxing salon in Wauwatosa, WI at 7601 Harwood Avenue, Wauwatosa, WI. Phone: +14147746996. Website: https://paulinaestheticsboutique.com/. | https://registry-edge.dingalinged.workers.dev/c/paulina-esthetics-boutique-wauwatosa/
-42. touch of sun | Organic #42 | Pulse Score 60.6/100 (Unrated, #1 in city) | touch of sun is a tanning salon in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16785660466. | https://registry-edge.dingalinged.workers.dev/c/touch-of-sun-alpharetta/
-43. Salon 360 & Med Spa | Organic #43 | Pulse Score 60.6/100 (Unrated, #1 in city) | Salon 360 & Med Spa is a tanning salon in Dearborn, MI at 23437 Michigan Avenue, Dearborn, MI 48124. Phone: +13137306600. | https://registry-edge.dingalinged.workers.dev/c/salon-360-and-med-spa-dearborn/
-44. Sun of a Beach Tanning | Organic #44 | Pulse Score 60.6/100 (Unrated, #2 in city) | Sun of a Beach Tanning is a tanning salon in Wyandotte, MI at 2735 Fort Street, Wyandotte, MI 48192. Phone: +17343249000. | https://registry-edge.dingalinged.workers.dev/c/sun-of-a-beach-tanning-wyandotte/
-45. Tan Your Hide | Organic #45 | Pulse Score 60.4/100 (Unrated, #2 in city) | Tan Your Hide is a tanning salon in Parker, CO at 17051 East Lincoln Avenue, Parker, CO 80134. Phone: +13038412461. | https://registry-edge.dingalinged.workers.dev/c/tan-your-hide-parker/
-46. Darkside Tan | Organic #46 | Pulse Score 60.3/100 (Good, #1 in city) | Darkside Tan is a tanning salon in Mequon, WI. Website: https://www.facebook.com/darksidetanmequon/. | https://registry-edge.dingalinged.workers.dev/c/darkside-tan-mequon/
-47. South Beach Sun | Organic #47 | Pulse Score 60.2/100 (Unrated, #1 in city) | South Beach Sun is a tanning salon in Southgate, MI at 13262 Northline Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/south-beach-sun-southgate/
-48. Zip Tanz | Organic #48 | Pulse Score 60.2/100 (Unrated, #1 in city) | Zip Tanz is a tanning salon in Plymouth, MI at 1496 South Sheldon Road, Plymouth, MI 48170. | https://registry-edge.dingalinged.workers.dev/c/zip-tanz-plymouth/
-49. Sol Co. Sunless Airbrush Tanning | Organic #49 | Pulse Score 60.2/100 (Unrated, #1 in city) | Sol Co. Sunless Airbrush Tanning is a tanning salon in Frisco, TX at 8837 Lebanon Road #600, Frisco, TX 75034. Phone: +12147053089. Website: https://www.solsunless.com/. | https://registry-edge.dingalinged.workers.dev/c/sol-co-sunless-airbrush-tanning-frisco/
-50. Sugared + Bronzed | Organic #50 | Pulse Score 60.2/100 (Unrated, #1 in city) | Sugared + Bronzed is a tanning salon in Plano, TX at 7301 Lone Star Drive #A-112, Plano, TX 75024. Phone: +19724405156. | https://registry-edge.dingalinged.workers.dev/c/sugared-bronzed-plano/
+9. Qinky Beauty Spa Beautique | Organic #9 | Pulse Score 63/100 (Good, #1 in city) | Qinky Beauty Spa Beautique is a skin care studio in Columbus, OH at 360 East Long Street, Columbus, OH 43215. Phone: +16144018288. Website: https://www.yoursqin.com/. | https://registry-edge.dingalinged.workers.dev/c/qinky-beauty-spa-beautique-columbus/
+10. Glo Sun Spa | Organic #10 | Pulse Score 62.9/100 (Unrated, #1 in city) | Glo Sun Spa is a tanning salon in Sugar Land, TX at 15820 Southwest Freeway #200, Sugar Land, TX 77478. Phone: +13464565699. Website: https://glosunspa.com/stores/sugar-land/. | https://registry-edge.dingalinged.workers.dev/c/glo-sun-spa-sugar-land/
+11. STL Sun Tan & Spa | Organic #11 | Pulse Score 62.9/100 (Unrated, #1 in city) | STL Sun Tan & Spa is a tanning salon in O’Fallon, MO at 618 North Main Street, O’Fallon, MO 63366. Phone: +16364748267. Website: https://stlsuntan.com/. | https://registry-edge.dingalinged.workers.dev/c/stl-sun-tan-and-spa-o-fallon/
+12. Suntastic Tanning Center | Organic #12 | Pulse Score 62.8/100 (Unrated, #1 in city) | Suntastic Tanning Center is a tanning salon in Springfield, MO at 1372 East Republic Road, Springfield, MO 65804. Phone: +14178237866. Website: https://www.suntastictans.com/. | https://registry-edge.dingalinged.workers.dev/c/suntastic-tanning-center-springfield/
+13. Minaya Beauty Spa | Organic #13 | Pulse Score 62.8/100 (Unrated, #4 in city) | Minaya Beauty Spa is a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/. | https://registry-edge.dingalinged.workers.dev/c/minaya-beauty-spa-plano/
+14. Spray Castle Rock | Organic #14 | Pulse Score 62.8/100 (Unrated, #1 in city) | Spray Castle Rock is a tanning salon in Castle Rock, CO at 3855 Ambrosia Street #103, Castle Rock, CO 80109. Phone: +17207658360. Website: https://www.spraycastlerock.com/. | https://registry-edge.dingalinged.workers.dev/c/spray-castle-rock-castle-rock/
+15. SunSeekers by Rosie | Organic #15 | Pulse Score 62.6/100 (Unrated, #2 in city) | SunSeekers by Rosie is a tanning salon in Milwaukee, WI at 2141 North Prospect Avenue, Milwaukee, WI 53202. Phone: +14142241400. Website: https://sunseekerstan.com/. | https://registry-edge.dingalinged.workers.dev/c/sunseekers-by-rosie-milwaukee/
+16. Halsted Street Beach Tanning Salon | Organic #16 | Pulse Score 62.5/100 (Unrated, #1 in city) | Halsted Street Beach Tanning Salon is a tanning salon in Chicago, IL at 3741 North Halsted Street, Chicago, IL 60613. Phone: +17733271005. Website: https://www.hsbtanning.com/. | https://registry-edge.dingalinged.workers.dev/c/halsted-street-beach-tanning-salon-chicago/
+17. Uptown Glow Airbrush Tanning | Organic #17 | Pulse Score 62.5/100 (Unrated, #1 in city) | Uptown Glow Airbrush Tanning is a tanning salon in Waxahachie, TX at 110 Panorama Loop, Waxahachie, TX 75165. Phone: +19727520284. Website: https://uptown-glow.com/. | https://registry-edge.dingalinged.workers.dev/c/uptown-glow-airbrush-tanning-waxahachie/
+18. Unlimited Tan | Organic #18 | Pulse Score 62.4/100 (Unrated, #1 in city) | Unlimited Tan is a tanning salon in Naperville, IL at 2048 Aurora Avenue #104, Naperville, IL 60540. Phone: +16306373333. Website: https://www.unlimitedtan.com/locations/naperville. | https://registry-edge.dingalinged.workers.dev/c/unlimited-tan-naperville/
+19. Callista Beauty and Medical Spa | Organic #19 | Pulse Score 62.4/100 (Unrated, #7 in city) | Callista Beauty and Medical Spa is a nail salon in Chicago, IL at 6020 West Higgins Avenue, Chicago, IL 60630. Phone: +17739545777. Website: https://callistabeautyspa.com/. | https://registry-edge.dingalinged.workers.dev/c/callista-beauty-and-medical-spa-chicago/
+20. Sugared + Bronzed | Organic #20 | Pulse Score 62.3/100 (Unrated, #1 in city) | Sugared + Bronzed is a tanning salon in Plano, TX at 7301 Lone Star Drive #A-112, Plano, TX 75024. Phone: +19724405156. | https://registry-edge.dingalinged.workers.dev/c/sugared-bronzed-plano/
+21. 360 Tans | Organic #21 | Pulse Score 62.3/100 (Unrated, #1 in city) | 360 Tans is a tanning salon in Austin, TX at 6203 North Capital of Texas Highway #Suite 350, Austin, TX 78731. Phone: +15122318267. Website: https://www.austin360tans.com/. | https://registry-edge.dingalinged.workers.dev/c/360-tans-austin/
+22. Inch by Inch Tanning | Organic #22 | Pulse Score 62.3/100 (Unrated, #1 in city) | Inch by Inch Tanning is a tanning salon in West Allis, WI at 2193 South 60th Street, West Allis, WI 53219. Phone: +14143273090. | https://registry-edge.dingalinged.workers.dev/c/inch-by-inch-tanning-west-allis/
+23. Bronzed Denver | Organic #23 | Pulse Score 62.2/100 (Unrated, #1 in city) | Bronzed Denver is a tanning salon in Denver, CO at 1138 East 6th Avenue, Denver, CO 80218. Phone: +17209841484. Website: https://bronzeddenver.com/. | https://registry-edge.dingalinged.workers.dev/c/bronzed-denver-denver/
+24. Blinc Bronze Beauty | Organic #24 | Pulse Score 62.1/100 (Unrated, #1 in city) | Blinc Bronze Beauty is a waxing salon in Pittsburgh, PA at 2206 East Carson Street, Pittsburgh, PA 15203. Phone: +17249948421. Website: https://www.blincbronzebeauty.com/. | https://registry-edge.dingalinged.workers.dev/c/blinc-bronze-beauty-pittsburgh/
+25. Tan It All | Organic #25 | Pulse Score 62.1/100 (Unrated, #2 in city) | Tan It All is a tanning salon in Austin, TX at 14900 Avery Ranch Boulevard #B-300, Austin, TX 78717. Phone: +15128889826. Website: https://tanitall.com/. | https://registry-edge.dingalinged.workers.dev/c/tan-it-all-austin/
+26. Tropical Tans | Organic #26 | Pulse Score 62.1/100 (Unrated, #1 in city) | Tropical Tans is a tanning salon in Longview, TX at 3214 North Fourth Street, Longview, TX 75605. Phone: +19037589951. Website: https://tropicaltanstx.com/. | https://registry-edge.dingalinged.workers.dev/c/tropical-tans-longview/
+27. Electric Sun Tanning & Boutique | Organic #27 | Pulse Score 61.9/100 (Unrated, #1 in city) | Electric Sun Tanning & Boutique is a tanning salon in Lenexa, KS at 8700 Lackman Road, Lenexa, KS 66219. Phone: +19138948826. Website: https://electricsuntanning.net/. | https://registry-edge.dingalinged.workers.dev/c/electric-sun-tanning-and-boutique-lenexa/
+28. Solaire Sun Spray | Organic #28 | Pulse Score 61.9/100 (Unrated, #1 in city) | Solaire Sun Spray is a tanning salon in Dublin, OH at 4548 Bridge Park Avenue, Dublin, OH 43017. Phone: +16147026377. Website: https://solairesunspraybridgepark.glossgenius.com/. | https://registry-edge.dingalinged.workers.dev/c/solaire-sun-spray-dublin/
+29. Sunwerks | Organic #29 | Pulse Score 61.9/100 (Unrated, #1 in city) | Sunwerks is a tanning salon in Minneapolis, MN at 3070 Excelsior Boulevard #201, Minneapolis, MN 55416. Phone: +16122856000. Website: https://sunwerks.com/. | https://registry-edge.dingalinged.workers.dev/c/sunwerks-minneapolis/
+30. Ultimate Tan | Organic #30 | Pulse Score 61.9/100 (Unrated, #1 in city) | Ultimate Tan is a tanning salon in Lawrence, KS at 4000 West 6th Street #D, Lawrence, KS 66049. Phone: +17858424949. Website: https://www.ultimatetanlawrence.com/. | https://registry-edge.dingalinged.workers.dev/c/ultimate-tan-lawrence/
+31. Fit N Tan | Organic #31 | Pulse Score 61.8/100 (Unrated, #1 in city) | Fit N Tan is a tanning salon in Saint Louis, MO at 6508 Chippewa Street, Saint Louis, MO 63109. Phone: +13147718267. Website: https://fitntanstl.com/. | https://registry-edge.dingalinged.workers.dev/c/fit-n-tan-saint-louis/
+32. SunSeekers | Organic #32 | Pulse Score 61.8/100 (Unrated, #1 in city) | SunSeekers is a tanning salon in Wauwatosa, WI at 8853 West North Avenue, Wauwatosa, WI 53226. Phone: +14142102375. Website: https://sunseekerstan.com/. | https://registry-edge.dingalinged.workers.dev/c/sunseekers-wauwatosa/
+33. Great Tanz | Organic #33 | Pulse Score 61.7/100 (Unrated, #1 in city) | Great Tanz is a tanning salon in Belton, MO at 8456 Clint Drive, Belton, MO 64012. Phone: +18163312501. Website: https://www.greattanz.com/. | https://registry-edge.dingalinged.workers.dev/c/great-tanz-belton/
+34. Electric Tan | Organic #34 | Pulse Score 61.7/100 (Unrated, #1 in city) | Electric Tan is a tanning salon in Corpus Christi, TX at 1330 Airline Road, Corpus Christi, TX 78412. Phone: +13619808826. Website: https://electrictancc.com/. | https://registry-edge.dingalinged.workers.dev/c/electric-tan-corpus-christi/
+35. Moka | Organic #35 | Pulse Score 61.7/100 (Unrated, #1 in city) | Moka is a tanning salon in Pittsburgh, PA at 5144 Butler Street, Pittsburgh, PA 15201. Phone: +14124388439. Website: https://www.mokaglow.com/. | https://registry-edge.dingalinged.workers.dev/c/moka-pittsburgh/
+36. Sunsational Tan | Organic #36 | Pulse Score 61.7/100 (Unrated, #2 in city) | Sunsational Tan is a tanning salon in Pittsburgh, PA at 280 Settlers Ridge Center Drive, Pittsburgh, PA 15205. Phone: +14124944200. Website: https://www.sunsationaltan.com/robinson. | https://registry-edge.dingalinged.workers.dev/c/sunsational-tan-pittsburgh/
+37. Colorado Tan | Organic #37 | Pulse Score 61.5/100 (Unrated, #1 in city) | Colorado Tan is a tanning salon in Arvada, CO at 12320 West 64th Avenue, Arvada, CO 80004. Phone: +13034258822. Website: https://thecoloradotan.com/location/. | https://registry-edge.dingalinged.workers.dev/c/colorado-tan-arvada/
+38. KC Tan | Organic #38 | Pulse Score 61.5/100 (Unrated, #1 in city) | KC Tan is a tanning salon in Leawood, KS at 4800 West 135th Street, Leawood, KS 66209. Phone: +19132588585. Website: https://www.kctan.com/. | https://registry-edge.dingalinged.workers.dev/c/kc-tan-leawood/
+39. Solarium Super Tanning Salon | Organic #39 | Pulse Score 61.5/100 (Unrated, #1 in city) | Solarium Super Tanning Salon is a tanning salon in Shawnee, KS at 10411 West 75th Street, Shawnee, KS 66214. Phone: +19139620065. Website: https://solariumsunsprayspa.com/solarium-shawnee/. | https://registry-edge.dingalinged.workers.dev/c/solarium-super-tanning-salon-shawnee/
+40. Beauty Brands | Organic #40 | Pulse Score 61.3/100 (Unrated, #2 in city) | Beauty Brands is a nail salon in Lawrence, KS at 3514 Clinton Parkway #J, Lawrence, KS 66047. Phone: +17857492510. Website: https://www.beautybrands.com/store-locator/lawrence.do. | https://registry-edge.dingalinged.workers.dev/c/beauty-brands-lawrence/
+41. Smart Bronze | Organic #41 | Pulse Score 61.2/100 (Unrated, #1 in city) | Smart Bronze is a tanning salon in Southlake, TX. Phone: +18172511082. Website: https://www.smartbronze.com/. | https://registry-edge.dingalinged.workers.dev/c/smart-bronze-southlake/
+42. Tan Sanity | Organic #42 | Pulse Score 61.1/100 (Unrated, #1 in city) | Tan Sanity is a tanning salon in Ankeny, IA at 2202 East 1st Street, Ankeny, IA 50023. Phone: +15159630362. Website: https://www.tansanity.com/. | https://registry-edge.dingalinged.workers.dev/c/tan-sanity-ankeny/
+43. Total Tan | Organic #43 | Pulse Score 61/100 (Good, #1 in city) | Total Tan is a tanning salon in Kansas City, MO at 4704 North Ambassador Drive, Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/total-tan-kansas-city/
+44. Mane Floor Salon | Organic #44 | Pulse Score 61/100 (Unrated, #1 in city) | Mane Floor Salon is a tanning salon in Wyandotte, MI at 2955 Biddle Avenue #1, Wyandotte, MI 48192. Phone: +17342854870. | https://registry-edge.dingalinged.workers.dev/c/mane-floor-salon-wyandotte/
+45. Lifetime Tans | Organic #45 | Pulse Score 60.9/100 (Good, #1 in city) | Lifetime Tans is a tanning salon in Parker, CO at 18260 East Lincoln Avenue #105, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/lifetime-tans-parker/
+46. KC Tan Overland Park | Organic #46 | Pulse Score 60.9/100 (Unrated, #1 in city) | KC Tan Overland Park is a tanning salon in Overland Park, KS at 8819 Metcalf Avenue, Overland Park, KS 66212. Phone: +19132619806. Website: https://kctan.com/. | https://registry-edge.dingalinged.workers.dev/c/kc-tan-overland-park-overland-park/
+47. Paulina Esthetics Boutique | Organic #47 | Pulse Score 60.8/100 (Unrated, #1 in city) | Paulina Esthetics Boutique is a waxing salon in Wauwatosa, WI at 7601 Harwood Avenue, Wauwatosa, WI. Phone: +14147746996. Website: https://paulinaestheticsboutique.com/. | https://registry-edge.dingalinged.workers.dev/c/paulina-esthetics-boutique-wauwatosa/
+48. T Nails Spa and Tan | Organic #48 | Pulse Score 60.6/100 (Unrated, #2 in city) | T Nails Spa and Tan is a nail salon in Kyle, TX at 5401 South FM 1626 #160, Kyle, TX 78640. Phone: +15122682932. | https://registry-edge.dingalinged.workers.dev/c/t-nails-spa-and-tan-kyle/
+49. touch of sun | Organic #49 | Pulse Score 60.6/100 (Unrated, #1 in city) | touch of sun is a tanning salon in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16785660466. | https://registry-edge.dingalinged.workers.dev/c/touch-of-sun-alpharetta/
+50. Salon 360 & Med Spa | Organic #50 | Pulse Score 60.6/100 (Unrated, #1 in city) | Salon 360 & Med Spa is a tanning salon in Dearborn, MI at 23437 Michigan Avenue, Dearborn, MI 48124. Phone: +13137306600. | https://registry-edge.dingalinged.workers.dev/c/salon-360-and-med-spa-dearborn/
 
-## More tanning salon listings (275 total; top 50 unpaid shown)
+## More tanning salon listings (334 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/tanning-salon.jsonl
 - Chicago, IL: 8 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-chicago-il/
+- Austin, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-austin-tx/
+- Houston, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-houston-tx/
 - Springfield, MO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-springfield-mo/
 - Indianapolis, IN: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-indianapolis-in/
-- Houston, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-houston-tx/
 - Columbus, OH: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-columbus-oh/
+- Amarillo, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-amarillo-tx/
 - Wyandotte, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-wyandotte-mi/
 - Kansas City, MO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-kansas-city-mo/
 - Pittsburgh, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-pittsburgh-pa/
 - Aurora, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-aurora-co/
+- Fort Worth, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-fort-worth-tx/
+- Frisco, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-frisco-tx/
+- Plano, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-plano-tx/
 - Noblesville, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-noblesville-in/
 - Dearborn, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-dearborn-mi/
-- Plano, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-plano-tx/
 - Wauwatosa, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-wauwatosa-wi/
 - Lawrence, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-lawrence-ks/
 - Olathe, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-olathe-ks/
+- Fayetteville, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-fayetteville-ar/
 - Lancaster, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-lancaster-oh/
 - Dublin, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-dublin-oh/
+- Rockwall, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-rockwall-tx/
+- Denison, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-denison-tx/
+- Harris County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-harris-county-tx/
+- Beaumont, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-beaumont-tx/
+- Corpus Christi, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-corpus-christi-tx/
+- Sugar Land, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-sugar-land-tx/
+- Dallas, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-dallas-tx/
+- Cleburne, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-cleburne-tx/
+- Flower Mound, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-flower-mound-tx/
+- Longview, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-longview-tx/
+- Mckinney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-mckinney-tx/
+- Tyler, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-tyler-tx/
+- Waco, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-waco-tx/
+- Round Rock, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-round-rock-tx/
 - Eagan, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-eagan-mn/
 - Saint Louis Park, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-saint-louis-park-mn/
 - Minneapolis, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-minneapolis-mn/
@@ -93,16 +112,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Arvada, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-arvada-co/
 - Parker, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-parker-co/
 - Centennial, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-centennial-co/
-- Rockwall, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-rockwall-tx/
-- Sugar Land, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-sugar-land-tx/
-- Dallas, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-dallas-tx/
-- Frisco, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-frisco-tx/
-- Mckinney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-mckinney-tx/
 - Franklin, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-franklin-wi/
 - West Allis, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-west-allis-wi/
 - Madison, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-madison-wi/
 - Milwaukee, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-milwaukee-wi/
 - Shawnee, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-shawnee-ks/
+- Russellville, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-russellville-ar/
 - Wood River, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-wood-river-il/
 - Naperville, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-naperville-il/
 - Ankeny, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-ankeny-ia/
@@ -110,6 +125,34 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Grove City, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-grove-city-oh/
 - Bellevue, NE: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-bellevue-ne/
 - Omaha, NE: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-omaha-ne/
+- Mcallen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-mcallen-tx/
+- El Paso, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-el-paso-tx/
+- Burleson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-burleson-tx/
+- Texarkana, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-texarkana-tx/
+- Montgomery County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-montgomery-county-tx/
+- Euless, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-euless-tx/
+- Prosper, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-prosper-tx/
+- Wylie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-wylie-tx/
+- San Marcos, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-san-marcos-tx/
+- Georgetown, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-georgetown-tx/
+- Odessa, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-odessa-tx/
+- Addison, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-addison-tx/
+- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-allen-tx/
+- Cedar Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-cedar-hill-tx/
+- Cedar Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-cedar-park-tx/
+- Irving, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-irving-tx/
+- Lewisville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-lewisville-tx/
+- New Braunfels, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-new-braunfels-tx/
+- Richardson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-richardson-tx/
+- San Antonio, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-san-antonio-tx/
+- Shenandoah, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-shenandoah-tx/
+- Weatherford, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-weatherford-tx/
+- West Lake Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-west-lake-hills-tx/
+- Southlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-southlake-tx/
+- Kyle, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-kyle-tx/
+- Greenville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-greenville-tx/
+- Waxahachie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-waxahachie-tx/
+- Lake Jackson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-lake-jackson-tx/
 - Eden Prairie, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-eden-prairie-mn/
 - Minnetonka, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-minnetonka-mn/
 - Shakopee, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-shakopee-mn/
@@ -176,21 +219,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Greenwood Village, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-greenwood-village-co/
 - Westminster, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-westminster-co/
 - Castle Rock, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-castle-rock-co/
-- Harris County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-harris-county-tx/
-- Montgomery County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-montgomery-county-tx/
-- Euless, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-euless-tx/
-- Prosper, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-prosper-tx/
-- Wylie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-wylie-tx/
-- Addison, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-addison-tx/
-- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-allen-tx/
-- Cedar Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-cedar-hill-tx/
-- Flower Mound, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-flower-mound-tx/
-- Irving, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-irving-tx/
-- Lewisville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-lewisville-tx/
-- Richardson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-richardson-tx/
-- Shenandoah, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-shenandoah-tx/
-- Southlake, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-southlake-tx/
-- Waxahachie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-waxahachie-tx/
 - Mequon, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-mequon-wi/
 - Saint Francis, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-saint-francis-wi/
 - Sun Prairie, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-sun-prairie-wi/
@@ -207,6 +235,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Leawood, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-leawood-ks/
 - Overland Park, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-overland-park-ks/
 - Topeka, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-topeka-ks/
+- Rogers, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-rogers-ar/
+- Fort Smith, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-fort-smith-ar/
+- Conway, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-conway-ar/
+- North Little Rock, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-north-little-rock-ar/
+- Cabot, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-cabot-ar/
 - Glen Carbon, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-glen-carbon-il/
 - Burbank, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-burbank-il/
 - Downers Grove, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-downers-grove-il/
@@ -246,7 +279,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 275
+- Registry businesses competing: 334
 - Equivalent Google Ads cost per month: ~$7,900 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

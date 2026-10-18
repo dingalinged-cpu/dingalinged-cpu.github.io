@@ -7,7 +7,7 @@ Also answers: tanning salon in Atlanta, GA; tanning salon near me (Atlanta, GA);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Simply Sun Tanning | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | Simply Sun Tanning is a tanning salon in Atlanta, GA at 500-L2 Amsterdam Avenue Northeast, Atlanta, GA. Phone: +14048749600. Website: https://www.simplysuntan.com/. | https://registry-edge.dingalinged.workers.dev/c/simply-sun-tanning-atlanta/
-2. Palm Beach Tan | Organic #2 | Pulse Score 46.1/100 (Building, #2 in city) | Palm Beach Tan is a tanning salon in Atlanta, GA at 857 Collier Road Northwest, Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-atlanta/
+2. Palm Beach Tan | Organic #2 | Pulse Score 46/100 (Building, #2 in city) | Palm Beach Tan is a tanning salon in Atlanta, GA at 857 Collier Road Northwest, Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon atlanta ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

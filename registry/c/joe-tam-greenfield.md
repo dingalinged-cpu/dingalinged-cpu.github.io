@@ -13,7 +13,7 @@ Joe Tam is an insurance agent in Greenfield, WI at 9910 West Layton Avenue #Suit
 - Website: https://www.statefarm.com/agent/us/wi/greenfield/joe-tamm-719h647q000
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 8:30-18:30; Fr 8:30-17:00; Sa 9:00-12:00; Su off
-- Pulse Score: 49.1/100 — Building — top 44% of insurance agents in Milwaukee, #2 of 10 insurance agents in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 44% of insurance agents in Milwaukee, #2 of 10 insurance agents in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

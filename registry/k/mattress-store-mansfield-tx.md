@@ -6,8 +6,8 @@ Also answers: mattress store in Mansfield, TX; mattress store near me (Mansfield
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | Organic #1 | Pulse Score 50.3/100 (Fair, #1 in city) | Mattress Firm is a mattress store in Mansfield, TX at 101 West Debbie Lane #102, Mansfield, TX 76063. Phone: +18174775725. Website: https://www.mattressfirm.com/en-us/stores/tx/mansfield/002127/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-mansfield/
-2. Sleep Experts | Organic #2 | Pulse Score 41.7/100 (Building, #2 in city) | Sleep Experts is a mattress store in Mansfield, TX. | https://registry-edge.dingalinged.workers.dev/c/sleep-experts-mansfield/
+1. Mattress Firm | Organic #1 | Pulse Score 50.2/100 (Fair, #1 in city) | Mattress Firm is a mattress store in Mansfield, TX at 101 West Debbie Lane #102, Mansfield, TX 76063. Phone: +18174775725. Website: https://www.mattressfirm.com/en-us/stores/tx/mansfield/002127/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-mansfield/
+2. Sleep Experts | Organic #2 | Pulse Score 41.6/100 (Building, #2 in city) | Sleep Experts is a mattress store in Mansfield, TX. | https://registry-edge.dingalinged.workers.dev/c/sleep-experts-mansfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store mansfield tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

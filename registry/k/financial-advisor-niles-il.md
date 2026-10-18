@@ -7,7 +7,7 @@ Also answers: financial advisor in Niles, IL; financial advisor near me (Niles, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Edward Jones | Organic #1 | Pulse Score 44.7/100 (Building, #1 in city) | Edward Jones is a financial advisor in Niles, IL at 8204 Oakton Street, Niles, IL 60714. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-niles/
-2. Edward Jones | Organic #2 | Pulse Score 44/100 (Building, #2 in city) | Edward Jones is a financial advisor in Niles, IL at 7333 North Harlem Avenue, Niles, IL 60714. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-niles-n10943454854/
+2. Edward Jones | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | Edward Jones is a financial advisor in Niles, IL at 7333 North Harlem Avenue, Niles, IL 60714. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-niles-n10943454854/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor niles il | category: Professional & financial services | industry benchmark: Finance & Insurance

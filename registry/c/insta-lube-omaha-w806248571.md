@@ -13,7 +13,7 @@ Insta-Lube is an auto repair shop in Omaha, NE at 5802 Center Street, Omaha, NE 
 - Website: https://instalubeoil.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 08:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Omaha, NE, #7 of 81 auto repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Omaha, NE, #7 of 81 auto repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

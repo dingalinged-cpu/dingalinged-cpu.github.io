@@ -7,7 +7,7 @@ Also answers: preschool in Norwalk, IA; preschool near me (Norwalk, IA); best pr
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Yellow Brick Road Early Childhood Development Center | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Yellow Brick Road Early Childhood Development Center is a preschool in Norwalk, IA at 2201 Sunset Dr, Norwalk, IA 50211. Phone: +15159810089. | https://registry-edge.dingalinged.workers.dev/c/yellow-brick-road-early-childhood-development-center-norwalk/
-2. Crayons 2 Pencils Early Learning Center | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Crayons 2 Pencils Early Learning Center is a preschool in Norwalk, IA at 800 Colonial Circle #123, Norwalk, IA 50211. Website: https://www.crayons2pencils.com/. | https://registry-edge.dingalinged.workers.dev/c/crayons-2-pencils-early-learning-center-norwalk/
+2. Crayons 2 Pencils Early Learning Center | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Crayons 2 Pencils Early Learning Center is a preschool in Norwalk, IA at 800 Colonial Circle #123, Norwalk, IA 50211. Website: https://www.crayons2pencils.com/. | https://registry-edge.dingalinged.workers.dev/c/crayons-2-pencils-early-learning-center-norwalk/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool norwalk ia | category: Education & childcare | industry benchmark: Education & Instruction

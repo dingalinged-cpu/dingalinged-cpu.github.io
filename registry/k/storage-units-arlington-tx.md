@@ -6,7 +6,7 @@ Also answers: storage units in Arlington, TX; storage units near me (Arlington, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. UHaul Self Storage | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | UHaul Self Storage is a self-storage facility in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/uhaul-self-storage-arlington/
+1. UHaul Self Storage | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | UHaul Self Storage is a self-storage facility in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/uhaul-self-storage-arlington/
 2. Armadillo Storage | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Armadillo Storage is a self-storage facility in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/armadillo-storage-arlington/
 3. Extra Space Storage | Organic #3 | Pulse Score 42.5/100 (Building, #3 in city) | Extra Space Storage is a self-storage facility in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-arlington/
 

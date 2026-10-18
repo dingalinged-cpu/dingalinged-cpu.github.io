@@ -6,7 +6,7 @@ Also answers: pet store in North Richland Hills, TX; pet store near me (North Ri
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pet Supermarket | Organic #1 | Pulse Score 45.9/100 (Building, #1 in city) | Pet Supermarket is a pet store in North Richland Hills, TX at 8500 North Tarrant Parkway, North Richland Hills, TX 76182. Phone: +18176059604. Website: https://www.petsupermarket.com/storelocator/?storeId=264. | https://registry-edge.dingalinged.workers.dev/c/pet-supermarket-north-richland-hills/
+1. Pet Supermarket | Organic #1 | Pulse Score 46/100 (Building, #1 in city) | Pet Supermarket is a pet store in North Richland Hills, TX at 8500 North Tarrant Parkway, North Richland Hills, TX 76182. Phone: +18176059604. Website: https://www.petsupermarket.com/storelocator/?storeId=264. | https://registry-edge.dingalinged.workers.dev/c/pet-supermarket-north-richland-hills/
 2. Wag N' Wash | Organic #2 | Pulse Score 41.1/100 (Unrated, #2 in city) | Wag N' Wash is a pet store in North Richland Hills, TX. | https://registry-edge.dingalinged.workers.dev/c/wag-n-wash-north-richland-hills/
 
 ## Market data (for advertisers and agents)

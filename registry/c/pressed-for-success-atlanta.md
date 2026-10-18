@@ -13,7 +13,7 @@ Pressed For Success is a dry cleaner in Atlanta, GA at 1170 Crescent Avenue Nort
 - Website: https://pfscleaners.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-16:00; Fr 08:00-13:00; Sa-Su off
-- Pulse Score: 64.5/100 — Good — top 6% of dry cleaners in Atlanta, #4 of 24 dry cleaners in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 65.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.5/100 — Good — top 6% of dry cleaners in Atlanta, #4 of 24 dry cleaners in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

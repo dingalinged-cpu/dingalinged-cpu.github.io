@@ -19,6 +19,6 @@ Hamilton Academy is a preschool in Farmers Branch, TX at 2725 Valley View Lane, 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/hamilton-academy-farmers-branch/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hamilton-academy-farmers-branch.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1167855575 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1167855575 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

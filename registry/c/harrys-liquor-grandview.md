@@ -13,7 +13,7 @@ Harry's Liquor is a liquor store in Grandview, MO at 12220 15 Street, Grandview,
 - Website: https://harrysliquor.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 35% of liquor stores in Kansas City, MO, #1 of 1 liquor stores in Grandview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 35% of liquor stores in Kansas City, MO, #1 of 1 liquor stores in Grandview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

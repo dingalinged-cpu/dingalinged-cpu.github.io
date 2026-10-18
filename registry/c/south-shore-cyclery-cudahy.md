@@ -13,7 +13,7 @@ South Shore Cyclery is a bike shop in Cudahy, WI at 4758 South Packard Avenue, C
 - Website: https://www.southshorecyclery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa 10:00-17:00; Su 12:00-17:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 28% of bike shops in Milwaukee, #1 of 1 bike shops in Cudahy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 28% of bike shops in Milwaukee, #1 of 1 bike shops in Cudahy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

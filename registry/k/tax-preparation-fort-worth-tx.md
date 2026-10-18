@@ -1,4 +1,4 @@
-The top unpaid tax preparation listing for Fort Worth, TX is Audra's Tax Center (a tax preparation service in Fort Worth, TX at 1201 Downshill Court #1205, Fort Worth, TX 76112. Phone: +16822132122. Website: https://kcamp1611.wixsite.com/audrastaxservice). 1 tax preparation businesses are listed for Fort Worth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for Fort Worth, TX is Audra's Tax Center (a tax preparation service in Fort Worth, TX at 1201 Downshill Court #1205, Fort Worth, TX 76112. Phone: +16822132122. Website: https://kcamp1611.wixsite.com/audrastaxservice). 9 tax preparation businesses are listed for Fort Worth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in Fort Worth, TX?
 
@@ -7,6 +7,14 @@ Also answers: tax preparation in Fort Worth, TX; tax preparation near me (Fort W
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Audra's Tax Center | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Audra's Tax Center is a tax preparation service in Fort Worth, TX at 1201 Downshill Court #1205, Fort Worth, TX 76112. Phone: +16822132122. Website: https://kcamp1611.wixsite.com/audrastaxservice. | https://registry-edge.dingalinged.workers.dev/c/audras-tax-center-fort-worth/
+2. Jackson Hewitt | Organic #2 | Pulse Score 46.6/100 (Building, #1 in city) | Jackson Hewitt is a tax preparation service in Fort Worth, TX at 6623 North Beach Street, Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-fort-worth/
+3. H&R Block | Organic #3 | Pulse Score 46.3/100 (Building, #2 in city) | H&R Block is a tax preparation service in Fort Worth, TX at 6405 North Beach Street, Fort Worth, TX 76137. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-fort-worth/
+4. Jackson Hewitt | Organic #4 | Pulse Score 44/100 (Building, #3 in city) | Jackson Hewitt is a tax preparation service in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-fort-worth-n10568412781/
+5. H&R Block | Organic #5 | Pulse Score 43/100 (Building, #4 in city) | H&R Block is a tax preparation service in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-fort-worth-n10253497358/
+6. H&R Block | Organic #6 | Pulse Score 43/100 (Building, #5 in city) | H&R Block is a tax preparation service in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-fort-worth-n13050794057/
+7. H&R Block | Organic #7 | Pulse Score 43/100 (Building, #6 in city) | H&R Block is a tax preparation service in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-fort-worth-n13095072576/
+8. H&R Block | Organic #8 | Pulse Score 43/100 (Building, #7 in city) | H&R Block is a tax preparation service in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-fort-worth-n13265575761/
+9. H&R Block | Organic #9 | Pulse Score 43/100 (Building, #8 in city) | H&R Block is a tax preparation service in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-fort-worth-n9217128928/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation fort worth tx | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -16,7 +24,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'tax preparation': $3.25-$17.42 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: low (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1
+- Registry businesses competing: 9
 - Equivalent Google Ads cost per month: ~$490 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -6,10 +6,10 @@ Also answers: car wash in Wylie, TX; car wash near me (Wylie, TX); best car wash
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Slyde's Car Wash | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Slyde's Car Wash is a car wash in Wylie, TX at 909 FM 544, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/slydes-car-wash-wylie/
+1. Slyde's Car Wash | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Slyde's Car Wash is a car wash in Wylie, TX at 909 FM 544, Wylie, TX 75098. | https://registry-edge.dingalinged.workers.dev/c/slydes-car-wash-wylie/
 2. Fuel City Car Wash | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Fuel City Car Wash is a car wash in Wylie, TX at 1802 North State Highway 78, Wylie, TX. | https://registry-edge.dingalinged.workers.dev/c/fuel-city-car-wash-wylie/
-3. Water Works Auto Spa | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Water Works Auto Spa is a car wash in Wylie, TX. | https://registry-edge.dingalinged.workers.dev/c/water-works-auto-spa-wylie/
-4. Carnation Auto Spa | Organic #4 | Pulse Score 50.2/100 (Unrated, #4 in city) | Carnation Auto Spa is a car wash in Wylie, TX at 3301 FM 544, Wylie, TX 75098. Website: https://carnationautospa.com/carnation-locations/wylie/. | https://registry-edge.dingalinged.workers.dev/c/carnation-auto-spa-wylie/
+3. Water Works Auto Spa | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Water Works Auto Spa is a car wash in Wylie, TX. | https://registry-edge.dingalinged.workers.dev/c/water-works-auto-spa-wylie/
+4. Carnation Auto Spa | Organic #4 | Pulse Score 50.3/100 (Unrated, #4 in city) | Carnation Auto Spa is a car wash in Wylie, TX at 3301 FM 544, Wylie, TX 75098. Website: https://carnationautospa.com/carnation-locations/wylie/. | https://registry-edge.dingalinged.workers.dev/c/carnation-auto-spa-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash wylie tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

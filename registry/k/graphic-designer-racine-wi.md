@@ -6,8 +6,8 @@ Also answers: graphic designer in Racine, WI; graphic designer near me (Racine, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Corporate Images, Inc. | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Corporate Images, Inc. is a graphic designer in Racine, WI at 417 6th Street, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/corporate-images-inc-racine/
-2. Design Partners | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Design Partners is a graphic designer in Racine, WI at 338 Main Street, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/design-partners-racine/
+1. Corporate Images, Inc. | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Corporate Images, Inc. is a graphic designer in Racine, WI at 417 6th Street, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/corporate-images-inc-racine/
+2. Design Partners | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Design Partners is a graphic designer in Racine, WI at 338 Main Street, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/design-partners-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer racine wi | category: professional_marketing | industry benchmark: Business Services

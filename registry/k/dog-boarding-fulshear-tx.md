@@ -6,7 +6,7 @@ Also answers: dog boarding in Fulshear, TX; dog boarding near me (Fulshear, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dogtopia | Organic #1 | Pulse Score 44/100 (Building, #1 in city) | Dogtopia is a dog boarding facility in Fulshear, TX at 6434 FM 1463, Fulshear, TX 77441. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-fulshear/
+1. Dogtopia | Organic #1 | Pulse Score 44.4/100 (Building, #1 in city) | Dogtopia is a dog boarding facility in Fulshear, TX at 6434 FM 1463, Fulshear, TX 77441. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-fulshear/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding fulshear tx | category: Pets | industry benchmark: Animals & Pets

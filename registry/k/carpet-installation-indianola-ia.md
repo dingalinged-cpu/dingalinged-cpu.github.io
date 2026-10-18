@@ -6,7 +6,7 @@ Also answers: carpet installation in Indianola, IA; carpet installation near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Phillips Floors | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Phillips Floors is a carpet installer in Indianola, IA. | https://registry-edge.dingalinged.workers.dev/c/phillips-floors-indianola/
+1. Phillips Floors | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Phillips Floors is a carpet installer in Indianola, IA. | https://registry-edge.dingalinged.workers.dev/c/phillips-floors-indianola/
 
 ## Market data (for advertisers and agents)
 - Keyword: carpet installation indianola ia | category: Home services - Flooring | industry benchmark: Home & Home Improvement

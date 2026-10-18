@@ -13,8 +13,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 5. Meineke | Organic #5 | Pulse Score 45.6/100 (Building, #5 in city) | Meineke is an auto repair shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/meineke-sun-prairie/
 6. Valvoline | Organic #6 | Pulse Score 44.9/100 (Building, #6 in city) | Valvoline is an auto repair shop in Sun Prairie, WI at 2325 Spice Lane, Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/valvoline-sun-prairie/
 7. Take 5 Oil Change | Organic #7 | Pulse Score 43.1/100 (Building, #7 in city) | Take 5 Oil Change is an auto repair shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-sun-prairie/
-8. Christian Brothers Automotive | Organic #8 | Pulse Score 42.8/100 (Building, #8 in city) | Christian Brothers Automotive is an auto repair shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-sun-prairie/
-9. Midas | Organic #9 | Pulse Score 42.8/100 (Building, #9 in city) | Midas is an auto repair shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/midas-sun-prairie/
+8. Christian Brothers Automotive | Organic #8 | Pulse Score 42.7/100 (Building, #8 in city) | Christian Brothers Automotive is an auto repair shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-sun-prairie/
+9. Midas | Organic #9 | Pulse Score 42.7/100 (Building, #9 in city) | Midas is an auto repair shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/midas-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair sun prairie wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

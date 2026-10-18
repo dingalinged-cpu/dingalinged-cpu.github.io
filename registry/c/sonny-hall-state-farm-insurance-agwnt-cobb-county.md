@@ -13,7 +13,7 @@ Sonny Hall - State Farm Insurance Agwnt is an insurance agent in Cobb County, GA
 - Website: https://www.sonnyhall.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 48.9/100 — Building — top 51% of insurance agents in Atlanta, #17 of 21 insurance agents in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 52% of insurance agents in Atlanta, #17 of 21 insurance agents in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

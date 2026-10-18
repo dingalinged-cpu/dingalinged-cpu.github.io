@@ -13,7 +13,7 @@ Hennsler Financial is a financial advisor in Kennesaw, GA at 3735 Cherokee Stree
 - Website: https://www.hensslerkennesaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
-- Pulse Score: 61.7/100 — Good — top 12% of financial advisors in Atlanta, #1 of 3 financial advisors in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 12% of financial advisors in Atlanta, #1 of 3 financial advisors in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

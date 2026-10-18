@@ -6,7 +6,7 @@ Also answers: coworking space in The Woodlands, TX; coworking space near me (The
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lucid Private Offices | Organic #1 | Pulse Score 51.5/100 (Fair, #1 in city) | Lucid Private Offices is a coworking space in The Woodlands, TX at 2001 Timberloch Place #Suite 500, The Woodlands, TX 77380. Phone: +12813159841. Website: https://www.lucidprivateoffices.com/texas/the-woodlands/2001-timberloch-place/. | https://registry-edge.dingalinged.workers.dev/c/lucid-private-offices-the-woodlands/
+1. Lucid Private Offices | Organic #1 | Pulse Score 51.6/100 (Fair, #1 in city) | Lucid Private Offices is a coworking space in The Woodlands, TX at 2001 Timberloch Place #Suite 500, The Woodlands, TX 77380. Phone: +12813159841. Website: https://www.lucidprivateoffices.com/texas/the-woodlands/2001-timberloch-place/. | https://registry-edge.dingalinged.workers.dev/c/lucid-private-offices-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space the woodlands tx | category: real_estate | industry benchmark: Real Estate

@@ -13,12 +13,12 @@ The UPS Store is a printing service in Rosenberg, TX at 24200 Southwest Freeway 
 - Website: https://locations.theupsstore.com/tx/rosenberg/24200-sw-fwy
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 09:00-16:00; Su 10:00-15:00; PH closed
-- Pulse Score: 50.7/100 — Fair — top 32% of printing services in Houston, #2 of 2 printing services in Rosenberg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 30% of printing services in Houston, #2 of 2 printing services in Rosenberg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-ups-store-rosenberg/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-ups-store-rosenberg.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11728363573 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11728363573 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,8 +6,8 @@ Also answers: plumbing services in Garland, TX; plumbing services near me (Garla
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Plumbing 365, Drain Cleaning & Repair | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Anytime Plumbing 365, Drain Cleaning & Repair is a plumber in Garland, TX at 102 North Shiloh Road #Suite 104, Garland, TX 75042. Phone: +12143074264. Website: https://www.anytimeplumbing365.com/. | https://registry-edge.dingalinged.workers.dev/c/anytime-plumbing-365-drain-cleaning-and-repair-garland/
-2. Brooks Plumbing | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | Brooks Plumbing is a plumber in Garland, TX at 627 East Walnut Circle, Garland, TX 75040. Phone: +12143683838. Website: https://brooksplumbingtexas.com/. | https://registry-edge.dingalinged.workers.dev/c/brooks-plumbing-garland/
+1. Anytime Plumbing 365, Drain Cleaning & Repair | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Anytime Plumbing 365, Drain Cleaning & Repair is a plumber in Garland, TX at 102 North Shiloh Road #Suite 104, Garland, TX 75042. Phone: +12143074264. Website: https://www.anytimeplumbing365.com/. | https://registry-edge.dingalinged.workers.dev/c/anytime-plumbing-365-drain-cleaning-and-repair-garland/
+2. Brooks Plumbing | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Brooks Plumbing is a plumber in Garland, TX at 627 East Walnut Circle, Garland, TX 75040. Phone: +12143683838. Website: https://brooksplumbingtexas.com/. | https://registry-edge.dingalinged.workers.dev/c/brooks-plumbing-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services garland tx | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

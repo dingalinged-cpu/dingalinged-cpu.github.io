@@ -6,15 +6,15 @@ Also answers: car wash in Lewisville, TX; car wash near me (Lewisville, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clean-n-fresh | Organic #1 | Pulse Score 62.9/100 (Good, #1 in city) | Clean-n-fresh is a car wash in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/clean-n-fresh-lewisville/
-2. 7-11 Car Wash | Organic #2 | Pulse Score 62.4/100 (Good, #2 in city) | 7-11 Car Wash is a car wash in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/7-11-car-wash-lewisville/
-3. Main Street Car Wash | Organic #3 | Pulse Score 59.5/100 (Unrated, #3 in city) | Main Street Car Wash is a car wash in Lewisville, TX at 1402 Farm to Market Road 1171, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/main-street-car-wash-lewisville/
-4. $1.00 Car Wash | Organic #4 | Pulse Score 58.4/100 (Fair, #4 in city) | $1.00 Car Wash is a car wash in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/1-00-car-wash-lewisville/
-5. Whitewater Express | Organic #5 | Pulse Score 50.2/100 (Fair, #5 in city) | Whitewater Express is a car wash in Lewisville, TX at East Round Grove Road, Lewisville, TX 75067. | https://registry-edge.dingalinged.workers.dev/c/whitewater-express-lewisville/
-6. Scrub a Dub Car Wash | Organic #6 | Pulse Score 49.9/100 (Building, #6 in city) | Scrub a Dub Car Wash is a car wash in Lewisville, TX at 109 West Southwest Parkway, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/scrub-a-dub-car-wash-lewisville/
-7. Carnation Auto Spa | Organic #7 | Pulse Score 47.6/100 (Unrated, #7 in city) | Carnation Auto Spa is a car wash in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/carnation-auto-spa-lewisville/
-8. Quick Quack Car Wash | Organic #8 | Pulse Score 46.8/100 (Building, #8 in city) | Quick Quack Car Wash is a car wash in Lewisville, TX at 780 Lakeside Circle, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/quick-quack-car-wash-lewisville-w1529513743/
-9. Quick Quack Car Wash | Organic #9 | Pulse Score 46.5/100 (Building, #9 in city) | Quick Quack Car Wash is a car wash in Lewisville, TX at 101 South Business 121, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/quick-quack-car-wash-lewisville/
+1. Clean-n-fresh | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | Clean-n-fresh is a car wash in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/clean-n-fresh-lewisville/
+2. 7-11 Car Wash | Organic #2 | Pulse Score 62.3/100 (Good, #2 in city) | 7-11 Car Wash is a car wash in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/7-11-car-wash-lewisville/
+3. Main Street Car Wash | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | Main Street Car Wash is a car wash in Lewisville, TX at 1402 Farm to Market Road 1171, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/main-street-car-wash-lewisville/
+4. $1.00 Car Wash | Organic #4 | Pulse Score 58.3/100 (Fair, #4 in city) | $1.00 Car Wash is a car wash in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/1-00-car-wash-lewisville/
+5. Carnation Auto Spa | Organic #5 | Pulse Score 51.8/100 (Fair, #5 in city) | Carnation Auto Spa is a car wash in Lewisville, TX at 751 West Round Grove Road, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/carnation-auto-spa-lewisville/
+6. Whitewater Express | Organic #6 | Pulse Score 51.5/100 (Fair, #6 in city) | Whitewater Express is a car wash in Lewisville, TX at East Round Grove Road, Lewisville, TX 75067. | https://registry-edge.dingalinged.workers.dev/c/whitewater-express-lewisville/
+7. Scrub a Dub Car Wash | Organic #7 | Pulse Score 49.8/100 (Building, #7 in city) | Scrub a Dub Car Wash is a car wash in Lewisville, TX at 109 West Southwest Parkway, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/scrub-a-dub-car-wash-lewisville/
+8. Quick Quack Car Wash | Organic #8 | Pulse Score 46.7/100 (Building, #8 in city) | Quick Quack Car Wash is a car wash in Lewisville, TX at 780 Lakeside Circle, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/quick-quack-car-wash-lewisville-w1529513743/
+9. Quick Quack Car Wash | Organic #9 | Pulse Score 46.4/100 (Building, #9 in city) | Quick Quack Car Wash is a car wash in Lewisville, TX at 101 South Business 121, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/quick-quack-car-wash-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash lewisville tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

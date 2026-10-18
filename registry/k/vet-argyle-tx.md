@@ -6,7 +6,7 @@ Also answers: vet in Argyle, TX; vet near me (Argyle, TX); best vet Argyle, TX; 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Argyle Veterinary Clinic | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Argyle Veterinary Clinic is a veterinarian in Argyle, TX at 410 East FM 407, Argyle, TX. | https://registry-edge.dingalinged.workers.dev/c/argyle-veterinary-clinic-argyle/
+1. Argyle Veterinary Clinic | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Argyle Veterinary Clinic is a veterinarian in Argyle, TX at 410 East FM 407, Argyle, TX. | https://registry-edge.dingalinged.workers.dev/c/argyle-veterinary-clinic-argyle/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet argyle tx | category: Pets | industry benchmark: Animals & Pets

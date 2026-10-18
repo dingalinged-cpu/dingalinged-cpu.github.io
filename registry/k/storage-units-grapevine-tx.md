@@ -7,9 +7,9 @@ Also answers: storage units in Grapevine, TX; storage units near me (Grapevine, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Grapevine Storage House | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Grapevine Storage House is a self-storage facility in Grapevine, TX at 131 East Hudgins Street, Grapevine, TX. Phone: +18174886304. | https://registry-edge.dingalinged.workers.dev/c/grapevine-storage-house-grapevine/
-2. CubeSmart | Organic #2 | Pulse Score 44.5/100 (Building, #2 in city) | CubeSmart is a self-storage facility in Grapevine, TX at 800 Enterprise Drive, Grapevine, TX 75028. | https://registry-edge.dingalinged.workers.dev/c/cubesmart-grapevine/
-3. U-Haul | Organic #3 | Pulse Score 44.5/100 (Building, #3 in city) | U-Haul is a self-storage facility in Grapevine, TX at 3501 William D Tate Avenue, Grapevine, TX 76051. | https://registry-edge.dingalinged.workers.dev/c/u-haul-grapevine/
-4. CubeSmart | Organic #4 | Pulse Score 41.8/100 (Building, #4 in city) | CubeSmart is a self-storage facility in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/cubesmart-grapevine-w666746749/
+2. CubeSmart | Organic #2 | Pulse Score 44.4/100 (Building, #2 in city) | CubeSmart is a self-storage facility in Grapevine, TX at 800 Enterprise Drive, Grapevine, TX 75028. | https://registry-edge.dingalinged.workers.dev/c/cubesmart-grapevine/
+3. U-Haul | Organic #3 | Pulse Score 44.4/100 (Building, #3 in city) | U-Haul is a self-storage facility in Grapevine, TX at 3501 William D Tate Avenue, Grapevine, TX 76051. | https://registry-edge.dingalinged.workers.dev/c/u-haul-grapevine/
+4. CubeSmart | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | CubeSmart is a self-storage facility in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/cubesmart-grapevine-w666746749/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units grapevine tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

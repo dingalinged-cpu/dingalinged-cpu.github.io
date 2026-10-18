@@ -6,7 +6,7 @@ Also answers: florist in Evanston, IL; florist near me (Evanston, IL); best flor
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MilleFiori | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | MilleFiori is a florist in Evanston, IL at 1943 Central Street, Evanston, IL 60201. Phone: +18475700300. | https://registry-edge.dingalinged.workers.dev/c/millefiori-evanston/
+1. MilleFiori | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | MilleFiori is a florist in Evanston, IL at 1943 Central Street, Evanston, IL 60201. Phone: +18475700300. | https://registry-edge.dingalinged.workers.dev/c/millefiori-evanston/
 2. Clesen Wholesale Florist | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | Clesen Wholesale Florist is a florist in Evanston, IL at 300 Florence Avenue, Evanston, IL 60202. Website: https://clesen.com/. | https://registry-edge.dingalinged.workers.dev/c/clesen-wholesale-florist-evanston/
 
 ## Market data (for advertisers and agents)

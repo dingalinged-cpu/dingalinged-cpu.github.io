@@ -6,7 +6,7 @@ Also answers: event venues in Arlington Heights, IL; event venues near me (Arlin
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. European Crystal Banquets | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | European Crystal Banquets is an event venue in Arlington Heights, IL at 519 West Algonquin Road, Arlington Heights, IL 60005. Phone: +18474375590. Website: https://www.ecbanquet.com/. | https://registry-edge.dingalinged.workers.dev/c/european-crystal-banquets-arlington-heights/
+1. European Crystal Banquets | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | European Crystal Banquets is an event venue in Arlington Heights, IL at 519 West Algonquin Road, Arlington Heights, IL 60005. Phone: +18474375590. Website: https://www.ecbanquet.com/. | https://registry-edge.dingalinged.workers.dev/c/european-crystal-banquets-arlington-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues arlington heights il | category: Events & weddings | industry benchmark: Personal Services

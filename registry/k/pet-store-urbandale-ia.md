@@ -6,7 +6,7 @@ Also answers: pet store in Urbandale, IA; pet store near me (Urbandale, IA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Barking Lot | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | The Barking Lot is a pet store in Urbandale, IA at 3235 99th Street, Urbandale, IA 50322. Phone: +15153314628. Website: https://barkinglotdm.com/. | https://registry-edge.dingalinged.workers.dev/c/the-barking-lot-urbandale/
+1. The Barking Lot | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | The Barking Lot is a pet store in Urbandale, IA at 3235 99th Street, Urbandale, IA 50322. Phone: +15153314628. Website: https://barkinglotdm.com/. | https://registry-edge.dingalinged.workers.dev/c/the-barking-lot-urbandale/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store urbandale ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

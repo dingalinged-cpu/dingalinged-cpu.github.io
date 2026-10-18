@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Kaufman, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
- "keywords": 16,
+ "keywords": 17,
  "lists": {
   "by_volume": [
    {
@@ -69,6 +69,21 @@
     "ranked_by": "by_volume"
    },
    {
+    "keyword": "barber shop kaufman tx",
+    "slug": "barber-shop-kaufman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-kaufman-tx/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 17000,
+    "cpc_basis_usd": 0.7,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 12000,
+    "equivalent_google_ads_cost_month_usd": 680,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   },
+   {
     "keyword": "haircut kaufman tx",
     "slug": "haircut-kaufman-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-kaufman-tx/",
@@ -80,7 +95,7 @@
     "search_value_index_usd": 42000,
     "equivalent_google_ads_cost_month_usd": 2400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 3,
+    "registry_competitors": 4,
     "ranked_by": "by_volume"
    },
    {
@@ -172,7 +187,7 @@
     "search_value_index_usd": 42000,
     "equivalent_google_ads_cost_month_usd": 2400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 3,
+    "registry_competitors": 4,
     "ranked_by": "by_cpc"
    },
    {
@@ -356,16 +371,16 @@
     "ranked_by": "by_cpc"
    },
    {
-    "keyword": "nail salon kaufman tx",
-    "slug": "nail-salon-kaufman-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-kaufman-tx/",
-    "us_monthly_searches": 1000000,
+    "keyword": "barber shop kaufman tx",
+    "slug": "barber-shop-kaufman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-kaufman-tx/",
+    "us_monthly_searches": 673000,
     "us_volume_method": "cited",
-    "local_monthly_searches_est": 25000,
-    "cpc_basis_usd": 0.61,
+    "local_monthly_searches_est": 17000,
+    "cpc_basis_usd": 0.7,
     "cpc_median_usd": 4.62,
-    "search_value_index_usd": 15000,
-    "equivalent_google_ads_cost_month_usd": 870,
+    "search_value_index_usd": 12000,
+    "equivalent_google_ads_cost_month_usd": 680,
     "featured_spot_min_usd": 50,
     "registry_competitors": 1,
     "ranked_by": "by_cpc"
@@ -414,7 +429,7 @@
     "search_value_index_usd": 42000,
     "equivalent_google_ads_cost_month_usd": 2400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 3,
+    "registry_competitors": 4,
     "ranked_by": "by_value"
    },
    {
@@ -458,6 +473,21 @@
     "cpc_median_usd": 4.62,
     "search_value_index_usd": 15000,
     "equivalent_google_ads_cost_month_usd": 870,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "barber shop kaufman tx",
+    "slug": "barber-shop-kaufman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-kaufman-tx/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 17000,
+    "cpc_basis_usd": 0.7,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 12000,
+    "equivalent_google_ads_cost_month_usd": 680,
     "featured_spot_min_usd": 50,
     "registry_competitors": 1,
     "ranked_by": "by_value"

@@ -13,7 +13,7 @@ Injury 2 Wellness Centers is a chiropractor in Clarkston, GA at 4244 East Ponce 
 - Website: https://injury2wellness.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We, Fr 08:00-19:00; Th 08:00-14:00; Sa 09:00-15:00
-- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 92% of chiropractors in Atlanta, #1 of 1 chiropractors in Clarkston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 91% of chiropractors in Atlanta, #1 of 1 chiropractors in Clarkston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

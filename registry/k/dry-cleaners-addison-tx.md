@@ -9,8 +9,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Brantley Cleaners | Organic #1 | Pulse Score 61.1/100 (Unrated, #9 in city) | Brantley Cleaners is a dry cleaner in Dallas, TX at 5000 Belt Line Road #950, Dallas, TX 75254. Phone: +19726612267. | https://registry-edge.dingalinged.workers.dev/c/brantley-cleaners-dallas/
 2. Cleaners USA | Organic #2 | Pulse Score 61.1/100 (Unrated, #1 in city) | Cleaners USA is a dry cleaner in Addison, TX at 15655 Spectrum Drive, Addison, TX 75001. Phone: +14692507729. | https://registry-edge.dingalinged.workers.dev/c/cleaners-usa-addison/
 3. Sun Lite Cleaners | Organic #3 | Pulse Score 57.6/100 (Unrated, #2 in city) | Sun Lite Cleaners is a dry cleaner in Addison, TX at 4151 Belt Line Road #105, Addison, TX 75001. | https://registry-edge.dingalinged.workers.dev/c/sun-lite-cleaners-addison/
-4. Como Cleaners | Organic #4 | Pulse Score 54.7/100 (Unrated, #3 in city) | Como Cleaners is a dry cleaner in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/como-cleaners-addison/
-5. Metrocrest Dry Cleaners | Organic #5 | Pulse Score 54.7/100 (Unrated, #4 in city) | Metrocrest Dry Cleaners is a dry cleaner in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/metrocrest-dry-cleaners-addison/
+4. Como Cleaners | Organic #4 | Pulse Score 54.6/100 (Unrated, #3 in city) | Como Cleaners is a dry cleaner in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/como-cleaners-addison/
+5. Metrocrest Dry Cleaners | Organic #5 | Pulse Score 54.6/100 (Unrated, #4 in city) | Metrocrest Dry Cleaners is a dry cleaner in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/metrocrest-dry-cleaners-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners addison tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,12 +13,12 @@ Denny R. Martin PC, Attorney at Law is a lawyer in Dallas, TX at 9330 Lyndon B J
 - Website: https://dennyrmartin.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 21% of lawyers in Dallas–Fort Worth, #13 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 18% of lawyers in Dallas–Fort Worth, #12 of 50 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/denny-r-martin-pc-attorney-at-law-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/denny-r-martin-pc-attorney-at-law-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9963687558 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9963687558 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

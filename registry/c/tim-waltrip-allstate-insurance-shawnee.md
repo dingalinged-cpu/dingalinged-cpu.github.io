@@ -13,7 +13,7 @@ Tim Waltrip: Allstate Insurance is an insurance agent in Shawnee, KS at 19705 We
 - Website: https://agents.allstate.com/tim-waltrip-shawnee-ks.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 53% of insurance agents in Kansas City, MO, #7 of 11 insurance agents in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 52% of insurance agents in Kansas City, MO, #7 of 11 insurance agents in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

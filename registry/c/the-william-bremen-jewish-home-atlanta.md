@@ -13,7 +13,7 @@ The William Bremen Jewish Home is an assisted living facility in Atlanta, GA at 
 - Website: https://www.jewishhomelife.org/living-options/william-breman-jewish-home/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.7/100 — Good — top 3% of assisted living facilitys in Atlanta, #1 of 6 assisted living facilitys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 3% of assisted living facilitys in Atlanta, #1 of 6 assisted living facilitys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

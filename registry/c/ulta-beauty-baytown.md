@@ -19,6 +19,6 @@ Ulta Beauty is a skin care studio in Baytown, TX at 6345 Garth Road #130, Baytow
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-baytown/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ulta-beauty-baytown.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9883957512 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9883957512 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

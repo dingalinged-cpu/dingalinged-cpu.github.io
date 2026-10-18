@@ -6,11 +6,11 @@ Also answers: mattress store in Frisco, TX; mattress store near me (Frisco, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | Organic #1 | Pulse Score 50.3/100 (Fair, #1 in city) | Mattress Firm is a mattress store in Frisco, TX at 6111 Custer Road #130, Frisco, TX 75035. Phone: +14698546708. Website: https://www.mattressfirm.com/en-us/stores/tx/frisco/002156/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-frisco/
-2. Mattress Firm | Organic #2 | Pulse Score 46.1/100 (Building, #2 in city) | Mattress Firm is a mattress store in Frisco, TX at 3031 Preston Road, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-frisco-n13320180693/
-3. Mattress Firm | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | Mattress Firm is a mattress store in Frisco, TX at 5110 Eldorado Parkway #100, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-frisco-n13248622038/
-4. Mattress Firm | Organic #4 | Pulse Score 42.4/100 (Building, #4 in city) | Mattress Firm is a mattress store in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-frisco-n12520256139/
-5. Sleep Number | Organic #5 | Pulse Score 41.7/100 (Building, #5 in city) | Sleep Number is a mattress store in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/sleep-number-frisco/
+1. Mattress Firm | Organic #1 | Pulse Score 50.2/100 (Fair, #1 in city) | Mattress Firm is a mattress store in Frisco, TX at 6111 Custer Road #130, Frisco, TX 75035. Phone: +14698546708. Website: https://www.mattressfirm.com/en-us/stores/tx/frisco/002156/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-frisco/
+2. Mattress Firm | Organic #2 | Pulse Score 45.9/100 (Building, #2 in city) | Mattress Firm is a mattress store in Frisco, TX at 3031 Preston Road, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-frisco-n13320180693/
+3. Mattress Firm | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | Mattress Firm is a mattress store in Frisco, TX at 5110 Eldorado Parkway #100, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-frisco-n13248622038/
+4. Mattress Firm | Organic #4 | Pulse Score 42.3/100 (Building, #4 in city) | Mattress Firm is a mattress store in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-frisco-n12520256139/
+5. Sleep Number | Organic #5 | Pulse Score 41.6/100 (Building, #5 in city) | Sleep Number is a mattress store in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/sleep-number-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store frisco tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

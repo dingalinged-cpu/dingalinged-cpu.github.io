@@ -6,7 +6,7 @@ Also answers: financial advisor in Eden Prairie, MN; financial advisor near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alerus | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Alerus is a financial advisor in Eden Prairie, MN at 7890 Mitchell Road, Eden Prairie, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/alerus-eden-prairie/
+1. Alerus | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Alerus is a financial advisor in Eden Prairie, MN at 7890 Mitchell Road, Eden Prairie, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/alerus-eden-prairie/
 2. Charles Schwab | Organic #2 | Pulse Score 43.4/100 (Building, #2 in city) | Charles Schwab is a financial advisor in Eden Prairie, MN at 7914 Mitchell Road, Eden Prairie, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/charles-schwab-eden-prairie/
 
 ## Market data (for advertisers and agents)

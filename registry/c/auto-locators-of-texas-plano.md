@@ -19,6 +19,6 @@ Auto Locators of Texas is an used car dealer in Plano, TX at 4460 Tradition Trai
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/auto-locators-of-texas-plano/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/auto-locators-of-texas-plano.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/627468434 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/627468434 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Deerfield, IL at 210 South Waukegan Road, D
 - Website: https://www.mattressfirm.com/en-us/stores/il/deerfield/119135/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Building — top 27% of mattress stores in Chicago, #1 of 2 mattress stores in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 27% of mattress stores in Chicago, #1 of 2 mattress stores in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

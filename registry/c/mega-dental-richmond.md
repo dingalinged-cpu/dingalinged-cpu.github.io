@@ -19,6 +19,6 @@ Mega Dental is a dentist in Richmond, TX at 10510 FM 1464 #100, Richmond, TX 774
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mega-dental-richmond/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mega-dental-richmond.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1365617943 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1365617943 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

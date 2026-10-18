@@ -7,7 +7,7 @@ Also answers: tax preparation in Lenexa, KS; tax preparation near me (Lenexa, KS
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Jackson Hewitt | Organic #1 | Pulse Score 49/100 (Building, #1 in city) | Jackson Hewitt is a tax preparation service in Lenexa, KS at 19414 West 87th Street Parkway, Lenexa, KS 66215. Phone: +19135991099. Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/ks/lenexa/14914-w-87th-st-pkwy/18404. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-lenexa/
-2. H&R Block | Organic #2 | Pulse Score 43.8/100 (Building, #2 in city) | H&R Block is a tax preparation service in Lenexa, KS at 12034, Lenexa, KS. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-lenexa/
+2. H&R Block | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | H&R Block is a tax preparation service in Lenexa, KS at 12034, Lenexa, KS. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation lenexa ks | category: Professional & financial services | industry benchmark: Finance & Insurance

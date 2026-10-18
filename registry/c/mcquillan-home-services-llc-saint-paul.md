@@ -13,7 +13,7 @@ McQuillan Home Services LLC. is a HVAC contractor in Saint Paul, MN at 1727 Minn
 - Website: https://mcquillanbros.com/
 - Email: Mcquillan.ccr@anyhour.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 64.6/100 — Good — top 10% of HVAC contractors in Minneapolis–St. Paul, #2 of 9 HVAC contractors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 10% of HVAC contractors in Minneapolis–St. Paul, #2 of 9 HVAC contractors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

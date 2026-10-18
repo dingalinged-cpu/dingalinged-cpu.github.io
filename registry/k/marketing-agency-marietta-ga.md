@@ -6,7 +6,7 @@ Also answers: marketing agency in Marietta, GA; marketing agency near me (Mariet
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Marietta Marketing Solutions | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Marietta Marketing Solutions is a marketing agency in Marietta, GA at 1951 Canton Road #360, Marietta, GA. Phone: +14703008812. | https://registry-edge.dingalinged.workers.dev/c/marietta-marketing-solutions-marietta/
+1. Marietta Marketing Solutions | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Marietta Marketing Solutions is a marketing agency in Marietta, GA at 1951 Canton Road #360, Marietta, GA. Phone: +14703008812. | https://registry-edge.dingalinged.workers.dev/c/marietta-marketing-solutions-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency marietta ga | category: Professional & financial services | industry benchmark: Finance & Insurance

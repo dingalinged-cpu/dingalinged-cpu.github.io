@@ -6,7 +6,7 @@ Also answers: storage units in Franklin, WI; storage units near me (Franklin, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Space Storage | Organic #1 | Pulse Score 45.9/100 (Building, #1 in city) | Extra Space Storage is a self-storage facility in Franklin, WI at 6805 South 27th Street, Franklin, WI 53132. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-franklin/
+1. Extra Space Storage | Organic #1 | Pulse Score 45.8/100 (Building, #1 in city) | Extra Space Storage is a self-storage facility in Franklin, WI at 6805 South 27th Street, Franklin, WI 53132. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units franklin wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

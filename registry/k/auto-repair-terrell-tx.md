@@ -1,4 +1,4 @@
-The top unpaid auto repair listing for Terrell, TX is Joe Hudson's Collision Center (an auto repair shop in Terrell, TX at 525 FM 148, Terrell, TX 75160). 4 auto repair businesses are listed for Terrell, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Terrell, TX is Kinney's Transmission & Auto Repair (an auto repair shop in Terrell, TX at 110 North Delphine Street, Terrell, TX 75160). 4 auto repair businesses are listed for Terrell, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Terrell, TX?
 
@@ -6,10 +6,10 @@ Also answers: auto repair in Terrell, TX; auto repair near me (Terrell, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Joe Hudson's Collision Center | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Joe Hudson's Collision Center is an auto repair shop in Terrell, TX at 525 FM 148, Terrell, TX 75160. | https://registry-edge.dingalinged.workers.dev/c/joe-hudsons-collision-center-terrell/
-2. Kinney's Transmission & Auto Repair | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Kinney's Transmission & Auto Repair is an auto repair shop in Terrell, TX at 110 North Delphine Street, Terrell, TX 75160. | https://registry-edge.dingalinged.workers.dev/c/kinneys-transmission-and-auto-repair-terrell/
-3. Platinum Ford Service Department | Organic #3 | Pulse Score 44.4/100 (Building, #3 in city) | Platinum Ford Service Department is an auto repair shop in Terrell, TX at 85 Spur 557 Frontage Road, Terrell, TX 75160. | https://registry-edge.dingalinged.workers.dev/c/platinum-ford-service-department-terrell/
-4. Kwik Kar Lube & Tune | Organic #4 | Pulse Score 43/100 (Building, #4 in city) | Kwik Kar Lube & Tune is an auto repair shop in Terrell, TX. | https://registry-edge.dingalinged.workers.dev/c/kwik-kar-lube-and-tune-terrell/
+1. Kinney's Transmission & Auto Repair | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Kinney's Transmission & Auto Repair is an auto repair shop in Terrell, TX at 110 North Delphine Street, Terrell, TX 75160. | https://registry-edge.dingalinged.workers.dev/c/kinneys-transmission-and-auto-repair-terrell/
+2. Platinum Ford Service Department | Organic #2 | Pulse Score 44.3/100 (Building, #2 in city) | Platinum Ford Service Department is an auto repair shop in Terrell, TX at 85 Spur 557 Frontage Road, Terrell, TX 75160. | https://registry-edge.dingalinged.workers.dev/c/platinum-ford-service-department-terrell/
+3. Joe Hudson's Collision Center | Organic #3 | Pulse Score 43.9/100 (Unrated, #3 in city) | Joe Hudson's Collision Center is an auto repair shop in Terrell, TX at 525 FM 148, Terrell, TX 75160. | https://registry-edge.dingalinged.workers.dev/c/joe-hudsons-collision-center-terrell/
+4. Kwik Kar Lube & Tune | Organic #4 | Pulse Score 42.9/100 (Building, #4 in city) | Kwik Kar Lube & Tune is an auto repair shop in Terrell, TX. | https://registry-edge.dingalinged.workers.dev/c/kwik-kar-lube-and-tune-terrell/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair terrell tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

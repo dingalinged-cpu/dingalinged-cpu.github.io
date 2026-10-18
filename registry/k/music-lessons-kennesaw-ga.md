@@ -6,7 +6,7 @@ Also answers: music lessons in Kennesaw, GA; music lessons near me (Kennesaw, GA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. School of Rock West Cobb | Organic #1 | Pulse Score 43.9/100 (Building, #1 in city) | School of Rock West Cobb is a music school in Kennesaw, GA at 1600 Kennesaw Due West Road Northwest #203, Kennesaw, GA 30152. | https://registry-edge.dingalinged.workers.dev/c/school-of-rock-west-cobb-kennesaw/
+1. School of Rock West Cobb | Organic #1 | Pulse Score 43.8/100 (Building, #1 in city) | School of Rock West Cobb is a music school in Kennesaw, GA at 1600 Kennesaw Due West Road Northwest #203, Kennesaw, GA 30152. | https://registry-edge.dingalinged.workers.dev/c/school-of-rock-west-cobb-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons kennesaw ga | category: Education & childcare | industry benchmark: Education & Instruction

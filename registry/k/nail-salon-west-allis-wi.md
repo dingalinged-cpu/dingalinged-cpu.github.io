@@ -7,9 +7,9 @@ Also answers: nail salon in West Allis, WI; nail salon near me (West Allis, WI);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Throne of Nails | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Throne of Nails is a nail salon in West Allis, WI at 1911 South 60th Street, West Allis, WI 53219. | https://registry-edge.dingalinged.workers.dev/c/throne-of-nails-west-allis/
-2. Best Nails | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Best Nails is a nail salon in West Allis, WI. | https://registry-edge.dingalinged.workers.dev/c/best-nails-west-allis/
-3. USA Nails | Organic #3 | Pulse Score 48.7/100 (Unrated, #3 in city) | USA Nails is a nail salon in West Allis, WI at 6712 West Greenfield Avenue, West Allis, WI 53214. Phone: +14147744149. Website: https://usanailswestallis.com/. | https://registry-edge.dingalinged.workers.dev/c/usa-nails-west-allis/
-4. Spa Nails | Organic #4 | Pulse Score 43.4/100 (Unrated, #4 in city) | Spa Nails is a nail salon in West Allis, WI at 1526 South 108th Street, West Allis, WI 53214. | https://registry-edge.dingalinged.workers.dev/c/spa-nails-west-allis/
+2. USA Nails | Organic #2 | Pulse Score 48.7/100 (Unrated, #2 in city) | USA Nails is a nail salon in West Allis, WI at 6712 West Greenfield Avenue, West Allis, WI 53214. Phone: +14147744149. Website: https://usanailswestallis.com/. | https://registry-edge.dingalinged.workers.dev/c/usa-nails-west-allis/
+3. Spa Nails | Organic #3 | Pulse Score 43.4/100 (Unrated, #3 in city) | Spa Nails is a nail salon in West Allis, WI at 1526 South 108th Street, West Allis, WI 53214. | https://registry-edge.dingalinged.workers.dev/c/spa-nails-west-allis/
+4. Best Nails | Organic #4 | Pulse Score 41.4/100 (Unrated, #4 in city) | Best Nails is a nail salon in West Allis, WI. | https://registry-edge.dingalinged.workers.dev/c/best-nails-west-allis/
 5. Lux Nails | Organic #5 | Pulse Score 41.4/100 (Unrated, #5 in city) | Lux Nails is a nail salon in West Allis, WI. | https://registry-edge.dingalinged.workers.dev/c/lux-nails-west-allis/
 
 ## Market data (for advertisers and agents)

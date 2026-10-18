@@ -7,10 +7,10 @@ Also answers: auto repair in Suwanee, GA; auto repair near me (Suwanee, GA); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Japanese Auto Repair | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Japanese Auto Repair is an auto repair shop in Suwanee, GA. | https://registry-edge.dingalinged.workers.dev/c/japanese-auto-repair-suwanee/
-2. Service Center | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Service Center is an auto repair shop in Suwanee, GA. | https://registry-edge.dingalinged.workers.dev/c/service-center-suwanee/
-3. AAA Car Care Plus | Organic #3 | Pulse Score 45.2/100 (Building, #3 in city) | AAA Car Care Plus is an auto repair shop in Suwanee, GA at 7150 McGinnis Ferry Road, Suwanee, GA 30024. | https://registry-edge.dingalinged.workers.dev/c/aaa-car-care-plus-suwanee/
-4. Caliber Collision | Organic #4 | Pulse Score 44.9/100 (Building, #4 in city) | Caliber Collision is an auto repair shop in Suwanee, GA at 3268 Peachtree Parkway, Suwanee, GA 30024. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-suwanee/
-5. Kauffman Tire | Organic #5 | Pulse Score 43.2/100 (Unrated, #5 in city) | Kauffman Tire is an auto repair shop in Suwanee, GA. | https://registry-edge.dingalinged.workers.dev/c/kauffman-tire-suwanee/
+2. AAA Car Care Plus | Organic #2 | Pulse Score 45.2/100 (Building, #2 in city) | AAA Car Care Plus is an auto repair shop in Suwanee, GA at 7150 McGinnis Ferry Road, Suwanee, GA 30024. | https://registry-edge.dingalinged.workers.dev/c/aaa-car-care-plus-suwanee/
+3. Caliber Collision | Organic #3 | Pulse Score 44.9/100 (Building, #3 in city) | Caliber Collision is an auto repair shop in Suwanee, GA at 3268 Peachtree Parkway, Suwanee, GA 30024. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-suwanee/
+4. Kauffman Tire | Organic #4 | Pulse Score 43.2/100 (Unrated, #4 in city) | Kauffman Tire is an auto repair shop in Suwanee, GA. | https://registry-edge.dingalinged.workers.dev/c/kauffman-tire-suwanee/
+5. Service Center | Organic #5 | Pulse Score 42.1/100 (Unrated, #5 in city) | Service Center is an auto repair shop in Suwanee, GA. | https://registry-edge.dingalinged.workers.dev/c/service-center-suwanee/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair suwanee ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,4 +1,4 @@
-The top unpaid gym listing for Humble, TX is Fit Crew (a gym in Humble, TX). 7 gym businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Humble, TX is Fit Crew (a gym in Humble, TX). 9 gym businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Humble, TX?
 
@@ -7,12 +7,14 @@ Also answers: gym in Humble, TX; gym near me (Humble, TX); best gym Humble, TX; 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Fit Crew | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Fit Crew is a gym in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/fit-crew-humble/
-2. grvtysculpt | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | grvtysculpt is a gym in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/grvtysculpt-humble/
-3. Hellhound Gym | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Hellhound Gym is a gym in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/hellhound-gym-humble/
-4. Life Time | Organic #4 | Pulse Score 49.1/100 (Building, #4 in city) | Life Time is a gym in Humble, TX at 20515 Lake Houston Parkway, Humble, TX 77346. Phone: +18324453900. Website: https://www.lifetime.life/life-time-locations/tx-humble-kingwood.html. | https://registry-edge.dingalinged.workers.dev/c/life-time-humble/
-5. Lifetime Fitness | Organic #5 | Pulse Score 48.4/100 (Building, #5 in city) | Lifetime Fitness is a gym in Humble, TX at 13600 Will Clayton Parkway, Humble, TX 77346. Phone: +12818124100. Website: https://www.lifetime.life/life-time-locations/tx-humble-lake-houston.html. | https://registry-edge.dingalinged.workers.dev/c/lifetime-fitness-humble/
-6. Crunch Fitness | Organic #6 | Pulse Score 42.3/100 (Building, #6 in city) | Crunch Fitness is a gym in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-humble/
-7. Planet Fitness | Organic #7 | Pulse Score 42.3/100 (Building, #7 in city) | Planet Fitness is a gym in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-humble/
+2. Flash Fitness | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Flash Fitness is a gym in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/flash-fitness-humble/
+3. grvtysculpt | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | grvtysculpt is a gym in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/grvtysculpt-humble/
+4. Hellhound Gym | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Hellhound Gym is a gym in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/hellhound-gym-humble/
+5. Life Time | Organic #5 | Pulse Score 49/100 (Building, #5 in city) | Life Time is a gym in Humble, TX at 20515 Lake Houston Parkway, Humble, TX 77346. Phone: +18324453900. Website: https://www.lifetime.life/life-time-locations/tx-humble-kingwood.html. | https://registry-edge.dingalinged.workers.dev/c/life-time-humble/
+6. Lifetime Fitness | Organic #6 | Pulse Score 48.2/100 (Building, #6 in city) | Lifetime Fitness is a gym in Humble, TX at 13600 Will Clayton Parkway, Humble, TX 77346. Phone: +12818124100. Website: https://www.lifetime.life/life-time-locations/tx-humble-lake-houston.html. | https://registry-edge.dingalinged.workers.dev/c/lifetime-fitness-humble/
+7. Crunch Fitness | Organic #7 | Pulse Score 42.3/100 (Building, #7 in city) | Crunch Fitness is a gym in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-humble/
+8. Planet Fitness | Organic #8 | Pulse Score 42.3/100 (Building, #8 in city) | Planet Fitness is a gym in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-humble/
+9. Fitness Connection | Organic #9 | Pulse Score 41.8/100 (Unrated, #9 in city) | Fitness Connection is a gym in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/fitness-connection-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym humble tx | category: Fitness | industry benchmark: Health & Fitness
@@ -22,7 +24,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'gym near me': $1.67-$6.14 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 7
+- Registry businesses competing: 9
 - Equivalent Google Ads cost per month: ~$5,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

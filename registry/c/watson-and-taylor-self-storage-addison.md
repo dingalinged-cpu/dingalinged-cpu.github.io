@@ -13,12 +13,12 @@ Watson & Taylor Self Storage is a self-storage facility in Addison, TX at 4105 B
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 20% of self-storage facilitys in Dallas–Fort Worth, #3 of 6 self-storage facilitys in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 71% of self-storage facilitys in Dallas–Fort Worth, #6 of 6 self-storage facilitys in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.6, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/watson-and-taylor-self-storage-addison/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/watson-and-taylor-self-storage-addison.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12752796527 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12752796527 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

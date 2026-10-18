@@ -6,7 +6,7 @@ Also answers: heating and air in Baytown, TX; heating and air near me (Baytown, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Expert Air Cooling And Heating | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Expert Air Cooling And Heating is a HVAC contractor in Baytown, TX at 1108 Cedar Bayou Road, Baytown, TX 77520. Phone: +12814283744. Website: https://www.expertairco.com/. | https://registry-edge.dingalinged.workers.dev/c/expert-air-cooling-and-heating-baytown/
+1. Expert Air Cooling And Heating | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Expert Air Cooling And Heating is a HVAC contractor in Baytown, TX at 1108 Cedar Bayou Road, Baytown, TX 77520. Phone: +12814283744. Website: https://www.expertairco.com/. | https://registry-edge.dingalinged.workers.dev/c/expert-air-cooling-and-heating-baytown/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air baytown tx | category: Home Services | industry benchmark: Home & Home Improvement

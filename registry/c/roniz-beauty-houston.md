@@ -19,6 +19,6 @@ Roniz Beauty is a hair salon in Houston, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/roniz-beauty-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/roniz-beauty-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13007573356 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13007573356 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

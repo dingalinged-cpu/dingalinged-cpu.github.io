@@ -6,10 +6,10 @@ Also answers: used cars for sale in Grapevine, TX; used cars for sale near me (G
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grapevine Honda | Organic #1 | Pulse Score 51.7/100 (Fair, #1 in city) | Grapevine Honda is an used car dealer in Grapevine, TX at 2301 William D Tate Avenue, Grapevine, TX. Phone: +18172142282. Website: https://www.grapevinehonda.com/. | https://registry-edge.dingalinged.workers.dev/c/grapevine-honda-grapevine/
+1. Grapevine Honda | Organic #1 | Pulse Score 51.6/100 (Fair, #1 in city) | Grapevine Honda is an used car dealer in Grapevine, TX at 2301 William D Tate Avenue, Grapevine, TX. Phone: +18172142282. Website: https://www.grapevinehonda.com/. | https://registry-edge.dingalinged.workers.dev/c/grapevine-honda-grapevine/
 2. Five Star Subaru | Organic #2 | Pulse Score 50.4/100 (Fair, #2 in city) | Five Star Subaru is an used car dealer in Grapevine, TX at 2651 William D Tate Avenue, Grapevine, TX 76051. Phone: +18772570646. Website: https://www.subarugrapevine.net/. | https://registry-edge.dingalinged.workers.dev/c/five-star-subaru-grapevine/
-3. Texas Nissan of Grapevine | Organic #3 | Pulse Score 47.6/100 (Building, #3 in city) | Texas Nissan of Grapevine is an used car dealer in Grapevine, TX. Phone: +18175334244. | https://registry-edge.dingalinged.workers.dev/c/texas-nissan-of-grapevine-grapevine/
-4. Classic Chevrolet | Organic #4 | Pulse Score 46.8/100 (Building, #4 in city) | Classic Chevrolet is an used car dealer in Grapevine, TX at 1101 West State Highway 114, Grapevine, TX 76051. Website: https://www.classicchevrolet.com/. | https://registry-edge.dingalinged.workers.dev/c/classic-chevrolet-grapevine/
+3. Texas Nissan of Grapevine | Organic #3 | Pulse Score 47.5/100 (Building, #3 in city) | Texas Nissan of Grapevine is an used car dealer in Grapevine, TX. Phone: +18175334244. | https://registry-edge.dingalinged.workers.dev/c/texas-nissan-of-grapevine-grapevine/
+4. Classic Chevrolet | Organic #4 | Pulse Score 46.7/100 (Building, #4 in city) | Classic Chevrolet is an used car dealer in Grapevine, TX at 1101 West State Highway 114, Grapevine, TX 76051. Website: https://www.classicchevrolet.com/. | https://registry-edge.dingalinged.workers.dev/c/classic-chevrolet-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale grapevine tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

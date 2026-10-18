@@ -7,7 +7,7 @@ Also answers: dance studio in Smyrna, GA; dance studio near me (Smyrna, GA); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Chassé Dance Company | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Chassé Dance Company is a dance studio in Smyrna, GA at 2440 Atlanta Road Southeast #300, Smyrna, GA. Phone: +14045203843. Website: https://www.chassedancecompany.org/. | https://registry-edge.dingalinged.workers.dev/c/chass-dance-company-smyrna/
-2. Becky Jones School of Dance | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Becky Jones School of Dance is a dance studio in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/becky-jones-school-of-dance-smyrna/
+2. Becky Jones School of Dance | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | Becky Jones School of Dance is a dance studio in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/becky-jones-school-of-dance-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio smyrna ga | category: Fitness | industry benchmark: Health & Fitness

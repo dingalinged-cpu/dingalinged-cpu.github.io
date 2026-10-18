@@ -6,7 +6,7 @@ Also answers: plastic surgeon in Town Of Brookfield, WI; plastic surgeon near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alex Colque M.D. Plastic Surgery | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Alex Colque M.D. Plastic Surgery is a plastic surgeon in Town of Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/alex-colque-m-d-plastic-surgery-town-of-brookfield/
+1. Alex Colque M.D. Plastic Surgery | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | Alex Colque M.D. Plastic Surgery is a plastic surgeon in Town of Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/alex-colque-m-d-plastic-surgery-town-of-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon town of brookfield wi | category: Health & medical | industry benchmark: Physicians & Surgeons

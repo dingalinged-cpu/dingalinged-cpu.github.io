@@ -13,7 +13,7 @@ Midwest Dental is a dentist in Shorewood Hills, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:00-15:30; Tu 07:00-18:00; We 07:00-15:30; Th 07:00-15:30; Fr 07:00-13:00
-- Pulse Score: 47/100 — Building — top 78% of dentists in Madison, #1 of 1 dentists in Shorewood Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.5, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 78% of dentists in Madison, #1 of 1 dentists in Shorewood Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Caliber Car Wash is a car wash in Atlanta, GA at 2764 Chamblee Tucker Road, Atla
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-19:00
-- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 72% of car washes in Atlanta, #10 of 13 car washes in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 71% of car washes in Atlanta, #10 of 13 car washes in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ RA Dental Studio is a dentist in Marietta, GA at 2513 Shallowford Road Northeast
 - Website: https://www.radentalstudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00; Sa-Su off
-- Pulse Score: 62.1/100 — Good — top 18% of dentists in Atlanta, #14 of 25 dentists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 17% of dentists in Atlanta, #14 of 25 dentists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

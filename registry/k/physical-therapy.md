@@ -1,4 +1,4 @@
-The top unpaid physical therapy listing for the United States is Method Athletics (a physical therapy clinic in Frankfort, IL at 706 Center Road, Frankfort, IL 60423. Phone: +18152779049. Website: https://methodathletics.com/). 631 physical therapy businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for the United States is Method Athletics (a physical therapy clinic in Frankfort, IL at 706 Center Road, Frankfort, IL 60423. Phone: +18152779049. Website: https://methodathletics.com/). 726 physical therapy businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in the United States?
 
@@ -7,77 +7,83 @@ Also answers: physical therapy in the United States; physical therapy near me (t
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Method Athletics | Organic #1 | Pulse Score 65.3/100 (Good, #1 in city) | Method Athletics is a physical therapy clinic in Frankfort, IL at 706 Center Road, Frankfort, IL 60423. Phone: +18152779049. Website: https://methodathletics.com/. | https://registry-edge.dingalinged.workers.dev/c/method-athletics-frankfort/
-2. Aashi-Aashi Foot & Leg Hydrotherapy Suite | Organic #2 | Pulse Score 65/100 (Good, #1 in city) | Aashi-Aashi Foot & Leg Hydrotherapy Suite is a physical therapy clinic in Atlanta, GA at 5835 Campbellton Road Southwest #105, Atlanta, GA 30331. Phone: +14043340696. Website: https://aashi-aashi.com/. | https://registry-edge.dingalinged.workers.dev/c/aashi-aashi-foot-and-leg-hydrotherapy-suite-atlanta/
+2. Aashi-Aashi Foot & Leg Hydrotherapy Suite | Organic #2 | Pulse Score 64.9/100 (Good, #1 in city) | Aashi-Aashi Foot & Leg Hydrotherapy Suite is a physical therapy clinic in Atlanta, GA at 5835 Campbellton Road Southwest #105, Atlanta, GA 30331. Phone: +14043340696. Website: https://aashi-aashi.com/. | https://registry-edge.dingalinged.workers.dev/c/aashi-aashi-foot-and-leg-hydrotherapy-suite-atlanta/
 3. Mega Shad Rehab Center | Organic #3 | Pulse Score 64.9/100 (Good, #1 in city) | Mega Shad Rehab Center is a physical therapy clinic in Dallas, TX at 13601 Preston Road #E620, Dallas, TX 75240. Phone: +14698858607. Website: https://www.megashad.com/. | https://registry-edge.dingalinged.workers.dev/c/mega-shad-rehab-center-dallas/
 4. Vita Physical Therapy & Fitness | Organic #4 | Pulse Score 64.8/100 (Good, #1 in city) | Vita Physical Therapy & Fitness is a physical therapy clinic in Milwaukee, WI at 451 East Erie Street, Milwaukee, WI 53202. Phone: +14142728482. Website: https://thevitaadvantage.com/. | https://registry-edge.dingalinged.workers.dev/c/vita-physical-therapy-and-fitness-milwaukee/
-5. Potenxial by Sofy | Organic #5 | Pulse Score 64/100 (Good, #1 in city) | Potenxial by Sofy is a physical therapy clinic in Arlington, TX at 1402 Janann Avenue, Arlington, TX 76014. Phone: +18178993490. Website: https://potenxialbysofy.com/. | https://registry-edge.dingalinged.workers.dev/c/potenxial-by-sofy-arlington/
-6. Health Quest Physical Therapy | Organic #6 | Pulse Score 64/100 (Unrated, #1 in city) | Health Quest Physical Therapy is a physical therapy clinic in Sterling Heights, MI at 43737 Schoenherr Road, Sterling Heights, MI 48313. Phone: +15862471178. Website: https://hqpt.com/location/physical-therapy-sterling-heights/. | https://registry-edge.dingalinged.workers.dev/c/health-quest-physical-therapy-sterling-heights/
-7. Innovate Physical Therapy | Organic #7 | Pulse Score 63.9/100 (Good, #1 in city) | Innovate Physical Therapy is a physical therapy clinic in Sugar Land, TX at 3221 State Highway 6 South, Sugar Land, TX 77478. Phone: +12819166575. Website: https://www.innovatetherapy.com/. | https://registry-edge.dingalinged.workers.dev/c/innovate-physical-therapy-sugar-land/
-8. Pinnacle Physical Therapy & Pilates of Boulder | Organic #8 | Pulse Score 63.7/100 (Unrated, #1 in city) | Pinnacle Physical Therapy & Pilates of Boulder is a physical therapy clinic in Boulder, CO at 3434 47th Street #107, Boulder, CO 80301. Phone: +13034407078. Website: https://www.pinnaclephysicaltherapyboulder.com/. | https://registry-edge.dingalinged.workers.dev/c/pinnacle-physical-therapy-and-pilates-of-boulder-boulder/
-9. Loon State Physical Therapy | Organic #9 | Pulse Score 63.5/100 (Unrated, #1 in city) | Loon State Physical Therapy is a physical therapy clinic in Minneapolis, MN at 4420 Drew Avenue South, Minneapolis, MN 55410. Phone: +16124058503. Website: https://www.loonstatephysicaltherapy.com/. | https://registry-edge.dingalinged.workers.dev/c/loon-state-physical-therapy-minneapolis/
-10. Total Orthopedic Performance (TOP) Physical Therapy | Organic #10 | Pulse Score 63.5/100 (Unrated, #2 in city) | Total Orthopedic Performance (TOP) Physical Therapy is a physical therapy clinic in Sterling Heights, MI at 35 15 Mile Road, Sterling Heights, MI 48310. Phone: +15868839720. Website: https://topompt.com/. | https://registry-edge.dingalinged.workers.dev/c/total-orthopedic-performance-top-physical-therapy-sterling-heights/
-11. Medical Massage | Organic #11 | Pulse Score 63.4/100 (Good, #1 in city) | Medical Massage is a physical therapy clinic in Flower Mound, TX. Phone: +19724604420. Website: https://www.medmassagerx.com/. | https://registry-edge.dingalinged.workers.dev/c/medical-massage-flower-mound/
-12. Strength Fitness and Speed | Organic #12 | Pulse Score 63.3/100 (Unrated, #1 in city) | Strength Fitness and Speed is a physical therapy clinic in Pleasant Hills, PA at 347 Old Curry Hollow Road #a, Pleasant Hills, PA 15236. Phone: +14122750079. Website: https://www.strengthfitnessandspeed.com/. | https://registry-edge.dingalinged.workers.dev/c/strength-fitness-and-speed-pleasant-hills/
-13. Care and Transformation Center - CTC | Organic #13 | Pulse Score 63.2/100 (Unrated, #3 in city) | Care and Transformation Center - CTC is a physical therapy clinic in Sterling Heights, MI at 2311 15 Mile Road #A, Sterling Heights, MI 48310. Phone: +15869839280. Website: https://myctccenter.com/. | https://registry-edge.dingalinged.workers.dev/c/care-and-transformation-center-ctc-sterling-heights/
-14. Care Choice | Organic #14 | Pulse Score 63.2/100 (Unrated, #4 in city) | Care Choice is a physical therapy clinic in Sterling Heights, MI at 2311 15 Mile Road #D, Sterling Heights, MI 48310. Phone: +15866366316. Website: https://care-choice.com/contact/. | https://registry-edge.dingalinged.workers.dev/c/care-choice-sterling-heights/
-15. Advance Pain Care, PLLC. | Organic #15 | Pulse Score 63/100 (Unrated, #1 in city) | Advance Pain Care, PLLC. is a physical therapy clinic in Southfield, MI at 23077 Greenfield Road #240, Southfield, MI 48075. Phone: +12488096402. Website: https://advancepaincare.net/. | https://registry-edge.dingalinged.workers.dev/c/advance-pain-care-pllc-southfield/
-16. Sparks Occupational Therapy | Organic #16 | Pulse Score 62.9/100 (Unrated, #2 in city) | Sparks Occupational Therapy is a physical therapy clinic in Boulder, CO at 3015 47th Street #E4, Boulder, CO 80301. Website: https://www.sparksot.com/. | https://registry-edge.dingalinged.workers.dev/c/sparks-occupational-therapy-boulder/
-17. InStep Physical Therapy & Running Center | Organic #17 | Pulse Score 62.8/100 (Unrated, #2 in city) | InStep Physical Therapy & Running Center is a physical therapy clinic in Milwaukee, WI at 403 East Buffalo Street, Milwaukee, WI 53202. Phone: +14147639140. Website: https://www.performancerunning.com/locations/. | https://registry-edge.dingalinged.workers.dev/c/instep-physical-therapy-and-running-center-milwaukee/
-18. ES3 MEDICAL GROUP & ES3 FITNESS REHAB | Organic #18 | Pulse Score 62.8/100 (Unrated, #1 in city) | ES3 MEDICAL GROUP & ES3 FITNESS REHAB is a physical therapy clinic in Calumet City, IL at 1400 Torrence Avenue #Suite 213, Calumet City, IL 60409. Phone: +17088019067. Website: https://es3fitnessrehab.com/. | https://registry-edge.dingalinged.workers.dev/c/es3-medical-group-and-es3-fitness-rehab-calumet-city/
-19. Restore Hyper Wellness | Organic #19 | Pulse Score 62.7/100 (Good, #2 in city) | Restore Hyper Wellness is a physical therapy clinic in Atlanta, GA at 931 Monroe Drive Northeast #111A, Atlanta, GA. Phone: +14048367994. Website: https://www.restore.com/locations/ga-atlanta-midtown-ga038. | https://registry-edge.dingalinged.workers.dev/c/restore-hyper-wellness-atlanta/
-20. Continental Therapeutic Services | Organic #20 | Pulse Score 62.7/100 (Unrated, #1 in city) | Continental Therapeutic Services is a physical therapy clinic in Chicago, IL. Phone: +17732275150. | https://registry-edge.dingalinged.workers.dev/c/continental-therapeutic-services-chicago/
-21. Integra Physical Therapy & Personal Training | Organic #21 | Pulse Score 62.6/100 (Good, #1 in city) | Integra Physical Therapy & Personal Training is a physical therapy clinic in Fox Point, WI at 8677 North Port Washington Road, Fox Point, WI 53217. Phone: +14143518482. Website: https://www.integrapt2.com/. | https://registry-edge.dingalinged.workers.dev/c/integra-physical-therapy-and-personal-training-fox-point/
-22. Level Eleven Physical Therapy | Organic #22 | Pulse Score 62.6/100 (Unrated, #5 in city) | Level Eleven Physical Therapy is a physical therapy clinic in Sterling Heights, MI at 13331 15 Mile Road, Sterling Heights, MI 48312. Phone: +15869780376. Website: https://www.level11pt.com/. | https://registry-edge.dingalinged.workers.dev/c/level-eleven-physical-therapy-sterling-heights/
-23. Clegg & Guest Physical Therapy | Organic #23 | Pulse Score 62.6/100 (Unrated, #6 in city) | Clegg & Guest Physical Therapy is a physical therapy clinic in Sterling Heights, MI at 35413 Schoenherr Road, Sterling Heights, MI 48312. Phone: +15869787900. Website: https://cgphysicaltherapy.com/. | https://registry-edge.dingalinged.workers.dev/c/clegg-and-guest-physical-therapy-sterling-heights/
-24. Momentum Physical Therapy | Organic #24 | Pulse Score 62.5/100 (Unrated, #1 in city) | Momentum Physical Therapy is a physical therapy clinic in Naperville, IL at 1512 Naper Boulevard #144, Naperville, IL 60563. Phone: +16304495220. Website: https://momentumphysicaltherapy.com/. | https://registry-edge.dingalinged.workers.dev/c/momentum-physical-therapy-naperville/
-25. Right Rehab Services | Organic #25 | Pulse Score 62.5/100 (Unrated, #7 in city) | Right Rehab Services is a physical therapy clinic in Sterling Heights, MI at 34776 Dequindre Road, Sterling Heights, MI 48310. Phone: +15869910430. Website: https://rightrehabpt.com/. | https://registry-edge.dingalinged.workers.dev/c/right-rehab-services-sterling-heights/
-26. Drayer Physical Therapy | Organic #26 | Pulse Score 62.5/100 (Unrated, #1 in city) | Drayer Physical Therapy is a physical therapy clinic in Bethel Park, PA at 2405 South Park Road, Bethel Park, PA 15102. Phone: +14127303090. Website: https://drayer.urpt.com/locations/bethel-park/. | https://registry-edge.dingalinged.workers.dev/c/drayer-physical-therapy-bethel-park/
-27. Peak Physical Therapy & Wellness | Organic #27 | Pulse Score 62.5/100 (Unrated, #1 in city) | Peak Physical Therapy & Wellness is a physical therapy clinic in Parker, CO at 16522 Keystone Boulevard #N, Parker, CO 80134. Phone: +13038407325. Website: https://peakptandwellness.com/Parker-Physical-Therapy. | https://registry-edge.dingalinged.workers.dev/c/peak-physical-therapy-and-wellness-parker/
-28. Back 2 Health Physical Therapy | Organic #28 | Pulse Score 62.4/100 (Unrated, #8 in city) | Back 2 Health Physical Therapy is a physical therapy clinic in Sterling Heights, MI at 2311 15 Mile Road #C, Sterling Heights, MI 48310. Phone: +15864390015. Website: https://back2healthpt.org/. | https://registry-edge.dingalinged.workers.dev/c/back-2-health-physical-therapy-sterling-heights/
-29. Airrosti | Organic #29 | Pulse Score 62.4/100 (Unrated, #1 in city) | Airrosti is a physical therapy clinic in Katy, TX at 24022 Cinco Village Center Boulevard #110, Katy, TX 77494. Phone: +18004046050. Website: https://www.airrosti.com/location/Texas/CINCO/. | https://registry-edge.dingalinged.workers.dev/c/airrosti-katy/
-30. Ice Box Cryotherapy | Organic #30 | Pulse Score 62.3/100 (Good, #1 in city) | Ice Box Cryotherapy is a physical therapy clinic in Woodstock, GA at 1428 Towne Lake Parkway #97, Woodstock, GA. Phone: +17705752432. Website: https://iceboxtherapy.com/woodstock-ga/. | https://registry-edge.dingalinged.workers.dev/c/ice-box-cryotherapy-woodstock/
-31. Star Orthopedics | Organic #31 | Pulse Score 62.3/100 (Good, #1 in city) | Star Orthopedics is a physical therapy clinic in Coppell, TX at 149 West State Highway 121 #115, Coppell, TX. Phone: +14698500680. Website: https://www.starorthopedics.com/. | https://registry-edge.dingalinged.workers.dev/c/star-orthopedics-coppell/
-32. Venture Physical Therapy & Hand Therapy | Organic #32 | Pulse Score 62.3/100 (Unrated, #1 in city) | Venture Physical Therapy & Hand Therapy is a physical therapy clinic in Cobb County, GA at 5041 Dallas Highway #C, Cobb County, GA 30127. Phone: +17704252151. Website: https://www.venturept.com/. | https://registry-edge.dingalinged.workers.dev/c/venture-physical-therapy-and-hand-therapy-cobb-county/
-33. Mindful Health | Organic #33 | Pulse Score 62.3/100 (Unrated, #1 in city) | Mindful Health is a physical therapy clinic in Rockwall, TX at 406 North Goliad Street, Rockwall, TX 75087. Phone: +19723461885. Website: https://mindful.health/rockwall/. | https://registry-edge.dingalinged.workers.dev/c/mindful-health-rockwall/
-34. DMC Physical Therapy & Sports Medicine | Organic #34 | Pulse Score 62.2/100 (Unrated, #9 in city) | DMC Physical Therapy & Sports Medicine is a physical therapy clinic in Sterling Heights, MI at 33464 Schoenherr Road, Sterling Heights, MI 48312. Phone: +15862641043. Website: https://www.dmc.org/locations/detail/rehabilitation-institute-of-michigan-sterling-heights-center. | https://registry-edge.dingalinged.workers.dev/c/dmc-physical-therapy-and-sports-medicine-sterling-heights/
-35. Physical Therapy & Rehab Specialists | Organic #35 | Pulse Score 62.2/100 (Unrated, #10 in city) | Physical Therapy & Rehab Specialists is a physical therapy clinic in Sterling Heights, MI at 42877 Mound Road, Sterling Heights, MI 48314. Phone: +15862767549. Website: https://ptandrehab.urpt.com/locations/sterling-heights/. | https://registry-edge.dingalinged.workers.dev/c/physical-therapy-and-rehab-specialists-sterling-heights/
-36. F.I.T. Muscle & Joint Clinic Shawnee Physical Therapy | Organic #36 | Pulse Score 62.1/100 (Unrated, #1 in city) | F.I.T. Muscle & Joint Clinic Shawnee Physical Therapy is a physical therapy clinic in Shawnee, KS at 22120 Midland Drive ##1, Shawnee, KS 66226. Phone: +19137454064. Website: https://physicaltherapy.fitmjc.com/location/physical-therapy-in-shawnee/. | https://registry-edge.dingalinged.workers.dev/c/f-i-t-muscle-and-joint-clinic-shawnee-physical-therapy-shawnee/
-37. Panorama Physical Therapy | Organic #37 | Pulse Score 62.1/100 (Unrated, #1 in city) | Panorama Physical Therapy is a physical therapy clinic in Lakewood, CO at 437 South Wadsworth Boulevard, Lakewood, CO 80226. Phone: +13032747310. Website: https://www.panoramaortho.com/. | https://registry-edge.dingalinged.workers.dev/c/panorama-physical-therapy-lakewood/
-38. Spring Physical Therapy | Organic #38 | Pulse Score 62.1/100 (Unrated, #1 in city) | Spring Physical Therapy is a physical therapy clinic in Spring, TX at 19510 Kuykendahl Road #C, Spring, TX 77379. Phone: +18328135261. Website: https://www.springphysicaltherapytx.com/. | https://registry-edge.dingalinged.workers.dev/c/spring-physical-therapy-spring/
-39. Henry Ford Physical Rehabilitation - Lowell Park | Organic #39 | Pulse Score 62/100 (Unrated, #11 in city) | Henry Ford Physical Rehabilitation - Lowell Park is a physical therapy clinic in Sterling Heights, MI at 44800 Delco Boulevard, Sterling Heights, MI 48313. Phone: +15867266400. Website: https://www.henryford.com/locations/rehabilitation-lowell-park. | https://registry-edge.dingalinged.workers.dev/c/henry-ford-physical-rehabilitation-lowell-park-sterling-heights/
-40. Ivy Rehab Physical Therapy | Organic #40 | Pulse Score 62/100 (Unrated, #1 in city) | Ivy Rehab Physical Therapy is a physical therapy clinic in Belleville, MI at 540 Main Street, Belleville, MI 48111. Phone: +17344896440. Website: https://www.ivyrehab.com/brand/ivy-rehab-physical-therapy/. | https://registry-edge.dingalinged.workers.dev/c/ivy-rehab-physical-therapy-belleville/
-41. Milwaukee Advanced Physical Therapy | Organic #41 | Pulse Score 62/100 (Unrated, #3 in city) | Milwaukee Advanced Physical Therapy is a physical therapy clinic in Milwaukee, WI at 1626 West Fond du Lac Avenue, Milwaukee, WI 53205. Phone: +14142047084. Website: https://www.milwaukeeadvancedpt.com/. | https://registry-edge.dingalinged.workers.dev/c/milwaukee-advanced-physical-therapy-milwaukee/
-42. Meyer Chiropractic | Organic #42 | Pulse Score 61.9/100 (Good, #1 in city) | Meyer Chiropractic is a physical therapy clinic in Southlake, TX at 100 West Southlake Boulevard #410, Southlake, TX. Phone: +18173106604. | https://registry-edge.dingalinged.workers.dev/c/meyer-chiropractic-southlake/
-43. Modern Physical Therapy | Organic #43 | Pulse Score 61.8/100 (Unrated, #1 in city) | Modern Physical Therapy is a physical therapy clinic in Kansas City, MO at 335 Northwest Barry Road, Kansas City, MO 64155. Phone: +18164685278. Website: https://www.modernpt.com/. | https://registry-edge.dingalinged.workers.dev/c/modern-physical-therapy-kansas-city/
-44. MKE Physical Therapy | Organic #44 | Pulse Score 61.7/100 (Unrated, #4 in city) | MKE Physical Therapy is a physical therapy clinic in Milwaukee, WI at 5050 West Vliet Street, Milwaukee, WI 53208. Phone: +14145028321. Website: https://www.mkephysicaltherapy.com/. | https://registry-edge.dingalinged.workers.dev/c/mke-physical-therapy-milwaukee/
-45. Wisconsin Orthopedic Physical Therapy | Organic #45 | Pulse Score 61.7/100 (Unrated, #1 in city) | Wisconsin Orthopedic Physical Therapy is a physical therapy clinic in Wauwatosa, WI at 11702 West North Avenue, Wauwatosa, WI 53226. Phone: +14147632941. Website: https://www.wiscopt.com/. | https://registry-edge.dingalinged.workers.dev/c/wisconsin-orthopedic-physical-therapy-wauwatosa/
-46. Peggy A Supple, M.D. | Organic #46 | Pulse Score 61.7/100 (Unrated, #1 in city) | Peggy A Supple, M.D. is a physical therapy clinic in Downers Grove, IL at 3800 Highland Avenue ##104, Downers Grove, IL 60515. Phone: +16309698090. Website: https://www.peggysupple.com/. | https://registry-edge.dingalinged.workers.dev/c/peggy-a-supple-m-d-downers-grove/
-47. Discover Integrated Health | Organic #47 | Pulse Score 61.6/100 (Good, #1 in city) | Discover Integrated Health is a physical therapy clinic in Kennesaw, GA at 3940 Cherokee Street Northwest #402, Kennesaw, GA. Phone: +17704239010. Website: https://discoverrehab.com/. | https://registry-edge.dingalinged.workers.dev/c/discover-integrated-health-kennesaw/
-48. Apex Network Physical Therapy | Organic #48 | Pulse Score 61.6/100 (Unrated, #1 in city) | Apex Network Physical Therapy is a physical therapy clinic in Belleville, IL at 3030, Suite 9 Frank Scott Parkway West, Belleville, IL 62223. Phone: +16182358565. Website: https://apexnetworkpt.com/bellevillewestil/. | https://registry-edge.dingalinged.workers.dev/c/apex-network-physical-therapy-belleville/
-49. Amma Abunyewa MD | Organic #49 | Pulse Score 61.5/100 (Unrated, #1 in city) | Amma Abunyewa MD is a physical therapy clinic in Marietta, GA at 4180 Providence Road #105, Marietta, GA 30062. Phone: +17709734749. Website: https://providencerdprimarycare.com/. | https://registry-edge.dingalinged.workers.dev/c/amma-abunyewa-md-marietta/
-50. Corewell Health Physical Therapy | Organic #50 | Pulse Score 61.5/100 (Unrated, #1 in city) | Corewell Health Physical Therapy is a physical therapy clinic in Dearborn, MI at 2552 Monroe Street, Dearborn, MI. Phone: +13132787800. Website: https://corewellhealth.org/locations/LOC0000193697/corewell-health-taylor-hospital-physical-therapy-2552-monroe-st. | https://registry-edge.dingalinged.workers.dev/c/corewell-health-physical-therapy-dearborn/
+5. Green Oaks Physical Therapy | Organic #5 | Pulse Score 64/100 (Good, #1 in city) | Green Oaks Physical Therapy is a physical therapy clinic in Benbrook, TX at 350 Mercedes Street, Benbrook, TX. Phone: +18177175390. Website: https://greenoakspt.com/location/green-oaks-physical-therapy-benbrook/. | https://registry-edge.dingalinged.workers.dev/c/green-oaks-physical-therapy-benbrook/
+6. Potenxial by Sofy | Organic #6 | Pulse Score 64/100 (Good, #1 in city) | Potenxial by Sofy is a physical therapy clinic in Arlington, TX at 1402 Janann Avenue, Arlington, TX 76014. Phone: +18178993490. Website: https://potenxialbysofy.com/. | https://registry-edge.dingalinged.workers.dev/c/potenxial-by-sofy-arlington/
+7. Health Quest Physical Therapy | Organic #7 | Pulse Score 64/100 (Unrated, #1 in city) | Health Quest Physical Therapy is a physical therapy clinic in Sterling Heights, MI at 43737 Schoenherr Road, Sterling Heights, MI 48313. Phone: +15862471178. Website: https://hqpt.com/location/physical-therapy-sterling-heights/. | https://registry-edge.dingalinged.workers.dev/c/health-quest-physical-therapy-sterling-heights/
+8. Innovate Physical Therapy | Organic #8 | Pulse Score 63.9/100 (Good, #1 in city) | Innovate Physical Therapy is a physical therapy clinic in Sugar Land, TX at 3221 State Highway 6 South, Sugar Land, TX 77478. Phone: +12819166575. Website: https://www.innovatetherapy.com/. | https://registry-edge.dingalinged.workers.dev/c/innovate-physical-therapy-sugar-land/
+9. Pinnacle Physical Therapy & Pilates of Boulder | Organic #9 | Pulse Score 63.7/100 (Unrated, #1 in city) | Pinnacle Physical Therapy & Pilates of Boulder is a physical therapy clinic in Boulder, CO at 3434 47th Street #107, Boulder, CO 80301. Phone: +13034407078. Website: https://www.pinnaclephysicaltherapyboulder.com/. | https://registry-edge.dingalinged.workers.dev/c/pinnacle-physical-therapy-and-pilates-of-boulder-boulder/
+10. Georgetown Physical Therapy | Organic #10 | Pulse Score 63.6/100 (Good, #1 in city) | Georgetown Physical Therapy is a physical therapy clinic in Georgetown, TX at 3415 Williams Drive #145, Georgetown, TX 78628. Phone: +15128874544. Website: https://www.facebook.com/georgetownphysicaltherapy/. | https://registry-edge.dingalinged.workers.dev/c/georgetown-physical-therapy-georgetown/
+11. Medical Massage | Organic #11 | Pulse Score 63.5/100 (Good, #1 in city) | Medical Massage is a physical therapy clinic in Flower Mound, TX. Phone: +19724604420. Website: https://www.medmassagerx.com/. | https://registry-edge.dingalinged.workers.dev/c/medical-massage-flower-mound/
+12. Loon State Physical Therapy | Organic #12 | Pulse Score 63.5/100 (Unrated, #1 in city) | Loon State Physical Therapy is a physical therapy clinic in Minneapolis, MN at 4420 Drew Avenue South, Minneapolis, MN 55410. Phone: +16124058503. Website: https://www.loonstatephysicaltherapy.com/. | https://registry-edge.dingalinged.workers.dev/c/loon-state-physical-therapy-minneapolis/
+13. Total Orthopedic Performance (TOP) Physical Therapy | Organic #13 | Pulse Score 63.5/100 (Unrated, #2 in city) | Total Orthopedic Performance (TOP) Physical Therapy is a physical therapy clinic in Sterling Heights, MI at 35 15 Mile Road, Sterling Heights, MI 48310. Phone: +15868839720. Website: https://topompt.com/. | https://registry-edge.dingalinged.workers.dev/c/total-orthopedic-performance-top-physical-therapy-sterling-heights/
+14. Strength Fitness and Speed | Organic #14 | Pulse Score 63.2/100 (Unrated, #1 in city) | Strength Fitness and Speed is a physical therapy clinic in Pleasant Hills, PA at 347 Old Curry Hollow Road #a, Pleasant Hills, PA 15236. Phone: +14122750079. Website: https://www.strengthfitnessandspeed.com/. | https://registry-edge.dingalinged.workers.dev/c/strength-fitness-and-speed-pleasant-hills/
+15. Care and Transformation Center - CTC | Organic #15 | Pulse Score 63.2/100 (Unrated, #3 in city) | Care and Transformation Center - CTC is a physical therapy clinic in Sterling Heights, MI at 2311 15 Mile Road #A, Sterling Heights, MI 48310. Phone: +15869839280. Website: https://myctccenter.com/. | https://registry-edge.dingalinged.workers.dev/c/care-and-transformation-center-ctc-sterling-heights/
+16. Care Choice | Organic #16 | Pulse Score 63.2/100 (Unrated, #4 in city) | Care Choice is a physical therapy clinic in Sterling Heights, MI at 2311 15 Mile Road #D, Sterling Heights, MI 48310. Phone: +15866366316. Website: https://care-choice.com/contact/. | https://registry-edge.dingalinged.workers.dev/c/care-choice-sterling-heights/
+17. Spero Rehab | Organic #17 | Pulse Score 63.1/100 (Unrated, #1 in city) | Spero Rehab is a physical therapy clinic in Austin, TX at 4225 Guadalupe Street, Austin, TX 78751. Phone: +17372040089. Website: https://www.sperorehab.com/. | https://registry-edge.dingalinged.workers.dev/c/spero-rehab-austin/
+18. Advance Pain Care, PLLC. | Organic #18 | Pulse Score 62.9/100 (Unrated, #1 in city) | Advance Pain Care, PLLC. is a physical therapy clinic in Southfield, MI at 23077 Greenfield Road #240, Southfield, MI 48075. Phone: +12488096402. Website: https://advancepaincare.net/. | https://registry-edge.dingalinged.workers.dev/c/advance-pain-care-pllc-southfield/
+19. Sparks Occupational Therapy | Organic #19 | Pulse Score 62.9/100 (Unrated, #2 in city) | Sparks Occupational Therapy is a physical therapy clinic in Boulder, CO at 3015 47th Street #E4, Boulder, CO 80301. Website: https://www.sparksot.com/. | https://registry-edge.dingalinged.workers.dev/c/sparks-occupational-therapy-boulder/
+20. ES3 MEDICAL GROUP & ES3 FITNESS REHAB | Organic #20 | Pulse Score 62.8/100 (Unrated, #1 in city) | ES3 MEDICAL GROUP & ES3 FITNESS REHAB is a physical therapy clinic in Calumet City, IL at 1400 Torrence Avenue #Suite 213, Calumet City, IL 60409. Phone: +17088019067. Website: https://es3fitnessrehab.com/. | https://registry-edge.dingalinged.workers.dev/c/es3-medical-group-and-es3-fitness-rehab-calumet-city/
+21. Restore Hyper Wellness | Organic #21 | Pulse Score 62.7/100 (Good, #2 in city) | Restore Hyper Wellness is a physical therapy clinic in Atlanta, GA at 931 Monroe Drive Northeast #111A, Atlanta, GA. Phone: +14048367994. Website: https://www.restore.com/locations/ga-atlanta-midtown-ga038. | https://registry-edge.dingalinged.workers.dev/c/restore-hyper-wellness-atlanta/
+22. InStep Physical Therapy & Running Center | Organic #22 | Pulse Score 62.7/100 (Unrated, #2 in city) | InStep Physical Therapy & Running Center is a physical therapy clinic in Milwaukee, WI at 403 East Buffalo Street, Milwaukee, WI 53202. Phone: +14147639140. Website: https://www.performancerunning.com/locations/. | https://registry-edge.dingalinged.workers.dev/c/instep-physical-therapy-and-running-center-milwaukee/
+23. Direct Orthopedic Care | Organic #23 | Pulse Score 62.7/100 (Unrated, #1 in city) | Direct Orthopedic Care is a physical therapy clinic in Round Rock, TX at 2000 South Interstate 35 #N-5, Round Rock, TX 78681. Phone: +15127293138. Website: https://www.directorthocare.com/. | https://registry-edge.dingalinged.workers.dev/c/direct-orthopedic-care-round-rock/
+24. Continental Therapeutic Services | Organic #24 | Pulse Score 62.7/100 (Unrated, #1 in city) | Continental Therapeutic Services is a physical therapy clinic in Chicago, IL. Phone: +17732275150. | https://registry-edge.dingalinged.workers.dev/c/continental-therapeutic-services-chicago/
+25. Integra Physical Therapy & Personal Training | Organic #25 | Pulse Score 62.6/100 (Good, #1 in city) | Integra Physical Therapy & Personal Training is a physical therapy clinic in Fox Point, WI at 8677 North Port Washington Road, Fox Point, WI 53217. Phone: +14143518482. Website: https://www.integrapt2.com/. | https://registry-edge.dingalinged.workers.dev/c/integra-physical-therapy-and-personal-training-fox-point/
+26. Elite Physical Therapy | Organic #26 | Pulse Score 62.6/100 (Unrated, #1 in city) | Elite Physical Therapy is a physical therapy clinic in Conway, AR at 635 Dave Ward Drive #104, Conway, AR 72034. Phone: +15012054695. Website: https://elitetherapypt.com/contact-us/conway/. | https://registry-edge.dingalinged.workers.dev/c/elite-physical-therapy-conway/
+27. Level Eleven Physical Therapy | Organic #27 | Pulse Score 62.6/100 (Unrated, #5 in city) | Level Eleven Physical Therapy is a physical therapy clinic in Sterling Heights, MI at 13331 15 Mile Road, Sterling Heights, MI 48312. Phone: +15869780376. Website: https://www.level11pt.com/. | https://registry-edge.dingalinged.workers.dev/c/level-eleven-physical-therapy-sterling-heights/
+28. Clegg & Guest Physical Therapy | Organic #28 | Pulse Score 62.6/100 (Unrated, #6 in city) | Clegg & Guest Physical Therapy is a physical therapy clinic in Sterling Heights, MI at 35413 Schoenherr Road, Sterling Heights, MI 48312. Phone: +15869787900. Website: https://cgphysicaltherapy.com/. | https://registry-edge.dingalinged.workers.dev/c/clegg-and-guest-physical-therapy-sterling-heights/
+29. Momentum Physical Therapy | Organic #29 | Pulse Score 62.5/100 (Unrated, #1 in city) | Momentum Physical Therapy is a physical therapy clinic in Naperville, IL at 1512 Naper Boulevard #144, Naperville, IL 60563. Phone: +16304495220. Website: https://momentumphysicaltherapy.com/. | https://registry-edge.dingalinged.workers.dev/c/momentum-physical-therapy-naperville/
+30. Right Rehab Services | Organic #30 | Pulse Score 62.5/100 (Unrated, #7 in city) | Right Rehab Services is a physical therapy clinic in Sterling Heights, MI at 34776 Dequindre Road, Sterling Heights, MI 48310. Phone: +15869910430. Website: https://rightrehabpt.com/. | https://registry-edge.dingalinged.workers.dev/c/right-rehab-services-sterling-heights/
+31. Drayer Physical Therapy | Organic #31 | Pulse Score 62.5/100 (Unrated, #1 in city) | Drayer Physical Therapy is a physical therapy clinic in Bethel Park, PA at 2405 South Park Road, Bethel Park, PA 15102. Phone: +14127303090. Website: https://drayer.urpt.com/locations/bethel-park/. | https://registry-edge.dingalinged.workers.dev/c/drayer-physical-therapy-bethel-park/
+32. Peak Physical Therapy & Wellness | Organic #32 | Pulse Score 62.5/100 (Unrated, #1 in city) | Peak Physical Therapy & Wellness is a physical therapy clinic in Parker, CO at 16522 Keystone Boulevard #N, Parker, CO 80134. Phone: +13038407325. Website: https://peakptandwellness.com/Parker-Physical-Therapy. | https://registry-edge.dingalinged.workers.dev/c/peak-physical-therapy-and-wellness-parker/
+33. Back 2 Health Physical Therapy | Organic #33 | Pulse Score 62.4/100 (Unrated, #8 in city) | Back 2 Health Physical Therapy is a physical therapy clinic in Sterling Heights, MI at 2311 15 Mile Road #C, Sterling Heights, MI 48310. Phone: +15864390015. Website: https://back2healthpt.org/. | https://registry-edge.dingalinged.workers.dev/c/back-2-health-physical-therapy-sterling-heights/
+34. Mindful Health | Organic #34 | Pulse Score 62.4/100 (Unrated, #1 in city) | Mindful Health is a physical therapy clinic in Rockwall, TX at 406 North Goliad Street, Rockwall, TX 75087. Phone: +19723461885. Website: https://mindful.health/rockwall/. | https://registry-edge.dingalinged.workers.dev/c/mindful-health-rockwall/
+35. All Care Therapies of Georgetown | Organic #35 | Pulse Score 62.3/100 (Good, #2 in city) | All Care Therapies of Georgetown is a physical therapy clinic in Georgetown, TX at 3610 Williams Drive, Georgetown, TX 78628. Phone: +15122567627. Website: https://www.allcaretherapygt.com/. | https://registry-edge.dingalinged.workers.dev/c/all-care-therapies-of-georgetown-georgetown-w1199975917/
+36. Ice Box Cryotherapy | Organic #36 | Pulse Score 62.3/100 (Good, #1 in city) | Ice Box Cryotherapy is a physical therapy clinic in Woodstock, GA at 1428 Towne Lake Parkway #97, Woodstock, GA. Phone: +17705752432. Website: https://iceboxtherapy.com/woodstock-ga/. | https://registry-edge.dingalinged.workers.dev/c/ice-box-cryotherapy-woodstock/
+37. Venture Physical Therapy & Hand Therapy | Organic #37 | Pulse Score 62.3/100 (Unrated, #1 in city) | Venture Physical Therapy & Hand Therapy is a physical therapy clinic in Cobb County, GA at 5041 Dallas Highway #C, Cobb County, GA 30127. Phone: +17704252151. Website: https://www.venturept.com/. | https://registry-edge.dingalinged.workers.dev/c/venture-physical-therapy-and-hand-therapy-cobb-county/
+38. Physical Therapy & Rehab Specialists | Organic #38 | Pulse Score 62.2/100 (Unrated, #9 in city) | Physical Therapy & Rehab Specialists is a physical therapy clinic in Sterling Heights, MI at 42877 Mound Road, Sterling Heights, MI 48314. Phone: +15862767549. Website: https://ptandrehab.urpt.com/locations/sterling-heights/. | https://registry-edge.dingalinged.workers.dev/c/physical-therapy-and-rehab-specialists-sterling-heights/
+39. Top Grade Physical Therapy | Organic #39 | Pulse Score 62.2/100 (Unrated, #1 in city) | Top Grade Physical Therapy is a physical therapy clinic in McAllen, TX at 2801 West Expressway 83 #210, McAllen, TX 78503. Phone: +19568544364. Website: https://www.topgradephysicaltherapy.com/. | https://registry-edge.dingalinged.workers.dev/c/top-grade-physical-therapy-mcallen/
+40. Star Orthopedics | Organic #40 | Pulse Score 62.1/100 (Good, #1 in city) | Star Orthopedics is a physical therapy clinic in Coppell, TX at 149 West State Highway 121 #115, Coppell, TX. Phone: +14698500680. Website: https://www.starorthopedics.com/. | https://registry-edge.dingalinged.workers.dev/c/star-orthopedics-coppell/
+41. Conway Regional Therapy Center | Organic #41 | Pulse Score 62.1/100 (Unrated, #1 in city) | Conway Regional Therapy Center is a physical therapy clinic in Conway, AR at 555 Club Lane #2, Conway, AR 72034. Phone: +15019320814. Website: https://www.conwayregional.org/locations/conway-regional-therapy-center---scherman-heights. | https://registry-edge.dingalinged.workers.dev/c/conway-regional-therapy-center-conway/
+42. DMC Physical Therapy & Sports Medicine | Organic #42 | Pulse Score 62.1/100 (Unrated, #10 in city) | DMC Physical Therapy & Sports Medicine is a physical therapy clinic in Sterling Heights, MI at 33464 Schoenherr Road, Sterling Heights, MI 48312. Phone: +15862641043. Website: https://www.dmc.org/locations/detail/rehabilitation-institute-of-michigan-sterling-heights-center. | https://registry-edge.dingalinged.workers.dev/c/dmc-physical-therapy-and-sports-medicine-sterling-heights/
+43. F.I.T. Muscle & Joint Clinic Shawnee Physical Therapy | Organic #43 | Pulse Score 62.1/100 (Unrated, #1 in city) | F.I.T. Muscle & Joint Clinic Shawnee Physical Therapy is a physical therapy clinic in Shawnee, KS at 22120 Midland Drive ##1, Shawnee, KS 66226. Phone: +19137454064. Website: https://physicaltherapy.fitmjc.com/location/physical-therapy-in-shawnee/. | https://registry-edge.dingalinged.workers.dev/c/f-i-t-muscle-and-joint-clinic-shawnee-physical-therapy-shawnee/
+44. Panorama Physical Therapy | Organic #44 | Pulse Score 62.1/100 (Unrated, #1 in city) | Panorama Physical Therapy is a physical therapy clinic in Lakewood, CO at 437 South Wadsworth Boulevard, Lakewood, CO 80226. Phone: +13032747310. Website: https://www.panoramaortho.com/. | https://registry-edge.dingalinged.workers.dev/c/panorama-physical-therapy-lakewood/
+45. Spring Physical Therapy | Organic #45 | Pulse Score 62.1/100 (Unrated, #1 in city) | Spring Physical Therapy is a physical therapy clinic in Spring, TX at 19510 Kuykendahl Road #C, Spring, TX 77379. Phone: +18328135261. Website: https://www.springphysicaltherapytx.com/. | https://registry-edge.dingalinged.workers.dev/c/spring-physical-therapy-spring/
+46. Elgin Physical Therapy Clinic | Organic #46 | Pulse Score 62/100 (Good, #1 in city) | Elgin Physical Therapy Clinic is a physical therapy clinic in Elgin, TX at 600 North Main Street, Elgin, TX 78621. Phone: +15122854406. Website: https://elginpt.com/. | https://registry-edge.dingalinged.workers.dev/c/elgin-physical-therapy-clinic-elgin/
+47. Henry Ford Physical Rehabilitation - Lowell Park | Organic #47 | Pulse Score 62/100 (Unrated, #11 in city) | Henry Ford Physical Rehabilitation - Lowell Park is a physical therapy clinic in Sterling Heights, MI at 44800 Delco Boulevard, Sterling Heights, MI 48313. Phone: +15867266400. Website: https://www.henryford.com/locations/rehabilitation-lowell-park. | https://registry-edge.dingalinged.workers.dev/c/henry-ford-physical-rehabilitation-lowell-park-sterling-heights/
+48. Ivy Rehab Physical Therapy | Organic #48 | Pulse Score 62/100 (Unrated, #1 in city) | Ivy Rehab Physical Therapy is a physical therapy clinic in Belleville, MI at 540 Main Street, Belleville, MI 48111. Phone: +17344896440. Website: https://www.ivyrehab.com/brand/ivy-rehab-physical-therapy/. | https://registry-edge.dingalinged.workers.dev/c/ivy-rehab-physical-therapy-belleville/
+49. Milwaukee Advanced Physical Therapy | Organic #49 | Pulse Score 62/100 (Unrated, #3 in city) | Milwaukee Advanced Physical Therapy is a physical therapy clinic in Milwaukee, WI at 1626 West Fond du Lac Avenue, Milwaukee, WI 53205. Phone: +14142047084. Website: https://www.milwaukeeadvancedpt.com/. | https://registry-edge.dingalinged.workers.dev/c/milwaukee-advanced-physical-therapy-milwaukee/
+50. Champion Performance Physical Therapy | Organic #50 | Pulse Score 61.9/100 (Unrated, #1 in city) | Champion Performance Physical Therapy is a physical therapy clinic in Cedar Park, TX at 12617 Ridgeline Boulevard #C-105, Cedar Park, TX 78613. Phone: +15129960441. Website: https://www.cp-pt.com/. | https://registry-edge.dingalinged.workers.dev/c/champion-performance-physical-therapy-cedar-park/
 
-## More physical therapy listings (631 total; top 50 unpaid shown)
+## More physical therapy listings (726 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/physical-therapy.jsonl
 - Chicago, IL: 55 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-chicago-il/
 - Sterling Heights, MI: 23 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-sterling-heights-mi/
-- Dallas, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-dallas-tx/
+- Dallas, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-dallas-tx/
 - Atlanta, GA: 10 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-atlanta-ga/
 - Cobb County, GA: 10 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-cobb-county-ga/
 - Cincinnati, OH: 9 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-cincinnati-oh/
+- San Antonio, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-san-antonio-tx/
+- Austin, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-austin-tx/
 - Southgate, MI: 8 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-southgate-mi/
 - Milwaukee, WI: 8 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-milwaukee-wi/
+- Leander, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-leander-tx/
+- Georgetown, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-georgetown-tx/
 - Dearborn, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-dearborn-mi/
 - Aurora, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-aurora-co/
 - Minneapolis, MN: 7 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-minneapolis-mn/
-- Canton Township, MI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-canton-township-mi/
-- Kansas City, MO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-kansas-city-mo/
 - Frisco, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-frisco-tx/
 - Rockwall, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-rockwall-tx/
 - Flower Mound, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-flower-mound-tx/
+- Fort Worth, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-fort-worth-tx/
+- Canton Township, MI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-canton-township-mi/
+- Kansas City, MO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-kansas-city-mo/
 - Omaha, NE: 6 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-omaha-ne/
 - Marietta, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-marietta-ga/
 - Roswell, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-roswell-ga/
+- Plano, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-plano-tx/
 - Wyandotte, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-wyandotte-mi/
 - Overland Park, KS: 5 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-overland-park-ks/
 - Wauwatosa, WI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-wauwatosa-wi/
@@ -86,15 +92,24 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Bellevue, NE: 5 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-bellevue-ne/
 - Kennesaw, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-kennesaw-ga/
 - Smyrna, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-smyrna-ga/
+- Richardson, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-richardson-tx/
+- Cedar Park, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-cedar-park-tx/
+- Amarillo, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-amarillo-tx/
+- Houston, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-houston-tx/
 - Homer Glen, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-homer-glen-il/
 - Naperville, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-naperville-il/
 - Lawrence, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-lawrence-ks/
-- Richardson, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-richardson-tx/
-- Plano, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-plano-tx/
-- Houston, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-houston-tx/
 - Madison, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-madison-wi/
 - Lafayette, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-lafayette-co/
+- Conway, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-conway-ar/
 - Indianapolis, IN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-indianapolis-in/
+- Addison, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-addison-tx/
+- Coppell, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-coppell-tx/
+- Lewisville, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-lewisville-tx/
+- Round Rock, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-round-rock-tx/
+- Corpus Christi, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-corpus-christi-tx/
+- Mcallen, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-mcallen-tx/
+- Harris County, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-harris-county-tx/
 - West Chester Township, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-west-chester-township-oh/
 - Alton, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-alton-il/
 - Glen Carbon, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-glen-carbon-il/
@@ -109,9 +124,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Olathe, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-olathe-ks/
 - Saint Louis County, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-saint-louis-county-mo/
 - Arnold, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-arnold-mo/
-- Addison, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-addison-tx/
-- Coppell, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-coppell-tx/
-- Lewisville, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-lewisville-tx/
 - Pittsburgh, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-pittsburgh-pa/
 - Bethel Park, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-bethel-park-pa/
 - Mount Pleasant, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-mount-pleasant-wi/
@@ -120,6 +132,15 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Des Moines, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-des-moines-ia/
 - Alpharetta, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-alpharetta-ga/
 - Woodstock, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-woodstock-ga/
+- Katy, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-katy-tx/
+- Allen, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-allen-tx/
+- Arlington, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-arlington-tx/
+- Sunset Valley, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-sunset-valley-tx/
+- Mckinney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-mckinney-tx/
+- North Richland Hills, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-north-richland-hills-tx/
+- Wylie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-wylie-tx/
+- Southlake, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-southlake-tx/
+- Beaumont, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-beaumont-tx/
 - Hilliard, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-hilliard-oh/
 - Miami Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-miami-township-oh/
 - Loveland, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-loveland-oh/
@@ -151,13 +172,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Chesterfield, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-chesterfield-mo/
 - Blue Springs, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-blue-springs-mo/
 - Belton, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-belton-mo/
-- Katy, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-katy-tx/
-- Arlington, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-arlington-tx/
-- Mckinney, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-mckinney-tx/
-- North Richland Hills, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-north-richland-hills-tx/
-- Wylie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-wylie-tx/
-- Southlake, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-southlake-tx/
-- Harris County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-harris-county-tx/
 - Hampton Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-hampton-township-pa/
 - Indiana Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-indiana-township-pa/
 - Pleasant Hills, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-pleasant-hills-pa/
@@ -170,6 +184,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Parker, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-parker-co/
 - Golden, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-golden-co/
 - Lakewood, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-lakewood-co/
+- Little Rock, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-little-rock-ar/
+- Fort Smith, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-fort-smith-ar/
+- Fayetteville, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-fayetteville-ar/
+- Russellville, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-russellville-ar/
 - Boone County, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-boone-county-in/
 - Munster, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-munster-in/
 - Plainfield, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-plainfield-in/
@@ -196,6 +214,44 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Paulding County, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-paulding-county-ga/
 - Holly Springs, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-holly-springs-ga/
 - College Park, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-college-park-ga/
+- Carrollton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-carrollton-tx/
+- Colleyville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-colleyville-tx/
+- Sachse, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-sachse-tx/
+- Buda, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-buda-tx/
+- Cedar Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-cedar-hill-tx/
+- Dripping Springs, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-dripping-springs-tx/
+- Euless, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-euless-tx/
+- Angleton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-angleton-tx/
+- Longview, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-longview-tx/
+- Lake Jackson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-lake-jackson-tx/
+- Farmers Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-farmers-branch-tx/
+- Bellaire, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-bellaire-tx/
+- Elgin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-elgin-tx/
+- Manor, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-manor-tx/
+- Farmersville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-farmersville-tx/
+- Benbrook, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-benbrook-tx/
+- Sugar Land, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-sugar-land-tx/
+- Royse City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-royse-city-tx/
+- Brazoria County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-brazoria-county-tx/
+- Castroville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-castroville-tx/
+- Bandera, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-bandera-tx/
+- Brownsville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-brownsville-tx/
+- Midland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-midland-tx/
+- Odessa, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-odessa-tx/
+- Crowley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-crowley-tx/
+- Irving, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-irving-tx/
+- Baytown, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-baytown-tx/
+- Liberty Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-liberty-hill-tx/
+- Hill Country Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-hill-country-village-tx/
+- Kyle, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-kyle-tx/
+- Richmond, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-richmond-tx/
+- Trophy Club, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-trophy-club-tx/
+- Montgomery County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-montgomery-county-tx/
+- Cleburne, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-cleburne-tx/
+- Alamo Heights, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-alamo-heights-tx/
+- Waxahachie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-waxahachie-tx/
+- New Braunfels, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-new-braunfels-tx/
+- Grapevine, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-grapevine-tx/
 - Montgomery, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-montgomery-oh/
 - Anderson Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-anderson-township-oh/
 - Columbia Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-columbia-township-oh/
@@ -273,24 +329,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Raytown, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-raytown-mo/
 - Olivette, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-olivette-mo/
 - Kirkwood, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-kirkwood-mo/
-- Allen, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-allen-tx/
-- Carrollton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-carrollton-tx/
-- Colleyville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-colleyville-tx/
-- Sachse, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-sachse-tx/
-- Cedar Hill, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-cedar-hill-tx/
-- Euless, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-euless-tx/
-- Farmers Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-farmers-branch-tx/
-- Bellaire, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-bellaire-tx/
-- Farmersville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-farmersville-tx/
-- Sugar Land, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-sugar-land-tx/
-- Royse City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-royse-city-tx/
-- Brazoria County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-brazoria-county-tx/
-- Irving, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-irving-tx/
-- Baytown, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-baytown-tx/
-- Richmond, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-richmond-tx/
-- Trophy Club, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-trophy-club-tx/
-- Montgomery County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-montgomery-county-tx/
-- Grapevine, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-grapevine-tx/
 - Rostraver Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-rostraver-township-pa/
 - Brentwood, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-brentwood-pa/
 - Collier Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-collier-township-pa/
@@ -333,6 +371,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Louisville, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-louisville-co/
 - Littleton, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-littleton-co/
 - Douglas County, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-douglas-county-co/
+- Springdale, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-springdale-ar/
+- Hot Springs, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-hot-springs-ar/
+- Van Buren, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-van-buren-ar/
 - Crown Point, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-crown-point-in/
 - Greenwood, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-greenwood-in/
 - Westfield, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-westfield-in/
@@ -353,7 +394,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 631
+- Registry businesses competing: 726
 - Equivalent Google Ads cost per month: ~$70,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

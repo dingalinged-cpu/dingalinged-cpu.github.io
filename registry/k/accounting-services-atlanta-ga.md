@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Offsite Business Solutions | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | Offsite Business Solutions is an accountant in Atlanta, GA at 1874 Piedmont Avenue Northeast #470d, Atlanta, GA 30324. Phone: +14042499979. Website: https://offsitebusiness.com/. | https://registry-edge.dingalinged.workers.dev/c/offsite-business-solutions-atlanta/
 3. Oddo Brothers CPAs | Organic #3 | Pulse Score 59.8/100 (Unrated, #3 in city) | Oddo Brothers CPAs is an accountant in Atlanta, GA at 620 Peachtree Street Northeast #120, Atlanta, GA 30308. Website: https://www.oddocpas.com/. | https://registry-edge.dingalinged.workers.dev/c/oddo-brothers-cpas-atlanta/
 4. Ernst & Young | Organic #4 | Pulse Score 58.4/100 (Unrated, #4 in city) | Ernst & Young is an accountant in Atlanta, GA at 55 Ivan Allen Junior Boulevard #Suite 1000, Atlanta, GA 30308. Website: https://www.ey.com/. | https://registry-edge.dingalinged.workers.dev/c/ernst-and-young-atlanta/
-5. Martin Harps Syphoe & Co . | Organic #5 | Pulse Score 56.4/100 (Unrated, #5 in city) | Martin Harps Syphoe & Co . is an accountant in Atlanta, GA at 167 Trinity Avenue Southwest, Atlanta, GA 30303. | https://registry-edge.dingalinged.workers.dev/c/martin-harps-syphoe-and-co-atlanta/
+5. Martin Harps Syphoe & Co . | Organic #5 | Pulse Score 56.3/100 (Unrated, #5 in city) | Martin Harps Syphoe & Co . is an accountant in Atlanta, GA at 167 Trinity Avenue Southwest, Atlanta, GA 30303. | https://registry-edge.dingalinged.workers.dev/c/martin-harps-syphoe-and-co-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services atlanta ga | category: professional_accounting | industry benchmark: Business Services

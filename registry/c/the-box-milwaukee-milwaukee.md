@@ -13,7 +13,7 @@ The Box Milwaukee is an event venue in Milwaukee, WI at 311 East Wisconsin Avenu
 - Website: n/a
 - Email: info@theboxmke.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Good — top 20% of event venues in Milwaukee, #10 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Good — top 20% of event venues in Milwaukee, #10 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

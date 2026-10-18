@@ -13,7 +13,7 @@ Grease Monkey is an auto repair shop in Cobb County, GA at 2755 Sandy Plains Roa
 - Website: https://www.greasemonkeyauto.com/locations/us/ga/marietta/2755-sandy-plains-road
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
-- Pulse Score: 50.1/100 — Fair — top 68% of auto repair shops in Atlanta, #50 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 68% of auto repair shops in Atlanta, #50 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

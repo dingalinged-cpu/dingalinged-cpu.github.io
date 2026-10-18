@@ -13,7 +13,7 @@ Minneapolis Window Shade Co. is a window installer in Saint Louis Park, MN at 35
 - Website: https://minneapoliswindowshade.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Good — top 34% of window installers in Minneapolis–St. Paul, #1 of 1 window installers in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Good — top 34% of window installers in Minneapolis–St. Paul, #1 of 1 window installers in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

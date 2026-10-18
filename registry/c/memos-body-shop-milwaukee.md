@@ -13,7 +13,7 @@ Memo's Body Shop is an auto repair shop in Milwaukee, WI at 4319 West North Aven
 - Website: n/a
 - Email: memosbodyshop1762@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00
-- Pulse Score: 63.7/100 — Good — top 2% of auto repair shops in Milwaukee, #3 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 2% of auto repair shops in Milwaukee, #3 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

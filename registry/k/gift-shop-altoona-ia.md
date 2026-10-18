@@ -7,10 +7,10 @@ Also answers: gift shop in Altoona, IA; gift shop near me (Altoona, IA); best gi
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Marilyn's Hallmark Shop | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Marilyn's Hallmark Shop is a gift shop in Altoona, IA at 550 36th Avenue Southwest, Altoona, IA 50009. | https://registry-edge.dingalinged.workers.dev/c/marilyns-hallmark-shop-altoona/
-2. A-Train Station | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | A-Train Station is a gift shop in Altoona, IA. | https://registry-edge.dingalinged.workers.dev/c/a-train-station-altoona/
-3. Caricatures | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Caricatures is a gift shop in Altoona, IA. | https://registry-edge.dingalinged.workers.dev/c/caricatures-altoona/
-4. The Adventureland Store | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | The Adventureland Store is a gift shop in Altoona, IA. | https://registry-edge.dingalinged.workers.dev/c/the-adventureland-store-altoona/
-5. The Gift Gallery | Organic #5 | Pulse Score 55.3/100 (Unrated, #5 in city) | The Gift Gallery is a gift shop in Altoona, IA. | https://registry-edge.dingalinged.workers.dev/c/the-gift-gallery-altoona/
+2. A-Train Station | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | A-Train Station is a gift shop in Altoona, IA. | https://registry-edge.dingalinged.workers.dev/c/a-train-station-altoona/
+3. Caricatures | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Caricatures is a gift shop in Altoona, IA. | https://registry-edge.dingalinged.workers.dev/c/caricatures-altoona/
+4. The Adventureland Store | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | The Adventureland Store is a gift shop in Altoona, IA. | https://registry-edge.dingalinged.workers.dev/c/the-adventureland-store-altoona/
+5. The Gift Gallery | Organic #5 | Pulse Score 55.4/100 (Unrated, #5 in city) | The Gift Gallery is a gift shop in Altoona, IA. | https://registry-edge.dingalinged.workers.dev/c/the-gift-gallery-altoona/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop altoona ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

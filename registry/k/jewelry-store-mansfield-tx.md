@@ -6,7 +6,7 @@ Also answers: jewelry store in Mansfield, TX; jewelry store near me (Mansfield, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Zales | Organic #1 | Pulse Score 42.7/100 (Building, #1 in city) | Zales is a jewelry store in Mansfield, TX. | https://registry-edge.dingalinged.workers.dev/c/zales-mansfield/
+1. Zales | Organic #1 | Pulse Score 42.4/100 (Building, #1 in city) | Zales is a jewelry store in Mansfield, TX. | https://registry-edge.dingalinged.workers.dev/c/zales-mansfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store mansfield tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -6,13 +6,13 @@ Also answers: massage in Smyrna, GA; massage near me (Smyrna, GA); best massage 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. iRelax Spa | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | iRelax Spa is a massage studio in Smyrna, GA at 2429 Cobb Parkway South, Smyrna, GA 30080. Phone: +17709559347. Website: https://crc-day-spa.business.site/. | https://registry-edge.dingalinged.workers.dev/c/irelax-spa-smyrna/
+1. iRelax Spa | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | iRelax Spa is a massage studio in Smyrna, GA at 2429 Cobb Parkway South, Smyrna, GA 30080. Phone: +17709559347. Website: https://crc-day-spa.business.site/. | https://registry-edge.dingalinged.workers.dev/c/irelax-spa-smyrna/
 2. Yong Shang Massage | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Yong Shang Massage is a massage studio in Smyrna, GA at 2350 Spring Road Southeast, Smyrna, GA 30080. Phone: +16784248091. | https://registry-edge.dingalinged.workers.dev/c/yong-shang-massage-smyrna/
-3. ZR Massage | Organic #3 | Pulse Score 58.1/100 (Unrated, #3 in city) | ZR Massage is a massage studio in Smyrna, GA at 821 Concord Road Southeast, Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/zr-massage-smyrna/
+3. ZR Massage | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | ZR Massage is a massage studio in Smyrna, GA at 821 Concord Road Southeast, Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/zr-massage-smyrna/
 4. H Massage | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | H Massage is a massage studio in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/h-massage-smyrna/
-5. Q Massage | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Q Massage is a massage studio in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/q-massage-smyrna/
-6. Thai Herbal Spa | Organic #6 | Pulse Score 54.5/100 (Unrated, #6 in city) | Thai Herbal Spa is a massage studio in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/thai-herbal-spa-smyrna/
-7. LaVida Massage | Organic #7 | Pulse Score 43.1/100 (Building, #7 in city) | LaVida Massage is a massage studio in Smyrna, GA at 1200 South Cobb Drive, Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/lavida-massage-smyrna/
+5. Thai Herbal Spa | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Thai Herbal Spa is a massage studio in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/thai-herbal-spa-smyrna/
+6. LaVida Massage | Organic #6 | Pulse Score 43.1/100 (Building, #6 in city) | LaVida Massage is a massage studio in Smyrna, GA at 1200 South Cobb Drive, Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/lavida-massage-smyrna/
+7. Q Massage | Organic #7 | Pulse Score 41.7/100 (Unrated, #7 in city) | Q Massage is a massage studio in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/q-massage-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage smyrna ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

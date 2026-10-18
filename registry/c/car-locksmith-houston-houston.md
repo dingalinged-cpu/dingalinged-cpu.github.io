@@ -19,6 +19,6 @@ Car Locksmith Houston is a locksmith in Houston, TX at 7238 Granite Terrace Ln, 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/car-locksmith-houston-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/car-locksmith-houston-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5495576172 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5495576172 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

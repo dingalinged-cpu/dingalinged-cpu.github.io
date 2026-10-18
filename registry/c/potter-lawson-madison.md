@@ -13,7 +13,7 @@ Potter Lawson is an architect in Madison, WI at 749 University Row, Madison, WI 
 - Website: https://www.potterlawson.com/
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-17:00
-- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 10% of architects in Madison, #1 of 8 architects in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 10% of architects in Madison, #1 of 8 architects in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

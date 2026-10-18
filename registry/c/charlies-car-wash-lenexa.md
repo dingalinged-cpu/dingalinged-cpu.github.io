@@ -13,7 +13,7 @@ Charlie's Car Wash is a car wash in Lenexa, KS at 16245 West 87th Street Parkway
 - Website: https://charlies.https://charlies.com/locations/lenexa-ks/com/locations/lenexa-ks-opening-soon/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-20:00; Su 10:00-18:00
-- Pulse Score: 49.7/100 — Unrated (not enough evidence yet) — top 66% of car washes in Kansas City, MO, #5 of 5 car washes in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Unrated (not enough evidence yet) — top 61% of car washes in Kansas City, MO, #3 of 5 car washes in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

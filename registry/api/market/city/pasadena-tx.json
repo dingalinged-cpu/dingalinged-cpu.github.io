@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Pasadena, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
- "keywords": 28,
+ "keywords": 34,
  "lists": {
   "by_volume": [
    {
@@ -20,7 +20,7 @@
     "search_value_index_usd": 180000,
     "equivalent_google_ads_cost_month_usd": 10000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 2,
+    "registry_competitors": 3,
     "ranked_by": "by_volume"
    },
    {
@@ -35,6 +35,21 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "gym pasadena tx",
+    "slug": "gym-pasadena-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-pasadena-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 42000,
+    "cpc_basis_usd": 1.67,
+    "cpc_median_usd": 6.17,
+    "search_value_index_usd": 70000,
+    "equivalent_google_ads_cost_month_usd": 5000,
+    "featured_spot_min_usd": 50,
     "registry_competitors": 1,
     "ranked_by": "by_volume"
    },
@@ -95,7 +110,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 3900,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_volume"
    },
    {
@@ -140,7 +155,7 @@
     "search_value_index_usd": 30000,
     "equivalent_google_ads_cost_month_usd": 1700,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_volume"
    },
    {
@@ -155,7 +170,7 @@
     "search_value_index_usd": 7100,
     "equivalent_google_ads_cost_month_usd": 590,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 3,
+    "registry_competitors": 4,
     "ranked_by": "by_volume"
    },
    {
@@ -200,7 +215,7 @@
     "search_value_index_usd": 3700,
     "equivalent_google_ads_cost_month_usd": 310,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 3,
+    "registry_competitors": 4,
     "ranked_by": "by_volume"
    },
    {
@@ -214,21 +229,6 @@
     "cpc_median_usd": 9.87,
     "search_value_index_usd": 11000,
     "equivalent_google_ads_cost_month_usd": 650,
-    "featured_spot_min_usd": 100,
-    "registry_competitors": 1,
-    "ranked_by": "by_volume"
-   },
-   {
-    "keyword": "plumbing services pasadena tx",
-    "slug": "plumbing-services-pasadena-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-pasadena-tx/",
-    "us_monthly_searches": 49500,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 1100,
-    "cpc_basis_usd": 13.9,
-    "cpc_median_usd": 10.49,
-    "search_value_index_usd": 15000,
-    "equivalent_google_ads_cost_month_usd": 970,
     "featured_spot_min_usd": 100,
     "registry_competitors": 1,
     "ranked_by": "by_volume"
@@ -341,6 +341,21 @@
     "ranked_by": "by_cpc"
    },
    {
+    "keyword": "storage units pasadena tx",
+    "slug": "storage-units-pasadena-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-pasadena-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 5100,
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "search_value_index_usd": 42000,
+    "equivalent_google_ads_cost_month_usd": 2700,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "dance studio pasadena tx",
     "slug": "dance-studio-pasadena-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-pasadena-tx/",
@@ -351,6 +366,21 @@
     "cpc_median_usd": 6.17,
     "search_value_index_usd": 5700,
     "equivalent_google_ads_cost_month_usd": 410,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "martial arts pasadena tx",
+    "slug": "martial-arts-pasadena-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-pasadena-tx/",
+    "us_monthly_searches": 300000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 6900,
+    "cpc_basis_usd": 6.17,
+    "cpc_median_usd": 6.17,
+    "search_value_index_usd": 43000,
+    "equivalent_google_ads_cost_month_usd": 3100,
     "featured_spot_min_usd": 50,
     "registry_competitors": 1,
     "ranked_by": "by_cpc"
@@ -412,7 +442,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_cpc"
    },
    {
@@ -428,36 +458,6 @@
     "equivalent_google_ads_cost_month_usd": 2200,
     "featured_spot_min_usd": 50,
     "registry_competitors": 3,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "auto repair pasadena tx",
-    "slug": "auto-repair-pasadena-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-pasadena-tx/",
-    "us_monthly_searches": 301000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 7000,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 30000,
-    "equivalent_google_ads_cost_month_usd": 1700,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "car wash pasadena tx",
-    "slug": "car-wash-pasadena-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-pasadena-tx/",
-    "us_monthly_searches": 1830000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 42000,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 180000,
-    "equivalent_google_ads_cost_month_usd": 10000,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 2,
     "ranked_by": "by_cpc"
    }
   ],
@@ -489,7 +489,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_value"
    },
    {
@@ -504,7 +504,7 @@
     "search_value_index_usd": 180000,
     "equivalent_google_ads_cost_month_usd": 10000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 2,
+    "registry_competitors": 3,
     "ranked_by": "by_value"
    },
    {
@@ -523,6 +523,21 @@
     "ranked_by": "by_value"
    },
    {
+    "keyword": "gym pasadena tx",
+    "slug": "gym-pasadena-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-pasadena-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 42000,
+    "cpc_basis_usd": 1.67,
+    "cpc_median_usd": 6.17,
+    "search_value_index_usd": 70000,
+    "equivalent_google_ads_cost_month_usd": 5000,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   },
+   {
     "keyword": "mechanic pasadena tx",
     "slug": "mechanic-pasadena-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-pasadena-tx/",
@@ -534,7 +549,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 3900,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_value"
    },
    {
@@ -579,7 +594,7 @@
     "search_value_index_usd": 30000,
     "equivalent_google_ads_cost_month_usd": 1700,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 2,
     "ranked_by": "by_value"
    },
    {
@@ -669,22 +684,7 @@
     "search_value_index_usd": 7100,
     "equivalent_google_ads_cost_month_usd": 590,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 3,
-    "ranked_by": "by_value"
-   },
-   {
-    "keyword": "family doctor pasadena tx",
-    "slug": "family-doctor-pasadena-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-pasadena-tx/",
-    "us_monthly_searches": 33100,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 770,
-    "cpc_basis_usd": 4.76,
-    "cpc_median_usd": 4.76,
-    "search_value_index_usd": 3700,
-    "equivalent_google_ads_cost_month_usd": 250,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 4,
     "ranked_by": "by_value"
    }
   ]

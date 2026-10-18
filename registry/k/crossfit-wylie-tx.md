@@ -6,7 +6,7 @@ Also answers: crossfit in Wylie, TX; crossfit near me (Wylie, TX); best crossfit
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Podium Up Weightlifting | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Podium Up Weightlifting is a CrossFit gym in Wylie, TX. | https://registry-edge.dingalinged.workers.dev/c/podium-up-weightlifting-wylie/
+1. Podium Up Weightlifting | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Podium Up Weightlifting is a CrossFit gym in Wylie, TX. | https://registry-edge.dingalinged.workers.dev/c/podium-up-weightlifting-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: crossfit wylie tx | category: Fitness | industry benchmark: Health & Fitness

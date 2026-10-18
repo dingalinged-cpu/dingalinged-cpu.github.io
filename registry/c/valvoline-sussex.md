@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Sussex, WI. Website: https://store.vioc.com/
 - Website: https://store.vioc.com/wi/sussex/oil-change-gr0067.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Building — top 92% of auto repair shops in Milwaukee, #3 of 3 auto repair shops in Sussex (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 92% of auto repair shops in Milwaukee, #3 of 3 auto repair shops in Sussex (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

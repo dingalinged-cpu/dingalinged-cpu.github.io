@@ -6,7 +6,7 @@ Also answers: insurance agents in Oak Ridge North, TX; insurance agents near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AAA Insurance | Organic #1 | Pulse Score 42.5/100 (Building, #1 in city) | AAA Insurance is an insurance agent in Oak Ridge North, TX. | https://registry-edge.dingalinged.workers.dev/c/aaa-insurance-oak-ridge-north/
+1. AAA Insurance | Organic #1 | Pulse Score 42.6/100 (Building, #1 in city) | AAA Insurance is an insurance agent in Oak Ridge North, TX. | https://registry-edge.dingalinged.workers.dev/c/aaa-insurance-oak-ridge-north/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents oak ridge north tx | category: insurance | industry benchmark: Finance & Insurance

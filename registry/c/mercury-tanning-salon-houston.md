@@ -13,12 +13,12 @@ Mercury Tanning Salon is a tanning salon in Houston, TX at 4003 Rustic Woods Dri
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.1/100 — Unrated (not enough evidence yet) — top 46% of tanning salons in Houston, #2 of 5 tanning salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.6/100 — Unrated (not enough evidence yet) — top 39% of tanning salons in Houston, #2 of 6 tanning salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mercury-tanning-salon-houston/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mercury-tanning-salon-houston.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/4309519892 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4309519892 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Freedom Wealth Alliance is a financial advisor in Brookfield, WI at 675 North Ba
 - Website: https://freedomwealthalliance.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.9/100 — Good — top 6% of financial advisors in Milwaukee, #2 of 6 financial advisors in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 6% of financial advisors in Milwaukee, #2 of 6 financial advisors in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

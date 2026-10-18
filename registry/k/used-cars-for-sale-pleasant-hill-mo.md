@@ -6,7 +6,7 @@ Also answers: used cars for sale in Pleasant Hill, MO; used cars for sale near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TRI-C Motors | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | TRI-C Motors is an used car dealer in Pleasant Hill, MO at 15825 MO 7, Pleasant Hill, MO 64080. Phone: +18165402323. Website: https://www.tricmotors.com/. | https://registry-edge.dingalinged.workers.dev/c/tri-c-motors-pleasant-hill/
+1. TRI-C Motors | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | TRI-C Motors is an used car dealer in Pleasant Hill, MO at 15825 MO 7, Pleasant Hill, MO 64080. Phone: +18165402323. Website: https://www.tricmotors.com/. | https://registry-edge.dingalinged.workers.dev/c/tri-c-motors-pleasant-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale pleasant hill mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

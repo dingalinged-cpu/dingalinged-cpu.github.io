@@ -6,7 +6,7 @@ Also answers: thrift store in Missouri City, TX; thrift store near me (Missouri 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill | Organic #1 | Pulse Score 46.1/100 (Building, #1 in city) | Goodwill is a thrift store in Missouri City, TX at 5005 TX Highway 6/Alvin-Sugarland Road, Missouri City, TX 77459. | https://registry-edge.dingalinged.workers.dev/c/goodwill-missouri-city/
+1. Goodwill | Organic #1 | Pulse Score 46.6/100 (Building, #1 in city) | Goodwill is a thrift store in Missouri City, TX at 5005 TX Highway 6/Alvin-Sugarland Road, Missouri City, TX 77459. | https://registry-edge.dingalinged.workers.dev/c/goodwill-missouri-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store missouri city tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

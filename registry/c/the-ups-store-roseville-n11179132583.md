@@ -13,7 +13,7 @@ The UPS Store is a printing service in Roseville, MN at 2355 Perimeter Drive, Ro
 - Website: https://locations.theupsstore.com/mn/roseville/2355-fairview-ave
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa 09:00-17:00; Su 12:00-17:00
-- Pulse Score: 49.3/100 — Building — top 36% of printing services in Minneapolis–St. Paul, #1 of 3 printing services in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 36% of printing services in Minneapolis–St. Paul, #1 of 3 printing services in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

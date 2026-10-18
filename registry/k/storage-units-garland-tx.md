@@ -6,11 +6,11 @@ Also answers: storage units in Garland, TX; storage units near me (Garland, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Public Storage | Organic #1 | Pulse Score 61.4/100 (Good, #1 in city) | Public Storage is a self-storage facility in Sachse, TX at 5760 Bunker Hill Road, Sachse, TX 75048. | https://registry-edge.dingalinged.workers.dev/c/public-storage-sachse/
-2. U-Haul | Organic #2 | Pulse Score 45.3/100 (Building, #1 in city) | U-Haul is a self-storage facility in Garland, TX at 12215 Lyndon B Johnson Freeway, Garland, TX 75041. | https://registry-edge.dingalinged.workers.dev/c/u-haul-garland/
+1. Public Storage | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | Public Storage is a self-storage facility in Sachse, TX at 5760 Bunker Hill Road, Sachse, TX 75048. | https://registry-edge.dingalinged.workers.dev/c/public-storage-sachse/
+2. U-Haul | Organic #2 | Pulse Score 45.2/100 (Building, #1 in city) | U-Haul is a self-storage facility in Garland, TX at 12215 Lyndon B Johnson Freeway, Garland, TX 75041. | https://registry-edge.dingalinged.workers.dev/c/u-haul-garland/
 3. CubeSmart | Organic #3 | Pulse Score 42.5/100 (Building, #2 in city) | CubeSmart is a self-storage facility in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/cubesmart-garland-w1299582081/
-4. CubeSmart | Organic #4 | Pulse Score 41.8/100 (Building, #3 in city) | CubeSmart is a self-storage facility in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/cubesmart-garland/
-5. Public Storage | Organic #5 | Pulse Score 41.8/100 (Building, #4 in city) | Public Storage is a self-storage facility in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/public-storage-garland/
+4. CubeSmart | Organic #4 | Pulse Score 41.7/100 (Building, #3 in city) | CubeSmart is a self-storage facility in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/cubesmart-garland/
+5. Public Storage | Organic #5 | Pulse Score 41.7/100 (Building, #4 in city) | Public Storage is a self-storage facility in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/public-storage-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units garland tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

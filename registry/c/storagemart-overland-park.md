@@ -13,7 +13,7 @@ StorageMart is a self-storage facility in Overland Park, KS at 6801 West 91st St
 - Website: https://www.storage-mart.com/kansas-city/overland-park/66212-west-91st-street
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 56% of self-storage facilitys in Kansas City, MO, #2 of 2 self-storage facilitys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 56% of self-storage facilitys in Kansas City, MO, #2 of 2 self-storage facilitys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

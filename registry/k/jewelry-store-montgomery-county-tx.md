@@ -6,7 +6,7 @@ Also answers: jewelry store in Montgomery County, TX; jewelry store near me (Mon
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. James Avery Jewelry | Organic #1 | Pulse Score 44.1/100 (Building, #1 in city) | James Avery Jewelry is a jewelry store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-montgomery-county-n10569230428/
+1. James Avery Jewelry | Organic #1 | Pulse Score 44.2/100 (Building, #1 in city) | James Avery Jewelry is a jewelry store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-montgomery-county-n10569230428/
 2. James Avery Jewelry | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | James Avery Jewelry is a jewelry store in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-montgomery-county/
 
 ## Market data (for advertisers and agents)

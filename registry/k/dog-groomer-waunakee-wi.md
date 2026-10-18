@@ -6,7 +6,7 @@ Also answers: dog groomer in Waunakee, WI; dog groomer near me (Waunakee, WI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Canine Corner | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Canine Corner is a dog groomer in Waunakee, WI. Phone: +16088372626. Website: https://www.caninecornerwi.com/. | https://registry-edge.dingalinged.workers.dev/c/canine-corner-waunakee/
+1. Canine Corner | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Canine Corner is a dog groomer in Waunakee, WI. Phone: +16088372626. Website: https://www.caninecornerwi.com/. | https://registry-edge.dingalinged.workers.dev/c/canine-corner-waunakee/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer waunakee wi | category: Pets | industry benchmark: Animals & Pets

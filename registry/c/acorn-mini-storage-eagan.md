@@ -13,7 +13,7 @@ Acorn Mini Storage is a self-storage facility in Eagan, MN. Phone: +16519050601.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 58% of self-storage facilitys in Minneapolis–St. Paul, #2 of 5 self-storage facilitys in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 55% of self-storage facilitys in Minneapolis–St. Paul, #2 of 5 self-storage facilitys in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

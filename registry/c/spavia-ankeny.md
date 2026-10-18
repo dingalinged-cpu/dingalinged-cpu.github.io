@@ -13,7 +13,7 @@ Spavia is a spa in Ankeny, IA at 1631 Southwest Main Street, Ankeny, IA 50023. P
 - Website: https://ankenyia.spaviadayspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
-- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 100% of spas in Des Moines, IA, #1 of 1 spas in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 100% of spas in Des Moines, IA, #1 of 1 spas in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

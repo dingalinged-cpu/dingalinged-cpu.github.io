@@ -6,7 +6,7 @@ Also answers: tanning salon in Kansas City, MO; tanning salon near me (Kansas Ci
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Tan | Organic #1 | Pulse Score 61.1/100 (Good, #1 in city) | Total Tan is a tanning salon in Kansas City, MO at 4704 North Ambassador Drive, Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/total-tan-kansas-city/
+1. Total Tan | Organic #1 | Pulse Score 61/100 (Good, #1 in city) | Total Tan is a tanning salon in Kansas City, MO at 4704 North Ambassador Drive, Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/total-tan-kansas-city/
 2. District Tan | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | District Tan is a tanning salon in Kansas City, MO at 11 East 12th Street, Kansas City, MO 64106. Website: https://www.districttan.com/. | https://registry-edge.dingalinged.workers.dev/c/district-tan-kansas-city/
 3. Tan360 | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | Tan360 is a tanning salon in Kansas City, MO at 2022 Washington Street, Kansas City, MO 64108. Website: https://www.tan360kc.com/. | https://registry-edge.dingalinged.workers.dev/c/tan360-kansas-city/
 4. Palm Beach Tan | Organic #4 | Pulse Score 42/100 (Unrated, #4 in city) | Palm Beach Tan is a tanning salon in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-kansas-city/

@@ -6,7 +6,7 @@ Also answers: dance studio in Frisco, TX; dance studio near me (Frisco, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ballet Ballet Dance Studio | Organic #1 | Pulse Score 65.3/100 (Good, #1 in city) | Ballet Ballet Dance Studio is a dance studio in Frisco, TX at 9244 Prestmont Place #220, Frisco, TX. Phone: +14697939986. Website: https://ballet-ballet.com/. | https://registry-edge.dingalinged.workers.dev/c/ballet-ballet-dance-studio-frisco/
+1. Ballet Ballet Dance Studio | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Ballet Ballet Dance Studio is a dance studio in Frisco, TX at 9244 Prestmont Place #220, Frisco, TX. Phone: +14697939986. Website: https://ballet-ballet.com/. | https://registry-edge.dingalinged.workers.dev/c/ballet-ballet-dance-studio-frisco/
 2. Studio Dance Centre | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Studio Dance Centre is a dance studio in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/studio-dance-centre-frisco/
 
 ## Market data (for advertisers and agents)

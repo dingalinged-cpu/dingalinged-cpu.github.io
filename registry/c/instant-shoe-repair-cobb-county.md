@@ -13,7 +13,7 @@ Instant Shoe Repair is a shoe repair in Cobb County, GA at 3162 Johnson Ferry Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su off
-- Pulse Score: 61.8/100 — Good — top 32% of shoe repairs in Atlanta, #2 of 3 shoe repairs in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 32% of shoe repairs in Atlanta, #2 of 3 shoe repairs in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

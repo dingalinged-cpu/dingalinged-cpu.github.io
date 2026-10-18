@@ -13,7 +13,7 @@ Premier Occupational Health at Silver Cross is a family medicine practice in New
 - Website: https://www.silvercross.org/locations/profile/occupational-health/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 32% of family medicine practices in Chicago, #1 of 1 family medicine practices in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 32% of family medicine practices in Chicago, #1 of 1 family medicine practices in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

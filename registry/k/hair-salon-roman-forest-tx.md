@@ -6,7 +6,7 @@ Also answers: hair salon in Roman Forest, TX; hair salon near me (Roman Forest, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Creative Hair Salon | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Creative Hair Salon is a hair salon in Roman Forest, TX at 1714 Roman Forest Boulevard #A, Roman Forest, TX 77357. Phone: +18324456741. | https://registry-edge.dingalinged.workers.dev/c/creative-hair-salon-roman-forest/
+1. Creative Hair Salon | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Creative Hair Salon is a hair salon in Roman Forest, TX at 1714 Roman Forest Boulevard #A, Roman Forest, TX 77357. Phone: +18324456741. | https://registry-edge.dingalinged.workers.dev/c/creative-hair-salon-roman-forest/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon roman forest tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

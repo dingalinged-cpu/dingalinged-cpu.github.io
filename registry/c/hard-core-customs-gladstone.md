@@ -13,7 +13,7 @@ Hard Core Customs is a motorcycle repair shop in Gladstone, MO. Website: https:/
 - Website: https://www.hardcorecustoms.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-18:00; Sa 10:00-13:00
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 50% of motorcycle repair shops in Kansas City, MO, #1 of 1 motorcycle repair shops in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 50% of motorcycle repair shops in Kansas City, MO, #1 of 1 motorcycle repair shops in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

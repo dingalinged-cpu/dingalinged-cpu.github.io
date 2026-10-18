@@ -19,6 +19,6 @@ Evolve Real Estate is a real estate agency in Dallas, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/evolve-real-estate-dallas/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/evolve-real-estate-dallas.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13668317444 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13668317444 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

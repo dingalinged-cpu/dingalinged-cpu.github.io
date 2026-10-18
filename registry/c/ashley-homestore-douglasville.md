@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Douglasville, GA at 6875 Douglas Boulev
 - Website: https://stores.ashleyfurniture.com/store/us/georgia/douglasville/9000339289/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Building — top 63% of furniture stores in Atlanta, #2 of 5 furniture stores in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 63% of furniture stores in Atlanta, #2 of 5 furniture stores in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

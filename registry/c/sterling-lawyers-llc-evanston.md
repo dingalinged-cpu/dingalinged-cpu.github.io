@@ -13,7 +13,7 @@ Sterling Lawyers, LLC is a lawyer in Evanston, IL at 1603 Orrington Avenue #Suit
 - Website: https://www.sterlinglawyers.com/illinois/locations/evanston/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 97% of lawyers in Chicago, #2 of 2 lawyers in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 96% of lawyers in Chicago, #2 of 2 lawyers in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

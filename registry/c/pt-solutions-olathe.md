@@ -13,7 +13,7 @@ PT Solutions is a physical therapy clinic in Olathe, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.3/100 — Unrated (not enough evidence yet) — top 83% of physical therapy clinics in Kansas City, MO, #3 of 3 physical therapy clinics in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.3/100 — Unrated (not enough evidence yet) — top 83% of physical therapy clinics in Kansas City, MO, #3 of 3 physical therapy clinics in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

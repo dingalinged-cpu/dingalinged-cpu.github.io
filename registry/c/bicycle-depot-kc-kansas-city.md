@@ -13,7 +13,7 @@ Bicycle Depot KC is a bike shop in Kansas City, MO at 220 West 75th Street #A, K
 - Website: https://www.bikedepotkc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:00; Su 12:00-16:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 12% of bike shops in Kansas City, MO, #3 of 10 bike shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 12% of bike shops in Kansas City, MO, #3 of 10 bike shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

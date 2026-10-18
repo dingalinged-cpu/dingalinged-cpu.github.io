@@ -13,7 +13,7 @@ Drexler Glass Company is a window repair service in Atlanta, GA at 1452 Northsid
 - Website: https://www.drexlerglass.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:15; Sa-Su off
-- Pulse Score: 63.7/100 — Good — top 29% of window repair services in Atlanta, #1 of 1 window repair services in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 29% of window repair services in Atlanta, #1 of 1 window repair services in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

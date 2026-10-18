@@ -6,7 +6,7 @@ Also answers: dance studio in Des Moines, IA; dance studio near me (Des Moines, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Devine Dancers | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Devine Dancers is a dance studio in Des Moines, IA at 2913 Ingersoll Avenue, Des Moines, IA 50312. Phone: +15157836401. Website: https://devinedancers.com/. | https://registry-edge.dingalinged.workers.dev/c/devine-dancers-des-moines/
+1. Devine Dancers | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Devine Dancers is a dance studio in Des Moines, IA at 2913 Ingersoll Avenue, Des Moines, IA 50312. Phone: +15157836401. Website: https://devinedancers.com/. | https://registry-edge.dingalinged.workers.dev/c/devine-dancers-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio des moines ia | category: Fitness | industry benchmark: Health & Fitness

@@ -6,7 +6,7 @@ Also answers: nail salon in Lake Dallas, TX; nail salon near me (Lake Dallas, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. VIP Nail & Spa | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | VIP Nail & Spa is a nail salon in Lake Dallas, TX at 303 Swisher Road #Suite 240, Lake Dallas, TX 75065. | https://registry-edge.dingalinged.workers.dev/c/vip-nail-and-spa-lake-dallas/
+1. VIP Nail & Spa | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | VIP Nail & Spa is a nail salon in Lake Dallas, TX at 303 Swisher Road #Suite 240, Lake Dallas, TX 75065. | https://registry-edge.dingalinged.workers.dev/c/vip-nail-and-spa-lake-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon lake dallas tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

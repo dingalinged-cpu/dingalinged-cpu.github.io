@@ -19,6 +19,6 @@ All Star Muffler & Brake is an auto repair shop in Conroe, TX at 3900 FM 1488, C
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/all-star-muffler-and-brake-conroe/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/all-star-muffler-and-brake-conroe.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/503245812 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/503245812 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

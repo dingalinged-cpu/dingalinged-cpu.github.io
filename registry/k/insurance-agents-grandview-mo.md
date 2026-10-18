@@ -6,7 +6,7 @@ Also answers: insurance agents in Grandview, MO; insurance agents near me (Grand
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Family Insurance | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | American Family Insurance is an insurance agent in Grandview, MO at 801 Main Street #100, Grandview, MO 64030. Phone: +18167639114. Website: https://insurance-agency.amfam.com/mo/jacob-buttram. | https://registry-edge.dingalinged.workers.dev/c/american-family-insurance-grandview/
+1. American Family Insurance | Organic #1 | Pulse Score 49.1/100 (Building, #1 in city) | American Family Insurance is an insurance agent in Grandview, MO at 801 Main Street #100, Grandview, MO 64030. Phone: +18167639114. Website: https://insurance-agency.amfam.com/mo/jacob-buttram. | https://registry-edge.dingalinged.workers.dev/c/american-family-insurance-grandview/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents grandview mo | category: insurance | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ LaserAway is a skin care studio in Chicago, IL at 666 North Wells Street, Chicag
 - Website: https://www.laseraway.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42/100 — Building — top 91% of skin care studios in Chicago, #10 of 11 skin care studios in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 41.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42/100 — Building — top 91% of skin care studios in Chicago, #10 of 11 skin care studios in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

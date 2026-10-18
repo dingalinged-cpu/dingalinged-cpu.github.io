@@ -6,8 +6,8 @@ Also answers: haircut in Fulshear, TX; haircut near me (Fulshear, TX); best hair
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dreamcuts and Styles Hair Salon | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Dreamcuts and Styles Hair Salon is a hair salon in Fulshear, TX at 8525 FM 359, Fulshear, TX. Phone: +18323106159. Website: https://www.dreamcutsandstyles.com/. | https://registry-edge.dingalinged.workers.dev/c/dreamcuts-and-styles-hair-salon-fulshear/
-2. V's Barbershop | Organic #2 | Pulse Score 44/100 (Unrated, #1 in city) | V's Barbershop is a barber shop in Fulshear, TX at 6420 FM 1463 #300, Fulshear, TX 77441. | https://registry-edge.dingalinged.workers.dev/c/vs-barbershop-fulshear/
+1. Dreamcuts and Styles Hair Salon | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Dreamcuts and Styles Hair Salon is a hair salon in Fulshear, TX at 8525 FM 359, Fulshear, TX. Phone: +18323106159. Website: https://www.dreamcutsandstyles.com/. | https://registry-edge.dingalinged.workers.dev/c/dreamcuts-and-styles-hair-salon-fulshear/
+2. V's Barbershop | Organic #2 | Pulse Score 43.9/100 (Unrated, #1 in city) | V's Barbershop is a barber shop in Fulshear, TX at 6420 FM 1463 #300, Fulshear, TX 77441. | https://registry-edge.dingalinged.workers.dev/c/vs-barbershop-fulshear/
 3. Great Clips | Organic #3 | Pulse Score 42.7/100 (Building, #2 in city) | Great Clips is a hair salon in Fulshear, TX. | https://registry-edge.dingalinged.workers.dev/c/great-clips-fulshear/
 
 ## Market data (for advertisers and agents)

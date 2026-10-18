@@ -6,7 +6,7 @@ Also answers: gym in Stafford, TX; gym near me (Stafford, TX); best gym Stafford
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alphalete Gym | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Alphalete Gym is a gym in Stafford, TX at 711 Avenue E, Stafford, TX 77477. Phone: +12819697545. | https://registry-edge.dingalinged.workers.dev/c/alphalete-gym-stafford/
+1. Alphalete Gym | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Alphalete Gym is a gym in Stafford, TX at 711 Avenue E, Stafford, TX 77477. Phone: +12819697545. | https://registry-edge.dingalinged.workers.dev/c/alphalete-gym-stafford/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym stafford tx | category: Fitness | industry benchmark: Health & Fitness

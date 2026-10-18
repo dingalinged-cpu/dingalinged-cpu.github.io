@@ -13,7 +13,7 @@ MoJo Real Estate Team is a real estate agency in Kansas City, MO at 310 Northwes
 - Website: https://mojokc.com/
 - Email: TeamMoJoKC@gmail.com
 - Opening hours (OSM syntax): Mo-Su 09:00-17:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of real estate agencys in Kansas City, MO, #2 of 22 real estate agencys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of real estate agencys in Kansas City, MO, #2 of 22 real estate agencys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,17 +8,17 @@ Emerson at Red Oak is a property management company in Red Oak, TX at 351 Hickor
 - City: Red Oak
 - State: TX
 - ZIP: 75154
-- Coordinates: 32.5203347, -96.8158854
+- Coordinates: 32.5203346, -96.8158854
 - Phone: n/a
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 70% of property management companys in Dallas–Fort Worth, #3 of 4 property management companys in Red Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 67% of property management companys in Dallas–Fort Worth, #3 of 4 property management companys in Red Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/emerson-at-red-oak-red-oak/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/emerson-at-red-oak-red-oak.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1234744284 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1234744284 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

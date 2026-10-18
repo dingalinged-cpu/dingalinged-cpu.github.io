@@ -6,7 +6,7 @@ Also answers: storage units in Highland Village, TX; storage units near me (High
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Public Storage | Organic #1 | Pulse Score 50.4/100 (Fair, #1 in city) | Public Storage is a self-storage facility in Highland Village, TX at 4800 Village Pkwy, Highland Village, TX. Phone: +19726002522. Website: https://www.publicstorage.com/self-storage-tx-highland-village/2601.html. | https://registry-edge.dingalinged.workers.dev/c/public-storage-highland-village/
+1. Public Storage | Organic #1 | Pulse Score 50.3/100 (Fair, #1 in city) | Public Storage is a self-storage facility in Highland Village, TX at 4800 Village Pkwy, Highland Village, TX. Phone: +19726002522. Website: https://www.publicstorage.com/self-storage-tx-highland-village/2601.html. | https://registry-edge.dingalinged.workers.dev/c/public-storage-highland-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units highland village tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

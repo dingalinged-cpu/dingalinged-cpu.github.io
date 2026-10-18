@@ -6,7 +6,7 @@ Also answers: gym in Corinth, TX; gym near me (Corinth, TX); best gym Corinth, T
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. F45 Training | Organic #1 | Pulse Score 44.8/100 (Building, #1 in city) | F45 Training is a gym in Corinth, TX at 7650 South Interstate 35E, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/f45-training-corinth/
+1. F45 Training | Organic #1 | Pulse Score 44.6/100 (Building, #1 in city) | F45 Training is a gym in Corinth, TX at 7650 South Interstate 35E, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/f45-training-corinth/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym corinth tx | category: Fitness | industry benchmark: Health & Fitness

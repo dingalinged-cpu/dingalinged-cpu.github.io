@@ -13,7 +13,7 @@ Absolute Infrastructure is a general contractor in Grimes, IA at 3100 Southeast 
 - Website: https://www.ai-iowa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 67% of general contractors in Des Moines, IA, #1 of 1 general contractors in Grimes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 67% of general contractors in Des Moines, IA, #1 of 1 general contractors in Grimes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

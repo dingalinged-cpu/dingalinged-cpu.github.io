@@ -13,7 +13,7 @@ Neighborhood Painting & Restoration is a painting contractor in Bonner Springs, 
 - Website: https://kcneighborhoodpainting.com/
 - Email: office@kcneighborhoodpainting.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:00; Sa,Su off
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 50% of painting contractors in Kansas City, MO, #1 of 1 painting contractors in Bonner Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 50% of painting contractors in Kansas City, MO, #1 of 1 painting contractors in Bonner Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,4 +1,4 @@
-The top unpaid financial advisor listing for Carrollton, TX is Steve Pak CPA Office (a financial advisor in Carrollton, TX). 1 financial advisor businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Carrollton, TX is Steve Pak CPA Office (a financial advisor in Carrollton, TX at 2625 Old Denton Road #508, Carrollton, TX). 1 financial advisor businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Carrollton, TX?
 
@@ -6,7 +6,7 @@ Also answers: financial advisor in Carrollton, TX; financial advisor near me (Ca
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Steve Pak CPA Office | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Steve Pak CPA Office is a financial advisor in Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/steve-pak-cpa-office-carrollton/
+1. Steve Pak CPA Office | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Steve Pak CPA Office is a financial advisor in Carrollton, TX at 2625 Old Denton Road #508, Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/steve-pak-cpa-office-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor carrollton tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Hallmark is a gift shop in Kansas City, MO. Website: https://stores.hallmark.com
 - Website: https://stores.hallmark.com/mo/kansascity/amys-hallmark-shop-curbside-pick-up-available-kansascity-mo-052054.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Building — top 89% of gift shops in Kansas City, MO, #30 of 33 gift shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 89% of gift shops in Kansas City, MO, #30 of 33 gift shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

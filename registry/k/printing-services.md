@@ -1,4 +1,4 @@
-The top unpaid printing services listing for the United States is The Bitter Buffalo (a printing service in Minneapolis, MN at 4557 34th Avenue South, Minneapolis, MN 55406. Website: https://www.thebitterbuffalo.com/). 994 printing services businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for the United States is The Bitter Buffalo (a printing service in Minneapolis, MN at 4557 34th Avenue South, Minneapolis, MN 55406. Website: https://www.thebitterbuffalo.com/). 1188 printing services businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in the United States?
 
@@ -11,11 +11,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Associated Graphics | Organic #3 | Pulse Score 65.1/100 (Good, #1 in city) | Associated Graphics is a printing service in Mundelein, IL at 525 North Lake Street, Mundelein, IL 60060. Phone: +12244041009. Website: https://associatedgraphics.square.site/. | https://registry-edge.dingalinged.workers.dev/c/associated-graphics-mundelein/
 4. e2 Embroidery & Screen Printing | Organic #4 | Pulse Score 65.1/100 (Good, #1 in city) | e2 Embroidery & Screen Printing is a printing service in Kansas City, MO at 1451 North Topping Avenue, Kansas City, MO 64120. Phone: +18164209100. Website: https://e2embroidery.com/. | https://registry-edge.dingalinged.workers.dev/c/e2-embroidery-and-screen-printing-kansas-city/
 5. Farmkidz Brand Apparel | Organic #5 | Pulse Score 65/100 (Good, #1 in city) | Farmkidz Brand Apparel is a printing service in Lebanon, IN at 388 Mount Zion Road, Lebanon, IN 46052. Phone: +13175081140. Website: https://farmkidzbrand.com/. | https://registry-edge.dingalinged.workers.dev/c/farmkidz-brand-apparel-lebanon/
-6. Maniak Prints | Organic #6 | Pulse Score 64.6/100 (Good, #1 in city) | Maniak Prints is a printing service in Forney, TX at 11821 Classic Lane, Forney, TX 75126. Phone: +12149247776. Website: https://maniakprints.com/. | https://registry-edge.dingalinged.workers.dev/c/maniak-prints-forney/
+6. Maniak Prints | Organic #6 | Pulse Score 64.7/100 (Good, #1 in city) | Maniak Prints is a printing service in Forney, TX at 11821 Classic Lane, Forney, TX 75126. Phone: +12149247776. Website: https://maniakprints.com/. | https://registry-edge.dingalinged.workers.dev/c/maniak-prints-forney/
 7. Copyright Imprints | Organic #7 | Pulse Score 63.9/100 (Good, #1 in city) | Copyright Imprints is a printing service in Houston, TX at 14000 South Post Oak Road, Houston, TX 77045. Phone: +12819953337. | https://registry-edge.dingalinged.workers.dev/c/copyright-imprints-houston/
-8. Afternoon Printing | Organic #8 | Pulse Score 63.8/100 (Unrated, #2 in city) | Afternoon Printing is a printing service in Minneapolis, MN at 733 East 48th Street, Minneapolis, MN 55417. Phone: +16122597346. Website: https://www.afternoonprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/afternoon-printing-minneapolis/
-9. The Brown Box Dallas | Organic #9 | Pulse Score 63.7/100 (Good, #1 in city) | The Brown Box Dallas is a printing service in Dallas, TX at 110 North Akard Street, Dallas, TX 75201. Phone: +12142429412. | https://registry-edge.dingalinged.workers.dev/c/the-brown-box-dallas-dallas/
-10. Wichita Screen Printing | Organic #10 | Pulse Score 63.6/100 (Unrated, #1 in city) | Wichita Screen Printing is a printing service in Wichita, KS at 1433 West Douglas Avenue, Wichita, KS 67213. Phone: +13163909725. Website: https://www.wichitascreenprinting.com/wichita_screen_printing/shop/home. | https://registry-edge.dingalinged.workers.dev/c/wichita-screen-printing-wichita/
+8. The Brown Box Dallas | Organic #8 | Pulse Score 63.8/100 (Good, #1 in city) | The Brown Box Dallas is a printing service in Dallas, TX at 110 North Akard Street, Dallas, TX 75201. Phone: +12142429412. | https://registry-edge.dingalinged.workers.dev/c/the-brown-box-dallas-dallas/
+9. Afternoon Printing | Organic #9 | Pulse Score 63.8/100 (Unrated, #2 in city) | Afternoon Printing is a printing service in Minneapolis, MN at 733 East 48th Street, Minneapolis, MN 55417. Phone: +16122597346. Website: https://www.afternoonprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/afternoon-printing-minneapolis/
+10. Wichita Screen Printing | Organic #10 | Pulse Score 63.7/100 (Unrated, #1 in city) | Wichita Screen Printing is a printing service in Wichita, KS at 1433 West Douglas Avenue, Wichita, KS 67213. Phone: +13163909725. Website: https://www.wichitascreenprinting.com/wichita_screen_printing/shop/home. | https://registry-edge.dingalinged.workers.dev/c/wichita-screen-printing-wichita/
 11. Sprint Print Inc | Organic #11 | Pulse Score 63.4/100 (Unrated, #1 in city) | Sprint Print Inc is a printing service in Des Moines, IA at 210 Euclid Avenue, Des Moines, IA 50313. Phone: +15152449444. Website: https://www.sprint-print.com/. | https://registry-edge.dingalinged.workers.dev/c/sprint-print-inc-des-moines/
 12. Edwin Jarvis Concierge | Organic #12 | Pulse Score 63.4/100 (Unrated, #1 in city) | Edwin Jarvis Concierge is a printing service in Fayetteville, GA at 305 Trilith Parkway #300, Fayetteville, GA 30214. Phone: +16787014711. Website: https://edwinjarvis.com/. | https://registry-edge.dingalinged.workers.dev/c/edwin-jarvis-concierge-fayetteville/
 13. Digital Edge Copy & Print Center | Organic #13 | Pulse Score 63.3/100 (Unrated, #1 in city) | Digital Edge Copy & Print Center is a printing service in Milwaukee, WI at 775 North Jackson Street, Milwaukee, WI 53202. Phone: +14142723343. Website: https://www.digitaledgecc.com/locations.php. | https://registry-edge.dingalinged.workers.dev/c/digital-edge-copy-and-print-center-milwaukee/
@@ -23,72 +23,79 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 15. National Sign & Design | Organic #15 | Pulse Score 63/100 (Unrated, #1 in city) | National Sign & Design is a printing service in West Allis, WI at 11082 West National Avenue, West Allis, WI 53227. Phone: +14147274646. Website: https://ntlsign.com/. | https://registry-edge.dingalinged.workers.dev/c/national-sign-and-design-west-allis/
 16. Saturn Printing and Marketing | Organic #16 | Pulse Score 62.9/100 (Good, #1 in city) | Saturn Printing and Marketing is a printing service in Livonia, MI at 35175 Plymouth Road, Livonia, MI 48150. Phone: +17344272887. Website: https://www.saturnprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/saturn-printing-and-marketing-livonia/
 17. Print House.ink | Organic #17 | Pulse Score 62.8/100 (Good, #1 in city) | Print House.ink is a printing service in Cobb County, GA at 2520 Shallowford Road Northeast #H, Cobb County, GA. Phone: +17709775962. Website: https://printhouse.ink/. | https://registry-edge.dingalinged.workers.dev/c/print-house-ink-cobb-county/
-18. AlphaGraphics Middleton | Organic #18 | Pulse Score 62.8/100 (Unrated, #1 in city) | AlphaGraphics Middleton is a printing service in Middleton, WI at 3223 Parmenter Street, Middleton, WI 53562. Phone: +16088369999. Website: https://www.alphagraphicsmiddleton.com/. | https://registry-edge.dingalinged.workers.dev/c/alphagraphics-middleton-middleton/
-19. Actualink Designs | Organic #19 | Pulse Score 62.7/100 (Good, #2 in city) | Actualink Designs is a printing service in Milwaukee, WI at 319 West North Avenue, Milwaukee, WI 53212. Phone: +14145022077. Website: https://www.actualinkdesigns.com/. | https://registry-edge.dingalinged.workers.dev/c/actualink-designs-milwaukee/
-20. E.A. Graphics | Organic #20 | Pulse Score 62.6/100 (Unrated, #1 in city) | E.A. Graphics is a printing service in Sterling Heights, MI at 42111 Van Dyke Avenue, Sterling Heights, MI 48314. Phone: +15867261400. Website: https://eagraphics.com/eagraphics/shop/home. | https://registry-edge.dingalinged.workers.dev/c/e-a-graphics-sterling-heights/
-21. Digital Printing & Signs | Organic #21 | Pulse Score 62.5/100 (Unrated, #1 in city) | Digital Printing & Signs is a printing service in Norcross, GA at 6025 Peachtree Parkway Northwest #7, Norcross, GA 30092. Phone: +17704171527. Website: https://www.digitalcopycenters.com/. | https://registry-edge.dingalinged.workers.dev/c/digital-printing-and-signs-norcross/
-22. KN8 | Organic #22 | Pulse Score 62.5/100 (Unrated, #2 in city) | KN8 is a printing service in Cincinnati, OH at 4016 Allston Street, Cincinnati, OH 45209. Phone: +15133868757. Website: https://kn8designs.com/. | https://registry-edge.dingalinged.workers.dev/c/kn8-cincinnati/
-23. Cherokee Reprographics | Organic #23 | Pulse Score 62.4/100 (Good, #1 in city) | Cherokee Reprographics is a printing service in Woodstock, GA at 9740 Main Street #300, Woodstock, GA. Phone: +16784942000. Website: https://cherokeerepro.com/. | https://registry-edge.dingalinged.workers.dev/c/cherokee-reprographics-woodstock/
-24. Eagle Postal Center | Organic #24 | Pulse Score 62.4/100 (Unrated, #1 in city) | Eagle Postal Center is a printing service in Southlake, TX at 2140 East Southlake Boulevard #Suite L, Southlake, TX 76092. Phone: +18172512693. Website: https://epc16.com/. | https://registry-edge.dingalinged.workers.dev/c/eagle-postal-center-southlake/
-25. Creative Litho Printing | Organic #25 | Pulse Score 62.3/100 (Unrated, #1 in city) | Creative Litho Printing is a printing service in Saint Louis, MO at 3021 Cherokee Street, Saint Louis, MO 63118. Phone: +13147726779. Website: https://creativelithoprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/creative-litho-printing-saint-louis/
-26. ABC Printing | Organic #26 | Pulse Score 62.2/100 (Unrated, #1 in city) | ABC Printing is a printing service in Omaha, NE at 13302 Millard Avenue #104, Omaha, NE 68137. Phone: +14028950222. Website: https://abcprintingomaha.com/. | https://registry-edge.dingalinged.workers.dev/c/abc-printing-omaha/
-27. America's Finest Printing & Graphics | Organic #27 | Pulse Score 62.2/100 (Unrated, #1 in city) | America's Finest Printing & Graphics is a printing service in Fraser, MI at 17060 Masonic Boulevard #101, Fraser, MI 48026. Phone: +15862961312. Website: https://www.americasfinestprint.com/. | https://registry-edge.dingalinged.workers.dev/c/americas-finest-printing-and-graphics-fraser/
-28. Topeka Blueprint Company, Inc. | Organic #28 | Pulse Score 62/100 (Unrated, #1 in city) | Topeka Blueprint Company, Inc. is a printing service in Topeka, KS at 608 Southwest Jackson Street, Topeka, KS 66603. Phone: +17852327209. Website: https://www.topekablue.com/. | https://registry-edge.dingalinged.workers.dev/c/topeka-blueprint-company-inc-topeka/
-29. r design & printing | Organic #29 | Pulse Score 62/100 (Unrated, #1 in city) | r design & printing is a printing service in Columbus, OH at 30 East Fourth Avenue, Columbus, OH 43201. Phone: +16142991420. Website: https://www.rdesignandprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/r-design-and-printing-columbus/
-30. R Design & Printing Co | Organic #30 | Pulse Score 62/100 (Unrated, #1 in city) | R Design & Printing Co is a printing service in Grandview Heights, OH at 1060 Goodale Boulevard, Grandview Heights, OH 43212. Phone: +16142991420. Website: https://www.rdesignandprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/r-design-and-printing-co-grandview-heights/
-31. Copy Max | Organic #31 | Pulse Score 61.9/100 (Unrated, #1 in city) | Copy Max is a printing service in Chicago, IL at 1321 North Milwaukee Avenue, Chicago, IL 60622. | https://registry-edge.dingalinged.workers.dev/c/copy-max-chicago/
-32. Capitol Square Printing | Organic #32 | Pulse Score 61.7/100 (Unrated, #2 in city) | Capitol Square Printing is a printing service in Columbus, OH at 59 East Gay Street, Columbus, OH 43215. Phone: +16142212850. Website: https://capitolsquareprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/capitol-square-printing-columbus/
-33. AmeriPRESS | Organic #33 | Pulse Score 61.6/100 (Unrated, #1 in city) | AmeriPRESS is a printing service in Marietta, GA at 200 North Fairground Street Northeast, Marietta, GA 30060. Phone: +17704277258. Website: https://www.ameripress.biz/. | https://registry-edge.dingalinged.workers.dev/c/ameripress-marietta/
-34. Gibson Printing | Organic #34 | Pulse Score 61.5/100 (Unrated, #1 in city) | Gibson Printing is a printing service in Saint Peters, MO at 5903 Suemandy Drive, Saint Peters, MO 63376. Phone: +16369706316. Website: https://gibsonprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/gibson-printing-saint-peters/
-35. Milwaukee Printing Press | Organic #35 | Pulse Score 61.5/100 (Unrated, #3 in city) | Milwaukee Printing Press is a printing service in Milwaukee, WI at 541 North Broadway, Milwaukee, WI 53202. Phone: +14142260121. Website: https://www.milwaukeeprintingpress.com/. | https://registry-edge.dingalinged.workers.dev/c/milwaukee-printing-press-milwaukee/
-36. Shorewood Press | Organic #36 | Pulse Score 61.5/100 (Unrated, #1 in city) | Shorewood Press is a printing service in Shorewood, WI at 1700 East Capitol Drive, Shorewood, WI 53211. Phone: +14149639430. Website: https://www.theshorewoodpress.com/. | https://registry-edge.dingalinged.workers.dev/c/shorewood-press-shorewood/
-37. Allied Print & Copy | Organic #37 | Pulse Score 61.4/100 (Unrated, #2 in city) | Allied Print & Copy is a printing service in Chicago, IL at 5640 North Broadway, Chicago, IL 60660. Phone: +17733345200. Website: https://alliedprintandcopy.com/. | https://registry-edge.dingalinged.workers.dev/c/allied-print-and-copy-chicago/
-38. Hedgehog Signs | Organic #38 | Pulse Score 61.4/100 (Unrated, #1 in city) | Hedgehog Signs is a printing service in Newport, KY at 402 West 11th Street, Newport, KY 41071. Phone: +18592918544. Website: https://www.hedgehogsigns.com/. | https://registry-edge.dingalinged.workers.dev/c/hedgehog-signs-newport/
-39. Pak Mail | Organic #39 | Pulse Score 61.3/100 (Unrated, #1 in city) | Pak Mail is a printing service in Atlanta, GA at 300 Peachtree Street Northeast #CS2, Atlanta, GA. Phone: +14042281314. Website: https://www.pakmail.com/stores/pak-mail-atlanta. | https://registry-edge.dingalinged.workers.dev/c/pak-mail-atlanta/
-40. Wayne's Printing & Copying | Organic #40 | Pulse Score 61.3/100 (Unrated, #1 in city) | Wayne's Printing & Copying is a printing service in Hutchinson, KS at 26 South Main Street, Hutchinson, KS 67501. Phone: +16206624655. Website: https://www.waynesprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/waynes-printing-and-copying-hutchinson/
-41. PostNet | Organic #41 | Pulse Score 61.3/100 (Unrated, #1 in city) | PostNet is a printing service in Roanoke, TX at 1224 North US Highway 377 #Suite 303, Roanoke, TX 76262. Phone: +18175678023. Website: https://locations.postnet.com/tx/roanoke/1224-us-377. | https://registry-edge.dingalinged.workers.dev/c/postnet-roanoke/
-42. Mid Continent Label & Tag, Inc. | Organic #42 | Pulse Score 61.1/100 (Unrated, #1 in city) | Mid Continent Label & Tag, Inc. is a printing service in High Ridge Township, MO at 2796 High Ridge Boulevard, High Ridge Township, MO 63049. Phone: +16366774800. Website: https://midcontinentlabel.com/. | https://registry-edge.dingalinged.workers.dev/c/mid-continent-label-and-tag-inc-high-ridge-township/
-43. Visual Expressions Graphic Design & Printing, Inc. | Organic #43 | Pulse Score 61.1/100 (Unrated, #3 in city) | Visual Expressions Graphic Design & Printing, Inc. is a printing service in Minneapolis, MN at 4009 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16127291649. Website: https://printve.com/. | https://registry-edge.dingalinged.workers.dev/c/visual-expressions-graphic-design-and-printing-inc-minneapolis/
-44. The Goodie Shop | Organic #44 | Pulse Score 61/100 (Good, #3 in city) | The Goodie Shop is a printing service in Chicago, IL at 2100 South Pulaski Road, Chicago, IL 60623. Website: https://www.facebook.com/thegoodieshop2100/. | https://registry-edge.dingalinged.workers.dev/c/the-goodie-shop-chicago/
-45. Imprint & Accessories | Organic #45 | Pulse Score 61/100 (Unrated, #1 in city) | Imprint & Accessories is a printing service in Columbia, MO at 1412 I- 70 Drive Southwest, Columbia, MO 65203. | https://registry-edge.dingalinged.workers.dev/c/imprint-and-accessories-columbia/
-46. J&J Printing | Organic #46 | Pulse Score 61/100 (Unrated, #1 in city) | J&J Printing is a printing service in Lenexa, KS at 16701 West 116th Street, Lenexa, KS 66219. Phone: +19134914774. Website: https://www.jjprint.com/. | https://registry-edge.dingalinged.workers.dev/c/j-and-j-printing-lenexa/
-47. LDI Reproprinting Center | Organic #47 | Pulse Score 60.9/100 (Unrated, #2 in city) | LDI Reproprinting Center is a printing service in Norcross, GA at 3030 Business Park Drive ##A, Norcross, GA 30071. Phone: +17702631010. Website: https://ldigwinnett.com/. | https://registry-edge.dingalinged.workers.dev/c/ldi-reproprinting-center-norcross/
-48. Fast Signs | Organic #48 | Pulse Score 60.9/100 (Unrated, #3 in city) | Fast Signs is a printing service in Cincinnati, OH at 120 West 7th Street, Cincinnati, OH 45202. Phone: +15138473974. | https://registry-edge.dingalinged.workers.dev/c/fast-signs-cincinnati/
-49. CopyCo | Organic #49 | Pulse Score 60.8/100 (Unrated, #1 in city) | CopyCo is a printing service in Lawrence, KS at 540 Fireside Court #A, Lawrence, KS 66049. Phone: +17858322679. Website: https://copycousa.com/. | https://registry-edge.dingalinged.workers.dev/c/copyco-lawrence/
-50. Print Craft Studio | Organic #50 | Pulse Score 60.8/100 (Unrated, #1 in city) | Print Craft Studio is a printing service in Dormont, PA at 3241 West Liberty Avenue, Dormont, PA 15216. Phone: +14125611046. | https://registry-edge.dingalinged.workers.dev/c/print-craft-studio-dormont/
+18. Family Screen Graphics | Organic #18 | Pulse Score 62.8/100 (Unrated, #1 in city) | Family Screen Graphics is a printing service in Waco, TX at 115 South 18th Street, Waco, TX 76701. Phone: +12543668916. Website: https://familyscreengraphics.com/. | https://registry-edge.dingalinged.workers.dev/c/family-screen-graphics-waco/
+19. Moonlite Printing | Organic #19 | Pulse Score 62.8/100 (Unrated, #1 in city) | Moonlite Printing is a printing service in Carrollton, TX at 1933 East Frankford Road #190, Carrollton, TX. Phone: +19729399400. Website: https://moonliteprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/moonlite-printing-carrollton/
+20. AlphaGraphics Middleton | Organic #20 | Pulse Score 62.8/100 (Unrated, #1 in city) | AlphaGraphics Middleton is a printing service in Middleton, WI at 3223 Parmenter Street, Middleton, WI 53562. Phone: +16088369999. Website: https://www.alphagraphicsmiddleton.com/. | https://registry-edge.dingalinged.workers.dev/c/alphagraphics-middleton-middleton/
+21. Actualink Designs | Organic #21 | Pulse Score 62.7/100 (Good, #2 in city) | Actualink Designs is a printing service in Milwaukee, WI at 319 West North Avenue, Milwaukee, WI 53212. Phone: +14145022077. Website: https://www.actualinkdesigns.com/. | https://registry-edge.dingalinged.workers.dev/c/actualink-designs-milwaukee/
+22. The Mail Room | Organic #22 | Pulse Score 62.6/100 (Good, #1 in city) | The Mail Room is a printing service in Beaumont, TX at 148 South Dowlen Road, Beaumont, TX. | https://registry-edge.dingalinged.workers.dev/c/the-mail-room-beaumont/
+23. E.A. Graphics | Organic #23 | Pulse Score 62.6/100 (Unrated, #1 in city) | E.A. Graphics is a printing service in Sterling Heights, MI at 42111 Van Dyke Avenue, Sterling Heights, MI 48314. Phone: +15867261400. Website: https://eagraphics.com/eagraphics/shop/home. | https://registry-edge.dingalinged.workers.dev/c/e-a-graphics-sterling-heights/
+24. Digital Printing & Signs | Organic #24 | Pulse Score 62.5/100 (Unrated, #1 in city) | Digital Printing & Signs is a printing service in Norcross, GA at 6025 Peachtree Parkway Northwest #7, Norcross, GA 30092. Phone: +17704171527. Website: https://www.digitalcopycenters.com/. | https://registry-edge.dingalinged.workers.dev/c/digital-printing-and-signs-norcross/
+25. KN8 | Organic #25 | Pulse Score 62.5/100 (Unrated, #2 in city) | KN8 is a printing service in Cincinnati, OH at 4016 Allston Street, Cincinnati, OH 45209. Phone: +15133868757. Website: https://kn8designs.com/. | https://registry-edge.dingalinged.workers.dev/c/kn8-cincinnati/
+26. Bastrop Copier | Organic #26 | Pulse Score 62.4/100 (Good, #1 in city) | Bastrop Copier is a printing service in Bastrop, TX at 1002 Main Street, Bastrop, TX 78602. Phone: +15123211010. Website: https://www.bastropcopier.com/. | https://registry-edge.dingalinged.workers.dev/c/bastrop-copier-bastrop/
+27. Cherokee Reprographics | Organic #27 | Pulse Score 62.4/100 (Good, #1 in city) | Cherokee Reprographics is a printing service in Woodstock, GA at 9740 Main Street #300, Woodstock, GA. Phone: +16784942000. Website: https://cherokeerepro.com/. | https://registry-edge.dingalinged.workers.dev/c/cherokee-reprographics-woodstock/
+28. Eagle Postal Center | Organic #28 | Pulse Score 62.4/100 (Unrated, #1 in city) | Eagle Postal Center is a printing service in Southlake, TX at 2140 East Southlake Boulevard #Suite L, Southlake, TX 76092. Phone: +18172512693. Website: https://epc16.com/. | https://registry-edge.dingalinged.workers.dev/c/eagle-postal-center-southlake/
+29. Creative Litho Printing | Organic #29 | Pulse Score 62.3/100 (Unrated, #1 in city) | Creative Litho Printing is a printing service in Saint Louis, MO at 3021 Cherokee Street, Saint Louis, MO 63118. Phone: +13147726779. Website: https://creativelithoprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/creative-litho-printing-saint-louis/
+30. Black Sheep Custom Design | Organic #30 | Pulse Score 62.2/100 (Unrated, #1 in city) | Black Sheep Custom Design is a printing service in Cave Springs, AR at 180 North Main Street #B, Cave Springs, AR 72718. Phone: +14799952996. Website: https://www.blacksheepcustomdesign.com/. | https://registry-edge.dingalinged.workers.dev/c/black-sheep-custom-design-cave-springs/
+31. ABC Printing | Organic #31 | Pulse Score 62.2/100 (Unrated, #1 in city) | ABC Printing is a printing service in Omaha, NE at 13302 Millard Avenue #104, Omaha, NE 68137. Phone: +14028950222. Website: https://abcprintingomaha.com/. | https://registry-edge.dingalinged.workers.dev/c/abc-printing-omaha/
+32. America's Finest Printing & Graphics | Organic #32 | Pulse Score 62.2/100 (Unrated, #1 in city) | America's Finest Printing & Graphics is a printing service in Fraser, MI at 17060 Masonic Boulevard #101, Fraser, MI 48026. Phone: +15862961312. Website: https://www.americasfinestprint.com/. | https://registry-edge.dingalinged.workers.dev/c/americas-finest-printing-and-graphics-fraser/
+33. Bennett's Printing and Office Supply | Organic #33 | Pulse Score 62.1/100 (Good, #1 in city) | Bennett's Printing and Office Supply is a printing service in Cleburne, TX at 300 East Chambers Street, Cleburne, TX 76031. Website: https://www.bennettsprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/bennetts-printing-and-office-supply-cleburne/
+34. Topeka Blueprint Company, Inc. | Organic #34 | Pulse Score 62/100 (Unrated, #1 in city) | Topeka Blueprint Company, Inc. is a printing service in Topeka, KS at 608 Southwest Jackson Street, Topeka, KS 66603. Phone: +17852327209. Website: https://www.topekablue.com/. | https://registry-edge.dingalinged.workers.dev/c/topeka-blueprint-company-inc-topeka/
+35. r design & printing | Organic #35 | Pulse Score 62/100 (Unrated, #1 in city) | r design & printing is a printing service in Columbus, OH at 30 East Fourth Avenue, Columbus, OH 43201. Phone: +16142991420. Website: https://www.rdesignandprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/r-design-and-printing-columbus/
+36. R Design & Printing Co | Organic #36 | Pulse Score 62/100 (Unrated, #1 in city) | R Design & Printing Co is a printing service in Grandview Heights, OH at 1060 Goodale Boulevard, Grandview Heights, OH 43212. Phone: +16142991420. Website: https://www.rdesignandprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/r-design-and-printing-co-grandview-heights/
+37. Copy Max | Organic #37 | Pulse Score 61.9/100 (Unrated, #1 in city) | Copy Max is a printing service in Chicago, IL at 1321 North Milwaukee Avenue, Chicago, IL 60622. | https://registry-edge.dingalinged.workers.dev/c/copy-max-chicago/
+38. Capitol Square Printing | Organic #38 | Pulse Score 61.7/100 (Unrated, #2 in city) | Capitol Square Printing is a printing service in Columbus, OH at 59 East Gay Street, Columbus, OH 43215. Phone: +16142212850. Website: https://capitolsquareprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/capitol-square-printing-columbus/
+39. AmeriPRESS | Organic #39 | Pulse Score 61.6/100 (Unrated, #1 in city) | AmeriPRESS is a printing service in Marietta, GA at 200 North Fairground Street Northeast, Marietta, GA 30060. Phone: +17704277258. Website: https://www.ameripress.biz/. | https://registry-edge.dingalinged.workers.dev/c/ameripress-marietta/
+40. Gibson Printing | Organic #40 | Pulse Score 61.6/100 (Unrated, #1 in city) | Gibson Printing is a printing service in Saint Peters, MO at 5903 Suemandy Drive, Saint Peters, MO 63376. Phone: +16369706316. Website: https://gibsonprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/gibson-printing-saint-peters/
+41. Milwaukee Printing Press | Organic #41 | Pulse Score 61.5/100 (Unrated, #3 in city) | Milwaukee Printing Press is a printing service in Milwaukee, WI at 541 North Broadway, Milwaukee, WI 53202. Phone: +14142260121. Website: https://www.milwaukeeprintingpress.com/. | https://registry-edge.dingalinged.workers.dev/c/milwaukee-printing-press-milwaukee/
+42. Shorewood Press | Organic #42 | Pulse Score 61.5/100 (Unrated, #1 in city) | Shorewood Press is a printing service in Shorewood, WI at 1700 East Capitol Drive, Shorewood, WI 53211. Phone: +14149639430. Website: https://www.theshorewoodpress.com/. | https://registry-edge.dingalinged.workers.dev/c/shorewood-press-shorewood/
+43. Cleburne Shipping | Organic #43 | Pulse Score 61.4/100 (Unrated, #2 in city) | Cleburne Shipping is a printing service in Cleburne, TX at 133 South Ridgeway Drive, Cleburne, TX 76033. Phone: +18175581477. Website: https://www.cleburneshipping.com/. | https://registry-edge.dingalinged.workers.dev/c/cleburne-shipping-cleburne/
+44. Allied Print & Copy | Organic #44 | Pulse Score 61.4/100 (Unrated, #2 in city) | Allied Print & Copy is a printing service in Chicago, IL at 5640 North Broadway, Chicago, IL 60660. Phone: +17733345200. Website: https://alliedprintandcopy.com/. | https://registry-edge.dingalinged.workers.dev/c/allied-print-and-copy-chicago/
+45. Hedgehog Signs | Organic #45 | Pulse Score 61.4/100 (Unrated, #1 in city) | Hedgehog Signs is a printing service in Newport, KY at 402 West 11th Street, Newport, KY 41071. Phone: +18592918544. Website: https://www.hedgehogsigns.com/. | https://registry-edge.dingalinged.workers.dev/c/hedgehog-signs-newport/
+46. Pak Mail | Organic #46 | Pulse Score 61.3/100 (Unrated, #1 in city) | Pak Mail is a printing service in Atlanta, GA at 300 Peachtree Street Northeast #CS2, Atlanta, GA. Phone: +14042281314. Website: https://www.pakmail.com/stores/pak-mail-atlanta. | https://registry-edge.dingalinged.workers.dev/c/pak-mail-atlanta/
+47. Wayne's Printing & Copying | Organic #47 | Pulse Score 61.3/100 (Unrated, #1 in city) | Wayne's Printing & Copying is a printing service in Hutchinson, KS at 26 South Main Street, Hutchinson, KS 67501. Phone: +16206624655. Website: https://www.waynesprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/waynes-printing-and-copying-hutchinson/
+48. AD PRINTING SOLUTIONS | Organic #48 | Pulse Score 61.3/100 (Unrated, #1 in city) | AD PRINTING SOLUTIONS is a printing service in Alamo, TX at 501 South Alamo Road #202, Alamo, TX 78516. Phone: +19564843668. | https://registry-edge.dingalinged.workers.dev/c/ad-printing-solutions-alamo/
+49. Creation Station | Organic #49 | Pulse Score 61.2/100 (Unrated, #1 in city) | Creation Station is a printing service in Leander, TX at 607 Leander Drive #900, Leander, TX 78641. Phone: +15124301223. Website: https://creationstationprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/creation-station-leander/
+50. Mid Continent Label & Tag, Inc. | Organic #50 | Pulse Score 61.1/100 (Unrated, #1 in city) | Mid Continent Label & Tag, Inc. is a printing service in High Ridge Township, MO at 2796 High Ridge Boulevard, High Ridge Township, MO 63049. Phone: +16366774800. Website: https://midcontinentlabel.com/. | https://registry-edge.dingalinged.workers.dev/c/mid-continent-label-and-tag-inc-high-ridge-township/
 
-## More printing services listings (994 total; top 50 unpaid shown)
+## More printing services listings (1188 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/printing-services.jsonl
 - Chicago, IL: 67 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-chicago-il/
 - Houston, TX: 36 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-houston-tx/
+- Austin, TX: 30 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-austin-tx/
 - Indianapolis, IN: 23 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-indianapolis-in/
-- Dallas, TX: 20 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-dallas-tx/
+- Dallas, TX: 22 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-dallas-tx/
+- San Antonio, TX: 19 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-san-antonio-tx/
 - Columbus, OH: 17 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-columbus-oh/
 - Milwaukee, WI: 16 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-milwaukee-wi/
 - Kansas City, MO: 16 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-kansas-city-mo/
 - Pittsburgh, PA: 15 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-pittsburgh-pa/
+- Amarillo, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-amarillo-tx/
 - Madison, WI: 12 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-madison-wi/
 - Minneapolis, MN: 12 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-minneapolis-mn/
 - Aurora, CO: 12 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-aurora-co/
 - Atlanta, GA: 12 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-atlanta-ga/
-- Richardson, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-richardson-tx/
+- Richardson, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-richardson-tx/
+- Lubbock, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-lubbock-tx/
+- Harris County, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-harris-county-tx/
+- Plano, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-plano-tx/
 - Springfield, MO: 9 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-springfield-mo/
 - Cincinnati, OH: 9 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-cincinnati-oh/
+- Fort Worth, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-fort-worth-tx/
 - Frisco, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-frisco-tx/
 - Boulder, CO: 8 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-boulder-co/
 - Cobb County, GA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-cobb-county-ga/
-- Harris County, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-harris-county-tx/
+- Beaumont, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-beaumont-tx/
 - Mckinney, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-mckinney-tx/
 - Saint Louis Park, MN: 7 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-saint-louis-park-mn/
 - Marietta, GA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-marietta-ga/
 - Addison, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-addison-tx/
 - Denton, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-denton-tx/
-- Plano, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-plano-tx/
 - Saint Paul, MN: 6 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-saint-paul-mn/
 - Sterling Heights, MI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-sterling-heights-mi/
 - Evanston, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-evanston-il/
 - Naperville, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-naperville-il/
 - Westminster, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-westminster-co/
+- Little Rock, AR: 6 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-little-rock-ar/
 - Lawrence, KS: 6 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-lawrence-ks/
 - Lewisville, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-lewisville-tx/
 - Omaha, NE: 5 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-omaha-ne/
@@ -101,8 +108,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Manhattan, KS: 5 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-manhattan-ks/
 - Overland Park, KS: 5 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-overland-park-ks/
 - Wichita, KS: 5 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-wichita-ks/
+- Waco, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-waco-tx/
+- Kerrville, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-kerrville-tx/
 - Flower Mound, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-flower-mound-tx/
 - The Woodlands, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-the-woodlands-tx/
+- Carrollton, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-carrollton-tx/
 - Wauwatosa, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-wauwatosa-wi/
 - New Brighton, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-new-brighton-mn/
 - Farmington Hills, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-farmington-hills-mi/
@@ -117,11 +127,15 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - West Chester Township, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-west-chester-township-oh/
 - Lancaster, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-lancaster-oh/
 - Des Moines, IA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-des-moines-ia/
+- Corsicana, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-corsicana-tx/
+- Leander, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-leander-tx/
 - Southlake, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-southlake-tx/
+- Tyler, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-tyler-tx/
+- Corpus Christi, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-corpus-christi-tx/
+- Round Rock, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-round-rock-tx/
 - Coppell, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-coppell-tx/
 - Grapevine, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-grapevine-tx/
 - Katy, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-katy-tx/
-- Carrollton, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-carrollton-tx/
 - Middleton, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-middleton-wi/
 - Brookfield, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-brookfield-wi/
 - Eagan, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-eagan-mn/
@@ -143,6 +157,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Tucker, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-tucker-ga/
 - Brookhaven, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-brookhaven-ga/
 - Fishers, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-fishers-in/
+- Fayetteville, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-fayetteville-ar/
 - Ross Township, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-ross-township-pa/
 - Plum, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-plum-pa/
 - Lenexa, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-lenexa-ks/
@@ -153,19 +168,35 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Urbandale, IA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-urbandale-ia/
 - West Des Moines, IA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-west-des-moines-ia/
 - Florence, KY: 3 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-florence-ky/
+- Longview, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-longview-tx/
+- Bastrop, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-bastrop-tx/
+- Cleburne, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-cleburne-tx/
+- Pflugerville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-pflugerville-tx/
+- College Station, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-college-station-tx/
+- Mcallen, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-mcallen-tx/
+- Abilene, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-abilene-tx/
+- Sherman, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-sherman-tx/
 - Allen, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-allen-tx/
 - Cedar Hill, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-cedar-hill-tx/
 - Colleyville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-colleyville-tx/
 - Conroe, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-conroe-tx/
+- Georgetown, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-georgetown-tx/
 - Humble, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-humble-tx/
 - Mansfield, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-mansfield-tx/
+- Midland, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-midland-tx/
 - Murphy, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-murphy-tx/
 - Rockwall, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-rockwall-tx/
+- San Marcos, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-san-marcos-tx/
 - Pearland, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-pearland-tx/
+- Wichita Falls, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-wichita-falls-tx/
+- Weatherford, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-weatherford-tx/
+- Eagle Pass, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-eagle-pass-tx/
 - Garland, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-garland-tx/
 - Rosenberg, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-rosenberg-tx/
 - Roanoke, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-roanoke-tx/
+- New Braunfels, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-new-braunfels-tx/
 - Irving, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-irving-tx/
+- Odessa, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-odessa-tx/
 - Wylie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-wylie-tx/
 - Papillion, NE: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-papillion-ne/
 - Greenfield, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-greenfield-wi/
@@ -218,6 +249,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Lilburn, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-lilburn-ga/
 - Merrillville, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-merrillville-in/
 - Noblesville, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-noblesville-in/
+- Cabot, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-cabot-ar/
+- Fort Smith, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-fort-smith-ar/
+- North Little Rock, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-north-little-rock-ar/
 - Anderson Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-anderson-township-oh/
 - Fairfield Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-fairfield-township-oh/
 - Upper Arlington, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-upper-arlington-oh/
@@ -227,26 +261,53 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Pine Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-pine-township-pa/
 - Clive, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-clive-ia/
 - Newport, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-newport-ky/
+- Alamo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-alamo-tx/
+- Bryan, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-bryan-tx/
 - Euless, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-euless-tx/
+- Waxahachie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-waxahachie-tx/
 - Bedford, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-bedford-tx/
+- Huntsville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-huntsville-tx/
+- Laredo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-laredo-tx/
 - Sunnyvale, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-sunnyvale-tx/
+- Victoria, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-victoria-tx/
+- Sunset Valley, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-sunset-valley-tx/
+- Cedar Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-cedar-park-tx/
 - Deer Park, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-deer-park-tx/
+- El Paso, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-el-paso-tx/
 - Mesquite, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-mesquite-tx/
 - Sugar Land, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-sugar-land-tx/
+- West Lake Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-west-lake-hills-tx/
+- Elgin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-elgin-tx/
+- El Paso County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-el-paso-county-tx/
 - Forney, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-forney-tx/
 - Corinth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-corinth-tx/
+- Port Aransas, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-port-aransas-tx/
+- Joshua, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-joshua-tx/
 - Fort Bend County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-fort-bend-county-tx/
+- Lockhart, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-lockhart-tx/
 - Arlington, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-arlington-tx/
+- Wells Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-wells-branch-tx/
 - Bellaire, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-bellaire-tx/
+- Celina, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-celina-tx/
 - Farmers Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-farmers-branch-tx/
+- Floresville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-floresville-tx/
 - Hurst, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-hurst-tx/
+- Hutto, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-hutto-tx/
+- Kyle, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-kyle-tx/
+- Lakeway, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-lakeway-tx/
+- Little Elm, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-little-elm-tx/
 - Melissa, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-melissa-tx/
 - Missouri City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-missouri-city-tx/
 - Mont Belvieu, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-mont-belvieu-tx/
 - Montgomery County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-montgomery-county-tx/
 - Prosper, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-prosper-tx/
 - Sachse, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-sachse-tx/
+- Temple, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-temple-tx/
+- Texarkana, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-texarkana-tx/
+- The Colony, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-the-colony-tx/
 - Webster, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-webster-tx/
+- Woodway, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-woodway-tx/
+- Mission, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-mission-tx/
 - Waterloo, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-waterloo-ne/
 - La Vista, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-la-vista-ne/
 - Slinger, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-slinger-wi/
@@ -388,6 +449,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Greenwood, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-greenwood-in/
 - Plainfield, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-plainfield-in/
 - Zionsville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-zionsville-in/
+- Cave Springs, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-cave-springs-ar/
+- Russellville, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-russellville-ar/
+- Hot Springs, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-hot-springs-ar/
+- Jonesboro, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-jonesboro-ar/
+- Bentonville, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-bentonville-ar/
+- Conway, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-conway-ar/
 - Clinton Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-clinton-township-oh/
 - Deerfield Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-deerfield-township-oh/
 - Orange Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/printing-services-orange-township-oh/
@@ -443,7 +510,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.39, median $3.39, high $3.46 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 994
+- Registry businesses competing: 1188
 - Equivalent Google Ads cost per month: ~$11,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

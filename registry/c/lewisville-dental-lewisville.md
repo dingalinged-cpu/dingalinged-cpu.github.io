@@ -19,6 +19,6 @@ Lewisville Dental is a dentist in Lewisville, TX. Phone: +19724590400. Website: 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/lewisville-dental-lewisville/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lewisville-dental-lewisville.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9869257442 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9869257442 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

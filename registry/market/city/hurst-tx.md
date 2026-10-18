@@ -1,4 +1,4 @@
-Keyword market for Hurst, TX: 42 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
+Keyword market for Hurst, TX: 43 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
 
 # Top keywords in Hurst, TX
 
@@ -6,19 +6,19 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 
 ## By monthly searches
 1. massage hurst tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/massage-hurst-tx/
-2. car wash hurst tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-hurst-tx/
+2. car wash hurst tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-hurst-tx/
 3. dentist hurst tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/dentist-hurst-tx/
-4. gym hurst tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/gym-hurst-tx/
-5. hair salon hurst tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-hurst-tx/
+4. gym hurst tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/gym-hurst-tx/
+5. hair salon hurst tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-hurst-tx/
 6. nail salon hurst tx | searches/mo 25,000 (est) | CPC $0.61 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-hurst-tx/
 7. plumber hurst tx | searches/mo 20,000 (est) | CPC $12.04 | value $240,000 | Google Ads equiv $15,000/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/plumber-hurst-tx/
 8. barber shop hurst tx | searches/mo 17,000 (est) | CPC $0.70 | value $12,000 | Google Ads equiv $680/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/barber-shop-hurst-tx/
-9. mechanic hurst tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 14 | https://registry-edge.dingalinged.workers.dev/k/mechanic-hurst-tx/
+9. mechanic hurst tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 15 | https://registry-edge.dingalinged.workers.dev/k/mechanic-hurst-tx/
 10. tire shop hurst tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-hurst-tx/
 11. vet hurst tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-hurst-tx/
 12. dog groomer hurst tx | searches/mo 11,000 (est) | CPC $4.06 | value $45,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-hurst-tx/
-13. haircut hurst tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/haircut-hurst-tx/
-14. auto repair hurst tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 14 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-hurst-tx/
+13. haircut hurst tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/haircut-hurst-tx/
+14. auto repair hurst tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 15 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-hurst-tx/
 15. financial advisor hurst tx | searches/mo 6,100 (est) | CPC $3.39 | value $21,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-hurst-tx/
 
 ## By CPC
@@ -29,7 +29,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 5. flooring companies hurst tx | searches/mo 450 (est) | CPC $8.33 | value $3,700 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-hurst-tx/
 6. heating and air hurst tx | searches/mo 89.00 (est) | CPC $8.33 | value $740 | Google Ads equiv $47.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-hurst-tx/
 7. plumbers hurst tx | searches/mo 89.00 (est) | CPC $8.33 | value $740 | Google Ads equiv $47.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/plumbers-hurst-tx/
-8. storage units hurst tx | searches/mo 5,500 (est) | CPC $8.33 | value $46,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-hurst-tx/
+8. storage units hurst tx | searches/mo 5,500 (est) | CPC $8.33 | value $46,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/storage-units-hurst-tx/
 9. bakery hurst tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/bakery-hurst-tx/
 10. florist hurst tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/florist-hurst-tx/
 11. photographer hurst tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/photographer-hurst-tx/
@@ -42,17 +42,17 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 1. massage hurst tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/massage-hurst-tx/
 2. plumber hurst tx | searches/mo 20,000 (est) | CPC $12.04 | value $240,000 | Google Ads equiv $15,000/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/plumber-hurst-tx/
 3. dentist hurst tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/dentist-hurst-tx/
-4. car wash hurst tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-hurst-tx/
-5. gym hurst tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/gym-hurst-tx/
-6. mechanic hurst tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 14 | https://registry-edge.dingalinged.workers.dev/k/mechanic-hurst-tx/
+4. car wash hurst tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-hurst-tx/
+5. gym hurst tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/gym-hurst-tx/
+6. mechanic hurst tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 15 | https://registry-edge.dingalinged.workers.dev/k/mechanic-hurst-tx/
 7. tire shop hurst tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-hurst-tx/
 8. vet hurst tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-hurst-tx/
 9. dog groomer hurst tx | searches/mo 11,000 (est) | CPC $4.06 | value $45,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-hurst-tx/
-10. haircut hurst tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/haircut-hurst-tx/
-11. auto repair hurst tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 14 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-hurst-tx/
+10. haircut hurst tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/haircut-hurst-tx/
+11. auto repair hurst tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 15 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-hurst-tx/
 12. hvac repair hurst tx | searches/mo 1,800 (est) | CPC $17.76 | value $32,000 | Google Ads equiv $2,000/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-hurst-tx/
 13. financial advisor hurst tx | searches/mo 6,100 (est) | CPC $3.39 | value $21,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-hurst-tx/
-14. hair salon hurst tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-hurst-tx/
+14. hair salon hurst tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-hurst-tx/
 15. plumbing services hurst tx | searches/mo 1,200 (est) | CPC $13.90 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-hurst-tx/
 
 All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

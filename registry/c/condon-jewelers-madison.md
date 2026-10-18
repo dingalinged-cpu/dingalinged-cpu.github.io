@@ -13,7 +13,7 @@ Condon Jewelers is a jewelry store in Madison, WI at 4114 East Washington Avenue
 - Website: https://www.condonjeweler.com/
 - Email: condons@inxpress.net
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 11:00-18:00; PH closed
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 14% of jewelry stores in Madison, #4 of 31 jewelry stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 11% of jewelry stores in Madison, #3 of 31 jewelry stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

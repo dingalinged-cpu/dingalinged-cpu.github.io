@@ -6,7 +6,7 @@ Also answers: eye doctor in Westlake, TX; eye doctor near me (Westlake, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eyes on Westlake | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Eyes on Westlake is an eye care practice in Westlake, TX at 72 Andorra Drive #180, Westlake, TX 76262. | https://registry-edge.dingalinged.workers.dev/c/eyes-on-westlake-westlake/
+1. Eyes on Westlake | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Eyes on Westlake is an eye care practice in Westlake, TX at 72 Andorra Drive #180, Westlake, TX 76262. | https://registry-edge.dingalinged.workers.dev/c/eyes-on-westlake-westlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor westlake tx | category: Health & medical | industry benchmark: Physicians & Surgeons

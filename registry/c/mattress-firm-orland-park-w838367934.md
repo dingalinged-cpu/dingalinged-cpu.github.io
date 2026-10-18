@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Orland Park, IL at 15898 South LaGrange Roa
 - Website: https://www.mattressfirm.com/en-us/stores/il/orland-park/119153/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Building — top 41% of mattress stores in Chicago, #2 of 3 mattress stores in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 41% of mattress stores in Chicago, #2 of 3 mattress stores in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

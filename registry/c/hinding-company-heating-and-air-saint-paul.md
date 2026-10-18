@@ -13,7 +13,7 @@ Hinding Company Heating & Air is a HVAC contractor in Saint Paul, MN at 915 7th 
 - Website: https://www.hindingheating.com/
 - Email: info@hindingheating.com
 - Opening hours (OSM syntax): Mo-Su 05:00-20:00
-- Pulse Score: 64.8/100 — Good — top 5% of HVAC contractors in Minneapolis–St. Paul, #1 of 9 HVAC contractors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 5% of HVAC contractors in Minneapolis–St. Paul, #1 of 9 HVAC contractors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

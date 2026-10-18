@@ -7,8 +7,8 @@ Also answers: gym in Highland Village, TX; gym near me (Highland Village, TX); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Anytime Fitness | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | Anytime Fitness is a gym in Highland Village, TX at 1952 FM 407, Highland Village, TX. Phone: +19728858764. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-highland-village/
-2. LA Fitness | Organic #2 | Pulse Score 43.2/100 (Unrated, #2 in city) | LA Fitness is a gym in Highland Village, TX. | https://registry-edge.dingalinged.workers.dev/c/la-fitness-highland-village/
-3. Planet Fitness | Organic #3 | Pulse Score 41.9/100 (Building, #3 in city) | Planet Fitness is a gym in Highland Village, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-highland-village/
+2. LA Fitness | Organic #2 | Pulse Score 43.1/100 (Unrated, #2 in city) | LA Fitness is a gym in Highland Village, TX. | https://registry-edge.dingalinged.workers.dev/c/la-fitness-highland-village/
+3. Planet Fitness | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | Planet Fitness is a gym in Highland Village, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-highland-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym highland village tx | category: Fitness | industry benchmark: Health & Fitness

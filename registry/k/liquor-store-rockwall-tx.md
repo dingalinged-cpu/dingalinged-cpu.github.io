@@ -6,8 +6,8 @@ Also answers: liquor store in Rockwall, TX; liquor store near me (Rockwall, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sigel's Fine Wines & Great Spirits | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Sigel's Fine Wines & Great Spirits is a liquor store in Rockwall, TX at 2325 East Interstate 30, Rockwall, TX 75087. Phone: +19727710385. | https://registry-edge.dingalinged.workers.dev/c/sigels-fine-wines-and-great-spirits-rockwall/
-2. Homeboys Liquor | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Homeboys Liquor is a liquor store in Rockwall, TX at 2975 State Highway 66 #D, Rockwall, TX 75087. Phone: +14693771655. | https://registry-edge.dingalinged.workers.dev/c/homeboys-liquor-rockwall/
+1. Sigel's Fine Wines & Great Spirits | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Sigel's Fine Wines & Great Spirits is a liquor store in Rockwall, TX at 2325 East Interstate 30, Rockwall, TX 75087. Phone: +19727710385. | https://registry-edge.dingalinged.workers.dev/c/sigels-fine-wines-and-great-spirits-rockwall/
+2. Homeboys Liquor | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Homeboys Liquor is a liquor store in Rockwall, TX at 2975 State Highway 66 #D, Rockwall, TX 75087. Phone: +14693771655. | https://registry-edge.dingalinged.workers.dev/c/homeboys-liquor-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store rockwall tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ ABC Liquor is a liquor store in Milwaukee, WI at 3901 West Vliet Street, Milwauk
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 08:30-21:00
-- Pulse Score: 47.8/100 — Building — top 97% of liquor stores in Milwaukee, #35 of 37 liquor stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 97% of liquor stores in Milwaukee, #35 of 37 liquor stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

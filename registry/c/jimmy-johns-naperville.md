@@ -13,7 +13,7 @@ Jimmy John's is a caterer in Naperville, IL at 8 West Gartner Road #128, Napervi
 - Website: https://locations.jimmyjohns.com/il/naperville/delivery-104.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 10:00-20:00
-- Pulse Score: 48.4/100 — Building — top 93% of caterers in Chicago, #3 of 3 caterers in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 93% of caterers in Chicago, #3 of 3 caterers in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

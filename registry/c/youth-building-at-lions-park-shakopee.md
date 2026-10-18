@@ -13,7 +13,7 @@ Youth Building at Lions Park is an event venue in Shakopee, MN at 1099 Adams Str
 - Website: https://www.shakopeemn.gov/recreation/recreation-facilities/youth-building
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Fair — top 60% of event venues in Minneapolis–St. Paul, #2 of 2 event venues in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Fair — top 60% of event venues in Minneapolis–St. Paul, #2 of 2 event venues in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

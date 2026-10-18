@@ -13,7 +13,7 @@ HT Roofing & Construction is a roofer in Lenexa, KS at 11437 Strang Line Rd, Len
 - Website: https://htroofs.com/
 - Email: n/a
 - Opening hours (OSM syntax): Wednesday 7 AM–9 PM; Thursday 7 AM–9 PM; Friday 7 AM–5 PM; Saturday 7 AM–9 PM; Sunday 7 AM–9 PM; Monday 7 AM–9 PM; Tuesday 7 AM–9 PM
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 12% of roofers in Kansas City, MO, #1 of 1 roofers in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 12% of roofers in Kansas City, MO, #1 of 1 roofers in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

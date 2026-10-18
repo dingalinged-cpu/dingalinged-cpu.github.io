@@ -19,6 +19,6 @@ Folk Portraits is a photographer in The Woodlands, TX.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/folk-portraits-the-woodlands/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/folk-portraits-the-woodlands.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6901360381 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6901360381 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

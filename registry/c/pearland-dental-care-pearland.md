@@ -13,12 +13,12 @@ Pearland Dental Care is a dentist in Pearland, TX at 1921 North Main Street, Pea
 - Website: https://pearlanddentalcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 27% of dentists in Houston, #2 of 10 dentists in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 27% of dentists in Houston, #2 of 10 dentists in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/pearland-dental-care-pearland/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pearland-dental-care-pearland.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1128123014 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1128123014 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

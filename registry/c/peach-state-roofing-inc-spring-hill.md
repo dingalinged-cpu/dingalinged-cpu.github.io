@@ -13,7 +13,7 @@ Peach State Roofing Inc is a roofer in Spring Hill, KS at 19069 Madison Street, 
 - Website: https://peachstateroofinginc.com/locations/kansas-city-mo/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 50% of roofers in Kansas City, MO, #2 of 2 roofers in Spring Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 50% of roofers in Kansas City, MO, #2 of 2 roofers in Spring Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -5,7 +5,7 @@
  "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Fort Worth, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
- "keywords": 22,
+ "keywords": 94,
  "lists": {
   "by_volume": [
    {
@@ -20,7 +20,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 22,
     "ranked_by": "by_volume"
    },
    {
@@ -35,7 +35,7 @@
     "search_value_index_usd": 210000,
     "equivalent_google_ads_cost_month_usd": 12000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 2,
+    "registry_competitors": 47,
     "ranked_by": "by_volume"
    },
    {
@@ -50,7 +50,7 @@
     "search_value_index_usd": 20000,
     "equivalent_google_ads_cost_month_usd": 1200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 48,
     "ranked_by": "by_volume"
    },
    {
@@ -65,7 +65,7 @@
     "search_value_index_usd": 74000,
     "equivalent_google_ads_cost_month_usd": 4100,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 76,
     "ranked_by": "by_volume"
    },
    {
@@ -80,7 +80,7 @@
     "search_value_index_usd": 61000,
     "equivalent_google_ads_cost_month_usd": 3400,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 15,
     "ranked_by": "by_volume"
    },
    {
@@ -95,7 +95,7 @@
     "search_value_index_usd": 42000,
     "equivalent_google_ads_cost_month_usd": 2400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 55,
     "ranked_by": "by_volume"
    },
    {
@@ -110,7 +110,7 @@
     "search_value_index_usd": 33000,
     "equivalent_google_ads_cost_month_usd": 1800,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 76,
     "ranked_by": "by_volume"
    },
    {
@@ -125,7 +125,7 @@
     "search_value_index_usd": 18000,
     "equivalent_google_ads_cost_month_usd": 1500,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 7,
     "ranked_by": "by_volume"
    },
    {
@@ -140,7 +140,7 @@
     "search_value_index_usd": 8100,
     "equivalent_google_ads_cost_month_usd": 690,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 7,
     "ranked_by": "by_volume"
    },
    {
@@ -155,7 +155,7 @@
     "search_value_index_usd": 5800,
     "equivalent_google_ads_cost_month_usd": 490,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 9,
     "ranked_by": "by_volume"
    },
    {
@@ -170,7 +170,7 @@
     "search_value_index_usd": 3200,
     "equivalent_google_ads_cost_month_usd": 230,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 3,
     "ranked_by": "by_volume"
    },
    {
@@ -185,7 +185,7 @@
     "search_value_index_usd": 8800,
     "equivalent_google_ads_cost_month_usd": 500,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 9,
     "ranked_by": "by_volume"
    },
    {
@@ -206,6 +206,174 @@
   ],
   "by_cpc": [
    {
+    "keyword": "hvac repair fort worth tx",
+    "slug": "hvac-repair-fort-worth-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-fort-worth-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 17.76,
+    "cpc_median_usd": 9.68,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 5,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "plumbing services fort worth tx",
+    "slug": "plumbing-services-fort-worth-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-fort-worth-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 13.9,
+    "cpc_median_usd": 10.49,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "moving company fort worth tx",
+    "slug": "moving-company-fort-worth-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-fort-worth-tx/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.41,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "electrician fort worth tx",
+    "slug": "electrician-fort-worth-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-fort-worth-tx/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.18,
+    "cpc_median_usd": 12.18,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "plumber fort worth tx",
+    "slug": "plumber-fort-worth-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-fort-worth-tx/",
+    "us_monthly_searches": 823000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.04,
+    "cpc_median_usd": 10.49,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofing contractor fort worth tx",
+    "slug": "roofing-contractor-fort-worth-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-fort-worth-tx/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofer fort worth tx",
+    "slug": "roofer-fort-worth-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-fort-worth-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "attorney fort worth tx",
+    "slug": "attorney-fort-worth-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-fort-worth-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 16,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "lawyer fort worth tx",
+    "slug": "lawyer-fort-worth-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-fort-worth-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 16,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "window replacement fort worth tx",
+    "slug": "window-replacement-fort-worth-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-replacement-fort-worth-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "concrete contractor fort worth tx",
+    "slug": "concrete-contractor-fort-worth-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/concrete-contractor-fort-worth-tx/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "flooring companies fort worth tx",
+    "slug": "flooring-companies-fort-worth-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-fort-worth-tx/",
+    "us_monthly_searches": 18100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "heating and air fort worth tx",
+    "slug": "heating-and-air-fort-worth-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-fort-worth-tx/",
+    "us_monthly_searches": 3600,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 5,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "plumbers fort worth tx",
+    "slug": "plumbers-fort-worth-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-fort-worth-tx/",
+    "us_monthly_searches": 3600,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
     "keyword": "storage units fort worth tx",
     "slug": "storage-units-fort-worth-tx",
     "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-fort-worth-tx/",
@@ -217,217 +385,7 @@
     "search_value_index_usd": 46000,
     "equivalent_google_ads_cost_month_usd": 2900,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 2,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "caterers fort worth tx",
-    "slug": "caterers-fort-worth-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/caterers-fort-worth-tx/",
-    "us_monthly_searches": 220000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 5500,
-    "cpc_basis_usd": 7.17,
-    "cpc_median_usd": 7.17,
-    "search_value_index_usd": 39000,
-    "equivalent_google_ads_cost_month_usd": 3000,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "florist fort worth tx",
-    "slug": "florist-fort-worth-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-fort-worth-tx/",
-    "us_monthly_searches": 220000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 5500,
-    "cpc_basis_usd": 7.17,
-    "cpc_median_usd": 7.17,
-    "search_value_index_usd": 39000,
-    "equivalent_google_ads_cost_month_usd": 3000,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "tax preparer fort worth tx",
-    "slug": "tax-preparer-fort-worth-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-fort-worth-tx/",
-    "us_monthly_searches": 60500,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 1500,
-    "cpc_basis_usd": 5.87,
-    "cpc_median_usd": 5.87,
-    "search_value_index_usd": 8800,
-    "equivalent_google_ads_cost_month_usd": 500,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "general contractor fort worth tx",
-    "slug": "general-contractor-fort-worth-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/general-contractor-fort-worth-tx/",
-    "us_monthly_searches": 18100,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 450,
-    "cpc_basis_usd": 5.31,
-    "cpc_median_usd": 5.31,
-    "search_value_index_usd": 2400,
-    "equivalent_google_ads_cost_month_usd": 150,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "daycare fort worth tx",
-    "slug": "daycare-fort-worth-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-fort-worth-tx/",
-    "us_monthly_searches": 220000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 5500,
-    "cpc_basis_usd": 4.81,
-    "cpc_median_usd": 4.81,
-    "search_value_index_usd": 26000,
-    "equivalent_google_ads_cost_month_usd": 1500,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "dentist fort worth tx",
-    "slug": "dentist-fort-worth-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-fort-worth-tx/",
-    "us_monthly_searches": 1830000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 45000,
-    "cpc_basis_usd": 4.7,
-    "cpc_median_usd": 8.0,
-    "search_value_index_usd": 210000,
-    "equivalent_google_ads_cost_month_usd": 12000,
-    "featured_spot_min_usd": 100,
-    "registry_competitors": 2,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "haircut fort worth tx",
-    "slug": "haircut-fort-worth-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-fort-worth-tx/",
-    "us_monthly_searches": 368000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 9100,
-    "cpc_basis_usd": 4.62,
-    "cpc_median_usd": 4.62,
-    "search_value_index_usd": 42000,
-    "equivalent_google_ads_cost_month_usd": 2400,
-    "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "auto repair fort worth tx",
-    "slug": "auto-repair-fort-worth-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-fort-worth-tx/",
-    "us_monthly_searches": 301000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 7500,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 33000,
-    "equivalent_google_ads_cost_month_usd": 1800,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "car wash fort worth tx",
-    "slug": "car-wash-fort-worth-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-fort-worth-tx/",
-    "us_monthly_searches": 1830000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 45000,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 200000,
-    "equivalent_google_ads_cost_month_usd": 11000,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "mechanic fort worth tx",
-    "slug": "mechanic-fort-worth-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-fort-worth-tx/",
-    "us_monthly_searches": 673000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 17000,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 74000,
-    "equivalent_google_ads_cost_month_usd": 4100,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "tire shop fort worth tx",
-    "slug": "tire-shop-fort-worth-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-fort-worth-tx/",
-    "us_monthly_searches": 550000,
-    "us_volume_method": "cited",
-    "local_monthly_searches_est": 14000,
-    "cpc_basis_usd": 4.35,
-    "cpc_median_usd": 4.35,
-    "search_value_index_usd": 61000,
-    "equivalent_google_ads_cost_month_usd": 3400,
-    "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "liquor store fort worth tx",
-    "slug": "liquor-store-fort-worth-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-fort-worth-tx/",
-    "us_monthly_searches": 140000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 3500,
-    "cpc_basis_usd": 4.14,
-    "cpc_median_usd": 4.14,
-    "search_value_index_usd": 14000,
-    "equivalent_google_ads_cost_month_usd": 1300,
-    "featured_spot_min_usd": 10,
-    "registry_competitors": 4,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "thrift store fort worth tx",
-    "slug": "thrift-store-fort-worth-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-fort-worth-tx/",
-    "us_monthly_searches": 140000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 3500,
-    "cpc_basis_usd": 4.14,
-    "cpc_median_usd": 4.14,
-    "search_value_index_usd": 14000,
-    "equivalent_google_ads_cost_month_usd": 1300,
-    "featured_spot_min_usd": 10,
-    "registry_competitors": 1,
-    "ranked_by": "by_cpc"
-   },
-   {
-    "keyword": "used cars for sale fort worth tx",
-    "slug": "used-cars-for-sale-fort-worth-tx",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-fort-worth-tx/",
-    "us_monthly_searches": 140000,
-    "us_volume_method": "estimate",
-    "local_monthly_searches_est": 3500,
-    "cpc_basis_usd": 4.14,
-    "cpc_median_usd": 4.14,
-    "search_value_index_usd": 14000,
-    "equivalent_google_ads_cost_month_usd": 1300,
-    "featured_spot_min_usd": 10,
-    "registry_competitors": 1,
+    "registry_competitors": 30,
     "ranked_by": "by_cpc"
    }
   ],
@@ -444,7 +402,7 @@
     "search_value_index_usd": 210000,
     "equivalent_google_ads_cost_month_usd": 12000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 2,
+    "registry_competitors": 47,
     "ranked_by": "by_value"
    },
    {
@@ -459,7 +417,7 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 22,
     "ranked_by": "by_value"
    },
    {
@@ -474,7 +432,7 @@
     "search_value_index_usd": 74000,
     "equivalent_google_ads_cost_month_usd": 4100,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 76,
     "ranked_by": "by_value"
    },
    {
@@ -489,7 +447,7 @@
     "search_value_index_usd": 61000,
     "equivalent_google_ads_cost_month_usd": 3400,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 15,
     "ranked_by": "by_value"
    },
    {
@@ -504,7 +462,7 @@
     "search_value_index_usd": 42000,
     "equivalent_google_ads_cost_month_usd": 2400,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 55,
     "ranked_by": "by_value"
    },
    {
@@ -519,7 +477,7 @@
     "search_value_index_usd": 33000,
     "equivalent_google_ads_cost_month_usd": 1800,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 76,
     "ranked_by": "by_value"
    },
    {
@@ -534,7 +492,7 @@
     "search_value_index_usd": 20000,
     "equivalent_google_ads_cost_month_usd": 1200,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 48,
     "ranked_by": "by_value"
    },
    {
@@ -549,7 +507,7 @@
     "search_value_index_usd": 18000,
     "equivalent_google_ads_cost_month_usd": 1500,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 7,
     "ranked_by": "by_value"
    },
    {
@@ -564,7 +522,7 @@
     "search_value_index_usd": 8800,
     "equivalent_google_ads_cost_month_usd": 500,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 9,
     "ranked_by": "by_value"
    },
    {
@@ -579,7 +537,7 @@
     "search_value_index_usd": 8100,
     "equivalent_google_ads_cost_month_usd": 690,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 7,
     "ranked_by": "by_value"
    },
    {
@@ -594,7 +552,7 @@
     "search_value_index_usd": 5800,
     "equivalent_google_ads_cost_month_usd": 490,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 9,
     "ranked_by": "by_value"
    },
    {
@@ -609,7 +567,7 @@
     "search_value_index_usd": 3200,
     "equivalent_google_ads_cost_month_usd": 230,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1,
+    "registry_competitors": 3,
     "ranked_by": "by_value"
    },
    {

@@ -13,7 +13,7 @@ Splash Car Wash is a car wash in Ankeny, IA at 1325 North Ankeny Boulevard, Anke
 - Website: https://www.splashcarwash.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 9% of car washes in Des Moines, IA, #2 of 8 car washes in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 68% of car washes in Des Moines, IA, #8 of 8 car washes in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

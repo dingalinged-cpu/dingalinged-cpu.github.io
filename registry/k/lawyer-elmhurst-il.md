@@ -6,7 +6,7 @@ Also answers: lawyer in Elmhurst, IL; lawyer near me (Elmhurst, IL); best lawyer
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lanphier & Kowalkoski Ltd. | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Lanphier & Kowalkoski Ltd. is a lawyer in Elmhurst, IL at 568 Spring Road #B, Elmhurst, IL 60126. Phone: +16308327759. Website: https://www.lanphierkowalkowski.com/. | https://registry-edge.dingalinged.workers.dev/c/lanphier-and-kowalkoski-ltd-elmhurst/
+1. Lanphier & Kowalkoski Ltd. | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Lanphier & Kowalkoski Ltd. is a lawyer in Elmhurst, IL at 568 Spring Road #B, Elmhurst, IL 60126. Phone: +16308327759. Website: https://www.lanphierkowalkowski.com/. | https://registry-edge.dingalinged.workers.dev/c/lanphier-and-kowalkoski-ltd-elmhurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer elmhurst il | category: Legal | industry benchmark: Attorneys & Legal Services

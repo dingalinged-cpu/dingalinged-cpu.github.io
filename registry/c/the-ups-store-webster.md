@@ -13,12 +13,12 @@ The UPS Store is a printing service in Webster, TX at 563 West Bay Area Boulevar
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 10:00-18:00
-- Pulse Score: 46.9/100 — Building — top 48% of printing services in Houston, #1 of 1 printing services in Webster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 45% of printing services in Houston, #1 of 1 printing services in Webster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-ups-store-webster/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-ups-store-webster.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6190240878 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6190240878 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

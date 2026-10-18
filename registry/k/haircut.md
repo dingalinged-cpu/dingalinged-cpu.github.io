@@ -1,4 +1,4 @@
-The top unpaid haircut listing for the United States is Lush Slay By KLanae (a hair salon in Southfield, MI at 24300 Southfield Road #101, Southfield, MI 48075. Phone: +19472405004). 5911 haircut businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for the United States is Lush Slay By KLanae (a hair salon in Southfield, MI at 24300 Southfield Road #101, Southfield, MI 48075. Phone: +19472405004). 7189 haircut businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in the United States?
 
@@ -8,136 +8,155 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Lush Slay By KLanae | Organic #1 | Pulse Score 68.4/100 (Good, #1 in city) | Lush Slay By KLanae is a hair salon in Southfield, MI at 24300 Southfield Road #101, Southfield, MI 48075. Phone: +19472405004. | https://registry-edge.dingalinged.workers.dev/c/lush-slay-by-klanae-southfield/
 2. Freshly Cut Barbers | Organic #2 | Pulse Score 67.6/100 (Good, #1 in city) | Freshly Cut Barbers is a barber shop in Minneapolis, MN at 4555 34th Avenue South, Minneapolis, MN 55406. Phone: +16127244677. Website: https://freshlycutbarbers.com/. | https://registry-edge.dingalinged.workers.dev/c/freshly-cut-barbers-minneapolis/
-3. Instyle Hair Salon | Organic #3 | Pulse Score 67/100 (Good, #1 in city) | Instyle Hair Salon is a hair salon in Pittsburgh, PA. Phone: +14124226777. | https://registry-edge.dingalinged.workers.dev/c/instyle-hair-salon-pittsburgh/
-4. Men's Hair House | Organic #4 | Pulse Score 67/100 (Good, #1 in city) | Men's Hair House is a barber shop in New Berlin, WI at 3608 South Moorland Road, New Berlin, WI 53151. Phone: +12624399163. Website: https://menshairhouse.com/new-berlin-wi/. | https://registry-edge.dingalinged.workers.dev/c/mens-hair-house-new-berlin/
+3. Men's Hair House | Organic #3 | Pulse Score 67.1/100 (Good, #1 in city) | Men's Hair House is a barber shop in New Berlin, WI at 3608 South Moorland Road, New Berlin, WI 53151. Phone: +12624399163. Website: https://menshairhouse.com/new-berlin-wi/. | https://registry-edge.dingalinged.workers.dev/c/mens-hair-house-new-berlin/
+4. Instyle Hair Salon | Organic #4 | Pulse Score 67/100 (Good, #1 in city) | Instyle Hair Salon is a hair salon in Pittsburgh, PA. Phone: +14124226777. | https://registry-edge.dingalinged.workers.dev/c/instyle-hair-salon-pittsburgh/
 5. Customized Cuts & Color at Salons by JC | Organic #5 | Pulse Score 66.9/100 (Good, #1 in city) | Customized Cuts & Color at Salons by JC is a hair salon in Columbus, OH at 8745 Sancus Boulevard #4, Columbus, OH 43240. Phone: +17408177010. Website: https://salonsbyjc.com/salons/customized-cuts-color. | https://registry-edge.dingalinged.workers.dev/c/customized-cuts-and-color-at-salons-by-jc-columbus/
 6. Bourne Blonde | Organic #6 | Pulse Score 66.8/100 (Good, #1 in city) | Bourne Blonde is a hair salon in Dallas, TX at 4528 Cabell Drive, Dallas, TX 75204. Phone: +12145977907. Website: https://bourne-blonde-dallas.square.site/. | https://registry-edge.dingalinged.workers.dev/c/bourne-blonde-dallas/
-7. On Demand Barbering | Organic #7 | Pulse Score 66.2/100 (Good, #1 in city) | On Demand Barbering is a barber shop in Grand Prairie, TX at 2985 South Watson Road, Grand Prairie, TX 75052. Phone: +13145132583. Website: https://on-demand-barbering.square.site/. | https://registry-edge.dingalinged.workers.dev/c/on-demand-barbering-grand-prairie/
-8. Terrace Barber Shop | Organic #8 | Pulse Score 66.2/100 (Good, #1 in city) | Terrace Barber Shop is a hair salon in Marietta, GA at 3000 Windy Hill Road Southeast, Marietta, GA 30067. Phone: +14709243037. Website: https://www.terracebarbershopmariettaga.com/. | https://registry-edge.dingalinged.workers.dev/c/terrace-barber-shop-marietta/
-9. The Rooted Salon | Organic #9 | Pulse Score 66.1/100 (Good, #2 in city) | The Rooted Salon is a hair salon in Marietta, GA at 255 Village Parkway Northeast #580, Marietta, GA 30067. Phone: +14049103729. Website: https://therootedsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/the-rooted-salon-marietta/
-10. Paul Mitchell the Salon | Organic #10 | Pulse Score 65.8/100 (Good, #1 in city) | Paul Mitchell the Salon is a hair salon in Clinton Township, MI at 43210 Hayes Road, Clinton Township, MI 48038. Phone: +15864168600. Website: https://www.paulmitchell.com/. | https://registry-edge.dingalinged.workers.dev/c/paul-mitchell-the-salon-clinton-township/
-11. Rx-Elites Barber & Beauty Shop | Organic #11 | Pulse Score 65.6/100 (Good, #1 in city) | Rx-Elites Barber & Beauty Shop is a hair salon in Atlanta, GA at 153 North Avenue Northeast, Atlanta, GA 30308. Phone: +16785492600. Website: https://coryrxservices.booksy.com/. | https://registry-edge.dingalinged.workers.dev/c/rx-elites-barber-and-beauty-shop-atlanta/
-12. Van Hair Collective | Organic #12 | Pulse Score 65.6/100 (Good, #1 in city) | Van Hair Collective is a hair salon in Des Moines, IA at 322 East 6th Street, Des Moines, IA 50309. Phone: +15152092142. Website: https://vanhaircollective.com/. | https://registry-edge.dingalinged.workers.dev/c/van-hair-collective-des-moines/
-13. Nadia's Studio & Gallery | Organic #13 | Pulse Score 65.5/100 (Good, #2 in city) | Nadia's Studio & Gallery is a hair salon in Atlanta, GA at 161 Mangum Street Southwest #103, Atlanta, GA 30313. Phone: +14045275777. Website: https://www.nadiajavan.com/. | https://registry-edge.dingalinged.workers.dev/c/nadias-studio-and-gallery-atlanta/
-14. Beautiful Grace Salon | Organic #14 | Pulse Score 65.5/100 (Good, #1 in city) | Beautiful Grace Salon is a hair salon in Houston, TX at 255 Assay Street #1, Houston, TX 77044. Phone: +18324666478. Website: https://beautifulgracesalon.com/. | https://registry-edge.dingalinged.workers.dev/c/beautiful-grace-salon-houston/
-15. Shades Salon | Organic #15 | Pulse Score 65.4/100 (Good, #1 in city) | Shades Salon is a hair salon in Cobb County, GA at 2790 Sandy Plains Road Northeast, Cobb County, GA. Phone: +17706275018. Website: https://www.shadessalonmarietta.com/. | https://registry-edge.dingalinged.workers.dev/c/shades-salon-cobb-county/
-16. Cutting Group | Organic #16 | Pulse Score 65.2/100 (Good, #1 in city) | Cutting Group is a hair salon in Milwaukee, WI at 2216 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142269998. Website: https://cuttinggroupmilwaukee.com/. | https://registry-edge.dingalinged.workers.dev/c/cutting-group-milwaukee/
-17. CA Colors Salon & Hair Extensions | Organic #17 | Pulse Score 65.2/100 (Good, #2 in city) | CA Colors Salon & Hair Extensions is a hair salon in Pittsburgh, PA at 2101 Greentree Road #301, Pittsburgh, PA 15220. Phone: +14122010051. Website: https://cacolorssalon.com/. | https://registry-edge.dingalinged.workers.dev/c/ca-colors-salon-and-hair-extensions-pittsburgh/
-18. Hair by Grace | Organic #18 | Pulse Score 65.2/100 (Good, #1 in city) | Hair by Grace is a hair salon in Katy, TX at 5142 East Fifth Street, Katy, TX 77493. Phone: +18337373790. Website: https://hair-by-grace-108802.square.site/. | https://registry-edge.dingalinged.workers.dev/c/hair-by-grace-katy/
-19. I Hair Ya | Organic #19 | Pulse Score 65.2/100 (Good, #1 in city) | I Hair Ya is a hair salon in Bridgeton, MO at 3149 Fee Fee Road, Bridgeton, MO 63044. Phone: +16364452150. Website: https://www.ihairya.com/. | https://registry-edge.dingalinged.workers.dev/c/i-hair-ya-bridgeton/
-20. K&S Studio - Samra | Organic #20 | Pulse Score 65.2/100 (Good, #1 in city) | K&S Studio - Samra is a hair salon in Ankeny, IA at 1380 Southwest Vintage Parkway #117, Ankeny, IA 50023. Phone: +15152041517. Website: https://ks-studio-samra.square.site/. | https://registry-edge.dingalinged.workers.dev/c/k-and-s-studio-samra-ankeny/
-21. Kristen Bellinger Hairstylist | Organic #21 | Pulse Score 65.2/100 (Good, #1 in city) | Kristen Bellinger Hairstylist is a hair salon in Cypress, TX at 17110 House Hahl Road #C19, Cypress, TX 77433. Phone: +15037991712. Website: https://www.kristenbellingerhairstylist.com/. | https://registry-edge.dingalinged.workers.dev/c/kristen-bellinger-hairstylist-cypress/
-22. Loc'd With Love | Organic #22 | Pulse Score 65.2/100 (Good, #1 in city) | Loc'd With Love is a hair salon in Denver, CO at 3615 South Tamarac Drive, Denver, CO 80237. Phone: +17202700317. Website: https://www.locdwithlovellc.com/. | https://registry-edge.dingalinged.workers.dev/c/locd-with-love-denver/
-23. Luxhair US | Organic #23 | Pulse Score 65.2/100 (Good, #1 in city) | Luxhair US is a hair salon in Arlington Heights, IL at 4236 Terramere Plaza, Arlington Heights, IL 60004. Phone: +12242772538. Website: https://luxhairusllc.com/. | https://registry-edge.dingalinged.workers.dev/c/luxhair-us-arlington-heights/
-24. Robby's Hair Studio and Spa | Organic #24 | Pulse Score 65.2/100 (Good, #1 in city) | Robby's Hair Studio and Spa is a hair salon in Bacliff, TX at 422 Grand Avenue, Bacliff, TX 77518. Phone: +12813392106. Website: https://square.site/book/8BNN6M267FJHW/robbys-hair-studio-and-spa-bacliff-tx. | https://registry-edge.dingalinged.workers.dev/c/robbys-hair-studio-and-spa-bacliff/
-25. Angie's Hair Studio | Organic #25 | Pulse Score 65.1/100 (Good, #1 in city) | Angie's Hair Studio is a hair salon in Chicago, IL at 8251 West Irving Park Road, Chicago, IL 60634. Phone: +17735894288. Website: https://www.angieshairstudio.us/. | https://registry-edge.dingalinged.workers.dev/c/angies-hair-studio-chicago/
-26. Benny’s Barber Shop | Organic #26 | Pulse Score 65.1/100 (Good, #1 in city) | Benny’s Barber Shop is a hair salon in White Bear Lake, MN at 4758 Washington Avenue, White Bear Lake, MN 55110. Phone: +16514261082. Website: https://www.bennyshaircut.com/. | https://registry-edge.dingalinged.workers.dev/c/benny-s-barber-shop-white-bear-lake/
-27. Chroma Beauty | Organic #27 | Pulse Score 65.1/100 (Good, #1 in city) | Chroma Beauty is a hair salon in Palos Hills, IL at 10600 South Roberts Road, Palos Hills, IL 60465. Phone: +17085773776. Website: https://chroma-beauty-salon.com/. | https://registry-edge.dingalinged.workers.dev/c/chroma-beauty-palos-hills/
-28. Collusion Salon | Organic #28 | Pulse Score 65.1/100 (Good, #1 in city) | Collusion Salon is a hair salon in Ferndale, MI at 221 West Troy Street, Ferndale, MI 48220. Phone: +13134445527. Website: https://www.collusionsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/collusion-salon-ferndale/
-29. Glynnis Neal at Pura Vida Salon | Organic #29 | Pulse Score 65.1/100 (Good, #2 in city) | Glynnis Neal at Pura Vida Salon is a hair salon in Dallas, TX at 3324 McKinney Avenue #180, Dallas, TX 75204. Phone: +12143788889. Website: https://glynnis-neal-in-dallas.square.site/. | https://registry-edge.dingalinged.workers.dev/c/glynnis-neal-at-pura-vida-salon-dallas/
-30. Midou Studio | Organic #30 | Pulse Score 65.1/100 (Good, #1 in city) | Midou Studio is a hair salon in Indianapolis, IN at 9935 East 42nd Street, Indianapolis, IN 46235. Phone: +13179192581. Website: https://www.midoubeauty.com/. | https://registry-edge.dingalinged.workers.dev/c/midou-studio-indianapolis/
-31. Remedy Salon Apothecary | Organic #31 | Pulse Score 65.1/100 (Good, #1 in city) | Remedy Salon Apothecary is a hair salon in Upper Arlington, OH at 1962 North Mallway Drive, Upper Arlington, OH 43221. Phone: +17405061197. Website: https://www.remedysalonapothecary.com/. | https://registry-edge.dingalinged.workers.dev/c/remedy-salon-apothecary-upper-arlington/
-32. Salon Memoir | Organic #32 | Pulse Score 65.1/100 (Good, #1 in city) | Salon Memoir is a hair salon in Wichita, KS at 2721 East Central Avenue #115, Wichita, KS 67214. Phone: +13168418507. Website: https://square.site/book/0Y3E9EAAWDMCZ/salon-memoir-llc-wichita-ks. | https://registry-edge.dingalinged.workers.dev/c/salon-memoir-wichita/
-33. Style Me Up Hair Salon | Organic #33 | Pulse Score 65.1/100 (Good, #1 in city) | Style Me Up Hair Salon is a hair salon in Overland Park, KS at 6917 West 135th Street #B-33 Ste 201, Overland Park, KS 66223. Phone: +19139333410. Website: https://stylemeuphair.salon/. | https://registry-edge.dingalinged.workers.dev/c/style-me-up-hair-salon-overland-park/
-34. The Loc Tribe at Phenix Salon Suites | Organic #34 | Pulse Score 65.1/100 (Good, #1 in city) | The Loc Tribe at Phenix Salon Suites is a hair salon in Arlington, TX at 536 West Randol Mill Road #150, Arlington, TX 76011. Phone: +13373546614. Website: https://www.theloctribe.org/. | https://registry-edge.dingalinged.workers.dev/c/the-loc-tribe-at-phenix-salon-suites-arlington/
-35. Wolfin Barber Shop | Organic #35 | Pulse Score 65.1/100 (Good, #1 in city) | Wolfin Barber Shop is a barber shop in Flower Mound, TX at 3349 Long Prairie Road, Flower Mound, TX 75022. Phone: +12145130023. Website: https://www.wolfinbarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/wolfin-barber-shop-flower-mound/
-36. Yumi Nguyen Beauty | Organic #36 | Pulse Score 65.1/100 (Good, #2 in city) | Yumi Nguyen Beauty is a hair salon in Katy, TX at 1227 Grand Boulevard West #B206, Katy, TX 77449. Phone: +18503324354. Website: https://yumi-hair.square.site/. | https://registry-edge.dingalinged.workers.dev/c/yumi-nguyen-beauty-katy/
-37. Good Times Barbershop | Organic #37 | Pulse Score 65/100 (Good, #1 in city) | Good Times Barbershop is a barber shop in Kearney, MO at 117 East Washington Street, Kearney, MO 64060. Phone: +18168731509. Website: https://goodtimesbarbershop466.resurva.com/. | https://registry-edge.dingalinged.workers.dev/c/good-times-barbershop-kearney/
-38. BarberNation Barber Shop | Organic #38 | Pulse Score 65/100 (Good, #2 in city) | BarberNation Barber Shop is a hair salon in Cobb County, GA at 3595 Canton Road #322, Cobb County, GA. Phone: +16784082620. Website: https://www.vagaro.com/barbernationbarbershop. | https://registry-edge.dingalinged.workers.dev/c/barbernation-barber-shop-cobb-county/
-39. Glitter & Geeks Salon | Organic #39 | Pulse Score 65/100 (Good, #3 in city) | Glitter & Geeks Salon is a hair salon in Cobb County, GA at 2615 Canton Road, Cobb County, GA. Phone: +14042680186. Website: https://glitterandgeeks.glossgenius.com/. | https://registry-edge.dingalinged.workers.dev/c/glitter-and-geeks-salon-cobb-county/
-40. Blissful Beauty HTX | Organic #40 | Pulse Score 65/100 (Good, #2 in city) | Blissful Beauty HTX is a hair salon in Houston, TX at 3100 Richmond Avenue #103-1, Houston, TX 77098. Phone: +17133771330. Website: https://blissfulbeauty-htx.square.site/. | https://registry-edge.dingalinged.workers.dev/c/blissful-beauty-htx-houston/
-41. Born Cutterz Barbershop | Organic #41 | Pulse Score 65/100 (Good, #1 in city) | Born Cutterz Barbershop is a hair salon in Humble, TX at 802 #300 1st Street, Humble, TX 77338. Phone: +13466168200. Website: https://borncutterz.com/. | https://registry-edge.dingalinged.workers.dev/c/born-cutterz-barbershop-humble/
-42. Creative Roots with Caitie | Organic #42 | Pulse Score 65/100 (Good, #1 in city) | Creative Roots with Caitie is a hair salon in Florence, KY at 8731 Bankers Street #16, Florence, KY 41042. Phone: +18592066813. Website: https://salonlofts.com/caitie_forsyth. | https://registry-edge.dingalinged.workers.dev/c/creative-roots-with-caitie-florence/
-43. Curl Revolution Salon | Organic #43 | Pulse Score 65/100 (Good, #1 in city) | Curl Revolution Salon is a hair salon in Frisco, TX at 9200 Lebanon Road #40-241, Frisco, TX 75035. Phone: +12147075554. Website: https://curlrevolution.com/. | https://registry-edge.dingalinged.workers.dev/c/curl-revolution-salon-frisco/
-44. Extravagant Techniques | Organic #44 | Pulse Score 65/100 (Good, #1 in city) | Extravagant Techniques is a hair salon in Rockwall, TX at 1901 South Goliad Street #3, Rockwall, TX 75087. Phone: +19727226887. Website: https://etbarbers.com/. | https://registry-edge.dingalinged.workers.dev/c/extravagant-techniques-rockwall/
-45. Lace Me by J Lacy | Organic #45 | Pulse Score 65/100 (Good, #3 in city) | Lace Me by J Lacy is a hair salon in Dallas, TX at 9100 North Central Expressway #190, Dallas, TX 75231. Phone: +12146132903. Website: https://www.salonlaceme.com/. | https://registry-edge.dingalinged.workers.dev/c/lace-me-by-j-lacy-dallas/
-46. M. Capelli Salon | Organic #46 | Pulse Score 65/100 (Good, #1 in city) | M. Capelli Salon is a hair salon in Lancaster, OH at 214 South Pershing Drive, Lancaster, OH 43130. Phone: +17404228116. Website: https://www.mcapellisalon.com/. | https://registry-edge.dingalinged.workers.dev/c/m-capelli-salon-lancaster/
-47. The Station Hair Parlor | Organic #47 | Pulse Score 65/100 (Good, #1 in city) | The Station Hair Parlor is a hair salon in Greenwood, IN at 200 Byrd Way #105, Greenwood, IN 46143. Phone: +13177751076. Website: https://www.thestationhair.com/. | https://registry-edge.dingalinged.workers.dev/c/the-station-hair-parlor-greenwood/
-48. Gino's Classic Barbers | Organic #48 | Pulse Score 64.9/100 (Good, #1 in city) | Gino's Classic Barbers is a barber shop in Atlanta, GA at 1170 Crescent Avenue Northeast #P2, Atlanta, GA 30309. Phone: +16788200070. Website: https://www.ginosclassicbarbers.com/. | https://registry-edge.dingalinged.workers.dev/c/ginos-classic-barbers-atlanta/
-49. Intrigue Salon | Organic #49 | Pulse Score 64.9/100 (Good, #3 in city) | Intrigue Salon is a hair salon in Marietta, GA at 1314 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +17709773696. Website: https://intriguesalon.com/. | https://registry-edge.dingalinged.workers.dev/c/intrigue-salon-marietta/
-50. Caviar Hair Studio | Organic #50 | Pulse Score 64.9/100 (Good, #3 in city) | Caviar Hair Studio is a hair salon in Atlanta, GA at 1 Moreland Avenue Southeast #B, Atlanta, GA. Phone: +14045002687. Website: https://caviarhairstudio.com/. | https://registry-edge.dingalinged.workers.dev/c/caviar-hair-studio-atlanta/
+7. Supercuts (University Commons) | Organic #7 | Pulse Score 66.4/100 (Good, #1 in city) | Supercuts (University Commons) is a hair salon in Round Rock, TX at 210 University Boulevard #110, Round Rock, TX 78665. Phone: +15128632191. Website: https://www.supercuts.com/locations/tx/round-rock/university-commons-haircuts-81083.html. | https://registry-edge.dingalinged.workers.dev/c/supercuts-university-commons-round-rock/
+8. On Demand Barbering | Organic #8 | Pulse Score 66.2/100 (Good, #1 in city) | On Demand Barbering is a barber shop in Grand Prairie, TX at 2985 South Watson Road, Grand Prairie, TX 75052. Phone: +13145132583. Website: https://on-demand-barbering.square.site/. | https://registry-edge.dingalinged.workers.dev/c/on-demand-barbering-grand-prairie/
+9. San Antonio Hair Colorist JRo | Organic #9 | Pulse Score 66.2/100 (Good, #1 in city) | San Antonio Hair Colorist JRo is a hair salon in San Antonio, TX at 300 West Bitters Road #6, San Antonio, TX 78216. Phone: +14328948533. Website: https://jessica-rodriguez-101503.square.site/. | https://registry-edge.dingalinged.workers.dev/c/san-antonio-hair-colorist-jro-san-antonio/
+10. Terrace Barber Shop | Organic #10 | Pulse Score 66.2/100 (Good, #1 in city) | Terrace Barber Shop is a hair salon in Marietta, GA at 3000 Windy Hill Road Southeast, Marietta, GA 30067. Phone: +14709243037. Website: https://www.terracebarbershopmariettaga.com/. | https://registry-edge.dingalinged.workers.dev/c/terrace-barber-shop-marietta/
+11. The Rooted Salon | Organic #11 | Pulse Score 66.1/100 (Good, #2 in city) | The Rooted Salon is a hair salon in Marietta, GA at 255 Village Parkway Northeast #580, Marietta, GA 30067. Phone: +14049103729. Website: https://therootedsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/the-rooted-salon-marietta/
+12. Smooth Lines Salon & Spa | Organic #12 | Pulse Score 65.8/100 (Good, #2 in city) | Smooth Lines Salon & Spa is a hair salon in San Antonio, TX at 11255 Huebner Road #113, San Antonio, TX 78230. Phone: +12106902244. Website: https://www.smoothlinessalon.com/. | https://registry-edge.dingalinged.workers.dev/c/smooth-lines-salon-and-spa-san-antonio/
+13. Paul Mitchell the Salon | Organic #13 | Pulse Score 65.8/100 (Good, #1 in city) | Paul Mitchell the Salon is a hair salon in Clinton Township, MI at 43210 Hayes Road, Clinton Township, MI 48038. Phone: +15864168600. Website: https://www.paulmitchell.com/. | https://registry-edge.dingalinged.workers.dev/c/paul-mitchell-the-salon-clinton-township/
+14. Rx-Elites Barber & Beauty Shop | Organic #14 | Pulse Score 65.6/100 (Good, #1 in city) | Rx-Elites Barber & Beauty Shop is a hair salon in Atlanta, GA at 153 North Avenue Northeast, Atlanta, GA 30308. Phone: +16785492600. Website: https://coryrxservices.booksy.com/. | https://registry-edge.dingalinged.workers.dev/c/rx-elites-barber-and-beauty-shop-atlanta/
+15. Van Hair Collective | Organic #15 | Pulse Score 65.6/100 (Good, #1 in city) | Van Hair Collective is a hair salon in Des Moines, IA at 322 East 6th Street, Des Moines, IA 50309. Phone: +15152092142. Website: https://vanhaircollective.com/. | https://registry-edge.dingalinged.workers.dev/c/van-hair-collective-des-moines/
+16. Nadia's Studio & Gallery | Organic #16 | Pulse Score 65.5/100 (Good, #2 in city) | Nadia's Studio & Gallery is a hair salon in Atlanta, GA at 161 Mangum Street Southwest #103, Atlanta, GA 30313. Phone: +14045275777. Website: https://www.nadiajavan.com/. | https://registry-edge.dingalinged.workers.dev/c/nadias-studio-and-gallery-atlanta/
+17. Beautiful Grace Salon | Organic #17 | Pulse Score 65.5/100 (Good, #1 in city) | Beautiful Grace Salon is a hair salon in Houston, TX at 255 Assay Street #1, Houston, TX 77044. Phone: +18324666478. Website: https://beautifulgracesalon.com/. | https://registry-edge.dingalinged.workers.dev/c/beautiful-grace-salon-houston/
+18. Shades Salon | Organic #18 | Pulse Score 65.4/100 (Good, #1 in city) | Shades Salon is a hair salon in Cobb County, GA at 2790 Sandy Plains Road Northeast, Cobb County, GA. Phone: +17706275018. Website: https://www.shadessalonmarietta.com/. | https://registry-edge.dingalinged.workers.dev/c/shades-salon-cobb-county/
+19. Cutting Group | Organic #19 | Pulse Score 65.2/100 (Good, #1 in city) | Cutting Group is a hair salon in Milwaukee, WI at 2216 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142269998. Website: https://cuttinggroupmilwaukee.com/. | https://registry-edge.dingalinged.workers.dev/c/cutting-group-milwaukee/
+20. CA Colors Salon & Hair Extensions | Organic #20 | Pulse Score 65.2/100 (Good, #2 in city) | CA Colors Salon & Hair Extensions is a hair salon in Pittsburgh, PA at 2101 Greentree Road #301, Pittsburgh, PA 15220. Phone: +14122010051. Website: https://cacolorssalon.com/. | https://registry-edge.dingalinged.workers.dev/c/ca-colors-salon-and-hair-extensions-pittsburgh/
+21. Hair by Grace | Organic #21 | Pulse Score 65.2/100 (Good, #1 in city) | Hair by Grace is a hair salon in Katy, TX at 5142 East Fifth Street, Katy, TX 77493. Phone: +18337373790. Website: https://hair-by-grace-108802.square.site/. | https://registry-edge.dingalinged.workers.dev/c/hair-by-grace-katy/
+22. I Hair Ya | Organic #22 | Pulse Score 65.2/100 (Good, #1 in city) | I Hair Ya is a hair salon in Bridgeton, MO at 3149 Fee Fee Road, Bridgeton, MO 63044. Phone: +16364452150. Website: https://www.ihairya.com/. | https://registry-edge.dingalinged.workers.dev/c/i-hair-ya-bridgeton/
+23. K&S Studio - Samra | Organic #23 | Pulse Score 65.2/100 (Good, #1 in city) | K&S Studio - Samra is a hair salon in Ankeny, IA at 1380 Southwest Vintage Parkway #117, Ankeny, IA 50023. Phone: +15152041517. Website: https://ks-studio-samra.square.site/. | https://registry-edge.dingalinged.workers.dev/c/k-and-s-studio-samra-ankeny/
+24. Kristen Bellinger Hairstylist | Organic #24 | Pulse Score 65.2/100 (Good, #1 in city) | Kristen Bellinger Hairstylist is a hair salon in Cypress, TX at 17110 House Hahl Road #C19, Cypress, TX 77433. Phone: +15037991712. Website: https://www.kristenbellingerhairstylist.com/. | https://registry-edge.dingalinged.workers.dev/c/kristen-bellinger-hairstylist-cypress/
+25. Loc'd With Love | Organic #25 | Pulse Score 65.2/100 (Good, #1 in city) | Loc'd With Love is a hair salon in Denver, CO at 3615 South Tamarac Drive, Denver, CO 80237. Phone: +17202700317. Website: https://www.locdwithlovellc.com/. | https://registry-edge.dingalinged.workers.dev/c/locd-with-love-denver/
+26. Luxhair US | Organic #26 | Pulse Score 65.2/100 (Good, #1 in city) | Luxhair US is a hair salon in Arlington Heights, IL at 4236 Terramere Plaza, Arlington Heights, IL 60004. Phone: +12242772538. Website: https://luxhairusllc.com/. | https://registry-edge.dingalinged.workers.dev/c/luxhair-us-arlington-heights/
+27. Robby's Hair Studio and Spa | Organic #27 | Pulse Score 65.2/100 (Good, #1 in city) | Robby's Hair Studio and Spa is a hair salon in Bacliff, TX at 422 Grand Avenue, Bacliff, TX 77518. Phone: +12813392106. Website: https://square.site/book/8BNN6M267FJHW/robbys-hair-studio-and-spa-bacliff-tx. | https://registry-edge.dingalinged.workers.dev/c/robbys-hair-studio-and-spa-bacliff/
+28. Angie's Hair Studio | Organic #28 | Pulse Score 65.1/100 (Good, #1 in city) | Angie's Hair Studio is a hair salon in Chicago, IL at 8251 West Irving Park Road, Chicago, IL 60634. Phone: +17735894288. Website: https://www.angieshairstudio.us/. | https://registry-edge.dingalinged.workers.dev/c/angies-hair-studio-chicago/
+29. Balayage Salon & Spa | Organic #29 | Pulse Score 65.1/100 (Good, #1 in city) | Balayage Salon & Spa is a hair salon in Corpus Christi, TX at 6210 Yorktown Boulevard #200, Corpus Christi, TX 78414. Phone: +13613312757. Website: https://balayagesalonandspacc.com/. | https://registry-edge.dingalinged.workers.dev/c/balayage-salon-and-spa-corpus-christi/
+30. Benny’s Barber Shop | Organic #30 | Pulse Score 65.1/100 (Good, #1 in city) | Benny’s Barber Shop is a hair salon in White Bear Lake, MN at 4758 Washington Avenue, White Bear Lake, MN 55110. Phone: +16514261082. Website: https://www.bennyshaircut.com/. | https://registry-edge.dingalinged.workers.dev/c/benny-s-barber-shop-white-bear-lake/
+31. Chroma Beauty | Organic #31 | Pulse Score 65.1/100 (Good, #1 in city) | Chroma Beauty is a hair salon in Palos Hills, IL at 10600 South Roberts Road, Palos Hills, IL 60465. Phone: +17085773776. Website: https://chroma-beauty-salon.com/. | https://registry-edge.dingalinged.workers.dev/c/chroma-beauty-palos-hills/
+32. Collusion Salon | Organic #32 | Pulse Score 65.1/100 (Good, #1 in city) | Collusion Salon is a hair salon in Ferndale, MI at 221 West Troy Street, Ferndale, MI 48220. Phone: +13134445527. Website: https://www.collusionsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/collusion-salon-ferndale/
+33. Curl Revolution Salon | Organic #33 | Pulse Score 65.1/100 (Good, #1 in city) | Curl Revolution Salon is a hair salon in Frisco, TX at 9200 Lebanon Road #40-241, Frisco, TX 75035. Phone: +12147075554. Website: https://curlrevolution.com/. | https://registry-edge.dingalinged.workers.dev/c/curl-revolution-salon-frisco/
+34. Glynnis Neal at Pura Vida Salon | Organic #34 | Pulse Score 65.1/100 (Good, #2 in city) | Glynnis Neal at Pura Vida Salon is a hair salon in Dallas, TX at 3324 McKinney Avenue #180, Dallas, TX 75204. Phone: +12143788889. Website: https://glynnis-neal-in-dallas.square.site/. | https://registry-edge.dingalinged.workers.dev/c/glynnis-neal-at-pura-vida-salon-dallas/
+35. Leo Harris at Studio 5 Suites | Organic #35 | Pulse Score 65.1/100 (Good, #1 in city) | Leo Harris at Studio 5 Suites is a barber shop in Kaufman, TX at 510 East US Highway 175, Kaufman, TX 75142. Phone: +14692541715. Website: https://leo-harris.square.site/. | https://registry-edge.dingalinged.workers.dev/c/leo-harris-at-studio-5-suites-kaufman/
+36. Midou Studio | Organic #36 | Pulse Score 65.1/100 (Good, #1 in city) | Midou Studio is a hair salon in Indianapolis, IN at 9935 East 42nd Street, Indianapolis, IN 46235. Phone: +13179192581. Website: https://www.midoubeauty.com/. | https://registry-edge.dingalinged.workers.dev/c/midou-studio-indianapolis/
+37. Remedy Salon Apothecary | Organic #37 | Pulse Score 65.1/100 (Good, #1 in city) | Remedy Salon Apothecary is a hair salon in Upper Arlington, OH at 1962 North Mallway Drive, Upper Arlington, OH 43221. Phone: +17405061197. Website: https://www.remedysalonapothecary.com/. | https://registry-edge.dingalinged.workers.dev/c/remedy-salon-apothecary-upper-arlington/
+38. Salon Memoir | Organic #38 | Pulse Score 65.1/100 (Good, #1 in city) | Salon Memoir is a hair salon in Wichita, KS at 2721 East Central Avenue #115, Wichita, KS 67214. Phone: +13168418507. Website: https://square.site/book/0Y3E9EAAWDMCZ/salon-memoir-llc-wichita-ks. | https://registry-edge.dingalinged.workers.dev/c/salon-memoir-wichita/
+39. Style Me Up Hair Salon | Organic #39 | Pulse Score 65.1/100 (Good, #1 in city) | Style Me Up Hair Salon is a hair salon in Overland Park, KS at 6917 West 135th Street #B-33 Ste 201, Overland Park, KS 66223. Phone: +19139333410. Website: https://stylemeuphair.salon/. | https://registry-edge.dingalinged.workers.dev/c/style-me-up-hair-salon-overland-park/
+40. The Loc Tribe at Phenix Salon Suites | Organic #40 | Pulse Score 65.1/100 (Good, #1 in city) | The Loc Tribe at Phenix Salon Suites is a hair salon in Arlington, TX at 536 West Randol Mill Road #150, Arlington, TX 76011. Phone: +13373546614. Website: https://www.theloctribe.org/. | https://registry-edge.dingalinged.workers.dev/c/the-loc-tribe-at-phenix-salon-suites-arlington/
+41. Yumi Nguyen Beauty | Organic #41 | Pulse Score 65.1/100 (Good, #2 in city) | Yumi Nguyen Beauty is a hair salon in Katy, TX at 1227 Grand Boulevard West #B206, Katy, TX 77449. Phone: +18503324354. Website: https://yumi-hair.square.site/. | https://registry-edge.dingalinged.workers.dev/c/yumi-nguyen-beauty-katy/
+42. Good Times Barbershop | Organic #42 | Pulse Score 65/100 (Good, #1 in city) | Good Times Barbershop is a barber shop in Kearney, MO at 117 East Washington Street, Kearney, MO 64060. Phone: +18168731509. Website: https://goodtimesbarbershop466.resurva.com/. | https://registry-edge.dingalinged.workers.dev/c/good-times-barbershop-kearney/
+43. BarberNation Barber Shop | Organic #43 | Pulse Score 65/100 (Good, #2 in city) | BarberNation Barber Shop is a hair salon in Cobb County, GA at 3595 Canton Road #322, Cobb County, GA. Phone: +16784082620. Website: https://www.vagaro.com/barbernationbarbershop. | https://registry-edge.dingalinged.workers.dev/c/barbernation-barber-shop-cobb-county/
+44. Glitter & Geeks Salon | Organic #44 | Pulse Score 65/100 (Good, #3 in city) | Glitter & Geeks Salon is a hair salon in Cobb County, GA at 2615 Canton Road, Cobb County, GA. Phone: +14042680186. Website: https://glitterandgeeks.glossgenius.com/. | https://registry-edge.dingalinged.workers.dev/c/glitter-and-geeks-salon-cobb-county/
+45. Blissful Beauty HTX | Organic #45 | Pulse Score 65/100 (Good, #2 in city) | Blissful Beauty HTX is a hair salon in Houston, TX at 3100 Richmond Avenue #103-1, Houston, TX 77098. Phone: +17133771330. Website: https://blissfulbeauty-htx.square.site/. | https://registry-edge.dingalinged.workers.dev/c/blissful-beauty-htx-houston/
+46. Born Cutterz Barbershop | Organic #46 | Pulse Score 65/100 (Good, #1 in city) | Born Cutterz Barbershop is a hair salon in Humble, TX at 802 #300 1st Street, Humble, TX 77338. Phone: +13466168200. Website: https://borncutterz.com/. | https://registry-edge.dingalinged.workers.dev/c/born-cutterz-barbershop-humble/
+47. Color Amp Salon | Organic #47 | Pulse Score 65/100 (Good, #1 in city) | Color Amp Salon is a hair salon in El Paso, TX at 6410 Airport Road #4, El Paso, TX 79925. Phone: +19155640277. Website: https://www.colorampsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/color-amp-salon-el-paso/
+48. Creative Roots with Caitie | Organic #48 | Pulse Score 65/100 (Good, #1 in city) | Creative Roots with Caitie is a hair salon in Florence, KY at 8731 Bankers Street #16, Florence, KY 41042. Phone: +18592066813. Website: https://salonlofts.com/caitie_forsyth. | https://registry-edge.dingalinged.workers.dev/c/creative-roots-with-caitie-florence/
+49. Extravagant Techniques | Organic #49 | Pulse Score 65/100 (Good, #1 in city) | Extravagant Techniques is a hair salon in Rockwall, TX at 1901 South Goliad Street #3, Rockwall, TX 75087. Phone: +19727226887. Website: https://etbarbers.com/. | https://registry-edge.dingalinged.workers.dev/c/extravagant-techniques-rockwall/
+50. M. Capelli Salon | Organic #50 | Pulse Score 65/100 (Good, #1 in city) | M. Capelli Salon is a hair salon in Lancaster, OH at 214 South Pershing Drive, Lancaster, OH 43130. Phone: +17404228116. Website: https://www.mcapellisalon.com/. | https://registry-edge.dingalinged.workers.dev/c/m-capelli-salon-lancaster/
 
-## More haircut listings (5911 total; top 50 unpaid shown)
+## More haircut listings (7189 total; top 50 unpaid shown)
 - Chicago, IL: 238 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-chicago-il/
-- Houston, TX: 201 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-houston-tx/
+- Houston, TX: 202 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-houston-tx/
+- Austin, TX: 181 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-austin-tx/
 - Milwaukee, WI: 157 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-milwaukee-wi/
 - Minneapolis, MN: 129 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-minneapolis-mn/
+- San Antonio, TX: 128 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-san-antonio-tx/
+- Dallas, TX: 120 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-dallas-tx/
 - Columbus, OH: 119 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-columbus-oh/
-- Dallas, TX: 114 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-dallas-tx/
 - Aurora, CO: 114 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-aurora-co/
+- Harris County, TX: 109 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-harris-county-tx/
 - Kansas City, MO: 108 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-kansas-city-mo/
 - Atlanta, GA: 96 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-atlanta-ga/
 - Indianapolis, IN: 92 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-indianapolis-in/
-- Harris County, TX: 89 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-harris-county-tx/
 - Pittsburgh, PA: 88 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-pittsburgh-pa/
 - Detroit, MI: 85 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-detroit-mi/
 - Cobb County, GA: 82 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-cobb-county-ga/
+- Amarillo, TX: 75 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-amarillo-tx/
 - Saint Paul, MN: 75 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-saint-paul-mn/
 - Madison, WI: 64 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-madison-wi/
 - Cincinnati, OH: 59 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-cincinnati-oh/
+- Fort Worth, TX: 55 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-fort-worth-tx/
+- Lubbock, TX: 55 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lubbock-tx/
 - Omaha, NE: 55 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-omaha-ne/
 - Sterling Heights, MI: 43 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-sterling-heights-mi/
 - Marietta, GA: 39 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-marietta-ga/
+- El Paso, TX: 38 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-el-paso-tx/
 - Springfield, MO: 38 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-springfield-mo/
 - Lakewood, CO: 36 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lakewood-co/
+- Georgetown, TX: 35 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-georgetown-tx/
 - Des Moines, IA: 35 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-des-moines-ia/
 - Lawrence, KS: 34 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lawrence-ks/
+- Cleburne, TX: 32 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-cleburne-tx/
 - Naperville, IL: 32 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-naperville-il/
 - West Des Moines, IA: 32 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-west-des-moines-ia/
 - Boulder, CO: 31 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-boulder-co/
+- Corpus Christi, TX: 30 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-corpus-christi-tx/
 - Frisco, TX: 30 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-frisco-tx/
 - Parker, CO: 30 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-parker-co/
 - Smyrna, GA: 30 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-smyrna-ga/
+- Fayetteville, AR: 30 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-fayetteville-ar/
 - Addison, TX: 29 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-addison-tx/
 - Denton, TX: 29 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-denton-tx/
 - Wichita, KS: 28 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-wichita-ks/
 - Kennesaw, GA: 28 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-kennesaw-ga/
+- Plano, TX: 27 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-plano-tx/
 - Overland Park, KS: 27 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-overland-park-ks/
 - Gwinnett County, GA: 27 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-gwinnett-county-ga/
-- Richardson, TX: 25 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-richardson-tx/
+- Carrollton, TX: 26 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-carrollton-tx/
+- Richardson, TX: 26 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-richardson-tx/
 - Royal Oak, MI: 25 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-royal-oak-mi/
-- Plano, TX: 24 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-plano-tx/
-- Carrollton, TX: 24 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-carrollton-tx/
 - Saint Louis Park, MN: 24 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-saint-louis-park-mn/
+- Lewisville, TX: 22 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lewisville-tx/
 - Carmel, IN: 22 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-carmel-in/
 - Thornton, CO: 22 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-thornton-co/
 - Columbia, MO: 22 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-columbia-mo/
 - Euless, TX: 21 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-euless-tx/
-- Lewisville, TX: 21 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lewisville-tx/
+- Cedar Park, TX: 21 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-cedar-park-tx/
 - Ross Township, PA: 21 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-ross-township-pa/
 - Birmingham, MI: 21 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-birmingham-mi/
 - Southgate, MI: 21 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-southgate-mi/
+- Arlington, TX: 20 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-arlington-tx/
 - Jefferson County, CO: 20 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-jefferson-county-co/
 - Lancaster, OH: 20 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lancaster-oh/
 - Evanston, IL: 20 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-evanston-il/
-- Arlington, TX: 19 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-arlington-tx/
 - Mckinney, TX: 19 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-mckinney-tx/
 - The Woodlands, TX: 19 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-the-woodlands-tx/
 - Littleton, CO: 19 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-littleton-co/
 - Ferndale, MI: 19 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-ferndale-mi/
+- Flower Mound, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-flower-mound-tx/
 - Topeka, KS: 18 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-topeka-ks/
 - Gary, IN: 18 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-gary-in/
-- Katy, TX: 17 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-katy-tx/
 - Kansas City, KS: 17 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-kansas-city-ks/
 - Wauwatosa, WI: 17 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-wauwatosa-wi/
 - Mccandless, PA: 17 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-mccandless-pa/
 - Brookfield, IL: 17 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-brookfield-il/
 - Lincoln Park, MI: 17 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lincoln-park-mi/
 - Mesquite, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-mesquite-tx/
+- Katy, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-katy-tx/
+- Mcallen, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-mcallen-tx/
 - Colerain Township, OH: 16 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-colerain-township-oh/
 - Dearborn, MI: 16 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-dearborn-mi/
 - Wyandotte, MI: 16 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-wyandotte-mi/
+- Russellville, AR: 16 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-russellville-ar/
+- Fort Smith, AR: 16 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-fort-smith-ar/
 - Urbandale, IA: 16 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-urbandale-ia/
-- Flower Mound, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-flower-mound-tx/
+- Round Rock, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-round-rock-tx/
 - Centennial, CO: 15 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-centennial-co/
 - Racine, WI: 15 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-racine-wi/
 - Overland, MO: 15 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-overland-mo/
 - Alpharetta, GA: 15 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-alpharetta-ga/
+- Conway, AR: 15 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-conway-ar/
+- San Marcos, TX: 14 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-san-marcos-tx/
 - Plainfield, IN: 14 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-plainfield-in/
 - Saint Louis County, MO: 14 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-saint-louis-county-mo/
 - Bethel Park, PA: 14 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bethel-park-pa/
 - Roswell, GA: 14 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-roswell-ga/
 - Woodstock, GA: 14 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-woodstock-ga/
+- Killeen, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-killeen-tx/
+- Beaumont, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-beaumont-tx/
 - Eagan, MN: 13 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-eagan-mn/
 - Manhattan, KS: 13 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-manhattan-ks/
 - Olathe, KS: 13 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-olathe-ks/
@@ -149,6 +168,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Des Plaines, IL: 13 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-des-plaines-il/
 - Warren, MI: 13 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-warren-mi/
 - Bellevue, NE: 13 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bellevue-ne/
+- Odessa, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-odessa-tx/
+- Texarkana, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-texarkana-tx/
+- Garland, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-garland-tx/
 - Edina, MN: 12 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-edina-mn/
 - Eden Prairie, MN: 12 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-eden-prairie-mn/
 - O’Fallon, MO: 12 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-o-fallon-mo/
@@ -157,8 +179,15 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - La Grange, IL: 12 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-la-grange-il/
 - Dekalb County, GA: 12 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-dekalb-county-ga/
 - Canton Township, MI: 12 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-canton-township-mi/
+- Rogers, AR: 12 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-rogers-ar/
+- Little Rock, AR: 12 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-little-rock-ar/
+- La Porte, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-la-porte-tx/
+- Sugar Land, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-sugar-land-tx/
 - Rockwall, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-rockwall-tx/
+- Fort Bend County, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-fort-bend-county-tx/
+- Angleton, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-angleton-tx/
 - Cedar Hill, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-cedar-hill-tx/
+- Humble, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-humble-tx/
 - Noblesville, IN: 11 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-noblesville-in/
 - Upper Arlington, OH: 11 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-upper-arlington-oh/
 - West Chester Township, OH: 11 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-west-chester-township-oh/
@@ -166,11 +195,14 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - West Bloomfield Township, MI: 11 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-west-bloomfield-township-mi/
 - Fraser, MI: 11 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-fraser-mi/
 - Council Bluffs, IA: 11 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-council-bluffs-ia/
-- Sugar Land, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-sugar-land-tx/
-- Fort Bend County, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-fort-bend-county-tx/
+- Bastrop, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bastrop-tx/
+- Irving, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-irving-tx/
 - Grapevine, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-grapevine-tx/
-- Humble, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-humble-tx/
-- Garland, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-garland-tx/
+- Waco, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-waco-tx/
+- Longview, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-longview-tx/
+- College Station, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-college-station-tx/
+- Leander, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-leander-tx/
+- Montgomery County, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-montgomery-county-tx/
 - Maple Grove, MN: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-maple-grove-mn/
 - Longmont, CO: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-longmont-co/
 - Arvada, CO: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-arvada-co/
@@ -183,7 +215,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Decatur, GA: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-decatur-ga/
 - Clinton Township, MI: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-clinton-township-mi/
 - Ankeny, IA: 10 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-ankeny-ia/
-- Montgomery County, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-montgomery-county-tx/
+- Pflugerville, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-pflugerville-tx/
 - Roseville, MN: 9 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-roseville-mn/
 - Bloomington, MN: 9 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bloomington-mn/
 - Waukesha, WI: 9 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-waukesha-wi/
@@ -196,9 +228,14 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Shelby Charter Township, MI: 9 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-shelby-charter-township-mi/
 - Taylor, MI: 9 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-taylor-mi/
 - Farmington Hills, MI: 9 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-farmington-hills-mi/
+- Deer Park, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-deer-park-tx/
+- Hurst, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-hurst-tx/
 - Richmond, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-richmond-tx/
-- Irving, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-irving-tx/
+- Kerrville, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-kerrville-tx/
+- Burleson, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-burleson-tx/
 - Southlake, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-southlake-tx/
+- Conroe, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-conroe-tx/
+- New Braunfels, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-new-braunfels-tx/
 - Minnetonka, MN: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-minnetonka-mn/
 - Greenwood, IN: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-greenwood-in/
 - Fishers, IN: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-fishers-in/
@@ -217,10 +254,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Morrow, GA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-morrow-ga/
 - Stone Mountain, GA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-stone-mountain-ga/
 - Forest Park, GA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-forest-park-ga/
-- Hurst, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-hurst-tx/
 - Rosenberg, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-rosenberg-tx/
 - Bedford, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bedford-tx/
-- Conroe, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-conroe-tx/
+- Greenville, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-greenville-tx/
+- Weatherford, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-weatherford-tx/
+- Watauga, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-watauga-tx/
 - Pearland, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-pearland-tx/
 - Wylie, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-wylie-tx/
 - Coon Rapids, MN: 7 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-coon-rapids-mn/
@@ -246,8 +284,19 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Troy, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-troy-mi/
 - Johnston, IA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-johnston-ia/
 - Clive, IA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-clive-ia/
+- Midland, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-midland-tx/
+- Alamo Heights, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-alamo-heights-tx/
+- Wells Branch, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-wells-branch-tx/
 - Roanoke, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-roanoke-tx/
+- Elgin, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-elgin-tx/
+- Bee Cave, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bee-cave-tx/
+- Brownsville, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-brownsville-tx/
 - Coppell, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-coppell-tx/
+- Benbrook, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-benbrook-tx/
+- San Angelo, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-san-angelo-tx/
+- Sherman, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-sherman-tx/
+- Tyler, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-tyler-tx/
+- League City, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-league-city-tx/
 - Rogers, MN: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-rogers-mn/
 - Leavenworth, KS: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-leavenworth-ks/
 - Shawnee, KS: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-shawnee-ks/
@@ -280,10 +329,18 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Commerce Charter Township, MI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-commerce-charter-township-mi/
 - Fort Thomas, KY: 6 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-fort-thomas-ky/
 - Stafford, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-stafford-tx/
+- Temple, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-temple-tx/
+- Hutto, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-hutto-tx/
+- Kyle, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-kyle-tx/
 - Royse City, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-royse-city-tx/
+- Farmers Branch, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-farmers-branch-tx/
 - Allen, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-allen-tx/
 - Grand Prairie, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-grand-prairie-tx/
-- League City, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-league-city-tx/
+- Abilene, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-abilene-tx/
+- Williamson County, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-williamson-county-tx/
+- Laredo, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-laredo-tx/
+- Lockhart, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lockhart-tx/
+- Waxahachie, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-waxahachie-tx/
 - White Bear Lake, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-white-bear-lake-mn/
 - Crystal, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-crystal-mn/
 - New Hope, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-new-hope-mn/
@@ -323,17 +380,29 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Trenton, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-trenton-mi/
 - Garden City, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-garden-city-mi/
 - Woodhaven, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-woodhaven-mi/
+- Pine Bluff, AR: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-pine-bluff-ar/
+- North Little Rock, AR: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-north-little-rock-ar/
+- Jacksonville, AR: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-jacksonville-ar/
 - Altoona, IA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-altoona-ia/
 - Polk City, IA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-polk-city-ia/
 - Florence, KY: 5 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-florence-ky/
 - Fate, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-fate-tx/
+- Nacogdoches, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-nacogdoches-tx/
 - Murphy, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-murphy-tx/
+- Harlingen, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-harlingen-tx/
 - North Richland Hills, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-north-richland-hills-tx/
-- Farmers Branch, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-farmers-branch-tx/
+- Kaufman, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-kaufman-tx/
+- West Lake Hills, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-west-lake-hills-tx/
+- Dripping Springs, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-dripping-springs-tx/
 - Desoto, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-desoto-tx/
+- Wichita Falls, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-wichita-falls-tx/
 - Forney, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-forney-tx/
+- Mission, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-mission-tx/
+- Corsicana, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-corsicana-tx/
+- El Paso County, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-el-paso-county-tx/
+- Joshua, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-joshua-tx/
 - Prosper, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-prosper-tx/
-- Waxahachie, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-waxahachie-tx/
+- Taylor, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-taylor-tx/
 - Vadnais Heights, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-vadnais-heights-mn/
 - New Brighton, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-new-brighton-mn/
 - Shakopee, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-shakopee-mn/
@@ -390,20 +459,33 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Saint Clair Shores, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-saint-clair-shores-mi/
 - Novi, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-novi-mi/
 - Madison Heights, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-madison-heights-mi/
+- Bentonville, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bentonville-ar/
+- Paragould, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-paragould-ar/
+- Cabot, AR: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-cabot-ar/
 - Papillion, NE: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-papillion-ne/
 - Erlanger, KY: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-erlanger-ky/
 - Fort Mitchell, KY: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-fort-mitchell-ky/
 - Covington, KY: 4 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-covington-ky/
 - Pasadena, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-pasadena-tx/
 - Galveston County, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-galveston-county-tx/
-- Kaufman, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-kaufman-tx/
+- Leon Valley, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-leon-valley-tx/
 - Terrell, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-terrell-tx/
 - Lancaster, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lancaster-tx/
+- Lake Jackson, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lake-jackson-tx/
+- Harker Heights, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-harker-heights-tx/
+- Galveston, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-galveston-tx/
+- Victoria, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-victoria-tx/
 - Fulshear, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-fulshear-tx/
-- Deer Park, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-deer-park-tx/
+- Saginaw, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-saginaw-tx/
 - Tomball, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-tomball-tx/
 - Corinth, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-corinth-tx/
+- Crowley, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-crowley-tx/
 - Webster, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-webster-tx/
+- Denison, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-denison-tx/
+- Edinburg, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-edinburg-tx/
+- Mansfield, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-mansfield-tx/
+- Haltom City, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-haltom-city-tx/
+- Huntsville, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-huntsville-tx/
 - Robbinsdale, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-robbinsdale-mn/
 - Champlin, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-champlin-mn/
 - Chanhassen, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-chanhassen-mn/
@@ -460,20 +542,35 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Bloomfield Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bloomfield-township-mi/
 - Flat Rock, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-flat-rock-mi/
 - Town Of Essex, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-town-of-essex-mi/
+- Sherwood, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-sherwood-ar/
+- Hot Springs, AR: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-hot-springs-ar/
 - Grimes, IA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-grimes-ia/
 - Indianola, IA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-indianola-ia/
 - Independence, KY: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-independence-ky/
 - Dayton, KY: 3 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-dayton-ky/
+- The Colony, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-the-colony-tx/
 - Sachse, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-sachse-tx/
+- Sunset Valley, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-sunset-valley-tx/
+- Liberty Hill, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-liberty-hill-tx/
+- Weslaco, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-weslaco-tx/
+- Lakeway, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lakeway-tx/
 - Magnolia, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-magnolia-tx/
+- San Elizario, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-san-elizario-tx/
 - South Houston, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-south-houston-tx/
-- Watauga, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-watauga-tx/
+- Portland, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-portland-tx/
+- Floresville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-floresville-tx/
+- Bexar County, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bexar-county-tx/
+- Hewitt, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-hewitt-tx/
+- Port Arthur, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-port-arthur-tx/
+- Mont Belvieu, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-mont-belvieu-tx/
+- Godley, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-godley-tx/
 - Kemah, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-kemah-tx/
 - Duncanville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-duncanville-tx/
-- Mansfield, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-mansfield-tx/
+- Friendswood, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-friendswood-tx/
 - Crandall, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-crandall-tx/
 - Highland Village, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-highland-village-tx/
 - Cleveland, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-cleveland-tx/
+- White Settlement, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-white-settlement-tx/
 - Wayzata, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-wayzata-mn/
 - Saint Michael, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-saint-michael-mn/
 - South Saint Paul, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-south-saint-paul-mn/
@@ -596,44 +693,80 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Oak Park, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-oak-park-mi/
 - Dearborn Heights, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-dearborn-heights-mi/
 - Orchard Lake Village, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-orchard-lake-village-mi/
+- Springdale, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-springdale-ar/
+- Siloam Springs, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-siloam-springs-ar/
+- Jonesboro, AR: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-jonesboro-ar/
 - Glenwood, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-glenwood-ia/
 - Gretna, NE: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-gretna-ne/
 - La Vista, NE: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-la-vista-ne/
 - Boone County, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-boone-county-ky/
 - Union, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-union-ky/
 - Alexandria, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-alexandria-ky/
+- Nederland, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-nederland-tx/
 - Jacinto City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-jacinto-city-tx/
-- The Colony, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-the-colony-tx/
+- Richwood, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-richwood-tx/
+- Coryell County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-coryell-county-tx/
 - Baytown, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-baytown-tx/
+- Port Aransas, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-port-aransas-tx/
 - Pantego, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-pantego-tx/
 - Red Oak, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-red-oak-tx/
 - Balch Springs, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-balch-springs-tx/
+- Laguna Vista, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-laguna-vista-tx/
+- Woodway, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-woodway-tx/
 - Brazoria County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-brazoria-county-tx/
+- Lago Vista, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lago-vista-tx/
 - Roman Forest, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-roman-forest-tx/
-- Fort Worth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-fort-worth-tx/
+- Azle, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-azle-tx/
+- Robinson, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-robinson-tx/
+- Palmview, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-palmview-tx/
+- Pharr, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-pharr-tx/
+- Bryan, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bryan-tx/
+- Wolfforth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-wolfforth-tx/
+- Grayson County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-grayson-county-tx/
+- Buda, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-buda-tx/
 - Cross Roads, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-cross-roads-tx/
+- Eagle Pass, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-eagle-pass-tx/
+- Ennis, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-ennis-tx/
+- Horizon City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-horizon-city-tx/
 - Lucas, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lucas-tx/
+- Manor, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-manor-tx/
 - Rowlett, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-rowlett-tx/
 - Seagoville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-seagoville-tx/
+- Travis County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-travis-county-tx/
 - Trophy Club, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-trophy-club-tx/
+- Lake Worth, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lake-worth-tx/
+- Boerne, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-boerne-tx/
 - Keller, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-keller-tx/
+- Rollingwood, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-rollingwood-tx/
 - Ferris, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-ferris-tx/
 - Sealy, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-sealy-tx/
+- Seguin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-seguin-tx/
 - Princeton, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-princeton-tx/
+- Lufkin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lufkin-tx/
+- Del Rio, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-del-rio-tx/
 - Needville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-needville-tx/
+- Pottsboro, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-pottsboro-tx/
 - La Marque, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-la-marque-tx/
 - Colleyville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-colleyville-tx/
+- Cibolo, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-cibolo-tx/
+- Castle Hills, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-castle-hills-tx/
 - Bellaire, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bellaire-tx/
 - Collin County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-collin-county-tx/
 - Lake Dallas, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-lake-dallas-tx/
+- Anthony, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-anthony-tx/
+- Danbury, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-danbury-tx/
+- Bastrop County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bastrop-county-tx/
+- Celina, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-celina-tx/
 - Hickory Creek, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-hickory-creek-tx/
+- Bulverde, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bulverde-tx/
+- Spring Branch, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-spring-branch-tx/
 - Spring Valley Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-spring-valley-village-tx/
-- La Porte, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-la-porte-tx/
-- Mont Belvieu, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-mont-belvieu-tx/
 - Hitchcock, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-hitchcock-tx/
 - Alvin, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-alvin-tx/
+- Devine, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-devine-tx/
 - Missouri City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-missouri-city-tx/
 - Midlothian, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-midlothian-tx/
+- Hays County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-hays-county-tx/
 - Alvarado, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-alvarado-tx/
 - Burnsville, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-burnsville-mn/
 - Little Canada, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-little-canada-mn/
@@ -836,6 +969,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Ecorse, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-ecorse-mi/
 - Huntington Woods, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-huntington-woods-mi/
 - Romulus, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-romulus-mi/
+- Benton, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-benton-ar/
+- Bryant, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bryant-ar/
+- Hill Township, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-hill-township-ar/
+- Texarkana, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-texarkana-ar/
+- Farmington, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-farmington-ar/
+- Bella Vista, AR: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bella-vista-ar/
 - Bondurant, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-bondurant-ia/
 - Windsor Heights, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-windsor-heights-ia/
 - Huxley, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/haircut-huxley-ia/
@@ -860,7 +999,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 5911
+- Registry businesses competing: 7189
 - Equivalent Google Ads cost per month: ~$97,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

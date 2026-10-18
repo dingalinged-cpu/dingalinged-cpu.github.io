@@ -6,7 +6,7 @@ Also answers: family doctor in Prosper, TX; family doctor near me (Prosper, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Men’s Primary Care | Organic #1 | Pulse Score 41.9/100 (Building, #1 in city) | Total Men’s Primary Care is a family medicine practice in Prosper, TX at 4940 West University Drive #60, Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/total-men-s-primary-care-prosper/
+1. Total Men’s Primary Care | Organic #1 | Pulse Score 42.1/100 (Building, #1 in city) | Total Men’s Primary Care is a family medicine practice in Prosper, TX at 4940 West University Drive #60, Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/total-men-s-primary-care-prosper/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor prosper tx | category: Health & medical | industry benchmark: Physicians & Surgeons

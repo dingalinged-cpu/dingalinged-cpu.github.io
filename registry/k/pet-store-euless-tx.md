@@ -6,7 +6,7 @@ Also answers: pet store in Euless, TX; pet store near me (Euless, TX); best pet 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | Organic #1 | Pulse Score 43/100 (Building, #1 in city) | PetSmart is a pet store in Euless, TX at 2800 State Hwy 121 #400, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/petsmart-euless/
+1. PetSmart | Organic #1 | Pulse Score 42.9/100 (Building, #1 in city) | PetSmart is a pet store in Euless, TX at 2800 State Hwy 121 #400, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/petsmart-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store euless tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

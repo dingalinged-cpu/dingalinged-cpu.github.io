@@ -19,6 +19,6 @@ Hallmark is a gift shop in Conroe, TX at 1408 North Loop 336 West, Conroe, TX 77
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/hallmark-conroe/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hallmark-conroe.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7168890430 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7168890430 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

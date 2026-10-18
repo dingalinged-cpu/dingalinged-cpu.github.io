@@ -13,7 +13,7 @@ Rock Valley Physical Therapy is a physical therapy clinic in Des Moines, IA at 1
 - Website: https://www.rockvalleypt.com/locations/des-moines-iowa-ingersoll/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-17:00; Fr 06:00-15:00
-- Pulse Score: 50.3/100 — Fair — top 50% of physical therapy clinics in Des Moines, IA, #1 of 2 physical therapy clinics in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 50% of physical therapy clinics in Des Moines, IA, #1 of 2 physical therapy clinics in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

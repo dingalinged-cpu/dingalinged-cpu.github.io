@@ -13,7 +13,7 @@ Farmers Insurance is an insurance agent in Northmoor, MO at 5100 Northwest Wauko
 - Website: https://agents.farmers.com/mo/northmoor/staci-blackwell
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-05:30
-- Pulse Score: 47.8/100 — Building — top 56% of insurance agents in Kansas City, MO, #1 of 1 insurance agents in Northmoor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 54% of insurance agents in Kansas City, MO, #1 of 1 insurance agents in Northmoor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

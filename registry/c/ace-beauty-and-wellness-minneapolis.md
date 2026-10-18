@@ -13,7 +13,7 @@ Ace Beauty & Wellness is a plastic surgeon in Minneapolis, MN at 1620 West Lake 
 - Website: https://acebeautyandwellness.com/
 - Email: info@acebeautyandwellness.com
 - Opening hours (OSM syntax): Tu-Fr 09:00-18:00; Sa 09:00-14:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 15% of plastic surgeons in Minneapolis–St. Paul, #1 of 2 plastic surgeons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 15% of plastic surgeons in Minneapolis–St. Paul, #1 of 2 plastic surgeons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

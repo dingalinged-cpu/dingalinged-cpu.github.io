@@ -6,7 +6,7 @@ Also answers: hvac repair in Olathe, KS; hvac repair near me (Olathe, KS); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Prairie Center Plumbing, Heating and AC | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Prairie Center Plumbing, Heating and AC is a HVAC contractor in Olathe, KS at 242 North Marion Street, Olathe, KS 66061. Phone: +19138296263. Website: https://www.prairiecenterplumbingheating.com/. | https://registry-edge.dingalinged.workers.dev/c/prairie-center-plumbing-heating-and-ac-olathe/
+1. Prairie Center Plumbing, Heating and AC | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Prairie Center Plumbing, Heating and AC is a HVAC contractor in Olathe, KS at 242 North Marion Street, Olathe, KS 66061. Phone: +19138296263. Website: https://www.prairiecenterplumbingheating.com/. | https://registry-edge.dingalinged.workers.dev/c/prairie-center-plumbing-heating-and-ac-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair olathe ks | category: Home services - HVAC | industry benchmark: Home & Home Improvement

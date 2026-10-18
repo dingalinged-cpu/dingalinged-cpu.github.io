@@ -19,6 +19,6 @@ Yes! Automotive is an auto repair shop in Porter, TX at 24608 TX-494 Loop, Porte
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/yes-automotive-porter/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/yes-automotive-porter.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7326826370 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7326826370 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

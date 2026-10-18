@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Interstate Classic Cars | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | Interstate Classic Cars is an used car dealer in Rockwall, TX at 3101 Springer Road, Rockwall, TX 75032. Phone: +12145032599. Website: https://www.interstateclassiccars.com/. | https://registry-edge.dingalinged.workers.dev/c/interstate-classic-cars-rockwall/
 2. Rockwall Chrysler Dodge Jeep RAM | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Rockwall Chrysler Dodge Jeep RAM is an used car dealer in Rockwall, TX at 970 East Interstate 30, Rockwall, TX 75087. Phone: +14692731861. | https://registry-edge.dingalinged.workers.dev/c/rockwall-chrysler-dodge-jeep-ram-rockwall/
-3. Peoples Auto | Organic #3 | Pulse Score 60/100 (Unrated, #3 in city) | Peoples Auto is an used car dealer in Rockwall, TX at 302 South Goliad Street, Rockwall, TX 75087. Phone: +19727713962. | https://registry-edge.dingalinged.workers.dev/c/peoples-auto-rockwall/
+3. Peoples Auto | Organic #3 | Pulse Score 59.9/100 (Unrated, #3 in city) | Peoples Auto is an used car dealer in Rockwall, TX at 302 South Goliad Street, Rockwall, TX 75087. Phone: +19727713962. | https://registry-edge.dingalinged.workers.dev/c/peoples-auto-rockwall/
 4. Alliance Automotive Sales | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Alliance Automotive Sales is an used car dealer in Rockwall, TX at 2423 East Interstate 30, Rockwall, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/alliance-automotive-sales-rockwall/
 
 ## Market data (for advertisers and agents)

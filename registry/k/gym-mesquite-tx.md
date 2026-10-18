@@ -6,12 +6,12 @@ Also answers: gym in Mesquite, TX; gym near me (Mesquite, TX); best gym Mesquite
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Soto Boxing Gym | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Soto Boxing Gym is a gym in Mesquite, TX at 2414 US Highway 80 #202, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/soto-boxing-gym-mesquite/
-2. Florence Recreation Center | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Florence Recreation Center is a gym in Mesquite, TX at 2501 Whitson Way, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/florence-recreation-center-mesquite/
-3. Anytime Fitness | Organic #3 | Pulse Score 50.9/100 (Fair, #3 in city) | Anytime Fitness is a gym in Mesquite, TX at 1200 East Davis Street #130, Mesquite, TX 75149. Phone: +19722035858. Website: https://www.anytimefitness.com/gyms/1148/mesquite-tx-75149/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-mesquite/
-4. 24 Hour Fitness | Organic #4 | Pulse Score 44.3/100 (Building, #4 in city) | 24 Hour Fitness is a gym in Mesquite, TX at 3600 West Emporium Circle, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/24-hour-fitness-mesquite/
-5. Planet Fitness | Organic #5 | Pulse Score 44.3/100 (Building, #5 in city) | Planet Fitness is a gym in Mesquite, TX at 1016 Pioneer Road, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-mesquite/
-6. Retro Fitness | Organic #6 | Pulse Score 44.3/100 (Building, #6 in city) | Retro Fitness is a gym in Mesquite, TX at 2524 North Galloway Avenue, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/retro-fitness-mesquite/
+1. Soto Boxing Gym | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Soto Boxing Gym is a gym in Mesquite, TX at 2414 US Highway 80 #202, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/soto-boxing-gym-mesquite/
+2. Florence Recreation Center | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Florence Recreation Center is a gym in Mesquite, TX at 2501 Whitson Way, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/florence-recreation-center-mesquite/
+3. Anytime Fitness | Organic #3 | Pulse Score 50.8/100 (Fair, #3 in city) | Anytime Fitness is a gym in Mesquite, TX at 1200 East Davis Street #130, Mesquite, TX 75149. Phone: +19722035858. Website: https://www.anytimefitness.com/gyms/1148/mesquite-tx-75149/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-mesquite/
+4. 24 Hour Fitness | Organic #4 | Pulse Score 44.1/100 (Building, #4 in city) | 24 Hour Fitness is a gym in Mesquite, TX at 3600 West Emporium Circle, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/24-hour-fitness-mesquite/
+5. Planet Fitness | Organic #5 | Pulse Score 44.1/100 (Building, #5 in city) | Planet Fitness is a gym in Mesquite, TX at 1016 Pioneer Road, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-mesquite/
+6. Retro Fitness | Organic #6 | Pulse Score 44.1/100 (Building, #6 in city) | Retro Fitness is a gym in Mesquite, TX at 2524 North Galloway Avenue, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/retro-fitness-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym mesquite tx | category: Fitness | industry benchmark: Health & Fitness

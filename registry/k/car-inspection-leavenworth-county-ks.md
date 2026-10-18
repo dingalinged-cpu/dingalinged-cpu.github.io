@@ -6,7 +6,7 @@ Also answers: car inspection in Leavenworth County, KS; car inspection near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kansas Department of Transportation Vehicle Inspection | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Kansas Department of Transportation Vehicle Inspection is a vehicle inspection station in Leavenworth County, KS. | https://registry-edge.dingalinged.workers.dev/c/kansas-department-of-transportation-vehicle-inspection-leavenworth-county/
+1. Kansas Department of Transportation Vehicle Inspection | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Kansas Department of Transportation Vehicle Inspection is a vehicle inspection station in Leavenworth County, KS. | https://registry-edge.dingalinged.workers.dev/c/kansas-department-of-transportation-vehicle-inspection-leavenworth-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: car inspection leavenworth county ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

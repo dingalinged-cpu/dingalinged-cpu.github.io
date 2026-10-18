@@ -13,7 +13,7 @@ Cora Physical Therapy is a physical therapy clinic in Franklin, WI at 7740 South
 - Website: https://coraphysicaltherapy.com/location/franklin-wisconsin/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-19:00, Tu 07:00-16:00, We 09:00-19:00, th 07:00-16:00, fr 09:00-15:00
-- Pulse Score: 50.3/100 — Unrated (not enough evidence yet) — top 49% of physical therapy clinics in Milwaukee, #2 of 2 physical therapy clinics in Franklin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.2, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Unrated (not enough evidence yet) — top 49% of physical therapy clinics in Milwaukee, #2 of 2 physical therapy clinics in Franklin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.1, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

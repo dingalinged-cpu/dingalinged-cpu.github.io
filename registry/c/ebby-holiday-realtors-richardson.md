@@ -19,6 +19,6 @@ Ebby Holiday Realtors is a real estate agency in Richardson, TX at 3610 Shire Bl
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/ebby-holiday-realtors-richardson/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ebby-holiday-realtors-richardson.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/2810313857 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2810313857 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

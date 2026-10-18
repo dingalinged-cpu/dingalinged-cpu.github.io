@@ -13,12 +13,12 @@ Veterinary Emergency Group is a veterinarian in Flower Mound, TX at 3614 Long Pr
 - Website: https://www.veg.com/locations/texas/flower-mound
 - Email: flowermound@veg.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.2/100 — Fair — top 85% of veterinarians in Dallas–Fort Worth, #4 of 6 veterinarians in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.6, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 85% of veterinarians in Dallas–Fort Worth, #4 of 6 veterinarians in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/veterinary-emergency-group-flower-mound/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/veterinary-emergency-group-flower-mound.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11950746627 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11950746627 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,7 +6,7 @@ Also answers: mechanic in Desoto, TX; mechanic near me (Desoto, TX); best mechan
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodyear Shipman Tire | Organic #1 | Pulse Score 47.8/100 (Building, #1 in city) | Goodyear Shipman Tire is an auto repair shop in DeSoto, TX at 1601 North Hampton Road, DeSoto, TX 75115. Phone: +19722987182. Website: https://www.goodyear.com/. | https://registry-edge.dingalinged.workers.dev/c/goodyear-shipman-tire-desoto/
+1. Goodyear Shipman Tire | Organic #1 | Pulse Score 47.7/100 (Building, #1 in city) | Goodyear Shipman Tire is an auto repair shop in DeSoto, TX at 1601 North Hampton Road, DeSoto, TX 75115. Phone: +19722987182. Website: https://www.goodyear.com/. | https://registry-edge.dingalinged.workers.dev/c/goodyear-shipman-tire-desoto/
 2. Firestone | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | Firestone is an auto repair shop in DeSoto, TX. | https://registry-edge.dingalinged.workers.dev/c/firestone-desoto/
 
 ## Market data (for advertisers and agents)

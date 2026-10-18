@@ -13,12 +13,12 @@ Watermere at the Preserve Apartments is an assisted living facility in North Ric
 - Website: https://www.integratedseniorlifestyles.com/senior-living/tx/north-richland-hills/davis-blvd/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 67% of assisted living facilitys in Dallas–Fort Worth, #2 of 2 assisted living facilitys in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 63% of assisted living facilitys in Dallas–Fort Worth, #2 of 2 assisted living facilitys in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/watermere-at-the-preserve-apartments-north-richland-hills/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/watermere-at-the-preserve-apartments-north-richland-hills.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1288844997 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1288844997 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

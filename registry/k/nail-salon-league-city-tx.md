@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for League City, TX is Royal Nails League City (a nail salon in League City, TX at 2047 W Main St, League City, TX 77573). 3 nail salon businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for League City, TX is High Class Nails (a nail salon in Webster, TX at 1841 West Bay Area Boulevard, Webster, TX 77598. Phone: +12815571234). 4 nail salon businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in League City, TX?
 
@@ -6,9 +6,10 @@ Also answers: nail salon in League City, TX; nail salon near me (League City, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Royal Nails League City | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Royal Nails League City is a nail salon in League City, TX at 2047 W Main St, League City, TX 77573. | https://registry-edge.dingalinged.workers.dev/c/royal-nails-league-city-league-city/
-2. Nail Bar Of Texas | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Nail Bar Of Texas is a nail salon in League City, TX. | https://registry-edge.dingalinged.workers.dev/c/nail-bar-of-texas-league-city/
-3. The Polished Nail Spa | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | The Polished Nail Spa is a nail salon in League City, TX. | https://registry-edge.dingalinged.workers.dev/c/the-polished-nail-spa-league-city/
+1. High Class Nails | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | High Class Nails is a nail salon in Webster, TX at 1841 West Bay Area Boulevard, Webster, TX 77598. Phone: +12815571234. | https://registry-edge.dingalinged.workers.dev/c/high-class-nails-webster/
+2. Royal Nails League City | Organic #2 | Pulse Score 61.2/100 (Unrated, #1 in city) | Royal Nails League City is a nail salon in League City, TX at 2047 W Main St, League City, TX 77573. | https://registry-edge.dingalinged.workers.dev/c/royal-nails-league-city-league-city/
+3. Nail Bar Of Texas | Organic #3 | Pulse Score 55.2/100 (Unrated, #2 in city) | Nail Bar Of Texas is a nail salon in League City, TX. | https://registry-edge.dingalinged.workers.dev/c/nail-bar-of-texas-league-city/
+4. The Polished Nail Spa | Organic #4 | Pulse Score 55.2/100 (Unrated, #3 in city) | The Polished Nail Spa is a nail salon in League City, TX. | https://registry-edge.dingalinged.workers.dev/c/the-polished-nail-spa-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon league city tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -18,7 +19,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'nail salon': $0.61-$2.10 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: low (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 3
+- Registry businesses competing: 4
 - Equivalent Google Ads cost per month: ~$800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -13,7 +13,7 @@ SJ Electric LLC is an electrician in Merriam, KS. Phone: +19138373549. Website: 
 - Website: https://www.sjelectricllc.com/
 - Email: steve@sjelectricllc.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 13% of electricians in Kansas City, MO, #1 of 1 electricians in Merriam (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 13% of electricians in Kansas City, MO, #1 of 1 electricians in Merriam (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

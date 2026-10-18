@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Perimeter Veterinary Center | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Perimeter Veterinary Center is a veterinarian in Shawnee, KS at 23734 West 83rd Terrace, Shawnee, KS 66227. Phone: +19137428387. Website: https://www.perimeterveterinarycenter.com/. | https://registry-edge.dingalinged.workers.dev/c/perimeter-veterinary-center-shawnee/
 2. Allcare Animal Hospital | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | Allcare Animal Hospital is a veterinarian in Shawnee, KS at 7252 Renner Road, Shawnee, KS 66217. Website: https://allcareanimalhosp.com/. | https://registry-edge.dingalinged.workers.dev/c/allcare-animal-hospital-shawnee/
-3. Animal Care Clinic | Organic #3 | Pulse Score 59.2/100 (Unrated, #3 in city) | Animal Care Clinic is a veterinarian in Shawnee, KS at 5576 Hedge Lane Terrace, Shawnee, KS 66226. | https://registry-edge.dingalinged.workers.dev/c/animal-care-clinic-shawnee/
-4. Mill Creek Animal Clinic | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Mill Creek Animal Clinic is a veterinarian in Shawnee, KS. | https://registry-edge.dingalinged.workers.dev/c/mill-creek-animal-clinic-shawnee/
+3. Mill Creek Animal Clinic | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Mill Creek Animal Clinic is a veterinarian in Shawnee, KS. | https://registry-edge.dingalinged.workers.dev/c/mill-creek-animal-clinic-shawnee/
+4. Animal Care Clinic | Organic #4 | Pulse Score 46.4/100 (Unrated, #4 in city) | Animal Care Clinic is a veterinarian in Shawnee, KS at 5576 Hedge Lane Terrace, Shawnee, KS 66226. | https://registry-edge.dingalinged.workers.dev/c/animal-care-clinic-shawnee/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet shawnee ks | category: Pets | industry benchmark: Animals & Pets

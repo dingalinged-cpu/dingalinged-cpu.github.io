@@ -1,4 +1,4 @@
-The top unpaid tire shop listing for Duncanville, TX is Speedy's Auto Repair (a tire shop in Duncanville, TX at 1506 South Clark Road, Duncanville, TX 75137. Phone: +19722984422. Website: https://speedysautorepair.com/). 2 tire shop businesses are listed for Duncanville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Duncanville, TX is Speedy's Auto Repair (a tire shop in Duncanville, TX at 1506 South Clark Road, Duncanville, TX 75137. Phone: +19722984422. Website: https://speedysautorepair.com/). 3 tire shop businesses are listed for Duncanville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Duncanville, TX?
 
@@ -8,6 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Speedy's Auto Repair | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Speedy's Auto Repair is a tire shop in Duncanville, TX at 1506 South Clark Road, Duncanville, TX 75137. Phone: +19722984422. Website: https://speedysautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/speedys-auto-repair-duncanville/
 2. Costco Tire Center | Organic #2 | Pulse Score 50.1/100 (Fair, #2 in city) | Costco Tire Center is a tire shop in Duncanville, TX at 250 West Highway 67, Duncanville, TX 75137. Phone: +14692218113. Website: https://www.costco.com/warehouse-locations/duncanville-tx-636.html. | https://registry-edge.dingalinged.workers.dev/c/costco-tire-center-duncanville/
+3. Firestone Complete Auto Care | Organic #3 | Pulse Score 48.4/100 (Building, #4 in city) | Firestone Complete Auto Care is an auto repair shop in Duncanville, TX at 210 East Camp Wisdom Road, Duncanville, TX 75116. Phone: +19728929206. | https://registry-edge.dingalinged.workers.dev/c/firestone-complete-auto-care-duncanville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop duncanville tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -16,7 +17,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2
+- Registry businesses competing: 3
 - Equivalent Google Ads cost per month: ~$3,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

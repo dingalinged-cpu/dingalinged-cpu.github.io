@@ -6,7 +6,7 @@ Also answers: used cars for sale in Granger, IA; used cars for sale near me (Gra
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 515 Automotive LLC | Organic #1 | Pulse Score 62.4/100 (Good, #1 in city) | 515 Automotive LLC is an used car dealer in Granger, IA at 2205 State Street, Granger, IA 50109. Phone: +15159992599. Website: https://www.515automotive.com/. | https://registry-edge.dingalinged.workers.dev/c/515-automotive-llc-granger/
+1. 515 Automotive LLC | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | 515 Automotive LLC is an used car dealer in Granger, IA at 2205 State Street, Granger, IA 50109. Phone: +15159992599. Website: https://www.515automotive.com/. | https://registry-edge.dingalinged.workers.dev/c/515-automotive-llc-granger/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale granger ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

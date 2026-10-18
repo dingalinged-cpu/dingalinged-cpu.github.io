@@ -6,7 +6,7 @@ Also answers: eye doctor in Shorewood Hills, WI; eye doctor near me (Shorewood H
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. University Station Clinic | Organic #1 | Pulse Score 60.3/100 (Unrated, #2 in city) | University Station Clinic is an eye care practice in Madison, WI at 2880 University Avenue, Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/university-station-clinic-madison/
+1. University Station Clinic | Organic #1 | Pulse Score 60.2/100 (Unrated, #2 in city) | University Station Clinic is an eye care practice in Madison, WI at 2880 University Avenue, Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/university-station-clinic-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor shorewood hills wi | category: Health & medical | industry benchmark: Physicians & Surgeons

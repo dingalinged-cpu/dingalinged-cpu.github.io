@@ -6,12 +6,12 @@ Also answers: haircut in Southlake, TX; haircut near me (Southlake, TX); best ha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Lodge Barbershop | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | The Lodge Barbershop is a barber shop in Southlake, TX at 1125 Davis Boulevard #400, Southlake, TX 76092. Website: https://thelodgebarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/the-lodge-barbershop-southlake/
-2. Finley’s Barber Shop | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Finley’s Barber Shop is a barber shop in Southlake, TX at 2175 East Southlake Boulevard #110, Southlake, TX 76092. | https://registry-edge.dingalinged.workers.dev/c/finley-s-barber-shop-southlake/
-3. The Gents Place | Organic #3 | Pulse Score 57.1/100 (Unrated, #1 in city) | The Gents Place is a hair salon in Southlake, TX at 1201 East Northwest Parkway #130, Southlake, TX 76092. | https://registry-edge.dingalinged.workers.dev/c/the-gents-place-southlake/
-4. Boardroom Salon | Organic #4 | Pulse Score 54.5/100 (Unrated, #2 in city) | Boardroom Salon is a hair salon in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/boardroom-salon-southlake/
-5. Hair Bar | Organic #5 | Pulse Score 54.5/100 (Unrated, #3 in city) | Hair Bar is a hair salon in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/hair-bar-southlake/
-6. Old World Salon | Organic #6 | Pulse Score 54.5/100 (Unrated, #4 in city) | Old World Salon is a hair salon in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/old-world-salon-southlake/
+1. The Lodge Barbershop | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | The Lodge Barbershop is a barber shop in Southlake, TX at 1125 Davis Boulevard #400, Southlake, TX 76092. Website: https://thelodgebarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/the-lodge-barbershop-southlake/
+2. Boardroom Salon | Organic #2 | Pulse Score 54.4/100 (Unrated, #1 in city) | Boardroom Salon is a hair salon in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/boardroom-salon-southlake/
+3. Hair Bar | Organic #3 | Pulse Score 54.4/100 (Unrated, #2 in city) | Hair Bar is a hair salon in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/hair-bar-southlake/
+4. Old World Salon | Organic #4 | Pulse Score 54.4/100 (Unrated, #3 in city) | Old World Salon is a hair salon in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/old-world-salon-southlake/
+5. Finley’s Barber Shop | Organic #5 | Pulse Score 46.9/100 (Unrated, #2 in city) | Finley’s Barber Shop is a barber shop in Southlake, TX at 2175 East Southlake Boulevard #110, Southlake, TX 76092. | https://registry-edge.dingalinged.workers.dev/c/finley-s-barber-shop-southlake/
+6. The Gents Place | Organic #6 | Pulse Score 44.2/100 (Unrated, #4 in city) | The Gents Place is a hair salon in Southlake, TX at 1201 East Northwest Parkway #130, Southlake, TX 76092. | https://registry-edge.dingalinged.workers.dev/c/the-gents-place-southlake/
 7. Great Clips | Organic #7 | Pulse Score 42.2/100 (Building, #5 in city) | Great Clips is a hair salon in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/great-clips-southlake/
 8. Toni & Guy | Organic #8 | Pulse Score 42.2/100 (Building, #6 in city) | Toni & Guy is a hair salon in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/toni-and-guy-southlake/
 
