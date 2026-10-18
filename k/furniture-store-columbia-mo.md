@@ -7,9 +7,9 @@ Also answers: furniture store in Columbia, MO; furniture store near me (Columbia
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. R. Home Co. Furniture Store & Interior Design Studio | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | R. Home Co. Furniture Store & Interior Design Studio is a furniture store in Columbia, MO at 1033 East Walnut Street, Columbia, MO 65201. Website: https://rhomeco.com/. | https://registry-edge.dingalinged.workers.dev/c/r-home-co-furniture-store-and-interior-design-studio-columbia/
-2. Baumgartner's Furniture in Columbia | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Baumgartner's Furniture in Columbia is a furniture store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/baumgartners-furniture-in-columbia-columbia/
-3. FFO Home | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | FFO Home is a furniture store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/ffo-home-columbia/
-4. Aaron's | Organic #4 | Pulse Score 43.4/100 (Building, #4 in city) | Aaron's is a furniture store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/aarons-columbia/
+2. Baumgartner's Furniture in Columbia | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Baumgartner's Furniture in Columbia is a furniture store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/baumgartners-furniture-in-columbia-columbia/
+3. Aaron's | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | Aaron's is a furniture store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/aarons-columbia/
+4. FFO Home | Organic #4 | Pulse Score 42.7/100 (Unrated, #4 in city) | FFO Home is a furniture store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/ffo-home-columbia/
 5. Furniture Row | Organic #5 | Pulse Score 42.7/100 (Unrated, #5 in city) | Furniture Row is a furniture store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/furniture-row-columbia/
 
 ## Market data (for advertisers and agents)

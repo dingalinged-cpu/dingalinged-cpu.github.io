@@ -13,7 +13,7 @@ VetCheck Pet Urgent Care Center is a veterinarian in Indianapolis, IN at 5335 Ea
 - Website: https://www.vetcheckforpetsindy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 14:00-23:00; Sa 09:00-20:00; Su 09:00-18:00
-- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 2% of veterinarians in Indianapolis, IN, #1 of 22 veterinarians in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 2% of veterinarians in Indianapolis, IN, #1 of 22 veterinarians in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

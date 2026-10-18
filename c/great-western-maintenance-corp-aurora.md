@@ -13,7 +13,7 @@ Great Western Maintenance Corp is a property management company in Aurora, CO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 96% of property management companys in Denver, CO, #8 of 10 property management companys in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 38.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 93% of property management companys in Denver, CO, #7 of 10 property management companys in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 38.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

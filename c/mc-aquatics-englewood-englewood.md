@@ -13,7 +13,7 @@ MC Aquatics - Englewood is a pet store in Englewood, CO at 11800 East Oswego Str
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43/100 — Building — top 91% of pet stores in Denver, CO, #3 of 3 pet stores in Englewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43/100 — Building — top 91% of pet stores in Denver, CO, #3 of 3 pet stores in Englewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 44.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

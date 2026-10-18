@@ -6,7 +6,7 @@ Also answers: staffing agency in Blue Ash, OH; staffing agency near me (Blue Ash
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trustaff | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Trustaff is a staffing agency in Blue Ash, OH. Website: https://www.trustaff.com/. | https://registry-edge.dingalinged.workers.dev/c/trustaff-blue-ash/
+1. Trustaff | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Trustaff is a staffing agency in Blue Ash, OH. Website: https://www.trustaff.com/. | https://registry-edge.dingalinged.workers.dev/c/trustaff-blue-ash/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency blue ash oh | category: b2b_services | industry benchmark: Business Services

@@ -13,7 +13,7 @@ Preserving Underground is an event venue in New Kensington, PA at 1101 5th Avenu
 - Website: https://www.preservingunderground.com/
 - Email: preservingconcerts@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 4% of event venues in Pittsburgh, PA, #1 of 1 event venues in New Kensington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 4% of event venues in Pittsburgh, PA, #1 of 1 event venues in New Kensington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

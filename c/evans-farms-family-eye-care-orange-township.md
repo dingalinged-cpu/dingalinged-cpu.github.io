@@ -13,7 +13,7 @@ Evans Farms Family Eye Care is an eye care practice in Orange Township, OH. Phon
 - Website: https://evansfarmeyecare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu 08:30-12:00; We 10:30-19:00; Th off; Fr 08:30-17:00; Sa-Mo off
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 24% of eye care practices in Columbus, OH, #1 of 1 eye care practices in Orange Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 24% of eye care practices in Columbus, OH, #1 of 1 eye care practices in Orange Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

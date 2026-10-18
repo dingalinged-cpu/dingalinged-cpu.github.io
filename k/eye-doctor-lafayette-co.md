@@ -6,7 +6,7 @@ Also answers: eye doctor in Lafayette, CO; eye doctor near me (Lafayette, CO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mountain Top Eyecare | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Mountain Top Eyecare is an eye care practice in Lafayette, CO at 1455 Coal Creek Drive #J, Lafayette, CO 80026. Website: https://www.mountaintopeyecare.com/. | https://registry-edge.dingalinged.workers.dev/c/mountain-top-eyecare-lafayette/
+1. Mountain Top Eyecare | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Mountain Top Eyecare is an eye care practice in Lafayette, CO at 1455 Coal Creek Drive #J, Lafayette, CO 80026. Website: https://www.mountaintopeyecare.com/. | https://registry-edge.dingalinged.workers.dev/c/mountain-top-eyecare-lafayette/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor lafayette co | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Alterations by Kim is a tailor in Wichita, KS. Phone: +13166822447.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 100% of tailors in Wichita, KS, #1 of 1 tailors in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 100% of tailors in Wichita, KS, #1 of 1 tailors in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

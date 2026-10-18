@@ -13,7 +13,7 @@ Meramec Dermatology is a dermatologist in Arnold, MO at 3783 Vogel Road, Arnold,
 - Website: https://www.meramecdermatology.com/arnold
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 50% of dermatologists in St. Louis, MO, #1 of 2 dermatologists in Arnold (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 50% of dermatologists in St. Louis, MO, #1 of 2 dermatologists in Arnold (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

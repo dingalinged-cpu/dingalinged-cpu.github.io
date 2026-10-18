@@ -13,7 +13,7 @@ Massage Envy is a massage studio in Pittsburgh, PA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-22:00; Sa 08:00-18:00; Su 10:00-18:00
-- Pulse Score: 45.9/100 — Building — top 80% of massage studios in Pittsburgh, PA, #15 of 17 massage studios in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 78% of massage studios in Pittsburgh, PA, #14 of 17 massage studios in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ ATSI is an auto repair shop in Lawrence, KS at 1226 East 23rd Street, Lawrence, 
 - Website: https://www.atsilawrence.com/
 - Email: info@atsilawrence.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 36% of auto repair shops in Lawrence, KS, #11 of 31 auto repair shops in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 42% of auto repair shops in Lawrence, KS, #13 of 31 auto repair shops in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

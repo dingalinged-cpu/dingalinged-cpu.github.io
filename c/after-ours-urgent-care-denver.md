@@ -13,7 +13,7 @@ After Ours Urgent Care is an urgent care clinic in Denver, CO at 6895 East Hampd
 - Website: https://www.afteroursinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-23:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 7% of urgent care clinics in Denver, CO, #1 of 3 urgent care clinics in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 7% of urgent care clinics in Denver, CO, #1 of 3 urgent care clinics in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

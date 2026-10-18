@@ -13,7 +13,7 @@ Sup Town CrossFit is a CrossFit gym in Superior, CO at 1611 Coalton Road, Superi
 - Website: https://www.suptowncrossfit.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 23% of CrossFit gyms in Denver, CO, #1 of 1 CrossFit gyms in Superior (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 23% of CrossFit gyms in Denver, CO, #1 of 1 CrossFit gyms in Superior (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: financial advisor in Columbus, OH; financial advisor near me (Colu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | Organic #1 | Pulse Score 42.3/100 (Building, #1 in city) | Edward Jones is a financial advisor in Columbus, OH. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-columbus/
+1. Edward Jones | Organic #1 | Pulse Score 42.2/100 (Building, #1 in city) | Edward Jones is a financial advisor in Columbus, OH. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-columbus/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor columbus oh | category: Professional & financial services | industry benchmark: Finance & Insurance

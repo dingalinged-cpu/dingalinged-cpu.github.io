@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Acdc Tire | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | Acdc Tire is a tire shop in Brighton, CO at 17 North 12th Avenue, Brighton, CO 80601. | https://registry-edge.dingalinged.workers.dev/c/acdc-tire-brighton/
 4. Peerless Tires 4 Less | Organic #4 | Pulse Score 56.6/100 (Unrated, #4 in city) | Peerless Tires 4 Less is a tire shop in Brighton, CO at 1212 East Bridge Street, Brighton, CO 80601. | https://registry-edge.dingalinged.workers.dev/c/peerless-tires-4-less-brighton/
 5. Discount Tire | Organic #5 | Pulse Score 47.4/100 (Building, #5 in city) | Discount Tire is a tire shop in Brighton, CO at 1820 East Bridge Street, Brighton, CO 80601. Phone: +17206853388. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-brighton-w956892128/
-6. Les Schwab Tire Center | Organic #6 | Pulse Score 46.7/100 (Building, #6 in city) | Les Schwab Tire Center is a tire shop in Brighton, CO at 163 South 50th Avenue, Brighton, CO 80601. Phone: +13036593187. | https://registry-edge.dingalinged.workers.dev/c/les-schwab-tire-center-brighton/
+6. Les Schwab Tire Center | Organic #6 | Pulse Score 46.6/100 (Building, #6 in city) | Les Schwab Tire Center is a tire shop in Brighton, CO at 163 South 50th Avenue, Brighton, CO 80601. Phone: +13036593187. | https://registry-edge.dingalinged.workers.dev/c/les-schwab-tire-center-brighton/
 7. Discount Tire | Organic #7 | Pulse Score 44.7/100 (Building, #7 in city) | Discount Tire is a tire shop in Brighton, CO at 4040 East Bromley Lane, Brighton, CO 80601. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-brighton/
 
 ## Market data (for advertisers and agents)

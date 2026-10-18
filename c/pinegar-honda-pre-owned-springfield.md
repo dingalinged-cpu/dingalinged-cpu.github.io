@@ -13,7 +13,7 @@ Pinegar Honda Pre-Owned is an used car dealer in Springfield, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 80% of used car dealers in Springfield, MO, #4 of 5 used car dealers in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 80% of used car dealers in Springfield, MO, #4 of 5 used car dealers in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

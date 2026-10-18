@@ -13,7 +13,7 @@ Ladner Facial Plastic Surgery is a plastic surgeon in Greenwood Village, CO at 8
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-12:00
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 75% of plastic surgeons in Denver, CO, #1 of 1 plastic surgeons in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 75% of plastic surgeons in Denver, CO, #1 of 1 plastic surgeons in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

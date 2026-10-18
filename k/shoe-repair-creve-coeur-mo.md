@@ -6,7 +6,7 @@ Also answers: shoe repair in Creve Coeur, MO; shoe repair near me (Creve Coeur, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cobblestone Shoe Repair | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Cobblestone Shoe Repair is a shoe repair in Creve Coeur, MO at 11600 Olive Boulevard, Creve Coeur, MO 63141. | https://registry-edge.dingalinged.workers.dev/c/cobblestone-shoe-repair-creve-coeur/
+1. Cobblestone Shoe Repair | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Cobblestone Shoe Repair is a shoe repair in Creve Coeur, MO at 11600 Olive Boulevard, Creve Coeur, MO 63141. | https://registry-edge.dingalinged.workers.dev/c/cobblestone-shoe-repair-creve-coeur/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair creve coeur mo | category: Professional & financial services | industry benchmark: Finance & Insurance

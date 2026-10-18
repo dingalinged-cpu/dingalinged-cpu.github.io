@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Columbus, OH at 1181 Olentangy River Road, 
 - Website: https://palmbeachtan.com/locations/OH/Columbus-Olentangy-River-Road/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-22:00; Fr-Su 08:00-20:00
-- Pulse Score: 51.2/100 — Fair — top 56% of tanning salons in Columbus, OH, #2 of 4 tanning salons in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 68.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.1/100 — Fair — top 56% of tanning salons in Columbus, OH, #2 of 4 tanning salons in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 68.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

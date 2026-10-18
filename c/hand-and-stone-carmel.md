@@ -13,7 +13,7 @@ Hand & Stone is a spa in Carmel, IN at 14405 Clay Terrace Boulevard, Carmel, IN.
 - Website: https://handandstone.com/spa/store/carmel
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-22:00; Sa 08:00-20:00; Su 10:00-18:00
-- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 100% of spas in Indianapolis, IN, #2 of 2 spas in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Unrated (not enough evidence yet) — top 100% of spas in Indianapolis, IN, #2 of 2 spas in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

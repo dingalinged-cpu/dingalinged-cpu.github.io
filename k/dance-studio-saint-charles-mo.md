@@ -6,7 +6,7 @@ Also answers: dance studio in Saint Charles, MO; dance studio near me (Saint Cha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Town Dance Academy | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | New Town Dance Academy is a dance studio in Saint Charles, MO at 3424 Civic Circle, Saint Charles, MO 63301. | https://registry-edge.dingalinged.workers.dev/c/new-town-dance-academy-saint-charles/
+1. New Town Dance Academy | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | New Town Dance Academy is a dance studio in Saint Charles, MO at 3424 Civic Circle, Saint Charles, MO 63301. | https://registry-edge.dingalinged.workers.dev/c/new-town-dance-academy-saint-charles/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio saint charles mo | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ GetRight's Bakery is a bakery in Wheat Ridge, CO at 6985 West 38th Avenue, Wheat
 - Website: https://goodygetright.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 43% of bakerys in Denver, CO, #3 of 3 bakerys in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 42% of bakerys in Denver, CO, #3 of 3 bakerys in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mark Denney Photography is a photographer in Cincinnati, OH at 3050 Lancer Lane,
 - Website: https://www.markcdenney.com/
 - Email: markcdenney@markcdenney.com
 - Opening hours (OSM syntax): Mo-Su 09:00-22:00
-- Pulse Score: 63.2/100 — Good — top 15% of photographers in Cincinnati, OH, #1 of 3 photographers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 15% of photographers in Cincinnati, OH, #1 of 3 photographers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Century Orthodontics is a dentist in Wildwood, MO at 16518 Manchester Road, Wild
 - Website: https://www.centuryorthodontics.com/wildwood-location
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 67% of dentists in Wildwood, MO, #2 of 2 dentists in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 67% of dentists in Wildwood, MO, #2 of 2 dentists in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

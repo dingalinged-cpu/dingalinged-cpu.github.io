@@ -13,7 +13,7 @@ Country Place Office is a property management company in Northville, MI at 21100
 - Website: https://www.countryplacecondoassociation.com/
 - Email: countryplace@tds.net
 - Opening hours (OSM syntax): Mo-Tu 08:30-17:00; We,Fr 08:30-20:00; Th 08:30-21:00; Sa-Su 13:30-17:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 5% of property management companys in Detroit, MI, #1 of 3 property management companys in Northville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 5% of property management companys in Detroit, MI, #1 of 3 property management companys in Northville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

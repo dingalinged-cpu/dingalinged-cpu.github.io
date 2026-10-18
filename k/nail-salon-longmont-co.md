@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Designer Nails | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Designer Nails is a nail salon in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/designer-nails-longmont/
 2. Lush Nails | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Lush Nails is a nail salon in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/lush-nails-longmont/
 3. Simply Nails | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Simply Nails is a nail salon in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/simply-nails-longmont/
-4. Studio Nails & Spa | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Studio Nails & Spa is a nail salon in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/studio-nails-and-spa-longmont/
+4. Studio Nails & Spa | Organic #4 | Pulse Score 41.9/100 (Unrated, #4 in city) | Studio Nails & Spa is a nail salon in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/studio-nails-and-spa-longmont/
 5. T&T Nails | Organic #5 | Pulse Score 41.9/100 (Unrated, #5 in city) | T&T Nails is a nail salon in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/t-and-t-nails-longmont/
 
 ## Market data (for advertisers and agents)

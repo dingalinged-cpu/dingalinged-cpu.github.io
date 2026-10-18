@@ -13,7 +13,7 @@ Great Northern Home Care is an insurance agent in Sterling Heights, MI at 39850 
 - Website: https://www.4great.com/home-care/
 - Email: homecare@4great.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 5% of insurance agents in Detroit, MI, #3 of 20 insurance agents in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 5% of insurance agents in Detroit, MI, #3 of 20 insurance agents in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

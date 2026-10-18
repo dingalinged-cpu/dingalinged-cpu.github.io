@@ -13,7 +13,7 @@ Strader's Bicycle Shop is a bike shop in Columbus, OH at 5350 Riverside Drive, C
 - Website: https://www.stradersbicycleshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 60% of bike shops in Columbus, OH, #8 of 14 bike shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 60% of bike shops in Columbus, OH, #8 of 14 bike shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

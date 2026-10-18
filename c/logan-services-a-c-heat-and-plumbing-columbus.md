@@ -13,7 +13,7 @@ Logan Services A/C, Heat & Plumbing is a HVAC contractor in Columbus, OH at 2219
 - Website: https://www.logan-inc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 36% of HVAC contractors in Columbus, OH, #4 of 4 HVAC contractors in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 36% of HVAC contractors in Columbus, OH, #4 of 4 HVAC contractors in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

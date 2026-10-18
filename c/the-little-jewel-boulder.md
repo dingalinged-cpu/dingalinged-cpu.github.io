@@ -13,7 +13,7 @@ The Little Jewel is a jewelry store in Boulder, CO at 1225 Pearl Street Mall, Bo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00, Su 12:00-17:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 19% of jewelry stores in Denver, CO, #2 of 17 jewelry stores in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 24% of jewelry stores in Denver, CO, #5 of 17 jewelry stores in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

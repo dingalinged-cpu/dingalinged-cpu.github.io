@@ -6,7 +6,7 @@ Also answers: dentist in New Kensington, PA; dentist near me (New Kensington, PA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dr. Thimoty Slusser | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Dr. Thimoty Slusser is a dentist in New Kensington, PA at 2300 Feldarelli Square, New Kensington, PA. | https://registry-edge.dingalinged.workers.dev/c/dr-thimoty-slusser-new-kensington/
+1. Dr. Thimoty Slusser | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Dr. Thimoty Slusser is a dentist in New Kensington, PA at 2300 Feldarelli Square, New Kensington, PA. | https://registry-edge.dingalinged.workers.dev/c/dr-thimoty-slusser-new-kensington/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist new kensington pa | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

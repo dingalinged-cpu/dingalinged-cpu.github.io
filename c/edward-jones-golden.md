@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Golden, CO at 710 Golden Ridge Road, Gold
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.5/100 — Building — top 88% of financial advisors in Denver, CO, #1 of 1 financial advisors in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.5/100 — Building — top 88% of financial advisors in Denver, CO, #1 of 1 financial advisors in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

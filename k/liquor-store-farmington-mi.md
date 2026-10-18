@@ -7,7 +7,7 @@ Also answers: liquor store in Farmington, MI; liquor store near me (Farmington, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Antonio's Liquor | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Antonio's Liquor is a liquor store in Farmington, MI at 22804 Orchard Lake Road, Farmington, MI 48336. | https://registry-edge.dingalinged.workers.dev/c/antonios-liquor-farmington/
-2. Grand Liquor | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Grand Liquor is a liquor store in Farmington, MI at 37375 Grand River Avenue, Farmington, MI 48335. | https://registry-edge.dingalinged.workers.dev/c/grand-liquor-farmington/
+2. Grand Liquor | Organic #2 | Pulse Score 45.2/100 (Unrated, #2 in city) | Grand Liquor is a liquor store in Farmington, MI at 37375 Grand River Avenue, Farmington, MI 48335. | https://registry-edge.dingalinged.workers.dev/c/grand-liquor-farmington/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store farmington mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

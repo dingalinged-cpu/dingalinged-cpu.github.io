@@ -6,8 +6,8 @@ Also answers: jewelry store in Noblesville, IN; jewelry store near me (Noblesvil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hopeanchor & Crew | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Hopeanchor & Crew is a jewelry store in Noblesville, IN. | https://registry-edge.dingalinged.workers.dev/c/hopeanchor-and-crew-noblesville/
-2. Kay Jewelers | Organic #2 | Pulse Score 45.5/100 (Building, #2 in city) | Kay Jewelers is a jewelry store in Noblesville, IN at 13976 Town Center Boulevard #300, Noblesville, IN 46060. | https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-noblesville/
+1. Hopeanchor & Crew | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Hopeanchor & Crew is a jewelry store in Noblesville, IN. | https://registry-edge.dingalinged.workers.dev/c/hopeanchor-and-crew-noblesville/
+2. Kay Jewelers | Organic #2 | Pulse Score 45.4/100 (Building, #2 in city) | Kay Jewelers is a jewelry store in Noblesville, IN at 13976 Town Center Boulevard #300, Noblesville, IN 46060. | https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-noblesville/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store noblesville in | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

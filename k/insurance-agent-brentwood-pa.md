@@ -7,7 +7,7 @@ Also answers: insurance agent in Brentwood, PA; insurance agent near me (Brentwo
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Farmers Insurance | Organic #1 | Pulse Score 44.6/100 (Building, #1 in city) | Farmers Insurance is an insurance agent in Brentwood, PA at 3325 Saw Mill Run Boulevard, Brentwood, PA. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-brentwood/
-2. Re/Max | Organic #2 | Pulse Score 44.1/100 (Unrated, #2 in city) | Re/Max is an insurance agent in Brentwood, PA at 4401 Clairton Boulevard, Brentwood, PA. | https://registry-edge.dingalinged.workers.dev/c/re-max-brentwood/
+2. Re/Max | Organic #2 | Pulse Score 44/100 (Unrated, #2 in city) | Re/Max is an insurance agent in Brentwood, PA at 4401 Clairton Boulevard, Brentwood, PA. | https://registry-edge.dingalinged.workers.dev/c/re-max-brentwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent brentwood pa | category: Professional & financial services | industry benchmark: Finance & Insurance

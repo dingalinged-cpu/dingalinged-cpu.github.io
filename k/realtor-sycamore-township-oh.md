@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. HER Realtors | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | HER Realtors is a real estate agency in Sycamore Township, OH. Website: https://www.herrealtors.com/Cincinnati/OH/Cincinnati. | https://registry-edge.dingalinged.workers.dev/c/her-realtors-sycamore-township/
 2. Sibcy Cline Realtors- Main Office | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Sibcy Cline Realtors- Main Office is a real estate agency in Sycamore Township, OH. | https://registry-edge.dingalinged.workers.dev/c/sibcy-cline-realtors-main-office-sycamore-township/
-3. Sibcy Cline Realtors | Organic #3 | Pulse Score 45.8/100 (Unrated, #3 in city) | Sibcy Cline Realtors is a real estate agency in Sycamore Township, OH. Website: https://www.sibcycline.com/Office/Kenwood. | https://registry-edge.dingalinged.workers.dev/c/sibcy-cline-realtors-sycamore-township/
+3. Sibcy Cline Realtors | Organic #3 | Pulse Score 45.7/100 (Unrated, #3 in city) | Sibcy Cline Realtors is a real estate agency in Sycamore Township, OH. Website: https://www.sibcycline.com/Office/Kenwood. | https://registry-edge.dingalinged.workers.dev/c/sibcy-cline-realtors-sycamore-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor sycamore township oh | category: real_estate | industry benchmark: Real Estate

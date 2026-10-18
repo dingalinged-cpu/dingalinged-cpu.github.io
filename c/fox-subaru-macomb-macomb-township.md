@@ -13,7 +13,7 @@ Fox Subaru Macomb is an used car dealer in Macomb Township, MI at 23651 Hall Roa
 - Website: https://www.foxsubarumacomb.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 85% of used car dealers in Detroit, MI, #4 of 4 used car dealers in Macomb Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 85% of used car dealers in Detroit, MI, #4 of 4 used car dealers in Macomb Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

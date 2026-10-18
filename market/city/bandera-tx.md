@@ -1,0 +1,56 @@
+Keyword market for Bandera, TX: 17 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the San Antonio-New Braunfels, TX metro (US volume x population share).
+
+# Top keywords in Bandera, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. gym bandera tx | searches/mo 15,000 (est) | CPC $1.67 | value $25,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-bandera-tx/
+2. mechanic bandera tx | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/mechanic-bandera-tx/
+3. vet bandera tx | searches/mo 4,500 (est) | CPC $4.06 | value $18,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-bandera-tx/
+4. auto repair bandera tx | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-bandera-tx/
+5. financial advisor bandera tx | searches/mo 2,000 (est) | CPC $3.39 | value $6,800 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-bandera-tx/
+6. real estate agent bandera tx | searches/mo 1,700 (est) | CPC $3.61 | value $6,100 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-bandera-tx/
+7. insurance agency bandera tx | searches/mo 740 (est) | CPC $3.39 | value $2,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bandera-tx/
+8. realtor bandera tx | searches/mo 740 (est) | CPC $3.70 | value $2,700 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/realtor-bandera-tx/
+9. hvac repair bandera tx | searches/mo 610 (est) | CPC $17.76 | value $11,000 | Google Ads equiv $690/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-bandera-tx/
+10. tax preparation bandera tx | searches/mo 610 (est) | CPC $3.25 | value $2,000 | Google Ads equiv $170/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-bandera-tx/
+11. tax preparer bandera tx | searches/mo 500 (est) | CPC $5.87 | value $2,900 | Google Ads equiv $170/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-bandera-tx/
+12. insurance agents bandera tx | searches/mo 410 (est) | CPC $3.39 | value $1,400 | Google Ads equiv $120/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-bandera-tx/
+13. insurance agent bandera tx | searches/mo 330 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $93.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-bandera-tx/
+14. flooring companies bandera tx | searches/mo 150 (est) | CPC $8.33 | value $1,200 | Google Ads equiv $80.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-bandera-tx/
+
+## By CPC
+1. hvac repair bandera tx | searches/mo 610 (est) | CPC $17.76 | value $11,000 | Google Ads equiv $690/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-bandera-tx/
+2. flooring companies bandera tx | searches/mo 150 (est) | CPC $8.33 | value $1,200 | Google Ads equiv $80.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-bandera-tx/
+3. heating and air bandera tx | searches/mo 30.00 (est) | CPC $8.33 | value $250 | Google Ads equiv $16.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-bandera-tx/
+4. tax preparer bandera tx | searches/mo 500 (est) | CPC $5.87 | value $2,900 | Google Ads equiv $170/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-bandera-tx/
+5. physical therapy bandera tx | searches/mo 1,800 (est) | CPC $4.76 | value $8,600 | Google Ads equiv $580/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/physical-therapy-bandera-tx/
+6. auto repair bandera tx | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-bandera-tx/
+7. mechanic bandera tx | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/mechanic-bandera-tx/
+8. vet bandera tx | searches/mo 4,500 (est) | CPC $4.06 | value $18,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-bandera-tx/
+9. realtor bandera tx | searches/mo 740 (est) | CPC $3.70 | value $2,700 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/realtor-bandera-tx/
+10. real estate agent bandera tx | searches/mo 1,700 (est) | CPC $3.61 | value $6,100 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-bandera-tx/
+11. dry cleaners bandera tx | searches/mo 1,800 (est) | CPC $3.39 | value $6,100 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-bandera-tx/
+12. financial advisor bandera tx | searches/mo 2,000 (est) | CPC $3.39 | value $6,800 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-bandera-tx/
+13. insurance agency bandera tx | searches/mo 740 (est) | CPC $3.39 | value $2,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bandera-tx/
+14. insurance agent bandera tx | searches/mo 330 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $93.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-bandera-tx/
+15. insurance agents bandera tx | searches/mo 410 (est) | CPC $3.39 | value $1,400 | Google Ads equiv $120/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-bandera-tx/
+
+## By value (searches x CPC)
+1. gym bandera tx | searches/mo 15,000 (est) | CPC $1.67 | value $25,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-bandera-tx/
+2. mechanic bandera tx | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/mechanic-bandera-tx/
+3. vet bandera tx | searches/mo 4,500 (est) | CPC $4.06 | value $18,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-bandera-tx/
+4. auto repair bandera tx | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-bandera-tx/
+5. hvac repair bandera tx | searches/mo 610 (est) | CPC $17.76 | value $11,000 | Google Ads equiv $690/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-bandera-tx/
+6. financial advisor bandera tx | searches/mo 2,000 (est) | CPC $3.39 | value $6,800 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-bandera-tx/
+7. real estate agent bandera tx | searches/mo 1,700 (est) | CPC $3.61 | value $6,100 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-bandera-tx/
+8. tax preparer bandera tx | searches/mo 500 (est) | CPC $5.87 | value $2,900 | Google Ads equiv $170/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-bandera-tx/
+9. realtor bandera tx | searches/mo 740 (est) | CPC $3.70 | value $2,700 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/realtor-bandera-tx/
+10. insurance agency bandera tx | searches/mo 740 (est) | CPC $3.39 | value $2,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bandera-tx/
+11. tax preparation bandera tx | searches/mo 610 (est) | CPC $3.25 | value $2,000 | Google Ads equiv $170/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-bandera-tx/
+12. insurance agents bandera tx | searches/mo 410 (est) | CPC $3.39 | value $1,400 | Google Ads equiv $120/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-bandera-tx/
+13. flooring companies bandera tx | searches/mo 150 (est) | CPC $8.33 | value $1,200 | Google Ads equiv $80.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-bandera-tx/
+14. insurance agent bandera tx | searches/mo 330 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $93.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-bandera-tx/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

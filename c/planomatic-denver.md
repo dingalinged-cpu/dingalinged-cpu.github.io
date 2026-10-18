@@ -13,7 +13,7 @@ PlanOmatic is a photographer in Denver, CO at 2911 Walnut Street, Denver, CO 802
 - Website: https://www.planomatic.com/
 - Email: n/a
 - Opening hours (OSM syntax): 07:00-18:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 20% of photographers in Denver, CO, #3 of 17 photographers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 20% of photographers in Denver, CO, #3 of 17 photographers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

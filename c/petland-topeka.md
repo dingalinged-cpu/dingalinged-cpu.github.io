@@ -13,7 +13,7 @@ Petland is a pet store in Topeka, KS at 2139 Southwest Fairlawn Plaza Drive, Top
 - Website: https://www.petlandtopeka.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Building — top 75% of pet stores in Topeka, KS, #3 of 4 pet stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.1, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 75% of pet stores in Topeka, KS, #3 of 4 pet stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

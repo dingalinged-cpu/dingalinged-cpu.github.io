@@ -13,7 +13,7 @@ Panadería Tlaquepaque is a bakery in Aurora, CO at 2300 South Chambers Road #L,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00, Sa-Su 08:00-20:00
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 41% of bakerys in Denver, CO, #4 of 14 bakerys in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 37% of bakerys in Denver, CO, #3 of 14 bakerys in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

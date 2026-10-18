@@ -6,7 +6,7 @@ Also answers: tire shop in Monroeville, PA; tire shop near me (Monroeville, PA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Golden Mile Tire | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Golden Mile Tire is a tire shop in Monroeville, PA. | https://registry-edge.dingalinged.workers.dev/c/golden-mile-tire-monroeville/
+1. Golden Mile Tire | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Golden Mile Tire is a tire shop in Monroeville, PA. | https://registry-edge.dingalinged.workers.dev/c/golden-mile-tire-monroeville/
 2. Mr. Tire | Organic #2 | Pulse Score 42.6/100 (Unrated, #2 in city) | Mr. Tire is a tire shop in Monroeville, PA. | https://registry-edge.dingalinged.workers.dev/c/mr-tire-monroeville/
 
 ## Market data (for advertisers and agents)

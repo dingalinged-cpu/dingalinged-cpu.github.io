@@ -13,7 +13,7 @@ Cool Nail & Spa is a nail salon in Saint Peters, MO at 340 Mid Rivers Mall Drive
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-19:30; Su off
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 29% of nail salons in St. Peters, MO, #2 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 29% of nail salons in St. Peters, MO, #2 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

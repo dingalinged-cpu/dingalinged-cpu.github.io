@@ -13,7 +13,7 @@ Andrew's Insurance Agency is an insurance agent in Utica, MI at 46008 Van Dyke A
 - Website: n/a
 - Email: andrews.agent.pam@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 47% of insurance agents in Detroit, MI, #8 of 8 insurance agents in Utica (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 47% of insurance agents in Detroit, MI, #8 of 8 insurance agents in Utica (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

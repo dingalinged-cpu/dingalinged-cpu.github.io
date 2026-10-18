@@ -13,7 +13,7 @@ Mass Beverage is a liquor store in Lawrence, KS at 3131 Nieder Road #A, Lawrence
 - Website: https://www.massbevlawrence.com/
 - Email: massbev@mac.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-23:00; Su 12:00-20:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 5% of liquor stores in Lawrence, KS, #1 of 22 liquor stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 5% of liquor stores in Lawrence, KS, #1 of 22 liquor stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

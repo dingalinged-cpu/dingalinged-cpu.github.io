@@ -13,7 +13,7 @@ Rent-A-Center is a furniture store in Independence, MO at 3513 South Noland Road
 - Website: https://locations.rentacenter.com/missouri/independence/3513-s-noland-rd/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 76% of furniture stores in Kansas City, MO, #2 of 2 furniture stores in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 76% of furniture stores in Kansas City, MO, #2 of 2 furniture stores in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

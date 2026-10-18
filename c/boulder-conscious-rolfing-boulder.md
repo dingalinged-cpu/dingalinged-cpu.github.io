@@ -13,7 +13,7 @@ Boulder Conscious Rolfing is a massage studio in Boulder, CO at 2299 Pearl Stree
 - Website: https://www.boulderconsciousrolfing.com/
 - Email: gianluca@boulderconsciousrolfing.com
 - Opening hours (OSM syntax): Mo-We 09:00-18:00; Th 11:00-18:00
-- Pulse Score: 65/100 — Good — top 1% of massage studios in Denver, CO, #1 of 12 massage studios in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65/100 — Good — top 1% of massage studios in Denver, CO, #1 of 12 massage studios in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

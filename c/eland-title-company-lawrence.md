@@ -13,7 +13,7 @@ Eland Title Company is an insurance agent in Lawrence, KS at 1420 Wakarusa Drive
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 40% of insurance agents in Lawrence, KS, #8 of 20 insurance agents in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.1, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 40% of insurance agents in Lawrence, KS, #8 of 20 insurance agents in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.1, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

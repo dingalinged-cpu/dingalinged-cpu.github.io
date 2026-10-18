@@ -6,8 +6,8 @@ Also answers: martial arts in Wentzville, MO; martial arts near me (Wentzville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Karate | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | American Karate is a martial arts school in Wentzville, MO at 1456 West Meyer Road, Wentzville, MO 63385. Website: https://teamamericankarate.com/. | https://registry-edge.dingalinged.workers.dev/c/american-karate-wentzville/
-2. Tae Kwon Do | Organic #2 | Pulse Score 42.1/100 (Unrated, #2 in city) | Tae Kwon Do is a martial arts school in Wentzville, MO. | https://registry-edge.dingalinged.workers.dev/c/tae-kwon-do-wentzville/
+1. American Karate | Organic #1 | Pulse Score 63.4/100 (Good, #1 in city) | American Karate is a martial arts school in Wentzville, MO at 1456 West Meyer Road, Wentzville, MO 63385. Website: https://teamamericankarate.com/. | https://registry-edge.dingalinged.workers.dev/c/american-karate-wentzville/
+2. Tae Kwon Do | Organic #2 | Pulse Score 42/100 (Unrated, #2 in city) | Tae Kwon Do is a martial arts school in Wentzville, MO. | https://registry-edge.dingalinged.workers.dev/c/tae-kwon-do-wentzville/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts wentzville mo | category: Fitness | industry benchmark: Health & Fitness

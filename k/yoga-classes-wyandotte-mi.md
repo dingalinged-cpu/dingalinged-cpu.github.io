@@ -6,7 +6,7 @@ Also answers: yoga classes in Wyandotte, MI; yoga classes near me (Wyandotte, MI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 359° Yoga | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | 359° Yoga is a yoga studio in Wyandotte, MI at 3162 Biddle Avenue #200, Wyandotte, MI 48192. Phone: +17343097060. Website: https://www.359yoga.com/. | https://registry-edge.dingalinged.workers.dev/c/359-yoga-wyandotte/
+1. 359° Yoga | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | 359° Yoga is a yoga studio in Wyandotte, MI at 3162 Biddle Avenue #200, Wyandotte, MI 48192. Phone: +17343097060. Website: https://www.359yoga.com/. | https://registry-edge.dingalinged.workers.dev/c/359-yoga-wyandotte/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes wyandotte mi | category: Fitness | industry benchmark: Health & Fitness

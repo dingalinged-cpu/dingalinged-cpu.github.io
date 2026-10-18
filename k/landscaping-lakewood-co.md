@@ -6,7 +6,7 @@ Also answers: landscaping in Lakewood, CO; landscaping near me (Lakewood, CO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Class Sprinkler & Landscape, LLC | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | First Class Sprinkler & Landscape, LLC is a landscaping company in Lakewood, CO at 9895 West Colfax Avenue, Lakewood, CO 80215. Phone: +13034371866. Website: https://firstclasssprinkler.com/. | https://registry-edge.dingalinged.workers.dev/c/first-class-sprinkler-and-landscape-llc-lakewood/
+1. First Class Sprinkler & Landscape, LLC | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | First Class Sprinkler & Landscape, LLC is a landscaping company in Lakewood, CO at 9895 West Colfax Avenue, Lakewood, CO 80215. Phone: +13034371866. Website: https://firstclasssprinkler.com/. | https://registry-edge.dingalinged.workers.dev/c/first-class-sprinkler-and-landscape-llc-lakewood/
 2. UpBeet Landscapes | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | UpBeet Landscapes is a landscaping company in Lakewood, CO at 5715 West 11th Avenue, Lakewood, CO 80214. | https://registry-edge.dingalinged.workers.dev/c/upbeet-landscapes-lakewood/
 
 ## Market data (for advertisers and agents)

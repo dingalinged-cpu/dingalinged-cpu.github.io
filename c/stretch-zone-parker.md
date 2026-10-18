@@ -13,7 +13,7 @@ Stretch Zone is a gym in Parker, CO at 17051 East Lincoln Avenue #A, Parker, CO 
 - Website: https://www.stretchzone.com/locations/parker-co
 - Email: parker@stretchzone.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su 08:00-14:00
-- Pulse Score: 49.4/100 — Building — top 56% of gyms in Denver, CO, #6 of 15 gyms in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 55% of gyms in Denver, CO, #6 of 15 gyms in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: accountant in Hutchinson, KS; accountant near me (Hutchinson, KS);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mettlens, Inc. | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Mettlens, Inc. is an accountant in Hutchinson, KS at 509 North Main Street, Hutchinson, KS. Phone: +16206634641. Website: https://mettlens.com/. | https://registry-edge.dingalinged.workers.dev/c/mettlens-inc-hutchinson/
-2. Fesler Tax & Accounting Inc. | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Fesler Tax & Accounting Inc. is an accountant in Hutchinson, KS. | https://registry-edge.dingalinged.workers.dev/c/fesler-tax-and-accounting-inc-hutchinson/
+1. Mettlens, Inc. | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Mettlens, Inc. is an accountant in Hutchinson, KS at 509 North Main Street, Hutchinson, KS. Phone: +16206634641. Website: https://mettlens.com/. | https://registry-edge.dingalinged.workers.dev/c/mettlens-inc-hutchinson/
+2. Fesler Tax & Accounting Inc. | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Fesler Tax & Accounting Inc. is an accountant in Hutchinson, KS. | https://registry-edge.dingalinged.workers.dev/c/fesler-tax-and-accounting-inc-hutchinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant hutchinson ks | category: professional_accounting | industry benchmark: Business Services

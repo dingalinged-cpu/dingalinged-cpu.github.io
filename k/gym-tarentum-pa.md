@@ -6,8 +6,8 @@ Also answers: gym in Tarentum, PA; gym near me (Tarentum, PA); best gym Tarentum
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Legends of Pittsburgh | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Legends of Pittsburgh is a gym in Tarentum, PA at 344 West 9th Avenue, Tarentum, PA 15084. Website: https://legendsofpittsburghfitness.com/. | https://registry-edge.dingalinged.workers.dev/c/legends-of-pittsburgh-tarentum-w559542702/
-2. Greatness Athletics | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | Greatness Athletics is a gym in Tarentum, PA at 222 East 4th Avenue, Tarentum, PA 15084. Phone: +17246818629. Website: https://greatnessathletics.com/. | https://registry-edge.dingalinged.workers.dev/c/greatness-athletics-tarentum/
+1. Legends of Pittsburgh | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Legends of Pittsburgh is a gym in Tarentum, PA at 344 West 9th Avenue, Tarentum, PA 15084. Website: https://legendsofpittsburghfitness.com/. | https://registry-edge.dingalinged.workers.dev/c/legends-of-pittsburgh-tarentum-w559542702/
+2. Greatness Athletics | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Greatness Athletics is a gym in Tarentum, PA at 222 East 4th Avenue, Tarentum, PA 15084. Phone: +17246818629. Website: https://greatnessathletics.com/. | https://registry-edge.dingalinged.workers.dev/c/greatness-athletics-tarentum/
 3. Legends of Pittsburgh | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | Legends of Pittsburgh is a gym in Tarentum, PA at 559 Pittsburgh Mills Circle, Tarentum, PA 15084. | https://registry-edge.dingalinged.workers.dev/c/legends-of-pittsburgh-tarentum/
 
 ## Market data (for advertisers and agents)

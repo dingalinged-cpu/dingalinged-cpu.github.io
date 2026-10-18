@@ -13,7 +13,7 @@ Tender Touch Veterinary Hospital is a veterinarian in Pine Township, PA at 151 W
 - Website: https://tendertouchvethosp.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-19:00; Tu 10:00-18:00; We,Fr 09:00-16:00; Th 09:00-17:00; Sa-Su off
-- Pulse Score: 63.9/100 — Good — top 4% of veterinarians in Pittsburgh, PA, #1 of 2 veterinarians in Pine Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 4% of veterinarians in Pittsburgh, PA, #1 of 2 veterinarians in Pine Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

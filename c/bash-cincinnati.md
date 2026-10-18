@@ -13,7 +13,7 @@ BASH is an event venue in Cincinnati, OH at 1537 Race Street, Cincinnati, OH 452
 - Website: https://www.confettiroomcincy.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 24% of event venues in Cincinnati, OH, #7 of 16 event venues in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 24% of event venues in Cincinnati, OH, #7 of 16 event venues in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

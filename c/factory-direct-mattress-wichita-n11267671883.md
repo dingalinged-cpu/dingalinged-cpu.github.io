@@ -13,7 +13,7 @@ Factory Direct Mattress is a mattress store in Wichita, KS. Phone: +13164614076.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 23% of mattress stores in Wichita, KS, #2 of 5 mattress stores in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 23% of mattress stores in Wichita, KS, #2 of 5 mattress stores in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

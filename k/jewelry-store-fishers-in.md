@@ -7,7 +7,7 @@ Also answers: jewelry store in Fishers, IN; jewelry store near me (Fishers, IN);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Rayman Jewelers | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Rayman Jewelers is a jewelry store in Fishers, IN at 8395 East 116th Street #157, Fishers, IN 46038. Phone: +13174367942. Website: https://raymanjewelers.jewelershowcase.com/. | https://registry-edge.dingalinged.workers.dev/c/rayman-jewelers-fishers/
-2. Gold and Coin of Fishers | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Gold and Coin of Fishers is a jewelry store in Fishers, IN at 7356 Fishers Crossing Drive, Fishers, IN 46038. Phone: +13178638545. Website: https://goldandcoin.com/. | https://registry-edge.dingalinged.workers.dev/c/gold-and-coin-of-fishers-fishers/
+2. Gold and Coin of Fishers | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Gold and Coin of Fishers is a jewelry store in Fishers, IN at 7356 Fishers Crossing Drive, Fishers, IN 46038. Phone: +13178638545. Website: https://goldandcoin.com/. | https://registry-edge.dingalinged.workers.dev/c/gold-and-coin-of-fishers-fishers/
 3. Hupp Jewelers | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Hupp Jewelers is a jewelry store in Fishers, IN. | https://registry-edge.dingalinged.workers.dev/c/hupp-jewelers-fishers/
 
 ## Market data (for advertisers and agents)

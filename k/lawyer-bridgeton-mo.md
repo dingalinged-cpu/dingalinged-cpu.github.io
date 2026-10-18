@@ -6,7 +6,7 @@ Also answers: lawyer in Bridgeton, MO; lawyer near me (Bridgeton, MO); best lawy
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Law Offices of Kenneth P. Carp | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | The Law Offices of Kenneth P. Carp is a lawyer in Bridgeton, MO at 12800 Boenker Lane, Bridgeton, MO 63044. Phone: +16369473600. Website: https://kcarplaw.com/. | https://registry-edge.dingalinged.workers.dev/c/the-law-offices-of-kenneth-p-carp-bridgeton/
+1. The Law Offices of Kenneth P. Carp | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | The Law Offices of Kenneth P. Carp is a lawyer in Bridgeton, MO at 12800 Boenker Lane, Bridgeton, MO 63044. Phone: +16369473600. Website: https://kcarplaw.com/. | https://registry-edge.dingalinged.workers.dev/c/the-law-offices-of-kenneth-p-carp-bridgeton/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer bridgeton mo | category: Legal | industry benchmark: Attorneys & Legal Services

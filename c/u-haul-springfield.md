@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Springfield, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su 09:00-17:00
-- Pulse Score: 45.1/100 — Building — top 100% of self-storage facilitys in Springfield, MO, #2 of 2 self-storage facilitys in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Building — top 100% of self-storage facilitys in Springfield, MO, #2 of 2 self-storage facilitys in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

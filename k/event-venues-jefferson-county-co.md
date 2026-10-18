@@ -7,8 +7,8 @@ Also answers: event venues in Jefferson County, CO; event venues near me (Jeffer
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The Barn at Raccoon Creek | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | The Barn at Raccoon Creek is an event venue in Jefferson County, CO at 7301 West Bowles Avenue, Jefferson County, CO. Website: https://www.thebarnatraccooncreek.com/. | https://registry-edge.dingalinged.workers.dev/c/the-barn-at-raccoon-creek-jefferson-county/
-2. Ceremony Venue | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Ceremony Venue is an event venue in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/ceremony-venue-jefferson-county/
-3. Reception Venue | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Reception Venue is an event venue in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/reception-venue-jefferson-county/
+2. Ceremony Venue | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Ceremony Venue is an event venue in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/ceremony-venue-jefferson-county/
+3. Reception Venue | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Reception Venue is an event venue in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/reception-venue-jefferson-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues jefferson county co | category: Events & weddings | industry benchmark: Personal Services

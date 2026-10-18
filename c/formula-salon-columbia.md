@@ -13,7 +13,7 @@ Formula Salon is a hair salon in Columbia, MO at 4603 John Garry Drive #Ste. #4,
 - Website: n/a
 - Email: Theformulasalon@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 10% of hair salons in Columbia, MO, #2 of 21 hair salons in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 10% of hair salons in Columbia, MO, #2 of 21 hair salons in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

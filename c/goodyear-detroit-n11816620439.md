@@ -13,7 +13,7 @@ Goodyear is an auto repair shop in Detroit, MI at 14540 Gratiot Avenue, Detroit,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Building — top 91% of auto repair shops in Detroit, MI, #120 of 121 auto repair shops in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 90% of auto repair shops in Detroit, MI, #119 of 121 auto repair shops in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

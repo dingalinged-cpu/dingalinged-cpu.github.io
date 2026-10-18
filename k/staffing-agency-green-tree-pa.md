@@ -6,7 +6,7 @@ Also answers: staffing agency in Green Tree, PA; staffing agency near me (Green 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ProLink Staffing - Pittsburgh | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | ProLink Staffing - Pittsburgh is a staffing agency in Pittsburgh, PA at 381 Mansfield Avenue #Suite 301, Pittsburgh, PA 15220. Phone: +18667773704. Website: https://prolinkstaffing.com/locations/pennsylvania/pittsburgh/381-mansfield-ave--suite-301. | https://registry-edge.dingalinged.workers.dev/c/prolink-staffing-pittsburgh-pittsburgh/
+1. ProLink Staffing - Pittsburgh | Organic #1 | Pulse Score 63.4/100 (Good, #1 in city) | ProLink Staffing - Pittsburgh is a staffing agency in Pittsburgh, PA at 381 Mansfield Avenue #Suite 301, Pittsburgh, PA 15220. Phone: +18667773704. Website: https://prolinkstaffing.com/locations/pennsylvania/pittsburgh/381-mansfield-ave--suite-301. | https://registry-edge.dingalinged.workers.dev/c/prolink-staffing-pittsburgh-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency green tree pa | category: b2b_services | industry benchmark: Business Services

@@ -6,8 +6,8 @@ Also answers: dog boarding in Waterford Township, MI; dog boarding near me (Wate
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Canine Resolution | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Canine Resolution is a dog boarding facility in Waterford Township, MI. | https://registry-edge.dingalinged.workers.dev/c/canine-resolution-waterford-township/
-2. Union Lake Pet Services | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Union Lake Pet Services is a dog boarding facility in Waterford Township, MI. | https://registry-edge.dingalinged.workers.dev/c/union-lake-pet-services-waterford-township/
+1. Canine Resolution | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Canine Resolution is a dog boarding facility in Waterford Township, MI. | https://registry-edge.dingalinged.workers.dev/c/canine-resolution-waterford-township/
+2. Union Lake Pet Services | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Union Lake Pet Services is a dog boarding facility in Waterford Township, MI. | https://registry-edge.dingalinged.workers.dev/c/union-lake-pet-services-waterford-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding waterford township mi | category: Pets | industry benchmark: Animals & Pets

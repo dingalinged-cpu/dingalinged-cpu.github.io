@@ -7,7 +7,7 @@ Also answers: jewelry store in Lancaster, OH; jewelry store near me (Lancaster, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Buckeye Gold Coin & Jewelry | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Buckeye Gold Coin & Jewelry is a jewelry store in Lancaster, OH at 133 West Chestnut Street, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/buckeye-gold-coin-and-jewelry-lancaster/
-2. Good aa Gold Jewelry Sales and Service | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Good aa Gold Jewelry Sales and Service is a jewelry store in Lancaster, OH at 2219 West Fair Avenue, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/good-aa-gold-jewelry-sales-and-service-lancaster/
+2. Good aa Gold Jewelry Sales and Service | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Good aa Gold Jewelry Sales and Service is a jewelry store in Lancaster, OH at 2219 West Fair Avenue, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/good-aa-gold-jewelry-sales-and-service-lancaster/
 3. Duncan's Diamonds | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Duncan's Diamonds is a jewelry store in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/duncans-diamonds-lancaster/
 4. Julz | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Julz is a jewelry store in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/julz-lancaster/
 

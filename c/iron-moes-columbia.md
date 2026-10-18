@@ -13,7 +13,7 @@ Iron Moe's is a tattoo shop in Columbia, MO at 816 East Broadway, Columbia, MO 6
 - Website: https://www.ironmoes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 15% of tattoo shops in Columbia, MO, #1 of 7 tattoo shops in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 15% of tattoo shops in Columbia, MO, #1 of 7 tattoo shops in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

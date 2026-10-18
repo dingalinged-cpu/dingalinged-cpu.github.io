@@ -13,7 +13,7 @@ Gathering Room at Alcove is an event venue in Cincinnati, OH. Website: https://m
 - Website: https://madtree.com/private-events/alcove-event-spaces/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 48% of event venues in Cincinnati, OH, #14 of 16 event venues in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 48% of event venues in Cincinnati, OH, #14 of 16 event venues in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Hot Heads is a hair salon in Pittsburgh, PA at 1116 Castle Shannon Boulevard, Pi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 22% of hair salons in Pittsburgh, PA, #30 of 85 hair salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 22% of hair salons in Pittsburgh, PA, #30 of 85 hair salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

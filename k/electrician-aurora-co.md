@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. JM Electric | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | JM Electric is an electrician in Aurora, CO. Phone: +13033664975. Website: https://www.jmelectricinc.com/. | https://registry-edge.dingalinged.workers.dev/c/jm-electric-aurora/
 2. Positively Charged Electric | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Positively Charged Electric is an electrician in Aurora, CO at 6105 South Main Street #200, Aurora, CO 80016. | https://registry-edge.dingalinged.workers.dev/c/positively-charged-electric-aurora/
-3. Servitech Electrical Contractors SBE/DBE | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Servitech Electrical Contractors SBE/DBE is an electrician in Aurora, CO at 13892, Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/servitech-electrical-contractors-sbe-dbe-aurora/
+3. Servitech Electrical Contractors SBE/DBE | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Servitech Electrical Contractors SBE/DBE is an electrician in Aurora, CO at 13892, Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/servitech-electrical-contractors-sbe-dbe-aurora/
 4. HindSight Electric | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | HindSight Electric is an electrician in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/hindsight-electric-aurora/
 
 ## Market data (for advertisers and agents)

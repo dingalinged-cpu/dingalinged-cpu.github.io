@@ -13,7 +13,7 @@ Martinez Tires is a tire shop in Overland, MO. Phone: +13147642121.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 25% of tire shops in St. Louis, MO, #1 of 3 tire shops in Overland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 25% of tire shops in St. Louis, MO, #1 of 3 tire shops in Overland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

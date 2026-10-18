@@ -13,7 +13,7 @@ Knock Knock HVAC, AC Repair & Furnace Repair is a HVAC contractor in Cincinnati,
 - Website: https://knockknockair.com/ac-repair-west-chester-oh/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:00-24:00
-- Pulse Score: 52.7/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Cincinnati, OH, #6 of 6 HVAC contractors in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.6/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Cincinnati, OH, #6 of 6 HVAC contractors in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

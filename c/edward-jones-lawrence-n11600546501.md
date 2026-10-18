@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Lawrence, KS at 4811 Bob Billings Parkway
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-16:30; Fr 08:00-15:00; Sa "by appointment"
-- Pulse Score: 44.4/100 — Building — top 89% of financial advisors in Lawrence, KS, #8 of 9 financial advisors in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.4/100 — Building — top 89% of financial advisors in Lawrence, KS, #8 of 9 financial advisors in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

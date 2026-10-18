@@ -13,7 +13,7 @@ Norwood Chiropractic & Sports Injury Center is a chiropractor in Cincinnati, OH 
 - Website: https://www.norwoodchiropractic.com/
 - Email: info@norwoodchiropractic.com
 - Opening hours (OSM syntax): Mo 08:00-18:00, Tu 10:30-18:00, Th 08:00-18:00, Fr 07:00-16:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 7% of chiropractors in Cincinnati, OH, #1 of 6 chiropractors in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 7% of chiropractors in Cincinnati, OH, #1 of 6 chiropractors in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

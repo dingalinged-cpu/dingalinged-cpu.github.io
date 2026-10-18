@@ -13,7 +13,7 @@ MAACO is an auto repair shop in Aurora, CO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.8/100 — Unrated (not enough evidence yet) — top 94% of auto repair shops in Denver, CO, #86 of 87 auto repair shops in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 39. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.8/100 — Unrated (not enough evidence yet) — top 94% of auto repair shops in Denver, CO, #85 of 87 auto repair shops in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 39. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

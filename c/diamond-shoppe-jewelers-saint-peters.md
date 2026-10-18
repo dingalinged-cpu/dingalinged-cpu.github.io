@@ -13,7 +13,7 @@ Diamond Shoppe Jewelers is a jewelry store in Saint Peters, MO at 7127 Mexico Ro
 - Website: https://www.diamondshoppejewelers.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 50% of jewelry stores in St. Peters, MO, #3 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 50% of jewelry stores in St. Peters, MO, #3 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

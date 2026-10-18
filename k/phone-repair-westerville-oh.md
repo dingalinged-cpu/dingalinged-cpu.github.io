@@ -6,7 +6,7 @@ Also answers: phone repair in Westerville, OH; phone repair near me (Westerville
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Legit Electronics | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Legit Electronics is a phone repair shop in Westerville, OH at 31 Cherri Park Square, Westerville, OH. Phone: +16146556500. Website: https://legitelectronics.net/. | https://registry-edge.dingalinged.workers.dev/c/legit-electronics-westerville/
+1. Legit Electronics | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Legit Electronics is a phone repair shop in Westerville, OH at 31 Cherri Park Square, Westerville, OH. Phone: +16146556500. Website: https://legitelectronics.net/. | https://registry-edge.dingalinged.workers.dev/c/legit-electronics-westerville/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair westerville oh | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

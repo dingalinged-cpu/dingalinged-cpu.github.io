@@ -6,7 +6,7 @@ Also answers: used cars for sale in Lancaster, OH; used cars for sale near me (L
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carriage Co | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Carriage Co is an used car dealer in Lancaster, OH at 1031 North Memorial Drive, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/carriage-co-lancaster/
+1. Carriage Co | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Carriage Co is an used car dealer in Lancaster, OH at 1031 North Memorial Drive, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/carriage-co-lancaster/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale lancaster oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

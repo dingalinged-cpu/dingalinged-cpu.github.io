@@ -13,7 +13,7 @@ Great Clips is a hair salon in Westminster, CO at 5084 West 92nd Avenue, Westmin
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
-- Pulse Score: 46.3/100 — Building — top 81% of hair salons in Denver, CO, #7 of 13 hair salons in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 80% of hair salons in Denver, CO, #7 of 13 hair salons in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

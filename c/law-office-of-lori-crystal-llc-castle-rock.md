@@ -13,7 +13,7 @@ Law Office of Lori Crystal, LLC is a lawyer in Castle Rock, CO at 900 West Castl
 - Website: https://www.douglascountylawyer.com/
 - Email: lcrystal@crlawyer.net
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 9% of lawyers in Denver, CO, #1 of 2 lawyers in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 9% of lawyers in Denver, CO, #1 of 2 lawyers in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

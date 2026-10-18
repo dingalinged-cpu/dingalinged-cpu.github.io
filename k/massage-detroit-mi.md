@@ -6,7 +6,7 @@ Also answers: massage in Detroit, MI; massage near me (Detroit, MI); best massag
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Meta Physica Wellness Center | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Meta Physica Wellness Center is a massage studio in Detroit, MI at 1701 Trumbull Street, Detroit, MI 48216. Website: https://www.metaphysicamassage.com/. | https://registry-edge.dingalinged.workers.dev/c/meta-physica-wellness-center-detroit/
+1. Meta Physica Wellness Center | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Meta Physica Wellness Center is a massage studio in Detroit, MI at 1701 Trumbull Street, Detroit, MI 48216. Website: https://www.metaphysicamassage.com/. | https://registry-edge.dingalinged.workers.dev/c/meta-physica-wellness-center-detroit/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage detroit mi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

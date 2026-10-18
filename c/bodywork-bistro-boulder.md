@@ -13,7 +13,7 @@ Bodywork Bistro is a massage studio in Boulder, CO at 1100 Spruce Street #102, B
 - Website: https://bodyworkbistro.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 11:00-19:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 17% of massage studios in Denver, CO, #2 of 12 massage studios in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 17% of massage studios in Denver, CO, #2 of 12 massage studios in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

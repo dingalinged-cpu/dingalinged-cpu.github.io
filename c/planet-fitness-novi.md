@@ -13,7 +13,7 @@ Planet Fitness is a gym in Novi, MI at 31124 Beck Road, Novi, MI. Website: https
 - Website: https://www.planetfitness.com/gyms/novi-mi-531
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 74% of gyms in Detroit, MI, #5 of 7 gyms in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 74% of gyms in Detroit, MI, #5 of 7 gyms in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

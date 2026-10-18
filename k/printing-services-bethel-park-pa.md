@@ -6,7 +6,7 @@ Also answers: printing services in Bethel Park, PA; printing services near me (B
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | Organic #1 | Pulse Score 45.6/100 (Building, #1 in city) | The UPS Store is a printing service in Bethel Park, PA at 5225 Library Road, Bethel Park, PA 15102. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-bethel-park/
+1. The UPS Store | Organic #1 | Pulse Score 45.5/100 (Building, #1 in city) | The UPS Store is a printing service in Bethel Park, PA at 5225 Library Road, Bethel Park, PA 15102. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-bethel-park/
 2. FedEx Office | Organic #2 | Pulse Score 45.1/100 (Building, #10 in city) | FedEx Office is a printing service in Pittsburgh, PA at 1720 Washington Road, Pittsburgh, PA 15241. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-pittsburgh-n6840402377/
 
 ## Market data (for advertisers and agents)

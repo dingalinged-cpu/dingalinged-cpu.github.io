@@ -13,7 +13,7 @@ Grateful Bread is a bakery in Golden, CO at 429 Violet Street, Golden, CO. Phone
 - Website: https://gratefulbread.com/index.html
 - Email: n/a
 - Opening hours (OSM syntax): Sa 10:00-14:30
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 19% of bakerys in Denver, CO, #1 of 1 bakerys in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 18% of bakerys in Denver, CO, #1 of 1 bakerys in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Pataskala, OH at 540 East Broad Street
 - Website: https://www.hrblock.com/local-tax-offices/ohio/pataskala/540-e-broad-st/34241/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-18:00; Tu 13:00-19:00; Fr 10:00-18:00; Sa 11:00-15:00
-- Pulse Score: 52.4/100 — Fair — top 23% of tax preparation services in Columbus, OH, #1 of 1 tax preparation services in Pataskala (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 68.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.4/100 — Fair — top 23% of tax preparation services in Columbus, OH, #1 of 1 tax preparation services in Pataskala (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 68.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

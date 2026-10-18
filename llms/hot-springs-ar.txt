@@ -1,0 +1,1010 @@
+# Company Registry: company records, metro hot-springs-ar
+
+> 37 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+501 Plumbing is a plumber in Hot Springs, AR at 101 Tennessee Street #501, Hot Springs, AR 71901. Phone: +15017626878.
+
+# 501 Plumbing
+
+- Category: plumber
+- Services: plumber, plumbers, plumbing services
+- Address: 101 Tennessee Street #501, Hot Springs, AR 71901
+- City: Hot Springs
+- State: AR
+- ZIP: 71901
+- Coordinates: 34.5161674, -93.0352695
+- Phone: +15017626878
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 100% of plumbers in Hot Springs, AR, #1 of 1 plumbers in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/501-plumbing-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/501-plumbing-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9322018937 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+All Creatures Animal Hospital is a veterinarian in Hot Springs, AR at 2350 Higdon Ferry Road, Hot Springs, AR.
+
+# All Creatures Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: 2350 Higdon Ferry Road, Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.4442482, -93.088818
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.2/100 — Building — top 100% of veterinarians in Hot Springs, AR, #2 of 2 veterinarians in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/all-creatures-animal-hospital-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/all-creatures-animal-hospital-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13811186680 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bathhouse Row Emporium is a gift shop in Hot Springs, AR.
+
+# Bathhouse Row Emporium
+
+- Category: gift shop
+- Services: gift shop
+- Address: Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.5121329, -93.0536998
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 100% of gift shops in Hot Springs, AR, #3 of 3 gift shops in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bathhouse-row-emporium-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bathhouse-row-emporium-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11247313265 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Burchwood Bay Storage is a self-storage facility in Hot Springs, AR at 542 Burchwood Bay Rd, #9, Hot Springs, AR 71913. Phone: +15015256827. Website: https://burchwoodbaystorage.com/.
+
+# Burchwood Bay Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 542 Burchwood Bay Rd, #9, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.4513497, -93.0960574
+- Phone: +15015256827
+- Website: https://burchwoodbaystorage.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 06:00-19:00
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 50% of self-storage facilitys in Hot Springs, AR, #1 of 2 self-storage facilitys in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/burchwood-bay-storage-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/burchwood-bay-storage-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10749689452 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Caruth-Hale Funeral Home is a funeral home in Hot Springs, AR at 155 Section Line Road, Hot Springs, AR 71913.
+
+# Caruth-Hale Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 155 Section Line Road, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.464874, -93.0660722
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 50% of funeral homes in Hot Springs, AR, #1 of 2 funeral homes in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/caruth-hale-funeral-home-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/caruth-hale-funeral-home-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13811333748 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Childcare Aware is a daycare in Hot Springs, AR at 4832 Central Avenue #B, Hot Springs, AR.
+
+# Childcare Aware
+
+- Category: daycare
+- Services: daycare
+- Address: 4832 Central Avenue #B, Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.4431446, -93.0899372
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 100% of daycares in Hot Springs, AR, #1 of 1 daycares in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/childcare-aware-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/childcare-aware-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13811186685 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Chrysalis Day Spa & Skin Care is a massage studio in Hot Springs, AR at 4332 Central Avenue, Hot Springs, AR 71913. Phone: +15015205400.
+
+# Chrysalis Day Spa & Skin Care
+
+- Category: massage
+- Services: massage
+- Address: 4332 Central Avenue, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.453392, -93.0751053
+- Phone: +15015205400
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 100% of massage studios in Hot Springs, AR, #2 of 2 massage studios in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chrysalis-day-spa-and-skin-care-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chrysalis-day-spa-and-skin-care-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8734255650 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Clement's Custom Car Care is an auto repair shop in Hot Springs, AR at 711 Hobson Ave, Hot Springs, AR 71913. Phone: +15016235885. Website: https://clementscustomcarcare.com/.
+
+# Clement's Custom Car Care
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 711 Hobson Ave, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.4977895, -93.0668725
+- Phone: +15016235885
+- Website: https://clementscustomcarcare.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo,We-Fr 08:30-17:00; Tu 08:30-17:30
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 67% of auto repair shops in Hot Springs, AR, #2 of 3 auto repair shops in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/clements-custom-car-care-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/clements-custom-car-care-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9718032237 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Curl Up N Dye Salon is a hair salon in Hot Springs, AR.
+
+# Curl Up N Dye Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.4628159, -93.0634862
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Hot Springs, AR, #3 of 3 hair salons in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/curl-up-n-dye-salon-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/curl-up-n-dye-salon-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8963152189 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Farmers Insurance is an insurance agent in Hot Springs, AR.
+
+# Farmers Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.4953978, -93.0388324
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.3/100 — Building — top 100% of insurance agents in Hot Springs, AR, #2 of 2 insurance agents in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/farmers-insurance-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11142158500 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+FedEx Office is a printing service in Hot Springs, AR.
+
+# FedEx Office
+
+- Category: printing services
+- Services: printing services
+- Address: Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.4577997, -93.0626789
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.3/100 — Building — top 100% of printing services in Hot Springs, AR, #1 of 1 printing services in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fedex-office-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fedex-office-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11142158289 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+FloatSpa is a massage studio in Hot Springs, AR at 4332 Central Avenue #M2, Hot Springs, AR 71913. Phone: +15017813656. Website: https://floatspaus.com/.
+
+# FloatSpa
+
+- Category: massage
+- Services: massage
+- Address: 4332 Central Avenue #M2, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.4536972, -93.0751256
+- Phone: +15017813656
+- Website: https://floatspaus.com/
+- Email: floatspacity@gmail.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 50% of massage studios in Hot Springs, AR, #1 of 2 massage studios in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/floatspa-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/floatspa-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8734255648 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Flowers & Home of Hot Springs is a florist in Hot Springs, AR at 245 Cornerstone Boulevard, Hot Springs, AR 71913. Phone: +15015250444.
+
+# Flowers & Home of Hot Springs
+
+- Category: florist
+- Services: florist
+- Address: 245 Cornerstone Boulevard, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.461027, -93.0600963
+- Phone: +15015250444
+- Website: n/a
+- Email: flowersandhomehotsprings@gmail.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 100% of florists in Hot Springs, AR, #1 of 1 florists in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/flowers-and-home-of-hot-springs-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/flowers-and-home-of-hot-springs-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5705797346 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Greenway Outfitters is a bike shop in Hot Springs, AR.
+
+# Greenway Outfitters
+
+- Category: bike shop
+- Services: bike shop
+- Address: Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.4999847, -93.0508023
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 100% of bike shops in Hot Springs, AR, #3 of 3 bike shops in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 39.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/greenway-outfitters-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/greenway-outfitters-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12954348533 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+HEAVY METAL GYM is a gym in Hot Springs, AR at 216 Garrison St #C, Hot Springs, AR 71913. Phone: +15013593592. Website: https://l.facebook.com/l.php?u=https%3A%2F%2Fheavymetal.gymmasteronline.com%2Fportal%2Flogin%3Ffbclid%3DIwAR1s6mPQUP8B0TN3gYNOVhhQPWrJyGdfl-5LOsAhQDl4tjkaoB8qeCSvlzQ&h=AT1bAiWytGUMWDj3Co2YrUMazWELnB-8huA__jW1by__6HtbcdybQBiwJSI1_x0qqx25mVjR13ysK0cF_jhx9Op.
+
+# HEAVY METAL GYM
+
+- Category: gym
+- Services: gym
+- Address: 216 Garrison St #C, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.4570305, -93.0650027
+- Phone: +15013593592
+- Website: https://l.facebook.com/l.php?u=https%3A%2F%2Fheavymetal.gymmasteronline.com%2Fportal%2Flogin%3Ffbclid%3DIwAR1s6mPQUP8B0TN3gYNOVhhQPWrJyGdfl-5LOsAhQDl4tjkaoB8qeCSvlzQ&h=AT1bAiWytGUMWDj3Co2YrUMazWELnB-8huA__jW1by__6HtbcdybQBiwJSI1_x0qqx25mVjR13ysK0cF_jhx9Op
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 00:00-24:00
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 100% of gyms in Hot Springs, AR, #1 of 1 gyms in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/heavy-metal-gym-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/heavy-metal-gym-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10040908698 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hot Springs Bicycle Touring Co. is a bike shop in Hot Springs, AR at 436 Broadway Street, Hot Springs, AR.
+
+# Hot Springs Bicycle Touring Co.
+
+- Category: bike shop
+- Services: bike shop
+- Address: 436 Broadway Street, Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.5040338, -93.0517035
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 34% of bike shops in Hot Springs, AR, #1 of 3 bike shops in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hot-springs-bicycle-touring-co-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hot-springs-bicycle-touring-co-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12954809941 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hot Springs Funeral Home is a funeral home in Hot Springs, AR.
+
+# Hot Springs Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.5059728, -93.0547991
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Hot Springs, AR, #2 of 2 funeral homes in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hot-springs-funeral-home-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hot-springs-funeral-home-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12769050238 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hot Springs Hand Therapy is an occupational therapist in Hot Springs, AR at 216 Garrison St #A, Hot Springs, AR 71913.
+
+# Hot Springs Hand Therapy
+
+- Category: occupational therapist
+- Services: occupational therapist
+- Address: 216 Garrison St #A, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.4569006, -93.0644438
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 100% of occupational therapists in Hot Springs, AR, #1 of 1 occupational therapists in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hot-springs-hand-therapy-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hot-springs-hand-therapy-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10040910042 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hot Springs Realty is a real estate agency in Hot Springs, AR at 4832 Central Avenue #C, Hot Springs, AR.
+
+# Hot Springs Realty
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 4832 Central Avenue #C, Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.4430581, -93.0899085
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in Hot Springs, AR, #1 of 1 real estate agencys in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hot-springs-realty-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hot-springs-realty-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13811186684 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jackson Hewitt is a tax preparation service in Hot Springs, AR.
+
+# Jackson Hewitt
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.5055341, -93.048626
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.9/100 — Building — top 100% of tax preparation services in Hot Springs, AR, #2 of 2 tax preparation services in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jackson-hewitt-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11142158499 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lamar Bathhouse is a gift shop in Hot Springs, AR at 515 Central Avenue, Hot Springs, AR 71901.
+
+# Lamar Bathhouse
+
+- Category: gift shop
+- Services: gift shop
+- Address: 515 Central Avenue, Hot Springs, AR 71901
+- City: Hot Springs
+- State: AR
+- ZIP: 71901
+- Coordinates: 34.5121521, -93.0535665
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 67% of gift shops in Hot Springs, AR, #2 of 3 gift shops in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lamar-bathhouse-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lamar-bathhouse-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1213679526 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lauray's The Diamond Center is a jewelry store in Hot Springs, AR at 402 Central Avenue, Hot Springs, AR 71901. Phone: +15013212441.
+
+# Lauray's The Diamond Center
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 402 Central Avenue, Hot Springs, AR 71901
+- City: Hot Springs
+- State: AR
+- ZIP: 71901
+- Coordinates: 34.513574, -93.0541203
+- Phone: +15013212441
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in Hot Springs, AR, #1 of 1 jewelry stores in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/laurays-the-diamond-center-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/laurays-the-diamond-center-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11427493938 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Malone Tax & Bookkeeping is a tax preparation service in Hot Springs, AR at 1311 Albert Pike Road #D, Hot Springs, AR 71913. Phone: +15015254800. Website: https://www.malonetax.com/.
+
+# Malone Tax & Bookkeeping
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 1311 Albert Pike Road #D, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.4916446, -93.0841519
+- Phone: +15015254800
+- Website: https://www.malonetax.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 50% of tax preparation services in Hot Springs, AR, #1 of 2 tax preparation services in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/malone-tax-and-bookkeeping-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/malone-tax-and-bookkeeping-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4440234507 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Neo Nails & Spa is a nail salon in Hot Springs, AR at 4832 Central Avenue #A-2, Hot Springs, AR.
+
+# Neo Nails & Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: 4832 Central Avenue #A-2, Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.443214, -93.0899614
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 100% of nail salons in Hot Springs, AR, #1 of 1 nail salons in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/neo-nails-and-spa-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/neo-nails-and-spa-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13811186686 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Paisley Parlor is a hair salon in Hot Springs, AR at 4332 Central Avenue #O, Hot Springs, AR 71913. Phone: +15018154212.
+
+# Paisley Parlor
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 4332 Central Avenue #O, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.4543915, -93.0749134
+- Phone: +15018154212
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 34% of hair salons in Hot Springs, AR, #1 of 3 hair salons in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/paisley-parlor-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/paisley-parlor-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8734255646 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Parkside Cycle is a bike shop in Hot Springs, AR at 719 Whittington Avenue, Hot Springs, AR.
+
+# Parkside Cycle
+
+- Category: bike shop
+- Services: bike shop
+- Address: 719 Whittington Avenue, Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.5152805, -93.0717692
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 67% of bike shops in Hot Springs, AR, #2 of 3 bike shops in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/parkside-cycle-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/parkside-cycle-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12955105293 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Petco is a pet store in Hot Springs, AR.
+
+# Petco
+
+- Category: pet store
+- Services: pet store
+- Address: Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.4616028, -93.0586905
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.7/100 — Unrated (not enough evidence yet) — top 100% of pet stores in Hot Springs, AR, #1 of 1 pet stores in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petco-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petco-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12344199601 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Safari Classics is an auto repair shop in Hot Springs, AR at 101 Hillwood Street, Hot Springs, AR 71901. Phone: +12144350729.
+
+# Safari Classics
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 101 Hillwood Street, Hot Springs, AR 71901
+- City: Hot Springs
+- State: AR
+- ZIP: 71901
+- Coordinates: 34.4974357, -93.0509345
+- Phone: +12144350729
+- Website: n/a
+- Email: info@safariclassics.co
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 62/100 — Good — top 34% of auto repair shops in Hot Springs, AR, #1 of 3 auto repair shops in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/safari-classics-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/safari-classics-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13324935926 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+San Francisco Bread Co. is a bakery in Hot Springs, AR at 261 Cornerstone Blvd, Hot Springs, AR 71913. Phone: +15015257322. Website: https://www.sanfranbreadco.com/.
+
+# San Francisco Bread Co.
+
+- Category: bakery
+- Services: bakery
+- Address: 261 Cornerstone Blvd, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.4611197, -93.0596463
+- Phone: +15015257322
+- Website: https://www.sanfranbreadco.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Hot Springs, AR, #1 of 1 bakerys in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/san-francisco-bread-co-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/san-francisco-bread-co-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6026689113 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Spa City Martial Arts is a martial arts school in Hot Springs, AR at 3617 Central Avenue #C, Hot Springs, AR 71913.
+
+# Spa City Martial Arts
+
+- Category: martial arts
+- Services: martial arts
+- Address: 3617 Central Avenue #C, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.4679265, -93.0585901
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Hot Springs, AR, #1 of 1 martial arts schools in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/spa-city-martial-arts-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/spa-city-martial-arts-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13438680080 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Steadman's Physical Therapy is a physical therapy clinic in Hot Springs, AR at 216 Garrison St #B, Hot Springs, AR 71913. Phone: +15015200504.
+
+# Steadman's Physical Therapy
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 216 Garrison St #B, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.4569333, -93.0647081
+- Phone: +15015200504
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 100% of physical therapy clinics in Hot Springs, AR, #1 of 1 physical therapy clinics in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/steadmans-physical-therapy-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/steadmans-physical-therapy-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10040907372 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Summit Insurance is an insurance agent in Hot Springs, AR at 110 Temperance Hill Road, Hot Springs, AR 71913. Phone: +15018813030.
+
+# Summit Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 110 Temperance Hill Road, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.452777, -93.0753285
+- Phone: +15018813030
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 50% of insurance agents in Hot Springs, AR, #1 of 2 insurance agents in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/summit-insurance-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/summit-insurance-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/933911110 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Take 5 Oil Change is an auto repair shop in Hot Springs, AR.
+
+# Take 5 Oil Change
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.4527012, -93.0668141
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42/100 — Building — top 100% of auto repair shops in Hot Springs, AR, #3 of 3 auto repair shops in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/take-5-oil-change-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11142158291 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Temperance Hill Animal Hospital is a veterinarian in Hot Springs, AR at 111 Temperance Hill Road, Hot Springs, AR 71913. Phone: +15015255723.
+
+# Temperance Hill Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: 111 Temperance Hill Road, Hot Springs, AR 71913
+- City: Hot Springs
+- State: AR
+- ZIP: 71913
+- Coordinates: 34.4529355, -93.0761495
+- Phone: +15015255723
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Hot Springs, AR, #1 of 2 veterinarians in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/temperance-hill-animal-hospital-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/temperance-hill-animal-hospital-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/933911109 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Hair Lounge is a hair salon in Hot Springs, AR.
+
+# The Hair Lounge
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Hot Springs, AR
+- City: Hot Springs
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.4428988, -93.0898347
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 67% of hair salons in Hot Springs, AR, #2 of 3 hair salons in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-hair-lounge-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-hair-lounge-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13811186682 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+U Store It is a self-storage facility in Hot Springs, AR at 109 Winans Avenue, Hot Springs, AR 71901. Phone: +15017607333. Website: https://ustoreit.info/.
+
+# U Store It
+
+- Category: storage units
+- Services: storage units
+- Address: 109 Winans Avenue, Hot Springs, AR 71901
+- City: Hot Springs
+- State: AR
+- ZIP: 71901
+- Coordinates: 34.4764246, -93.0451025
+- Phone: +15017607333
+- Website: https://ustoreit.info/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.7/100 — Unrated (not enough evidence yet) — top 100% of self-storage facilitys in Hot Springs, AR, #2 of 2 self-storage facilitys in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/u-store-it-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/u-store-it-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6136377385 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wrapped Gift Botique is a gift shop in Hot Springs, AR at 404 Central Avenue, Hot Springs, AR 71901. Phone: +15013593142.
+
+# Wrapped Gift Botique
+
+- Category: gift shop
+- Services: gift shop
+- Address: 404 Central Avenue, Hot Springs, AR 71901
+- City: Hot Springs
+- State: AR
+- ZIP: 71901
+- Coordinates: 34.5134627, -93.0541313
+- Phone: +15013593142
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 34% of gift shops in Hot Springs, AR, #1 of 3 gift shops in Hot Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wrapped-gift-botique-hot-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wrapped-gift-botique-hot-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11427493939 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

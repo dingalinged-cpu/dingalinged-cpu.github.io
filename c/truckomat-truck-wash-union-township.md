@@ -13,7 +13,7 @@ Truckomat Truck Wash is a car wash in Union Township, OH at 10770 Lancaster Road
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 51/100 — Fair — top 55% of car washes in Columbus, OH, #1 of 1 car washes in Union Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 55% of car washes in Columbus, OH, #1 of 1 car washes in Union Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

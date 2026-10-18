@@ -13,7 +13,7 @@ Farmers Insurance is an insurance agent in Topeka, KS at 608 Southwest Washburn 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.2/100 — Building — top 100% of insurance agents in Topeka, KS, #12 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.3, Trust 43.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.2/100 — Building — top 100% of insurance agents in Topeka, KS, #12 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.3, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

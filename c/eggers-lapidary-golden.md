@@ -13,7 +13,7 @@ Eggers Lapidary is a jewelry store in Golden, CO at 1950 South Golden Road, Gold
 - Website: https://eggerslapidary.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-17:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 5% of jewelry stores in Denver, CO, #1 of 2 jewelry stores in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 5% of jewelry stores in Denver, CO, #1 of 2 jewelry stores in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

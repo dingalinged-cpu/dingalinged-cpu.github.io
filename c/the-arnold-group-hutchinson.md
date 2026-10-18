@@ -13,7 +13,7 @@ The Arnold Group is a staffing agency in Hutchinson, KS. Website: https://arnold
 - Website: https://arnoldgrouphr.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 29% of staffing agencys in Wichita, KS, #2 of 3 staffing agencys in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 29% of staffing agencys in Wichita, KS, #2 of 3 staffing agencys in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

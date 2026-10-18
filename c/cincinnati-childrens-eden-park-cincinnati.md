@@ -13,7 +13,7 @@ Cincinnati Children's Eden Park is a plastic surgeon in Cincinnati, OH at 2001 G
 - Website: https://www.cincinnatichildrens.org/locations/eden-park
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 50% of plastic surgeons in Cincinnati, OH, #1 of 1 plastic surgeons in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 50% of plastic surgeons in Cincinnati, OH, #1 of 1 plastic surgeons in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

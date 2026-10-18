@@ -13,7 +13,7 @@ Murphy's Mutts is a pet store in Saint Louis, MO at 2307 Cherokee Street, Saint 
 - Website: https://murphysmutts.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 6% of pet stores in St. Louis, MO, #1 of 5 pet stores in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 6% of pet stores in St. Louis, MO, #1 of 5 pet stores in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

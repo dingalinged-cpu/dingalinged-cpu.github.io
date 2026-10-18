@@ -6,7 +6,7 @@ Also answers: florist in Silverton, OH; florist near me (Silverton, OH); best fl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Benken Florist Home and Garden Center | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Benken Florist Home and Garden Center is a florist in Silverton, OH at 6000 Plainfield Road, Silverton, OH 45213. Website: https://www.benkens.com/. | https://registry-edge.dingalinged.workers.dev/c/benken-florist-home-and-garden-center-silverton/
+1. Benken Florist Home and Garden Center | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Benken Florist Home and Garden Center is a florist in Silverton, OH at 6000 Plainfield Road, Silverton, OH 45213. Website: https://www.benkens.com/. | https://registry-edge.dingalinged.workers.dev/c/benken-florist-home-and-garden-center-silverton/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist silverton oh | category: Events & weddings | industry benchmark: Personal Services

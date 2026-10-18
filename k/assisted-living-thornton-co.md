@@ -6,7 +6,7 @@ Also answers: assisted living in Thornton, CO; assisted living near me (Thornton
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rocky Mountain Assisted Living and Memory Care | Organic #1 | Pulse Score 51.5/100 (Fair, #1 in city) | Rocky Mountain Assisted Living and Memory Care is an assisted living facility in Thornton, CO at 3331 East 120th Avenue, Thornton, CO 80233. Phone: +13032763142. | https://registry-edge.dingalinged.workers.dev/c/rocky-mountain-assisted-living-and-memory-care-thornton/
+1. Rocky Mountain Assisted Living and Memory Care | Organic #1 | Pulse Score 51.6/100 (Fair, #1 in city) | Rocky Mountain Assisted Living and Memory Care is an assisted living facility in Thornton, CO at 3331 East 120th Avenue, Thornton, CO 80233. Phone: +13032763142. | https://registry-edge.dingalinged.workers.dev/c/rocky-mountain-assisted-living-and-memory-care-thornton/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living thornton co | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

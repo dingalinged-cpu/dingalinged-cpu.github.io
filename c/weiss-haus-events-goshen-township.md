@@ -13,7 +13,7 @@ Weiss Haus Events is an event venue in Goshen Township, OH at 1705 State Route 2
 - Website: https://www.weissbakingcompany.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 36% of event venues in Cincinnati, OH, #1 of 1 event venues in Goshen Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 36% of event venues in Cincinnati, OH, #1 of 1 event venues in Goshen Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

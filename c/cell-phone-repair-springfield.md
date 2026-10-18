@@ -13,7 +13,7 @@ Cell Phone Repair is a phone repair shop in Springfield, MO at 1330 East Battlef
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Pulse Score: 45.4/100 — Building — top 100% of phone repair shops in Springfield, MO, #1 of 1 phone repair shops in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 100% of phone repair shops in Springfield, MO, #1 of 1 phone repair shops in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

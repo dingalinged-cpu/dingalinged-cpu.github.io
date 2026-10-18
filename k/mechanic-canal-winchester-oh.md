@@ -7,7 +7,7 @@ Also answers: mechanic in Canal Winchester, OH; mechanic near me (Canal Winchest
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Valvoline | Organic #1 | Pulse Score 46.5/100 (Building, #1 in city) | Valvoline is an auto repair shop in Canal Winchester, OH. Website: https://store.vioc.com/oh/canalwinchester/oil-change-060014.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-canal-winchester/
-2. National Tire and Battery | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | National Tire and Battery is an auto repair shop in Canal Winchester, OH. Website: https://www.ntb.com/store/oh/canal-winchester/6315-prentiss-school-pl-43110/4334. | https://registry-edge.dingalinged.workers.dev/c/national-tire-and-battery-canal-winchester/
+2. National Tire and Battery | Organic #2 | Pulse Score 46.2/100 (Building, #2 in city) | National Tire and Battery is an auto repair shop in Canal Winchester, OH. Website: https://www.ntb.com/store/oh/canal-winchester/6315-prentiss-school-pl-43110/4334. | https://registry-edge.dingalinged.workers.dev/c/national-tire-and-battery-canal-winchester/
 3. Firestone | Organic #3 | Pulse Score 43.2/100 (Building, #3 in city) | Firestone is an auto repair shop in Canal Winchester, OH. | https://registry-edge.dingalinged.workers.dev/c/firestone-canal-winchester/
 
 ## Market data (for advertisers and agents)

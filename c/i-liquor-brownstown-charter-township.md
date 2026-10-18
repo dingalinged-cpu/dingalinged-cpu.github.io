@@ -13,7 +13,7 @@ I ♥ Liquor is a liquor store in Brownstown Charter Township, MI at 21980 Sible
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 72% of liquor stores in Detroit, MI, #1 of 4 liquor stores in Brownstown Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 71% of liquor stores in Detroit, MI, #1 of 4 liquor stores in Brownstown Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

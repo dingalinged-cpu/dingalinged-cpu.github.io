@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Highlands Ranch, CO at 9579 South Unive
 - Website: https://reservations.waxcenter.com/webstoreNew/4ddb2c05-c77d-4d37-b492-047263f1b0ab
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-17:00
-- Pulse Score: 48/100 — Building — top 36% of waxing salons in Denver, CO, #1 of 1 waxing salons in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 36% of waxing salons in Denver, CO, #1 of 1 waxing salons in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

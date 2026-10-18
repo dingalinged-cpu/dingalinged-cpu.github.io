@@ -6,7 +6,7 @@ Also answers: pet store in Genoa Township, OH; pet store near me (Genoa Township
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pet People | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Pet People is a pet store in Genoa Township, OH. | https://registry-edge.dingalinged.workers.dev/c/pet-people-genoa-township/
+1. Pet People | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Pet People is a pet store in Genoa Township, OH. | https://registry-edge.dingalinged.workers.dev/c/pet-people-genoa-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store genoa township oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

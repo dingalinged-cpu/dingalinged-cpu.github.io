@@ -13,7 +13,7 @@ ProLink Staffing - Pittsburgh is a staffing agency in Pittsburgh, PA at 381 Mans
 - Website: https://prolinkstaffing.com/locations/pennsylvania/pittsburgh/381-mansfield-ave--suite-301
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.6/100 — Good — top 34% of staffing agencys in Pittsburgh, PA, #1 of 1 staffing agencys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 34% of staffing agencys in Pittsburgh, PA, #1 of 1 staffing agencys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

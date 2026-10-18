@@ -13,7 +13,7 @@ Clarkson Eyecare is an eye care practice in Columbia Township, OH at 7437 Wooste
 - Website: https://www.clarksoneyecare.com/locations/oh/cincinnati/mariemont
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Building — top 80% of eye care practices in Cincinnati, OH, #1 of 1 eye care practices in Columbia Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 75% of eye care practices in Cincinnati, OH, #1 of 1 eye care practices in Columbia Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

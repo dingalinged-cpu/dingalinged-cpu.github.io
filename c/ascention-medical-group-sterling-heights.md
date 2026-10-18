@@ -13,7 +13,7 @@ Ascention Medical Group is a podiatrist in Sterling Heights, MI at 13935 Plumbro
 - Website: https://healthcare.ascension.org/locations/michigan/midet/sterling-heights-ascension-medical-group-cornerstone-bennett-family-footcare
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 100% of podiatrists in Detroit, MI, #5 of 5 podiatrists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Unrated (not enough evidence yet) — top 100% of podiatrists in Detroit, MI, #5 of 5 podiatrists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

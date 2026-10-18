@@ -6,7 +6,7 @@ Also answers: business consultant in Sterling Heights, MI; business consultant n
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cura Resource Group | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Cura Resource Group is a business consultant in Sterling Heights, MI at 37308 Schoenherr Road, Sterling Heights, MI 48312. Phone: +18008137155. Website: https://www.curagroup.com/. | https://registry-edge.dingalinged.workers.dev/c/cura-resource-group-sterling-heights/
+1. Cura Resource Group | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Cura Resource Group is a business consultant in Sterling Heights, MI at 37308 Schoenherr Road, Sterling Heights, MI 48312. Phone: +18008137155. Website: https://www.curagroup.com/. | https://registry-edge.dingalinged.workers.dev/c/cura-resource-group-sterling-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant sterling heights mi | category: b2b_services | industry benchmark: Business Services

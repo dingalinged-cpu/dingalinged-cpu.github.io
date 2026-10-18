@@ -13,7 +13,7 @@ Midgard Self Storage is a self-storage facility in Greenwood, IN at 2537 E Main 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-19:00
-- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 47% of self-storage facilitys in Indianapolis, IN, #1 of 2 self-storage facilitys in Greenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 47% of self-storage facilitys in Indianapolis, IN, #1 of 2 self-storage facilitys in Greenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

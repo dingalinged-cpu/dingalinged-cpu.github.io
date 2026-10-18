@@ -13,7 +13,7 @@ Oasis Dental is a dentist in Aurora, CO at 990 South Abilene Street, Aurora, CO 
 - Website: https://oasisdentalhealth.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Sa 08:00-17:00; We 07:00-20:00; Th 09:00-18:00; Fr 07:00-18:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 15% of dentists in Denver, CO, #4 of 75 dentists in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 88% of dentists in Denver, CO, #64 of 75 dentists in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

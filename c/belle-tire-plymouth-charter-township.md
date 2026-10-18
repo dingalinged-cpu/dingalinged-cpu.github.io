@@ -13,7 +13,7 @@ Belle Tire is a tire shop in Plymouth Charter Township, MI at 433 West Ann Arbor
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 89% of tire shops in Detroit, MI, #1 of 1 tire shops in Plymouth Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 89% of tire shops in Detroit, MI, #1 of 1 tire shops in Plymouth Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

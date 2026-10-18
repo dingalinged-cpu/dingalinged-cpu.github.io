@@ -13,7 +13,7 @@ Yellow Brick Yoga is a yoga studio in Lawrence, KS at 1410 Kasold Drive #1, Lawr
 - Website: https://www.yellowbrick.yoga/
 - Email: info@yellowbrick.yoga
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 25% of yoga studios in Lawrence, KS, #1 of 4 yoga studios in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 25% of yoga studios in Lawrence, KS, #1 of 4 yoga studios in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

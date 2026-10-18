@@ -13,7 +13,7 @@ La-Z-Boy is a furniture store in Sterling Heights, MI at 14405 Lakeside Circle, 
 - Website: https://www.la-z-boy.com/store/50860232/sterling-heights-mi
 - Email: socialsupport@la-z-boy.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-18:00
-- Pulse Score: 50.7/100 — Fair — top 63% of furniture stores in Detroit, MI, #4 of 4 furniture stores in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 61% of furniture stores in Detroit, MI, #4 of 4 furniture stores in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

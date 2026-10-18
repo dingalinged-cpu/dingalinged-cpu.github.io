@@ -13,7 +13,7 @@ SERC Physical Therapy is a physical therapy clinic in Lawrence, KS at 650 Congre
 - Website: https://serc.urpt.com/locations/lawrence-west/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We, Fr 07:00-17:00; Th 07:00-11:00
-- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 75% of physical therapy clinics in Lawrence, KS, #3 of 4 physical therapy clinics in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 75% of physical therapy clinics in Lawrence, KS, #3 of 4 physical therapy clinics in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

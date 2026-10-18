@@ -13,7 +13,7 @@ Goodwill is a thrift store in Saint Louis County, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-18:00
-- Pulse Score: 43.8/100 — Building — top 82% of thrift stores in St. Louis, MO, #2 of 2 thrift stores in Saint Louis County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 82% of thrift stores in St. Louis, MO, #2 of 2 thrift stores in Saint Louis County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

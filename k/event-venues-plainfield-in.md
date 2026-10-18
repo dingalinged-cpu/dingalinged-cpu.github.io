@@ -6,7 +6,7 @@ Also answers: event venues in Plainfield, IN; event venues near me (Plainfield, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CRG Event Center | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | CRG Event Center is an event venue in Plainfield, IN at 2499 Perry Crossing Way #205, Plainfield, IN 46168. | https://registry-edge.dingalinged.workers.dev/c/crg-event-center-plainfield/
+1. CRG Event Center | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | CRG Event Center is an event venue in Plainfield, IN at 2499 Perry Crossing Way #205, Plainfield, IN 46168. | https://registry-edge.dingalinged.workers.dev/c/crg-event-center-plainfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues plainfield in | category: Events & weddings | industry benchmark: Personal Services

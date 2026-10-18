@@ -13,7 +13,7 @@ ImprovEyes Studio is a graphic designer in Saint Louis, MO at 7814 South Broadwa
 - Website: https://www.improveyes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 75% of graphic designers in St. Louis, MO, #3 of 4 graphic designers in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 75% of graphic designers in St. Louis, MO, #3 of 4 graphic designers in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

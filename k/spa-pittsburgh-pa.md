@@ -7,7 +7,7 @@ Also answers: spa in Pittsburgh, PA; spa near me (Pittsburgh, PA); best spa Pitt
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Opulence | Organic #1 | Pulse Score 64.4/100 (Good, #1 in city) | Opulence is a spa in Pittsburgh, PA at 22 Bedford Square, Pittsburgh, PA 15203. Phone: +14122123142. Website: https://opulenceheadspapgh.com/. | https://registry-edge.dingalinged.workers.dev/c/opulence-pittsburgh/
-2. Reverse Aging Naturally Energy Spa | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Reverse Aging Naturally Energy Spa is a spa in Pittsburgh, PA at 1786 North Highland Road, Pittsburgh, PA 15241. Phone: +14122834978. Website: https://reverseagingnaturally.com/. | https://registry-edge.dingalinged.workers.dev/c/reverse-aging-naturally-energy-spa-pittsburgh/
+2. Reverse Aging Naturally Energy Spa | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Reverse Aging Naturally Energy Spa is a spa in Pittsburgh, PA at 1786 North Highland Road, Pittsburgh, PA 15241. Phone: +14122834978. Website: https://reverseagingnaturally.com/. | https://registry-edge.dingalinged.workers.dev/c/reverse-aging-naturally-energy-spa-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa pittsburgh pa | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

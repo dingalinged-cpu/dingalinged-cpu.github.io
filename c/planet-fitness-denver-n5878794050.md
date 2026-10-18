@@ -13,7 +13,7 @@ Planet Fitness is a gym in Denver, CO at 4876 Chambers Road, Denver, CO 80239.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 00:00-24:00; Fr 00:00-22:00; Sa-Su 06:00-20:00
-- Pulse Score: 45.7/100 — Building — top 80% of gyms in Denver, CO, #53 of 58 gyms in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Building — top 79% of gyms in Denver, CO, #53 of 58 gyms in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

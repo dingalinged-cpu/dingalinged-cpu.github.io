@@ -7,7 +7,7 @@ Also answers: tire shop in Wentzville, MO; tire shop near me (Wentzville, MO); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Zisser Tire | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Zisser Tire is a tire shop in Wentzville, MO at 1250 Mexico Road, Wentzville, MO 63385. Phone: +16363276411. | https://registry-edge.dingalinged.workers.dev/c/zisser-tire-wentzville/
-2. Discount Tire | Organic #2 | Pulse Score 46.2/100 (Building, #2 in city) | Discount Tire is a tire shop in Wentzville, MO at 1560 Wentzville Parkway, Wentzville, MO 63385. Phone: +16366989761. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-wentzville/
+2. Discount Tire | Organic #2 | Pulse Score 46.1/100 (Building, #2 in city) | Discount Tire is a tire shop in Wentzville, MO at 1560 Wentzville Parkway, Wentzville, MO 63385. Phone: +16366989761. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-wentzville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop wentzville mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

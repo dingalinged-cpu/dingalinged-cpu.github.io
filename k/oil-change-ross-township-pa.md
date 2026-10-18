@@ -6,7 +6,7 @@ Also answers: oil change in Ross Township, PA; oil change near me (Ross Township
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Meineke | Organic #1 | Pulse Score 49.7/100 (Building, #73 in city) | Meineke is an auto repair shop in Pittsburgh, PA at 3265 Babcock Boulevard, Pittsburgh, PA 15237. Phone: +14125367086. Website: https://www.meineke.com/. | https://registry-edge.dingalinged.workers.dev/c/meineke-pittsburgh/
+1. Meineke | Organic #1 | Pulse Score 49.7/100 (Building, #71 in city) | Meineke is an auto repair shop in Pittsburgh, PA at 3265 Babcock Boulevard, Pittsburgh, PA 15237. Phone: +14125367086. Website: https://www.meineke.com/. | https://registry-edge.dingalinged.workers.dev/c/meineke-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change ross township pa | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

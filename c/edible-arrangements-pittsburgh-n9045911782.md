@@ -13,7 +13,7 @@ Edible Arrangements is a gift shop in Pittsburgh, PA at 6506 Steubenville Pike, 
 - Website: https://www.ediblearrangements.com/stores/6506-steubenville-pike-pittsburgh-pa-15205
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.6/100 — Building — top 61% of gift shops in Pittsburgh, PA, #17 of 21 gift shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 61% of gift shops in Pittsburgh, PA, #17 of 21 gift shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ CorePower Yoga is a yoga studio in Louisville, CO. Website: https://www.corepowe
 - Website: https://www.corepoweryoga.com/yoga-studios/colorado/louisville/louisville
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.1/100 — Building — top 98% of yoga studios in Denver, CO, #3 of 3 yoga studios in Louisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.1/100 — Building — top 98% of yoga studios in Denver, CO, #3 of 3 yoga studios in Louisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Clarkson Eyecare is an eye care practice in Imperial Township, MO at 1259 Imperi
 - Website: https://www.clarksoneyecare.com/locations/mo/imperial/imperial
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Building — top 61% of eye care practices in St. Louis, MO, #1 of 1 eye care practices in Imperial Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 61% of eye care practices in St. Louis, MO, #1 of 1 eye care practices in Imperial Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

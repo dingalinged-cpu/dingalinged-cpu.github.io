@@ -13,7 +13,7 @@ Pink and White Nail Studio is a nail salon in Springfield, MO at 900 East Battle
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 37% of nail salons in Springfield, MO, #4 of 11 nail salons in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 37% of nail salons in Springfield, MO, #4 of 11 nail salons in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

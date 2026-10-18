@@ -6,7 +6,7 @@ Also answers: hair salon in Allen Park, MI; hair salon near me (Allen Park, MI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lion's Den Barber Shop | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Lion's Den Barber Shop is a hair salon in Allen Park, MI at 6761 Allen Road, Allen Park, MI 48101. Phone: +13133832306. | https://registry-edge.dingalinged.workers.dev/c/lions-den-barber-shop-allen-park/
+1. Lion's Den Barber Shop | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Lion's Den Barber Shop is a hair salon in Allen Park, MI at 6761 Allen Road, Allen Park, MI 48101. Phone: +13133832306. | https://registry-edge.dingalinged.workers.dev/c/lions-den-barber-shop-allen-park/
 2. Sizzle | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Sizzle is a hair salon in Allen Park, MI. Phone: +13137696744. | https://registry-edge.dingalinged.workers.dev/c/sizzle-allen-park/
 3. Vivid Beauty Salon | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | Vivid Beauty Salon is a hair salon in Allen Park, MI at 9095 Allen Road, Allen Park, MI 48101. | https://registry-edge.dingalinged.workers.dev/c/vivid-beauty-salon-allen-park/
 4. Anthony's | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Anthony's is a hair salon in Allen Park, MI. | https://registry-edge.dingalinged.workers.dev/c/anthonys-allen-park/

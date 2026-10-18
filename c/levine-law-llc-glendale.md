@@ -13,7 +13,7 @@ Levine Law LLC is a lawyer in Glendale, CO at 4500 Cherry Creek South Drive #Sui
 - Website: https://www.mydenveraccidentlawfirm.com/
 - Email: jordan@levlawllc.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.8/100 — Good — top 14% of lawyers in Denver, CO, #1 of 3 lawyers in Glendale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 66.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 14% of lawyers in Denver, CO, #1 of 3 lawyers in Glendale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 66.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

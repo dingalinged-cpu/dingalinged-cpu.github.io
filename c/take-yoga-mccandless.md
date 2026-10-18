@@ -13,7 +13,7 @@ Take Yoga is a martial arts school in McCandless, PA at 1701 Duncan Avenue, McCa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 67% of martial arts schools in Pittsburgh, PA, #1 of 2 martial arts schools in McCandless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 67% of martial arts schools in Pittsburgh, PA, #1 of 2 martial arts schools in McCandless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

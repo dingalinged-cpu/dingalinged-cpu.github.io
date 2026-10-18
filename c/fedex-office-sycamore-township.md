@@ -13,7 +13,7 @@ FedEx Office is a printing service in Sycamore Township, OH. Website: https://lo
 - Website: https://local.fedex.com/oh/cincinnati/office-1461/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Building — top 31% of printing services in Cincinnati, OH, #1 of 1 printing services in Sycamore Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 31% of printing services in Cincinnati, OH, #1 of 1 printing services in Sycamore Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

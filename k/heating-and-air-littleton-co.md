@@ -6,7 +6,7 @@ Also answers: heating and air in Littleton, CO; heating and air near me (Littlet
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Simply Mechanical AC, Furnace & Boiler Repair | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Simply Mechanical AC, Furnace & Boiler Repair is a HVAC contractor in Littleton, CO at 8392 South Continental Divide Road #103, Littleton, CO 80127. Phone: +17206136211. Website: https://simplymechanicalco.com/air-conditioning-repair. | https://registry-edge.dingalinged.workers.dev/c/simply-mechanical-ac-furnace-and-boiler-repair-littleton/
+1. Simply Mechanical AC, Furnace & Boiler Repair | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Simply Mechanical AC, Furnace & Boiler Repair is a HVAC contractor in Littleton, CO at 8392 South Continental Divide Road #103, Littleton, CO 80127. Phone: +17206136211. Website: https://simplymechanicalco.com/air-conditioning-repair. | https://registry-edge.dingalinged.workers.dev/c/simply-mechanical-ac-furnace-and-boiler-repair-littleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air littleton co | category: Home Services | industry benchmark: Home & Home Improvement

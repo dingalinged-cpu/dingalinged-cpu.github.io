@@ -6,7 +6,7 @@ Also answers: pediatrician in Lakewood, CO; pediatrician near me (Lakewood, CO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lakewood Medical Offices | Organic #1 | Pulse Score 45.8/100 (Building, #1 in city) | Lakewood Medical Offices is a family medicine practice in Lakewood, CO at 8301 West Alameda Avenue, Lakewood, CO 80226. Phone: +13033384545. Website: https://healthy.kaiserpermanente.org/colorado/facilities/Lakewood-Medical-Offices-100519. | https://registry-edge.dingalinged.workers.dev/c/lakewood-medical-offices-lakewood/
+1. Lakewood Medical Offices | Organic #1 | Pulse Score 45.9/100 (Building, #1 in city) | Lakewood Medical Offices is a family medicine practice in Lakewood, CO at 8301 West Alameda Avenue, Lakewood, CO 80226. Phone: +13033384545. Website: https://healthy.kaiserpermanente.org/colorado/facilities/Lakewood-Medical-Offices-100519. | https://registry-edge.dingalinged.workers.dev/c/lakewood-medical-offices-lakewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician lakewood co | category: Health & medical | industry benchmark: Physicians & Surgeons

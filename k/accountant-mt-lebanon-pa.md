@@ -6,7 +6,7 @@ Also answers: accountant in Mt. Lebanon, PA; accountant near me (Mt. Lebanon, PA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wilke & Associates, CPA | Organic #1 | Pulse Score 60/100 (Unrated, #2 in city) | Wilke & Associates, CPA is an accountant in Pittsburgh, PA at 1721 Cochran Road, Pittsburgh, PA 15220. | https://registry-edge.dingalinged.workers.dev/c/wilke-and-associates-cpa-pittsburgh/
+1. Wilke & Associates, CPA | Organic #1 | Pulse Score 60.1/100 (Unrated, #2 in city) | Wilke & Associates, CPA is an accountant in Pittsburgh, PA at 1721 Cochran Road, Pittsburgh, PA 15220. | https://registry-edge.dingalinged.workers.dev/c/wilke-and-associates-cpa-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant mt. lebanon pa | category: professional_accounting | industry benchmark: Business Services

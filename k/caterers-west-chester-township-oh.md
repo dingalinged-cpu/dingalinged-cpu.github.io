@@ -6,7 +6,7 @@ Also answers: caterers in West Chester Township, OH; caterers near me (West Ches
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Luigi’s | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Luigi’s is a caterer in West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/luigi-s-west-chester-township/
+1. Luigi’s | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Luigi’s is a caterer in West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/luigi-s-west-chester-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers west chester township oh | category: Events & weddings | industry benchmark: Personal Services

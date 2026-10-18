@@ -13,7 +13,7 @@ RE/MAX is a real estate agency in Indianapolis, IN at 5645 Castle Creek Parkway 
 - Website: https://global.remax.com/en/offices/usa/indianapolis/remax-legends-group/1025240
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 94% of real estate agencys in Indianapolis, IN, #30 of 30 real estate agencys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 94% of real estate agencys in Indianapolis, IN, #30 of 30 real estate agencys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

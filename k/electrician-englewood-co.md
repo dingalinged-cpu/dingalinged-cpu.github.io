@@ -7,7 +7,7 @@ Also answers: electrician in Englewood, CO; electrician near me (Englewood, CO);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Karisma Electric | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Karisma Electric is an electrician in Englewood, CO at 7950 South Hannibal Street #112, Englewood, CO 80112. Phone: +17206687986. Website: https://karismaelectric.com/. | https://registry-edge.dingalinged.workers.dev/c/karisma-electric-englewood/
-2. EV Pros | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | EV Pros is an electrician in Englewood, CO at 7950 South Hannibal Street ##112, Englewood, CO 80112. Phone: +17206687986. Website: https://evproscolorado.com/. | https://registry-edge.dingalinged.workers.dev/c/ev-pros-englewood/
+2. EV Pros | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | EV Pros is an electrician in Englewood, CO at 7950 South Hannibal Street ##112, Englewood, CO 80112. Phone: +17206687986. Website: https://evproscolorado.com/. | https://registry-edge.dingalinged.workers.dev/c/ev-pros-englewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician englewood co | category: Home services - Electrical | industry benchmark: Home & Home Improvement

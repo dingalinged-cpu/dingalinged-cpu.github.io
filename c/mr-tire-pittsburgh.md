@@ -13,7 +13,7 @@ Mr. Tire is an auto repair shop in Pittsburgh, PA at 7400 McKnight Road, Pittsbu
 - Website: https://locations.mrtire.com/pa/pittsburgh/7400-mcknight-road
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-17:00
-- Pulse Score: 50.6/100 — Fair — top 73% of auto repair shops in Pittsburgh, PA, #72 of 90 auto repair shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 66.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 72% of auto repair shops in Pittsburgh, PA, #70 of 90 auto repair shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

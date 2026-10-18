@@ -13,7 +13,7 @@ TCARE is a therapy practice in Saint Louis, MO at 1260 South Vandeventer Avenue,
 - Website: https://www.tcare.ai/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 47% of therapy practices in St. Louis, MO, #3 of 6 therapy practices in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 47% of therapy practices in St. Louis, MO, #3 of 6 therapy practices in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

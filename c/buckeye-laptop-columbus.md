@@ -13,7 +13,7 @@ Buckeye Laptop is a phone repair shop in Columbus, OH at 109 South High Street, 
 - Website: https://www.buckeyelaptop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 43% of phone repair shops in Columbus, OH, #2 of 6 phone repair shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 43% of phone repair shops in Columbus, OH, #2 of 6 phone repair shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

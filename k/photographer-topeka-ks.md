@@ -7,8 +7,8 @@ Also answers: photographer in Topeka, KS; photographer near me (Topeka, KS); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Nexus Photography | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Nexus Photography is a photographer in Topeka, KS at 705 Southwest 6th Avenue, Topeka, KS 66603. Phone: +17852332007. Website: https://www.nexusphoto.net/. | https://registry-edge.dingalinged.workers.dev/c/nexus-photography-topeka/
-2. Wichers Photography | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | Wichers Photography is a photographer in Topeka, KS at 4105 Southwest 29th Street, Topeka, KS 66614. Phone: +17852715355. Website: https://www.wichers.com/. | https://registry-edge.dingalinged.workers.dev/c/wichers-photography-topeka/
-3. Bella Ray Photography | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Bella Ray Photography is a photographer in Topeka, KS. Phone: +17854309124. | https://registry-edge.dingalinged.workers.dev/c/bella-ray-photography-topeka/
+2. Wichers Photography | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Wichers Photography is a photographer in Topeka, KS at 4105 Southwest 29th Street, Topeka, KS 66614. Phone: +17852715355. Website: https://www.wichers.com/. | https://registry-edge.dingalinged.workers.dev/c/wichers-photography-topeka/
+3. Bella Ray Photography | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | Bella Ray Photography is a photographer in Topeka, KS. Phone: +17854309124. | https://registry-edge.dingalinged.workers.dev/c/bella-ray-photography-topeka/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer topeka ks | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ Voodoo Doughnut is a bakery in Denver, CO at 98 South Broadway, Denver, CO 80209
 - Website: https://www.voodoodoughnut.com/
 - Email: n/a
 - Opening hours (OSM syntax): Su-Th 06:00-24:00; Fr-Sa 06:00-02:00
-- Pulse Score: 48.7/100 — Building — top 92% of bakerys in Denver, CO, #39 of 39 bakerys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 91% of bakerys in Denver, CO, #38 of 39 bakerys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Burt's Auto Repair is an auto repair shop in Detroit, MI at 18948 West Warren Av
 - Website: https://www.local.com/business/details/detroit-MI/burt-auto-repair-138368321/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 30% of auto repair shops in Detroit, MI, #24 of 121 auto repair shops in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 30% of auto repair shops in Detroit, MI, #24 of 121 auto repair shops in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

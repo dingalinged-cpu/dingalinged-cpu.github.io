@@ -13,7 +13,7 @@ Lucy’s Flowers & Design is a florist in Aurora, CO at 1930 South Havana Street
 - Website: https://lucysflower.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00, Sa 11:00-16:00, Su closed
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 6% of florists in Denver, CO, #2 of 8 florists in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 6% of florists in Denver, CO, #2 of 8 florists in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

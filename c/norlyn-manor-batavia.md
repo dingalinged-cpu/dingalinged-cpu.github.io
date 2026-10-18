@@ -13,7 +13,7 @@ Norlyn Manor is an event venue in Batavia, OH at 4440 State Route 132, Batavia, 
 - Website: https://www.norlynmanor.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 31% of event venues in Cincinnati, OH, #1 of 1 event venues in Batavia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 31% of event venues in Cincinnati, OH, #1 of 1 event venues in Batavia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

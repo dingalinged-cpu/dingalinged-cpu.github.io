@@ -6,7 +6,7 @@ Also answers: physical therapy in Alton, IL; physical therapy near me (Alton, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alton Physical Therapy | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Alton Physical Therapy is a physical therapy clinic in Alton, IL at 1719 Clawson Street, Alton, IL 62002. Phone: +16184621133. Website: https://altonpt.com/. | https://registry-edge.dingalinged.workers.dev/c/alton-physical-therapy-alton/
+1. Alton Physical Therapy | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Alton Physical Therapy is a physical therapy clinic in Alton, IL at 1719 Clawson Street, Alton, IL 62002. Phone: +16184621133. Website: https://altonpt.com/. | https://registry-edge.dingalinged.workers.dev/c/alton-physical-therapy-alton/
 2. Associated Physicians Group | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Associated Physicians Group is a physical therapy clinic in Alton, IL at 4414 West Center Drive, Alton, IL 62002. | https://registry-edge.dingalinged.workers.dev/c/associated-physicians-group-alton/
 3. Ahletico Physical Therapy | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Ahletico Physical Therapy is a physical therapy clinic in Alton, IL. | https://registry-edge.dingalinged.workers.dev/c/ahletico-physical-therapy-alton/
 

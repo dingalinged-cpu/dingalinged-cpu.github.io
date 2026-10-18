@@ -13,7 +13,7 @@ Safelite AutoGlass is an auto repair shop in Lakewood, CO at 100 South Wadsworth
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Building — top 87% of auto repair shops in Denver, CO, #38 of 47 auto repair shops in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.4/100 — Building — top 86% of auto repair shops in Denver, CO, #38 of 47 auto repair shops in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

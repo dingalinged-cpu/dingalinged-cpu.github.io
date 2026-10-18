@@ -13,7 +13,7 @@ Premier Eye Care LLC is an eye care practice in Mt. Lebanon, PA at 669 Washingto
 - Website: https://www.premiereye.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Th 09:00-17:30, Tu,We "by appointment", Fr 08:00-16:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 10% of eye care practices in Pittsburgh, PA, #1 of 2 eye care practices in Mt. Lebanon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of eye care practices in Pittsburgh, PA, #1 of 2 eye care practices in Mt. Lebanon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

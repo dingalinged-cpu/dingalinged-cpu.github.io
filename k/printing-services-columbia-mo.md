@@ -6,7 +6,7 @@ Also answers: printing services in Columbia, MO; printing services near me (Colu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Imprint & Accessories | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Imprint & Accessories is a printing service in Columbia, MO at 1412 I- 70 Drive Southwest, Columbia, MO 65203. | https://registry-edge.dingalinged.workers.dev/c/imprint-and-accessories-columbia/
+1. Imprint & Accessories | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Imprint & Accessories is a printing service in Columbia, MO at 1412 I- 70 Drive Southwest, Columbia, MO 65203. | https://registry-edge.dingalinged.workers.dev/c/imprint-and-accessories-columbia/
 2. The UPS Store | Organic #2 | Pulse Score 45.2/100 (Building, #2 in city) | The UPS Store is a printing service in Columbia, MO at 2101 West Broadway #103, Columbia, MO 65203. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-columbia-n12762866350/
 3. The UPS Store | Organic #3 | Pulse Score 43.6/100 (Building, #3 in city) | The UPS Store is a printing service in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-columbia/
 4. The UPS Store | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | The UPS Store is a printing service in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-columbia-n14240447186/

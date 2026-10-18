@@ -13,7 +13,7 @@ Rolf Monument Co. is a concrete contractor in Newport, KY at 534 Hodge Street, N
 - Website: https://rolfmonument.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 100% of concrete contractors in Cincinnati, OH, #1 of 1 concrete contractors in Newport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 100% of concrete contractors in Cincinnati, OH, #1 of 1 concrete contractors in Newport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Tyler, TX",
+ "description": "Top Tyler, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Tyler, TX",
+ "geography": null,
+ "keywords": 53,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "moving company tyler tx",
+    "slug": "moving-company-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-tyler-tx/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.41,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "electrician tyler tx",
+    "slug": "electrician-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-tyler-tx/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.18,
+    "cpc_median_usd": 12.18,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "attorney tyler tx",
+    "slug": "attorney-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-tyler-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 6,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "lawyer tyler tx",
+    "slug": "lawyer-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-tyler-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 6,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "carpet installation tyler tx",
+    "slug": "carpet-installation-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/carpet-installation-tyler-tx/",
+    "us_monthly_searches": 14800,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "storage units tyler tx",
+    "slug": "storage-units-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-tyler-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "movers tyler tx",
+    "slug": "movers-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/movers-tyler-tx/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.23,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "bakery tyler tx",
+    "slug": "bakery-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-tyler-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "florist tyler tx",
+    "slug": "florist-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-tyler-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "crossfit tyler tx",
+    "slug": "crossfit-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit-tyler-tx/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 6.17,
+    "cpc_median_usd": 6.17,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "accounting services tyler tx",
+    "slug": "accounting-services-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-tyler-tx/",
+    "us_monthly_searches": 12100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "staffing agency tyler tx",
+    "slug": "staffing-agency-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-tyler-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tax preparer tyler tx",
+    "slug": "tax-preparer-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-tyler-tx/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "general contractor tyler tx",
+    "slug": "general-contractor-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/general-contractor-tyler-tx/",
+    "us_monthly_searches": 18100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.31,
+    "cpc_median_usd": 5.31,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "accountant tyler tx",
+    "slug": "accountant-tyler-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-tyler-tx/",
+    "us_monthly_searches": 33100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.23,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

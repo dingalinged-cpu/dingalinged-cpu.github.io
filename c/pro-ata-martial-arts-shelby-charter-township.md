@@ -13,7 +13,7 @@ Pro ATA Martial Arts is a martial arts school in Shelby Charter Township, MI at 
 - Website: https://proatamartialarts.com/
 - Email: info@proatamartialarts.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 34% of martial arts schools in Detroit, MI, #2 of 3 martial arts schools in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 31% of martial arts schools in Detroit, MI, #2 of 3 martial arts schools in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

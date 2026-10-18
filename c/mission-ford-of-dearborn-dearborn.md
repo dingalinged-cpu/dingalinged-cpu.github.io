@@ -13,7 +13,7 @@ Mission Ford of Dearborn is an used car dealer in Dearborn, MI at 14585 Michigan
 - Website: https://www.missionfordofdearborn.com/searchused.aspx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 87% of used car dealers in Detroit, MI, #4 of 4 used car dealers in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 87% of used car dealers in Detroit, MI, #4 of 4 used car dealers in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

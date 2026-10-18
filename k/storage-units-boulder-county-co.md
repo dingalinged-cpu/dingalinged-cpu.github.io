@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Boulder Self Storage | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Boulder Self Storage is a self-storage facility in Boulder County, CO. Phone: +13034400820. | https://registry-edge.dingalinged.workers.dev/c/boulder-self-storage-boulder-county/
 2. Boulder Self Storage | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Boulder Self Storage is a self-storage facility in Boulder County, CO. Phone: +13037857587. | https://registry-edge.dingalinged.workers.dev/c/boulder-self-storage-boulder-county-n2086308253/
-3. SecurCare Self Storage | Organic #3 | Pulse Score 45.3/100 (Unrated, #3 in city) | SecurCare Self Storage is a self-storage facility in Boulder County, CO. Phone: +13032450388. | https://registry-edge.dingalinged.workers.dev/c/securcare-self-storage-boulder-county/
+3. SecurCare Self Storage | Organic #3 | Pulse Score 45.2/100 (Unrated, #3 in city) | SecurCare Self Storage is a self-storage facility in Boulder County, CO. Phone: +13032450388. | https://registry-edge.dingalinged.workers.dev/c/securcare-self-storage-boulder-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units boulder county co | category: Home services - Moving | industry benchmark: Home & Home Improvement

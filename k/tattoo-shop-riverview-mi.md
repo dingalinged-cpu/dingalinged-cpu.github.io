@@ -6,8 +6,8 @@ Also answers: tattoo shop in Riverview, MI; tattoo shop near me (Riverview, MI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alchemy Tattoo | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Alchemy Tattoo is a tattoo shop in Riverview, MI at 17120 Fort Street, Riverview, MI 48193. | https://registry-edge.dingalinged.workers.dev/c/alchemy-tattoo-riverview/
-2. Hardline Tattoo Company | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Hardline Tattoo Company is a tattoo shop in Riverview, MI at 18617 Fort Street, Riverview, MI 48193. | https://registry-edge.dingalinged.workers.dev/c/hardline-tattoo-company-riverview/
+1. Alchemy Tattoo | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Alchemy Tattoo is a tattoo shop in Riverview, MI at 17120 Fort Street, Riverview, MI 48193. | https://registry-edge.dingalinged.workers.dev/c/alchemy-tattoo-riverview/
+2. Hardline Tattoo Company | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Hardline Tattoo Company is a tattoo shop in Riverview, MI at 18617 Fort Street, Riverview, MI 48193. | https://registry-edge.dingalinged.workers.dev/c/hardline-tattoo-company-riverview/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop riverview mi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

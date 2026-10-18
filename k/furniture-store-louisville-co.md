@@ -6,7 +6,7 @@ Also answers: furniture store in Louisville, CO; furniture store near me (Louisv
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aspenlog | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Aspenlog is a furniture store in Louisville, CO at 1301 Courtesy Road, Louisville, CO 80027. Website: https://www.aspenlog.com/. | https://registry-edge.dingalinged.workers.dev/c/aspenlog-louisville/
+1. Aspenlog | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Aspenlog is a furniture store in Louisville, CO at 1301 Courtesy Road, Louisville, CO 80027. Website: https://www.aspenlog.com/. | https://registry-edge.dingalinged.workers.dev/c/aspenlog-louisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store louisville co | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

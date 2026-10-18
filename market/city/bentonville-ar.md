@@ -1,0 +1,58 @@
+Keyword market for Bentonville, AR: 31 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Fayetteville-Springdale-Rogers, AR metro (US volume x population share).
+
+# Top keywords in Bentonville, AR
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash bentonville ar | searches/mo 3,300 (est) | CPC $4.35 | value $14,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-bentonville-ar/
+2. dentist bentonville ar | searches/mo 3,300 (est) | CPC $4.70 | value $16,000 | Google Ads equiv $840/mo | our featured min $100/mo | registry competitors 20 | https://registry-edge.dingalinged.workers.dev/k/dentist-bentonville-ar/
+3. gym bentonville ar | searches/mo 3,300 (est) | CPC $1.67 | value $5,500 | Google Ads equiv $400/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/gym-bentonville-ar/
+4. hair salon bentonville ar | searches/mo 2,700 (est) | CPC $0.55 | value $1,500 | Google Ads equiv $85.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-bentonville-ar/
+5. nail salon bentonville ar | searches/mo 1,800 (est) | CPC $0.61 | value $1,100 | Google Ads equiv $63.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-bentonville-ar/
+6. barber shop bentonville ar | searches/mo 1,200 (est) | CPC $0.70 | value $840 | Google Ads equiv $48.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/barber-shop-bentonville-ar/
+7. mechanic bentonville ar | searches/mo 1,200 (est) | CPC $4.35 | value $5,200 | Google Ads equiv $290/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-bentonville-ar/
+8. haircut bentonville ar | searches/mo 670 (est) | CPC $4.62 | value $3,100 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-bentonville-ar/
+9. auto repair bentonville ar | searches/mo 550 (est) | CPC $4.35 | value $2,400 | Google Ads equiv $130/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-bentonville-ar/
+10. movers bentonville ar | searches/mo 550 (est) | CPC $8.23 | value $4,500 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/movers-bentonville-ar/
+11. pilates bentonville ar | searches/mo 550 (est) | CPC $6.17 | value $3,400 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-bentonville-ar/
+12. moving company bentonville ar | searches/mo 370 (est) | CPC $12.41 | value $4,600 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/moving-company-bentonville-ar/
+13. hvac repair bentonville ar | searches/mo 130 (est) | CPC $17.76 | value $2,300 | Google Ads equiv $150/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-bentonville-ar/
+14. yoga classes bentonville ar | searches/mo 130 (est) | CPC $1.78 | value $230 | Google Ads equiv $17.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/yoga-classes-bentonville-ar/
+15. family doctor bentonville ar | searches/mo 60.00 (est) | CPC $4.76 | value $290 | Google Ads equiv $19.00/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/family-doctor-bentonville-ar/
+
+## By CPC
+1. hvac repair bentonville ar | searches/mo 130 (est) | CPC $17.76 | value $2,300 | Google Ads equiv $150/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-bentonville-ar/
+2. moving company bentonville ar | searches/mo 370 (est) | CPC $12.41 | value $4,600 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/moving-company-bentonville-ar/
+3. heating and air bentonville ar | searches/mo 6.60 (est) | CPC $8.33 | value $55.00 | Google Ads equiv $3.50/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-bentonville-ar/
+4. storage units bentonville ar | searches/mo n/a (est) | CPC $8.33 | value $n/a | Google Ads equiv $n/a/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-bentonville-ar/
+5. movers bentonville ar | searches/mo 550 (est) | CPC $8.23 | value $4,500 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/movers-bentonville-ar/
+6. event venues bentonville ar | searches/mo 400 (est) | CPC $7.17 | value $2,900 | Google Ads equiv $220/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/event-venues-bentonville-ar/
+7. pilates bentonville ar | searches/mo 550 (est) | CPC $6.17 | value $3,400 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-bentonville-ar/
+8. daycare bentonville ar | searches/mo 400 (est) | CPC $4.81 | value $1,900 | Google Ads equiv $110/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/daycare-bentonville-ar/
+9. driving school bentonville ar | searches/mo 73.00 (est) | CPC $4.81 | value $350 | Google Ads equiv $20.00/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/driving-school-bentonville-ar/
+10. family doctor bentonville ar | searches/mo 60.00 (est) | CPC $4.76 | value $290 | Google Ads equiv $19.00/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/family-doctor-bentonville-ar/
+11. ob gyn bentonville ar | searches/mo 400 (est) | CPC $4.76 | value $1,900 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/ob-gyn-bentonville-ar/
+12. podiatrist bentonville ar | searches/mo 400 (est) | CPC $4.76 | value $1,900 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/podiatrist-bentonville-ar/
+13. primary care physician bentonville ar | searches/mo 49.00 (est) | CPC $4.76 | value $230 | Google Ads equiv $16.00/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-bentonville-ar/
+14. dentist bentonville ar | searches/mo 3,300 (est) | CPC $4.70 | value $16,000 | Google Ads equiv $840/mo | our featured min $100/mo | registry competitors 20 | https://registry-edge.dingalinged.workers.dev/k/dentist-bentonville-ar/
+15. haircut bentonville ar | searches/mo 670 (est) | CPC $4.62 | value $3,100 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-bentonville-ar/
+
+## By value (searches x CPC)
+1. dentist bentonville ar | searches/mo 3,300 (est) | CPC $4.70 | value $16,000 | Google Ads equiv $840/mo | our featured min $100/mo | registry competitors 20 | https://registry-edge.dingalinged.workers.dev/k/dentist-bentonville-ar/
+2. car wash bentonville ar | searches/mo 3,300 (est) | CPC $4.35 | value $14,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-bentonville-ar/
+3. gym bentonville ar | searches/mo 3,300 (est) | CPC $1.67 | value $5,500 | Google Ads equiv $400/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/gym-bentonville-ar/
+4. mechanic bentonville ar | searches/mo 1,200 (est) | CPC $4.35 | value $5,200 | Google Ads equiv $290/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-bentonville-ar/
+5. moving company bentonville ar | searches/mo 370 (est) | CPC $12.41 | value $4,600 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/moving-company-bentonville-ar/
+6. movers bentonville ar | searches/mo 550 (est) | CPC $8.23 | value $4,500 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/movers-bentonville-ar/
+7. pilates bentonville ar | searches/mo 550 (est) | CPC $6.17 | value $3,400 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-bentonville-ar/
+8. haircut bentonville ar | searches/mo 670 (est) | CPC $4.62 | value $3,100 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-bentonville-ar/
+9. auto repair bentonville ar | searches/mo 550 (est) | CPC $4.35 | value $2,400 | Google Ads equiv $130/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-bentonville-ar/
+10. hvac repair bentonville ar | searches/mo 130 (est) | CPC $17.76 | value $2,300 | Google Ads equiv $150/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-bentonville-ar/
+11. hair salon bentonville ar | searches/mo 2,700 (est) | CPC $0.55 | value $1,500 | Google Ads equiv $85.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-bentonville-ar/
+12. nail salon bentonville ar | searches/mo 1,800 (est) | CPC $0.61 | value $1,100 | Google Ads equiv $63.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-bentonville-ar/
+13. barber shop bentonville ar | searches/mo 1,200 (est) | CPC $0.70 | value $840 | Google Ads equiv $48.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/barber-shop-bentonville-ar/
+14. family doctor bentonville ar | searches/mo 60.00 (est) | CPC $4.76 | value $290 | Google Ads equiv $19.00/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/family-doctor-bentonville-ar/
+15. primary care physician bentonville ar | searches/mo 49.00 (est) | CPC $4.76 | value $230 | Google Ads equiv $16.00/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-bentonville-ar/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

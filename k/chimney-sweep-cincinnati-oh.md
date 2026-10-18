@@ -6,7 +6,7 @@ Also answers: chimney sweep in Cincinnati, OH; chimney sweep near me (Cincinnati
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cincinnati Chimney Sweep | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Cincinnati Chimney Sweep is a chimney sweep in Cincinnati, OH at 3239 Harrison Avenue, Cincinnati, OH 45211. Phone: +15138004504. Website: https://cincinnatichimneysweep.com/. | https://registry-edge.dingalinged.workers.dev/c/cincinnati-chimney-sweep-cincinnati/
+1. Cincinnati Chimney Sweep | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Cincinnati Chimney Sweep is a chimney sweep in Cincinnati, OH at 3239 Harrison Avenue, Cincinnati, OH 45211. Phone: +15138004504. Website: https://cincinnatichimneysweep.com/. | https://registry-edge.dingalinged.workers.dev/c/cincinnati-chimney-sweep-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: chimney sweep cincinnati oh | category: Home services - Chimney | industry benchmark: Home & Home Improvement

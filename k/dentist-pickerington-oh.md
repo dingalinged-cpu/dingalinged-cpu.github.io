@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Central Ohio Root Canals | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Central Ohio Root Canals is a dentist in Pickerington, OH. | https://registry-edge.dingalinged.workers.dev/c/central-ohio-root-canals-pickerington/
 2. Ohio Family Dentistry | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Ohio Family Dentistry is a dentist in Pickerington, OH. | https://registry-edge.dingalinged.workers.dev/c/ohio-family-dentistry-pickerington/
-3. Aspen Dental | Organic #3 | Pulse Score 45.5/100 (Building, #3 in city) | Aspen Dental is a dentist in Pickerington, OH. | https://registry-edge.dingalinged.workers.dev/c/aspen-dental-pickerington/
+3. Aspen Dental | Organic #3 | Pulse Score 45.4/100 (Building, #3 in city) | Aspen Dental is a dentist in Pickerington, OH. | https://registry-edge.dingalinged.workers.dev/c/aspen-dental-pickerington/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist pickerington oh | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

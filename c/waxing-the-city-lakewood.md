@@ -13,7 +13,7 @@ Waxing the City is a waxing salon in Lakewood, CO at 7660 W Virginia Ave #Unit C
 - Website: https://www.waxingthecity.com/locations/w12/us/co/lakewood/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00, Sa 09:00-18:00, Su 09:00-16:00
-- Pulse Score: 48/100 — Building — top 48% of waxing salons in Denver, CO, #2 of 2 waxing salons in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 48% of waxing salons in Denver, CO, #2 of 2 waxing salons in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

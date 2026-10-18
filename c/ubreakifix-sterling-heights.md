@@ -13,7 +13,7 @@ uBreakiFix is a phone repair shop in Sterling Heights, MI at 14876 Hall Road, St
 - Website: https://www.ubreakifix.com/locations/shelby
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.8/100 — Building — top 58% of phone repair shops in Detroit, MI, #2 of 2 phone repair shops in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 58% of phone repair shops in Detroit, MI, #2 of 2 phone repair shops in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

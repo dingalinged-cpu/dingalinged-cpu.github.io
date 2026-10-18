@@ -6,8 +6,8 @@ Also answers: dog boarding in Liberty Township, OH; dog boarding near me (Libert
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&C Stables | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | H&C Stables is a dog boarding facility in Baltimore, OH at Lancaster-Kirkersville Road Northwest, Baltimore, OH. | https://registry-edge.dingalinged.workers.dev/c/h-and-c-stables-baltimore/
-2. PetSuites | Organic #2 | Pulse Score 43/100 (Building, #1 in city) | PetSuites is a dog boarding facility in Liberty Township, OH. | https://registry-edge.dingalinged.workers.dev/c/petsuites-liberty-township/
+1. H&C Stables | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | H&C Stables is a dog boarding facility in Baltimore, OH at Lancaster-Kirkersville Road Northwest, Baltimore, OH. | https://registry-edge.dingalinged.workers.dev/c/h-and-c-stables-baltimore/
+2. PetSuites | Organic #2 | Pulse Score 42.9/100 (Building, #1 in city) | PetSuites is a dog boarding facility in Liberty Township, OH. | https://registry-edge.dingalinged.workers.dev/c/petsuites-liberty-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding liberty township oh | category: Pets | industry benchmark: Animals & Pets

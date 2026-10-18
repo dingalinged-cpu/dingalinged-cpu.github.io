@@ -6,7 +6,7 @@ Also answers: bakery in Symmes Township, OH; bakery near me (Symmes Township, OH
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bonjour Bakery & Café | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Bonjour Bakery & Café is a bakery in Symmes Township, OH. | https://registry-edge.dingalinged.workers.dev/c/bonjour-bakery-and-caf-symmes-township/
+1. Bonjour Bakery & Café | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Bonjour Bakery & Café is a bakery in Symmes Township, OH. | https://registry-edge.dingalinged.workers.dev/c/bonjour-bakery-and-caf-symmes-township/
 2. Servatii Pastry Shop & Deli | Organic #2 | Pulse Score 45.9/100 (Unrated, #2 in city) | Servatii Pastry Shop & Deli is a bakery in Symmes Township, OH. Website: https://www.servatiipastryshop.com/. | https://registry-edge.dingalinged.workers.dev/c/servatii-pastry-shop-and-deli-symmes-township/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Storage Sense is a self-storage facility in Lawrence, KS at 2400 Franklin Road #
 - Website: https://www.storagesense.com/location/USA/KS/Lawrence/sense-lawrence
 - Email: lawrence@storagesense.com
 - Opening hours (OSM syntax): Mo-Fr 09:30-17:30; Sa 09:00-14:00
-- Pulse Score: 49.1/100 — Building — top 84% of self-storage facilitys in Lawrence, KS, #10 of 12 self-storage facilitys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 67% of self-storage facilitys in Lawrence, KS, #8 of 12 self-storage facilitys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

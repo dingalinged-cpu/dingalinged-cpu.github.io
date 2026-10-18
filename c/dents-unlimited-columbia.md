@@ -13,7 +13,7 @@ Dents Unlimited is an auto repair shop in Columbia, MO at 1004 Big Bear Boulevar
 - Website: https://dentsunlimitedmidmo.com/
 - Email: marc@dentsunlimited.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 9% of auto repair shops in Columbia, MO, #2 of 24 auto repair shops in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 9% of auto repair shops in Columbia, MO, #2 of 24 auto repair shops in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: plumbing services in Mccandless, PA; plumbing services near me (Mc
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Pine Creek Plumbing | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Pine Creek Plumbing is a plumber in McCandless, PA at 545 Pine Creek Road, McCandless, PA 15090. Phone: +14126672800. Website: https://pinecreekplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/pine-creek-plumbing-mccandless/
-2. Greater Pittsburgh Plumbing | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Greater Pittsburgh Plumbing is a plumber in McCandless, PA at 10263 Perry Highway, McCandless, PA. | https://registry-edge.dingalinged.workers.dev/c/greater-pittsburgh-plumbing-mccandless/
+2. Greater Pittsburgh Plumbing | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Greater Pittsburgh Plumbing is a plumber in McCandless, PA at 10263 Perry Highway, McCandless, PA. | https://registry-edge.dingalinged.workers.dev/c/greater-pittsburgh-plumbing-mccandless/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services mccandless pa | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

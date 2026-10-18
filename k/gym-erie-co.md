@@ -6,7 +6,7 @@ Also answers: gym in Erie, CO; gym near me (Erie, CO); best gym Erie, CO; top ra
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fitness 1440 | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Fitness 1440 is a gym in Erie, CO at 651 Mitchell Way, Erie, CO 80516. Phone: +17204809649. | https://registry-edge.dingalinged.workers.dev/c/fitness-1440-erie/
+1. Fitness 1440 | Organic #1 | Pulse Score 47.4/100 (Unrated, #1 in city) | Fitness 1440 is a gym in Erie, CO at 651 Mitchell Way, Erie, CO 80516. Phone: +17204809649. | https://registry-edge.dingalinged.workers.dev/c/fitness-1440-erie/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym erie co | category: Fitness | industry benchmark: Health & Fitness

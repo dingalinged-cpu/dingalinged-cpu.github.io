@@ -6,8 +6,8 @@ Also answers: auto body shop in Aurora, CO; auto body shop near me (Aurora, CO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crash Champions | Organic #1 | Pulse Score 47.3/100 (Building, #72 in city) | Crash Champions is an auto repair shop in Aurora, CO. Phone: +13033647100. Website: https://crashchampions.com/locations/crash-champions-aurora. | https://registry-edge.dingalinged.workers.dev/c/crash-champions-aurora/
-2. MAACO | Organic #2 | Pulse Score 42.8/100 (Unrated, #86 in city) | MAACO is an auto repair shop in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/maaco-aurora/
+1. Crash Champions | Organic #1 | Pulse Score 47.3/100 (Building, #71 in city) | Crash Champions is an auto repair shop in Aurora, CO. Phone: +13033647100. Website: https://crashchampions.com/locations/crash-champions-aurora. | https://registry-edge.dingalinged.workers.dev/c/crash-champions-aurora/
+2. MAACO | Organic #2 | Pulse Score 42.8/100 (Unrated, #85 in city) | MAACO is an auto repair shop in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/maaco-aurora/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop aurora co | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

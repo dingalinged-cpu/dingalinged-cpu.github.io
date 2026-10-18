@@ -1,0 +1,170 @@
+{
+ "title": "Keyword market data: Lago Vista, TX",
+ "description": "Top Lago Vista, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Lago Vista, TX",
+ "geography": "Austin-Round Rock-San Marcos, TX metro",
+ "keywords": 4,
+ "lists": {
+  "by_volume": [
+   {
+    "keyword": "gym lago vista tx",
+    "slug": "gym-lago-vista-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-lago-vista-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 14000,
+    "cpc_basis_usd": 1.67,
+    "cpc_median_usd": 6.17,
+    "search_value_index_usd": 23000,
+    "equivalent_google_ads_cost_month_usd": 1700,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "barber shop lago vista tx",
+    "slug": "barber-shop-lago-vista-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-lago-vista-tx/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 5200,
+    "cpc_basis_usd": 0.7,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 3600,
+    "equivalent_google_ads_cost_month_usd": 210,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "haircut lago vista tx",
+    "slug": "haircut-lago-vista-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-lago-vista-tx/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 2800,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 13000,
+    "equivalent_google_ads_cost_month_usd": 740,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   }
+  ],
+  "by_cpc": [
+   {
+    "keyword": "haircut lago vista tx",
+    "slug": "haircut-lago-vista-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-lago-vista-tx/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 2800,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 13000,
+    "equivalent_google_ads_cost_month_usd": 740,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "thrift store lago vista tx",
+    "slug": "thrift-store-lago-vista-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-lago-vista-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 1100,
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "search_value_index_usd": 4600,
+    "equivalent_google_ads_cost_month_usd": 410,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "gym lago vista tx",
+    "slug": "gym-lago-vista-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-lago-vista-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 14000,
+    "cpc_basis_usd": 1.67,
+    "cpc_median_usd": 6.17,
+    "search_value_index_usd": 23000,
+    "equivalent_google_ads_cost_month_usd": 1700,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "barber shop lago vista tx",
+    "slug": "barber-shop-lago-vista-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-lago-vista-tx/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 5200,
+    "cpc_basis_usd": 0.7,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 3600,
+    "equivalent_google_ads_cost_month_usd": 210,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": [
+   {
+    "keyword": "gym lago vista tx",
+    "slug": "gym-lago-vista-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-lago-vista-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 14000,
+    "cpc_basis_usd": 1.67,
+    "cpc_median_usd": 6.17,
+    "search_value_index_usd": 23000,
+    "equivalent_google_ads_cost_month_usd": 1700,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "haircut lago vista tx",
+    "slug": "haircut-lago-vista-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-lago-vista-tx/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 2800,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 13000,
+    "equivalent_google_ads_cost_month_usd": 740,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "barber shop lago vista tx",
+    "slug": "barber-shop-lago-vista-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-lago-vista-tx/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 5200,
+    "cpc_basis_usd": 0.7,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 3600,
+    "equivalent_google_ads_cost_month_usd": 210,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   }
+  ]
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

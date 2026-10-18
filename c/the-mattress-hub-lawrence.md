@@ -13,7 +13,7 @@ The Mattress Hub is a mattress store in Lawrence, KS at 2525 Iowa Street, Lawren
 - Website: https://mattresshub.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 67% of mattress stores in Lawrence, KS, #2 of 3 mattress stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 67% of mattress stores in Lawrence, KS, #2 of 3 mattress stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

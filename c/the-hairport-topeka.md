@@ -13,7 +13,7 @@ The Hairport is a hair salon in Topeka, KS at 1005 Northwest Topeka Boulevard, T
 - Website: https://thehairport.webs.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 17% of hair salons in Topeka, KS, #3 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 17% of hair salons in Topeka, KS, #3 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

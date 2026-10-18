@@ -13,7 +13,7 @@ Petco is a pet store in Lakewood, CO at 475 South Wadsworth, Lakewood, CO 80226.
 - Website: https://stores.petco.com/co/lakewood/pet-supplies-lakewood-co-488.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 47.3/100 — Building — top 73% of pet stores in Denver, CO, #3 of 6 pet stores in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 73% of pet stores in Denver, CO, #3 of 6 pet stores in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

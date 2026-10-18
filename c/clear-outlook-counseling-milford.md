@@ -13,7 +13,7 @@ Clear Outlook Counseling is a therapy practice in Milford, OH at 970 Lila Avenue
 - Website: https://www.clearoutlookcounseling.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Building — top 65% of therapy practices in Cincinnati, OH, #1 of 1 therapy practices in Milford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 65% of therapy practices in Cincinnati, OH, #1 of 1 therapy practices in Milford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

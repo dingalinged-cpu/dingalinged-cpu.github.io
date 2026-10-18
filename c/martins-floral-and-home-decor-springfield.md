@@ -13,7 +13,7 @@ Martin's Floral & Home Decor is a florist in Springfield, MO at 3910 South Campb
 - Website: https://www.martinsfloralhomedecor.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00; Su 12:00-17:00
-- Pulse Score: 63.5/100 — Good — top 25% of florists in Springfield, MO, #1 of 4 florists in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 25% of florists in Springfield, MO, #1 of 4 florists in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@
 - Website: https://1ststepmovers.com/
 - Email: info@1ststepmovers.com
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 100% of moving companys in Pittsburgh, PA, #1 of 1 moving companys in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 100% of moving companys in Pittsburgh, PA, #1 of 1 moving companys in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

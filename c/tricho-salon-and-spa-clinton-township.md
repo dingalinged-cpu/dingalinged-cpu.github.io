@@ -13,7 +13,7 @@ Tricho Salon and Spa is a spa in Clinton Township, MI at 17420 Hall Road, Clinto
 - Website: https://www.trichosalonandspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-18:00; Tu-Fr 10:00-20:00; Sa 09:00-18:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 34% of spas in Detroit, MI, #1 of 2 spas in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of spas in Detroit, MI, #1 of 2 spas in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

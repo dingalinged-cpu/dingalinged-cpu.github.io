@@ -7,8 +7,8 @@ Also answers: liquor store in Joplin, MO; liquor store near me (Joplin, MO); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Jugz Liquor and Microbrew | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Jugz Liquor and Microbrew is a liquor store in Joplin, MO at 1605 East 20th Street, Joplin, MO 64804. Phone: +14175530750. | https://registry-edge.dingalinged.workers.dev/c/jugz-liquor-and-microbrew-joplin/
-2. Alps Liquor & Smoke | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Alps Liquor & Smoke is a liquor store in Joplin, MO at 2602 South Main Street, Joplin, MO 64804. Phone: +14176598884. | https://registry-edge.dingalinged.workers.dev/c/alps-liquor-and-smoke-joplin/
-3. Dalton's Discount LIquor | Organic #3 | Pulse Score 59.5/100 (Unrated, #3 in city) | Dalton's Discount LIquor is a liquor store in Joplin, MO at 3348 Hearnes Blvd, Joplin, MO 64804. | https://registry-edge.dingalinged.workers.dev/c/daltons-discount-liquor-joplin/
+2. Alps Liquor & Smoke | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | Alps Liquor & Smoke is a liquor store in Joplin, MO at 2602 South Main Street, Joplin, MO 64804. Phone: +14176598884. | https://registry-edge.dingalinged.workers.dev/c/alps-liquor-and-smoke-joplin/
+3. Dalton's Discount LIquor | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | Dalton's Discount LIquor is a liquor store in Joplin, MO at 3348 Hearnes Blvd, Joplin, MO 64804. | https://registry-edge.dingalinged.workers.dev/c/daltons-discount-liquor-joplin/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store joplin mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

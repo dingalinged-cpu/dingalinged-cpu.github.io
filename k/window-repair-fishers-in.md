@@ -6,7 +6,7 @@ Also answers: window repair in Fishers, IN; window repair near me (Fishers, IN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Indiana Bevel Inc | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Indiana Bevel Inc is a window repair service in Fishers, IN. | https://registry-edge.dingalinged.workers.dev/c/indiana-bevel-inc-fishers/
+1. Indiana Bevel Inc | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Indiana Bevel Inc is a window repair service in Fishers, IN. | https://registry-edge.dingalinged.workers.dev/c/indiana-bevel-inc-fishers/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair fishers in | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

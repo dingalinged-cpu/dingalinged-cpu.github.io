@@ -13,7 +13,7 @@ Environmental Designs is a landscaping company in Castle Rock, CO at 3128 North 
 - Website: https://environmentaldesigns.com/
 - Email: info@environmentaldesigns.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 9% of landscaping companys in Denver, CO, #1 of 3 landscaping companys in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 9% of landscaping companys in Denver, CO, #1 of 3 landscaping companys in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

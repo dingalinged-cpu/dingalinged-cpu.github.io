@@ -13,7 +13,7 @@ Roosters is a barber shop in Mariemont, OH at 3912 Miami Road, Mariemont, OH 452
 - Website: https://www.roostersmgc.com/locations/nearme/haircut/oh/mariemont/3912-miami-rd/13190
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Cincinnati, OH, #1 of 1 barber shops in Mariemont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.9/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Cincinnati, OH, #1 of 1 barber shops in Mariemont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

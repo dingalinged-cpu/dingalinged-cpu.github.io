@@ -6,7 +6,7 @@ Also answers: tire shop in Bridgeville, PA; tire shop near me (Bridgeville, PA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BJ's Tire Center | Organic #1 | Pulse Score 47.9/100 (Building, #1 in city) | BJ's Tire Center is a tire shop in Bridgeville, PA at 4000 Victoria Street, Bridgeville, PA 15017. Website: https://tires.bjs.com/stores/view/4497/. | https://registry-edge.dingalinged.workers.dev/c/bjs-tire-center-bridgeville/
+1. BJ's Tire Center | Organic #1 | Pulse Score 47.8/100 (Building, #1 in city) | BJ's Tire Center is a tire shop in Bridgeville, PA at 4000 Victoria Street, Bridgeville, PA 15017. Website: https://tires.bjs.com/stores/view/4497/. | https://registry-edge.dingalinged.workers.dev/c/bjs-tire-center-bridgeville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop bridgeville pa | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

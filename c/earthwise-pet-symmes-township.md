@@ -13,7 +13,7 @@ EarthWise Pet is a dog groomer in Symmes Township, OH. Website: https://earthwis
 - Website: https://earthwisepet.com/cincinnati-harperspoint
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Cincinnati, OH, #1 of 1 dog groomers in Symmes Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Cincinnati, OH, #1 of 1 dog groomers in Symmes Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

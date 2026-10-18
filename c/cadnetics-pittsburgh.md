@@ -13,7 +13,7 @@ CADnetics is an IT support company in Pittsburgh, PA at 1205 East Carson Street,
 - Website: https://www.cadnetics.com/
 - Email: info@cadnetics.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 60% of IT support companys in Pittsburgh, PA, #2 of 3 IT support companys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 60% of IT support companys in Pittsburgh, PA, #2 of 3 IT support companys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

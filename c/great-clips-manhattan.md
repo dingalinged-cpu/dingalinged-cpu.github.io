@@ -13,7 +13,7 @@ Great Clips is a hair salon in Manhattan, KS at 840 Commons Place, Manhattan, KS
 - Website: https://www.greatclips.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00
-- Pulse Score: 49.2/100 — Building — top 85% of hair salons in Manhattan, KS, #11 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 85% of hair salons in Manhattan, KS, #11 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

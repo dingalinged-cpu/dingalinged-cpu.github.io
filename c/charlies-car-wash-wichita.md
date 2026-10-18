@@ -13,7 +13,7 @@ Charlie's Car Wash is a car wash in Wichita, KS at 10510 West 21st Street North,
 - Website: https://charlies.com/locations/wichita-west/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Unrated (not enough evidence yet) — top 85% of car washes in Wichita, KS, #8 of 9 car washes in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Unrated (not enough evidence yet) — top 85% of car washes in Wichita, KS, #8 of 9 car washes in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

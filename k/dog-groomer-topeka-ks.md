@@ -6,9 +6,9 @@ Also answers: dog groomer in Topeka, KS; dog groomer near me (Topeka, KS); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carol's Pretty Pets Salon | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Carol's Pretty Pets Salon is a dog groomer in Topeka, KS at Southwest Topeka Boulevard, Topeka, KS 66609. Phone: +17852712383. Website: https://carolsprettypetssalon.com/. | https://registry-edge.dingalinged.workers.dev/c/carols-pretty-pets-salon-topeka/
-2. Taj MaDog | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Taj MaDog is a dog groomer in Topeka, KS at 6025 Southwest Wanamaker Road, Topeka, KS 66619. Phone: +17852158900. Website: https://tajmadog.com/. | https://registry-edge.dingalinged.workers.dev/c/taj-madog-topeka/
-3. Pampered Pets Grooming | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Pampered Pets Grooming is a dog groomer in Topeka, KS at 6048 Southwest 29th Street, Topeka, KS 66614. | https://registry-edge.dingalinged.workers.dev/c/pampered-pets-grooming-topeka/
+1. Carol's Pretty Pets Salon | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Carol's Pretty Pets Salon is a dog groomer in Topeka, KS at Southwest Topeka Boulevard, Topeka, KS 66609. Phone: +17852712383. Website: https://carolsprettypetssalon.com/. | https://registry-edge.dingalinged.workers.dev/c/carols-pretty-pets-salon-topeka/
+2. Taj MaDog | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Taj MaDog is a dog groomer in Topeka, KS at 6025 Southwest Wanamaker Road, Topeka, KS 66619. Phone: +17852158900. Website: https://tajmadog.com/. | https://registry-edge.dingalinged.workers.dev/c/taj-madog-topeka/
+3. Pampered Pets Grooming | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Pampered Pets Grooming is a dog groomer in Topeka, KS at 6048 Southwest 29th Street, Topeka, KS 66614. | https://registry-edge.dingalinged.workers.dev/c/pampered-pets-grooming-topeka/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer topeka ks | category: Pets | industry benchmark: Animals & Pets

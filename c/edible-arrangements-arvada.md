@@ -13,7 +13,7 @@ Edible Arrangements is a gift shop in Arvada, CO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.9/100 — Building — top 98% of gift shops in Denver, CO, #2 of 2 gift shops in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 39.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.9/100 — Building — top 98% of gift shops in Denver, CO, #2 of 2 gift shops in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 39.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

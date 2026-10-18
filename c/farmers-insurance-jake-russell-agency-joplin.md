@@ -13,7 +13,7 @@ Farmers Insurance Jake Russell Agency is an insurance agent in Joplin, MO at 193
 - Website: https://agents.farmers.com/mo/joplin/jacob-russell
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 48.7/100 — Building — top 67% of insurance agents in Joplin, MO, #2 of 2 insurance agents in Joplin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 67% of insurance agents in Joplin, MO, #2 of 2 insurance agents in Joplin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

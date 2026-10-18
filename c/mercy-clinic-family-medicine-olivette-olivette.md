@@ -13,7 +13,7 @@ Mercy Clinic Family Medicine - Olivette is a family medicine practice in Olivett
 - Website: https://www.mercy.net/practice/mercy-clinic-family-medicine-olivette/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 100% of family medicine practices in St. Louis, MO, #1 of 1 family medicine practices in Olivette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 100% of family medicine practices in St. Louis, MO, #1 of 1 family medicine practices in Olivette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

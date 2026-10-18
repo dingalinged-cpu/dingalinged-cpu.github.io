@@ -13,7 +13,7 @@ Spare Garage Storage is a self-storage facility in Topeka, KS at 4431 Southeast 
 - Website: https://sparegaragestoragetopeka.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 60% of self-storage facilitys in Topeka, KS, #3 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 40% of self-storage facilitys in Topeka, KS, #2 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

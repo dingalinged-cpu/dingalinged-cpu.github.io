@@ -13,7 +13,7 @@ Great Clips is a hair salon in Highlands Ranch, CO at 9249 South Broadway #400, 
 - Website: https://salons.greatclips.com/us/co/highlands-ranch/9249-s-broadway
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 08:00-17:00; Su 10:00-17:00
-- Pulse Score: 49.1/100 — Building — top 74% of hair salons in Denver, CO, #4 of 7 hair salons in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 73% of hair salons in Denver, CO, #3 of 7 hair salons in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

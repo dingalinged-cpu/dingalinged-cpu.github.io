@@ -6,7 +6,7 @@ Also answers: hvac repair in Violet Township, OH; hvac repair near me (Violet To
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kessler Heating & Cooling | Organic #1 | Pulse Score 54.4/100 (Unrated, #2 in city) | Kessler Heating & Cooling is a HVAC contractor in Canal Winchester, OH at Basil Western Road, Canal Winchester, OH. | https://registry-edge.dingalinged.workers.dev/c/kessler-heating-and-cooling-canal-winchester/
+1. Kessler Heating & Cooling | Organic #1 | Pulse Score 54.3/100 (Unrated, #2 in city) | Kessler Heating & Cooling is a HVAC contractor in Canal Winchester, OH at Basil Western Road, Canal Winchester, OH. | https://registry-edge.dingalinged.workers.dev/c/kessler-heating-and-cooling-canal-winchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair violet township oh | category: Home services - HVAC | industry benchmark: Home & Home Improvement

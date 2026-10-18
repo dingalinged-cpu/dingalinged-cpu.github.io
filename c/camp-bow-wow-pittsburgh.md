@@ -13,7 +13,7 @@ Camp Bow Wow is a dog boarding facility in Pittsburgh, PA at 1325 Washington Bou
 - Website: https://www.campbowwow.com/pittsburgh-highland-park/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 67% of dog boarding facilitys in Pittsburgh, PA, #4 of 5 dog boarding facilitys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 67% of dog boarding facilitys in Pittsburgh, PA, #4 of 5 dog boarding facilitys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

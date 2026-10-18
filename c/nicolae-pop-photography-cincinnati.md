@@ -13,7 +13,7 @@ Nicolae Pop Photography is a photographer in Cincinnati, OH at 838 Reedy Street,
 - Website: https://www.npopphotography.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 43% of photographers in Cincinnati, OH, #3 of 3 photographers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 43% of photographers in Cincinnati, OH, #3 of 3 photographers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

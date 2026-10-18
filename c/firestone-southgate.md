@@ -13,7 +13,7 @@ Firestone is an auto repair shop in Southgate, MI at 14777 Eureka Road, Southgat
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:30-18:00, 09:00-17:00
-- Pulse Score: 47.1/100 — Building — top 87% of auto repair shops in Detroit, MI, #17 of 19 auto repair shops in Southgate (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 87% of auto repair shops in Detroit, MI, #17 of 19 auto repair shops in Southgate (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

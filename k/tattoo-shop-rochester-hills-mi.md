@@ -7,7 +7,7 @@ Also answers: tattoo shop in Rochester Hills, MI; tattoo shop near me (Rochester
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. American Pride Tattoos | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | American Pride Tattoos is a tattoo shop in Rochester Hills, MI at 1284 Walton Boulevard, Rochester Hills, MI 48307. Phone: +12486560095. Website: https://www.americanpridetattoos.com/. | https://registry-edge.dingalinged.workers.dev/c/american-pride-tattoos-rochester-hills/
-2. Vicious Ink | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Vicious Ink is a tattoo shop in Rochester Hills, MI at 1672 East Auburn Road, Rochester Hills, MI 48307. | https://registry-edge.dingalinged.workers.dev/c/vicious-ink-rochester-hills/
+2. Vicious Ink | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Vicious Ink is a tattoo shop in Rochester Hills, MI at 1672 East Auburn Road, Rochester Hills, MI 48307. | https://registry-edge.dingalinged.workers.dev/c/vicious-ink-rochester-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop rochester hills mi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

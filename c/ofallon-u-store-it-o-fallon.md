@@ -13,7 +13,7 @@ O'Fallon U Store It is a self-storage facility in O’Fallon, MO at 224 South Ma
 - Website: https://ofallonustoreit.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 25% of self-storage facilitys in O'Fallon, MO, #1 of 4 self-storage facilitys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of self-storage facilitys in O'Fallon, MO, #1 of 4 self-storage facilitys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

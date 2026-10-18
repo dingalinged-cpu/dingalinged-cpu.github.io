@@ -6,7 +6,7 @@ Also answers: marketing agency in Ross Township, PA; marketing agency near me (R
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vendilli | Organic #1 | Pulse Score 65.1/100 (Good, #1 in city) | Vendilli is a marketing agency in Pittsburgh, PA at 3440 Babcock Boulevard, Pittsburgh, PA 15237. Phone: +14125305027. Website: https://www.vendilli.com/. | https://registry-edge.dingalinged.workers.dev/c/vendilli-pittsburgh/
+1. Vendilli | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Vendilli is a marketing agency in Pittsburgh, PA at 3440 Babcock Boulevard, Pittsburgh, PA 15237. Phone: +14125305027. Website: https://www.vendilli.com/. | https://registry-edge.dingalinged.workers.dev/c/vendilli-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency ross township pa | category: Professional & financial services | industry benchmark: Finance & Insurance

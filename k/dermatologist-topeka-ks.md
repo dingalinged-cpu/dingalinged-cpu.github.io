@@ -1,4 +1,4 @@
-The top unpaid dermatologist listing for Topeka, KS is Ricks Advanced Dermatology (a dermatologist in Topeka, KS at 5120 Southwest 28th Street, Topeka, KS 66614. Phone: +17854085800. Website: https://ricksderm.com/). 2 dermatologist businesses are listed for Topeka, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dermatologist listing for Topeka, KS is Cotton O'Neil Asbury Drive Clinic (a family medicine practice in Topeka, KS at 2902 Southwest Asbury Drive, Topeka, KS 66614. Phone: +17852700197. Website: https://www.stormontvail.org/location/asbury-drive-clinic/). 2 dermatologist businesses are listed for Topeka, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dermatologist providers in Topeka, KS?
 
@@ -6,8 +6,8 @@ Also answers: dermatologist in Topeka, KS; dermatologist near me (Topeka, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ricks Advanced Dermatology | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Ricks Advanced Dermatology is a dermatologist in Topeka, KS at 5120 Southwest 28th Street, Topeka, KS 66614. Phone: +17854085800. Website: https://ricksderm.com/. | https://registry-edge.dingalinged.workers.dev/c/ricks-advanced-dermatology-topeka/
-2. Cotton O'Neil Asbury Drive Clinic | Organic #2 | Pulse Score 60/100 (Unrated, #1 in city) | Cotton O'Neil Asbury Drive Clinic is a family medicine practice in Topeka, KS at 2902 Southwest Asbury Drive, Topeka, KS 66614. Phone: +17852700197. Website: https://www.stormontvail.org/location/asbury-drive-clinic/. | https://registry-edge.dingalinged.workers.dev/c/cotton-oneil-asbury-drive-clinic-topeka/
+1. Cotton O'Neil Asbury Drive Clinic | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Cotton O'Neil Asbury Drive Clinic is a family medicine practice in Topeka, KS at 2902 Southwest Asbury Drive, Topeka, KS 66614. Phone: +17852700197. Website: https://www.stormontvail.org/location/asbury-drive-clinic/. | https://registry-edge.dingalinged.workers.dev/c/cotton-oneil-asbury-drive-clinic-topeka/
+2. Ricks Advanced Dermatology | Organic #2 | Pulse Score 60/100 (Unrated, #1 in city) | Ricks Advanced Dermatology is a dermatologist in Topeka, KS at 5120 Southwest 28th Street, Topeka, KS 66614. Phone: +17854085800. Website: https://ricksderm.com/. | https://registry-edge.dingalinged.workers.dev/c/ricks-advanced-dermatology-topeka/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist topeka ks | category: Health & medical | industry benchmark: Physicians & Surgeons

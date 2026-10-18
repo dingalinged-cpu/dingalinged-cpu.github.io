@@ -6,7 +6,7 @@ Also answers: spa in Lawrence, KS; spa near me (Lawrence, KS); best spa Lawrence
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sensora Spa | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Sensora Spa is a spa in Lawrence, KS at 930 Iowa Street, Lawrence, KS 66044. Phone: +17858560275. Website: https://www.sensoraspa.com/. | https://registry-edge.dingalinged.workers.dev/c/sensora-spa-lawrence/
+1. Sensora Spa | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Sensora Spa is a spa in Lawrence, KS at 930 Iowa Street, Lawrence, KS 66044. Phone: +17858560275. Website: https://www.sensoraspa.com/. | https://registry-edge.dingalinged.workers.dev/c/sensora-spa-lawrence/
 2. Beauty Brands | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Beauty Brands is a nail salon in Lawrence, KS at 3514 Clinton Parkway #J, Lawrence, KS 66047. Phone: +17857492510. Website: https://www.beautybrands.com/store-locator/lawrence.do. | https://registry-edge.dingalinged.workers.dev/c/beauty-brands-lawrence/
 
 ## Market data (for advertisers and agents)

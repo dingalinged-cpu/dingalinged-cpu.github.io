@@ -6,7 +6,7 @@ Also answers: flooring companies in New Kensington, PA; flooring companies near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Garage Force of Pittsburgh North | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Garage Force of Pittsburgh North is a flooring company in New Kensington, PA at 277 Finnin Road, New Kensington, PA 15068. Phone: +18783027799. Website: https://pittsburghnorth.garageforce.com/. | https://registry-edge.dingalinged.workers.dev/c/garage-force-of-pittsburgh-north-new-kensington/
+1. Garage Force of Pittsburgh North | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Garage Force of Pittsburgh North is a flooring company in New Kensington, PA at 277 Finnin Road, New Kensington, PA 15068. Phone: +18783027799. Website: https://pittsburghnorth.garageforce.com/. | https://registry-edge.dingalinged.workers.dev/c/garage-force-of-pittsburgh-north-new-kensington/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies new kensington pa | category: Home services - Flooring | industry benchmark: Home & Home Improvement

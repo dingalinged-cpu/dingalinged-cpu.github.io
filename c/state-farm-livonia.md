@@ -13,7 +13,7 @@ State Farm is an insurance agent in Livonia, MI at 15401 Farmington Road, Livoni
 - Website: https://www.statefarm.com/agent/us/mi/livonia/don-parrish-n5qkb53nrak
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 51% of insurance agents in Detroit, MI, #1 of 2 insurance agents in Livonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 51% of insurance agents in Detroit, MI, #1 of 2 insurance agents in Livonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

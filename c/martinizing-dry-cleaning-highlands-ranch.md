@@ -13,7 +13,7 @@ Martinizing Dry Cleaning is a dry cleaner in Highlands Ranch, CO at 9249 South B
 - Website: https://martinizing.com/highlands-ranch
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:30; Sa 08:00-17:00
-- Pulse Score: 49.5/100 — Building — top 78% of dry cleaners in Denver, CO, #3 of 4 dry cleaners in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 77% of dry cleaners in Denver, CO, #3 of 4 dry cleaners in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

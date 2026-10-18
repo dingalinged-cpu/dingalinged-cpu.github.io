@@ -13,7 +13,7 @@ Paul Mitchell The School Denver is a hair salon in Lakewood, CO at 405 South Tel
 - Website: https://paulmitchell.edu/denver
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:30-21:00; Fr 09:30-16:00
-- Pulse Score: 49.4/100 — Building — top 71% of hair salons in Denver, CO, #25 of 35 hair salons in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 70% of hair salons in Denver, CO, #24 of 35 hair salons in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

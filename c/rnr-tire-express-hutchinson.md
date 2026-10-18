@@ -13,7 +13,7 @@ RNR Tire Express is a tire shop in Hutchinson, KS at 1418 East 30th Avenue, Hutc
 - Website: https://rnrtires.com/location/kansas-hutchinson-ks/
 - Email: 3402gm@vailteam.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-17:00
-- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 88% of tire shops in Wichita, KS, #3 of 3 tire shops in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 88% of tire shops in Wichita, KS, #3 of 3 tire shops in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

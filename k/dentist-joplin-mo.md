@@ -6,7 +6,7 @@ Also answers: dentist in Joplin, MO; dentist near me (Joplin, MO); best dentist 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Joplin Periodontist & Implant Dentistry | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Joplin Periodontist & Implant Dentistry is a dentist in Joplin, MO at 420 South Pearl Avenue, Joplin, MO 64801. Phone: +14175530856. Website: https://joplinperio.com/. | https://registry-edge.dingalinged.workers.dev/c/joplin-periodontist-and-implant-dentistry-joplin/
+1. Joplin Periodontist & Implant Dentistry | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Joplin Periodontist & Implant Dentistry is a dentist in Joplin, MO at 420 South Pearl Avenue, Joplin, MO 64801. Phone: +14175530856. Website: https://joplinperio.com/. | https://registry-edge.dingalinged.workers.dev/c/joplin-periodontist-and-implant-dentistry-joplin/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist joplin mo | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

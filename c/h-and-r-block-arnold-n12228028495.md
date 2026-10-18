@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Arnold, MO at 655 Jeffco Boulevard, Ar
 - Website: https://www.hrblock.com/local-tax-offices/missouri/arnold/655-jeffco-blvd/24126/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 32% of tax preparation services in St. Louis, MO, #1 of 2 tax preparation services in Arnold (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 32% of tax preparation services in St. Louis, MO, #1 of 2 tax preparation services in Arnold (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

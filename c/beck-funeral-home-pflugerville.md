@@ -1,0 +1,24 @@
+Beck Funeral Home is a funeral home in Pflugerville, TX at 4765 Priem Lane, Pflugerville, TX 78660.
+
+# Beck Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 4765 Priem Lane, Pflugerville, TX 78660
+- City: Pflugerville
+- State: TX
+- ZIP: 78660
+- Coordinates: 30.493496, -97.5850835
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 69% of funeral homes in Austin, TX, #1 of 1 funeral homes in Pflugerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/beck-funeral-home-pflugerville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/beck-funeral-home-pflugerville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/382386135 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

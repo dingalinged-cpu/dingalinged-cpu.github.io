@@ -7,7 +7,7 @@ Also answers: storage units in Hutchinson, KS; storage units near me (Hutchinson
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Salt City Storage | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Salt City Storage is a self-storage facility in Hutchinson, KS at 1705 East Blanchard Avenue, Hutchinson, KS. Phone: +16204128626. Website: https://www.saltcitystoragehutch.com/. | https://registry-edge.dingalinged.workers.dev/c/salt-city-storage-hutchinson/
-2. Mini Mall Storage | Organic #2 | Pulse Score 47.8/100 (Building, #2 in city) | Mini Mall Storage is a self-storage facility in Hutchinson, KS at 1703 East 4th Avenue, Hutchinson, KS. Phone: +16204729680. Website: https://minimallstorage.com/storage-units/kansas/hutchinson/east-4th-avenue. | https://registry-edge.dingalinged.workers.dev/c/mini-mall-storage-hutchinson/
+2. Mini Mall Storage | Organic #2 | Pulse Score 47.7/100 (Building, #2 in city) | Mini Mall Storage is a self-storage facility in Hutchinson, KS at 1703 East 4th Avenue, Hutchinson, KS. Phone: +16204729680. Website: https://minimallstorage.com/storage-units/kansas/hutchinson/east-4th-avenue. | https://registry-edge.dingalinged.workers.dev/c/mini-mall-storage-hutchinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units hutchinson ks | category: Home services - Moving | industry benchmark: Home & Home Improvement

@@ -8,9 +8,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. The ROCK Martial Arts and Fitness | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | The ROCK Martial Arts and Fitness is a martial arts school in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/the-rock-martial-arts-and-fitness-jefferson-county/
 2. People's Kenpo Karate | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | People's Kenpo Karate is a martial arts school in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/peoples-kenpo-karate-jefferson-county/
-3. Victory Martial Arts | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Victory Martial Arts is a martial arts school in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/victory-martial-arts-jefferson-county/
-4. Revolution Xtreme Martial Arts | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Revolution Xtreme Martial Arts is a martial arts school in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/revolution-xtreme-martial-arts-jefferson-county/
-5. Z Karate | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Z Karate is a martial arts school in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/z-karate-jefferson-county/
+3. Revolution Xtreme Martial Arts | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Revolution Xtreme Martial Arts is a martial arts school in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/revolution-xtreme-martial-arts-jefferson-county/
+4. Z Karate | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Z Karate is a martial arts school in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/z-karate-jefferson-county/
+5. Victory Martial Arts | Organic #5 | Pulse Score 42.7/100 (Unrated, #5 in city) | Victory Martial Arts is a martial arts school in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/victory-martial-arts-jefferson-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts jefferson county co | category: Fitness | industry benchmark: Health & Fitness

@@ -6,7 +6,7 @@ Also answers: hvac repair in Wildwood, MO; hvac repair near me (Wildwood, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Saylors Systems Heating and AC Repair | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Saylors Systems Heating and AC Repair is a HVAC contractor in Wildwood, MO at 2646 MO-109 ##227, Wildwood, MO 63040. Phone: +13149121029. Website: https://www.saylorssystems.com/furnace-repair-eureka-mo/. | https://registry-edge.dingalinged.workers.dev/c/saylors-systems-heating-and-ac-repair-wildwood/
+1. Saylors Systems Heating and AC Repair | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Saylors Systems Heating and AC Repair is a HVAC contractor in Wildwood, MO at 2646 MO-109 ##227, Wildwood, MO 63040. Phone: +13149121029. Website: https://www.saylorssystems.com/furnace-repair-eureka-mo/. | https://registry-edge.dingalinged.workers.dev/c/saylors-systems-heating-and-ac-repair-wildwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair wildwood mo | category: Home services - HVAC | industry benchmark: Home & Home Improvement

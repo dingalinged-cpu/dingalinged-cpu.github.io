@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Livonia, MI at 29701 West Seven Mile Road, 
 - Website: https://www.mattressfirm.com/en-us/stores/mi/livonia/008018/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 60% of mattress stores in Detroit, MI, #1 of 1 mattress stores in Livonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 60% of mattress stores in Detroit, MI, #1 of 1 mattress stores in Livonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

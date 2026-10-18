@@ -6,7 +6,7 @@ Also answers: insulation contractor in Lafayette, CO; insulation contractor near
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bestway Insulation LLC | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Bestway Insulation LLC is an insulation contractor in Lafayette, CO at 10855 Empire Road, Lafayette, CO 80026. Phone: +13034690808. Website: https://bestwayinsulation.com/. | https://registry-edge.dingalinged.workers.dev/c/bestway-insulation-llc-lafayette/
+1. Bestway Insulation LLC | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Bestway Insulation LLC is an insulation contractor in Lafayette, CO at 10855 Empire Road, Lafayette, CO 80026. Phone: +13034690808. Website: https://bestwayinsulation.com/. | https://registry-edge.dingalinged.workers.dev/c/bestway-insulation-llc-lafayette/
 
 ## Market data (for advertisers and agents)
 - Keyword: insulation contractor lafayette co | category: Home services - Insulation | industry benchmark: Home & Home Improvement

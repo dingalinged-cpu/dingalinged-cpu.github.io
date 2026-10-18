@@ -13,7 +13,7 @@ Dogtopia Daycare Boarding is a pet store in Birmingham, MI at 2300 Cole Street, 
 - Website: https://www.dogtopia.com/birmingham/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa-Su 10:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 4% of pet stores in Detroit, MI, #1 of 3 pet stores in Birmingham (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 4% of pet stores in Detroit, MI, #1 of 3 pet stores in Birmingham (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

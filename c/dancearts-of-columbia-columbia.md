@@ -13,7 +13,7 @@ Dancearts of Columbia is a dance studio in Columbia, MO at 110 North 10th Street
 - Website: https://www.danceartsofcolumbia.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 100% of dance studios in Columbia, MO, #2 of 2 dance studios in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 100% of dance studios in Columbia, MO, #2 of 2 dance studios in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

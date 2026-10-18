@@ -13,7 +13,7 @@ Trent Ecklar Real Estate Team is a real estate agency in Columbus, OH at 580 Sou
 - Website: https://www.zillow.com/profile/TrentEdwardEcklar
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-19:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 2% of real estate agencys in Columbus, OH, #1 of 33 real estate agencys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 2% of real estate agencys in Columbus, OH, #1 of 33 real estate agencys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

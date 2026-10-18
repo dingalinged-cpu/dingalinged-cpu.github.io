@@ -13,7 +13,7 @@ Super Rupair is an auto repair shop in Boulder County, CO. Website: https://www.
 - Website: https://www.superrupair.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30
-- Pulse Score: 46.3/100 — Building — top 81% of auto repair shops in Denver, CO, #7 of 7 auto repair shops in Boulder County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 80% of auto repair shops in Denver, CO, #7 of 7 auto repair shops in Boulder County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

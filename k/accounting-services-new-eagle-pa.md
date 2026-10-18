@@ -6,7 +6,7 @@ Also answers: accounting services in New Eagle, PA; accounting services near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Colleran & company | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Colleran & company is an accountant in New Eagle, PA at 201 Main Street, New Eagle, PA. Phone: +17242929272. | https://registry-edge.dingalinged.workers.dev/c/colleran-and-company-new-eagle/
+1. Colleran & company | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Colleran & company is an accountant in New Eagle, PA at 201 Main Street, New Eagle, PA. Phone: +17242929272. | https://registry-edge.dingalinged.workers.dev/c/colleran-and-company-new-eagle/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services new eagle pa | category: professional_accounting | industry benchmark: Business Services

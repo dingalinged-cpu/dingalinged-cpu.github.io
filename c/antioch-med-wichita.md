@@ -13,7 +13,7 @@ Antioch Med is a family medicine practice in Wichita, KS at 1126 South Clifton A
 - Website: https://www.antiochmed.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 34% of family medicine practices in Wichita, KS, #1 of 1 family medicine practices in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 34% of family medicine practices in Wichita, KS, #1 of 1 family medicine practices in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

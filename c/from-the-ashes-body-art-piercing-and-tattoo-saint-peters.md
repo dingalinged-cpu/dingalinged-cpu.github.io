@@ -13,7 +13,7 @@ From The Ashes Body Art Piercing & Tattoo is a tattoo shop in Saint Peters, MO a
 - Website: https://www.ftabodyart.com/
 - Email: info@ftabodyart.com
 - Opening hours (OSM syntax): Mo,Tu,Fr,Sa 12:30-19:00
-- Pulse Score: 64.2/100 — Good — top 50% of tattoo shops in St. Peters, MO, #1 of 2 tattoo shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 64.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 50% of tattoo shops in St. Peters, MO, #1 of 2 tattoo shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

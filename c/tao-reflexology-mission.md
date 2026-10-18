@@ -13,7 +13,7 @@ Tao Reflexology is a massage studio in Mission, KS at 5431 Johnson Drive, Missio
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 10:00-19:00
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 35% of massage studios in Kansas City, MO, #1 of 1 massage studios in Mission (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 35% of massage studios in Kansas City, MO, #1 of 1 massage studios in Mission (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

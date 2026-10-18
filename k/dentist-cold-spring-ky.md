@@ -7,7 +7,7 @@ Also answers: dentist in Cold Spring, KY; dentist near me (Cold Spring, KY); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. NKY Oral & Maxillofacial Surgery Associates | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | NKY Oral & Maxillofacial Surgery Associates is a dentist in Cold Spring, KY at 4465 Alexandria Pike, Cold Spring, KY 41076. Phone: +18594411111. Website: https://oralsurgerynky.com/contact/. | https://registry-edge.dingalinged.workers.dev/c/nky-oral-and-maxillofacial-surgery-associates-cold-spring/
-2. Wright Dental Center | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Wright Dental Center is a dentist in Cold Spring, KY at 3760 Alexandria Pike, Cold Spring, KY 41076. Website: https://www.wrightdentalcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/wright-dental-center-cold-spring/
+2. Wright Dental Center | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Wright Dental Center is a dentist in Cold Spring, KY at 3760 Alexandria Pike, Cold Spring, KY 41076. Website: https://www.wrightdentalcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/wright-dental-center-cold-spring/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist cold spring ky | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

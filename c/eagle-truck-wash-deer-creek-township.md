@@ -13,7 +13,7 @@ Eagle Truck Wash is a car wash in Deer Creek Township, OH. Phone: +17408523520. 
 - Website: https://eagletruckwash.com/index.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 51.4/100 — Unrated (not enough evidence yet) — top 54% of car washes in Columbus, OH, #1 of 1 car washes in Deer Creek Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.4, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.4/100 — Unrated (not enough evidence yet) — top 53% of car washes in Columbus, OH, #1 of 1 car washes in Deer Creek Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.4, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

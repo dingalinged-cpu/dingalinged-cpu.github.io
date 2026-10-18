@@ -13,7 +13,7 @@ Pataskala Dental Arts is a dentist in Pataskala, OH at 186 E Broad St, Pataskala
 - Website: https://www.pataskaladentalarts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu 08:00-17:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 11% of dentists in Columbus, OH, #2 of 2 dentists in Pataskala (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 11% of dentists in Columbus, OH, #2 of 2 dentists in Pataskala (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

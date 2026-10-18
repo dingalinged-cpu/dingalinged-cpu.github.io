@@ -13,7 +13,7 @@ James Avery Jewelry is a jewelry store in Des Peres, MO at 80 West County Center
 - Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=732
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 61% of jewelry stores in St. Louis, MO, #1 of 1 jewelry stores in Des Peres (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 61% of jewelry stores in St. Louis, MO, #1 of 1 jewelry stores in Des Peres (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ L Gross Cleaners is a dry cleaner in Farmington Hills, MI at 31140 Haggerty Road
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 51% of dry cleaners in Detroit, MI, #1 of 4 dry cleaners in Farmington Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 50% of dry cleaners in Detroit, MI, #1 of 4 dry cleaners in Farmington Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

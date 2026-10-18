@@ -13,7 +13,7 @@ Bird Fever is a pet store in Indianapolis, IN at 5921 East 86th Street, Indianap
 - Website: https://www.birdfever.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Good — top 8% of pet stores in Indianapolis, IN, #2 of 14 pet stores in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Good — top 8% of pet stores in Indianapolis, IN, #2 of 14 pet stores in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -27,7 +27,7 @@
 - Website: https://1609marketing.com/
 - Email: hello@1609Marketing.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 100% of marketing agencys in Wildwood, MO, #1 of 1 marketing agencys in Ballwin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 100% of marketing agencys in Wildwood, MO, #1 of 1 marketing agencys in Ballwin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -54,7 +54,7 @@ All-State Insurance is an insurance agent in Wildwood, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.4/100 — Building — top 100% of insurance agents in Wildwood, MO, #1 of 1 insurance agents in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.3/100 — Building — top 100% of insurance agents in Wildwood, MO, #1 of 1 insurance agents in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -81,7 +81,7 @@ Allen Transmission is an auto repair shop in Ellisville, MO at 15619 Manchester 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-17:30
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 29% of auto repair shops in Wildwood, MO, #2 of 3 auto repair shops in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 29% of auto repair shops in Wildwood, MO, #2 of 3 auto repair shops in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -135,7 +135,7 @@ Ark Pet Center is a veterinarian in Ellisville, MO at 1360 Clarkson Clayton Cent
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Wildwood, MO, #1 of 1 veterinarians in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Wildwood, MO, #1 of 1 veterinarians in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -162,7 +162,7 @@ Ballwin Sinclair Automotive is an auto repair shop in Wildwood, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 72% of auto repair shops in Wildwood, MO, #1 of 1 auto repair shops in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 72% of auto repair shops in Wildwood, MO, #1 of 1 auto repair shops in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -189,7 +189,7 @@ Bentleys Pet Stuff is a pet store in Wildwood, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 100% of pet stores in Wildwood, MO, #1 of 1 pet stores in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 100% of pet stores in Wildwood, MO, #1 of 1 pet stores in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -216,7 +216,7 @@ Century Orthodontics is a dentist in Wildwood, MO at 16518 Manchester Road, Wild
 - Website: https://www.centuryorthodontics.com/wildwood-location
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 67% of dentists in Wildwood, MO, #2 of 2 dentists in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 67% of dentists in Wildwood, MO, #2 of 2 dentists in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -243,7 +243,7 @@ Cherry Hills Eye Care is an eye care practice in Wildwood, MO at 16508 Mancheste
 - Website: https://www.cherryhillsfamilyeyecare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Th 09:00-17:00; Tu 09:00-18:00; Fr 09:00-16:00; Sa 09:00-12:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Wildwood, MO, #1 of 1 eye care practices in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Wildwood, MO, #1 of 1 eye care practices in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -270,7 +270,7 @@ Clarkson Jewelers is a jewelry store in Ellisville, MO at 1306 Clarkson Clayton 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in Wildwood, MO, #1 of 1 jewelry stores in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in Wildwood, MO, #1 of 1 jewelry stores in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -297,7 +297,7 @@ CrossFit is a CrossFit gym in Wildwood, MO at 16966 Manchester Road, Wildwood, M
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.6/100 — Building — top 100% of CrossFit gyms in Wildwood, MO, #1 of 1 CrossFit gyms in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 100% of CrossFit gyms in Wildwood, MO, #1 of 1 CrossFit gyms in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -324,7 +324,7 @@ Dogwood Social House is an event venue in Ellisville, MO at 15682 Manchester Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 100% of event venues in Wildwood, MO, #1 of 1 event venues in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 100% of event venues in Wildwood, MO, #1 of 1 event venues in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -378,7 +378,7 @@ Eureka Dental Group is a dentist in Eureka, MO at 201A East 5th Street, Eureka, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of dentists in Wildwood, MO, #1 of 1 dentists in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 100% of dentists in Wildwood, MO, #1 of 1 dentists in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -405,7 +405,7 @@ Eureka Self Service Car Wash is a car wash in Eureka, MO at 79 Hilltop Village C
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 100% of car washes in Wildwood, MO, #1 of 1 car washes in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 100% of car washes in Wildwood, MO, #1 of 1 car washes in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -432,7 +432,7 @@ Eureka Self Storage is a self-storage facility in Eureka, MO at 1699 West 5th St
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 100% of self-storage facilitys in Wildwood, MO, #1 of 1 self-storage facilitys in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 100% of self-storage facilitys in Wildwood, MO, #1 of 1 self-storage facilitys in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -459,7 +459,7 @@ Eureka Veterinary Clinic is a veterinarian in Eureka, MO at 1415 West 5th Street
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in Wildwood, MO, #1 of 1 veterinarians in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in Wildwood, MO, #1 of 1 veterinarians in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -486,7 +486,7 @@ Forefront Dermatology is a dermatologist in Wildwood, MO at 16516 Manchester Roa
 - Website: https://forefrontdermatology.com/location/wildwood-mo-63040/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-16:30; Tu,Th  08:00-16:00; We 08:00-11:00; Fr 08:00-15:00
-- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 100% of dermatologists in Wildwood, MO, #1 of 1 dermatologists in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Unrated (not enough evidence yet) — top 100% of dermatologists in Wildwood, MO, #1 of 1 dermatologists in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -540,7 +540,7 @@ Great Clips is a hair salon in Ellisville, MO at 349 Clarkson Road, Ellisville, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.6/100 — Unrated (not enough evidence yet) — top 75% of hair salons in Wildwood, MO, #2 of 2 hair salons in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Unrated (not enough evidence yet) — top 75% of hair salons in Wildwood, MO, #2 of 2 hair salons in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -567,7 +567,7 @@ Great Clips is a hair salon in Eureka, MO at 165 Eureka Towne Center Drive, Eure
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Building — top 50% of hair salons in Wildwood, MO, #1 of 1 hair salons in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 50% of hair salons in Wildwood, MO, #1 of 1 hair salons in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -594,7 +594,7 @@ Hair Saloon for men is a hair salon in Wildwood, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.9/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Wildwood, MO, #1 of 1 hair salons in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.9/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Wildwood, MO, #1 of 1 hair salons in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -621,7 +621,7 @@ Hollywood Studio Store is a gift shop in Eureka, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 23% of gift shops in Wildwood, MO, #1 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 23% of gift shops in Wildwood, MO, #1 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -648,7 +648,7 @@ Hope Montessori Academy is a daycare in Wildwood, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.1/100 — Unrated (not enough evidence yet) — top 100% of daycares in Wildwood, MO, #1 of 1 daycares in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 41.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.1/100 — Unrated (not enough evidence yet) — top 100% of daycares in Wildwood, MO, #1 of 1 daycares in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -675,7 +675,7 @@ LaClede's Mart is a gift shop in Eureka, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 45% of gift shops in Wildwood, MO, #3 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 45% of gift shops in Wildwood, MO, #3 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -702,7 +702,7 @@ Looney Tunes Main Street Market is a gift shop in Eureka, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 56% of gift shops in Wildwood, MO, #4 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 56% of gift shops in Wildwood, MO, #4 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -729,7 +729,7 @@ Marquette's Market is a gift shop in Eureka, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 67% of gift shops in Wildwood, MO, #5 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 67% of gift shops in Wildwood, MO, #5 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -783,7 +783,7 @@ Midwest Motors is an used car dealer in Eureka, MO at 1400 South Outer Road East
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 50% of used car dealers in Wildwood, MO, #1 of 2 used car dealers in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 50% of used car dealers in Wildwood, MO, #1 of 2 used car dealers in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -810,7 +810,7 @@ Milk and Honey is a gift shop in Wildwood, MO at 16765 Main Street, Wildwood, MO
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 12% of gift shops in Wildwood, MO, #1 of 1 gift shops in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 12% of gift shops in Wildwood, MO, #1 of 1 gift shops in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -864,7 +864,7 @@ Monsoon Marge's Gift Shop is a gift shop in Eureka, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 78% of gift shops in Wildwood, MO, #6 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 78% of gift shops in Wildwood, MO, #6 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -891,7 +891,7 @@ MT Nails is a nail salon in Wildwood, MO at 16588 Manchester Road, Wildwood, MO 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:30; Sa 09:30-18:30; Su 11:00-16:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 50% of nail salons in Wildwood, MO, #1 of 1 nail salons in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 50% of nail salons in Wildwood, MO, #1 of 1 nail salons in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -918,7 +918,7 @@ Nail Idol is a nail salon in Eureka, MO at 189 Eureka Towne Center Drive, Eureka
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 100% of nail salons in Wildwood, MO, #1 of 1 nail salons in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 100% of nail salons in Wildwood, MO, #1 of 1 nail salons in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -945,7 +945,7 @@ NTB is an auto repair shop in Ellisville, MO at 15655 Manchester Rd, Ellisville,
 - Website: https://www.ntb.com/store/mo/ballwin/15655-manchester-rd-63011/4278
 - Email: n/a
 - Opening hours (OSM syntax): 07:30-20:00
-- Pulse Score: 47.5/100 — Building — top 86% of auto repair shops in Wildwood, MO, #3 of 3 auto repair shops in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 86% of auto repair shops in Wildwood, MO, #3 of 3 auto repair shops in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -972,7 +972,7 @@ Puppingham Palace is a dog groomer in Wildwood, MO at 16540 Manchester Road, Wil
 - Website: https://www.puppinghampalace.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa-Su 09:00-17:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Wildwood, MO, #1 of 1 dog groomers in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Wildwood, MO, #1 of 1 dog groomers in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -999,7 +999,7 @@ Reception is a gift shop in Eureka, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 89% of gift shops in Wildwood, MO, #7 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 89% of gift shops in Wildwood, MO, #7 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1026,7 +1026,7 @@ Red Door Liquor and Cigars is a liquor store in Eureka, MO at 115 South Central 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 50% of liquor stores in Wildwood, MO, #1 of 1 liquor stores in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 50% of liquor stores in Wildwood, MO, #1 of 1 liquor stores in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1053,7 +1053,7 @@ Rockwood Early Childhood Education is a preschool in Clarkson Valley, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of preschools in Wildwood, MO, #1 of 1 preschools in Clarkson Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of preschools in Wildwood, MO, #1 of 1 preschools in Clarkson Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1080,7 +1080,7 @@ Salon Joli and Spa is a hair salon in Ellisville, MO at 333 Ozark Trail Drive #2
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 25% of hair salons in Wildwood, MO, #1 of 2 hair salons in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 25% of hair salons in Wildwood, MO, #1 of 2 hair salons in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1107,7 +1107,7 @@ Sarah's Cake Shop is a bakery in Eureka, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Wildwood, MO, #1 of 1 bakerys in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Wildwood, MO, #1 of 1 bakerys in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1161,7 +1161,7 @@ Saylors Systems Heating and AC Repair is a HVAC contractor in Wildwood, MO at 26
 - Website: https://www.saylorssystems.com/furnace-repair-eureka-mo/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 00:00-24:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 50% of HVAC contractors in Wildwood, MO, #1 of 1 HVAC contractors in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 50% of HVAC contractors in Wildwood, MO, #1 of 1 HVAC contractors in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1188,7 +1188,7 @@ Saylors Systems Heating and Air is a HVAC contractor in Eureka, MO at 1631 West 
 - Website: https://www.saylorssystems.com/eureka-air-conditioning-services/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Wildwood, MO, #1 of 1 HVAC contractors in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Wildwood, MO, #1 of 1 HVAC contractors in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1215,7 +1215,7 @@ Selbert's Auto Body is an auto repair shop in Eureka, MO at 410 West 4th Street,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 58% of auto repair shops in Wildwood, MO, #2 of 3 auto repair shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 58% of auto repair shops in Wildwood, MO, #2 of 3 auto repair shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1242,7 +1242,7 @@ Superheroes vs. Villians is a gift shop in Eureka, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 100% of gift shops in Wildwood, MO, #8 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 100% of gift shops in Wildwood, MO, #8 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1269,7 +1269,7 @@ The Crème School of Ellisville, MO is a daycare in Ellisville, MO at 15677 Manc
 - Website: https://cremedelacreme.com/locations/ellisville-mo/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 50% of daycares in Wildwood, MO, #1 of 1 daycares in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 50% of daycares in Wildwood, MO, #1 of 1 daycares in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1296,7 +1296,7 @@ The UPS Store is a printing service in Wildwood, MO at 2464 Taylor Road, Wildwoo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.2/100 — Building — top 100% of printing services in Wildwood, MO, #1 of 1 printing services in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 100% of printing services in Wildwood, MO, #1 of 1 printing services in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1323,7 +1323,7 @@ Thrillseekers is a gift shop in Eureka, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 34% of gift shops in Wildwood, MO, #2 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 34% of gift shops in Wildwood, MO, #2 of 8 gift shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1350,7 +1350,7 @@ Travers Autoplex is an used car dealer in Eureka, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 100% of used car dealers in Wildwood, MO, #2 of 2 used car dealers in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 40.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 100% of used car dealers in Wildwood, MO, #2 of 2 used car dealers in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1377,7 +1377,7 @@ Travers RV Service and Body is an auto repair shop in Eureka, MO at 18449 Histor
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 43% of auto repair shops in Wildwood, MO, #1 of 3 auto repair shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 43% of auto repair shops in Wildwood, MO, #1 of 3 auto repair shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1404,7 +1404,7 @@ Valvoline is an auto repair shop in Eureka, MO at 555 West 5th Street, Eureka, M
 - Website: https://store.vioc.com/mo/eureka/oil-change-050060.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Building — top 100% of auto repair shops in Wildwood, MO, #3 of 3 auto repair shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 100% of auto repair shops in Wildwood, MO, #3 of 3 auto repair shops in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1431,7 +1431,7 @@ Wildwood Family Dentistry is a dentist in Wildwood, MO at 16514 Manchester Road,
 - Website: https://www.wildwoodfamilydentistrystl.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-17:00; Th 08:00-16:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 34% of dentists in Wildwood, MO, #1 of 2 dentists in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 34% of dentists in Wildwood, MO, #1 of 2 dentists in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

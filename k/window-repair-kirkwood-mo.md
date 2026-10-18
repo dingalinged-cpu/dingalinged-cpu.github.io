@@ -6,7 +6,7 @@ Also answers: window repair in Kirkwood, MO; window repair near me (Kirkwood, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kirkwood Glass | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Kirkwood Glass is a window repair service in Kirkwood, MO at 300 South Kirkwood Road, Kirkwood, MO 63122. Phone: +13149660272. Website: https://kirkwoodglass.com/. | https://registry-edge.dingalinged.workers.dev/c/kirkwood-glass-kirkwood/
+1. Kirkwood Glass | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Kirkwood Glass is a window repair service in Kirkwood, MO at 300 South Kirkwood Road, Kirkwood, MO 63122. Phone: +13149660272. Website: https://kirkwoodglass.com/. | https://registry-edge.dingalinged.workers.dev/c/kirkwood-glass-kirkwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair kirkwood mo | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

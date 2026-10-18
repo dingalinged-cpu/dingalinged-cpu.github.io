@@ -13,7 +13,7 @@ The UPS Store is a printing service in Fishers, IN. Phone: +13175949600. Website
 - Website: https://fishers-in-1870.theupsstorelocal.com/
 - Email: store1870@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 10:00-16:00
-- Pulse Score: 49/100 — Building — top 42% of printing services in Indianapolis, IN, #2 of 3 printing services in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 42% of printing services in Indianapolis, IN, #2 of 3 printing services in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

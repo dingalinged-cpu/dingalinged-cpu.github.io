@@ -13,7 +13,7 @@ Woof's Play and Stay is a dog boarding facility in Topeka, KS at 2100 Southwest 
 - Website: n/a
 - Email: topeka@woofsplaystay.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 09:00-18:00
-- Pulse Score: 47.7/100 — Unrated (not enough evidence yet) — top 100% of dog boarding facilitys in Topeka, KS, #1 of 1 dog boarding facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 100% of dog boarding facilitys in Topeka, KS, #1 of 1 dog boarding facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

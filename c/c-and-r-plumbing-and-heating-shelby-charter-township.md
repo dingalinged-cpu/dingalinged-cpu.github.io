@@ -13,7 +13,7 @@ C & R Plumbing & Heating is a plumber in Shelby Charter Township, MI at 51195 Fi
 - Website: https://cr-plumbing.com/
 - Email: ctittle@cr-plumbing.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 21% of plumbers in Detroit, MI, #1 of 1 plumbers in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 21% of plumbers in Detroit, MI, #1 of 1 plumbers in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

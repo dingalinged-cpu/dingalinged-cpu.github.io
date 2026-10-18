@@ -6,9 +6,9 @@ Also answers: primary care physician in Aurora, CO; primary care physician near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AFC Walk-In Clinic and Urgent Care | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | AFC Walk-In Clinic and Urgent Care is a family medicine practice in Aurora, CO at 7460 South Gartrell Road, Aurora, CO 80016. | https://registry-edge.dingalinged.workers.dev/c/afc-walk-in-clinic-and-urgent-care-aurora/
+1. AFC Walk-In Clinic and Urgent Care | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | AFC Walk-In Clinic and Urgent Care is a family medicine practice in Aurora, CO at 7460 South Gartrell Road, Aurora, CO 80016. | https://registry-edge.dingalinged.workers.dev/c/afc-walk-in-clinic-and-urgent-care-aurora/
 2. Aurora Community Health | Organic #2 | Pulse Score 53.6/100 (Unrated, #2 in city) | Aurora Community Health is a family medicine practice in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/aurora-community-health-aurora/
-3. Intermountain Health Buckley Clinic | Organic #3 | Pulse Score 48.9/100 (Unrated, #3 in city) | Intermountain Health Buckley Clinic is a family medicine practice in Aurora, CO at 550 South Airport Boulevard, Aurora, CO 80017. Phone: +13038125350. Website: https://intermountainhealthcare.org/locations/intermountain-health-buckley-clinic. | https://registry-edge.dingalinged.workers.dev/c/intermountain-health-buckley-clinic-aurora/
+3. Intermountain Health Buckley Clinic | Organic #3 | Pulse Score 49/100 (Unrated, #3 in city) | Intermountain Health Buckley Clinic is a family medicine practice in Aurora, CO at 550 South Airport Boulevard, Aurora, CO 80017. Phone: +13038125350. Website: https://intermountainhealthcare.org/locations/intermountain-health-buckley-clinic. | https://registry-edge.dingalinged.workers.dev/c/intermountain-health-buckley-clinic-aurora/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician aurora co | category: Health & medical | industry benchmark: Physicians & Surgeons

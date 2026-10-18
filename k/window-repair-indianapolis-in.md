@@ -6,10 +6,10 @@ Also answers: window repair in Indianapolis, IN; window repair near me (Indianap
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Groovy Greenhouse Studio | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Groovy Greenhouse Studio is a window repair service in Indianapolis, IN at 2131 East Michigan Street #A, Indianapolis, IN 46201. | https://registry-edge.dingalinged.workers.dev/c/groovy-greenhouse-studio-indianapolis/
-2. A-1 Glass Block Inc | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | A-1 Glass Block Inc is a window repair service in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/a-1-glass-block-inc-indianapolis/
-3. Gardner Glass Products / Dreamwalls | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Gardner Glass Products / Dreamwalls is a window repair service in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/gardner-glass-products-dreamwalls-indianapolis/
-4. On Glass Experts | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | On Glass Experts is a window repair service in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/on-glass-experts-indianapolis/
+1. Groovy Greenhouse Studio | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Groovy Greenhouse Studio is a window repair service in Indianapolis, IN at 2131 East Michigan Street #A, Indianapolis, IN 46201. | https://registry-edge.dingalinged.workers.dev/c/groovy-greenhouse-studio-indianapolis/
+2. A-1 Glass Block Inc | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | A-1 Glass Block Inc is a window repair service in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/a-1-glass-block-inc-indianapolis/
+3. Gardner Glass Products / Dreamwalls | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Gardner Glass Products / Dreamwalls is a window repair service in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/gardner-glass-products-dreamwalls-indianapolis/
+4. On Glass Experts | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | On Glass Experts is a window repair service in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/on-glass-experts-indianapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair indianapolis in | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Henne Jewelers is a jewelry store in Pittsburgh, PA at 5501 Walnut Street, Pitts
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th-Sa 10:00-17:00; We 10:00-19:00; Su,Mo off
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 19% of jewelry stores in Pittsburgh, PA, #9 of 21 jewelry stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 19% of jewelry stores in Pittsburgh, PA, #9 of 21 jewelry stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

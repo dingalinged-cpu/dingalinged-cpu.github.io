@@ -13,7 +13,7 @@ Aspen Dental is a dentist in Topeka, KS at 1730 Southwest Wanamaker Road, Topeka
 - Website: https://www.aspendental.com/dentist/ks/topeka/1730-sw-wanamaker-road
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 07:30-17:30; Th 09:00-19:00; Fr 08:00-13:00
-- Pulse Score: 48.1/100 — Building — top 100% of dentists in Topeka, KS, #7 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 100% of dentists in Topeka, KS, #7 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

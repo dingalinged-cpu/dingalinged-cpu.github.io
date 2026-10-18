@@ -13,7 +13,7 @@ Cellairis is a phone repair shop in Saint Peters, MO at 1600 Mid Rivers Mall #90
 - Website: https://www.cellairis.com/stores/st.-peters-mid-rivers-mall-iphone-repair
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 47.9/100 — Building — top 50% of phone repair shops in St. Peters, MO, #1 of 2 phone repair shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 50% of phone repair shops in St. Peters, MO, #1 of 2 phone repair shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

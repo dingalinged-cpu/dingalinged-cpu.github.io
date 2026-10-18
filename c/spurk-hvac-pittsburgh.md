@@ -13,7 +13,7 @@ Spurk HVAC is a HVAC contractor in Pittsburgh, PA at 5001 Baum Blvd ##795, Pitts
 - Website: https://spurkhvac.com/area/pittsburgh-pa-furnace-repair
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of HVAC contractors in Pittsburgh, PA, #2 of 5 HVAC contractors in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of HVAC contractors in Pittsburgh, PA, #2 of 5 HVAC contractors in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

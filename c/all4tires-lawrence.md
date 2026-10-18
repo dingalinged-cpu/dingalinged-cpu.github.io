@@ -13,7 +13,7 @@ All4Tires is a tire shop in Lawrence, KS at 1415 West 6th Street, Lawrence, KS 6
 - Website: https://all4tires-tire-shop.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:30; Fr 08:00-18:00; Sa 11:30-16:30
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of tire shops in Lawrence, KS, #1 of 4 tire shops in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of tire shops in Lawrence, KS, #1 of 4 tire shops in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

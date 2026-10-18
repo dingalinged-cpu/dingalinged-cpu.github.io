@@ -1,0 +1,3008 @@
+# Company Registry: company records, metro laredo-tx
+
+> 111 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+1802 Social House is an event venue in Laredo, TX at 1802 Victoria Street, Laredo, TX 78040.
+
+# 1802 Social House
+
+- Category: event venues
+- Services: event venues
+- Address: 1802 Victoria Street, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5074166, -99.5134992
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 75% of event venues in Laredo, TX, #3 of 4 event venues in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/1802-social-house-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/1802-social-house-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1204927801 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Able City is an architect in Laredo, TX at 901 Victoria Street #a, Laredo, TX 78040. Phone: +19567257418. Website: https://www.able.city/.
+
+# Able City
+
+- Category: architect
+- Services: architect
+- Address: 901 Victoria Street #a, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.507706, -99.504792
+- Phone: +19567257418
+- Website: https://www.able.city/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 34% of architects in Laredo, TX, #1 of 3 architects in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/able-city-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/able-city-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12068392199 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ahh Smile Family Dentistry is a dentist in Laredo, TX at 707 East Calton Road ##202, Laredo, TX 78041. Phone: +19567235533. Website: https://www.ahhsmile.com/.
+
+# Ahh Smile Family Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 707 East Calton Road ##202, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5414519, -99.488344
+- Phone: +19567235533
+- Website: https://www.ahhsmile.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 08:30-17:30
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 20% of dentists in Laredo, TX, #1 of 5 dentists in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ahh-smile-family-dentistry-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ahh-smile-family-dentistry-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9197123430 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Allstate is an insurance agent in Laredo, TX.
+
+# Allstate
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.516412, -99.4524642
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.9/100 — Building — top 34% of insurance agents in Laredo, TX, #1 of 3 insurance agents in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/allstate-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/allstate-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12995242363 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Alpha Graphics is a graphic designer in Laredo, TX at 901 Victoria Street #c, Laredo, TX 78040.
+
+# Alpha Graphics
+
+- Category: graphic designer
+- Services: graphic designer
+- Address: 901 Victoria Street #c, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5077125, -99.5051214
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.4/100 — Unrated (not enough evidence yet) — top 100% of graphic designers in Laredo, TX, #1 of 1 graphic designers in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/alpha-graphics-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/alpha-graphics-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12068392200 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Anytime Fitness is a gym in Laredo, TX at 7718 McPherson Road, Laredo, TX 78045. Phone: +19566083141. Website: https://www.anytimefitness.com/gyms/4215/laredo-tx-78045/.
+
+# Anytime Fitness
+
+- Category: gym
+- Services: gym
+- Address: 7718 McPherson Road, Laredo, TX 78045
+- City: Laredo
+- State: TX
+- ZIP: 78045
+- Coordinates: 27.5748929, -99.4740755
+- Phone: +19566083141
+- Website: https://www.anytimefitness.com/gyms/4215/laredo-tx-78045/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 49.5/100 — Building — top 82% of gyms in Laredo, TX, #9 of 11 gyms in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/anytime-fitness-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8567567140 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ashley HomeStore is a furniture store in Laredo, TX at 5203 Bob Bullock Loop #510, Laredo, TX 78041. Phone: +19567122406. Website: https://stores.ashleyfurniture.com/store/us/texas/laredo/9000473730/.
+
+# Ashley HomeStore
+
+- Category: furniture store
+- Services: furniture store
+- Address: 5203 Bob Bullock Loop #510, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5437186, -99.4499941
+- Phone: +19567122406
+- Website: https://stores.ashleyfurniture.com/store/us/texas/laredo/9000473730/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48/100 — Building — top 84% of furniture stores in Laredo, TX, #5 of 6 furniture stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ashley-homestore-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ashley-homestore-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8629791006 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ashley HomeStore is a furniture store in Laredo, TX at 5001 San Dario Avenue #B, Laredo, TX 78041. Phone: +19567122401. Website: https://stores.ashleyfurniture.com/store/us/texas/laredo/9000451588/.
+
+# Ashley HomeStore
+
+- Category: furniture store
+- Services: furniture store
+- Address: 5001 San Dario Avenue #B, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5460435, -99.5017486
+- Phone: +19567122401
+- Website: https://stores.ashleyfurniture.com/store/us/texas/laredo/9000451588/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48/100 — Building — top 100% of furniture stores in Laredo, TX, #6 of 6 furniture stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ashley-homestore-laredo-n8631166623/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ashley-homestore-laredo-n8631166623.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8631166623 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aurelio The Shoe Doctor is a shoe repair in Laredo, TX.
+
+# Aurelio The Shoe Doctor
+
+- Category: shoe repair
+- Services: shoe repair
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5069687, -99.4998945
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 50% of shoe repairs in Laredo, TX, #1 of 2 shoe repairs in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aurelio-the-shoe-doctor-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aurelio-the-shoe-doctor-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12013226495 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Better Body Project By Diana Granados is a gym in Laredo, TX at 1705 Jacaman Road, Laredo, TX 78041. Phone: +19567542596. Website: https://www.facebook.com/betterbodyprojectldo.
+
+# Better Body Project By Diana Granados
+
+- Category: gym
+- Services: gym
+- Address: 1705 Jacaman Road, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.559518, -99.4685076
+- Phone: +19567542596
+- Website: https://www.facebook.com/betterbodyprojectldo
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.9/100 — Good — top 19% of gyms in Laredo, TX, #2 of 11 gyms in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/better-body-project-by-diana-granados-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/better-body-project-by-diana-granados-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10613256805 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Big Jim's Discount Liquor is a liquor store in Laredo, TX.
+
+# Big Jim's Discount Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.4628724, -99.4779286
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 25% of liquor stores in Laredo, TX, #1 of 4 liquor stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/big-jims-discount-liquor-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/big-jims-discount-liquor-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12415996361 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Blue Beacon is a car wash in Laredo, TX. Website: https://bluebeacon.com/locations/listing/laredo-tx.
+
+# Blue Beacon
+
+- Category: car wash
+- Services: car wash
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.6884662, -99.4674632
+- Phone: n/a
+- Website: https://bluebeacon.com/locations/listing/laredo-tx
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.5/100 — Building — top 63% of car washes in Laredo, TX, #5 of 8 car washes in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/blue-beacon-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/blue-beacon-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1309082844 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Blue Beacon Truck Wash is a car wash in Laredo, TX at 12408 Mines Road, Laredo, TX. Phone: +19567234340. Website: https://bluebeacon.com/locations/listing/laredo-south-tx.
+
+# Blue Beacon Truck Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 12408 Mines Road, Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.6089045, -99.5210126
+- Phone: +19567234340
+- Website: https://bluebeacon.com/locations/listing/laredo-south-tx
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 49.9/100 — Building — top 50% of car washes in Laredo, TX, #4 of 8 car washes in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/blue-beacon-truck-wash-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/blue-beacon-truck-wash-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8109912265 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bruce Pottery is a furniture store in Laredo, TX.
+
+# Bruce Pottery
+
+- Category: furniture store
+- Services: furniture store
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5405414, -99.5101805
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 50% of furniture stores in Laredo, TX, #3 of 6 furniture stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bruce-pottery-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bruce-pottery-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1092012001 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Budget Self Storage - Stuff Hotel is a self-storage facility in Laredo, TX at 5906 San Bernardo Avenue, Laredo, TX. Phone: +19567226821.
+
+# Budget Self Storage - Stuff Hotel
+
+- Category: storage units
+- Services: storage units
+- Address: 5906 San Bernardo Avenue, Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5586554, -99.5052173
+- Phone: +19567226821
+- Website: n/a
+- Email: laredo@stuffhotel.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 25% of self-storage facilitys in Laredo, TX, #1 of 4 self-storage facilitys in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/budget-self-storage-stuff-hotel-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/budget-self-storage-stuff-hotel-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1228225567 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Cakeland is a bakery in Laredo, TX.
+
+# Cakeland
+
+- Category: bakery
+- Services: bakery
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5660391, -99.4735981
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 80% of bakerys in Laredo, TX, #4 of 5 bakerys in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cakeland-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cakeland-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8626728770 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Casa Corazón Nail Salon is a nail salon in Laredo, TX.
+
+# Casa Corazón Nail Salon
+
+- Category: nail salon
+- Services: nail salon
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.4798754, -99.4729306
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 50% of nail salons in Laredo, TX, #1 of 2 nail salons in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/casa-coraz-n-nail-salon-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/casa-coraz-n-nail-salon-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12431322511 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Casa Ortiz is an event venue in Laredo, TX at 915 Zaragosa Street, Laredo, TX 78040. Phone: +19563263200.
+
+# Casa Ortiz
+
+- Category: event venues
+- Services: event venues
+- Address: 915 Zaragosa Street, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5019675, -99.5051965
+- Phone: +19563263200
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 25% of event venues in Laredo, TX, #1 of 4 event venues in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/casa-ortiz-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/casa-ortiz-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1303347939 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Casablanca Ballroom is a dance studio in Laredo, TX at 5064 East Saunders Street, Laredo, TX 78041.
+
+# Casablanca Ballroom
+
+- Category: dance studio
+- Services: dance studio
+- Address: 5064 East Saunders Street, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5291103, -99.4425679
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 100% of dance studios in Laredo, TX, #1 of 1 dance studios in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/casablanca-ballroom-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/casablanca-ballroom-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1135629584 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Casanova Automotive Inc. is an auto repair shop in Laredo, TX.
+
+# Casanova Automotive Inc.
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5074086, -99.499429
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 20% of auto repair shops in Laredo, TX, #2 of 10 auto repair shops in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/casanova-automotive-inc-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/casanova-automotive-inc-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1296459420 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Circle K is a car wash in Laredo, TX.
+
+# Circle K
+
+- Category: car wash
+- Services: car wash
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.4323201, -99.4785267
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.1/100 — Building — top 100% of car washes in Laredo, TX, #8 of 8 car washes in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/circle-k-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/circle-k-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1323263702 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+City of Laredo Building and Planning Departments is an architect in Laredo, TX at 1412 Houston Street, Laredo, TX 78040.
+
+# City of Laredo Building and Planning Departments
+
+- Category: architect
+- Services: architect
+- Address: 1412 Houston Street, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5069338, -99.5100612
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 67% of architects in Laredo, TX, #2 of 3 architects in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/city-of-laredo-building-and-planning-departments-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/city-of-laredo-building-and-planning-departments-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/739840815 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Dale Shine Xpress Car Wash is a car wash in Laredo, TX.
+
+# Dale Shine Xpress Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5062092, -99.4765466
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 25% of car washes in Laredo, TX, #2 of 8 car washes in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dale-shine-xpress-car-wash-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dale-shine-xpress-car-wash-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/944276402 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Davis & Davis, Attorneys at Law - Laredo Medical Malpractice Lawyers is a lawyer in Laredo, TX at 616 Leal St, Suite 3, Laredo, TX 78041. Phone: +19563001351. Website: https://www.davis-davislaw.com/medical-malpractice-lawyer-laredo/.
+
+# Davis & Davis, Attorneys at Law - Laredo Medical Malpractice Lawyers
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 616 Leal St, Suite 3, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5383574, -99.4731709
+- Phone: +19563001351
+- Website: https://www.davis-davislaw.com/medical-malpractice-lawyer-laredo/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-17:00
+- Pulse Score: 52.4/100 — Unrated (not enough evidence yet) — top 91% of lawyers in Laredo, TX, #10 of 11 lawyers in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/davis-and-davis-attorneys-at-law-laredo-medical-malpractice-lawyers-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/davis-and-davis-attorneys-at-law-laredo-medical-malpractice-lawyers-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12139728030 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Laredo, TX at 2515 Bob Bullock Loop, Laredo, TX 78045. Phone: +19562296840.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 2515 Bob Bullock Loop, Laredo, TX 78045
+- City: Laredo
+- State: TX
+- ZIP: 78045
+- Coordinates: 27.6117641, -99.4679597
+- Phone: +19562296840
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.6/100 — Building — top 34% of tire shops in Laredo, TX, #1 of 3 tire shops in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667604254 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Laredo, TX at 7301 McPherson Road, Laredo, TX 78041. Phone: +19567960117.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 7301 McPherson Road, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5710278, -99.4720502
+- Phone: +19567960117
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.6/100 — Building — top 67% of tire shops in Laredo, TX, #2 of 3 tire shops in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-laredo-w667604380/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-laredo-w667604380.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667604380 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+E-Z Lock is a locksmith in Laredo, TX at 1511 Marcella Avenue, Laredo, TX 78040.
+
+# E-Z Lock
+
+- Category: locksmith
+- Services: locksmith
+- Address: 1511 Marcella Avenue, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5097727, -99.4937573
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 100% of locksmiths in Laredo, TX, #1 of 1 locksmiths in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/e-z-lock-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/e-z-lock-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12887664848 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+East Country Self Storage is a self-storage facility in Laredo, TX at 7819 East Country Drive, Laredo, TX 78041.
+
+# East Country Self Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 7819 East Country Drive, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5849645, -99.4473577
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 50% of self-storage facilitys in Laredo, TX, #2 of 4 self-storage facilitys in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/east-country-self-storage-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/east-country-self-storage-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1156829483 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+El Pasillo de San Agustin is an event venue in Laredo, TX at 912 Grant Street, Laredo, TX 78040.
+
+# El Pasillo de San Agustin
+
+- Category: event venues
+- Services: event venues
+- Address: 912 Grant Street, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5029589, -99.5051561
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 50% of event venues in Laredo, TX, #2 of 4 event venues in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/el-pasillo-de-san-agustin-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/el-pasillo-de-san-agustin-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/739840743 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ernest "Big Ern" Garcia Attorney at Law is a lawyer in Laredo, TX at 1520 Davis Avenue, Laredo, TX 78040. Phone: +19564627646.
+
+# Ernest "Big Ern" Garcia Attorney at Law
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 1520 Davis Avenue, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5082624, -99.511124
+- Phone: +19564627646
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 28% of lawyers in Laredo, TX, #3 of 11 lawyers in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ernest-big-ern-garcia-attorney-at-law-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ernest-big-ern-garcia-attorney-at-law-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12993293616 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+FedEx Freight is a printing service in Laredo, TX at 13145 South Unitec Drive, Laredo, TX 78045.
+
+# FedEx Freight
+
+- Category: printing services
+- Services: printing services
+- Address: 13145 South Unitec Drive, Laredo, TX 78045
+- City: Laredo
+- State: TX
+- ZIP: 78045
+- Coordinates: 27.6741393, -99.4653896
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.1/100 — Building — top 100% of printing services in Laredo, TX, #1 of 1 printing services in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fedex-freight-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fedex-freight-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/525614739 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Firestone is an auto repair shop in Laredo, TX at 1020 San Bernardo Avenue, Laredo, TX 78040.
+
+# Firestone
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 1020 San Bernardo Avenue, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.508527, -99.5049499
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.8/100 — Building — top 40% of auto repair shops in Laredo, TX, #4 of 10 auto repair shops in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/firestone-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/firestone-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/451956898 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Floral Art is a florist in Laredo, TX at 9114 McPherson Road #2515, Laredo, TX 78045. Phone: +19567252300. Website: https://www.floralartlaredo.com/.
+
+# Floral Art
+
+- Category: florist
+- Services: florist
+- Address: 9114 McPherson Road #2515, Laredo, TX 78045
+- City: Laredo
+- State: TX
+- ZIP: 78045
+- Coordinates: 27.5928456, -99.4807695
+- Phone: +19567252300
+- Website: https://www.floralartlaredo.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 50% of florists in Laredo, TX, #1 of 2 florists in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/floral-art-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/floral-art-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4574425342 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fred Loya Insurance is an insurance agent in Laredo, TX.
+
+# Fred Loya Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.458861, -99.478289
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.9/100 — Building — top 67% of insurance agents in Laredo, TX, #2 of 3 insurance agents in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fred-loya-insurance-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fred-loya-insurance-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12415996314 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Go Carwash is a car wash in Laredo, TX.
+
+# Go Carwash
+
+- Category: car wash
+- Services: car wash
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5666538, -99.5008207
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 13% of car washes in Laredo, TX, #1 of 8 car washes in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/go-carwash-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/go-carwash-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1183695559 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Gold's Gym is a gym in Laredo, TX.
+
+# Gold's Gym
+
+- Category: gym
+- Services: gym
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.603851, -99.4754415
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.4/100 — Building — top 91% of gyms in Laredo, TX, #10 of 11 gyms in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/golds-gym-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/golds-gym-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/739702997 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Gonzalez Druker Law Firm, PLLC is a lawyer in Laredo, TX at 1119 Houston Street, Laredo, TX 78040. Phone: +19564365700. Website: https://www.gdlfirm.com/.
+
+# Gonzalez Druker Law Firm, PLLC
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 1119 Houston Street, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5070238, -99.507333
+- Phone: +19564365700
+- Website: https://www.gdlfirm.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 10% of lawyers in Laredo, TX, #1 of 11 lawyers in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gonzalez-druker-law-firm-pllc-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gonzalez-druker-law-firm-pllc-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9570415925 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Goodwill is a thrift store in Laredo, TX at 5901 San Dario Avenue, Laredo, TX 78041.
+
+# Goodwill
+
+- Category: thrift store
+- Services: thrift store
+- Address: 5901 San Dario Avenue, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5574842, -99.5024874
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Building — top 50% of thrift stores in Laredo, TX, #1 of 2 thrift stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/837404357 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Goodyear is an auto repair shop in Laredo, TX.
+
+# Goodyear
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: 78045
+- Coordinates: 27.5955051, -99.4810609
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.2/100 — Building — top 60% of auto repair shops in Laredo, TX, #6 of 10 auto repair shops in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodyear-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodyear-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8623866397 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Grease Monkey is an auto repair shop in Laredo, TX.
+
+# Grease Monkey
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.6139412, -99.4674384
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.6/100 — Building — top 80% of auto repair shops in Laredo, TX, #8 of 10 auto repair shops in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/grease-monkey-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/grease-monkey-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8742655619 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Grease Monkey is an auto repair shop in Laredo, TX.
+
+# Grease Monkey
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5482194, -99.4507839
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.6/100 — Building — top 90% of auto repair shops in Laredo, TX, #9 of 10 auto repair shops in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/grease-monkey-laredo-n10817432053/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/grease-monkey-laredo-n10817432053.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10817432053 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Great Clips is a hair salon in Laredo, TX.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5732467, -99.4739244
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.6/100 — Building — top 50% of hair salons in Laredo, TX, #2 of 4 hair salons in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8623869735 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Laredo, TX at South Zapata Highway, Laredo, TX 78043.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: South Zapata Highway, Laredo, TX 78043
+- City: Laredo
+- State: TX
+- ZIP: 78043
+- Coordinates: 27.4756627, -99.4757541
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46/100 — Building — top 75% of car washes in Laredo, TX, #6 of 8 car washes in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/618118101 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Laredo, TX at 1911 Bob Bullock Loop, Laredo, TX 78045.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 1911 Bob Bullock Loop, Laredo, TX 78045
+- City: Laredo
+- State: TX
+- ZIP: 78045
+- Coordinates: 27.6091542, -99.4748245
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46/100 — Building — top 88% of car washes in Laredo, TX, #7 of 8 car washes in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-laredo-w622159179/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-laredo-w622159179.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/622159179 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hair Masters is a hair salon in Laredo, TX.
+
+# Hair Masters
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5672508, -99.498063
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.9/100 — Unrated (not enough evidence yet) — top 75% of hair salons in Laredo, TX, #3 of 4 hair salons in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hair-masters-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hair-masters-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/929937661 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+James Avery Jewelry is a jewelry store in Laredo, TX.
+
+# James Avery Jewelry
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.6088895, -99.4760168
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43/100 — Building — top 75% of jewelry stores in Laredo, TX, #3 of 4 jewelry stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/james-avery-jewelry-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8723692237 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Just-a-Cut is a hair salon in Laredo, TX.
+
+# Just-a-Cut
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5769301, -99.4728214
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.9/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Laredo, TX, #4 of 4 hair salons in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/just-a-cut-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/just-a-cut-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8567567144 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kay Jewelers is a jewelry store in Laredo, TX.
+
+# Kay Jewelers
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5017623, -99.5095578
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.6/100 — Building — top 50% of jewelry stores in Laredo, TX, #2 of 4 jewelry stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kay-jewelers-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8630152393 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kay Jewelers is a jewelry store in Laredo, TX.
+
+# Kay Jewelers
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5520495, -99.5011285
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43/100 — Building — top 100% of jewelry stores in Laredo, TX, #4 of 4 jewelry stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-laredo-n12128742435/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kay-jewelers-laredo-n12128742435.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12128742435 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kinesiology, Wellness, and Recreation Center is a gym in Laredo, TX.
+
+# Kinesiology, Wellness, and Recreation Center
+
+- Category: gym
+- Services: gym
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5703369, -99.434302
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 28% of gyms in Laredo, TX, #3 of 11 gyms in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kinesiology-wellness-and-recreation-center-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kinesiology-wellness-and-recreation-center-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/123532097 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+La Novia is a tailor in Laredo, TX.
+
+# La Novia
+
+- Category: tailor
+- Services: tailor
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5017302, -99.511231
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 50% of tailors in Laredo, TX, #1 of 2 tailors in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/la-novia-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/la-novia-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12881539609 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+La Novia - Wedding Boutique is a tailor in Laredo, TX.
+
+# La Novia - Wedding Boutique
+
+- Category: tailor
+- Services: tailor
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5033919, -99.5067173
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 100% of tailors in Laredo, TX, #2 of 2 tailors in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/la-novia-wedding-boutique-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/la-novia-wedding-boutique-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/426777401 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+La Posada Fitness Center is a gym in Laredo, TX.
+
+# La Posada Fitness Center
+
+- Category: gym
+- Services: gym
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5019869, -99.5059342
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 37% of gyms in Laredo, TX, #4 of 11 gyms in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/la-posada-fitness-center-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/la-posada-fitness-center-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1303160685 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lacks Furniture Galleria is a furniture store in Laredo, TX at 305 Lost Oaks Boulevard, Laredo, TX 78041.
+
+# Lacks Furniture Galleria
+
+- Category: furniture store
+- Services: furniture store
+- Address: 305 Lost Oaks Boulevard, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5631765, -99.499578
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 34% of furniture stores in Laredo, TX, #2 of 6 furniture stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lacks-furniture-galleria-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lacks-furniture-galleria-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/734027735 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Laredo Housing Authority - Senior Citizens Home is an assisted living facility in Laredo, TX.
+
+# Laredo Housing Authority - Senior Citizens Home
+
+- Category: assisted living
+- Services: assisted living
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5060655, -99.5099173
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of assisted living facilitys in Laredo, TX, #1 of 1 assisted living facilitys in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/laredo-housing-authority-senior-citizens-home-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/laredo-housing-authority-senior-citizens-home-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/941621963 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Law Offices of Elizabeth Martinez is a lawyer in Laredo, TX at 1020 Davis Avenue, Laredo, TX 78040. Phone: +19567247478.
+
+# Law Offices of Elizabeth Martinez
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 1020 Davis Avenue, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5086781, -99.511595
+- Phone: +19567247478
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 37% of lawyers in Laredo, TX, #4 of 11 lawyers in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/law-offices-of-elizabeth-martinez-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/law-offices-of-elizabeth-martinez-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1413964079 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Learning Patch Academy is a daycare in Laredo, TX at 510 Del Mar Boulevard, Laredo, TX 78041.
+
+# Learning Patch Academy
+
+- Category: daycare
+- Services: daycare
+- Address: 510 Del Mar Boulevard, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5718294, -99.4806145
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-18:00
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 100% of daycares in Laredo, TX, #1 of 1 daycares in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/learning-patch-academy-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/learning-patch-academy-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/922927007 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lewis Energy Academic Center Gym is a gym in Laredo, TX.
+
+# Lewis Energy Academic Center Gym
+
+- Category: gym
+- Services: gym
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5097074, -99.5219922
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 46% of gyms in Laredo, TX, #5 of 11 gyms in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lewis-energy-academic-center-gym-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lewis-energy-academic-center-gym-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12076364595 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+LFD Homefurnishings is a furniture store in Laredo, TX at 1319 Lincoln Street, Laredo, TX 78040.
+
+# LFD Homefurnishings
+
+- Category: furniture store
+- Services: furniture store
+- Address: 1319 Lincoln Street, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5041038, -99.5092303
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 17% of furniture stores in Laredo, TX, #1 of 6 furniture stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lfd-homefurnishings-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lfd-homefurnishings-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1303160671 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Maria Elena Morales Attorney is a lawyer in Laredo, TX at 1514 Victoria Street, Laredo, TX 78040. Phone: +19567235031.
+
+# Maria Elena Morales Attorney
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 1514 Victoria Street, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5081626, -99.5109636
+- Phone: +19567235031
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 46% of lawyers in Laredo, TX, #5 of 11 lawyers in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/maria-elena-morales-attorney-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/maria-elena-morales-attorney-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1413964081 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mattress Firm is a mattress store in Laredo, TX at 7709 McPherson Road #100, Laredo, TX 78045. Phone: +19567255881. Website: https://www.mattressfirm.com/en-us/stores/tx/laredo/968402/.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: 7709 McPherson Road #100, Laredo, TX 78045
+- City: Laredo
+- State: TX
+- ZIP: 78045
+- Coordinates: 27.5755668, -99.4732097
+- Phone: +19567255881
+- Website: https://www.mattressfirm.com/en-us/stores/tx/laredo/968402/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.3/100 — Building — top 50% of mattress stores in Laredo, TX, #1 of 2 mattress stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-firm-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-firm-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8623866395 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Melone Hatley, P.C is a lawyer in Laredo, TX at 107 C del Nortre, Laredo, TX 78041. Phone: +12106403552. Website: https://www.melonelawpc.com/laredo-tx/family-lawyer/.
+
+# Melone Hatley, P.C
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 107 C del Nortre, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5532972, -99.4942517
+- Phone: +12106403552
+- Website: https://www.melonelawpc.com/laredo-tx/family-lawyer/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-16:00
+- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Laredo, TX, #11 of 11 lawyers in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/melone-hatley-p-c-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/melone-hatley-p-c-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13542100972 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Menta Dentistry is a dentist in Laredo, TX.
+
+# Menta Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5732387, -99.4740068
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 60% of dentists in Laredo, TX, #3 of 5 dentists in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/menta-dentistry-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/menta-dentistry-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8623869736 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mental Evaluation Outreach Unit is a therapy practice in Laredo, TX at 1517 Washington Street, Laredo, TX 78040.
+
+# Mental Evaluation Outreach Unit
+
+- Category: therapist
+- Services: therapist
+- Address: 1517 Washington Street, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5086305, -99.5109428
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 100% of therapy practices in Laredo, TX, #1 of 1 therapy practices in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mental-evaluation-outreach-unit-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mental-evaluation-outreach-unit-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1560940089 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mokick CarAudio is an auto repair shop in Laredo, TX.
+
+# Mokick CarAudio
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5067786, -99.4759133
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 30% of auto repair shops in Laredo, TX, #3 of 10 auto repair shops in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mokick-caraudio-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mokick-caraudio-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1309794532 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Monaco Self Storage is a self-storage facility in Laredo, TX.
+
+# Monaco Self Storage
+
+- Category: storage units
+- Services: storage units
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5944685, -99.4812609
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 100% of self-storage facilitys in Laredo, TX, #4 of 4 self-storage facilitys in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/monaco-self-storage-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/monaco-self-storage-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/942044231 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Monkey Shine is a car wash in Laredo, TX.
+
+# Monkey Shine
+
+- Category: car wash
+- Services: car wash
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.6138489, -99.4675775
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 38% of car washes in Laredo, TX, #3 of 8 car washes in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/monkey-shine-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/monkey-shine-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8742655620 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Nathan Henry Chu Attorney at Law is a lawyer in Laredo, TX at 1520 Davis Avenue, Laredo, TX 78040. Phone: +19567910499.
+
+# Nathan Henry Chu Attorney at Law
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 1520 Davis Avenue, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5081261, -99.5111257
+- Phone: +19567910499
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 55% of lawyers in Laredo, TX, #6 of 11 lawyers in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/nathan-henry-chu-attorney-at-law-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nathan-henry-chu-attorney-at-law-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12993293617 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Olympus Muscle & Fitness is a gym in Laredo, TX.
+
+# Olympus Muscle & Fitness
+
+- Category: gym
+- Services: gym
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5445298, -99.4727518
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 55% of gyms in Laredo, TX, #6 of 11 gyms in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/olympus-muscle-and-fitness-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/olympus-muscle-and-fitness-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/475757901 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Oscar Peña Law Offices is a lawyer in Laredo, TX at 1720 Matamoros Street, Laredo, TX 78040.
+
+# Oscar Peña Law Offices
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 1720 Matamoros Street, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5066385, -99.5130621
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 82% of lawyers in Laredo, TX, #9 of 11 lawyers in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/oscar-pe-a-law-offices-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/oscar-pe-a-law-offices-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1413964088 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pamela's Flower & Gift Shop is a florist in Laredo, TX.
+
+# Pamela's Flower & Gift Shop
+
+- Category: florist
+- Services: florist
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5068349, -99.4757599
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of florists in Laredo, TX, #2 of 2 florists in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 41.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pamelas-flower-and-gift-shop-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pamelas-flower-and-gift-shop-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1309794533 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pancho's Shoe Shine is a shoe repair in Laredo, TX.
+
+# Pancho's Shoe Shine
+
+- Category: shoe repair
+- Services: shoe repair
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5063409, -99.4958227
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 100% of shoe repairs in Laredo, TX, #2 of 2 shoe repairs in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/panchos-shoe-shine-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/panchos-shoe-shine-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12004008769 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Panos Bakery is a bakery in Laredo, TX at 201 Convent Avenue, Laredo, TX 78040.
+
+# Panos Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: 201 Convent Avenue, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5024852, -99.5074245
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 40% of bakerys in Laredo, TX, #2 of 5 bakerys in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/panos-bakery-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/panos-bakery-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/426777378 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pano's Bakery is a bakery in Laredo, TX at 3020 Santa Maria Avenue, Laredo, TX. Phone: +19567951400.
+
+# Pano's Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: 3020 Santa Maria Avenue, Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5270669, -99.5104822
+- Phone: +19567951400
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 20% of bakerys in Laredo, TX, #1 of 5 bakerys in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/panos-bakery-laredo-w1304907853/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/panos-bakery-laredo-w1304907853.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1304907853 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pano's Bakery is a bakery in Laredo, TX at 2319 South Zapata Highway, Laredo, TX 78046.
+
+# Pano's Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: 2319 South Zapata Highway, Laredo, TX 78046
+- City: Laredo
+- State: TX
+- ZIP: 78046
+- Coordinates: 27.4760111, -99.4742169
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 60% of bakerys in Laredo, TX, #3 of 5 bakerys in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/panos-bakery-laredo-w1343535958/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/panos-bakery-laredo-w1343535958.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1343535958 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pep Boys is an auto repair shop in Laredo, TX.
+
+# Pep Boys
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5395524, -99.501615
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.6/100 — Building — top 100% of auto repair shops in Laredo, TX, #10 of 10 auto repair shops in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pep-boys-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pep-boys-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/526147944 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Petco is a pet store in Laredo, TX at 2450 Monarch Drive #105, Laredo, TX 78045. Phone: +19567230671. Website: https://stores.petco.com/tx/laredo/pet-supplies-laredo-tx-2405.html.
+
+# Petco
+
+- Category: pet store
+- Services: pet store
+- Address: 2450 Monarch Drive #105, Laredo, TX 78045
+- City: Laredo
+- State: TX
+- ZIP: 78045
+- Coordinates: 27.6097031, -99.471201
+- Phone: +19567230671
+- Website: https://stores.petco.com/tx/laredo/pet-supplies-laredo-tx-2405.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
+- Pulse Score: 46.4/100 — Building — top 67% of pet stores in Laredo, TX, #2 of 3 pet stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petco-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petco-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3313004660 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Petco is a pet store in Laredo, TX at 5410 San Bernardo Avenue #103, Laredo, TX 78041. Phone: +19567960510. Website: https://stores.petco.com/tx/laredo/pet-supplies-laredo-tx-1455.html.
+
+# Petco
+
+- Category: pet store
+- Services: pet store
+- Address: 5410 San Bernardo Avenue #103, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5494626, -99.5066075
+- Phone: +19567960510
+- Website: https://stores.petco.com/tx/laredo/pet-supplies-laredo-tx-1455.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
+- Pulse Score: 46.4/100 — Building — top 100% of pet stores in Laredo, TX, #3 of 3 pet stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petco-laredo-n7815494757/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petco-laredo-n7815494757.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7815494757 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+PetSmart is a pet store in Laredo, TX at 10816 International Boulevard, Laredo, TX 78045. Phone: +19566159858. Website: https://www.petsmart.com/stores/us/tx/laredo-store3278.html.
+
+# PetSmart
+
+- Category: pet store
+- Services: pet store
+- Address: 10816 International Boulevard, Laredo, TX 78045
+- City: Laredo
+- State: TX
+- ZIP: 78045
+- Coordinates: 27.6153343, -99.4675793
+- Phone: +19566159858
+- Website: https://www.petsmart.com/stores/us/tx/laredo-store3278.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
+- Pulse Score: 49/100 — Building — top 34% of pet stores in Laredo, TX, #1 of 3 pet stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petsmart-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petsmart-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11074635195 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Polo's Bakery is a bakery in Laredo, TX.
+
+# Polo's Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5090971, -99.4941182
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Laredo, TX, #5 of 5 bakerys in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/polos-bakery-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/polos-bakery-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1295419844 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Precision Diesel is an auto repair shop in Laredo, TX at 3320 Napoleon Street, Laredo, TX 78043. Phone: +19564899117.
+
+# Precision Diesel
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 3320 Napoleon Street, Laredo, TX 78043
+- City: Laredo
+- State: TX
+- ZIP: 78043
+- Coordinates: 27.4852405, -99.4616921
+- Phone: +19564899117
+- Website: n/a
+- Email: omm_mldo@yahoo.com
+- Opening hours (OSM syntax): Mo-Sa 08:00-18:00
+- Pulse Score: 64.3/100 — Good — top 10% of auto repair shops in Laredo, TX, #1 of 10 auto repair shops in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/precision-diesel-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/precision-diesel-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13709626033 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pronto Insurance is an insurance agent in Laredo, TX.
+
+# Pronto Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5111722, -99.5023227
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 100% of insurance agents in Laredo, TX, #3 of 3 insurance agents in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pronto-insurance-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pronto-insurance-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/837397335 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+RNR Tire Express is a tire shop in Laredo, TX.
+
+# RNR Tire Express
+
+- Category: tire shop
+- Services: tire shop
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.4801631, -99.4728431
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.7/100 — Unrated (not enough evidence yet) — top 100% of tire shops in Laredo, TX, #3 of 3 tire shops in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 40.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rnr-tire-express-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rnr-tire-express-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12431322517 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rock Fitness Center is a gym in Laredo, TX.
+
+# Rock Fitness Center
+
+- Category: gym
+- Services: gym
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.4638323, -99.4698355
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 64% of gyms in Laredo, TX, #7 of 11 gyms in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rock-fitness-center-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rock-fitness-center-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1342108565 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rock Fitness is a gym in Laredo, TX.
+
+# Rock Fitness
+
+- Category: gym
+- Services: gym
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5594611, -99.4678817
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 73% of gyms in Laredo, TX, #8 of 11 gyms in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rock-fitness-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rock-fitness-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/474740314 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rodeo Dental & Orthodontics is a dentist in Laredo, TX at 7305 San Dario Avenue #Suite 5, Laredo, TX 78045. Phone: +19563703733. Website: https://www.rodeodentaltexas.com/locations/laredo-del-mar/.
+
+# Rodeo Dental & Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: 7305 San Dario Avenue #Suite 5, Laredo, TX 78045
+- City: Laredo
+- State: TX
+- ZIP: 78045
+- Coordinates: 27.5684633, -99.5017304
+- Phone: +19563703733
+- Website: https://www.rodeodentaltexas.com/locations/laredo-del-mar/
+- Email: rodeolaredon@rodeodental.com
+- Opening hours (OSM syntax): Tu-Fr 10:00-19:00; Sa 09:00-16:00
+- Pulse Score: 49.6/100 — Unrated (not enough evidence yet) — top 80% of dentists in Laredo, TX, #4 of 5 dentists in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rodeo-dental-and-orthodontics-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rodeo-dental-and-orthodontics-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7364732594 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rodeo Dental & Orthodontics is a dentist in Laredo, TX.
+
+# Rodeo Dental & Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.4796961, -99.4742229
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 100% of dentists in Laredo, TX, #5 of 5 dentists in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rodeo-dental-and-orthodontics-laredo-w1343535988/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rodeo-dental-and-orthodontics-laredo-w1343535988.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1343535988 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Royal Receptions is an event venue in Laredo, TX.
+
+# Royal Receptions
+
+- Category: event venues
+- Services: event venues
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.4637, -99.4750914
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 100% of event venues in Laredo, TX, #4 of 4 event venues in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/royal-receptions-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/royal-receptions-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1158231371 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Siempre Tax is an accountant in Laredo, TX at 611 Shiloh Drive #5, Laredo, TX 78045. Phone: +19562909335. Website: https://siempretax.com/en/tax-preparation-office/laredo-tx-78045/20277/.
+
+# Siempre Tax
+
+- Category: accountant
+- Services: accountant, accounting services
+- Address: 611 Shiloh Drive #5, Laredo, TX 78045
+- City: Laredo
+- State: TX
+- ZIP: 78045
+- Coordinates: 27.5909186, -99.4796097
+- Phone: +19562909335
+- Website: https://siempretax.com/en/tax-preparation-office/laredo-tx-78045/20277/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Tu, Th-Fr 09:00-18:00; We, Sa 09:00-15:00
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 100% of accountants in Laredo, TX, #1 of 1 accountants in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/siempre-tax-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/siempre-tax-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6065488054 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sleep Number is a mattress store in Laredo, TX.
+
+# Sleep Number
+
+- Category: mattress store
+- Services: mattress store
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.6115503, -99.4740399
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.7/100 — Building — top 100% of mattress stores in Laredo, TX, #2 of 2 mattress stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sleep-number-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sleep-number-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8639427919 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Smile Magic of Laredo is a dentist in Laredo, TX at 4817 San Dario Avenue, Laredo, TX 78041.
+
+# Smile Magic of Laredo
+
+- Category: dentist
+- Services: dentist
+- Address: 4817 San Dario Avenue, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5434686, -99.5006641
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 40% of dentists in Laredo, TX, #2 of 5 dentists in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/smile-magic-of-laredo-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/smile-magic-of-laredo-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7815437504 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+South Meadow Self Storage is a self-storage facility in Laredo, TX at 1320 South Meadow Avenue, Laredo, TX.
+
+# South Meadow Self Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 1320 South Meadow Avenue, Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.4854677, -99.4763491
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 75% of self-storage facilitys in Laredo, TX, #3 of 4 self-storage facilitys in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/south-meadow-self-storage-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/south-meadow-self-storage-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/526159948 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Spec's is a liquor store in Laredo, TX at 5506 San Bernardo Avenue, Laredo, TX 78041.
+
+# Spec's
+
+- Category: liquor store
+- Services: liquor store
+- Address: 5506 San Bernardo Avenue, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.550816, -99.5051379
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.3/100 — Building — top 75% of liquor stores in Laredo, TX, #3 of 4 liquor stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/specs-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/specs-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7815494749 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Spec's is a liquor store in Laredo, TX.
+
+# Spec's
+
+- Category: liquor store
+- Services: liquor store
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.6144519, -99.4674029
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.3/100 — Building — top 100% of liquor stores in Laredo, TX, #4 of 4 liquor stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/specs-laredo-w1138554775/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/specs-laredo-w1138554775.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1138554775 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sports Cuts is a hair salon in Laredo, TX.
+
+# Sports Cuts
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.578995, -99.4724019
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 25% of hair salons in Laredo, TX, #1 of 4 hair salons in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sports-cuts-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sports-cuts-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8567567146 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Spulveda Associates Architects Inc. is an architect in Laredo, TX at 1820 Houston Street, Laredo, TX 78040.
+
+# Spulveda Associates Architects Inc.
+
+- Category: architect
+- Services: architect
+- Address: 1820 Houston Street, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5074249, -99.5140622
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 100% of architects in Laredo, TX, #3 of 3 architects in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/spulveda-associates-architects-inc-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/spulveda-associates-architects-inc-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1204927799 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Take 5 Oil Change is an auto repair shop in Laredo, TX.
+
+# Take 5 Oil Change
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.611404, -99.4667005
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.3/100 — Building — top 70% of auto repair shops in Laredo, TX, #7 of 10 auto repair shops in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/take-5-oil-change-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12862413716 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+tdK is a barber shop in Laredo, TX.
+
+# tdK
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5017555, -99.5108716
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Laredo, TX, #1 of 1 barber shops in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tdk-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tdk-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12881539605 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texas Law Guns, Injury & Accident Lawyers is a lawyer in Laredo, TX at 104 East Calton Road #109, Laredo, TX 78041. Phone: +19562222222. Website: https://www.vblawgroup.com/laredo/personal-injury-attorney/.
+
+# Texas Law Guns, Injury & Accident Lawyers
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 104 East Calton Road #109, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5437411, -99.4945104
+- Phone: +19562222222
+- Website: https://www.vblawgroup.com/laredo/personal-injury-attorney/
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 19% of lawyers in Laredo, TX, #2 of 11 lawyers in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-law-guns-injury-and-accident-lawyers-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-law-guns-injury-and-accident-lawyers-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13355558956 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Gym Legacy is a gym in Laredo, TX at 9020 San Dario Avenue, Laredo, TX 78045. Phone: +19567273000. Website: https://thegymlegacy.com/.
+
+# The Gym Legacy
+
+- Category: gym
+- Services: gym
+- Address: 9020 San Dario Avenue, Laredo, TX 78045
+- City: Laredo
+- State: TX
+- ZIP: 78045
+- Coordinates: 27.5876227, -99.4969395
+- Phone: +19567273000
+- Website: https://thegymlegacy.com/
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of gyms in Laredo, TX, #1 of 11 gyms in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-gym-legacy-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-gym-legacy-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/746713097 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Law Office of Marilu Cantu is a lawyer in Laredo, TX at 1806 Matamoros Street, Laredo, TX 78040. Phone: +19565230523.
+
+# The Law Office of Marilu Cantu
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 1806 Matamoros Street, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5066529, -99.5135861
+- Phone: +19565230523
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 64% of lawyers in Laredo, TX, #7 of 11 lawyers in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-law-office-of-marilu-cantu-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-law-office-of-marilu-cantu-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1413964087 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Salvation Army is a thrift store in Laredo, TX.
+
+# The Salvation Army
+
+- Category: thrift store
+- Services: thrift store
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5068691, -99.5002178
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.8/100 — Building — top 100% of thrift stores in Laredo, TX, #2 of 2 thrift stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-salvation-army-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/746730600 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Villafranca Law Offices is a lawyer in Laredo, TX at 1719 Washington Street, Laredo, TX 78040. Phone: +19567299400.
+
+# The Villafranca Law Offices
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 1719 Washington Street, Laredo, TX 78040
+- City: Laredo
+- State: TX
+- ZIP: 78040
+- Coordinates: 27.5086608, -99.5130656
+- Phone: +19567299400
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 73% of lawyers in Laredo, TX, #8 of 11 lawyers in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-villafranca-law-offices-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-villafranca-law-offices-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1413964078 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Toyota of Laredo is an auto repair shop in Laredo, TX at 6324 Bob Bullock Loop, Laredo, TX 78041.
+
+# Toyota of Laredo
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 6324 Bob Bullock Loop, Laredo, TX 78041
+- City: Laredo
+- State: TX
+- ZIP: 78041
+- Coordinates: 27.5562594, -99.4502796
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.8/100 — Building — top 50% of auto repair shops in Laredo, TX, #5 of 10 auto repair shops in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/toyota-of-laredo-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/toyota-of-laredo-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/837414614 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+TruFit is a gym in Laredo, TX.
+
+# TruFit
+
+- Category: gym
+- Services: gym
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5517935, -99.5017532
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.7/100 — Unrated (not enough evidence yet) — top 100% of gyms in Laredo, TX, #11 of 11 gyms in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/trufit-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trufit-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12128742434 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ulta Beauty is a skin care studio in Laredo, TX at 2450 Monarch Drive #104, Laredo, TX 78045. Phone: +19567241960. Website: https://www.ulta.com/stores/laredo-tx-431.
+
+# Ulta Beauty
+
+- Category: facial
+- Services: facial
+- Address: 2450 Monarch Drive #104, Laredo, TX 78045
+- City: Laredo
+- State: TX
+- ZIP: 78045
+- Coordinates: 27.6095645, -99.4714203
+- Phone: +19567241960
+- Website: https://www.ulta.com/stores/laredo-tx-431
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+- Pulse Score: 45/100 — Building — top 100% of skin care studios in Laredo, TX, #1 of 1 skin care studios in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ulta-beauty-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8567567134 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+V&G Liqour is a liquor store in Laredo, TX.
+
+# V&G Liqour
+
+- Category: liquor store
+- Services: liquor store
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.4800485, -99.4728424
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 50% of liquor stores in Laredo, TX, #2 of 4 liquor stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/v-and-g-liqour-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/v-and-g-liqour-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12431322518 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+V & Y Nail Salon is a nail salon in Laredo, TX.
+
+# V & Y Nail Salon
+
+- Category: nail salon
+- Services: nail salon
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.5722916, -99.4730699
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 100% of nail salons in Laredo, TX, #2 of 2 nail salons in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/v-and-y-nail-salon-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/v-and-y-nail-salon-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8623869739 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Vargas Inspections is a vehicle inspection station in Laredo, TX at Mangana-Hein Road, Laredo, TX. Phone: +19567445230.
+
+# Vargas Inspections
+
+- Category: car inspection
+- Services: car inspection
+- Address: Mangana-Hein Road, Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.4009613, -99.4429973
+- Phone: +19567445230
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 100% of vehicle inspection stations in Laredo, TX, #1 of 1 vehicle inspection stations in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/vargas-inspections-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/vargas-inspections-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12005572438 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+VEGA'S INTERIORES MEJICANOS is a furniture store in Laredo, TX.
+
+# VEGA'S INTERIORES MEJICANOS
+
+- Category: furniture store
+- Services: furniture store
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.535719, -99.5046945
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 67% of furniture stores in Laredo, TX, #4 of 6 furniture stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/vegas-interiores-mejicanos-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/vegas-interiores-mejicanos-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/817317251 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Zales is a jewelry store in Laredo, TX.
+
+# Zales
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: Laredo, TX
+- City: Laredo
+- State: TX
+- ZIP: n/a
+- Coordinates: 27.501749, -99.5111062
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44/100 — Building — top 25% of jewelry stores in Laredo, TX, #1 of 4 jewelry stores in Laredo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/zales-laredo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/zales-laredo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12881539606 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

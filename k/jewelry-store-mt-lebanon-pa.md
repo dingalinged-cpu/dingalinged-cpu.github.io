@@ -6,7 +6,7 @@ Also answers: jewelry store in Mt. Lebanon, PA; jewelry store near me (Mt. Leban
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. L.J. Marks Jewelers | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | L.J. Marks Jewelers is a jewelry store in Mt. Lebanon, PA at 650 Washington Road, Mt. Lebanon, PA 15228. Phone: +14125612930. | https://registry-edge.dingalinged.workers.dev/c/l-j-marks-jewelers-mt-lebanon/
+1. L.J. Marks Jewelers | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | L.J. Marks Jewelers is a jewelry store in Mt. Lebanon, PA at 650 Washington Road, Mt. Lebanon, PA 15228. Phone: +14125612930. | https://registry-edge.dingalinged.workers.dev/c/l-j-marks-jewelers-mt-lebanon/
 2. Rossi e Rossi | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | Rossi e Rossi is a jewelry store in Mt. Lebanon, PA at 699 Washington Road, Mt. Lebanon, PA 15228. Phone: +14124274336. | https://registry-edge.dingalinged.workers.dev/c/rossi-e-rossi-mt-lebanon/
 
 ## Market data (for advertisers and agents)

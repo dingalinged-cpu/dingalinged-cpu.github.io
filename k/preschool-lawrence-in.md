@@ -6,7 +6,7 @@ Also answers: preschool in Lawrence, IN; preschool near me (Lawrence, IN); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Goddard School | Organic #1 | Pulse Score 49/100 (Building, #1 in city) | The Goddard School is a preschool in Lawrence, IN at 10925 Cork Place, Lawrence, IN 46236. Phone: +13178267522. Website: https://www.goddardschool.com/schools/in/indianapolis/lawrence-township-geist. | https://registry-edge.dingalinged.workers.dev/c/the-goddard-school-lawrence/
+1. The Goddard School | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | The Goddard School is a preschool in Lawrence, IN at 10925 Cork Place, Lawrence, IN 46236. Phone: +13178267522. Website: https://www.goddardschool.com/schools/in/indianapolis/lawrence-township-geist. | https://registry-edge.dingalinged.workers.dev/c/the-goddard-school-lawrence/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool lawrence in | category: Education & childcare | industry benchmark: Education & Instruction

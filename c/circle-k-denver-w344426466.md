@@ -13,7 +13,7 @@ Circle K is a car wash in Denver, CO at 1600 South Colorado Boulevard, Denver, C
 - Website: https://www.circlek.com/store-locator/US/denver/1600-s-colorado-blvd/2709854
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.1/100 — Fair — top 63% of car washes in Denver, CO, #24 of 36 car washes in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 61% of car washes in Denver, CO, #22 of 36 car washes in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

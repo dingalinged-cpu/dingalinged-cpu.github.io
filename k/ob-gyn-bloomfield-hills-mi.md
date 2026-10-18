@@ -6,7 +6,7 @@ Also answers: ob gyn in Bloomfield Hills, MI; ob gyn near me (Bloomfield Hills, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Laurel Women's Medical Group | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Laurel Women's Medical Group is an OB-GYN practice in Bloomfield Hills, MI at 36880 Woodward Avenue #Suite 201, Bloomfield Hills, MI 48304. Phone: +12486427710. Website: https://www.laurelwomensmedicalgroup.com/. | https://registry-edge.dingalinged.workers.dev/c/laurel-womens-medical-group-bloomfield-hills/
+1. Laurel Women's Medical Group | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Laurel Women's Medical Group is an OB-GYN practice in Bloomfield Hills, MI at 36880 Woodward Avenue #Suite 201, Bloomfield Hills, MI 48304. Phone: +12486427710. Website: https://www.laurelwomensmedicalgroup.com/. | https://registry-edge.dingalinged.workers.dev/c/laurel-womens-medical-group-bloomfield-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn bloomfield hills mi | category: Health & medical | industry benchmark: Physicians & Surgeons

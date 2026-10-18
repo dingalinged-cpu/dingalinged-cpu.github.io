@@ -13,7 +13,7 @@ The Law Office of Jonathan A. Bay is a lawyer in Springfield, MO at 1736 East Su
 - Website: https://thelawofficeofjonathan.com/
 - Email: jb@jonbay.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 37% of lawyers in Springfield, MO, #7 of 19 lawyers in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 37% of lawyers in Springfield, MO, #7 of 19 lawyers in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

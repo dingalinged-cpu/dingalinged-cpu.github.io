@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Nacogdoches, TX",
+ "description": "Top Nacogdoches, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Nacogdoches, TX",
+ "geography": null,
+ "keywords": 16,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "event venues nacogdoches tx",
+    "slug": "event-venues-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-nacogdoches-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "therapist nacogdoches tx",
+    "slug": "therapist-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-nacogdoches-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "haircut nacogdoches tx",
+    "slug": "haircut-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-nacogdoches-tx/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "auto repair nacogdoches tx",
+    "slug": "auto-repair-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-nacogdoches-tx/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "car wash nacogdoches tx",
+    "slug": "car-wash-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-nacogdoches-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "mechanic nacogdoches tx",
+    "slug": "mechanic-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-nacogdoches-tx/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "liquor store nacogdoches tx",
+    "slug": "liquor-store-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-nacogdoches-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "pet store nacogdoches tx",
+    "slug": "pet-store-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-nacogdoches-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "used cars for sale nacogdoches tx",
+    "slug": "used-cars-for-sale-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-nacogdoches-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dry cleaners nacogdoches tx",
+    "slug": "dry-cleaners-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-nacogdoches-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agency nacogdoches tx",
+    "slug": "insurance-agency-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-nacogdoches-tx/",
+    "us_monthly_searches": 90500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agent nacogdoches tx",
+    "slug": "insurance-agent-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-nacogdoches-tx/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agents nacogdoches tx",
+    "slug": "insurance-agents-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-nacogdoches-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "gym nacogdoches tx",
+    "slug": "gym-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-nacogdoches-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 1.67,
+    "cpc_median_usd": 6.17,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "nail salon nacogdoches tx",
+    "slug": "nail-salon-nacogdoches-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-nacogdoches-tx/",
+    "us_monthly_searches": 1000000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 0.61,
+    "cpc_median_usd": 4.62,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

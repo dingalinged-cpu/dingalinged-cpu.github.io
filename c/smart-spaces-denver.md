@@ -13,7 +13,7 @@ Smart Spaces is a mattress store in Denver, CO at South Santa Fe Drive, Denver, 
 - Website: https://smartspaces.com/
 - Email: info@smartspaces.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-17:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 3% of mattress stores in Denver, CO, #1 of 4 mattress stores in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 3% of mattress stores in Denver, CO, #1 of 4 mattress stores in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

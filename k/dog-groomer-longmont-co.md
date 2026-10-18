@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Four Paws& CO Dog Wash & Pet Supplies | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Four Paws& CO Dog Wash & Pet Supplies is a dog groomer in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/four-paws-and-co-dog-wash-and-pet-supplies-longmont/
 2. Paws2Groom | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Paws2Groom is a dog groomer in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/paws2groom-longmont/
-3. The Paw Spa | Organic #3 | Pulse Score 43.2/100 (Unrated, #3 in city) | The Paw Spa is a dog groomer in Longmont, CO at 700 Ken Pratt Boulevard #219, Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/the-paw-spa-longmont/
+3. The Paw Spa | Organic #3 | Pulse Score 43.1/100 (Unrated, #3 in city) | The Paw Spa is a dog groomer in Longmont, CO at 700 Ken Pratt Boulevard #219, Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/the-paw-spa-longmont/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer longmont co | category: Pets | industry benchmark: Animals & Pets

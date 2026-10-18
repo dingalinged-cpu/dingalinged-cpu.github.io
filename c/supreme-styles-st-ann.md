@@ -13,7 +13,7 @@ Supreme Styles is a hair salon in St. Ann, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "Monday - Saturday by appointment only"
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 51% of hair salons in St. Louis, MO, #3 of 6 hair salons in St. Ann (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 52% of hair salons in St. Louis, MO, #3 of 6 hair salons in St. Ann (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

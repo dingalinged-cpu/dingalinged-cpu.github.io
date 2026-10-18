@@ -6,7 +6,7 @@ Also answers: martial arts in Symmes Township, OH; martial arts near me (Symmes 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Japanese Karate-Do | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Japanese Karate-Do is a martial arts school in Symmes Township, OH. Website: https://japanesekaratedo.com/. | https://registry-edge.dingalinged.workers.dev/c/japanese-karate-do-symmes-township/
+1. Japanese Karate-Do | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Japanese Karate-Do is a martial arts school in Symmes Township, OH. Website: https://japanesekaratedo.com/. | https://registry-edge.dingalinged.workers.dev/c/japanese-karate-do-symmes-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts symmes township oh | category: Fitness | industry benchmark: Health & Fitness

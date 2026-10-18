@@ -13,7 +13,7 @@ The Barrel and Bottle is a liquor store in Columbus, OH at 59 Spruce Street, Col
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 11% of liquor stores in Columbus, OH, #3 of 27 liquor stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 11% of liquor stores in Columbus, OH, #3 of 27 liquor stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

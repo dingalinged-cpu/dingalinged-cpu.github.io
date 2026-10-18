@@ -13,7 +13,7 @@ American Family Insurance is an insurance agent in Lawrence, KS at 3010 Four Whe
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-16:00
-- Pulse Score: 44.9/100 — Building — top 80% of insurance agents in Lawrence, KS, #16 of 20 insurance agents in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 80% of insurance agents in Lawrence, KS, #16 of 20 insurance agents in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

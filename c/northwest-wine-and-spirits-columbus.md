@@ -13,7 +13,7 @@ Northwest Wine & Spirits is a liquor store in Columbus, OH at 821 Bethel Road, C
 - Website: https://www.ohlq.com/locations/northwest-wine-and-spirits-821-bethel-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 13:00-18:00
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 8% of liquor stores in Columbus, OH, #2 of 27 liquor stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 6% of liquor stores in Columbus, OH, #2 of 27 liquor stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

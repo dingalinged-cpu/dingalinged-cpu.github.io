@@ -13,7 +13,7 @@ Petco is a pet store in Cincinnati, OH at 7769 Five Mile Road, Cincinnati, OH 45
 - Website: https://stores.petco.com/oh/cincinnati/pet-supplies-cincinnati-oh-2827.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 47.5/100 — Building — top 58% of pet stores in Cincinnati, OH, #9 of 15 pet stores in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 58% of pet stores in Cincinnati, OH, #9 of 15 pet stores in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Kura, Wilford & Schregardus Co., L.P.A. is a lawyer in Columbus, OH at 492 City 
 - Website: https://kurawilford.com/
 - Email: contact@kurawilford.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 30% of lawyers in Columbus, OH, #19 of 50 lawyers in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 30% of lawyers in Columbus, OH, #19 of 50 lawyers in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

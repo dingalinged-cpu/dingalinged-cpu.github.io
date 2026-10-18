@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Topeka, KS at 726 South Kansas Avenue,
 - Website: https://www.hrblock.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 100% of tax preparation services in Topeka, KS, #2 of 2 tax preparation services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 100% of tax preparation services in Topeka, KS, #2 of 2 tax preparation services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ SSM Saint Joseph Medical Park is an urgent care clinic in Saint Peters, MO at 14
 - Website: https://www.ssmhealth.com//
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 100% of urgent care clinics in St. Peters, MO, #1 of 1 urgent care clinics in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of urgent care clinics in St. Peters, MO, #1 of 1 urgent care clinics in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

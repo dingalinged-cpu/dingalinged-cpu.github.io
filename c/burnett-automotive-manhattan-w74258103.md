@@ -13,7 +13,7 @@ Burnett Automotive is an auto repair shop in Manhattan, KS at 400 McCall Road, M
 - Website: https://burnettauto.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Unrated (not enough evidence yet) — top 78% of auto repair shops in Manhattan, KS, #13 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 73% of auto repair shops in Manhattan, KS, #12 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

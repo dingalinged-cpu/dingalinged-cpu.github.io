@@ -13,7 +13,7 @@ Velocity Bike & Bean is a bike shop in Florence, KY at 7560 Burlington Pike, Flo
 - Website: https://www.velocitybb.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 50% of bike shops in Cincinnati, OH, #1 of 1 bike shops in Florence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 50% of bike shops in Cincinnati, OH, #1 of 1 bike shops in Florence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

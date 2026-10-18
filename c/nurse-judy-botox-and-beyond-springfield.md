@@ -13,7 +13,7 @@ Nurse Judy-Botox & Beyond is a dermatologist in Springfield, MO at 3060 South Fr
 - Website: https://nursejudy417.com/
 - Email: nursejudy417@yahoo.com
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 10:00-14:00
-- Pulse Score: 64.1/100 — Good — top 50% of dermatologists in Springfield, MO, #1 of 2 dermatologists in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64/100 — Good — top 50% of dermatologists in Springfield, MO, #1 of 2 dermatologists in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

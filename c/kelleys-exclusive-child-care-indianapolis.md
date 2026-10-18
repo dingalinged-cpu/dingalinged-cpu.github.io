@@ -13,7 +13,7 @@ Kelley's Exclusive Child Care is a daycare in Indianapolis, IN at 7421 Dogwood C
 - Website: https://kelleysexclusivechildcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:30
-- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 4% of daycares in Indianapolis, IN, #1 of 23 daycares in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 4% of daycares in Indianapolis, IN, #1 of 23 daycares in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

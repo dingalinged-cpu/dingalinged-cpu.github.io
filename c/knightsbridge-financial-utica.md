@@ -13,7 +13,7 @@ Knightsbridge Financial is a financial advisor in Utica, MI at 8344 Hall Road #1
 - Website: https://www.knightsbridge-financial.com/
 - Email: pfluegge@spireip.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 30% of financial advisors in Detroit, MI, #5 of 7 financial advisors in Utica (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 30% of financial advisors in Detroit, MI, #5 of 7 financial advisors in Utica (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

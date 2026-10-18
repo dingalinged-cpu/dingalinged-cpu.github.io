@@ -1,0 +1,58 @@
+Keyword market for Conway, AR: 79 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Little Rock-North Little Rock-Conway, AR metro (US volume x population share).
+
+# Top keywords in Conway, AR
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. massage conway ar | searches/mo 11,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $51,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/massage-conway-ar/
+2. car wash conway ar | searches/mo 4,200 (est) | CPC $4.35 | value $18,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-conway-ar/
+3. dentist conway ar | searches/mo 4,200 (est) | CPC $4.70 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/dentist-conway-ar/
+4. gym conway ar | searches/mo 4,200 (est) | CPC $1.67 | value $7,000 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 9 | https://registry-edge.dingalinged.workers.dev/k/gym-conway-ar/
+5. nail salon conway ar | searches/mo 2,300 (est) | CPC $0.61 | value $1,400 | Google Ads equiv $80.00/mo | our featured min $50/mo | registry competitors 12 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-conway-ar/
+6. plumber conway ar | searches/mo 1,900 (est) | CPC $12.04 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-conway-ar/
+7. mechanic conway ar | searches/mo 1,500 (est) | CPC $4.35 | value $6,500 | Google Ads equiv $360/mo | our featured min $20/mo | registry competitors 12 | https://registry-edge.dingalinged.workers.dev/k/mechanic-conway-ar/
+8. tire shop conway ar | searches/mo 1,300 (est) | CPC $4.35 | value $5,700 | Google Ads equiv $310/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-conway-ar/
+9. auto repair conway ar | searches/mo 680 (est) | CPC $4.35 | value $3,000 | Google Ads equiv $160/mo | our featured min $20/mo | registry competitors 12 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-conway-ar/
+10. chiropractor conway ar | searches/mo 560 (est) | CPC $4.76 | value $2,700 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-conway-ar/
+11. financial advisor conway ar | searches/mo 560 (est) | CPC $3.39 | value $1,900 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-conway-ar/
+12. spa conway ar | searches/mo 560 (est) | CPC $4.62 | value $2,600 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/spa-conway-ar/
+13. real estate agent conway ar | searches/mo 460 (est) | CPC $3.61 | value $1,700 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-conway-ar/
+14. insurance agency conway ar | searches/mo 210 (est) | CPC $3.39 | value $710 | Google Ads equiv $59.00/mo | our featured min $100/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-conway-ar/
+15. pediatrician conway ar | searches/mo 210 (est) | CPC $4.76 | value $1,000 | Google Ads equiv $67.00/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/pediatrician-conway-ar/
+
+## By CPC
+1. hvac repair conway ar | searches/mo n/a (est) | CPC $17.76 | value $n/a | Google Ads equiv $n/a/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-conway-ar/
+2. plumbing services conway ar | searches/mo 110 (est) | CPC $13.90 | value $1,500 | Google Ads equiv $97.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-conway-ar/
+3. plumber conway ar | searches/mo 1,900 (est) | CPC $12.04 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-conway-ar/
+4. roofing contractor conway ar | searches/mo n/a (est) | CPC $11.79 | value $n/a | Google Ads equiv $n/a/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-conway-ar/
+5. roofer conway ar | searches/mo n/a (est) | CPC $10.70 | value $n/a | Google Ads equiv $n/a/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/roofer-conway-ar/
+6. attorney conway ar | searches/mo 170 (est) | CPC $9.87 | value $1,700 | Google Ads equiv $100/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/attorney-conway-ar/
+7. lawyer conway ar | searches/mo 110 (est) | CPC $9.87 | value $1,100 | Google Ads equiv $65.00/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/lawyer-conway-ar/
+8. window replacement conway ar | searches/mo n/a (est) | CPC $8.76 | value $n/a | Google Ads equiv $n/a/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/window-replacement-conway-ar/
+9. flooring companies conway ar | searches/mo n/a (est) | CPC $8.33 | value $n/a | Google Ads equiv $n/a/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-conway-ar/
+10. heating and air conway ar | searches/mo n/a (est) | CPC $8.33 | value $n/a | Google Ads equiv $n/a/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-conway-ar/
+11. plumbers conway ar | searches/mo 8.20 (est) | CPC $8.33 | value $68.00 | Google Ads equiv $4.40/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbers-conway-ar/
+12. storage units conway ar | searches/mo 500 (est) | CPC $8.33 | value $4,200 | Google Ads equiv $270/mo | our featured min $50/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/storage-units-conway-ar/
+13. bakery conway ar | searches/mo n/a (est) | CPC $7.17 | value $n/a | Google Ads equiv $n/a/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/bakery-conway-ar/
+14. caterers conway ar | searches/mo n/a (est) | CPC $7.17 | value $n/a | Google Ads equiv $n/a/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/caterers-conway-ar/
+15. event venues conway ar | searches/mo n/a (est) | CPC $7.17 | value $n/a | Google Ads equiv $n/a/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/event-venues-conway-ar/
+
+## By value (searches x CPC)
+1. massage conway ar | searches/mo 11,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $51,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/massage-conway-ar/
+2. plumber conway ar | searches/mo 1,900 (est) | CPC $12.04 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-conway-ar/
+3. dentist conway ar | searches/mo 4,200 (est) | CPC $4.70 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/dentist-conway-ar/
+4. car wash conway ar | searches/mo 4,200 (est) | CPC $4.35 | value $18,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-conway-ar/
+5. gym conway ar | searches/mo 4,200 (est) | CPC $1.67 | value $7,000 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 9 | https://registry-edge.dingalinged.workers.dev/k/gym-conway-ar/
+6. mechanic conway ar | searches/mo 1,500 (est) | CPC $4.35 | value $6,500 | Google Ads equiv $360/mo | our featured min $20/mo | registry competitors 12 | https://registry-edge.dingalinged.workers.dev/k/mechanic-conway-ar/
+7. tire shop conway ar | searches/mo 1,300 (est) | CPC $4.35 | value $5,700 | Google Ads equiv $310/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-conway-ar/
+8. auto repair conway ar | searches/mo 680 (est) | CPC $4.35 | value $3,000 | Google Ads equiv $160/mo | our featured min $20/mo | registry competitors 12 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-conway-ar/
+9. chiropractor conway ar | searches/mo 560 (est) | CPC $4.76 | value $2,700 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-conway-ar/
+10. spa conway ar | searches/mo 560 (est) | CPC $4.62 | value $2,600 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/spa-conway-ar/
+11. financial advisor conway ar | searches/mo 560 (est) | CPC $3.39 | value $1,900 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-conway-ar/
+12. attorney conway ar | searches/mo 170 (est) | CPC $9.87 | value $1,700 | Google Ads equiv $100/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/attorney-conway-ar/
+13. real estate agent conway ar | searches/mo 460 (est) | CPC $3.61 | value $1,700 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-conway-ar/
+14. plumbing services conway ar | searches/mo 110 (est) | CPC $13.90 | value $1,500 | Google Ads equiv $97.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-conway-ar/
+15. nail salon conway ar | searches/mo 2,300 (est) | CPC $0.61 | value $1,400 | Google Ads equiv $80.00/mo | our featured min $50/mo | registry competitors 12 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-conway-ar/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

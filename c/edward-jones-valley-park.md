@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Valley Park, MO. Website: https://www.edw
 - Website: https://www.edwardjones.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Building — top 27% of financial advisors in St. Louis, MO, #1 of 1 financial advisors in Valley Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 27% of financial advisors in St. Louis, MO, #1 of 1 financial advisors in Valley Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

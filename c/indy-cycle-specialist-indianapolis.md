@@ -13,7 +13,7 @@ Indy Cycle Specialist is a bike shop in Indianapolis, IN at 5804 East Washington
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa 11:00-17:00; Su off
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 53% of bike shops in Indianapolis, IN, #6 of 10 bike shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 53% of bike shops in Indianapolis, IN, #6 of 10 bike shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

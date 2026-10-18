@@ -13,7 +13,7 @@ Metro Self Storage is a self-storage facility in Topeka, KS at 1825 Southwest We
 - Website: https://www.metrostorage.com/self-storage/ks/topeka/tw/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 80% of self-storage facilitys in Topeka, KS, #4 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 80% of self-storage facilitys in Topeka, KS, #4 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

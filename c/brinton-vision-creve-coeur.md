@@ -13,7 +13,7 @@ Brinton Vision is an eye care practice in Creve Coeur, MO at 555 North New Balla
 - Website: https://brintonvision.com/
 - Email: info@brintonvision.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 8% of eye care practices in St. Louis, MO, #1 of 4 eye care practices in Creve Coeur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 8% of eye care practices in St. Louis, MO, #1 of 4 eye care practices in Creve Coeur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

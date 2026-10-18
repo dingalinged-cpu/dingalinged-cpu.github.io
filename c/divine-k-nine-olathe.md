@@ -13,7 +13,7 @@ Divine K-Nine is a dog groomer in Olathe, KS. Phone: +19138294916.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 07:00-17:00; Th 06:00-18:00; Fr 07:00-17:00
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 48% of dog groomers in Kansas City, MO, #4 of 4 dog groomers in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 44% of dog groomers in Kansas City, MO, #4 of 4 dog groomers in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

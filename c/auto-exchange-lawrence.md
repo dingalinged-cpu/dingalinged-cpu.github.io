@@ -13,7 +13,7 @@ Auto Exchange is an used car dealer in Lawrence, KS at 3301 Iowa Street, Lawrenc
 - Website: https://autoexchangelawrence.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa 09:00-16:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 19% of used car dealers in Lawrence, KS, #2 of 11 used car dealers in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 19% of used car dealers in Lawrence, KS, #2 of 11 used car dealers in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

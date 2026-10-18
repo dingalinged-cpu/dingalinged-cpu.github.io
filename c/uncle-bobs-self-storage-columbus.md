@@ -13,7 +13,7 @@ Uncle Bob's Self Storage is a self-storage facility in Columbus, OH at 5810 Clev
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 58% of self-storage facilitys in Columbus, OH, #11 of 23 self-storage facilitys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 58% of self-storage facilitys in Columbus, OH, #11 of 23 self-storage facilitys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

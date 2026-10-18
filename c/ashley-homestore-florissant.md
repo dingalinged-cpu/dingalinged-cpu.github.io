@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Florissant, MO at 2409 North US 67, Flo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Fr,Sa 10:00-21:00; Su 12:00-17:30
-- Pulse Score: 47.5/100 — Building — top 57% of furniture stores in St. Louis, MO, #1 of 1 furniture stores in Florissant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 57% of furniture stores in St. Louis, MO, #1 of 1 furniture stores in Florissant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

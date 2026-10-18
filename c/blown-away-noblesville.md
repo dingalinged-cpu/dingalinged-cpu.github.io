@@ -13,7 +13,7 @@ Blown Away is a hair salon in Noblesville, IN at 17219 Mercantile Boulevard, Nob
 - Website: https://www.theblownawayexperience.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 16% of hair salons in Indianapolis, IN, #3 of 10 hair salons in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 16% of hair salons in Indianapolis, IN, #3 of 10 hair salons in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

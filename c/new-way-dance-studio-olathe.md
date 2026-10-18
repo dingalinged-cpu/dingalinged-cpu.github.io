@@ -13,7 +13,7 @@ New Way Dance Studio is a dance studio in Olathe, KS at 2083 East Santa Fe Stree
 - Website: https://olatheballroom.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 15% of dance studios in Kansas City, MO, #1 of 3 dance studios in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 15% of dance studios in Kansas City, MO, #1 of 3 dance studios in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

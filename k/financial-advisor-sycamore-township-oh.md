@@ -7,7 +7,7 @@ Also answers: financial advisor in Sycamore Township, OH; financial advisor near
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. HORAN | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | HORAN is a financial advisor in Cincinnati, OH at 8044 Montgomery Road #Suite 640, Cincinnati, OH 45236. Phone: +15137450707. Website: https://horanassoc.com/. | https://registry-edge.dingalinged.workers.dev/c/horan-cincinnati/
-2. TD Ameritrade | Organic #2 | Pulse Score 44.9/100 (Building, #1 in city) | TD Ameritrade is a financial advisor in Sycamore Township, OH. Website: https://locations.tdameritrade.com/cincinnati-oh.html. | https://registry-edge.dingalinged.workers.dev/c/td-ameritrade-sycamore-township/
+2. TD Ameritrade | Organic #2 | Pulse Score 44.8/100 (Building, #1 in city) | TD Ameritrade is a financial advisor in Sycamore Township, OH. Website: https://locations.tdameritrade.com/cincinnati-oh.html. | https://registry-edge.dingalinged.workers.dev/c/td-ameritrade-sycamore-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor sycamore township oh | category: Professional & financial services | industry benchmark: Finance & Insurance

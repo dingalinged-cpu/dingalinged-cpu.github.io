@@ -13,7 +13,7 @@ Mile High Honda Service & Parts is an auto repair shop in Aurora, CO at 2777 Sou
 - Website: https://milehighhonda.com/Schedule-Service/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00, Sa 07:00-18:00, Su closed
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 3% of auto repair shops in Denver, CO, #3 of 87 auto repair shops in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 3% of auto repair shops in Denver, CO, #3 of 87 auto repair shops in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

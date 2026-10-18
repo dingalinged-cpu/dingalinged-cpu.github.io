@@ -13,7 +13,7 @@ Jackson Hewitt is a tax preparation service in Lawrence, KS at 947 East 23rd Str
 - Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/ks/lawrence/947-e-23rd-street/11812
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 12:00-16:00
-- Pulse Score: 49.2/100 — Building — top 20% of tax preparation services in Lawrence, KS, #1 of 5 tax preparation services in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 20% of tax preparation services in Lawrence, KS, #1 of 5 tax preparation services in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: printing services in Speedway, IN; printing services near me (Spee
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shirley Engraving & Printing | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Shirley Engraving & Printing is a printing service in Speedway, IN at 4444 West 10th Street, Speedway, IN 46222. | https://registry-edge.dingalinged.workers.dev/c/shirley-engraving-and-printing-speedway/
+1. Shirley Engraving & Printing | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Shirley Engraving & Printing is a printing service in Speedway, IN at 4444 West 10th Street, Speedway, IN 46222. | https://registry-edge.dingalinged.workers.dev/c/shirley-engraving-and-printing-speedway/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services speedway in | category: Professional & financial services | industry benchmark: Finance & Insurance

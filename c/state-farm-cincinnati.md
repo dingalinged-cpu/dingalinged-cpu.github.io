@@ -13,7 +13,7 @@ State Farm is an insurance agent in Cincinnati, OH at 882 Ohio Pike, Cincinnati,
 - Website: https://letitiafulkerson.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 52% of insurance agents in Cincinnati, OH, #7 of 8 insurance agents in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 52% of insurance agents in Cincinnati, OH, #7 of 8 insurance agents in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

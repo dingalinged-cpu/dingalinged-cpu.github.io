@@ -6,7 +6,7 @@ Also answers: used cars for sale in St. Ann, MO; used cars for sale near me (St.
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Capital City Motors | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Capital City Motors is an used car dealer in St. Ann, MO. Phone: +13144740047. | https://registry-edge.dingalinged.workers.dev/c/capital-city-motors-st-ann/
+1. Capital City Motors | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Capital City Motors is an used car dealer in St. Ann, MO. Phone: +13144740047. | https://registry-edge.dingalinged.workers.dev/c/capital-city-motors-st-ann/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale st. ann mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

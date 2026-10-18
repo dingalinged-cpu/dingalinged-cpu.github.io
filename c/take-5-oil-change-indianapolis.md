@@ -13,7 +13,7 @@ Take 5 Oil Change is an auto repair shop in Indianapolis, IN at 5235 East Southp
 - Website: https://www.take5.com/locations/oil-change/indiana/indianapolis/31113/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 76% of auto repair shops in Indianapolis, IN, #144 of 175 auto repair shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 77% of auto repair shops in Indianapolis, IN, #144 of 175 auto repair shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

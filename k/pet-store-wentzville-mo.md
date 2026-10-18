@@ -6,8 +6,8 @@ Also answers: pet store in Wentzville, MO; pet store near me (Wentzville, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | PetSmart is a pet store in Wentzville, MO at 1846 Wentzville Parkway, Wentzville, MO 63385. Phone: +16363275125. Website: https://www.petsmart.com/store-locator/store/?storeID=1685. | https://registry-edge.dingalinged.workers.dev/c/petsmart-wentzville/
-2. Treats Unleashed | Organic #2 | Pulse Score 44.1/100 (Unrated, #2 in city) | Treats Unleashed is a pet store in Wentzville, MO at 1570 Wentzville Parkway, Wentzville, MO 63385. Phone: +16362789200. | https://registry-edge.dingalinged.workers.dev/c/treats-unleashed-wentzville/
+1. PetSmart | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | PetSmart is a pet store in Wentzville, MO at 1846 Wentzville Parkway, Wentzville, MO 63385. Phone: +16363275125. Website: https://www.petsmart.com/store-locator/store/?storeID=1685. | https://registry-edge.dingalinged.workers.dev/c/petsmart-wentzville/
+2. Treats Unleashed | Organic #2 | Pulse Score 44/100 (Unrated, #2 in city) | Treats Unleashed is a pet store in Wentzville, MO at 1570 Wentzville Parkway, Wentzville, MO 63385. Phone: +16362789200. | https://registry-edge.dingalinged.workers.dev/c/treats-unleashed-wentzville/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store wentzville mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

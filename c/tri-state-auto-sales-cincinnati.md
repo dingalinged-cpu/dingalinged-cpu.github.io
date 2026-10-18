@@ -13,7 +13,7 @@ Tri State Auto Sales is an used car dealer in Cincinnati, OH at 4505 Kellogg Ave
 - Website: https://www.tristateautosales.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 17% of used car dealers in Cincinnati, OH, #4 of 10 used car dealers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 17% of used car dealers in Cincinnati, OH, #4 of 10 used car dealers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

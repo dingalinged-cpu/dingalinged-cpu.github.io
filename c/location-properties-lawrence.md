@@ -13,7 +13,7 @@ Location Properties is a property management company in Lawrence, KS at 1037 Ver
 - Website: https://location.managebuilding.com/
 - Email: Info@HomesForLease.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 63% of property management companys in Lawrence, KS, #15 of 24 property management companys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 63% of property management companys in Lawrence, KS, #15 of 24 property management companys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

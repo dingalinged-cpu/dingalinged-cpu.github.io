@@ -13,7 +13,7 @@ Professional Painting Services and Sons is a painting contractor in Cincinnati, 
 - Website: https://ppsandsons.com/
 - Email: jerry@ppsandsons.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00, Sa 09:00-15:00
-- Pulse Score: 64.5/100 — Good — top 25% of painting contractors in Cincinnati, OH, #1 of 2 painting contractors in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 25% of painting contractors in Cincinnati, OH, #1 of 2 painting contractors in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 65.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

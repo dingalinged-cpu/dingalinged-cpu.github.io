@@ -13,7 +13,7 @@ Cookie Cutters is a hair salon in Lakewood, CO at 7660 West Virginia Avenue #B, 
 - Website: https://www.haircutsarefun.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 10:00-19:00, Sa 09:00-17:00, Su 12:00-17:00
-- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 70% of hair salons in Denver, CO, #24 of 35 hair salons in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 69% of hair salons in Denver, CO, #23 of 35 hair salons in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

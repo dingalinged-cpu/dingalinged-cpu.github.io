@@ -13,7 +13,7 @@ American Karate is a martial arts school in Wentzville, MO at 1456 West Meyer Ro
 - Website: https://teamamericankarate.com/
 - Email: rich@teamamericankarate.com
 - Opening hours (OSM syntax): Mo-Th 17:00-20:40
-- Pulse Score: 63.5/100 — Good — top 50% of martial arts schools in Wentzville, MO, #1 of 2 martial arts schools in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 50% of martial arts schools in Wentzville, MO, #1 of 2 martial arts schools in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

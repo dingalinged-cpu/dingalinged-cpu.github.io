@@ -13,7 +13,7 @@ Old Flame Mending is a tailor in Pittsburgh, PA at 643 California Avenue, Pittsb
 - Website: https://www.oldflamemending.com/
 - Email: hello@oldflamemending.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 15% of tailors in Pittsburgh, PA, #2 of 7 tailors in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 15% of tailors in Pittsburgh, PA, #2 of 7 tailors in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

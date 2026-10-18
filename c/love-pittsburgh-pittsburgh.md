@@ -13,7 +13,7 @@ Love, Pittsburgh is a gift shop in Pittsburgh, PA at 301 Shiloh Street, Pittsbur
 - Website: https://lovepittsburghshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-18:00; We-Su 11:00-18:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 7% of gift shops in Pittsburgh, PA, #3 of 21 gift shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 7% of gift shops in Pittsburgh, PA, #3 of 21 gift shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Don's Custom Floral is a florist in Hutchinson, KS at 600 North Main Street, Hut
 - Website: https://www.donscustomfloral.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 34% of florists in Wichita, KS, #2 of 3 florists in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 34% of florists in Wichita, KS, #2 of 3 florists in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

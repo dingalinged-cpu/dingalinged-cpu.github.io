@@ -6,11 +6,11 @@ Also answers: used cars for sale in Wichita, KS; used cars for sale near me (Wic
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Don Hattan West | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Don Hattan West is an used car dealer in Wichita, KS. | https://registry-edge.dingalinged.workers.dev/c/don-hattan-west-wichita/
-2. Subaru | Organic #2 | Pulse Score 47.3/100 (Building, #2 in city) | Subaru is an used car dealer in Wichita, KS at 11610 E Kellogg Dr N, Wichita, KS 67207. Phone: +13162647777. | https://registry-edge.dingalinged.workers.dev/c/subaru-wichita/
-3. Donovan Auto & Truck Center | Organic #3 | Pulse Score 46.2/100 (Unrated, #3 in city) | Donovan Auto & Truck Center is an used car dealer in Wichita, KS at 5800 West Kellogg Drive, Wichita, KS 67209. | https://registry-edge.dingalinged.workers.dev/c/donovan-auto-and-truck-center-wichita/
+1. Don Hattan West | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Don Hattan West is an used car dealer in Wichita, KS. | https://registry-edge.dingalinged.workers.dev/c/don-hattan-west-wichita/
+2. Subaru | Organic #2 | Pulse Score 47.1/100 (Building, #2 in city) | Subaru is an used car dealer in Wichita, KS at 11610 E Kellogg Dr N, Wichita, KS 67207. Phone: +13162647777. | https://registry-edge.dingalinged.workers.dev/c/subaru-wichita/
+3. Donovan Auto & Truck Center | Organic #3 | Pulse Score 46.1/100 (Unrated, #3 in city) | Donovan Auto & Truck Center is an used car dealer in Wichita, KS at 5800 West Kellogg Drive, Wichita, KS 67209. | https://registry-edge.dingalinged.workers.dev/c/donovan-auto-and-truck-center-wichita/
 4. CarMax | Organic #4 | Pulse Score 43.3/100 (Building, #4 in city) | CarMax is an used car dealer in Wichita, KS. Website: https://www.carmax.com/stores/7267. | https://registry-edge.dingalinged.workers.dev/c/carmax-wichita/
-5. Nissan | Organic #5 | Pulse Score 41.6/100 (Building, #5 in city) | Nissan is an used car dealer in Wichita, KS. | https://registry-edge.dingalinged.workers.dev/c/nissan-wichita/
+5. Nissan | Organic #5 | Pulse Score 41.5/100 (Building, #5 in city) | Nissan is an used car dealer in Wichita, KS. | https://registry-edge.dingalinged.workers.dev/c/nissan-wichita/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale wichita ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

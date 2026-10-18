@@ -13,7 +13,7 @@ The Sidedoor Salon is a hair salon in Boulder, CO at 2070 Broadway, Boulder, CO 
 - Website: https://www.thesidedoorsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Sa 09:00-17:00; Tu-Fr 09:00-19:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 15% of hair salons in Denver, CO, #5 of 31 hair salons in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 14% of hair salons in Denver, CO, #5 of 31 hair salons in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

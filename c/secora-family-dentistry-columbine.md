@@ -13,7 +13,7 @@ Secora Family Dentistry is a dentist in Columbine, CO at 6712 West Coal Mine Ave
 - Website: https://www.secoradentistry.com/
 - Email: secoradentistry@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 19% of dentists in Denver, CO, #1 of 1 dentists in Columbine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 18% of dentists in Denver, CO, #1 of 1 dentists in Columbine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

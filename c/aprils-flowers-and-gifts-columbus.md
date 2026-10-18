@@ -13,7 +13,7 @@ April's Flowers & Gifts is a florist in Columbus, OH at 1195 West 5th Avenue, Co
 - Website: https://www.aprilsflowersandgifts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00 Sa 10:00-16:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 13% of florists in Columbus, OH, #3 of 14 florists in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 13% of florists in Columbus, OH, #3 of 14 florists in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

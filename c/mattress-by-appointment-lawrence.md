@@ -13,7 +13,7 @@ Mattress By Appointment is a mattress store in Lawrence, KS at 1800 East 23rd St
 - Website: https://www.mattressbyappointment.com/store-locator/mattress-by-appointment-ottawa-ks-191503
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Building — top 100% of mattress stores in Lawrence, KS, #3 of 3 mattress stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 100% of mattress stores in Lawrence, KS, #3 of 3 mattress stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Brake Discount | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Brake Discount is an auto repair shop in Pickerington, OH. | https://registry-edge.dingalinged.workers.dev/c/brake-discount-pickerington/
 2. Midas | Organic #2 | Pulse Score 47.6/100 (Building, #2 in city) | Midas is an auto repair shop in Pickerington, OH at 921 Hill Road North, Pickerington, OH 43147. Phone: +16145480661. | https://registry-edge.dingalinged.workers.dev/c/midas-pickerington/
-3. Valvoline | Organic #3 | Pulse Score 46.3/100 (Building, #3 in city) | Valvoline is an auto repair shop in Pickerington, OH. Website: https://store.vioc.com/oh/pickerington/oil-change-060018.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-pickerington/
+3. Valvoline | Organic #3 | Pulse Score 46.2/100 (Building, #3 in city) | Valvoline is an auto repair shop in Pickerington, OH. Website: https://store.vioc.com/oh/pickerington/oil-change-060018.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-pickerington/
 4. Firestone | Organic #4 | Pulse Score 43.2/100 (Building, #4 in city) | Firestone is an auto repair shop in Pickerington, OH. | https://registry-edge.dingalinged.workers.dev/c/firestone-pickerington/
 5. Goodyear | Organic #5 | Pulse Score 42.7/100 (Building, #5 in city) | Goodyear is an auto repair shop in Pickerington, OH. | https://registry-edge.dingalinged.workers.dev/c/goodyear-pickerington/
 6. Tuffy | Organic #6 | Pulse Score 42.7/100 (Building, #6 in city) | Tuffy is an auto repair shop in Pickerington, OH. | https://registry-edge.dingalinged.workers.dev/c/tuffy-pickerington/

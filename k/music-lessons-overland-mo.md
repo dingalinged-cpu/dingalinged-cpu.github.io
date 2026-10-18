@@ -6,7 +6,7 @@ Also answers: music lessons in Overland, MO; music lessons near me (Overland, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LaVerne Meier School of Dance | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | LaVerne Meier School of Dance is a music school in Overland, MO at 2546 Woodson Road, Overland, MO 63114. Website: https://lmdance.com/. | https://registry-edge.dingalinged.workers.dev/c/laverne-meier-school-of-dance-overland/
+1. LaVerne Meier School of Dance | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | LaVerne Meier School of Dance is a music school in Overland, MO at 2546 Woodson Road, Overland, MO 63114. Website: https://lmdance.com/. | https://registry-edge.dingalinged.workers.dev/c/laverne-meier-school-of-dance-overland/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons overland mo | category: Education & childcare | industry benchmark: Education & Instruction

@@ -13,7 +13,7 @@ Herley's Bicycles is a bike shop in Hutchinson, KS at 107 North Main Street, Hut
 - Website: https://www.harleysbicycles.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Good — top 25% of bike shops in Wichita, KS, #1 of 1 bike shops in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Good — top 25% of bike shops in Wichita, KS, #1 of 1 bike shops in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

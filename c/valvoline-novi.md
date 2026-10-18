@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Novi, MI at 24400 Novi Road, Novi, MI 48375.
 - Website: https://store.vioc.com/mi/novi/oil-change-030084.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 86% of auto repair shops in Detroit, MI, #3 of 4 auto repair shops in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 85% of auto repair shops in Detroit, MI, #3 of 4 auto repair shops in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Circle K is a car wash in Westminster, CO at 7805 West 92nd Avenue, Westminster,
 - Website: https://www.circlek.com/store-locator/US/westminster/7805-w-92nd-ave/2709882
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 49.1/100 — Building — top 69% of car washes in Denver, CO, #7 of 9 car washes in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 67% of car washes in Denver, CO, #7 of 9 car washes in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

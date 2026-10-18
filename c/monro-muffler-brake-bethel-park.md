@@ -13,7 +13,7 @@ Monro Muffler Brake is an auto repair shop in Bethel Park, PA at 5200 Library Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Building — top 83% of auto repair shops in Pittsburgh, PA, #12 of 13 auto repair shops in Bethel Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 83% of auto repair shops in Pittsburgh, PA, #12 of 13 auto repair shops in Bethel Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

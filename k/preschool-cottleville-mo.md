@@ -6,7 +6,7 @@ Also answers: preschool in Cottleville, MO; preschool near me (Cottleville, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Beginnings Learning Center | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Great Beginnings Learning Center is a preschool in Cottleville, MO at 1401 Cottleville Parkway, Cottleville, MO 63376. Phone: +16364474212. Website: https://www.greatbeginningsfamily.com/. | https://registry-edge.dingalinged.workers.dev/c/great-beginnings-learning-center-cottleville/
+1. Great Beginnings Learning Center | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Great Beginnings Learning Center is a preschool in Cottleville, MO at 1401 Cottleville Parkway, Cottleville, MO 63376. Phone: +16364474212. Website: https://www.greatbeginningsfamily.com/. | https://registry-edge.dingalinged.workers.dev/c/great-beginnings-learning-center-cottleville/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool cottleville mo | category: Education & childcare | industry benchmark: Education & Instruction

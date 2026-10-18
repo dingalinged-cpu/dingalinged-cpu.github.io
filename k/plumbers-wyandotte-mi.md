@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Schartz Plumbing | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Schartz Plumbing is a plumber in Wyandotte, MI. Phone: +17343415768. | https://registry-edge.dingalinged.workers.dev/c/schartz-plumbing-wyandotte/
 2. Nowicki's Plumbing | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Nowicki's Plumbing is a plumber in Wyandotte, MI at 2699 Fort Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/nowickis-plumbing-wyandotte/
-3. Keith Gurdick Plumbing Inc. | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Keith Gurdick Plumbing Inc. is a plumber in Wyandotte, MI at 3505 Fort Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/keith-gurdick-plumbing-inc-wyandotte/
+3. Keith Gurdick Plumbing Inc. | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Keith Gurdick Plumbing Inc. is a plumber in Wyandotte, MI at 3505 Fort Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/keith-gurdick-plumbing-inc-wyandotte/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers wyandotte mi | category: Home Services | industry benchmark: Home & Home Improvement

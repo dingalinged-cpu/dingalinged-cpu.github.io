@@ -13,7 +13,7 @@ SmartStop Self Storage is a self-storage facility in Sterling Heights, MI at 425
 - Website: https://smartstopselfstorage.com/find-storage/mi/sterling-heights/42557-van-dyke-avenue
 - Email: support@smartstopselfstorage.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.2/100 — Fair — top 55% of self-storage facilitys in Detroit, MI, #4 of 6 self-storage facilitys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 54% of self-storage facilitys in Detroit, MI, #4 of 6 self-storage facilitys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

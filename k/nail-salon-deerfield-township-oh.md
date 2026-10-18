@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Escape Nail Spa | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Escape Nail Spa is a nail salon in Deerfield Township, OH. Website: https://www.escapenailsmason.com/. | https://registry-edge.dingalinged.workers.dev/c/escape-nail-spa-deerfield-township/
 2. Landen Nails | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Landen Nails is a nail salon in Deerfield Township, OH. Website: https://www.landennails.com/. | https://registry-edge.dingalinged.workers.dev/c/landen-nails-deerfield-township/
-3. Becoming Mom | Organic #3 | Pulse Score 56.6/100 (Unrated, #1 in city) | Becoming Mom is a spa in Mason, OH at 5485 Deerfield Boulevard, Mason, OH 45040. Website: https://www.becomingmomspa.com/. | https://registry-edge.dingalinged.workers.dev/c/becoming-mom-mason/
+3. Becoming Mom | Organic #3 | Pulse Score 56.2/100 (Unrated, #1 in city) | Becoming Mom is a spa in Mason, OH at 5485 Deerfield Boulevard, Mason, OH 45040. Website: https://www.becomingmomspa.com/. | https://registry-edge.dingalinged.workers.dev/c/becoming-mom-mason/
 4. Ambiance Nail Spa | Organic #4 | Pulse Score 50/100 (Unrated, #1 in city) | Ambiance Nail Spa is a nail salon in Mason, OH at Deerfield Boulevard, Mason, OH 45040. Website: https://www.venetiannailsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/ambiance-nail-spa-mason/
 5. V Nails | Organic #5 | Pulse Score 43.2/100 (Unrated, #3 in city) | V Nails is a nail salon in Deerfield Township, OH. | https://registry-edge.dingalinged.workers.dev/c/v-nails-deerfield-township/
 

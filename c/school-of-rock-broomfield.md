@@ -13,7 +13,7 @@ School of Rock is a music school in Broomfield, CO at 6500 West 120th Avenue #B,
 - Website: https://broomfield.schoolofrock.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 89% of music schools in Denver, CO, #2 of 2 music schools in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 89% of music schools in Denver, CO, #2 of 2 music schools in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

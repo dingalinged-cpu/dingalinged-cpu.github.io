@@ -13,7 +13,7 @@ Floyd's 99 Barbershop is a hair salon in Arvada, CO at 6310 Ward Road, Arvada, C
 - Website: https://www.floydsbarbershop.com/locations/colorado/denver/arvada-ward-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-18:00
-- Pulse Score: 49.1/100 — Building — top 73% of hair salons in Denver, CO, #3 of 9 hair salons in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 72% of hair salons in Denver, CO, #3 of 9 hair salons in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

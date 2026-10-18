@@ -6,7 +6,7 @@ Also answers: storage units in Eureka, MO; storage units near me (Eureka, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eureka Self Storage | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Eureka Self Storage is a self-storage facility in Eureka, MO at 1699 West 5th Street, Eureka, MO 63025. | https://registry-edge.dingalinged.workers.dev/c/eureka-self-storage-eureka/
+1. Eureka Self Storage | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Eureka Self Storage is a self-storage facility in Eureka, MO at 1699 West 5th Street, Eureka, MO 63025. | https://registry-edge.dingalinged.workers.dev/c/eureka-self-storage-eureka/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units eureka mo | category: Home services - Moving | industry benchmark: Home & Home Improvement

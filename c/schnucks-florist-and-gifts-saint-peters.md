@@ -13,7 +13,7 @@ Schnucks Florist & Gifts is a florist in Saint Peters, MO at 577 Mid Rivers Mall
 - Website: https://locations.schnucks.com/mo-st-peters-110
 - Email: n/a
 - Opening hours (OSM syntax): Su-Sa 06:00-24:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 100% of florists in St. Peters, MO, #1 of 1 florists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 100% of florists in St. Peters, MO, #1 of 1 florists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

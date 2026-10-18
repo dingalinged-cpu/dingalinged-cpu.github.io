@@ -13,7 +13,7 @@ Plant Cincinnati is a landscaping company in Madeira, OH at 7915 Euclid Avenue, 
 - Website: https://plantcincinnati.com/
 - Email: info@plantcincinnati.com
 - Opening hours (OSM syntax): Mo-Th "By Appointment"; Fr-Sa 09:00-17:00; Su 09:00-15:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 15% of landscaping companys in Cincinnati, OH, #1 of 1 landscaping companys in Madeira (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 15% of landscaping companys in Cincinnati, OH, #1 of 1 landscaping companys in Madeira (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,9 +7,9 @@ Also answers: bakery in Parker, CO; bakery near me (Parker, CO); best bakery Par
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. La Baguette De Normandy | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | La Baguette De Normandy is a bakery in Parker, CO at 16524 Keystone Boulevard #C, Parker, CO 80134. Phone: +13038059130. Website: https://labaguettedenormandy.com/. | https://registry-edge.dingalinged.workers.dev/c/la-baguette-de-normandy-parker/
-2. Posh Pastries | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Posh Pastries is a bakery in Parker, CO at 10471 South Parker Road, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/posh-pastries-parker/
-3. Poulette Bakeshop | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Poulette Bakeshop is a bakery in Parker, CO at 19865 East Mainstreet #130, Parker, CO 80138. | https://registry-edge.dingalinged.workers.dev/c/poulette-bakeshop-parker/
-4. Paris Baguette | Organic #4 | Pulse Score 43.7/100 (Building, #4 in city) | Paris Baguette is a bakery in Parker, CO at 18374 Cottonwood Drive #120, Parker, CO 80138. | https://registry-edge.dingalinged.workers.dev/c/paris-baguette-parker/
+2. Posh Pastries | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Posh Pastries is a bakery in Parker, CO at 10471 South Parker Road, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/posh-pastries-parker/
+3. Poulette Bakeshop | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Poulette Bakeshop is a bakery in Parker, CO at 19865 East Mainstreet #130, Parker, CO 80138. | https://registry-edge.dingalinged.workers.dev/c/poulette-bakeshop-parker/
+4. Paris Baguette | Organic #4 | Pulse Score 43.8/100 (Building, #4 in city) | Paris Baguette is a bakery in Parker, CO at 18374 Cottonwood Drive #120, Parker, CO 80138. | https://registry-edge.dingalinged.workers.dev/c/paris-baguette-parker/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery parker co | category: Events & weddings | industry benchmark: Personal Services

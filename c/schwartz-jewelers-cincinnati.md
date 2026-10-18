@@ -13,7 +13,7 @@ Schwartz Jewelers is a jewelry store in Cincinnati, OH at 6114 Hamilton Avenue, 
 - Website: https://schwartzjewelers.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-17:30, Th 09:00-20:00, Fr 09:00-17:30, Sa 09:00-16:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 6% of jewelry stores in Cincinnati, OH, #3 of 13 jewelry stores in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 6% of jewelry stores in Cincinnati, OH, #3 of 13 jewelry stores in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

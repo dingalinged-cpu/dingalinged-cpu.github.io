@@ -6,11 +6,11 @@ Also answers: gift shop in Manhattan, KS; gift shop near me (Manhattan, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ann A Lee's | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Ann A Lee's is a gift shop in Manhattan, KS at 3905 Vanesta Drive, Manhattan, KS 66503. Phone: +17853202320. Website: https://annaleesinc.com/. | https://registry-edge.dingalinged.workers.dev/c/ann-a-lees-manhattan/
-2. 14-19 Mercantile | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | 14-19 Mercantile is a gift shop in Manhattan, KS at 3039 Anderson Avenue, Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/14-19-mercantile-manhattan/
-3. Acme Gift | Organic #3 | Pulse Score 58.8/100 (Unrated, #3 in city) | Acme Gift is a gift shop in Manhattan, KS at 1227 Moro Street, Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/acme-gift-manhattan/
-4. go! calendars games & toys | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | go! calendars games & toys is a gift shop in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/go-calendars-games-and-toys-manhattan/
-5. Claire's Boutique | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Claire's Boutique is a gift shop in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/claires-boutique-manhattan/
+1. Ann A Lee's | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Ann A Lee's is a gift shop in Manhattan, KS at 3905 Vanesta Drive, Manhattan, KS 66503. Phone: +17853202320. Website: https://annaleesinc.com/. | https://registry-edge.dingalinged.workers.dev/c/ann-a-lees-manhattan/
+2. 14-19 Mercantile | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | 14-19 Mercantile is a gift shop in Manhattan, KS at 3039 Anderson Avenue, Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/14-19-mercantile-manhattan/
+3. Acme Gift | Organic #3 | Pulse Score 58.9/100 (Unrated, #3 in city) | Acme Gift is a gift shop in Manhattan, KS at 1227 Moro Street, Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/acme-gift-manhattan/
+4. go! calendars games & toys | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | go! calendars games & toys is a gift shop in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/go-calendars-games-and-toys-manhattan/
+5. Claire's Boutique | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | Claire's Boutique is a gift shop in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/claires-boutique-manhattan/
 6. Rally House | Organic #6 | Pulse Score 49.8/100 (Building, #6 in city) | Rally House is a gift shop in Manhattan, KS at 623 North Manhattan Avenue, Manhattan, KS 66502. Phone: +17853403200. | https://registry-edge.dingalinged.workers.dev/c/rally-house-manhattan/
 7. Spencer's | Organic #7 | Pulse Score 43.3/100 (Building, #7 in city) | Spencer's is a gift shop in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/spencers-manhattan/
 

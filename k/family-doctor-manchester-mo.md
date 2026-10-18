@@ -6,7 +6,7 @@ Also answers: family doctor in Manchester, MO; family doctor near me (Manchester
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. St. Luke's Family Medicine - Ballwin | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | St. Luke's Family Medicine - Ballwin is a family medicine practice in Manchester, MO at 653 Big Bend Road, Manchester, MO 63021. Phone: +16366857770. | https://registry-edge.dingalinged.workers.dev/c/st-lukes-family-medicine-ballwin-manchester/
+1. St. Luke's Family Medicine - Ballwin | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | St. Luke's Family Medicine - Ballwin is a family medicine practice in Manchester, MO at 653 Big Bend Road, Manchester, MO 63021. Phone: +16366857770. | https://registry-edge.dingalinged.workers.dev/c/st-lukes-family-medicine-ballwin-manchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor manchester mo | category: Health & medical | industry benchmark: Physicians & Surgeons

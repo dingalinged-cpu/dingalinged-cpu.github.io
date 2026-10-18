@@ -6,7 +6,7 @@ Also answers: plumber in Loveland, OH; plumber near me (Loveland, OH); best plum
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rapid Plumbing | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Rapid Plumbing is a plumber in Loveland, OH at 1407 State Route 28, Loveland, OH 45140. Website: https://rapidplumbingservices.com/. | https://registry-edge.dingalinged.workers.dev/c/rapid-plumbing-loveland/
+1. Rapid Plumbing | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Rapid Plumbing is a plumber in Loveland, OH at 1407 State Route 28, Loveland, OH 45140. Website: https://rapidplumbingservices.com/. | https://registry-edge.dingalinged.workers.dev/c/rapid-plumbing-loveland/
 2. Four J Company | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Four J Company is a plumber in Loveland, OH at 1302 State Route 28, Loveland, OH 45140. | https://registry-edge.dingalinged.workers.dev/c/four-j-company-loveland/
 3. Patterson Plumbing Inc. | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Patterson Plumbing Inc. is a plumber in Loveland, OH. | https://registry-edge.dingalinged.workers.dev/c/patterson-plumbing-inc-loveland/
 

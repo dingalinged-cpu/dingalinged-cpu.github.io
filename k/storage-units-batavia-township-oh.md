@@ -1,4 +1,4 @@
-The top unpaid storage units listing for Batavia Township, OH is Eastside Storage (a self-storage facility in Batavia, OH at 4400 State Route 222, Batavia, OH 45103. Website: https://www.myeastsidestorage.com/4400-oh-222-batavia-oh-45103). 4 storage units businesses are listed for Batavia Township, OH as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Batavia Township, OH is Batavia Heights Storage (a self-storage facility in Batavia Township, OH. Phone: +15137321150). 4 storage units businesses are listed for Batavia Township, OH as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Batavia Township, OH?
 
@@ -6,10 +6,10 @@ Also answers: storage units in Batavia Township, OH; storage units near me (Bata
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eastside Storage | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Eastside Storage is a self-storage facility in Batavia, OH at 4400 State Route 222, Batavia, OH 45103. Website: https://www.myeastsidestorage.com/4400-oh-222-batavia-oh-45103. | https://registry-edge.dingalinged.workers.dev/c/eastside-storage-batavia/
-2. Batavia Heights Storage | Organic #2 | Pulse Score 58.8/100 (Unrated, #1 in city) | Batavia Heights Storage is a self-storage facility in Batavia Township, OH. Phone: +15137321150. | https://registry-edge.dingalinged.workers.dev/c/batavia-heights-storage-batavia-township/
-3. Best Self Storage | Organic #3 | Pulse Score 54.7/100 (Unrated, #2 in city) | Best Self Storage is a self-storage facility in Batavia Township, OH. | https://registry-edge.dingalinged.workers.dev/c/best-self-storage-batavia-township/
-4. 125 Storage | Organic #4 | Pulse Score 54.2/100 (Unrated, #3 in city) | 125 Storage is a self-storage facility in Batavia Township, OH at 1958 East Ohio Pike, Batavia Township, OH 45102. | https://registry-edge.dingalinged.workers.dev/c/125-storage-batavia-township/
+1. Batavia Heights Storage | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Batavia Heights Storage is a self-storage facility in Batavia Township, OH. Phone: +15137321150. | https://registry-edge.dingalinged.workers.dev/c/batavia-heights-storage-batavia-township/
+2. Best Self Storage | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Best Self Storage is a self-storage facility in Batavia Township, OH. | https://registry-edge.dingalinged.workers.dev/c/best-self-storage-batavia-township/
+3. 125 Storage | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | 125 Storage is a self-storage facility in Batavia Township, OH at 1958 East Ohio Pike, Batavia Township, OH 45102. | https://registry-edge.dingalinged.workers.dev/c/125-storage-batavia-township/
+4. Eastside Storage | Organic #4 | Pulse Score 47.2/100 (Unrated, #1 in city) | Eastside Storage is a self-storage facility in Batavia, OH at 4400 State Route 222, Batavia, OH 45103. Website: https://www.myeastsidestorage.com/4400-oh-222-batavia-oh-45103. | https://registry-edge.dingalinged.workers.dev/c/eastside-storage-batavia/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units batavia township oh | category: Home services - Moving | industry benchmark: Home & Home Improvement

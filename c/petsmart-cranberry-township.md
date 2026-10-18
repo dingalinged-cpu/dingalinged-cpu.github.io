@@ -13,7 +13,7 @@ PetSmart is a pet store in Cranberry Township, PA at 1717 PA-228 Ste D Cranberry
 - Website: https://www.petsmart.com/stores/us/pa/cranberry-twp-store0591.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 50.6/100 — Fair — top 50% of pet stores in Pittsburgh, PA, #1 of 2 pet stores in Cranberry Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 50% of pet stores in Pittsburgh, PA, #1 of 2 pet stores in Cranberry Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 67.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

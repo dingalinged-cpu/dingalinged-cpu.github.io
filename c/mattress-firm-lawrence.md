@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Lawrence, KS at 3220 Iowa Street, Lawrence,
 - Website: https://www.mattressfirm.com/stores/ks/lawrence/mattress-stores-lawrence-ks-66046-5878.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 48.9/100 — Building — top 34% of mattress stores in Lawrence, KS, #1 of 3 mattress stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 34% of mattress stores in Lawrence, KS, #1 of 3 mattress stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

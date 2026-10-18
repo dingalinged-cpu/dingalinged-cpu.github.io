@@ -6,7 +6,7 @@ Also answers: it support in Webb City, MO; it support near me (Webb City, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. APN TechServices, LLC | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | APN TechServices, LLC is an IT support company in Webb City, MO. | https://registry-edge.dingalinged.workers.dev/c/apn-techservices-llc-webb-city/
+1. APN TechServices, LLC | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | APN TechServices, LLC is an IT support company in Webb City, MO. | https://registry-edge.dingalinged.workers.dev/c/apn-techservices-llc-webb-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support webb city mo | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

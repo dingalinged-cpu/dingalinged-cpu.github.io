@@ -13,7 +13,7 @@ Wells Fargo Advisors is a financial advisor in Saint Louis, MO at 2801 Market St
 - Website: https://home.wellsfargoadvisors.com/001_MOST?excid=FA1500050253
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 24% of financial advisors in St. Louis, MO, #3 of 3 financial advisors in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 24% of financial advisors in St. Louis, MO, #3 of 3 financial advisors in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

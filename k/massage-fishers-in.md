@@ -7,7 +7,7 @@ Also answers: massage in Fishers, IN; massage near me (Fishers, IN); best massag
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Happy Feet Chinese reflexology | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Happy Feet Chinese reflexology is a massage studio in Fishers, IN at 7864 East 96th street, Fishers, IN. | https://registry-edge.dingalinged.workers.dev/c/happy-feet-chinese-reflexology-fishers/
-2. Massage Envy | Organic #2 | Pulse Score 48.6/100 (Building, #2 in city) | Massage Envy is a massage studio in Fishers, IN. Phone: +13175774400. Website: https://www.massageenvy.com/clinics/IN/Fishers.aspx. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-fishers/
+2. Massage Envy | Organic #2 | Pulse Score 48.5/100 (Building, #2 in city) | Massage Envy is a massage studio in Fishers, IN. Phone: +13175774400. Website: https://www.massageenvy.com/clinics/IN/Fishers.aspx. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-fishers/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage fishers in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Michael Bates Chevrolet is an used car dealer in Woodhaven, MI. Phone: +17346769
 - Website: https://www.michaelbateschevy.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Building — top 94% of used car dealers in Detroit, MI, #3 of 4 used car dealers in Woodhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 94% of used car dealers in Detroit, MI, #3 of 4 used car dealers in Woodhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

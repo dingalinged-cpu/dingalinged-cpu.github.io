@@ -13,7 +13,7 @@ Candlewood Liquor is a liquor store in Manhattan, KS at 3256 Kimball Avenue, Man
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-23:00; Su 12:00-20:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 22% of liquor stores in Manhattan, KS, #3 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 22% of liquor stores in Manhattan, KS, #3 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

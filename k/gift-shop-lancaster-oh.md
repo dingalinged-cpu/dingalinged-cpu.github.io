@@ -7,7 +7,7 @@ Also answers: gift shop in Lancaster, OH; gift shop near me (Lancaster, OH); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Emerald Phoenix | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Emerald Phoenix is a gift shop in Lancaster, OH at 548 West Fair Avenue, Lancaster, OH 43130. Phone: +17404228552. Website: https://emeraldphoenixbtq.com/. | https://registry-edge.dingalinged.workers.dev/c/emerald-phoenix-lancaster/
-2. Bewilderment Candle & Gift Shop | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Bewilderment Candle & Gift Shop is a gift shop in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/bewilderment-candle-and-gift-shop-lancaster/
+2. Bewilderment Candle & Gift Shop | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | Bewilderment Candle & Gift Shop is a gift shop in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/bewilderment-candle-and-gift-shop-lancaster/
 3. My Favorite Things | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | My Favorite Things is a gift shop in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/my-favorite-things-lancaster/
 4. Spencer's | Organic #4 | Pulse Score 44.5/100 (Building, #4 in city) | Spencer's is a gift shop in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/spencers-lancaster/
 

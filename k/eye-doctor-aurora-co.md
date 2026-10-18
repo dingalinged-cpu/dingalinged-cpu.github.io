@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Eye Envy Vision | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Eye Envy Vision is an eye care practice in Aurora, CO at 700 South Buckley Road #K, Aurora, CO 80017. Website: https://www.eyeenvyvision.com/. | https://registry-edge.dingalinged.workers.dev/c/eye-envy-vision-aurora/
 2. Lighthouse Vision Clinic | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Lighthouse Vision Clinic is an eye care practice in Aurora, CO at 9400 East Hampden Avenue, Aurora, CO 80231. | https://registry-edge.dingalinged.workers.dev/c/lighthouse-vision-clinic-aurora/
-3. EyeCare Specialties of Colorado - Pioneer Hills | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | EyeCare Specialties of Colorado - Pioneer Hills is an eye care practice in Aurora, CO at 5640 South Parker Road, Aurora, CO 80015. | https://registry-edge.dingalinged.workers.dev/c/eyecare-specialties-of-colorado-pioneer-hills-aurora/
-4. National Vision | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | National Vision is an eye care practice in Aurora, CO at 5650 South Chambers Road, Aurora, CO 80015. | https://registry-edge.dingalinged.workers.dev/c/national-vision-aurora/
+3. EyeCare Specialties of Colorado - Pioneer Hills | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | EyeCare Specialties of Colorado - Pioneer Hills is an eye care practice in Aurora, CO at 5640 South Parker Road, Aurora, CO 80015. | https://registry-edge.dingalinged.workers.dev/c/eyecare-specialties-of-colorado-pioneer-hills-aurora/
+4. National Vision | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | National Vision is an eye care practice in Aurora, CO at 5650 South Chambers Road, Aurora, CO 80015. | https://registry-edge.dingalinged.workers.dev/c/national-vision-aurora/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor aurora co | category: Health & medical | industry benchmark: Physicians & Surgeons

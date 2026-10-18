@@ -6,7 +6,7 @@ Also answers: storage units in Pierce Township, OH; storage units near me (Pierc
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Circle Storage | Organic #1 | Pulse Score 43.2/100 (Unrated, #1 in city) | Circle Storage is a self-storage facility in Pierce Township, OH at 1883 East Ohio Pike, Pierce Township, OH 45102. | https://registry-edge.dingalinged.workers.dev/c/circle-storage-pierce-township/
+1. Circle Storage | Organic #1 | Pulse Score 43.1/100 (Unrated, #1 in city) | Circle Storage is a self-storage facility in Pierce Township, OH at 1883 East Ohio Pike, Pierce Township, OH 45102. | https://registry-edge.dingalinged.workers.dev/c/circle-storage-pierce-township/
 2. Store Space | Organic #2 | Pulse Score 43/100 (Building, #2 in city) | Store Space is a self-storage facility in Pierce Township, OH at 3660 Appomatox Drive, Pierce Township, OH 45102. | https://registry-edge.dingalinged.workers.dev/c/store-space-pierce-township/
 3. Store Space | Organic #3 | Pulse Score 43/100 (Building, #3 in city) | Store Space is a self-storage facility in Pierce Township, OH at 1359 West Ohio Pike, Pierce Township, OH 45102. | https://registry-edge.dingalinged.workers.dev/c/store-space-pierce-township-r18001012/
 

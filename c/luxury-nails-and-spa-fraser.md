@@ -13,7 +13,7 @@ Luxury Nails & Spa is a nail salon in Fraser, MI at 15240 15 Mile Road, Fraser, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 11:00-16:30
-- Pulse Score: 50/100 — Fair — top 87% of nail salons in Detroit, MI, #3 of 3 nail salons in Fraser (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.7, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 86% of nail salons in Detroit, MI, #3 of 3 nail salons in Fraser (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.7, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

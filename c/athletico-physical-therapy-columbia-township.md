@@ -13,7 +13,7 @@ Athletico Physical Therapy is a physical therapy clinic in Columbia Township, OH
 - Website: https://www.athletico.com/locations/cincinnati-mariemont/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 80% of physical therapy clinics in Cincinnati, OH, #1 of 1 physical therapy clinics in Columbia Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 80% of physical therapy clinics in Cincinnati, OH, #1 of 1 physical therapy clinics in Columbia Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

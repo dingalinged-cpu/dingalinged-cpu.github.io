@@ -6,7 +6,7 @@ Also answers: therapist in Arvada, CO; therapist near me (Arvada, CO); best ther
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Action Behavior Centers | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Action Behavior Centers is a therapy practice in Arvada, CO at 8330 West 80th Avenue #4, Arvada, CO 80005. Phone: +17207156333. Website: https://www.actionbehavior.com/location/colorado/arvada-west-80th-ave. | https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-arvada/
+1. Action Behavior Centers | Organic #1 | Pulse Score 49.9/100 (Building, #1 in city) | Action Behavior Centers is a therapy practice in Arvada, CO at 8330 West 80th Avenue #4, Arvada, CO 80005. Phone: +17207156333. Website: https://www.actionbehavior.com/location/colorado/arvada-west-80th-ave. | https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-arvada/
 2. Planned Parenthood | Organic #2 | Pulse Score 42.2/100 (Unrated, #2 in city) | Planned Parenthood is a therapy practice in Arvada, CO. | https://registry-edge.dingalinged.workers.dev/c/planned-parenthood-arvada/
 3. WW Studio | Organic #3 | Pulse Score 41.9/100 (Building, #3 in city) | WW Studio is a therapy practice in Arvada, CO. | https://registry-edge.dingalinged.workers.dev/c/ww-studio-arvada/
 

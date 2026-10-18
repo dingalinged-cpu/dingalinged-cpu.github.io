@@ -7,7 +7,7 @@ Also answers: plumbing services in Dearborn, MI; plumbing services near me (Dear
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The Dearborn Plumbers | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | The Dearborn Plumbers is a plumber in Dearborn, MI at 4917 Schaefer Road #Suite 7, Dearborn, MI 48126. Phone: +13133343509. Website: https://www.plumberdearbornmi.info/. | https://registry-edge.dingalinged.workers.dev/c/the-dearborn-plumbers-dearborn/
-2. McCarthy Plumbing | Organic #2 | Pulse Score 53.7/100 (Unrated, #2 in city) | McCarthy Plumbing is a plumber in Dearborn, MI. | https://registry-edge.dingalinged.workers.dev/c/mccarthy-plumbing-dearborn/
+2. McCarthy Plumbing | Organic #2 | Pulse Score 53.6/100 (Unrated, #2 in city) | McCarthy Plumbing is a plumber in Dearborn, MI. | https://registry-edge.dingalinged.workers.dev/c/mccarthy-plumbing-dearborn/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services dearborn mi | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

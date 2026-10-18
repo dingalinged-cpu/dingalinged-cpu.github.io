@@ -6,7 +6,7 @@ Also answers: dentist in Sewickley, PA; dentist near me (Sewickley, PA); best de
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. John Paul Piccolo, D.M.D. General Dentistry | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | John Paul Piccolo, D.M.D. General Dentistry is a dentist in Sewickley, PA. | https://registry-edge.dingalinged.workers.dev/c/john-paul-piccolo-d-m-d-general-dentistry-sewickley/
+1. John Paul Piccolo, D.M.D. General Dentistry | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | John Paul Piccolo, D.M.D. General Dentistry is a dentist in Sewickley, PA. | https://registry-edge.dingalinged.workers.dev/c/john-paul-piccolo-d-m-d-general-dentistry-sewickley/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist sewickley pa | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -1,0 +1,24 @@
+Joshua Chiropractic is a chiropractor in Joshua, TX. Phone: +18174842707. Website: https://www.joshuachiropractic.com/.
+
+# Joshua Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: Joshua, TX
+- City: Joshua
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.48325, -97.3785891
+- Phone: +18174842707
+- Website: https://www.joshuachiropractic.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 100% of chiropractors in Burleson, TX, #1 of 1 chiropractors in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/joshua-chiropractic-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/joshua-chiropractic-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1179899316 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

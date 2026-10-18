@@ -13,7 +13,7 @@ DeWitt and Tabler Funeral Directors is a funeral home in Thornton, CO at 12114 G
 - Website: https://www.dewittandtabler.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 30% of funeral homes in Denver, CO, #1 of 2 funeral homes in Thornton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 30% of funeral homes in Denver, CO, #1 of 2 funeral homes in Thornton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

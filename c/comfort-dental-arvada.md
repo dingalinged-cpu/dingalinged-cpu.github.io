@@ -13,7 +13,7 @@ Comfort Dental is a dentist in Arvada, CO at 9515 Ralston Road #400, Arvada, CO 
 - Website: https://comfortdental.com/office/co-ralston-creek/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-19:30; Sa 07:30-13:30
-- Pulse Score: 47.8/100 — Building — top 90% of dentists in Denver, CO, #9 of 9 dentists in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 89% of dentists in Denver, CO, #9 of 9 dentists in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

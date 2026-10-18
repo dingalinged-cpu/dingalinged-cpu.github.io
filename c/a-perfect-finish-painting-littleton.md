@@ -13,7 +13,7 @@ A Perfect Finish Painting is a painting contractor in Littleton, CO at 7543 Sout
 - Website: https://apfpainters.com/
 - Email: info@apfpainters.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa-Su "by appointment only"
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 8% of painting contractors in Denver, CO, #1 of 3 painting contractors in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 8% of painting contractors in Denver, CO, #1 of 3 painting contractors in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

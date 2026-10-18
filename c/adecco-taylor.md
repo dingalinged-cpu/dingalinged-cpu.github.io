@@ -13,7 +13,7 @@ Adecco is a staffing agency in Taylor, MI at 22304 Goddard Road, Taylor, MI 4818
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30
-- Pulse Score: 45.9/100 — Unrated (not enough evidence yet) — top 76% of staffing agencys in Detroit, MI, #1 of 2 staffing agencys in Taylor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Unrated (not enough evidence yet) — top 76% of staffing agencys in Detroit, MI, #1 of 2 staffing agencys in Taylor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Queen Anne's Lace Flowers and Gifts is a florist in Brownsburg, IN at 405 East M
 - Website: https://www.queenanneslaceflowers.com/
 - Email: staff@qalflowers.com
 - Opening hours (OSM syntax): Su "by appointment", Mo-Fr 08:30-17:00, Sa 09:00-13:30
-- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 5% of florists in Indianapolis, IN, #1 of 2 florists in Brownsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 5% of florists in Indianapolis, IN, #1 of 2 florists in Brownsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

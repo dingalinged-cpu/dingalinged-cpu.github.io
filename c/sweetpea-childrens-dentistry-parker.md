@@ -13,7 +13,7 @@ Sweetpea Children's Dentistry is a dentist in Parker, CO at 9870 Mangano Lane #1
 - Website: https://www.sweetpeadentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-05:00; Fr "by appointment"
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 12% of dentists in Denver, CO, #6 of 36 dentists in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 12% of dentists in Denver, CO, #5 of 36 dentists in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

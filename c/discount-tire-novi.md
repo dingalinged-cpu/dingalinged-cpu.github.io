@@ -13,7 +13,7 @@ Discount Tire is a tire shop in Novi, MI at 42990 Grand River Avenue, Novi, MI. 
 - Website: https://stores.discounttire.com/mi/novi/mid-01/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Building — top 87% of tire shops in Detroit, MI, #1 of 1 tire shops in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 87% of tire shops in Detroit, MI, #1 of 1 tire shops in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

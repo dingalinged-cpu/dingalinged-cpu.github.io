@@ -6,7 +6,7 @@ Also answers: tire shop in Blawnox, PA; tire shop near me (Blawnox, PA); best ti
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tower Tire | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Tower Tire is a tire shop in Blawnox, PA. | https://registry-edge.dingalinged.workers.dev/c/tower-tire-blawnox/
+1. Tower Tire | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Tower Tire is a tire shop in Blawnox, PA. | https://registry-edge.dingalinged.workers.dev/c/tower-tire-blawnox/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop blawnox pa | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

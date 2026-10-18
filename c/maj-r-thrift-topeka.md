@@ -13,7 +13,7 @@ Maj-r thrift is a thrift store in Topeka, KS at 2020 Northwest Topeka Boulevard 
 - Website: https://www.maj-rthrift.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-18:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 25% of thrift stores in Topeka, KS, #1 of 4 thrift stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 25% of thrift stores in Topeka, KS, #1 of 4 thrift stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

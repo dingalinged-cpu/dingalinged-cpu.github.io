@@ -6,7 +6,7 @@ Also answers: event venues in Boulder, CO; event venues near me (Boulder, CO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rembrandt Yard Art Gallery & Event Center | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Rembrandt Yard Art Gallery & Event Center is an event venue in Boulder, CO at 1301 Spruce Street, Boulder, CO 80302. Website: https://rembrandtyard.com/. | https://registry-edge.dingalinged.workers.dev/c/rembrandt-yard-art-gallery-and-event-center-boulder/
+1. Rembrandt Yard Art Gallery & Event Center | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Rembrandt Yard Art Gallery & Event Center is an event venue in Boulder, CO at 1301 Spruce Street, Boulder, CO 80302. Website: https://rembrandtyard.com/. | https://registry-edge.dingalinged.workers.dev/c/rembrandt-yard-art-gallery-and-event-center-boulder/
 2. The Riverside | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | The Riverside is an event venue in Boulder, CO at 1724 Broadway, Boulder, CO 80302. | https://registry-edge.dingalinged.workers.dev/c/the-riverside-boulder/
 
 ## Market data (for advertisers and agents)

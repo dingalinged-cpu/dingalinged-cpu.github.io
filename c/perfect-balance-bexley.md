@@ -13,7 +13,7 @@ Perfect Balance is an accountant in Bexley, OH at 2470 East Main Street, Bexley,
 - Website: https://www.perfectbalancecpa.com/
 - Email: howard@perfectbalancecpa.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 36% of accountants in Columbus, OH, #1 of 1 accountants in Bexley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 36% of accountants in Columbus, OH, #1 of 1 accountants in Bexley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

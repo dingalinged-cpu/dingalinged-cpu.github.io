@@ -6,7 +6,7 @@ Also answers: primary care physician in Springfield, MO; primary care physician 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 65Prime+ | Organic #1 | Pulse Score 42.7/100 (Unrated, #1 in city) | 65Prime+ is a family medicine practice in Springfield, MO at 319 East Battlefield Road #G, Springfield, MO 65807. | https://registry-edge.dingalinged.workers.dev/c/65prime-springfield/
+1. 65Prime+ | Organic #1 | Pulse Score 42.8/100 (Unrated, #1 in city) | 65Prime+ is a family medicine practice in Springfield, MO at 319 East Battlefield Road #G, Springfield, MO 65807. | https://registry-edge.dingalinged.workers.dev/c/65prime-springfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician springfield mo | category: Health & medical | industry benchmark: Physicians & Surgeons

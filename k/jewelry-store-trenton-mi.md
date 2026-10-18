@@ -7,7 +7,7 @@ Also answers: jewelry store in Trenton, MI; jewelry store near me (Trenton, MI);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Trenton Jewelers | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Trenton Jewelers is a jewelry store in Trenton, MI at 2355 West Road, Trenton, MI 48183. Phone: +17346760188. Website: https://www.trenton-jewelers.com/. | https://registry-edge.dingalinged.workers.dev/c/trenton-jewelers-trenton/
-2. Diamond Creations Jewelers | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Diamond Creations Jewelers is a jewelry store in Trenton, MI at 3050 Van Horn Road, Trenton, MI 48183. | https://registry-edge.dingalinged.workers.dev/c/diamond-creations-jewelers-trenton/
+2. Diamond Creations Jewelers | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Diamond Creations Jewelers is a jewelry store in Trenton, MI at 3050 Van Horn Road, Trenton, MI 48183. | https://registry-edge.dingalinged.workers.dev/c/diamond-creations-jewelers-trenton/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store trenton mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

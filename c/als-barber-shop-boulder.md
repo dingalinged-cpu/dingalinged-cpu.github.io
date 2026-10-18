@@ -13,7 +13,7 @@ Al's Barber Shop is a hair salon in Boulder, CO at 1219 Pennsylvania Avenue, Bou
 - Website: https://www.als-barbershop.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:30-18:30; Tu,We 08:30-19:00; Th 08:30-20:00; Fr 08:30-18:00; Sa 08:30-15:30
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 21% of hair salons in Denver, CO, #9 of 31 hair salons in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 20% of hair salons in Denver, CO, #9 of 31 hair salons in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

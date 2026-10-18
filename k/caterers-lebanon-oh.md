@@ -6,7 +6,7 @@ Also answers: caterers in Lebanon, OH; caterers near me (Lebanon, OH); best cate
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Watkins Catering | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Watkins Catering is a caterer in Lebanon, OH. | https://registry-edge.dingalinged.workers.dev/c/watkins-catering-lebanon/
+1. Watkins Catering | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Watkins Catering is a caterer in Lebanon, OH. | https://registry-edge.dingalinged.workers.dev/c/watkins-catering-lebanon/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers lebanon oh | category: Events & weddings | industry benchmark: Personal Services

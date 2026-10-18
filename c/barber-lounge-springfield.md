@@ -13,7 +13,7 @@ Barber Lounge is a hair salon in Springfield, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-19:00; Sa 09:00-13:00
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 43% of hair salons in Springfield, MO, #15 of 35 hair salons in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 72% of hair salons in Springfield, MO, #25 of 35 hair salons in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

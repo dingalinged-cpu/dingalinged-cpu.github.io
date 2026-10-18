@@ -6,7 +6,7 @@ Also answers: pet store in Valley Center, KS; pet store near me (Valley Center, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PawPrints Pet Supply | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | PawPrints Pet Supply is a pet store in Valley Center, KS at 126 West Main Street, Valley Center, KS 67147. | https://registry-edge.dingalinged.workers.dev/c/pawprints-pet-supply-valley-center/
+1. PawPrints Pet Supply | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | PawPrints Pet Supply is a pet store in Valley Center, KS at 126 West Main Street, Valley Center, KS 67147. | https://registry-edge.dingalinged.workers.dev/c/pawprints-pet-supply-valley-center/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store valley center ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

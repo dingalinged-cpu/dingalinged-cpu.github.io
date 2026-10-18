@@ -13,7 +13,7 @@ Lincoln Park Veterinary Hospital is a veterinarian in Lincoln Park, MI at 3909 F
 - Website: https://downrivervet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu, Th 08:00-18:00; We, Fr 08:00-17:00; Sa 08:00-13:30
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of veterinarians in Detroit, MI, #1 of 2 veterinarians in Lincoln Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of veterinarians in Detroit, MI, #1 of 2 veterinarians in Lincoln Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

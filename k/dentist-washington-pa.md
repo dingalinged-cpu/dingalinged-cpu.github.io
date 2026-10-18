@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Elizabeth L. Wakim, DDS | Organic #1 | Pulse Score 63.9/100 (Unrated, #1 in city) | Elizabeth L. Wakim, DDS is a dentist in Washington, PA at 620 North Main Street, Washington, PA 15301. Phone: +17242255070. Website: https://elizabethlwakimdds.com/. | https://registry-edge.dingalinged.workers.dev/c/elizabeth-l-wakim-dds-washington/
 2. Good Orthodontics | Organic #2 | Pulse Score 63/100 (Unrated, #2 in city) | Good Orthodontics is a dentist in Washington, PA at 111 Washington Street, Washington, PA 15301. Phone: +17242251114. Website: https://www.goodorthodontics.com/. | https://registry-edge.dingalinged.workers.dev/c/good-orthodontics-washington/
-3. Associates in Dentistry | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Associates in Dentistry is a dentist in Washington, PA. | https://registry-edge.dingalinged.workers.dev/c/associates-in-dentistry-washington/
-4. Washington Dental | Organic #4 | Pulse Score 55.7/100 (Unrated, #4 in city) | Washington Dental is a dentist in Washington, PA. | https://registry-edge.dingalinged.workers.dev/c/washington-dental-washington/
+3. Associates in Dentistry | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | Associates in Dentistry is a dentist in Washington, PA. | https://registry-edge.dingalinged.workers.dev/c/associates-in-dentistry-washington/
+4. Washington Dental | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Washington Dental is a dentist in Washington, PA. | https://registry-edge.dingalinged.workers.dev/c/washington-dental-washington/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist washington pa | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

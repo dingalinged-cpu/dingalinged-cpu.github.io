@@ -13,7 +13,7 @@ Fine Wine & Good Spirits is a liquor store in Canonsburg, PA at 43 East Pike Str
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Building — top 99% of liquor stores in Pittsburgh, PA, #2 of 2 liquor stores in Canonsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.5/100 — Building — top 99% of liquor stores in Pittsburgh, PA, #2 of 2 liquor stores in Canonsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

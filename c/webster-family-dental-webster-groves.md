@@ -13,7 +13,7 @@ Webster Family Dental is a dentist in Webster Groves, MO at 8005 Big Bend Boulev
 - Website: https://mywebsterfamilydental.com/
 - Email: contact@mywebsterfamilydental.com
 - Opening hours (OSM syntax): Mo 09:00-18:00; Tu-We 08:00-17:00; Th 08:00-16:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 9% of dentists in St. Louis, MO, #1 of 1 dentists in Webster Groves (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 9% of dentists in St. Louis, MO, #1 of 1 dentists in Webster Groves (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: event venues in Lakewood, CO; event venues near me (Lakewood, CO);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Phoenix Event Center | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Phoenix Event Center is an event venue in Lakewood, CO at 5255 West 6th Avenue Frontage Road, Lakewood, CO. | https://registry-edge.dingalinged.workers.dev/c/phoenix-event-center-lakewood/
-2. Rockleys Events & Suites | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Rockleys Events & Suites is an event venue in Lakewood, CO. | https://registry-edge.dingalinged.workers.dev/c/rockleys-events-and-suites-lakewood/
+2. Rockleys Events & Suites | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Rockleys Events & Suites is an event venue in Lakewood, CO. | https://registry-edge.dingalinged.workers.dev/c/rockleys-events-and-suites-lakewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues lakewood co | category: Events & weddings | industry benchmark: Personal Services

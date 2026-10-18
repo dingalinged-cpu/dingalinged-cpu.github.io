@@ -13,7 +13,7 @@ Manhattan Oral Surgery and Implant Center is a dentist in Manhattan, KS at 4201 
 - Website: https://www.manhattanoralsurgerycenter.com/
 - Email: info@manhattanoralsurgerycenter.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 20% of dentists in Manhattan, KS, #1 of 5 dentists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 20% of dentists in Manhattan, KS, #1 of 5 dentists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

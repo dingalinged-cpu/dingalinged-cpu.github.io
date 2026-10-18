@@ -13,7 +13,7 @@ Archiable Electric is an electrician in Fairfax, OH at 3803 Ford Circle, Fairfax
 - Website: https://www.archiableelectric.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 67% of electricians in Cincinnati, OH, #1 of 1 electricians in Fairfax (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 67% of electricians in Cincinnati, OH, #1 of 1 electricians in Fairfax (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

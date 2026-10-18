@@ -7,10 +7,10 @@ Also answers: gym in Thornton, CO; gym near me (Thornton, CO); best gym Thornton
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Powerhouse Gym - Thornton | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Powerhouse Gym - Thornton is a gym in Thornton, CO at 4251 East 104th Avenue, Thornton, CO 80233. Phone: +13032808187. Website: https://powerhousegymthornton.com/. | https://registry-edge.dingalinged.workers.dev/c/powerhouse-gym-thornton-thornton/
-2. LightenUp Fitness | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | LightenUp Fitness is a gym in Thornton, CO at 14340 Lincoln Street, Thornton, CO 80023. | https://registry-edge.dingalinged.workers.dev/c/lightenup-fitness-thornton/
+2. LightenUp Fitness | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | LightenUp Fitness is a gym in Thornton, CO at 14340 Lincoln Street, Thornton, CO 80023. | https://registry-edge.dingalinged.workers.dev/c/lightenup-fitness-thornton/
 3. VASA Fitness | Organic #3 | Pulse Score 46.2/100 (Building, #3 in city) | VASA Fitness is a gym in Thornton, CO at 1420 East 104th Avenue, Thornton, CO 80233. Phone: +13032558272. | https://registry-edge.dingalinged.workers.dev/c/vasa-fitness-thornton/
-4. Chuze Fitness | Organic #4 | Pulse Score 44.5/100 (Unrated, #4 in city) | Chuze Fitness is a gym in Thornton, CO at 650 East 102nd Avenue, Thornton, CO 80229. | https://registry-edge.dingalinged.workers.dev/c/chuze-fitness-thornton/
-5. Planet Fitness | Organic #5 | Pulse Score 43.8/100 (Building, #5 in city) | Planet Fitness is a gym in Thornton, CO at 880 East 104th Avenue, Thornton, CO 80233. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-thornton-w113048117/
+4. Planet Fitness | Organic #4 | Pulse Score 43.8/100 (Building, #4 in city) | Planet Fitness is a gym in Thornton, CO at 880 East 104th Avenue, Thornton, CO 80233. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-thornton-w113048117/
+5. Chuze Fitness | Organic #5 | Pulse Score 43.4/100 (Unrated, #5 in city) | Chuze Fitness is a gym in Thornton, CO at 650 East 102nd Avenue, Thornton, CO 80229. | https://registry-edge.dingalinged.workers.dev/c/chuze-fitness-thornton/
 6. Planet Fitness | Organic #6 | Pulse Score 41.7/100 (Building, #6 in city) | Planet Fitness is a gym in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-thornton/
 
 ## Market data (for advertisers and agents)

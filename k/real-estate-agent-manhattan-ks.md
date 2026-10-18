@@ -6,10 +6,10 @@ Also answers: real estate agent in Manhattan, KS; real estate agent near me (Man
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Manhattan Eyecare | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Manhattan Eyecare is a real estate agency in Manhattan, KS at 1430 Poyntz Avenue, Manhattan, KS 66502. Website: https://www.manhattaneyecare.com/. | https://registry-edge.dingalinged.workers.dev/c/manhattan-eyecare-manhattan/
-2. The Alms Group Real Estate | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | The Alms Group Real Estate is a real estate agency in Manhattan, KS at 1202 Moro Street, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/the-alms-group-real-estate-manhattan/
-3. Ryan & Sons Realtors | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Ryan & Sons Realtors is a real estate agency in Manhattan, KS at 600 Humboldt Street, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/ryan-and-sons-realtors-manhattan/
-4. Landmark Real Estate | Organic #4 | Pulse Score 55.8/100 (Unrated, #4 in city) | Landmark Real Estate is a real estate agency in Manhattan, KS at 3019 Anderson Avenue, Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/landmark-real-estate-manhattan/
+1. Manhattan Eyecare | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Manhattan Eyecare is a real estate agency in Manhattan, KS at 1430 Poyntz Avenue, Manhattan, KS 66502. Website: https://www.manhattaneyecare.com/. | https://registry-edge.dingalinged.workers.dev/c/manhattan-eyecare-manhattan/
+2. The Alms Group Real Estate | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | The Alms Group Real Estate is a real estate agency in Manhattan, KS at 1202 Moro Street, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/the-alms-group-real-estate-manhattan/
+3. Ryan & Sons Realtors | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Ryan & Sons Realtors is a real estate agency in Manhattan, KS at 600 Humboldt Street, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/ryan-and-sons-realtors-manhattan/
+4. Landmark Real Estate | Organic #4 | Pulse Score 55.7/100 (Unrated, #4 in city) | Landmark Real Estate is a real estate agency in Manhattan, KS at 3019 Anderson Avenue, Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/landmark-real-estate-manhattan/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent manhattan ks | category: Professional & financial services | industry benchmark: Finance & Insurance

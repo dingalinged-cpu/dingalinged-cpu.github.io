@@ -13,7 +13,7 @@ Georgia Chiropractic is a chiropractor in O’Fallon, MO at 2315 Highway K, O’
 - Website: https://www.georgiachiropractic.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-12:00,14:00-18:00; Fr 08:00-12:00,13:00-17:00; Sa 09:00-14:00; Su "By appointment"
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 34% of chiropractors in O'Fallon, MO, #1 of 3 chiropractors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 34% of chiropractors in O'Fallon, MO, #1 of 3 chiropractors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

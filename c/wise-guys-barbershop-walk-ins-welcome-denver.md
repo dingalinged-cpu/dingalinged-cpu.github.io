@@ -13,7 +13,7 @@ Wise Guys Barbershop Walk ins Welcome is a barber shop in Denver, CO at 7950 E M
 - Website: https://www.wiseguysbarbers.com/
 - Email: ariamin3@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 48% of barber shops in Denver, CO, #8 of 10 barber shops in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 48% of barber shops in Denver, CO, #8 of 10 barber shops in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

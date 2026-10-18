@@ -13,7 +13,7 @@ Qualawash - Granite City is a car wash in Madison County, IL. Website: https://w
 - Website: https://www.qualawash.com/locator/results_details.php?id=886
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 44% of car washes in St. Louis, MO, #1 of 1 car washes in Madison County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 42% of car washes in St. Louis, MO, #1 of 1 car washes in Madison County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

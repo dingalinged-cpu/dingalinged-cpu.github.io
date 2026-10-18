@@ -13,7 +13,7 @@ Hygenic Dry Cleaners is a dry cleaner in Topeka, KS at 2930 Southwest McClure Ro
 - Website: https://www.hygienicdryclean.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:30, Sa 09:00-13:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of dry cleaners in Topeka, KS, #1 of 5 dry cleaners in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of dry cleaners in Topeka, KS, #1 of 5 dry cleaners in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

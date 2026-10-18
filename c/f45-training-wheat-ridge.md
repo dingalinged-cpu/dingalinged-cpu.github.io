@@ -13,7 +13,7 @@ F45 Training is a gym in Wheat Ridge, CO at 5091 Kipling Street #300, Wheat Ridg
 - Website: https://f45training.com/studio/arvadaridge/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 69% of gyms in Denver, CO, #7 of 7 gyms in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 68% of gyms in Denver, CO, #7 of 7 gyms in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: hvac repair in Moon Township, PA; hvac repair near me (Moon Townsh
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wade Heating & Cooling | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Wade Heating & Cooling is a HVAC contractor in Moon Township, PA at 203 Hershinger Road, Moon Township, PA 15108. | https://registry-edge.dingalinged.workers.dev/c/wade-heating-and-cooling-moon-township/
+1. Wade Heating & Cooling | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Wade Heating & Cooling is a HVAC contractor in Moon Township, PA at 203 Hershinger Road, Moon Township, PA 15108. | https://registry-edge.dingalinged.workers.dev/c/wade-heating-and-cooling-moon-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair moon township pa | category: Home services - HVAC | industry benchmark: Home & Home Improvement

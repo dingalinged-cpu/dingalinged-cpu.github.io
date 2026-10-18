@@ -13,7 +13,7 @@ Heritage Funeral Home is a funeral home in Andover, KS at 502 West Central Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 38% of funeral homes in Wichita, KS, #1 of 1 funeral homes in Andover (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Wichita, KS, #1 of 1 funeral homes in Andover (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

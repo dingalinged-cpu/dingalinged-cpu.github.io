@@ -6,7 +6,7 @@ Also answers: eye doctor in Taylor, MI; eye doctor near me (Taylor, MI); best ey
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Henry Ford OptimEyes | Organic #1 | Pulse Score 42.4/100 (Unrated, #1 in city) | Henry Ford OptimEyes is an eye care practice in Taylor, MI. | https://registry-edge.dingalinged.workers.dev/c/henry-ford-optimeyes-taylor/
+1. Henry Ford OptimEyes | Organic #1 | Pulse Score 42.3/100 (Unrated, #1 in city) | Henry Ford OptimEyes is an eye care practice in Taylor, MI. | https://registry-edge.dingalinged.workers.dev/c/henry-ford-optimeyes-taylor/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor taylor mi | category: Health & medical | industry benchmark: Physicians & Surgeons

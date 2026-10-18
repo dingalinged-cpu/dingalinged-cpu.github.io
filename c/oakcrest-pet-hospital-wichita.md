@@ -13,7 +13,7 @@ Oakcrest Pet Hospital is a veterinarian in Wichita, KS. Phone: +13167224828. Web
 - Website: https://www.vetinwichita.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30; Sa 08:00-12:00; Su closed
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 23% of veterinarians in Wichita, KS, #2 of 8 veterinarians in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 23% of veterinarians in Wichita, KS, #2 of 8 veterinarians in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: property management companies in Littleton, CO; property managemen
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Westlake Greens Leasing Office | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Westlake Greens Leasing Office is a property management company in Littleton, CO at 8000 West Crestline Avenue, Littleton, CO 80123. | https://registry-edge.dingalinged.workers.dev/c/westlake-greens-leasing-office-littleton/
+1. Westlake Greens Leasing Office | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Westlake Greens Leasing Office is a property management company in Littleton, CO at 8000 West Crestline Avenue, Littleton, CO 80123. | https://registry-edge.dingalinged.workers.dev/c/westlake-greens-leasing-office-littleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies littleton co | category: real_estate | industry benchmark: Real Estate

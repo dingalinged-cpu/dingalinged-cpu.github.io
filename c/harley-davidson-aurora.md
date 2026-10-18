@@ -13,7 +13,7 @@ Harley-Davidson is a motorcycle repair shop in Aurora, CO. Phone: +13039514908. 
 - Website: https://www.milehigh-harley.com/we-repair-your-motorcycle--service
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Building — top 75% of motorcycle repair shops in Denver, CO, #1 of 1 motorcycle repair shops in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Building — top 75% of motorcycle repair shops in Denver, CO, #1 of 1 motorcycle repair shops in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Coldwell Banker is a real estate agency in Mason, OH at 5947 Beacon Street, Maso
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Building — top 79% of real estate agencys in Cincinnati, OH, #1 of 2 real estate agencys in Mason (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 79% of real estate agencys in Cincinnati, OH, #1 of 2 real estate agencys in Mason (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

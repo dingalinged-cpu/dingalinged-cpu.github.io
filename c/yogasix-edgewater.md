@@ -13,7 +13,7 @@ YOGASIX is a yoga studio in Edgewater, CO at 5471 West 20th Avenue, Edgewater, C
 - Website: https://www.yogasix.com/location/edgewater
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 71% of yoga studios in Denver, CO, #1 of 1 yoga studios in Edgewater (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 71% of yoga studios in Denver, CO, #1 of 1 yoga studios in Edgewater (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

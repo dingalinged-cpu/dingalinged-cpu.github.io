@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Hutchinson, KS at 1629 North Lorraine Str
 - Website: https://www.edwardjones.com/us-en/financial-advisor/melanie-j-collins
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-16:30; Fr 08:00-16:00
-- Pulse Score: 49.7/100 — Building — top 42% of financial advisors in Wichita, KS, #4 of 7 financial advisors in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 42% of financial advisors in Wichita, KS, #4 of 7 financial advisors in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

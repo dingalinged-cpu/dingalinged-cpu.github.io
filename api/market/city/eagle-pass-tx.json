@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Eagle Pass, TX",
+ "description": "Top Eagle Pass, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Eagle Pass, TX",
+ "geography": null,
+ "keywords": 32,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "attorney eagle pass tx",
+    "slug": "attorney-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-eagle-pass-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "lawyer eagle pass tx",
+    "slug": "lawyer-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-eagle-pass-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "storage units eagle pass tx",
+    "slug": "storage-units-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-eagle-pass-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "bakery eagle pass tx",
+    "slug": "bakery-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-eagle-pass-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "event venues eagle pass tx",
+    "slug": "event-venues-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-eagle-pass-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "florist eagle pass tx",
+    "slug": "florist-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-eagle-pass-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "accounting services eagle pass tx",
+    "slug": "accounting-services-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-eagle-pass-tx/",
+    "us_monthly_searches": 12100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "staffing agency eagle pass tx",
+    "slug": "staffing-agency-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-eagle-pass-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tax preparer eagle pass tx",
+    "slug": "tax-preparer-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-eagle-pass-tx/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "accountant eagle pass tx",
+    "slug": "accountant-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-eagle-pass-tx/",
+    "us_monthly_searches": 33100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.23,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "eye doctor eagle pass tx",
+    "slug": "eye-doctor-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-eagle-pass-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "haircut eagle pass tx",
+    "slug": "haircut-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-eagle-pass-tx/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "auto repair eagle pass tx",
+    "slug": "auto-repair-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-eagle-pass-tx/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "car wash eagle pass tx",
+    "slug": "car-wash-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-eagle-pass-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "mechanic eagle pass tx",
+    "slug": "mechanic-eagle-pass-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-eagle-pass-tx/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

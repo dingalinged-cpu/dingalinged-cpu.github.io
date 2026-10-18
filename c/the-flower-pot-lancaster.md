@@ -13,7 +13,7 @@ The Flower Pot is a florist in Lancaster, OH at 676 East 6th Avenue, Lancaster, 
 - Website: https://www.theflowerpotoh.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00; Sa 09:00-12:00; Su off
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 21% of florists in Columbus, OH, #1 of 1 florists in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 21% of florists in Columbus, OH, #1 of 1 florists in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

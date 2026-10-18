@@ -6,8 +6,8 @@ Also answers: furniture store in Clinton Township, OH; furniture store near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rent-A-Center | Organic #1 | Pulse Score 45.5/100 (Building, #36 in city) | Rent-A-Center is a furniture store in Columbus, OH at 3535 Cleveland Avenue, Columbus, OH 43224. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-columbus-n6978411938/
-2. Rent-A-Center | Organic #2 | Pulse Score 45.5/100 (Building, #38 in city) | Rent-A-Center is a furniture store in Columbus, OH at 3510 Cleveland Avenue, Columbus, OH 43224. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-columbus-w656905584/
+1. Rent-A-Center | Organic #1 | Pulse Score 45.5/100 (Building, #35 in city) | Rent-A-Center is a furniture store in Columbus, OH at 3535 Cleveland Avenue, Columbus, OH 43224. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-columbus-n6978411938/
+2. Rent-A-Center | Organic #2 | Pulse Score 45.5/100 (Building, #37 in city) | Rent-A-Center is a furniture store in Columbus, OH at 3510 Cleveland Avenue, Columbus, OH 43224. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-columbus-w656905584/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store clinton township oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

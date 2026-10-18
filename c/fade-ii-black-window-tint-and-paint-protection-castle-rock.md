@@ -13,7 +13,7 @@ Fade II Black: Window Tint and Paint Protection is an auto repair shop in Castle
 - Website: https://f2bwindowtint.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-15:00; Su 08:00-15:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 2% of auto repair shops in Denver, CO, #1 of 25 auto repair shops in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 2% of auto repair shops in Denver, CO, #1 of 25 auto repair shops in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

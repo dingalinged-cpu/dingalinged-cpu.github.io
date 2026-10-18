@@ -13,7 +13,7 @@ Topeka Best Pets is a pet store in Topeka, KS at 910 Northwest 25th Street, Tope
 - Website: https://www.facebook.com/pages/Topeka-Best-Pets/365726128955
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Fair — top 25% of pet stores in Topeka, KS, #1 of 4 pet stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Fair — top 25% of pet stores in Topeka, KS, #1 of 4 pet stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

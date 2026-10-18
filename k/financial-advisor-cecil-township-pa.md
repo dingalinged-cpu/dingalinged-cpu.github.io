@@ -6,7 +6,7 @@ Also answers: financial advisor in Cecil Township, PA; financial advisor near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Justabout Wealth Management | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Justabout Wealth Management is a financial advisor in Canonsburg, PA at 375 Southpointe Boulevard #360, Canonsburg, PA 15317. Phone: +17247541440. Website: https://justaboutwealth.com/. | https://registry-edge.dingalinged.workers.dev/c/justabout-wealth-management-canonsburg/
+1. Justabout Wealth Management | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Justabout Wealth Management is a financial advisor in Canonsburg, PA at 375 Southpointe Boulevard #360, Canonsburg, PA 15317. Phone: +17247541440. Website: https://justaboutwealth.com/. | https://registry-edge.dingalinged.workers.dev/c/justabout-wealth-management-canonsburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor cecil township pa | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Doehrman Buba Ring Car Accident & Personal Injury Lawyers is a lawyer in Carmel,
 - Website: https://www.tortslaw.com/
 - Email: info@doehrmanbubar.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 13% of lawyers in Indianapolis, IN, #1 of 8 lawyers in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 13% of lawyers in Indianapolis, IN, #1 of 8 lawyers in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

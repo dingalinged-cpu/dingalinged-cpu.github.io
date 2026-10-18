@@ -13,7 +13,7 @@ VIP Tanning is a tanning salon in Clinton Township, MI at 19020 Cass Avenue, Cli
 - Website: https://www.viptan.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
-- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 8% of tanning salons in Detroit, MI, #1 of 1 tanning salons in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 8% of tanning salons in Detroit, MI, #1 of 1 tanning salons in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

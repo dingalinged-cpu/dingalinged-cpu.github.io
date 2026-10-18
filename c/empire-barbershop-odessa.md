@@ -1,0 +1,24 @@
+Empire Barbershop is a hair salon in Odessa, TX at 120 East 8th Street, Odessa, TX 79761. Phone: +14325528564.
+
+# Empire Barbershop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 120 East 8th Street, Odessa, TX 79761
+- City: Odessa
+- State: TX
+- ZIP: 79761
+- Coordinates: 31.8512741, -102.3705984
+- Phone: +14325528564
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 28% of hair salons in Odessa, TX, #3 of 11 hair salons in Odessa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/empire-barbershop-odessa/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/empire-barbershop-odessa.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10224141669 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

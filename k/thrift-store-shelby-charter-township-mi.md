@@ -6,7 +6,7 @@ Also answers: thrift store in Shelby Charter Township, MI; thrift store near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salvation Army | Organic #1 | Pulse Score 50.4/100 (Unrated, #1 in city) | Salvation Army is a thrift store in Shelby Charter Township, MI at 51200 Van Dyke Avenue, Shelby Charter Township, MI 48316. Phone: +15863231308. Website: https://satruck.org/. | https://registry-edge.dingalinged.workers.dev/c/salvation-army-shelby-charter-township/
+1. Salvation Army | Organic #1 | Pulse Score 49.3/100 (Unrated, #1 in city) | Salvation Army is a thrift store in Shelby Charter Township, MI at 51200 Van Dyke Avenue, Shelby Charter Township, MI 48316. Phone: +15863231308. Website: https://satruck.org/. | https://registry-edge.dingalinged.workers.dev/c/salvation-army-shelby-charter-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store shelby charter township mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

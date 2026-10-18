@@ -13,7 +13,7 @@ Diamond Nails is a nail salon in Saint Clair Shores, MI at 31515 Harper Avenue, 
 - Website: https://www.facebook.com/Diamond-Nails-104152432984694/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We-Sa 10:00-19:00; Su 12:00-16:00; Tu off
-- Pulse Score: 51.3/100 — Fair — top 86% of nail salons in Detroit, MI, #2 of 2 nail salons in Saint Clair Shores (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 68.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.3/100 — Fair — top 85% of nail salons in Detroit, MI, #2 of 2 nail salons in Saint Clair Shores (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 68.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: eye doctor in Joplin, MO; eye doctor near me (Joplin, MO); best ey
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 4-States Vision Express | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | 4-States Vision Express is an eye care practice in Joplin, MO at 1701 West 26th Street #E, Joplin, MO 64804. Phone: +14179522366. Website: https://www.4statesvision.com/. | https://registry-edge.dingalinged.workers.dev/c/4-states-vision-express-joplin/
+1. 4-States Vision Express | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | 4-States Vision Express is an eye care practice in Joplin, MO at 1701 West 26th Street #E, Joplin, MO 64804. Phone: +14179522366. Website: https://www.4statesvision.com/. | https://registry-edge.dingalinged.workers.dev/c/4-states-vision-express-joplin/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor joplin mo | category: Health & medical | industry benchmark: Physicians & Surgeons

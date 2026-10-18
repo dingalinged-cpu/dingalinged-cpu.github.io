@@ -6,7 +6,7 @@ Also answers: family doctor in Joplin, MO; family doctor near me (Joplin, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gardner Express Care | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Gardner Express Care is a family medicine practice in Joplin, MO at 1701 West 26th Street #Suite G, Joplin, MO 64804. Phone: +14179522369. Website: https://www.gardnerexpresscare.com/. | https://registry-edge.dingalinged.workers.dev/c/gardner-express-care-joplin/
+1. Gardner Express Care | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Gardner Express Care is a family medicine practice in Joplin, MO at 1701 West 26th Street #Suite G, Joplin, MO 64804. Phone: +14179522369. Website: https://www.gardnerexpresscare.com/. | https://registry-edge.dingalinged.workers.dev/c/gardner-express-care-joplin/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor joplin mo | category: Health & medical | industry benchmark: Physicians & Surgeons

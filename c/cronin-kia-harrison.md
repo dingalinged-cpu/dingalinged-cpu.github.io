@@ -13,7 +13,7 @@ Cronin Kia is an used car dealer in Harrison, OH at 10590 New Haven Road, Harris
 - Website: https://www.croninkia.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.6/100 — Building — top 84% of used car dealers in Cincinnati, OH, #1 of 1 used car dealers in Harrison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 81% of used car dealers in Cincinnati, OH, #1 of 1 used car dealers in Harrison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

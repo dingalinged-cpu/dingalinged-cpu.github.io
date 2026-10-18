@@ -13,7 +13,7 @@ Columbus Laser & Cataract Center is an eye care practice in Westerville, OH at 6
 - Website: https://columbuslaser.com/
 - Email: general@columbuslaser.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of eye care practices in Columbus, OH, #1 of 5 eye care practices in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of eye care practices in Columbus, OH, #1 of 5 eye care practices in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

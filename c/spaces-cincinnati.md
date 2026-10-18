@@ -13,7 +13,7 @@ Spaces is a coworking space in Cincinnati, OH at 1435 Vine Street, Cincinnati, O
 - Website: https://www.spacesworks.com/cincinnati/over-the-rhine
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.8/100 — Building — top 86% of coworking spaces in Cincinnati, OH, #4 of 4 coworking spaces in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 86% of coworking spaces in Cincinnati, OH, #4 of 4 coworking spaces in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

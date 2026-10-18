@@ -13,7 +13,7 @@ VCA All Creatures Animal Hospital is a veterinarian in O’Fallon, MO at 2205 Hi
 - Website: https://vcahospitals.com/all-creatures
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-20:00; Sa 08:00-15:00; Su off
-- Pulse Score: 63.3/100 — Good — top 25% of veterinarians in O'Fallon, MO, #1 of 3 veterinarians in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 25% of veterinarians in O'Fallon, MO, #1 of 3 veterinarians in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 66.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

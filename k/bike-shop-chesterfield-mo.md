@@ -6,7 +6,7 @@ Also answers: bike shop in Chesterfield, MO; bike shop near me (Chesterfield, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Big Shark West | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Big Shark West is a bike shop in Chesterfield, MO at 17233 Chesterfield Airport Road, Chesterfield, MO. | https://registry-edge.dingalinged.workers.dev/c/big-shark-west-chesterfield/
+1. Big Shark West | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Big Shark West is a bike shop in Chesterfield, MO at 17233 Chesterfield Airport Road, Chesterfield, MO. | https://registry-edge.dingalinged.workers.dev/c/big-shark-west-chesterfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop chesterfield mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

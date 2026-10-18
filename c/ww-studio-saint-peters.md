@@ -13,7 +13,7 @@ WW Studio is a therapy practice in Saint Peters, MO at 274 Mid Rivers Center, Sa
 - Website: https://www.weightwatchers.com/us/find-a-meeting/1168140/weight-watchers-store-saint-peters-saint-peters-mo
 - Email: n/a
 - Opening hours (OSM syntax): Mo 18:00-19:30; Tu 08:00-09:30,17:30-19:00; We 09:30-13:15,17:00-18:30; Th 09:00-13:00,17:45-19:15; Fr 07:30-10:30; Sa 07:00-11:15; Su off
-- Pulse Score: 45.3/100 — Building — top 100% of therapy practices in St. Peters, MO, #2 of 2 therapy practices in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 100% of therapy practices in St. Peters, MO, #2 of 2 therapy practices in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

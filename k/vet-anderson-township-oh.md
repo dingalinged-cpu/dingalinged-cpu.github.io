@@ -7,7 +7,7 @@ Also answers: vet in Anderson Township, OH; vet near me (Anderson Township, OH);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Cherry Grove Animal Hospital | Organic #1 | Pulse Score 59.8/100 (Unrated, #5 in city) | Cherry Grove Animal Hospital is a veterinarian in Cincinnati, OH at 8407 Beechmont Avenue, Cincinnati, OH 45255. Website: https://cherrygroveanimalhospital.vet/. | https://registry-edge.dingalinged.workers.dev/c/cherry-grove-animal-hospital-cincinnati/
-2. Animal Care Center | Organic #2 | Pulse Score 47/100 (Unrated, #9 in city) | Animal Care Center is a veterinarian in Cincinnati, OH at 8094 Beechmont Avenue, Cincinnati, OH 45255. Website: https://anderson.animalcarecenters.net/. | https://registry-edge.dingalinged.workers.dev/c/animal-care-center-cincinnati/
+2. Animal Care Center | Organic #2 | Pulse Score 47.1/100 (Unrated, #9 in city) | Animal Care Center is a veterinarian in Cincinnati, OH at 8094 Beechmont Avenue, Cincinnati, OH 45255. Website: https://anderson.animalcarecenters.net/. | https://registry-edge.dingalinged.workers.dev/c/animal-care-center-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet anderson township oh | category: Pets | industry benchmark: Animals & Pets

@@ -13,7 +13,7 @@ Liberty Tax is a tax preparation service in O’Fallon, MO at 2017 Highway K, O�
 - Website: https://www.libertytax.com/income-tax-preparation-locations/14745.html
 - Email: n/a
 - Opening hours (OSM syntax): We 10:00-18:00; Th-Tu "By appointment"
-- Pulse Score: 49/100 — Building — top 100% of tax preparation services in O'Fallon, MO, #1 of 1 tax preparation services in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 100% of tax preparation services in O'Fallon, MO, #1 of 1 tax preparation services in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

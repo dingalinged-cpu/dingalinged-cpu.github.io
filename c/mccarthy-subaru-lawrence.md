@@ -13,7 +13,7 @@ McCarthy Subaru is an used car dealer in Lawrence, KS at 2101 West 29th Terrace,
 - Website: https://www.mccarthysubaruoflawrence.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-18:00
-- Pulse Score: 47.9/100 — Building — top 73% of used car dealers in Lawrence, KS, #8 of 11 used car dealers in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 73% of used car dealers in Lawrence, KS, #8 of 11 used car dealers in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

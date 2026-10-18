@@ -13,7 +13,7 @@ Nail Spa is a nail salon in Wentzville, MO at 1251 West Pearce Boulevard, Wentzv
 - Website: https://nailsspawentzville.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:30; Sa 09:00-18:30; Su 11:00-17:30
-- Pulse Score: 50.3/100 — Fair — top 75% of nail salons in Wentzville, MO, #3 of 4 nail salons in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 75% of nail salons in Wentzville, MO, #3 of 4 nail salons in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

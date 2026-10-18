@@ -13,7 +13,7 @@ Shuman's Electric is an electrician in Washington, PA at 1362 Henderson Avenue, 
 - Website: https://shumanelectric2020.wixsite.com/shumanelectricllc
 - Email: shumanelectric2020@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 64/100 — Good — top 12% of electricians in Pittsburgh, PA, #1 of 1 electricians in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 12% of electricians in Pittsburgh, PA, #1 of 1 electricians in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

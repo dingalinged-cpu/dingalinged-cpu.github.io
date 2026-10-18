@@ -13,7 +13,7 @@ Wakarusa Veterinary Hospital is a veterinarian in Lawrence, KS at 1825 Wakarusa 
 - Website: https://wakavet.com/
 - Email: pet@wakavet.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00; Sa 07:30-12:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 56% of veterinarians in Lawrence, KS, #5 of 9 veterinarians in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 56% of veterinarians in Lawrence, KS, #5 of 9 veterinarians in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

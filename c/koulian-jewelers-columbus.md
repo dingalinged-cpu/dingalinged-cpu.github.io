@@ -13,7 +13,7 @@ Koulian Jewelers is a jewelry store in Columbus, OH at 861 North High Street, Co
 - Website: https://koulianjewelers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 11:00-19:00
-- Pulse Score: 62.6/100 — Good — top 5% of jewelry stores in Columbus, OH, #2 of 25 jewelry stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 5% of jewelry stores in Columbus, OH, #2 of 25 jewelry stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

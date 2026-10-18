@@ -13,7 +13,7 @@ Express Employment Professionals is a staffing agency in West View, PA at 1006 W
 - Website: https://expresspros.com/NPittsburghPA
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 48.3/100 — Building — top 100% of staffing agencys in Pittsburgh, PA, #1 of 1 staffing agencys in West View (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 100% of staffing agencys in Pittsburgh, PA, #1 of 1 staffing agencys in West View (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

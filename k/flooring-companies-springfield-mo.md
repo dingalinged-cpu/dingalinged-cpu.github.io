@@ -6,8 +6,8 @@ Also answers: flooring companies in Springfield, MO; flooring companies near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Floors Plus | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | Floors Plus is a flooring company in Springfield, MO at 3425 South Campbell Avenue, Springfield, MO. Phone: +14173747676. Website: https://floorsplusnixa.com/. | https://registry-edge.dingalinged.workers.dev/c/floors-plus-springfield/
-2. Flooring Systems Inc | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Flooring Systems Inc is a flooring company in Springfield, MO at 3038 West Kearney Street, Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/flooring-systems-inc-springfield/
+1. Floors Plus | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | Floors Plus is a flooring company in Springfield, MO at 3425 South Campbell Avenue, Springfield, MO. Phone: +14173747676. Website: https://floorsplusnixa.com/. | https://registry-edge.dingalinged.workers.dev/c/floors-plus-springfield/
+2. Flooring Systems Inc | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Flooring Systems Inc is a flooring company in Springfield, MO at 3038 West Kearney Street, Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/flooring-systems-inc-springfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies springfield mo | category: Home services - Flooring | industry benchmark: Home & Home Improvement

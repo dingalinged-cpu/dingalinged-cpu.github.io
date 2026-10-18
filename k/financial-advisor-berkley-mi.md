@@ -6,7 +6,7 @@ Also answers: financial advisor in Berkley, MI; financial advisor near me (Berkl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. M3 Investments | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | M3 Investments is a financial advisor in Berkley, MI. | https://registry-edge.dingalinged.workers.dev/c/m3-investments-berkley/
+1. M3 Investments | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | M3 Investments is a financial advisor in Berkley, MI. | https://registry-edge.dingalinged.workers.dev/c/m3-investments-berkley/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor berkley mi | category: Professional & financial services | industry benchmark: Finance & Insurance

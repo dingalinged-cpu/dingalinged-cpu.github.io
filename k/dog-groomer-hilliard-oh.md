@@ -6,7 +6,7 @@ Also answers: dog groomer in Hilliard, OH; dog groomer near me (Hilliard, OH); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sassy Dogs Salon | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Sassy Dogs Salon is a dog groomer in Hilliard, OH at 4529 Scioto Darby Road, Hilliard, OH 43026. Phone: +16149715177. | https://registry-edge.dingalinged.workers.dev/c/sassy-dogs-salon-hilliard/
+1. Sassy Dogs Salon | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Sassy Dogs Salon is a dog groomer in Hilliard, OH at 4529 Scioto Darby Road, Hilliard, OH 43026. Phone: +16149715177. | https://registry-edge.dingalinged.workers.dev/c/sassy-dogs-salon-hilliard/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer hilliard oh | category: Pets | industry benchmark: Animals & Pets

@@ -13,7 +13,7 @@ Firestone Complete Auto Care is an auto repair shop in Detroit, MI at 1801 Michi
 - Website: https://local.firestonecompleteautocare.com/michigan/detroit/1801-michigan-ave/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00; Sa 07:00-17:00
-- Pulse Score: 50.3/100 — Fair — top 83% of auto repair shops in Detroit, MI, #116 of 121 auto repair shops in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 83% of auto repair shops in Detroit, MI, #115 of 121 auto repair shops in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

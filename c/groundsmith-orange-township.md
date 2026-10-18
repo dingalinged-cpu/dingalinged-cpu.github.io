@@ -13,7 +13,7 @@ GroundSmith is a landscaping company in Orange Township, OH at 5999 Columbus Pik
 - Website: https://www.groundsmithlandscaping.com/
 - Email: groundsmith@groundsmithlandscaping.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 46% of landscaping companys in Columbus, OH, #1 of 1 landscaping companys in Orange Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 46% of landscaping companys in Columbus, OH, #1 of 1 landscaping companys in Orange Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

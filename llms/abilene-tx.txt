@@ -1,0 +1,3278 @@
+# Company Registry: company records, metro abilene-tx
+
+> 121 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+180 Dent Company is an auto repair shop in Abilene, TX.
+
+# 180 Dent Company
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4169516, -99.7807996
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 69% of auto repair shops in Abilene, TX, #10 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 39.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/180-dent-company-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/180-dent-company-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/655499252 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+50s Classic Car Wash is a car wash in Abilene, TX.
+
+# 50s Classic Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.44779, -99.706449
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 29% of car washes in Abilene, TX, #1 of 6 car washes in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 41.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/50s-classic-car-wash-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/50s-classic-car-wash-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2375266202 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+A-Star Diesel Performance is an auto repair shop in Abilene, TX at 3300 East Overland Trail, Abilene, TX 79601.
+
+# A-Star Diesel Performance
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 3300 East Overland Trail, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4570712, -99.6707313
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 19% of auto repair shops in Abilene, TX, #3 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-star-diesel-performance-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-star-diesel-performance-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/967400953 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aapple Muffler is an auto repair shop in Abilene, TX at 626 Ambler Ave, Abilene, TX 79601. Phone: +13256767920. Website: https://www.proexhaust.com/.
+
+# Aapple Muffler
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 626 Ambler Ave, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4748516, -99.7280668
+- Phone: +13256767920
+- Website: https://www.proexhaust.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 7% of auto repair shops in Abilene, TX, #1 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aapple-muffler-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aapple-muffler-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4599467803 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aaron's is a furniture store in Abilene, TX. Website: https://locations.aarons.com/us/tx/abilene/3502-catclaw-dr.
+
+# Aaron's
+
+- Category: furniture store
+- Services: furniture store
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4081285, -99.7775693
+- Phone: n/a
+- Website: https://locations.aarons.com/us/tx/abilene/3502-catclaw-dr
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+- Pulse Score: 47.1/100 — Building — top 75% of furniture stores in Abilene, TX, #3 of 4 furniture stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aarons-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aarons-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/516710520 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Abilene Animal Hospital is a veterinarian in Abilene, TX at 950 North Judge Ely Boulevard, Abilene, TX 79601.
+
+# Abilene Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: 950 North Judge Ely Boulevard, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.459024, -99.7063685
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Abilene, TX, #2 of 4 veterinarians in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/abilene-animal-hospital-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/abilene-animal-hospital-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/733930040 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Abilene Auto Doctor is an auto repair shop in Abilene, TX at 2466 Buffalo Gap Road, Abilene, TX 79605.
+
+# Abilene Auto Doctor
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2466 Buffalo Gap Road, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.419838, -99.7490799
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 25% of auto repair shops in Abilene, TX, #4 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/abilene-auto-doctor-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/abilene-auto-doctor-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/962557392 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Abilene Field of Dreams is an event venue in Abilene, TX at 2250 East North 10th Street, Abilene, TX 79601.
+
+# Abilene Field of Dreams
+
+- Category: event venues
+- Services: event venues
+- Address: 2250 East North 10th Street, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4632204, -99.6878035
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 34% of event venues in Abilene, TX, #1 of 3 event venues in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/abilene-field-of-dreams-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/abilene-field-of-dreams-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/995347585 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Abilene Funeral Home is a funeral home in Abilene, TX at 3349 North 12th Street, Abilene, TX 79603.
+
+# Abilene Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 3349 North 12th Street, Abilene, TX 79603
+- City: Abilene
+- State: TX
+- ZIP: 79603
+- Coordinates: 32.4628388, -99.7633033
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Abilene, TX, #2 of 2 funeral homes in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/abilene-funeral-home-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/abilene-funeral-home-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/962413900 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Abilene Senior Village is an assisted living facility in Abilene, TX at 2225 Covenant Drive, Abilene, TX 79606.
+
+# Abilene Senior Village
+
+- Category: assisted living
+- Services: assisted living
+- Address: 2225 Covenant Drive, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.3821186, -99.7472977
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 100% of assisted living facilitys in Abilene, TX, #1 of 1 assisted living facilitys in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/abilene-senior-village-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/abilene-senior-village-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5965251868 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Almond Street Cold Storage is a self-storage facility in Abilene, TX at 800 Almond Street, Abilene, TX 79601. Phone: +13256734801. Website: https://www.almondst.com/.
+
+# Almond Street Cold Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 800 Almond Street, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4582669, -99.7213846
+- Phone: +13256734801
+- Website: https://www.almondst.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 34% of self-storage facilitys in Abilene, TX, #1 of 3 self-storage facilitys in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/almond-street-cold-storage-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/almond-street-cold-storage-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6433421649 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Andrew's Furniture Store is a furniture store in Abilene, TX.
+
+# Andrew's Furniture Store
+
+- Category: furniture store
+- Services: furniture store
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4511724, -99.7510101
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 25% of furniture stores in Abilene, TX, #1 of 4 furniture stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/andrews-furniture-store-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/andrews-furniture-store-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/668144507 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Anytime Fitness is a gym in Abilene, TX at 1117 East North 10th Street, Abilene, TX 79601. Phone: +13254372299. Website: https://www.anytimefitness.com/gyms/2009/abilene-tx-79601/.
+
+# Anytime Fitness
+
+- Category: gym
+- Services: gym
+- Address: 1117 East North 10th Street, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4592202, -99.7047357
+- Phone: +13254372299
+- Website: https://www.anytimefitness.com/gyms/2009/abilene-tx-79601/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 50.2/100 — Fair — top 78% of gyms in Abilene, TX, #7 of 9 gyms in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 65.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/anytime-fitness-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/602872092 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ashley HomeStore is a furniture store in Abilene, TX at 4597 Southwest Drive, Abilene, TX 79606. Phone: +13258230420. Website: https://stores.ashleyfurniture.com/store/us/texas/abilene/7710000399/.
+
+# Ashley HomeStore
+
+- Category: furniture store
+- Services: furniture store
+- Address: 4597 Southwest Drive, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.4072089, -99.7827487
+- Phone: +13258230420
+- Website: https://stores.ashleyfurniture.com/store/us/texas/abilene/7710000399/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.9/100 — Building — top 50% of furniture stores in Abilene, TX, #2 of 4 furniture stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ashley-homestore-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ashley-homestore-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/544275284 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aspen Dental is a dentist in Abilene, TX at 3882 South Clack Street, Abilene, TX 79606.
+
+# Aspen Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 3882 South Clack Street, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.4048726, -99.764286
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.5/100 — Building — top 100% of dentists in Abilene, TX, #6 of 6 dentists in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aspen-dental-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aspen-dental-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/516703260 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Augusta, REALTORS is a real estate agency in Abilene, TX at 2481 South Danville Drive, Abilene, TX 79605.
+
+# Augusta, REALTORS
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 2481 South Danville Drive, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4185076, -99.7805134
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 50% of real estate agencys in Abilene, TX, #3 of 6 real estate agencys in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/augusta-realtors-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/augusta-realtors-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/689505200 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Avis Lube is an auto repair shop in Abilene, TX.
+
+# Avis Lube
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3950613, -99.7642709
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.6/100 — Unrated (not enough evidence yet) — top 100% of auto repair shops in Abilene, TX, #15 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 39.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/avis-lube-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/avis-lube-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/516703234 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Back Porch of Texas is an event venue in Abilene, TX at 3350 North Clack Street, Abilene, TX 79603.
+
+# Back Porch of Texas
+
+- Category: event venues
+- Services: event venues
+- Address: 3350 North Clack Street, Abilene, TX 79603
+- City: Abilene
+- State: TX
+- ZIP: 79603
+- Coordinates: 32.4907441, -99.7657481
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 67% of event venues in Abilene, TX, #2 of 3 event venues in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/back-porch-of-texas-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/back-porch-of-texas-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/961264421 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Beltway Counseling Group is a therapy practice in Abilene, TX at 2310 South Willis Street, Abilene, TX 79605.
+
+# Beltway Counseling Group
+
+- Category: therapist
+- Services: therapist
+- Address: 2310 South Willis Street, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4209284, -99.7642396
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 100% of therapy practices in Abilene, TX, #1 of 1 therapy practices in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/beltway-counseling-group-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/beltway-counseling-group-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11779826476 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Beltway Kids Academy is a daycare in Abilene, TX at 2310 South Willis Street, Abilene, TX 79605. Website: https://beltwaykidsacademy.org/.
+
+# Beltway Kids Academy
+
+- Category: daycare
+- Services: daycare
+- Address: 2310 South Willis Street, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4203767, -99.7646616
+- Phone: n/a
+- Website: https://beltwaykidsacademy.org/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:30-18:00
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 50% of daycares in Abilene, TX, #1 of 2 daycares in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/beltway-kids-academy-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/beltway-kids-academy-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11779699455 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Big Country Dental is a dentist in Abilene, TX at 4373 Treanor Drive, Abilene, TX 79602.
+
+# Big Country Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 4373 Treanor Drive, Abilene, TX 79602
+- City: Abilene
+- State: TX
+- ZIP: 79602
+- Coordinates: 32.3993423, -99.7178537
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 50% of dentists in Abilene, TX, #3 of 6 dentists in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/big-country-dental-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/big-country-dental-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/914519031 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Big Ride Quick Wash is a car wash in Tye, TX at 358 South Access Road, Tye, TX 79563.
+
+# Big Ride Quick Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 358 South Access Road, Tye, TX 79563
+- City: Tye
+- State: TX
+- ZIP: 79563
+- Coordinates: 32.4590112, -99.8646655
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 15% of car washes in Abilene, TX, #1 of 1 car washes in Tye (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/big-ride-quick-wash-tye/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/big-ride-quick-wash-tye.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/914582192 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Blue Cross & Blue Shield is an insurance agent in Abilene, TX at 4002 Loop 322, Abilene, TX 79602.
+
+# Blue Cross & Blue Shield
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 4002 Loop 322, Abilene, TX 79602
+- City: Abilene
+- State: TX
+- ZIP: 79602
+- Coordinates: 32.4029758, -99.7183644
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.8/100 — Unrated (not enough evidence yet) — top 100% of insurance agents in Abilene, TX, #4 of 4 insurance agents in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/blue-cross-and-blue-shield-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/blue-cross-and-blue-shield-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/603113470 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Castle Nails & Spa is a nail salon in Abilene, TX.
+
+# Castle Nails & Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4074548, -99.7769096
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 25% of nail salons in Abilene, TX, #1 of 4 nail salons in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/castle-nails-and-spa-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/castle-nails-and-spa-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/659570841 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Charles Schwab is a financial advisor in Abilene, TX.
+
+# Charles Schwab
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4073175, -99.7766466
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.6/100 — Building — top 100% of financial advisors in Abilene, TX, #2 of 2 financial advisors in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.1, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/charles-schwab-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/charles-schwab-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/659570842 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Cindy’s Sweets is a bakery in Abilene, TX at 2809 Ventura Drive, Abilene, TX 79605. Phone: +13253700280.
+
+# Cindy’s Sweets
+
+- Category: bakery
+- Services: bakery
+- Address: 2809 Ventura Drive, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4164817, -99.767041
+- Phone: +13253700280
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-17:00
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 67% of bakerys in Abilene, TX, #2 of 3 bakerys in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cindy-s-sweets-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cindy-s-sweets-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5988549030 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Circle D Truck Sales is an auto repair shop in Abilene, TX at 4502 East Overland Trail, Abilene, TX 79601.
+
+# Circle D Truck Sales
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 4502 East Overland Trail, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4441822, -99.6513591
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 32% of auto repair shops in Abilene, TX, #5 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/circle-d-truck-sales-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/circle-d-truck-sales-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/967409292 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+City Nails is a nail salon in Abilene, TX.
+
+# City Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4091318, -99.778261
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.2/100 — Unrated (not enough evidence yet) — top 100% of nail salons in Abilene, TX, #4 of 4 nail salons in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/city-nails-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/city-nails-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/659567095 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+CJJ MMA is a martial arts school in Abilene, TX at 1828 South Clack Street, Abilene, TX 79605.
+
+# CJJ MMA
+
+- Category: martial arts
+- Services: martial arts
+- Address: 1828 South Clack Street, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.426539, -99.7876398
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Abilene, TX, #1 of 1 martial arts schools in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cjj-mma-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cjj-mma-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/516710546 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Condley and Company, L.L.P. is a tax preparation service in Abilene, TX at 993 North 3rd Street, Abilene, TX 79601.
+
+# Condley and Company, L.L.P.
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 993 North 3rd Street, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4513045, -99.7324607
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 50% of tax preparation services in Abilene, TX, #1 of 2 tax preparation services in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/condley-and-company-l-l-p-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/condley-and-company-l-l-p-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/659430248 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Cool Cuts 4 Kids is a hair salon in Abilene, TX.
+
+# Cool Cuts 4 Kids
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4087428, -99.7779722
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.9/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Abilene, TX, #3 of 3 hair salons in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cool-cuts-4-kids-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cool-cuts-4-kids-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/659567088 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Crunch Fitness is a gym in Abilene, TX.
+
+# Crunch Fitness
+
+- Category: gym
+- Services: gym
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4283449, -99.7830947
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.3/100 — Building — top 100% of gyms in Abilene, TX, #9 of 9 gyms in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/crunch-fitness-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/544009367 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+D1 Abilene - Sports Training is a gym in Abilene, TX.
+
+# D1 Abilene - Sports Training
+
+- Category: gym
+- Services: gym
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.397898, -99.7632988
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 34% of gyms in Abilene, TX, #3 of 9 gyms in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/d1-abilene-sports-training-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/d1-abilene-sports-training-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/544381629 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Day Nursery of Abilene - Sherry Lane Center is a daycare in Abilene, TX at 3434 Sherry Lane, Abilene, TX 79603.
+
+# Day Nursery of Abilene - Sherry Lane Center
+
+- Category: daycare
+- Services: daycare
+- Address: 3434 Sherry Lane, Abilene, TX 79603
+- City: Abilene
+- State: TX
+- ZIP: 79603
+- Coordinates: 32.4770195, -99.7661266
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 100% of daycares in Abilene, TX, #2 of 2 daycares in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/day-nursery-of-abilene-sherry-lane-center-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/day-nursery-of-abilene-sherry-lane-center-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1124283070 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+DeLaGarza Automotive and Detail is an auto repair shop in Abilene, TX at 3426 Ambler Avenue, Abilene, TX 79603.
+
+# DeLaGarza Automotive and Detail
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 3426 Ambler Avenue, Abilene, TX 79603
+- City: Abilene
+- State: TX
+- ZIP: 79603
+- Coordinates: 32.4741042, -99.7652969
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 38% of auto repair shops in Abilene, TX, #6 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/delagarza-automotive-and-detail-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/delagarza-automotive-and-detail-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1124283047 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Abilene, TX at 2990 Catclaw Drive, Abilene, TX 79606. Phone: +13256955269.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 2990 Catclaw Drive, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.4142196, -99.7786739
+- Phone: +13256955269
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.3/100 — Building — top 50% of tire shops in Abilene, TX, #1 of 2 tire shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/544299800 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Abilene, TX at 4585 South 1st Street, Abilene, TX 79605. Phone: +13252716265.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 4585 South 1st Street, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4513203, -99.7821186
+- Phone: +13252716265
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.3/100 — Building — top 100% of tire shops in Abilene, TX, #2 of 2 tire shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-abilene-w728859775/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-abilene-w728859775.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/728859775 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Dr. Susan Payne, DDS - Payne and King, PLLC is a dentist in Abilene, TX at 2381 S 32nd St, Abilene, TX. Phone: +13256729191. Website: https://www.healthysmilestx.com/.
+
+# Dr. Susan Payne, DDS - Payne and King, PLLC
+
+- Category: dentist
+- Services: dentist
+- Address: 2381 S 32nd St, Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4119532, -99.7528504
+- Phone: +13256729191
+- Website: https://www.healthysmilestx.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 34% of dentists in Abilene, TX, #2 of 6 dentists in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dr-susan-payne-dds-payne-and-king-pllc-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dr-susan-payne-dds-payne-and-king-pllc-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9769567170 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Dyess AFB Flower Shop is a florist in Abilene, TX.
+
+# Dyess AFB Flower Shop
+
+- Category: florist
+- Services: florist
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4230879, -99.8360554
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of florists in Abilene, TX, #2 of 2 florists in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 41.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dyess-afb-flower-shop-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dyess-afb-flower-shop-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6494290871 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Dyess Fitness Center is a gym in Abilene, TX.
+
+# Dyess Fitness Center
+
+- Category: gym
+- Services: gym
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4250465, -99.8410814
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 45% of gyms in Abilene, TX, #4 of 9 gyms in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dyess-fitness-center-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dyess-fitness-center-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/690156525 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Dyess Thrift Shop / Airman's Attic is a thrift store in Abilene, TX.
+
+# Dyess Thrift Shop / Airman's Attic
+
+- Category: thrift store
+- Services: thrift store
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4287708, -99.8389998
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 34% of thrift stores in Abilene, TX, #1 of 3 thrift stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dyess-thrift-shop-airmans-attic-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dyess-thrift-shop-airmans-attic-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6494348276 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Edward Jones is a financial advisor in Abilene, TX at 5533 US Highway 277 South, Abilene, TX 79606.
+
+# Edward Jones
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: 5533 US Highway 277 South, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.4159712, -99.7954386
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45/100 — Building — top 50% of financial advisors in Abilene, TX, #1 of 2 financial advisors in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edward-jones-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edward-jones-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/654952285 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Epique Realty - Texas Lifestyles Group is a real estate agency in Abilene, TX at 5919 Buffalo Gap Road, Abilene, TX 79606. Phone: +13254289114. Website: https://www.texashomesforsale.info/.
+
+# Epique Realty - Texas Lifestyles Group
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 5919 Buffalo Gap Road, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.377495, -99.772184
+- Phone: +13254289114
+- Website: https://www.texashomesforsale.info/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 34% of real estate agencys in Abilene, TX, #2 of 6 real estate agencys in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/epique-realty-texas-lifestyles-group-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/epique-realty-texas-lifestyles-group-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1358942976 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Eskimo Hut is a liquor store in Abilene, TX at 3382 North 10th Street, Abilene, TX 79603.
+
+# Eskimo Hut
+
+- Category: liquor store
+- Services: liquor store
+- Address: 3382 North 10th Street, Abilene, TX 79603
+- City: Abilene
+- State: TX
+- ZIP: 79603
+- Coordinates: 32.4614414, -99.7635517
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 75% of liquor stores in Abilene, TX, #3 of 4 liquor stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/eskimo-hut-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/eskimo-hut-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/962413903 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+EyeMart is an eye care practice in Abilene, TX.
+
+# EyeMart
+
+- Category: eye doctor
+- Services: eye doctor
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4089775, -99.7781265
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Abilene, TX, #1 of 1 eye care practices in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/eyemart-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/eyemart-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/659567091 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fain's Automotive is an auto repair shop in Abilene, TX at 4942 South 3rd Street, Abilene, TX 79603. Phone: +13256915007.
+
+# Fain's Automotive
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 4942 South 3rd Street, Abilene, TX 79603
+- City: Abilene
+- State: TX
+- ZIP: 79603
+- Coordinates: 32.4479726, -99.7858381
+- Phone: +13256915007
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-16:00
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 13% of auto repair shops in Abilene, TX, #2 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fains-automotive-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fains-automotive-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14134380101 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Farmers Insurance is an insurance agent in Abilene, TX at 4373 Rio Mesa Drive, Abilene, TX 79606.
+
+# Farmers Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 4373 Rio Mesa Drive, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.3636381, -99.7819361
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.2/100 — Building — top 50% of insurance agents in Abilene, TX, #2 of 4 insurance agents in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/farmers-insurance-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/516689947 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+FedEx Ground is a printing service in Abilene, TX at 801 North Arnold Boulevard, Abilene, TX 79603.
+
+# FedEx Ground
+
+- Category: printing services
+- Services: printing services
+- Address: 801 North Arnold Boulevard, Abilene, TX 79603
+- City: Abilene
+- State: TX
+- ZIP: 79603
+- Coordinates: 32.4597879, -99.8077263
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.6/100 — Building — top 100% of printing services in Abilene, TX, #2 of 2 printing services in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.4, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fedex-ground-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fedex-ground-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/963772456 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+FILO Liquors is a liquor store in Abilene, TX at 4301 Rio Mesa Drive, Abilene, TX 79606. Phone: +13257019928. Website: https://filoliquors.com/.
+
+# FILO Liquors
+
+- Category: liquor store
+- Services: liquor store
+- Address: 4301 Rio Mesa Drive, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.363632, -99.7816416
+- Phone: +13257019928
+- Website: https://filoliquors.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 25% of liquor stores in Abilene, TX, #1 of 4 liquor stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/filo-liquors-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/filo-liquors-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/960959782 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Firehouse Fitness is a gym in Abilene, TX.
+
+# Firehouse Fitness
+
+- Category: gym
+- Services: gym
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4440316, -99.7684896
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 56% of gyms in Abilene, TX, #5 of 9 gyms in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/firehouse-fitness-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/firehouse-fitness-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/625382698 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Firehouse Fitness is a gym in Abilene, TX at 8050 Buffalo Gap Road, Abilene, TX 79606.
+
+# Firehouse Fitness
+
+- Category: gym
+- Services: gym
+- Address: 8050 Buffalo Gap Road, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.35345, -99.7870346
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 12% of gyms in Abilene, TX, #1 of 9 gyms in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/firehouse-fitness-abilene-w960959778/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/firehouse-fitness-abilene-w960959778.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/960959778 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Firestone is an auto repair shop in Abilene, TX at 4402 South Clack Street, Abilene, TX 79606.
+
+# Firestone
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 4402 South Clack Street, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.3999777, -99.7577035
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.3/100 — Building — top 88% of auto repair shops in Abilene, TX, #13 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/firestone-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/firestone-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/639801036 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fred's Truck Repair is an auto repair shop in Abilene, TX at 5860 I-20 Frontage Road, Abilene, TX 79601.
+
+# Fred's Truck Repair
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 5860 I-20 Frontage Road, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4366406, -99.6254546
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 44% of auto repair shops in Abilene, TX, #7 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/freds-truck-repair-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/freds-truck-repair-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/914529685 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Furniture Row is a furniture store in Abilene, TX at 718 South Clack Street, Abilene, TX 79605.
+
+# Furniture Row
+
+- Category: furniture store
+- Services: furniture store
+- Address: 718 South Clack Street, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4429972, -99.7881627
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in Abilene, TX, #4 of 4 furniture stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/furniture-row-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/furniture-row-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/659403265 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Glynn Walker - State Farm Insurance Agent is an insurance agent in Abilene, TX at 6350 Buffalo Gap Road, Abilene, TX 79606. Phone: +13256983832. Website: https://www.glynnwalker.net/.
+
+# Glynn Walker - State Farm Insurance Agent
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 6350 Buffalo Gap Road, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.3724179, -99.7760521
+- Phone: +13256983832
+- Website: https://www.glynnwalker.net/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:45-17:00
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 25% of insurance agents in Abilene, TX, #1 of 4 insurance agents in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/glynn-walker-state-farm-insurance-agent-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/glynn-walker-state-farm-insurance-agent-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1358295968 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Goodwill is a thrift store in Abilene, TX.
+
+# Goodwill
+
+- Category: thrift store
+- Services: thrift store
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4045311, -99.767656
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.5/100 — Building — top 100% of thrift stores in Abilene, TX, #3 of 3 thrift stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/399477155 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Great Clips is a hair salon in Abilene, TX at 1780 Highway 351, Abilene, TX 79601.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1780 Highway 351, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4809856, -99.6957725
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.4/100 — Building — top 34% of hair salons in Abilene, TX, #1 of 3 hair salons in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8955544311 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H & H Beverage is a liquor store in Abilene, TX at 1809 Highway 351, Abilene, TX 79601.
+
+# H & H Beverage
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1809 Highway 351, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.478966, -99.6946051
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in Abilene, TX, #4 of 4 liquor stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-h-beverage-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-h-beverage-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8955810786 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Abilene, TX at Barrow Street, Abilene, TX.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Barrow Street, Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4327855, -99.7590444
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.7/100 — Building — top 86% of car washes in Abilene, TX, #5 of 6 car washes in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/563902559 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Habitat for Humanity ReStore is a thrift store in Abilene, TX at 101 Fulwiler Road, Abilene, TX 79603.
+
+# Habitat for Humanity ReStore
+
+- Category: thrift store
+- Services: thrift store
+- Address: 101 Fulwiler Road, Abilene, TX 79603
+- City: Abilene
+- State: TX
+- ZIP: 79603
+- Coordinates: 32.4556838, -99.8176619
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 67% of thrift stores in Abilene, TX, #2 of 3 thrift stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/habitat-for-humanity-restore-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/habitat-for-humanity-restore-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/963798027 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hamil Family Funeral Home is a funeral home in Abilene, TX at 6449 Buffalo Gap Road, Abilene, TX 79606. Phone: +13256922232. Website: https://www.hamilfamilyfuneralhome.com/.
+
+# Hamil Family Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 6449 Buffalo Gap Road, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.3701462, -99.7760445
+- Phone: +13256922232
+- Website: https://www.hamilfamilyfuneralhome.com/
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 50% of funeral homes in Abilene, TX, #1 of 2 funeral homes in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hamil-family-funeral-home-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hamil-family-funeral-home-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1182639462 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Happy Dragon Tattoo is a tattoo shop in Abilene, TX at 2638 South 14th Street, Abilene, TX 79605. Phone: +13256910715. Website: https://happydragontattoo.com/.
+
+# Happy Dragon Tattoo
+
+- Category: tattoo shop
+- Services: tattoo shop
+- Address: 2638 South 14th Street, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4323689, -99.7544568
+- Phone: +13256910715
+- Website: https://happydragontattoo.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 12:00-20:30
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 100% of tattoo shops in Abilene, TX, #1 of 1 tattoo shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/happy-dragon-tattoo-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/happy-dragon-tattoo-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6062951909 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Honda of Abilene is an used car dealer in Abilene, TX at 1399 South Danville Drive, Abilene, TX 79605. Website: https://www.hondaofabilene.com/.
+
+# Honda of Abilene
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 1399 South Danville Drive, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4288607, -99.7854236
+- Phone: n/a
+- Website: https://www.hondaofabilene.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.8/100 — Building — top 100% of used car dealers in Abilene, TX, #4 of 4 used car dealers in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/honda-of-abilene-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/honda-of-abilene-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/544047116 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Icon is a dog groomer in Abilene, TX at 3266 South 27th Street, Abilene, TX 79605.
+
+# Icon
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: 3266 South 27th Street, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4184024, -99.7634386
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Abilene, TX, #1 of 1 dog groomers in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/icon-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/icon-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1350019951 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Isaac The Barber is a barber shop in Abilene, TX at 2441 South 7th Street, Abilene, TX 79605. Phone: +13256737467. Website: https://booksy.com/en-us/1201805_isaac-the-barber_barber-shop_37467_abilene.
+
+# Isaac The Barber
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 2441 South 7th Street, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.443515, -99.7522168
+- Phone: +13256737467
+- Website: https://booksy.com/en-us/1201805_isaac-the-barber_barber-shop_37467_abilene
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Fr 09:00-17:00; Sa 09:00-16:00
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 50% of barber shops in Abilene, TX, #1 of 2 barber shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/isaac-the-barber-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/isaac-the-barber-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13320020369 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+James Avery Jewelry is a jewelry store in Abilene, TX at 3657 Catclaw Drive #3, Abilene, TX 79606. Phone: +13256910012. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=687.
+
+# James Avery Jewelry
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 3657 Catclaw Drive #3, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.4077815, -99.7753269
+- Phone: +13256910012
+- Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=687
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
+- Pulse Score: 48.4/100 — Building — top 100% of jewelry stores in Abilene, TX, #1 of 1 jewelry stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/james-avery-jewelry-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4248300285 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jimmy Parton Realtors is a real estate agency in Abilene, TX.
+
+# Jimmy Parton Realtors
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4164528, -99.778238
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 84% of real estate agencys in Abilene, TX, #5 of 6 real estate agencys in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jimmy-parton-realtors-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jimmy-parton-realtors-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/689505213 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+John Lopez at The Collective is a barber shop in Abilene, TX at 244 Pine Street #200, Abilene, TX 79601.
+
+# John Lopez at The Collective
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 244 Pine Street #200, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4510346, -99.7333581
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We 12:00-19:00; Th 10:00-19:00; Fr 10:00-17:00
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Abilene, TX, #2 of 2 barber shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/john-lopez-at-the-collective-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/john-lopez-at-the-collective-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13330652828 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Keller Williams Realty is a real estate agency in Abilene, TX at 2510 Buffalo Gap Road, Abilene, TX 79605.
+
+# Keller Williams Realty
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 2510 Buffalo Gap Road, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4188908, -99.7500517
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.7/100 — Building — top 100% of real estate agencys in Abilene, TX, #6 of 6 real estate agencys in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/keller-williams-realty-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/keller-williams-realty-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/962557391 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kent Beck Motors is an used car dealer in Abilene, TX at 710 South Clack Street, Abilene, TX 79605.
+
+# Kent Beck Motors
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 710 South Clack Street, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4435941, -99.7882296
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 75% of used car dealers in Abilene, TX, #3 of 4 used car dealers in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 44.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kent-beck-motors-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kent-beck-motors-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/659403267 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kingdom Electric is an electrician in Abilene, TX at 1590 East Highway 80, Abilene, TX 79601. Phone: +13252328628.
+
+# Kingdom Electric
+
+- Category: electrician
+- Services: electrician
+- Address: 1590 East Highway 80, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4483585, -99.6981754
+- Phone: +13252328628
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 100% of electricians in Abilene, TX, #1 of 1 electricians in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kingdom-electric-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kingdom-electric-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/733919151 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lee Orthodontics is a dentist in Abilene, TX.
+
+# Lee Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4149745, -99.7786923
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 84% of dentists in Abilene, TX, #5 of 6 dentists in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lee-orthodontics-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lee-orthodontics-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/689502640 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lighthouse Legal Services, PLLC is a lawyer in Abilene, TX at 500 Chestnut Street #1701, Abilene, TX 79602. Phone: +18662196119. Website: https://llslaw.com/location-abilene/.
+
+# Lighthouse Legal Services, PLLC
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 500 Chestnut Street #1701, Abilene, TX 79602
+- City: Abilene
+- State: TX
+- ZIP: 79602
+- Coordinates: 32.4443366, -99.7347321
+- Phone: +18662196119
+- Website: https://llslaw.com/location-abilene/
+- Email: n/a
+- Opening hours (OSM syntax): Mo - Th 08:30-17:30; Fr 08:30-15:30
+- Pulse Score: 48.8/100 — Building — top 100% of lawyers in Abilene, TX, #2 of 2 lawyers in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.9, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lighthouse-legal-services-pllc-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lighthouse-legal-services-pllc-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11804438615 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lithia Toyota Of Abilene is an used car dealer in Abilene, TX at 4449 Southwest Drive, Abilene, TX 79606. Phone: +13256034229. Website: https://www.toyotaabilene.com/.
+
+# Lithia Toyota Of Abilene
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 4449 Southwest Drive, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.4073523, -99.781494
+- Phone: +13256034229
+- Website: https://www.toyotaabilene.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 08:30-20:00
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 25% of used car dealers in Abilene, TX, #1 of 4 used car dealers in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lithia-toyota-of-abilene-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lithia-toyota-of-abilene-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/504227045 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lowery Paint & Collision is an auto repair shop in Abilene, TX at 7719 US Highway 277 South, Abilene, TX 79606.
+
+# Lowery Paint & Collision
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 7719 US Highway 277 South, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.3737252, -99.846421
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 50% of auto repair shops in Abilene, TX, #8 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lowery-paint-and-collision-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lowery-paint-and-collision-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/962092162 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mattress Firm is a mattress store in Abilene, TX at 3526 Catclaw Drive, Abilene, TX 79606. Phone: +13256900773. Website: https://www.mattressfirm.com/en-us/stores/tx/abilene/088001/.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: 3526 Catclaw Drive, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.4076835, -99.7772178
+- Phone: +13256900773
+- Website: https://www.mattressfirm.com/en-us/stores/tx/abilene/088001/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.7/100 — Building — top 100% of mattress stores in Abilene, TX, #2 of 2 mattress stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-firm-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-firm-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/516710502 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+McKay's Bakery is a bakery in Abilene, TX.
+
+# McKay's Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4513162, -99.7344797
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Abilene, TX, #3 of 3 bakerys in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mckays-bakery-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mckays-bakery-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/659428989 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Migo's Tile Service is a tile installer in Abilene, TX at 1701 University Boulevard, Abilene, TX 79603. Phone: +13255140033. Website: https://migostileservicetx.com/.
+
+# Migo's Tile Service
+
+- Category: tile installation
+- Services: tile installation
+- Address: 1701 University Boulevard, Abilene, TX 79603
+- City: Abilene
+- State: TX
+- ZIP: 79603
+- Coordinates: 32.4763788, -99.7407139
+- Phone: +13255140033
+- Website: https://migostileservicetx.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 08:00-18:30
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 100% of tile installers in Abilene, TX, #1 of 1 tile installers in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/migos-tile-service-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/migos-tile-service-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9697491426 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Milk & Honey Bakery is a bakery in Abilene, TX at 480 East Ambler Avenue, Abilene, TX. Phone: +13255132683. Website: https://www.milkandhoneybvb.com/.
+
+# Milk & Honey Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: 480 East Ambler Avenue, Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4750473, -99.718009
+- Phone: +13255132683
+- Website: https://www.milkandhoneybvb.com/
+- Email: n/a
+- Opening hours (OSM syntax): We-Sa 11:00-16:00
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 34% of bakerys in Abilene, TX, #1 of 3 bakerys in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/milk-and-honey-bakery-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/milk-and-honey-bakery-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1315958717 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mister Car Wash is a car wash in Abilene, TX at 2350 South 27th Street, Abilene, TX 79605.
+
+# Mister Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 2350 South 27th Street, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.417974, -99.7512612
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.7/100 — Building — top 43% of car washes in Abilene, TX, #2 of 6 car washes in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mister-car-wash-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mister-car-wash-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/relation/18593589 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mister Car Wash is a car wash in Abilene, TX at 6118 Buffalo Gap Road, Abilene, TX 79606.
+
+# Mister Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 6118 Buffalo Gap Road, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.3750036, -99.7746446
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46/100 — Building — top 58% of car washes in Abilene, TX, #3 of 6 car washes in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mister-car-wash-abilene-w1087091103/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mister-car-wash-abilene-w1087091103.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1087091103 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mister Car Wash is a car wash in Abilene, TX at 4002 Buffalo Gap Road, Abilene, TX 79605.
+
+# Mister Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 4002 Buffalo Gap Road, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4042903, -99.7577991
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46/100 — Building — top 72% of car washes in Abilene, TX, #4 of 6 car washes in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mister-car-wash-abilene-w632317368/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mister-car-wash-abilene-w632317368.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/632317368 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Morris Dental Associates is a dentist in Abilene, TX at 4709 Marlboro Drive, Abilene, TX 79606. Phone: +13256921100. Website: https://www.morrisdentalassociates.com/.
+
+# Morris Dental Associates
+
+- Category: dentist
+- Services: dentist
+- Address: 4709 Marlboro Drive, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.3573887, -99.7839169
+- Phone: +13256921100
+- Website: https://www.morrisdentalassociates.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 08:00-17:00
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 17% of dentists in Abilene, TX, #1 of 6 dentists in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/morris-dental-associates-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/morris-dental-associates-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1135876171 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Orangetheory Fitness is a gym in Abilene, TX at 3950 Catclaw Drive, Abilene, TX 79606. Phone: +13254006191.
+
+# Orangetheory Fitness
+
+- Category: gym
+- Services: gym
+- Address: 3950 Catclaw Drive, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.4041881, -99.775106
+- Phone: +13254006191
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.4/100 — Building — top 89% of gyms in Abilene, TX, #8 of 9 gyms in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/orangetheory-fitness-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/orangetheory-fitness-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/694841749 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+P.T Event Center is an event venue in Abilene, TX at 5126 Brick Street, Abilene, TX 79601.
+
+# P.T Event Center
+
+- Category: event venues
+- Services: event venues
+- Address: 5126 Brick Street, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.5168491, -99.7451767
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 100% of event venues in Abilene, TX, #3 of 3 event venues in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/p-t-event-center-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/p-t-event-center-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1120990003 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pep Boys is an auto repair shop in Abilene, TX at 2473 South Danville Drive, Abilene, TX 79605.
+
+# Pep Boys
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2473 South Danville Drive, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4191567, -99.7805878
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.9/100 — Building — top 94% of auto repair shops in Abilene, TX, #14 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pep-boys-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pep-boys-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/516710484 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Petco is a pet store in Abilene, TX at 3542 South Clack Street, Abilene, TX 79606. Phone: +13252716949. Website: https://stores.petco.com/tx/abilene/pet-supplies-abilene-tx-2469.html.
+
+# Petco
+
+- Category: pet store
+- Services: pet store
+- Address: 3542 South Clack Street, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.4074492, -99.7719647
+- Phone: +13252716949
+- Website: https://stores.petco.com/tx/abilene/pet-supplies-abilene-tx-2469.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
+- Pulse Score: 46.6/100 — Building — top 100% of pet stores in Abilene, TX, #2 of 2 pet stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petco-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petco-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6456523865 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+PetSmart is a pet store in Abilene, TX at 3501 Catclaw Drive, Abilene, TX 79606. Phone: +13256929411. Website: https://www.petsmart.com/stores/us/tx/abilene-store1352.html.
+
+# PetSmart
+
+- Category: pet store
+- Services: pet store
+- Address: 3501 Catclaw Drive, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.4092814, -99.7756849
+- Phone: +13256929411
+- Website: https://www.petsmart.com/stores/us/tx/abilene-store1352.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Pulse Score: 49/100 — Building — top 50% of pet stores in Abilene, TX, #1 of 2 pet stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petsmart-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petsmart-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/655505117 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Philpott Florist is a florist in Abilene, TX at 1902 North 1st Street, Abilene, TX 79603.
+
+# Philpott Florist
+
+- Category: florist
+- Services: florist
+- Address: 1902 North 1st Street, Abilene, TX 79603
+- City: Abilene
+- State: TX
+- ZIP: 79603
+- Coordinates: 32.4504833, -99.7450137
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 50% of florists in Abilene, TX, #1 of 2 florists in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/philpott-florist-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/philpott-florist-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13295992132 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pinkie's Liquor is a liquor store in Abilene, TX at 5050 US Highway 277 South, Abilene, TX 79605.
+
+# Pinkie's Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 5050 US Highway 277 South, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4251467, -99.788087
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 50% of liquor stores in Abilene, TX, #2 of 4 liquor stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pinkies-liquor-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pinkies-liquor-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/544286271 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Premier Realestate Advisors Kristi Andrew is a real estate agency in Abilene, TX at 6304 Buffalo Gap Road, Abilene, TX 79606. Phone: +13257212436. Website: https://kristiandrew.com/.
+
+# Premier Realestate Advisors Kristi Andrew
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 6304 Buffalo Gap Road, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.3729098, -99.7754642
+- Phone: +13257212436
+- Website: https://kristiandrew.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 08:00-18:00
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 17% of real estate agencys in Abilene, TX, #1 of 6 real estate agencys in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/premier-realestate-advisors-kristi-andrew-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/premier-realestate-advisors-kristi-andrew-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1358295970 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+R F Diesel Repair is an auto repair shop in Abilene, TX at 2458 East Overland Trail, Abilene, TX 79601.
+
+# R F Diesel Repair
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2458 East Overland Trail, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4680516, -99.6825448
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 57% of auto repair shops in Abilene, TX, #9 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/r-f-diesel-repair-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/r-f-diesel-repair-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/606944334 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Radford Hills Animal Clinic is a veterinarian in Abilene, TX at 1165 East North 10th Street, Abilene, TX 79601.
+
+# Radford Hills Animal Clinic
+
+- Category: vet
+- Services: vet
+- Address: 1165 East North 10th Street, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4594026, -99.7035228
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 75% of veterinarians in Abilene, TX, #3 of 4 veterinarians in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/radford-hills-animal-clinic-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/radford-hills-animal-clinic-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/602872107 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Remy's Alterations is a dry cleaner in Abilene, TX.
+
+# Remy's Alterations
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4236896, -99.8029717
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Abilene, TX, #1 of 1 dry cleaners in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/remys-alterations-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/remys-alterations-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5992399091 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rocky Mountain Truck Centers is an auto repair shop in Tye, TX at 600 South Access Road, Tye, TX 79563.
+
+# Rocky Mountain Truck Centers
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 600 South Access Road, Tye, TX 79563
+- City: Tye
+- State: TX
+- ZIP: 79563
+- Coordinates: 32.4583816, -99.8561063
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 63% of auto repair shops in Abilene, TX, #1 of 1 auto repair shops in Tye (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rocky-mountain-truck-centers-tye/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rocky-mountain-truck-centers-tye.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1189775109 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rose Nail is a nail salon in Abilene, TX.
+
+# Rose Nail
+
+- Category: nail salon
+- Services: nail salon
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4079432, -99.7737535
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 50% of nail salons in Abilene, TX, #2 of 4 nail salons in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rose-nail-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rose-nail-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/655505125 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sharon's Barbeque & Catering is a caterer in Abilene, TX.
+
+# Sharon's Barbeque & Catering
+
+- Category: caterers
+- Services: caterers
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.447983, -99.7099105
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 100% of caterers in Abilene, TX, #1 of 1 caterers in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 40. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sharons-barbeque-and-catering-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sharons-barbeque-and-catering-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/733919135 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Shell is a car wash in Abilene, TX.
+
+# Shell
+
+- Category: car wash
+- Services: car wash
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4507577, -99.7701176
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.4/100 — Building — top 100% of car washes in Abilene, TX, #6 of 6 car washes in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 41.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/shell-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/shell-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3284395353 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sleeping Giant is a mattress store in Abilene, TX.
+
+# Sleeping Giant
+
+- Category: mattress store
+- Services: mattress store
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4094352, -99.7785208
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 50% of mattress stores in Abilene, TX, #1 of 2 mattress stores in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sleeping-giant-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sleeping-giant-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/544303141 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Smile Crafters is a dentist in Abilene, TX at 1034 North Willis Street, Abilene, TX 79603.
+
+# Smile Crafters
+
+- Category: dentist
+- Services: dentist
+- Address: 1034 North Willis Street, Abilene, TX 79603
+- City: Abilene
+- State: TX
+- ZIP: 79603
+- Coordinates: 32.4621357, -99.7645708
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 67% of dentists in Abilene, TX, #4 of 6 dentists in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/smile-crafters-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/smile-crafters-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/962413899 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Southwest Animal Clinic is a veterinarian in Abilene, TX at 2301 South 27th Street, Abilene, TX 79605.
+
+# Southwest Animal Clinic
+
+- Category: vet
+- Services: vet
+- Address: 2301 South 27th Street, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.416962, -99.7509831
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in Abilene, TX, #4 of 4 veterinarians in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/southwest-animal-clinic-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/southwest-animal-clinic-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/962557383 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Southwest Enterprises is a motorcycle repair shop in Abilene, TX at 1865 East Highway 80, Abilene, TX 79601.
+
+# Southwest Enterprises
+
+- Category: motorcycle repair
+- Services: motorcycle repair
+- Address: 1865 East Highway 80, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4469052, -99.6948658
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 100% of motorcycle repair shops in Abilene, TX, #1 of 1 motorcycle repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/southwest-enterprises-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/southwest-enterprises-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1124311899 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sport Clips is a hair salon in Abilene, TX at 1750 East Overland Trail #101, Abilene, TX 79601.
+
+# Sport Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1750 East Overland Trail #101, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4759583, -99.6962834
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.4/100 — Building — top 67% of hair salons in Abilene, TX, #2 of 3 hair salons in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sport-clips-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sport-clips-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8495861218 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+State Farm is an insurance agent in Abilene, TX at 1750 East Overland Trail #102, Abilene, TX 79601.
+
+# State Farm
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 1750 East Overland Trail #102, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.47589, -99.6961959
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.2/100 — Building — top 75% of insurance agents in Abilene, TX, #3 of 4 insurance agents in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-farm-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-farm-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8495861219 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Strickland Brothers is an auto repair shop in Abilene, TX at 1124 East North 10th Street, Abilene, TX 79601. Website: https://sboilchange.com/locations/173-strickland-brothers-10-minute-oil-change/.
+
+# Strickland Brothers
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 1124 East North 10th Street, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4602038, -99.7040782
+- Phone: n/a
+- Website: https://sboilchange.com/locations/173-strickland-brothers-10-minute-oil-change/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 49.1/100 — Building — top 75% of auto repair shops in Abilene, TX, #11 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/strickland-brothers-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/strickland-brothers-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/602881358 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Suite Life Pet Resort & Spa is a dog boarding facility in Taylor County, TX.
+
+# Suite Life Pet Resort & Spa
+
+- Category: dog boarding
+- Services: dog boarding
+- Address: Taylor County, TX
+- City: Taylor County
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3501244, -99.7701246
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 100% of dog boarding facilitys in Abilene, TX, #1 of 1 dog boarding facilitys in Taylor County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/suite-life-pet-resort-and-spa-taylor-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/suite-life-pet-resort-and-spa-taylor-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1193275628 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texas Roots Real Estate Group is a real estate agency in Abilene, TX at 1140 North 2nd Street #6, Abilene, TX.
+
+# Texas Roots Real Estate Group
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 1140 North 2nd Street #6, Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.45082, -99.734719
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 67% of real estate agencys in Abilene, TX, #4 of 6 real estate agencys in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-roots-real-estate-group-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-roots-real-estate-group-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13475664925 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Domain Abilene is a coworking space in Abilene, TX at 1215 E. S. 11th Street #B, Abilene, TX 79602. Phone: +13257017833. Website: https://domainabilene.com/.
+
+# The Domain Abilene
+
+- Category: coworking space
+- Services: coworking space
+- Address: 1215 E. S. 11th Street #B, Abilene, TX 79602
+- City: Abilene
+- State: TX
+- ZIP: 79602
+- Coordinates: 32.4364189, -99.7034626
+- Phone: +13257017833
+- Website: https://domainabilene.com/
+- Email: thedomainabilene@gmail.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 100% of coworking spaces in Abilene, TX, #1 of 1 coworking spaces in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-domain-abilene-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-domain-abilene-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12488711438 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Fieldhouse Abilene is a gym in Abilene, TX.
+
+# The Fieldhouse Abilene
+
+- Category: gym
+- Services: gym
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4666905, -99.7240997
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 67% of gyms in Abilene, TX, #6 of 9 gyms in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-fieldhouse-abilene-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-fieldhouse-abilene-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/630763228 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Law Firm of Chaile Allen, PLLC is a lawyer in Abilene, TX at 508 Mulberry Street, Abilene, TX 79601. Phone: +13256709282. Website: https://chaileallenlaw.com/.
+
+# The Law Firm of Chaile Allen, PLLC
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 508 Mulberry Street, Abilene, TX 79601
+- City: Abilene
+- State: TX
+- ZIP: 79601
+- Coordinates: 32.4543981, -99.7403017
+- Phone: +13256709282
+- Website: https://chaileallenlaw.com/
+- Email: chaile@chaileallenlaw.com
+- Opening hours (OSM syntax): Mo-Th 08:30-17:00; Fr 08:30-15:00
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Abilene, TX, #1 of 2 lawyers in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-law-firm-of-chaile-allen-pllc-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-law-firm-of-chaile-allen-pllc-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11993139034 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Ride is a gym in Abilene, TX.
+
+# The Ride
+
+- Category: gym
+- Services: gym
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4283828, -99.7834335
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 23% of gyms in Abilene, TX, #2 of 9 gyms in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-ride-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-ride-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6200499090 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The UPS Store is a printing service in Abilene, TX. Phone: +13256929900.
+
+# The UPS Store
+
+- Category: printing services
+- Services: printing services
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4088649, -99.778061
+- Phone: +13256929900
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:15
+- Pulse Score: 47.2/100 — Building — top 50% of printing services in Abilene, TX, #1 of 2 printing services in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-ups-store-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-ups-store-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/659567090 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Trinity Autoplex is an used car dealer in Abilene, TX at 2258 South Treadaway Boulevard #A, Abilene, TX 79602. Phone: +13257772886.
+
+# Trinity Autoplex
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 2258 South Treadaway Boulevard #A, Abilene, TX 79602
+- City: Abilene
+- State: TX
+- ZIP: 79602
+- Coordinates: 32.4217205, -99.7375604
+- Phone: +13257772886
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 50% of used car dealers in Abilene, TX, #2 of 4 used car dealers in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/trinity-autoplex-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trinity-autoplex-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13424162365 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+TurnKey Storage is a self-storage facility in Abilene, TX at 4220 North 1st Street, Abilene, TX 79603.
+
+# TurnKey Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 4220 North 1st Street, Abilene, TX 79603
+- City: Abilene
+- State: TX
+- ZIP: 79603
+- Coordinates: 32.4551115, -99.7775355
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 67% of self-storage facilitys in Abilene, TX, #2 of 3 self-storage facilitys in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/turnkey-storage-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/turnkey-storage-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/733930182 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+U-Store-It is a self-storage facility in Abilene, TX.
+
+# U-Store-It
+
+- Category: storage units
+- Services: storage units
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4165091, -99.7807838
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.9/100 — Unrated (not enough evidence yet) — top 100% of self-storage facilitys in Abilene, TX, #3 of 3 self-storage facilitys in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/u-store-it-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/u-store-it-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6177665181 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Valvoline is an auto repair shop in Abilene, TX at 2674 Buffalo Gap Road, Abilene, TX 79605. Website: https://store.vioc.com/tx/abilene/oil-change-070130.html.
+
+# Valvoline
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2674 Buffalo Gap Road, Abilene, TX 79605
+- City: Abilene
+- State: TX
+- ZIP: 79605
+- Coordinates: 32.4176249, -99.750704
+- Phone: n/a
+- Website: https://store.vioc.com/tx/abilene/oil-change-070130.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.7/100 — Building — top 82% of auto repair shops in Abilene, TX, #12 of 15 auto repair shops in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valvoline-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valvoline-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/962557385 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+VIP Nail and SPA is a nail salon in Abilene, TX.
+
+# VIP Nail and SPA
+
+- Category: nail salon
+- Services: nail salon
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4105428, -99.7752405
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 75% of nail salons in Abilene, TX, #3 of 4 nail salons in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/vip-nail-and-spa-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/vip-nail-and-spa-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7122997877 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+W. H. Jordan is an architect in Abilene, TX at 1418 Glendale Drive, Abilene, TX.
+
+# W. H. Jordan
+
+- Category: architect
+- Services: architect
+- Address: 1418 Glendale Drive, Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4660036, -99.7698927
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of architects in Abilene, TX, #1 of 1 architects in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/w-h-jordan-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/w-h-jordan-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9326885949 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wayne Henington Photography is a photographer in Abilene, TX at 8 Cherry Hills Street West, Abilene, TX 79606. Phone: +13256989748. Website: https://wayneheningtonphotography.com/.
+
+# Wayne Henington Photography
+
+- Category: photographer
+- Services: photographer
+- Address: 8 Cherry Hills Street West, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.3734479, -99.7532585
+- Phone: +13256989748
+- Website: https://wayneheningtonphotography.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 100% of photographers in Abilene, TX, #1 of 1 photographers in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wayne-henington-photography-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wayne-henington-photography-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5763207361 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Windmill Animal Hospital is a veterinarian in Abilene, TX at 2 Windmill Circle, Abilene, TX 79606. Phone: +13256988387. Website: https://www.windmillvet.com/.
+
+# Windmill Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: 2 Windmill Circle, Abilene, TX 79606
+- City: Abilene
+- State: TX
+- ZIP: 79606
+- Coordinates: 32.3797375, -99.7433351
+- Phone: +13256988387
+- Website: https://www.windmillvet.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 25% of veterinarians in Abilene, TX, #1 of 4 veterinarians in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/windmill-animal-hospital-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/windmill-animal-hospital-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6004204414 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wolfe And Company, P.C is a tax preparation service in Abilene, TX.
+
+# Wolfe And Company, P.C
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: Abilene, TX
+- City: Abilene
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4141241, -99.777792
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of tax preparation services in Abilene, TX, #2 of 2 tax preparation services in Abilene (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wolfe-and-company-p-c-abilene/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wolfe-and-company-p-c-abilene.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/544299798 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

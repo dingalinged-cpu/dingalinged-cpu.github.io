@@ -13,7 +13,7 @@ uBreakiFix is a phone repair shop in Greenwood Village, CO at 5910 South Univers
 - Website: https://www.ubreakifix.com/locations/southglenn
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-17:00
-- Pulse Score: 50.5/100 — Fair — top 29% of phone repair shops in Denver, CO, #1 of 1 phone repair shops in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 67.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 29% of phone repair shops in Denver, CO, #1 of 1 phone repair shops in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

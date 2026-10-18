@@ -13,7 +13,7 @@
 - Website: https://www.24hourfitness.com/gyms/aurora-co/aurora-sport
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 04:00-23:59
-- Pulse Score: 49.1/100 — Building — top 59% of gyms in Denver, CO, #19 of 37 gyms in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 58% of gyms in Denver, CO, #19 of 37 gyms in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

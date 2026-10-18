@@ -13,7 +13,7 @@ Buckshot Automotive is an auto repair shop in Augusta, KS at Southwest US 54 Hig
 - Website: https://www.facebook.com/BuckshotAutomotive
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00
-- Pulse Score: 63.4/100 — Good — top 3% of auto repair shops in Wichita, KS, #1 of 1 auto repair shops in Augusta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 65.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 3% of auto repair shops in Wichita, KS, #1 of 1 auto repair shops in Augusta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

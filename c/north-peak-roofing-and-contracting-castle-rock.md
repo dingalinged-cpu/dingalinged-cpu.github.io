@@ -13,7 +13,7 @@ North Peak Roofing & Contracting is a roofer in Castle Rock, CO at 4429 Vindaloo
 - Website: https://www.northpeakroofing.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 52% of roofers in Denver, CO, #2 of 2 roofers in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 52% of roofers in Denver, CO, #2 of 2 roofers in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

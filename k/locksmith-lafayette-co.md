@@ -6,7 +6,7 @@ Also answers: locksmith in Lafayette, CO; locksmith near me (Lafayette, CO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lafayette Lock and Key | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Lafayette Lock and Key is a locksmith in Lafayette, CO at 102 West Baseline Road, Lafayette, CO 80026. Phone: +13036651444. | https://registry-edge.dingalinged.workers.dev/c/lafayette-lock-and-key-lafayette/
+1. Lafayette Lock and Key | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Lafayette Lock and Key is a locksmith in Lafayette, CO at 102 West Baseline Road, Lafayette, CO 80026. Phone: +13036651444. | https://registry-edge.dingalinged.workers.dev/c/lafayette-lock-and-key-lafayette/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith lafayette co | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

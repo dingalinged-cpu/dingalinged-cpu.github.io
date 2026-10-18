@@ -13,7 +13,7 @@ Cardamone Insurance Agency is an insurance agent in Utica, MI at 7675 Auburn Roa
 - Website: https://www.cardamoneinsurance.com/
 - Email: info@cardamoneInsurance.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 4% of insurance agents in Detroit, MI, #2 of 8 insurance agents in Utica (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 5% of insurance agents in Detroit, MI, #2 of 8 insurance agents in Utica (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

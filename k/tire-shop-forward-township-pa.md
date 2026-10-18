@@ -7,7 +7,7 @@ Also answers: tire shop in Forward Township, PA; tire shop near me (Forward Town
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Matthews Tire | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Matthews Tire is a tire shop in Forward Township, PA at 1350 Hayden Boulevard, Forward Township, PA 15037. | https://registry-edge.dingalinged.workers.dev/c/matthews-tire-forward-township/
-2. Essie's Tire Center | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Essie's Tire Center is a tire shop in Forward Township, PA. | https://registry-edge.dingalinged.workers.dev/c/essies-tire-center-forward-township/
+2. Essie's Tire Center | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Essie's Tire Center is a tire shop in Forward Township, PA. | https://registry-edge.dingalinged.workers.dev/c/essies-tire-center-forward-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop forward township pa | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

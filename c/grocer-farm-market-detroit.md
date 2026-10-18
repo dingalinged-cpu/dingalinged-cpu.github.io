@@ -13,7 +13,7 @@ Grocer Farm Market is a liquor store in Detroit, MI at 3435 2nd Avenue, Detroit,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 8% of liquor stores in Detroit, MI, #3 of 134 liquor stores in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 9% of liquor stores in Detroit, MI, #3 of 134 liquor stores in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

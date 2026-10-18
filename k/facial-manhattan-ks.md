@@ -6,7 +6,7 @@ Also answers: facial in Manhattan, KS; facial near me (Manhattan, KS); best faci
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ulta Beauty | Organic #1 | Pulse Score 45.1/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Manhattan, KS at 100 Manhattan Town Center #335, Manhattan, KS 66502. Phone: +17855398491. Website: https://www.ulta.com/stores/manhattan-ks-1306. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-manhattan/
+1. Ulta Beauty | Organic #1 | Pulse Score 45/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Manhattan, KS at 100 Manhattan Town Center #335, Manhattan, KS 66502. Phone: +17855398491. Website: https://www.ulta.com/stores/manhattan-ks-1306. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-manhattan/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial manhattan ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

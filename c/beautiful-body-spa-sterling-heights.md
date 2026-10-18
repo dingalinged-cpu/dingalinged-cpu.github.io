@@ -13,7 +13,7 @@ Beautiful Body Spa is a spa in Sterling Heights, MI at 33142 Dequindre Road, Ste
 - Website: https://beautifulbodyspami.wixsite.com/beautifulbodyspa
 - Email: beautifulbodyspami@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 15% of spas in Detroit, MI, #3 of 10 spas in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 15% of spas in Detroit, MI, #3 of 10 spas in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

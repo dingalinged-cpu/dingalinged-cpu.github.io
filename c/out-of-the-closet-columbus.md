@@ -13,7 +13,7 @@ Out of the Closet is a thrift store in Columbus, OH at 1230 North High Street, C
 - Website: https://outofthecloset.org/locations/columbus-thrift-store/
 - Email: n/a
 - Opening hours (OSM syntax): Su 10:00-18:00; Mo-Sa 10:00-19:00
-- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 2% of thrift stores in Columbus, OH, #1 of 25 thrift stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 34% of thrift stores in Columbus, OH, #10 of 25 thrift stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.7, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

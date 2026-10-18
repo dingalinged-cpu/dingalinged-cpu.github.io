@@ -6,8 +6,8 @@ Also answers: gift shop in Eureka, MO; gift shop near me (Eureka, MO); best gift
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hollywood Studio Store | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Hollywood Studio Store is a gift shop in Eureka, MO. | https://registry-edge.dingalinged.workers.dev/c/hollywood-studio-store-eureka/
-2. Thrillseekers | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Thrillseekers is a gift shop in Eureka, MO. | https://registry-edge.dingalinged.workers.dev/c/thrillseekers-eureka/
+1. Hollywood Studio Store | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Hollywood Studio Store is a gift shop in Eureka, MO. | https://registry-edge.dingalinged.workers.dev/c/hollywood-studio-store-eureka/
+2. Thrillseekers | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Thrillseekers is a gift shop in Eureka, MO. | https://registry-edge.dingalinged.workers.dev/c/thrillseekers-eureka/
 3. LaClede's Mart | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | LaClede's Mart is a gift shop in Eureka, MO. | https://registry-edge.dingalinged.workers.dev/c/lacledes-mart-eureka/
 4. Looney Tunes Main Street Market | Organic #4 | Pulse Score 56.2/100 (Unrated, #4 in city) | Looney Tunes Main Street Market is a gift shop in Eureka, MO. | https://registry-edge.dingalinged.workers.dev/c/looney-tunes-main-street-market-eureka/
 5. Marquette's Market | Organic #5 | Pulse Score 56.2/100 (Unrated, #5 in city) | Marquette's Market is a gift shop in Eureka, MO. | https://registry-edge.dingalinged.workers.dev/c/marquettes-market-eureka/

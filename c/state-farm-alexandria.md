@@ -13,7 +13,7 @@ State Farm is an insurance agent in Alexandria, KY at 7532 Alexandria Pike, Alex
 - Website: https://www.sueneal.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.6/100 — Building — top 37% of insurance agents in Cincinnati, OH, #1 of 1 insurance agents in Alexandria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 37% of insurance agents in Cincinnati, OH, #1 of 1 insurance agents in Alexandria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: primary care physician in Golden, CO; primary care physician near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CommonSpirit Primary Care Golden | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | CommonSpirit Primary Care Golden is a family medicine practice in Golden, CO at 750 Warner Drive, Golden, CO 80401. Phone: +13039254340. Website: https://www.commonspirit.org/find-a-location/commonspirit-primary-care-golden-1424. | https://registry-edge.dingalinged.workers.dev/c/commonspirit-primary-care-golden-golden/
+1. CommonSpirit Primary Care Golden | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | CommonSpirit Primary Care Golden is a family medicine practice in Golden, CO at 750 Warner Drive, Golden, CO 80401. Phone: +13039254340. Website: https://www.commonspirit.org/find-a-location/commonspirit-primary-care-golden-1424. | https://registry-edge.dingalinged.workers.dev/c/commonspirit-primary-care-golden-golden/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician golden co | category: Health & medical | industry benchmark: Physicians & Surgeons

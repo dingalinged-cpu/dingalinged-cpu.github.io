@@ -6,9 +6,9 @@ Also answers: nail salon in Milford, OH; nail salon near me (Milford, OH); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adore Nails | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Adore Nails is a nail salon in Milford, OH at 5976 Meijer Drive #D, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/adore-nails-milford/
-2. Classy Eyebrows | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Classy Eyebrows is a nail salon in Milford, OH at 963 Lila Avenue, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/classy-eyebrows-milford/
-3. Q-NAIL | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | Q-NAIL is a nail salon in Milford, OH at 922 Business State Route 28 #E, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/q-nail-milford/
+1. Adore Nails | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Adore Nails is a nail salon in Milford, OH at 5976 Meijer Drive #D, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/adore-nails-milford/
+2. Classy Eyebrows | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Classy Eyebrows is a nail salon in Milford, OH at 963 Lila Avenue, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/classy-eyebrows-milford/
+3. Q-NAIL | Organic #3 | Pulse Score 59/100 (Unrated, #3 in city) | Q-NAIL is a nail salon in Milford, OH at 922 Business State Route 28 #E, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/q-nail-milford/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon milford oh | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

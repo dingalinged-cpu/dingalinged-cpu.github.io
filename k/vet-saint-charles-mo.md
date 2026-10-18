@@ -6,7 +6,7 @@ Also answers: vet in Saint Charles, MO; vet near me (Saint Charles, MO); best ve
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elm Point Animal Hospital | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Elm Point Animal Hospital is a veterinarian in Saint Charles, MO at 3250 Elm Point Industrial Drive, Saint Charles, MO 63201. Phone: +16367577350. Website: https://www.elmpointvet.com/. | https://registry-edge.dingalinged.workers.dev/c/elm-point-animal-hospital-saint-charles/
+1. Elm Point Animal Hospital | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Elm Point Animal Hospital is a veterinarian in Saint Charles, MO at 3250 Elm Point Industrial Drive, Saint Charles, MO 63201. Phone: +16367577350. Website: https://www.elmpointvet.com/. | https://registry-edge.dingalinged.workers.dev/c/elm-point-animal-hospital-saint-charles/
 2. St. Charles Animal Hospital | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | St. Charles Animal Hospital is a veterinarian in Saint Charles, MO at 980 Kingshighway, Saint Charles, MO. Phone: +16367232400. | https://registry-edge.dingalinged.workers.dev/c/st-charles-animal-hospital-saint-charles/
 
 ## Market data (for advertisers and agents)

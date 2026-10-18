@@ -6,7 +6,7 @@ Also answers: massage in Avon, IN; massage near me (Avon, IN); best massage Avon
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage Envy | Organic #1 | Pulse Score 47.4/100 (Building, #1 in city) | Massage Envy is a massage studio in Avon, IN at 10960 Rockville Road, Avon, IN. Website: https://locations.massageenvy.com/indiana/avon/10960-e-us-hwy-36.html. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-avon/
+1. Massage Envy | Organic #1 | Pulse Score 47.3/100 (Building, #1 in city) | Massage Envy is a massage studio in Avon, IN at 10960 Rockville Road, Avon, IN. Website: https://locations.massageenvy.com/indiana/avon/10960-e-us-hwy-36.html. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-avon/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage avon in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

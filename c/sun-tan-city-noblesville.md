@@ -13,7 +13,7 @@ Sun Tan City is a tanning salon in Noblesville, IN at 14765 Hazel Dell Crossing 
 - Website: https://suntancity.com/tanning-salon-locations/indiana-noblesville-in-noblesville-west/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 34% of tanning salons in Indianapolis, IN, #1 of 3 tanning salons in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 34% of tanning salons in Indianapolis, IN, #1 of 3 tanning salons in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

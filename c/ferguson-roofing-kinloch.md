@@ -13,7 +13,7 @@ Ferguson Roofing is a roofer in Kinloch, MO at 5814 Garfield Ave., Kinloch, MO 6
 - Website: https://fergusonroofing.com/st-louis/
 - Email: connect@fergusonroofing.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:00
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 20% of roofers in St. Louis, MO, #1 of 1 roofers in Kinloch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 20% of roofers in St. Louis, MO, #1 of 1 roofers in Kinloch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

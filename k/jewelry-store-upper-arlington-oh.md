@@ -6,8 +6,8 @@ Also answers: jewelry store in Upper Arlington, OH; jewelry store near me (Upper
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bohindi | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Bohindi is a jewelry store in Upper Arlington, OH. | https://registry-edge.dingalinged.workers.dev/c/bohindi-upper-arlington/
-2. Jack Seibert Goldsmith Jeweler | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Jack Seibert Goldsmith Jeweler is a jewelry store in Upper Arlington, OH. | https://registry-edge.dingalinged.workers.dev/c/jack-seibert-goldsmith-jeweler-upper-arlington/
+1. Bohindi | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Bohindi is a jewelry store in Upper Arlington, OH. | https://registry-edge.dingalinged.workers.dev/c/bohindi-upper-arlington/
+2. Jack Seibert Goldsmith Jeweler | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Jack Seibert Goldsmith Jeweler is a jewelry store in Upper Arlington, OH. | https://registry-edge.dingalinged.workers.dev/c/jack-seibert-goldsmith-jeweler-upper-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store upper arlington oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

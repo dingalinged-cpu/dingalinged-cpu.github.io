@@ -13,7 +13,7 @@ Cotton O'Neil Asbury Drive Clinic is a family medicine practice in Topeka, KS at
 - Website: https://www.stormontvail.org/location/asbury-drive-clinic/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 50% of family medicine practices in Topeka, KS, #1 of 2 family medicine practices in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 50% of family medicine practices in Topeka, KS, #1 of 2 family medicine practices in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

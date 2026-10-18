@@ -1,0 +1,162 @@
+{
+ "title": "Keyword market data: Bellmead, TX",
+ "description": "Top Bellmead, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Bellmead, TX",
+ "geography": null,
+ "keywords": 12,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "hvac repair bellmead tx",
+    "slug": "hvac-repair-bellmead-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-bellmead-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 17.76,
+    "cpc_median_usd": 9.68,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofing contractor bellmead tx",
+    "slug": "roofing-contractor-bellmead-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-bellmead-tx/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofer bellmead tx",
+    "slug": "roofer-bellmead-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-bellmead-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "heating and air bellmead tx",
+    "slug": "heating-and-air-bellmead-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-bellmead-tx/",
+    "us_monthly_searches": 3600,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "bakery bellmead tx",
+    "slug": "bakery-bellmead-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-bellmead-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dentist bellmead tx",
+    "slug": "dentist-bellmead-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-bellmead-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.7,
+    "cpc_median_usd": 8.0,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "auto repair bellmead tx",
+    "slug": "auto-repair-bellmead-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-bellmead-tx/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 5,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "car wash bellmead tx",
+    "slug": "car-wash-bellmead-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-bellmead-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "mechanic bellmead tx",
+    "slug": "mechanic-bellmead-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-bellmead-tx/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 5,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tire shop bellmead tx",
+    "slug": "tire-shop-bellmead-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-bellmead-tx/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "furniture store bellmead tx",
+    "slug": "furniture-store-bellmead-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-bellmead-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "vet bellmead tx",
+    "slug": "vet-bellmead-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-bellmead-tx/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

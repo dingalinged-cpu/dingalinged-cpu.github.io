@@ -13,7 +13,7 @@ Owens Flower Shop is a florist in Lawrence, KS at 846 Indiana Street, Lawrence, 
 - Website: https://www.owensflowershop.net/
 - Email: owensflowershop@sunflower.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30, Sa 09:00-13:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 34% of florists in Lawrence, KS, #1 of 3 florists in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 34% of florists in Lawrence, KS, #1 of 3 florists in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

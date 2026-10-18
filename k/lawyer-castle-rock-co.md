@@ -7,7 +7,7 @@ Also answers: lawyer in Castle Rock, CO; lawyer near me (Castle Rock, CO); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Law Office of Lori Crystal, LLC | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Law Office of Lori Crystal, LLC is a lawyer in Castle Rock, CO at 900 West Castleton Road #150, Castle Rock, CO 80109. Phone: +17207434960. Website: https://www.douglascountylawyer.com/. | https://registry-edge.dingalinged.workers.dev/c/law-office-of-lori-crystal-llc-castle-rock/
-2. Robinson & Henry, P.C. | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Robinson & Henry, P.C. is a lawyer in Castle Rock, CO at 900 West Castleton Road #200, Castle Rock, CO 80109. Phone: +13036880944. Website: https://www.robinsonandhenry.com/. | https://registry-edge.dingalinged.workers.dev/c/robinson-and-henry-p-c-castle-rock/
+2. Robinson & Henry, P.C. | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Robinson & Henry, P.C. is a lawyer in Castle Rock, CO at 900 West Castleton Road #200, Castle Rock, CO 80109. Phone: +13036880944. Website: https://www.robinsonandhenry.com/. | https://registry-edge.dingalinged.workers.dev/c/robinson-and-henry-p-c-castle-rock/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer castle rock co | category: Legal | industry benchmark: Attorneys & Legal Services

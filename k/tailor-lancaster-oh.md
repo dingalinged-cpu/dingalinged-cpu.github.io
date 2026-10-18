@@ -6,7 +6,7 @@ Also answers: tailor in Lancaster, OH; tailor near me (Lancaster, OH); best tail
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sewphistication | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Sewphistication is a tailor in Lancaster, OH at 400 North Columbus Street, Lancaster, OH 43130. Phone: +17409632605. | https://registry-edge.dingalinged.workers.dev/c/sewphistication-lancaster/
+1. Sewphistication | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Sewphistication is a tailor in Lancaster, OH at 400 North Columbus Street, Lancaster, OH 43130. Phone: +17409632605. | https://registry-edge.dingalinged.workers.dev/c/sewphistication-lancaster/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor lancaster oh | category: Professional & financial services | industry benchmark: Finance & Insurance

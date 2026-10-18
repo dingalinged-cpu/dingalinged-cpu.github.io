@@ -6,7 +6,7 @@ Also answers: car wash in Lebanon, OH; car wash near me (Lebanon, OH); best car 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spot Free Car Wash | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Spot Free Car Wash is a car wash in Lebanon, OH. | https://registry-edge.dingalinged.workers.dev/c/spot-free-car-wash-lebanon/
+1. Spot Free Car Wash | Organic #1 | Pulse Score 42.8/100 (Unrated, #1 in city) | Spot Free Car Wash is a car wash in Lebanon, OH. | https://registry-edge.dingalinged.workers.dev/c/spot-free-car-wash-lebanon/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash lebanon oh | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

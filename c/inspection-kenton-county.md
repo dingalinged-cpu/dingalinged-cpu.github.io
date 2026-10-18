@@ -13,7 +13,7 @@ Inspection is a vehicle inspection station in Kenton County, KY.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Unrated (not enough evidence yet) — top 67% of vehicle inspection stations in Cincinnati, OH, #1 of 1 vehicle inspection stations in Kenton County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 67% of vehicle inspection stations in Cincinnati, OH, #1 of 1 vehicle inspection stations in Kenton County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

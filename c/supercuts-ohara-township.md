@@ -13,7 +13,7 @@ Supercuts is a hair salon in O'Hara Township, PA at 1154 Freeport Road, O'Hara T
 - Website: https://www.supercuts.com/locations/nearme/haircut/pa/pittsburgh/1154-freeport-rd/80467
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.9/100 — Building — top 80% of hair salons in Pittsburgh, PA, #1 of 1 hair salons in O'Hara Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 79% of hair salons in Pittsburgh, PA, #1 of 1 hair salons in O'Hara Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

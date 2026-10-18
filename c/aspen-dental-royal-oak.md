@@ -13,7 +13,7 @@ Aspen Dental is a dentist in Royal Oak, MI at 30955 Woodward Avenue #105, Royal 
 - Website: https://www.aspendental.com/dentist/mi/royal-oak/30955-woodward-ave
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 92% of dentists in Detroit, MI, #5 of 5 dentists in Royal Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 91% of dentists in Detroit, MI, #5 of 5 dentists in Royal Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

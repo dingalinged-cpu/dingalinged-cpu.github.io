@@ -6,7 +6,7 @@ Also answers: flooring companies in Ferndale, MI; flooring companies near me (Fe
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Erickson's Flooring & Supply Co. | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Erickson's Flooring & Supply Co. is a flooring company in Ferndale, MI at 1013 Orchard Street, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/ericksons-flooring-and-supply-co-ferndale/
+1. Erickson's Flooring & Supply Co. | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Erickson's Flooring & Supply Co. is a flooring company in Ferndale, MI at 1013 Orchard Street, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/ericksons-flooring-and-supply-co-ferndale/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies ferndale mi | category: Home services - Flooring | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Orangetheory Fitness is a gym in Arvada, CO at 8031 Wadsworth Boulevard #A-2, Ar
 - Website: n/a
 - Email: studio0561@orangetheoryfitness.com
 - Opening hours (OSM syntax): Mo-Fr 05:00-20:00
-- Pulse Score: 48.2/100 — Building — top 67% of gyms in Denver, CO, #5 of 5 gyms in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 66% of gyms in Denver, CO, #5 of 5 gyms in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

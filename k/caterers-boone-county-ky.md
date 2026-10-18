@@ -6,9 +6,9 @@ Also answers: caterers in Boone County, KY; caterers near me (Boone County, KY);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Be Creative Catering | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Be Creative Catering is a caterer in Boone County, KY. | https://registry-edge.dingalinged.workers.dev/c/be-creative-catering-boone-county/
-2. Commonwealth Foods | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Commonwealth Foods is a caterer in Boone County, KY. | https://registry-edge.dingalinged.workers.dev/c/commonwealth-foods-boone-county/
-3. Lothers Catering | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Lothers Catering is a caterer in Boone County, KY. | https://registry-edge.dingalinged.workers.dev/c/lothers-catering-boone-county/
+1. Be Creative Catering | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Be Creative Catering is a caterer in Boone County, KY. | https://registry-edge.dingalinged.workers.dev/c/be-creative-catering-boone-county/
+2. Commonwealth Foods | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Commonwealth Foods is a caterer in Boone County, KY. | https://registry-edge.dingalinged.workers.dev/c/commonwealth-foods-boone-county/
+3. Lothers Catering | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Lothers Catering is a caterer in Boone County, KY. | https://registry-edge.dingalinged.workers.dev/c/lothers-catering-boone-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers boone county ky | category: Events & weddings | industry benchmark: Personal Services

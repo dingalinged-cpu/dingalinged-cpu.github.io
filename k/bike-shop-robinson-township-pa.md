@@ -6,7 +6,7 @@ Also answers: bike shop in Robinson Township, PA; bike shop near me (Robinson To
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pro Bike + Run | Organic #1 | Pulse Score 61.1/100 (Unrated, #4 in city) | Pro Bike + Run is a bike shop in Pittsburgh, PA at 3100 Robinson Lane, Pittsburgh, PA 15205. Phone: +14124900881. Website: https://www.probikerun.com/about/robinson-pg205.htm. | https://registry-edge.dingalinged.workers.dev/c/pro-bike-run-pittsburgh/
+1. Pro Bike + Run | Organic #1 | Pulse Score 61/100 (Unrated, #4 in city) | Pro Bike + Run is a bike shop in Pittsburgh, PA at 3100 Robinson Lane, Pittsburgh, PA 15205. Phone: +14124900881. Website: https://www.probikerun.com/about/robinson-pg205.htm. | https://registry-edge.dingalinged.workers.dev/c/pro-bike-run-pittsburgh/
 2. Trek | Organic #2 | Pulse Score 44.9/100 (Building, #14 in city) | Trek is a bike shop in Pittsburgh, PA at 6514 Steubenville Pike, Pittsburgh, PA 15205. Website: https://www.trekbikes.com/us/en_us/retail/robinson_township/. | https://registry-edge.dingalinged.workers.dev/c/trek-pittsburgh/
 
 ## Market data (for advertisers and agents)

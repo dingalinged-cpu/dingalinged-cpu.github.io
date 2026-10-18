@@ -6,7 +6,7 @@ Also answers: facial in Ballwin, MO; facial near me (Ballwin, MO); best facial B
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Laser Me | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Laser Me is a skin care studio in Ballwin, MO at 14014 Manchester Road, Ballwin, MO 63011. Phone: +16363910015. Website: https://www.laserme123.com/. | https://registry-edge.dingalinged.workers.dev/c/laser-me-ballwin/
+1. Laser Me | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Laser Me is a skin care studio in Ballwin, MO at 14014 Manchester Road, Ballwin, MO 63011. Phone: +16363910015. Website: https://www.laserme123.com/. | https://registry-edge.dingalinged.workers.dev/c/laser-me-ballwin/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial ballwin mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

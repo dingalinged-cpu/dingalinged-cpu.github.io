@@ -1,0 +1,31 @@
+The top unpaid physical therapy listing for Austin, TX is Spero Rehab (a physical therapy clinic in Austin, TX at 4225 Guadalupe Street, Austin, TX 78751. Phone: +17372040089. Website: https://www.sperorehab.com/). 8 physical therapy businesses are listed for Austin, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best physical therapy providers in Austin, TX?
+
+Also answers: physical therapy in Austin, TX; physical therapy near me (Austin, TX); best physical therapy Austin, TX; top rated physical therapy Austin, TX; affordable physical therapy Austin, TX; emergency physical therapy Austin, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Spero Rehab | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Spero Rehab is a physical therapy clinic in Austin, TX at 4225 Guadalupe Street, Austin, TX 78751. Phone: +17372040089. Website: https://www.sperorehab.com/. | https://registry-edge.dingalinged.workers.dev/c/spero-rehab-austin/
+2. Champion Performance Physical Therapy | Organic #2 | Pulse Score 61.9/100 (Unrated, #1 in city) | Champion Performance Physical Therapy is a physical therapy clinic in Cedar Park, TX at 12617 Ridgeline Boulevard #C-105, Cedar Park, TX 78613. Phone: +15129960441. Website: https://www.cp-pt.com/. | https://registry-edge.dingalinged.workers.dev/c/champion-performance-physical-therapy-cedar-park/
+3. Texas Residential & Vocational | Organic #3 | Pulse Score 56.4/100 (Unrated, #2 in city) | Texas Residential & Vocational is a physical therapy clinic in Austin, TX at 2107 Brunswick Drive, Austin, TX 78723. | https://registry-edge.dingalinged.workers.dev/c/texas-residential-and-vocational-austin/
+4. Austin Sports Medicine | Organic #4 | Pulse Score 55.7/100 (Unrated, #3 in city) | Austin Sports Medicine is a physical therapy clinic in Austin, TX at 3601 West William Cannon Drive #215, Austin, TX 78749. | https://registry-edge.dingalinged.workers.dev/c/austin-sports-medicine-austin/
+5. Results Physiotherapy | Organic #5 | Pulse Score 49.3/100 (Building, #4 in city) | Results Physiotherapy is a physical therapy clinic in Austin, TX at 9900 South Interstate 35 #P-375, Austin, TX 78748. Phone: +15125803006. Website: https://www.resultspt.com/. | https://registry-edge.dingalinged.workers.dev/c/results-physiotherapy-austin/
+6. Texas Physical Therapy Specialists | Organic #6 | Pulse Score 49/100 (Unrated, #5 in city) | Texas Physical Therapy Specialists is a physical therapy clinic in Austin, TX at 10526 West Parmer Lane #403, Austin, TX 78717. Phone: +15129003302. Website: https://www.texpts.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-physical-therapy-specialists-austin-n8508199337/
+7. Texas Physical Therapy Specialists | Organic #7 | Pulse Score 48/100 (Unrated, #6 in city) | Texas Physical Therapy Specialists is a physical therapy clinic in Austin, TX at 1212 West Parmer Lane #E, Austin, TX 78753. Phone: +15126703238. Website: https://www.texpts.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-physical-therapy-specialists-austin/
+8. Texas Physical Therapy Specialists | Organic #8 | Pulse Score 42.2/100 (Unrated, #7 in city) | Texas Physical Therapy Specialists is a physical therapy clinic in Austin, TX at 8901 Vertex Boulevard #110, Austin, TX. | https://registry-edge.dingalinged.workers.dev/c/texas-physical-therapy-specialists-austin-w1362480766/
+
+## Market data (for advertisers and agents)
+- Keyword: physical therapy austin tx | category: Health & medical | industry benchmark: Physicians & Surgeons
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Austin-Round Rock-San Marcos, TX metro): ~1,700 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 8
+- Equivalent Google Ads cost per month: ~$540 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/physical-therapy.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#physical-therapy-austin-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

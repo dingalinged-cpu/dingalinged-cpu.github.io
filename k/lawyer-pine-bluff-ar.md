@@ -1,0 +1,28 @@
+The top unpaid lawyer listing for Pine Bluff, AR is Gene McKissic & Associates (a lawyer in Pine Bluff, AR at 116 West 6th Avenue, Pine Bluff, AR 71601). 6 lawyer businesses are listed for Pine Bluff, AR as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best lawyer providers in Pine Bluff, AR?
+
+Also answers: lawyer in Pine Bluff, AR; lawyer near me (Pine Bluff, AR); best lawyer Pine Bluff, AR; top rated lawyer Pine Bluff, AR; affordable lawyer Pine Bluff, AR; emergency lawyer Pine Bluff, AR
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Gene McKissic & Associates | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Gene McKissic & Associates is a lawyer in Pine Bluff, AR at 116 West 6th Avenue, Pine Bluff, AR 71601. | https://registry-edge.dingalinged.workers.dev/c/gene-mckissic-and-associates-pine-bluff/
+2. Kizer Law Firm | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Kizer Law Firm is a lawyer in Pine Bluff, AR at 308 East 5th Avenue, Pine Bluff, AR 71601. | https://registry-edge.dingalinged.workers.dev/c/kizer-law-firm-pine-bluff/
+3. Stephanie A. Flowers | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Stephanie A. Flowers is a lawyer in Pine Bluff, AR at 219 South Main Street, Pine Bluff, AR 71601. | https://registry-edge.dingalinged.workers.dev/c/stephanie-a-flowers-pine-bluff/
+4. The Baim Law Firm | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | The Baim Law Firm is a lawyer in Pine Bluff, AR at 301 East 6th Avenue, Pine Bluff, AR 71601. | https://registry-edge.dingalinged.workers.dev/c/the-baim-law-firm-pine-bluff/
+5. Geoffrey D. Kearney, PLLC | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Geoffrey D. Kearney, PLLC is a lawyer in Pine Bluff, AR. | https://registry-edge.dingalinged.workers.dev/c/geoffrey-d-kearney-pllc-pine-bluff/
+6. Howard William | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Howard William is a lawyer in Pine Bluff, AR. | https://registry-edge.dingalinged.workers.dev/c/howard-william-pine-bluff/
+
+## Market data (for advertisers and agents)
+- Keyword: lawyer pine bluff ar | category: Legal | industry benchmark: Attorneys & Legal Services
+- US monthly searches: 49,500/mo (cited; Cited US monthly search volume (via research source); as of 2026; phrase 'lawyer near me')
+- CPC benchmark: low $8.58, median $9.87, high $9.87 (Attorneys & Legal Services median CPC 2026 $9.87 [https://www.localiq.com/blog/search-advertising-benchmarks]; Attorneys & Legal Services median CPC 2025 $8.58 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: high (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 6
+- Equivalent Google Ads cost per month: n/a
+- Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/lawyer.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#lawyer-pine-bluff-ar | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

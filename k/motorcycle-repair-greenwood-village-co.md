@@ -6,7 +6,7 @@ Also answers: motorcycle repair in Greenwood Village, CO; motorcycle repair near
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Service | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Service is a motorcycle repair shop in Greenwood Village, CO. Phone: +13035395030. Website: https://faymyers.com/schedule-an-appointment/. | https://registry-edge.dingalinged.workers.dev/c/service-greenwood-village/
+1. Service | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Service is a motorcycle repair shop in Greenwood Village, CO. Phone: +13035395030. Website: https://faymyers.com/schedule-an-appointment/. | https://registry-edge.dingalinged.workers.dev/c/service-greenwood-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair greenwood village co | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

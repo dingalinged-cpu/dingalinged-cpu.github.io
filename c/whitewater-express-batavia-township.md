@@ -13,7 +13,7 @@ Whitewater Express is a car wash in Batavia Township, OH at 203 West Main Street
 - Website: https://www.whitewatercw.com/locations/amelia
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.2/100 — Unrated (not enough evidence yet) — top 57% of car washes in Cincinnati, OH, #1 of 2 car washes in Batavia Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.2/100 — Unrated (not enough evidence yet) — top 54% of car washes in Cincinnati, OH, #1 of 2 car washes in Batavia Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

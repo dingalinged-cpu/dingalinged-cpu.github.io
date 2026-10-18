@@ -13,7 +13,7 @@ NovaCare Rehabilitation is a physical therapy clinic in West Chester Township, O
 - Website: https://novacare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:00-19:00; Tu 08:00-19:00; We 07:00-19:00; Th 08:00-19:00; Fr 07:00-16:00
-- Pulse Score: 49.9/100 — Unrated (not enough evidence yet) — top 65% of physical therapy clinics in Cincinnati, OH, #2 of 3 physical therapy clinics in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 65% of physical therapy clinics in Cincinnati, OH, #2 of 3 physical therapy clinics in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

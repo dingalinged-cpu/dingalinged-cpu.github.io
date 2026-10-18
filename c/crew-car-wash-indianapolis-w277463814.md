@@ -13,7 +13,7 @@ Crew Car Wash is a car wash in Indianapolis, IN at 3345 West 86th Street, Indian
 - Website: https://locations.crewcarwash.com/010
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-21:00
-- Pulse Score: 51.4/100 — Unrated (not enough evidence yet) — top 24% of car washes in Indianapolis, IN, #5 of 14 car washes in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.1, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.4/100 — Unrated (not enough evidence yet) — top 22% of car washes in Indianapolis, IN, #5 of 14 car washes in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.1, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

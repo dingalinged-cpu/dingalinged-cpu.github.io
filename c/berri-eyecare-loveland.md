@@ -13,7 +13,7 @@ Berri Eyecare is an eye care practice in Loveland, OH. Website: https://berrieye
 - Website: https://berrieyecare-visionsource.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Th 09:00-17:00; Tu 10:00-19:00; Fr 08:00-12:00
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 34% of eye care practices in Cincinnati, OH, #1 of 1 eye care practices in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 34% of eye care practices in Cincinnati, OH, #1 of 1 eye care practices in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

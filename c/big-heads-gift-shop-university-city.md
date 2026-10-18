@@ -13,7 +13,7 @@ Big Heads Gift Shop is a gift shop in University City, MO at 8326 Olive Boulevar
 - Website: https://bigheadsgifts.com/
 - Email: bigheadsgifts@gmail.com
 - Opening hours (OSM syntax): Su 10:00-20:00, Mo-Sa 09:00-22:00
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 18% of gift shops in St. Louis, MO, #1 of 2 gift shops in University City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 18% of gift shops in St. Louis, MO, #1 of 2 gift shops in University City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

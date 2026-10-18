@@ -13,7 +13,7 @@ Saint Paul's Early Childhood Center is a preschool in Des Peres, MO at 823 North
 - Website: https://www.stplutheranschool.org/about-early-childhood/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 5% of preschools in St. Louis, MO, #1 of 1 preschools in Des Peres (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 5% of preschools in St. Louis, MO, #1 of 1 preschools in Des Peres (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ uBreakiFix is a phone repair shop in Deerfield Township, OH at 4766 Fields Ertel
 - Website: https://www.ubreakifix.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00,09:00-18:00; Su 12:00-17:00
-- Pulse Score: 49.3/100 — Building — top 25% of phone repair shops in Cincinnati, OH, #1 of 1 phone repair shops in Deerfield Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 25% of phone repair shops in Cincinnati, OH, #1 of 1 phone repair shops in Deerfield Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

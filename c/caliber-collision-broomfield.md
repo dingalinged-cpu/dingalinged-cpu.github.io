@@ -13,7 +13,7 @@ Caliber Collision is an auto repair shop in Broomfield, CO at 2305 West Midway B
 - Website: https://www.caliber.com/find-a-location/broomfield-w-midway-blvd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30
-- Pulse Score: 48.8/100 — Building — top 72% of auto repair shops in Denver, CO, #6 of 9 auto repair shops in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 72% of auto repair shops in Denver, CO, #6 of 9 auto repair shops in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

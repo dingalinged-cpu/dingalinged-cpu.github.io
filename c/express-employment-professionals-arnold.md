@@ -13,7 +13,7 @@ Express Employment Professionals is a staffing agency in Arnold, MO at 661 Jeffc
 - Website: https://expresspros.com/arnoldmo/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 79% of staffing agencys in St. Louis, MO, #1 of 1 staffing agencys in Arnold (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 79% of staffing agencys in St. Louis, MO, #1 of 1 staffing agencys in Arnold (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Aspen Dental is a dentist in Woodhaven, MI at 20310 West Road, Woodhaven, MI 481
 - Website: https://www.aspendental.com/dentist/mi/woodhaven/20310-west-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-13:00
-- Pulse Score: 48.5/100 — Building — top 92% of dentists in Detroit, MI, #6 of 7 dentists in Woodhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 91% of dentists in Detroit, MI, #6 of 7 dentists in Woodhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

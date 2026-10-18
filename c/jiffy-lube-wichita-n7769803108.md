@@ -13,7 +13,7 @@ Jiffy Lube is an auto repair shop in Wichita, KS at 3066 South Seneca Street, Wi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-18:00
-- Pulse Score: 47.1/100 — Building — top 74% of auto repair shops in Wichita, KS, #11 of 20 auto repair shops in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 74% of auto repair shops in Wichita, KS, #11 of 20 auto repair shops in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

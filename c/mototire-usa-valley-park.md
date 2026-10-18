@@ -13,7 +13,7 @@ Mototire USA is a tire shop in Valley Park, MO at 2109 Smizer Station Road, Vall
 - Website: https://www.mototireusa.com/default.asp
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Good — top 11% of tire shops in St. Louis, MO, #1 of 1 tire shops in Valley Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Good — top 11% of tire shops in St. Louis, MO, #1 of 1 tire shops in Valley Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

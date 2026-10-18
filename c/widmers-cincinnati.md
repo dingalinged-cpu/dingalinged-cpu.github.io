@@ -13,7 +13,7 @@ Widmer's is a dry cleaner in Cincinnati, OH at 2651 Observatory Avenue, Cincinna
 - Website: https://widmerscleaners.com/location/hyde-park/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 67% of dry cleaners in Cincinnati, OH, #7 of 10 dry cleaners in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 67% of dry cleaners in Cincinnati, OH, #7 of 10 dry cleaners in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

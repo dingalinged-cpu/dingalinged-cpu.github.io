@@ -13,7 +13,7 @@ The Goddard School is a preschool in Powell, OH at 8542 Owenfield Drive, Powell,
 - Website: https://www.goddardschool.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49/100 — Building — top 55% of preschools in Columbus, OH, #1 of 2 preschools in Powell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 55% of preschools in Columbus, OH, #1 of 2 preschools in Powell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

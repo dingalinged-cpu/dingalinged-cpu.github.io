@@ -13,7 +13,7 @@ West Metro Pediatric Dentist is a dentist in Centennial, CO at 7180 East Orchard
 - Website: https://www.westmetrokidsdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-16:30, Fr 08:30-12:30
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 13% of dentists in Denver, CO, #6 of 27 dentists in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 12% of dentists in Denver, CO, #6 of 27 dentists in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

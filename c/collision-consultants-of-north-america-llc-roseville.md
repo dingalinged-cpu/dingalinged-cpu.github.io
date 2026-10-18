@@ -13,7 +13,7 @@ Collision Consultants of North America, LLC is a business consultant in Rosevill
 - Website: https://collisionconsultantsofnorthamerica.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mon-Fri: 8 am–5 pm; Sat:10 am–3 pm
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 16% of business consultants in Detroit, MI, #1 of 1 business consultants in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 16% of business consultants in Detroit, MI, #1 of 1 business consultants in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

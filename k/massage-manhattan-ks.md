@@ -6,8 +6,8 @@ Also answers: massage in Manhattan, KS; massage near me (Manhattan, KS); best ma
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Health Joy Massage | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Health Joy Massage is a massage studio in Manhattan, KS at 3218 Kimball Avenue, Manhattan, KS 66503. | https://registry-edge.dingalinged.workers.dev/c/health-joy-massage-manhattan/
-2. Go Spa | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Go Spa is a massage studio in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/go-spa-manhattan/
+1. Health Joy Massage | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Health Joy Massage is a massage studio in Manhattan, KS at 3218 Kimball Avenue, Manhattan, KS 66503. | https://registry-edge.dingalinged.workers.dev/c/health-joy-massage-manhattan/
+2. Go Spa | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Go Spa is a massage studio in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/go-spa-manhattan/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage manhattan ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

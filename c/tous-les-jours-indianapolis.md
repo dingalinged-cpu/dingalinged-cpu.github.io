@@ -13,7 +13,7 @@ Tous les Jours is a bakery in Indianapolis, IN at 8448 Center Run Drive, Indiana
 - Website: https://tljus.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-21:00
-- Pulse Score: 49.2/100 — Building — top 85% of bakerys in Indianapolis, IN, #28 of 29 bakerys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 83% of bakerys in Indianapolis, IN, #27 of 29 bakerys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

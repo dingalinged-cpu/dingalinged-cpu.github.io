@@ -13,7 +13,7 @@ Desjardins Insurance is an insurance agent in Kingsville, MI at 19 Chestnut Stre
 - Website: https://murrayinsurance.ca/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.3/100 — Building — top 52% of insurance agents in Detroit, MI, #2 of 2 insurance agents in Kingsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 52% of insurance agents in Detroit, MI, #2 of 2 insurance agents in Kingsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

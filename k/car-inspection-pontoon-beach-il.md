@@ -6,7 +6,7 @@ Also answers: car inspection in Pontoon Beach, IL; car inspection near me (Ponto
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Illinois Air Team | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Illinois Air Team is a vehicle inspection station in Pontoon Beach, IL at 1000 East Chain of Rocks Road, Pontoon Beach, IL 62040. Phone: +18442589071. Website: https://www.illinoisairteam.net/. | https://registry-edge.dingalinged.workers.dev/c/illinois-air-team-pontoon-beach/
+1. Illinois Air Team | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Illinois Air Team is a vehicle inspection station in Pontoon Beach, IL at 1000 East Chain of Rocks Road, Pontoon Beach, IL 62040. Phone: +18442589071. Website: https://www.illinoisairteam.net/. | https://registry-edge.dingalinged.workers.dev/c/illinois-air-team-pontoon-beach/
 
 ## Market data (for advertisers and agents)
 - Keyword: car inspection pontoon beach il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

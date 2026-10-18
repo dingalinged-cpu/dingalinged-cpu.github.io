@@ -13,7 +13,7 @@ Paralee Boyd is a hair salon in Detroit, MI at 3939 Woodward Avenue, Detroit, MI
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 09:00-19:00; Su 11:00-18:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 26% of hair salons in Detroit, MI, #13 of 83 hair salons in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of hair salons in Detroit, MI, #12 of 83 hair salons in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

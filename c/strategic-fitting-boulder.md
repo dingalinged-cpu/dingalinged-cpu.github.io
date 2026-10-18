@@ -13,7 +13,7 @@ Strategic Fitting is a bike shop in Boulder, CO at 2060 Broadway #B1, Boulder, C
 - Website: https://strategicfitting.com/
 - Email: strategicfittingllc@gmail.com
 - Opening hours (OSM syntax): Mo 10:00-18:00
-- Pulse Score: 64.9/100 — Good — top 2% of bike shops in Denver, CO, #1 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 2% of bike shops in Denver, CO, #1 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 65.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ ACE Diamond Jewelers is a jewelry store in Dearborn, MI at 13840 Michigan Avenue
 - Website: https://www.acediamondjewelers.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 64/100 — Good — top 1% of jewelry stores in Detroit, MI, #1 of 9 jewelry stores in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 68.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64/100 — Good — top 1% of jewelry stores in Detroit, MI, #1 of 9 jewelry stores in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 68.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

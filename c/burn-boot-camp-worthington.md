@@ -13,7 +13,7 @@ Burn Boot Camp is a gym in Worthington, OH. Phone: +16143055062. Website: https:
 - Website: https://burnbootcamp.com/locations/worthington-oh
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:00-11:00,04:30-19:30; Sa 08:00-10:00
-- Pulse Score: 48/100 — Unrated (not enough evidence yet) — top 60% of gyms in Columbus, OH, #1 of 2 gyms in Worthington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Unrated (not enough evidence yet) — top 60% of gyms in Columbus, OH, #1 of 2 gyms in Worthington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

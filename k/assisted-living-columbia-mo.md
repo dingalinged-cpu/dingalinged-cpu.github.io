@@ -6,7 +6,7 @@ Also answers: assisted living in Columbia, MO; assisted living near me (Columbia
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Bluffs | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | The Bluffs is an assisted living facility in Columbia, MO at 3105 Bluff Creek Drive, Columbia, MO 65201. Phone: +15734426060. Website: https://thebluffscolumbia.org/. | https://registry-edge.dingalinged.workers.dev/c/the-bluffs-columbia/
+1. The Bluffs | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | The Bluffs is an assisted living facility in Columbia, MO at 3105 Bluff Creek Drive, Columbia, MO 65201. Phone: +15734426060. Website: https://thebluffscolumbia.org/. | https://registry-edge.dingalinged.workers.dev/c/the-bluffs-columbia/
 2. Lenoir Woods Senior Living | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Lenoir Woods Senior Living is an assisted living facility in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/lenoir-woods-senior-living-columbia/
 
 ## Market data (for advertisers and agents)

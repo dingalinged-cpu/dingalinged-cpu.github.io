@@ -13,7 +13,7 @@ CarMax is an used car dealer in Columbus, OH at 2700 Farmers Drive, Columbus, OH
 - Website: https://www.carmax.com/stores/7176
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 96% of used car dealers in Columbus, OH, #16 of 17 used car dealers in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 96% of used car dealers in Columbus, OH, #16 of 17 used car dealers in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

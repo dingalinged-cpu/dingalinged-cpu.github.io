@@ -13,7 +13,7 @@ Perfect Teeth is a dentist in Lakewood, CO at 13035 West Alameda Parkway, Lakewo
 - Website: https://www.perfectteeth.com/office/co/lakewood/80228/green-mountain/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 08:00-17:00
-- Pulse Score: 50.3/100 — Unrated (not enough evidence yet) — top 87% of dentists in Denver, CO, #13 of 20 dentists in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.4, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Unrated (not enough evidence yet) — top 86% of dentists in Denver, CO, #13 of 20 dentists in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.4, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

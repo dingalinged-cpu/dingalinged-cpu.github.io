@@ -13,7 +13,7 @@ Gear Up by Hudson is a gift shop in Indianapolis, IN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 06:00-20:00
-- Pulse Score: 47.6/100 — Building — top 89% of gift shops in Indianapolis, IN, #11 of 11 gift shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 89% of gift shops in Indianapolis, IN, #11 of 11 gift shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Carnegie Building is an event venue in Lawrence, KS at 200 West 9th Street, Lawr
 - Website: https://lawrenceks.org/lprd/facilityrental/carnegierental
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 75% of event venues in Lawrence, KS, #3 of 4 event venues in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 75% of event venues in Lawrence, KS, #3 of 4 event venues in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

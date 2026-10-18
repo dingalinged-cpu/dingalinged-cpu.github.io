@@ -13,7 +13,7 @@ Hydro Dynamics Corp is a landscaping company in Olivette, MO at 9223 Olive Boule
 - Website: https://hydrodynamicscorp.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 88% of landscaping companys in St. Louis, MO, #1 of 1 landscaping companys in Olivette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 88% of landscaping companys in St. Louis, MO, #1 of 1 landscaping companys in Olivette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Clarkson Eyecare is an eye care practice in Saint Louis, MO at 4305 Butler Hill 
 - Website: https://www.clarksoneyecare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 50% of eye care practices in St. Louis, MO, #4 of 6 eye care practices in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 50% of eye care practices in St. Louis, MO, #4 of 6 eye care practices in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

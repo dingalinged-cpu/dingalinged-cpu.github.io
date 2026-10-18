@@ -6,11 +6,11 @@ Also answers: jewelry store in Columbia, MO; jewelry store near me (Columbia, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Riddle's Jewelry - Columbia | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Riddle's Jewelry - Columbia is a jewelry store in Columbia, MO at 2300 Bernadette Drive, Columbia, MO 65203. Phone: +15734452922. Website: https://riddlesjewelry.com/. | https://registry-edge.dingalinged.workers.dev/c/riddles-jewelry-columbia-columbia/
-2. Buchroeders Jewelers | Organic #2 | Pulse Score 59.4/100 (Unrated, #3 in city) | Buchroeders Jewelers is a jewelry store in Columbia, MO at 1021 East Broadway, Columbia, MO 65201. Website: https://brdiamonds.com/. | https://registry-edge.dingalinged.workers.dev/c/buchroeders-jewelers-columbia/
-3. Artful Gardens | Organic #3 | Pulse Score 59.4/100 (Unrated, #2 in city) | Artful Gardens is a jewelry store in Columbia, MO at 3911 Zambezi Drive, Columbia, MO 65202. | https://registry-edge.dingalinged.workers.dev/c/artful-gardens-columbia/
-4. Tucker's the Jewelry Architects | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Tucker's the Jewelry Architects is a jewelry store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/tuckers-the-jewelry-architects-columbia/
-5. Kay Jewelers | Organic #5 | Pulse Score 42.6/100 (Building, #5 in city) | Kay Jewelers is a jewelry store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-columbia/
+1. Riddle's Jewelry - Columbia | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Riddle's Jewelry - Columbia is a jewelry store in Columbia, MO at 2300 Bernadette Drive, Columbia, MO 65203. Phone: +15734452922. Website: https://riddlesjewelry.com/. | https://registry-edge.dingalinged.workers.dev/c/riddles-jewelry-columbia-columbia/
+2. Buchroeders Jewelers | Organic #2 | Pulse Score 59.2/100 (Unrated, #3 in city) | Buchroeders Jewelers is a jewelry store in Columbia, MO at 1021 East Broadway, Columbia, MO 65201. Website: https://brdiamonds.com/. | https://registry-edge.dingalinged.workers.dev/c/buchroeders-jewelers-columbia/
+3. Artful Gardens | Organic #3 | Pulse Score 59.2/100 (Unrated, #2 in city) | Artful Gardens is a jewelry store in Columbia, MO at 3911 Zambezi Drive, Columbia, MO 65202. | https://registry-edge.dingalinged.workers.dev/c/artful-gardens-columbia/
+4. Tucker's the Jewelry Architects | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Tucker's the Jewelry Architects is a jewelry store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/tuckers-the-jewelry-architects-columbia/
+5. Kay Jewelers | Organic #5 | Pulse Score 42.5/100 (Building, #5 in city) | Kay Jewelers is a jewelry store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-columbia/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store columbia mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

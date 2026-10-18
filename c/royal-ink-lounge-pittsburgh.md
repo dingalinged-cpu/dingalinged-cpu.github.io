@@ -13,7 +13,7 @@ Royal Ink Lounge is a tattoo shop in Pittsburgh, PA at 1205 East Carson Street #
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 12:00-20:00; Fr 11:00-20:00; Sa 11:00-21:00
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 40% of tattoo shops in Pittsburgh, PA, #11 of 17 tattoo shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 40% of tattoo shops in Pittsburgh, PA, #11 of 17 tattoo shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

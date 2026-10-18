@@ -13,7 +13,7 @@ Orthopedic & Sports Physical Therapy is a physical therapy clinic in Bethel Park
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 23% of physical therapy clinics in Pittsburgh, PA, #3 of 3 physical therapy clinics in Bethel Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 20% of physical therapy clinics in Pittsburgh, PA, #3 of 3 physical therapy clinics in Bethel Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

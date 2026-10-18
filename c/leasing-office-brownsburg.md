@@ -13,7 +13,7 @@ Leasing Office is a property management company in Brownsburg, IN at 1122 Windha
 - Website: https://www.brownsburgcrossingapts.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Unrated (not enough evidence yet) — top 73% of property management companys in Indianapolis, IN, #3 of 3 property management companys in Brownsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 73% of property management companys in Indianapolis, IN, #3 of 3 property management companys in Brownsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

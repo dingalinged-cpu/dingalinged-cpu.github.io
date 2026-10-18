@@ -13,7 +13,7 @@ Mattress Firm Clearance is a mattress store in Springfield, MO at 2035 East Inde
 - Website: https://www.mattressfirm.com/en-us/stores/mo/springfield/072007/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 78% of mattress stores in Springfield, MO, #7 of 9 mattress stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 67% of mattress stores in Springfield, MO, #6 of 9 mattress stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

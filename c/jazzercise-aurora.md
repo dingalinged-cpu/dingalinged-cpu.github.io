@@ -13,7 +13,7 @@ Jazzercise is a gym in Aurora, CO at 2740 South Havana Street #Unit J, Aurora, C
 - Website: https://www.jazzercise.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 70% of gyms in Denver, CO, #23 of 37 gyms in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 69% of gyms in Denver, CO, #23 of 37 gyms in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

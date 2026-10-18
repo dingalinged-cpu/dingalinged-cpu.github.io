@@ -13,7 +13,7 @@ The Fix is a bike shop in Boulder, CO at 3015 Sterling Circle West #100, Boulder
 - Website: https://thefixbikes.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 12:00-18:00; Sa 12:00-17:00
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 28% of bike shops in Denver, CO, #6 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 28% of bike shops in Denver, CO, #6 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

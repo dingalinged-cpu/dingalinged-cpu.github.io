@@ -13,7 +13,7 @@ Interpersonal Psychiatry is a therapy practice in Lawrence, KS at 1045 East 23rd
 - Website: https://ip-psych.com/
 - Email: contact@ip-psych.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 75% of therapy practices in Lawrence, KS, #3 of 4 therapy practices in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 75% of therapy practices in Lawrence, KS, #3 of 4 therapy practices in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

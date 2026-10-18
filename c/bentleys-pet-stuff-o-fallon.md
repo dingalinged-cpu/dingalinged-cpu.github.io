@@ -13,7 +13,7 @@ Bentley's Pet Stuff is a pet store in O’Fallon, MO at 2285 Highway K, O’Fall
 - Website: https://petstuff.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 10:00-17:00
-- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 100% of pet stores in O'Fallon, MO, #3 of 3 pet stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 100% of pet stores in O'Fallon, MO, #3 of 3 pet stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,11 +7,11 @@ Also answers: tire shop in Columbia, MO; tire shop near me (Columbia, MO); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Schilby's Tire And Wheels | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Schilby's Tire And Wheels is a tire shop in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/schilbys-tire-and-wheels-columbia/
-2. Plaza Tire Service | Organic #2 | Pulse Score 45.5/100 (Unrated, #2 in city) | Plaza Tire Service is a tire shop in Columbia, MO at 4312 Faurot Drive, Columbia, MO 65203. | https://registry-edge.dingalinged.workers.dev/c/plaza-tire-service-columbia-w1420861176/
-3. Plaza Tire Service | Organic #3 | Pulse Score 45.2/100 (Building, #3 in city) | Plaza Tire Service is a tire shop in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/plaza-tire-service-columbia-w543816111/
-4. Plaza Tire Service | Organic #4 | Pulse Score 43.8/100 (Unrated, #4 in city) | Plaza Tire Service is a tire shop in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/plaza-tire-service-columbia-w515378073/
-5. Tires Plus | Organic #5 | Pulse Score 43.1/100 (Building, #5 in city) | Tires Plus is a tire shop in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-columbia/
-6. Big O Tires | Organic #6 | Pulse Score 42.7/100 (Building, #6 in city) | Big O Tires is a tire shop in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/big-o-tires-columbia/
+2. Plaza Tire Service | Organic #2 | Pulse Score 45.4/100 (Unrated, #2 in city) | Plaza Tire Service is a tire shop in Columbia, MO at 4312 Faurot Drive, Columbia, MO 65203. | https://registry-edge.dingalinged.workers.dev/c/plaza-tire-service-columbia-w1420861176/
+3. Plaza Tire Service | Organic #3 | Pulse Score 45.1/100 (Building, #3 in city) | Plaza Tire Service is a tire shop in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/plaza-tire-service-columbia-w543816111/
+4. Plaza Tire Service | Organic #4 | Pulse Score 43.7/100 (Unrated, #4 in city) | Plaza Tire Service is a tire shop in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/plaza-tire-service-columbia-w515378073/
+5. Tires Plus | Organic #5 | Pulse Score 43/100 (Building, #5 in city) | Tires Plus is a tire shop in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-columbia/
+6. Big O Tires | Organic #6 | Pulse Score 42.6/100 (Building, #6 in city) | Big O Tires is a tire shop in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/big-o-tires-columbia/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop columbia mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

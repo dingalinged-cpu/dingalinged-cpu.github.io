@@ -6,7 +6,7 @@ Also answers: jewelry store in Derby, KS; jewelry store near me (Derby, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Derby Jewelers | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Derby Jewelers is a jewelry store in Derby, KS. | https://registry-edge.dingalinged.workers.dev/c/derby-jewelers-derby/
+1. Derby Jewelers | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Derby Jewelers is a jewelry store in Derby, KS. | https://registry-edge.dingalinged.workers.dev/c/derby-jewelers-derby/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store derby ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

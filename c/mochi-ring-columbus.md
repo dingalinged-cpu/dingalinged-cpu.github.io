@@ -13,7 +13,7 @@ Mochi Ring is a bakery in Columbus, OH at 1144 Kenny Road, Columbus, OH. Website
 - Website: https://mochiringohio.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Su 11:00-20:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 24% of bakerys in Columbus, OH, #8 of 27 bakerys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 24% of bakerys in Columbus, OH, #8 of 27 bakerys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

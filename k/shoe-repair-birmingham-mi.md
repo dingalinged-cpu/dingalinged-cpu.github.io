@@ -6,7 +6,7 @@ Also answers: shoe repair in Birmingham, MI; shoe repair near me (Birmingham, MI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tiger Shoe Repair | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Tiger Shoe Repair is a shoe repair in Birmingham, MI at East Maple Road, Birmingham, MI 48009. | https://registry-edge.dingalinged.workers.dev/c/tiger-shoe-repair-birmingham/
+1. Tiger Shoe Repair | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Tiger Shoe Repair is a shoe repair in Birmingham, MI at East Maple Road, Birmingham, MI 48009. | https://registry-edge.dingalinged.workers.dev/c/tiger-shoe-repair-birmingham/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair birmingham mi | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -6,7 +6,7 @@ Also answers: it support in Danville, IN; it support near me (Danville, IN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. One Choice Technology | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | One Choice Technology is an IT support company in Danville, IN at 594 West Main Street, Danville, IN 46122. Website: https://www.onechoice.tech/. | https://registry-edge.dingalinged.workers.dev/c/one-choice-technology-danville/
+1. One Choice Technology | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | One Choice Technology is an IT support company in Danville, IN at 594 West Main Street, Danville, IN 46122. Website: https://www.onechoice.tech/. | https://registry-edge.dingalinged.workers.dev/c/one-choice-technology-danville/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support danville in | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

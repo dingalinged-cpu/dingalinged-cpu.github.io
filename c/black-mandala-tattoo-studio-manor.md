@@ -13,7 +13,7 @@ Black Mandala Tattoo Studio is a tattoo shop in Manor, PA at 40 Race Street, Man
 - Website: https://www.blackmandalatattoo.com/
 - Email: n/a
 - Opening hours (OSM syntax): "By appointment"
-- Pulse Score: 64.2/100 — Good — top 6% of tattoo shops in Pittsburgh, PA, #1 of 1 tattoo shops in Manor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 6% of tattoo shops in Pittsburgh, PA, #1 of 1 tattoo shops in Manor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

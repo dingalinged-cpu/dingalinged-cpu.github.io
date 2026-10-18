@@ -6,7 +6,7 @@ Also answers: gift shop in Garden City, KS; gift shop near me (Garden City, KS);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Coleen's Trophies, Awards & Gifts | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Coleen's Trophies, Awards & Gifts is a gift shop in Garden City, KS at 304 North Main Street, Garden City, KS 67846. Phone: +16202755962. Website: https://www.coleenstrophies.com/. | https://registry-edge.dingalinged.workers.dev/c/coleens-trophies-awards-and-gifts-garden-city/
+1. Coleen's Trophies, Awards & Gifts | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Coleen's Trophies, Awards & Gifts is a gift shop in Garden City, KS at 304 North Main Street, Garden City, KS 67846. Phone: +16202755962. Website: https://www.coleenstrophies.com/. | https://registry-edge.dingalinged.workers.dev/c/coleens-trophies-awards-and-gifts-garden-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop garden city ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

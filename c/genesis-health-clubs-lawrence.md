@@ -13,7 +13,7 @@ Genesis Health Clubs is a gym in Lawrence, KS at 5200 Clinton Parkway, Lawrence,
 - Website: https://www.genesishealthclubs.com/locations/lawrence.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-22:00; Fr 05:00-21:00; Sa 07:00-18:00; Su 08:00-18:00
-- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 82% of gyms in Lawrence, KS, #13 of 16 gyms in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 82% of gyms in Lawrence, KS, #13 of 16 gyms in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

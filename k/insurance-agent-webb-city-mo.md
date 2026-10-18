@@ -6,7 +6,7 @@ Also answers: insurance agent in Webb City, MO; insurance agent near me (Webb Ci
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kyle Hickam State Farm | Organic #1 | Pulse Score 42.2/100 (Building, #1 in city) | Kyle Hickam State Farm is an insurance agent in Webb City, MO. | https://registry-edge.dingalinged.workers.dev/c/kyle-hickam-state-farm-webb-city/
+1. Kyle Hickam State Farm | Organic #1 | Pulse Score 42.1/100 (Building, #1 in city) | Kyle Hickam State Farm is an insurance agent in Webb City, MO. | https://registry-edge.dingalinged.workers.dev/c/kyle-hickam-state-farm-webb-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent webb city mo | category: Professional & financial services | industry benchmark: Finance & Insurance

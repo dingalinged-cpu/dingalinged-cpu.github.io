@@ -13,7 +13,7 @@ PetSmart is a pet store in Wentzville, MO at 1846 Wentzville Parkway, Wentzville
 - Website: https://www.petsmart.com/store-locator/store/?storeID=1685
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 49.4/100 — Building — top 50% of pet stores in Wentzville, MO, #1 of 2 pet stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 50% of pet stores in Wentzville, MO, #1 of 2 pet stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

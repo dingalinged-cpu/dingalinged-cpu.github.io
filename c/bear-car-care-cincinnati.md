@@ -13,7 +13,7 @@ Bear Car Care is an auto repair shop in Cincinnati, OH at 5700 Cheviot Road, Cin
 - Website: https://www.bearcarcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 4% of auto repair shops in Cincinnati, OH, #3 of 52 auto repair shops in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 4% of auto repair shops in Cincinnati, OH, #3 of 52 auto repair shops in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

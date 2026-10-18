@@ -13,7 +13,7 @@ Plaza Health Dentistry is a dentist in Crestwood, MO at 9420 Watson Road, Crestw
 - Website: https://plazahealthdentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-17:00; Tu-Th 08:00-20:00; Fr 08:00-16:00
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 39% of dentists in St. Louis, MO, #1 of 1 dentists in Crestwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 39% of dentists in St. Louis, MO, #1 of 1 dentists in Crestwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

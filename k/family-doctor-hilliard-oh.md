@@ -6,7 +6,7 @@ Also answers: family doctor in Hilliard, OH; family doctor near me (Hilliard, OH
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New You Medical | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | New You Medical is a family medicine practice in Hilliard, OH at 5038 Cemetery Rd #Suite D, Hilliard, OH 43026. Phone: +16144543083. Website: https://newyou-medical.com/. | https://registry-edge.dingalinged.workers.dev/c/new-you-medical-hilliard/
+1. New You Medical | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | New You Medical is a family medicine practice in Hilliard, OH at 5038 Cemetery Rd #Suite D, Hilliard, OH 43026. Phone: +16144543083. Website: https://newyou-medical.com/. | https://registry-edge.dingalinged.workers.dev/c/new-you-medical-hilliard/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor hilliard oh | category: Health & medical | industry benchmark: Physicians & Surgeons

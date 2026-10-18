@@ -1,0 +1,24 @@
+The Thrift Store is a thrift store in Russellville, AR at 1509 East Main Street #2, Russellville, AR 72801.
+
+# The Thrift Store
+
+- Category: thrift store
+- Services: thrift store
+- Address: 1509 East Main Street #2, Russellville, AR 72801
+- City: Russellville
+- State: AR
+- ZIP: 72801
+- Coordinates: 35.279341, -93.1139498
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 34% of thrift stores in Russellville, AR, #1 of 3 thrift stores in Russellville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-thrift-store-russellville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-thrift-store-russellville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/981628893 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

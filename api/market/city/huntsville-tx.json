@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Huntsville, TX",
+ "description": "Top Huntsville, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Huntsville, TX",
+ "geography": null,
+ "keywords": 23,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "storage units huntsville tx",
+    "slug": "storage-units-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-huntsville-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "staffing agency huntsville tx",
+    "slug": "staffing-agency-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-huntsville-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tax preparer huntsville tx",
+    "slug": "tax-preparer-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-huntsville-tx/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dentist huntsville tx",
+    "slug": "dentist-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-huntsville-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.7,
+    "cpc_median_usd": 8.0,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "haircut huntsville tx",
+    "slug": "haircut-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-huntsville-tx/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tattoo shop huntsville tx",
+    "slug": "tattoo-shop-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-huntsville-tx/",
+    "us_monthly_searches": 930000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "auto repair huntsville tx",
+    "slug": "auto-repair-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-huntsville-tx/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "car wash huntsville tx",
+    "slug": "car-wash-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-huntsville-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "mechanic huntsville tx",
+    "slug": "mechanic-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-huntsville-tx/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tire shop huntsville tx",
+    "slug": "tire-shop-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-huntsville-tx/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "furniture store huntsville tx",
+    "slug": "furniture-store-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-huntsville-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "gift shop huntsville tx",
+    "slug": "gift-shop-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-huntsville-tx/",
+    "us_monthly_searches": 18000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "jewelry store huntsville tx",
+    "slug": "jewelry-store-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-huntsville-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "liquor store huntsville tx",
+    "slug": "liquor-store-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-huntsville-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dry cleaners huntsville tx",
+    "slug": "dry-cleaners-huntsville-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-huntsville-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

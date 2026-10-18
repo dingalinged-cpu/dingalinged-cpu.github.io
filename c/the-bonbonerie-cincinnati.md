@@ -13,7 +13,7 @@ The BonBonerie is a bakery in Cincinnati, OH at 2030 Madison Road, Cincinnati, O
 - Website: https://www.bonbonerie.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30; Sa 08:00-16:00
-- Pulse Score: 64.6/100 — Good — top 2% of bakerys in Cincinnati, OH, #1 of 19 bakerys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 2% of bakerys in Cincinnati, OH, #1 of 19 bakerys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 67.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

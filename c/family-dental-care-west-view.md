@@ -13,7 +13,7 @@ Family Dental Care is a dentist in West View, PA at 344 Center Avenue, West View
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 92% of dentists in Pittsburgh, PA, #3 of 3 dentists in West View (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 92% of dentists in Pittsburgh, PA, #3 of 3 dentists in West View (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

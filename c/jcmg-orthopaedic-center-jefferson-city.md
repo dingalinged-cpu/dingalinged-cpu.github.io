@@ -13,7 +13,7 @@ JCMG Orthopaedic Center is an orthopedic surgeon in Jefferson City, MO at 1225 W
 - Website: https://www.jcmg.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 100% of orthopedic surgeons in Jefferson City, MO, #1 of 1 orthopedic surgeons in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 100% of orthopedic surgeons in Jefferson City, MO, #1 of 1 orthopedic surgeons in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

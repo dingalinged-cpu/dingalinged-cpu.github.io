@@ -6,8 +6,8 @@ Also answers: plumbers in Ross Township, PA; plumbers near me (Ross Township, PA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mertz Plumbing and Heating | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Mertz Plumbing and Heating is a plumber in Ross Township, PA. Phone: +14123641690. | https://registry-edge.dingalinged.workers.dev/c/mertz-plumbing-and-heating-ross-township/
-2. Christy Plumbing and Heating | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Christy Plumbing and Heating is a plumber in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/christy-plumbing-and-heating-ross-township/
+1. Mertz Plumbing and Heating | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Mertz Plumbing and Heating is a plumber in Ross Township, PA. Phone: +14123641690. | https://registry-edge.dingalinged.workers.dev/c/mertz-plumbing-and-heating-ross-township/
+2. Christy Plumbing and Heating | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Christy Plumbing and Heating is a plumber in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/christy-plumbing-and-heating-ross-township/
 3. Famous Supply / Pittsburgh Plumbing & Heating | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Famous Supply / Pittsburgh Plumbing & Heating is a plumber in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/famous-supply-pittsburgh-plumbing-and-heating-ross-township/
 4. Terry's Plumbing | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Terry's Plumbing is a plumber in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/terrys-plumbing-ross-township/
 

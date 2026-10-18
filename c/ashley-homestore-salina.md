@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Salina, KS at 2534 South 9th Street, Sa
 - Website: https://stores.ashleyfurniture.com/store/us/kansas/salina/7710000177/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 100% of furniture stores in Salina, KS, #1 of 1 furniture stores in Salina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 100% of furniture stores in Salina, KS, #1 of 1 furniture stores in Salina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

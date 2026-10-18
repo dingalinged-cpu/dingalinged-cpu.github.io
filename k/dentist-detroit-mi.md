@@ -25,7 +25,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 17. Fuller Dentistry | Organic #17 | Pulse Score 54.2/100 (Unrated, #16 in city) | Fuller Dentistry is a dentist in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/fuller-dentistry-detroit/
 18. Great Expressions Dental | Organic #18 | Pulse Score 54.2/100 (Unrated, #17 in city) | Great Expressions Dental is a dentist in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/great-expressions-dental-detroit/
 19. Kazangy Medical Dental | Organic #19 | Pulse Score 54.2/100 (Unrated, #18 in city) | Kazangy Medical Dental is a dentist in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/kazangy-medical-dental-detroit/
-20. Gentle Dental | Organic #20 | Pulse Score 44.1/100 (Building, #19 in city) | Gentle Dental is a dentist in Detroit, MI at 13874 Grand River Avenue, Detroit, MI 48227. | https://registry-edge.dingalinged.workers.dev/c/gentle-dental-detroit/
+20. Gentle Dental | Organic #20 | Pulse Score 44/100 (Building, #19 in city) | Gentle Dental is a dentist in Detroit, MI at 13874 Grand River Avenue, Detroit, MI 48227. | https://registry-edge.dingalinged.workers.dev/c/gentle-dental-detroit/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist detroit mi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

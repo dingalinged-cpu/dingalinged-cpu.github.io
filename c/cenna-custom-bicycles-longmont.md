@@ -13,7 +13,7 @@ Cenna Custom Bicycles is a bike shop in Longmont, CO. Phone: +13038349511. Websi
 - Website: https://cennascycles.com/
 - Email: cennascycles@icloud.com
 - Opening hours (OSM syntax): Mo 10:00-17:00; Tu-Fr 10:00-18:00; Sa 12:00-17:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 18% of bike shops in Denver, CO, #1 of 2 bike shops in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 18% of bike shops in Denver, CO, #1 of 2 bike shops in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

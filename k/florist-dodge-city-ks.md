@@ -6,7 +6,7 @@ Also answers: florist in Dodge City, KS; florist near me (Dodge City, KS); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Flowers by Irene | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Flowers by Irene is a florist in Dodge City, KS at 500 North 2nd Avenue, Dodge City, KS 67801. Website: https://www.flowersbyirene.com/. | https://registry-edge.dingalinged.workers.dev/c/flowers-by-irene-dodge-city/
+1. Flowers by Irene | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Flowers by Irene is a florist in Dodge City, KS at 500 North 2nd Avenue, Dodge City, KS 67801. Website: https://www.flowersbyirene.com/. | https://registry-edge.dingalinged.workers.dev/c/flowers-by-irene-dodge-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist dodge city ks | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Murrysville, PA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 40.6/100 — Building — top 100% of waxing salons in Pittsburgh, PA, #1 of 1 waxing salons in Murrysville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25, Trust 38.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 40.6/100 — Building — top 100% of waxing salons in Pittsburgh, PA, #1 of 1 waxing salons in Murrysville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 24.9, Trust 38.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

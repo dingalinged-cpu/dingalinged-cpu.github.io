@@ -6,7 +6,7 @@ Also answers: preschool in Florence, KY; preschool near me (Florence, KY); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bengal Tots Day Care | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Bengal Tots Day Care is a preschool in Florence, KY at Connector Drive, Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/bengal-tots-day-care-florence/
+1. Bengal Tots Day Care | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Bengal Tots Day Care is a preschool in Florence, KY at Connector Drive, Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/bengal-tots-day-care-florence/
 2. The Goddard School | Organic #2 | Pulse Score 43.8/100 (Building, #2 in city) | The Goddard School is a preschool in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/the-goddard-school-florence/
 3. KinderCare | Organic #3 | Pulse Score 43.5/100 (Building, #3 in city) | KinderCare is a preschool in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/kindercare-florence/
 

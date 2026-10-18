@@ -13,7 +13,7 @@ Jennifer Rhode Design is an interior designer in Boulder, CO at 2919 7th Street,
 - Website: https://www.jenniferrhode.com/
 - Email: jennifer@jenniferrhode.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 100% of interior designers in Denver, CO, #1 of 1 interior designers in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 100% of interior designers in Denver, CO, #1 of 1 interior designers in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,1010 @@
+# Company Registry: company records, metro victoria-tx
+
+> 37 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+Adopt A Pet Victoria is a pet store in Victoria, TX at 8215 Houston Highway, Victoria, TX 77904. Phone: +13615757387. Website: https://www.adoptapetvictoria.org/.
+
+# Adopt A Pet Victoria
+
+- Category: pet store
+- Services: pet store
+- Address: 8215 Houston Highway, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8396456, -96.9121789
+- Phone: +13615757387
+- Website: https://www.adoptapetvictoria.org/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 50% of pet stores in Victoria, TX, #1 of 2 pet stores in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/adopt-a-pet-victoria-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/adopt-a-pet-victoria-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13646074214 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aspen Dental is a dentist in Victoria, TX at 7506 North Navarro Street, Victoria, TX 77904.
+
+# Aspen Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 7506 North Navarro Street, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8655362, -96.9966596
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.3/100 — Building — top 100% of dentists in Victoria, TX, #2 of 2 dentists in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aspen-dental-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aspen-dental-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/922900018 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Barefield Funeral Home is a funeral home in Victoria, TX at 1505 Laurent Street, Victoria, TX 77901. Phone: +13615756180.
+
+# Barefield Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 1505 Laurent Street, Victoria, TX 77901
+- City: Victoria
+- State: TX
+- ZIP: 77901
+- Coordinates: 28.7817092, -96.9868879
+- Phone: +13615756180
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 34% of funeral homes in Victoria, TX, #1 of 3 funeral homes in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/barefield-funeral-home-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/barefield-funeral-home-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5115296301 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bel Furniture is a furniture store in Victoria, TX.
+
+# Bel Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: Victoria, TX
+- City: Victoria
+- State: TX
+- ZIP: n/a
+- Coordinates: 28.8656525, -96.9997604
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.3/100 — Building — top 100% of furniture stores in Victoria, TX, #2 of 2 furniture stores in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bel-furniture-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bel-furniture-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12094297271 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Builders Association of Victoria is a real estate agency in Victoria, TX at 5105 East Airline Road, Victoria, TX 77904.
+
+# Builders Association of Victoria
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 5105 East Airline Road, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.838953, -96.9537419
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 50% of real estate agencys in Victoria, TX, #1 of 2 real estate agencys in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/builders-association-of-victoria-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/builders-association-of-victoria-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/922907878 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Colonial Funeral Home is a funeral home in Victoria, TX at 1801 East Red River Street, Victoria, TX 77901. Phone: +13615783535.
+
+# Colonial Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 1801 East Red River Street, Victoria, TX 77901
+- City: Victoria
+- State: TX
+- ZIP: 77901
+- Coordinates: 28.8135035, -96.9856937
+- Phone: +13615783535
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 67% of funeral homes in Victoria, TX, #2 of 3 funeral homes in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/colonial-funeral-home-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/colonial-funeral-home-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/525903208 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Crossroads Barber Academy is a barber shop in Victoria, TX at 102 East Trinity Street, Victoria, TX 77901. Website: https://crossroadsbarberacademy-tx.com/.
+
+# Crossroads Barber Academy
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 102 East Trinity Street, Victoria, TX 77901
+- City: Victoria
+- State: TX
+- ZIP: 77901
+- Coordinates: 28.8112644, -97.0036603
+- Phone: n/a
+- Website: https://crossroadsbarberacademy-tx.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Victoria, TX, #2 of 2 barber shops in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/crossroads-barber-academy-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/crossroads-barber-academy-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13533392095 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Crossroads Movers, Inc. is a moving company in Victoria, TX at 504 East Crestwood Drive, Victoria, TX 77901. Phone: +13615760100. Website: https://crossroadsmoversinc.com/.
+
+# Crossroads Movers, Inc.
+
+- Category: movers
+- Services: movers, moving company
+- Address: 504 East Crestwood Drive, Victoria, TX 77901
+- City: Victoria
+- State: TX
+- ZIP: 77901
+- Coordinates: 28.8286749, -97.0006745
+- Phone: +13615760100
+- Website: https://crossroadsmoversinc.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-17:30, Sa 10:00-16:00
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 100% of moving companys in Victoria, TX, #1 of 1 moving companys in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/crossroads-movers-inc-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/crossroads-movers-inc-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9974749771 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+CubeSmart is a self-storage facility in Victoria, TX.
+
+# CubeSmart
+
+- Category: storage units
+- Services: storage units
+- Address: Victoria, TX
+- City: Victoria
+- State: TX
+- ZIP: n/a
+- Coordinates: 28.7925438, -96.9808455
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43/100 — Building — top 100% of self-storage facilitys in Victoria, TX, #1 of 1 self-storage facilitys in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cubesmart-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cubesmart-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1330226826 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+D C Realty Rentals is a real estate agency in Victoria, TX at 4904 North John Stockbauer Drive, Victoria, TX 77904.
+
+# D C Realty Rentals
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 4904 North John Stockbauer Drive, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8571253, -96.9861163
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in Victoria, TX, #2 of 2 real estate agencys in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/d-c-realty-rentals-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/d-c-realty-rentals-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/922894567 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Deutsch & Deutsch is a jewelry store in Victoria, TX at 6007 Northeast Zac Lentz Parkway, Victoria, TX 77904.
+
+# Deutsch & Deutsch
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 6007 Northeast Zac Lentz Parkway, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.862581, -96.9832721
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 50% of jewelry stores in Victoria, TX, #1 of 2 jewelry stores in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/deutsch-and-deutsch-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/deutsch-and-deutsch-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/922810047 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Victoria, TX at 7906 North Navarro Street, Victoria, TX 77904. Phone: +13615760980.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 7906 North Navarro Street, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8690599, -96.9970397
+- Phone: +13615760980
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.5/100 — Building — top 25% of tire shops in Victoria, TX, #1 of 4 tire shops in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/172361294 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Victoria, TX at 9013 North Navarro Street, Victoria, TX 77904. Phone: +13618277890.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 9013 North Navarro Street, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8799434, -96.9970907
+- Phone: +13618277890
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.5/100 — Building — top 50% of tire shops in Victoria, TX, #2 of 4 tire shops in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-victoria-w437882884/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-victoria-w437882884.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/437882884 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Victoria, TX at 3904 Houston Highway, Victoria, TX 77901. Phone: +13614126425.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 3904 Houston Highway, Victoria, TX 77901
+- City: Victoria
+- State: TX
+- ZIP: 77901
+- Coordinates: 28.81708, -96.9639239
+- Phone: +13614126425
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.5/100 — Building — top 75% of tire shops in Victoria, TX, #3 of 4 tire shops in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-victoria-w683604312/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-victoria-w683604312.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/683604312 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Exclusive Kutz is a barber shop in Victoria, TX at 909 East Guadalupe Street, Victoria, TX 77901. Phone: +13618946105.
+
+# Exclusive Kutz
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 909 East Guadalupe Street, Victoria, TX 77901
+- City: Victoria
+- State: TX
+- ZIP: 77901
+- Coordinates: 28.8086599, -96.9945713
+- Phone: +13618946105
+- Website: n/a
+- Email: exclusivekutz1@yahoo.com
+- Opening hours (OSM syntax): Mo 10:00-18:00; Tu-Th 09:00-19:00; Fr 09:00-19:30; Sa 09:00-17:00
+- Pulse Score: 62.5/100 — Good — top 50% of barber shops in Victoria, TX, #1 of 2 barber shops in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/exclusive-kutz-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/exclusive-kutz-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13547282920 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+FedEx Ground is a printing service in Victoria, TX at 6509 Lone Tree Road, Victoria, TX 77905.
+
+# FedEx Ground
+
+- Category: printing services
+- Services: printing services
+- Address: 6509 Lone Tree Road, Victoria, TX 77905
+- City: Victoria
+- State: TX
+- ZIP: 77905
+- Coordinates: 28.8113179, -96.9379139
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.1/100 — Building — top 100% of printing services in Victoria, TX, #1 of 1 printing services in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fedex-ground-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fedex-ground-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/923240949 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Firestone is an auto repair shop in Victoria, TX at 201 West Rio Grande Street, Victoria, TX 77901.
+
+# Firestone
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 201 West Rio Grande Street, Victoria, TX 77901
+- City: Victoria
+- State: TX
+- ZIP: 77901
+- Coordinates: 28.8049893, -97.0052554
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.7/100 — Building — top 100% of auto repair shops in Victoria, TX, #3 of 3 auto repair shops in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/firestone-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/firestone-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/923730814 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Goodwill is a thrift store in Victoria, TX at 214 East Larkspur Street, Victoria, TX 77904.
+
+# Goodwill
+
+- Category: thrift store
+- Services: thrift store
+- Address: 214 East Larkspur Street, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8718707, -96.9944155
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.2/100 — Building — top 100% of thrift stores in Victoria, TX, #1 of 1 thrift stores in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/922886774 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Grace Funeral Home is a funeral home in Victoria, TX at 2401 Houston Highway, Victoria, TX 77901. Phone: +13615734341.
+
+# Grace Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 2401 Houston Highway, Victoria, TX 77901
+- City: Victoria
+- State: TX
+- ZIP: 77901
+- Coordinates: 28.8093003, -96.9794504
+- Phone: +13615734341
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Victoria, TX, #3 of 3 funeral homes in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/grace-funeral-home-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/grace-funeral-home-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/525904676 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Victoria, TX at East Rio Grande Street, Victoria, TX 77901.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: East Rio Grande Street, Victoria, TX 77901
+- City: Victoria
+- State: TX
+- ZIP: 77901
+- Coordinates: 28.8056362, -96.9897754
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.9/100 — Building — top 34% of car washes in Victoria, TX, #1 of 3 car washes in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/259476343 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Victoria, TX at 6106 North Navarro Street, Victoria, TX 77904.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 6106 North Navarro Street, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8531066, -96.9965839
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.9/100 — Building — top 67% of car washes in Victoria, TX, #2 of 3 car washes in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-victoria-w409548805/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-victoria-w409548805.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/409548805 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+James Avery Jewelry is a jewelry store in Victoria, TX at 7800 North Navarro Street #101A, Victoria, TX 77904. Phone: +13614852688. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=693.
+
+# James Avery Jewelry
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 7800 North Navarro Street #101A, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8676836, -96.9944363
+- Phone: +13614852688
+- Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=693
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-18:00
+- Pulse Score: 48.5/100 — Building — top 100% of jewelry stores in Victoria, TX, #2 of 2 jewelry stores in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/james-avery-jewelry-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4248493795 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kamin Furniture is a furniture store in Victoria, TX at 5909 Northeast Zac Lentz Parkway, Victoria, TX 77904.
+
+# Kamin Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: 5909 Northeast Zac Lentz Parkway, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8622918, -96.9826374
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 50% of furniture stores in Victoria, TX, #1 of 2 furniture stores in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kamin-furniture-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kamin-furniture-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/922810046 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kloesel's Cleaners & Laundry is a dry cleaner in Victoria, TX at 1406 North John Stockbauer Drive, Victoria, TX 77904.
+
+# Kloesel's Cleaners & Laundry
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: 1406 North John Stockbauer Drive, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8346443, -96.9602964
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 50% of dry cleaners in Victoria, TX, #1 of 2 dry cleaners in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kloesels-cleaners-and-laundry-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kloesels-cleaners-and-laundry-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/922333355 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kloesel's Cleaners is a dry cleaner in Victoria, TX at 10002 Northeast Zac Lentz Parkway, Victoria, TX 77904.
+
+# Kloesel's Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: 10002 Northeast Zac Lentz Parkway, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8595528, -97.0231291
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Victoria, TX, #2 of 2 dry cleaners in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kloesels-cleaners-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kloesels-cleaners-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/922349312 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Korczynski's Photography is a photographer in Victoria, TX at 3501 North Navarro Street, Victoria, TX 77901. Phone: +13615752701. Website: https://korczynskisphotolab.com/.
+
+# Korczynski's Photography
+
+- Category: photographer
+- Services: photographer
+- Address: 3501 North Navarro Street, Victoria, TX 77901
+- City: Victoria
+- State: TX
+- ZIP: 77901
+- Coordinates: 28.8271904, -97.0014341
+- Phone: +13615752701
+- Website: https://korczynskisphotolab.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:30
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 100% of photographers in Victoria, TX, #1 of 1 photographers in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/korczynskis-photography-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/korczynskis-photography-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6285801703 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Liberty Financial Services is a tax preparation service in Victoria, TX at 2007 Lone Tree Road, Victoria, TX 77901. Phone: +13615801040. Website: https://libertyfinancialtx.com/.
+
+# Liberty Financial Services
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 2007 Lone Tree Road, Victoria, TX 77901
+- City: Victoria
+- State: TX
+- ZIP: 77901
+- Coordinates: 28.799295, -96.9820789
+- Phone: +13615801040
+- Website: https://libertyfinancialtx.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 100% of tax preparation services in Victoria, TX, #1 of 1 tax preparation services in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/liberty-financial-services-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/liberty-financial-services-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6339122564 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Limon's Road Services is an auto repair shop in Victoria, TX at 5503 US Highway 59 North, Victoria, TX 77905.
+
+# Limon's Road Services
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 5503 US Highway 59 North, Victoria, TX 77905
+- City: Victoria
+- State: TX
+- ZIP: 77905
+- Coordinates: 28.7920273, -96.9506795
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 67% of auto repair shops in Victoria, TX, #2 of 3 auto repair shops in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/limons-road-services-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/limons-road-services-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/922805190 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+PetSmart is a pet store in Victoria, TX at 7812 Northeast Zac Lentz Parkway, Victoria, TX 77904. Phone: +13615760659. Website: https://www.petsmart.com/stores/us/tx/victoria-store1449.html.
+
+# PetSmart
+
+- Category: pet store
+- Services: pet store
+- Address: 7812 Northeast Zac Lentz Parkway, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8648221, -97.0006665
+- Phone: +13615760659
+- Website: https://www.petsmart.com/stores/us/tx/victoria-store1449.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Pulse Score: 47.1/100 — Building — top 100% of pet stores in Victoria, TX, #2 of 2 pet stores in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petsmart-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petsmart-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7530419401 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rapid Express Car Wash is a car wash in Victoria, TX at 1502 North John Stockbauer Drive, Victoria, TX 77904.
+
+# Rapid Express Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 1502 North John Stockbauer Drive, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8349286, -96.9606942
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.9/100 — Unrated (not enough evidence yet) — top 100% of car washes in Victoria, TX, #3 of 3 car washes in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rapid-express-car-wash-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rapid-express-car-wash-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/922333356 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Riverside Family Dental is a dentist in Victoria, TX at 105 Spring Green Blvd #200, Victoria, TX 77904.
+
+# Riverside Family Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 105 Spring Green Blvd #200, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8521021, -97.0184324
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 50% of dentists in Victoria, TX, #1 of 2 dentists in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/riverside-family-dental-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/riverside-family-dental-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13526987798 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Southern Craft Grove is a gift shop in Victoria, TX at 2806 North Navarro Street #H, Victoria, TX 77901. Website: https://southerncraftgrove.square.site/.
+
+# Southern Craft Grove
+
+- Category: gift shop
+- Services: gift shop
+- Address: 2806 North Navarro Street #H, Victoria, TX 77901
+- City: Victoria
+- State: TX
+- ZIP: 77901
+- Coordinates: 28.8208308, -96.9997623
+- Phone: n/a
+- Website: https://southerncraftgrove.square.site/
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Sa 11:00-18:00
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 100% of gift shops in Victoria, TX, #1 of 1 gift shops in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/southern-craft-grove-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/southern-craft-grove-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11364402215 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Southern Tire Mart is a tire shop in Victoria, TX at 4202 US Highway 59 North, Victoria, TX 77905.
+
+# Southern Tire Mart
+
+- Category: tire shop
+- Services: tire shop
+- Address: 4202 US Highway 59 North, Victoria, TX 77905
+- City: Victoria
+- State: TX
+- ZIP: 77905
+- Coordinates: 28.7828551, -96.9570361
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43/100 — Unrated (not enough evidence yet) — top 100% of tire shops in Victoria, TX, #4 of 4 tire shops in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/southern-tire-mart-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/southern-tire-mart-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/922805194 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sweet Fountainz Bakery is a bakery in Victoria, TX at 5805 North John Stockbauer Drive, Victoria, TX 77904.
+
+# Sweet Fountainz Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: 5805 North John Stockbauer Drive, Victoria, TX 77904
+- City: Victoria
+- State: TX
+- ZIP: 77904
+- Coordinates: 28.8625985, -96.9934339
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Victoria, TX, #1 of 1 bakerys in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sweet-fountainz-bakery-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sweet-fountainz-bakery-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/922900013 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Werner Law Group is a lawyer in Victoria, TX at 101 West Goodwin Avenue #720, Victoria, TX 77901. Website: https://thewernerlawgroup.com/.
+
+# The Werner Law Group
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 101 West Goodwin Avenue #720, Victoria, TX 77901
+- City: Victoria
+- State: TX
+- ZIP: 77901
+- Coordinates: 28.8007434, -97.006021
+- Phone: n/a
+- Website: https://thewernerlawgroup.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Victoria, TX, #1 of 1 lawyers in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-werner-law-group-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-werner-law-group-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13533392094 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Timmy John's Salon is a hair salon in Victoria, TX at 1214 East Mockingbird Lane, Victoria, TX 77901. Phone: +13617035603.
+
+# Timmy John's Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1214 East Mockingbird Lane, Victoria, TX 77901
+- City: Victoria
+- State: TX
+- ZIP: 77901
+- Coordinates: 28.8362295, -96.9939016
+- Phone: +13617035603
+- Website: n/a
+- Email: wandwsalon@gmail.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Victoria, TX, #1 of 1 hair salons in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/timmy-johns-salon-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/timmy-johns-salon-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9521975047 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Victoria Fuel Injection is an auto repair shop in Victoria, TX at 409 Holt Road, Victoria, TX 77905. Phone: +13615766101. Website: https://www.victoriafuel.com/.
+
+# Victoria Fuel Injection
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 409 Holt Road, Victoria, TX 77905
+- City: Victoria
+- State: TX
+- ZIP: 77905
+- Coordinates: 28.8393421, -96.9057894
+- Phone: +13615766101
+- Website: https://www.victoriafuel.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Victoria, TX, #1 of 3 auto repair shops in Victoria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/victoria-fuel-injection-victoria/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/victoria-fuel-injection-victoria.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13646074120 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

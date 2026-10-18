@@ -13,7 +13,7 @@ Lavi Salon is a hair salon in Garden City, MI at 6755 Middlebelt Road, Garden Ci
 - Website: https://lavi-salon-hair-salon.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 32% of hair salons in Detroit, MI, #1 of 5 hair salons in Garden City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 31% of hair salons in Detroit, MI, #1 of 5 hair salons in Garden City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

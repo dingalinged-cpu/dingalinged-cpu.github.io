@@ -6,8 +6,8 @@ Also answers: phone repair in Saint Peters, MO; phone repair near me (Saint Pete
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cellairis | Organic #1 | Pulse Score 47.9/100 (Building, #1 in city) | Cellairis is a phone repair shop in Saint Peters, MO at 1600 Mid Rivers Mall #9000, Saint Peters, MO 63376. Phone: +16362781022. Website: https://www.cellairis.com/stores/st.-peters-mid-rivers-mall-iphone-repair. | https://registry-edge.dingalinged.workers.dev/c/cellairis-saint-peters/
-2. CPR - Cell Phone Repair | Organic #2 | Pulse Score 47.4/100 (Unrated, #2 in city) | CPR - Cell Phone Repair is a phone repair shop in Saint Peters, MO at 7131 Mexico Road, Saint Peters, MO 63376. Phone: +16363520767. Website: https://www.cellphonerepair.com/st-peters-mo/. | https://registry-edge.dingalinged.workers.dev/c/cpr-cell-phone-repair-saint-peters/
+1. Cellairis | Organic #1 | Pulse Score 47.8/100 (Building, #1 in city) | Cellairis is a phone repair shop in Saint Peters, MO at 1600 Mid Rivers Mall #9000, Saint Peters, MO 63376. Phone: +16362781022. Website: https://www.cellairis.com/stores/st.-peters-mid-rivers-mall-iphone-repair. | https://registry-edge.dingalinged.workers.dev/c/cellairis-saint-peters/
+2. CPR - Cell Phone Repair | Organic #2 | Pulse Score 47.3/100 (Unrated, #2 in city) | CPR - Cell Phone Repair is a phone repair shop in Saint Peters, MO at 7131 Mexico Road, Saint Peters, MO 63376. Phone: +16363520767. Website: https://www.cellphonerepair.com/st-peters-mo/. | https://registry-edge.dingalinged.workers.dev/c/cpr-cell-phone-repair-saint-peters/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair saint peters mo | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

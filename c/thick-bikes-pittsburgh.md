@@ -13,7 +13,7 @@ Thick Bikes is a bike shop in Pittsburgh, PA at 62 South 15th Street, Pittsburgh
 - Website: https://www.thickbikes.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu-We 11:00-19:00; Th 08:00-16:00; Fr 11:00-19:00; Sa 09:00-17:00; Su off
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 13% of bike shops in Pittsburgh, PA, #3 of 14 bike shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 13% of bike shops in Pittsburgh, PA, #3 of 14 bike shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

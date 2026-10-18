@@ -13,7 +13,7 @@ Hotworx is a gym in Englewood, CO at 9619 East County Line Road #C, Englewood, C
 - Website: https://www.hotworx.net/studio/centennial
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 49/100 — Building — top 60% of gyms in Denver, CO, #6 of 7 gyms in Englewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 59% of gyms in Denver, CO, #6 of 7 gyms in Englewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

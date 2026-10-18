@@ -13,7 +13,7 @@ Wright Dental Center is a dentist in Cold Spring, KY at 3760 Alexandria Pike, Co
 - Website: https://www.wrightdentalcenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:30-17:00; Fr 07:30-12:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 18% of dentists in Cincinnati, OH, #2 of 2 dentists in Cold Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 18% of dentists in Cincinnati, OH, #2 of 2 dentists in Cold Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

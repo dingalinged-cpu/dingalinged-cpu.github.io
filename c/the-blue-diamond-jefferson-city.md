@@ -13,7 +13,7 @@ The Blue Diamond is a jewelry store in Jefferson City, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-17:30
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in Jefferson City, MO, #3 of 3 jewelry stores in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in Jefferson City, MO, #3 of 3 jewelry stores in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

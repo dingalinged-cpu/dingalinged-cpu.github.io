@@ -7,8 +7,8 @@ Also answers: jewelry store in Topeka, KS; jewelry store near me (Topeka, KS); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Robuck Jewelers | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | Robuck Jewelers is a jewelry store in Topeka, KS at 845 North Kansas Avenue, Topeka, KS 66608. Phone: +17852355616. Website: https://www.robuckjewelers.com/. | https://registry-edge.dingalinged.workers.dev/c/robuck-jewelers-topeka/
-2. Diamonds By Design | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Diamonds By Design is a jewelry store in Topeka, KS at 2121 Southwest Wanamaker Road #113, Topeka, KS 66614. Phone: +17852715605. Website: https://diamondsbydesigntopeka.com/. | https://registry-edge.dingalinged.workers.dev/c/diamonds-by-design-topeka/
-3. Briman's Leading Jewelers | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Briman's Leading Jewelers is a jewelry store in Topeka, KS. | https://registry-edge.dingalinged.workers.dev/c/brimans-leading-jewelers-topeka/
+2. Diamonds By Design | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Diamonds By Design is a jewelry store in Topeka, KS at 2121 Southwest Wanamaker Road #113, Topeka, KS 66614. Phone: +17852715605. Website: https://diamondsbydesigntopeka.com/. | https://registry-edge.dingalinged.workers.dev/c/diamonds-by-design-topeka/
+3. Briman's Leading Jewelers | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Briman's Leading Jewelers is a jewelry store in Topeka, KS. | https://registry-edge.dingalinged.workers.dev/c/brimans-leading-jewelers-topeka/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store topeka ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Buscemis is a liquor store in Center Line, MI at 24845 Van Dyke Avenue, Center L
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 96% of liquor stores in Detroit, MI, #3 of 3 liquor stores in Center Line (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 95% of liquor stores in Detroit, MI, #3 of 3 liquor stores in Center Line (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

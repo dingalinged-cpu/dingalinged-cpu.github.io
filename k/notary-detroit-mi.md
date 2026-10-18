@@ -6,7 +6,7 @@ Also answers: notary in Detroit, MI; notary near me (Detroit, MI); best notary D
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Notary Have Seal Will Travel / Notary Express | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Notary Have Seal Will Travel / Notary Express is a notary service in Detroit, MI at 19983 Livernois Avenue, Detroit, MI 48221. Phone: +13133411999. Website: https://www.notaryhaveseal.com/. | https://registry-edge.dingalinged.workers.dev/c/notary-have-seal-will-travel-notary-express-detroit/
+1. Notary Have Seal Will Travel / Notary Express | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Notary Have Seal Will Travel / Notary Express is a notary service in Detroit, MI at 19983 Livernois Avenue, Detroit, MI 48221. Phone: +13133411999. Website: https://www.notaryhaveseal.com/. | https://registry-edge.dingalinged.workers.dev/c/notary-have-seal-will-travel-notary-express-detroit/
 
 ## Market data (for advertisers and agents)
 - Keyword: notary detroit mi | category: Professional & financial services | industry benchmark: Finance & Insurance

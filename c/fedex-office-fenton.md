@@ -13,7 +13,7 @@ FedEx Office is a printing service in Fenton, MO at 701 Gravois Road #102, Fento
 - Website: https://fedex.com/us/office/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.9/100 — Building — top 49% of printing services in St. Louis, MO, #1 of 1 printing services in Fenton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 49% of printing services in St. Louis, MO, #1 of 1 printing services in Fenton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

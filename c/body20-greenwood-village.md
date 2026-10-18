@@ -13,7 +13,7 @@ BODY20 is a gym in Greenwood Village, CO at 8000 East Belleview Avenue #E10, Gre
 - Website: https://body20.com/greenwood-village/
 - Email: greenwoodvillage@body20.com
 - Opening hours (OSM syntax): "book session"
-- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 54% of gyms in Denver, CO, #5 of 5 gyms in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 53% of gyms in Denver, CO, #5 of 5 gyms in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

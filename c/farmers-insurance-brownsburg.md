@@ -13,7 +13,7 @@ Farmers Insurance is an insurance agent in Brownsburg, IN at 480 East Northfield
 - Website: https://www.farmers.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.3/100 — Building — top 76% of insurance agents in Indianapolis, IN, #2 of 2 insurance agents in Brownsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 76% of insurance agents in Indianapolis, IN, #2 of 2 insurance agents in Brownsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Limestone Eye Care is an eye care practice in Lawrence, KS at 4320 West 6th Stre
 - Website: https://www.eyecarelimestone.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, Fr 08:00-17:00; Tu 09:00-19:00; We 08:00-17:30; Th 08:00-18:00; Sa 08:00-12:00
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 50% of eye care practices in Lawrence, KS, #4 of 8 eye care practices in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 50% of eye care practices in Lawrence, KS, #4 of 8 eye care practices in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

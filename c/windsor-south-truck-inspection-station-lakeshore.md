@@ -13,7 +13,7 @@ Windsor South Truck Inspection Station is a vehicle inspection station in Lakesh
 - Website: https://511on.ca/map
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Unrated (not enough evidence yet) — top 100% of vehicle inspection stations in Detroit, MI, #1 of 1 vehicle inspection stations in Lakeshore (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.1, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 100% of vehicle inspection stations in Detroit, MI, #1 of 1 vehicle inspection stations in Lakeshore (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.1, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

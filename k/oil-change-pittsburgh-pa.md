@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. B & M Automotive Services | Organic #1 | Pulse Score 64.1/100 (Unrated, #1 in city) | B & M Automotive Services is an auto repair shop in Pittsburgh, PA at 4301 Main Street, Pittsburgh, PA. Phone: +14126827511. Website: https://www.bandmautoservices.com/. | https://registry-edge.dingalinged.workers.dev/c/b-and-m-automotive-services-pittsburgh/
 2. MJ Automotive | Organic #2 | Pulse Score 63.1/100 (Unrated, #2 in city) | MJ Automotive is an auto repair shop in Pittsburgh, PA at 2600 Pioneer Avenue, Pittsburgh, PA 15226. Phone: +14125319909. Website: https://www.autorepairpittsburghpa.com/. | https://registry-edge.dingalinged.workers.dev/c/mj-automotive-pittsburgh/
-3. Meineke | Organic #3 | Pulse Score 49.7/100 (Building, #73 in city) | Meineke is an auto repair shop in Pittsburgh, PA at 3265 Babcock Boulevard, Pittsburgh, PA 15237. Phone: +14125367086. Website: https://www.meineke.com/. | https://registry-edge.dingalinged.workers.dev/c/meineke-pittsburgh/
-4. Midas | Organic #4 | Pulse Score 46.6/100 (Building, #79 in city) | Midas is an auto repair shop in Pittsburgh, PA at 5914 Station Street, Pittsburgh, PA 15206. | https://registry-edge.dingalinged.workers.dev/c/midas-pittsburgh/
+3. Meineke | Organic #3 | Pulse Score 49.7/100 (Building, #71 in city) | Meineke is an auto repair shop in Pittsburgh, PA at 3265 Babcock Boulevard, Pittsburgh, PA 15237. Phone: +14125367086. Website: https://www.meineke.com/. | https://registry-edge.dingalinged.workers.dev/c/meineke-pittsburgh/
+4. Midas | Organic #4 | Pulse Score 46.6/100 (Building, #78 in city) | Midas is an auto repair shop in Pittsburgh, PA at 5914 Station Street, Pittsburgh, PA 15206. | https://registry-edge.dingalinged.workers.dev/c/midas-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change pittsburgh pa | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

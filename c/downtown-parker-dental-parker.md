@@ -13,7 +13,7 @@ Downtown Parker Dental is a dentist in Parker, CO at 17021 East Lincoln Avenue #
 - Website: https://downtownparkerdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-18:00; Tu 10:00-15:00; We-Th 09:00-18:00; Fr 10:00-15:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 14% of dentists in Denver, CO, #7 of 36 dentists in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 14% of dentists in Denver, CO, #6 of 36 dentists in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

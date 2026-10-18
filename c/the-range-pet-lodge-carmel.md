@@ -13,7 +13,7 @@ The Range Pet Lodge is a dog boarding facility in Carmel, IN. Phone: +1317571777
 - Website: https://rangepetlodge.com/
 - Email: info@rangepetlodge.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 9% of dog boarding facilitys in Indianapolis, IN, #1 of 4 dog boarding facilitys in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 9% of dog boarding facilitys in Indianapolis, IN, #1 of 4 dog boarding facilitys in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

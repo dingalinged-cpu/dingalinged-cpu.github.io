@@ -13,7 +13,7 @@ Piercings N' More is a piercing studio in Pittsburgh, PA at 100 Robinson Center 
 - Website: n/a
 - Email: luckylanskyllc@yahoo.com
 - Opening hours (OSM syntax): Mo-Sa 11:00-20:00; Su 12:00-18:00
-- Pulse Score: 60.3/100 — Good — top 100% of piercing studios in Pittsburgh, PA, #1 of 1 piercing studios in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Good — top 100% of piercing studios in Pittsburgh, PA, #1 of 1 piercing studios in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

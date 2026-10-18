@@ -13,7 +13,7 @@ Bed Bug Exterminator Columbus is a pest control company in Columbus, OH. Phone: 
 - Website: https://effectivepestexterminating.com/
 - Email: support@effectivepestexterminating.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 100% of pest control companys in Columbus, OH, #1 of 1 pest control companys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 100% of pest control companys in Columbus, OH, #1 of 1 pest control companys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

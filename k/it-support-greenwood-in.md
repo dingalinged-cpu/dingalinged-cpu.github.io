@@ -6,7 +6,7 @@ Also answers: it support in Greenwood, IN; it support near me (Greenwood, IN); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JR Digital Marketing, LLC | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | JR Digital Marketing, LLC is an IT support company in Greenwood, IN at 545 Georgetown Road #Ste JR, Greenwood, IN 46142. Phone: +18127858038. Website: https://jrdmarketingservices.com/. | https://registry-edge.dingalinged.workers.dev/c/jr-digital-marketing-llc-greenwood/
+1. JR Digital Marketing, LLC | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | JR Digital Marketing, LLC is an IT support company in Greenwood, IN at 545 Georgetown Road #Ste JR, Greenwood, IN 46142. Phone: +18127858038. Website: https://jrdmarketingservices.com/. | https://registry-edge.dingalinged.workers.dev/c/jr-digital-marketing-llc-greenwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support greenwood in | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

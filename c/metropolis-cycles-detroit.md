@@ -13,7 +13,7 @@ Metropolis Cycles is a bike shop in Detroit, MI at 2117 Michigan Avenue, Detroit
 - Website: https://metropoliscycles.bike/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-18:00; Tu off; Su 11:00-16:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 32% of bike shops in Detroit, MI, #4 of 8 bike shops in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 32% of bike shops in Detroit, MI, #4 of 8 bike shops in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

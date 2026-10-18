@@ -13,7 +13,7 @@ Lawrence Periodontics is a dentist in Lawrence, KS at 4505 West 6th Street #B, L
 - Website: https://lawrenceperio.com/
 - Email: info@lawrenceperio.com
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of dentists in Lawrence, KS, #4 of 26 dentists in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of dentists in Lawrence, KS, #4 of 26 dentists in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

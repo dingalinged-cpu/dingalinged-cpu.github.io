@@ -13,7 +13,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 5. Biggs Group LLC | Organic #5 | Pulse Score 55.3/100 (Unrated, #5 in city) | Biggs Group LLC is a real estate agency in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/biggs-group-llc-lancaster/
 6. Keller Williams Realty | Organic #6 | Pulse Score 45.4/100 (Building, #6 in city) | Keller Williams Realty is a real estate agency in Lancaster, OH at 113 West Wheeling Street, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/keller-williams-realty-lancaster/
 7. Better Homes and Gardens | Organic #7 | Pulse Score 44/100 (Building, #7 in city) | Better Homes and Gardens is a real estate agency in Lancaster, OH at North Memorial Drive, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/better-homes-and-gardens-lancaster/
-8. Howard Hanna | Organic #8 | Pulse Score 43.5/100 (Building, #8 in city) | Howard Hanna is a real estate agency in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/howard-hanna-lancaster/
+8. Howard Hanna | Organic #8 | Pulse Score 43.4/100 (Building, #8 in city) | Howard Hanna is a real estate agency in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/howard-hanna-lancaster/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor lancaster oh | category: real_estate | industry benchmark: Real Estate

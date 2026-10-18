@@ -13,7 +13,7 @@ WetGo is a car wash in Pittsburgh, PA at 3107 Library Road, Pittsburgh, PA 15234
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-20:00
-- Pulse Score: 51.1/100 — Unrated (not enough evidence yet) — top 63% of car washes in Pittsburgh, PA, #3 of 8 car washes in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.1/100 — Unrated (not enough evidence yet) — top 62% of car washes in Pittsburgh, PA, #3 of 8 car washes in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

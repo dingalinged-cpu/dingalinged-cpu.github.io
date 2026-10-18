@@ -13,7 +13,7 @@ Circle K is a car wash in Brighton, CO at 385 East Bromley Lane, Brighton, CO 80
 - Website: https://www.circlek.com/store-locator/US/brighton/385-e-bromley-lane/2741120
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 49.4/100 — Building — top 67% of car washes in Denver, CO, #5 of 7 car washes in Brighton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 65% of car washes in Denver, CO, #5 of 7 car washes in Brighton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

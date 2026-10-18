@@ -13,7 +13,7 @@ Merrill Lynch Wealth Management is a financial advisor in Indianapolis, IN at 30
 - Website: https://www.local.ml.com/0505ew/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 59% of financial advisors in Indianapolis, IN, #5 of 8 financial advisors in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 59% of financial advisors in Indianapolis, IN, #5 of 8 financial advisors in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

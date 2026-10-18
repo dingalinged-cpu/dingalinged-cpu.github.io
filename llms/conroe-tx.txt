@@ -1,0 +1,443 @@
+# Company Registry: company records, metro conroe-tx
+
+> 16 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+Bimbo Bakeries Usa is a bakery in Conroe, TX at 2300 North Frazier Street, Conroe, TX 77303. Website: https://bimbobakeriesusa.com/.
+
+# Bimbo Bakeries Usa
+
+- Category: bakery
+- Services: bakery
+- Address: 2300 North Frazier Street, Conroe, TX 77303
+- City: Conroe
+- State: TX
+- ZIP: 77303
+- Coordinates: 30.3391953, -95.4677533
+- Phone: n/a
+- Website: https://bimbobakeriesusa.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 08:00-16:00; Su off
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Conroe, TX, #1 of 1 bakerys in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bimbo-bakeries-usa-conroe/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bimbo-bakeries-usa-conroe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1253496117 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+ClearWater Express Wash is a car wash in Conroe, TX at 610 North Loop 336 West, Conroe, TX 77301.
+
+# ClearWater Express Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 610 North Loop 336 West, Conroe, TX 77301
+- City: Conroe
+- State: TX
+- ZIP: 77301
+- Coordinates: 30.3370419, -95.4655151
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 07:00-20:00
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 50% of car washes in Conroe, TX, #1 of 1 car washes in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/clearwater-express-wash-conroe-w1568971786/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/clearwater-express-wash-conroe-w1568971786.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1568971786 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Daniel & Co. is a jewelry store in Conroe, TX at 1416, Conroe, TX 77304. Website: https://www.danielco.us/.
+
+# Daniel & Co.
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 1416, Conroe, TX 77304
+- City: Conroe
+- State: TX
+- ZIP: 77304
+- Coordinates: 30.3340851, -95.4806459
+- Phone: n/a
+- Website: https://www.danielco.us/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-15:00; Su off
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in Conroe, TX, #1 of 1 jewelry stores in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/daniel-and-co-conroe/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/daniel-and-co-conroe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14272605920 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Double R Tire Shop LLC is a tire shop in Conroe, TX at 2314 North Frazier Street, Conroe, TX 77303.
+
+# Double R Tire Shop LLC
+
+- Category: tire shop
+- Services: tire shop
+- Address: 2314 North Frazier Street, Conroe, TX 77303
+- City: Conroe
+- State: TX
+- ZIP: 77303
+- Coordinates: 30.340215, -95.468121
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:30; Sa 08:00-15:00; Su off
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 100% of tire shops in Conroe, TX, #1 of 1 tire shops in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/double-r-tire-shop-llc-conroe/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/double-r-tire-shop-llc-conroe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1253496118 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Encompass Real Estate Group is a real estate agency in Conroe, TX at 16145 TX 105 #Ste 300, Conroe, TX 77316. Phone: +19364468660.
+
+# Encompass Real Estate Group
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 16145 TX 105 #Ste 300, Conroe, TX 77316
+- City: Conroe
+- State: TX
+- ZIP: 77316
+- Coordinates: 30.3623164, -95.6090851
+- Phone: +19364468660
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in Conroe, TX, #1 of 1 real estate agencys in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/encompass-real-estate-group-conroe/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/encompass-real-estate-group-conroe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9284582722 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Willis, TX at 12350 Interstate 45 North, Willis, TX 77378.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 12350 Interstate 45 North, Willis, TX 77378
+- City: Willis
+- State: TX
+- ZIP: 77378
+- Coordinates: 30.4182021, -95.4898254
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.4/100 — Building — top 100% of car washes in Conroe, TX, #1 of 1 car washes in Willis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-willis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-willis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10167394754 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hot City Automotive Paint & Body is an auto repair shop in Conroe, TX at 2214 North Frazier Street, Conroe, TX 77303.
+
+# Hot City Automotive Paint & Body
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2214 North Frazier Street, Conroe, TX 77303
+- City: Conroe
+- State: TX
+- ZIP: 77303
+- Coordinates: 30.338498, -95.4677638
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:30
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 50% of auto repair shops in Conroe, TX, #1 of 1 auto repair shops in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hot-city-automotive-paint-and-body-conroe-w1253496122/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hot-city-automotive-paint-and-body-conroe-w1253496122.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1253496122 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jay Slaughter: Allstate Insurance is an insurance agent in Conroe, TX at 16955 Walden Road #116, Conroe, TX 77356. Phone: +17133886543. Website: https://agents.allstate.com/jay-slaughter-montgomery-tx.html.
+
+# Jay Slaughter: Allstate Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 16955 Walden Road #116, Conroe, TX 77356
+- City: Conroe
+- State: TX
+- ZIP: 77356
+- Coordinates: 30.3872258, -95.6540936
+- Phone: +17133886543
+- Website: https://agents.allstate.com/jay-slaughter-montgomery-tx.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:30; Sa 09:00-13:00
+- Pulse Score: 47.1/100 — Building — top 100% of insurance agents in Conroe, TX, #1 of 1 insurance agents in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jay-slaughter-allstate-insurance-conroe/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jay-slaughter-allstate-insurance-conroe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13394309452 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Maner Heating & Cooling is a HVAC contractor in Conroe, TX at 28772 Aloha Lane, Conroe, TX 77356. Phone: +19364445627. Website: https://manerac.com/.
+
+# Maner Heating & Cooling
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: 28772 Aloha Lane, Conroe, TX 77356
+- City: Conroe
+- State: TX
+- ZIP: 77356
+- Coordinates: 30.3678533, -95.5833995
+- Phone: +19364445627
+- Website: https://manerac.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 50% of HVAC contractors in Conroe, TX, #1 of 1 HVAC contractors in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/maner-heating-and-cooling-conroe/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/maner-heating-and-cooling-conroe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9718104664 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mattress Brands Discounters is a mattress store in Conroe, TX at 1418 North Loop 336 West, Conroe, TX 77304. Website: https://www.mattressbrands.com/.
+
+# Mattress Brands Discounters
+
+- Category: mattress store
+- Services: mattress store
+- Address: 1418 North Loop 336 West, Conroe, TX 77304
+- City: Conroe
+- State: TX
+- ZIP: 77304
+- Coordinates: 30.3340095, -95.480955
+- Phone: n/a
+- Website: https://www.mattressbrands.com/
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Th 10:00-15:00; Fr-Sa 10:00-19:00; Su-Mo off
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 100% of mattress stores in Conroe, TX, #1 of 1 mattress stores in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-brands-discounters-conroe/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-brands-discounters-conroe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14272605917 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+My Transmission Experts is an auto repair shop in Montgomery, TX at 18849 TX-105, Montgomery, TX 77356. Phone: +19362305305. Website: https://www.mytransmissionexperts.com/locations/montgomery-tx/.
+
+# My Transmission Experts
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change, brake repair, transmission repair
+- Address: 18849 TX-105, Montgomery, TX 77356
+- City: Montgomery
+- State: TX
+- ZIP: 77356
+- Coordinates: 30.3824186, -95.6538575
+- Phone: +19362305305
+- Website: https://www.mytransmissionexperts.com/locations/montgomery-tx/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-13:00
+- Pulse Score: 49.6/100 — Unrated (not enough evidence yet) — top 100% of auto repair shops in Conroe, TX, #1 of 1 auto repair shops in Montgomery (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/my-transmission-experts-montgomery/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/my-transmission-experts-montgomery.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1190212133 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Staffing Texas, LLC is a staffing agency in Conroe, TX at 1418 North Loop 336 West, Conroe, TX 77304. Phone: +19364944473. Website: https://www.staffing-texas.com/.
+
+# Staffing Texas, LLC
+
+- Category: staffing agency
+- Services: staffing agency
+- Address: 1418 North Loop 336 West, Conroe, TX 77304
+- City: Conroe
+- State: TX
+- ZIP: 77304
+- Coordinates: 30.333885, -95.4815488
+- Phone: +19364944473
+- Website: https://www.staffing-texas.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa-Su off
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 100% of staffing agencys in Conroe, TX, #1 of 1 staffing agencys in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/staffing-texas-llc-conroe/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/staffing-texas-llc-conroe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14272605913 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Stylish Interiors is a flooring company in Conroe, TX at 2212 B North Frazier Street, Conroe, TX 77303.
+
+# Stylish Interiors
+
+- Category: flooring companies
+- Services: flooring companies
+- Address: 2212 B North Frazier Street, Conroe, TX 77303
+- City: Conroe
+- State: TX
+- ZIP: 77303
+- Coordinates: 30.3379416, -95.4676422
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-15:00
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 100% of flooring companys in Conroe, TX, #1 of 1 flooring companys in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/stylish-interiors-conroe-w1253496119/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/stylish-interiors-conroe-w1253496119.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1253496119 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Total Air AC Repair, Plumbing & Water Heater Repair is a HVAC contractor in Willis, TX at 11250 Thompson Road, Willis, TX 77318. Phone: +19368904070. Website: https://totalairservice.com/air-conditioning-repair/.
+
+# Total Air AC Repair, Plumbing & Water Heater Repair
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: 11250 Thompson Road, Willis, TX 77318
+- City: Willis
+- State: TX
+- ZIP: 77318
+- Coordinates: 30.4046614, -95.530505
+- Phone: +19368904070
+- Website: https://totalairservice.com/air-conditioning-repair/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 00:00-24:00; Su off
+- Pulse Score: 51.4/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Conroe, TX, #1 of 1 HVAC contractors in Willis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/total-air-ac-repair-plumbing-and-water-heater-repair-willis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/total-air-ac-repair-plumbing-and-water-heater-repair-willis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13064884631 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Velas Alchemy Salon & Boutique is a hair salon in Conroe, TX at 10669 FM 1484 Road, Conroe, TX 77303. Phone: +19362601126. Website: https://velasalchemysalon-boutique.square.site/.
+
+# Velas Alchemy Salon & Boutique
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 10669 FM 1484 Road, Conroe, TX 77303
+- City: Conroe
+- State: TX
+- ZIP: 77303
+- Coordinates: 30.382071, -95.4110472
+- Phone: +19362601126
+- Website: https://velasalchemysalon-boutique.square.site/
+- Email: velasalchemycreations@gmail.com
+- Opening hours (OSM syntax): Tu-Fr 10:00-14:00; Sa 10:00-18:00
+- Pulse Score: 64.3/100 — Good — top 100% of hair salons in Conroe, TX, #1 of 1 hair salons in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/velas-alchemy-salon-and-boutique-conroe/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/velas-alchemy-salon-and-boutique-conroe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13881193873 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Woodland Hills Fitness Center is a gym in Conroe, TX.
+
+# Woodland Hills Fitness Center
+
+- Category: gym
+- Services: gym
+- Address: Conroe, TX
+- City: Conroe
+- State: TX
+- ZIP: n/a
+- Coordinates: 30.3987061, -95.5026122
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of gyms in Conroe, TX, #1 of 1 gyms in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/woodland-hills-fitness-center-conroe/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/woodland-hills-fitness-center-conroe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1273406850 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

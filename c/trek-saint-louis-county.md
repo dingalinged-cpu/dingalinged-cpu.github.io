@@ -13,7 +13,7 @@ Trek is a bike shop in Saint Louis County, MO at 13922 Manchester Road, Saint Lo
 - Website: https://trekbikes.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 11:00-19:00; Sa 10:00-18:00; Su 12:00-17:00
-- Pulse Score: 48.8/100 — Building — top 89% of bike shops in St. Louis, MO, #1 of 1 bike shops in Saint Louis County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 89% of bike shops in St. Louis, MO, #1 of 1 bike shops in Saint Louis County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

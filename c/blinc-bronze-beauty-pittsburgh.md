@@ -13,7 +13,7 @@ Blinc Bronze Beauty is a waxing salon in Pittsburgh, PA at 2206 East Carson Stre
 - Website: https://www.blincbronzebeauty.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu 09:00-20:00; We 11:00-20:00; Th 10:00-20:30; Fr 09:00-17:00; Sa 09:00-16:00; Su off
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of waxing salons in Pittsburgh, PA, #1 of 2 waxing salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of waxing salons in Pittsburgh, PA, #1 of 2 waxing salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

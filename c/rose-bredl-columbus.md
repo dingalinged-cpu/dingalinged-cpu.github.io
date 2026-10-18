@@ -13,7 +13,7 @@ Rose Bredl is a florist in Columbus, OH at 664 North High Street, Columbus, OH 4
 - Website: https://rosebredl.com/
 - Email: mary@rosebredl.com
 - Opening hours (OSM syntax): Tu-Sa 10:00-17:00
-- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 9% of florists in Columbus, OH, #2 of 14 florists in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 9% of florists in Columbus, OH, #2 of 14 florists in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

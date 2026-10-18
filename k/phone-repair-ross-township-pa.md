@@ -6,8 +6,8 @@ Also answers: phone repair in Ross Township, PA; phone repair near me (Ross Town
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. uBreakiFix | Organic #1 | Pulse Score 47.6/100 (Building, #3 in city) | uBreakiFix is a phone repair shop in Pittsburgh, PA at 4885 McKnight Road #20, Pittsburgh, PA 15237. Phone: +14128372214. Website: https://www.ubreakifix.com/locations/northhills. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-pittsburgh/
-2. Cell Phone Repair | Organic #2 | Pulse Score 41.9/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-ross-township/
+1. uBreakiFix | Organic #1 | Pulse Score 47.5/100 (Building, #3 in city) | uBreakiFix is a phone repair shop in Pittsburgh, PA at 4885 McKnight Road #20, Pittsburgh, PA 15237. Phone: +14128372214. Website: https://www.ubreakifix.com/locations/northhills. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-pittsburgh/
+2. Cell Phone Repair | Organic #2 | Pulse Score 41.8/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-ross-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair ross township pa | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

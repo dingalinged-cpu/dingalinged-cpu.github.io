@@ -13,7 +13,7 @@ B Boutique is a gift shop in Cape Girardeau, MO at 115 Broadway Street, Cape Gir
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 100% of gift shops in Cape Girardeau, MO, #2 of 2 gift shops in Cape Girardeau (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 100% of gift shops in Cape Girardeau, MO, #2 of 2 gift shops in Cape Girardeau (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

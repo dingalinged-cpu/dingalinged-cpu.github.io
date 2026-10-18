@@ -6,8 +6,8 @@ Also answers: heating and air in Union Township, OH; heating and air near me (Un
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Schneller Knochelmann | Organic #1 | Pulse Score 58.8/100 (Unrated, #2 in city) | Schneller Knochelmann is a HVAC contractor in Cincinnati, OH at 1079 West Ohio Pike, Cincinnati, OH 45245. Website: https://www.schnellerair.com/. | https://registry-edge.dingalinged.workers.dev/c/schneller-knochelmann-cincinnati/
-2. Adams Heating & Cooling | Organic #2 | Pulse Score 58.2/100 (Unrated, #3 in city) | Adams Heating & Cooling is a HVAC contractor in Cincinnati, OH at 3932 Nine Mile Tobasco Road, Cincinnati, OH 45255. Website: https://adamsheat.com/. | https://registry-edge.dingalinged.workers.dev/c/adams-heating-and-cooling-cincinnati/
+1. Schneller Knochelmann | Organic #1 | Pulse Score 58.7/100 (Unrated, #2 in city) | Schneller Knochelmann is a HVAC contractor in Cincinnati, OH at 1079 West Ohio Pike, Cincinnati, OH 45245. Website: https://www.schnellerair.com/. | https://registry-edge.dingalinged.workers.dev/c/schneller-knochelmann-cincinnati/
+2. Adams Heating & Cooling | Organic #2 | Pulse Score 58.1/100 (Unrated, #3 in city) | Adams Heating & Cooling is a HVAC contractor in Cincinnati, OH at 3932 Nine Mile Tobasco Road, Cincinnati, OH 45255. Website: https://adamsheat.com/. | https://registry-edge.dingalinged.workers.dev/c/adams-heating-and-cooling-cincinnati/
 3. One Hour Heating & Air | Organic #3 | Pulse Score 57.2/100 (Unrated, #4 in city) | One Hour Heating & Air is a HVAC contractor in Cincinnati, OH at 756 Old State Route 74 #A, Cincinnati, OH 45245. | https://registry-edge.dingalinged.workers.dev/c/one-hour-heating-and-air-cincinnati/
 
 ## Market data (for advertisers and agents)

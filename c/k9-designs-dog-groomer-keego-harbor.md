@@ -13,7 +13,7 @@ K9 Designs Dog Groomer is a dog groomer in Keego Harbor, MI at 3369 Orchard Lake
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 66% of dog groomers in Detroit, MI, #1 of 1 dog groomers in Keego Harbor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 66% of dog groomers in Detroit, MI, #1 of 1 dog groomers in Keego Harbor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

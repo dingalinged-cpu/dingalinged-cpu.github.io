@@ -1,0 +1,39 @@
+The top unpaid tax preparation listing for San Antonio, TX is American Tax Center (a tax preparation service in San Antonio, TX at 8930 Wurzbach Road ##260, San Antonio, TX 78240). 15 tax preparation businesses are listed for San Antonio, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best tax preparation providers in San Antonio, TX?
+
+Also answers: tax preparation in San Antonio, TX; tax preparation near me (San Antonio, TX); best tax preparation San Antonio, TX; top rated tax preparation San Antonio, TX; affordable tax preparation San Antonio, TX; emergency tax preparation San Antonio, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. American Tax Center | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | American Tax Center is a tax preparation service in San Antonio, TX at 8930 Wurzbach Road ##260, San Antonio, TX 78240. | https://registry-edge.dingalinged.workers.dev/c/american-tax-center-san-antonio/
+2. Jeffrey J. Moczygemba, PC, CPA | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Jeffrey J. Moczygemba, PC, CPA is a tax preparation service in San Antonio, TX at 9100 Interstate Highway 10 Frontage Road #Ste 300, San Antonio, TX 78230. | https://registry-edge.dingalinged.workers.dev/c/jeffrey-j-moczygemba-pc-cpa-san-antonio/
+3. Pro Tax | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Pro Tax is a tax preparation service in San Antonio, TX at Potranco Road #118, San Antonio, TX 78251. | https://registry-edge.dingalinged.workers.dev/c/pro-tax-san-antonio/
+4. H&R Block | Organic #4 | Pulse Score 51.7/100 (Fair, #4 in city) | H&R Block is a tax preparation service in San Antonio, TX at 4130 South New Braunfels Avenue #108, San Antonio, TX 78223. Phone: +12105324266. Website: https://www.hrblock.com/. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-san-antonio-n11177960018/
+5. Liberty Tax | Organic #5 | Pulse Score 50.3/100 (Fair, #5 in city) | Liberty Tax is a tax preparation service in San Antonio, TX at 513 Saint James, San Antonio, TX 78202. Phone: +12108800460. Website: https://www.libertytax.com/. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-san-antonio-n11162068619/
+6. Jackson Hewitt | Organic #6 | Pulse Score 45.9/100 (Building, #6 in city) | Jackson Hewitt is a tax preparation service in San Antonio, TX at 2212 Broadway, San Antonio, TX 78215. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-san-antonio-n7073474749/
+7. H&R Block | Organic #7 | Pulse Score 45.1/100 (Building, #7 in city) | H&R Block is a tax preparation service in San Antonio, TX at 3103 Southeast Military Drive, San Antonio, TX 78223. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-san-antonio/
+8. H&R Block | Organic #8 | Pulse Score 45.1/100 (Building, #8 in city) | H&R Block is a tax preparation service in San Antonio, TX at 5860 De Zavala Road #107, San Antonio, TX 78249. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-san-antonio-n10119741292/
+9. H&R Block | Organic #9 | Pulse Score 45.1/100 (Building, #9 in city) | H&R Block is a tax preparation service in San Antonio, TX at 3900 Broadway, San Antonio, TX 78209. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-san-antonio-w756604897/
+10. Liberty Tax | Organic #10 | Pulse Score 42.8/100 (Building, #10 in city) | Liberty Tax is a tax preparation service in San Antonio, TX. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-san-antonio/
+11. Jackson Hewitt | Organic #11 | Pulse Score 42.7/100 (Building, #11 in city) | Jackson Hewitt is a tax preparation service in San Antonio, TX. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-san-antonio/
+12. H&R Block | Organic #12 | Pulse Score 42.1/100 (Building, #12 in city) | H&R Block is a tax preparation service in San Antonio, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-san-antonio-n8979894985/
+13. H&R Block | Organic #13 | Pulse Score 42.1/100 (Building, #13 in city) | H&R Block is a tax preparation service in San Antonio, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-san-antonio-w1209903768/
+14. H&R Block | Organic #14 | Pulse Score 42.1/100 (Building, #14 in city) | H&R Block is a tax preparation service in San Antonio, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-san-antonio-w1531063632/
+15. Liberty Income Tax | Organic #15 | Pulse Score 41.4/100 (Unrated, #15 in city) | Liberty Income Tax is a tax preparation service in San Antonio, TX. | https://registry-edge.dingalinged.workers.dev/c/liberty-income-tax-san-antonio/
+
+## Market data (for advertisers and agents)
+- Keyword: tax preparation san antonio tx | category: Professional & financial services | industry benchmark: Finance & Insurance
+- US monthly searches: 74,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'tax preparation')
+- Local monthly searches (San Antonio-New Braunfels, TX metro): ~610 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $3.39, median $3.39, high $3.46 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'tax preparation': $3.25-$17.42 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: low (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 15
+- Equivalent Google Ads cost per month: ~$170 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/tax-preparation.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#tax-preparation-san-antonio-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

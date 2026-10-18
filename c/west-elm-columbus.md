@@ -13,7 +13,7 @@ west elm is a furniture store in Columbus, OH at 4026 Easton Station, Columbus, 
 - Website: https://www.westelm.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-21:00; Su 12:00-18:00
-- Pulse Score: 49.3/100 — Building — top 50% of furniture stores in Columbus, OH, #27 of 49 furniture stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 49% of furniture stores in Columbus, OH, #26 of 49 furniture stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

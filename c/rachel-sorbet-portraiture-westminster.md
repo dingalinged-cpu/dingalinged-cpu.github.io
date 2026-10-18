@@ -13,7 +13,7 @@ Rachel Sorbet Portraiture is a photographer in Westminster, CO at 3075 West 71st
 - Website: https://rachelsorbet.com/
 - Email: studio@rachelsorbet.com
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-13:00
-- Pulse Score: 64.1/100 — Good — top 4% of photographers in Denver, CO, #1 of 1 photographers in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 4% of photographers in Denver, CO, #1 of 1 photographers in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

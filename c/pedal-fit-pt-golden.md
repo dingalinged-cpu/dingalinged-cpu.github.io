@@ -13,7 +13,7 @@ Pedal Fit PT is a physical therapy clinic in Golden, CO at 393 North Washington 
 - Website: https://www.pedalfitpt.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 26% of physical therapy clinics in Denver, CO, #2 of 2 physical therapy clinics in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 26% of physical therapy clinics in Denver, CO, #2 of 2 physical therapy clinics in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

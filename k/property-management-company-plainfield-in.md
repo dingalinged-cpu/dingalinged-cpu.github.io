@@ -6,7 +6,7 @@ Also answers: property management company in Plainfield, IN; property management
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Leasing Office | Organic #1 | Pulse Score 46.3/100 (Unrated, #1 in city) | Leasing Office is a property management company in Plainfield, IN at 335 Double Creek Drive, Plainfield, IN 46168. Website: https://www.irtliving.com/Apartments-In/Plainfield-IN/Double-Creek-Flats. | https://registry-edge.dingalinged.workers.dev/c/leasing-office-plainfield/
+1. Leasing Office | Organic #1 | Pulse Score 46.1/100 (Unrated, #1 in city) | Leasing Office is a property management company in Plainfield, IN at 335 Double Creek Drive, Plainfield, IN 46168. Website: https://www.irtliving.com/Apartments-In/Plainfield-IN/Double-Creek-Flats. | https://registry-edge.dingalinged.workers.dev/c/leasing-office-plainfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company plainfield in | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Pottsboro, TX",
+ "description": "Top Pottsboro, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Pottsboro, TX",
+ "geography": null,
+ "keywords": 19,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "bakery pottsboro tx",
+    "slug": "bakery-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-pottsboro-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "photographer pottsboro tx",
+    "slug": "photographer-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-pottsboro-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tax preparer pottsboro tx",
+    "slug": "tax-preparer-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-pottsboro-tx/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "daycare pottsboro tx",
+    "slug": "daycare-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-pottsboro-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.81,
+    "cpc_median_usd": 4.81,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "haircut pottsboro tx",
+    "slug": "haircut-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-pottsboro-tx/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "auto repair pottsboro tx",
+    "slug": "auto-repair-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-pottsboro-tx/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "car wash pottsboro tx",
+    "slug": "car-wash-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-pottsboro-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "mechanic pottsboro tx",
+    "slug": "mechanic-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-pottsboro-tx/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "thrift store pottsboro tx",
+    "slug": "thrift-store-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-pottsboro-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "vet pottsboro tx",
+    "slug": "vet-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-pottsboro-tx/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "realtor pottsboro tx",
+    "slug": "realtor-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-pottsboro-tx/",
+    "us_monthly_searches": 90500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.7,
+    "cpc_median_usd": 3.22,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "real estate agent pottsboro tx",
+    "slug": "real-estate-agent-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-pottsboro-tx/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.61,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "funeral home pottsboro tx",
+    "slug": "funeral-home-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/funeral-home-pottsboro-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agency pottsboro tx",
+    "slug": "insurance-agency-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-pottsboro-tx/",
+    "us_monthly_searches": 90500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agent pottsboro tx",
+    "slug": "insurance-agent-pottsboro-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-pottsboro-tx/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

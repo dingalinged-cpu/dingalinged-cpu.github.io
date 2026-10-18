@@ -13,7 +13,7 @@ Health Care Access is a dentist in Lawrence, KS at 330 Maine Street, Lawrence, K
 - Website: https://healthcareaccess.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 08:00-16:30; Tu 08:30-19:30; Th 08:00-19:30
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 20% of dentists in Lawrence, KS, #5 of 26 dentists in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 20% of dentists in Lawrence, KS, #5 of 26 dentists in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

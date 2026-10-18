@@ -6,7 +6,7 @@ Also answers: therapist in Wellington, KS; therapist near me (Wellington, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sumner Mental Health Center | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Sumner Mental Health Center is a therapy practice in Wellington, KS. | https://registry-edge.dingalinged.workers.dev/c/sumner-mental-health-center-wellington/
+1. Sumner Mental Health Center | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Sumner Mental Health Center is a therapy practice in Wellington, KS. | https://registry-edge.dingalinged.workers.dev/c/sumner-mental-health-center-wellington/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist wellington ks | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

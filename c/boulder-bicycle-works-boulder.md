@@ -13,7 +13,7 @@ Boulder Bicycle Works is a bike shop in Boulder, CO at 2886 Bluff Street, Boulde
 - Website: https://boulderbicycleworks.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Th 10:00-17:00; Sa 10:00-16:00
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 47% of bike shops in Denver, CO, #10 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 50% of bike shops in Denver, CO, #10 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

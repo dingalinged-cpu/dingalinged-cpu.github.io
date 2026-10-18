@@ -13,7 +13,7 @@ Circle K is a car wash in Northglenn, CO at 2265 East 120th Avenue, Northglenn, 
 - Website: https://www.circlek.com/store-locator/US/northglenn/2265-e-120th-ave/2709859
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Building — top 73% of car washes in Denver, CO, #3 of 3 car washes in Northglenn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 72% of car washes in Denver, CO, #2 of 3 car washes in Northglenn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

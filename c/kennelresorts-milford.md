@@ -13,7 +13,7 @@ KennelResorts is a dog boarding facility in Milford, OH at 5825 Meadow View Driv
 - Website: https://www.kennelresorts.com/
 - Email: office@kennelresorts.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 6% of dog boarding facilitys in Cincinnati, OH, #1 of 4 dog boarding facilitys in Milford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 6% of dog boarding facilitys in Cincinnati, OH, #1 of 4 dog boarding facilitys in Milford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

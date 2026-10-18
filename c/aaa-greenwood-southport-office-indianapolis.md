@@ -13,7 +13,7 @@ AAA Greenwood / Southport Office is an insurance agent in Indianapolis, IN at 13
 - Website: https://www.hoosier.aaa.com/membership/offices/indianapolis-greenwoodsouthport
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.9/100 — Building — top 73% of insurance agents in Indianapolis, IN, #24 of 29 insurance agents in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 73% of insurance agents in Indianapolis, IN, #24 of 29 insurance agents in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: moving company in Wood River, IL; moving company near me (Wood Riv
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hornsey Moving & Storage Company | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Hornsey Moving & Storage Company is a moving company in Wood River, IL at 360 East Ferguson Avenue, Wood River, IL 62095. Phone: +16182544361. | https://registry-edge.dingalinged.workers.dev/c/hornsey-moving-and-storage-company-wood-river/
+1. Hornsey Moving & Storage Company | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Hornsey Moving & Storage Company is a moving company in Wood River, IL at 360 East Ferguson Avenue, Wood River, IL 62095. Phone: +16182544361. | https://registry-edge.dingalinged.workers.dev/c/hornsey-moving-and-storage-company-wood-river/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company wood river il | category: Home services - Moving | industry benchmark: Home & Home Improvement

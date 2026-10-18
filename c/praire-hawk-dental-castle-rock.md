@@ -13,7 +13,7 @@ Praire Hawk Dental is a dentist in Castle Rock, CO at 3768 Limelight Avenue, Cas
 - Website: https://www.prairiehawkdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-17:00; Tu 08:00-19:00; We-Th 08:00-17:00; Fr 07:00-14:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of dentists in Denver, CO, #8 of 11 dentists in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 15% of dentists in Denver, CO, #8 of 11 dentists in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

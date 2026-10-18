@@ -13,7 +13,7 @@ Elizabeth Hope is an interior designer in Cincinnati, OH at 2834 Observatory Ave
 - Website: https://www.hopeelizabethdesign.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 100% of interior designers in Cincinnati, OH, #4 of 4 interior designers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 100% of interior designers in Cincinnati, OH, #4 of 4 interior designers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

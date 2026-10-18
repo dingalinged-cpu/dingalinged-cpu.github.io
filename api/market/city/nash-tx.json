@@ -1,0 +1,126 @@
+{
+ "title": "Keyword market data: Nash, TX",
+ "description": "Top Nash, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Nash, TX",
+ "geography": null,
+ "keywords": 9,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "chimney sweep nash tx",
+    "slug": "chimney-sweep-nash-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chimney-sweep-nash-tx/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "florist nash tx",
+    "slug": "florist-nash-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-nash-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "auto repair nash tx",
+    "slug": "auto-repair-nash-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-nash-tx/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "mechanic nash tx",
+    "slug": "mechanic-nash-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-nash-tx/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "vet nash tx",
+    "slug": "vet-nash-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-nash-tx/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "funeral home nash tx",
+    "slug": "funeral-home-nash-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/funeral-home-nash-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agency nash tx",
+    "slug": "insurance-agency-nash-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-nash-tx/",
+    "us_monthly_searches": 90500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agent nash tx",
+    "slug": "insurance-agent-nash-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-nash-tx/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agents nash tx",
+    "slug": "insurance-agents-nash-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-nash-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

@@ -13,7 +13,7 @@ All Brick Design is an architect in Pontiac, MI at 77 North Saginaw Street, Pont
 - Website: https://allbrick.com/
 - Email: info@allbrick.com
 - Opening hours (OSM syntax): Mon-Fr 8:00 - 6:00 Sa 9:00 - 12:00 Su closed
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of architects in Detroit, MI, #1 of 1 architects in Pontiac (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of architects in Detroit, MI, #1 of 1 architects in Pontiac (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

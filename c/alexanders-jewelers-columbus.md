@@ -13,7 +13,7 @@ Alexanders Jewelers is a jewelry store in Columbus, OH at 689 North High Street,
 - Website: https://alexandersjewelersofohio.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 11:00-19:00; Fr,Sa 11:00-20:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 10% of jewelry stores in Columbus, OH, #4 of 25 jewelry stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 10% of jewelry stores in Columbus, OH, #4 of 25 jewelry stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

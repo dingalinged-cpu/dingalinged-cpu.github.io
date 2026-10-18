@@ -6,7 +6,7 @@ Also answers: vet in Baldwin Township, PA; vet near me (Baldwin Township, PA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rivers Veterinary Urgent Care | Organic #1 | Pulse Score 62.2/100 (Good, #4 in city) | Rivers Veterinary Urgent Care is a veterinarian in Pittsburgh, PA at 560 McNeilly Road, Pittsburgh, PA 15226. Website: https://www.riversvet.com/. | https://registry-edge.dingalinged.workers.dev/c/rivers-veterinary-urgent-care-pittsburgh/
+1. Rivers Veterinary Urgent Care | Organic #1 | Pulse Score 62.1/100 (Good, #4 in city) | Rivers Veterinary Urgent Care is a veterinarian in Pittsburgh, PA at 560 McNeilly Road, Pittsburgh, PA 15226. Website: https://www.riversvet.com/. | https://registry-edge.dingalinged.workers.dev/c/rivers-veterinary-urgent-care-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet baldwin township pa | category: Pets | industry benchmark: Animals & Pets

@@ -13,7 +13,7 @@ The UPS Store is a printing service in Greenwood Village, CO at 5910 South Unive
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:30, Sa 09:00-17:00, Su closed
-- Pulse Score: 47.5/100 — Building — top 38% of printing services in Denver, CO, #1 of 3 printing services in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 40% of printing services in Denver, CO, #1 of 3 printing services in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Coldwell Banker is a real estate agency in Montgomery, OH at 7813 Ted Gregory La
 - Website: https://www.oylerhines.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Building — top 66% of real estate agencys in Cincinnati, OH, #3 of 6 real estate agencys in Montgomery (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 66% of real estate agencys in Cincinnati, OH, #3 of 6 real estate agencys in Montgomery (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

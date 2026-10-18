@@ -13,7 +13,7 @@ Marks Jewelers is a jewelry store in Lawrence, KS. Phone: +17858434266. Website:
 - Website: https://www.marksjewelers.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We,Fr,Sa 09:30-17:30; Th 09:30-20:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 34% of jewelry stores in Lawrence, KS, #1 of 3 jewelry stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 34% of jewelry stores in Lawrence, KS, #1 of 3 jewelry stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

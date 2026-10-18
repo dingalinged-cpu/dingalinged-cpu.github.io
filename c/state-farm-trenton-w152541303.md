@@ -13,7 +13,7 @@ State Farm is an insurance agent in Trenton, MI at 2025 West Road, Trenton, MI 4
 - Website: https://jjvitaleinsurance.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 52% of insurance agents in Detroit, MI, #2 of 5 insurance agents in Trenton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 52% of insurance agents in Detroit, MI, #2 of 5 insurance agents in Trenton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

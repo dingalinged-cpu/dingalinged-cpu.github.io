@@ -6,8 +6,8 @@ Also answers: car inspection in Wentzville, MO; car inspection near me (Wentzvil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Weigh Station (Westbound) | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Weigh Station (Westbound) is a vehicle inspection station in Wentzville, MO. | https://registry-edge.dingalinged.workers.dev/c/weigh-station-westbound-wentzville/
-2. Weight station | Organic #2 | Pulse Score 42.6/100 (Unrated, #2 in city) | Weight station is a vehicle inspection station in Wentzville, MO. | https://registry-edge.dingalinged.workers.dev/c/weight-station-wentzville/
+1. Weigh Station (Westbound) | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Weigh Station (Westbound) is a vehicle inspection station in Wentzville, MO. | https://registry-edge.dingalinged.workers.dev/c/weigh-station-westbound-wentzville/
+2. Weight station | Organic #2 | Pulse Score 43/100 (Unrated, #2 in city) | Weight station is a vehicle inspection station in Wentzville, MO. | https://registry-edge.dingalinged.workers.dev/c/weight-station-wentzville/
 
 ## Market data (for advertisers and agents)
 - Keyword: car inspection wentzville mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

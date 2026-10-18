@@ -6,7 +6,7 @@ Also answers: yoga classes in Madison Heights, MI; yoga classes near me (Madison
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sacred Walks By Uni | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Sacred Walks By Uni is a yoga studio in Madison Heights, MI at 27300 John R Road, Madison Heights, MI 48071. Phone: +12487959881. Website: https://www.sacredwalksbyuni.com/. | https://registry-edge.dingalinged.workers.dev/c/sacred-walks-by-uni-madison-heights/
+1. Sacred Walks By Uni | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Sacred Walks By Uni is a yoga studio in Madison Heights, MI at 27300 John R Road, Madison Heights, MI 48071. Phone: +12487959881. Website: https://www.sacredwalksbyuni.com/. | https://registry-edge.dingalinged.workers.dev/c/sacred-walks-by-uni-madison-heights/
 2. Iron Body Studios | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Iron Body Studios is a yoga studio in Madison Heights, MI at 32115 John R Road, Madison Heights, MI 48071. | https://registry-edge.dingalinged.workers.dev/c/iron-body-studios-madison-heights/
 
 ## Market data (for advertisers and agents)

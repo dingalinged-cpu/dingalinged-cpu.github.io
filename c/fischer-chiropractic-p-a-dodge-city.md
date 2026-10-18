@@ -13,7 +13,7 @@ Fischer Chiropractic, P.A. is a chiropractor in Dodge City, KS at 2000 North 14t
 - Website: https://chiropractordodgecity.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 08:00-17:00, Tu 08:00-19:00, Th 08:00-16:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 100% of chiropractors in Dodge City, KS, #1 of 1 chiropractors in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 100% of chiropractors in Dodge City, KS, #1 of 1 chiropractors in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

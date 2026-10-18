@@ -13,7 +13,7 @@ Kinder Care is a preschool in Cincinnati, OH at 1184 Witt Road, Cincinnati, OH 4
 - Website: https://www.kindercare.com/our-centers/cincinnati/oh/300738
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 62% of preschools in Cincinnati, OH, #7 of 10 preschools in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 62% of preschools in Cincinnati, OH, #7 of 10 preschools in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

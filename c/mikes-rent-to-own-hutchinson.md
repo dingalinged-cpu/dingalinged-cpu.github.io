@@ -13,7 +13,7 @@ Mike's Rent to Own is a furniture store in Hutchinson, KS at 124 West 2nd Avenue
 - Website: https://www.mikesrenttoown.com/hutchinson-ks
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-16:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 9% of furniture stores in Wichita, KS, #1 of 2 furniture stores in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 9% of furniture stores in Wichita, KS, #1 of 2 furniture stores in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

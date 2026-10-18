@@ -13,7 +13,7 @@ Learning Grove is a daycare in Covington, KY at 333 Madison Avenue, Covington, K
 - Website: https://www.learning-grove.org/
 - Email: info@learning-grove.org
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa, Su off
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 5% of daycares in Cincinnati, OH, #1 of 1 daycares in Covington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 5% of daycares in Cincinnati, OH, #1 of 1 daycares in Covington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

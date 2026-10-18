@@ -6,7 +6,7 @@ Also answers: phone repair in Wentzville, MO; phone repair near me (Wentzville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cell Phone Repair | Organic #1 | Pulse Score 48.2/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in Wentzville, MO at 1828 Wentzville Parkway, Wentzville, MO 63385. Phone: +16368872516. Website: https://www.cellphonerepair.com/wentzville-mo/. | https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-wentzville/
+1. Cell Phone Repair | Organic #1 | Pulse Score 48.1/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in Wentzville, MO at 1828 Wentzville Parkway, Wentzville, MO 63385. Phone: +16368872516. Website: https://www.cellphonerepair.com/wentzville-mo/. | https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-wentzville/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair wentzville mo | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

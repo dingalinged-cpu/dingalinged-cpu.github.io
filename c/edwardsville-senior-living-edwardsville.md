@@ -13,7 +13,7 @@ Edwardsville Senior Living is an assisted living facility in Edwardsville, IL at
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 59% of assisted living facilitys in St. Louis, MO, #1 of 2 assisted living facilitys in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 59% of assisted living facilitys in St. Louis, MO, #1 of 2 assisted living facilitys in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

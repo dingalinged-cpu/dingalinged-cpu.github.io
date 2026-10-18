@@ -13,7 +13,7 @@ Goodyear is an auto repair shop in Redford Township, MI at 9565 Telegraph Road, 
 - Website: https://www.goodyear.com/en-US/tire-shop/Redford+MI+48239+US/000134818
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Building — top 88% of auto repair shops in Detroit, MI, #5 of 6 auto repair shops in Redford Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 88% of auto repair shops in Detroit, MI, #5 of 6 auto repair shops in Redford Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

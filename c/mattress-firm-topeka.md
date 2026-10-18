@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Topeka, KS at 1540 Southwest Wanamaker Road
 - Website: https://www.mattressfirm.com/stores/ks/topeka/mattress-stores-topeka-ks-66604-5676.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 48.2/100 — Building — top 50% of mattress stores in Topeka, KS, #2 of 4 mattress stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 50% of mattress stores in Topeka, KS, #2 of 4 mattress stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

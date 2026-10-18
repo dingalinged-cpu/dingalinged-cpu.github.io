@@ -6,8 +6,8 @@ Also answers: event venues in Topeka, KS; event venues near me (Topeka, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cosmos Court | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Cosmos Court is an event venue in Topeka, KS at 909 South Kansas Avenue, Topeka, KS 66612. Website: https://www.cosmoscourt.com/. | https://registry-edge.dingalinged.workers.dev/c/cosmos-court-topeka/
-2. The Garden House | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | The Garden House is an event venue in Topeka, KS at 3650 Southeast West Edge Road, Topeka, KS 66605. | https://registry-edge.dingalinged.workers.dev/c/the-garden-house-topeka/
+1. Cosmos Court | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Cosmos Court is an event venue in Topeka, KS at 909 South Kansas Avenue, Topeka, KS 66612. Website: https://www.cosmoscourt.com/. | https://registry-edge.dingalinged.workers.dev/c/cosmos-court-topeka/
+2. The Garden House | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | The Garden House is an event venue in Topeka, KS at 3650 Southeast West Edge Road, Topeka, KS 66605. | https://registry-edge.dingalinged.workers.dev/c/the-garden-house-topeka/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues topeka ks | category: Events & weddings | industry benchmark: Personal Services

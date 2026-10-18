@@ -13,7 +13,7 @@ Gateway Asthma and Allergy is an allergist in O’Fallon, MO at 9426 Phoenix Vil
 - Website: https://www.essehealth.com/location/gateway-asthma-allergy-relief-ofallon-mo/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Th 09:00-18:00; Tu,Fr 09:00-15:00; Sa 08:00-11:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 100% of allergists in O'Fallon, MO, #1 of 1 allergists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 100% of allergists in O'Fallon, MO, #1 of 1 allergists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

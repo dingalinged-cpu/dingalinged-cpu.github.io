@@ -6,9 +6,9 @@ Also answers: liquor store in Saint Joseph, MO; liquor store near me (Saint Jose
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Smooth Endings | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Smooth Endings is a liquor store in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/smooth-endings-saint-joseph/
-2. South Belt Liquor and Smokes | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | South Belt Liquor and Smokes is a liquor store in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/south-belt-liquor-and-smokes-saint-joseph/
-3. World Liquor and Tobacco Outlet | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | World Liquor and Tobacco Outlet is a liquor store in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/world-liquor-and-tobacco-outlet-saint-joseph/
+1. Smooth Endings | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Smooth Endings is a liquor store in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/smooth-endings-saint-joseph/
+2. South Belt Liquor and Smokes | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | South Belt Liquor and Smokes is a liquor store in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/south-belt-liquor-and-smokes-saint-joseph/
+3. World Liquor and Tobacco Outlet | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | World Liquor and Tobacco Outlet is a liquor store in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/world-liquor-and-tobacco-outlet-saint-joseph/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store saint joseph mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

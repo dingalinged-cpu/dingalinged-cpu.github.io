@@ -13,7 +13,7 @@ City Bark is a dog boarding facility in Centennial, CO at 6840 South Kenton Stre
 - Website: https://www.citybark.com/locations/centennial
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Unrated (not enough evidence yet) — top 89% of dog boarding facilitys in Denver, CO, #1 of 2 dog boarding facilitys in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.5, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Unrated (not enough evidence yet) — top 89% of dog boarding facilitys in Denver, CO, #1 of 2 dog boarding facilitys in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.5, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

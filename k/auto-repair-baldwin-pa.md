@@ -6,7 +6,7 @@ Also answers: auto repair in Baldwin, PA; auto repair near me (Baldwin, PA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Davis Auto Sales & Services | Organic #1 | Pulse Score 57.8/100 (Unrated, #40 in city) | Davis Auto Sales & Services is an auto repair shop in Pittsburgh, PA at 5180 Brownsville Road, Pittsburgh, PA 15236. | https://registry-edge.dingalinged.workers.dev/c/davis-auto-sales-and-services-pittsburgh/
+1. Davis Auto Sales & Services | Organic #1 | Pulse Score 57.8/100 (Unrated, #38 in city) | Davis Auto Sales & Services is an auto repair shop in Pittsburgh, PA at 5180 Brownsville Road, Pittsburgh, PA 15236. | https://registry-edge.dingalinged.workers.dev/c/davis-auto-sales-and-services-pittsburgh/
 2. K & G Auto Service | Organic #2 | Pulse Score 55/100 (Unrated, #1 in city) | K & G Auto Service is an auto repair shop in Baldwin, PA. | https://registry-edge.dingalinged.workers.dev/c/k-and-g-auto-service-baldwin/
 
 ## Market data (for advertisers and agents)

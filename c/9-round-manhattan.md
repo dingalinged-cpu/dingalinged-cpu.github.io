@@ -13,7 +13,7 @@
 - Website: https://www.9round.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:30-13:30,15:00-20:00; Sa 07:00-13:00
-- Pulse Score: 50.6/100 — Fair — top 100% of martial arts schools in Manhattan, KS, #2 of 2 martial arts schools in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 100% of martial arts schools in Manhattan, KS, #2 of 2 martial arts schools in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Dallmeyer's Jewelry is a jewelry store in Jefferson City, MO. Phone: +1573636818
 - Website: https://www.facebook.com/pages/Dallmeyers-Jewelry/163243593694366
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Good — top 67% of jewelry stores in Jefferson City, MO, #2 of 3 jewelry stores in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Good — top 67% of jewelry stores in Jefferson City, MO, #2 of 3 jewelry stores in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

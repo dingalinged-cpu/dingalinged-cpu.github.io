@@ -7,7 +7,7 @@ Also answers: moving company in Englewood, CO; moving company near me (Englewood
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Road Runner Moving & Storage LLC | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Road Runner Moving & Storage LLC is a moving company in Englewood, CO at 2900 South Shoshone Street #Ste 109, Englewood, CO 80110. Phone: +13032321106. Website: https://roadrunnermoversllc.com/. | https://registry-edge.dingalinged.workers.dev/c/road-runner-moving-and-storage-llc-englewood/
-2. Cowboy Moving & Storage | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Cowboy Moving & Storage is a moving company in Englewood, CO at 4535 South Santa Fe Drive, Englewood, CO 80110. Phone: +13037892200. Website: https://www.cowboymoving.com/. | https://registry-edge.dingalinged.workers.dev/c/cowboy-moving-and-storage-englewood/
+2. Cowboy Moving & Storage | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Cowboy Moving & Storage is a moving company in Englewood, CO at 4535 South Santa Fe Drive, Englewood, CO 80110. Phone: +13037892200. Website: https://www.cowboymoving.com/. | https://registry-edge.dingalinged.workers.dev/c/cowboy-moving-and-storage-englewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company englewood co | category: Home services - Moving | industry benchmark: Home & Home Improvement

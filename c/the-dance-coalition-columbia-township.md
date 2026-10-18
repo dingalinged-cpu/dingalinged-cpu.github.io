@@ -13,7 +13,7 @@ The Dance Coalition is a dance studio in Columbia Township, OH at 7251 Wooster P
 - Website: https://www.thedancecoalition.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 37% of dance studios in Cincinnati, OH, #1 of 1 dance studios in Columbia Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 43% of dance studios in Cincinnati, OH, #1 of 1 dance studios in Columbia Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

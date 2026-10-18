@@ -13,7 +13,7 @@ Stockton Pet Hospital is a veterinarian in Lakewood, CO at 1234 South Wadsworth 
 - Website: https://stocktonpethospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr 07:30-18:00; We 08:00-16:00; Sa 08:00-13:00; Su off
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 30% of veterinarians in Denver, CO, #5 of 6 veterinarians in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 29% of veterinarians in Denver, CO, #5 of 6 veterinarians in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

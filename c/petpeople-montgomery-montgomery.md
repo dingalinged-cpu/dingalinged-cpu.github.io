@@ -13,7 +13,7 @@ PetPeople Montgomery is a pet store in Montgomery, OH. Website: https://www.petp
 - Website: https://www.petpeoplestores.com/montgomery-store.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 74% of pet stores in Cincinnati, OH, #1 of 1 pet stores in Montgomery (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 74% of pet stores in Cincinnati, OH, #1 of 1 pet stores in Montgomery (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

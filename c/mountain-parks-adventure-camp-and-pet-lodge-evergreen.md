@@ -13,7 +13,7 @@ Mountain Parks Adventure Camp & Pet Lodge is a dog boarding facility in Evergree
 - Website: https://mountainparkspetlodge.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 7:00-12:00 & 14:00-18:30; Sa-Su 7:00-18:00
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 3% of dog boarding facilitys in Denver, CO, #1 of 1 dog boarding facilitys in Evergreen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 3% of dog boarding facilitys in Denver, CO, #1 of 1 dog boarding facilitys in Evergreen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Sunrise Circle Amphitheater | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Sunrise Circle Amphitheater is an event venue in Boulder County, CO. Website: https://bouldercolorado.gov/services/shelter-rentals. | https://registry-edge.dingalinged.workers.dev/c/sunrise-circle-amphitheater-boulder-county/
 2. Wedgewood Wedding & Banquet Center at Boulder Creek | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Wedgewood Wedding & Banquet Center at Boulder Creek is an event venue in Boulder County, CO. Website: https://www.wedgewoodweddings.com/venues/colorado/boulder-creek. | https://registry-edge.dingalinged.workers.dev/c/wedgewood-wedding-and-banquet-center-at-boulder-creek-boulder-county/
-3. Altona Grange #127 | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Altona Grange #127 is an event venue in Boulder County, CO at 9386 North 39th Street, Boulder County, CO 8503. | https://registry-edge.dingalinged.workers.dev/c/altona-grange-127-boulder-county/
+3. Altona Grange #127 | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Altona Grange #127 is an event venue in Boulder County, CO at 9386 North 39th Street, Boulder County, CO 8503. | https://registry-edge.dingalinged.workers.dev/c/altona-grange-127-boulder-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues boulder county co | category: Events & weddings | industry benchmark: Personal Services

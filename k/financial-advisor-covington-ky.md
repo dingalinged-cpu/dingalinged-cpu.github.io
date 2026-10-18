@@ -6,7 +6,7 @@ Also answers: financial advisor in Covington, KY; financial advisor near me (Cov
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Legacy Financial Advisors | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Legacy Financial Advisors is a financial advisor in Covington, KY. | https://registry-edge.dingalinged.workers.dev/c/legacy-financial-advisors-covington/
+1. Legacy Financial Advisors | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Legacy Financial Advisors is a financial advisor in Covington, KY. | https://registry-edge.dingalinged.workers.dev/c/legacy-financial-advisors-covington/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor covington ky | category: Professional & financial services | industry benchmark: Finance & Insurance

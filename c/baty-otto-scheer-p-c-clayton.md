@@ -13,7 +13,7 @@ Baty Otto Scheer P.C. is a lawyer in Clayton, MO at 7777 Bonhomme Avenue #2150, 
 - Website: https://batyotto.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 47.9/100 — Building — top 92% of lawyers in St. Louis, MO, #3 of 3 lawyers in Clayton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 92% of lawyers in St. Louis, MO, #3 of 3 lawyers in Clayton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

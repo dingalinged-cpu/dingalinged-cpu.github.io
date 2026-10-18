@@ -13,7 +13,7 @@ Morgan & Morgan is a lawyer in Wichita, KS at 801 East Douglas Avenue #Suite 262
 - Website: https://www.forthepeople.com/wichita/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.2/100 — Building — top 100% of lawyers in Wichita, KS, #11 of 11 lawyers in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 100% of lawyers in Wichita, KS, #11 of 11 lawyers in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

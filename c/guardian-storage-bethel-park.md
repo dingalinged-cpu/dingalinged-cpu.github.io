@@ -13,7 +13,7 @@ Guardian Storage is a self-storage facility in Bethel Park, PA at 1067 Milford D
 - Website: https://www.guardianstorage.com/locations/all/bethel-park/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 81% of self-storage facilitys in Pittsburgh, PA, #2 of 2 self-storage facilitys in Bethel Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 81% of self-storage facilitys in Pittsburgh, PA, #2 of 2 self-storage facilitys in Bethel Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

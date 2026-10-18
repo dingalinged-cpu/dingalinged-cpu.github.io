@@ -6,7 +6,7 @@ Also answers: window replacement in Wayne, MI; window replacement near me (Wayne
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. M&S Windows | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | M&S Windows is a window installer in Wayne, MI. Phone: +13136516825. | https://registry-edge.dingalinged.workers.dev/c/m-and-s-windows-wayne/
+1. M&S Windows | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | M&S Windows is a window installer in Wayne, MI. Phone: +13136516825. | https://registry-edge.dingalinged.workers.dev/c/m-and-s-windows-wayne/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement wayne mi | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

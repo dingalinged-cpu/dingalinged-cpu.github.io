@@ -13,7 +13,7 @@ Canelle detroit is a bakery in Detroit, MI at 45, Detroit, MI 48226. Phone: +131
 - Website: https://www.cannelledetroit.com/
 - Email: n/a
 - Opening hours (OSM syntax): Su 08:00-18:00; Mo-Th 06:30-20:00; Fr 06:30-22:00; Sa 07:30-22:00
-- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 3% of bakerys in Detroit, MI, #1 of 25 bakerys in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 3% of bakerys in Detroit, MI, #1 of 25 bakerys in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

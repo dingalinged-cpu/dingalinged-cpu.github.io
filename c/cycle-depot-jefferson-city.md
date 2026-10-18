@@ -13,7 +13,7 @@ Cycle Depot is a bike shop in Jefferson City, MO. Phone: +15736369599. Website: 
 - Website: https://www.hartsburgcycledepot.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 100% of bike shops in Jefferson City, MO, #3 of 3 bike shops in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 100% of bike shops in Jefferson City, MO, #3 of 3 bike shops in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

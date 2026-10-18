@@ -13,7 +13,7 @@ Roger & Hollands Jewelers is a jewelry store in Saint Peters, MO at 1600 Mid Riv
 - Website: https://rogersandhollands.com/storelocator/location/storeinfo/?id=30084
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su off
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 34% of jewelry stores in St. Peters, MO, #2 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 34% of jewelry stores in St. Peters, MO, #2 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

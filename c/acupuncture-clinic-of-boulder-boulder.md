@@ -13,7 +13,7 @@ Acupuncture Clinic of Boulder is an acupuncture clinic in Boulder, CO. Website: 
 - Website: https://acuboulder.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 74% of acupuncture clinics in Denver, CO, #4 of 4 acupuncture clinics in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 74% of acupuncture clinics in Denver, CO, #4 of 4 acupuncture clinics in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

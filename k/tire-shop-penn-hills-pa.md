@@ -7,8 +7,8 @@ Also answers: tire shop in Penn Hills, PA; tire shop near me (Penn Hills, PA); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Pittsburgh Tire Shop | Organic #1 | Pulse Score 57.7/100 (Unrated, #2 in city) | Pittsburgh Tire Shop is a tire shop in Pittsburgh, PA at 400 Railroad Street, Pittsburgh, PA 15235. | https://registry-edge.dingalinged.workers.dev/c/pittsburgh-tire-shop-pittsburgh/
-2. Alpha & Omega Wheels | Organic #2 | Pulse Score 55.4/100 (Unrated, #1 in city) | Alpha & Omega Wheels is a tire shop in Penn Hills, PA. | https://registry-edge.dingalinged.workers.dev/c/alpha-and-omega-wheels-penn-hills/
-3. Bonus Tire | Organic #3 | Pulse Score 55.4/100 (Unrated, #2 in city) | Bonus Tire is a tire shop in Penn Hills, PA. | https://registry-edge.dingalinged.workers.dev/c/bonus-tire-penn-hills/
+2. Alpha & Omega Wheels | Organic #2 | Pulse Score 55.3/100 (Unrated, #1 in city) | Alpha & Omega Wheels is a tire shop in Penn Hills, PA. | https://registry-edge.dingalinged.workers.dev/c/alpha-and-omega-wheels-penn-hills/
+3. Bonus Tire | Organic #3 | Pulse Score 55.3/100 (Unrated, #2 in city) | Bonus Tire is a tire shop in Penn Hills, PA. | https://registry-edge.dingalinged.workers.dev/c/bonus-tire-penn-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop penn hills pa | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Greenwood Village, CO at 5910 South Unive
 - Website: https://www.edwardjones.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00, Sa-Su "by appointment"
-- Pulse Score: 68.1/100 — Good — top 3% of financial advisors in Denver, CO, #1 of 3 financial advisors in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.5, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 68/100 — Good — top 3% of financial advisors in Denver, CO, #1 of 3 financial advisors in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.5, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

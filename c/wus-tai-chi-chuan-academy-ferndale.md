@@ -13,7 +13,7 @@ Wu's Tai Chi Chuan Academy is a martial arts school in Ferndale, MI at 3140 Hilt
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 42% of martial arts schools in Detroit, MI, #1 of 1 martial arts schools in Ferndale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 42% of martial arts schools in Detroit, MI, #1 of 1 martial arts schools in Ferndale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

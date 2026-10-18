@@ -13,7 +13,7 @@ Law Offices Of Emily Lewis is a lawyer in Dublin, OH at 5650 Blazer Pkwy, Dublin
 - Website: https://elewislaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 45% of lawyers in Columbus, OH, #4 of 6 lawyers in Dublin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 45% of lawyers in Columbus, OH, #4 of 6 lawyers in Dublin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

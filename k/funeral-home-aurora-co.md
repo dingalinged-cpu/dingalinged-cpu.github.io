@@ -7,7 +7,7 @@ Also answers: funeral home in Aurora, CO; funeral home near me (Aurora, CO); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Taylor Funeral and Cremation Services | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Taylor Funeral and Cremation Services is a funeral home in Aurora, CO at 15057 East Colfax Avenue, Aurora, CO. Phone: +13033441615. | https://registry-edge.dingalinged.workers.dev/c/taylor-funeral-and-cremation-services-aurora/
-2. Olinger Eastlawn Cemetery Office | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Olinger Eastlawn Cemetery Office is a funeral home in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/olinger-eastlawn-cemetery-office-aurora/
+2. Olinger Eastlawn Cemetery Office | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Olinger Eastlawn Cemetery Office is a funeral home in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/olinger-eastlawn-cemetery-office-aurora/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home aurora co | category: Professional & financial services | industry benchmark: Finance & Insurance

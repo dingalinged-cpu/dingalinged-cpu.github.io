@@ -13,7 +13,7 @@ Studio 1 Salon is a hair salon in Jefferson City, MO at 801 West High Street, Je
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-20:00; Fr 08:00-19:00; Sa 09:00-15:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 60% of hair salons in Jefferson City, MO, #3 of 5 hair salons in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 60% of hair salons in Jefferson City, MO, #3 of 5 hair salons in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

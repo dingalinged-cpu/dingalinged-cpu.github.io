@@ -13,7 +13,7 @@ Prestige Fitness is a gym in Aurora, CO at 13801 East Exposition Avenue, Aurora,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 83% of gyms in Denver, CO, #29 of 37 gyms in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 82% of gyms in Denver, CO, #29 of 37 gyms in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

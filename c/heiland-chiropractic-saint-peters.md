@@ -13,7 +13,7 @@ Heiland Chiropractic is a chiropractor in Saint Peters, MO at 7347 Mexico Road #
 - Website: https://heilandchiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-12:00,14:00-18:00; Tu 08:00-12:00; Th 14:00-18:00; Sa,Su off
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of chiropractors in St. Peters, MO, #1 of 3 chiropractors in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of chiropractors in St. Peters, MO, #1 of 3 chiropractors in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

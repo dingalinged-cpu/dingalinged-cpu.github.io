@@ -6,7 +6,7 @@ Also answers: gift shop in Kirkwood, MO; gift shop near me (Kirkwood, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Down by the Station | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Down by the Station is a gift shop in Kirkwood, MO at 150 West Argonne Drive, Kirkwood, MO 63122. | https://registry-edge.dingalinged.workers.dev/c/down-by-the-station-kirkwood/
+1. Down by the Station | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Down by the Station is a gift shop in Kirkwood, MO at 150 West Argonne Drive, Kirkwood, MO 63122. | https://registry-edge.dingalinged.workers.dev/c/down-by-the-station-kirkwood/
 2. Down by the Station | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Down by the Station is a gift shop in Kirkwood, MO. | https://registry-edge.dingalinged.workers.dev/c/down-by-the-station-kirkwood-n13997802214/
 
 ## Market data (for advertisers and agents)

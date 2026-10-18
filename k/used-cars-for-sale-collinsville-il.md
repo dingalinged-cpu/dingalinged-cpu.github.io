@@ -6,7 +6,7 @@ Also answers: used cars for sale in Collinsville, IL; used cars for sale near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Laura Buick GMC | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Laura Buick GMC is an used car dealer in Collinsville, IL at 903 North Bluff Road, Collinsville, IL 62234. Phone: +16183440121. Website: https://www.laurabuickgmc.com/. | https://registry-edge.dingalinged.workers.dev/c/laura-buick-gmc-collinsville/
+1. Laura Buick GMC | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Laura Buick GMC is an used car dealer in Collinsville, IL at 903 North Bluff Road, Collinsville, IL 62234. Phone: +16183440121. Website: https://www.laurabuickgmc.com/. | https://registry-edge.dingalinged.workers.dev/c/laura-buick-gmc-collinsville/
 2. Instacredit Automart | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Instacredit Automart is an used car dealer in Collinsville, IL at 910 North Bluff Road, Collinsville, IL 62234. Phone: +16183433900. Website: https://www.instacreditautomart.com/. | https://registry-edge.dingalinged.workers.dev/c/instacredit-automart-collinsville/
 3. Jack Schmitt Ford | Organic #3 | Pulse Score 49.3/100 (Building, #3 in city) | Jack Schmitt Ford is an used car dealer in Collinsville, IL at 1820 Vandalia Street, Collinsville, IL 62234. Phone: +16183445105. Website: https://www.jackschmittford.com/. | https://registry-edge.dingalinged.workers.dev/c/jack-schmitt-ford-collinsville/
 

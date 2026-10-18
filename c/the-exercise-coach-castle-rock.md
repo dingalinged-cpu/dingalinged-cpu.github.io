@@ -13,7 +13,7 @@ The Exercise Coach is a gym in Castle Rock, CO at 1855 Ambrosia Street #202, Cas
 - Website: https://exercisecoach.com/castle-rock/
 - Email: castlerock.co@exercisecoach-usa.com
 - Opening hours (OSM syntax): Mo-Th 06:00-19:00; Fr 06:00-17:00; Sa 07:00-12:00
-- Pulse Score: 49.6/100 — Building — top 56% of gyms in Denver, CO, #3 of 7 gyms in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 54% of gyms in Denver, CO, #3 of 7 gyms in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

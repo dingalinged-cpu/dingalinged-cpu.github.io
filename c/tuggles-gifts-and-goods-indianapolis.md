@@ -13,7 +13,7 @@ Tuggles Gifts & Goods is a gift shop in Indianapolis, IN at 1029 Virginia Avenue
 - Website: https://www.tugglesgiftsandgoods.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-18:00; Sa 10:00-19:00; Su 11:00-18:00; 
-- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 6% of gift shops in Indianapolis, IN, #1 of 11 gift shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 6% of gift shops in Indianapolis, IN, #1 of 11 gift shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

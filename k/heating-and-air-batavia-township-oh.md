@@ -6,7 +6,7 @@ Also answers: heating and air in Batavia Township, OH; heating and air near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kellerman Heating & Cooling | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Kellerman Heating & Cooling is a HVAC contractor in Batavia Township, OH at 1990 East Ohio Pike, Batavia Township, OH 45102. Website: https://www.kellermanheatingcoolingco.com/. | https://registry-edge.dingalinged.workers.dev/c/kellerman-heating-and-cooling-batavia-township/
+1. Kellerman Heating & Cooling | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Kellerman Heating & Cooling is a HVAC contractor in Batavia Township, OH at 1990 East Ohio Pike, Batavia Township, OH 45102. Website: https://www.kellermanheatingcoolingco.com/. | https://registry-edge.dingalinged.workers.dev/c/kellerman-heating-and-cooling-batavia-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air batavia township oh | category: Home Services | industry benchmark: Home & Home Improvement

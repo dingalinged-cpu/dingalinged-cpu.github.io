@@ -6,8 +6,8 @@ Also answers: dentist in North Huntingdon Township, PA; dentist near me (North H
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chesnut Hills Dental | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Chesnut Hills Dental is a dentist in North Huntingdon Township, PA. | https://registry-edge.dingalinged.workers.dev/c/chesnut-hills-dental-north-huntingdon-township/
-2. Paul Hardison D.M.D. General Dentistry | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Paul Hardison D.M.D. General Dentistry is a dentist in North Huntingdon Township, PA. | https://registry-edge.dingalinged.workers.dev/c/paul-hardison-d-m-d-general-dentistry-north-huntingdon-township/
+1. Chesnut Hills Dental | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Chesnut Hills Dental is a dentist in North Huntingdon Township, PA. | https://registry-edge.dingalinged.workers.dev/c/chesnut-hills-dental-north-huntingdon-township/
+2. Paul Hardison D.M.D. General Dentistry | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Paul Hardison D.M.D. General Dentistry is a dentist in North Huntingdon Township, PA. | https://registry-edge.dingalinged.workers.dev/c/paul-hardison-d-m-d-general-dentistry-north-huntingdon-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist north huntingdon township pa | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

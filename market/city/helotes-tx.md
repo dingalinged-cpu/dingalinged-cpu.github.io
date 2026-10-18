@@ -1,0 +1,58 @@
+Keyword market for Helotes, TX: 25 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the San Antonio-New Braunfels, TX metro (US volume x population share).
+
+# Top keywords in Helotes, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash helotes tx | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-helotes-tx/
+2. dentist helotes tx | searches/mo 15,000 (est) | CPC $4.70 | value $70,000 | Google Ads equiv $3,800/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-helotes-tx/
+3. plumber helotes tx | searches/mo 6,800 (est) | CPC $12.04 | value $82,000 | Google Ads equiv $5,200/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-helotes-tx/
+4. mechanic helotes tx | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/mechanic-helotes-tx/
+5. vet helotes tx | searches/mo 4,500 (est) | CPC $4.06 | value $18,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-helotes-tx/
+6. dog groomer helotes tx | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-helotes-tx/
+7. auto repair helotes tx | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-helotes-tx/
+8. electrician helotes tx | searches/mo 2,000 (est) | CPC $12.18 | value $24,000 | Google Ads equiv $1,600/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/electrician-helotes-tx/
+9. insurance agency helotes tx | searches/mo 740 (est) | CPC $3.39 | value $2,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-helotes-tx/
+10. attorney helotes tx | searches/mo 610 (est) | CPC $9.87 | value $6,000 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-helotes-tx/
+11. windshield replacement helotes tx | searches/mo 500 (est) | CPC $4.35 | value $2,200 | Google Ads equiv $120/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-helotes-tx/
+12. insurance agents helotes tx | searches/mo 410 (est) | CPC $3.39 | value $1,400 | Google Ads equiv $120/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-helotes-tx/
+13. lawyer helotes tx | searches/mo 410 (est) | CPC $9.87 | value $4,000 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-helotes-tx/
+14. plumbing services helotes tx | searches/mo 410 (est) | CPC $13.90 | value $5,700 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-helotes-tx/
+15. crossfit helotes tx | searches/mo 330 (est) | CPC $6.17 | value $2,000 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/crossfit-helotes-tx/
+
+## By CPC
+1. plumbing services helotes tx | searches/mo 410 (est) | CPC $13.90 | value $5,700 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-helotes-tx/
+2. electrician helotes tx | searches/mo 2,000 (est) | CPC $12.18 | value $24,000 | Google Ads equiv $1,600/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/electrician-helotes-tx/
+3. plumber helotes tx | searches/mo 6,800 (est) | CPC $12.04 | value $82,000 | Google Ads equiv $5,200/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-helotes-tx/
+4. attorney helotes tx | searches/mo 610 (est) | CPC $9.87 | value $6,000 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-helotes-tx/
+5. lawyer helotes tx | searches/mo 410 (est) | CPC $9.87 | value $4,000 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-helotes-tx/
+6. plumbers helotes tx | searches/mo 30.00 (est) | CPC $8.33 | value $250 | Google Ads equiv $16.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbers-helotes-tx/
+7. event venues helotes tx | searches/mo 1,800 (est) | CPC $7.17 | value $13,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/event-venues-helotes-tx/
+8. crossfit helotes tx | searches/mo 330 (est) | CPC $6.17 | value $2,000 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/crossfit-helotes-tx/
+9. dance studio helotes tx | searches/mo 330 (est) | CPC $6.17 | value $2,000 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-helotes-tx/
+10. daycare helotes tx | searches/mo 1,800 (est) | CPC $4.81 | value $8,700 | Google Ads equiv $500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-helotes-tx/
+11. assisted living helotes tx | searches/mo 1,800 (est) | CPC $4.76 | value $8,600 | Google Ads equiv $580/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/assisted-living-helotes-tx/
+12. dentist helotes tx | searches/mo 15,000 (est) | CPC $4.70 | value $70,000 | Google Ads equiv $3,800/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-helotes-tx/
+13. tattoo shop helotes tx | searches/mo 7,700 (est) | CPC $4.62 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-helotes-tx/
+14. auto repair helotes tx | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-helotes-tx/
+15. car wash helotes tx | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-helotes-tx/
+
+## By value (searches x CPC)
+1. plumber helotes tx | searches/mo 6,800 (est) | CPC $12.04 | value $82,000 | Google Ads equiv $5,200/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-helotes-tx/
+2. dentist helotes tx | searches/mo 15,000 (est) | CPC $4.70 | value $70,000 | Google Ads equiv $3,800/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-helotes-tx/
+3. car wash helotes tx | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-helotes-tx/
+4. electrician helotes tx | searches/mo 2,000 (est) | CPC $12.18 | value $24,000 | Google Ads equiv $1,600/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/electrician-helotes-tx/
+5. mechanic helotes tx | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/mechanic-helotes-tx/
+6. vet helotes tx | searches/mo 4,500 (est) | CPC $4.06 | value $18,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-helotes-tx/
+7. dog groomer helotes tx | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-helotes-tx/
+8. auto repair helotes tx | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-helotes-tx/
+9. attorney helotes tx | searches/mo 610 (est) | CPC $9.87 | value $6,000 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-helotes-tx/
+10. plumbing services helotes tx | searches/mo 410 (est) | CPC $13.90 | value $5,700 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-helotes-tx/
+11. lawyer helotes tx | searches/mo 410 (est) | CPC $9.87 | value $4,000 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-helotes-tx/
+12. insurance agency helotes tx | searches/mo 740 (est) | CPC $3.39 | value $2,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-helotes-tx/
+13. windshield replacement helotes tx | searches/mo 500 (est) | CPC $4.35 | value $2,200 | Google Ads equiv $120/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-helotes-tx/
+14. crossfit helotes tx | searches/mo 330 (est) | CPC $6.17 | value $2,000 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/crossfit-helotes-tx/
+15. insurance agents helotes tx | searches/mo 410 (est) | CPC $3.39 | value $1,400 | Google Ads equiv $120/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-helotes-tx/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

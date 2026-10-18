@@ -13,7 +13,7 @@ Kennedy Early Childhood Center is a preschool in Lawrence, KS at 1605 Davis Road
 - Website: https://www.usd497.org/Domain/12
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 84% of preschools in Lawrence, KS, #10 of 12 preschools in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.8, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 84% of preschools in Lawrence, KS, #10 of 12 preschools in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.7, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Media Medic is a business consultant in Springfield, MO at 601 North National Av
 - Website: https://www.mediamedic.studio/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su off
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 34% of business consultants in Springfield, MO, #1 of 3 business consultants in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 34% of business consultants in Springfield, MO, #1 of 3 business consultants in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

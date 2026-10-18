@@ -13,7 +13,7 @@ The Hot Room Uptown is a yoga studio in Indianapolis, IN at 3855 E 96th St, Indi
 - Website: https://thehotroom.com/
 - Email: katie.mayfield@thehotroom.com
 - Opening hours (OSM syntax): Su 07:00-15:00, 16:00-18:00, Mo-Th 05:30-13:30, 16:00-21:00, Fr 05:30-13:30, 14:30-19:30, Sa 07:30-15:30
-- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 6% of yoga studios in Indianapolis, IN, #1 of 9 yoga studios in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 6% of yoga studios in Indianapolis, IN, #1 of 9 yoga studios in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

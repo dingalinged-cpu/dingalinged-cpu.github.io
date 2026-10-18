@@ -6,7 +6,7 @@ Also answers: moving company in Canton Township, MI; moving company near me (Can
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rose Moving & Storage | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Rose Moving & Storage is a moving company in Canton Township, MI at 5777 Belleville Road, Canton Township, MI 48188. | https://registry-edge.dingalinged.workers.dev/c/rose-moving-and-storage-canton-township/
+1. Rose Moving & Storage | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Rose Moving & Storage is a moving company in Canton Township, MI at 5777 Belleville Road, Canton Township, MI 48188. | https://registry-edge.dingalinged.workers.dev/c/rose-moving-and-storage-canton-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company canton township mi | category: Home services - Moving | industry benchmark: Home & Home Improvement

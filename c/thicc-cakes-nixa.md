@@ -13,7 +13,7 @@ Thicc Cakes is a bakery in Nixa, MO at 554 West Mount Vernon Street, Nixa, MO 65
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Fr-Sa 12:00-19:00; Su 12:00-17:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Nixa, MO, #1 of 1 bakerys in Nixa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Nixa, MO, #1 of 1 bakerys in Nixa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

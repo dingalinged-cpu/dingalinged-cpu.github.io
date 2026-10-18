@@ -13,7 +13,7 @@ Gardner Express Care is a family medicine practice in Joplin, MO at 1701 West 26
 - Website: https://www.gardnerexpresscare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 100% of family medicine practices in Joplin, MO, #1 of 1 family medicine practices in Joplin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 100% of family medicine practices in Joplin, MO, #1 of 1 family medicine practices in Joplin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

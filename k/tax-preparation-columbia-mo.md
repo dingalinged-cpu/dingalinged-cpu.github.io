@@ -6,10 +6,10 @@ Also answers: tax preparation in Columbia, MO; tax preparation near me (Columbia
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | Organic #1 | Pulse Score 47.8/100 (Building, #1 in city) | H&R Block is a tax preparation service in Columbia, MO at 2101 West Broadway #C, Columbia, MO 65203. Phone: +15734458353. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-columbia-n12762866335/
-2. H&R Block | Organic #2 | Pulse Score 42.5/100 (Building, #2 in city) | H&R Block is a tax preparation service in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-columbia/
-3. H&R Block | Organic #3 | Pulse Score 42.5/100 (Building, #3 in city) | H&R Block is a tax preparation service in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-columbia-n12392580292/
-4. H&R Block | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | H&R Block is a tax preparation service in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-columbia-n14240422482/
+1. H&R Block | Organic #1 | Pulse Score 47.7/100 (Building, #1 in city) | H&R Block is a tax preparation service in Columbia, MO at 2101 West Broadway #C, Columbia, MO 65203. Phone: +15734458353. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-columbia-n12762866335/
+2. H&R Block | Organic #2 | Pulse Score 42.6/100 (Building, #2 in city) | H&R Block is a tax preparation service in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-columbia/
+3. H&R Block | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | H&R Block is a tax preparation service in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-columbia-n12392580292/
+4. H&R Block | Organic #4 | Pulse Score 42.6/100 (Building, #4 in city) | H&R Block is a tax preparation service in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-columbia-n14240422482/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation columbia mo | category: Professional & financial services | industry benchmark: Finance & Insurance

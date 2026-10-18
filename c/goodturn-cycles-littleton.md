@@ -13,7 +13,7 @@ GoodTurn Cycles is a bike shop in Littleton, CO at 7301 South Santa Fe Drive #Su
 - Website: https://goodturncycles.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 97% of bike shops in Denver, CO, #4 of 5 bike shops in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 97% of bike shops in Denver, CO, #4 of 5 bike shops in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -15,7 +15,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 7. State Farm | Organic #7 | Pulse Score 45.7/100 (Building, #7 in city) | State Farm is an insurance agent in Southgate, MI at 15311 Dix-Toledo Highway, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/state-farm-southgate-n6483243100/
 8. Allstate | Organic #8 | Pulse Score 44.1/100 (Building, #8 in city) | Allstate is an insurance agent in Southgate, MI at 13220 Trenton Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/allstate-southgate-n11950359659/
 9. State Farm | Organic #9 | Pulse Score 44.1/100 (Building, #9 in city) | State Farm is an insurance agent in Southgate, MI at 11165 Allen Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/state-farm-southgate-n7567874120/
-10. AAA Insurance | Organic #10 | Pulse Score 43.7/100 (Building, #10 in city) | AAA Insurance is an insurance agent in Southgate, MI at 16080 Eureka Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/aaa-insurance-southgate/
+10. AAA Insurance | Organic #10 | Pulse Score 43.6/100 (Building, #10 in city) | AAA Insurance is an insurance agent in Southgate, MI at 16080 Eureka Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/aaa-insurance-southgate/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents southgate mi | category: insurance | industry benchmark: Finance & Insurance

@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Dynamic Auto Body | Organic #2 | Pulse Score 59.8/100 (Unrated, #19 in city) | Dynamic Auto Body is an auto repair shop in Detroit, MI at 4703 East Davison Street, Detroit, MI 48212. Website: https://www.automd.com/shops/dynamic-auto-body_143876/. | https://registry-edge.dingalinged.workers.dev/c/dynamic-auto-body-detroit/
 3. Rasho Auto Body Refinishing | Organic #3 | Pulse Score 56.5/100 (Unrated, #93 in city) | Rasho Auto Body Refinishing is an auto repair shop in Detroit, MI at 14904 East 7 Mile Road, Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/rasho-auto-body-refinishing-detroit/
 4. Custom Rides 'R' Us | Organic #4 | Pulse Score 55.4/100 (Unrated, #98 in city) | Custom Rides 'R' Us is an auto repair shop in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/custom-rides-r-us-detroit/
-5. Maaco Auto Body Shop & Painting | Organic #5 | Pulse Score 45.3/100 (Building, #118 in city) | Maaco Auto Body Shop & Painting is an auto repair shop in Detroit, MI at 18250 Plymouth Road, Detroit, MI 48228. | https://registry-edge.dingalinged.workers.dev/c/maaco-auto-body-shop-and-painting-detroit/
+5. Maaco Auto Body Shop & Painting | Organic #5 | Pulse Score 45.3/100 (Building, #117 in city) | Maaco Auto Body Shop & Painting is an auto repair shop in Detroit, MI at 18250 Plymouth Road, Detroit, MI 48228. | https://registry-edge.dingalinged.workers.dev/c/maaco-auto-body-shop-and-painting-detroit/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop detroit mi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

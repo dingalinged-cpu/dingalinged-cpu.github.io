@@ -13,7 +13,7 @@ Fox Chapel Shoe Service is a shoe repair in Pittsburgh, PA at 1149 Freeport Road
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 10:00-14:00; Mo 12:00-18:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 17% of shoe repairs in Pittsburgh, PA, #1 of 5 shoe repairs in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 17% of shoe repairs in Pittsburgh, PA, #1 of 5 shoe repairs in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

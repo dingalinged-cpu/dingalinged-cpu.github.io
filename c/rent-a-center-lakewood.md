@@ -13,7 +13,7 @@ Rent-A-Center is a furniture store in Lakewood, CO at 75 South Sheridan Boulevar
 - Website: https://locations.rentacenter.com/colorado/lakewood/75-s-sheridan-blvd-unit-b/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Pulse Score: 48.7/100 — Building — top 65% of furniture stores in Denver, CO, #4 of 5 furniture stores in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 67% of furniture stores in Denver, CO, #4 of 5 furniture stores in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ State Farm is an insurance agent in Broomfield, CO at 2095 West 6th Avenue #102,
 - Website: https://www.myagentbecky.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 50.3/100 — Fair — top 37% of insurance agents in Denver, CO, #3 of 3 insurance agents in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 37% of insurance agents in Denver, CO, #3 of 3 insurance agents in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

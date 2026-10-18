@@ -13,7 +13,7 @@ Goodwill is a thrift store in Canton Township, MI at 41937 Ford Road, Canton Tow
 - Website: https://stores.goodwilldetroit.org/canton/
 - Email: n/a
 - Opening hours (OSM syntax): Mo- Sa 9:00-21:00; Su 12:00-18:00
-- Pulse Score: 50.4/100 — Fair — top 43% of thrift stores in Detroit, MI, #3 of 3 thrift stores in Canton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 42% of thrift stores in Detroit, MI, #2 of 3 thrift stores in Canton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

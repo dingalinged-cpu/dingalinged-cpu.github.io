@@ -6,7 +6,7 @@ Also answers: dance studio in Hutchinson, KS; dance studio near me (Hutchinson, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Poetry in Motion | Organic #1 | Pulse Score 62.5/100 (Good, #1 in city) | Poetry in Motion is a dance studio in Hutchinson, KS at 504 North Main Street #A, Hutchinson, KS. Phone: +16206637272. Website: https://www.poetryinmotiondance.com/. | https://registry-edge.dingalinged.workers.dev/c/poetry-in-motion-hutchinson/
+1. Poetry in Motion | Organic #1 | Pulse Score 62.4/100 (Good, #1 in city) | Poetry in Motion is a dance studio in Hutchinson, KS at 504 North Main Street #A, Hutchinson, KS. Phone: +16206637272. Website: https://www.poetryinmotiondance.com/. | https://registry-edge.dingalinged.workers.dev/c/poetry-in-motion-hutchinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio hutchinson ks | category: Fitness | industry benchmark: Health & Fitness

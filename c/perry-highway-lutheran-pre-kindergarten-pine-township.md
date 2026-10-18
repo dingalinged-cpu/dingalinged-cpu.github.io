@@ -13,7 +13,7 @@ Perry Highway Lutheran Pre-Kindergarten is a preschool in Pine Township, PA at 1
 - Website: https://phlpreschool.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 19% of preschools in Pittsburgh, PA, #1 of 2 preschools in Pine Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 19% of preschools in Pittsburgh, PA, #1 of 2 preschools in Pine Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

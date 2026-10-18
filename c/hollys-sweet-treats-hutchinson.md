@@ -13,7 +13,7 @@ Holly's Sweet Treats is a bakery in Hutchinson, KS at 205 South Main Street, Hut
 - Website: https://www.hsthutch.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 11:00-18:00; Fr 11:00-19:00; Sa 10:00-16:00
-- Pulse Score: 64/100 — Good — top 10% of bakerys in Wichita, KS, #1 of 1 bakerys in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64/100 — Good — top 10% of bakerys in Wichita, KS, #1 of 1 bakerys in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

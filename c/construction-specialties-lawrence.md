@@ -13,7 +13,7 @@ Construction Specialties is an architect in Lawrence, KS at 1213 East 25th Stree
 - Website: https://homeimprovementlawrence.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 50% of architects in Lawrence, KS, #1 of 2 architects in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 50% of architects in Lawrence, KS, #1 of 2 architects in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

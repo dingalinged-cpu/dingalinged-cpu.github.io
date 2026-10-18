@@ -6,7 +6,7 @@ Also answers: flooring companies in Saint Joseph, MO; flooring companies near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eckard's Home Improvement | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Eckard's Home Improvement is a flooring company in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/eckards-home-improvement-saint-joseph/
+1. Eckard's Home Improvement | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Eckard's Home Improvement is a flooring company in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/eckards-home-improvement-saint-joseph/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies saint joseph mo | category: Home services - Flooring | industry benchmark: Home & Home Improvement

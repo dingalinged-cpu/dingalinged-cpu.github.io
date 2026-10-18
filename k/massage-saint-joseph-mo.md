@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Essential Wellness Asian Massage | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Essential Wellness Asian Massage is a massage studio in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/essential-wellness-asian-massage-saint-joseph/
 2. Serenity Salon & Day Spa | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Serenity Salon & Day Spa is a massage studio in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/serenity-salon-and-day-spa-saint-joseph/
 3. Tranquility Massage & Body Spa | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Tranquility Massage & Body Spa is a massage studio in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/tranquility-massage-and-body-spa-saint-joseph/
-4. Relax Spa | Organic #4 | Pulse Score 43/100 (Unrated, #4 in city) | Relax Spa is a massage studio in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/relax-spa-saint-joseph/
+4. Relax Spa | Organic #4 | Pulse Score 42.9/100 (Unrated, #4 in city) | Relax Spa is a massage studio in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/relax-spa-saint-joseph/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage saint joseph mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

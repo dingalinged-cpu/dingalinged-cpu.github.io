@@ -13,7 +13,7 @@ National Tire and Battery is an auto repair shop in Pleasant Hills, PA. Website:
 - Website: https://www.ntb.com/store/pa/pittsburgh/851-clairton-blvd-15236/4383
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 87% of auto repair shops in Pittsburgh, PA, #5 of 9 auto repair shops in Pleasant Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 87% of auto repair shops in Pittsburgh, PA, #5 of 9 auto repair shops in Pleasant Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

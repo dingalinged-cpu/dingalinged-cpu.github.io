@@ -13,7 +13,7 @@ D. Deorio & Sons Memorials is a concrete contractor in Wheat Ridge, CO at 12550 
 - Website: https://www.deoriomemorials.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30; Sa 10:00-16:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 17% of concrete contractors in Denver, CO, #1 of 1 concrete contractors in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 17% of concrete contractors in Denver, CO, #1 of 1 concrete contractors in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

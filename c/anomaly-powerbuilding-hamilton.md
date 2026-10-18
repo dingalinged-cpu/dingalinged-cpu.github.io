@@ -13,7 +13,7 @@ Anomaly Powerbuilding is a gym in Hamilton, OH at 6749 Gilmore Road #B, Hamilton
 - Website: https://anomalypowerbuilding.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 8% of gyms in Cincinnati, OH, #1 of 3 gyms in Hamilton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 8% of gyms in Cincinnati, OH, #1 of 3 gyms in Hamilton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

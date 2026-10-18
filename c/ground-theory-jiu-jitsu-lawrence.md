@@ -13,7 +13,7 @@ Ground Theory Jiu Jitsu is a martial arts school in Lawrence, KS at 1204 East 24
 - Website: https://www.groundtheoryjiujitsu.com/
 - Email: info@groundtheoryjiujitsu.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 20% of martial arts schools in Lawrence, KS, #1 of 5 martial arts schools in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 20% of martial arts schools in Lawrence, KS, #1 of 5 martial arts schools in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

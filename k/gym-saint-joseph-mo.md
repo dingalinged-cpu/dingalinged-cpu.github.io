@@ -6,8 +6,8 @@ Also answers: gym in Saint Joseph, MO; gym near me (Saint Joseph, MO); best gym 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rec Center | Organic #1 | Pulse Score 45.8/100 (Unrated, #1 in city) | Rec Center is a gym in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/rec-center-saint-joseph/
-2. Anytime Fitness | Organic #2 | Pulse Score 44.5/100 (Building, #2 in city) | Anytime Fitness is a gym in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-saint-joseph/
+1. Rec Center | Organic #1 | Pulse Score 45.7/100 (Unrated, #1 in city) | Rec Center is a gym in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/rec-center-saint-joseph/
+2. Anytime Fitness | Organic #2 | Pulse Score 44.4/100 (Building, #2 in city) | Anytime Fitness is a gym in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-saint-joseph/
 3. Planet Fitness | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | Planet Fitness is a gym in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-saint-joseph/
 
 ## Market data (for advertisers and agents)

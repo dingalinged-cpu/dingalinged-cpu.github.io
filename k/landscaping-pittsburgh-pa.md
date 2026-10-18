@@ -7,7 +7,7 @@ Also answers: landscaping in Pittsburgh, PA; landscaping near me (Pittsburgh, PA
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Wichman Landscape Construction, LLC | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | Wichman Landscape Construction, LLC is a landscaping company in Pittsburgh, PA at 107 Buehner Drive, Pittsburgh, PA 15237. Phone: +14127608524. Website: https://wichmanlandscapes.com/. | https://registry-edge.dingalinged.workers.dev/c/wichman-landscape-construction-llc-pittsburgh/
-2. Greater Pitt Tree SErvice | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Greater Pitt Tree SErvice is a landscaping company in Pittsburgh, PA. Phone: +14128679631. | https://registry-edge.dingalinged.workers.dev/c/greater-pitt-tree-service-pittsburgh/
+2. Greater Pitt Tree SErvice | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Greater Pitt Tree SErvice is a landscaping company in Pittsburgh, PA. Phone: +14128679631. | https://registry-edge.dingalinged.workers.dev/c/greater-pitt-tree-service-pittsburgh/
 3. Auto's Professional Landscaping | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Auto's Professional Landscaping is a landscaping company in Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/autos-professional-landscaping-pittsburgh/
 
 ## Market data (for advertisers and agents)

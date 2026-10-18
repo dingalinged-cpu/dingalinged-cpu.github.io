@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Ace Auto Repair | Organic #1 | Pulse Score 58.4/100 (Unrated, #33 in city) | Ace Auto Repair is an auto repair shop in Aurora, CO at 10101 Montview Boulevard, Aurora, CO 80010. | https://registry-edge.dingalinged.workers.dev/c/ace-auto-repair-aurora/
 2. Walmart Automotive Center | Organic #2 | Pulse Score 55.1/100 (Unrated, #48 in city) | Walmart Automotive Center is an auto repair shop in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/walmart-automotive-center-aurora/
-3. Brakes Plus | Organic #3 | Pulse Score 49.2/100 (Building, #56 in city) | Brakes Plus is an auto repair shop in Aurora, CO at 24550 East Smoky Hill Road, Aurora, CO 80016. Phone: +13032097739. Website: https://www.brakesplus.com/. | https://registry-edge.dingalinged.workers.dev/c/brakes-plus-aurora-w668348615/
-4. Take 5 Oil Change | Organic #4 | Pulse Score 42.2/100 (Building, #87 in city) | Take 5 Oil Change is an auto repair shop in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-aurora/
+3. Brakes Plus | Organic #3 | Pulse Score 49.2/100 (Building, #55 in city) | Brakes Plus is an auto repair shop in Aurora, CO at 24550 East Smoky Hill Road, Aurora, CO 80016. Phone: +13032097739. Website: https://www.brakesplus.com/. | https://registry-edge.dingalinged.workers.dev/c/brakes-plus-aurora-w668348615/
+4. Take 5 Oil Change | Organic #4 | Pulse Score 42.2/100 (Building, #86 in city) | Take 5 Oil Change is an auto repair shop in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-aurora/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change aurora co | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

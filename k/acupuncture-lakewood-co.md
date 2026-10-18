@@ -6,7 +6,7 @@ Also answers: acupuncture in Lakewood, CO; acupuncture near me (Lakewood, CO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Root Acupuncture | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | The Root Acupuncture is an acupuncture clinic in Lakewood, CO at 13701 West Jewell Avenue #Suite #204, Lakewood, CO 80228. Phone: +13035005075. Website: https://therootacupuncture.com/. | https://registry-edge.dingalinged.workers.dev/c/the-root-acupuncture-lakewood/
+1. The Root Acupuncture | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | The Root Acupuncture is an acupuncture clinic in Lakewood, CO at 13701 West Jewell Avenue #Suite #204, Lakewood, CO 80228. Phone: +13035005075. Website: https://therootacupuncture.com/. | https://registry-edge.dingalinged.workers.dev/c/the-root-acupuncture-lakewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: acupuncture lakewood co | category: Health & medical | industry benchmark: Physicians & Surgeons

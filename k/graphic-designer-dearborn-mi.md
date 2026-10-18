@@ -6,8 +6,8 @@ Also answers: graphic designer in Dearborn, MI; graphic designer near me (Dearbo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Impressive Graphics | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Impressive Graphics is a graphic designer in Dearborn, MI at 22001 West Outer Drive, Dearborn, MI 48124. Phone: +13137301030. Website: https://www.impgraphics.net/index.html. | https://registry-edge.dingalinged.workers.dev/c/impressive-graphics-dearborn/
-2. Square 4 Media Studio | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Square 4 Media Studio is a graphic designer in Dearborn, MI. Phone: +13135821515. | https://registry-edge.dingalinged.workers.dev/c/square-4-media-studio-dearborn/
+1. Impressive Graphics | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Impressive Graphics is a graphic designer in Dearborn, MI at 22001 West Outer Drive, Dearborn, MI 48124. Phone: +13137301030. Website: https://www.impgraphics.net/index.html. | https://registry-edge.dingalinged.workers.dev/c/impressive-graphics-dearborn/
+2. Square 4 Media Studio | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Square 4 Media Studio is a graphic designer in Dearborn, MI. Phone: +13135821515. | https://registry-edge.dingalinged.workers.dev/c/square-4-media-studio-dearborn/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer dearborn mi | category: professional_marketing | industry benchmark: Business Services

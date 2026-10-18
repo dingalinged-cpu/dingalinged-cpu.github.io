@@ -13,7 +13,7 @@ Petco is a pet store in Garden City, KS at 1490 Larue Road, Garden City, KS 6784
 - Website: https://stores.petco.com/ks/gardencity/pet-supplies-gardencity-ks-2611.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 47.1/100 — Building — top 100% of pet stores in Garden City, KS, #1 of 1 pet stores in Garden City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 100% of pet stores in Garden City, KS, #1 of 1 pet stores in Garden City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

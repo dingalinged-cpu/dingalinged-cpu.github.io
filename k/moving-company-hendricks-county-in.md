@@ -6,7 +6,7 @@ Also answers: moving company in Hendricks County, IN; moving company near me (He
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. UNITS Moving and Portable Storage of Indianapolis | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | UNITS Moving and Portable Storage of Indianapolis is a moving company in Hendricks County, IN at 10290 Leases Corner Court, Hendricks County, IN 46113. Phone: +13177942269. Website: https://unitsstorage.com/indianapolis-in. | https://registry-edge.dingalinged.workers.dev/c/units-moving-and-portable-storage-of-indianapolis-hendricks-county/
+1. UNITS Moving and Portable Storage of Indianapolis | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | UNITS Moving and Portable Storage of Indianapolis is a moving company in Hendricks County, IN at 10290 Leases Corner Court, Hendricks County, IN 46113. Phone: +13177942269. Website: https://unitsstorage.com/indianapolis-in. | https://registry-edge.dingalinged.workers.dev/c/units-moving-and-portable-storage-of-indianapolis-hendricks-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company hendricks county in | category: Home services - Moving | industry benchmark: Home & Home Improvement

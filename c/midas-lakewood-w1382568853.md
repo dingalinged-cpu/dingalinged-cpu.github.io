@@ -13,7 +13,7 @@ Midas is an auto repair shop in Lakewood, CO at 5770 West Alameda Avenue, Lakewo
 - Website: https://www.midas.com/store/co/lakewood/5770-west-alameda-80226?shopnum=5648
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:30-18:00
-- Pulse Score: 48.8/100 — Building — top 73% of auto repair shops in Denver, CO, #35 of 47 auto repair shops in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 73% of auto repair shops in Denver, CO, #35 of 47 auto repair shops in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

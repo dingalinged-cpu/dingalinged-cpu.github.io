@@ -13,7 +13,7 @@ Eyecare of Union Square is an eye care practice in Lakewood, CO at 255 Union Bou
 - Website: https://www.eyecareofunionsquare.com/index.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 38% of eye care practices in Denver, CO, #2 of 2 eye care practices in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 38% of eye care practices in Denver, CO, #2 of 2 eye care practices in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

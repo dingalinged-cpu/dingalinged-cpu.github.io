@@ -13,7 +13,7 @@ USA Nails is a nail salon in Indianapolis, IN at 8660 Purdue Road #500, Indianap
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:30-19:30
-- Pulse Score: 49.7/100 — Unrated (not enough evidence yet) — top 84% of nail salons in Indianapolis, IN, #20 of 21 nail salons in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Unrated (not enough evidence yet) — top 81% of nail salons in Indianapolis, IN, #20 of 21 nail salons in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

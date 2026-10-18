@@ -13,7 +13,7 @@ Mountain Ridge Animal Hospital is a veterinarian in Lafayette, CO at 287 US 287,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-16:00
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 40% of veterinarians in Denver, CO, #2 of 5 veterinarians in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 39% of veterinarians in Denver, CO, #2 of 5 veterinarians in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

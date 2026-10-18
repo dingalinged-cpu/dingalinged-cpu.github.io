@@ -6,7 +6,7 @@ Also answers: funeral home in Maplewood, MO; funeral home near me (Maplewood, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JB Smith Funeral Home | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | JB Smith Funeral Home is a funeral home in Maplewood, MO at Manchester Road, Maplewood, MO. | https://registry-edge.dingalinged.workers.dev/c/jb-smith-funeral-home-maplewood/
+1. JB Smith Funeral Home | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | JB Smith Funeral Home is a funeral home in Maplewood, MO at Manchester Road, Maplewood, MO. | https://registry-edge.dingalinged.workers.dev/c/jb-smith-funeral-home-maplewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home maplewood mo | category: Professional & financial services | industry benchmark: Finance & Insurance

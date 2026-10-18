@@ -13,7 +13,7 @@ Cypher & Cypher is an accountant in Canonsburg, PA at 179 East Pike Street, Cano
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00; Sa 08:00-16:00; Su off
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 17% of accountants in Pittsburgh, PA, #1 of 1 accountants in Canonsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 17% of accountants in Pittsburgh, PA, #1 of 1 accountants in Canonsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

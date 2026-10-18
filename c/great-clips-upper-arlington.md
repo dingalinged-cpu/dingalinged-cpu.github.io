@@ -13,7 +13,7 @@ Great Clips is a hair salon in Upper Arlington, OH.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 10:00-17:00
-- Pulse Score: 46.4/100 — Unrated (not enough evidence yet) — top 78% of hair salons in Columbus, OH, #8 of 10 hair salons in Upper Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Unrated (not enough evidence yet) — top 77% of hair salons in Columbus, OH, #7 of 10 hair salons in Upper Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

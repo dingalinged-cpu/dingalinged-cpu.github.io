@@ -7,8 +7,8 @@ Also answers: eye doctor in Florence, KY; eye doctor near me (Florence, KY); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Arnett Vision Care | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Arnett Vision Care is an eye care practice in Florence, KY at 7921 Mall Road #Suite B, Florence, KY 41042. Phone: +18595250234. Website: https://www.arnettvisioncare.com/contact.html. | https://registry-edge.dingalinged.workers.dev/c/arnett-vision-care-florence/
-2. My Eye Dr. | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | My Eye Dr. is an eye care practice in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/my-eye-dr-florence/
-3. Opticare Vision | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Opticare Vision is an eye care practice in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/opticare-vision-florence/
+2. Opticare Vision | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Opticare Vision is an eye care practice in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/opticare-vision-florence/
+3. My Eye Dr. | Organic #3 | Pulse Score 41.3/100 (Unrated, #3 in city) | My Eye Dr. is an eye care practice in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/my-eye-dr-florence/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor florence ky | category: Health & medical | industry benchmark: Physicians & Surgeons

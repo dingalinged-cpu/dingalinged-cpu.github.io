@@ -13,7 +13,7 @@ Moving Proz is a moving company in Denver, CO at 1800 Wazee Street #343, Denver,
 - Website: https://movingproz.com/denver/
 - Email: quotes@movingproz.com
 - Opening hours (OSM syntax): Mo-Su 08:00-18:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 25% of moving companys in Denver, CO, #3 of 6 moving companys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 25% of moving companys in Denver, CO, #3 of 6 moving companys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

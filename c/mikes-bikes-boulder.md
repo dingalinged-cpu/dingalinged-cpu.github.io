@@ -13,7 +13,7 @@ Mike's Bikes is a bike shop in Boulder, CO at 2355 30th Street, Boulder, CO. Pho
 - Website: https://www.fullcyclebikes.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 10:00-17:00
-- Pulse Score: 63.2/100 — Good — top 4% of bike shops in Denver, CO, #2 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 4% of bike shops in Denver, CO, #2 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

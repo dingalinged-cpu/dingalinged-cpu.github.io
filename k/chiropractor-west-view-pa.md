@@ -6,7 +6,7 @@ Also answers: chiropractor in West View, PA; chiropractor near me (West View, PA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pine Valley Chiropractic | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Pine Valley Chiropractic is a chiropractor in West View, PA at 558 Perry Highway, West View, PA. Phone: +14127618500. | https://registry-edge.dingalinged.workers.dev/c/pine-valley-chiropractic-west-view-w343657389/
+1. Pine Valley Chiropractic | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Pine Valley Chiropractic is a chiropractor in West View, PA at 558 Perry Highway, West View, PA. Phone: +14127618500. | https://registry-edge.dingalinged.workers.dev/c/pine-valley-chiropractic-west-view-w343657389/
 2. Pine Valley Chiropractic | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Pine Valley Chiropractic is a chiropractor in West View, PA at 1326 Center Avenue, West View, PA. | https://registry-edge.dingalinged.workers.dev/c/pine-valley-chiropractic-west-view/
 3. Tru Form Chiropractic | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Tru Form Chiropractic is a chiropractor in West View, PA at 462 Perry Highway, West View, PA. | https://registry-edge.dingalinged.workers.dev/c/tru-form-chiropractic-west-view/
 

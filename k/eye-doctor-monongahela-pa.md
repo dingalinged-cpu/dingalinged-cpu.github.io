@@ -6,7 +6,7 @@ Also answers: eye doctor in Monongahela, PA; eye doctor near me (Monongahela, PA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Community Eye Care Associates | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Community Eye Care Associates is an eye care practice in Monongahela, PA. Phone: +17242587695. | https://registry-edge.dingalinged.workers.dev/c/community-eye-care-associates-monongahela/
+1. Community Eye Care Associates | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Community Eye Care Associates is an eye care practice in Monongahela, PA. Phone: +17242587695. | https://registry-edge.dingalinged.workers.dev/c/community-eye-care-associates-monongahela/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor monongahela pa | category: Health & medical | industry benchmark: Physicians & Surgeons

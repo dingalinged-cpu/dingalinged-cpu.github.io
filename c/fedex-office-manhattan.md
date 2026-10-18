@@ -13,7 +13,7 @@ FedEx Office is a printing service in Manhattan, KS at 1329 Anderson Avenue, Man
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-23:00;Sa 08:00-21:00; Su 09:00-21:00
-- Pulse Score: 47.3/100 — Building — top 60% of printing services in Manhattan, KS, #3 of 5 printing services in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 60% of printing services in Manhattan, KS, #3 of 5 printing services in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

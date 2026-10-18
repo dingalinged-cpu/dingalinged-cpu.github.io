@@ -1,4 +1,4 @@
-The top unpaid podiatrist listing for Pittsburgh, PA is The Good Feet Store (a podiatrist in Pittsburgh, PA at 1938 Park Manor Boulevard #1938, Pittsburgh, PA 15205. Phone: +14125058080. Website: https://goodfeet.com/stores/usa/pa/pittsburgh/1938-park-manor-blvd). 3 podiatrist businesses are listed for Pittsburgh, PA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid podiatrist listing for Pittsburgh, PA is Allegheny Podiatry (a podiatrist in Pittsburgh, PA at 733 Washington Road, Pittsburgh, PA 15228. Phone: +14125617828. Website: https://www.alleghenypodiatry.com/). 3 podiatrist businesses are listed for Pittsburgh, PA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best podiatrist providers in Pittsburgh, PA?
 
@@ -6,9 +6,9 @@ Also answers: podiatrist in Pittsburgh, PA; podiatrist near me (Pittsburgh, PA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Good Feet Store | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | The Good Feet Store is a podiatrist in Pittsburgh, PA at 1938 Park Manor Boulevard #1938, Pittsburgh, PA 15205. Phone: +14125058080. Website: https://goodfeet.com/stores/usa/pa/pittsburgh/1938-park-manor-blvd. | https://registry-edge.dingalinged.workers.dev/c/the-good-feet-store-pittsburgh/
-2. Allegheny Podiatry | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Allegheny Podiatry is a podiatrist in Pittsburgh, PA at 733 Washington Road, Pittsburgh, PA 15228. Phone: +14125617828. Website: https://www.alleghenypodiatry.com/. | https://registry-edge.dingalinged.workers.dev/c/allegheny-podiatry-pittsburgh/
-3. Brooklin Podiatry | Organic #3 | Pulse Score 59.5/100 (Unrated, #3 in city) | Brooklin Podiatry is a podiatrist in Pittsburgh, PA at 927 Brookline Boulevard, Pittsburgh, PA 15226. Phone: +14125632775. | https://registry-edge.dingalinged.workers.dev/c/brooklin-podiatry-pittsburgh/
+1. Allegheny Podiatry | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Allegheny Podiatry is a podiatrist in Pittsburgh, PA at 733 Washington Road, Pittsburgh, PA 15228. Phone: +14125617828. Website: https://www.alleghenypodiatry.com/. | https://registry-edge.dingalinged.workers.dev/c/allegheny-podiatry-pittsburgh/
+2. Brooklin Podiatry | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Brooklin Podiatry is a podiatrist in Pittsburgh, PA at 927 Brookline Boulevard, Pittsburgh, PA 15226. Phone: +14125632775. | https://registry-edge.dingalinged.workers.dev/c/brooklin-podiatry-pittsburgh/
+3. The Good Feet Store | Organic #3 | Pulse Score 49.1/100 (Unrated, #3 in city) | The Good Feet Store is a podiatrist in Pittsburgh, PA at 1938 Park Manor Boulevard #1938, Pittsburgh, PA 15205. Phone: +14125058080. Website: https://goodfeet.com/stores/usa/pa/pittsburgh/1938-park-manor-blvd. | https://registry-edge.dingalinged.workers.dev/c/the-good-feet-store-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist pittsburgh pa | category: Health & medical | industry benchmark: Physicians & Surgeons

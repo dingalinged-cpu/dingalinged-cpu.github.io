@@ -6,7 +6,7 @@ Also answers: tanning salon in Centennial, CO; tanning salon near me (Centennial
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spray Tan Beauty Botique | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Spray Tan Beauty Botique is a tanning salon in Centennial, CO at 6866 South Yosemite Street, Centennial, CO. Website: https://www.spraytanningboutique.com/. | https://registry-edge.dingalinged.workers.dev/c/spray-tan-beauty-botique-centennial/
+1. Spray Tan Beauty Botique | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Spray Tan Beauty Botique is a tanning salon in Centennial, CO at 6866 South Yosemite Street, Centennial, CO. Website: https://www.spraytanningboutique.com/. | https://registry-edge.dingalinged.workers.dev/c/spray-tan-beauty-botique-centennial/
 2. Palm Beach Tan | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | Palm Beach Tan is a tanning salon in Centennial, CO at 20209 East Smoky Hill Road #A-1, Centennial, CO 80015. Website: https://palmbeachtan.com/locations/CO/Centennial. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-centennial/
 
 ## Market data (for advertisers and agents)

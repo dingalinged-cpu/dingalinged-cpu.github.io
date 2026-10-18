@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Belle Tire | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | Belle Tire is a tire shop in Noblesville, IN. Phone: +13175651201. Website: https://www.belletire.com/stores/detail/148/belle-tire-noblesville-in. | https://registry-edge.dingalinged.workers.dev/c/belle-tire-noblesville/
 2. Tire Discounters | Organic #2 | Pulse Score 48.7/100 (Building, #2 in city) | Tire Discounters is a tire shop in Noblesville, IN at 14325 Mundy Drive, Noblesville, IN 46060. Phone: +13172148455. Website: https://locations.tirediscounters.com/in/noblesville-14325-mundy-drive. | https://registry-edge.dingalinged.workers.dev/c/tire-discounters-noblesville/
-3. Discount Tire | Organic #3 | Pulse Score 45.5/100 (Building, #3 in city) | Discount Tire is a tire shop in Noblesville, IN at 16704 Clover Road, Noblesville, IN 46060. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-noblesville/
+3. Discount Tire | Organic #3 | Pulse Score 45.4/100 (Building, #3 in city) | Discount Tire is a tire shop in Noblesville, IN at 16704 Clover Road, Noblesville, IN 46060. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-noblesville/
 4. Tires Plus | Organic #4 | Pulse Score 45.1/100 (Building, #4 in city) | Tires Plus is a tire shop in Noblesville, IN at 16605 Mercantile Boulevard, Noblesville, IN 46060. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-noblesville/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Great Harvest Bread Company is a bakery in Greenwood Village, CO at 5910 South U
 - Website: https://www.greatharvest.com/local-bakery-information?tag=greenwood-village
 - Email: spschroeder@greatharvest.com
 - Opening hours (OSM syntax): Mo-Sa 06:00-19:00; Su 07:00-17:00
-- Pulse Score: 49.4/100 — Building — top 90% of bakerys in Denver, CO, #6 of 6 bakerys in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 89% of bakerys in Denver, CO, #6 of 6 bakerys in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

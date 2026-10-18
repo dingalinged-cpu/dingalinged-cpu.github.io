@@ -13,7 +13,7 @@ Art Monster is a tattoo shop in Saint Louis, MO at 2627 Cherokee Street, Saint L
 - Website: https://artmonster.com/
 - Email: n/a
 - Opening hours (OSM syntax): closed || "by appointment only"
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 23% of tattoo shops in St. Louis, MO, #3 of 9 tattoo shops in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 23% of tattoo shops in St. Louis, MO, #3 of 9 tattoo shops in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

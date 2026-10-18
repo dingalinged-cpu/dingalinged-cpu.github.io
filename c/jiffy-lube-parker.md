@@ -13,7 +13,7 @@ Jiffy Lube is an auto repair shop in Parker, CO at 9991 Twenty Mile Road, Parker
 - Website: https://www.jiffylube.com/locations/co/parker/3234
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su 09:00-16:00
-- Pulse Score: 49.2/100 — Building — top 67% of auto repair shops in Denver, CO, #25 of 42 auto repair shops in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 66% of auto repair shops in Denver, CO, #25 of 42 auto repair shops in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

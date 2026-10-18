@@ -13,7 +13,7 @@ Cornerstone Retirement Advisors, Inc. is a financial advisor in Fort Wright, KY 
 - Website: https://raymondjames.com/cornerstone/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 66% of financial advisors in Cincinnati, OH, #1 of 1 financial advisors in Fort Wright (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 66% of financial advisors in Cincinnati, OH, #1 of 1 financial advisors in Fort Wright (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

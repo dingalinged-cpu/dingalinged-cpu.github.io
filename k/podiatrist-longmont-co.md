@@ -6,7 +6,7 @@ Also answers: podiatrist in Longmont, CO; podiatrist near me (Longmont, CO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Colorado Center for Podiatric Sports Medicine | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Colorado Center for Podiatric Sports Medicine is a podiatrist in Longmont, CO at 1551 Professional Lane #105, Longmont, CO 80501. Phone: +17206003380. Website: https://dryakel.com/. | https://registry-edge.dingalinged.workers.dev/c/colorado-center-for-podiatric-sports-medicine-longmont/
+1. Colorado Center for Podiatric Sports Medicine | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Colorado Center for Podiatric Sports Medicine is a podiatrist in Longmont, CO at 1551 Professional Lane #105, Longmont, CO 80501. Phone: +17206003380. Website: https://dryakel.com/. | https://registry-edge.dingalinged.workers.dev/c/colorado-center-for-podiatric-sports-medicine-longmont/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist longmont co | category: Health & medical | industry benchmark: Physicians & Surgeons

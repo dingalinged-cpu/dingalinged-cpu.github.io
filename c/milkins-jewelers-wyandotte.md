@@ -13,7 +13,7 @@ Milkins Jewelers is a jewelry store in Wyandotte, MI at 3160 Biddle Avenue, Wyan
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 10:00-16:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 10% of jewelry stores in Detroit, MI, #1 of 1 jewelry stores in Wyandotte (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 10% of jewelry stores in Detroit, MI, #1 of 1 jewelry stores in Wyandotte (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

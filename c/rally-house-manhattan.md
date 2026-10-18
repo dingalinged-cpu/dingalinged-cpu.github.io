@@ -13,7 +13,7 @@ Rally House is a gift shop in Manhattan, KS at 623 North Manhattan Avenue, Manha
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-22:00; Sa 07:00-22:00; Su 08:00-18:00
-- Pulse Score: 49.8/100 — Building — top 86% of gift shops in Manhattan, KS, #6 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 86% of gift shops in Manhattan, KS, #6 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

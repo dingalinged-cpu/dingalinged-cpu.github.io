@@ -13,7 +13,7 @@ Wild Birds Unlimited is a pet store in Lawrence, KS at 2540 Iowa Street #G, Lawr
 - Website: https://lawrence.wbu.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Pulse Score: 45.6/100 — Building — top 100% of pet stores in Lawrence, KS, #9 of 9 pet stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 100% of pet stores in Lawrence, KS, #9 of 9 pet stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

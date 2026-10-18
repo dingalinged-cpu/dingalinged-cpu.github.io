@@ -6,9 +6,9 @@ Also answers: used cars for sale in Union Township, OH; used cars for sale near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oaks Automotive | Organic #1 | Pulse Score 59.8/100 (Unrated, #5 in city) | Oaks Automotive is an used car dealer in Cincinnati, OH at 1065 Ohio Pike, Cincinnati, OH 45245. Website: https://www.oaksauto513.com/. | https://registry-edge.dingalinged.workers.dev/c/oaks-automotive-cincinnati/
-2. RAM Motors | Organic #2 | Pulse Score 59.8/100 (Unrated, #6 in city) | RAM Motors is an used car dealer in Cincinnati, OH at 1071 Ohio Pike, Cincinnati, OH 45245. Website: https://www.rammotorexpress.com/. | https://registry-edge.dingalinged.workers.dev/c/ram-motors-cincinnati/
-3. Weinle Auto Sales | Organic #3 | Pulse Score 59.8/100 (Unrated, #7 in city) | Weinle Auto Sales is an used car dealer in Cincinnati, OH at 1096 West Ohio Pike, Cincinnati, OH 45245. Website: https://www.weinleeast.com/. | https://registry-edge.dingalinged.workers.dev/c/weinle-auto-sales-cincinnati/
+1. Oaks Automotive | Organic #1 | Pulse Score 59.7/100 (Unrated, #5 in city) | Oaks Automotive is an used car dealer in Cincinnati, OH at 1065 Ohio Pike, Cincinnati, OH 45245. Website: https://www.oaksauto513.com/. | https://registry-edge.dingalinged.workers.dev/c/oaks-automotive-cincinnati/
+2. RAM Motors | Organic #2 | Pulse Score 59.7/100 (Unrated, #6 in city) | RAM Motors is an used car dealer in Cincinnati, OH at 1071 Ohio Pike, Cincinnati, OH 45245. Website: https://www.rammotorexpress.com/. | https://registry-edge.dingalinged.workers.dev/c/ram-motors-cincinnati/
+3. Weinle Auto Sales | Organic #3 | Pulse Score 59.7/100 (Unrated, #7 in city) | Weinle Auto Sales is an used car dealer in Cincinnati, OH at 1096 West Ohio Pike, Cincinnati, OH 45245. Website: https://www.weinleeast.com/. | https://registry-edge.dingalinged.workers.dev/c/weinle-auto-sales-cincinnati/
 4. Jeff Wyler Used Car Megastore | Organic #4 | Pulse Score 55.5/100 (Unrated, #1 in city) | Jeff Wyler Used Car Megastore is an used car dealer in Union Township, OH. | https://registry-edge.dingalinged.workers.dev/c/jeff-wyler-used-car-megastore-union-township/
 
 ## Market data (for advertisers and agents)

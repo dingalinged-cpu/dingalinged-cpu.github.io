@@ -13,7 +13,7 @@ RAM Motors is an used car dealer in Cincinnati, OH at 1071 Ohio Pike, Cincinnati
 - Website: https://www.rammotorexpress.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 25% of used car dealers in Cincinnati, OH, #6 of 10 used car dealers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 25% of used car dealers in Cincinnati, OH, #6 of 10 used car dealers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

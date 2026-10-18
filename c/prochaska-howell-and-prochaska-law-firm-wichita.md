@@ -13,7 +13,7 @@ Prochaska, Howell & Prochaska Law Firm is a lawyer in Wichita, KS at 8415 East 2
 - Website: https://phpattorneys.com/
 - Email: pghlawllc@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 7% of lawyers in Wichita, KS, #1 of 11 lawyers in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 7% of lawyers in Wichita, KS, #1 of 11 lawyers in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Raymond James is a financial advisor in Harrison Township, MI. Phone: +158691319
 - Website: https://www.raymondjames.com/shanebrown
 - Email: Shane.Brown@RaymondJames.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.3/100 — Building — top 73% of financial advisors in Detroit, MI, #1 of 1 financial advisors in Harrison Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 71% of financial advisors in Detroit, MI, #1 of 1 financial advisors in Harrison Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

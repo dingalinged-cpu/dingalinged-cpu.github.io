@@ -13,7 +13,7 @@ Quality Cars of Topeka is an used car dealer in Topeka, KS at 2025 Southwest Fai
 - Website: https://qualitycarsoftopeka.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 09:00-14:30
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 34% of used car dealers in Topeka, KS, #1 of 3 used car dealers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 34% of used car dealers in Topeka, KS, #1 of 3 used car dealers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

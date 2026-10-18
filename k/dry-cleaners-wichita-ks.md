@@ -6,7 +6,7 @@ Also answers: dry cleaners in Wichita, KS; dry cleaners near me (Wichita, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Welch Cleaners | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Welch Cleaners is a dry cleaner in Wichita, KS at 858 South Hillside Street, Wichita, KS 67211. Phone: +13166824543. | https://registry-edge.dingalinged.workers.dev/c/welch-cleaners-wichita/
+1. Welch Cleaners | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Welch Cleaners is a dry cleaner in Wichita, KS at 858 South Hillside Street, Wichita, KS 67211. Phone: +13166824543. | https://registry-edge.dingalinged.workers.dev/c/welch-cleaners-wichita/
 2. In The Bag Cleaners | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | In The Bag Cleaners is a dry cleaner in Wichita, KS. Website: https://www.inthebagcleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/in-the-bag-cleaners-wichita/
 3. Four Seasons Dry Cleaners | Organic #3 | Pulse Score 59.8/100 (Fair, #3 in city) | Four Seasons Dry Cleaners is a dry cleaner in Wichita, KS. | https://registry-edge.dingalinged.workers.dev/c/four-seasons-dry-cleaners-wichita/
 4. Alterations by Sarah | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Alterations by Sarah is a dry cleaner in Wichita, KS. | https://registry-edge.dingalinged.workers.dev/c/alterations-by-sarah-wichita/

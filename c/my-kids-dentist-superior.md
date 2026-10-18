@@ -13,7 +13,7 @@ My Kid's Dentist is a dentist in Superior, CO at 306 Marshall Road, Superior, CO
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 99% of dentists in Denver, CO, #2 of 2 dentists in Superior (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 41.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 99% of dentists in Denver, CO, #2 of 2 dentists in Superior (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

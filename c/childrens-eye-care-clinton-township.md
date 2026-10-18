@@ -13,7 +13,7 @@ Children's Eye Care is an eye care practice in Clinton Township, MI at 42700 Gar
 - Website: https://www.childrenseyecaremich.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:30-16:00; Fr 07:30-15:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 19% of eye care practices in Detroit, MI, #1 of 1 eye care practices in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 19% of eye care practices in Detroit, MI, #1 of 1 eye care practices in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

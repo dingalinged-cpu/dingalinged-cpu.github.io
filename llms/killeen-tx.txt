@@ -1,0 +1,3170 @@
+# Company Registry: company records, metro killeen-tx
+
+> 117 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+7 Sewing / Cleaners is a dry cleaner in Killeen, TX.
+
+# 7 Sewing / Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1262208, -97.7280108
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 43% of dry cleaners in Killeen, TX, #3 of 6 dry cleaners in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/7-sewing-cleaners-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/7-sewing-cleaners-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3215276954 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+A-1 Barber is a hair salon in Killeen, TX at 512 North Fort Hood Street, Killeen, TX 76541.
+
+# A-1 Barber
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 512 North Fort Hood Street, Killeen, TX 76541
+- City: Killeen
+- State: TX
+- ZIP: 76541
+- Coordinates: 31.1265832, -97.7404158
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 36% of hair salons in Killeen, TX, #4 of 10 hair salons in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-1-barber-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-1-barber-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/315411909 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+A-1 Sewing & Cleaners is a dry cleaner in Killeen, TX.
+
+# A-1 Sewing & Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.128828, -97.7373671
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 58% of dry cleaners in Killeen, TX, #4 of 6 dry cleaners in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-1-sewing-and-cleaners-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-1-sewing-and-cleaners-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3215275538 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+A-A-A Storage is a self-storage facility in Harker Heights, TX.
+
+# A-A-A Storage
+
+- Category: storage units
+- Services: storage units
+- Address: Harker Heights, TX
+- City: Harker Heights
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.075116, -97.653193
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 50% of self-storage facilitys in Killeen, TX, #1 of 1 self-storage facilitys in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-a-a-storage-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-a-a-storage-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3588551006 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Abrams Physical Fitness Center is a gym in Coryell County, TX at 23001 South 62nd Street, Coryell County, TX.
+
+# Abrams Physical Fitness Center
+
+- Category: gym
+- Services: gym
+- Address: 23001 South 62nd Street, Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1382173, -97.777205
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 23% of gyms in Killeen, TX, #1 of 2 gyms in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/abrams-physical-fitness-center-coryell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/abrams-physical-fitness-center-coryell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1013623937 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Absolute Bella Nails and Spa is a nail salon in Killeen, TX at 2100 East Stan Schlueter Loop #A, Killeen, TX 76542. Phone: +12545543825. Website: https://absolutebellanailsandspa.com/.
+
+# Absolute Bella Nails and Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: 2100 East Stan Schlueter Loop #A, Killeen, TX 76542
+- City: Killeen
+- State: TX
+- ZIP: 76542
+- Coordinates: 31.0696003, -97.7296359
+- Phone: +12545543825
+- Website: https://absolutebellanailsandspa.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo 10:00-19:00; Tu-Sa 09:30-19:00; Su 10:00-18:00
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 34% of nail salons in Killeen, TX, #1 of 3 nail salons in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/absolute-bella-nails-and-spa-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/absolute-bella-nails-and-spa-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4529719723 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+acceptance is an insurance agent in Killeen, TX.
+
+# acceptance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.111254, -97.7453334
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of insurance agents in Killeen, TX, #1 of 1 insurance agents in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/acceptance-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/acceptance-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3216886312 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Harker Heights, TX at 400 East Central Texas Expressway #Suite A, Harker Heights, TX 76548. Phone: +17372043770. Website: https://www.actionbehavior.com/location/texas/harker-heights.
+
+# Action Behavior Centers - ABA Therapy for Autism
+
+- Category: therapist
+- Services: therapist
+- Address: 400 East Central Texas Expressway #Suite A, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.0714374, -97.6605186
+- Phone: +17372043770
+- Website: https://www.actionbehavior.com/location/texas/harker-heights
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Pulse Score: 49.6/100 — Building — top 100% of therapy practices in Killeen, TX, #1 of 1 therapy practices in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.9, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-aba-therapy-for-autism-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/action-behavior-centers-aba-therapy-for-autism-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13279978091 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Affordable Burial & Cremation Service is a funeral home in Killeen, TX at 2006 North W S Young Drive #60, Killeen, TX 76543. Phone: +12542000400. Website: https://www.centraltexascremation.com/.
+
+# Affordable Burial & Cremation Service
+
+- Category: funeral home
+- Services: funeral home
+- Address: 2006 North W S Young Drive #60, Killeen, TX 76543
+- City: Killeen
+- State: TX
+- ZIP: 76543
+- Coordinates: 31.130181, -97.705505
+- Phone: +12542000400
+- Website: https://www.centraltexascremation.com/
+- Email: office@centraltexascremation.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Killeen, TX, #1 of 1 funeral homes in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/affordable-burial-and-cremation-service-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/affordable-burial-and-cremation-service-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5152286860 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+After Hours Veterinary Services is a veterinarian in Killeen, TX.
+
+# After Hours Veterinary Services
+
+- Category: vet
+- Services: vet
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0892733, -97.7207625
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 72% of veterinarians in Killeen, TX, #4 of 5 veterinarians in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 40.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/after-hours-veterinary-services-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/after-hours-veterinary-services-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6819044280 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+AGC Auto Glass & Car Care is an auto repair shop in Coryell County, TX.
+
+# AGC Auto Glass & Car Care
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1263749, -97.8001615
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 46% of auto repair shops in Killeen, TX, #1 of 1 auto repair shops in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/agc-auto-glass-and-car-care-coryell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/agc-auto-glass-and-car-care-coryell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1022446519 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+All Dental & Braces is a dentist in Killeen, TX at 2520 Trimmier Rd #105, Killeen, TX 76542. Phone: +12542472020. Website: https://alldentaltx.com/.
+
+# All Dental & Braces
+
+- Category: dentist
+- Services: dentist
+- Address: 2520 Trimmier Rd #105, Killeen, TX 76542
+- City: Killeen
+- State: TX
+- ZIP: 76542
+- Coordinates: 31.0927925, -97.7323532
+- Phone: +12542472020
+- Website: https://alldentaltx.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa 09:00-14:00
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 17% of dentists in Killeen, TX, #1 of 3 dentists in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/all-dental-and-braces-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/all-dental-and-braces-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12697749627 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Applied Functional Fitness Center is a gym in Bell County, TX at 12018 Old Ironsides Avenue, Bell County, TX.
+
+# Applied Functional Fitness Center
+
+- Category: gym
+- Services: gym
+- Address: 12018 Old Ironsides Avenue, Bell County, TX
+- City: Bell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1405177, -97.7538667
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 34% of gyms in Killeen, TX, #1 of 2 gyms in Bell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/applied-functional-fitness-center-bell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/applied-functional-fitness-center-bell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1013394224 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aspen Dental Killeen is a dentist in Killeen, TX at 2202 S W S Young Drive, Killeen, TX. Phone: +12546900092. Website: https://aspendental.com/.
+
+# Aspen Dental Killeen
+
+- Category: dentist
+- Services: dentist
+- Address: 2202 S W S Young Drive, Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0923977, -97.7198944
+- Phone: +12546900092
+- Website: https://aspendental.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 67% of dentists in Killeen, TX, #3 of 3 dentists in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aspen-dental-killeen-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aspen-dental-killeen-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12031501170 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aztec Pet Hospital is a veterinarian in Harker Heights, TX at 104 Farm-to-Market Road 2410, Harker Heights, TX 76548.
+
+# Aztec Pet Hospital
+
+- Category: vet
+- Services: vet
+- Address: 104 Farm-to-Market Road 2410, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.0734547, -97.6751518
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 29% of veterinarians in Killeen, TX, #1 of 1 veterinarians in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aztec-pet-hospital-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aztec-pet-hospital-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/718501840 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Banfield Pet Hospital is a veterinarian in Killeen, TX at 2500 Central Texas Expressway Frontage Road #Suite D, Killeen, TX 76543. Phone: +12545264118. Website: https://www.banfield.com/veterinarians/tx/killeen/kil?cid=yext_local.
+
+# Banfield Pet Hospital
+
+- Category: vet
+- Services: vet
+- Address: 2500 Central Texas Expressway Frontage Road #Suite D, Killeen, TX 76543
+- City: Killeen
+- State: TX
+- ZIP: 76543
+- Coordinates: 31.0878544, -97.7193756
+- Phone: +12545264118
+- Website: https://www.banfield.com/veterinarians/tx/killeen/kil?cid=yext_local
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su 10:00-17:00
+- Pulse Score: 48.9/100 — Building — top 100% of veterinarians in Killeen, TX, #5 of 5 veterinarians in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/banfield-pet-hospital-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5880818948 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Barber King is a hair salon in Killeen, TX at 2006 North WS Young Drive, Killeen, TX 76543. Phone: +12542904448. Website: https://barberkingdigital.net/.
+
+# Barber King
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 2006 North WS Young Drive, Killeen, TX 76543
+- City: Killeen
+- State: TX
+- ZIP: 76543
+- Coordinates: 31.1307798, -97.7058654
+- Phone: +12542904448
+- Website: https://barberkingdigital.net/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-19:00, Su 11:00-17:00
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 15% of hair salons in Killeen, TX, #2 of 10 hair salons in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/barber-king-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/barber-king-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3183958875 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Barber Shop (AAFES) is a hair salon in Coryell County, TX.
+
+# Barber Shop (AAFES)
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1294409, -97.8020647
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 65% of hair salons in Killeen, TX, #1 of 1 hair salons in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/barber-shop-aafes-coryell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/barber-shop-aafes-coryell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9386997847 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Best Barber Shop is a hair salon in Killeen, TX at 1001 Willow Springs Road #4, Killeen, TX 76549.
+
+# Best Barber Shop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1001 Willow Springs Road #4, Killeen, TX 76549
+- City: Killeen
+- State: TX
+- ZIP: 76549
+- Coordinates: 31.1132192, -97.7636603
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 43% of hair salons in Killeen, TX, #5 of 10 hair salons in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/best-barber-shop-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/best-barber-shop-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7917778246 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Big Oaks Estates Leasing Office is a property management company in Harker Heights, TX at 521 East Veterans Memorial Boulevard, Harker Heights, TX 76548. Phone: +12546996100. Website: https://www.westernm.com/residential/big-oaks-estates.
+
+# Big Oaks Estates Leasing Office
+
+- Category: property management company
+- Services: property management company, property management companies
+- Address: 521 East Veterans Memorial Boulevard, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.0882879, -97.6541931
+- Phone: +12546996100
+- Website: https://www.westernm.com/residential/big-oaks-estates
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Pulse Score: 61.8/100 — Good — top 50% of property management companys in Killeen, TX, #1 of 1 property management companys in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/big-oaks-estates-leasing-office-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/big-oaks-estates-leasing-office-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1347733829 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Big Red Barn Self-Storage II is a self-storage facility in Killeen, TX.
+
+# Big Red Barn Self-Storage II
+
+- Category: storage units
+- Services: storage units
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1105611, -97.7860119
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 25% of self-storage facilitys in Killeen, TX, #1 of 3 self-storage facilitys in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/big-red-barn-self-storage-ii-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/big-red-barn-self-storage-ii-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1321693757 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Big Zack's Tire Shack is a tire shop in Killeen, TX at 1001 E Rancier Ave, Killeen, TX 76541. Phone: +12546342746. Website: https://www.bigzackstireshack.com/.
+
+# Big Zack's Tire Shack
+
+- Category: tire shop
+- Services: tire shop
+- Address: 1001 E Rancier Ave, Killeen, TX 76541
+- City: Killeen
+- State: TX
+- ZIP: 76541
+- Coordinates: 31.1244713, -97.7193339
+- Phone: +12546342746
+- Website: https://www.bigzackstireshack.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 34% of tire shops in Killeen, TX, #1 of 2 tire shops in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/big-zacks-tire-shack-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/big-zacks-tire-shack-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5845679538 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bonnie & Clyde Grooming is a dog groomer in Harker Heights, TX.
+
+# Bonnie & Clyde Grooming
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: Harker Heights, TX
+- City: Harker Heights
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0826463, -97.6693278
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Killeen, TX, #1 of 1 dog groomers in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bonnie-and-clyde-grooming-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bonnie-and-clyde-grooming-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14090091201 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Brake Check is an auto repair shop in Harker Heights, TX at 150 East Central Texas Expressway, Harker Heights, TX. Phone: +12545017089. Website: https://brakecheck.com/.
+
+# Brake Check
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change, brake repair
+- Address: 150 East Central Texas Expressway, Harker Heights, TX
+- City: Harker Heights
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0700756, -97.6658041
+- Phone: +12545017089
+- Website: https://brakecheck.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 07:30-18:00; Su 09:00-17:00
+- Pulse Score: 49.6/100 — Building — top 55% of auto repair shops in Killeen, TX, #1 of 3 auto repair shops in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.2, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/brake-check-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/brake-check-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/195819542 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Calaveras Tattoo Studio is a tattoo shop in Killeen, TX.
+
+# Calaveras Tattoo Studio
+
+- Category: tattoo shop
+- Services: tattoo shop
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1028678, -97.7496613
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of tattoo shops in Killeen, TX, #1 of 1 tattoo shops in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/calaveras-tattoo-studio-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/calaveras-tattoo-studio-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/315562337 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+CarMax is an used car dealer in Killeen, TX at 3504 East Central Texas Expressway, Killeen, TX 76543. Website: https://www.carmax.com/stores/6128.
+
+# CarMax
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 3504 East Central Texas Expressway, Killeen, TX 76543
+- City: Killeen
+- State: TX
+- ZIP: 76543
+- Coordinates: 31.0824571, -97.7069161
+- Phone: n/a
+- Website: https://www.carmax.com/stores/6128
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.5/100 — Building — top 100% of used car dealers in Killeen, TX, #1 of 1 used car dealers in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/carmax-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/carmax-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/976499775 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+CEFCO is a car wash in Killeen, TX.
+
+# CEFCO
+
+- Category: car wash
+- Services: car wash
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1217887, -97.7098387
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 45% of car washes in Killeen, TX, #3 of 7 car washes in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cefco-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cefco-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3183958472 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Central Texas Barber College is a hair salon in Harker Heights, TX at 544 W Veterans Memorial Blvd ##210, Harker Heights, TX 76548. Phone: +12542130982. Website: https://centraltexasbarbercollege.com/.
+
+# Central Texas Barber College
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 544 W Veterans Memorial Blvd ##210, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.0914354, -97.6725103
+- Phone: +12542130982
+- Website: https://centraltexasbarbercollege.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We 08:30-20:30
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 22% of hair salons in Killeen, TX, #1 of 3 hair salons in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/central-texas-barber-college-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/central-texas-barber-college-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6317716791 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Chic French Bakery is a bakery in Killeen, TX at 2020 West Stan Schlueter Loop #112, Killeen, TX 76549. Phone: +12544157172. Website: https://chicfrenchbakery.com/.
+
+# Chic French Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: 2020 West Stan Schlueter Loop #112, Killeen, TX 76549
+- City: Killeen
+- State: TX
+- ZIP: 76549
+- Coordinates: 31.0812032, -97.7722735
+- Phone: +12544157172
+- Website: https://chicfrenchbakery.com/
+- Email: chic@chicfrenchbakery.com
+- Opening hours (OSM syntax): Tu-Fr 07:00-14:30; Su 08:00-16:00
+- Pulse Score: 64.2/100 — Good — top 100% of bakerys in Killeen, TX, #1 of 1 bakerys in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chic-french-bakery-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chic-french-bakery-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14159817751 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Chloe Nails & Spa is a nail salon in Killeen, TX.
+
+# Chloe Nails & Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1106953, -97.799827
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 67% of nail salons in Killeen, TX, #2 of 3 nail salons in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chloe-nails-and-spa-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chloe-nails-and-spa-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6546532781 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Class Six is a liquor store in Fort Hood, TX at 50006 North Clear Creek Road, Fort Hood, TX 76544.
+
+# Class Six
+
+- Category: liquor store
+- Services: liquor store
+- Address: 50006 North Clear Creek Road, Fort Hood, TX 76544
+- City: Fort Hood
+- State: TX
+- ZIP: 76544
+- Coordinates: 31.1277175, -97.8009598
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 34% of liquor stores in Killeen, TX, #1 of 1 liquor stores in Fort Hood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/class-six-fort-hood/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/class-six-fort-hood.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/976495687 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Clements Boys and Girls Club is a gym in Killeen, TX.
+
+# Clements Boys and Girls Club
+
+- Category: gym
+- Services: gym
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0689815, -97.741351
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 67% of gyms in Killeen, TX, #2 of 4 gyms in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 39.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/clements-boys-and-girls-club-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/clements-boys-and-girls-club-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/473680694 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Conn's Home Plus is a furniture store in Killeen, TX.
+
+# Conn's Home Plus
+
+- Category: furniture store
+- Services: furniture store
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.112358, -97.7488138
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 20% of furniture stores in Killeen, TX, #1 of 3 furniture stores in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/conns-home-plus-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/conns-home-plus-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3216852106 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+CTX Savage Pet Supply is a pet store in Killeen, TX.
+
+# CTX Savage Pet Supply
+
+- Category: pet store
+- Services: pet store
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1183211, -97.6943455
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 67% of pet stores in Killeen, TX, #2 of 2 pet stores in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 40. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ctx-savage-pet-supply-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ctx-savage-pet-supply-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1471814096 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+CutZ II is a barber shop in Killeen, TX.
+
+# CutZ II
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1269649, -97.7401402
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Killeen, TX, #3 of 3 barber shops in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cutz-ii-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cutz-ii-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1052671098 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+CutZ is a hair salon in Killeen, TX at 600 North Fort Hood Street, Killeen, TX 76541.
+
+# CutZ
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 600 North Fort Hood Street, Killeen, TX 76541
+- City: Killeen
+- State: TX
+- ZIP: 76541
+- Coordinates: 31.1270549, -97.7403442
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 50% of hair salons in Killeen, TX, #6 of 10 hair salons in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cutz-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cutz-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/315411912 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Darnall Child Development Center is a daycare in Bell County, TX.
+
+# Darnall Child Development Center
+
+- Category: daycare
+- Services: daycare
+- Address: Bell County, TX
+- City: Bell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1293274, -97.7710952
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 34% of daycares in Killeen, TX, #1 of 3 daycares in Bell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/darnall-child-development-center-bell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/darnall-child-development-center-bell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1021875818 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Deluxe Cleaners is a dry cleaner in Killeen, TX.
+
+# Deluxe Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1304601, -97.7054418
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 72% of dry cleaners in Killeen, TX, #5 of 6 dry cleaners in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/deluxe-cleaners-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/deluxe-cleaners-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3183958474 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Harker Heights, TX at 140 East Central Texas Expressway, Harker Heights, TX 76548. Phone: +12545268473. Website: https://www.discounttire.com/.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 140 East Central Texas Expressway, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.0699478, -97.6662656
+- Phone: +12545268473
+- Website: https://www.discounttire.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
+- Pulse Score: 52/100 — Fair — top 67% of tire shops in Killeen, TX, #1 of 1 tire shops in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 68. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/195819539 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Killeen, TX at 3101 East Central Texas Expressway, Killeen, TX 76543. Phone: +12546996420.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 3101 East Central Texas Expressway, Killeen, TX 76543
+- City: Killeen
+- State: TX
+- ZIP: 76543
+- Coordinates: 31.0861615, -97.7076226
+- Phone: +12546996420
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.5/100 — Building — top 100% of tire shops in Killeen, TX, #2 of 2 tire shops in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667234232 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Endodontic Assoc. Of Central Texas is a dentist in Harker Heights, TX at 410 East Central Texas Expressway, Harker Heights, TX 76548. Phone: +12545543636. Website: https://eacentex.com/.
+
+# Endodontic Assoc. Of Central Texas
+
+- Category: dentist
+- Services: dentist
+- Address: 410 East Central Texas Expressway, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.0718275, -97.6599982
+- Phone: +12545543636
+- Website: https://eacentex.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-15:00
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 34% of dentists in Killeen, TX, #1 of 2 dentists in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/endodontic-assoc-of-central-texas-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/endodontic-assoc-of-central-texas-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14039936504 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Extra Space Storage is a self-storage facility in Killeen, TX at 4201 South Clear Creek Road, Killeen, TX 76549. Website: https://extraspace.com/.
+
+# Extra Space Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 4201 South Clear Creek Road, Killeen, TX 76549
+- City: Killeen
+- State: TX
+- ZIP: 76549
+- Coordinates: 31.0984531, -97.8079881
+- Phone: n/a
+- Website: https://extraspace.com/
+- Email: n/a
+- Opening hours (OSM syntax): 06:00-22:00
+- Pulse Score: 49.1/100 — Building — top 100% of self-storage facilitys in Killeen, TX, #3 of 3 self-storage facilitys in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/extra-space-storage-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/976161072 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Extra Space Storage is a self-storage facility in Killeen, TX at 5004 Thayer Drive, Killeen, TX 76549. Phone: +12543625270. Website: https://www.extraspace.com/.
+
+# Extra Space Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 5004 Thayer Drive, Killeen, TX 76549
+- City: Killeen
+- State: TX
+- ZIP: 76549
+- Coordinates: 31.0898226, -97.8059261
+- Phone: +12543625270
+- Website: https://www.extraspace.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 09:00-17:30 open "Office Hours" || Mo-Su 06:00-22:00 open "Storage Gate Hours"
+- Pulse Score: 50.2/100 — Fair — top 75% of self-storage facilitys in Killeen, TX, #2 of 3 self-storage facilitys in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.9, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-killeen-w1282019585/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/extra-space-storage-killeen-w1282019585.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1282019585 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fairbank Dental Clinic is a dentist in Bell County, TX.
+
+# Fairbank Dental Clinic
+
+- Category: dentist
+- Services: dentist
+- Address: Bell County, TX
+- City: Bell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.136466, -97.7428479
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 100% of dentists in Killeen, TX, #1 of 1 dentists in Bell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fairbank-dental-clinic-bell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fairbank-dental-clinic-bell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1015339012 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Firestone Complete Auto Care is an auto repair shop in Bell County, TX.
+
+# Firestone Complete Auto Care
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Bell County, TX
+- City: Bell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1381646, -97.76117
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42/100 — Building — top 100% of auto repair shops in Killeen, TX, #1 of 1 auto repair shops in Bell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/firestone-complete-auto-care-bell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/firestone-complete-auto-care-bell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1020725045 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Firestone is an auto repair shop in Killeen, TX at 2505 West Trimmier Road, Killeen, TX 76542. Phone: +12546169831. Website: https://www.firestonecompleteautocare.com/texas/killeen/2505-trimmier-rd/.
+
+# Firestone
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2505 West Trimmier Road, Killeen, TX 76542
+- City: Killeen
+- State: TX
+- ZIP: 76542
+- Coordinates: 31.0934889, -97.7344456
+- Phone: +12546169831
+- Website: https://www.firestonecompleteautocare.com/texas/killeen/2505-trimmier-rd/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su 09:00-17:00
+- Pulse Score: 48.6/100 — Building — top 73% of auto repair shops in Killeen, TX, #5 of 6 auto repair shops in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/firestone-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/firestone-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/976499766 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fort Cavazos Area Thrift Shop is a thrift store in Coryell County, TX.
+
+# Fort Cavazos Area Thrift Shop
+
+- Category: thrift store
+- Services: thrift store
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1288708, -97.8014716
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of thrift stores in Killeen, TX, #1 of 1 thrift stores in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fort-cavazos-area-thrift-shop-coryell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fort-cavazos-area-thrift-shop-coryell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1022446580 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fort Cavazos Specialty Furniture Store (AAFES) is a furniture store in Coryell County, TX.
+
+# Fort Cavazos Specialty Furniture Store (AAFES)
+
+- Category: furniture store
+- Services: furniture store
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1287115, -97.8026729
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 40% of furniture stores in Killeen, TX, #1 of 1 furniture stores in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fort-cavazos-specialty-furniture-store-aafes-coryell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fort-cavazos-specialty-furniture-store-aafes-coryell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1017699389 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fort Hood CDC is a daycare in Bell County, TX.
+
+# Fort Hood CDC
+
+- Category: daycare
+- Services: daycare
+- Address: Bell County, TX
+- City: Bell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1346044, -97.7658168
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 67% of daycares in Killeen, TX, #2 of 3 daycares in Bell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fort-hood-cdc-bell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fort-hood-cdc-bell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1015339018 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fort Hood Veterinary Center is a veterinarian in Bell County, TX.
+
+# Fort Hood Veterinary Center
+
+- Category: vet
+- Services: vet
+- Address: Bell County, TX
+- City: Bell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1257393, -97.7932346
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 86% of veterinarians in Killeen, TX, #1 of 1 veterinarians in Bell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 40.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fort-hood-veterinary-center-bell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fort-hood-veterinary-center-bell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1022428183 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Furniture Row is a furniture store in Harker Heights, TX at 825 West Central Texas Expressway, Harker Heights, TX 76548.
+
+# Furniture Row
+
+- Category: furniture store
+- Services: furniture store
+- Address: 825 West Central Texas Expressway, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.0757788, -97.6835693
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.3/100 — Unrated (not enough evidence yet) — top 80% of furniture stores in Killeen, TX, #1 of 1 furniture stores in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/furniture-row-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/furniture-row-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/847308402 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fusion Dental and Braces at Clear Creek is a dentist in Killeen, TX at 4102 Clear Creek Road #102, Killeen, TX 76549. Phone: +12542135773. Website: https://www.myfusiondental.com/.
+
+# Fusion Dental and Braces at Clear Creek
+
+- Category: dentist
+- Services: dentist
+- Address: 4102 Clear Creek Road #102, Killeen, TX 76549
+- City: Killeen
+- State: TX
+- ZIP: 76549
+- Coordinates: 31.0984772, -97.8048574
+- Phone: +12542135773
+- Website: https://www.myfusiondental.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.9/100 — Good — top 50% of dentists in Killeen, TX, #2 of 3 dentists in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fusion-dental-and-braces-at-clear-creek-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fusion-dental-and-braces-at-clear-creek-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11877688482 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Gold's Gym is a gym in Killeen, TX at 902 West Central Texas Expressway, Killeen, TX 76541.
+
+# Gold's Gym
+
+- Category: gym
+- Services: gym
+- Address: 902 West Central Texas Expressway, Killeen, TX 76541
+- City: Killeen
+- State: TX
+- ZIP: 76541
+- Coordinates: 31.1057462, -97.7475479
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Building — top 100% of gyms in Killeen, TX, #4 of 4 gyms in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/golds-gym-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/golds-gym-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/727646260 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H&R Block is a tax preparation service in Killeen, TX.
+
+# H&R Block
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1184836, -97.6949334
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.8/100 — Building — top 100% of tax preparation services in Killeen, TX, #2 of 2 tax preparation services in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-r-block-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11830472418 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Killeen, TX at 2511 West Trimmier Road, Killeen, TX 76542.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 2511 West Trimmier Road, Killeen, TX 76542
+- City: Killeen
+- State: TX
+- ZIP: 76542
+- Coordinates: 31.092321, -97.7337248
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.2/100 — Building — top 67% of car washes in Killeen, TX, #5 of 7 car washes in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/264835851 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Killeen, TX at West Stan Schlueter Loop, Killeen, TX 76549.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: West Stan Schlueter Loop, Killeen, TX 76549
+- City: Killeen
+- State: TX
+- ZIP: 76549
+- Coordinates: 31.0794864, -97.7604659
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.3/100 — Unrated (not enough evidence yet) — top 78% of car washes in Killeen, TX, #6 of 7 car washes in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-killeen-w621869746/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-killeen-w621869746.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/621869746 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Wash is a car wash in Harker Heights, TX at 601 Indian Trail, Harker Heights, TX 76548. Phone: +12546998411. Website: https://www.heb.com/heb-store/US/tx/harker-heights/harker-heights-h-e-b-381.
+
+# H-E-B Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 601 Indian Trail, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.0777979, -97.6540729
+- Phone: +12546998411
+- Website: https://www.heb.com/heb-store/US/tx/harker-heights/harker-heights-h-e-b-381
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 23% of car washes in Killeen, TX, #1 of 1 car washes in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-wash-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-wash-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848514224 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Heart of Hood Gift Shop is a gift shop in Bell County, TX.
+
+# Heart of Hood Gift Shop
+
+- Category: gift shop
+- Services: gift shop
+- Address: Bell County, TX
+- City: Bell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1371943, -97.7636917
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 50% of gift shops in Killeen, TX, #1 of 1 gift shops in Bell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/heart-of-hood-gift-shop-bell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/heart-of-hood-gift-shop-bell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9366219457 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hope Barber Shop is a hair salon in Killeen, TX at 4110 Clear Creek Road, Killeen, TX 76549. Phone: +12544325901.
+
+# Hope Barber Shop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 4110 Clear Creek Road, Killeen, TX 76549
+- City: Killeen
+- State: TX
+- ZIP: 76549
+- Coordinates: 31.0971629, -97.8052439
+- Phone: +12544325901
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa-Su 09:00-19:00
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 29% of hair salons in Killeen, TX, #3 of 10 hair salons in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hope-barber-shop-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hope-barber-shop-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7232393385 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+House of Floors is a flooring company in Killeen, TX at 3301 East Stan Schlueter Loop, Killeen, TX 76542.
+
+# House of Floors
+
+- Category: flooring companies
+- Services: flooring companies
+- Address: 3301 East Stan Schlueter Loop, Killeen, TX 76542
+- City: Killeen
+- State: TX
+- ZIP: 76542
+- Coordinates: 31.0687601, -97.7163607
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 100% of flooring companys in Killeen, TX, #1 of 1 flooring companys in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/house-of-floors-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/house-of-floors-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848544782 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Icon Apartments leasing office is a property management company in Killeen, TX at 5002 Thayer Drive, Killeen, TX 76549. Phone: +12542459548. Website: https://www.iconaptskilleen.com/.
+
+# Icon Apartments leasing office
+
+- Category: property management company
+- Services: property management company, property management companies
+- Address: 5002 Thayer Drive, Killeen, TX 76549
+- City: Killeen
+- State: TX
+- ZIP: 76549
+- Coordinates: 31.0895757, -97.8047289
+- Phone: +12542459548
+- Website: https://www.iconaptskilleen.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:30; Sa 10:00-17:00; Su 13:00-17:00
+- Pulse Score: 60.8/100 — Good — top 100% of property management companys in Killeen, TX, #1 of 1 property management companys in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/icon-apartments-leasing-office-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/icon-apartments-leasing-office-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/694627794 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+James Avery Jewelry is a jewelry store in Harker Heights, TX at 201 E Central Texas Expressway Ste 1310, Harker Heights, TX 76548. Phone: +12546301717. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=695.
+
+# James Avery Jewelry
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 201 E Central Texas Expressway Ste 1310, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.0719967, -97.6653898
+- Phone: +12546301717
+- Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=695
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.4/100 — Building — top 100% of jewelry stores in Killeen, TX, #1 of 1 jewelry stores in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/james-avery-jewelry-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4255940140 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jiffy Lube is an auto repair shop in Killeen, TX at 1902 North W.S. Young Drive, Killeen, TX 76543.
+
+# Jiffy Lube
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 1902 North W.S. Young Drive, Killeen, TX 76543
+- City: Killeen
+- State: TX
+- ZIP: 76543
+- Coordinates: 31.1297344, -97.7058292
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.1/100 — Building — top 82% of auto repair shops in Killeen, TX, #6 of 6 auto repair shops in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jiffy-lube-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3183958476 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jose Bonilla at Estilos Barber Shop is a barber shop in Killeen, TX at 2800 Illinois Avenue #200, Killeen, TX 76543. Phone: +12549529373. Website: https://www.estilobarbershop.com/.
+
+# Jose Bonilla at Estilos Barber Shop
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 2800 Illinois Avenue #200, Killeen, TX 76543
+- City: Killeen
+- State: TX
+- ZIP: 76543
+- Coordinates: 31.0931405, -97.7122276
+- Phone: +12549529373
+- Website: https://www.estilobarbershop.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo 09:00-20:00; Tu 10:00-20:00; We-Sa 10:00-20:30; Su 09:00-18:00
+- Pulse Score: 63.2/100 — Good — top 34% of barber shops in Killeen, TX, #1 of 3 barber shops in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jose-bonilla-at-estilos-barber-shop-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jose-bonilla-at-estilos-barber-shop-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13682370918 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kieschnick Physical Fitness Center is a gym in Coryell County, TX at 19008 Support Avenue, Coryell County, TX.
+
+# Kieschnick Physical Fitness Center
+
+- Category: gym
+- Services: gym
+- Address: 19008 Support Avenue, Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1388148, -97.7847828
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 45% of gyms in Killeen, TX, #2 of 2 gyms in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kieschnick-physical-fitness-center-coryell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kieschnick-physical-fitness-center-coryell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/985384127 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Killeen Barber Shop is a hair salon in Killeen, TX.
+
+# Killeen Barber Shop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1289508, -97.7376784
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 72% of hair salons in Killeen, TX, #8 of 10 hair salons in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/killeen-barber-shop-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/killeen-barber-shop-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3215275540 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Killeen Pediatric Care Clinic is a pediatrician in Killeen, TX at 4102 Clear Creek Road #107, Killeen, TX 76549. Phone: +12545268300. Website: https://killeenpediatric.com/.
+
+# Killeen Pediatric Care Clinic
+
+- Category: pediatrician
+- Services: pediatrician
+- Address: 4102 Clear Creek Road #107, Killeen, TX 76549
+- City: Killeen
+- State: TX
+- ZIP: 76549
+- Coordinates: 31.0983919, -97.8042701
+- Phone: +12545268300
+- Website: https://killeenpediatric.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-12:00, 13:00-17:00
+- Pulse Score: 62.7/100 — Good — top 100% of pediatricians in Killeen, TX, #1 of 1 pediatricians in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/killeen-pediatric-care-clinic-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/killeen-pediatric-care-clinic-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7232395086 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Killeen Veterinary Clinic is a veterinarian in Killeen, TX at 1321 Pershing Drive, Killeen, TX 76549.
+
+# Killeen Veterinary Clinic
+
+- Category: vet
+- Services: vet
+- Address: 1321 Pershing Drive, Killeen, TX 76549
+- City: Killeen
+- State: TX
+- ZIP: 76549
+- Coordinates: 31.1087191, -97.7506876
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 43% of veterinarians in Killeen, TX, #2 of 5 veterinarians in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/killeen-veterinary-clinic-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/killeen-veterinary-clinic-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848570376 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kim's Barber Shop is a hair salon in Killeen, TX.
+
+# Kim's Barber Shop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1262208, -97.7280767
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 79% of hair salons in Killeen, TX, #9 of 10 hair salons in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kims-barber-shop-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kims-barber-shop-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3215275541 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Knox Performance Diesel and Offroad is an auto repair shop in Killeen, TX at 126 South Park Street, Killeen, TX 76541. Phone: +12548135669. Website: https://knoxdieselshop.com/.
+
+# Knox Performance Diesel and Offroad
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 126 South Park Street, Killeen, TX 76541
+- City: Killeen
+- State: TX
+- ZIP: 76541
+- Coordinates: 31.1192267, -97.7317394
+- Phone: +12548135669
+- Website: https://knoxdieselshop.com/
+- Email: knox.diesel.shop@gmail.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa,Su closed
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 10% of auto repair shops in Killeen, TX, #1 of 6 auto repair shops in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/knox-performance-diesel-and-offroad-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/knox-performance-diesel-and-offroad-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13908065205 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Knox Performance Disel & Off Road is an auto repair shop in Killeen, TX at 2803 East Veterans Memorial Boulevard #B, Killeen, TX 76543.
+
+# Knox Performance Disel & Off Road
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2803 East Veterans Memorial Boulevard #B, Killeen, TX 76543
+- City: Killeen
+- State: TX
+- ZIP: 76543
+- Coordinates: 31.1073309, -97.7093393
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 28% of auto repair shops in Killeen, TX, #3 of 6 auto repair shops in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/knox-performance-disel-and-off-road-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/knox-performance-disel-and-off-road-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7281575776 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kwik Kar Oil & Lube is an auto repair shop in Killeen, TX at 2010 East Central Texas Expressway, Killeen, TX 76541.
+
+# Kwik Kar Oil & Lube
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2010 East Central Texas Expressway, Killeen, TX 76541
+- City: Killeen
+- State: TX
+- ZIP: 76541
+- Coordinates: 31.0900656, -97.7207322
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 37% of auto repair shops in Killeen, TX, #4 of 6 auto repair shops in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kwik-kar-oil-and-lube-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kwik-kar-oil-and-lube-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/658049361 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+KWIK LUBE AND SERVICES is an auto repair shop in Killeen, TX at 4105 Clear Creek Road, Killeen, TX 76549. Phone: +12545263600. Website: https://kwiklubeandservices.com/.
+
+# KWIK LUBE AND SERVICES
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 4105 Clear Creek Road, Killeen, TX 76549
+- City: Killeen
+- State: TX
+- ZIP: 76549
+- Coordinates: 31.0981257, -97.8059475
+- Phone: +12545263600
+- Website: https://kwiklubeandservices.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Su 11:00-16:00; Sa 08:00-16:00
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 19% of auto repair shops in Killeen, TX, #2 of 6 auto repair shops in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kwik-lube-and-services-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kwik-lube-and-services-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7232406185 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Labor Ready is a staffing agency in Killeen, TX.
+
+# Labor Ready
+
+- Category: staffing agency
+- Services: staffing agency
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1113056, -97.7454855
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.1/100 — Unrated (not enough evidence yet) — top 100% of staffing agencys in Killeen, TX, #1 of 1 staffing agencys in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/labor-ready-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/labor-ready-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3216886302 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Liquor Mart is a liquor store in Killeen, TX at 1200 Willow Springs Road, Killeen, TX 76549.
+
+# Liquor Mart
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1200 Willow Springs Road, Killeen, TX 76549
+- City: Killeen
+- State: TX
+- ZIP: 76549
+- Coordinates: 31.1121314, -97.7616089
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 50% of liquor stores in Killeen, TX, #1 of 3 liquor stores in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/liquor-mart-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/liquor-mart-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848560702 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lulis hair studio is a hair salon in Harker Heights, TX.
+
+# Lulis hair studio
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Harker Heights, TX
+- City: Harker Heights
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0727972, -97.6728264
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 86% of hair salons in Killeen, TX, #2 of 3 hair salons in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lulis-hair-studio-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lulis-hair-studio-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14293101011 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Major Cutz Barbershop is a hair salon in Killeen, TX at 3202 Westcliff Road #300, Killeen, TX 76543. Phone: +12544325703.
+
+# Major Cutz Barbershop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 3202 Westcliff Road #300, Killeen, TX 76543
+- City: Killeen
+- State: TX
+- ZIP: 76543
+- Coordinates: 31.1303508, -97.6917464
+- Phone: +12544325703
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Sa-Mo 11:00-20:00; Tu, We, Fr 11:00-18:30; Th 11:00-18:00
+- Pulse Score: 63.8/100 — Good — top 8% of hair salons in Killeen, TX, #1 of 10 hair salons in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.9, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/major-cutz-barbershop-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/major-cutz-barbershop-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12619438335 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Market Heights Family Dental is a dentist in Harker Heights, TX at 201 East Central Texas Expressway #500, Harker Heights, TX 76548.
+
+# Market Heights Family Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 201 East Central Texas Expressway #500, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.0738224, -97.6616774
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 84% of dentists in Killeen, TX, #2 of 2 dentists in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/market-heights-family-dental-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/market-heights-family-dental-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7906718046 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mattress Firm is a mattress store in Harker Heights, TX at 200 East Central Texas Expressway, Harker Heights, TX 76548. Phone: +12546980125. Website: https://www.mattressfirm.com/en-us/stores/tx/harker-heights/060010/.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: 200 East Central Texas Expressway, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.070935, -97.6618312
+- Phone: +12546980125
+- Website: https://www.mattressfirm.com/en-us/stores/tx/harker-heights/060010/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.1/100 — Building — top 100% of mattress stores in Killeen, TX, #1 of 1 mattress stores in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-firm-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-firm-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1233093770 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Meadows CDC is a daycare in Bell County, TX.
+
+# Meadows CDC
+
+- Category: daycare
+- Services: daycare
+- Address: Bell County, TX
+- City: Bell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1363688, -97.755341
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 100% of daycares in Killeen, TX, #3 of 3 daycares in Bell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/meadows-cdc-bell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/meadows-cdc-bell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1021293618 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mister Car Wash is a car wash in Coryell County, TX.
+
+# Mister Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1271158, -97.8002971
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.1/100 — Unrated (not enough evidence yet) — top 89% of car washes in Killeen, TX, #1 of 1 car washes in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mister-car-wash-coryell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mister-car-wash-coryell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1022446542 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Modern Nails is a nail salon in Killeen, TX.
+
+# Modern Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1127759, -97.7486095
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 100% of nail salons in Killeen, TX, #3 of 3 nail salons in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/modern-nails-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/modern-nails-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3216852040 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ms Lee Cleaners is a dry cleaner in Killeen, TX.
+
+# Ms Lee Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.126436, -97.740477
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 15% of dry cleaners in Killeen, TX, #1 of 6 dry cleaners in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ms-lee-cleaners-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ms-lee-cleaners-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/315411923 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+My Therapy Cloud Massage Spa is a massage studio in Killeen, TX.
+
+# My Therapy Cloud Massage Spa
+
+- Category: massage
+- Services: massage
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1100849, -97.7996955
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of massage studios in Killeen, TX, #1 of 1 massage studios in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/my-therapy-cloud-massage-spa-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/my-therapy-cloud-massage-spa-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6546532788 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+National Tire and Battery is an auto repair shop in Harker Heights, TX at 110 East Central Texas Expressway, Harker Heights, TX 76548. Phone: +12544810830. Website: https://www.ntb.com/store/tx/harker-heights/110-e-central-texas-expy-76548/4467.
+
+# National Tire and Battery
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 110 East Central Texas Expressway, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.0695021, -97.6673259
+- Phone: +12544810830
+- Website: https://www.ntb.com/store/tx/harker-heights/110-e-central-texas-expy-76548/4467
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We,Fr 08:00-18:00; Th 08:00-20:30; Sa 08:00-17:00; Su 09:00-17:00
+- Pulse Score: 49.3/100 — Building — top 64% of auto repair shops in Killeen, TX, #2 of 3 auto repair shops in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.9, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/national-tire-and-battery-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/national-tire-and-battery-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/195819547 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Olympic Barber Shop is a hair salon in Killeen, TX.
+
+# Olympic Barber Shop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1279095, -97.7329143
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 93% of hair salons in Killeen, TX, #10 of 10 hair salons in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/olympic-barber-shop-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/olympic-barber-shop-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3215275545 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Petco is a pet store in Harker Heights, TX at 201 East Central Texas Expressway #550, Harker Heights, TX 76548. Phone: +12549538231. Website: https://stores.petco.com/tx/harkerheights/pet-supplies-harkerheights-tx-1485.html.
+
+# Petco
+
+- Category: pet store
+- Services: pet store
+- Address: 201 East Central Texas Expressway #550, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.073733, -97.661329
+- Phone: +12549538231
+- Website: https://stores.petco.com/tx/harkerheights/pet-supplies-harkerheights-tx-1485.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Pulse Score: 46.9/100 — Building — top 100% of pet stores in Killeen, TX, #1 of 1 pet stores in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petco-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petco-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2338480169 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Planet Fitness is a gym in Harker Heights, TX at 201 East Central Texas Expressway, Harker Heights, TX 76548. Phone: +12544810639. Website: https://www.planetfitness.com/gyms/harker-heights-tx.
+
+# Planet Fitness
+
+- Category: gym
+- Services: gym
+- Address: 201 East Central Texas Expressway, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.073623, -97.666019
+- Phone: +12544810639
+- Website: https://www.planetfitness.com/gyms/harker-heights-tx
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 78% of gyms in Killeen, TX, #1 of 1 gyms in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/planet-fitness-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/planet-fitness-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11972418369 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Planet Fitness is a gym in Killeen, TX at 101E Veterans Memorial Boulevard, Killeen, TX. Phone: +18882379005. Website: https://www.planetfitness.com/gyms/killeen-tx-338.
+
+# Planet Fitness
+
+- Category: gym
+- Services: gym
+- Address: 101E Veterans Memorial Boulevard, Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1154289, -97.7222824
+- Phone: +18882379005
+- Website: https://www.planetfitness.com/gyms/killeen-tx-338
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.2/100 — Building — top 89% of gyms in Killeen, TX, #3 of 4 gyms in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/planet-fitness-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/planet-fitness-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5881988521 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rent-A-Center is a furniture store in Killeen, TX at 1405 South Fort Hood Street #B, Killeen, TX 76542.
+
+# Rent-A-Center
+
+- Category: furniture store
+- Services: furniture store
+- Address: 1405 South Fort Hood Street #B, Killeen, TX 76542
+- City: Killeen
+- State: TX
+- ZIP: 76542
+- Coordinates: 31.1044588, -97.7498448
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46/100 — Building — top 60% of furniture stores in Killeen, TX, #2 of 3 furniture stores in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rent-a-center-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rent-a-center-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3216886306 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rent-A-Center is a furniture store in Killeen, TX.
+
+# Rent-A-Center
+
+- Category: furniture store
+- Services: furniture store
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1184996, -97.6950268
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43/100 — Building — top 100% of furniture stores in Killeen, TX, #3 of 3 furniture stores in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rent-a-center-killeen-n11830472417/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rent-a-center-killeen-n11830472417.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11830472417 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Senior Center - Lions Club Park is a gym in Killeen, TX at 1700 East Stan Schlueter Loop, Killeen, TX 76542. Phone: +12545016399. Website: https://killeentexas.gov/.
+
+# Senior Center - Lions Club Park
+
+- Category: gym
+- Services: gym
+- Address: 1700 East Stan Schlueter Loop, Killeen, TX 76542
+- City: Killeen
+- State: TX
+- ZIP: 76542
+- Coordinates: 31.0705268, -97.7334792
+- Phone: +12545016399
+- Website: https://killeentexas.gov/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-16:00
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 12% of gyms in Killeen, TX, #1 of 4 gyms in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/senior-center-lions-club-park-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/senior-center-lions-club-park-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/473680692 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Shell is a car wash in Killeen, TX.
+
+# Shell
+
+- Category: car wash
+- Services: car wash
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1081001, -97.7483948
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 100% of car washes in Killeen, TX, #7 of 7 car washes in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/shell-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/shell-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3216886307 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Space Liquor is a liquor store in Killeen, TX at State Hwy. 195, Killeen, TX 76542.
+
+# Space Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: State Hwy. 195, Killeen, TX 76542
+- City: Killeen
+- State: TX
+- ZIP: 76542
+- Coordinates: 31.0355632, -97.7583665
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 67% of liquor stores in Killeen, TX, #2 of 3 liquor stores in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/space-liquor-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/space-liquor-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12809598503 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Spec's is a liquor store in Killeen, TX.
+
+# Spec's
+
+- Category: liquor store
+- Services: liquor store
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.087847, -97.718736
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.7/100 — Building — top 100% of liquor stores in Killeen, TX, #3 of 3 liquor stores in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/specs-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/specs-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3577589693 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Stagecoach Pet Hospital is a veterinarian in Killeen, TX at 4526 East Stagecoach Road, Killeen, TX 76542.
+
+# Stagecoach Pet Hospital
+
+- Category: vet
+- Services: vet
+- Address: 4526 East Stagecoach Road, Killeen, TX 76542
+- City: Killeen
+- State: TX
+- ZIP: 76542
+- Coordinates: 31.0537146, -97.7003761
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 58% of veterinarians in Killeen, TX, #3 of 5 veterinarians in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/stagecoach-pet-hospital-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/stagecoach-pet-hospital-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848528049 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Stars Cleaners is a dry cleaner in Killeen, TX.
+
+# Stars Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1261809, -97.7405796
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 29% of dry cleaners in Killeen, TX, #2 of 6 dry cleaners in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/stars-cleaners-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/stars-cleaners-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/315411936 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Steffey Kennels is a dog boarding facility in Coryell County, TX.
+
+# Steffey Kennels
+
+- Category: dog boarding
+- Services: dog boarding
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1292574, -97.8086771
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 100% of dog boarding facilitys in Killeen, TX, #1 of 1 dog boarding facilitys in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/steffey-kennels-coryell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/steffey-kennels-coryell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1022491775 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Studio Three Loc Salon is a hair salon in Killeen, TX at West Elms Road, Killeen, TX 76542.
+
+# Studio Three Loc Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: West Elms Road, Killeen, TX 76542
+- City: Killeen
+- State: TX
+- ZIP: 76542
+- Coordinates: 31.0854335, -97.7505536
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 58% of hair salons in Killeen, TX, #7 of 10 hair salons in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/studio-three-loc-salon-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/studio-three-loc-salon-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14140477806 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Super Cobra Auto Detailing is a car wash in Killeen, TX at 704A East Veterans Memorial Boulevard, Killeen, TX 76541. Phone: +12546246724. Website: https://supercobraautodetailingtx.com/.
+
+# Super Cobra Auto Detailing
+
+- Category: car wash
+- Services: car wash
+- Address: 704A East Veterans Memorial Boulevard, Killeen, TX 76541
+- City: Killeen
+- State: TX
+- ZIP: 76541
+- Coordinates: 31.1156703, -97.7252189
+- Phone: +12546246724
+- Website: https://supercobraautodetailingtx.com/
+- Email: supercobraautodetailing@gmail.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 12% of car washes in Killeen, TX, #1 of 7 car washes in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/super-cobra-auto-detailing-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/super-cobra-auto-detailing-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1082558603 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tax Service is a tax preparation service in Killeen, TX.
+
+# Tax Service
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.103971, -97.7499605
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 50% of tax preparation services in Killeen, TX, #1 of 2 tax preparation services in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tax-service-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tax-service-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/315562346 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Thailand Gift Shop is a gift shop in Killeen, TX.
+
+# Thailand Gift Shop
+
+- Category: gift shop
+- Services: gift shop
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1112196, -97.7452244
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 100% of gift shops in Killeen, TX, #1 of 1 gift shops in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/thailand-gift-shop-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/thailand-gift-shop-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3216886309 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Booze Box is a liquor store in Harker Heights, TX at 545 West Veterans Memorial Boulevard, Harker Heights, TX 76548.
+
+# The Booze Box
+
+- Category: liquor store
+- Services: liquor store
+- Address: 545 West Veterans Memorial Boulevard, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.092303, -97.6723654
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 17% of liquor stores in Killeen, TX, #1 of 2 liquor stores in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-booze-box-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-booze-box-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/311486780 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Car Wash Barn is a car wash in Killeen, TX.
+
+# The Car Wash Barn
+
+- Category: car wash
+- Services: car wash
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.081121, -97.696536
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 56% of car washes in Killeen, TX, #4 of 7 car washes in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-car-wash-barn-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-car-wash-barn-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3561524693 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Cleaners (AAFES) is a dry cleaner in Coryell County, TX.
+
+# The Cleaners (AAFES)
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1301002, -97.8023684
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 86% of dry cleaners in Killeen, TX, #1 of 1 dry cleaners in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-cleaners-aafes-coryell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-cleaners-aafes-coryell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9386997848 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The collective loft is a hair salon in Harker Heights, TX.
+
+# The collective loft
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Harker Heights, TX
+- City: Harker Heights
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.072811, -97.6728867
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Killeen, TX, #3 of 3 hair salons in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-collective-loft-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-collective-loft-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14293101012 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Pet Stop is a pet store in Killeen, TX at 4110 Clear Creek Rd, Killeen, TX 76549. Phone: +12543459973. Website: https://www.thepetstop.pet/.
+
+# The Pet Stop
+
+- Category: pet store
+- Services: pet store
+- Address: 4110 Clear Creek Rd, Killeen, TX 76549
+- City: Killeen
+- State: TX
+- ZIP: 76549
+- Coordinates: 31.0971249, -97.8050652
+- Phone: +12543459973
+- Website: https://www.thepetstop.pet/
+- Email: petservices@thepetstop.pet
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 34% of pet stores in Killeen, TX, #1 of 2 pet stores in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-pet-stop-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-pet-stop-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9972117807 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Today's Car Wash is a car wash in Killeen, TX at 3110 South Clear Creek Road, Killeen, TX 76549.
+
+# Today's Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 3110 South Clear Creek Road, Killeen, TX 76549
+- City: Killeen
+- State: TX
+- ZIP: 76549
+- Coordinates: 31.1056397, -97.8022012
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 34% of car washes in Killeen, TX, #2 of 7 car washes in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/todays-car-wash-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/todays-car-wash-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/976161069 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tommy Harris Fitness Center - Lions Club Park is a yoga studio in Killeen, TX at 1700 East Stan Schlueter Loop, Killeen, TX 76541. Phone: +12545016390. Website: https://killeentexas.gov/.
+
+# Tommy Harris Fitness Center - Lions Club Park
+
+- Category: yoga classes
+- Services: yoga classes
+- Address: 1700 East Stan Schlueter Loop, Killeen, TX 76541
+- City: Killeen
+- State: TX
+- ZIP: 76541
+- Coordinates: 31.0698443, -97.7331645
+- Phone: +12545016390
+- Website: https://killeentexas.gov/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 05:00-22:00; Sa 07:00-20:00; Su 12:00-18:00
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 100% of yoga studios in Killeen, TX, #1 of 1 yoga studios in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tommy-harris-fitness-center-lions-club-park-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tommy-harris-fitness-center-lions-club-park-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/473680693 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Town And Country is a veterinarian in Killeen, TX at 505 East Elms Road, Killeen, TX 76542. Phone: +12546340391.
+
+# Town And Country
+
+- Category: vet
+- Services: vet
+- Address: 505 East Elms Road, Killeen, TX 76542
+- City: Killeen
+- State: TX
+- ZIP: 76542
+- Coordinates: 31.0830101, -97.7428634
+- Phone: +12546340391
+- Website: n/a
+- Email: TCVetMed@gmail.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 09:00-12:00
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 15% of veterinarians in Killeen, TX, #1 of 5 veterinarians in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/town-and-country-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/town-and-country-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14002606803 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Twin Liquors is a liquor store in Harker Heights, TX at 201 East Central Texas Expressway #590, Harker Heights, TX 76548.
+
+# Twin Liquors
+
+- Category: liquor store
+- Services: liquor store
+- Address: 201 East Central Texas Expressway #590, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.073626, -97.660884
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45/100 — Unrated (not enough evidence yet) — top 84% of liquor stores in Killeen, TX, #2 of 2 liquor stores in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/twin-liquors-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/twin-liquors-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3584607097 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ulta Beauty is a skin care studio in Harker Heights, TX at 201 East Central Texas Expressway #400, Harker Heights, TX 76548. Phone: +12546901329. Website: https://www.ulta.com/stores/harker-heights-tx-300.
+
+# Ulta Beauty
+
+- Category: facial
+- Services: facial
+- Address: 201 East Central Texas Expressway #400, Harker Heights, TX 76548
+- City: Harker Heights
+- State: TX
+- ZIP: 76548
+- Coordinates: 31.0740265, -97.6619661
+- Phone: +12546901329
+- Website: https://www.ulta.com/stores/harker-heights-tx-300
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+- Pulse Score: 45/100 — Building — top 100% of skin care studios in Killeen, TX, #1 of 1 skin care studios in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ulta-beauty-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/148147286 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Valvoline is an auto repair shop in Harker Heights, TX. Website: https://store.vioc.com/tx/harkerheights/oil-change-cj0009.html.
+
+# Valvoline
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Harker Heights, TX
+- City: Harker Heights
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0638319, -97.6649697
+- Phone: n/a
+- Website: https://store.vioc.com/tx/harkerheights/oil-change-cj0009.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.6/100 — Building — top 91% of auto repair shops in Killeen, TX, #3 of 3 auto repair shops in Harker Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valvoline-harker-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valvoline-harker-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/195819354 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Warrior Way Fitness Center is a gym in Bell County, TX at 87030 Old Ironsides Avenue, Bell County, TX.
+
+# Warrior Way Fitness Center
+
+- Category: gym
+- Services: gym
+- Address: 87030 Old Ironsides Avenue, Bell County, TX
+- City: Bell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1390421, -97.7274617
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 56% of gyms in Killeen, TX, #2 of 2 gyms in Bell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/warrior-way-fitness-center-bell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/warrior-way-fitness-center-bell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/987874525 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wrightway Cuts at GQ Cuts A Gentlemen's Barbershop is a barber shop in Killeen, TX at 616 North Fort Hood Street #101, Killeen, TX 76541. Phone: +12542004348.
+
+# Wrightway Cuts at GQ Cuts A Gentlemen's Barbershop
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 616 North Fort Hood Street #101, Killeen, TX 76541
+- City: Killeen
+- State: TX
+- ZIP: 76541
+- Coordinates: 31.1278241, -97.7398835
+- Phone: +12542004348
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.3/100 — Good — top 67% of barber shops in Killeen, TX, #2 of 3 barber shops in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wrightway-cuts-at-gq-cuts-a-gentlemens-barbershop-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wrightway-cuts-at-gq-cuts-a-gentlemens-barbershop-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13625117544 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Yoni's Cleaners is a dry cleaner in Killeen, TX.
+
+# Yoni's Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: Killeen, TX
+- City: Killeen
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1113512, -97.7456615
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Killeen, TX, #6 of 6 dry cleaners in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/yonis-cleaners-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/yonis-cleaners-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3216886311 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Your Realtor is a real estate agency in Killeen, TX at 2000 East Central Texas Expressway #B, Killeen, TX 76541.
+
+# Your Realtor
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 2000 East Central Texas Expressway #B, Killeen, TX 76541
+- City: Killeen
+- State: TX
+- ZIP: 76541
+- Coordinates: 31.0904749, -97.7220235
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in Killeen, TX, #1 of 1 real estate agencys in Killeen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/your-realtor-killeen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/your-realtor-killeen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9036513321 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

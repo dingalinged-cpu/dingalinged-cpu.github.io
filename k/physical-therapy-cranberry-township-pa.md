@@ -6,7 +6,7 @@ Also answers: physical therapy in Cranberry Township, PA; physical therapy near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rainier Physical Therapy | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Rainier Physical Therapy is a physical therapy clinic in Cranberry Township, PA. Phone: +17245900494. | https://registry-edge.dingalinged.workers.dev/c/rainier-physical-therapy-cranberry-township/
+1. Rainier Physical Therapy | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Rainier Physical Therapy is a physical therapy clinic in Cranberry Township, PA. Phone: +17245900494. | https://registry-edge.dingalinged.workers.dev/c/rainier-physical-therapy-cranberry-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy cranberry township pa | category: Health & medical | industry benchmark: Physicians & Surgeons

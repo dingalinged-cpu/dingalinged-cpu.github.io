@@ -13,7 +13,7 @@ Paris Baguette is a bakery in Aurora, CO at 10601 East Garden Drive #105, Aurora
 - Website: https://parisbaguette.com/locations/co/aurora/10601-e-garden-drive/
 - Email: n/a
 - Opening hours (OSM syntax): 07:00-20:00
-- Pulse Score: 49.4/100 — Building — top 89% of bakerys in Denver, CO, #11 of 14 bakerys in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.9, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 88% of bakerys in Denver, CO, #11 of 14 bakerys in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.9, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

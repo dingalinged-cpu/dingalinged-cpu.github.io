@@ -6,7 +6,7 @@ Also answers: music lessons in Englewood, CO; music lessons near me (Englewood, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Denver Music Institute | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Denver Music Institute is a music school in Englewood, CO at 4195, Englewood, CO 80113. | https://registry-edge.dingalinged.workers.dev/c/denver-music-institute-englewood/
+1. Denver Music Institute | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Denver Music Institute is a music school in Englewood, CO at 4195, Englewood, CO 80113. | https://registry-edge.dingalinged.workers.dev/c/denver-music-institute-englewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons englewood co | category: Education & childcare | industry benchmark: Education & Instruction

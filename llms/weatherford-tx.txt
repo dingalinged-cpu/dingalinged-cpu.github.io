@@ -1,0 +1,2927 @@
+# Company Registry: company records, metro weatherford-tx
+
+> 108 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+Advanced Podiatry Associates, PLLC is a podiatrist in Weatherford, TX.
+
+# Advanced Podiatry Associates, PLLC
+
+- Category: podiatrist
+- Services: podiatrist
+- Address: Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7495782, -97.7855342
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 100% of podiatrists in Weatherford, TX, #1 of 1 podiatrists in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/advanced-podiatry-associates-pllc-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/advanced-podiatry-associates-pllc-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667706927 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Anytime Fitness is a gym in Weatherford, TX at 1108 South Main Street, Weatherford, TX. Phone: +16822906954. Website: https://www.anytimefitness.com/gyms/2433/weatherford-tx-76086/.
+
+# Anytime Fitness
+
+- Category: gym
+- Services: gym
+- Address: 1108 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.746772, -97.798266
+- Phone: +16822906954
+- Website: https://www.anytimefitness.com/gyms/2433/weatherford-tx-76086/
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 49.8/100 — Building — top 75% of gyms in Weatherford, TX, #3 of 4 gyms in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/anytime-fitness-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12507461686 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Back Home Bakery is a bakery in Weatherford, TX at 122 North Main Street, Weatherford, TX. Phone: +18175944003. Website: https://www.backhomebakerytx.com/.
+
+# Back Home Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: 122 North Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7603856, -97.7971439
+- Phone: +18175944003
+- Website: https://www.backhomebakerytx.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa 09:00-15:00
+- Pulse Score: 63.2/100 — Good — top 50% of bakerys in Weatherford, TX, #1 of 2 bakerys in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/back-home-bakery-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/back-home-bakery-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12476138799 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Balentine's Bakery II is a bakery in Weatherford, TX at 701 Palo Pinto Street #E, Weatherford, TX 76086. Phone: +18175947132.
+
+# Balentine's Bakery II
+
+- Category: bakery
+- Services: bakery
+- Address: 701 Palo Pinto Street #E, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7580819, -97.807866
+- Phone: +18175947132
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Sa 06:00-11:00
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Weatherford, TX, #2 of 2 bakerys in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/balentines-bakery-ii-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/balentines-bakery-ii-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12882537729 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bin-Bin Massage is a massage studio in Weatherford, TX at 701 Palo Pinto Street #F, Weatherford, TX 76086. Phone: +14696009994.
+
+# Bin-Bin Massage
+
+- Category: massage
+- Services: massage
+- Address: 701 Palo Pinto Street #F, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7579802, -97.8078694
+- Phone: +14696009994
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo,We-Sa 10:00-20:00; Su 12:00-19:00
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 100% of massage studios in Weatherford, TX, #2 of 2 massage studios in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bin-bin-massage-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bin-bin-massage-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12882537731 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Black Dog Realty Group is a real estate agency in Weatherford, TX at 406 Palo Pinto Street, Weatherford, TX. Phone: +18178998985. Website: https://www.blackdogrealtygroup.net/.
+
+# Black Dog Realty Group
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 406 Palo Pinto Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7591714, -97.8027557
+- Phone: +18178998985
+- Website: https://www.blackdogrealtygroup.net/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.1/100 — Good — top 29% of real estate agencys in Weatherford, TX, #1 of 6 real estate agencys in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/black-dog-realty-group-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/black-dog-realty-group-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12536775634 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Blue Beacon is a car wash in Weatherford, TX. Website: https://bluebeacon.com/locations/listing/weatherford-tx.
+
+# Blue Beacon
+
+- Category: car wash
+- Services: car wash
+- Address: Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7380017, -97.766549
+- Phone: n/a
+- Website: https://bluebeacon.com/locations/listing/weatherford-tx
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.8/100 — Building — top 50% of car washes in Weatherford, TX, #2 of 3 car washes in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/blue-beacon-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/blue-beacon-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/230366062 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Blue Stripe Oil & Lube is an auto repair shop in Weatherford, TX at 115 South Main Street, Weatherford, TX.
+
+# Blue Stripe Oil & Lube
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 115 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7399204, -97.7971991
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 30% of auto repair shops in Weatherford, TX, #3 of 10 auto repair shops in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/blue-stripe-oil-and-lube-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/blue-stripe-oil-and-lube-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12519692475 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Brown Mary Ann is a therapy practice in Weatherford, TX at 115 North Weiland Street, Weatherford, TX 76086. Phone: +18175998040. Website: https://www.maryannbrowntx.com/.
+
+# Brown Mary Ann
+
+- Category: therapist
+- Services: therapist
+- Address: 115 North Weiland Street, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7600023, -97.7862982
+- Phone: +18175998040
+- Website: https://www.maryannbrowntx.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-12:00
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 100% of therapy practices in Weatherford, TX, #1 of 1 therapy practices in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/brown-mary-ann-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/brown-mary-ann-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6292840167 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+C & M Hair Co. is a hair salon in Weatherford, TX at 1419 South Main Street, Weatherford, TX.
+
+# C & M Hair Co.
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1419 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7410377, -97.7973357
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60/100 — Good — top 34% of hair salons in Weatherford, TX, #2 of 6 hair salons in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/c-and-m-hair-co-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/c-and-m-hair-co-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12519692487 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Calliber Collision is an auto repair shop in Weatherford, TX at 2528 South Main Street, Weatherford, TX 76087.
+
+# Calliber Collision
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2528 South Main Street, Weatherford, TX 76087
+- City: Weatherford
+- State: TX
+- ZIP: 76087
+- Coordinates: 32.7268744, -97.7888831
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 70% of auto repair shops in Weatherford, TX, #7 of 10 auto repair shops in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/calliber-collision-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/calliber-collision-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/745296937 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Chad Page Agency is an insurance agent in Weatherford, TX at 102 Palo Pinto Street #A, Weatherford, TX. Phone: +18176181455. Website: https://www.goosehead.com/agents/tx/weatherford/chad-page/.
+
+# Chad Page Agency
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 102 Palo Pinto Street #A, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7591353, -97.7983723
+- Phone: +18176181455
+- Website: https://www.goosehead.com/agents/tx/weatherford/chad-page/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:30
+- Pulse Score: 49/100 — Building — top 100% of insurance agents in Weatherford, TX, #4 of 4 insurance agents in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chad-page-agency-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chad-page-agency-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12478847994 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Chang Lee's Tae Kwon Do is a martial arts school in Weatherford, TX at 701 Palo Pinto Street #C, Weatherford, TX 76086. Website: https://aokmataekwondo.com/.
+
+# Chang Lee's Tae Kwon Do
+
+- Category: martial arts
+- Services: martial arts
+- Address: 701 Palo Pinto Street #C, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.75816, -97.8078652
+- Phone: n/a
+- Website: https://aokmataekwondo.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 04:30-20:00
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Weatherford, TX, #1 of 1 martial arts schools in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chang-lees-tae-kwon-do-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chang-lees-tae-kwon-do-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12882537727 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Christian Brothers Automotive is an auto repair shop in Weatherford, TX at 156 West Interstate 20, Weatherford, TX 76086.
+
+# Christian Brothers Automotive
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 156 West Interstate 20, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7293708, -97.793503
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 80% of auto repair shops in Weatherford, TX, #8 of 10 auto repair shops in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/christian-brothers-automotive-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667701587 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Cliffs Auto Service Center is an auto repair shop in Weatherford, TX at 302 Palo Pinto Street, Weatherford, TX. Phone: +18175943888. Website: https://www.goodyear.com/en_US/tire-stores/TX/Weatherford.
+
+# Cliffs Auto Service Center
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 302 Palo Pinto Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7592482, -97.8007543
+- Phone: +18175943888
+- Website: https://www.goodyear.com/en_US/tire-stores/TX/Weatherford
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-18:00
+- Pulse Score: 49.7/100 — Building — top 40% of auto repair shops in Weatherford, TX, #4 of 10 auto repair shops in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cliffs-auto-service-center-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cliffs-auto-service-center-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12478868463 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Cosmetic & Family Dentistry is a dentist in Weatherford, TX at 114 West Columbia Street, Weatherford, TX. Website: https://www.weatherfordfamilydentist.com/.
+
+# Cosmetic & Family Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 114 West Columbia Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7566367, -97.7983382
+- Phone: n/a
+- Website: https://www.weatherfordfamilydentist.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 67% of dentists in Weatherford, TX, #4 of 6 dentists in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cosmetic-and-family-dentistry-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cosmetic-and-family-dentistry-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12694661236 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Cowboy Express Car Wash is a car wash in Weatherford, TX at 907 South Main Street, Weatherford, TX. Phone: +18172104110. Website: https://cowboycw.com/weatherford-tx.
+
+# Cowboy Express Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 907 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.749357, -97.7970661
+- Phone: +18172104110
+- Website: https://cowboycw.com/weatherford-tx
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 08:00-20:00; Su 08:00-19:00
+- Pulse Score: 50.2/100 — Fair — top 25% of car washes in Weatherford, TX, #1 of 3 car washes in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cowboy-express-car-wash-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cowboy-express-car-wash-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12501176621 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Diamond B Mortgage and Realty is a real estate agency in Weatherford, TX at 817 South Main Street, Weatherford, TX.
+
+# Diamond B Mortgage and Realty
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 817 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7501608, -97.7971899
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.6/100 — Fair — top 72% of real estate agencys in Weatherford, TX, #4 of 6 real estate agencys in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/diamond-b-mortgage-and-realty-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/diamond-b-mortgage-and-realty-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12501085794 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Hudson Oaks, TX.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: Hudson Oaks, TX
+- City: Hudson Oaks
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7575808, -97.7160623
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42/100 — Building — top 100% of tire shops in Weatherford, TX, #1 of 1 tire shops in Hudson Oaks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 40.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-hudson-oaks/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-hudson-oaks.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1176017574 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Weatherford, TX at 140 West Interstate 20, Weatherford, TX 76086. Phone: +18175947031.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 140 West Interstate 20, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7295465, -97.7929705
+- Phone: +18175947031
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.2/100 — Building — top 67% of tire shops in Weatherford, TX, #2 of 2 tire shops in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667701589 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Dry Clean Super Center is a dry cleaner in Weatherford, TX at 605 South Main Street, Weatherford, TX.
+
+# Dry Clean Super Center
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: 605 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7522261, -97.7970441
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Building — top 100% of dry cleaners in Weatherford, TX, #2 of 2 dry cleaners in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dry-clean-super-center-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dry-clean-super-center-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12494650972 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+DT Roofing is a roofer in Weatherford, TX at 204 Santa Fe Drive #204, Weatherford, TX 76086. Phone: +16825001770. Website: https://dtroofing.net/.
+
+# DT Roofing
+
+- Category: roofer
+- Services: roofer, roofing contractor
+- Address: 204 Santa Fe Drive #204, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7571084, -97.7921271
+- Phone: +16825001770
+- Website: https://dtroofing.net/
+- Email: morgan@dtroofing.net
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 100% of roofers in Weatherford, TX, #1 of 1 roofers in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dt-roofing-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dt-roofing-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12829755279 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+E-NAILS is a nail salon in Weatherford, TX.
+
+# E-NAILS
+
+- Category: nail salon
+- Services: nail salon
+- Address: Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7284306, -97.7865601
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.3/100 — Unrated (not enough evidence yet) — top 100% of nail salons in Weatherford, TX, #1 of 1 nail salons in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/e-nails-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/e-nails-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9244425495 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Edward Jones is a financial advisor in Weatherford, TX at 102 Houston Street #203, Weatherford, TX. Phone: +18175980882. Website: https://www.edwardjones.com/us-en/financial-advisor/mary-mcdow.
+
+# Edward Jones
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: 102 Houston Street #203, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7587755, -97.7982113
+- Phone: +18175980882
+- Website: https://www.edwardjones.com/us-en/financial-advisor/mary-mcdow
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48/100 — Building — top 100% of financial advisors in Weatherford, TX, #2 of 2 financial advisors in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edward-jones-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edward-jones-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12466262695 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Edward Jones is a financial advisor in Weatherford, TX at 300 South Main Street #200, Weatherford, TX. Phone: +18175965841. Website: https://www.edwardjones.com/us-en/financial-advisor/donna-alberts.
+
+# Edward Jones
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: 300 South Main Street #200, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7560552, -97.7977507
+- Phone: +18175965841
+- Website: https://www.edwardjones.com/us-en/financial-advisor/donna-alberts
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 08:30-16:00; Fr 08:30-15:00
+- Pulse Score: 50.4/100 — Fair — top 50% of financial advisors in Weatherford, TX, #1 of 2 financial advisors in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edward-jones-weatherford-n12474332526/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edward-jones-weatherford-n12474332526.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12474332526 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Eggleston, King, Davis LLP is a lawyer in Weatherford, TX at 102 Houston Avenue #Suite 300, Weatherford, TX 78067. Website: https://ekdlaw.com/.
+
+# Eggleston, King, Davis LLP
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 102 Houston Avenue #Suite 300, Weatherford, TX 78067
+- City: Weatherford
+- State: TX
+- ZIP: 78067
+- Coordinates: 32.7587284, -97.7983275
+- Phone: n/a
+- Website: https://ekdlaw.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 88% of lawyers in Weatherford, TX, #7 of 8 lawyers in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/eggleston-king-davis-llp-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/eggleston-king-davis-llp-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12466262683 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Epic Orthodontics is a dentist in Weatherford, TX at 1442 South Main Street, Weatherford, TX. Phone: +18175999429. Website: https://www.epic-ortho.com/.
+
+# Epic Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: 1442 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7412617, -97.7979634
+- Phone: +18175999429
+- Website: https://www.epic-ortho.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-12:00
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 34% of dentists in Weatherford, TX, #2 of 6 dentists in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/epic-orthodontics-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/epic-orthodontics-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12514864514 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Extra Space Storage is a self-storage facility in Hudson Oaks, TX.
+
+# Extra Space Storage
+
+- Category: storage units
+- Services: storage units
+- Address: Hudson Oaks, TX
+- City: Hudson Oaks
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7528372, -97.6828566
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.3/100 — Building — top 100% of self-storage facilitys in Weatherford, TX, #1 of 1 self-storage facilitys in Hudson Oaks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-hudson-oaks/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/extra-space-storage-hudson-oaks.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1192977445 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Felts Photography is a photographer in Weatherford, TX at 102 Palo Pinto Street, Weatherford, TX. Phone: +18176131439. Website: https://www.feltsphotography.com/.
+
+# Felts Photography
+
+- Category: photographer
+- Services: photographer
+- Address: 102 Palo Pinto Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7591358, -97.7983065
+- Phone: +18176131439
+- Website: https://www.feltsphotography.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.4/100 — Good — top 50% of photographers in Weatherford, TX, #1 of 2 photographers in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/felts-photography-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/felts-photography-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12478847995 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+First Eye Care is an eye care practice in Weatherford, TX at 702 South Main Street, Weatherford, TX. Phone: +18173412020. Website: https://www.firsteyecareweatherford.com/.
+
+# First Eye Care
+
+- Category: eye doctor
+- Services: eye doctor
+- Address: 702 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7518912, -97.7978713
+- Phone: +18173412020
+- Website: https://www.firsteyecareweatherford.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Weatherford, TX, #1 of 1 eye care practices in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/first-eye-care-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/first-eye-care-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12499266258 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fisher Chiropractic is a chiropractor in Weatherford, TX at 320 Palo Pinto Street, Weatherford, TX. Phone: +18175941505. Website: https://fisherchiropracticclinic.com/.
+
+# Fisher Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 320 Palo Pinto Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7592454, -97.801939
+- Phone: +18175941505
+- Website: https://fisherchiropracticclinic.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.2/100 — Good — top 100% of chiropractors in Weatherford, TX, #1 of 1 chiropractors in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fisher-chiropractic-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fisher-chiropractic-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12536737644 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Flying Tire Bicycle is a bike shop in Weatherford, TX at 118 South Main Street, Weatherford, TX. Phone: +16828045055. Website: https://flyingtire-bicycle.com/.
+
+# Flying Tire Bicycle
+
+- Category: bike shop
+- Services: bike shop
+- Address: 118 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7577136, -97.7975606
+- Phone: +16828045055
+- Website: https://flyingtire-bicycle.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.4/100 — Good — top 100% of bike shops in Weatherford, TX, #1 of 1 bike shops in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/flying-tire-bicycle-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/flying-tire-bicycle-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12458058038 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Foland Veterinary Services is a veterinarian in Weatherford, TX at 803 Palo Pinto Street, Weatherford, TX 76086. Website: https://folandvet.com/.
+
+# Foland Veterinary Services
+
+- Category: vet
+- Services: vet
+- Address: 803 Palo Pinto Street, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7583658, -97.8090647
+- Phone: n/a
+- Website: https://folandvet.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 67% of veterinarians in Weatherford, TX, #2 of 2 veterinarians in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/foland-veterinary-services-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/foland-veterinary-services-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13101716410 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fox Den Fit Club is a gym in Weatherford, TX at 701 Palo Pinto Street #B, Weatherford, TX 76086. Phone: +18175506102. Website: https://foxdenfitclub.com/.
+
+# Fox Den Fit Club
+
+- Category: gym
+- Services: gym
+- Address: 701 Palo Pinto Street #B, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7583721, -97.8078617
+- Phone: +18175506102
+- Website: https://foxdenfitclub.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 04:00-23:00
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 25% of gyms in Weatherford, TX, #1 of 4 gyms in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fox-den-fit-club-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fox-den-fit-club-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/462036394 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Giggle Snaps Portrait Studio is a photographer in Weatherford, TX at 115 North Main Street, Weatherford, TX. Website: https://www.gigglesnapstudio.com/.
+
+# Giggle Snaps Portrait Studio
+
+- Category: photographer
+- Services: photographer
+- Address: 115 North Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7601752, -97.7975672
+- Phone: n/a
+- Website: https://www.gigglesnapstudio.com/
+- Email: tiffanysgiggle@gmail.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.3/100 — Good — top 100% of photographers in Weatherford, TX, #2 of 2 photographers in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/giggle-snaps-portrait-studio-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/giggle-snaps-portrait-studio-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12474108958 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Goodwill is a thrift store in Weatherford, TX at 1801 South Main Street, Weatherford, TX 76086.
+
+# Goodwill
+
+- Category: thrift store
+- Services: thrift store
+- Address: 1801 South Main Street, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7369329, -97.7953678
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.8/100 — Building — top 100% of thrift stores in Weatherford, TX, #1 of 1 thrift stores in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/363608376 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+GreenLight Roofing and Remodeling is a roofer in Hudson Oaks, TX at 100 South Oakridge Drive, Hudson Oaks, TX 76087. Phone: +18176631860. Website: https://www.greenlightroof.com/.
+
+# GreenLight Roofing and Remodeling
+
+- Category: roofer
+- Services: roofer, roofing contractor
+- Address: 100 South Oakridge Drive, Hudson Oaks, TX 76087
+- City: Hudson Oaks
+- State: TX
+- ZIP: 76087
+- Coordinates: 32.7554343, -97.7120397
+- Phone: +18176631860
+- Website: https://www.greenlightroof.com/
+- Email: matt@greenlightroof.com
+- Opening hours (OSM syntax): Mo-Fr 07:00-18:00, Sa 09:00-12:00
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 50% of roofers in Weatherford, TX, #1 of 1 roofers in Hudson Oaks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/greenlight-roofing-and-remodeling-hudson-oaks/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/greenlight-roofing-and-remodeling-hudson-oaks.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11811378497 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Hudson Oaks, TX.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Hudson Oaks, TX
+- City: Hudson Oaks
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7569745, -97.6968899
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.1/100 — Building — top 75% of car washes in Weatherford, TX, #1 of 1 car washes in Hudson Oaks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-hudson-oaks/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-hudson-oaks.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/906526435 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hartness Print Central is a printing service in Weatherford, TX at 1001 Palo Pinto Street, Weatherford, TX 76086. Phone: +18175946020. Website: https://www.hartnessprintcentral.com/.
+
+# Hartness Print Central
+
+- Category: printing services
+- Services: printing services
+- Address: 1001 Palo Pinto Street, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.758543, -97.8109068
+- Phone: +18175946020
+- Website: https://www.hartnessprintcentral.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 100% of printing services in Weatherford, TX, #2 of 2 printing services in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hartness-print-central-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hartness-print-central-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13101890165 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+HFB is a lawyer in Weatherford, TX at 120 Palo Pinto Street, Weatherford, TX. Phone: +18175506294. Website: https://www.hfblaw.com/.
+
+# HFB
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 120 Palo Pinto Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7592372, -97.7990066
+- Phone: +18175506294
+- Website: https://www.hfblaw.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Weatherford, TX, #4 of 8 lawyers in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hfb-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hfb-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12478865999 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Holiday Cleaners is a dry cleaner in Weatherford, TX at 116 East Interstate 20 Frontage Road #105, Weatherford, TX 76087.
+
+# Holiday Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: 116 East Interstate 20 Frontage Road #105, Weatherford, TX 76087
+- City: Weatherford
+- State: TX
+- ZIP: 76087
+- Coordinates: 32.7283837, -97.7867793
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 50% of dry cleaners in Weatherford, TX, #1 of 2 dry cleaners in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/holiday-cleaners-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/holiday-cleaners-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9349176624 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+HomeZone Furniture is a furniture store in Hudson Oaks, TX at 100 Home Zone Way, Hudson Oaks, TX 76087.
+
+# HomeZone Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: 100 Home Zone Way, Hudson Oaks, TX 76087
+- City: Hudson Oaks
+- State: TX
+- ZIP: 76087
+- Coordinates: 32.7528923, -97.715713
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 67% of furniture stores in Weatherford, TX, #1 of 1 furniture stores in Hudson Oaks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/homezone-furniture-hudson-oaks/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/homezone-furniture-hudson-oaks.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1004623801 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+I-20 Animal Hospital is a veterinarian in Hudson Oaks, TX.
+
+# I-20 Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: Hudson Oaks, TX
+- City: Hudson Oaks
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.752843, -97.6851885
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in Weatherford, TX, #1 of 1 veterinarians in Hudson Oaks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/i-20-animal-hospital-hudson-oaks/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/i-20-animal-hospital-hudson-oaks.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/717637387 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Indra's Grace is a yoga studio in Weatherford, TX at 131 West Church Street, Weatherford, TX. Phone: +16828030727. Website: https://www.indrasgrace.com/.
+
+# Indra's Grace
+
+- Category: yoga classes
+- Services: yoga classes
+- Address: 131 West Church Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7579959, -97.7988337
+- Phone: +16828030727
+- Website: https://www.indrasgrace.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 100% of yoga studios in Weatherford, TX, #1 of 1 yoga studios in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/indras-grace-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/indras-grace-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12535229538 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jackson Hewitt is a tax preparation service in Weatherford, TX at 607 Palo Pinto Street, Weatherford, TX. Phone: +18172554037. Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/tx/weatherford/607-palo-pinto-st/11777.
+
+# Jackson Hewitt
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 607 Palo Pinto Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7580647, -97.8062132
+- Phone: +18172554037
+- Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/tx/weatherford/607-palo-pinto-st/11777
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.8/100 — Building — top 100% of tax preparation services in Weatherford, TX, #1 of 1 tax preparation services in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jackson-hewitt-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12526810531 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+James Avery Jewelry is a jewelry store in Weatherford, TX at 116 East Interstate 20 Frontage Road, Weatherford, TX 76087.
+
+# James Avery Jewelry
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 116 East Interstate 20 Frontage Road, Weatherford, TX 76087
+- City: Weatherford
+- State: TX
+- ZIP: 76087
+- Coordinates: 32.7285037, -97.7861621
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.9/100 — Building — top 100% of jewelry stores in Weatherford, TX, #2 of 2 jewelry stores in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/james-avery-jewelry-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9349176623 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jiffy Lube is an auto repair shop in Weatherford, TX.
+
+# Jiffy Lube
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.736464, -97.795611
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.1/100 — Building — top 90% of auto repair shops in Weatherford, TX, #9 of 10 auto repair shops in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jiffy-lube-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667701603 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ko Storage is a self-storage facility in Weatherford, TX at 113 West Park Avenue, Weatherford, TX. Phone: +18178032293. Website: https://www.kostorage.com/storage-locations/texas/weatherford/ko-storage-of-weatherford-west-park/.
+
+# Ko Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 113 West Park Avenue, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7417485, -97.7987227
+- Phone: +18178032293
+- Website: https://www.kostorage.com/storage-locations/texas/weatherford/ko-storage-of-weatherford-west-park/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 50% of self-storage facilitys in Weatherford, TX, #1 of 1 self-storage facilitys in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ko-storage-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ko-storage-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1352624022 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Law Offices of Richard C. McConathy is a lawyer in Weatherford, TX at 109 York Avenue #207, Weatherford, TX 76086. Phone: +18174583226. Website: https://parkercriminallawyer.com/.
+
+# Law Offices of Richard C. McConathy
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 109 York Avenue #207, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7593778, -97.7982383
+- Phone: +18174583226
+- Website: https://parkercriminallawyer.com/
+- Email: info@parkercriminallawyer.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Pulse Score: 50.8/100 — Fair — top 100% of lawyers in Weatherford, TX, #8 of 8 lawyers in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/law-offices-of-richard-c-mcconathy-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/law-offices-of-richard-c-mcconathy-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9220541866 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Legal Aid of Northwest Texas is a lawyer in Weatherford, TX at 100 Austin Avenue, Weatherford, TX. Phone: +18009676708. Website: https://www.legalaidoffices.com/details/legal-aid-of-northwest-texas-weatherford.
+
+# Legal Aid of Northwest Texas
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 100 Austin Avenue, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.759134, -97.7964946
+- Phone: +18009676708
+- Website: https://www.legalaidoffices.com/details/legal-aid-of-northwest-texas-weatherford
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 38% of lawyers in Weatherford, TX, #3 of 8 lawyers in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/legal-aid-of-northwest-texas-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/legal-aid-of-northwest-texas-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12485272193 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Main Street Dental is a dentist in Weatherford, TX at 1302 South Main Street #120, Weatherford, TX. Phone: +18174589900. Website: https://mainstdental.us/contact-us.
+
+# Main Street Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 1302 South Main Street #120, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7434614, -97.7981666
+- Phone: +18174589900
+- Website: https://mainstdental.us/contact-us
+- Email: mainstdental16@gmail.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.9/100 — Building — top 84% of dentists in Weatherford, TX, #5 of 6 dentists in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/main-street-dental-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/main-street-dental-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12513144631 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mark E. Harden is a lawyer in Weatherford, TX at 105 South Main Street #A, Weatherford, TX. Phone: +18176138295. Website: https://markhardenlaw.com/parker-county-lawyer-weatherford/.
+
+# Mark E. Harden
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 105 South Main Street #A, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7580508, -97.7971708
+- Phone: +18176138295
+- Website: https://markhardenlaw.com/parker-county-lawyer-weatherford/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.3/100 — Good — top 13% of lawyers in Weatherford, TX, #1 of 8 lawyers in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mark-e-harden-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mark-e-harden-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12474314244 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mattress Depot is a mattress store in Weatherford, TX at 1305 South Main Street, Weatherford, TX.
+
+# Mattress Depot
+
+- Category: mattress store
+- Services: mattress store
+- Address: 1305 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7434242, -97.7973697
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.2/100 — Building — top 67% of mattress stores in Weatherford, TX, #2 of 3 mattress stores in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-depot-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-depot-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12513192484 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mattress2Go is a mattress store in Weatherford, TX at 1402 South Main Street, Weatherford, TX.
+
+# Mattress2Go
+
+- Category: mattress store
+- Services: mattress store
+- Address: 1402 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7420215, -97.797983
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 34% of mattress stores in Weatherford, TX, #1 of 3 mattress stores in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress2go-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress2go-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12514838673 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+MetroFlex Gym Weatherford is a gym in Weatherford, TX at 2113 Clear Lake Road #700, Weatherford, TX 76087.
+
+# MetroFlex Gym Weatherford
+
+- Category: gym
+- Services: gym
+- Address: 2113 Clear Lake Road #700, Weatherford, TX 76087
+- City: Weatherford
+- State: TX
+- ZIP: 76087
+- Coordinates: 32.7375231, -97.7587306
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 50% of gyms in Weatherford, TX, #2 of 4 gyms in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/metroflex-gym-weatherford-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/metroflex-gym-weatherford-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1175265474 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mimi's Salon is a hair salon in Weatherford, TX at 905 South Main Street, Weatherford, TX.
+
+# Mimi's Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 905 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7495936, -97.7971296
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 84% of hair salons in Weatherford, TX, #5 of 6 hair salons in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mimis-salon-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mimis-salon-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12501067558 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Model Real Estate Texas - Jared Benson is a real estate agency in Aledo, TX at 1421 Woodridge Drive, Aledo, TX 76008. Phone: +18178736618. Website: https://modelrealtytx.com/.
+
+# Model Real Estate Texas - Jared Benson
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 1421 Woodridge Drive, Aledo, TX 76008
+- City: Aledo
+- State: TX
+- ZIP: 76008
+- Coordinates: 32.733965, -97.6689409
+- Phone: +18178736618
+- Website: https://modelrealtytx.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 09:00-18:00
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 15% of real estate agencys in Weatherford, TX, #1 of 1 real estate agencys in Aledo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/model-real-estate-texas-jared-benson-aledo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/model-real-estate-texas-jared-benson-aledo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9560388554 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Moore Monuments is a concrete contractor in Weatherford, TX at 1102 Palo Pinto Street, Weatherford, TX 76086. Phone: +18175964317. Website: https://mooremonuments.com/.
+
+# Moore Monuments
+
+- Category: concrete contractor
+- Services: concrete contractor
+- Address: 1102 Palo Pinto Street, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7589706, -97.8125266
+- Phone: +18175964317
+- Website: https://mooremonuments.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 100% of concrete contractors in Weatherford, TX, #1 of 1 concrete contractors in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/moore-monuments-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/moore-monuments-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13101780743 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+My Dentist is a dentist in Weatherford, TX.
+
+# My Dentist
+
+- Category: dentist
+- Services: dentist
+- Address: Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7349364, -97.7955662
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.4/100 — Unrated (not enough evidence yet) — top 100% of dentists in Weatherford, TX, #6 of 6 dentists in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/my-dentist-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/my-dentist-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/872848543 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Palm Beach Tan is a tanning salon in Weatherford, TX at 1314 South Main Street #116, Weatherford, TX. Phone: +18175980205. Website: https://palmbeachtan.com/locations/TX/weatherford-south-main-street/.
+
+# Palm Beach Tan
+
+- Category: tanning salon
+- Services: tanning salon
+- Address: 1314 South Main Street #116, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7429615, -97.7980752
+- Phone: +18175980205
+- Website: https://palmbeachtan.com/locations/TX/weatherford-south-main-street/
+- Email: n/a
+- Opening hours (OSM syntax): Su 10:00-19:00; Mo-Fr 08:00-21:00; Sa 09:00-19:00
+- Pulse Score: 50.3/100 — Fair — top 100% of tanning salons in Weatherford, TX, #1 of 1 tanning salons in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/palm-beach-tan-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12513125563 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Parker County Pooch Parlor is a dog groomer in Parker County, TX at Suite 305 1886 Mineral Wells Highway, Parker County, TX 76088. Phone: +16824993725. Website: https://parkercountypoochparlor.com/.
+
+# Parker County Pooch Parlor
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: Suite 305 1886 Mineral Wells Highway, Parker County, TX 76088
+- City: Parker County
+- State: TX
+- ZIP: 76088
+- Coordinates: 32.7626347, -97.8310887
+- Phone: +16824993725
+- Website: https://parkercountypoochparlor.com/
+- Email: contact@parkercountypoochparlor.com
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Weatherford, TX, #1 of 1 dog groomers in Parker County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/parker-county-pooch-parlor-parker-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/parker-county-pooch-parlor-parker-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13733190901 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pep Boys is an auto repair shop in Weatherford, TX at 148 West Interstate 20, Weatherford, TX 76086.
+
+# Pep Boys
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 148 West Interstate 20, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7294238, -97.7932007
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.9/100 — Building — top 60% of auto repair shops in Weatherford, TX, #6 of 10 auto repair shops in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pep-boys-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pep-boys-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667701592 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pet Supplies Plus is a pet store in Weatherford, TX at 222 West Interstate 20, Weatherford, TX 76086.
+
+# Pet Supplies Plus
+
+- Category: pet store
+- Services: pet store
+- Address: 222 West Interstate 20, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7282624, -97.7976276
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.9/100 — Building — top 100% of pet stores in Weatherford, TX, #2 of 2 pet stores in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pet-supplies-plus-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pet-supplies-plus-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/905640671 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+PetSmart is a pet store in Weatherford, TX at 138 East Interstate 20 Frontage Road #160, Weatherford, TX 76087. Phone: +18175980702. Website: https://www.petsmart.com/stores/us/tx/weatherford-store1279.html.
+
+# PetSmart
+
+- Category: pet store
+- Services: pet store
+- Address: 138 East Interstate 20 Frontage Road #160, Weatherford, TX 76087
+- City: Weatherford
+- State: TX
+- ZIP: 76087
+- Coordinates: 32.7273798, -97.782741
+- Phone: +18175980702
+- Website: https://www.petsmart.com/stores/us/tx/weatherford-store1279.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Pulse Score: 49.3/100 — Building — top 50% of pet stores in Weatherford, TX, #1 of 2 pet stores in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petsmart-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petsmart-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/375444311 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Planet Fitness is a gym in Weatherford, TX.
+
+# Planet Fitness
+
+- Category: gym
+- Services: gym
+- Address: Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7352755, -97.7925831
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.7/100 — Building — top 100% of gyms in Weatherford, TX, #4 of 4 gyms in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 40.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/planet-fitness-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/planet-fitness-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/727578162 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Posh Hair Studio is a hair salon in Weatherford, TX at 105 York Avenue, Weatherford, TX. Phone: +16828034070. Website: https://www.poshhairstudiotx.com/.
+
+# Posh Hair Studio
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 105 York Avenue, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7592558, -97.7982122
+- Phone: +16828034070
+- Website: https://www.poshhairstudiotx.com/
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Sa 09:00-18:00
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 17% of hair salons in Weatherford, TX, #1 of 6 hair salons in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/posh-hair-studio-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/posh-hair-studio-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12466425560 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pro 1 Flooring is a flooring company in Weatherford, TX at 708 Palo Pinto Street, Weatherford, TX. Phone: +18177577201. Website: https://pro1flooring.com/.
+
+# Pro 1 Flooring
+
+- Category: flooring companies
+- Services: flooring companies
+- Address: 708 Palo Pinto Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7591381, -97.8080056
+- Phone: +18177577201
+- Website: https://pro1flooring.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-14:00
+- Pulse Score: 62.5/100 — Good — top 100% of flooring companys in Weatherford, TX, #1 of 1 flooring companys in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pro-1-flooring-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pro-1-flooring-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12543011214 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Providence Title is a real estate agency in Weatherford, TX at 102 Houston Street #100, Weatherford, TX. Phone: +18173410700. Website: https://www.protitletx.com/.
+
+# Providence Title
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 102 Houston Street #100, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7586644, -97.7982121
+- Phone: +18173410700
+- Website: https://www.protitletx.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 58% of real estate agencys in Weatherford, TX, #3 of 6 real estate agencys in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/providence-title-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/providence-title-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12466262694 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Quickprint is a printing service in Weatherford, TX at 101 College Avenue, Weatherford, TX. Phone: +18175948121. Website: https://www.quickprintofweatherford.com/.
+
+# Quickprint
+
+- Category: printing services
+- Services: printing services
+- Address: 101 College Avenue, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7587855, -97.7965063
+- Phone: +18175948121
+- Website: https://www.quickprintofweatherford.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 50% of printing services in Weatherford, TX, #1 of 2 printing services in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/quickprint-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/quickprint-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12458061520 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Razor's Edge Barber Shop is a barber shop in Weatherford, TX at 701 Palo Pinto Street #D, Weatherford, TX 76086.
+
+# Razor's Edge Barber Shop
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 701 Palo Pinto Street #D, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7581183, -97.8078662
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Fr 08:00-18:00; Sa 08:00-24:00
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Weatherford, TX, #1 of 1 barber shops in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/razors-edge-barber-shop-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/razors-edge-barber-shop-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12882537728 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Remembrance Flowers is a florist in Weatherford, TX at 414 Palo Pinto Street, Weatherford, TX. Phone: +18175942751.
+
+# Remembrance Flowers
+
+- Category: florist
+- Services: florist
+- Address: 414 Palo Pinto Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7591634, -97.8031471
+- Phone: +18175942751
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-15:30; Sa 08:00-12:00
+- Pulse Score: 61.9/100 — Good — top 100% of florists in Weatherford, TX, #1 of 1 florists in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/remembrance-flowers-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/remembrance-flowers-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12536775640 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rent-A-Center is a furniture store in Weatherford, TX at 314 South Main Street, Weatherford, TX. Phone: +18175943800. Website: https://locations.rentacenter.com/texas/weatherford/314-s-main-st/.
+
+# Rent-A-Center
+
+- Category: furniture store
+- Services: furniture store
+- Address: 314 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7555676, -97.7982811
+- Phone: +18175943800
+- Website: https://locations.rentacenter.com/texas/weatherford/314-s-main-st/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-18:00
+- Pulse Score: 49/100 — Building — top 100% of furniture stores in Weatherford, TX, #2 of 2 furniture stores in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rent-a-center-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rent-a-center-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12481065100 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Salon Echo is a hair salon in Weatherford, TX at 131 West Church Street #100, Weatherford, TX.
+
+# Salon Echo
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 131 West Church Street #100, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7581963, -97.7988116
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60/100 — Good — top 50% of hair salons in Weatherford, TX, #3 of 6 hair salons in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/salon-echo-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/salon-echo-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12535229537 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Santa Fe Terra is a furniture store in Weatherford, TX at 410 Palo Pinto Street, Weatherford, TX. Phone: +18177680530. Website: https://santafeterra.com/.
+
+# Santa Fe Terra
+
+- Category: furniture store
+- Services: furniture store
+- Address: 410 Palo Pinto Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7591824, -97.8029625
+- Phone: +18177680530
+- Website: https://santafeterra.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-17:00
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 34% of furniture stores in Weatherford, TX, #1 of 2 furniture stores in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/santa-fe-terra-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/santa-fe-terra-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12536775639 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Schrick's Liquor is a liquor store in Hudson Oaks, TX.
+
+# Schrick's Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: Hudson Oaks, TX
+- City: Hudson Oaks
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7577712, -97.713045
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 67% of liquor stores in Weatherford, TX, #1 of 1 liquor stores in Hudson Oaks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/schricks-liquor-hudson-oaks/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/schricks-liquor-hudson-oaks.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1096510834 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sleep Experts is a mattress store in Weatherford, TX.
+
+# Sleep Experts
+
+- Category: mattress store
+- Services: mattress store
+- Address: Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7288771, -97.7853028
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.8/100 — Building — top 100% of mattress stores in Weatherford, TX, #3 of 3 mattress stores in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sleep-experts-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sleep-experts-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9719588181 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Spec's is a liquor store in Weatherford, TX.
+
+# Spec's
+
+- Category: liquor store
+- Services: liquor store
+- Address: Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7360021, -97.7974833
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.9/100 — Building — top 100% of liquor stores in Weatherford, TX, #2 of 2 liquor stores in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/specs-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/specs-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/905983933 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sport Clips is a hair salon in Weatherford, TX.
+
+# Sport Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7283931, -97.7867283
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.9/100 — Building — top 100% of hair salons in Weatherford, TX, #6 of 6 hair salons in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sport-clips-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sport-clips-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9244425496 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Stephens Law is a lawyer in Weatherford, TX at 109 York Avenue #201, Weatherford, TX. Phone: +18174097000. Website: https://www.stephenslaw.com/.
+
+# Stephens Law
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 109 York Avenue #201, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7593358, -97.7982382
+- Phone: +18174097000
+- Website: https://www.stephenslaw.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 63% of lawyers in Weatherford, TX, #5 of 8 lawyers in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/stephens-law-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/stephens-law-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12466425564 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+T & Co. Salon is a hair salon in Weatherford, TX at 602 South Main Street, Weatherford, TX.
+
+# T & Co. Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 602 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7525943, -97.7978722
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 67% of hair salons in Weatherford, TX, #4 of 6 hair salons in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/t-and-co-salon-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/t-and-co-salon-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12499255471 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tanco Creations Jewelry is a jewelry store in Weatherford, TX at 1513 South Main Street, Weatherford, TX.
+
+# Tanco Creations Jewelry
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 1513 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.740119, -97.7973027
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 50% of jewelry stores in Weatherford, TX, #1 of 2 jewelry stores in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tanco-creations-jewelry-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tanco-creations-jewelry-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12519692481 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tara Stark Real Estate Group is a real estate agency in Weatherford, TX at 102 Houston Street #200, Weatherford, TX. Phone: +18172662816. Website: https://tarastark.myrealestateplatform.com/.
+
+# Tara Stark Real Estate Group
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 102 Houston Street #200, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7588109, -97.798211
+- Phone: +18172662816
+- Website: https://tarastark.myrealestateplatform.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.4/100 — Building — top 86% of real estate agencys in Weatherford, TX, #5 of 6 real estate agencys in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tara-stark-real-estate-group-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tara-stark-real-estate-group-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12466262696 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texas Classics and Customs is an auto repair shop in Weatherford, TX at 711 Palo Pinto Street, Weatherford, TX 76086. Phone: +18175507474.
+
+# Texas Classics and Customs
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 711 Palo Pinto Street, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7585917, -97.8085227
+- Phone: +18175507474
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 20% of auto repair shops in Weatherford, TX, #2 of 10 auto repair shops in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-classics-and-customs-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-classics-and-customs-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13101650713 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texas Coalition for Animal Protection is a veterinarian in Weatherford, TX at 1302 South Main Street #114, Weatherford, TX. Phone: +19405665551. Website: https://texasforthem.org/weatherford/.
+
+# Texas Coalition for Animal Protection
+
+- Category: vet
+- Services: vet
+- Address: 1302 South Main Street #114, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7436245, -97.7981634
+- Phone: +19405665551
+- Website: https://texasforthem.org/weatherford/
+- Email: n/a
+- Opening hours (OSM syntax): Th,Fr 09:00-12:00
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 34% of veterinarians in Weatherford, TX, #1 of 2 veterinarians in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-coalition-for-animal-protection-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-coalition-for-animal-protection-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12513144629 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texas Customs is a tire shop in Weatherford, TX at 501 South Main Street, Weatherford, TX. Phone: +18175506090. Website: https://www.texascustom15.com/.
+
+# Texas Customs
+
+- Category: tire shop
+- Services: tire shop
+- Address: 501 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7533259, -97.7971219
+- Phone: +18175506090
+- Website: https://www.texascustom15.com/
+- Email: tt15@texastirescustoms.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 63.3/100 — Good — top 34% of tire shops in Weatherford, TX, #1 of 2 tire shops in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-customs-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-customs-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12494606752 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texas Homes Brokerage is a real estate agency in Weatherford, TX at 109 York Avenue #204, Weatherford, TX. Phone: +18173449140. Website: https://www.txhomesgroup.com/.
+
+# Texas Homes Brokerage
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 109 York Avenue #204, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7593595, -97.7982123
+- Phone: +18173449140
+- Website: https://www.txhomesgroup.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.1/100 — Good — top 43% of real estate agencys in Weatherford, TX, #2 of 6 real estate agencys in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-homes-brokerage-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-homes-brokerage-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12466425561 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Brooks at Weatherford is an event venue in Weatherford, TX at 1185 West Lake Drive, Weatherford, TX 76087. Website: https://thebrooksatweatherford.com/.
+
+# The Brooks at Weatherford
+
+- Category: event venues
+- Services: event venues
+- Address: 1185 West Lake Drive, Weatherford, TX 76087
+- City: Weatherford
+- State: TX
+- ZIP: 76087
+- Coordinates: 32.7950655, -97.7059219
+- Phone: n/a
+- Website: https://thebrooksatweatherford.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 100% of event venues in Weatherford, TX, #3 of 3 event venues in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-brooks-at-weatherford-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-brooks-at-weatherford-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12327310980 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Law Office of Christopher J. Miller is a lawyer in Weatherford, TX at 124 North Main Street, Weatherford, TX. Phone: +16823502631. Website: https://www.attorneychrismiller.com/.
+
+# The Law Office of Christopher J. Miller
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 124 North Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7604456, -97.7971446
+- Phone: +16823502631
+- Website: https://www.attorneychrismiller.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.3/100 — Good — top 25% of lawyers in Weatherford, TX, #2 of 8 lawyers in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-law-office-of-christopher-j-miller-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-law-office-of-christopher-j-miller-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12476119315 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Lilies Loft Curvy Girls Boutique is a boutique in Weatherford, TX at 318 Santa Fe Dr #A, Weatherford, TX 76086. Phone: +18175994944. Website: https://liliesloftcurvygirlsboutique.com/.
+
+# The Lilies Loft Curvy Girls Boutique
+
+- Category: boutique
+- Services: boutique
+- Address: 318 Santa Fe Dr #A, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7550291, -97.7904439
+- Phone: +18175994944
+- Website: https://liliesloftcurvygirlsboutique.com/
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Fr 10:00-17:30; Sa 10:00-16:30
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 100% of boutiques in Weatherford, TX, #1 of 1 boutiques in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-lilies-loft-curvy-girls-boutique-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-lilies-loft-curvy-girls-boutique-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5835681740 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Peach is an event venue in Weatherford, TX at 113 North Main Street, Weatherford, TX. Phone: +16823508383. Website: https://www.thepeachonnorthmain.com/.
+
+# The Peach
+
+- Category: event venues
+- Services: event venues
+- Address: 113 North Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7601099, -97.7975666
+- Phone: +16823508383
+- Website: https://www.thepeachonnorthmain.com/
+- Email: events@thepeachonnorthmain.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 63.1/100 — Good — top 34% of event venues in Weatherford, TX, #1 of 3 event venues in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-peach-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-peach-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12474108959 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Sim Agency is an insurance agent in Weatherford, TX at 103 South Main Street, Weatherford, TX. Phone: +18176946384. Website: https://www.thesimagency.com/.
+
+# The Sim Agency
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 103 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7580906, -97.7971713
+- Phone: +18176946384
+- Website: https://www.thesimagency.com/
+- Email: katie@thesimagency.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 50% of insurance agents in Weatherford, TX, #2 of 4 insurance agents in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-sim-agency-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-sim-agency-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12474314243 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Thrivent is an accountant in Weatherford, TX at 318 Palo Pinto Street, Weatherford, TX. Phone: +16824120780. Website: https://connect.thrivent.com/mary-naumann.
+
+# Thrivent
+
+- Category: accountant
+- Services: accountant, accounting services
+- Address: 318 Palo Pinto Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7592524, -97.8017664
+- Phone: +16824120780
+- Website: https://connect.thrivent.com/mary-naumann
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.8/100 — Building — top 100% of accountants in Weatherford, TX, #1 of 1 accountants in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/thrivent-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/thrivent-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12536737640 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+TMC Property Solutions is a property management company in Weatherford, TX at 912 South Elm Street, Weatherford, TX. Phone: +18175505069. Website: https://www.tmcpropertysolutions.com/.
+
+# TMC Property Solutions
+
+- Category: property management company
+- Services: property management company, property management companies
+- Address: 912 South Elm Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.749073, -97.7967001
+- Phone: +18175505069
+- Website: https://www.tmcpropertysolutions.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 100% of property management companys in Weatherford, TX, #1 of 1 property management companys in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tmc-property-solutions-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tmc-property-solutions-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12521374405 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Trophy Insurance Solutions is an insurance agent in Weatherford, TX at 208 West Interstate 20, Weatherford, TX 76086.
+
+# Trophy Insurance Solutions
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 208 West Interstate 20, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7288779, -97.7949233
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 75% of insurance agents in Weatherford, TX, #3 of 4 insurance agents in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/trophy-insurance-solutions-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trophy-insurance-solutions-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667701583 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Twisted Snifter is a liquor store in Weatherford, TX at 111 North Main Street, Weatherford, TX 76086. Phone: +18179339705.
+
+# Twisted Snifter
+
+- Category: liquor store
+- Services: liquor store
+- Address: 111 North Main Street, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7600343, -97.7975658
+- Phone: +18179339705
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 12:00-19:00; Fr-Sa 10:00-22:00
+- Pulse Score: 63.4/100 — Good — top 34% of liquor stores in Weatherford, TX, #1 of 2 liquor stores in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/twisted-snifter-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/twisted-snifter-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12474108960 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Two Heels and a Loafer is a shoe repair in Weatherford, TX at 107 West Church Street, Weatherford, TX.
+
+# Two Heels and a Loafer
+
+- Category: shoe repair
+- Services: shoe repair
+- Address: 107 West Church Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7582434, -97.79773
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 100% of shoe repairs in Weatherford, TX, #1 of 1 shoe repairs in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/two-heels-and-a-loafer-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/two-heels-and-a-loafer-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12458285176 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ulta Beauty is a skin care studio in Weatherford, TX at 225 Adams Drive #215, Weatherford, TX 76086. Phone: +18175944634. Website: https://www.ulta.com/stores/weatherford-tx-347.
+
+# Ulta Beauty
+
+- Category: facial
+- Services: facial
+- Address: 225 Adams Drive #215, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7335025, -97.7884025
+- Phone: +18175944634
+- Website: https://www.ulta.com/stores/weatherford-tx-347
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+- Pulse Score: 45/100 — Building — top 100% of skin care studios in Weatherford, TX, #1 of 1 skin care studios in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ulta-beauty-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/375444334 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Valvoline is an auto repair shop in Weatherford, TX at 201 Adams Drive, Weatherford, TX 76086. Website: https://store.vioc.com/tx/weatherford/oil-change-070169.html.
+
+# Valvoline
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 201 Adams Drive, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7323206, -97.7907132
+- Phone: n/a
+- Website: https://store.vioc.com/tx/weatherford/oil-change-070169.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.1/100 — Building — top 50% of auto repair shops in Weatherford, TX, #5 of 10 auto repair shops in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valvoline-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valvoline-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/725250639 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Vick Carney Law is a lawyer in Weatherford, TX at 111 York Avenue, Weatherford, TX. Phone: +18175965533. Website: https://www.vickcarneylaw.com/.
+
+# Vick Carney Law
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 111 York Avenue, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7594968, -97.7982108
+- Phone: +18175965533
+- Website: https://www.vickcarneylaw.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 75% of lawyers in Weatherford, TX, #6 of 8 lawyers in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/vick-carney-law-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/vick-carney-law-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12466425565 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Vintage Event Center is an event venue in Weatherford, TX at 100 Fort Worth Highway, Weatherford, TX. Phone: +18176947040. Website: https://vintageweatherford.com/events/.
+
+# Vintage Event Center
+
+- Category: event venues
+- Services: event venues
+- Address: 100 Fort Worth Highway, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7586798, -97.7960272
+- Phone: +18176947040
+- Website: https://vintageweatherford.com/events/
+- Email: sakins@vintagegcm.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 67% of event venues in Weatherford, TX, #2 of 3 event venues in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/vintage-event-center-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/vintage-event-center-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12466443516 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Walker Automotive is an auto repair shop in Weatherford, TX at 416 Palo Pinto Street, Weatherford, TX. Phone: +18175506624.
+
+# Walker Automotive
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 416 Palo Pinto Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7592521, -97.803568
+- Phone: +18175506624
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 62.1/100 — Good — top 10% of auto repair shops in Weatherford, TX, #1 of 10 auto repair shops in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/walker-automotive-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/walker-automotive-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12543005078 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wallace Insurance Agency is an insurance agent in Weatherford, TX at 123 North Main Street, Weatherford, TX 76086. Phone: +18173417766. Website: https://wallaceins.net/.
+
+# Wallace Insurance Agency
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 123 North Main Street, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.760419, -97.7975697
+- Phone: +18173417766
+- Website: https://wallaceins.net/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 25% of insurance agents in Weatherford, TX, #1 of 4 insurance agents in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wallace-insurance-agency-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wallace-insurance-agency-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6280188492 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Walmart Auto Center is an auto repair shop in Weatherford, TX.
+
+# Walmart Auto Center
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7319809, -97.7956607
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.5/100 — Unrated (not enough evidence yet) — top 100% of auto repair shops in Weatherford, TX, #10 of 10 auto repair shops in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/walmart-auto-center-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/walmart-auto-center-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/745296936 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Weatherford Dental is a dentist in Weatherford, TX at 1420 South Main Street, Weatherford, TX. Website: https://weatherforddental.net/.
+
+# Weatherford Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 1420 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7414813, -97.7979258
+- Phone: n/a
+- Website: https://weatherforddental.net/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.3/100 — Good — top 50% of dentists in Weatherford, TX, #3 of 6 dentists in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/weatherford-dental-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/weatherford-dental-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12514838689 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Weichert is a real estate agency in Weatherford, TX at 406 South Main Street, Weatherford, TX. Phone: +18175980988. Website: https://www.weichert.com/offices/TX-Weatherford-Team-Realty-50-K50/.
+
+# Weichert
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 406 South Main Street, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7544244, -97.7977394
+- Phone: +18175980988
+- Website: https://www.weichert.com/offices/TX-Weatherford-Team-Realty-50-K50/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.6/100 — Building — top 100% of real estate agencys in Weatherford, TX, #6 of 6 real estate agencys in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/weichert-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/weichert-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12481047888 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Whitewater Express Car Wash is a car wash in Weatherford, TX.
+
+# Whitewater Express Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7592132, -97.7865107
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.2/100 — Unrated (not enough evidence yet) — top 100% of car washes in Weatherford, TX, #3 of 3 car washes in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/whitewater-express-car-wash-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/whitewater-express-car-wash-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/717645617 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wholistic Body Solutions is a massage studio in Weatherford, TX at 131 West Church Street #400, Weatherford, TX. Website: https://www.wholisticbodysolutions.com/.
+
+# Wholistic Body Solutions
+
+- Category: massage
+- Services: massage
+- Address: 131 West Church Street #400, Weatherford, TX
+- City: Weatherford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7579197, -97.7985046
+- Phone: n/a
+- Website: https://www.wholisticbodysolutions.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.9/100 — Good — top 50% of massage studios in Weatherford, TX, #1 of 2 massage studios in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wholistic-body-solutions-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wholistic-body-solutions-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12535229539 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wood Orthodontics is a dentist in Weatherford, TX at 971 Hilltop Drive, Weatherford, TX 76086. Phone: +18175995084. Website: https://www.getbraces.biz/.
+
+# Wood Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: 971 Hilltop Drive, Weatherford, TX 76086
+- City: Weatherford
+- State: TX
+- ZIP: 76086
+- Coordinates: 32.7464115, -97.7773929
+- Phone: +18175995084
+- Website: https://www.getbraces.biz/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-12:00
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 17% of dentists in Weatherford, TX, #1 of 6 dentists in Weatherford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wood-orthodontics-weatherford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wood-orthodontics-weatherford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13254708740 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

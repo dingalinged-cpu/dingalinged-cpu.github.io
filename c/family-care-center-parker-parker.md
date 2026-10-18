@@ -13,7 +13,7 @@ Family Care Center - Parker is a therapy practice in Parker, CO at 10120 Twenty 
 - Website: https://fccwellbeing.com/clinic-locations/denver/parker-clinic/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 27% of therapy practices in Denver, CO, #1 of 5 therapy practices in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 25% of therapy practices in Denver, CO, #1 of 5 therapy practices in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

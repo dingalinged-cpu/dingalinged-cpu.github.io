@@ -13,7 +13,7 @@ Compass Self Storage is a self-storage facility in Cincinnati, OH at 4700 Wilmer
 - Website: https://www.compassselfstorage.com/self-storage/oh/cincinnati/linwood-wilmer-ct/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.4/100 — Fair — top 51% of self-storage facilitys in Cincinnati, OH, #14 of 20 self-storage facilitys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 48% of self-storage facilitys in Cincinnati, OH, #13 of 20 self-storage facilitys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

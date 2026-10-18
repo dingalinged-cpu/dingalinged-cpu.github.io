@@ -13,7 +13,7 @@ Liberty Tax is a tax preparation service in Manhattan, KS at 100 Bluemont Avenue
 - Website: https://www.libertytax.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 34% of tax preparation services in Manhattan, KS, #1 of 3 tax preparation services in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 34% of tax preparation services in Manhattan, KS, #1 of 3 tax preparation services in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

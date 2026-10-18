@@ -13,7 +13,7 @@ Moore & Webb Chiropractic is a chiropractor in Hutchinson, KS at 1035 East 30th 
 - Website: https://www.mooreandwebbchiro.com/
 - Email: smoorechiropractic@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 50% of chiropractors in Wichita, KS, #2 of 3 chiropractors in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 50% of chiropractors in Wichita, KS, #2 of 3 chiropractors in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

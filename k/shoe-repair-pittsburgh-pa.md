@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Fox Chapel Shoe Service | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Fox Chapel Shoe Service is a shoe repair in Pittsburgh, PA at 1149 Freeport Road, Pittsburgh, PA 15238. Phone: +14127817339. | https://registry-edge.dingalinged.workers.dev/c/fox-chapel-shoe-service-pittsburgh/
 2. Mazza's Shoes | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Mazza's Shoes is a shoe repair in Pittsburgh, PA at 618 Brookline Boulevard, Pittsburgh, PA 15226. Phone: +14123417493. | https://registry-edge.dingalinged.workers.dev/c/mazzas-shoes-pittsburgh/
 3. Ullrich Shoe Repair | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | Ullrich Shoe Repair is a shoe repair in Pittsburgh, PA at 1788 North Highland Road, Pittsburgh, PA 15241. | https://registry-edge.dingalinged.workers.dev/c/ullrich-shoe-repair-pittsburgh/
-4. Squirrel Hill Shoe Repair | Organic #4 | Pulse Score 58.1/100 (Fair, #4 in city) | Squirrel Hill Shoe Repair is a shoe repair in Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/squirrel-hill-shoe-repair-pittsburgh/
+4. Squirrel Hill Shoe Repair | Organic #4 | Pulse Score 58/100 (Fair, #4 in city) | Squirrel Hill Shoe Repair is a shoe repair in Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/squirrel-hill-shoe-repair-pittsburgh/
 5. Gabriel Shoe Repair | Organic #5 | Pulse Score 57.6/100 (Unrated, #5 in city) | Gabriel Shoe Repair is a shoe repair in Pittsburgh, PA. Phone: +14123916797. | https://registry-edge.dingalinged.workers.dev/c/gabriel-shoe-repair-pittsburgh/
 
 ## Market data (for advertisers and agents)

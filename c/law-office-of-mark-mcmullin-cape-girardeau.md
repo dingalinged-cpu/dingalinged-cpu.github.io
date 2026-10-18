@@ -13,7 +13,7 @@ Law Office of Mark McMullin is a lawyer in Cape Girardeau, MO at 2007 Independen
 - Website: https://capegirardeaulaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:00; Fr 08:30-15:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Cape Girardeau, MO, #1 of 2 lawyers in Cape Girardeau (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Cape Girardeau, MO, #1 of 2 lawyers in Cape Girardeau (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Westland, MI at 35120 Central City Park
 - Website: https://stores.ashleyfurniture.com/store/us/michigan/westland/9000109231/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 65% of furniture stores in Detroit, MI, #2 of 2 furniture stores in Westland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 63% of furniture stores in Detroit, MI, #2 of 2 furniture stores in Westland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

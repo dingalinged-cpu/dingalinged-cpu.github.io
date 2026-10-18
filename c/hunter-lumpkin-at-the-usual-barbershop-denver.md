@@ -13,7 +13,7 @@ Hunter Lumpkin at The Usual Barbershop is a barber shop in Denver, CO at 2950 We
 - Website: https://www.theusualbarbershop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Th-Sa 10:00-18:00; Su-We 10:00-17:00
-- Pulse Score: 61.5/100 — Good — top 24% of barber shops in Denver, CO, #4 of 10 barber shops in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 24% of barber shops in Denver, CO, #4 of 10 barber shops in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

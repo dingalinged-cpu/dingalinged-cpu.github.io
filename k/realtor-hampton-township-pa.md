@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Berkshire Hathaway HomeServices | Organic #3 | Pulse Score 43.8/100 (Building, #3 in city) | Berkshire Hathaway HomeServices is a real estate agency in Hampton Township, PA. | https://registry-edge.dingalinged.workers.dev/c/berkshire-hathaway-homeservices-hampton-township/
 4. Northwood Realty Services | Organic #4 | Pulse Score 43.5/100 (Unrated, #4 in city) | Northwood Realty Services is a real estate agency in Hampton Township, PA. | https://registry-edge.dingalinged.workers.dev/c/northwood-realty-services-hampton-township/
 5. Howard Hanna | Organic #5 | Pulse Score 43/100 (Unrated, #5 in city) | Howard Hanna is a real estate agency in Hampton Township, PA. | https://registry-edge.dingalinged.workers.dev/c/howard-hanna-hampton-township/
-6. Coldwell Banker | Organic #6 | Pulse Score 42.9/100 (Building, #6 in city) | Coldwell Banker is a real estate agency in Hampton Township, PA. | https://registry-edge.dingalinged.workers.dev/c/coldwell-banker-hampton-township/
+6. Coldwell Banker | Organic #6 | Pulse Score 42.8/100 (Building, #6 in city) | Coldwell Banker is a real estate agency in Hampton Township, PA. | https://registry-edge.dingalinged.workers.dev/c/coldwell-banker-hampton-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor hampton township pa | category: real_estate | industry benchmark: Real Estate

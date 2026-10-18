@@ -13,7 +13,7 @@ Kriser's is a pet store in Lakewood, CO at 14710 West Colfax Avenue, Lakewood, C
 - Website: https://krisers.com/a/pages/locations/59/lakewood
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 86% of pet stores in Denver, CO, #5 of 6 pet stores in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 86% of pet stores in Denver, CO, #5 of 6 pet stores in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: it support in Anderson Township, OH; it support near me (Anderson 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Zimcom - A Liberty Center One Company | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Zimcom - A Liberty Center One Company is an IT support company in Cincinnati, OH at 1080 Nimitzview Drive #400, Cincinnati, OH 45230. Phone: +15132319500. Website: https://www.zimcom.net/. | https://registry-edge.dingalinged.workers.dev/c/zimcom-a-liberty-center-one-company-cincinnati/
+1. Zimcom - A Liberty Center One Company | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Zimcom - A Liberty Center One Company is an IT support company in Cincinnati, OH at 1080 Nimitzview Drive #400, Cincinnati, OH 45230. Phone: +15132319500. Website: https://www.zimcom.net/. | https://registry-edge.dingalinged.workers.dev/c/zimcom-a-liberty-center-one-company-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support anderson township oh | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

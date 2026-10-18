@@ -6,7 +6,7 @@ Also answers: heating and air in Troy, MI; heating and air near me (Troy, MI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wiegand Heating & Cooling | Organic #1 | Pulse Score 59.6/100 (Unrated, #3 in city) | Wiegand Heating & Cooling is a HVAC contractor in Sterling Heights, MI at 43750, Sterling Heights, MI. Phone: +15862046734. Website: https://www.wiegandheating.com/. | https://registry-edge.dingalinged.workers.dev/c/wiegand-heating-and-cooling-sterling-heights/
+1. Wiegand Heating & Cooling | Organic #1 | Pulse Score 59.5/100 (Unrated, #3 in city) | Wiegand Heating & Cooling is a HVAC contractor in Sterling Heights, MI at 43750, Sterling Heights, MI. Phone: +15862046734. Website: https://www.wiegandheating.com/. | https://registry-edge.dingalinged.workers.dev/c/wiegand-heating-and-cooling-sterling-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air troy mi | category: Home Services | industry benchmark: Home & Home Improvement

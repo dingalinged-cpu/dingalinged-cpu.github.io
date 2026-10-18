@@ -13,7 +13,7 @@ The Joint Chiropractic is a chiropractor in Saint Louis, MO at 58A North Euclid 
 - Website: https://www.thejoint.com/missouri/st-louis/central-west-end-24012
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-14:00,14:45-19:00; Sa 10:00-16:00
-- Pulse Score: 48.9/100 — Building — top 84% of chiropractors in St. Louis, MO, #4 of 4 chiropractors in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 84% of chiropractors in St. Louis, MO, #4 of 4 chiropractors in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

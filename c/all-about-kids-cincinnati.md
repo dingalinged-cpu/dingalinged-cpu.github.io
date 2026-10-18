@@ -13,7 +13,7 @@ All About Kids is a preschool in Cincinnati, OH at 11210 Montgomery Road, Cincin
 - Website: https://www.allaboutkidslc.com/montgomery/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Unrated (not enough evidence yet) — top 64% of preschools in Cincinnati, OH, #8 of 10 preschools in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 64% of preschools in Cincinnati, OH, #8 of 10 preschools in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

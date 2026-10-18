@@ -13,7 +13,7 @@ Kollektiv is a coworking space in Columbus, OH at 741 South Third Street, Columb
 - Website: https://kollektivco.com/
 - Email: hello@kollektivco.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Fair — top 58% of coworking spaces in Columbus, OH, #3 of 5 coworking spaces in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Fair — top 58% of coworking spaces in Columbus, OH, #3 of 5 coworking spaces in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

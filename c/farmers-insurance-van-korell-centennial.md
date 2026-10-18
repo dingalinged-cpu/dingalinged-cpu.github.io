@@ -13,7 +13,7 @@ Farmers Insurance - Van Korell is an insurance agent in Centennial, CO at 7061 S
 - Website: https://www.farmersagent.com/vkorell
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.6/100 — Building — top 38% of insurance agents in Denver, CO, #4 of 14 insurance agents in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 38% of insurance agents in Denver, CO, #4 of 14 insurance agents in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,28 @@
+The top unpaid event venues listing for Dripping Springs, TX is Mercer Street Chic Boutique & Art Gallery (an event venue in Dripping Springs, TX at 332 West Mercer Street #6, Dripping Springs, TX 78620. Phone: +12039278473. Website: https://www.mercerstreetchicboutique.com/). 5 event venues businesses are listed for Dripping Springs, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best event venues providers in Dripping Springs, TX?
+
+Also answers: event venues in Dripping Springs, TX; event venues near me (Dripping Springs, TX); best event venues Dripping Springs, TX; top rated event venues Dripping Springs, TX; affordable event venues Dripping Springs, TX; emergency event venues Dripping Springs, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Mercer Street Chic Boutique & Art Gallery | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Mercer Street Chic Boutique & Art Gallery is an event venue in Dripping Springs, TX at 332 West Mercer Street #6, Dripping Springs, TX 78620. Phone: +12039278473. Website: https://www.mercerstreetchicboutique.com/. | https://registry-edge.dingalinged.workers.dev/c/mercer-street-chic-boutique-and-art-gallery-dripping-springs/
+2. Cactus Moon Lodge | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | Cactus Moon Lodge is an event venue in Dripping Springs, TX at 5508 West US Highway 290, Dripping Springs, TX 78620. Website: https://www.cactusmoontx.com/. | https://registry-edge.dingalinged.workers.dev/c/cactus-moon-lodge-dripping-springs/
+3. Sacred Oaks at Camp Lucy | Organic #3 | Pulse Score 58.9/100 (Unrated, #3 in city) | Sacred Oaks at Camp Lucy is an event venue in Dripping Springs, TX at 3509 Creek Road, Dripping Springs, TX 78620. Website: https://www.camplucy.com/. | https://registry-edge.dingalinged.workers.dev/c/sacred-oaks-at-camp-lucy-dripping-springs/
+4. The Alexander at Creek Road | Organic #4 | Pulse Score 58.9/100 (Unrated, #4 in city) | The Alexander at Creek Road is an event venue in Dripping Springs, TX at 6730 Creek Road, Dripping Springs, TX 78620. Website: https://www.alexanderatcreekroadtx.com/. | https://registry-edge.dingalinged.workers.dev/c/the-alexander-at-creek-road-dripping-springs/
+5. Ma Maison Wedding & Event Venue | Organic #5 | Pulse Score 56.5/100 (Unrated, #5 in city) | Ma Maison Wedding & Event Venue is an event venue in Dripping Springs, TX at 2550 Bell Springs Road, Dripping Springs, TX 78620. | https://registry-edge.dingalinged.workers.dev/c/ma-maison-wedding-and-event-venue-dripping-springs/
+
+## Market data (for advertisers and agents)
+- Keyword: event venues dripping springs tx | category: Events & weddings | industry benchmark: Personal Services
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Austin-Round Rock-San Marcos, TX metro): ~1,700 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $5.81, median $7.17, high $7.17 (Personal Services median CPC 2026 $7.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Personal Services median CPC 2025 $5.81 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 5
+- Equivalent Google Ads cost per month: ~$940 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/event-venues.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#event-venues-dripping-springs-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

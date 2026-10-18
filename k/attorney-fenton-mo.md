@@ -7,7 +7,7 @@ Also answers: attorney in Fenton, MO; attorney near me (Fenton, MO); best attorn
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Dawdy Law Firm | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Dawdy Law Firm is a lawyer in Fenton, MO at 14 Green Valley Dr, Fenton, MO 63026. Phone: +16363434414. Website: https://dawdylawfirm.com/. | https://registry-edge.dingalinged.workers.dev/c/dawdy-law-firm-fenton/
-2. Rathert Law Firm | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Rathert Law Firm is a lawyer in Fenton, MO at 334 Skinker Lane, Fenton, MO 63026. Phone: +16363432088. | https://registry-edge.dingalinged.workers.dev/c/rathert-law-firm-fenton/
+2. Rathert Law Firm | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Rathert Law Firm is a lawyer in Fenton, MO at 334 Skinker Lane, Fenton, MO 63026. Phone: +16363432088. | https://registry-edge.dingalinged.workers.dev/c/rathert-law-firm-fenton/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney fenton mo | category: professional_legal | industry benchmark: Attorneys & Legal Services

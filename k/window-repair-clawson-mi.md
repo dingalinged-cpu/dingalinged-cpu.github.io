@@ -6,7 +6,7 @@ Also answers: window repair in Clawson, MI; window repair near me (Clawson, MI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alba Glass | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Alba Glass is a window repair service in Clawson, MI at 940 West 14 Mile Road, Clawson, MI 48017. Phone: +12484358128. Website: https://www.albaglassmi.org/. | https://registry-edge.dingalinged.workers.dev/c/alba-glass-clawson/
+1. Alba Glass | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Alba Glass is a window repair service in Clawson, MI at 940 West 14 Mile Road, Clawson, MI 48017. Phone: +12484358128. Website: https://www.albaglassmi.org/. | https://registry-edge.dingalinged.workers.dev/c/alba-glass-clawson/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair clawson mi | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

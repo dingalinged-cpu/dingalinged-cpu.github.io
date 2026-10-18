@@ -13,7 +13,7 @@ Cyndee's Studio of Dance is a dance studio in Pataskala, OH at 728 Corylus Drive
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 17:00-21:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 12% of dance studios in Columbus, OH, #1 of 1 dance studios in Pataskala (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 12% of dance studios in Columbus, OH, #1 of 1 dance studios in Pataskala (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

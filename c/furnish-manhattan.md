@@ -13,7 +13,7 @@ Furnish is a furniture store in Manhattan, KS at 314 Poyntz Avenue, Manhattan, K
 - Website: https://furnishmhk.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-14:00; Tu-Fr 10:00-18:00; Sa 10:00-17:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 17% of furniture stores in Manhattan, KS, #1 of 5 furniture stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 17% of furniture stores in Manhattan, KS, #1 of 5 furniture stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

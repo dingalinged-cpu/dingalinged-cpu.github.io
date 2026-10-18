@@ -7,7 +7,7 @@ Also answers: music lessons in Parker, CO; music lessons near me (Parker, CO); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Music@Parker Rd | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Music@Parker Rd is a music school in Parker, CO at 18741 Ponderosa Drive #G, Parker, CO 80134. Phone: +13038470122. Website: https://www.musicatparker.com/. | https://registry-edge.dingalinged.workers.dev/c/music-parker-rd-parker/
-2. Children's Music Academy | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Children's Music Academy is a music school in Parker, CO at 10158 South Parker Road #C, Parker, CO 80138. | https://registry-edge.dingalinged.workers.dev/c/childrens-music-academy-parker/
+2. Children's Music Academy | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Children's Music Academy is a music school in Parker, CO at 10158 South Parker Road #C, Parker, CO 80138. | https://registry-edge.dingalinged.workers.dev/c/childrens-music-academy-parker/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons parker co | category: Education & childcare | industry benchmark: Education & Instruction

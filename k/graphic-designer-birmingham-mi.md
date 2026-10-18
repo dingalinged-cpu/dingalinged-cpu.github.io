@@ -6,7 +6,7 @@ Also answers: graphic designer in Birmingham, MI; graphic designer near me (Birm
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Creo Graphic Design | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Creo Graphic Design is a graphic designer in Birmingham, MI at 33401 Woodward Avenue, Birmingham, MI 48009. | https://registry-edge.dingalinged.workers.dev/c/creo-graphic-design-birmingham/
+1. Creo Graphic Design | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Creo Graphic Design is a graphic designer in Birmingham, MI at 33401 Woodward Avenue, Birmingham, MI 48009. | https://registry-edge.dingalinged.workers.dev/c/creo-graphic-design-birmingham/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer birmingham mi | category: professional_marketing | industry benchmark: Business Services

@@ -13,7 +13,7 @@ Great Clips is a hair salon in Upper Arlington, OH at 4715 Reed Road, Upper Arli
 - Website: https://app.greatclips.com/salon/2302/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-17:00
-- Pulse Score: 49.9/100 — Building — top 72% of hair salons in Columbus, OH, #7 of 10 hair salons in Upper Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 70% of hair salons in Columbus, OH, #6 of 10 hair salons in Upper Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

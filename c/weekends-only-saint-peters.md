@@ -13,7 +13,7 @@ Weekends Only is a furniture store in Saint Peters, MO at 411 Mid Rivers Mall Dr
 - Website: https://www.weekendsonly.com/midrivers
 - Email: n/a
 - Opening hours (OSM syntax): Fr,Sa 10:00-21:00; Su 10:00-20:00; Mo-Th off
-- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in St. Peters, MO, #3 of 3 furniture stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in St. Peters, MO, #3 of 3 furniture stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

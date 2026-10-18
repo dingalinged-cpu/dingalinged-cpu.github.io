@@ -13,7 +13,7 @@ Baptist Homes is an assisted living facility in Pittsburgh, PA at 489 Castle Sha
 - Website: https://www.baptisthomes.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 39% of assisted living facilitys in Pittsburgh, PA, #4 of 4 assisted living facilitys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 39% of assisted living facilitys in Pittsburgh, PA, #4 of 4 assisted living facilitys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

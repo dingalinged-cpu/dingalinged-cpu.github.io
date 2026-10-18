@@ -6,7 +6,7 @@ Also answers: facial in Cranberry Township, PA; facial near me (Cranberry Townsh
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ulta Beauty | Organic #1 | Pulse Score 45.1/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Cranberry Township, PA at 20111 #110, Cranberry Township, PA 16066. Phone: +17247763975. Website: https://www.ulta.com/stores/cranberry-township-pa-1011. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-cranberry-township/
+1. Ulta Beauty | Organic #1 | Pulse Score 45/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Cranberry Township, PA at 20111 #110, Cranberry Township, PA 16066. Phone: +17247763975. Website: https://www.ulta.com/stores/cranberry-township-pa-1011. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-cranberry-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial cranberry township pa | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

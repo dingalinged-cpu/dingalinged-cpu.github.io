@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Saint Peters, MO at 7112 Mexico Road, Saint
 - Website: https://palmbeachtan.com/locations/MO/St-Peters-Mexico-Road/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-22:00; Sa,Su 08:00-18:00
-- Pulse Score: 50.3/100 — Fair — top 100% of tanning salons in St. Peters, MO, #1 of 1 tanning salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 100% of tanning salons in St. Peters, MO, #1 of 1 tanning salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 66.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

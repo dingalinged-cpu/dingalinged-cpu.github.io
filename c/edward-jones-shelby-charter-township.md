@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Shelby Charter Township, MI at 54985 Shel
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-16:00
-- Pulse Score: 44/100 — Building — top 78% of financial advisors in Detroit, MI, #1 of 1 financial advisors in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Building — top 75% of financial advisors in Detroit, MI, #1 of 1 financial advisors in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

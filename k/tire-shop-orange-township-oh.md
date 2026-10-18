@@ -6,7 +6,7 @@ Also answers: tire shop in Orange Township, OH; tire shop near me (Orange Townsh
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | Organic #1 | Pulse Score 44.2/100 (Building, #1 in city) | Discount Tire is a tire shop in Orange Township, OH at 190 Hornbeam Lane, Orange Township, OH. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-orange-township/
+1. Discount Tire | Organic #1 | Pulse Score 44.1/100 (Building, #1 in city) | Discount Tire is a tire shop in Orange Township, OH at 190 Hornbeam Lane, Orange Township, OH. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-orange-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop orange township oh | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

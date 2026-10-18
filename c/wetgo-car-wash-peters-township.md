@@ -13,7 +13,7 @@ WetGo Car Wash is a car wash in Peters Township, PA at 2846 Washington Road, Pet
 - Website: https://www.getgocafe.com/stores/pa/mcmurray/mcmurray-getgo-wetgo/3116
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Unrated (not enough evidence yet) — top 76% of car washes in Pittsburgh, PA, #1 of 1 car washes in Peters Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Unrated (not enough evidence yet) — top 75% of car washes in Pittsburgh, PA, #1 of 1 car washes in Peters Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

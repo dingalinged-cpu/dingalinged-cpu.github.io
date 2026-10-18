@@ -6,11 +6,11 @@ Also answers: dentist in Canal Winchester, OH; dentist near me (Canal Winchester
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Diley Ridge Dental | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Diley Ridge Dental is a dentist in Canal Winchester, OH at 7770 Diley Road, Canal Winchester, OH. | https://registry-edge.dingalinged.workers.dev/c/diley-ridge-dental-canal-winchester/
-2. Magnolia Dental | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Magnolia Dental is a dentist in Canal Winchester, OH. | https://registry-edge.dingalinged.workers.dev/c/magnolia-dental-canal-winchester/
-3. Canal Family Dentistry | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Canal Family Dentistry is a dentist in Canal Winchester, OH at 23 Waterloo Street, Canal Winchester, OH. | https://registry-edge.dingalinged.workers.dev/c/canal-family-dentistry-canal-winchester/
-4. Fixari Family Dental | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Fixari Family Dental is a dentist in Canal Winchester, OH. | https://registry-edge.dingalinged.workers.dev/c/fixari-family-dental-canal-winchester/
-5. Winchester Dental | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Winchester Dental is a dentist in Canal Winchester, OH. | https://registry-edge.dingalinged.workers.dev/c/winchester-dental-canal-winchester/
+1. Diley Ridge Dental | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Diley Ridge Dental is a dentist in Canal Winchester, OH at 7770 Diley Road, Canal Winchester, OH. | https://registry-edge.dingalinged.workers.dev/c/diley-ridge-dental-canal-winchester/
+2. Canal Family Dentistry | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Canal Family Dentistry is a dentist in Canal Winchester, OH at 23 Waterloo Street, Canal Winchester, OH. | https://registry-edge.dingalinged.workers.dev/c/canal-family-dentistry-canal-winchester/
+3. Fixari Family Dental | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Fixari Family Dental is a dentist in Canal Winchester, OH. | https://registry-edge.dingalinged.workers.dev/c/fixari-family-dental-canal-winchester/
+4. Winchester Dental | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Winchester Dental is a dentist in Canal Winchester, OH. | https://registry-edge.dingalinged.workers.dev/c/winchester-dental-canal-winchester/
+5. Magnolia Dental | Organic #5 | Pulse Score 44.7/100 (Unrated, #5 in city) | Magnolia Dental is a dentist in Canal Winchester, OH. | https://registry-edge.dingalinged.workers.dev/c/magnolia-dental-canal-winchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist canal winchester oh | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

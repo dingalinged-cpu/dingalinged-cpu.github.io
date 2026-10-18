@@ -13,7 +13,7 @@ Elaine B Jewelry is a jewelry store in Cincinnati, OH at 2944 Markbreit Avenue, 
 - Website: https://www.elainebjewelry.com/pages/location-cincinnati
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 16% of jewelry stores in Cincinnati, OH, #7 of 13 jewelry stores in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 16% of jewelry stores in Cincinnati, OH, #7 of 13 jewelry stores in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

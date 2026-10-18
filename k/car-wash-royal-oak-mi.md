@@ -7,7 +7,7 @@ Also answers: car wash in Royal Oak, MI; car wash near me (Royal Oak, MI); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Gerrit's Car Wash | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Gerrit's Car Wash is a car wash in Royal Oak, MI at 1418 East 11 Mile Road, Royal Oak, MI 48067. | https://registry-edge.dingalinged.workers.dev/c/gerrits-car-wash-royal-oak/
-2. Tommy's Express Car Wash | Organic #2 | Pulse Score 45.3/100 (Unrated, #2 in city) | Tommy's Express Car Wash is a car wash in Royal Oak, MI at 31800 Woodward Avenue, Royal Oak, MI. | https://registry-edge.dingalinged.workers.dev/c/tommys-express-car-wash-royal-oak/
+2. Tommy's Express Car Wash | Organic #2 | Pulse Score 45.2/100 (Unrated, #2 in city) | Tommy's Express Car Wash is a car wash in Royal Oak, MI at 31800 Woodward Avenue, Royal Oak, MI. | https://registry-edge.dingalinged.workers.dev/c/tommys-express-car-wash-royal-oak/
 3. Jax Kar Wash | Organic #3 | Pulse Score 45/100 (Unrated, #3 in city) | Jax Kar Wash is a car wash in Royal Oak, MI at 31295 Woodward Avenue, Royal Oak, MI. | https://registry-edge.dingalinged.workers.dev/c/jax-kar-wash-royal-oak/
 4. Jax Kar Wash | Organic #4 | Pulse Score 43.4/100 (Unrated, #4 in city) | Jax Kar Wash is a car wash in Royal Oak, MI. | https://registry-edge.dingalinged.workers.dev/c/jax-kar-wash-royal-oak-w686771064/
 

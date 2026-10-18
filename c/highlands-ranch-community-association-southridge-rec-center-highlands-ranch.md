@@ -13,7 +13,7 @@ Highlands Ranch Community Association - Southridge Rec Center is a gym in Highla
 - Website: https://hrcaonline.org/about-us/recreation-centers-backcountry/southridge-recreation-center
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 56% of gyms in Denver, CO, #2 of 5 gyms in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 55% of gyms in Denver, CO, #2 of 5 gyms in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

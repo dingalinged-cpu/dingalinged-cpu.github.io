@@ -13,7 +13,7 @@ Genstler Eye Center is an eye care practice in Lawrence, KS at 2200 Harvard Road
 - Website: https://g-eye.com/about/lawrence/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 63% of eye care practices in Lawrence, KS, #5 of 8 eye care practices in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 63% of eye care practices in Lawrence, KS, #5 of 8 eye care practices in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

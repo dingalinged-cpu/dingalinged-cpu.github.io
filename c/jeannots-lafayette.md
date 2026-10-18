@@ -13,7 +13,7 @@ Jeannot's is a bakery in Lafayette, CO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-15:00
-- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 73% of bakerys in Denver, CO, #1 of 2 bakerys in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 72% of bakerys in Denver, CO, #1 of 2 bakerys in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

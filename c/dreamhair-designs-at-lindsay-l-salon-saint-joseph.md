@@ -13,7 +13,7 @@ DreamHair Designs at Lindsay L Salon is a hair salon in Saint Joseph, MO at 3315
 - Website: https://www.dreamhairnow.com/
 - Email: dreamhairnow@gmail.com
 - Opening hours (OSM syntax): Mo 13:00-18:00; Tu 14:00-19:00; Fr 11:00-16:00; Su,Th 13:00-17:00
-- Pulse Score: 64.7/100 — Good — top 17% of hair salons in St. Joseph, MO, #1 of 6 hair salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 17% of hair salons in St. Joseph, MO, #1 of 6 hair salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

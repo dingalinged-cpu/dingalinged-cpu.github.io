@@ -13,7 +13,7 @@ City Cottage on Chouteau is an event venue in Saint Louis, MO at 3800 Chouteau A
 - Website: https://cateringstlouis.com/venue/city-cottage-small-event-venues/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 30% of event venues in St. Louis, MO, #10 of 31 event venues in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 30% of event venues in St. Louis, MO, #10 of 31 event venues in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,1091 @@
+# Company Registry: company records, metro pine-bluff-ar
+
+> 40 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+5 Star Cutz is a barber shop in Pine Bluff, AR.
+
+# 5 Star Cutz
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.2241474, -92.0113151
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Pine Bluff, AR, #4 of 4 barber shops in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 39.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/5-star-cutz-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/5-star-cutz-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14255810431 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Allan K. Minor is an accountant in Pine Bluff, AR at 106 South Main Street, Pine Bluff, AR 71601.
+
+# Allan K. Minor
+
+- Category: accountant
+- Services: accountant, accounting services
+- Address: 106 South Main Street, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2291183, -92.0034982
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 25% of accountants in Pine Bluff, AR, #1 of 4 accountants in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/allan-k-minor-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/allan-k-minor-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13608034123 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+America's Car-Mart is an used car dealer in Pine Bluff, AR at 520 South Blake Street, Pine Bluff, AR 71601. Phone: +18705355632. Website: https://www.car-mart.com/locations/016/pine-bluff-arkansas/.
+
+# America's Car-Mart
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 520 South Blake Street, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2242016, -92.0442737
+- Phone: +18705355632
+- Website: https://www.car-mart.com/locations/016/pine-bluff-arkansas/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47/100 — Building — top 100% of used car dealers in Pine Bluff, AR, #1 of 1 used car dealers in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/americas-car-mart-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/americas-car-mart-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1481004944 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Beverage King is a liquor store in Pine Bluff, AR.
+
+# Beverage King
+
+- Category: liquor store
+- Services: liquor store
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.1687789, -92.0056779
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in Pine Bluff, AR, #3 of 3 liquor stores in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/beverage-king-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/beverage-king-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1544682964 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Century 21 is a real estate agency in Pine Bluff, AR.
+
+# Century 21
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.2020694, -92.0242637
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.4/100 — Building — top 100% of real estate agencys in Pine Bluff, AR, #1 of 1 real estate agencys in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/century-21-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/century-21-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11137706959 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Elite Cutz is a barber shop in Pine Bluff, AR at 904 South Main Street, Pine Bluff, AR 71601.
+
+# Elite Cutz
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 904 South Main Street, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2203904, -92.0035751
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 25% of barber shops in Pine Bluff, AR, #1 of 4 barber shops in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/elite-cutz-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/elite-cutz-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1485792981 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Excel Carwash is a car wash in Pine Bluff, AR.
+
+# Excel Carwash
+
+- Category: car wash
+- Services: car wash
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.1659958, -92.0234135
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 50% of car washes in Pine Bluff, AR, #1 of 2 car washes in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/excel-carwash-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/excel-carwash-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14052400155 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Gene McKissic & Associates is a lawyer in Pine Bluff, AR at 116 West 6th Avenue, Pine Bluff, AR 71601.
+
+# Gene McKissic & Associates
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 116 West 6th Avenue, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2235585, -92.0042204
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 17% of lawyers in Pine Bluff, AR, #1 of 6 lawyers in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gene-mckissic-and-associates-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gene-mckissic-and-associates-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1330411093 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Geoffrey D. Kearney, PLLC is a lawyer in Pine Bluff, AR.
+
+# Geoffrey D. Kearney, PLLC
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.2292113, -92.0045104
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 84% of lawyers in Pine Bluff, AR, #5 of 6 lawyers in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/geoffrey-d-kearney-pllc-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/geoffrey-d-kearney-pllc-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13620881931 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Howard William is a lawyer in Pine Bluff, AR.
+
+# Howard William
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.2262686, -92.0032169
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Pine Bluff, AR, #6 of 6 lawyers in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/howard-william-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/howard-william-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13620967502 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Impressive Styles is a barber shop in Pine Bluff, AR at 902 South Main Street, Pine Bluff, AR 71601.
+
+# Impressive Styles
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 902 South Main Street, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2204478, -92.0036331
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 50% of barber shops in Pine Bluff, AR, #2 of 4 barber shops in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/impressive-styles-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/impressive-styles-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1485792980 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jackson Hewitt is a tax preparation service in Pine Bluff, AR.
+
+# Jackson Hewitt
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.2013758, -92.0343551
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.1/100 — Building — top 100% of tax preparation services in Pine Bluff, AR, #1 of 1 tax preparation services in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jackson-hewitt-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11137706970 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+KC's Wine & Spirits is a liquor store in Pine Bluff, AR at 320 West Barraque Street, Pine Bluff, AR 71601.
+
+# KC's Wine & Spirits
+
+- Category: liquor store
+- Services: liquor store
+- Address: 320 West Barraque Street, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2292424, -92.0062653
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 67% of liquor stores in Pine Bluff, AR, #2 of 3 liquor stores in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kcs-wine-and-spirits-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kcs-wine-and-spirits-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/485232755 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kelly & Stone is an accountant in Pine Bluff, AR at 220 South Main Street, Pine Bluff, AR 71601.
+
+# Kelly & Stone
+
+- Category: accountant
+- Services: accountant, accounting services
+- Address: 220 South Main Street, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2276085, -92.0037104
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 50% of accountants in Pine Bluff, AR, #2 of 4 accountants in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kelly-and-stone-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kelly-and-stone-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1449897020 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kizer Law Firm is a lawyer in Pine Bluff, AR at 308 East 5th Avenue, Pine Bluff, AR 71601.
+
+# Kizer Law Firm
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 308 East 5th Avenue, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.22445, -92.0010725
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 34% of lawyers in Pine Bluff, AR, #2 of 6 lawyers in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kizer-law-firm-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kizer-law-firm-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1485792905 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mid-Town Tire & Auto is a tire shop in Pine Bluff, AR at 400 West 5th Avenue, Pine Bluff, AR 71601.
+
+# Mid-Town Tire & Auto
+
+- Category: tire shop
+- Services: tire shop
+- Address: 400 West 5th Avenue, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2245468, -92.0069206
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 100% of tire shops in Pine Bluff, AR, #1 of 1 tire shops in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mid-town-tire-and-auto-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mid-town-tire-and-auto-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1485769767 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Moss, Burks, Moss, & Company is an accountant in Pine Bluff, AR at 123 West 2nd Avenue, Pine Bluff, AR 71601.
+
+# Moss, Burks, Moss, & Company
+
+- Category: accountant
+- Services: accountant, accounting services
+- Address: 123 West 2nd Avenue, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2285926, -92.0042234
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 75% of accountants in Pine Bluff, AR, #3 of 4 accountants in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/moss-burks-moss-and-company-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/moss-burks-moss-and-company-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1463985382 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Nicholson's Heating and Air Conditioning, Inc. is a HVAC contractor in Pine Bluff, AR at 3012 South Midland Drive, Pine Bluff, AR 71603. Phone: +18705345476. Website: https://www.nicholsonsheatingcooling.com/.
+
+# Nicholson's Heating and Air Conditioning, Inc.
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: 3012 South Midland Drive, Pine Bluff, AR 71603
+- City: Pine Bluff
+- State: AR
+- ZIP: 71603
+- Coordinates: 34.1971908, -92.0359664
+- Phone: +18705345476
+- Website: https://www.nicholsonsheatingcooling.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 50% of HVAC contractors in Pine Bluff, AR, #1 of 2 HVAC contractors in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/nicholsons-heating-and-air-conditioning-inc-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nicholsons-heating-and-air-conditioning-inc-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8981407696 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+P.K. Miller Mortuary is a funeral home in Pine Bluff, AR.
+
+# P.K. Miller Mortuary
+
+- Category: funeral home
+- Services: funeral home
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.227936, -92.001851
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Pine Bluff, AR, #1 of 1 funeral homes in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/p-k-miller-mortuary-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/p-k-miller-mortuary-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1338085880 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+PetSense is a pet store in Pine Bluff, AR.
+
+# PetSense
+
+- Category: pet store
+- Services: pet store
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.1739127, -92.0073558
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.7/100 — Unrated (not enough evidence yet) — top 100% of pet stores in Pine Bluff, AR, #1 of 1 pet stores in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petsense-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petsense-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11137706820 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pine Bluff Convention Center is an event venue in Pine Bluff, AR.
+
+# Pine Bluff Convention Center
+
+- Category: event venues
+- Services: event venues
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.2209117, -91.9976657
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 100% of event venues in Pine Bluff, AR, #1 of 1 event venues in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pine-bluff-convention-center-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pine-bluff-convention-center-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1446372394 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pine Bluff Heating and Cooling is a HVAC contractor in Pine Bluff, AR.
+
+# Pine Bluff Heating and Cooling
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.2242735, -91.997911
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Pine Bluff, AR, #2 of 2 HVAC contractors in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pine-bluff-heating-and-cooling-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pine-bluff-heating-and-cooling-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1562552264 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Planet Fitness is a gym in Pine Bluff, AR.
+
+# Planet Fitness
+
+- Category: gym
+- Services: gym
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.1994336, -92.0062513
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.2/100 — Building — top 100% of gyms in Pine Bluff, AR, #1 of 1 gyms in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/planet-fitness-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/planet-fitness-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1544682977 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pop's Barber and Beauty Shop is a barber shop in Pine Bluff, AR at 301 South Main Street, Pine Bluff, AR 71601.
+
+# Pop's Barber and Beauty Shop
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 301 South Main Street, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2270398, -92.0031
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 75% of barber shops in Pine Bluff, AR, #3 of 4 barber shops in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pops-barber-and-beauty-shop-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pops-barber-and-beauty-shop-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1463985486 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rent-A-Center is a furniture store in Pine Bluff, AR.
+
+# Rent-A-Center
+
+- Category: furniture store
+- Services: furniture store
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.1994641, -92.004941
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.9/100 — Building — top 100% of furniture stores in Pine Bluff, AR, #2 of 2 furniture stores in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rent-a-center-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rent-a-center-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1201244809 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Roomz Furniture Gallery is a furniture store in Pine Bluff, AR.
+
+# Roomz Furniture Gallery
+
+- Category: furniture store
+- Services: furniture store
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.2118153, -91.9729309
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 50% of furniture stores in Pine Bluff, AR, #1 of 2 furniture stores in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/roomz-furniture-gallery-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/roomz-furniture-gallery-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1073563430 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Shiply Do-nuts is a bakery in Pine Bluff, AR.
+
+# Shiply Do-nuts
+
+- Category: bakery
+- Services: bakery
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.2482383, -92.0693275
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Pine Bluff, AR, #1 of 1 bakerys in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/shiply-do-nuts-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/shiply-do-nuts-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6149713078 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Shirley's Beauty Salon is a hair salon in Pine Bluff, AR at 401 South State Street, Pine Bluff, AR 71601.
+
+# Shirley's Beauty Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 401 South State Street, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2257934, -92.0021569
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Pine Bluff, AR, #1 of 1 hair salons in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/shirleys-beauty-salon-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/shirleys-beauty-salon-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1484107278 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Shoe Express Repair & Apparel is a shoe repair in Pine Bluff, AR at 502 South Main Street, Pine Bluff, AR 71601.
+
+# Shoe Express Repair & Apparel
+
+- Category: shoe repair
+- Services: shoe repair
+- Address: 502 South Main Street, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2246422, -92.0035784
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 100% of shoe repairs in Pine Bluff, AR, #1 of 1 shoe repairs in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/shoe-express-repair-and-apparel-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/shoe-express-repair-and-apparel-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13620971878 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sissy's Log Cabin is a jewelry store in Pine Bluff, AR at 2319 South Camden Road, Pine Bluff, AR 71603. Phone: +18708793040. Website: https://sissyslogcabin.com/locations/pine-bluff/.
+
+# Sissy's Log Cabin
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 2319 South Camden Road, Pine Bluff, AR 71603
+- City: Pine Bluff
+- State: AR
+- ZIP: 71603
+- Coordinates: 34.2052955, -92.0436002
+- Phone: +18708793040
+- Website: https://sissyslogcabin.com/locations/pine-bluff/
+- Email: Ben@sissyslogcabin.com
+- Opening hours (OSM syntax): Mo-Sa 10:00-17:30
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in Pine Bluff, AR, #1 of 1 jewelry stores in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sissys-log-cabin-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sissys-log-cabin-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/769164343 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+State Farm is an insurance agent in Pine Bluff, AR.
+
+# State Farm
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.1838561, -92.0063606
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.6/100 — Building — top 50% of insurance agents in Pine Bluff, AR, #1 of 2 insurance agents in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-farm-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-farm-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1201244806 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+State Farm is an insurance agent in Pine Bluff, AR.
+
+# State Farm
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.1999698, -92.0072991
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.6/100 — Building — top 100% of insurance agents in Pine Bluff, AR, #2 of 2 insurance agents in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-farm-pine-bluff-w1201244812/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-farm-pine-bluff-w1201244812.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1201244812 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Stephanie A. Flowers is a lawyer in Pine Bluff, AR at 219 South Main Street, Pine Bluff, AR 71601.
+
+# Stephanie A. Flowers
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 219 South Main Street, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2277069, -92.0030658
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Pine Bluff, AR, #3 of 6 lawyers in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/stephanie-a-flowers-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/stephanie-a-flowers-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1338085859 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Take 5 Car Wash is a car wash in Pine Bluff, AR.
+
+# Take 5 Car Wash
+
+- Category: car wash
+- Services: car wash, auto repair, mechanic
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.1998272, -92.0075313
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.5/100 — Building — top 100% of car washes in Pine Bluff, AR, #2 of 2 car washes in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/take-5-car-wash-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/take-5-car-wash-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1201244811 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Baim Law Firm is a lawyer in Pine Bluff, AR at 301 East 6th Avenue, Pine Bluff, AR 71601.
+
+# The Baim Law Firm
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 301 East 6th Avenue, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2240831, -92.0012023
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 67% of lawyers in Pine Bluff, AR, #4 of 6 lawyers in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-baim-law-firm-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-baim-law-firm-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1485792904 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Bottle King is a liquor store in Pine Bluff, AR at 203 North Blake Street, Pine Bluff, AR 71601. Phone: +18706192907.
+
+# The Bottle King
+
+- Category: liquor store
+- Services: liquor store
+- Address: 203 North Blake Street, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2318399, -92.0431678
+- Phone: +18706192907
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 34% of liquor stores in Pine Bluff, AR, #1 of 3 liquor stores in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-bottle-king-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-bottle-king-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1447326573 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Generator is a coworking space in Pine Bluff, AR at 435 South Main Street, Pine Bluff, AR 71601.
+
+# The Generator
+
+- Category: coworking space
+- Services: coworking space
+- Address: 435 South Main Street, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2249948, -92.0032038
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 100% of coworking spaces in Pine Bluff, AR, #1 of 1 coworking spaces in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-generator-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-generator-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13621168154 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Pink Print is an accountant in Pine Bluff, AR at 409 South State Street #A, Pine Bluff, AR 71601.
+
+# The Pink Print
+
+- Category: accountant
+- Services: accountant, accounting services
+- Address: 409 South State Street #A, Pine Bluff, AR 71601
+- City: Pine Bluff
+- State: AR
+- ZIP: 71601
+- Coordinates: 34.2255988, -92.0022427
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of accountants in Pine Bluff, AR, #4 of 4 accountants in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-pink-print-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-pink-print-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13608050401 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+U-Haul is a self-storage facility in Pine Bluff, AR.
+
+# U-Haul
+
+- Category: storage units
+- Services: storage units
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.1656673, -92.0223953
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.4/100 — Building — top 100% of self-storage facilitys in Pine Bluff, AR, #1 of 1 self-storage facilitys in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/u-haul-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/u-haul-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14052400153 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wallace Flowers and Gifts is a florist in Pine Bluff, AR.
+
+# Wallace Flowers and Gifts
+
+- Category: florist
+- Services: florist
+- Address: Pine Bluff, AR
+- City: Pine Bluff
+- State: AR
+- ZIP: n/a
+- Coordinates: 34.2241609, -92.0108551
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 100% of florists in Pine Bluff, AR, #1 of 1 florists in Pine Bluff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 41.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wallace-flowers-and-gifts-pine-bluff/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wallace-flowers-and-gifts-pine-bluff.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14255810433 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

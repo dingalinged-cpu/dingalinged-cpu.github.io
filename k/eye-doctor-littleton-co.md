@@ -6,7 +6,7 @@ Also answers: eye doctor in Littleton, CO; eye doctor near me (Littleton, CO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Colorado Eye Consultants | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Colorado Eye Consultants is an eye care practice in Littleton, CO at 1501 West Mineral Avenue, Littleton, CO 80120. Website: https://www.coloradoeyeconsultants.com/. | https://registry-edge.dingalinged.workers.dev/c/colorado-eye-consultants-littleton/
+1. Colorado Eye Consultants | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Colorado Eye Consultants is an eye care practice in Littleton, CO at 1501 West Mineral Avenue, Littleton, CO 80120. Website: https://www.coloradoeyeconsultants.com/. | https://registry-edge.dingalinged.workers.dev/c/colorado-eye-consultants-littleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor littleton co | category: Health & medical | industry benchmark: Physicians & Surgeons

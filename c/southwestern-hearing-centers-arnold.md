@@ -13,7 +13,7 @@ Southwestern Hearing Centers is an audiologist in Arnold, MO at 854 Arnold Commo
 - Website: https://www.southwesternhearing.com/locations/arnold-missouri/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 50% of audiologists in St. Louis, MO, #1 of 1 audiologists in Arnold (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 50% of audiologists in St. Louis, MO, #1 of 1 audiologists in Arnold (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

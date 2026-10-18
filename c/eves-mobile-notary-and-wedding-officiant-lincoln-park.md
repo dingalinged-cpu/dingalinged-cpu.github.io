@@ -13,7 +13,7 @@ Eves Mobile Notary & Wedding Officiant is a business consultant in Lincoln Park,
 - Website: n/a
 - Email: evesmobilenotary@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 47% of business consultants in Detroit, MI, #1 of 1 business consultants in Lincoln Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 47% of business consultants in Detroit, MI, #1 of 1 business consultants in Lincoln Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

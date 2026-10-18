@@ -13,7 +13,7 @@ Christa African Hair Braiding is a hair salon in Pittsburgh, PA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 09:30-20:00; Su,Mo off
-- Pulse Score: 59.7/100 — Fair — top 25% of hair salons in Pittsburgh, PA, #33 of 85 hair salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Fair — top 24% of hair salons in Pittsburgh, PA, #33 of 85 hair salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

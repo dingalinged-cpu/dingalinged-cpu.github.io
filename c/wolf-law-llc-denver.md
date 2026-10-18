@@ -13,7 +13,7 @@ Wolf Law, LLC is a lawyer in Denver, CO at 1385 South Colorado Boulevard #220, D
 - Website: https://wolflawcolorado.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 21% of lawyers in Denver, CO, #15 of 103 lawyers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 20% of lawyers in Denver, CO, #14 of 103 lawyers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

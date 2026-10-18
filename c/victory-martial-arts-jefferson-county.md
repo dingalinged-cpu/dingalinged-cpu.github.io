@@ -13,7 +13,7 @@ Victory Martial Arts is a martial arts school in Jefferson County, CO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 78% of martial arts schools in Denver, CO, #3 of 5 martial arts schools in Jefferson County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 40.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.7/100 — Unrated (not enough evidence yet) — top 98% of martial arts schools in Denver, CO, #5 of 5 martial arts schools in Jefferson County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 40.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

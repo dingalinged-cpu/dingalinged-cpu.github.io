@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Wichita, KS at 8631 West 21st Stree
 - Website: https://www.publicstorage.com/self-storage-ks-wichita/6119.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa-Su 09:30-17:00
-- Pulse Score: 50.8/100 — Fair — top 70% of self-storage facilitys in Wichita, KS, #3 of 4 self-storage facilitys in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 68.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.8/100 — Fair — top 70% of self-storage facilitys in Wichita, KS, #3 of 4 self-storage facilitys in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 68. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

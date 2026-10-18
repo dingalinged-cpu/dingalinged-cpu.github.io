@@ -13,7 +13,7 @@ AutoTire is a tire shop in Saint Peters, MO at 7319 Mexico Road, Saint Peters, M
 - Website: https://www.autotire.com/?storeid=929
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:30-19:00; Su 09:00-17:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 100% of tire shops in St. Peters, MO, #1 of 1 tire shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 100% of tire shops in St. Peters, MO, #1 of 1 tire shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

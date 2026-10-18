@@ -13,7 +13,7 @@ Bishop & Hayes, PC is a lawyer in Joplin, MO at 630 S Northpark Ln, Joplin, MO 6
 - Website: https://bishopandhayes.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 40% of lawyers in Joplin, MO, #2 of 5 lawyers in Joplin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 40% of lawyers in Joplin, MO, #2 of 5 lawyers in Joplin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

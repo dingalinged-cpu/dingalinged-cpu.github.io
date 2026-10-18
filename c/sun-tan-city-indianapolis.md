@@ -13,7 +13,7 @@ Sun Tan City is a tanning salon in Indianapolis, IN. Phone: +13178427465. Websit
 - Website: https://suntancity.com/tan-salon-locations/indiana-indianapolis-in-indianapolis-clearwater/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-23:00; Su 10:00-23:00
-- Pulse Score: 48.4/100 — Building — top 47% of tanning salons in Indianapolis, IN, #5 of 6 tanning salons in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 47% of tanning salons in Indianapolis, IN, #5 of 6 tanning salons in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

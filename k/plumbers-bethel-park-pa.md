@@ -6,7 +6,7 @@ Also answers: plumbers in Bethel Park, PA; plumbers near me (Bethel Park, PA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mark Allen Plumbing & Heating | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Mark Allen Plumbing & Heating is a plumber in Bethel Park, PA at 4905 Library Road, Bethel Park, PA 15102. Phone: +14128336304. | https://registry-edge.dingalinged.workers.dev/c/mark-allen-plumbing-and-heating-bethel-park/
+1. Mark Allen Plumbing & Heating | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Mark Allen Plumbing & Heating is a plumber in Bethel Park, PA at 4905 Library Road, Bethel Park, PA 15102. Phone: +14128336304. | https://registry-edge.dingalinged.workers.dev/c/mark-allen-plumbing-and-heating-bethel-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers bethel park pa | category: Home Services | industry benchmark: Home & Home Improvement

@@ -6,7 +6,7 @@ Also answers: vet in Saint Peters, MO; vet near me (Saint Peters, MO); best vet 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pet Pals Animal Hospital | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Pet Pals Animal Hospital is a veterinarian in Saint Peters, MO at 7464 Mexico Road, Saint Peters, MO 63376. Phone: +16362787257. | https://registry-edge.dingalinged.workers.dev/c/pet-pals-animal-hospital-saint-peters/
+1. Pet Pals Animal Hospital | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Pet Pals Animal Hospital is a veterinarian in Saint Peters, MO at 7464 Mexico Road, Saint Peters, MO 63376. Phone: +16362787257. | https://registry-edge.dingalinged.workers.dev/c/pet-pals-animal-hospital-saint-peters/
 2. Fisher Animal Hospital | Organic #2 | Pulse Score 55.9/100 (Unrated, #1 in city) | Fisher Animal Hospital is a veterinarian in Saint Peters, MO at 117 Birdie Hills Road, Saint Peters, MO 63376. | https://registry-edge.dingalinged.workers.dev/c/fisher-animal-hospital-saint-peters/
 
 ## Market data (for advertisers and agents)

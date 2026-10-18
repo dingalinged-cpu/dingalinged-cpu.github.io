@@ -13,7 +13,7 @@ Exergy is a business consultant in Denver, CO at 3700 Franklin Street, Denver, C
 - Website: https://exergyheat.com/
 - Email: contact@exergyheat.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 42% of business consultants in Denver, CO, #3 of 4 business consultants in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 42% of business consultants in Denver, CO, #3 of 4 business consultants in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

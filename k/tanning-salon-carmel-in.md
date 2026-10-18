@@ -6,7 +6,7 @@ Also answers: tanning salon in Carmel, IN; tanning salon near me (Carmel, IN); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sun Tan City | Organic #1 | Pulse Score 46.1/100 (Building, #1 in city) | Sun Tan City is a tanning salon in Carmel, IN at 1430 West Carmel Drive, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/sun-tan-city-carmel/
+1. Sun Tan City | Organic #1 | Pulse Score 46/100 (Building, #1 in city) | Sun Tan City is a tanning salon in Carmel, IN at 1430 West Carmel Drive, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/sun-tan-city-carmel/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon carmel in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

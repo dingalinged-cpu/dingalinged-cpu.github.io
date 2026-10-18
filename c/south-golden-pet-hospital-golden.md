@@ -13,7 +13,7 @@ South Golden Pet Hospital is a veterinarian in Golden, CO at 17207 South Golden 
 - Website: https://southgoldenpethospital.com/
 - Email: info@southgoldenpethospital.com
 - Opening hours (OSM syntax): Mo-Su 08:00-18:00
-- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 2% of veterinarians in Denver, CO, #1 of 3 veterinarians in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 2% of veterinarians in Denver, CO, #1 of 3 veterinarians in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

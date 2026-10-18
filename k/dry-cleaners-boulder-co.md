@@ -11,8 +11,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Cache Cleaners | Organic #3 | Pulse Score 60.4/100 (Unrated, #3 in city) | Cache Cleaners is a dry cleaner in Boulder, CO. Website: https://www.cachecleanersboulder.com/. | https://registry-edge.dingalinged.workers.dev/c/cache-cleaners-boulder/
 4. Enviro Cleaners | Organic #4 | Pulse Score 60.2/100 (Unrated, #4 in city) | Enviro Cleaners is a dry cleaner in Boulder, CO at 2859 28th Street, Boulder, CO 80304. | https://registry-edge.dingalinged.workers.dev/c/enviro-cleaners-boulder/
 5. Art Cleaners | Organic #5 | Pulse Score 56.5/100 (Unrated, #5 in city) | Art Cleaners is a dry cleaner in Boulder, CO. Website: https://www.artcleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/art-cleaners-boulder-n7953689034/
-6. Plaza Cleaners | Organic #6 | Pulse Score 55.3/100 (Unrated, #6 in city) | Plaza Cleaners is a dry cleaner in Boulder, CO at 2610 Broadway, Boulder, CO. | https://registry-edge.dingalinged.workers.dev/c/plaza-cleaners-boulder/
-7. Dependable Cleaners | Organic #7 | Pulse Score 48.7/100 (Unrated, #7 in city) | Dependable Cleaners is a dry cleaner in Boulder, CO. Website: https://www.dcleaners.com/location/village-shopping-center/. | https://registry-edge.dingalinged.workers.dev/c/dependable-cleaners-boulder/
+6. Dependable Cleaners | Organic #6 | Pulse Score 48.7/100 (Unrated, #6 in city) | Dependable Cleaners is a dry cleaner in Boulder, CO. Website: https://www.dcleaners.com/location/village-shopping-center/. | https://registry-edge.dingalinged.workers.dev/c/dependable-cleaners-boulder/
+7. Plaza Cleaners | Organic #7 | Pulse Score 42.5/100 (Unrated, #7 in city) | Plaza Cleaners is a dry cleaner in Boulder, CO at 2610 Broadway, Boulder, CO. | https://registry-edge.dingalinged.workers.dev/c/plaza-cleaners-boulder/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners boulder co | category: Professional & financial services | industry benchmark: Finance & Insurance

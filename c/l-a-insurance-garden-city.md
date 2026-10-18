@@ -13,7 +13,7 @@ L.A. Insurance is an insurance agent in Garden City, MI. Phone: +17343679900.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Unrated (not enough evidence yet) — top 64% of insurance agents in Detroit, MI, #2 of 5 insurance agents in Garden City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Unrated (not enough evidence yet) — top 64% of insurance agents in Detroit, MI, #2 of 5 insurance agents in Garden City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

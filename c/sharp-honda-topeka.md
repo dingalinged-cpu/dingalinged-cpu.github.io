@@ -13,7 +13,7 @@ Sharp Honda is an used car dealer in Topeka, KS at 3149 South Kansas Avenue, Top
 - Website: https://www.sharphonda.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Building — top 100% of used car dealers in Topeka, KS, #3 of 3 used car dealers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 100% of used car dealers in Topeka, KS, #3 of 3 used car dealers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

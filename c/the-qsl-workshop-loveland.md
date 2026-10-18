@@ -13,7 +13,7 @@ The QSL Workshop is a tailor in Loveland, OH. Phone: +15136831666. Website: http
 - Website: https://www.quiltersstudioofloveland.com/workshop.htm
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-17:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 38% of tailors in Cincinnati, OH, #1 of 1 tailors in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 38% of tailors in Cincinnati, OH, #1 of 1 tailors in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: vet in Loveland, OH; vet near me (Loveland, OH); best vet Loveland
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Seven Hills Pet Clinic | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Seven Hills Pet Clinic is a veterinarian in Loveland, OH at 1376 State Route 28 #C, Loveland, OH 45140. Phone: +15135759696. Website: https://www.sevenhillspet.com/. | https://registry-edge.dingalinged.workers.dev/c/seven-hills-pet-clinic-loveland/
+1. Seven Hills Pet Clinic | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Seven Hills Pet Clinic is a veterinarian in Loveland, OH at 1376 State Route 28 #C, Loveland, OH 45140. Phone: +15135759696. Website: https://www.sevenhillspet.com/. | https://registry-edge.dingalinged.workers.dev/c/seven-hills-pet-clinic-loveland/
 2. Loveland Animal Hospital | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Loveland Animal Hospital is a veterinarian in Loveland, OH at Loveland Madeira Road, Loveland, OH 45140. | https://registry-edge.dingalinged.workers.dev/c/loveland-animal-hospital-loveland/
 3. PetCare Animal Hospital | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | PetCare Animal Hospital is a veterinarian in Loveland, OH. Website: https://www.petcarecincinnati.com/. | https://registry-edge.dingalinged.workers.dev/c/petcare-animal-hospital-loveland/
 

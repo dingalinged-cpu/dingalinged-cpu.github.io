@@ -13,7 +13,7 @@ Once Upon a Child is a thrift store in Ballwin, MO at 15425 Manchester Road, Bal
 - Website: https://www.onceuponachildballwin.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 42% of thrift stores in St. Louis, MO, #1 of 2 thrift stores in Ballwin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 40% of thrift stores in St. Louis, MO, #1 of 2 thrift stores in Ballwin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

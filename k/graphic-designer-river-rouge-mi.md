@@ -6,7 +6,7 @@ Also answers: graphic designer in River Rouge, MI; graphic designer near me (Riv
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Michigan Screen Print & Embroidery | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Michigan Screen Print & Embroidery is a graphic designer in River Rouge, MI at 10900 West Jefferson Avenue, River Rouge, MI 48218. Phone: +13138410096. | https://registry-edge.dingalinged.workers.dev/c/michigan-screen-print-and-embroidery-river-rouge/
+1. Michigan Screen Print & Embroidery | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Michigan Screen Print & Embroidery is a graphic designer in River Rouge, MI at 10900 West Jefferson Avenue, River Rouge, MI 48218. Phone: +13138410096. | https://registry-edge.dingalinged.workers.dev/c/michigan-screen-print-and-embroidery-river-rouge/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer river rouge mi | category: professional_marketing | industry benchmark: Business Services

@@ -13,7 +13,7 @@ Good Guy Auto Sales is an used car dealer in High Ridge Township, MO at 2827 Hig
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-16:00
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 33% of used car dealers in St. Louis, MO, #1 of 1 used car dealers in High Ridge Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 33% of used car dealers in St. Louis, MO, #1 of 1 used car dealers in High Ridge Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

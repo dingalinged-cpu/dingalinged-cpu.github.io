@@ -6,9 +6,9 @@ Also answers: tire shop in Saint Joseph, MO; tire shop near me (Saint Joseph, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | Organic #1 | Pulse Score 45.6/100 (Building, #1 in city) | Discount Tire is a tire shop in Saint Joseph, MO at 1702 North Belt Highway, Saint Joseph, MO 64506. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-saint-joseph/
-2. Tires Plus | Organic #2 | Pulse Score 42.4/100 (Building, #2 in city) | Tires Plus is a tire shop in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-saint-joseph/
-3. RNR Tire Express | Organic #3 | Pulse Score 42.1/100 (Unrated, #3 in city) | RNR Tire Express is a tire shop in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/rnr-tire-express-saint-joseph/
+1. Discount Tire | Organic #1 | Pulse Score 45.4/100 (Building, #1 in city) | Discount Tire is a tire shop in Saint Joseph, MO at 1702 North Belt Highway, Saint Joseph, MO 64506. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-saint-joseph/
+2. Tires Plus | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Tires Plus is a tire shop in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-saint-joseph/
+3. RNR Tire Express | Organic #3 | Pulse Score 42/100 (Unrated, #3 in city) | RNR Tire Express is a tire shop in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/rnr-tire-express-saint-joseph/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop saint joseph mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

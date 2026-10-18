@@ -6,7 +6,7 @@ Also answers: dermatologist in Boone County, IN; dermatologist near me (Boone Co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Dermatology Center of Indiana | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | The Dermatology Center of Indiana is a dermatologist in Boone County, IN. | https://registry-edge.dingalinged.workers.dev/c/the-dermatology-center-of-indiana-boone-county/
+1. The Dermatology Center of Indiana | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | The Dermatology Center of Indiana is a dermatologist in Boone County, IN. | https://registry-edge.dingalinged.workers.dev/c/the-dermatology-center-of-indiana-boone-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist boone county in | category: Health & medical | industry benchmark: Physicians & Surgeons

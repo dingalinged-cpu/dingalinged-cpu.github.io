@@ -6,7 +6,7 @@ Also answers: financial advisor in West Chester Township, OH; financial advisor 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | Organic #1 | Pulse Score 44.1/100 (Building, #1 in city) | Edward Jones is a financial advisor in West Chester Township, OH at 9393, West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-west-chester-township/
+1. Edward Jones | Organic #1 | Pulse Score 44/100 (Building, #1 in city) | Edward Jones is a financial advisor in West Chester Township, OH at 9393, West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-west-chester-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor west chester township oh | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -6,7 +6,7 @@ Also answers: chiropractor in Campbell County, KY; chiropractor near me (Campbel
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Car Chiropractic | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Total Car Chiropractic is a chiropractor in Campbell County, KY. Phone: +18594480858. Website: https://nkytotalcare.com/. | https://registry-edge.dingalinged.workers.dev/c/total-car-chiropractic-campbell-county/
+1. Total Car Chiropractic | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Total Car Chiropractic is a chiropractor in Campbell County, KY. Phone: +18594480858. Website: https://nkytotalcare.com/. | https://registry-edge.dingalinged.workers.dev/c/total-car-chiropractic-campbell-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor campbell county ky | category: Health & medical | industry benchmark: Physicians & Surgeons

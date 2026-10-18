@@ -6,9 +6,9 @@ Also answers: auto repair in Derby, KS; auto repair near me (Derby, KS); best au
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Firestone | Organic #1 | Pulse Score 42.9/100 (Building, #1 in city) | Firestone is an auto repair shop in Derby, KS. | https://registry-edge.dingalinged.workers.dev/c/firestone-derby/
-2. Take 5 Oil Change | Organic #2 | Pulse Score 42.9/100 (Building, #2 in city) | Take 5 Oil Change is an auto repair shop in Derby, KS. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-derby/
-3. Midas | Organic #3 | Pulse Score 42.5/100 (Building, #3 in city) | Midas is an auto repair shop in Derby, KS. | https://registry-edge.dingalinged.workers.dev/c/midas-derby/
+1. Firestone | Organic #1 | Pulse Score 42.8/100 (Building, #1 in city) | Firestone is an auto repair shop in Derby, KS. | https://registry-edge.dingalinged.workers.dev/c/firestone-derby/
+2. Take 5 Oil Change | Organic #2 | Pulse Score 42.8/100 (Building, #2 in city) | Take 5 Oil Change is an auto repair shop in Derby, KS. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-derby/
+3. Midas | Organic #3 | Pulse Score 42.4/100 (Building, #3 in city) | Midas is an auto repair shop in Derby, KS. | https://registry-edge.dingalinged.workers.dev/c/midas-derby/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair derby ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

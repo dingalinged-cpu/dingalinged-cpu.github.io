@@ -13,7 +13,7 @@ Aspen Dental is a dentist in Lakewood, CO at 14255 West Colfax Drive #STE E, Lak
 - Website: https://www.aspendental.com/dentist/co/lakewood/14255-w-colfax-drive-ste-e
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-19:00, Tu-Th 08:00-17:30, Fr 07:00-12:00
-- Pulse Score: 48.8/100 — Building — top 89% of dentists in Denver, CO, #16 of 20 dentists in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 88% of dentists in Denver, CO, #16 of 20 dentists in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

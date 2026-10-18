@@ -6,7 +6,7 @@ Also answers: driving school in Topeka, KS; driving school near me (Topeka, KS);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Johnny Rowlands Driving School | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Johnny Rowlands Driving School is a driving school in Topeka, KS at 5501 Southwest 29th Street #3, Topeka, KS 66614. Phone: +17859151291. Website: https://www.johnnyrowlandsdrivingschooltopeka.com/. | https://registry-edge.dingalinged.workers.dev/c/johnny-rowlands-driving-school-topeka/
+1. Johnny Rowlands Driving School | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Johnny Rowlands Driving School is a driving school in Topeka, KS at 5501 Southwest 29th Street #3, Topeka, KS 66614. Phone: +17859151291. Website: https://www.johnnyrowlandsdrivingschooltopeka.com/. | https://registry-edge.dingalinged.workers.dev/c/johnny-rowlands-driving-school-topeka/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school topeka ks | category: Education & childcare | industry benchmark: Education & Instruction

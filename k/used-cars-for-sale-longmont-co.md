@@ -6,9 +6,9 @@ Also answers: used cars for sale in Longmont, CO; used cars for sale near me (Lo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sprinkler Used Cars | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Sprinkler Used Cars is an used car dealer in Longmont, CO. Phone: +13036512277. Website: https://www.sprinklerusedcars.com/. | https://registry-edge.dingalinged.workers.dev/c/sprinkler-used-cars-longmont/
-2. Burgio Motors | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Burgio Motors is an used car dealer in Longmont, CO at 125 South Main Street #c, Longmont, CO. Website: https://www.burgiomotors.com/. | https://registry-edge.dingalinged.workers.dev/c/burgio-motors-longmont/
-3. McCarty Motors | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | McCarty Motors is an used car dealer in Longmont, CO at 125 South Main Street #A, Longmont, CO. Website: https://www.coloradotrucks.com/. | https://registry-edge.dingalinged.workers.dev/c/mccarty-motors-longmont/
+1. Sprinkler Used Cars | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Sprinkler Used Cars is an used car dealer in Longmont, CO. Phone: +13036512277. Website: https://www.sprinklerusedcars.com/. | https://registry-edge.dingalinged.workers.dev/c/sprinkler-used-cars-longmont/
+2. Burgio Motors | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Burgio Motors is an used car dealer in Longmont, CO at 125 South Main Street #c, Longmont, CO. Website: https://www.burgiomotors.com/. | https://registry-edge.dingalinged.workers.dev/c/burgio-motors-longmont/
+3. McCarty Motors | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | McCarty Motors is an used car dealer in Longmont, CO at 125 South Main Street #A, Longmont, CO. Website: https://www.coloradotrucks.com/. | https://registry-edge.dingalinged.workers.dev/c/mccarty-motors-longmont/
 4. Fowler Honda of Longmont | Organic #4 | Pulse Score 46.3/100 (Building, #4 in city) | Fowler Honda of Longmont is an used car dealer in Longmont, CO at 710 South Main Street, Longmont, CO 80501. Phone: +17206004277. Website: https://www.fowlerhondalongmont.com/. | https://registry-edge.dingalinged.workers.dev/c/fowler-honda-of-longmont-longmont/
 
 ## Market data (for advertisers and agents)

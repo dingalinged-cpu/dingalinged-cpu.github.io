@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Woodhaven, MI at 22673 Allen Road, Woodha
 - Website: https://www.edwardjones.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 69% of financial advisors in Detroit, MI, #1 of 1 financial advisors in Woodhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 66% of financial advisors in Detroit, MI, #1 of 1 financial advisors in Woodhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

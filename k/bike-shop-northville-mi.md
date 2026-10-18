@@ -7,7 +7,7 @@ Also answers: bike shop in Northville, MI; bike shop near me (Northville, MI); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Town and Country Bike and Boards | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Town and Country Bike and Boards is a bike shop in Northville, MI at 148 N Center St, Northville, MI 48168. Phone: +12483497140. | https://registry-edge.dingalinged.workers.dev/c/town-and-country-bike-and-boards-northville/
-2. D&D Bikes Northville | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | D&D Bikes Northville is a bike shop in Northville, MI at 121 N Center St, Northville, MI 48167. Phone: +12483471511. Website: https://www.ddbicyclesandhockey.com/. | https://registry-edge.dingalinged.workers.dev/c/d-and-d-bikes-northville-northville/
+2. D&D Bikes Northville | Organic #2 | Pulse Score 47.1/100 (Building, #2 in city) | D&D Bikes Northville is a bike shop in Northville, MI at 121 N Center St, Northville, MI 48167. Phone: +12483471511. Website: https://www.ddbicyclesandhockey.com/. | https://registry-edge.dingalinged.workers.dev/c/d-and-d-bikes-northville-northville/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop northville mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

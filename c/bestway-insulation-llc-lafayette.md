@@ -13,7 +13,7 @@ Bestway Insulation LLC is an insulation contractor in Lafayette, CO at 10855 Emp
 - Website: https://bestwayinsulation.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-17:30, Sa 06:30-12:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 50% of insulation contractors in Denver, CO, #1 of 1 insulation contractors in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 50% of insulation contractors in Denver, CO, #1 of 1 insulation contractors in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

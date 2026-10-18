@@ -13,7 +13,7 @@ Bridgeville Automotive is an auto repair shop in Pittsburgh, PA at 2000 Painters
 - Website: https://www.bridgevilleautomotive.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 15% of auto repair shops in Pittsburgh, PA, #24 of 90 auto repair shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 14% of auto repair shops in Pittsburgh, PA, #23 of 90 auto repair shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

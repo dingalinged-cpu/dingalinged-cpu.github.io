@@ -6,7 +6,7 @@ Also answers: primary care physician in Wyandotte, MI; primary care physician ne
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nordyke Family Medicine | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Nordyke Family Medicine is a family medicine practice in Wyandotte, MI at 2201 Ford Avenue, Wyandotte, MI 48192. Phone: +17342588835. Website: https://www.nfamilymedicine.com/. | https://registry-edge.dingalinged.workers.dev/c/nordyke-family-medicine-wyandotte/
+1. Nordyke Family Medicine | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Nordyke Family Medicine is a family medicine practice in Wyandotte, MI at 2201 Ford Avenue, Wyandotte, MI 48192. Phone: +17342588835. Website: https://www.nfamilymedicine.com/. | https://registry-edge.dingalinged.workers.dev/c/nordyke-family-medicine-wyandotte/
 2. Parmod Jindal, MD, PC | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Parmod Jindal, MD, PC is a family medicine practice in Wyandotte, MI at 2114 Eureka Road, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/parmod-jindal-md-pc-wyandotte/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Henry Ford OptimEyes is an eye care practice in Taylor, MI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Detroit, MI, #1 of 1 eye care practices in Taylor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 38.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.3/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Detroit, MI, #1 of 1 eye care practices in Taylor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 38.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

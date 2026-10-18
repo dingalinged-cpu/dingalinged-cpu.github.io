@@ -6,7 +6,7 @@ Also answers: event venues in O’Fallon, MO; event venues near me (O’Fallon, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trigg Banquet Center | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Trigg Banquet Center is an event venue in O’Fallon, MO at 300 O'Fallon Plaza, O’Fallon, MO 63366. Phone: +16362403288. Website: https://www.triggbanquetcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/trigg-banquet-center-o-fallon/
+1. Trigg Banquet Center | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Trigg Banquet Center is an event venue in O’Fallon, MO at 300 O'Fallon Plaza, O’Fallon, MO 63366. Phone: +16362403288. Website: https://www.triggbanquetcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/trigg-banquet-center-o-fallon/
 2. Marry Me Cottage | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Marry Me Cottage is an event venue in O’Fallon, MO at 9036 Veterans Memorial Pkwy, O’Fallon, MO. Phone: +16367346077. Website: https://marrymecottage.com/. | https://registry-edge.dingalinged.workers.dev/c/marry-me-cottage-o-fallon/
 
 ## Market data (for advertisers and agents)

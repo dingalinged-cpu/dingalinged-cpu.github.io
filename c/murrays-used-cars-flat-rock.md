@@ -13,7 +13,7 @@ Murray's Used Cars is an used car dealer in Flat Rock, MI. Phone: +17349256212. 
 - Website: https://murrayscars.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 13% of used car dealers in Detroit, MI, #1 of 2 used car dealers in Flat Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 13% of used car dealers in Detroit, MI, #1 of 2 used car dealers in Flat Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

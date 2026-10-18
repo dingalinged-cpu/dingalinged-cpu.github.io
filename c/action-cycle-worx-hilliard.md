@@ -13,7 +13,7 @@ Action Cycle Worx is a bike shop in Hilliard, OH at 3249 Hilliard – Rome Road,
 - Website: https://www.actioncycleworx.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 35% of bike shops in Columbus, OH, #1 of 1 bike shops in Hilliard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 35% of bike shops in Columbus, OH, #1 of 1 bike shops in Hilliard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

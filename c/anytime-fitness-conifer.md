@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Conifer, CO at 10853 Highway 285 #D101, Conifer, CO 
 - Website: https://www.anytimefitness.com/gyms/1097/conifer-co-80433/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.3/100 — Building — top 58% of gyms in Denver, CO, #1 of 1 gyms in Conifer (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 57% of gyms in Denver, CO, #1 of 1 gyms in Conifer (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

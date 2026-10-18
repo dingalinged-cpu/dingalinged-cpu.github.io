@@ -13,7 +13,7 @@ Community Car Care is an auto repair shop in Alexandria, KY at 1047 Perkins Driv
 - Website: https://www.communitycarcareky.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 2% of auto repair shops in Cincinnati, OH, #1 of 2 auto repair shops in Alexandria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 2% of auto repair shops in Cincinnati, OH, #1 of 2 auto repair shops in Alexandria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

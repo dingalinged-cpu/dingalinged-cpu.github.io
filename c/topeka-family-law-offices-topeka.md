@@ -13,7 +13,7 @@ Topeka Family Law Offices is a lawyer in Topeka, KS at 1620 Southwest Washburn A
 - Website: https://topekafamilylawoffices.com/
 - Email: topekafamilylaw@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 25% of lawyers in Topeka, KS, #2 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 25% of lawyers in Topeka, KS, #2 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

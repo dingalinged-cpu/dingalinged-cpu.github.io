@@ -13,7 +13,7 @@ Hair 2 Slay is a hair salon in Saint Peters, MO at 935 Jungermann Road, Saint Pe
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:30-18:00; Sa 08:00-18:00
-- Pulse Score: 59.7/100 — Fair — top 58% of hair salons in St. Peters, MO, #4 of 7 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Fair — top 58% of hair salons in St. Peters, MO, #4 of 7 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

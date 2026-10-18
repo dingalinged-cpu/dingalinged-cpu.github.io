@@ -13,7 +13,7 @@ American Buyer's Discount Mattress is a mattress store in Homestead, PA at 401 E
 - Website: https://www.abdiscountmattress.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 4% of mattress stores in Pittsburgh, PA, #1 of 1 mattress stores in Homestead (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 4% of mattress stores in Pittsburgh, PA, #1 of 1 mattress stores in Homestead (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

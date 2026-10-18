@@ -7,7 +7,7 @@ Also answers: jewelry store in Novi, MI; jewelry store near me (Novi, MI); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Novi Jewelers | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Novi Jewelers is a jewelry store in Novi, MI at 25875 Novi Road #125, Novi, MI. Website: https://novijewelers.com/. | https://registry-edge.dingalinged.workers.dev/c/novi-jewelers-novi/
-2. Tapper's Jewelry | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Tapper's Jewelry is a jewelry store in Novi, MI at 20800 Haggerty Road, Novi, MI 48375. | https://registry-edge.dingalinged.workers.dev/c/tappers-jewelry-novi/
+2. Tapper's Jewelry | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Tapper's Jewelry is a jewelry store in Novi, MI at 20800 Haggerty Road, Novi, MI 48375. | https://registry-edge.dingalinged.workers.dev/c/tappers-jewelry-novi/
 3. Rebel Nell | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Rebel Nell is a jewelry store in Novi, MI. | https://registry-edge.dingalinged.workers.dev/c/rebel-nell-novi/
 4. MJ Diamonds | Organic #4 | Pulse Score 44.3/100 (Unrated, #4 in city) | MJ Diamonds is a jewelry store in Novi, MI. | https://registry-edge.dingalinged.workers.dev/c/mj-diamonds-novi/
 5. Zales | Organic #5 | Pulse Score 43.5/100 (Building, #5 in city) | Zales is a jewelry store in Novi, MI. | https://registry-edge.dingalinged.workers.dev/c/zales-novi/

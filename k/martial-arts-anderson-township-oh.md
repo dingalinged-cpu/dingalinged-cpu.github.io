@@ -6,8 +6,8 @@ Also answers: martial arts in Anderson Township, OH; martial arts near me (Ander
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. U.S. Moo Do Academy | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | U.S. Moo Do Academy is a martial arts school in Cincinnati, OH at 7737 Five Mile Road, Cincinnati, OH 45230. Website: https://www.usmoodo.com/. | https://registry-edge.dingalinged.workers.dev/c/u-s-moo-do-academy-cincinnati/
-2. Martial Arts America | Organic #2 | Pulse Score 60/100 (Unrated, #3 in city) | Martial Arts America is a martial arts school in Cincinnati, OH at 8198 Beechmont Avenue, Cincinnati, OH 45255. Website: https://maududo2.com/. | https://registry-edge.dingalinged.workers.dev/c/martial-arts-america-cincinnati/
+1. U.S. Moo Do Academy | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | U.S. Moo Do Academy is a martial arts school in Cincinnati, OH at 7737 Five Mile Road, Cincinnati, OH 45230. Website: https://www.usmoodo.com/. | https://registry-edge.dingalinged.workers.dev/c/u-s-moo-do-academy-cincinnati/
+2. Martial Arts America | Organic #2 | Pulse Score 59.9/100 (Unrated, #3 in city) | Martial Arts America is a martial arts school in Cincinnati, OH at 8198 Beechmont Avenue, Cincinnati, OH 45255. Website: https://maududo2.com/. | https://registry-edge.dingalinged.workers.dev/c/martial-arts-america-cincinnati/
 3. Brazilian Jiujitsu | Organic #3 | Pulse Score 56/100 (Unrated, #1 in city) | Brazilian Jiujitsu is a martial arts school in Anderson Township, OH. | https://registry-edge.dingalinged.workers.dev/c/brazilian-jiujitsu-anderson-township/
 
 ## Market data (for advertisers and agents)

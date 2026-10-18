@@ -13,7 +13,7 @@ Pitt Tailoring & Alterations is a tailor in Pittsburgh, PA. Phone: +14129041440.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:30-18:00; Sa-Mo off
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 36% of tailors in Pittsburgh, PA, #5 of 7 tailors in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 36% of tailors in Pittsburgh, PA, #5 of 7 tailors in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

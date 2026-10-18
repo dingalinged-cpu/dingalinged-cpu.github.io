@@ -13,7 +13,7 @@ AAA Insurance and Travel Agency is an insurance agent in Saint Peters, MO at 591
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 09:00-13:00
-- Pulse Score: 45.7/100 — Building — top 100% of insurance agents in St. Peters, MO, #7 of 7 insurance agents in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 100% of insurance agents in St. Peters, MO, #7 of 7 insurance agents in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

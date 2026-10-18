@@ -1,0 +1,37 @@
+The top unpaid auto body shop listing for Amarillo, TX is Southwest Body Shop (an auto repair shop in Amarillo, TX at 6359 Canyon Drive, Amarillo, TX 79110. Phone: +18063537246. Website: https://www.swbodyshop.com/). 15 auto body shop businesses are listed for Amarillo, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best auto body shop providers in Amarillo, TX?
+
+Also answers: auto body shop in Amarillo, TX; auto body shop near me (Amarillo, TX); best auto body shop Amarillo, TX; top rated auto body shop Amarillo, TX; affordable auto body shop Amarillo, TX; emergency auto body shop Amarillo, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Southwest Body Shop | Organic #1 | Pulse Score 64.2/100 (Unrated, #2 in city) | Southwest Body Shop is an auto repair shop in Amarillo, TX at 6359 Canyon Drive, Amarillo, TX 79110. Phone: +18063537246. Website: https://www.swbodyshop.com/. | https://registry-edge.dingalinged.workers.dev/c/southwest-body-shop-amarillo/
+2. Harvey's Precision Body Shop | Organic #2 | Pulse Score 62.4/100 (Unrated, #7 in city) | Harvey's Precision Body Shop is an auto repair shop in Amarillo, TX at 3026 Blackburn Street, Amarillo, TX 79109. Phone: +18063529662. Website: https://www.harveysprecisionbodyshop.com/. | https://registry-edge.dingalinged.workers.dev/c/harveys-precision-body-shop-amarillo/
+3. Bullet Body Shop | Organic #3 | Pulse Score 59.6/100 (Unrated, #13 in city) | Bullet Body Shop is an auto repair shop in Amarillo, TX at 401 North Tyler Street, Amarillo, TX 79107. Phone: +18064186905. | https://registry-edge.dingalinged.workers.dev/c/bullet-body-shop-amarillo/
+4. Herrara's Paint & Body Shop | Organic #4 | Pulse Score 59.6/100 (Unrated, #15 in city) | Herrara's Paint & Body Shop is an auto repair shop in Amarillo, TX at 909 North Fillmore Street, Amarillo, TX 79107. Phone: +18063728412. | https://registry-edge.dingalinged.workers.dev/c/herraras-paint-and-body-shop-amarillo/
+5. Paint Slingers | Organic #5 | Pulse Score 59.6/100 (Unrated, #17 in city) | Paint Slingers is an auto repair shop in Amarillo, TX at 832 South Georgia Street, Amarillo, TX 79102. Phone: +18066831223. | https://registry-edge.dingalinged.workers.dev/c/paint-slingers-amarillo/
+6. Richies Collision Body Shop | Organic #6 | Pulse Score 59.6/100 (Unrated, #18 in city) | Richies Collision Body Shop is an auto repair shop in Amarillo, TX at 408 North Grand Street #5740, Amarillo, TX 79107. Phone: +18066838988. | https://registry-edge.dingalinged.workers.dev/c/richies-collision-body-shop-amarillo/
+7. Jimmy Fincher Body Shop | Organic #7 | Pulse Score 59.2/100 (Unrated, #28 in city) | Jimmy Fincher Body Shop is an auto repair shop in Amarillo, TX at 5827 Canyon Drive, Amarillo, TX 79110. Phone: +18063533491. | https://registry-edge.dingalinged.workers.dev/c/jimmy-fincher-body-shop-amarillo/
+8. Los Afortunados Body Shop | Organic #8 | Pulse Score 59.2/100 (Unrated, #29 in city) | Los Afortunados Body Shop is an auto repair shop in Amarillo, TX at 618 North Fillmore Street, Amarillo, TX 79107. Phone: +18064433096. | https://registry-edge.dingalinged.workers.dev/c/los-afortunados-body-shop-amarillo/
+9. R&R Body Shop | Organic #9 | Pulse Score 59.2/100 (Unrated, #32 in city) | R&R Body Shop is an auto repair shop in Amarillo, TX at 328 North Birmingham Street, Amarillo, TX 79107. Phone: +18064430182. | https://registry-edge.dingalinged.workers.dev/c/r-and-r-body-shop-amarillo/
+10. Revolution Body Shop | Organic #10 | Pulse Score 59.2/100 (Unrated, #33 in city) | Revolution Body Shop is an auto repair shop in Amarillo, TX at 1530 Dumas Drive, Amarillo, TX 79107. Phone: +18062903859. | https://registry-edge.dingalinged.workers.dev/c/revolution-body-shop-amarillo/
+11. Unique Body Shop | Organic #11 | Pulse Score 59.2/100 (Unrated, #35 in city) | Unique Body Shop is an auto repair shop in Amarillo, TX at 1401 North Fillmore Street, Amarillo, TX 79107. Phone: +18066764687. | https://registry-edge.dingalinged.workers.dev/c/unique-body-shop-amarillo/
+12. Amarillo Collision Repair | Organic #12 | Pulse Score 57.3/100 (Unrated, #78 in city) | Amarillo Collision Repair is an auto repair shop in Amarillo, TX at 4531 Maverick Street, Amarillo, TX 79109. Website: https://www.amarillocollisionrepair.com/. | https://registry-edge.dingalinged.workers.dev/c/amarillo-collision-repair-amarillo/
+13. Pro Tech Auto Body | Organic #13 | Pulse Score 57.3/100 (Unrated, #79 in city) | Pro Tech Auto Body is an auto repair shop in Amarillo, TX at 3405 Stapleton Street, Amarillo, TX 79109. Website: https://www.protech-autobody.com/. | https://registry-edge.dingalinged.workers.dev/c/pro-tech-auto-body-amarillo/
+14. Stone Bros Collision | Organic #14 | Pulse Score 57.3/100 (Unrated, #80 in city) | Stone Bros Collision is an auto repair shop in Amarillo, TX at 3715 West Amarillo Boulevard, Amarillo, TX 79106. Website: https://www.stonebrotherscollision.com/. | https://registry-edge.dingalinged.workers.dev/c/stone-bros-collision-amarillo/
+15. Texas Body Shop | Organic #15 | Pulse Score 55.5/100 (Unrated, #84 in city) | Texas Body Shop is an auto repair shop in Amarillo, TX at 4900 McCarty Boulevard, Amarillo, TX 79110. | https://registry-edge.dingalinged.workers.dev/c/texas-body-shop-amarillo/
+
+## Market data (for advertisers and agents)
+- Keyword: auto body shop amarillo tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
+- US monthly searches: 60,500/mo (cited; Semrush US Sep 2026 (via research source); as of 2026-09; phrase 'auto body shop near me')
+- CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 15
+- Equivalent Google Ads cost per month: n/a
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/auto-body-shop.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#auto-body-shop-amarillo-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

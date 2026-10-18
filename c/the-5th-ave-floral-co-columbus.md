@@ -13,7 +13,7 @@ The 5th Ave Floral Co is a florist in Columbus, OH at 1877 Kenny Road, Columbus,
 - Website: https://www.5thavefloral.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:30; Fr 08:30-18:00; Sa 08:30-15:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 17% of florists in Columbus, OH, #4 of 14 florists in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 17% of florists in Columbus, OH, #4 of 14 florists in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: appliance repair in Saint Peters, MO; appliance repair near me (Sa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mid America Service Appliance Repair | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Mid America Service Appliance Repair is an appliance repair service in Saint Peters, MO at 328 Jungermann Road, Saint Peters, MO 63376. Phone: +16369284131. Website: https://midamericaappliancerepair.com/. | https://registry-edge.dingalinged.workers.dev/c/mid-america-service-appliance-repair-saint-peters/
+1. Mid America Service Appliance Repair | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Mid America Service Appliance Repair is an appliance repair service in Saint Peters, MO at 328 Jungermann Road, Saint Peters, MO 63376. Phone: +16369284131. Website: https://midamericaappliancerepair.com/. | https://registry-edge.dingalinged.workers.dev/c/mid-america-service-appliance-repair-saint-peters/
 
 ## Market data (for advertisers and agents)
 - Keyword: appliance repair saint peters mo | category: Home services - Appliance repair | industry benchmark: Home & Home Improvement

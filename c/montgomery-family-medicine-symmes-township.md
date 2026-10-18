@@ -13,7 +13,7 @@ Montgomery Family Medicine is a family medicine practice in Symmes Township, OH.
 - Website: https://www.trihealth.com/hospitals-and-practices/montgomery-family-medicine/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.6/100 — Building — top 100% of family medicine practices in Cincinnati, OH, #1 of 1 family medicine practices in Symmes Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.6/100 — Building — top 100% of family medicine practices in Cincinnati, OH, #1 of 1 family medicine practices in Symmes Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

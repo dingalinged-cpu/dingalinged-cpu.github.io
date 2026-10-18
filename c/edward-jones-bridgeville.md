@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Bridgeville, PA at 420 Bower Hill Road, B
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Building — top 43% of financial advisors in Pittsburgh, PA, #1 of 1 financial advisors in Bridgeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 43% of financial advisors in Pittsburgh, PA, #1 of 1 financial advisors in Bridgeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

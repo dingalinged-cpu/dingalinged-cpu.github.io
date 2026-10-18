@@ -13,7 +13,7 @@ Gold Star Roofing & Exteriors, LLC is a roofer in Rock Township, MO at 3851 Old 
 - Website: https://www.goldstarroofingstl.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 80% of roofers in St. Louis, MO, #1 of 1 roofers in Rock Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 80% of roofers in St. Louis, MO, #1 of 1 roofers in Rock Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

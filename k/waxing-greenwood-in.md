@@ -6,7 +6,7 @@ Also answers: waxing in Greenwood, IN; waxing near me (Greenwood, IN); best waxi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lux Esthetics Lab | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Lux Esthetics Lab is a skin care studio in Greenwood, IN at 1251 U.S. Highway 31 North #P180, Greenwood, IN 46142. Phone: +13177590694. Website: https://www.luxestheticslab.com/. | https://registry-edge.dingalinged.workers.dev/c/lux-esthetics-lab-greenwood/
+1. Lux Esthetics Lab | Organic #1 | Pulse Score 64.1/100 (Good, #1 in city) | Lux Esthetics Lab is a skin care studio in Greenwood, IN at 1251 U.S. Highway 31 North #P180, Greenwood, IN 46142. Phone: +13177590694. Website: https://www.luxestheticslab.com/. | https://registry-edge.dingalinged.workers.dev/c/lux-esthetics-lab-greenwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing greenwood in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

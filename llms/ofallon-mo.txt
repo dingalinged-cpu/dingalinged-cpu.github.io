@@ -27,7 +27,7 @@
 - Website: https://www.355nailsalon.com/introduction.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of nail salons in O'Fallon, MO, #1 of 3 nail salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 34% of nail salons in O'Fallon, MO, #1 of 3 nail salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -54,7 +54,7 @@ AAA Insurance is an insurance agent in O’Fallon, MO at 2277 Highway K, O’Fal
 - Website: https://www.aaa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 09:00-13:00; Su off
-- Pulse Score: 48.9/100 — Building — top 80% of insurance agents in O'Fallon, MO, #4 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 80% of insurance agents in O'Fallon, MO, #4 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -81,7 +81,7 @@ Advanced Training And Rehab is a physical therapy clinic in O’Fallon, MO at 51
 - Website: https://atr-stl.com/ofallonnorth.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 50% of physical therapy clinics in O'Fallon, MO, #1 of 2 physical therapy clinics in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 50% of physical therapy clinics in O'Fallon, MO, #1 of 2 physical therapy clinics in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -108,7 +108,7 @@ American Family Insurance is an insurance agent in O’Fallon, MO at 7130 South 
 - Website: https://insurance-agency.amfam.com/mo/jeffrey-lang/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Building — top 100% of insurance agents in O'Fallon, MO, #5 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 100% of insurance agents in O'Fallon, MO, #5 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -135,7 +135,7 @@ AmeriKids Christian Center is a preschool in O’Fallon, MO at 1017 North Main S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 100% of preschools in O'Fallon, MO, #2 of 2 preschools in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 100% of preschools in O'Fallon, MO, #2 of 2 preschools in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -162,7 +162,7 @@ Animal Emergency Clinic is a veterinarian in O’Fallon, MO at 334 Fort Zumwalt 
 - Website: https://www.stlouisanimalemergencyclinic.org/site/home
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 75% of veterinarians in O'Fallon, MO, #3 of 3 veterinarians in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 75% of veterinarians in O'Fallon, MO, #3 of 3 veterinarians in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -216,7 +216,7 @@ Athletico Physical Therapy is a physical therapy clinic in O’Fallon, MO at 343
 - Website: https://www.athletico.com/locations/ofallon-north/?location=ofallon-north
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 100% of physical therapy clinics in O'Fallon, MO, #2 of 2 physical therapy clinics in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 100% of physical therapy clinics in O'Fallon, MO, #2 of 2 physical therapy clinics in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -243,7 +243,7 @@ Autotech Auto Center is an auto repair shop in O’Fallon, MO at 10 Elaine Drive
 - Website: https://autotech.pro/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 13% of auto repair shops in O'Fallon, MO, #1 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 13% of auto repair shops in O'Fallon, MO, #1 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -270,7 +270,7 @@ Bauer Orthodontics is a dentist in Cottleville, MO at 150 Weiss Road #102, Cottl
 - Website: https://www.bauerortho.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 86% of dentists in O'Fallon, MO, #2 of 2 dentists in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 86% of dentists in O'Fallon, MO, #2 of 2 dentists in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -297,7 +297,7 @@ Bentley's Pet Stuff is a pet store in O’Fallon, MO at 2285 Highway K, O’Fall
 - Website: https://petstuff.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 10:00-17:00
-- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 100% of pet stores in O'Fallon, MO, #3 of 3 pet stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 100% of pet stores in O'Fallon, MO, #3 of 3 pet stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -324,7 +324,7 @@ Berkshire Hathaway is a real estate agency in O’Fallon, MO at 950 Caledonia Dr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in O'Fallon, MO, #1 of 1 real estate agencys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in O'Fallon, MO, #1 of 1 real estate agencys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -351,7 +351,7 @@ BTU Consultants is a business consultant in O’Fallon, MO at 1293 Pinehurst Clu
 - Website: https://www.btu-consultants.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00- 19:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 100% of business consultants in O'Fallon, MO, #1 of 1 business consultants in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 100% of business consultants in O'Fallon, MO, #1 of 1 business consultants in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -378,7 +378,7 @@ Candyland Academy, Inc is a preschool in Saint Peters, MO at 102 Birdie Hills Ro
 - Website: https://www.candylandacademyinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 75% of preschools in O'Fallon, MO, #1 of 1 preschools in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 75% of preschools in O'Fallon, MO, #1 of 1 preschools in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -405,7 +405,7 @@ Circle K is a car wash in Lake Saint Louis, MO at 1001 Lake Saint Louis Boulevar
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Building — top 67% of car washes in O'Fallon, MO, #2 of 2 car washes in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Building — top 67% of car washes in O'Fallon, MO, #2 of 2 car washes in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -459,7 +459,7 @@ Club Fitness is a gym in O’Fallon, MO at 225 O'Fallon Plaza, O’Fallon, MO 63
 - Website: https://www.clubfitness.us/location/ofallon-north/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 67% of gyms in O'Fallon, MO, #2 of 3 gyms in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 67% of gyms in O'Fallon, MO, #2 of 3 gyms in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -486,7 +486,7 @@ Club Fitness is a gym in O’Fallon, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.1/100 — Unrated (not enough evidence yet) — top 100% of gyms in O'Fallon, MO, #3 of 3 gyms in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.1/100 — Unrated (not enough evidence yet) — top 100% of gyms in O'Fallon, MO, #3 of 3 gyms in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -513,7 +513,7 @@ Cottleville Dental is a dentist in Cottleville, MO at 150 Weiss Road #100, Cottl
 - Website: https://www.cottlevilledental.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 72% of dentists in O'Fallon, MO, #1 of 2 dentists in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 72% of dentists in O'Fallon, MO, #1 of 2 dentists in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -540,7 +540,7 @@ Creative Smiles at Winghaven is a dentist in O’Fallon, MO at 3011 Winghaven Bo
 - Website: https://creativesmileswinghaven.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-17:00; Fr 08:00-14:00; We-Th 07:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 43% of dentists in O'Fallon, MO, #3 of 4 dentists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 43% of dentists in O'Fallon, MO, #3 of 4 dentists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -567,7 +567,7 @@ Dirt Cheap is a liquor store in O’Fallon, MO at 102 McDonald Lane, O’Fallon,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.7/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in O'Fallon, MO, #1 of 1 liquor stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.7/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in O'Fallon, MO, #1 of 1 liquor stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -594,7 +594,7 @@ Discount Tire is a tire shop in Lake Saint Louis, MO at 1015 Southern Ridge Lane
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Building — top 100% of tire shops in O'Fallon, MO, #1 of 1 tire shops in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 100% of tire shops in O'Fallon, MO, #1 of 1 tire shops in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -621,7 +621,7 @@ Edible Arrangements is a gift shop in O’Fallon, MO at 1308 Highway K, O’Fall
 - Website: https://www.ediblearrangements.com/stores/1308-highway-k-o-fallon-mo-63366
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 100% of gift shops in O'Fallon, MO, #1 of 1 gift shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 100% of gift shops in O'Fallon, MO, #1 of 1 gift shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -648,7 +648,7 @@ Edward Jones is a financial advisor in O’Fallon, MO at 616 North Main Street, 
 - Website: https://www.edwardjones.com/us-en/financial-advisor/david-marsek
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:00
-- Pulse Score: 50/100 — Fair — top 100% of financial advisors in O'Fallon, MO, #1 of 1 financial advisors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 100% of financial advisors in O'Fallon, MO, #1 of 1 financial advisors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -675,7 +675,7 @@ Excel Performing Arts is a dance studio in O’Fallon, MO at 144 O'Fallon Plaza,
 - Website: https://www.excelperformingarts.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 100% of dance studios in O'Fallon, MO, #2 of 2 dance studios in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 100% of dance studios in O'Fallon, MO, #2 of 2 dance studios in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -702,7 +702,7 @@ Extra Space Storage is a self-storage facility in O’Fallon, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Building — top 75% of self-storage facilitys in O'Fallon, MO, #3 of 4 self-storage facilitys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 75% of self-storage facilitys in O'Fallon, MO, #3 of 4 self-storage facilitys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -729,7 +729,7 @@ Extra Space Storage is a self-storage facility in O’Fallon, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.8/100 — Building — top 100% of self-storage facilitys in O'Fallon, MO, #4 of 4 self-storage facilitys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.9/100 — Building — top 100% of self-storage facilitys in O'Fallon, MO, #4 of 4 self-storage facilitys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -756,7 +756,7 @@ Fantastic Sams is a hair salon in O’Fallon, MO at 36 O'Fallon Square, O’Fall
 - Website: https://www.fantasticsams.com/about/regions/st-louis-mo/fantastic-sams-ofallon-mo-0
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 43% of hair salons in O'Fallon, MO, #6 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 43% of hair salons in O'Fallon, MO, #6 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -783,7 +783,7 @@ Fantastic Sams is a hair salon in O’Fallon, MO at 2979 Highway K #A, O’Fallo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Building — top 65% of hair salons in O'Fallon, MO, #9 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 65% of hair salons in O'Fallon, MO, #9 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -810,7 +810,7 @@ Faszold Heating & Cooling is a HVAC contractor in O’Fallon, MO at 1613 East Te
 - Website: https://www.faszold.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in O'Fallon, MO, #1 of 1 HVAC contractors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in O'Fallon, MO, #1 of 1 HVAC contractors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -837,7 +837,7 @@ FedEx Office is a printing service in O’Fallon, MO at 1312 Highway K, O’Fall
 - Website: https://local.fedex.com/mo/ofallon/office-1032/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.8/100 — Building — top 100% of printing services in O'Fallon, MO, #2 of 2 printing services in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 100% of printing services in O'Fallon, MO, #2 of 2 printing services in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -864,7 +864,7 @@ Felderwerth Chiropractic and Acupuncture is a chiropractor in O’Fallon, MO at 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 100% of chiropractors in O'Fallon, MO, #3 of 3 chiropractors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 100% of chiropractors in O'Fallon, MO, #3 of 3 chiropractors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -891,7 +891,7 @@ Firestone is an auto repair shop in O’Fallon, MO at 504 South Main Street, O�
 - Website: https://local.firestonecompleteautocare.com/missouri/o-fallon/504-s-main-st/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Building — top 63% of auto repair shops in O'Fallon, MO, #5 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 63% of auto repair shops in O'Fallon, MO, #5 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -945,7 +945,7 @@ Frontier Car Wash is a car wash in O’Fallon, MO at 160 Frontier Park Drive, O�
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 17% of car washes in O'Fallon, MO, #1 of 3 car washes in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 17% of car washes in O'Fallon, MO, #1 of 3 car washes in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -972,7 +972,7 @@ Frontier Integrated Health Center is a chiropractor in O’Fallon, MO at 2011 Hi
 - Website: https://www.frontierhealthcenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 67% of chiropractors in O'Fallon, MO, #2 of 3 chiropractors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 67% of chiropractors in O'Fallon, MO, #2 of 3 chiropractors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -999,7 +999,7 @@ Gateway Asthma and Allergy is an allergist in O’Fallon, MO at 9426 Phoenix Vil
 - Website: https://www.essehealth.com/location/gateway-asthma-allergy-relief-ofallon-mo/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Th 09:00-18:00; Tu,Fr 09:00-15:00; Sa 08:00-11:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 100% of allergists in O'Fallon, MO, #1 of 1 allergists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 100% of allergists in O'Fallon, MO, #1 of 1 allergists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1026,7 +1026,7 @@ Gentle Doctor Animal Hospital is a veterinarian in O’Fallon, MO at 3079 State 
 - Website: https://www.gentledranimalhospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 08:00-13:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in O'Fallon, MO, #2 of 3 veterinarians in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in O'Fallon, MO, #2 of 3 veterinarians in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1053,7 +1053,7 @@ Georgia Chiropractic is a chiropractor in O’Fallon, MO at 2315 Highway K, O’
 - Website: https://www.georgiachiropractic.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-12:00,14:00-18:00; Fr 08:00-12:00,13:00-17:00; Sa 09:00-14:00; Su "By appointment"
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 34% of chiropractors in O'Fallon, MO, #1 of 3 chiropractors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 34% of chiropractors in O'Fallon, MO, #1 of 3 chiropractors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1080,7 +1080,7 @@ Global Green Insurance Agency is an insurance agent in O’Fallon, MO at 995 Coo
 - Website: https://goglobalgreen.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 20% of insurance agents in O'Fallon, MO, #1 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 20% of insurance agents in O'Fallon, MO, #1 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1107,7 +1107,7 @@ Goodwill is a thrift store in O’Fallon, MO at 1210 Highway K, O’Fallon, MO 6
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Building — top 100% of thrift stores in O'Fallon, MO, #1 of 1 thrift stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 100% of thrift stores in O'Fallon, MO, #1 of 1 thrift stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1134,7 +1134,7 @@ Great Beginnings Learning Center is a preschool in Cottleville, MO at 1401 Cottl
 - Website: https://www.greatbeginningsfamily.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 50% of preschools in O'Fallon, MO, #1 of 1 preschools in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 50% of preschools in O'Fallon, MO, #1 of 1 preschools in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1161,7 +1161,7 @@ Great Clips is a hair salon in O’Fallon, MO at 8642 Veterans Memorial Parkway 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Building — top 58% of hair salons in O'Fallon, MO, #8 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 58% of hair salons in O'Fallon, MO, #8 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1215,7 +1215,7 @@ Great Clips is a hair salon in Saint Peters, MO at 515 Salt Lick Road, Saint Pet
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Building — top 72% of hair salons in O'Fallon, MO, #1 of 1 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 72% of hair salons in O'Fallon, MO, #1 of 1 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1269,7 +1269,7 @@ Holly's North Side Salon is a hair salon in O’Fallon, MO at 148 O'Fallon Plaza
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 15% of hair salons in O'Fallon, MO, #2 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 15% of hair salons in O'Fallon, MO, #2 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1296,7 +1296,7 @@ Jiffy Lube is an auto repair shop in O’Fallon, MO at 518 South Main Street, O�
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Building — top 100% of auto repair shops in O'Fallon, MO, #8 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Building — top 100% of auto repair shops in O'Fallon, MO, #8 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1323,7 +1323,7 @@ Jim Schilkoski - State Farm Insurance is an insurance agent in O’Fallon, MO at
 - Website: https://www.statefarm.com/agent/US/MO/O-fallon/Jim-Schilkoski-8H5Z31YS000
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 40% of insurance agents in O'Fallon, MO, #2 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 40% of insurance agents in O'Fallon, MO, #2 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1404,7 +1404,7 @@ Kay Jewelers is a jewelry store in O’Fallon, MO at 2283 Highway K, O’Fallon,
 - Website: https://stores.kay.com/mo/o-fallon/2283-st-hwy--k.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 12:00-17:00
-- Pulse Score: 48.7/100 — Building — top 100% of jewelry stores in O'Fallon, MO, #2 of 2 jewelry stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 100% of jewelry stores in O'Fallon, MO, #2 of 2 jewelry stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1431,7 +1431,7 @@ Kevin M. Killian, DDS, PC is a dentist in Saint Peters, MO at 625 Salt Lick Road
 - Website: https://dentist-stpeters.com/
 - Email: kmkdds1@gmail.com
 - Opening hours (OSM syntax): Mo-Tu 08:00-17:00; We 08:00-19:00; Th 08:00-17:00; Fr 08:00-13:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 58% of dentists in O'Fallon, MO, #1 of 1 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 58% of dentists in O'Fallon, MO, #1 of 1 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1458,7 +1458,7 @@ Kirkland's is a furniture store in O’Fallon, MO at 2215 Highway K, O’Fallon,
 - Website: https://www.kirklands.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 20% of furniture stores in O'Fallon, MO, #1 of 4 furniture stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 20% of furniture stores in O'Fallon, MO, #1 of 4 furniture stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1485,7 +1485,7 @@ La-Z-Boy is a furniture store in O’Fallon, MO at 1690 Highway K, O’Fallon, M
 - Website: https://www.la-z-boy.com/Saint-Louis/Meagan-Avenue/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Building — top 100% of furniture stores in O'Fallon, MO, #4 of 4 furniture stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 100% of furniture stores in O'Fallon, MO, #4 of 4 furniture stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1512,7 +1512,7 @@ Lady Jane's Haircuts for Men is a hair salon in O’Fallon, MO at 2023 Highway K
 - Website: https://www.ladyjanes.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-20:00; Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
-- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 29% of hair salons in O'Fallon, MO, #4 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 36% of hair salons in O'Fallon, MO, #5 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1539,7 +1539,7 @@ Liberty Tax is a tax preparation service in O’Fallon, MO at 2017 Highway K, O�
 - Website: https://www.libertytax.com/income-tax-preparation-locations/14745.html
 - Email: n/a
 - Opening hours (OSM syntax): We 10:00-18:00; Th-Tu "By appointment"
-- Pulse Score: 49/100 — Building — top 100% of tax preparation services in O'Fallon, MO, #1 of 1 tax preparation services in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 100% of tax preparation services in O'Fallon, MO, #1 of 1 tax preparation services in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1566,7 +1566,7 @@ Little Arrow Furnishment is a furniture store in O’Fallon, MO at 145 O'Fallon 
 - Website: https://www.littlearrowfurnishment.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 40% of furniture stores in O'Fallon, MO, #2 of 4 furniture stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 40% of furniture stores in O'Fallon, MO, #2 of 4 furniture stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1593,7 +1593,7 @@ Look After Hair Company is a hair salon in O’Fallon, MO at 3736 Montecello Pla
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 22% of hair salons in O'Fallon, MO, #3 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 22% of hair salons in O'Fallon, MO, #3 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1620,7 +1620,7 @@ LookAfter Hair Company is a hair salon in Lake Saint Louis, MO at 111 Civic Cent
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 26.8/100 — Unrated (not enough evidence yet) — top 100% of hair salons in O'Fallon, MO, #1 of 1 hair salons in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 26.8/100 — Unrated (not enough evidence yet) — top 100% of hair salons in O'Fallon, MO, #1 of 1 hair salons in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1647,7 +1647,7 @@ Marry Me Cottage is an event venue in O’Fallon, MO at 9036 Veterans Memorial P
 - Website: https://marrymecottage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of event venues in O'Fallon, MO, #2 of 2 event venues in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of event venues in O'Fallon, MO, #2 of 2 event venues in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1674,7 +1674,7 @@ Martian Car Wash is a car wash in Saint Peters, MO at 7860 Mexico Road, Saint Pe
 - Website: https://www.martiancarwash.com/locations/mexico-road/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su 09:00-18:00
-- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 50% of car washes in O'Fallon, MO, #1 of 1 car washes in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 50% of car washes in O'Fallon, MO, #1 of 1 car washes in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1701,7 +1701,7 @@ Mattress Firm is a mattress store in O’Fallon, MO at 313 Winding Woods Drive, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Building — top 100% of mattress stores in O'Fallon, MO, #4 of 4 mattress stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 100% of mattress stores in O'Fallon, MO, #4 of 4 mattress stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1728,7 +1728,7 @@ Mattress Firm is a mattress store in O’Fallon, MO at 2111 Highway K, O’Fallo
 - Website: https://www.mattressfirm.com/stores/mo/ofallon/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 50/100 — Fair — top 75% of mattress stores in O'Fallon, MO, #3 of 4 mattress stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 75% of mattress stores in O'Fallon, MO, #3 of 4 mattress stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1755,7 +1755,7 @@ Meineke is an auto repair shop in O’Fallon, MO at 715 Highway K, O’Fallon, M
 - Website: https://www.meineke.com/locations/mo/o-fallon-469/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Building — top 75% of auto repair shops in O'Fallon, MO, #6 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 75% of auto repair shops in O'Fallon, MO, #6 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1782,7 +1782,7 @@ Midas is an auto repair shop in O’Fallon, MO at 703 Highway K, O’Fallon, MO 
 - Website: https://www.midas.com/stlouis/store.aspx?shopnum=2336&dmanum=760
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Building — top 88% of auto repair shops in O'Fallon, MO, #7 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46/100 — Building — top 88% of auto repair shops in O'Fallon, MO, #7 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1809,7 +1809,7 @@ MOD is a boutique in O’Fallon, MO at 2307 Highway K, O’Fallon, MO 63368. Pho
 - Website: https://modontrend.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-16:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 100% of boutiques in O'Fallon, MO, #1 of 1 boutiques in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 100% of boutiques in O'Fallon, MO, #1 of 1 boutiques in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1836,7 +1836,7 @@ Mooney Orthodontics is a dentist in O’Fallon, MO at 9018 Phoenix Village Parkw
 - Website: https://www.showmesmiles.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 100% of dentists in O'Fallon, MO, #4 of 4 dentists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 100% of dentists in O'Fallon, MO, #4 of 4 dentists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1863,7 +1863,7 @@ Mueller Furniture & Mattress is a furniture store in Lake Saint Louis, MO at 9 F
 - Website: https://www.muellerfurniture.com/
 - Email: corporate@muellerfurniture.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 12:30-17:00
-- Pulse Score: 51.8/100 — Fair — top 60% of furniture stores in O'Fallon, MO, #1 of 1 furniture stores in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.8/100 — Fair — top 60% of furniture stores in O'Fallon, MO, #1 of 1 furniture stores in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1890,7 +1890,7 @@ Nails on Main is a nail salon in O’Fallon, MO at 612 North Main Street, O’Fa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-17:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 67% of nail salons in O'Fallon, MO, #2 of 3 nail salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 67% of nail salons in O'Fallon, MO, #2 of 3 nail salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1917,7 +1917,7 @@ Nesco Resource is a staffing agency in O’Fallon, MO at 2013 Highway K, O’Fal
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 100% of staffing agencys in O'Fallon, MO, #1 of 1 staffing agencys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 100% of staffing agencys in O'Fallon, MO, #1 of 1 staffing agencys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1944,7 +1944,7 @@ Ocean Nails & Spa is a nail salon in O’Fallon, MO at 1316 Highway K #B, O’Fa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 100% of nail salons in O'Fallon, MO, #3 of 3 nail salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 100% of nail salons in O'Fallon, MO, #3 of 3 nail salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1971,7 +1971,7 @@ O'Fallon Family YMCA is a gym in O’Fallon, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 34% of gyms in O'Fallon, MO, #1 of 3 gyms in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 34% of gyms in O'Fallon, MO, #1 of 3 gyms in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1998,7 +1998,7 @@ O'Fallon Garage is an auto repair shop in O’Fallon, MO at 203 South Main Stree
 - Website: https://www.autorepairofallonmo.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 25% of auto repair shops in O'Fallon, MO, #2 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 25% of auto repair shops in O'Fallon, MO, #2 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2025,7 +2025,7 @@ O'Fallon Printing is a printing service in O’Fallon, MO at 214 South Main Stre
 - Website: https://ofallonprinting.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 50% of printing services in O'Fallon, MO, #1 of 2 printing services in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 50% of printing services in O'Fallon, MO, #1 of 2 printing services in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2052,7 +2052,7 @@ O'Fallon U Store It is a self-storage facility in O’Fallon, MO at 224 South Ma
 - Website: https://ofallonustoreit.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 25% of self-storage facilitys in O'Fallon, MO, #1 of 4 self-storage facilitys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of self-storage facilitys in O'Fallon, MO, #1 of 4 self-storage facilitys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2079,7 +2079,7 @@ O'Fallon Weightlifting is a CrossFit gym in Saint Peters, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 100% of CrossFit gyms in O'Fallon, MO, #1 of 1 CrossFit gyms in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 100% of CrossFit gyms in O'Fallon, MO, #1 of 1 CrossFit gyms in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 43.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2106,7 +2106,7 @@ Page Law is a lawyer in Saint Peters, MO at 24 Richmond Center Court, Saint Pete
 - Website: https://www.pagelaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 100% of lawyers in O'Fallon, MO, #1 of 1 lawyers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 100% of lawyers in O'Fallon, MO, #1 of 1 lawyers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2133,7 +2133,7 @@ Paradise Massage is a massage studio in O’Fallon, MO at 2021 Highway K, O’Fa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su-Sa 09:00-21:30
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of massage studios in O'Fallon, MO, #1 of 1 massage studios in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 100% of massage studios in O'Fallon, MO, #1 of 1 massage studios in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2160,7 +2160,7 @@ Peanuts Gang Learning Center is a daycare in Saint Peters, MO at 551 Salt Lick R
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 100% of daycares in O'Fallon, MO, #1 of 1 daycares in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 100% of daycares in O'Fallon, MO, #1 of 1 daycares in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2187,7 +2187,7 @@ PetSmart is a pet store in O’Fallon, MO at 2242 Highway K, O’Fallon, MO 6336
 - Website: https://www.petsmart.com/store-locator/store/?storeID=0270
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 49.8/100 — Building — top 75% of pet stores in O'Fallon, MO, #2 of 3 pet stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 75% of pet stores in O'Fallon, MO, #2 of 3 pet stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 65.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2214,7 +2214,7 @@ Phoenix Village Dental is a dentist in O’Fallon, MO at 9210 Phoenix Village Pa
 - Website: https://www.phoenixvillagedental1.com/
 - Email: phoenixvillagedental@gmail.com
 - Opening hours (OSM syntax): Mo-Tu 08:00-17:00; We 10:00-19:00; Th 08:00-13:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 29% of dentists in O'Fallon, MO, #2 of 4 dentists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 29% of dentists in O'Fallon, MO, #2 of 4 dentists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2241,7 +2241,7 @@ Plaza Barber Shop is a hair salon in O’Fallon, MO at 139 O'Fallon Plaza, O’F
 - Website: https://ofallonbarber.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 8% of hair salons in O'Fallon, MO, #1 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 8% of hair salons in O'Fallon, MO, #1 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2268,7 +2268,7 @@ Plaza Tire Service is an auto repair shop in O’Fallon, MO at 1000 North Main S
 - Website: n/a
 - Email: pts63@plazatireservice.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 07:30-16:30; Su off
-- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 50% of auto repair shops in O'Fallon, MO, #4 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 50% of auto repair shops in O'Fallon, MO, #4 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2295,7 +2295,7 @@ Plaza Tire Service is a tire shop in Saint Peters, MO at 7878 Mexico Road, Saint
 - Website: https://www.plazatireservice.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.8/100 — Unrated (not enough evidence yet) — top 50% of tire shops in O'Fallon, MO, #1 of 1 tire shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Unrated (not enough evidence yet) — top 50% of tire shops in O'Fallon, MO, #1 of 1 tire shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2322,7 +2322,7 @@ Provident Property Management is a property management company in Lake Saint Lou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 100% of property management companys in O'Fallon, MO, #1 of 1 property management companys in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 100% of property management companys in O'Fallon, MO, #1 of 1 property management companys in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 44.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2349,7 +2349,7 @@ Randy's Jewelry is a jewelry store in O’Fallon, MO at 309 South Main Street, O
 - Website: https://www.randys-jewelry.com/about/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 50% of jewelry stores in O'Fallon, MO, #1 of 2 jewelry stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of jewelry stores in O'Fallon, MO, #1 of 2 jewelry stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2376,7 +2376,7 @@ Revolution Mattress is a mattress store in O’Fallon, MO at 218 South Main Stre
 - Website: https://www.revolutionmattress.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 25% of mattress stores in O'Fallon, MO, #1 of 4 mattress stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 25% of mattress stores in O'Fallon, MO, #1 of 4 mattress stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2403,7 +2403,7 @@ Sah Do Mu Sul is a martial arts school in O’Fallon, MO at 929 North Main Stree
 - Website: https://sdmsofallon.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in O'Fallon, MO, #1 of 1 martial arts schools in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in O'Fallon, MO, #1 of 1 martial arts schools in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2430,7 +2430,7 @@ Sandy Kessler - State Farm Insurance is an insurance agent in O’Fallon, MO at 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 60% of insurance agents in O'Fallon, MO, #3 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 60% of insurance agents in O'Fallon, MO, #3 of 5 insurance agents in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2457,7 +2457,7 @@ Sport Clips is a hair salon in O’Fallon, MO at 2115 Highway K, O’Fallon, MO 
 - Website: https://haircutmenofallonmo.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
-- Pulse Score: 49.1/100 — Building — top 36% of hair salons in O'Fallon, MO, #5 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 29% of hair salons in O'Fallon, MO, #4 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2484,7 +2484,7 @@ Steppin' Up Dance is a dance studio in O’Fallon, MO at 64 Crossroads Plaza, O�
 - Website: https://steppinupdanceproductions.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 16:30-21:00; Fr 16:30-19:30; Su 16:30-18:30
-- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 50% of dance studios in O'Fallon, MO, #1 of 2 dance studios in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 50% of dance studios in O'Fallon, MO, #1 of 2 dance studios in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2511,7 +2511,7 @@ STL Sun Tan & Spa is a tanning salon in O’Fallon, MO at 618 North Main Street,
 - Website: https://stlsuntan.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr, Sa 09:00-16:00, Su off
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 100% of tanning salons in O'Fallon, MO, #1 of 1 tanning salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 100% of tanning salons in O'Fallon, MO, #1 of 1 tanning salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2538,7 +2538,7 @@ Supercuts is a hair salon in O’Fallon, MO at 1306 Highway K, O’Fallon, MO 63
 - Website: https://www.supercuts.com/locations/mo/ofallon/ofallon-center-haircuts-82220.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 50% of hair salons in O'Fallon, MO, #7 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 50% of hair salons in O'Fallon, MO, #7 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2592,7 +2592,7 @@ Sweet Spot Cake Shoppe is a bakery in O’Fallon, MO at 1120 Technology Dr Suite
 - Website: https://sweetspotcakeshoppe.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 08:00-16:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 100% of bakerys in O'Fallon, MO, #1 of 1 bakerys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of bakerys in O'Fallon, MO, #1 of 1 bakerys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2619,7 +2619,7 @@ The Bedroom Store is a mattress store in O’Fallon, MO at 1301 Highway K, O’F
 - Website: https://thebedroomstore.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of mattress stores in O'Fallon, MO, #2 of 4 mattress stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 50% of mattress stores in O'Fallon, MO, #2 of 4 mattress stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2646,7 +2646,7 @@ The Flower Shop is a florist in Cottleville, MO at 5209 Route N, Cottleville, MO
 - Website: https://www.theflowershopflorist.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 100% of florists in O'Fallon, MO, #1 of 1 florists in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of florists in O'Fallon, MO, #1 of 1 florists in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2673,7 +2673,7 @@ Tiger Wash is a car wash in Lake Saint Louis, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 34% of car washes in O'Fallon, MO, #1 of 2 car washes in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 34% of car washes in O'Fallon, MO, #1 of 2 car washes in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2700,7 +2700,7 @@ Trigg Banquet Center is an event venue in O’Fallon, MO at 300 O'Fallon Plaza, 
 - Website: https://www.triggbanquetcenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 50% of event venues in O'Fallon, MO, #1 of 2 event venues in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 50% of event venues in O'Fallon, MO, #1 of 2 event venues in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2754,7 +2754,7 @@ U-Haul Moving & Storage is a self-storage facility in O’Fallon, MO at 2000 Hig
 - Website: https://www.uhaul.com/Locations/Truck-Rentals-near-O_fallon-MO-63366/875054/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 50% of self-storage facilitys in O'Fallon, MO, #2 of 4 self-storage facilitys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 50% of self-storage facilitys in O'Fallon, MO, #2 of 4 self-storage facilitys in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2781,7 +2781,7 @@ Valvoline is an auto repair shop in O’Fallon, MO at 2101 Highway K, O’Fallon
 - Website: https://store.vioc.com/mo/ofallon/oil-change-050094.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su 09:00-17:00
-- Pulse Score: 49.2/100 — Building — top 38% of auto repair shops in O'Fallon, MO, #3 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 38% of auto repair shops in O'Fallon, MO, #3 of 8 auto repair shops in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2808,7 +2808,7 @@ VCA All Creatures Animal Hospital is a veterinarian in O’Fallon, MO at 2205 Hi
 - Website: https://vcahospitals.com/all-creatures
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-20:00; Sa 08:00-15:00; Su off
-- Pulse Score: 63.3/100 — Good — top 25% of veterinarians in O'Fallon, MO, #1 of 3 veterinarians in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 25% of veterinarians in O'Fallon, MO, #1 of 3 veterinarians in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 66.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2835,7 +2835,7 @@ Wash ‘N Wag is a pet store in O’Fallon, MO at 4649, O’Fallon, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 50% of pet stores in O'Fallon, MO, #1 of 3 pet stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 50% of pet stores in O'Fallon, MO, #1 of 3 pet stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2862,7 +2862,7 @@ Waterway is a car wash in O’Fallon, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.4/100 — Unrated (not enough evidence yet) — top 84% of car washes in O'Fallon, MO, #2 of 3 car washes in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.4/100 — Unrated (not enough evidence yet) — top 84% of car washes in O'Fallon, MO, #2 of 3 car washes in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2889,7 +2889,7 @@ Winghaven Law LLC is a lawyer in O’Fallon, MO at 2315 Technology Drive #119, O
 - Website: https://www.winghavenlaw.com/
 - Email: wendy@winghavenlaw.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 50% of lawyers in O'Fallon, MO, #1 of 1 lawyers in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 50% of lawyers in O'Fallon, MO, #1 of 1 lawyers in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2916,7 +2916,7 @@ Wit Construction is a general contractor in Saint Charles, MO at 1230 Tealwood D
 - Website: https://www.houzz.com/professionals/home-builders/wit-construction-llc-pfvwus-pf~378988196
 - Email: mike@gowithwit.com
 - Opening hours (OSM syntax): "By appointment"
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 100% of general contractors in O'Fallon, MO, #1 of 1 general contractors in Saint Charles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 100% of general contractors in O'Fallon, MO, #1 of 1 general contractors in Saint Charles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2943,7 +2943,7 @@ WW Studio is a therapy practice in O’Fallon, MO at 2975 Highway K, O’Fallon,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Building — top 100% of therapy practices in O'Fallon, MO, #1 of 1 therapy practices in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 100% of therapy practices in O'Fallon, MO, #1 of 1 therapy practices in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2970,7 +2970,7 @@ Yuppy Puppy is a pet store in Saint Peters, MO at 299 Salt Lick Road #F, Saint P
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 25% of pet stores in O'Fallon, MO, #1 of 1 pet stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 25% of pet stores in O'Fallon, MO, #1 of 1 pet stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

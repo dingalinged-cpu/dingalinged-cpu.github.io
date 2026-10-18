@@ -13,7 +13,7 @@ CopyCo is a printing service in Lawrence, KS at 540 Fireside Court #A, Lawrence,
 - Website: https://copycousa.com/
 - Email: lawrence@copycousa.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 10:00-17:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 17% of printing services in Lawrence, KS, #1 of 6 printing services in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 17% of printing services in Lawrence, KS, #1 of 6 printing services in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

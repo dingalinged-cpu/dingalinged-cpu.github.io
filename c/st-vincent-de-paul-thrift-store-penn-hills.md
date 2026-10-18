@@ -13,7 +13,7 @@ St. Vincent De Paul Thrift Store is a thrift store in Penn Hills, PA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00; Su 11:00-17:00
-- Pulse Score: 44.3/100 — Unrated (not enough evidence yet) — top 92% of thrift stores in Pittsburgh, PA, #2 of 2 thrift stores in Penn Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.3/100 — Unrated (not enough evidence yet) — top 92% of thrift stores in Pittsburgh, PA, #2 of 2 thrift stores in Penn Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

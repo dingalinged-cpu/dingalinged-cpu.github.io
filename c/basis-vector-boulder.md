@@ -13,7 +13,7 @@ Basis Vector is an IT support company in Boulder, CO at 565 Ithaca Drive, Boulde
 - Website: https://basisvector.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa,Su 12:00-18:00
-- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 3% of IT support companys in Denver, CO, #1 of 4 IT support companys in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 3% of IT support companys in Denver, CO, #1 of 4 IT support companys in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

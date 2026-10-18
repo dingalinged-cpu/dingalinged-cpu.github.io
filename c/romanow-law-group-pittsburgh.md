@@ -13,7 +13,7 @@ Romanow Law Group is a lawyer in Pittsburgh, PA at 4930 McKnight Road, Pittsburg
 - Website: https://romanowlawgroup.com/
 - Email: info@romanowlawgroup.com
 - Opening hours (OSM syntax): Mo-Fr 09:00 - 17:00
-- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 6% of lawyers in Pittsburgh, PA, #4 of 23 lawyers in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 6% of lawyers in Pittsburgh, PA, #4 of 23 lawyers in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,10 +6,10 @@ Also answers: bakery in Manhattan, KS; bakery near me (Manhattan, KS); best bake
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Dough Bro | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | The Dough Bro is a bakery in Manhattan, KS at 307 South Seth Child Road, Manhattan, KS 66502. Phone: +16202182201. Website: https://www.thedoughbromhk.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dough-bro-manhattan/
+1. The Dough Bro | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | The Dough Bro is a bakery in Manhattan, KS at 307 South Seth Child Road, Manhattan, KS 66502. Phone: +16202182201. Website: https://www.thedoughbromhk.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dough-bro-manhattan/
 2. Billy Vanilly | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Billy Vanilly is a bakery in Manhattan, KS at 705 D North 3rd Place, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/billy-vanilly-manhattan/
-3. Bourbon and Baker Bakery | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Bourbon and Baker Bakery is a bakery in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/bourbon-and-baker-bakery-manhattan/
-4. Mrs. Powell's Delicious Cinnamon Rolls | Organic #4 | Pulse Score 55.2/100 (Unrated, #4 in city) | Mrs. Powell's Delicious Cinnamon Rolls is a bakery in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/mrs-powells-delicious-cinnamon-rolls-manhattan/
+3. Bourbon and Baker Bakery | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Bourbon and Baker Bakery is a bakery in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/bourbon-and-baker-bakery-manhattan/
+4. Mrs. Powell's Delicious Cinnamon Rolls | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Mrs. Powell's Delicious Cinnamon Rolls is a bakery in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/mrs-powells-delicious-cinnamon-rolls-manhattan/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery manhattan ks | category: Events & weddings | industry benchmark: Personal Services

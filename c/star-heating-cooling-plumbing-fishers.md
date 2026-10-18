@@ -13,7 +13,7 @@ STAR Heating Cooling Plumbing is a HVAC contractor in Fishers, IN at 14076 Britt
 - Website: https://starheatcool.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-20:00
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 9% of HVAC contractors in Indianapolis, IN, #1 of 1 HVAC contractors in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 9% of HVAC contractors in Indianapolis, IN, #1 of 1 HVAC contractors in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

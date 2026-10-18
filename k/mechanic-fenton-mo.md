@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. SameDay Autobody | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | SameDay Autobody is an auto repair shop in Fenton, MO at 3 Valley Park Road, Fenton, MO 63026. | https://registry-edge.dingalinged.workers.dev/c/sameday-autobody-fenton/
 3. Jiffy Lube | Organic #3 | Pulse Score 47.9/100 (Building, #3 in city) | Jiffy Lube is an auto repair shop in Fenton, MO at 120 Gravois Bluffs Circle, Fenton, MO 63026. Website: https://www.jiffylube.com/. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-fenton/
 4. Jiffy Lube | Organic #4 | Pulse Score 46.5/100 (Unrated, #4 in city) | Jiffy Lube is an auto repair shop in Fenton, MO at 1915 Hawkins Road, Fenton, MO 63026. Website: https://stlouis.jiffylube.com/. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-fenton-w39419229/
-5. Dobbs Tire & Auto Center | Organic #5 | Pulse Score 43.8/100 (Unrated, #5 in city) | Dobbs Tire & Auto Center is an auto repair shop in Fenton, MO. Website: https://www.dobbstireandauto.com/. | https://registry-edge.dingalinged.workers.dev/c/dobbs-tire-and-auto-center-fenton/
+5. Dobbs Tire & Auto Center | Organic #5 | Pulse Score 43.7/100 (Unrated, #5 in city) | Dobbs Tire & Auto Center is an auto repair shop in Fenton, MO. Website: https://www.dobbstireandauto.com/. | https://registry-edge.dingalinged.workers.dev/c/dobbs-tire-and-auto-center-fenton/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic fenton mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

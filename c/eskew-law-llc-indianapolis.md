@@ -13,7 +13,7 @@ Eskew Law, LLC is a lawyer in Indianapolis, IN at 255 Alabama Street #3rd Floor,
 - Website: https://www.eskewlaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 7% of lawyers in Indianapolis, IN, #2 of 19 lawyers in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 7% of lawyers in Indianapolis, IN, #2 of 19 lawyers in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: flooring companies in West Chester Township, OH; flooring companie
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Buddy's Flooring America | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Buddy's Flooring America is a flooring company in West Chester Township, OH at 7721 Cox Lane, West Chester Township, OH 45069. Website: https://www.buddysflooring.com/. | https://registry-edge.dingalinged.workers.dev/c/buddys-flooring-america-west-chester-township/
+1. Buddy's Flooring America | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Buddy's Flooring America is a flooring company in West Chester Township, OH at 7721 Cox Lane, West Chester Township, OH 45069. Website: https://www.buddysflooring.com/. | https://registry-edge.dingalinged.workers.dev/c/buddys-flooring-america-west-chester-township/
 2. JP Flooring | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | JP Flooring is a flooring company in West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/jp-flooring-west-chester-township/
 3. Simply Floors | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Simply Floors is a flooring company in West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/simply-floors-west-chester-township/
 

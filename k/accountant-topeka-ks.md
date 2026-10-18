@@ -6,8 +6,8 @@ Also answers: accountant in Topeka, KS; accountant near me (Topeka, KS); best ac
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ATS Accounting & Tax Services | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | ATS Accounting & Tax Services is an accountant in Topeka, KS at 1016 Southwest 6th Avenue, Topeka, KS 66606. | https://registry-edge.dingalinged.workers.dev/c/ats-accounting-and-tax-services-topeka/
-2. Paul Honaker, CPA, PA | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Paul Honaker, CPA, PA is an accountant in Topeka, KS at 4228 Southwest 29th Terrace, Topeka, KS 66614. | https://registry-edge.dingalinged.workers.dev/c/paul-honaker-cpa-pa-topeka/
+1. ATS Accounting & Tax Services | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | ATS Accounting & Tax Services is an accountant in Topeka, KS at 1016 Southwest 6th Avenue, Topeka, KS 66606. | https://registry-edge.dingalinged.workers.dev/c/ats-accounting-and-tax-services-topeka/
+2. Paul Honaker, CPA, PA | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Paul Honaker, CPA, PA is an accountant in Topeka, KS at 4228 Southwest 29th Terrace, Topeka, KS 66614. | https://registry-edge.dingalinged.workers.dev/c/paul-honaker-cpa-pa-topeka/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant topeka ks | category: professional_accounting | industry benchmark: Business Services

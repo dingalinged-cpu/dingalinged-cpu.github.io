@@ -13,7 +13,7 @@ Macy's Furniture Gallery is a furniture store in Ross Township, PA. Website: htt
 - Website: https://www.macys.com/stores/pa/pittsburgh/ross-park-mall_631.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Building — top 75% of furniture stores in Pittsburgh, PA, #5 of 8 furniture stores in Ross Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Building — top 75% of furniture stores in Pittsburgh, PA, #5 of 8 furniture stores in Ross Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

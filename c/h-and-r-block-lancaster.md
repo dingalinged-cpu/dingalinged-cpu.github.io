@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Lancaster, OH at 1655 North Memorial D
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu 10:00-18:00; Th 09:00-16:00; Sa 10:00-16:00
-- Pulse Score: 48.4/100 — Building — top 29% of tax preparation services in Columbus, OH, #2 of 3 tax preparation services in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 29% of tax preparation services in Columbus, OH, #2 of 3 tax preparation services in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

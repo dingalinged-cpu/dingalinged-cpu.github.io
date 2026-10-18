@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Springfield, MO at 2767 West Republic Road, Springfi
 - Website: https://www.anytimefitness.com/gyms/901/springfield-mo-65807/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.4/100 — Fair — top 75% of gyms in Springfield, MO, #14 of 19 gyms in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 70% of gyms in Springfield, MO, #13 of 19 gyms in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: furniture store in Livonia, MI; furniture store near me (Livonia, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KDI | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | KDI is a furniture store in Livonia, MI at 36099 Plymouth Road, Livonia, MI 48150. Phone: +17345256601. Website: https://www.kdiusa.com/. | https://registry-edge.dingalinged.workers.dev/c/kdi-livonia/
+1. KDI | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | KDI is a furniture store in Livonia, MI at 36099 Plymouth Road, Livonia, MI 48150. Phone: +17345256601. Website: https://www.kdiusa.com/. | https://registry-edge.dingalinged.workers.dev/c/kdi-livonia/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store livonia mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

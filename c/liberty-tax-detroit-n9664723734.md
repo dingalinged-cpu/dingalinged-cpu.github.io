@@ -13,7 +13,7 @@ Liberty Tax is a tax preparation service in Detroit, MI at 12920 Gratiot Avenue,
 - Website: https://www.libertytax.com/income-tax-preparation-locations/11021
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Building — top 49% of tax preparation services in Detroit, MI, #11 of 16 tax preparation services in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 49% of tax preparation services in Detroit, MI, #11 of 16 tax preparation services in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

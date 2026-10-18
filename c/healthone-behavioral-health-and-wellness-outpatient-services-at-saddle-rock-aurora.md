@@ -13,7 +13,7 @@ HealthONE Behavioral Health and Wellness Outpatient Services at Saddle Rock is a
 - Website: https://healthonecares.com/locations/healthone-behavioral-health-wellness-outpatient-services-saddle-rock/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.4/100 — Unrated (not enough evidence yet) — top 76% of therapy practices in Denver, CO, #3 of 5 therapy practices in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Unrated (not enough evidence yet) — top 74% of therapy practices in Denver, CO, #3 of 5 therapy practices in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

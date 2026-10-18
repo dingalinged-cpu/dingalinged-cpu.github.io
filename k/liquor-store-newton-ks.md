@@ -7,7 +7,7 @@ Also answers: liquor store in Newton, KS; liquor store near me (Newton, KS); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Newton Discount Liquor | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Newton Discount Liquor is a liquor store in Newton, KS at 1225 Washington Road, Newton, KS 67114. | https://registry-edge.dingalinged.workers.dev/c/newton-discount-liquor-newton/
-2. Anderson Liquor | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Anderson Liquor is a liquor store in Newton, KS. | https://registry-edge.dingalinged.workers.dev/c/anderson-liquor-newton/
+2. Anderson Liquor | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Anderson Liquor is a liquor store in Newton, KS. | https://registry-edge.dingalinged.workers.dev/c/anderson-liquor-newton/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store newton ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

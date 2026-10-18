@@ -13,7 +13,7 @@ Sunrise Dental Care is a dentist in Boulder, CO at 1656 30th Street, Boulder, CO
 - Website: https://www.sunrisedentalcareboulder.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-17:00; Th 08:00-16:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 27% of dentists in Denver, CO, #9 of 34 dentists in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 26% of dentists in Denver, CO, #9 of 34 dentists in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

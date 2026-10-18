@@ -9,9 +9,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Different Strokes | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Different Strokes is a hair salon in Gahanna, OH at 417 Agler Road, Gahanna, OH 43230. | https://registry-edge.dingalinged.workers.dev/c/different-strokes-gahanna/
 2. Bree's Hair Salon | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Bree's Hair Salon is a hair salon in Gahanna, OH. | https://registry-edge.dingalinged.workers.dev/c/brees-hair-salon-gahanna/
 3. Design Studio | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Design Studio is a hair salon in Gahanna, OH. | https://registry-edge.dingalinged.workers.dev/c/design-studio-gahanna/
-4. Jerry's Barber Shop | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Jerry's Barber Shop is a hair salon in Gahanna, OH. | https://registry-edge.dingalinged.workers.dev/c/jerrys-barber-shop-gahanna/
-5. Great Clips | Organic #5 | Pulse Score 49.7/100 (Unrated, #5 in city) | Great Clips is a hair salon in Gahanna, OH at 1169 N Hamilton Rd, Gahanna, OH 43230. Phone: +16134783828. Website: https://salons.greatclips.com/us/oh/gahanna/1169-n-hamilton-rd. | https://registry-edge.dingalinged.workers.dev/c/great-clips-gahanna-w1523077040/
-6. Great Clips | Organic #6 | Pulse Score 43.3/100 (Building, #6 in city) | Great Clips is a hair salon in Gahanna, OH. | https://registry-edge.dingalinged.workers.dev/c/great-clips-gahanna/
+4. Great Clips | Organic #4 | Pulse Score 49.7/100 (Unrated, #4 in city) | Great Clips is a hair salon in Gahanna, OH at 1169 N Hamilton Rd, Gahanna, OH 43230. Phone: +16134783828. Website: https://salons.greatclips.com/us/oh/gahanna/1169-n-hamilton-rd. | https://registry-edge.dingalinged.workers.dev/c/great-clips-gahanna-w1523077040/
+5. Great Clips | Organic #5 | Pulse Score 43.3/100 (Building, #5 in city) | Great Clips is a hair salon in Gahanna, OH. | https://registry-edge.dingalinged.workers.dev/c/great-clips-gahanna/
+6. Jerry's Barber Shop | Organic #6 | Pulse Score 42.6/100 (Unrated, #6 in city) | Jerry's Barber Shop is a hair salon in Gahanna, OH. | https://registry-edge.dingalinged.workers.dev/c/jerrys-barber-shop-gahanna/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon gahanna oh | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

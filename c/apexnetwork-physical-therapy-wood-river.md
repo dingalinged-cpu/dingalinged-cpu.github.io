@@ -13,7 +13,7 @@ ApexNetwork Physical Therapy is a physical therapy clinic in Wood River, IL at 1
 - Website: https://apexnetworkpt.com/woodriveril/
 - Email: WoodRiverIL@ApexNetworkPT.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.9/100 — Unrated (not enough evidence yet) — top 63% of physical therapy clinics in St. Louis, MO, #2 of 2 physical therapy clinics in Wood River (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Unrated (not enough evidence yet) — top 63% of physical therapy clinics in St. Louis, MO, #2 of 2 physical therapy clinics in Wood River (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

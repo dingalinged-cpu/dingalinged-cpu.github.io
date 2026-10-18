@@ -6,10 +6,10 @@ Also answers: dog boarding in Carmel, IN; dog boarding near me (Carmel, IN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Range Pet Lodge | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | The Range Pet Lodge is a dog boarding facility in Carmel, IN. Phone: +13175717777. Website: https://rangepetlodge.com/. | https://registry-edge.dingalinged.workers.dev/c/the-range-pet-lodge-carmel/
+1. The Range Pet Lodge | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | The Range Pet Lodge is a dog boarding facility in Carmel, IN. Phone: +13175717777. Website: https://rangepetlodge.com/. | https://registry-edge.dingalinged.workers.dev/c/the-range-pet-lodge-carmel/
 2. Boone Creek Farm | Organic #2 | Pulse Score 56.9/100 (Unrated, #1 in city) | Boone Creek Farm is a dog boarding facility in Zionsville, IN at 13001 West Road, Zionsville, IN 46077. | https://registry-edge.dingalinged.workers.dev/c/boone-creek-farm-zionsville/
 3. Fetch Dog Resort | Organic #3 | Pulse Score 56.9/100 (Unrated, #2 in city) | Fetch Dog Resort is a dog boarding facility in Indianapolis, IN at 4340 West 96th Street, Indianapolis, IN 46268. | https://registry-edge.dingalinged.workers.dev/c/fetch-dog-resort-indianapolis/
-4. Best Friends Pet Care | Organic #4 | Pulse Score 56.3/100 (Unrated, #2 in city) | Best Friends Pet Care is a dog boarding facility in Carmel, IN at 376 Gradle Drive, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/best-friends-pet-care-carmel/
+4. Best Friends Pet Care | Organic #4 | Pulse Score 56.2/100 (Unrated, #2 in city) | Best Friends Pet Care is a dog boarding facility in Carmel, IN at 376 Gradle Drive, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/best-friends-pet-care-carmel/
 5. Happy Dog Hotel & Spa | Organic #5 | Pulse Score 54.5/100 (Unrated, #3 in city) | Happy Dog Hotel & Spa is a dog boarding facility in Carmel, IN. | https://registry-edge.dingalinged.workers.dev/c/happy-dog-hotel-and-spa-carmel/
 6. Camp Bow Wow | Organic #6 | Pulse Score 44.1/100 (Unrated, #4 in city) | Camp Bow Wow is a dog boarding facility in Carmel, IN at 489 Gradle Drive, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/camp-bow-wow-carmel/
 

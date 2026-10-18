@@ -13,7 +13,7 @@ Suburban Honda of Farmington Hills is an used car dealer in Farmington Hills, MI
 - Website: https://www.suburbanhonda.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.6/100 — Building — top 91% of used car dealers in Detroit, MI, #2 of 2 used car dealers in Farmington Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 91% of used car dealers in Detroit, MI, #2 of 2 used car dealers in Farmington Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: storage units in Upper Arlington, OH; storage units near me (Upper
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Public Storage | Organic #1 | Pulse Score 46.5/100 (Building, #13 in city) | Public Storage is a self-storage facility in Columbus, OH at 4780 Arlington Centre Boulevard, Columbus, OH 43220. | https://registry-edge.dingalinged.workers.dev/c/public-storage-columbus-w677152550/
+1. Public Storage | Organic #1 | Pulse Score 46.4/100 (Building, #13 in city) | Public Storage is a self-storage facility in Columbus, OH at 4780 Arlington Centre Boulevard, Columbus, OH 43220. | https://registry-edge.dingalinged.workers.dev/c/public-storage-columbus-w677152550/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units upper arlington oh | category: Home services - Moving | industry benchmark: Home & Home Improvement

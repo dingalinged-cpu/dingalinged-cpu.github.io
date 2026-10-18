@@ -6,7 +6,7 @@ Also answers: flooring companies in Columbus, OH; flooring companies near me (Co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Deible's Hardwood Floors | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Deible's Hardwood Floors is a flooring company in Columbus, OH at 4000 South High Street, Columbus, OH 43207. Phone: +16144970118. Website: https://www.deiblesfloors.com/. | https://registry-edge.dingalinged.workers.dev/c/deibles-hardwood-floors-columbus/
+1. Deible's Hardwood Floors | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Deible's Hardwood Floors is a flooring company in Columbus, OH at 4000 South High Street, Columbus, OH 43207. Phone: +16144970118. Website: https://www.deiblesfloors.com/. | https://registry-edge.dingalinged.workers.dev/c/deibles-hardwood-floors-columbus/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies columbus oh | category: Home services - Flooring | industry benchmark: Home & Home Improvement

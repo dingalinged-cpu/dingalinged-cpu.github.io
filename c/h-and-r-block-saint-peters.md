@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Saint Peters, MO at 372 Mid Rivers Mal
 - Website: https://www.hrblock.com/local-tax-offices/missouri/st-peters/372-374-mid-rivers-mall-dr/24129
 - Email: n/a
 - Opening hours (OSM syntax): Jul-Dec off
-- Pulse Score: 50.1/100 — Fair — top 50% of tax preparation services in St. Peters, MO, #1 of 2 tax preparation services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 65.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 50% of tax preparation services in St. Peters, MO, #1 of 2 tax preparation services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 65.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

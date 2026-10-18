@@ -13,7 +13,7 @@ Wagner and Bloch is a lawyer in Blue Ash, OH at 9000 Plainfield Road #A, Blue As
 - Website: https://www.wagnerandbloch.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 17% of lawyers in Cincinnati, OH, #2 of 4 lawyers in Blue Ash (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 17% of lawyers in Cincinnati, OH, #2 of 4 lawyers in Blue Ash (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

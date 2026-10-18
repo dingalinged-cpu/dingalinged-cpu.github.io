@@ -13,7 +13,7 @@ Trek is a bike shop in Douglas County, CO at 9567 South University Boulevard, Do
 - Website: https://www.trekbikes.com/us/en_US/retail/highlands_ranch
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 11:00-16:00
-- Pulse Score: 48.5/100 — Building — top 94% of bike shops in Denver, CO, #2 of 2 bike shops in Douglas County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 94% of bike shops in Denver, CO, #2 of 2 bike shops in Douglas County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

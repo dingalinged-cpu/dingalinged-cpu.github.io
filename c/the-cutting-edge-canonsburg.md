@@ -13,7 +13,7 @@ The Cutting Edge is a barber shop in Canonsburg, PA at 158 East Pike Street, Can
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 09:00-20:00, Fr 09:00-18:00, Sa 09:00-17:00
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 75% of barber shops in Pittsburgh, PA, #3 of 4 barber shops in Canonsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 75% of barber shops in Pittsburgh, PA, #3 of 4 barber shops in Canonsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

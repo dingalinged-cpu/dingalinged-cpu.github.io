@@ -13,7 +13,7 @@ DeVaughn James Injury Lawyers is a lawyer in Topeka, KS at 1064 Southwest Wanama
 - Website: https://www.devaughnjames.com/locations/topeka/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 13% of lawyers in Topeka, KS, #1 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 13% of lawyers in Topeka, KS, #1 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

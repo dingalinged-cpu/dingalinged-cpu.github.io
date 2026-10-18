@@ -13,7 +13,7 @@ The Green Button is a tailor in Jefferson City, MO at 621 West McCarty Street, J
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): We-Fr 08:00-17:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of tailors in Jefferson City, MO, #1 of 1 tailors in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of tailors in Jefferson City, MO, #1 of 1 tailors in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

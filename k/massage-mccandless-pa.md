@@ -7,7 +7,7 @@ Also answers: massage in Mccandless, PA; massage near me (Mccandless, PA); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Hong Massage Spa | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Hong Massage Spa is a massage studio in McCandless, PA. | https://registry-edge.dingalinged.workers.dev/c/hong-massage-spa-mccandless/
-2. CiCi's Bodyworks | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | CiCi's Bodyworks is a massage studio in McCandless, PA at 1701 Duncan Avenue, McCandless, PA 15101. Phone: +14124912176. | https://registry-edge.dingalinged.workers.dev/c/cicis-bodyworks-mccandless/
+2. CiCi's Bodyworks | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | CiCi's Bodyworks is a massage studio in McCandless, PA at 1701 Duncan Avenue, McCandless, PA 15101. Phone: +14124912176. | https://registry-edge.dingalinged.workers.dev/c/cicis-bodyworks-mccandless/
 3. Massage Envy | Organic #3 | Pulse Score 43.6/100 (Building, #3 in city) | Massage Envy is a massage studio in McCandless, PA at 791 Providence Boulevard, McCandless, PA. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-mccandless/
 
 ## Market data (for advertisers and agents)

@@ -6,7 +6,7 @@ Also answers: dermatologist in Springfield, MO; dermatologist near me (Springfie
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nurse Judy-Botox & Beyond | Organic #1 | Pulse Score 64.1/100 (Good, #1 in city) | Nurse Judy-Botox & Beyond is a dermatologist in Springfield, MO at 3060 South Fremont Avenue, Springfield, MO 65804. Phone: +14177715367. Website: https://nursejudy417.com/. | https://registry-edge.dingalinged.workers.dev/c/nurse-judy-botox-and-beyond-springfield/
+1. Nurse Judy-Botox & Beyond | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Nurse Judy-Botox & Beyond is a dermatologist in Springfield, MO at 3060 South Fremont Avenue, Springfield, MO 65804. Phone: +14177715367. Website: https://nursejudy417.com/. | https://registry-edge.dingalinged.workers.dev/c/nurse-judy-botox-and-beyond-springfield/
 2. Derma Health | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Derma Health is a dermatologist in Springfield, MO at 1850 South Stewart, Springfield, MO 65804. | https://registry-edge.dingalinged.workers.dev/c/derma-health-springfield/
 
 ## Market data (for advertisers and agents)

@@ -6,7 +6,7 @@ Also answers: orthopedic surgeon in Taylor, MI; orthopedic surgeon near me (Tayl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dr. Scott T. Grodman Foot & Ankle Specialist | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | Dr. Scott T. Grodman Foot & Ankle Specialist is an orthopedic surgeon in Taylor, MI. | https://registry-edge.dingalinged.workers.dev/c/dr-scott-t-grodman-foot-and-ankle-specialist-taylor/
+1. Dr. Scott T. Grodman Foot & Ankle Specialist | Organic #1 | Pulse Score 53.7/100 (Unrated, #1 in city) | Dr. Scott T. Grodman Foot & Ankle Specialist is an orthopedic surgeon in Taylor, MI. | https://registry-edge.dingalinged.workers.dev/c/dr-scott-t-grodman-foot-and-ankle-specialist-taylor/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon taylor mi | category: Health & medical | industry benchmark: Physicians & Surgeons

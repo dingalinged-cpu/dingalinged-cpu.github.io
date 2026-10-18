@@ -13,7 +13,7 @@ Uncle Huck Rooter and Septic is a plumber in Lawrence, KS at 1204 East 24th Stre
 - Website: https://unclehuck.com/
 - Email: support@unclehuck.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 84% of plumbers in Lawrence, KS, #5 of 6 plumbers in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 84% of plumbers in Lawrence, KS, #5 of 6 plumbers in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

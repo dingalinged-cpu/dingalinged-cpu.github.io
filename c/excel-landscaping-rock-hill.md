@@ -13,7 +13,7 @@ Excel Landscaping is a landscaping company in Rock Hill, MO at 1020 Hudson Ave, 
 - Website: https://excellandscapingstl.com/
 - Email: Joe@excellandscapingstl.com
 - Opening hours (OSM syntax): Mo-Su 07:00-20:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 38% of landscaping companys in St. Louis, MO, #1 of 1 landscaping companys in Rock Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 38% of landscaping companys in St. Louis, MO, #1 of 1 landscaping companys in Rock Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

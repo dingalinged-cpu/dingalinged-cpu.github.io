@@ -13,7 +13,7 @@ Kay Jewelers is a jewelry store in Columbus, OH at 3995 Gramercy Street, Columbu
 - Website: https://www.kay.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 12:00-17:00
-- Pulse Score: 48.6/100 — Building — top 74% of jewelry stores in Columbus, OH, #19 of 25 jewelry stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 74% of jewelry stores in Columbus, OH, #19 of 25 jewelry stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

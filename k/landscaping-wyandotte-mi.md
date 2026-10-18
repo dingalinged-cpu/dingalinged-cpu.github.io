@@ -7,7 +7,7 @@ Also answers: landscaping in Wyandotte, MI; landscaping near me (Wyandotte, MI);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Grosse Ile Lawn Sprinkler & Fertilizing | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Grosse Ile Lawn Sprinkler & Fertilizing is a landscaping company in Wyandotte, MI at 1300 Biddle Avenue, Wyandotte, MI 48192. Phone: +17342854470. Website: https://gilawnsprinkler.com/. | https://registry-edge.dingalinged.workers.dev/c/grosse-ile-lawn-sprinkler-and-fertilizing-wyandotte/
-2. Formosa & Son's Landscaping | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Formosa & Son's Landscaping is a landscaping company in Wyandotte, MI at 994 Biddle Avenue, Wyandotte, MI 48192. Phone: +13138203225. | https://registry-edge.dingalinged.workers.dev/c/formosa-and-sons-landscaping-wyandotte/
+2. Formosa & Son's Landscaping | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Formosa & Son's Landscaping is a landscaping company in Wyandotte, MI at 994 Biddle Avenue, Wyandotte, MI 48192. Phone: +13138203225. | https://registry-edge.dingalinged.workers.dev/c/formosa-and-sons-landscaping-wyandotte/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping wyandotte mi | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

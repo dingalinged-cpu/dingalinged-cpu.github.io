@@ -13,7 +13,7 @@ Computer Troubleshooters is an IT support company in Wichita, KS at 3700 East Do
 - Website: https://www.technology-solved.com/wichita-ks/
 - Email: ctadmin@ctwichita.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 64.2/100 — Good — top 25% of IT support companys in Wichita, KS, #1 of 2 IT support companys in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 25% of IT support companys in Wichita, KS, #1 of 2 IT support companys in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

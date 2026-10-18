@@ -6,8 +6,8 @@ Also answers: financial advisor in Cape Girardeau, MO; financial advisor near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heights Fiance | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Heights Fiance is a financial advisor in Cape Girardeau, MO. | https://registry-edge.dingalinged.workers.dev/c/heights-fiance-cape-girardeau/
-2. Edward Jones | Organic #2 | Pulse Score 46.6/100 (Building, #2 in city) | Edward Jones is a financial advisor in Cape Girardeau, MO at 3443 William Street #A, Cape Girardeau, MO 63701. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-cape-girardeau/
+1. Heights Fiance | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Heights Fiance is a financial advisor in Cape Girardeau, MO. | https://registry-edge.dingalinged.workers.dev/c/heights-fiance-cape-girardeau/
+2. Edward Jones | Organic #2 | Pulse Score 46.4/100 (Building, #2 in city) | Edward Jones is a financial advisor in Cape Girardeau, MO at 3443 William Street #A, Cape Girardeau, MO 63701. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-cape-girardeau/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor cape girardeau mo | category: Professional & financial services | industry benchmark: Finance & Insurance

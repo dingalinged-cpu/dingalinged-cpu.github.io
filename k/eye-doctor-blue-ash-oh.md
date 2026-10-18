@@ -6,7 +6,7 @@ Also answers: eye doctor in Blue Ash, OH; eye doctor near me (Blue Ash, OH); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clarkson Eyecare | Organic #1 | Pulse Score 46.4/100 (Building, #1 in city) | Clarkson Eyecare is an eye care practice in Blue Ash, OH at 9525 Kenwood Road, Blue Ash, OH 45242. Website: https://www.clarksoneyecare.com/locations/oh/cincinnati/blueash/. | https://registry-edge.dingalinged.workers.dev/c/clarkson-eyecare-blue-ash/
+1. Clarkson Eyecare | Organic #1 | Pulse Score 46.3/100 (Building, #1 in city) | Clarkson Eyecare is an eye care practice in Blue Ash, OH at 9525 Kenwood Road, Blue Ash, OH 45242. Website: https://www.clarksoneyecare.com/locations/oh/cincinnati/blueash/. | https://registry-edge.dingalinged.workers.dev/c/clarkson-eyecare-blue-ash/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor blue ash oh | category: Health & medical | industry benchmark: Physicians & Surgeons

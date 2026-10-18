@@ -6,7 +6,7 @@ Also answers: dog boarding in Boulder, CO; dog boarding near me (Boulder, CO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bowhaus Boulder | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Bowhaus Boulder is a dog boarding facility in Boulder, CO. Phone: +13038027790. Website: https://www.bowhausco.com/. | https://registry-edge.dingalinged.workers.dev/c/bowhaus-boulder-boulder/
+1. Bowhaus Boulder | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Bowhaus Boulder is a dog boarding facility in Boulder, CO. Phone: +13038027790. Website: https://www.bowhausco.com/. | https://registry-edge.dingalinged.workers.dev/c/bowhaus-boulder-boulder/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding boulder co | category: Pets | industry benchmark: Animals & Pets

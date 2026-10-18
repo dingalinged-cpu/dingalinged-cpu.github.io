@@ -6,7 +6,7 @@ Also answers: it support in Northville, MI; it support near me (Northville, MI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Commercial Progression - Drupal Website Design Experts | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Commercial Progression - Drupal Website Design Experts is an IT support company in Northville, MI at North Center Street, Suite 203, Northville, MI 48167. Phone: +17343934696. Website: https://www.commercialprogression.com/. | https://registry-edge.dingalinged.workers.dev/c/commercial-progression-drupal-website-design-experts-northville/
+1. Commercial Progression - Drupal Website Design Experts | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Commercial Progression - Drupal Website Design Experts is an IT support company in Northville, MI at North Center Street, Suite 203, Northville, MI 48167. Phone: +17343934696. Website: https://www.commercialprogression.com/. | https://registry-edge.dingalinged.workers.dev/c/commercial-progression-drupal-website-design-experts-northville/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support northville mi | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

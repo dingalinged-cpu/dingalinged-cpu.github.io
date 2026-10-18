@@ -13,7 +13,7 @@ Franklinton Cycle Works is a bike shop in Columbus, OH at 897 West Broad Street,
 - Website: https://www.franklintoncycleworks.org/
 - Email: n/a
 - Opening hours (OSM syntax): Fr 00:00-24:00; Tu,Th 10:30-17:00; Sa 09:00-17:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 16% of bike shops in Columbus, OH, #2 of 14 bike shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 16% of bike shops in Columbus, OH, #2 of 14 bike shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,9 +6,9 @@ Also answers: notary in Pittsburgh, PA; notary near me (Pittsburgh, PA); best no
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jeff's Notary Service | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Jeff's Notary Service is a notary service in Pittsburgh, PA at 4035 Penn Avenue, Pittsburgh, PA. Phone: +14126878247. Website: https://jeffsnotary.com/. | https://registry-edge.dingalinged.workers.dev/c/jeffs-notary-service-pittsburgh/
-2. Swanson's Notary | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Swanson's Notary is a notary service in Pittsburgh, PA at 995 Greensburg Pike, Pittsburgh, PA 15112. Phone: +14122422000. | https://registry-edge.dingalinged.workers.dev/c/swansons-notary-pittsburgh/
-3. Boulevard Tax & Gold | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Boulevard Tax & Gold is a notary service in Pittsburgh, PA at 1011 Castle Shannon Boulevard, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/boulevard-tax-and-gold-pittsburgh/
+1. Jeff's Notary Service | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Jeff's Notary Service is a notary service in Pittsburgh, PA at 4035 Penn Avenue, Pittsburgh, PA. Phone: +14126878247. Website: https://jeffsnotary.com/. | https://registry-edge.dingalinged.workers.dev/c/jeffs-notary-service-pittsburgh/
+2. Swanson's Notary | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Swanson's Notary is a notary service in Pittsburgh, PA at 995 Greensburg Pike, Pittsburgh, PA 15112. Phone: +14122422000. | https://registry-edge.dingalinged.workers.dev/c/swansons-notary-pittsburgh/
+3. Boulevard Tax & Gold | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Boulevard Tax & Gold is a notary service in Pittsburgh, PA at 1011 Castle Shannon Boulevard, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/boulevard-tax-and-gold-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: notary pittsburgh pa | category: Professional & financial services | industry benchmark: Finance & Insurance

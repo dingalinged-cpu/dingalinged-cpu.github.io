@@ -13,7 +13,7 @@ On Time Plumbing, Heating, Cooling & Electric is a plumber in Bel Aire, KS at 40
 - Website: https://ontimesvc.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 80% of plumbers in Wichita, KS, #1 of 1 plumbers in Bel Aire (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 80% of plumbers in Wichita, KS, #1 of 1 plumbers in Bel Aire (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

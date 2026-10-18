@@ -13,7 +13,7 @@ Jiffy Lube is an auto repair shop in Louisville, CO at 1408 Hecla Way, Louisvill
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su 09:00-16:00; PH unknown
-- Pulse Score: 46.4/100 — Building — top 80% of auto repair shops in Denver, CO, #4 of 4 auto repair shops in Louisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 79% of auto repair shops in Denver, CO, #4 of 4 auto repair shops in Louisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

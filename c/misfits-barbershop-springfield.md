@@ -13,7 +13,7 @@ Misfits Barbershop is a barber shop in Springfield, MO at 1332 East Republic Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 10:00-16:00
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 67% of barber shops in Springfield, MO, #2 of 3 barber shops in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 67% of barber shops in Springfield, MO, #2 of 3 barber shops in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

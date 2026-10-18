@@ -13,7 +13,7 @@ Sun Tan City is a tanning salon in Lawrence, KS at 2624 Iowa Street #B, Lawrence
 - Website: https://www.suntancity.com/find-a-salon/kansas/lawrence/iowa-street/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-18:00
-- Pulse Score: 47.9/100 — Building — top 100% of tanning salons in Lawrence, KS, #2 of 2 tanning salons in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 100% of tanning salons in Lawrence, KS, #2 of 2 tanning salons in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

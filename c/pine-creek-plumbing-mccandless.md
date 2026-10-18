@@ -13,7 +13,7 @@ Pine Creek Plumbing is a plumber in McCandless, PA at 545 Pine Creek Road, McCan
 - Website: https://pinecreekplumbing.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 41% of plumbers in Pittsburgh, PA, #1 of 2 plumbers in McCandless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 41% of plumbers in Pittsburgh, PA, #1 of 2 plumbers in McCandless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

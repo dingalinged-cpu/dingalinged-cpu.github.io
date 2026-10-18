@@ -13,7 +13,7 @@ Crunch Fitness is a gym in Lawrence, KS at 1900 West 23rd Street, Lawrence, KS 6
 - Website: https://www.crunch.com/locations/lawrence
 - Email: n/a
 - Opening hours (OSM syntax): Mo 05:00-24:00; Tu-Fr 00:00-24:00; Sa-Su 07:00-21:00
-- Pulse Score: 47.1/100 — Building — top 69% of gyms in Lawrence, KS, #11 of 16 gyms in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 69% of gyms in Lawrence, KS, #11 of 16 gyms in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

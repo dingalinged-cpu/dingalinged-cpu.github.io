@@ -7,8 +7,8 @@ Also answers: eye doctor in Wichita, KS; eye doctor near me (Wichita, KS); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Greene Vision | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Greene Vision is an eye care practice in Wichita, KS. | https://registry-edge.dingalinged.workers.dev/c/greene-vision-wichita/
-2. Grene Vision Group | Organic #2 | Pulse Score 48.6/100 (Building, #2 in city) | Grene Vision Group is an eye care practice in Wichita, KS at 3910 North Ridge Road, Wichita, KS 67205. Phone: +13167212701. Website: https://www.grenevisiongroup.com/locations/wichita-ridge-road. | https://registry-edge.dingalinged.workers.dev/c/grene-vision-group-wichita-w1353973326/
-3. Grene Vision Group | Organic #3 | Pulse Score 45/100 (Unrated, #3 in city) | Grene Vision Group is an eye care practice in Wichita, KS. | https://registry-edge.dingalinged.workers.dev/c/grene-vision-group-wichita/
+2. Grene Vision Group | Organic #2 | Pulse Score 48.5/100 (Building, #2 in city) | Grene Vision Group is an eye care practice in Wichita, KS at 3910 North Ridge Road, Wichita, KS 67205. Phone: +13167212701. Website: https://www.grenevisiongroup.com/locations/wichita-ridge-road. | https://registry-edge.dingalinged.workers.dev/c/grene-vision-group-wichita-w1353973326/
+3. Grene Vision Group | Organic #3 | Pulse Score 44.9/100 (Unrated, #3 in city) | Grene Vision Group is an eye care practice in Wichita, KS. | https://registry-edge.dingalinged.workers.dev/c/grene-vision-group-wichita/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor wichita ks | category: Health & medical | industry benchmark: Physicians & Surgeons

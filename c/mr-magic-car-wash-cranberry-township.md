@@ -13,7 +13,7 @@ Mr. Magic Car Wash is a car wash in Cranberry Township, PA at 20320 Perry Highwa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 73% of car washes in Pittsburgh, PA, #4 of 6 car washes in Cranberry Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 71% of car washes in Pittsburgh, PA, #4 of 6 car washes in Cranberry Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

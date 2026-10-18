@@ -13,7 +13,7 @@ RCS Technology of Michigan is an IT support company in Waterford Township, MI at
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-17:00
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 62% of IT support companys in Detroit, MI, #1 of 1 IT support companys in Waterford Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 62% of IT support companys in Detroit, MI, #1 of 1 IT support companys in Waterford Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Riddle's Jewelry - Columbia is a jewelry store in Columbia, MO at 2300 Bernadett
 - Website: https://riddlesjewelry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa 11:00-20:00; Su 11:00-18:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 20% of jewelry stores in Columbia, MO, #1 of 5 jewelry stores in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 20% of jewelry stores in Columbia, MO, #1 of 5 jewelry stores in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

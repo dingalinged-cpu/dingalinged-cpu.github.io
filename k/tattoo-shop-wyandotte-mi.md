@@ -9,8 +9,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Happy Tats Tattooing | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Happy Tats Tattooing is a tattoo shop in Wyandotte, MI at 3363-69 Fort Street, Wyandotte, MI 48192. Phone: +17342852620. | https://registry-edge.dingalinged.workers.dev/c/happy-tats-tattooing-wyandotte/
 2. Beyond Reality Tattoos & Body Piercing | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Beyond Reality Tattoos & Body Piercing is a tattoo shop in Wyandotte, MI at 2233 Fort Street, Wyandotte, MI 48192. Phone: +17342847491. | https://registry-edge.dingalinged.workers.dev/c/beyond-reality-tattoos-and-body-piercing-wyandotte/
 3. Mothra Tattoo Studios | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Mothra Tattoo Studios is a tattoo shop in Wyandotte, MI at 3138 Biddle Avenue, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/mothra-tattoo-studios-wyandotte-n6612236679/
-4. Estlin Ink | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Estlin Ink is a tattoo shop in Wyandotte, MI at 3122 Biddle Avenue, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/estlin-ink-wyandotte/
-5. Mothra Tattoo Studios | Organic #5 | Pulse Score 57/100 (Unrated, #5 in city) | Mothra Tattoo Studios is a tattoo shop in Wyandotte, MI at 3008 1st Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/mothra-tattoo-studios-wyandotte/
+4. Estlin Ink | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | Estlin Ink is a tattoo shop in Wyandotte, MI at 3122 Biddle Avenue, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/estlin-ink-wyandotte/
+5. Mothra Tattoo Studios | Organic #5 | Pulse Score 56.9/100 (Unrated, #5 in city) | Mothra Tattoo Studios is a tattoo shop in Wyandotte, MI at 3008 1st Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/mothra-tattoo-studios-wyandotte/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop wyandotte mi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

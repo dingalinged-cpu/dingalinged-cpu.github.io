@@ -13,7 +13,7 @@ Napoleon Auto Service is an auto repair shop in Sterling Heights, MI at 13651 14
 - Website: https://www.napoleonautoservice.com/
 - Email: napoleonvalero@hotmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-14:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 4% of auto repair shops in Detroit, MI, #15 of 39 auto repair shops in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 4% of auto repair shops in Detroit, MI, #14 of 39 auto repair shops in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

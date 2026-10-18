@@ -13,7 +13,7 @@ Jayhawk Plumbing is a plumber in Lawrence, KS at 3009 Four Wheel Drive #A, Lawre
 - Website: https://www.jayhawkplumbinginc.com/
 - Email: jayhawkplumbinginc@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 67% of plumbers in Lawrence, KS, #4 of 6 plumbers in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 67% of plumbers in Lawrence, KS, #4 of 6 plumbers in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

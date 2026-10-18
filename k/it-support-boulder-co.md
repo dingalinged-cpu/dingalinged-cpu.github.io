@@ -6,10 +6,10 @@ Also answers: it support in Boulder, CO; it support near me (Boulder, CO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Basis Vector | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | Basis Vector is an IT support company in Boulder, CO at 565 Ithaca Drive, Boulder, CO 80305. Phone: +13032493763. Website: https://basisvector.com/. | https://registry-edge.dingalinged.workers.dev/c/basis-vector-boulder/
+1. Basis Vector | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Basis Vector is an IT support company in Boulder, CO at 565 Ithaca Drive, Boulder, CO 80305. Phone: +13032493763. Website: https://basisvector.com/. | https://registry-edge.dingalinged.workers.dev/c/basis-vector-boulder/
 2. Indra's Net, Inc | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Indra's Net, Inc is an IT support company in Boulder, CO at 5435 Airport Boulevard, Boulder, CO 80301. Phone: +13035469151. Website: https://www.indra.com/. | https://registry-edge.dingalinged.workers.dev/c/indras-net-inc-boulder/
-3. Dojo4 | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Dojo4 is an IT support company in Boulder, CO at 2030 17th Street, Boulder, CO 80302. | https://registry-edge.dingalinged.workers.dev/c/dojo4-boulder/
-4. Dynamic Information Systems Corp. | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Dynamic Information Systems Corp. is an IT support company in Boulder, CO at 2585 Central Avenue #100, Boulder, CO 80301. | https://registry-edge.dingalinged.workers.dev/c/dynamic-information-systems-corp-boulder/
+3. Dojo4 | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Dojo4 is an IT support company in Boulder, CO at 2030 17th Street, Boulder, CO 80302. | https://registry-edge.dingalinged.workers.dev/c/dojo4-boulder/
+4. Dynamic Information Systems Corp. | Organic #4 | Pulse Score 56.4/100 (Unrated, #4 in city) | Dynamic Information Systems Corp. is an IT support company in Boulder, CO at 2585 Central Avenue #100, Boulder, CO 80301. | https://registry-edge.dingalinged.workers.dev/c/dynamic-information-systems-corp-boulder/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support boulder co | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

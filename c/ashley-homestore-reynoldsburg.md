@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Reynoldsburg, OH at 2800 Brice Road, Re
 - Website: https://stores.ashleyfurniture.com/store/us/ohio/reynoldsburg/7710000346/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 61% of furniture stores in Columbus, OH, #3 of 5 furniture stores in Reynoldsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 60% of furniture stores in Columbus, OH, #3 of 5 furniture stores in Reynoldsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Sterling Heights, MI at 11080 Hall Road #
 - Website: https://www.edwardjones.com/us-en/financial-advisor/brendan-byrne
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 51.7/100 — Fair — top 64% of financial advisors in Detroit, MI, #6 of 7 financial advisors in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.6/100 — Fair — top 62% of financial advisors in Detroit, MI, #6 of 7 financial advisors in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

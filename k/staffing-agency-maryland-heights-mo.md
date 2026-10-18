@@ -6,8 +6,8 @@ Also answers: staffing agency in Maryland Heights, MO; staffing agency near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Staffing | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | American Staffing is a staffing agency in Maryland Heights, MO at 11424 Dorsett Road #A, Maryland Heights, MO 63043. | https://registry-edge.dingalinged.workers.dev/c/american-staffing-maryland-heights/
-2. Randstad | Organic #2 | Pulse Score 43/100 (Building, #2 in city) | Randstad is a staffing agency in Maryland Heights, MO. | https://registry-edge.dingalinged.workers.dev/c/randstad-maryland-heights/
+1. American Staffing | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | American Staffing is a staffing agency in Maryland Heights, MO at 11424 Dorsett Road #A, Maryland Heights, MO 63043. | https://registry-edge.dingalinged.workers.dev/c/american-staffing-maryland-heights/
+2. Randstad | Organic #2 | Pulse Score 42.9/100 (Building, #2 in city) | Randstad is a staffing agency in Maryland Heights, MO. | https://registry-edge.dingalinged.workers.dev/c/randstad-maryland-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency maryland heights mo | category: b2b_services | industry benchmark: Business Services

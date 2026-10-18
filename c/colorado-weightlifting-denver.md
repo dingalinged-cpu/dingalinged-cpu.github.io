@@ -13,7 +13,7 @@ Colorado Weightlifting is a CrossFit gym in Denver, CO at 8200 East Pacific Plac
 - Website: https://www.coloradoweightlifting.com/
 - Email: ckc.contact@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 12% of CrossFit gyms in Denver, CO, #1 of 1 CrossFit gyms in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 12% of CrossFit gyms in Denver, CO, #1 of 1 CrossFit gyms in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ The Root Acupuncture is an acupuncture clinic in Lakewood, CO at 13701 West Jewe
 - Website: https://therootacupuncture.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 27% of acupuncture clinics in Denver, CO, #1 of 1 acupuncture clinics in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 27% of acupuncture clinics in Denver, CO, #1 of 1 acupuncture clinics in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

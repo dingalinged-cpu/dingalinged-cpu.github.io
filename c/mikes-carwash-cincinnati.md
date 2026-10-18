@@ -13,7 +13,7 @@ Mike's Carwash is a car wash in Cincinnati, OH at 814 Eastgate North Drive, Cinc
 - Website: https://mikescarwash.com/pages/locations/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.8/100 — Unrated (not enough evidence yet) — top 43% of car washes in Cincinnati, OH, #12 of 18 car washes in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.8/100 — Unrated (not enough evidence yet) — top 41% of car washes in Cincinnati, OH, #12 of 18 car washes in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

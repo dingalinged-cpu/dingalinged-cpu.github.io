@@ -13,7 +13,7 @@ Levin Furniture and Matress is a furniture store in Pittsburgh, PA at 400 Chauve
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 11:00-18:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 7% of furniture stores in Pittsburgh, PA, #3 of 18 furniture stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 7% of furniture stores in Pittsburgh, PA, #3 of 18 furniture stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

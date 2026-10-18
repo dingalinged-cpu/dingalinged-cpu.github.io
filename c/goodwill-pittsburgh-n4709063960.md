@@ -13,7 +13,7 @@ Goodwill is a thrift store in Pittsburgh, PA at 118 52nd Street, Pittsburgh, PA 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-19:00; Mo-Su 10:00-11:00 unknown "Only open for Seniors and At-Risk shoppers"
-- Pulse Score: 49.5/100 — Building — top 58% of thrift stores in Pittsburgh, PA, #9 of 16 thrift stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 58% of thrift stores in Pittsburgh, PA, #9 of 16 thrift stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

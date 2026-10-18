@@ -13,7 +13,7 @@ Arch Animal Hospital is a veterinarian in Valley Park, MO at 2951 Dougherty Ferr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00
-- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 73% of veterinarians in St. Louis, MO, #1 of 1 veterinarians in Valley Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 70% of veterinarians in St. Louis, MO, #1 of 1 veterinarians in Valley Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

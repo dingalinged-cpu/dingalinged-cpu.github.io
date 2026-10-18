@@ -13,7 +13,7 @@ Pediatric Associates PSC is a pediatrician in Cold Spring, KY at 175 French Stre
 - Website: https://www.pediatricassociatesnky.com/Locations/Cold-Spring
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:50; PH off
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 13% of pediatricians in Cincinnati, OH, #1 of 1 pediatricians in Cold Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 13% of pediatricians in Cincinnati, OH, #1 of 1 pediatricians in Cold Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

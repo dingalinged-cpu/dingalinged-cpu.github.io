@@ -1,0 +1,24 @@
+Fred Loya Insurance is an insurance agent in Bastrop, TX at 489 Agnes Street #110, Bastrop, TX 78602. Phone: +15123084171. Website: https://www.fredloya.com/.
+
+# Fred Loya Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 489 Agnes Street #110, Bastrop, TX 78602
+- City: Bastrop
+- State: TX
+- ZIP: 78602
+- Coordinates: 30.1050035, -97.3332545
+- Phone: +15123084171
+- Website: https://www.fredloya.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00
+- Pulse Score: 48.1/100 — Building — top 55% of insurance agents in Austin, TX, #10 of 12 insurance agents in Bastrop (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fred-loya-insurance-bastrop/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fred-loya-insurance-bastrop.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11035548122 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

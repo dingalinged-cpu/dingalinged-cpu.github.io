@@ -6,7 +6,7 @@ Also answers: massage in Olivette, MO; massage near me (Olivette, MO); best mass
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sunrise Massage and Spa | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Sunrise Massage and Spa is a massage studio in Olivette, MO at 9441 Olive Boulevard, Olivette, MO 63132. Website: https://sunrisemassagespa-massagespa.business.site/. | https://registry-edge.dingalinged.workers.dev/c/sunrise-massage-and-spa-olivette/
+1. Sunrise Massage and Spa | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Sunrise Massage and Spa is a massage studio in Olivette, MO at 9441 Olive Boulevard, Olivette, MO 63132. Website: https://sunrisemassagespa-massagespa.business.site/. | https://registry-edge.dingalinged.workers.dev/c/sunrise-massage-and-spa-olivette/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage olivette mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

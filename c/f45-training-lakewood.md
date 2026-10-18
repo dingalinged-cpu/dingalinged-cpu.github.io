@@ -13,7 +13,7 @@ F45 Training is a gym in Lakewood, CO at 7349 West Alaska Drive, Lakewood, CO 80
 - Website: https://f45training.com/studio/belmar/
 - Email: n/a
 - Opening hours (OSM syntax): Su-Sa 06:00-18:00
-- Pulse Score: 49/100 — Building — top 60% of gyms in Denver, CO, #5 of 9 gyms in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 59% of gyms in Denver, CO, #4 of 9 gyms in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

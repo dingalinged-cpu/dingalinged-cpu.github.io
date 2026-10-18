@@ -13,7 +13,7 @@ Rent-A-Relative is a moving company in Olivette, MO at 9646 Olive Street Road #3
 - Website: https://rentarelativestl.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:00-21:00
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 60% of moving companys in St. Louis, MO, #1 of 1 moving companys in Olivette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 60% of moving companys in St. Louis, MO, #1 of 1 moving companys in Olivette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

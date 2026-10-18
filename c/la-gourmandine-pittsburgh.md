@@ -13,7 +13,7 @@ La Gourmandine is a bakery in Pittsburgh, PA at 4605 Butler Street, Pittsburgh, 
 - Website: https://lagourmandinebakery.com/
 - Email: lagourmandinebakery@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 09:00-16:30; Su 09:00-14:30
-- Pulse Score: 52.9/100 — Fair — top 86% of bakerys in Pittsburgh, PA, #26 of 33 bakerys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.3, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.8/100 — Fair — top 86% of bakerys in Pittsburgh, PA, #26 of 33 bakerys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.3, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

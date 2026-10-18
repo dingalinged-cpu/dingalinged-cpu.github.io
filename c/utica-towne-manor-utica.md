@@ -13,7 +13,7 @@ Utica Towne Manor is a property management company in Utica, MI at 8310 Hall Roa
 - Website: https://www.silversidemanagement.com/utica-towne-manor
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 54% of property management companys in Detroit, MI, #1 of 1 property management companys in Utica (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 54% of property management companys in Detroit, MI, #1 of 1 property management companys in Utica (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

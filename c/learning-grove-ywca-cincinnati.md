@@ -13,7 +13,7 @@ Learning Grove - YWCA is a daycare in Cincinnati, OH at 898 Walnut Street, Cinci
 - Website: https://www.ywcacincinnati.org/our-programs/childcare/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 3% of daycares in Cincinnati, OH, #1 of 10 daycares in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 3% of daycares in Cincinnati, OH, #1 of 10 daycares in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

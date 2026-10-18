@@ -13,7 +13,7 @@ Canelle Birmingham is a bakery in Birmingham, MI at 159 North Eton Street, Birmi
 - Website: https://www.cannelledetroit.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 06:30-19:00; Su 08:00-16:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 11% of bakerys in Detroit, MI, #1 of 7 bakerys in Birmingham (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 11% of bakerys in Detroit, MI, #1 of 7 bakerys in Birmingham (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

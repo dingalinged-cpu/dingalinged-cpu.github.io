@@ -13,7 +13,7 @@ Maria Empanada is a caterer in Denver, CO at 1298 South Broadway, Denver, CO 802
 - Website: https://mariaempanada.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:30-20:30; Su 09:00-20:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 58% of caterers in Denver, CO, #13 of 16 caterers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 58% of caterers in Denver, CO, #13 of 16 caterers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: heating and air in Carmel, IN; heating and air near me (Carmel, IN
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hoppy Heating and Air | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Hoppy Heating and Air is a HVAC contractor in Carmel, IN at 597-599 Industrial Drive #Suite 209, Carmel, IN 46032. Phone: +13172101545. Website: https://hoppyair.com/. | https://registry-edge.dingalinged.workers.dev/c/hoppy-heating-and-air-carmel/
+1. Hoppy Heating and Air | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Hoppy Heating and Air is a HVAC contractor in Carmel, IN at 597-599 Industrial Drive #Suite 209, Carmel, IN 46032. Phone: +13172101545. Website: https://hoppyair.com/. | https://registry-edge.dingalinged.workers.dev/c/hoppy-heating-and-air-carmel/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air carmel in | category: Home Services | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ RE/MAX is a real estate agency in Peters Township, PA at 3328 Washington Road, P
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.6/100 — Building — top 78% of real estate agencys in Pittsburgh, PA, #1 of 1 real estate agencys in Peters Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.6/100 — Building — top 78% of real estate agencys in Pittsburgh, PA, #1 of 1 real estate agencys in Peters Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

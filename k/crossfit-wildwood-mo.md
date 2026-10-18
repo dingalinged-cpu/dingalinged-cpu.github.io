@@ -6,7 +6,7 @@ Also answers: crossfit in Wildwood, MO; crossfit near me (Wildwood, MO); best cr
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CrossFit | Organic #1 | Pulse Score 46.6/100 (Building, #1 in city) | CrossFit is a CrossFit gym in Wildwood, MO at 16966 Manchester Road, Wildwood, MO 63040. | https://registry-edge.dingalinged.workers.dev/c/crossfit-wildwood/
+1. CrossFit | Organic #1 | Pulse Score 46.4/100 (Building, #1 in city) | CrossFit is a CrossFit gym in Wildwood, MO at 16966 Manchester Road, Wildwood, MO 63040. | https://registry-edge.dingalinged.workers.dev/c/crossfit-wildwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: crossfit wildwood mo | category: Fitness | industry benchmark: Health & Fitness

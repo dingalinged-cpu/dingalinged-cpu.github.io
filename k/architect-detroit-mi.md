@@ -6,7 +6,7 @@ Also answers: architect in Detroit, MI; architect near me (Detroit, MI); best ar
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ghafari | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Ghafari is an architect in Detroit, MI at 211 West Fort Street #510, Detroit, MI 48226. Phone: +13135025474. Website: https://www.ghafari.com/about/contact. | https://registry-edge.dingalinged.workers.dev/c/ghafari-detroit/
+1. Ghafari | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Ghafari is an architect in Detroit, MI at 211 West Fort Street #510, Detroit, MI 48226. Phone: +13135025474. Website: https://www.ghafari.com/about/contact. | https://registry-edge.dingalinged.workers.dev/c/ghafari-detroit/
 2. Walbridge | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | Walbridge is an architect in Detroit, MI at 123 Monroe Street, Detroit, MI 48226. | https://registry-edge.dingalinged.workers.dev/c/walbridge-detroit/
 3. Three Squared, Inc. | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Three Squared, Inc. is an architect in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/three-squared-inc-detroit/
 

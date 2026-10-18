@@ -13,7 +13,7 @@ DDS Dentures & Dental Services is a dentist in Saint Peters, MO at 5863 Suemandy
 - Website: https://locations.dentalservice.net/st-peters-dentures
 - Email: manager@stpeters.dentalservice.net
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 29% of dentists in St. Peters, MO, #2 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 29% of dentists in St. Peters, MO, #2 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

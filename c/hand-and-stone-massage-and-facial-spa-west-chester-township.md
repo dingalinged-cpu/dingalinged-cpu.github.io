@@ -13,7 +13,7 @@ Hand & Stone Massage and Facial Spa is a massage studio in West Chester Township
 - Website: https://handandstone.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Building — top 53% of massage studios in Cincinnati, OH, #3 of 5 massage studios in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 53% of massage studios in Cincinnati, OH, #3 of 5 massage studios in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

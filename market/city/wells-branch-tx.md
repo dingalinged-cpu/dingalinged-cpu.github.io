@@ -1,0 +1,50 @@
+Keyword market for Wells Branch, TX: 21 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Austin-Round Rock-San Marcos, TX metro (US volume x population share).
+
+# Top keywords in Wells Branch, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash wells branch tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-wells-branch-tx/
+2. dentist wells branch tx | searches/mo 14,000 (est) | CPC $4.70 | value $66,000 | Google Ads equiv $3,600/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-wells-branch-tx/
+3. gym wells branch tx | searches/mo 14,000 (est) | CPC $1.67 | value $23,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-wells-branch-tx/
+4. hair salon wells branch tx | searches/mo 12,000 (est) | CPC $0.55 | value $6,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-wells-branch-tx/
+5. nail salon wells branch tx | searches/mo 7,700 (est) | CPC $0.61 | value $4,700 | Google Ads equiv $270/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-wells-branch-tx/
+6. plumber wells branch tx | searches/mo 6,300 (est) | CPC $12.04 | value $76,000 | Google Ads equiv $4,800/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-wells-branch-tx/
+7. mechanic wells branch tx | searches/mo 5,200 (est) | CPC $4.35 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/mechanic-wells-branch-tx/
+8. haircut wells branch tx | searches/mo 2,800 (est) | CPC $4.62 | value $13,000 | Google Ads equiv $740/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/haircut-wells-branch-tx/
+9. auto repair wells branch tx | searches/mo 2,300 (est) | CPC $4.35 | value $10,000 | Google Ads equiv $560/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-wells-branch-tx/
+10. chiropractor wells branch tx | searches/mo 1,900 (est) | CPC $4.76 | value $9,000 | Google Ads equiv $610/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-wells-branch-tx/
+11. plumbing services wells branch tx | searches/mo 380 (est) | CPC $13.90 | value $5,300 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-wells-branch-tx/
+
+## By CPC
+1. plumbing services wells branch tx | searches/mo 380 (est) | CPC $13.90 | value $5,300 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-wells-branch-tx/
+2. plumber wells branch tx | searches/mo 6,300 (est) | CPC $12.04 | value $76,000 | Google Ads equiv $4,800/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-wells-branch-tx/
+3. plumbers wells branch tx | searches/mo 28.00 (est) | CPC $8.33 | value $230 | Google Ads equiv $15.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbers-wells-branch-tx/
+4. storage units wells branch tx | searches/mo 1,700 (est) | CPC $8.33 | value $14,000 | Google Ads equiv $900/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/storage-units-wells-branch-tx/
+5. staffing agency wells branch tx | searches/mo 1,100 (est) | CPC $5.87 | value $6,500 | Google Ads equiv $360/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/staffing-agency-wells-branch-tx/
+6. daycare wells branch tx | searches/mo 1,700 (est) | CPC $4.81 | value $8,200 | Google Ads equiv $470/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-wells-branch-tx/
+7. chiropractor wells branch tx | searches/mo 1,900 (est) | CPC $4.76 | value $9,000 | Google Ads equiv $610/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-wells-branch-tx/
+8. dentist wells branch tx | searches/mo 14,000 (est) | CPC $4.70 | value $66,000 | Google Ads equiv $3,600/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-wells-branch-tx/
+9. haircut wells branch tx | searches/mo 2,800 (est) | CPC $4.62 | value $13,000 | Google Ads equiv $740/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/haircut-wells-branch-tx/
+10. waxing wells branch tx | searches/mo 7,100 (est) | CPC $4.62 | value $33,000 | Google Ads equiv $1,900/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/waxing-wells-branch-tx/
+11. auto repair wells branch tx | searches/mo 2,300 (est) | CPC $4.35 | value $10,000 | Google Ads equiv $560/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-wells-branch-tx/
+12. car wash wells branch tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-wells-branch-tx/
+13. mechanic wells branch tx | searches/mo 5,200 (est) | CPC $4.35 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/mechanic-wells-branch-tx/
+14. furniture store wells branch tx | searches/mo 1,100 (est) | CPC $4.14 | value $4,600 | Google Ads equiv $410/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/furniture-store-wells-branch-tx/
+15. liquor store wells branch tx | searches/mo 1,100 (est) | CPC $4.14 | value $4,600 | Google Ads equiv $410/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-wells-branch-tx/
+
+## By value (searches x CPC)
+1. plumber wells branch tx | searches/mo 6,300 (est) | CPC $12.04 | value $76,000 | Google Ads equiv $4,800/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-wells-branch-tx/
+2. dentist wells branch tx | searches/mo 14,000 (est) | CPC $4.70 | value $66,000 | Google Ads equiv $3,600/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-wells-branch-tx/
+3. car wash wells branch tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-wells-branch-tx/
+4. gym wells branch tx | searches/mo 14,000 (est) | CPC $1.67 | value $23,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-wells-branch-tx/
+5. mechanic wells branch tx | searches/mo 5,200 (est) | CPC $4.35 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/mechanic-wells-branch-tx/
+6. haircut wells branch tx | searches/mo 2,800 (est) | CPC $4.62 | value $13,000 | Google Ads equiv $740/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/haircut-wells-branch-tx/
+7. auto repair wells branch tx | searches/mo 2,300 (est) | CPC $4.35 | value $10,000 | Google Ads equiv $560/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-wells-branch-tx/
+8. chiropractor wells branch tx | searches/mo 1,900 (est) | CPC $4.76 | value $9,000 | Google Ads equiv $610/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-wells-branch-tx/
+9. hair salon wells branch tx | searches/mo 12,000 (est) | CPC $0.55 | value $6,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-wells-branch-tx/
+10. plumbing services wells branch tx | searches/mo 380 (est) | CPC $13.90 | value $5,300 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-wells-branch-tx/
+11. nail salon wells branch tx | searches/mo 7,700 (est) | CPC $0.61 | value $4,700 | Google Ads equiv $270/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-wells-branch-tx/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

@@ -7,7 +7,7 @@ Also answers: roofing contractor in Lafayette, CO; roofing contractor near me (L
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Scott's Roofing | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Scott's Roofing is a roofer in Lafayette, CO at 211 North Public Road #100, Lafayette, CO 80026. Phone: +13034699287. Website: https://www.scottsroofingcolorado.com/. | https://registry-edge.dingalinged.workers.dev/c/scotts-roofing-lafayette/
-2. Scott's Roofing and Exteriors | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Scott's Roofing and Exteriors is a roofer in Lafayette, CO at 211 North Public Road #100, Lafayette, CO. Phone: +13034699287. | https://registry-edge.dingalinged.workers.dev/c/scotts-roofing-and-exteriors-lafayette/
+2. Scott's Roofing and Exteriors | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Scott's Roofing and Exteriors is a roofer in Lafayette, CO at 211 North Public Road #100, Lafayette, CO. Phone: +13034699287. | https://registry-edge.dingalinged.workers.dev/c/scotts-roofing-and-exteriors-lafayette/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor lafayette co | category: Home services - Roofing | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Rags Consignments is a thrift store in Boulder, CO at 3129 28th Street, Boulder,
 - Website: https://ragsconsignments.com/pages/locations
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 10:00-17:00
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 15% of thrift stores in Denver, CO, #3 of 9 thrift stores in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 15% of thrift stores in Denver, CO, #3 of 9 thrift stores in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

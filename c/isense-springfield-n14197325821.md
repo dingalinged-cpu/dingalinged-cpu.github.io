@@ -13,7 +13,7 @@ iSense is a mattress store in Springfield, MO at 1356 East Battlefield Road, Spr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 11:00-19:00
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 23% of mattress stores in Springfield, MO, #2 of 9 mattress stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 23% of mattress stores in Springfield, MO, #2 of 9 mattress stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

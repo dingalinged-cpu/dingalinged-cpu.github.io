@@ -13,7 +13,7 @@ Mini Mall Storage is a self-storage facility in Hutchinson, KS at 1703 East 4th 
 - Website: https://minimallstorage.com/storage-units/kansas/hutchinson/east-4th-avenue
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 80% of self-storage facilitys in Wichita, KS, #2 of 2 self-storage facilitys in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 80% of self-storage facilitys in Wichita, KS, #2 of 2 self-storage facilitys in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

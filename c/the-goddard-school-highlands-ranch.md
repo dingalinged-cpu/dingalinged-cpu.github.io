@@ -13,7 +13,7 @@ The Goddard School is a preschool in Highlands Ranch, CO at 1101 Sergeant Jon St
 - Website: https://www.goddardschool.com/denver/highlands-ranch-sergeant-jon-stiles-drive-co
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 64% of preschools in Denver, CO, #1 of 1 preschools in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 64% of preschools in Denver, CO, #1 of 1 preschools in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

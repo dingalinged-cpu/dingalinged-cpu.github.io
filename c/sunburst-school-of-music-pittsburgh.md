@@ -13,7 +13,7 @@ Sunburst School of Music is a music school in Pittsburgh, PA at 5843 Forbes Aven
 - Website: https://www.sunburstmusic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 11:00-21:00; Fr 11:00-19:00; Sa,Su 09:00-17:00
-- Pulse Score: 61.9/100 — Good — top 50% of music schools in Pittsburgh, PA, #1 of 1 music schools in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 50% of music schools in Pittsburgh, PA, #1 of 1 music schools in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: martial arts in West Chester Township, OH; martial arts near me (W
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jorge Gurgel Martial Arts Center | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Jorge Gurgel Martial Arts Center is a martial arts school in West Chester Township, OH at 6875 Fountains Boulevard #Suite K, West Chester Township, OH 45069. Phone: +15134432048. Website: https://jgmma.com/. | https://registry-edge.dingalinged.workers.dev/c/jorge-gurgel-martial-arts-center-west-chester-township/
+1. Jorge Gurgel Martial Arts Center | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Jorge Gurgel Martial Arts Center is a martial arts school in West Chester Township, OH at 6875 Fountains Boulevard #Suite K, West Chester Township, OH 45069. Phone: +15134432048. Website: https://jgmma.com/. | https://registry-edge.dingalinged.workers.dev/c/jorge-gurgel-martial-arts-center-west-chester-township/
 2. Wik Academy of Martial Arts | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Wik Academy of Martial Arts is a martial arts school in West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/wik-academy-of-martial-arts-west-chester-township/
 
 ## Market data (for advertisers and agents)

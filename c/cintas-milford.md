@@ -13,7 +13,7 @@ Cintas is a staffing agency in Milford, OH at 27 Whitney Drive, Milford, OH 4515
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 89% of staffing agencys in Cincinnati, OH, #3 of 3 staffing agencys in Milford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 89% of staffing agencys in Cincinnati, OH, #3 of 3 staffing agencys in Milford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

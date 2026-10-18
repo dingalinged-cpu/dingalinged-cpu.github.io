@@ -12,7 +12,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. Gardner White | Organic #4 | Pulse Score 45/100 (Unrated, #4 in city) | Gardner White is a furniture store in Canton Township, MI. | https://registry-edge.dingalinged.workers.dev/c/gardner-white-canton-township/
 5. La-Z-Boy | Organic #5 | Pulse Score 42.5/100 (Building, #5 in city) | La-Z-Boy is a furniture store in Canton Township, MI. | https://registry-edge.dingalinged.workers.dev/c/la-z-boy-canton-township/
 6. Value City Furniture | Organic #6 | Pulse Score 42.5/100 (Building, #6 in city) | Value City Furniture is a furniture store in Canton Township, MI. | https://registry-edge.dingalinged.workers.dev/c/value-city-furniture-canton-township/
-7. Hand & Stone | Organic #7 | Pulse Score 41.9/100 (Unrated, #7 in city) | Hand & Stone is a furniture store in Canton Township, MI. | https://registry-edge.dingalinged.workers.dev/c/hand-and-stone-canton-township/
+7. Hand & Stone | Organic #7 | Pulse Score 41.8/100 (Unrated, #7 in city) | Hand & Stone is a furniture store in Canton Township, MI. | https://registry-edge.dingalinged.workers.dev/c/hand-and-stone-canton-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store canton township mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

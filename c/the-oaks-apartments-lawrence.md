@@ -13,7 +13,7 @@ The Oaks Apartments is a property management company in Lawrence, KS at 2357 Rid
 - Website: https://www.cherryhillproperties.net/property/the-oaks-apartments
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 84% of property management companys in Lawrence, KS, #20 of 24 property management companys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 84% of property management companys in Lawrence, KS, #20 of 24 property management companys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

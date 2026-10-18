@@ -6,7 +6,7 @@ Also answers: storage units in Florissant, MO; storage units near me (Florissant
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Public Storage | Organic #1 | Pulse Score 47.6/100 (Building, #1 in city) | Public Storage is a self-storage facility in Florissant, MO at 14249 New Halls Ferry Road, Florissant, MO 63033. | https://registry-edge.dingalinged.workers.dev/c/public-storage-florissant/
+1. Public Storage | Organic #1 | Pulse Score 47.5/100 (Building, #1 in city) | Public Storage is a self-storage facility in Florissant, MO at 14249 New Halls Ferry Road, Florissant, MO 63033. | https://registry-edge.dingalinged.workers.dev/c/public-storage-florissant/
 2. U-Haul | Organic #2 | Pulse Score 46.1/100 (Building, #2 in city) | U-Haul is a self-storage facility in Florissant, MO at 1350 North Highway 67 Street, Florissant, MO 63031. | https://registry-edge.dingalinged.workers.dev/c/u-haul-florissant/
 
 ## Market data (for advertisers and agents)

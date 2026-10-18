@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Phantom 8 Tattoo | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Phantom 8 Tattoo is a tattoo shop in Englewood, CO at 3969 South Broadway, Englewood, CO 80113. Phone: +13037620660. Website: https://phantom8.com/. | https://registry-edge.dingalinged.workers.dev/c/phantom-8-tattoo-englewood/
 2. Modern Ink | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Modern Ink is a tattoo shop in Englewood, CO at 3418 South Broadway, Englewood, CO 80113. Phone: +17202988569. Website: https://www.modernink.net/. | https://registry-edge.dingalinged.workers.dev/c/modern-ink-englewood/
-3. Kismet Body Arts | Organic #3 | Pulse Score 58.9/100 (Unrated, #3 in city) | Kismet Body Arts is a tattoo shop in Englewood, CO at 4370 South Broadway Avenue, Englewood, CO 80113. Website: https://kismetbodyarts.com/. | https://registry-edge.dingalinged.workers.dev/c/kismet-body-arts-englewood/
+3. Kismet Body Arts | Organic #3 | Pulse Score 58.8/100 (Unrated, #3 in city) | Kismet Body Arts is a tattoo shop in Englewood, CO at 4370 South Broadway Avenue, Englewood, CO 80113. Website: https://kismetbodyarts.com/. | https://registry-edge.dingalinged.workers.dev/c/kismet-body-arts-englewood/
 4. White Eagle | Organic #4 | Pulse Score 56.4/100 (Unrated, #4 in city) | White Eagle is a tattoo shop in Englewood, CO at 4389 South Federal Boulevard, Englewood, CO 80110. | https://registry-edge.dingalinged.workers.dev/c/white-eagle-englewood/
 
 ## Market data (for advertisers and agents)

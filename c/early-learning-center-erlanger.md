@@ -13,7 +13,7 @@ Early Learning Center is a preschool in Erlanger, KY. Website: https://www.erlan
 - Website: https://www.erlanger.kyschools.us/4/Home
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 20% of preschools in Cincinnati, OH, #1 of 2 preschools in Erlanger (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 19% of preschools in Cincinnati, OH, #1 of 2 preschools in Erlanger (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Express Employment Professionals is a staffing agency in Lawrence, KS at 1000 Io
 - Website: https://www.expresspros.com/lawrenceks/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 100% of staffing agencys in Lawrence, KS, #3 of 3 staffing agencys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Unrated (not enough evidence yet) — top 100% of staffing agencys in Lawrence, KS, #3 of 3 staffing agencys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

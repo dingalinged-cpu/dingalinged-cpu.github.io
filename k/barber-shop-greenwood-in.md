@@ -6,7 +6,7 @@ Also answers: barber shop in Greenwood, IN; barber shop near me (Greenwood, IN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tom's Barbershop | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Tom's Barbershop is a barber shop in Greenwood, IN at 338 Market Plaza, Greenwood, IN 46142. | https://registry-edge.dingalinged.workers.dev/c/toms-barbershop-greenwood/
+1. Tom's Barbershop | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Tom's Barbershop is a barber shop in Greenwood, IN at 338 Market Plaza, Greenwood, IN 46142. | https://registry-edge.dingalinged.workers.dev/c/toms-barbershop-greenwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop greenwood in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

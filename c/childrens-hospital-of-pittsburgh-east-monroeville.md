@@ -13,7 +13,7 @@ Children's Hospital of Pittsburgh East is a pediatrician in Monroeville, PA at 4
 - Website: https://www.chp.edu/locations/childrens-east
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 24% of pediatricians in Pittsburgh, PA, #1 of 1 pediatricians in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 24% of pediatricians in Pittsburgh, PA, #1 of 1 pediatricians in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

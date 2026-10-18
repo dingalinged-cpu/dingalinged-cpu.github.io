@@ -13,7 +13,7 @@ Epicurean Properties is a property management company in Columbus, OH at 875 Nor
 - Website: https://www.furnishedcolumbus.com/
 - Email: concierge@epicureanproperties.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 8% of property management companys in Columbus, OH, #1 of 8 property management companys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 8% of property management companys in Columbus, OH, #1 of 8 property management companys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

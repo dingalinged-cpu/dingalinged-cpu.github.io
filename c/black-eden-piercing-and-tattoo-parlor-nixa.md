@@ -13,7 +13,7 @@ Black Eden Piercing & Tattoo Parlor is a tattoo shop in Nixa, MO at 274 West Mou
 - Website: n/a
 - Email: blackedenpiercingtattooparlor@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Pulse Score: 63/100 — Good — top 100% of tattoo shops in Nixa, MO, #1 of 1 tattoo shops in Nixa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 100% of tattoo shops in Nixa, MO, #1 of 1 tattoo shops in Nixa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

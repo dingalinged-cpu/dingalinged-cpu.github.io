@@ -13,7 +13,7 @@ Concrete Flooring Solutions of Ohio is a flooring company in Westerville, OH at 
 - Website: https://epoxycoatingcolumbus.com/
 - Email: info@cfsofohio.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 12% of flooring companys in Columbus, OH, #1 of 1 flooring companys in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 12% of flooring companys in Columbus, OH, #1 of 1 flooring companys in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

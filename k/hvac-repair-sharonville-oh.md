@@ -6,8 +6,8 @@ Also answers: hvac repair in Sharonville, OH; hvac repair near me (Sharonville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Perfection Group | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Perfection Group is a HVAC contractor in Sharonville, OH at 2649 Commerce Boulevard, Sharonville, OH 45241. Phone: +15137727545. Website: https://perfectiongroup.com/. | https://registry-edge.dingalinged.workers.dev/c/perfection-group-sharonville/
-2. R.E. Michel Company | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | R.E. Michel Company is a HVAC contractor in Sharonville, OH at 11875 Enterprise Drive, Sharonville, OH 45241. Phone: +15135412444. Website: https://remichel.com/. | https://registry-edge.dingalinged.workers.dev/c/r-e-michel-company-sharonville/
+1. Perfection Group | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Perfection Group is a HVAC contractor in Sharonville, OH at 2649 Commerce Boulevard, Sharonville, OH 45241. Phone: +15137727545. Website: https://perfectiongroup.com/. | https://registry-edge.dingalinged.workers.dev/c/perfection-group-sharonville/
+2. R.E. Michel Company | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | R.E. Michel Company is a HVAC contractor in Sharonville, OH at 11875 Enterprise Drive, Sharonville, OH 45241. Phone: +15135412444. Website: https://remichel.com/. | https://registry-edge.dingalinged.workers.dev/c/r-e-michel-company-sharonville/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair sharonville oh | category: Home services - HVAC | industry benchmark: Home & Home Improvement

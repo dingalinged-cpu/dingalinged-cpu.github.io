@@ -6,7 +6,7 @@ Also answers: flooring companies in Union Township, OH; flooring companies near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Andy's Dalton GA. Flooring | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Andy's Dalton GA. Flooring is a flooring company in Union Township, OH. Website: https://www.andysdaltongafl.com/. | https://registry-edge.dingalinged.workers.dev/c/andys-dalton-ga-flooring-union-township/
+1. Andy's Dalton GA. Flooring | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Andy's Dalton GA. Flooring is a flooring company in Union Township, OH. Website: https://www.andysdaltongafl.com/. | https://registry-edge.dingalinged.workers.dev/c/andys-dalton-ga-flooring-union-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies union township oh | category: Home services - Flooring | industry benchmark: Home & Home Improvement

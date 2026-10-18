@@ -7,9 +7,9 @@ Also answers: auto repair in Chesterfield, MO; auto repair near me (Chesterfield
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Northwest Tire and Auto | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Northwest Tire and Auto is an auto repair shop in Chesterfield, MO. | https://registry-edge.dingalinged.workers.dev/c/northwest-tire-and-auto-chesterfield/
-2. Valvoline | Organic #2 | Pulse Score 45.5/100 (Building, #2 in city) | Valvoline is an auto repair shop in Chesterfield, MO. Website: https://store.vioc.com/mo/chesterfield/oil-change-050032.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-chesterfield/
+2. Valvoline | Organic #2 | Pulse Score 45.4/100 (Building, #2 in city) | Valvoline is an auto repair shop in Chesterfield, MO. Website: https://store.vioc.com/mo/chesterfield/oil-change-050032.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-chesterfield/
 3. Jiffy Lube | Organic #3 | Pulse Score 45/100 (Building, #1 in city) | Jiffy Lube is an auto repair shop in Chesterfield, MO at 13490 Olive Boulevard, Chesterfield, MO 63017. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-chesterfield/
-4. Carstar | Organic #4 | Pulse Score 42.9/100 (Building, #3 in city) | Carstar is an auto repair shop in Chesterfield, MO. | https://registry-edge.dingalinged.workers.dev/c/carstar-chesterfield/
+4. Carstar | Organic #4 | Pulse Score 42.8/100 (Building, #3 in city) | Carstar is an auto repair shop in Chesterfield, MO. | https://registry-edge.dingalinged.workers.dev/c/carstar-chesterfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair chesterfield mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

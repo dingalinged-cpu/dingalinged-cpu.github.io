@@ -13,7 +13,7 @@ Doug's Automotive and Alignment is an auto repair shop in Lawrence, KS at 530 Ga
 - Website: https://www.dougsautomotiveks.com/
 - Email: dougsautomotive@yahoo.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 13% of auto repair shops in Lawrence, KS, #4 of 31 auto repair shops in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 13% of auto repair shops in Lawrence, KS, #4 of 31 auto repair shops in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

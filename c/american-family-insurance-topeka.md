@@ -13,7 +13,7 @@ American Family Insurance is an insurance agent in Topeka, KS at 6220 Southwest 
 - Website: https://agent.amfam.com/cammy-figgs/ks/topeka/6220-sw-29th-st-ste-400/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su "by appointment"
-- Pulse Score: 48.2/100 — Building — top 50% of insurance agents in Topeka, KS, #6 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 50% of insurance agents in Topeka, KS, #6 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

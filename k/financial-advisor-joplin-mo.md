@@ -6,8 +6,8 @@ Also answers: financial advisor in Joplin, MO; financial advisor near me (Joplin
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Financial Integrators | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Financial Integrators is a financial advisor in Joplin, MO at 216 South Main Street, Joplin, MO 64801. Website: https://www.financialintegrators.com/. | https://registry-edge.dingalinged.workers.dev/c/financial-integrators-joplin/
-2. Edward Jones | Organic #2 | Pulse Score 44.4/100 (Building, #2 in city) | Edward Jones is a financial advisor in Joplin, MO at 2205 Connecticut Avenue, Joplin, MO 64804. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-joplin/
+1. Financial Integrators | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Financial Integrators is a financial advisor in Joplin, MO at 216 South Main Street, Joplin, MO 64801. Website: https://www.financialintegrators.com/. | https://registry-edge.dingalinged.workers.dev/c/financial-integrators-joplin/
+2. Edward Jones | Organic #2 | Pulse Score 44.2/100 (Building, #2 in city) | Edward Jones is a financial advisor in Joplin, MO at 2205 Connecticut Avenue, Joplin, MO 64804. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-joplin/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor joplin mo | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Store Space is a self-storage facility in Pierce Township, OH at 1359 West Ohio 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43/100 — Building — top 79% of self-storage facilitys in Cincinnati, OH, #3 of 3 self-storage facilitys in Pierce Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43/100 — Building — top 79% of self-storage facilitys in Cincinnati, OH, #3 of 3 self-storage facilitys in Pierce Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

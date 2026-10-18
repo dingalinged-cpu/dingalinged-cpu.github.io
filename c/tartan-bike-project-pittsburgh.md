@@ -13,7 +13,7 @@ Tartan Bike Project is a bike shop in Pittsburgh, PA at 4902 Forbes Avenue, Pitt
 - Website: https://www.cmu.edu/transportation/wheels/shop.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 63% of bike shops in Pittsburgh, PA, #8 of 14 bike shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 63% of bike shops in Pittsburgh, PA, #8 of 14 bike shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: heating and air in Hutchinson, KS; heating and air near me (Hutchi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Decker & Mattison | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Decker & Mattison is a HVAC contractor in Hutchinson, KS at 500 West 2nd Avenue, Hutchinson, KS. Phone: +16206622339. Website: https://deckermattison.com/. | https://registry-edge.dingalinged.workers.dev/c/decker-and-mattison-hutchinson/
+1. Decker & Mattison | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Decker & Mattison is a HVAC contractor in Hutchinson, KS at 500 West 2nd Avenue, Hutchinson, KS. Phone: +16206622339. Website: https://deckermattison.com/. | https://registry-edge.dingalinged.workers.dev/c/decker-and-mattison-hutchinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air hutchinson ks | category: Home Services | industry benchmark: Home & Home Improvement

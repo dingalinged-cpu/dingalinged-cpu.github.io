@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Centennial, CO at 2330 East Arapahoe Ro
 - Website: https://locations.waxcenter.com/co/centennial/
 - Email: n/a
 - Opening hours (OSM syntax): Su 10:00-17:00; Mo-Fr 09:00-20:00; Sa 09:00-17:00
-- Pulse Score: 49.4/100 — Building — top 24% of waxing salons in Denver, CO, #1 of 1 waxing salons in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 24% of waxing salons in Denver, CO, #1 of 1 waxing salons in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

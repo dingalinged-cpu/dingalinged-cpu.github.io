@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Abilene, TX",
+ "description": "Top Abilene, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Abilene, TX",
+ "geography": null,
+ "keywords": 49,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "electrician abilene tx",
+    "slug": "electrician-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-abilene-tx/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.18,
+    "cpc_median_usd": 12.18,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "attorney abilene tx",
+    "slug": "attorney-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-abilene-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "lawyer abilene tx",
+    "slug": "lawyer-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-abilene-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "architect abilene tx",
+    "slug": "architect-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-abilene-tx/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "storage units abilene tx",
+    "slug": "storage-units-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-abilene-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tile installation abilene tx",
+    "slug": "tile-installation-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tile-installation-abilene-tx/",
+    "us_monthly_searches": 12100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "bakery abilene tx",
+    "slug": "bakery-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-abilene-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "caterers abilene tx",
+    "slug": "caterers-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/caterers-abilene-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "event venues abilene tx",
+    "slug": "event-venues-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-abilene-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "florist abilene tx",
+    "slug": "florist-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-abilene-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "photographer abilene tx",
+    "slug": "photographer-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-abilene-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "martial arts abilene tx",
+    "slug": "martial-arts-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-abilene-tx/",
+    "us_monthly_searches": 300000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 6.17,
+    "cpc_median_usd": 6.17,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tax preparer abilene tx",
+    "slug": "tax-preparer-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-abilene-tx/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "daycare abilene tx",
+    "slug": "daycare-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-abilene-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.81,
+    "cpc_median_usd": 4.81,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "assisted living abilene tx",
+    "slug": "assisted-living-abilene-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-abilene-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

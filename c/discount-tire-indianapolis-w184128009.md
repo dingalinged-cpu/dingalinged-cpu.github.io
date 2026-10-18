@@ -13,7 +13,7 @@ Discount Tire is a tire shop in Indianapolis, IN at 6526 East 82nd Street, India
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00, Sa 08:00-17:00
-- Pulse Score: 47.6/100 — Building — top 72% of tire shops in Indianapolis, IN, #40 of 47 tire shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 72% of tire shops in Indianapolis, IN, #40 of 47 tire shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

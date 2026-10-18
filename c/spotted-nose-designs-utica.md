@@ -13,7 +13,7 @@ Spotted Nose Designs is a pet store in Utica, MI at 44840 Utica Road, Utica, MI 
 - Website: https://spottednosedesigns.com/
 - Email: hi@spottednosedesigns.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 3% of pet stores in Detroit, MI, #1 of 3 pet stores in Utica (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 3% of pet stores in Detroit, MI, #1 of 3 pet stores in Utica (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

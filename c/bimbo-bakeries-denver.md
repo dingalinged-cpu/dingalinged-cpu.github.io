@@ -13,7 +13,7 @@ Bimbo Bakeries is a bakery in Denver, CO at 5050 East Evans Avenue, Denver, CO 8
 - Website: https://www.bimbobakeriesusa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 09:00-16:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 13% of bakerys in Denver, CO, #6 of 39 bakerys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 92% of bakerys in Denver, CO, #39 of 39 bakerys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

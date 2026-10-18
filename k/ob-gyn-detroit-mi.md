@@ -7,7 +7,7 @@ Also answers: ob gyn in Detroit, MI; ob gyn near me (Detroit, MI); best ob gyn D
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Dr. Sophie J. Womack Eastside Health Center | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Dr. Sophie J. Womack Eastside Health Center is an OB-GYN practice in Detroit, MI at 7900 Kercheval Street, Detroit, MI 48214. | https://registry-edge.dingalinged.workers.dev/c/dr-sophie-j-womack-eastside-health-center-detroit/
-2. Scotsdale Women's Medical Clinic | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Scotsdale Women's Medical Clinic is an OB-GYN practice in Detroit, MI at 19305 West 7 Mile Road, Detroit, MI 48219. | https://registry-edge.dingalinged.workers.dev/c/scotsdale-womens-medical-clinic-detroit/
+2. Scotsdale Women's Medical Clinic | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Scotsdale Women's Medical Clinic is an OB-GYN practice in Detroit, MI at 19305 West 7 Mile Road, Detroit, MI 48219. | https://registry-edge.dingalinged.workers.dev/c/scotsdale-womens-medical-clinic-detroit/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn detroit mi | category: Health & medical | industry benchmark: Physicians & Surgeons

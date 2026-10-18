@@ -13,7 +13,7 @@ Jax Kar Wash is a car wash in Sterling Heights, MI at 33720 Van Dyke Avenue, Ste
 - Website: https://jaxkarwash.com/locations/sterling-heights-mi/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-20:00; Su 08:00-18:00
-- Pulse Score: 52.2/100 — Unrated (not enough evidence yet) — top 81% of car washes in Detroit, MI, #8 of 12 car washes in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.8, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.2/100 — Unrated (not enough evidence yet) — top 80% of car washes in Detroit, MI, #8 of 12 car washes in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.8, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: staffing agency in Southfield, MI; staffing agency near me (Southf
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. May Day Staffing | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | May Day Staffing is a staffing agency in Southfield, MI at 27200 8 Mile Road, Southfield, MI 48033. Phone: +12488271161. | https://registry-edge.dingalinged.workers.dev/c/may-day-staffing-southfield/
+1. May Day Staffing | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | May Day Staffing is a staffing agency in Southfield, MI at 27200 8 Mile Road, Southfield, MI 48033. Phone: +12488271161. | https://registry-edge.dingalinged.workers.dev/c/may-day-staffing-southfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency southfield mi | category: b2b_services | industry benchmark: Business Services

@@ -6,7 +6,7 @@ Also answers: facial in Upper St. Clair, PA; facial near me (Upper St. Clair, PA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ulta Beauty | Organic #1 | Pulse Score 45.1/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Upper St. Clair, PA at 301 South Hills Village, Upper St. Clair, PA 15241. Phone: +14128352957. Website: https://www.ulta.com/stores/pittsburgh-pa-1043. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-upper-st-clair/
+1. Ulta Beauty | Organic #1 | Pulse Score 45/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Upper St. Clair, PA at 301 South Hills Village, Upper St. Clair, PA 15241. Phone: +14128352957. Website: https://www.ulta.com/stores/pittsburgh-pa-1043. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-upper-st-clair/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial upper st. clair pa | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

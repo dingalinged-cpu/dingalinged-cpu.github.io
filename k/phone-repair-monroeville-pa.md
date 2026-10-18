@@ -6,7 +6,7 @@ Also answers: phone repair in Monroeville, PA; phone repair near me (Monroeville
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cell Phone Repair | Organic #1 | Pulse Score 41.9/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in Monroeville, PA. | https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-monroeville/
+1. Cell Phone Repair | Organic #1 | Pulse Score 41.8/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in Monroeville, PA. | https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-monroeville/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair monroeville pa | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

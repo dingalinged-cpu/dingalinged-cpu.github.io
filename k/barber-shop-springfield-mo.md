@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Boo Rad's Barbershop | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Boo Rad's Barbershop is a barber shop in Springfield, MO at 318 South Campbell Avenue, Springfield, MO 65806. Phone: +14178189104. Website: https://booradsbarbershop.square.site/. | https://registry-edge.dingalinged.workers.dev/c/boo-rads-barbershop-springfield/
 2. Misfits Barbershop | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Misfits Barbershop is a barber shop in Springfield, MO at 1332 East Republic Road #H, Springfield, MO 65804. Phone: +14177196932. | https://registry-edge.dingalinged.workers.dev/c/misfits-barbershop-springfield/
-3. Ely's Barber & Style | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Ely's Barber & Style is a barber shop in Springfield, MO. Website: https://elysbarberandstyle.com/. | https://registry-edge.dingalinged.workers.dev/c/elys-barber-and-style-springfield/
+3. Ely's Barber & Style | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Ely's Barber & Style is a barber shop in Springfield, MO. Website: https://elysbarberandstyle.com/. | https://registry-edge.dingalinged.workers.dev/c/elys-barber-and-style-springfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop springfield mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

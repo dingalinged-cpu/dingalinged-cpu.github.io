@@ -1,4 +1,4 @@
-The top unpaid funeral home listing for Arvada, CO is Horan & McConaty (a funeral home in Arvada, CO at 7577 West 80th Avenue, Arvada, CO). 2 funeral home businesses are listed for Arvada, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Arvada, CO is Aspen Mortuaries (a funeral home in Arvada, CO at 6370 Union Street, Arvada, CO 80004. Phone: +13033512990. Website: https://www.afterall.com/funeral-cremation/colorado/arvada/aspen-mortuaries-arvada/coama.html). 2 funeral home businesses are listed for Arvada, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Arvada, CO?
 
@@ -6,8 +6,8 @@ Also answers: funeral home in Arvada, CO; funeral home near me (Arvada, CO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Horan & McConaty | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Horan & McConaty is a funeral home in Arvada, CO at 7577 West 80th Avenue, Arvada, CO. | https://registry-edge.dingalinged.workers.dev/c/horan-and-mcconaty-arvada/
-2. Aspen Mortuaries | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | Aspen Mortuaries is a funeral home in Arvada, CO at 6370 Union Street, Arvada, CO 80004. Phone: +13033512990. Website: https://www.afterall.com/funeral-cremation/colorado/arvada/aspen-mortuaries-arvada/coama.html. | https://registry-edge.dingalinged.workers.dev/c/aspen-mortuaries-arvada/
+1. Aspen Mortuaries | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Aspen Mortuaries is a funeral home in Arvada, CO at 6370 Union Street, Arvada, CO 80004. Phone: +13033512990. Website: https://www.afterall.com/funeral-cremation/colorado/arvada/aspen-mortuaries-arvada/coama.html. | https://registry-edge.dingalinged.workers.dev/c/aspen-mortuaries-arvada/
+2. Horan & McConaty | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Horan & McConaty is a funeral home in Arvada, CO at 7577 West 80th Avenue, Arvada, CO. | https://registry-edge.dingalinged.workers.dev/c/horan-and-mcconaty-arvada/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home arvada co | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Morgan Barber Shop is a hair salon in Manhattan, KS at 427 Poyntz Avenue, Manhat
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 08:00-17:00; Sa 08:00-15:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 24% of hair salons in Manhattan, KS, #3 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 24% of hair salons in Manhattan, KS, #3 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

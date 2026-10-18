@@ -6,9 +6,9 @@ Also answers: jewelry store in Carmel, IN; jewelry store near me (Carmel, IN); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Amanda's Exchange | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Amanda's Exchange is a jewelry store in Carmel, IN at 715 East Carmel Drive, Carmel, IN 46032. Website: https://amandasexchange.shop/. | https://registry-edge.dingalinged.workers.dev/c/amandas-exchange-carmel/
-2. JEM Jewellers | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | JEM Jewellers is a jewelry store in Carmel, IN at 2750 East 146th Street, Carmel, IN 46033. | https://registry-edge.dingalinged.workers.dev/c/jem-jewellers-carmel/
-3. Pierce Jewelers | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Pierce Jewelers is a jewelry store in Carmel, IN at 114 East Carmel Drive, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/pierce-jewelers-carmel/
+1. Amanda's Exchange | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Amanda's Exchange is a jewelry store in Carmel, IN at 715 East Carmel Drive, Carmel, IN 46032. Website: https://amandasexchange.shop/. | https://registry-edge.dingalinged.workers.dev/c/amandas-exchange-carmel/
+2. JEM Jewellers | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | JEM Jewellers is a jewelry store in Carmel, IN at 2750 East 146th Street, Carmel, IN 46033. | https://registry-edge.dingalinged.workers.dev/c/jem-jewellers-carmel/
+3. Pierce Jewelers | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | Pierce Jewelers is a jewelry store in Carmel, IN at 114 East Carmel Drive, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/pierce-jewelers-carmel/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store carmel in | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

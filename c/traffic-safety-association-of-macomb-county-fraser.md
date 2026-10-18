@@ -13,7 +13,7 @@ Traffic Safety Association of Macomb County is a driving school in Fraser, MI at
 - Website: https://trafficsafetymacomb.org/
 - Email: info@trafficsafetymacomb.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 24% of driving schools in Detroit, MI, #1 of 1 driving schools in Fraser (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 24% of driving schools in Detroit, MI, #1 of 1 driving schools in Fraser (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

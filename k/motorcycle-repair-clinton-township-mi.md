@@ -6,7 +6,7 @@ Also answers: motorcycle repair in Clinton Township, MI; motorcycle repair near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GLM Power Sports | Organic #1 | Pulse Score 62.2/100 (Good, #1 in city) | GLM Power Sports is a motorcycle repair shop in Clinton Township, MI at 33830 Groesbeck Highway, Clinton Township, MI 48035. Phone: +15868348639. Website: https://glmpowersports.square.site/. | https://registry-edge.dingalinged.workers.dev/c/glm-power-sports-clinton-township/
+1. GLM Power Sports | Organic #1 | Pulse Score 62.1/100 (Good, #1 in city) | GLM Power Sports is a motorcycle repair shop in Clinton Township, MI at 33830 Groesbeck Highway, Clinton Township, MI 48035. Phone: +15868348639. Website: https://glmpowersports.square.site/. | https://registry-edge.dingalinged.workers.dev/c/glm-power-sports-clinton-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair clinton township mi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. WOW Ministries LLC | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | WOW Ministries LLC is a therapy practice in Detroit, MI at 18500 Grandville Avenue, Detroit, MI 48219. Phone: +13147208266. Website: https://www.wowministriesllc.com/. | https://registry-edge.dingalinged.workers.dev/c/wow-ministries-llc-detroit/
 2. New Center Community Mental Health | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | New Center Community Mental Health is a therapy practice in Detroit, MI at 2051 West Grand Boulevard, Detroit, MI 48208. | https://registry-edge.dingalinged.workers.dev/c/new-center-community-mental-health-detroit/
-3. Detroit Behavioral Institute | Organic #3 | Pulse Score 55.5/100 (Unrated, #2 in city) | Detroit Behavioral Institute is a pediatrician in Detroit, MI at 3500 John R Street, Detroit, MI 48201. | https://registry-edge.dingalinged.workers.dev/c/detroit-behavioral-institute-detroit/
+3. Detroit Behavioral Institute | Organic #3 | Pulse Score 55.4/100 (Unrated, #2 in city) | Detroit Behavioral Institute is a pediatrician in Detroit, MI at 3500 John R Street, Detroit, MI 48201. | https://registry-edge.dingalinged.workers.dev/c/detroit-behavioral-institute-detroit/
 4. Psych To Site Wellness Program | Organic #4 | Pulse Score 54/100 (Unrated, #3 in city) | Psych To Site Wellness Program is a therapy practice in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/psych-to-site-wellness-program-detroit/
 5. Planned Parenthood | Organic #5 | Pulse Score 42.3/100 (Unrated, #4 in city) | Planned Parenthood is a therapy practice in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/planned-parenthood-detroit/
 

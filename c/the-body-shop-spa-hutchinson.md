@@ -13,7 +13,7 @@ The Body Shop Spa is a spa in Hutchinson, KS at 411 North Main Street, Hutchinso
 - Website: https://completeglow.com/
 - Email: info@completeglow.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 64.1/100 — Good — top 100% of spas in Wichita, KS, #1 of 1 spas in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 100% of spas in Wichita, KS, #1 of 1 spas in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

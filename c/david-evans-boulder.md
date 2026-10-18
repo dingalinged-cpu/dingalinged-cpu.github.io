@@ -13,7 +13,7 @@ David Evans is a dentist in Boulder, CO. Website: https://www.davidevansdds.com/
 - Website: https://www.davidevansdds.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-17:00; Th 07:00-14:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 35% of dentists in Denver, CO, #18 of 34 dentists in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 34% of dentists in Denver, CO, #18 of 34 dentists in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

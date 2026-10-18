@@ -6,8 +6,8 @@ Also answers: motorcycle repair in Wyandotte, MI; motorcycle repair near me (Wya
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jeeperz Creeperz | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Jeeperz Creeperz is a motorcycle repair shop in Wyandotte, MI at 1627 Eureka Road, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/jeeperz-creeperz-wyandotte/
-2. Relentless Baggers | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Relentless Baggers is a motorcycle repair shop in Wyandotte, MI. | https://registry-edge.dingalinged.workers.dev/c/relentless-baggers-wyandotte/
+1. Jeeperz Creeperz | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Jeeperz Creeperz is a motorcycle repair shop in Wyandotte, MI at 1627 Eureka Road, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/jeeperz-creeperz-wyandotte/
+2. Relentless Baggers | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Relentless Baggers is a motorcycle repair shop in Wyandotte, MI. | https://registry-edge.dingalinged.workers.dev/c/relentless-baggers-wyandotte/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair wyandotte mi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

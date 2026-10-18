@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. New Horizons Recovery Centers | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | New Horizons Recovery Centers is a therapy practice in Cincinnati, OH at 9145 Governors Way, Cincinnati, OH 45249. Phone: +15137175457. Website: https://www.newhorizonscentersoh.org/. | https://registry-edge.dingalinged.workers.dev/c/new-horizons-recovery-centers-cincinnati/
 2. Lighthouse Youth & Family Services | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Lighthouse Youth & Family Services is a therapy practice in Cincinnati, OH at 471 East McMillan Street, Cincinnati, OH 45206. Website: https://www.lys.org/. | https://registry-edge.dingalinged.workers.dev/c/lighthouse-youth-and-family-services-cincinnati/
-3. University of Cincinnati Medical Center Psychiatric Services at Ridgeway | Organic #3 | Pulse Score 47.1/100 (Unrated, #3 in city) | University of Cincinnati Medical Center Psychiatric Services at Ridgeway is a therapy practice in Cincinnati, OH. | https://registry-edge.dingalinged.workers.dev/c/university-of-cincinnati-medical-center-psychiatric-services-at-ridgeway-cincinnati/
-4. Jenny Craig | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Jenny Craig is a therapy practice in Cincinnati, OH. | https://registry-edge.dingalinged.workers.dev/c/jenny-craig-cincinnati/
+3. University of Cincinnati Medical Center Psychiatric Services at Ridgeway | Organic #3 | Pulse Score 47.2/100 (Unrated, #3 in city) | University of Cincinnati Medical Center Psychiatric Services at Ridgeway is a therapy practice in Cincinnati, OH. | https://registry-edge.dingalinged.workers.dev/c/university-of-cincinnati-medical-center-psychiatric-services-at-ridgeway-cincinnati/
+4. Jenny Craig | Organic #4 | Pulse Score 42.2/100 (Building, #4 in city) | Jenny Craig is a therapy practice in Cincinnati, OH. | https://registry-edge.dingalinged.workers.dev/c/jenny-craig-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist cincinnati oh | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

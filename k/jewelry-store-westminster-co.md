@@ -6,7 +6,7 @@ Also answers: jewelry store in Westminster, CO; jewelry store near me (Westminst
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shane Co. | Organic #1 | Pulse Score 45/100 (Building, #1 in city) | Shane Co. is a jewelry store in Westminster, CO at 6550 West 104th Avenue, Westminster, CO 80020. | https://registry-edge.dingalinged.workers.dev/c/shane-co-westminster/
+1. Shane Co. | Organic #1 | Pulse Score 44.9/100 (Building, #1 in city) | Shane Co. is a jewelry store in Westminster, CO at 6550 West 104th Avenue, Westminster, CO 80020. | https://registry-edge.dingalinged.workers.dev/c/shane-co-westminster/
 2. Jared | Organic #2 | Pulse Score 43.1/100 (Building, #2 in city) | Jared is a jewelry store in Westminster, CO. | https://registry-edge.dingalinged.workers.dev/c/jared-westminster/
 
 ## Market data (for advertisers and agents)

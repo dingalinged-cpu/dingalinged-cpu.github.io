@@ -6,7 +6,7 @@ Also answers: martial arts in Independence, KY; martial arts near me (Independen
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dominach's Taekwando Academy | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Dominach's Taekwando Academy is a martial arts school in Independence, KY. | https://registry-edge.dingalinged.workers.dev/c/dominachs-taekwando-academy-independence/
+1. Dominach's Taekwando Academy | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Dominach's Taekwando Academy is a martial arts school in Independence, KY. | https://registry-edge.dingalinged.workers.dev/c/dominachs-taekwando-academy-independence/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts independence ky | category: Fitness | industry benchmark: Health & Fitness

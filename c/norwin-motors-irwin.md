@@ -13,7 +13,7 @@ Norwin Motors is an auto repair shop in Irwin, PA at 10580 Lincoln Highway, Irwi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 81% of auto repair shops in Pittsburgh, PA, #3 of 3 auto repair shops in Irwin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 81% of auto repair shops in Pittsburgh, PA, #3 of 3 auto repair shops in Irwin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

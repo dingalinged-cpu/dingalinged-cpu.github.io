@@ -7,7 +7,7 @@ Also answers: daycare in Warren, MI; daycare near me (Warren, MI); best daycare 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Small Wonders | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Small Wonders is a daycare in Warren, MI at 29603 South Civic Center Boulevard, Warren, MI 48093. Phone: +15865587444. Website: https://www.smallwondersinc.net/. | https://registry-edge.dingalinged.workers.dev/c/small-wonders-warren/
-2. LoveLee Care | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | LoveLee Care is a daycare in Warren, MI at 31731 Schoenherr Road, Warren, MI 48088. | https://registry-edge.dingalinged.workers.dev/c/lovelee-care-warren/
+2. LoveLee Care | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | LoveLee Care is a daycare in Warren, MI at 31731 Schoenherr Road, Warren, MI 48088. | https://registry-edge.dingalinged.workers.dev/c/lovelee-care-warren/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare warren mi | category: Education & childcare | industry benchmark: Education & Instruction

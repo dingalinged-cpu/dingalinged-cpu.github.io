@@ -13,7 +13,7 @@ Air Conditioning and Heating Consultants is a HVAC contractor in Kennedy Townshi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 25% of HVAC contractors in Pittsburgh, PA, #1 of 1 HVAC contractors in Kennedy Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 25% of HVAC contractors in Pittsburgh, PA, #1 of 1 HVAC contractors in Kennedy Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

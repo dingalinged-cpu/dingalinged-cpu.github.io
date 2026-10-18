@@ -12,7 +12,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. Moda Donatella | Organic #4 | Pulse Score 60.7/100 (Unrated, #3 in city) | Moda Donatella is a tailor in Pittsburgh, PA at 520 Washington Road #103, Pittsburgh, PA 15228. Phone: +14123439917. | https://registry-edge.dingalinged.workers.dev/c/moda-donatella-pittsburgh/
 5. Ri Van Tran | Organic #5 | Pulse Score 60.7/100 (Unrated, #4 in city) | Ri Van Tran is a tailor in Pittsburgh, PA at 103 Alfred Street, Pittsburgh, PA 15228. Phone: +14125613833. | https://registry-edge.dingalinged.workers.dev/c/ri-van-tran-pittsburgh/
 6. Pitt Tailoring & Alterations | Organic #6 | Pulse Score 60.1/100 (Unrated, #5 in city) | Pitt Tailoring & Alterations is a tailor in Pittsburgh, PA. Phone: +14129041440. | https://registry-edge.dingalinged.workers.dev/c/pitt-tailoring-and-alterations-pittsburgh/
-7. Andy's | Organic #7 | Pulse Score 58/100 (Fair, #6 in city) | Andy's is a tailor in Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/andys-pittsburgh/
+7. Andy's | Organic #7 | Pulse Score 58.1/100 (Fair, #6 in city) | Andy's is a tailor in Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/andys-pittsburgh/
 8. Alterations Express | Organic #8 | Pulse Score 45/100 (Unrated, #7 in city) | Alterations Express is a tailor in Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/alterations-express-pittsburgh/
 
 ## Market data (for advertisers and agents)

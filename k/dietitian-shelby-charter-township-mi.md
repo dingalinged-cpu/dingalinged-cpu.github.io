@@ -6,7 +6,7 @@ Also answers: dietitian in Shelby Charter Township, MI; dietitian near me (Shelb
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Michigan Weight Loss | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Michigan Weight Loss is a dietitian in Shelby Charter Township, MI at 6300 22 Mile Road #Suite 1, Shelby Charter Township, MI 48317. Phone: +15865445350. Website: https://michiganweightloss.com/. | https://registry-edge.dingalinged.workers.dev/c/michigan-weight-loss-shelby-charter-township/
+1. Michigan Weight Loss | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Michigan Weight Loss is a dietitian in Shelby Charter Township, MI at 6300 22 Mile Road #Suite 1, Shelby Charter Township, MI 48317. Phone: +15865445350. Website: https://michiganweightloss.com/. | https://registry-edge.dingalinged.workers.dev/c/michigan-weight-loss-shelby-charter-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: dietitian shelby charter township mi | category: Health & medical | industry benchmark: Physicians & Surgeons

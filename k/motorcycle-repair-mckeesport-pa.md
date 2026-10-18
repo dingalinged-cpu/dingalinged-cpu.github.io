@@ -6,7 +6,7 @@ Also answers: motorcycle repair in Mckeesport, PA; motorcycle repair near me (Mc
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. K & W Cycles | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | K & W Cycles is a motorcycle repair shop in McKeesport, PA at 436 West 5th Avenue, McKeesport, PA 15132. | https://registry-edge.dingalinged.workers.dev/c/k-and-w-cycles-mckeesport/
+1. K & W Cycles | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | K & W Cycles is a motorcycle repair shop in McKeesport, PA at 436 West 5th Avenue, McKeesport, PA 15132. | https://registry-edge.dingalinged.workers.dev/c/k-and-w-cycles-mckeesport/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair mckeesport pa | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

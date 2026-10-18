@@ -13,7 +13,7 @@ Nails on Main is a nail salon in O’Fallon, MO at 612 North Main Street, O’Fa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-17:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 67% of nail salons in O'Fallon, MO, #2 of 3 nail salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 67% of nail salons in O'Fallon, MO, #2 of 3 nail salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

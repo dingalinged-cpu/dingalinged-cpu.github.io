@@ -6,11 +6,11 @@ Also answers: tire shop in Springfield, MO; tire shop near me (Springfield, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bud's Tire & Wheel | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Bud's Tire & Wheel is a tire shop in Springfield, MO at 701 West College Street, Springfield, MO 65806. | https://registry-edge.dingalinged.workers.dev/c/buds-tire-and-wheel-springfield/
-2. ST Motorsports | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | ST Motorsports is a tire shop in Springfield, MO at 2152 South Glenstone Avenue, Springfield, MO 65804. | https://registry-edge.dingalinged.workers.dev/c/st-motorsports-springfield/
-3. Mitchem Tire | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Mitchem Tire is a tire shop in Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/mitchem-tire-springfield-w508452023/
-4. Ozarko Tire Center | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Ozarko Tire Center is a tire shop in Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/ozarko-tire-center-springfield/
-5. R&B Tire Pros & Custom Wheels | Organic #5 | Pulse Score 55.4/100 (Unrated, #5 in city) | R&B Tire Pros & Custom Wheels is a tire shop in Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/r-and-b-tire-pros-and-custom-wheels-springfield/
+1. Bud's Tire & Wheel | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Bud's Tire & Wheel is a tire shop in Springfield, MO at 701 West College Street, Springfield, MO 65806. | https://registry-edge.dingalinged.workers.dev/c/buds-tire-and-wheel-springfield/
+2. ST Motorsports | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | ST Motorsports is a tire shop in Springfield, MO at 2152 South Glenstone Avenue, Springfield, MO 65804. | https://registry-edge.dingalinged.workers.dev/c/st-motorsports-springfield/
+3. Mitchem Tire | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Mitchem Tire is a tire shop in Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/mitchem-tire-springfield-w508452023/
+4. Ozarko Tire Center | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Ozarko Tire Center is a tire shop in Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/ozarko-tire-center-springfield/
+5. R&B Tire Pros & Custom Wheels | Organic #5 | Pulse Score 55.3/100 (Unrated, #5 in city) | R&B Tire Pros & Custom Wheels is a tire shop in Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/r-and-b-tire-pros-and-custom-wheels-springfield/
 6. Discount Tire | Organic #6 | Pulse Score 43.1/100 (Building, #6 in city) | Discount Tire is a tire shop in Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-springfield/
 
 ## Market data (for advertisers and agents)

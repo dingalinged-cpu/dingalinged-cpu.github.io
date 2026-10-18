@@ -13,7 +13,7 @@ Deluxe Nails & Spa is a nail salon in Saint Peters, MO at 300 Mid Rivers Center,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-20:00; Su 10:00-18:00
-- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 100% of nail salons in St. Peters, MO, #7 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 100% of nail salons in St. Peters, MO, #7 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

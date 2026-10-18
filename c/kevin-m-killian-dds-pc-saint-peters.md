@@ -13,7 +13,7 @@ Kevin M. Killian, DDS, PC is a dentist in Saint Peters, MO at 625 Salt Lick Road
 - Website: https://dentist-stpeters.com/
 - Email: kmkdds1@gmail.com
 - Opening hours (OSM syntax): Mo-Tu 08:00-17:00; We 08:00-19:00; Th 08:00-17:00; Fr 08:00-13:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 58% of dentists in O'Fallon, MO, #1 of 1 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 58% of dentists in O'Fallon, MO, #1 of 1 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

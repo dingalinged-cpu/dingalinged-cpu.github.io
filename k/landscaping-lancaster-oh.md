@@ -7,7 +7,7 @@ Also answers: landscaping in Lancaster, OH; landscaping near me (Lancaster, OH);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Beatty Lawn and Tree Service | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Beatty Lawn and Tree Service is a landscaping company in Lancaster, OH at 127 West Wheeling Street, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/beatty-lawn-and-tree-service-lancaster/
-2. Living Waters Pond Supply | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Living Waters Pond Supply is a landscaping company in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/living-waters-pond-supply-lancaster/
+2. Living Waters Pond Supply | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Living Waters Pond Supply is a landscaping company in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/living-waters-pond-supply-lancaster/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping lancaster oh | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

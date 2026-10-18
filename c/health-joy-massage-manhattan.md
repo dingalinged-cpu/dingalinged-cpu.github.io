@@ -13,7 +13,7 @@ Health Joy Massage is a massage studio in Manhattan, KS at 3218 Kimball Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 13:00-18:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of massage studios in Manhattan, KS, #1 of 2 massage studios in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 50% of massage studios in Manhattan, KS, #1 of 2 massage studios in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

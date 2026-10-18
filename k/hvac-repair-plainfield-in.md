@@ -6,7 +6,7 @@ Also answers: hvac repair in Plainfield, IN; hvac repair near me (Plainfield, IN
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Peterman Brothers | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Peterman Brothers is a HVAC contractor in Plainfield, IN. | https://registry-edge.dingalinged.workers.dev/c/peterman-brothers-plainfield/
+1. Peterman Brothers | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Peterman Brothers is a HVAC contractor in Plainfield, IN. | https://registry-edge.dingalinged.workers.dev/c/peterman-brothers-plainfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair plainfield in | category: Home services - HVAC | industry benchmark: Home & Home Improvement

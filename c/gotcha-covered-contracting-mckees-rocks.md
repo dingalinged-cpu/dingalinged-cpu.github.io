@@ -13,7 +13,7 @@ Gotcha Covered Contracting is a roofer in McKees Rocks, PA at 6112 Steubenville 
 - Website: https://www.gccroofers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa-Su off
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 40% of roofers in Pittsburgh, PA, #1 of 1 roofers in McKees Rocks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Unrated (not enough evidence yet) — top 100% of roofers in Pittsburgh, PA, #1 of 1 roofers in McKees Rocks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

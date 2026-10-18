@@ -13,7 +13,7 @@ Balena Bagels is a bakery in Pittsburgh, PA at 3805 Willow Avenue, Pittsburgh, P
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): We-Su 07:00-14:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 25% of bakerys in Pittsburgh, PA, #13 of 33 bakerys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 27% of bakerys in Pittsburgh, PA, #14 of 33 bakerys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

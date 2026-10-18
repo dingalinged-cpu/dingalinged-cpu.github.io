@@ -13,7 +13,7 @@ No Leash Needed is a dog boarding facility in Saint Louis, MO at 2649 Hampton Av
 - Website: https://www.noleashneeded.com/locations/st-louis-city
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00, Sa-Su 09:00-16:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 25% of dog boarding facilitys in St. Louis, MO, #1 of 3 dog boarding facilitys in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 25% of dog boarding facilitys in St. Louis, MO, #1 of 3 dog boarding facilitys in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

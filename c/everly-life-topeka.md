@@ -13,7 +13,7 @@ Everly Life is an insurance agent in Topeka, KS at 1 SW Security Benefit Place, 
 - Website: https://www.everlylife.com/
 - Email: support@everlylife.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.3/100 — Good — top 9% of insurance agents in Topeka, KS, #1 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 9% of insurance agents in Topeka, KS, #1 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: storage units in Collinsville, IL; storage units near me (Collinsv
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Storage Rentals of America | Organic #1 | Pulse Score 49/100 (Building, #1 in city) | Storage Rentals of America is a self-storage facility in Collinsville, IL. Phone: +18004575678. Website: https://www.sroa.com/. | https://registry-edge.dingalinged.workers.dev/c/storage-rentals-of-america-collinsville/
+1. Storage Rentals of America | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | Storage Rentals of America is a self-storage facility in Collinsville, IL. Phone: +18004575678. Website: https://www.sroa.com/. | https://registry-edge.dingalinged.workers.dev/c/storage-rentals-of-america-collinsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units collinsville il | category: Home services - Moving | industry benchmark: Home & Home Improvement

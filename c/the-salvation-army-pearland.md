@@ -1,0 +1,24 @@
+The Salvation Army is a thrift store in Pearland, TX.
+
+# The Salvation Army
+
+- Category: thrift store
+- Services: thrift store
+- Address: Pearland, TX
+- City: Pearland
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.5594914, -95.2739087
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 07:00-19:00
+- Pulse Score: 45.4/100 — Building — top 63% of thrift stores in Houston, #3 of 3 thrift stores in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-pearland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-salvation-army-pearland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14262200533 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

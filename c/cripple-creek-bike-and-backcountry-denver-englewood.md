@@ -13,7 +13,7 @@ Cripple Creek Bike and Backcountry - Denver is a bike shop in Englewood, CO at 2
 - Website: https://cripplecreekbc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 11:00-18:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 9% of bike shops in Denver, CO, #1 of 1 bike shops in Englewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 9% of bike shops in Denver, CO, #1 of 1 bike shops in Englewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

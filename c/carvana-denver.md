@@ -13,7 +13,7 @@ Carvana is an used car dealer in Denver, CO at 4700 East Evans Avenue, Denver, C
 - Website: https://www.carvana.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Unrated (not enough evidence yet) — top 82% of used car dealers in Denver, CO, #4 of 4 used car dealers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Unrated (not enough evidence yet) — top 82% of used car dealers in Denver, CO, #4 of 4 used car dealers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

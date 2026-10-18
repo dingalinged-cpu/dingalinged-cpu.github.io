@@ -13,7 +13,7 @@ Occupational Care Services LLC is a family medicine practice in Livonia, MI at 2
 - Website: https://www.occupationalcareservices.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 93% of family medicine practices in Detroit, MI, #1 of 1 family medicine practices in Livonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.1, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 93% of family medicine practices in Detroit, MI, #1 of 1 family medicine practices in Livonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.2, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

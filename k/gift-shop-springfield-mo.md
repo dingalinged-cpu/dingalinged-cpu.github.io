@@ -6,9 +6,9 @@ Also answers: gift shop in Springfield, MO; gift shop near me (Springfield, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Springfield Mercantile Co. | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Springfield Mercantile Co. is a gift shop in Springfield, MO at 326 East Commercial Street, Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/springfield-mercantile-co-springfield/
-2. Patricia's | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Patricia's is a gift shop in Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/patricias-springfield/
-3. Edible Arrangements | Organic #3 | Pulse Score 47.5/100 (Building, #3 in city) | Edible Arrangements is a gift shop in Springfield, MO at 1336 East Battlefield Road, Springfield, MO 65804. | https://registry-edge.dingalinged.workers.dev/c/edible-arrangements-springfield/
+1. Springfield Mercantile Co. | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Springfield Mercantile Co. is a gift shop in Springfield, MO at 326 East Commercial Street, Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/springfield-mercantile-co-springfield/
+2. Patricia's | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Patricia's is a gift shop in Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/patricias-springfield/
+3. Edible Arrangements | Organic #3 | Pulse Score 47.6/100 (Building, #3 in city) | Edible Arrangements is a gift shop in Springfield, MO at 1336 East Battlefield Road, Springfield, MO 65804. | https://registry-edge.dingalinged.workers.dev/c/edible-arrangements-springfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop springfield mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

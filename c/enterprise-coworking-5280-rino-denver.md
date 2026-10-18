@@ -13,7 +13,7 @@ Enterprise Coworking 5280, RiNo is a coworking space in Denver, CO at 3000 Lawre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 23% of coworking spaces in Denver, CO, #5 of 18 coworking spaces in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 23% of coworking spaces in Denver, CO, #5 of 18 coworking spaces in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Grove City, OH at 1751 Stringtown Road, Gro
 - Website: https://www.mattressfirm.com/en-us/stores/oh/grove-city/037010/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.9/100 — Building — top 39% of mattress stores in Columbus, OH, #1 of 2 mattress stores in Grove City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 39% of mattress stores in Columbus, OH, #1 of 2 mattress stores in Grove City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

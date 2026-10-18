@@ -13,7 +13,7 @@ ARC Physical Therapy is a physical therapy clinic in Topeka, KS at 3009 Southwes
 - Website: https://arcpt.com/clinics/topeka-ks
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We 07:00-17:00; Tu, Th-Fr 08:00-17:00
-- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 34% of physical therapy clinics in Topeka, KS, #1 of 3 physical therapy clinics in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 34% of physical therapy clinics in Topeka, KS, #1 of 3 physical therapy clinics in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

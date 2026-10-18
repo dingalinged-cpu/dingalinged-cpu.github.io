@@ -6,7 +6,7 @@ Also answers: locksmith in Southgate, MI; locksmith near me (Southgate, MI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Lock & Key | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | American Lock & Key is a locksmith in Southgate, MI at 14366 Eureka Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/american-lock-and-key-southgate/
+1. American Lock & Key | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | American Lock & Key is a locksmith in Southgate, MI at 14366 Eureka Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/american-lock-and-key-southgate/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith southgate mi | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

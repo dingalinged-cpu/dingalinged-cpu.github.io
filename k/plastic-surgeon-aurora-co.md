@@ -6,7 +6,7 @@ Also answers: plastic surgeon in Aurora, CO; plastic surgeon near me (Aurora, CO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Always Beautiful Medical Aesthetics & Cosmetics | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Always Beautiful Medical Aesthetics & Cosmetics is a plastic surgeon in Aurora, CO at 6240 South Main Street #225, Aurora, CO 80016. | https://registry-edge.dingalinged.workers.dev/c/always-beautiful-medical-aesthetics-and-cosmetics-aurora/
+1. Always Beautiful Medical Aesthetics & Cosmetics | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Always Beautiful Medical Aesthetics & Cosmetics is a plastic surgeon in Aurora, CO at 6240 South Main Street #225, Aurora, CO 80016. | https://registry-edge.dingalinged.workers.dev/c/always-beautiful-medical-aesthetics-and-cosmetics-aurora/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon aurora co | category: Health & medical | industry benchmark: Physicians & Surgeons

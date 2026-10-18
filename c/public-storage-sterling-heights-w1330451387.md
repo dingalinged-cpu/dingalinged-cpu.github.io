@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Sterling Heights, MI at 36260 Van D
 - Website: https://www.publicstorage.com/self-storage-mi-sterling-heights/1764.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.7/100 — Building — top 57% of self-storage facilitys in Detroit, MI, #5 of 6 self-storage facilitys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 56% of self-storage facilitys in Detroit, MI, #5 of 6 self-storage facilitys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

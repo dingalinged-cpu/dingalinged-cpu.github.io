@@ -13,7 +13,7 @@ Queen Bee Salon is a hair salon in Garden City, KS at 111 East Laurel Street, Ga
 - Website: n/a
 - Email: queenbeegc111@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 25% of hair salons in Garden City, KS, #1 of 4 hair salons in Garden City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 25% of hair salons in Garden City, KS, #1 of 4 hair salons in Garden City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: staffing agency in Reynoldsburg, OH; staffing agency near me (Reyn
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sterling Staffing Services Inc. | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Sterling Staffing Services Inc. is a staffing agency in Reynoldsburg, OH at 6420 East Main Street, Reynoldsburg, OH 43068. Phone: +16144525998. Website: https://sterlingcols.com/. | https://registry-edge.dingalinged.workers.dev/c/sterling-staffing-services-inc-reynoldsburg/
+1. Sterling Staffing Services Inc. | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Sterling Staffing Services Inc. is a staffing agency in Reynoldsburg, OH at 6420 East Main Street, Reynoldsburg, OH 43068. Phone: +16144525998. Website: https://sterlingcols.com/. | https://registry-edge.dingalinged.workers.dev/c/sterling-staffing-services-inc-reynoldsburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency reynoldsburg oh | category: b2b_services | industry benchmark: Business Services

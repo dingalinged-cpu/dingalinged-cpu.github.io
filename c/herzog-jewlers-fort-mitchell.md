@@ -13,7 +13,7 @@ Herzog Jewlers is a jewelry store in Fort Mitchell, KY at 2501 Dixie Highway, Fo
 - Website: https://www.herzogjewelers.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 18% of jewelry stores in Cincinnati, OH, #1 of 2 jewelry stores in Fort Mitchell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 18% of jewelry stores in Cincinnati, OH, #1 of 2 jewelry stores in Fort Mitchell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

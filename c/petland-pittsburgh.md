@@ -13,7 +13,7 @@ Petland is a pet store in Pittsburgh, PA at 1530 Park Manor Boulevard, Pittsburg
 - Website: https://www.petlandrobinson.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 11:00-20:00; Fr,Sa 11:00-21:00; Su 11:00-18:00
-- Pulse Score: 48/100 — Building — top 67% of pet stores in Pittsburgh, PA, #12 of 15 pet stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 67% of pet stores in Pittsburgh, PA, #12 of 15 pet stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

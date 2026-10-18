@@ -13,7 +13,7 @@ Rocky Mountain Assisted Living and Memory Care is an assisted living facility in
 - Website: https://rockymountainassistedliving.com/tour-our-locations/assisted-living-centennial-euclid/
 - Email: info@rockymountainassistedliving.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 100% of assisted living facilitys in Denver, CO, #3 of 3 assisted living facilitys in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 100% of assisted living facilitys in Denver, CO, #3 of 3 assisted living facilitys in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

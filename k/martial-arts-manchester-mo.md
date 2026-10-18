@@ -6,7 +6,7 @@ Also answers: martial arts in Manchester, MO; martial arts near me (Manchester, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Park's Martial Arts Academy | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Park's Martial Arts Academy is a martial arts school in Manchester, MO at 677 Big Bend Road, Manchester, MO 63021. Website: https://parksma.net/. | https://registry-edge.dingalinged.workers.dev/c/parks-martial-arts-academy-manchester/
+1. Park's Martial Arts Academy | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Park's Martial Arts Academy is a martial arts school in Manchester, MO at 677 Big Bend Road, Manchester, MO 63021. Website: https://parksma.net/. | https://registry-edge.dingalinged.workers.dev/c/parks-martial-arts-academy-manchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts manchester mo | category: Fitness | industry benchmark: Health & Fitness

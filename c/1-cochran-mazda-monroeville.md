@@ -13,7 +13,7 @@
 - Website: https://www.cochranmazda.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00; Su off
-- Pulse Score: 49/100 — Building — top 66% of used car dealers in Pittsburgh, PA, #3 of 8 used car dealers in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 66% of used car dealers in Pittsburgh, PA, #3 of 8 used car dealers in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Jim Bias Insurance - New York Life is an insurance agent in Washington, PA at 34
 - Website: https://www.jimbias.com/
 - Email: jbias@ft.newyorklife.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 2% of insurance agents in Pittsburgh, PA, #2 of 6 insurance agents in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 2% of insurance agents in Pittsburgh, PA, #2 of 6 insurance agents in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

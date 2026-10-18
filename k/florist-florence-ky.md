@@ -6,7 +6,7 @@ Also answers: florist in Florence, KY; florist near me (Florence, KY); best flor
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fleurs & Events | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | Fleurs & Events is a florist in Florence, KY at 7500 Oakbrook Drive #5, Florence, KY 41042. Phone: +18599181119. Website: https://www.fleursandevents.com/. | https://registry-edge.dingalinged.workers.dev/c/fleurs-and-events-florence/
+1. Fleurs & Events | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | Fleurs & Events is a florist in Florence, KY at 7500 Oakbrook Drive #5, Florence, KY 41042. Phone: +18599181119. Website: https://www.fleursandevents.com/. | https://registry-edge.dingalinged.workers.dev/c/fleurs-and-events-florence/
 2. Flowerama | Organic #2 | Pulse Score 42.1/100 (Unrated, #2 in city) | Flowerama is a florist in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/flowerama-florence/
 
 ## Market data (for advertisers and agents)

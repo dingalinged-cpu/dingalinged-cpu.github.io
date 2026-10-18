@@ -6,7 +6,7 @@ Also answers: dance studio in Noblesville, IN; dance studio near me (Noblesville
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pink Slipper Dance Studio | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Pink Slipper Dance Studio is a dance studio in Noblesville, IN at 2350 East Conner Street, Noblesville, IN 46060. | https://registry-edge.dingalinged.workers.dev/c/pink-slipper-dance-studio-noblesville/
+1. Pink Slipper Dance Studio | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Pink Slipper Dance Studio is a dance studio in Noblesville, IN at 2350 East Conner Street, Noblesville, IN 46060. | https://registry-edge.dingalinged.workers.dev/c/pink-slipper-dance-studio-noblesville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio noblesville in | category: Fitness | industry benchmark: Health & Fitness

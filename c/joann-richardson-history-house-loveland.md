@@ -13,7 +13,7 @@ JoAnn Richardson History House is an event venue in Loveland, OH at 410 Riversid
 - Website: https://www.lovelandmuseum.org/HistoryHouse.asp
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 97% of event venues in Cincinnati, OH, #3 of 3 event venues in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.5, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 97% of event venues in Cincinnati, OH, #3 of 3 event venues in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.5, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

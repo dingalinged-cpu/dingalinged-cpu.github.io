@@ -13,7 +13,7 @@ Cap City Tattoo Co. is a tattoo shop in Columbus, OH at 80 Parsons Avenue, Colum
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Th-Su 13:00-18:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 26% of tattoo shops in Columbus, OH, #6 of 16 tattoo shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 26% of tattoo shops in Columbus, OH, #6 of 16 tattoo shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Darn Good Flooring is a flooring company in Boulder, CO at 640 South 42nd Street
 - Website: https://www.darngoodflooring.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00, Sa 09:00-17:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 12% of flooring companys in Denver, CO, #1 of 2 flooring companys in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 12% of flooring companys in Denver, CO, #1 of 2 flooring companys in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

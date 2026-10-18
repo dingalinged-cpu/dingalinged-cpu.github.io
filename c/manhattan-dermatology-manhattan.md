@@ -13,7 +13,7 @@ Manhattan Dermatology is a dermatologist in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-12:00,13:00-16:00
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 100% of dermatologists in Manhattan, KS, #1 of 1 dermatologists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 100% of dermatologists in Manhattan, KS, #1 of 1 dermatologists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Creative Smiles at Winghaven is a dentist in O’Fallon, MO at 3011 Winghaven Bo
 - Website: https://creativesmileswinghaven.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-17:00; Fr 08:00-14:00; We-Th 07:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 43% of dentists in O'Fallon, MO, #3 of 4 dentists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 43% of dentists in O'Fallon, MO, #3 of 4 dentists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

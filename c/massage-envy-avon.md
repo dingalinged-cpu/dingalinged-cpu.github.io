@@ -13,7 +13,7 @@ Massage Envy is a massage studio in Avon, IN at 10960 Rockville Road, Avon, IN. 
 - Website: https://locations.massageenvy.com/indiana/avon/10960-e-us-hwy-36.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 88% of massage studios in Indianapolis, IN, #1 of 1 massage studios in Avon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 88% of massage studios in Indianapolis, IN, #1 of 1 massage studios in Avon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

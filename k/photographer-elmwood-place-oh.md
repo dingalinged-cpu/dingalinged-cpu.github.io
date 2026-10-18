@@ -6,7 +6,7 @@ Also answers: photographer in Elmwood Place, OH; photographer near me (Elmwood P
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elevel:11 Photography | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Elevel:11 Photography is a photographer in Elmwood Place, OH. Phone: +15137399399. | https://registry-edge.dingalinged.workers.dev/c/elevel-11-photography-elmwood-place/
+1. Elevel:11 Photography | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Elevel:11 Photography is a photographer in Elmwood Place, OH. Phone: +15137399399. | https://registry-edge.dingalinged.workers.dev/c/elevel-11-photography-elmwood-place/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer elmwood place oh | category: Events & weddings | industry benchmark: Personal Services

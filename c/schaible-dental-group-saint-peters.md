@@ -13,7 +13,7 @@ Schaible Dental Group is a dentist in Saint Peters, MO at 340 Mid Rivers Mall Dr
 - Website: https://www.schaibledentalgroup.com/
 - Email: timothyschaible@sbcglobal.net
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Tu,We 07:00-15:30; Fr-Su off
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of dentists in St. Peters, MO, #1 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of dentists in St. Peters, MO, #1 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

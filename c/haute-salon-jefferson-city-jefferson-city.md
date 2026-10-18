@@ -13,7 +13,7 @@ HAUTE SALON JEFFERSON CITY is a hair salon in Jefferson City, MO. Phone: +157363
 - Website: https://www.hautesalonjc.com/
 - Email: haute_salon@yahoo.com
 - Opening hours (OSM syntax): Tu-Fr 11:00-20:00; Sa 09:00-15:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 40% of hair salons in Jefferson City, MO, #2 of 5 hair salons in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 40% of hair salons in Jefferson City, MO, #2 of 5 hair salons in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

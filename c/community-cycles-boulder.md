@@ -13,7 +13,7 @@ Community Cycles is a bike shop in Boulder, CO. Website: https://communitycycles
 - Website: https://communitycycles.org/
 - Email: n/a
 - Opening hours (OSM syntax): Th-Su 11:00-18:00
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 59% of bike shops in Denver, CO, #14 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 59% of bike shops in Denver, CO, #14 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

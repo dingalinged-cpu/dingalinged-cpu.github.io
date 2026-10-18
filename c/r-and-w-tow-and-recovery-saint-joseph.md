@@ -13,7 +13,7 @@ R & W Tow & Recovery is an auto repair shop in Saint Joseph, MO at 1214 S 9th St
 - Website: https://rwtow.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-10:00
-- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 10% of auto repair shops in St. Joseph, MO, #1 of 11 auto repair shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 10% of auto repair shops in St. Joseph, MO, #1 of 11 auto repair shops in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Paris, TX",
+ "description": "Top Paris, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Paris, TX",
+ "geography": null,
+ "keywords": 24,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "plumbing services paris tx",
+    "slug": "plumbing-services-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-paris-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 13.9,
+    "cpc_median_usd": 10.49,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "plumber paris tx",
+    "slug": "plumber-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-paris-tx/",
+    "us_monthly_searches": 823000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.04,
+    "cpc_median_usd": 10.49,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "plumbers paris tx",
+    "slug": "plumbers-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-paris-tx/",
+    "us_monthly_searches": 3600,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "audiologist paris tx",
+    "slug": "audiologist-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/audiologist-paris-tx/",
+    "us_monthly_searches": 33000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "eye doctor paris tx",
+    "slug": "eye-doctor-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-paris-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dentist paris tx",
+    "slug": "dentist-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-paris-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.7,
+    "cpc_median_usd": 8.0,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "auto repair paris tx",
+    "slug": "auto-repair-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-paris-tx/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 5,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "car wash paris tx",
+    "slug": "car-wash-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-paris-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "mechanic paris tx",
+    "slug": "mechanic-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-paris-tx/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 5,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tire shop paris tx",
+    "slug": "tire-shop-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-paris-tx/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "furniture store paris tx",
+    "slug": "furniture-store-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-paris-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 5,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "gift shop paris tx",
+    "slug": "gift-shop-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-paris-tx/",
+    "us_monthly_searches": 18000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "jewelry store paris tx",
+    "slug": "jewelry-store-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-paris-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "pet store paris tx",
+    "slug": "pet-store-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-paris-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "thrift store paris tx",
+    "slug": "thrift-store-paris-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-paris-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

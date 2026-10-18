@@ -13,7 +13,7 @@ Pawsh Wash is a dog groomer in Lawrence, KS at 1520 Wakarusa Drive #C, Lawrence,
 - Website: https://www.pawshwash.net/
 - Email: pawshstaff@gmail.com
 - Opening hours (OSM syntax): Mo-Su 09:00-19:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 34% of dog groomers in Lawrence, KS, #1 of 3 dog groomers in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 34% of dog groomers in Lawrence, KS, #1 of 3 dog groomers in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

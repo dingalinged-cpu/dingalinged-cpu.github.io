@@ -13,7 +13,7 @@ Jerad Anthony Salon | Spa is a tanning salon in Wyandotte, MI at 2959 Biddle Ave
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 97% of tanning salons in Detroit, MI, #4 of 4 tanning salons in Wyandotte (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 97% of tanning salons in Detroit, MI, #4 of 4 tanning salons in Wyandotte (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

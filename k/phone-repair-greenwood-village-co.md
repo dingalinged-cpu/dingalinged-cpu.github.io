@@ -6,7 +6,7 @@ Also answers: phone repair in Greenwood Village, CO; phone repair near me (Green
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. uBreakiFix | Organic #1 | Pulse Score 50.5/100 (Fair, #1 in city) | uBreakiFix is a phone repair shop in Greenwood Village, CO at 5910 South University Boulevard #A5, Greenwood Village, CO 80121. Phone: +13037368403. Website: https://www.ubreakifix.com/locations/southglenn. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-greenwood-village/
+1. uBreakiFix | Organic #1 | Pulse Score 50.4/100 (Fair, #1 in city) | uBreakiFix is a phone repair shop in Greenwood Village, CO at 5910 South University Boulevard #A5, Greenwood Village, CO 80121. Phone: +13037368403. Website: https://www.ubreakifix.com/locations/southglenn. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-greenwood-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair greenwood village co | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

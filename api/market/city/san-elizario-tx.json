@@ -1,0 +1,140 @@
+{
+ "title": "Keyword market data: San Elizario, TX",
+ "description": "Top San Elizario, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "San Elizario, TX",
+ "geography": "El Paso, TX metro",
+ "keywords": 4,
+ "lists": {
+  "by_volume": [
+   {
+    "keyword": "hair salon san elizario tx",
+    "slug": "hair-salon-san-elizario-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-san-elizario-tx/",
+    "us_monthly_searches": 1500000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 3900,
+    "cpc_basis_usd": 0.55,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 2100,
+    "equivalent_google_ads_cost_month_usd": 120,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "haircut san elizario tx",
+    "slug": "haircut-san-elizario-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-san-elizario-tx/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 950,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 4400,
+    "equivalent_google_ads_cost_month_usd": 250,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_volume"
+   }
+  ],
+  "by_cpc": [
+   {
+    "keyword": "bakery san elizario tx",
+    "slug": "bakery-san-elizario-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-san-elizario-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 570,
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "search_value_index_usd": 4100,
+    "equivalent_google_ads_cost_month_usd": 310,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "event venues san elizario tx",
+    "slug": "event-venues-san-elizario-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-san-elizario-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 570,
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "search_value_index_usd": 4100,
+    "equivalent_google_ads_cost_month_usd": 310,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "haircut san elizario tx",
+    "slug": "haircut-san-elizario-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-san-elizario-tx/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 950,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 4400,
+    "equivalent_google_ads_cost_month_usd": 250,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "hair salon san elizario tx",
+    "slug": "hair-salon-san-elizario-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-san-elizario-tx/",
+    "us_monthly_searches": 1500000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 3900,
+    "cpc_basis_usd": 0.55,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 2100,
+    "equivalent_google_ads_cost_month_usd": 120,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": [
+   {
+    "keyword": "haircut san elizario tx",
+    "slug": "haircut-san-elizario-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-san-elizario-tx/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 950,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 4400,
+    "equivalent_google_ads_cost_month_usd": 250,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "hair salon san elizario tx",
+    "slug": "hair-salon-san-elizario-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-san-elizario-tx/",
+    "us_monthly_searches": 1500000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 3900,
+    "cpc_basis_usd": 0.55,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 2100,
+    "equivalent_google_ads_cost_month_usd": 120,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_value"
+   }
+  ]
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

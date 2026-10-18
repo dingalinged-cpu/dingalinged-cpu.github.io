@@ -13,7 +13,7 @@ Crash Champions Collision Repair Castle Rock is an auto repair shop in Castle Ro
 - Website: https://crashchampions.com/locations/crash-champions-castle-rock
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 09:00-12:00
-- Pulse Score: 49.1/100 — Building — top 70% of auto repair shops in Denver, CO, #18 of 25 auto repair shops in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 69% of auto repair shops in Denver, CO, #18 of 25 auto repair shops in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

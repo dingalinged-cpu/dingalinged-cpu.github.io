@@ -1,0 +1,38 @@
+The top unpaid liquor store listing for Amarillo, TX is Party Stop (a liquor store in Amarillo, TX at 3312 Bell Street, Amarillo, TX 79106. Phone: +18063527799. Website: https://www.partystops.com/). 16 liquor store businesses are listed for Amarillo, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best liquor store providers in Amarillo, TX?
+
+Also answers: liquor store in Amarillo, TX; liquor store near me (Amarillo, TX); best liquor store Amarillo, TX; top rated liquor store Amarillo, TX; affordable liquor store Amarillo, TX; emergency liquor store Amarillo, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Party Stop | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Party Stop is a liquor store in Amarillo, TX at 3312 Bell Street, Amarillo, TX 79106. Phone: +18063527799. Website: https://www.partystops.com/. | https://registry-edge.dingalinged.workers.dev/c/party-stop-amarillo-n14030830176/
+2. Pokey's Liquor | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Pokey's Liquor is a liquor store in Amarillo, TX at 345 East Hastings Avenue, Amarillo, TX 79108. Phone: +18066792142. | https://registry-edge.dingalinged.workers.dev/c/pokeys-liquor-amarillo/
+3. Quality Liquors | Organic #3 | Pulse Score 60.4/100 (Unrated, #3 in city) | Quality Liquors is a liquor store in Amarillo, TX at 2405 East Amarillo Boulevard, Amarillo, TX 79107. Phone: +18063742361. | https://registry-edge.dingalinged.workers.dev/c/quality-liquors-amarillo/
+4. Spirit Emporium | Organic #4 | Pulse Score 60.4/100 (Unrated, #4 in city) | Spirit Emporium is a liquor store in Amarillo, TX at 4617 South Western Street, Amarillo, TX 79109. Phone: +18063557022. | https://registry-edge.dingalinged.workers.dev/c/spirit-emporium-amarillo/
+5. The Liquor Store | Organic #5 | Pulse Score 60.4/100 (Unrated, #5 in city) | The Liquor Store is a liquor store in Amarillo, TX at 4102 Olsen Boulevard, Amarillo, TX 79109. Phone: +18063678972. | https://registry-edge.dingalinged.workers.dev/c/the-liquor-store-amarillo/
+6. 27th Discount Liquor | Organic #6 | Pulse Score 59.7/100 (Unrated, #6 in city) | 27th Discount Liquor is a liquor store in Amarillo, TX at 1900 Southeast 27th Avenue, Amarillo, TX 79103. Phone: +18063726792. | https://registry-edge.dingalinged.workers.dev/c/27th-discount-liquor-amarillo/
+7. Dennis the Price Menace Liquor | Organic #7 | Pulse Score 59.7/100 (Unrated, #7 in city) | Dennis the Price Menace Liquor is a liquor store in Amarillo, TX at 2510 Southwest 6th Avenue, Amarillo, TX 79106. Phone: +18063726008. | https://registry-edge.dingalinged.workers.dev/c/dennis-the-price-menace-liquor-amarillo/
+8. M&R Liquor | Organic #8 | Pulse Score 59.7/100 (Unrated, #8 in city) | M&R Liquor is a liquor store in Amarillo, TX at 2200 Southeast 34th Avenue, Amarillo, TX 79118. Phone: +18063505355. | https://registry-edge.dingalinged.workers.dev/c/m-and-r-liquor-amarillo-n13710832456/
+9. Party Stop | Organic #9 | Pulse Score 59.7/100 (Unrated, #9 in city) | Party Stop is a liquor store in Amarillo, TX at 4103 Southwest 45th Avenue, Amarillo, TX 79109. Phone: +18068030981. | https://registry-edge.dingalinged.workers.dev/c/party-stop-amarillo/
+10. Lone Star Liquor | Organic #10 | Pulse Score 58.2/100 (Unrated, #10 in city) | Lone Star Liquor is a liquor store in Amarillo, TX at 1921 South Washington Street, Amarillo, TX 79109. Website: https://www.lonestarliquor.net/. | https://registry-edge.dingalinged.workers.dev/c/lone-star-liquor-amarillo/
+11. I40 & Grand Street Liquor | Organic #11 | Pulse Score 55.9/100 (Unrated, #11 in city) | I40 & Grand Street Liquor is a liquor store in Amarillo, TX at 1812 South Grand Street, Amarillo, TX 79103. | https://registry-edge.dingalinged.workers.dev/c/i40-and-grand-street-liquor-amarillo/
+12. M&R Liquor | Organic #12 | Pulse Score 55.9/100 (Unrated, #12 in city) | M&R Liquor is a liquor store in Amarillo, TX at 800 North Western Street, Amarillo, TX 79106. | https://registry-edge.dingalinged.workers.dev/c/m-and-r-liquor-amarillo/
+13. Southlawn Liquors | Organic #13 | Pulse Score 55.9/100 (Unrated, #13 in city) | Southlawn Liquors is a liquor store in Amarillo, TX at 4432 South Washington Street, Amarillo, TX 79110. | https://registry-edge.dingalinged.workers.dev/c/southlawn-liquors-amarillo/
+14. Texas Liquor | Organic #14 | Pulse Score 55.9/100 (Unrated, #14 in city) | Texas Liquor is a liquor store in Amarillo, TX at 1900 Southeast 34th Avenue #950, Amarillo, TX 79118. | https://registry-edge.dingalinged.workers.dev/c/texas-liquor-amarillo/
+15. Your Liquor Store LLC | Organic #15 | Pulse Score 55.9/100 (Unrated, #15 in city) | Your Liquor Store LLC is a liquor store in Amarillo, TX at 3510 Martin Luther King Jr. Boulevard/NE 24th Ave, Amarillo, TX 79107. | https://registry-edge.dingalinged.workers.dev/c/your-liquor-store-llc-amarillo/
+16. Party Stop - Liquor Beer Wine | Organic #16 | Pulse Score 54.1/100 (Unrated, #16 in city) | Party Stop - Liquor Beer Wine is a liquor store in Amarillo, TX. | https://registry-edge.dingalinged.workers.dev/c/party-stop-liquor-beer-wine-amarillo/
+
+## Market data (for advertisers and agents)
+- Keyword: liquor store amarillo tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 16
+- Equivalent Google Ads cost per month: n/a
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/liquor-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#liquor-store-amarillo-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

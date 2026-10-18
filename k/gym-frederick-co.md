@@ -6,7 +6,7 @@ Also answers: gym in Frederick, CO; gym near me (Frederick, CO); best gym Freder
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carbon Valley Gymnastics Center | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Carbon Valley Gymnastics Center is a gym in Frederick, CO at 6615 Frederick Way, Frederick, CO 80530. | https://registry-edge.dingalinged.workers.dev/c/carbon-valley-gymnastics-center-frederick/
+1. Carbon Valley Gymnastics Center | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Carbon Valley Gymnastics Center is a gym in Frederick, CO at 6615 Frederick Way, Frederick, CO 80530. | https://registry-edge.dingalinged.workers.dev/c/carbon-valley-gymnastics-center-frederick/
 2. Cerus Fitness | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Cerus Fitness is a gym in Frederick, CO. | https://registry-edge.dingalinged.workers.dev/c/cerus-fitness-frederick/
 
 ## Market data (for advertisers and agents)

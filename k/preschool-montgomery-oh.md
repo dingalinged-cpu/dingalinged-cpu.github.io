@@ -7,7 +7,7 @@ Also answers: preschool in Montgomery, OH; preschool near me (Montgomery, OH); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Country Hills Montessori | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Country Hills Montessori is a preschool in Montgomery, OH at 10778 Montgomery Road, Montgomery, OH 45242. Website: https://www.chmschools.com/. | https://registry-edge.dingalinged.workers.dev/c/country-hills-montessori-montgomery/
-2. All About Kids | Organic #2 | Pulse Score 48/100 (Unrated, #8 in city) | All About Kids is a preschool in Cincinnati, OH at 11210 Montgomery Road, Cincinnati, OH 45249. Website: https://www.allaboutkidslc.com/montgomery/. | https://registry-edge.dingalinged.workers.dev/c/all-about-kids-cincinnati/
+2. All About Kids | Organic #2 | Pulse Score 47.9/100 (Unrated, #8 in city) | All About Kids is a preschool in Cincinnati, OH at 11210 Montgomery Road, Cincinnati, OH 45249. Website: https://www.allaboutkidslc.com/montgomery/. | https://registry-edge.dingalinged.workers.dev/c/all-about-kids-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool montgomery oh | category: Education & childcare | industry benchmark: Education & Instruction

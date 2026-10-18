@@ -13,7 +13,7 @@ The Turner Center is an OB-GYN practice in Springfield, MO at 1000 East Primrose
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 100% of OB-GYN practices in Springfield, MO, #1 of 1 OB-GYN practices in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 100% of OB-GYN practices in Springfield, MO, #1 of 1 OB-GYN practices in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

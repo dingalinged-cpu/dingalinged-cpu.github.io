@@ -13,7 +13,7 @@ Comfort Dental is a dentist in Aurora, CO at 18680 East Iliff Avenue #A-B, Auror
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-19:30; Sa 07:30-13:30
-- Pulse Score: 47.7/100 — Building — top 90% of dentists in Denver, CO, #68 of 75 dentists in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 89% of dentists in Denver, CO, #65 of 75 dentists in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

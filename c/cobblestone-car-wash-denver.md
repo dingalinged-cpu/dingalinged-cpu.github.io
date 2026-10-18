@@ -13,7 +13,7 @@ Cobblestone Car Wash is a car wash in Denver, CO at 6565 East Evans Avenue, Denv
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Unrated (not enough evidence yet) — top 75% of car washes in Denver, CO, #31 of 36 car washes in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Unrated (not enough evidence yet) — top 73% of car washes in Denver, CO, #29 of 36 car washes in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

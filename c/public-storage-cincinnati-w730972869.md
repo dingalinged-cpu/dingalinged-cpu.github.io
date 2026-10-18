@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Cincinnati, OH at 4639 Eastgate Bou
 - Website: https://www.publicstorage.com/self-storage-oh-cincinnati/5634.html?pspid=pslocalsearch
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.9/100 — Fair — top 50% of self-storage facilitys in Cincinnati, OH, #13 of 20 self-storage facilitys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 67.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.9/100 — Fair — top 47% of self-storage facilitys in Cincinnati, OH, #12 of 20 self-storage facilitys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

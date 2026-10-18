@@ -13,7 +13,7 @@ Forward Health is a therapy practice in Columbus, OH at 200 East Rich Street, Co
 - Website: https://forwardhealthohio.com/
 - Email: info@forwardhealthohio.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of therapy practices in Columbus, OH, #3 of 11 therapy practices in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of therapy practices in Columbus, OH, #3 of 11 therapy practices in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

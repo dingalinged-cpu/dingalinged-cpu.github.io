@@ -13,7 +13,7 @@ Boulder Valley Center for Dermatology is a dermatologist in Lafayette, CO at 114
 - Website: https://www.bvderm.com/
 - Email: info@bvderm.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 12% of dermatologists in Denver, CO, #1 of 2 dermatologists in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 12% of dermatologists in Denver, CO, #1 of 2 dermatologists in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

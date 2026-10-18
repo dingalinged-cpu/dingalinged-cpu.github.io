@@ -13,7 +13,7 @@ Kennedy's Barber Club is a barber shop in West Chester Township, OH at 9332 Unio
 - Website: https://www.kennedysbarberclubohio.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-17:00; Tu-Th 10:00-19:00; Fr 10:00-18:00; Sa 09:00-17:00; Su off
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 54% of barber shops in Cincinnati, OH, #1 of 1 barber shops in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 47% of barber shops in Cincinnati, OH, #1 of 1 barber shops in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

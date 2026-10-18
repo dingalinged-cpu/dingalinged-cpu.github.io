@@ -13,7 +13,7 @@ Affordable Dental of Illinois is a dentist in Dupo, IL at 195 South Main Street,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 37% of dentists in St. Louis, MO, #1 of 1 dentists in Dupo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 37% of dentists in St. Louis, MO, #1 of 1 dentists in Dupo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

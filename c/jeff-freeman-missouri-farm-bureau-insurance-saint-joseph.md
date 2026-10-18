@@ -13,7 +13,7 @@ Jeff Freeman - Missouri Farm Bureau Insurance is an insurance agent in Saint Jos
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.4/100 — Building — top 67% of insurance agents in St. Joseph, MO, #6 of 9 insurance agents in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 67% of insurance agents in St. Joseph, MO, #6 of 9 insurance agents in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

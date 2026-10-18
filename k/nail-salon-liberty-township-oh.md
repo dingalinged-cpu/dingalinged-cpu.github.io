@@ -6,7 +6,7 @@ Also answers: nail salon in Liberty Township, OH; nail salon near me (Liberty To
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Unique Nails | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Unique Nails is a nail salon in Liberty Township, OH at 5440 Liberty Square Drive, Liberty Township, OH 45011. Phone: +15138953941. Website: https://uniquenailinfo.com/. | https://registry-edge.dingalinged.workers.dev/c/unique-nails-liberty-township/
+1. Unique Nails | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Unique Nails is a nail salon in Liberty Township, OH at 5440 Liberty Square Drive, Liberty Township, OH 45011. Phone: +15138953941. Website: https://uniquenailinfo.com/. | https://registry-edge.dingalinged.workers.dev/c/unique-nails-liberty-township/
 2. Caravelle Nail Spa | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Caravelle Nail Spa is a nail salon in Liberty Township, OH. | https://registry-edge.dingalinged.workers.dev/c/caravelle-nail-spa-liberty-township/
 3. Envi Nail & Spa | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Envi Nail & Spa is a nail salon in Liberty Township, OH. | https://registry-edge.dingalinged.workers.dev/c/envi-nail-and-spa-liberty-township/
 4. Luxor Nails and Spa | Organic #4 | Pulse Score 55.9/100 (Unrated, #4 in city) | Luxor Nails and Spa is a nail salon in Liberty Township, OH. | https://registry-edge.dingalinged.workers.dev/c/luxor-nails-and-spa-liberty-township/

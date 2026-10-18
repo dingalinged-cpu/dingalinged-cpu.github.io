@@ -6,7 +6,7 @@ Also answers: gift shop in Jefferson County, CO; gift shop near me (Jefferson Co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pine Emporium | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Pine Emporium is a gift shop in Jefferson County, CO at 16714 Pine Valley Road, Jefferson County, CO 80470. | https://registry-edge.dingalinged.workers.dev/c/pine-emporium-jefferson-county/
+1. Pine Emporium | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Pine Emporium is a gift shop in Jefferson County, CO at 16714 Pine Valley Road, Jefferson County, CO 80470. | https://registry-edge.dingalinged.workers.dev/c/pine-emporium-jefferson-county/
 2. Seasonally Yours | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Seasonally Yours is a gift shop in Jefferson County, CO at 28135 Bear Creek Road, Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/seasonally-yours-jefferson-county/
 3. The Green Merchant | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | The Green Merchant is a gift shop in Jefferson County, CO at 28235 Bear Creek Road, Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/the-green-merchant-jefferson-county/
 4. Cindy's Gifts | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Cindy's Gifts is a gift shop in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/cindys-gifts-jefferson-county/

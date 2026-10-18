@@ -13,7 +13,7 @@ Orange Twist is a skin care studio in Centennial, CO at 9623 East County Line Ro
 - Website: https://orangetwist.com/center/centennial/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 08:00-17:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 28% of skin care studios in Denver, CO, #1 of 1 skin care studios in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 28% of skin care studios in Denver, CO, #1 of 1 skin care studios in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

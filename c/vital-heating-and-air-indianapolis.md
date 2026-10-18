@@ -13,7 +13,7 @@ Vital Heating & Air is a HVAC contractor in Indianapolis, IN at 8913 Southeaster
 - Website: https://www.vitalheatingandair.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 25% of HVAC contractors in Indianapolis, IN, #1 of 9 HVAC contractors in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 25% of HVAC contractors in Indianapolis, IN, #1 of 9 HVAC contractors in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: urgent care in New Kensington, PA; urgent care near me (New Kensin
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AVH Outpatient Services - New Kensington | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | AVH Outpatient Services - New Kensington is an urgent care clinic in New Kensington, PA at 651 4th Avenue, New Kensington, PA 15068. Phone: +17243342562. Website: https://www.ahn.org/location-detail?name=AVH_Outpatient_Services_-_New_Kensington. | https://registry-edge.dingalinged.workers.dev/c/avh-outpatient-services-new-kensington-new-kensington/
+1. AVH Outpatient Services - New Kensington | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | AVH Outpatient Services - New Kensington is an urgent care clinic in New Kensington, PA at 651 4th Avenue, New Kensington, PA 15068. Phone: +17243342562. Website: https://www.ahn.org/location-detail?name=AVH_Outpatient_Services_-_New_Kensington. | https://registry-edge.dingalinged.workers.dev/c/avh-outpatient-services-new-kensington-new-kensington/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care new kensington pa | category: Health & medical | industry benchmark: Physicians & Surgeons

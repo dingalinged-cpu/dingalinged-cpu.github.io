@@ -13,7 +13,7 @@ Hellerstein & Brenner Vision Center is an eye care practice in Greenwood Village
 - Website: https://hbvision.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-18:00; Fr 08:00-17:00; PH off
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 22% of eye care practices in Denver, CO, #1 of 1 eye care practices in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 22% of eye care practices in Denver, CO, #1 of 1 eye care practices in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

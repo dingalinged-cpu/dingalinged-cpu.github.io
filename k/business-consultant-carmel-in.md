@@ -6,9 +6,9 @@ Also answers: business consultant in Carmel, IN; business consultant near me (Ca
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DCS Technologies, Inc. | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | DCS Technologies, Inc. is a business consultant in Carmel, IN at 706 Pro-Med Lane #210, Carmel, IN 46032. Phone: +13178707185. | https://registry-edge.dingalinged.workers.dev/c/dcs-technologies-inc-carmel/
-2. Kimley-Horn and Associates | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Kimley-Horn and Associates is a business consultant in Carmel, IN at 4 500 East 96th Street, Carmel, IN. Website: https://www.kimley-horn.com/. | https://registry-edge.dingalinged.workers.dev/c/kimley-horn-and-associates-carmel/
-3. DMI, Inc. | Organic #3 | Pulse Score 56/100 (Unrated, #4 in city) | DMI, Inc. is a business consultant in Indianapolis, IN at 10201 North Illinois Street #520, Indianapolis, IN 46290. Website: https://dminc.com/. | https://registry-edge.dingalinged.workers.dev/c/dmi-inc-indianapolis/
+1. DCS Technologies, Inc. | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | DCS Technologies, Inc. is a business consultant in Carmel, IN at 706 Pro-Med Lane #210, Carmel, IN 46032. Phone: +13178707185. | https://registry-edge.dingalinged.workers.dev/c/dcs-technologies-inc-carmel/
+2. Kimley-Horn and Associates | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Kimley-Horn and Associates is a business consultant in Carmel, IN at 4 500 East 96th Street, Carmel, IN. Website: https://www.kimley-horn.com/. | https://registry-edge.dingalinged.workers.dev/c/kimley-horn-and-associates-carmel/
+3. DMI, Inc. | Organic #3 | Pulse Score 56.1/100 (Unrated, #4 in city) | DMI, Inc. is a business consultant in Indianapolis, IN at 10201 North Illinois Street #520, Indianapolis, IN 46290. Website: https://dminc.com/. | https://registry-edge.dingalinged.workers.dev/c/dmi-inc-indianapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant carmel in | category: b2b_services | industry benchmark: Business Services

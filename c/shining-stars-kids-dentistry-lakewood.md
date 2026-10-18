@@ -13,7 +13,7 @@ Shining Stars Kids Dentistry is a dentist in Lakewood, CO at 6999 West Alaska Dr
 - Website: https://www.shiningstarskidsdentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 08:00-13:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of dentists in Denver, CO, #5 of 20 dentists in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 15% of dentists in Denver, CO, #5 of 20 dentists in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

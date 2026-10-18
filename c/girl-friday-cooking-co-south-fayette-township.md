@@ -13,7 +13,7 @@ Girl Friday Cooking Co. is a caterer in South Fayette Township, PA at 511 Miller
 - Website: https://girlfridaycookingco.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 80% of caterers in Pittsburgh, PA, #1 of 1 caterers in South Fayette Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 80% of caterers in Pittsburgh, PA, #1 of 1 caterers in South Fayette Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

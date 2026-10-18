@@ -13,7 +13,7 @@ Consultants for Children Inc. is a therapy practice in Lakewood, CO at 265 South
 - Website: https://www.cfcico.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 23% of therapy practices in Denver, CO, #1 of 3 therapy practices in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 20% of therapy practices in Denver, CO, #1 of 3 therapy practices in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

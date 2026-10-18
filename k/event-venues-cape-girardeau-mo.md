@@ -6,7 +6,7 @@ Also answers: event venues in Cape Girardeau, MO; event venues near me (Cape Gir
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Show Me Center | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Show Me Center is an event venue in Cape Girardeau, MO. | https://registry-edge.dingalinged.workers.dev/c/show-me-center-cape-girardeau/
+1. Show Me Center | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Show Me Center is an event venue in Cape Girardeau, MO. | https://registry-edge.dingalinged.workers.dev/c/show-me-center-cape-girardeau/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues cape girardeau mo | category: Events & weddings | industry benchmark: Personal Services

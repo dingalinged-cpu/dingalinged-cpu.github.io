@@ -6,7 +6,7 @@ Also answers: tattoo shop in Edgewater, CO; tattoo shop near me (Edgewater, CO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Ink Den Tattoo Studio | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | The Ink Den Tattoo Studio is a tattoo shop in Edgewater, CO at 5505 West 20th Avenue #160, Edgewater, CO 80214. Website: https://www.theinkdentattoostudio.com/. | https://registry-edge.dingalinged.workers.dev/c/the-ink-den-tattoo-studio-edgewater/
+1. The Ink Den Tattoo Studio | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | The Ink Den Tattoo Studio is a tattoo shop in Edgewater, CO at 5505 West 20th Avenue #160, Edgewater, CO 80214. Website: https://www.theinkdentattoostudio.com/. | https://registry-edge.dingalinged.workers.dev/c/the-ink-den-tattoo-studio-edgewater/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop edgewater co | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

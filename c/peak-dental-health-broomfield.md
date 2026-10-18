@@ -13,7 +13,7 @@ Peak Dental Health is a dentist in Broomfield, CO at 340 East 1st Avenue #202, B
 - Website: https://www.peakdentalhealthbroomfield.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 29% of dentists in Denver, CO, #3 of 9 dentists in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 28% of dentists in Denver, CO, #3 of 9 dentists in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

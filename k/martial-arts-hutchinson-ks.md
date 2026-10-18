@@ -6,7 +6,7 @@ Also answers: martial arts in Hutchinson, KS; martial arts near me (Hutchinson, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ernest Bell’s Elite Combat Sports Center | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Ernest Bell’s Elite Combat Sports Center is a martial arts school in Hutchinson, KS at 13 South Main Street, Hutchinson, KS 67501. Phone: +16204742338. | https://registry-edge.dingalinged.workers.dev/c/ernest-bell-s-elite-combat-sports-center-hutchinson/
+1. Ernest Bell’s Elite Combat Sports Center | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Ernest Bell’s Elite Combat Sports Center is a martial arts school in Hutchinson, KS at 13 South Main Street, Hutchinson, KS 67501. Phone: +16204742338. | https://registry-edge.dingalinged.workers.dev/c/ernest-bell-s-elite-combat-sports-center-hutchinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts hutchinson ks | category: Fitness | industry benchmark: Health & Fitness

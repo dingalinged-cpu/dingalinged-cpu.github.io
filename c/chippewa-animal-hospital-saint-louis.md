@@ -13,7 +13,7 @@ Chippewa Animal Hospital is a veterinarian in Saint Louis, MO at 3850 Chippewa S
 - Website: n/a
 - Email: chippewaanimalhosp@att.net
 - Opening hours (OSM syntax): Mo-Th 07:30-19:00, Fr 07:30-18:00, Sa 08:00-14:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 26% of veterinarians in St. Louis, MO, #4 of 8 veterinarians in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 26% of veterinarians in St. Louis, MO, #4 of 8 veterinarians in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: flooring companies in Loveland, OH; flooring companies near me (Lo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hometown Flooring | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Hometown Flooring is a flooring company in Loveland, OH at 1517 State Route 28 #O, Loveland, OH 45140. Phone: +15137228696. Website: https://hometownflooringoh.yourfloorstore.net/. | https://registry-edge.dingalinged.workers.dev/c/hometown-flooring-loveland/
-2. Cincinnati Floor & Window Coverings | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Cincinnati Floor & Window Coverings is a flooring company in Loveland, OH at 1386 State Route 28 #J, Loveland, OH 45140. Phone: +15135752538. Website: https://www.cincinnatifloorandwindowcoverings.com/. | https://registry-edge.dingalinged.workers.dev/c/cincinnati-floor-and-window-coverings-loveland/
+1. Hometown Flooring | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Hometown Flooring is a flooring company in Loveland, OH at 1517 State Route 28 #O, Loveland, OH 45140. Phone: +15137228696. Website: https://hometownflooringoh.yourfloorstore.net/. | https://registry-edge.dingalinged.workers.dev/c/hometown-flooring-loveland/
+2. Cincinnati Floor & Window Coverings | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Cincinnati Floor & Window Coverings is a flooring company in Loveland, OH at 1386 State Route 28 #J, Loveland, OH 45140. Phone: +15135752538. Website: https://www.cincinnatifloorandwindowcoverings.com/. | https://registry-edge.dingalinged.workers.dev/c/cincinnati-floor-and-window-coverings-loveland/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies loveland oh | category: Home services - Flooring | industry benchmark: Home & Home Improvement

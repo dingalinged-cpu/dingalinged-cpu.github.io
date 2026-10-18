@@ -13,7 +13,7 @@ High Country House Leasing Office is a property management company in Denver, CO
 - Website: https://www.highcountryhouse.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 24% of property management companys in Denver, CO, #2 of 6 property management companys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 24% of property management companys in Denver, CO, #2 of 6 property management companys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Lakewood, CO at 13049 West Alameda Par
 - Website: https://www.hrblock.com/local-tax-offices/colorado/lakewood/13049-w-alameda-pkwy/6980/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.8/100 — Building — top 32% of tax preparation services in Denver, CO, #2 of 3 tax preparation services in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 32% of tax preparation services in Denver, CO, #2 of 3 tax preparation services in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 64.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

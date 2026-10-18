@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Lafayette, CO at 325 Waneka Parkway, Lafayette, CO 8
 - Website: https://www.anytimefitness.com/gyms/1387/Lafayette-CO-80026/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 29.7/100 — Building — top 100% of gyms in Denver, CO, #6 of 7 gyms in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 29.6/100 — Building — top 100% of gyms in Denver, CO, #6 of 7 gyms in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

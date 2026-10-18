@@ -6,7 +6,7 @@ Also answers: tattoo shop in Hutchinson, KS; tattoo shop near me (Hutchinson, KS
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Redemption Ink Tattoo | Organic #1 | Pulse Score 61.2/100 (Good, #1 in city) | Redemption Ink Tattoo is a tattoo shop in Hutchinson, KS at 323 North Main Street, Hutchinson, KS. Phone: +16209310071. | https://registry-edge.dingalinged.workers.dev/c/redemption-ink-tattoo-hutchinson/
+1. Redemption Ink Tattoo | Organic #1 | Pulse Score 61.1/100 (Good, #1 in city) | Redemption Ink Tattoo is a tattoo shop in Hutchinson, KS at 323 North Main Street, Hutchinson, KS. Phone: +16209310071. | https://registry-edge.dingalinged.workers.dev/c/redemption-ink-tattoo-hutchinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop hutchinson ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

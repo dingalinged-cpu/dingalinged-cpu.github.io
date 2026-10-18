@@ -7,7 +7,7 @@ Also answers: dry cleaners in Columbia, MO; dry cleaners near me (Columbia, MO);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Tiger Cleaners | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Tiger Cleaners is a dry cleaner in Columbia, MO at 2101 West Broadway, Columbia, MO 65203. Phone: +15734451487. Website: https://tigercleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/tiger-cleaners-columbia/
-2. Tiger Cleaners | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | Tiger Cleaners is a dry cleaner in Columbia, MO at 126 South 8th Street, Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/tiger-cleaners-columbia-w518949051/
+2. Tiger Cleaners | Organic #2 | Pulse Score 60/100 (Unrated, #2 in city) | Tiger Cleaners is a dry cleaner in Columbia, MO at 126 South 8th Street, Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/tiger-cleaners-columbia-w518949051/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners columbia mo | category: Professional & financial services | industry benchmark: Finance & Insurance

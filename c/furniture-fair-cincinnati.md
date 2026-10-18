@@ -13,7 +13,7 @@ Furniture Fair is a furniture store in Cincinnati, OH at 4363 Eastgate Square Dr
 - Website: https://furniturefair.net/pages/eastgate
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 60% of furniture stores in Cincinnati, OH, #10 of 15 furniture stores in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 60% of furniture stores in Cincinnati, OH, #10 of 15 furniture stores in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

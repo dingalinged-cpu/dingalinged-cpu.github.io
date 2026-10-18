@@ -6,7 +6,7 @@ Also answers: tailor in Farmington Hills, MI; tailor near me (Farmington Hills, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Invisible Thread | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Invisible Thread is a tailor in Farmington Hills, MI at 31535 West 13 Mile Road, Farmington Hills, MI. | https://registry-edge.dingalinged.workers.dev/c/invisible-thread-farmington-hills/
+1. Invisible Thread | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Invisible Thread is a tailor in Farmington Hills, MI at 31535 West 13 Mile Road, Farmington Hills, MI. | https://registry-edge.dingalinged.workers.dev/c/invisible-thread-farmington-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor farmington hills mi | category: Professional & financial services | industry benchmark: Finance & Insurance

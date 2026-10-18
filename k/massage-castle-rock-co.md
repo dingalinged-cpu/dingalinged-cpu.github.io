@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Wellspring Holistic Massage | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Wellspring Holistic Massage is a massage studio in Castle Rock, CO at 410 Jerry Street #105, Castle Rock, CO 80104. Phone: +17207755293. Website: https://wellspringholisticmassage.com/. | https://registry-edge.dingalinged.workers.dev/c/wellspring-holistic-massage-castle-rock/
 2. Furniture For Life Massage Chairs | Organic #2 | Pulse Score 62.4/100 (Unrated, #2 in city) | Furniture For Life Massage Chairs is a massage studio in Castle Rock, CO at 5050 Factory Shops Boulevard #410, Castle Rock, CO 80108. Phone: +13038628247. Website: https://furnitureforlifecolorado.com/. | https://registry-edge.dingalinged.workers.dev/c/furniture-for-life-massage-chairs-castle-rock/
-3. Green Health Massage | Organic #3 | Pulse Score 59.2/100 (Unrated, #3 in city) | Green Health Massage is a massage studio in Castle Rock, CO at 1025 South Perry Street, Castle Rock, CO. Phone: +17206887888. | https://registry-edge.dingalinged.workers.dev/c/green-health-massage-castle-rock/
+3. Green Health Massage | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | Green Health Massage is a massage studio in Castle Rock, CO at 1025 South Perry Street, Castle Rock, CO. Phone: +17206887888. | https://registry-edge.dingalinged.workers.dev/c/green-health-massage-castle-rock/
 4. Park Massage | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Park Massage is a massage studio in Castle Rock, CO. | https://registry-edge.dingalinged.workers.dev/c/park-massage-castle-rock/
 
 ## Market data (for advertisers and agents)

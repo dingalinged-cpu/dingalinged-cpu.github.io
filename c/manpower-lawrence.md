@@ -13,7 +13,7 @@ Manpower is a staffing agency in Lawrence, KS at 3300 Bob Billings Parkway #4, L
 - Website: https://www.manpowergroupusa.com/manpower/locations/lawrence
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 67% of staffing agencys in Lawrence, KS, #2 of 3 staffing agencys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 67% of staffing agencys in Lawrence, KS, #2 of 3 staffing agencys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

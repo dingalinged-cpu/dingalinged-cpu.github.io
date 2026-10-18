@@ -6,7 +6,7 @@ Also answers: flooring companies in Arvada, CO; flooring companies near me (Arva
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tom J. Behunin Construction | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Tom J. Behunin Construction is a flooring company in Arvada, CO at 4475 West 58th Avenue #F, Arvada, CO 80002. | https://registry-edge.dingalinged.workers.dev/c/tom-j-behunin-construction-arvada/
+1. Tom J. Behunin Construction | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Tom J. Behunin Construction is a flooring company in Arvada, CO at 4475 West 58th Avenue #F, Arvada, CO 80002. | https://registry-edge.dingalinged.workers.dev/c/tom-j-behunin-construction-arvada/
 2. Floor & Decor | Organic #2 | Pulse Score 42.5/100 (Building, #2 in city) | Floor & Decor is a flooring company in Arvada, CO. | https://registry-edge.dingalinged.workers.dev/c/floor-and-decor-arvada/
 
 ## Market data (for advertisers and agents)

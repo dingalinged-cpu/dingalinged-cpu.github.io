@@ -13,7 +13,7 @@ Refined Barber Collective is a barber shop in Webster Groves, MO at 27 Allen Ave
 - Website: https://refinedbarbercollective.com/
 - Email: refinedbarbercollective@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60.4/100 — Good — top 17% of barber shops in St. Louis, MO, #1 of 1 barber shops in Webster Groves (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Good — top 17% of barber shops in St. Louis, MO, #1 of 1 barber shops in Webster Groves (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

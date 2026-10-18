@@ -13,7 +13,7 @@ Petco is a pet store in Sterling Heights, MI at 13701 Lakeside CR, Sterling Heig
 - Website: https://stores.petco.com/mi/sterlingheights/pet-supplies-sterlingheights-mi-1944.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 49.1/100 — Building — top 49% of pet stores in Detroit, MI, #2 of 2 pet stores in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 49% of pet stores in Detroit, MI, #2 of 2 pet stores in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

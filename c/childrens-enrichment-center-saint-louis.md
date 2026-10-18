@@ -13,7 +13,7 @@ Children's Enrichment Center is a daycare in Saint Louis, MO at 210 South Ewing 
 - Website: https://webapp01.dhss.mo.gov/childcaresearch/Facility.aspx?LID=000700629
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 27% of daycares in St. Louis, MO, #4 of 11 daycares in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 27% of daycares in St. Louis, MO, #4 of 11 daycares in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

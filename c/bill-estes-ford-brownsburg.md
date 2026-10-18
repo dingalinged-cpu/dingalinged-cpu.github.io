@@ -13,7 +13,7 @@ Bill Estes Ford is an used car dealer in Brownsburg, IN at 450 East Northfield D
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Building — top 97% of used car dealers in Indianapolis, IN, #2 of 2 used car dealers in Brownsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 95% of used car dealers in Indianapolis, IN, #2 of 2 used car dealers in Brownsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

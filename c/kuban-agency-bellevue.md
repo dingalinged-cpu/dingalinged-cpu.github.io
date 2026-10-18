@@ -13,7 +13,7 @@ Kuban Agency is an insurance agent in Bellevue, PA.
 - Website: n/a
 - Email: A040908@allstate.com
 - Opening hours (OSM syntax): Mo-Tu 09:00-17:00; We 09:00-19:00; Th-Fr 09:00-17:00
-- Pulse Score: 47.7/100 — Building — top 42% of insurance agents in Pittsburgh, PA, #1 of 2 insurance agents in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 43% of insurance agents in Pittsburgh, PA, #1 of 2 insurance agents in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

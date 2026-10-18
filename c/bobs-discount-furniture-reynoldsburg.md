@@ -13,7 +13,7 @@ Bob's Discount Furniture is a furniture store in Reynoldsburg, OH at Taylor Road
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.5/100 — Building — top 76% of furniture stores in Columbus, OH, #4 of 5 furniture stores in Reynoldsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Building — top 75% of furniture stores in Columbus, OH, #4 of 5 furniture stores in Reynoldsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

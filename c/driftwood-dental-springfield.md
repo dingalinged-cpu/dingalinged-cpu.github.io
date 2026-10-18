@@ -13,7 +13,7 @@ Driftwood Dental is a dentist in Springfield, MO at 3121 S Pickwick Pl, Springfi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-13:00,14:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 24% of dentists in Springfield, MO, #12 of 54 dentists in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 24% of dentists in Springfield, MO, #12 of 54 dentists in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Joslyn Law Firm is a lawyer in Cincinnati, OH at 212 West 8th Street, Cincinnati
 - Website: https://www.criminalattorneycincinnati.com/
 - Email: wes@joslynlawfirm.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 6% of lawyers in Cincinnati, OH, #3 of 20 lawyers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 6% of lawyers in Cincinnati, OH, #3 of 20 lawyers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

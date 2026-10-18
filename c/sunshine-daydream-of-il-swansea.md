@@ -13,7 +13,7 @@ Sunshine Daydream of IL is a gift shop in Swansea, IL at 208 E Suite 2-3 Frank S
 - Website: https://sunshinedaydream.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-20:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 4% of gift shops in St. Louis, MO, #1 of 1 gift shops in Swansea (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 4% of gift shops in St. Louis, MO, #1 of 1 gift shops in Swansea (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

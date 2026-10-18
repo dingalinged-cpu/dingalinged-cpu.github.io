@@ -6,7 +6,7 @@ Also answers: music lessons in Portage Des Sioux, MO; music lessons near me (Por
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Driftwood Music | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Driftwood Music is a music school in Portage Des Sioux, MO at 1106 Second Street, Portage Des Sioux, MO 63373. Phone: +13142851904. | https://registry-edge.dingalinged.workers.dev/c/driftwood-music-portage-des-sioux/
+1. Driftwood Music | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Driftwood Music is a music school in Portage Des Sioux, MO at 1106 Second Street, Portage Des Sioux, MO 63373. Phone: +13142851904. | https://registry-edge.dingalinged.workers.dev/c/driftwood-music-portage-des-sioux/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons portage des sioux mo | category: Education & childcare | industry benchmark: Education & Instruction

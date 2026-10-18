@@ -13,7 +13,7 @@ Love You Bunches & Bunches is a florist in Trenton, MI at 2671 West Jefferson Av
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th,Fr 11:00-17:00; We,Sa 10:00-14:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 29% of florists in Detroit, MI, #1 of 3 florists in Trenton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 29% of florists in Detroit, MI, #1 of 3 florists in Trenton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

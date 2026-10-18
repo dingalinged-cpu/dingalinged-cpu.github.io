@@ -6,7 +6,7 @@ Also answers: bakery in Gahanna, OH; bakery near me (Gahanna, OH); best bakery G
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Resch's Bakery | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Resch's Bakery is a bakery in Gahanna, OH at 150 Hamilton Road, Gahanna, OH 43230. Website: https://reschbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/reschs-bakery-gahanna/
+1. Resch's Bakery | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Resch's Bakery is a bakery in Gahanna, OH at 150 Hamilton Road, Gahanna, OH 43230. Website: https://reschbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/reschs-bakery-gahanna/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery gahanna oh | category: Events & weddings | industry benchmark: Personal Services

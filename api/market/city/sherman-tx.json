@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Sherman, TX",
+ "description": "Top Sherman, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Sherman, TX",
+ "geography": null,
+ "keywords": 43,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "hvac repair sherman tx",
+    "slug": "hvac-repair-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-sherman-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 17.76,
+    "cpc_median_usd": 9.68,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofing contractor sherman tx",
+    "slug": "roofing-contractor-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-sherman-tx/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofer sherman tx",
+    "slug": "roofer-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-sherman-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "attorney sherman tx",
+    "slug": "attorney-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-sherman-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "lawyer sherman tx",
+    "slug": "lawyer-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-sherman-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "window repair sherman tx",
+    "slug": "window-repair-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-repair-sherman-tx/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "architect sherman tx",
+    "slug": "architect-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-sherman-tx/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "heating and air sherman tx",
+    "slug": "heating-and-air-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-sherman-tx/",
+    "us_monthly_searches": 3600,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "storage units sherman tx",
+    "slug": "storage-units-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-sherman-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "bakery sherman tx",
+    "slug": "bakery-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-sherman-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tax preparer sherman tx",
+    "slug": "tax-preparer-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-sherman-tx/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "daycare sherman tx",
+    "slug": "daycare-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-sherman-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.81,
+    "cpc_median_usd": 4.81,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "chiropractor sherman tx",
+    "slug": "chiropractor-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-sherman-tx/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "pediatrician sherman tx",
+    "slug": "pediatrician-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-sherman-tx/",
+    "us_monthly_searches": 90500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dentist sherman tx",
+    "slug": "dentist-sherman-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-sherman-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.7,
+    "cpc_median_usd": 8.0,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 5,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

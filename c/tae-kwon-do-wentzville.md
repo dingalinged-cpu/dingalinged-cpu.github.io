@@ -13,7 +13,7 @@ Tae Kwon Do is a martial arts school in Wentzville, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.1/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Wentzville, MO, #2 of 2 martial arts schools in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Wentzville, MO, #2 of 2 martial arts schools in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Equator Design is a marketing agency in Cincinnati, OH at 15 East 14th Street, C
 - Website: https://equator-design.com/studios/cincinnati/
 - Email: hello@equator-design.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of marketing agencys in Cincinnati, OH, #1 of 7 marketing agencys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of marketing agencys in Cincinnati, OH, #1 of 7 marketing agencys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

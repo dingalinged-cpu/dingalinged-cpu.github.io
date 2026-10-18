@@ -13,7 +13,7 @@ Katalyst Pain Management and Restorative Treatment Center is a physical therapy 
 - Website: n/a
 - Email: careteam@katalystmd.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 100% of physical therapy clinics in Chesterfield, MO, #1 of 1 physical therapy clinics in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 100% of physical therapy clinics in Chesterfield, MO, #1 of 1 physical therapy clinics in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

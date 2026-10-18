@@ -54,7 +54,7 @@ Best Roofing Pros is a roofer in Chesterfield, MO at 100 Chesterfield Business P
 - Website: https://www.getaroofingpro.com/
 - Email: info@getaroofingpro.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of roofers in Chesterfield, MO, #1 of 1 roofers in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 100% of roofers in Chesterfield, MO, #1 of 1 roofers in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -81,7 +81,7 @@ Big Shark West is a bike shop in Chesterfield, MO at 17233 Chesterfield Airport 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 100% of bike shops in Chesterfield, MO, #1 of 1 bike shops in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 100% of bike shops in Chesterfield, MO, #1 of 1 bike shops in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 41.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -135,7 +135,7 @@ Carstar is an auto repair shop in Chesterfield, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.9/100 — Building — top 100% of auto repair shops in Chesterfield, MO, #3 of 3 auto repair shops in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.8/100 — Building — top 100% of auto repair shops in Chesterfield, MO, #3 of 3 auto repair shops in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -162,7 +162,7 @@ Chesterfield Veterinary Center is a veterinarian in Chesterfield, MO. Website: h
 - Website: https://www.chesterfieldvets.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in Chesterfield, MO, #1 of 1 veterinarians in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in Chesterfield, MO, #1 of 1 veterinarians in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -189,7 +189,7 @@ Katalyst Pain Management and Restorative Treatment Center is a physical therapy 
 - Website: n/a
 - Email: careteam@katalystmd.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 100% of physical therapy clinics in Chesterfield, MO, #1 of 1 physical therapy clinics in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 100% of physical therapy clinics in Chesterfield, MO, #1 of 1 physical therapy clinics in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -216,7 +216,7 @@ Northwest Tire and Auto is an auto repair shop in Chesterfield, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Chesterfield, MO, #1 of 3 auto repair shops in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Chesterfield, MO, #1 of 3 auto repair shops in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -243,7 +243,7 @@ Suburban Leisure Center is a furniture store in Chesterfield, MO. Website: https
 - Website: https://suburbanleisurecenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in Chesterfield, MO, #1 of 1 furniture stores in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in Chesterfield, MO, #1 of 1 furniture stores in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -270,7 +270,7 @@ Valvoline is an auto repair shop in Chesterfield, MO. Website: https://store.vio
 - Website: https://store.vioc.com/mo/chesterfield/oil-change-050032.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 67% of auto repair shops in Chesterfield, MO, #2 of 3 auto repair shops in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 67% of auto repair shops in Chesterfield, MO, #2 of 3 auto repair shops in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -297,7 +297,7 @@ VIE Media is a marketing agency in Chesterfield, MO at 129 Chesterfield Industri
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of marketing agencys in Chesterfield, MO, #1 of 1 marketing agencys in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 100% of marketing agencys in Chesterfield, MO, #1 of 1 marketing agencys in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

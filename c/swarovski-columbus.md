@@ -13,7 +13,7 @@ Swarovski is a jewelry store in Columbus, OH at 4017 Gramercy Street, Columbus, 
 - Website: https://www.swarovski.com/is-bin/INTERSHOP.enfinity/WFS/SCO-Web_US-Site/en_US/-/USD/SPAG_Storefinder-ViewExtendedDetailPage?storeid=0003012457
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 12:00-18:00
-- Pulse Score: 48.4/100 — Building — top 79% of jewelry stores in Columbus, OH, #21 of 25 jewelry stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 76% of jewelry stores in Columbus, OH, #20 of 25 jewelry stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

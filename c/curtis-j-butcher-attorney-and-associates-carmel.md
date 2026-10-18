@@ -13,7 +13,7 @@ Curtis J. Butcher, Attorney & Associates is a lawyer in Carmel, IN at 8 West Mai
 - Website: https://www.curtisbutcherlaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 22% of lawyers in Indianapolis, IN, #3 of 8 lawyers in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 22% of lawyers in Indianapolis, IN, #3 of 8 lawyers in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

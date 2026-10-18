@@ -6,7 +6,7 @@ Also answers: driving school in Pittsburgh, PA; driving school near me (Pittsbur
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cindy Cohen Driving School | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Cindy Cohen Driving School is a driving school in Pittsburgh, PA at 3131 West Carson Street, Pittsburgh, PA 15204. | https://registry-edge.dingalinged.workers.dev/c/cindy-cohen-driving-school-pittsburgh/
+1. Cindy Cohen Driving School | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Cindy Cohen Driving School is a driving school in Pittsburgh, PA at 3131 West Carson Street, Pittsburgh, PA 15204. | https://registry-edge.dingalinged.workers.dev/c/cindy-cohen-driving-school-pittsburgh/
 2. Rogers Driving School | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Rogers Driving School is a driving school in Pittsburgh, PA at 4590 McKnight Road, Pittsburgh, PA 15237. | https://registry-edge.dingalinged.workers.dev/c/rogers-driving-school-pittsburgh/
 
 ## Market data (for advertisers and agents)

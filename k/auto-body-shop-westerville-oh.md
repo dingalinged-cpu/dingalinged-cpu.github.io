@@ -6,7 +6,7 @@ Also answers: auto body shop in Westerville, OH; auto body shop near me (Westerv
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Westerville Automotive Uptown | Organic #1 | Pulse Score 62.3/100 (Unrated, #2 in city) | Westerville Automotive Uptown is an auto repair shop in Westerville, OH at 31 East Main Street, Westerville, OH 43081. Phone: +16148906700. Website: https://www.westervilleautomotive.com/. | https://registry-edge.dingalinged.workers.dev/c/westerville-automotive-uptown-westerville/
+1. Westerville Automotive Uptown | Organic #1 | Pulse Score 62.2/100 (Unrated, #2 in city) | Westerville Automotive Uptown is an auto repair shop in Westerville, OH at 31 East Main Street, Westerville, OH 43081. Phone: +16148906700. Website: https://www.westervilleautomotive.com/. | https://registry-edge.dingalinged.workers.dev/c/westerville-automotive-uptown-westerville/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop westerville oh | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -6,7 +6,7 @@ Also answers: haircut in Swissvale, PA; haircut near me (Swissvale, PA); best ha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dqdabarber at MitchCutz | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | Dqdabarber at MitchCutz is a barber shop in Pittsburgh, PA at 1701 Monongahela Avenue, Pittsburgh, PA 15218. Phone: +14126808564. Website: https://mitchcutzbarberlounge.com/. | https://registry-edge.dingalinged.workers.dev/c/dqdabarber-at-mitchcutz-pittsburgh/
+1. Dqdabarber at MitchCutz | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Dqdabarber at MitchCutz is a barber shop in Pittsburgh, PA at 1701 Monongahela Avenue, Pittsburgh, PA 15218. Phone: +14126808564. Website: https://mitchcutzbarberlounge.com/. | https://registry-edge.dingalinged.workers.dev/c/dqdabarber-at-mitchcutz-pittsburgh/
 2. SkoopBeSlicing | Organic #2 | Pulse Score 63.2/100 (Unrated, #2 in city) | SkoopBeSlicing is a barber shop in Pittsburgh, PA at 1701 Monongahela Avenue, Pittsburgh, PA 15218. Phone: +14123787626. Website: https://skoopbeslicing.square.site/. | https://registry-edge.dingalinged.workers.dev/c/skoopbeslicing-pittsburgh/
 
 ## Market data (for advertisers and agents)

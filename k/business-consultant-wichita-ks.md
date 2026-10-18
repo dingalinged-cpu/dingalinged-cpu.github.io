@@ -6,7 +6,7 @@ Also answers: business consultant in Wichita, KS; business consultant near me (W
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Poe & Associates Engineering & Surveying | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Poe & Associates Engineering & Surveying is a business consultant in Wichita, KS at 544 West Douglas Avenue, Wichita, KS. | https://registry-edge.dingalinged.workers.dev/c/poe-and-associates-engineering-and-surveying-wichita/
+1. Poe & Associates Engineering & Surveying | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Poe & Associates Engineering & Surveying is a business consultant in Wichita, KS at 544 West Douglas Avenue, Wichita, KS. | https://registry-edge.dingalinged.workers.dev/c/poe-and-associates-engineering-and-surveying-wichita/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant wichita ks | category: b2b_services | industry benchmark: Business Services

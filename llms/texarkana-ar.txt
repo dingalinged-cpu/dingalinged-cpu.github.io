@@ -1,0 +1,956 @@
+# Company Registry: company records, metro texarkana-ar
+
+> 35 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+Advanced Surfaces Corporation is a flooring company in Texarkana, AR at 1817 Jim Walter Drive, Texarkana, AR 71854.
+
+# Advanced Surfaces Corporation
+
+- Category: flooring companies
+- Services: flooring companies
+- Address: 1817 Jim Walter Drive, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4399997, -94.0036218
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 100% of flooring companys in Texarkana, AR, #1 of 1 flooring companys in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/advanced-surfaces-corporation-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/advanced-surfaces-corporation-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/934342501 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ashley HomeStore is a furniture store in Texarkana, AR at 1300 L E Gilliland Drive, Texarkana, AR 71854.
+
+# Ashley HomeStore
+
+- Category: furniture store
+- Services: furniture store
+- Address: 1300 L E Gilliland Drive, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4347128, -94.0056388
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.5/100 — Building — top 50% of furniture stores in Texarkana, AR, #1 of 2 furniture stores in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ashley-homestore-texarkana-w794943234/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ashley-homestore-texarkana-w794943234.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/794943234 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bottle Shop is a liquor store in Texarkana, AR at 1224 North State Line Avenue, Texarkana, AR 71854.
+
+# Bottle Shop
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1224 North State Line Avenue, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4354917, -94.0428641
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 29% of liquor stores in Texarkana, AR, #2 of 7 liquor stores in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bottle-shop-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bottle-shop-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/949219185 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bustin Nutz Truck Repair is an auto repair shop in Texarkana, AR at 6815 State Highway 108, Texarkana, AR 71854.
+
+# Bustin Nutz Truck Repair
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 6815 State Highway 108, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.5137498, -93.9494368
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 25% of auto repair shops in Texarkana, AR, #1 of 4 auto repair shops in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bustin-nutz-truck-repair-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bustin-nutz-truck-repair-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/897739595 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Chubby Cheeks Liquor is a liquor store in Texarkana, AR at 820 Realtor Avenue, Texarkana, AR 71854.
+
+# Chubby Cheeks Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 820 Realtor Avenue, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4694198, -94.0337013
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 15% of liquor stores in Texarkana, AR, #1 of 7 liquor stores in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chubby-cheeks-liquor-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chubby-cheeks-liquor-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/946554206 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Cleo's Furniture is a furniture store in Texarkana, AR at 2750 North State Line Avenue, Texarkana, AR 71854.
+
+# Cleo's Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: 2750 North State Line Avenue, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.449033, -94.0420778
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.4/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in Texarkana, AR, #2 of 2 furniture stores in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cleos-furniture-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cleos-furniture-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/746238440 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Cooper Service is an auto repair shop in Texarkana, AR at 5320 North State Line Avenue, Texarkana, AR 71854.
+
+# Cooper Service
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 5320 North State Line Avenue, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4756769, -94.0422224
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 50% of auto repair shops in Texarkana, AR, #2 of 4 auto repair shops in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cooper-service-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cooper-service-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/943915618 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Crossties is an event venue in Texarkana, TX.
+
+# Crossties
+
+- Category: event venues
+- Services: event venues
+- Address: Texarkana, TX
+- City: Texarkana
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.4225096, -94.0398517
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of event venues in Texarkana, AR, #1 of 1 event venues in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/crossties-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/crossties-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1080997310 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Dirty Dough is a bakery in Texarkana, AR at 3910 North State Line Avenue, Texarkana, AR 71854.
+
+# Dirty Dough
+
+- Category: bakery
+- Services: bakery
+- Address: 3910 North State Line Avenue, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4614337, -94.0426378
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Texarkana, AR, #1 of 1 bakerys in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dirty-dough-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dirty-dough-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1521184028 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Dowd & Co PLLC: Dowd Margaret CPA is a tax preparation service in Texarkana, AR at 2710 Arkansas Boulevard, Texarkana, AR 71854.
+
+# Dowd & Co PLLC: Dowd Margaret CPA
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 2710 Arkansas Boulevard, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4600336, -94.0134529
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 100% of tax preparation services in Texarkana, AR, #1 of 1 tax preparation services in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dowd-and-co-pllc-dowd-margaret-cpa-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dowd-and-co-pllc-dowd-margaret-cpa-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/943905367 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+East Street Motors is an used car dealer in Texarkana, AR at 1220 East Street, Texarkana, AR 71854.
+
+# East Street Motors
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 1220 East Street, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4094113, -94.0299026
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 50% of used car dealers in Texarkana, AR, #1 of 2 used car dealers in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/east-street-motors-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/east-street-motors-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1568963974 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Edward Jones is a financial advisor in Texarkana, AR at 3809 East 9th Street #14, Texarkana, AR 71854.
+
+# Edward Jones
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: 3809 East 9th Street #14, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4319321, -93.9994561
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.4/100 — Building — top 100% of financial advisors in Texarkana, AR, #1 of 1 financial advisors in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edward-jones-texarkana-n7435222165/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edward-jones-texarkana-n7435222165.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7435222165 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Farmers Insurance is an insurance agent in Texarkana, AR.
+
+# Farmers Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Texarkana, AR
+- City: Texarkana
+- State: AR
+- ZIP: n/a
+- Coordinates: 33.4617894, -94.0286447
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.6/100 — Building — top 50% of insurance agents in Texarkana, AR, #1 of 2 insurance agents in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-texarkana-n11179456872/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/farmers-insurance-texarkana-n11179456872.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11179456872 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Farmers Insurance is an insurance agent in Texarkana, AR.
+
+# Farmers Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Texarkana, AR
+- City: Texarkana
+- State: AR
+- ZIP: n/a
+- Coordinates: 33.4591348, -94.0288777
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.6/100 — Building — top 100% of insurance agents in Texarkana, AR, #2 of 2 insurance agents in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-texarkana-w1206469387/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/farmers-insurance-texarkana-w1206469387.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1206469387 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Flying J Truck Care Service Center is an auto repair shop in Texarkana, AR at 8315 State Highway 108, Texarkana, AR 71854.
+
+# Flying J Truck Care Service Center
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 8315 State Highway 108, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.5146326, -93.9481076
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 75% of auto repair shops in Texarkana, AR, #3 of 4 auto repair shops in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/flying-j-truck-care-service-center-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/flying-j-truck-care-service-center-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/953792414 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+GCR Tires is a tire shop in Texarkana, AR at 6010 North State Line Avenue, Texarkana, AR 71854.
+
+# GCR Tires
+
+- Category: tire shop
+- Services: tire shop
+- Address: 6010 North State Line Avenue, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4773069, -94.0423282
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 50% of tire shops in Texarkana, AR, #1 of 2 tire shops in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gcr-tires-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gcr-tires-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/943915628 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Herb Crumpton Architect is an architect in Texarkana, AR at 416 N State Line Ave, Texarkana, AR 71854. Phone: +19037336387. Website: https://herbcrumptonarchitect.com/.
+
+# Herb Crumpton Architect
+
+- Category: architect
+- Services: architect
+- Address: 416 N State Line Ave, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4237843, -94.0430622
+- Phone: +19037336387
+- Website: https://herbcrumptonarchitect.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 100% of architects in Texarkana, AR, #1 of 1 architects in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/herb-crumpton-architect-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/herb-crumpton-architect-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9776499854 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jones Funeral Home is a funeral home in Texarkana, AR at 115 East 9th Street, Texarkana, AR 71854.
+
+# Jones Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 115 East 9th Street, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4313547, -94.042449
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 34% of funeral homes in Texarkana, AR, #1 of 3 funeral homes in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jones-funeral-home-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jones-funeral-home-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/948786391 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Keil Law Firm PLLC is a lawyer in Texarkana, AR at 406 Walnut Street, Texarkana, AR 71854.
+
+# Keil Law Firm PLLC
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 406 Walnut Street, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4251079, -94.0408041
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Texarkana, AR, #1 of 2 lawyers in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/keil-law-firm-pllc-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/keil-law-firm-pllc-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1529183370 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lyles Funeral Home is a funeral home in Texarkana, AR at 3809 East Broad Street, Texarkana, AR 71854.
+
+# Lyles Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 3809 East Broad Street, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4590901, -93.9985541
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 67% of funeral homes in Texarkana, AR, #2 of 3 funeral homes in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lyles-funeral-home-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lyles-funeral-home-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/934342514 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+M & M Tire & Auto Center is a tire shop in Texarkana, AR at 720 North State Line Avenue, Texarkana, AR 71854.
+
+# M & M Tire & Auto Center
+
+- Category: tire shop
+- Services: tire shop
+- Address: 720 North State Line Avenue, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4282576, -94.0428081
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of tire shops in Texarkana, AR, #2 of 2 tire shops in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/m-and-m-tire-and-auto-center-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/m-and-m-tire-and-auto-center-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/899732854 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Plyler Auto Sales is an used car dealer in Texarkana, AR at 201 East 7th Street, Texarkana, AR 71854.
+
+# Plyler Auto Sales
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 201 East 7th Street, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4277693, -94.0424528
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 100% of used car dealers in Texarkana, AR, #2 of 2 used car dealers in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/plyler-auto-sales-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/plyler-auto-sales-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/899732853 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Riverview Behavioral Health is a therapy practice in Texarkana, AR at 701 Arkansas Boulevard, Texarkana, AR 71854.
+
+# Riverview Behavioral Health
+
+- Category: therapist
+- Services: therapist
+- Address: 701 Arkansas Boulevard, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4606474, -94.0354658
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 100% of therapy practices in Texarkana, AR, #1 of 1 therapy practices in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/riverview-behavioral-health-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/riverview-behavioral-health-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1535093165 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rock House Liquor Store is a liquor store in Texarkana, AR at 424 Wood Street, Texarkana, AR 71854.
+
+# Rock House Liquor Store
+
+- Category: liquor store
+- Services: liquor store
+- Address: 424 Wood Street, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.425055, -94.0421542
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 43% of liquor stores in Texarkana, AR, #3 of 7 liquor stores in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rock-house-liquor-store-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rock-house-liquor-store-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/949219164 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Snazzy Gals Salon is a hair salon in Texarkana, AR at 3110 Trinity Boulevard, Texarkana, AR 71854.
+
+# Snazzy Gals Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 3110 Trinity Boulevard, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.477615, -94.0090809
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Texarkana, AR, #1 of 1 hair salons in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/snazzy-gals-salon-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/snazzy-gals-salon-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/934342489 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+State Line Liquor is a liquor store in Texarkana, AR at 1314 North State Line Avenue, Texarkana, AR 71854.
+
+# State Line Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1314 North State Line Avenue, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4362906, -94.0427634
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 58% of liquor stores in Texarkana, AR, #4 of 7 liquor stores in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-line-liquor-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-line-liquor-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/949219189 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Storage on Broad is a self-storage facility in Texarkana, AR at 3407 East Broad Street, Texarkana, AR 71854. Phone: +18703304320. Website: https://www.storageonbroad.com/.
+
+# Storage on Broad
+
+- Category: storage units
+- Services: storage units
+- Address: 3407 East Broad Street, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4546662, -94.0034445
+- Phone: +18703304320
+- Website: https://www.storageonbroad.com/
+- Email: storageonbroadtxk@gmail.com
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 100% of self-storage facilitys in Texarkana, AR, #1 of 1 self-storage facilitys in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/storage-on-broad-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/storage-on-broad-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11612962590 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Take 5 Oil Change is an auto repair shop in Texarkana, AR at 4210 North State Line Avenue, Texarkana, AR 71854.
+
+# Take 5 Oil Change
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change
+- Address: 4210 North State Line Avenue, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4651602, -94.0426485
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.3/100 — Building — top 100% of auto repair shops in Texarkana, AR, #4 of 4 auto repair shops in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-texarkana-w677355673/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/take-5-oil-change-texarkana-w677355673.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/677355673 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texarkana Funeral Home is a funeral home in Texarkana, AR at 4801 Parkway Drive, Texarkana, AR 71854.
+
+# Texarkana Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 4801 Parkway Drive, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4688357, -94.0086668
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Texarkana, AR, #3 of 3 funeral homes in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texarkana-funeral-home-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texarkana-funeral-home-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/943905352 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Party Factory is a liquor store in Texarkana, AR at 4102 North State Line Avenue, Texarkana, AR 71854.
+
+# The Party Factory
+
+- Category: liquor store
+- Services: liquor store
+- Address: 4102 North State Line Avenue, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4635472, -94.0425361
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 72% of liquor stores in Texarkana, AR, #5 of 7 liquor stores in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-party-factory-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-party-factory-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/677355669 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Trammell Piazza Law Firm is a lawyer in Texarkana, AR at 418 North State Line Avenue, Texarkana, AR 71854.
+
+# Trammell Piazza Law Firm
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 418 North State Line Avenue, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4246502, -94.0428564
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Texarkana, AR, #2 of 2 lawyers in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/trammell-piazza-law-firm-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trammell-piazza-law-firm-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/949219168 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+TWA Chrome Shop Truck Wash is a car wash in Texarkana, AR at 8302 State Highway 108, Texarkana, AR 71854.
+
+# TWA Chrome Shop Truck Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 8302 State Highway 108, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.5135667, -93.9507804
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 100% of car washes in Texarkana, AR, #1 of 1 car washes in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/twa-chrome-shop-truck-wash-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/twa-chrome-shop-truck-wash-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/953792415 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Twin City Liquor is a liquor store in Texarkana, AR at 1122 North State Line Avenue, Texarkana, AR 71854.
+
+# Twin City Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1122 North State Line Avenue, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.434359, -94.0427696
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 86% of liquor stores in Texarkana, AR, #6 of 7 liquor stores in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/twin-city-liquor-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/twin-city-liquor-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/899732860 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Villa Liquor Store is a liquor store in Texarkana, AR at 5108 North State Line Avenue, Texarkana, AR 71854.
+
+# Villa Liquor Store
+
+- Category: liquor store
+- Services: liquor store
+- Address: 5108 North State Line Avenue, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4735077, -94.0424486
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in Texarkana, AR, #7 of 7 liquor stores in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/villa-liquor-store-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/villa-liquor-store-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/943915612 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Webb Smith Cole & Hickey PLC is an accountant in Texarkana, AR at 2805 East Broad Street, Texarkana, AR 71854.
+
+# Webb Smith Cole & Hickey PLC
+
+- Category: accountant
+- Services: accountant, accounting services
+- Address: 2805 East Broad Street, Texarkana, AR 71854
+- City: Texarkana
+- State: AR
+- ZIP: 71854
+- Coordinates: 33.4493845, -94.0087793
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 100% of accountants in Texarkana, AR, #1 of 1 accountants in Texarkana (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/webb-smith-cole-and-hickey-plc-texarkana/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/webb-smith-cole-and-hickey-plc-texarkana.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/897726005 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

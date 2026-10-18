@@ -13,7 +13,7 @@ Premier Academy is a preschool in Northville, MI at 40724 7 Mile Road, Northvill
 - Website: https://www.premieracademynorthville.com/
 - Email: northville@premieracademymi.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 3% of preschools in Detroit, MI, #1 of 2 preschools in Northville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 81% of preschools in Detroit, MI, #2 of 2 preschools in Northville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

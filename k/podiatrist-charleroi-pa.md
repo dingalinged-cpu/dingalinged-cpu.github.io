@@ -6,7 +6,7 @@ Also answers: podiatrist in Charleroi, PA; podiatrist near me (Charleroi, PA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mary E. Ducato, D.P.M. Podiatric Medicine & Surgery | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Mary E. Ducato, D.P.M. Podiatric Medicine & Surgery is a podiatrist in Charleroi, PA at 520 McKean Avenue, Charleroi, PA. | https://registry-edge.dingalinged.workers.dev/c/mary-e-ducato-d-p-m-podiatric-medicine-and-surgery-charleroi/
+1. Mary E. Ducato, D.P.M. Podiatric Medicine & Surgery | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Mary E. Ducato, D.P.M. Podiatric Medicine & Surgery is a podiatrist in Charleroi, PA at 520 McKean Avenue, Charleroi, PA. | https://registry-edge.dingalinged.workers.dev/c/mary-e-ducato-d-p-m-podiatric-medicine-and-surgery-charleroi/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist charleroi pa | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Impact Taekwondo is a martial arts school in Highlands Ranch, CO at 2201 Wildcat
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 15:00-22:30, Fr 15:00-19:00, Sa 09:00-12:00
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 35% of martial arts schools in Denver, CO, #2 of 2 martial arts schools in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 35% of martial arts schools in Denver, CO, #2 of 2 martial arts schools in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

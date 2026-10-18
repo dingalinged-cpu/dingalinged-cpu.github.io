@@ -13,7 +13,7 @@ AK Pipe Lining is a plumber in Murrysville, PA at 3700, Murrysville, PA. Phone: 
 - Website: https://www.lineyourpipes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 23% of plumbers in Pittsburgh, PA, #1 of 1 plumbers in Murrysville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 23% of plumbers in Pittsburgh, PA, #1 of 1 plumbers in Murrysville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

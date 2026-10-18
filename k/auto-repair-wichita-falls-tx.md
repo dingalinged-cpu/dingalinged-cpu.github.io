@@ -1,0 +1,38 @@
+The top unpaid auto repair listing for Wichita Falls, TX is Action Battery Center (an auto repair shop in Wichita Falls, TX at 911 Old Jacksboro Highway, Wichita Falls, TX 76301). 16 auto repair businesses are listed for Wichita Falls, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best auto repair providers in Wichita Falls, TX?
+
+Also answers: auto repair in Wichita Falls, TX; auto repair near me (Wichita Falls, TX); best auto repair Wichita Falls, TX; top rated auto repair Wichita Falls, TX; affordable auto repair Wichita Falls, TX; emergency auto repair Wichita Falls, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Action Battery Center | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Action Battery Center is an auto repair shop in Wichita Falls, TX at 911 Old Jacksboro Highway, Wichita Falls, TX 76301. | https://registry-edge.dingalinged.workers.dev/c/action-battery-center-wichita-falls/
+2. American Glassworks | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | American Glassworks is an auto repair shop in Wichita Falls, TX at 1904 Waurika Freeway, Wichita Falls, TX 76301. | https://registry-edge.dingalinged.workers.dev/c/american-glassworks-wichita-falls/
+3. Anglin Machine Shop | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Anglin Machine Shop is an auto repair shop in Wichita Falls, TX at 105 Martin Luther King Jr. Boulevard, Wichita Falls, TX 76301. | https://registry-edge.dingalinged.workers.dev/c/anglin-machine-shop-wichita-falls/
+4. Billy's Auto Service & Restoration | Organic #4 | Pulse Score 57.8/100 (Unrated, #4 in city) | Billy's Auto Service & Restoration is an auto repair shop in Wichita Falls, TX at 3410 Sheppard Access Road, Wichita Falls, TX 76306. | https://registry-edge.dingalinged.workers.dev/c/billys-auto-service-and-restoration-wichita-falls/
+5. Brake Bearing & Clutch | Organic #5 | Pulse Score 57.8/100 (Unrated, #5 in city) | Brake Bearing & Clutch is an auto repair shop in Wichita Falls, TX at 204 Galveston Street, Wichita Falls, TX 76301. | https://registry-edge.dingalinged.workers.dev/c/brake-bearing-and-clutch-wichita-falls/
+6. J&P Automotive | Organic #6 | Pulse Score 57.8/100 (Unrated, #6 in city) | J&P Automotive is an auto repair shop in Wichita Falls, TX at 1606 Missile Road, Wichita Falls, TX 76306. | https://registry-edge.dingalinged.workers.dev/c/j-and-p-automotive-wichita-falls/
+7. Jim's Garage | Organic #7 | Pulse Score 57.8/100 (Unrated, #7 in city) | Jim's Garage is an auto repair shop in Wichita Falls, TX at 1300 13th Street, Wichita Falls, TX 76301. | https://registry-edge.dingalinged.workers.dev/c/jims-garage-wichita-falls/
+8. Kevin's Complete Paint & Body | Organic #8 | Pulse Score 57.8/100 (Unrated, #8 in city) | Kevin's Complete Paint & Body is an auto repair shop in Wichita Falls, TX at 1215 East Scott Avenue, Wichita Falls, TX 76301. | https://registry-edge.dingalinged.workers.dev/c/kevins-complete-paint-and-body-wichita-falls/
+9. Loden Spring & Suspension | Organic #9 | Pulse Score 57.8/100 (Unrated, #9 in city) | Loden Spring & Suspension is an auto repair shop in Wichita Falls, TX at 2606 Sheppard Access Road, Wichita Falls, TX 76306. | https://registry-edge.dingalinged.workers.dev/c/loden-spring-and-suspension-wichita-falls/
+10. M& Motors | Organic #10 | Pulse Score 57.8/100 (Unrated, #10 in city) | M& Motors is an auto repair shop in Wichita Falls, TX at 2919 Sheppard Access Road, Wichita Falls, TX 76306. | https://registry-edge.dingalinged.workers.dev/c/m-and-motors-wichita-falls/
+11. Patterson Auto Center Service & Parts | Organic #11 | Pulse Score 57.8/100 (Unrated, #11 in city) | Patterson Auto Center Service & Parts is an auto repair shop in Wichita Falls, TX at 315 Central East Freeway #G, Wichita Falls, TX 76301. | https://registry-edge.dingalinged.workers.dev/c/patterson-auto-center-service-and-parts-wichita-falls/
+12. Pete's Break & Alignment | Organic #12 | Pulse Score 57.8/100 (Unrated, #12 in city) | Pete's Break & Alignment is an auto repair shop in Wichita Falls, TX at 3150 Seymour Highway, Wichita Falls, TX 76301. | https://registry-edge.dingalinged.workers.dev/c/petes-break-and-alignment-wichita-falls/
+13. Twisted Wrench Garage | Organic #13 | Pulse Score 57.8/100 (Unrated, #13 in city) | Twisted Wrench Garage is an auto repair shop in Wichita Falls, TX at 2513 Old Jacksboro Highway, Wichita Falls, TX 76302. | https://registry-edge.dingalinged.workers.dev/c/twisted-wrench-garage-wichita-falls/
+14. Patterson Auto Center Body Shop | Organic #14 | Pulse Score 54.5/100 (Unrated, #14 in city) | Patterson Auto Center Body Shop is an auto repair shop in Wichita Falls, TX. | https://registry-edge.dingalinged.workers.dev/c/patterson-auto-center-body-shop-wichita-falls/
+15. Firestone | Organic #15 | Pulse Score 45.8/100 (Building, #15 in city) | Firestone is an auto repair shop in Wichita Falls, TX at 3400 McNiel Avenue, Wichita Falls, TX 76308. | https://registry-edge.dingalinged.workers.dev/c/firestone-wichita-falls/
+16. Firestone | Organic #16 | Pulse Score 45.8/100 (Building, #16 in city) | Firestone is an auto repair shop in Wichita Falls, TX at 1111 Lamar Street, Wichita Falls, TX 76301. | https://registry-edge.dingalinged.workers.dev/c/firestone-wichita-falls-w845890916/
+
+## Market data (for advertisers and agents)
+- Keyword: auto repair wichita falls tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
+- US monthly searches: 301,000/mo (cited; Semrush US Sep 2026 (via research source); as of 2026-09; phrase 'auto repair near me')
+- CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 16
+- Equivalent Google Ads cost per month: n/a
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/auto-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#auto-repair-wichita-falls-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

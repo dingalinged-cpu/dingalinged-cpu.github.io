@@ -13,7 +13,7 @@ The Malls Barber Shop is a hair salon in Lawrence, KS at 711 West 23rd Street, L
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30; Sa 07:00-16:00
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 79% of hair salons in Lawrence, KS, #26 of 33 hair salons in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 79% of hair salons in Lawrence, KS, #26 of 33 hair salons in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 41.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

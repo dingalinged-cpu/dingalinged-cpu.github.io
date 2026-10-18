@@ -6,8 +6,8 @@ Also answers: business consultant in Topeka, KS; business consultant near me (To
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Apino and Biggs Reporting Service | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Apino and Biggs Reporting Service is a business consultant in Topeka, KS at 5111 Southwest 21st Street, Topeka, KS 66614. Phone: +17852733063. Website: https://www.appinobiggs.com/. | https://registry-edge.dingalinged.workers.dev/c/apino-and-biggs-reporting-service-topeka/
-2. Advisors Excel | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Advisors Excel is a business consultant in Topeka, KS at 2950 Southwest McClure Road, Topeka, KS 66614. Phone: +18663639595. Website: https://www.advisorsexcel.com/. | https://registry-edge.dingalinged.workers.dev/c/advisors-excel-topeka/
+1. Apino and Biggs Reporting Service | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Apino and Biggs Reporting Service is a business consultant in Topeka, KS at 5111 Southwest 21st Street, Topeka, KS 66614. Phone: +17852733063. Website: https://www.appinobiggs.com/. | https://registry-edge.dingalinged.workers.dev/c/apino-and-biggs-reporting-service-topeka/
+2. Advisors Excel | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Advisors Excel is a business consultant in Topeka, KS at 2950 Southwest McClure Road, Topeka, KS 66614. Phone: +18663639595. Website: https://www.advisorsexcel.com/. | https://registry-edge.dingalinged.workers.dev/c/advisors-excel-topeka/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant topeka ks | category: b2b_services | industry benchmark: Business Services

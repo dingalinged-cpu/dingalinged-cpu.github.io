@@ -13,7 +13,7 @@ Traffic Law Center is a lawyer in Saint Peters, MO at 301 Mid Rivers Mall Drive,
 - Website: https://www.trafficlawcenters.com/traffic-law-st-peters.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa,Su off
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of lawyers in St. Peters, MO, #2 of 2 lawyers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 100% of lawyers in St. Peters, MO, #2 of 2 lawyers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

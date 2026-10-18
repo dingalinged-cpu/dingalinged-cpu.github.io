@@ -6,7 +6,7 @@ Also answers: dermatologist in Sedgwick County, KS; dermatologist near me (Sedgw
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heartland Dermatology | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Heartland Dermatology is a dermatologist in Sedgwick County, KS. Phone: +13166121833. Website: https://heartland-derm.com/. | https://registry-edge.dingalinged.workers.dev/c/heartland-dermatology-sedgwick-county/
+1. Heartland Dermatology | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Heartland Dermatology is a dermatologist in Sedgwick County, KS. Phone: +13166121833. Website: https://heartland-derm.com/. | https://registry-edge.dingalinged.workers.dev/c/heartland-dermatology-sedgwick-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist sedgwick county ks | category: Health & medical | industry benchmark: Physicians & Surgeons

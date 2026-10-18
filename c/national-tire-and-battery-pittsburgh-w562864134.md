@@ -13,7 +13,7 @@ National Tire and Battery is an auto repair shop in Pittsburgh, PA at 2000 Green
 - Website: https://www.ntb.com/store/pa/pittsburgh/2000-greentree-rd-15220/4382
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 77% of auto repair shops in Pittsburgh, PA, #78 of 90 auto repair shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 76% of auto repair shops in Pittsburgh, PA, #77 of 90 auto repair shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

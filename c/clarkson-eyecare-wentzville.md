@@ -13,7 +13,7 @@ Clarkson Eyecare is an eye care practice in Wentzville, MO at 1894 Wentzville Pa
 - Website: https://www.clarksoneyecare.com/locations/mo/wentzville/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Building — top 100% of eye care practices in Wentzville, MO, #1 of 1 eye care practices in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 100% of eye care practices in Wentzville, MO, #1 of 1 eye care practices in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

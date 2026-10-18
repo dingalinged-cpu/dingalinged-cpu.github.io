@@ -13,7 +13,7 @@ Sunsational Tan is a tanning salon in Pittsburgh, PA at 280 Settlers Ridge Cente
 - Website: https://www.sunsationaltan.com/robinson
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-22:00; Fr 09:00-21:00; Sa 09:00-20:00; Su 09:00-18:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 29% of tanning salons in Pittsburgh, PA, #2 of 3 tanning salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 29% of tanning salons in Pittsburgh, PA, #2 of 3 tanning salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

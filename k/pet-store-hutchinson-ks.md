@@ -6,7 +6,7 @@ Also answers: pet store in Hutchinson, KS; pet store near me (Hutchinson, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | Organic #1 | Pulse Score 48.6/100 (Building, #1 in city) | Petco is a pet store in Hutchinson, KS at 1912 East 17th Street, Hutchinson, KS 67501. Phone: +16206690459. Website: https://stores.petco.com/ks/hutchinson/pet-supplies-hutchinson-ks-1678.html. | https://registry-edge.dingalinged.workers.dev/c/petco-hutchinson/
+1. Petco | Organic #1 | Pulse Score 48.5/100 (Building, #1 in city) | Petco is a pet store in Hutchinson, KS at 1912 East 17th Street, Hutchinson, KS 67501. Phone: +16206690459. Website: https://stores.petco.com/ks/hutchinson/pet-supplies-hutchinson-ks-1678.html. | https://registry-edge.dingalinged.workers.dev/c/petco-hutchinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store hutchinson ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

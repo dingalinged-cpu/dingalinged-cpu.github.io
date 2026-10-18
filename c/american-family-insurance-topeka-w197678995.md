@@ -13,7 +13,7 @@ American Family Insurance is an insurance agent in Topeka, KS at 119 Southeast 6
 - Website: https://insurance-agency.amfam.com/KS/kelly-gerhardt/default.aspx?sourceid=agp0001039023
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.1/100 — Building — top 92% of insurance agents in Topeka, KS, #11 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43/100 — Building — top 92% of insurance agents in Topeka, KS, #11 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

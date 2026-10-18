@@ -13,7 +13,7 @@ Trek is a bike shop in Columbus, OH at 6672 Sawmill Road, Columbus, OH 43235. Ph
 - Website: https://trekstorecolumbus.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 12:00-17:00
-- Pulse Score: 48.2/100 — Building — top 94% of bike shops in Columbus, OH, #14 of 14 bike shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 94% of bike shops in Columbus, OH, #14 of 14 bike shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

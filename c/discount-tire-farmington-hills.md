@@ -13,7 +13,7 @@ Discount Tire is a tire shop in Farmington Hills, MI at 30720 West 12 Mile Road,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
-- Pulse Score: 45.3/100 — Building — top 86% of tire shops in Detroit, MI, #1 of 1 tire shops in Farmington Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 86% of tire shops in Detroit, MI, #1 of 1 tire shops in Farmington Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

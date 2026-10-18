@@ -13,7 +13,7 @@ Venezia Grand Banquet Hall is an event venue in Sterling Heights, MI at 42300 Va
 - Website: https://veneziagrand.com/
 - Email: veneziahall24@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-16:00
-- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 2% of event venues in Detroit, MI, #1 of 7 event venues in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 2% of event venues in Detroit, MI, #1 of 7 event venues in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

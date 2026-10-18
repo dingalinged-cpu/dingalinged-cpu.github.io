@@ -6,7 +6,7 @@ Also answers: daycare in Wichita, KS; daycare near me (Wichita, KS); best daycar
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Little Explorers Learning Center | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | Little Explorers Learning Center is a daycare in Wichita, KS at 530 East Douglas Avenue, Wichita, KS 67202. Website: https://www.facebook.com/littleexplorerswichita/. | https://registry-edge.dingalinged.workers.dev/c/little-explorers-learning-center-wichita/
+1. Little Explorers Learning Center | Organic #1 | Pulse Score 61.2/100 (Good, #1 in city) | Little Explorers Learning Center is a daycare in Wichita, KS at 530 East Douglas Avenue, Wichita, KS 67202. Website: https://www.facebook.com/littleexplorerswichita/. | https://registry-edge.dingalinged.workers.dev/c/little-explorers-learning-center-wichita/
 2. KinderCare | Organic #2 | Pulse Score 46.2/100 (Unrated, #2 in city) | KinderCare is a daycare in Wichita, KS at 8722 West Thurman Street, Wichita, KS 67212. Website: https://www.kindercare.com/our-centers/wichita/ks/300729. | https://registry-edge.dingalinged.workers.dev/c/kindercare-wichita/
 
 ## Market data (for advertisers and agents)

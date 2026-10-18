@@ -7,7 +7,7 @@ Also answers: primary care physician in Indianapolis, IN; primary care physician
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Exell for Life Family Care & Pediatrics | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Exell for Life Family Care & Pediatrics is a family medicine practice in Indianapolis, IN at 1329 West 96th Street #Suite 1, Indianapolis, IN 46260. Phone: +13176600888. | https://registry-edge.dingalinged.workers.dev/c/exell-for-life-family-care-and-pediatrics-indianapolis/
-2. West Health Center | Organic #2 | Pulse Score 58.2/100 (Unrated, #4 in city) | West Health Center is a therapy practice in Indianapolis, IN at 6029 West 10th Street, Indianapolis, IN 46224. Website: https://www.indyhealthnet.org/west-health-center/. | https://registry-edge.dingalinged.workers.dev/c/west-health-center-indianapolis/
+2. West Health Center | Organic #2 | Pulse Score 58.1/100 (Unrated, #4 in city) | West Health Center is a therapy practice in Indianapolis, IN at 6029 West 10th Street, Indianapolis, IN 46224. Website: https://www.indyhealthnet.org/west-health-center/. | https://registry-edge.dingalinged.workers.dev/c/west-health-center-indianapolis/
 3. IU Health Primary Care | Organic #3 | Pulse Score 56.1/100 (Unrated, #2 in city) | IU Health Primary Care is a family medicine practice in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/iu-health-primary-care-indianapolis/
 
 ## Market data (for advertisers and agents)

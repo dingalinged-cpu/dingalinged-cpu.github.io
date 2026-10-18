@@ -13,7 +13,7 @@ Glo Tanning is a tanning salon in Boulder, CO at 1670 30th Street, Boulder, CO 8
 - Website: https://www.glotanning.com/location/boulder/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa,Su 10:00-18:00
-- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 68% of tanning salons in Denver, CO, #1 of 2 tanning salons in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 68% of tanning salons in Denver, CO, #1 of 2 tanning salons in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

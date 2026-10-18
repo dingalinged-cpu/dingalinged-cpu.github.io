@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Ultimate Tan | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Ultimate Tan is a tanning salon in Lawrence, KS at 4000 West 6th Street #D, Lawrence, KS 66049. Phone: +17858424949. Website: https://www.ultimatetanlawrence.com/. | https://registry-edge.dingalinged.workers.dev/c/ultimate-tan-lawrence/
 2. Beauty Brands | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Beauty Brands is a nail salon in Lawrence, KS at 3514 Clinton Parkway #J, Lawrence, KS 66047. Phone: +17857492510. Website: https://www.beautybrands.com/store-locator/lawrence.do. | https://registry-edge.dingalinged.workers.dev/c/beauty-brands-lawrence/
-3. Sun Tan City | Organic #3 | Pulse Score 47.9/100 (Building, #2 in city) | Sun Tan City is a tanning salon in Lawrence, KS at 2624 Iowa Street #B, Lawrence, KS 66046. Phone: +17858561361. Website: https://www.suntancity.com/find-a-salon/kansas/lawrence/iowa-street/. | https://registry-edge.dingalinged.workers.dev/c/sun-tan-city-lawrence/
+3. Sun Tan City | Organic #3 | Pulse Score 47.8/100 (Building, #2 in city) | Sun Tan City is a tanning salon in Lawrence, KS at 2624 Iowa Street #B, Lawrence, KS 66046. Phone: +17858561361. Website: https://www.suntancity.com/find-a-salon/kansas/lawrence/iowa-street/. | https://registry-edge.dingalinged.workers.dev/c/sun-tan-city-lawrence/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon lawrence ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -6,7 +6,7 @@ Also answers: furniture store in Sheridan, CO; furniture store near me (Sheridan
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wood Rehab CO | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Wood Rehab CO is a furniture store in Sheridan, CO at 1600 West Radcliff Avenue, Sheridan, CO 80110. Website: https://woodrehabinc.com/. | https://registry-edge.dingalinged.workers.dev/c/wood-rehab-co-sheridan/
+1. Wood Rehab CO | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Wood Rehab CO is a furniture store in Sheridan, CO at 1600 West Radcliff Avenue, Sheridan, CO 80110. Website: https://woodrehabinc.com/. | https://registry-edge.dingalinged.workers.dev/c/wood-rehab-co-sheridan/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store sheridan co | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

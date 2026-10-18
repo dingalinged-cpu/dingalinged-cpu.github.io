@@ -6,7 +6,7 @@ Also answers: preschool in Pierce Township, OH; preschool near me (Pierce Townsh
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KinderCare | Organic #1 | Pulse Score 44.5/100 (Building, #1 in city) | KinderCare is a preschool in Pierce Township, OH at 3669 Appomatox Drive, Pierce Township, OH 45102. | https://registry-edge.dingalinged.workers.dev/c/kindercare-pierce-township/
+1. KinderCare | Organic #1 | Pulse Score 44.4/100 (Building, #1 in city) | KinderCare is a preschool in Pierce Township, OH at 3669 Appomatox Drive, Pierce Township, OH 45102. | https://registry-edge.dingalinged.workers.dev/c/kindercare-pierce-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool pierce township oh | category: Education & childcare | industry benchmark: Education & Instruction

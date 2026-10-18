@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. KennelResorts | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | KennelResorts is a dog boarding facility in Milford, OH at 5825 Meadow View Drive, Milford, OH 45150. Website: https://www.kennelresorts.com/. | https://registry-edge.dingalinged.workers.dev/c/kennelresorts-milford/
 2. Mary Jo's Cinti K9 | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | Mary Jo's Cinti K9 is a dog boarding facility in Milford, OH at 1003 Lila Avenue, Milford, OH 45150. Website: https://cincinnaticanine.com/. | https://registry-edge.dingalinged.workers.dev/c/mary-jos-cinti-k9-milford/
 3. Suite Paws | Organic #3 | Pulse Score 58.6/100 (Unrated, #3 in city) | Suite Paws is a dog boarding facility in Milford, OH at 768 US 50, Milford, OH 45150. Website: https://www.suitepaws.com/cincinnati/. | https://registry-edge.dingalinged.workers.dev/c/suite-paws-milford/
-4. Camp Bow Wow Milford | Organic #4 | Pulse Score 48.7/100 (Building, #4 in city) | Camp Bow Wow Milford is a dog boarding facility in Milford, OH at 892 State Route 28, Milford, OH 45150. Phone: +15134176399. Website: https://www.campbowwow.com/milford/. | https://registry-edge.dingalinged.workers.dev/c/camp-bow-wow-milford-milford/
+4. Camp Bow Wow Milford | Organic #4 | Pulse Score 48.6/100 (Building, #4 in city) | Camp Bow Wow Milford is a dog boarding facility in Milford, OH at 892 State Route 28, Milford, OH 45150. Phone: +15134176399. Website: https://www.campbowwow.com/milford/. | https://registry-edge.dingalinged.workers.dev/c/camp-bow-wow-milford-milford/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding milford oh | category: Pets | industry benchmark: Animals & Pets

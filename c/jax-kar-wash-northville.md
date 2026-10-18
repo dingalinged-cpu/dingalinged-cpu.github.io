@@ -13,7 +13,7 @@ Jax Kar Wash is a car wash in Northville, MI at 40100 Traditions Drive, Northvil
 - Website: https://jaxkarwash.com/northville-mi/northville/car-wash/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-17:00
-- Pulse Score: 51.2/100 — Unrated (not enough evidence yet) — top 83% of car washes in Detroit, MI, #2 of 2 car washes in Northville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.2/100 — Unrated (not enough evidence yet) — top 82% of car washes in Detroit, MI, #2 of 2 car washes in Northville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

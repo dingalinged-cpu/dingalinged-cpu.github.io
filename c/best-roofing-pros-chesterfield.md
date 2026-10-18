@@ -13,7 +13,7 @@ Best Roofing Pros is a roofer in Chesterfield, MO at 100 Chesterfield Business P
 - Website: https://www.getaroofingpro.com/
 - Email: info@getaroofingpro.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of roofers in Chesterfield, MO, #1 of 1 roofers in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 100% of roofers in Chesterfield, MO, #1 of 1 roofers in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

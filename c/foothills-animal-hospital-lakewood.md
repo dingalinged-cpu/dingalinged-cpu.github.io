@@ -13,7 +13,7 @@ Foothills Animal Hospital is a veterinarian in Lakewood, CO at 13015 West Alamed
 - Website: https://foothillsanimalsco.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30; Sa 08:00-13:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 11% of veterinarians in Denver, CO, #1 of 6 veterinarians in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 10% of veterinarians in Denver, CO, #1 of 6 veterinarians in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

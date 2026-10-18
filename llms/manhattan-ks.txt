@@ -27,7 +27,7 @@
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 29% of gift shops in Manhattan, KS, #2 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 29% of gift shops in Manhattan, KS, #2 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -54,7 +54,7 @@ Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
 - Website: https://www.9round.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:30-13:30,15:00-20:00; Sa 07:00-13:00
-- Pulse Score: 50.6/100 — Fair — top 100% of martial arts schools in Manhattan, KS, #2 of 2 martial arts schools in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 100% of martial arts schools in Manhattan, KS, #2 of 2 martial arts schools in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -81,7 +81,7 @@ A&H Auto Repair is an auto repair shop in Manhattan, KS at 700 South 6th Street,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 23% of auto repair shops in Manhattan, KS, #4 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 23% of auto repair shops in Manhattan, KS, #4 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -108,7 +108,7 @@ Acme Gift is a gift shop in Manhattan, KS at 1227 Moro Street, Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 11:00-17:00
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 43% of gift shops in Manhattan, KS, #3 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 43% of gift shops in Manhattan, KS, #3 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -189,7 +189,7 @@ Allstate Insurance is an insurance agent in Manhattan, KS at 3202 Kimball Avenue
 - Website: https://allstateagencies.com/BrianGreen
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:30; Fr 08:30-17:00
-- Pulse Score: 49.1/100 — Building — top 45% of insurance agents in Manhattan, KS, #4 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 34% of insurance agents in Manhattan, KS, #3 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -243,7 +243,7 @@ American Air Controlled Storage is a self-storage facility in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 67% of self-storage facilitys in Manhattan, KS, #6 of 7 self-storage facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 67% of self-storage facilitys in Manhattan, KS, #6 of 7 self-storage facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -270,7 +270,7 @@ American Family Insurance is an insurance agent in Manhattan, KS at 3320 Anderso
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Building — top 67% of insurance agents in Manhattan, KS, #6 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 56% of insurance agents in Manhattan, KS, #5 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -297,7 +297,7 @@ Amherst Self Storage is a self-storage facility in Manhattan, KS at 200 Playmate
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 45% of self-storage facilitys in Manhattan, KS, #4 of 7 self-storage facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 45% of self-storage facilitys in Manhattan, KS, #4 of 7 self-storage facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -324,7 +324,7 @@ Ann A Lee's is a gift shop in Manhattan, KS at 3905 Vanesta Drive, Manhattan, KS
 - Website: https://annaleesinc.com/
 - Email: annaleesinc@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 15% of gift shops in Manhattan, KS, #1 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 15% of gift shops in Manhattan, KS, #1 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -378,7 +378,7 @@ Arlan's Fine Wine & Spirits is a liquor store in Manhattan, KS at 131 Blue Earth
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 86% of liquor stores in Manhattan, KS, #12 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 86% of liquor stores in Manhattan, KS, #12 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -405,7 +405,7 @@ Arthur Green, LLP is a lawyer in Manhattan, KS at 801 Poyntz Avenue, Manhattan, 
 - Website: https://www.arthur-green.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Manhattan, KS, #2 of 4 lawyers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Manhattan, KS, #2 of 4 lawyers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -432,7 +432,7 @@ Ashley HomeStore is a furniture store in Manhattan, KS at 200 Sarber Lane, Manha
 - Website: https://stores.ashleyfurniture.com/store/us/kansas/manhattan/7710000176/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 13:00-17:00
-- Pulse Score: 48.8/100 — Building — top 84% of furniture stores in Manhattan, KS, #4 of 5 furniture stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 84% of furniture stores in Manhattan, KS, #4 of 5 furniture stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -459,7 +459,7 @@ B & T Southside Storage is a self-storage facility in Manhattan, KS at 810 Fair 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 23% of self-storage facilitys in Manhattan, KS, #2 of 7 self-storage facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 23% of self-storage facilitys in Manhattan, KS, #2 of 7 self-storage facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -486,7 +486,7 @@ Banter by Piercing Pagoda is a jewelry store in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.2/100 — Building — top 100% of jewelry stores in Manhattan, KS, #10 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.1/100 — Building — top 100% of jewelry stores in Manhattan, KS, #10 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -540,7 +540,7 @@ Bike Tek is a bike shop in Manhattan, KS at 1620 Fort Riley Boulevard #105, Manh
 - Website: https://biketekusa.com/manhattan/
 - Email: biketekmhk@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-15:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 100% of bike shops in Manhattan, KS, #1 of 1 bike shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 100% of bike shops in Manhattan, KS, #1 of 1 bike shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -567,7 +567,7 @@ Bill Darnell Agency is an insurance agent in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.9/100 — Building — top 100% of insurance agents in Manhattan, KS, #9 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 40.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.9/100 — Building — top 100% of insurance agents in Manhattan, KS, #9 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -594,7 +594,7 @@ Billy Vanilly is a bakery in Manhattan, KS at 705 D North 3rd Place, Manhattan, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 50% of bakerys in Manhattan, KS, #2 of 4 bakerys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 50% of bakerys in Manhattan, KS, #2 of 4 bakerys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -621,7 +621,7 @@ Blue Hills Animal Hospital is a veterinarian in Manhattan, KS at 2313 Tuttle Cre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 34% of veterinarians in Manhattan, KS, #2 of 5 veterinarians in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 34% of veterinarians in Manhattan, KS, #2 of 5 veterinarians in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -648,7 +648,7 @@ Body First Wellness & Recreation Center is a gym in Manhattan, KS at 3615 Clafli
 - Website: https://bodyfirst.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 50% of gyms in Manhattan, KS, #3 of 6 gyms in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 50% of gyms in Manhattan, KS, #3 of 6 gyms in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -675,7 +675,7 @@ Bold & Confident Dance Co. is a dance studio in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 17:30-21:00; Fr 11:00-14:00
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 50% of dance studios in Manhattan, KS, #1 of 2 dance studios in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 50% of dance studios in Manhattan, KS, #1 of 2 dance studios in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -702,7 +702,7 @@ Bourbon and Baker Bakery is a bakery in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 75% of bakerys in Manhattan, KS, #3 of 4 bakerys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 75% of bakerys in Manhattan, KS, #3 of 4 bakerys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -756,7 +756,7 @@ Brian Green Agency is an insurance agent in Manhattan, KS at 409A Poyntz Avenue,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 56% of insurance agents in Manhattan, KS, #5 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 45% of insurance agents in Manhattan, KS, #4 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -837,7 +837,7 @@ Budget Car Care is an auto repair shop in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 45% of auto repair shops in Manhattan, KS, #8 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 39% of auto repair shops in Manhattan, KS, #7 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -864,7 +864,7 @@ Bulldog Roofing LLC is a roofer in Manhattan, KS at Plymate Lane, Manhattan, KS 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of roofers in Manhattan, KS, #1 of 1 roofers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of roofers in Manhattan, KS, #1 of 1 roofers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -891,7 +891,7 @@ Burnett Automotive is an auto repair shop in Manhattan, KS at 2905 Anderson Aven
 - Website: https://burnettauto.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00; Sa 08:00-17:00
-- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 73% of auto repair shops in Manhattan, KS, #12 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 67% of auto repair shops in Manhattan, KS, #11 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -918,7 +918,7 @@ Burnett Automotive is an auto repair shop in Manhattan, KS at 400 McCall Road, M
 - Website: https://burnettauto.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Unrated (not enough evidence yet) — top 78% of auto repair shops in Manhattan, KS, #13 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 73% of auto repair shops in Manhattan, KS, #12 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -945,7 +945,7 @@ Campus Hair Styling is a hair salon in Manhattan, KS at 1206 Moro Street, Manhat
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 31% of hair salons in Manhattan, KS, #4 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 31% of hair salons in Manhattan, KS, #4 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -972,7 +972,7 @@ Candlewood Liquor is a liquor store in Manhattan, KS at 3256 Kimball Avenue, Man
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-23:00; Su 12:00-20:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 22% of liquor stores in Manhattan, KS, #3 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 22% of liquor stores in Manhattan, KS, #3 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -999,7 +999,7 @@ Candlewood Veterinary Clinic is a veterinarian in Manhattan, KS at 3262 Kimball 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 07:30-18:00; We,Sa closed "By Appt"; Su closed
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 17% of veterinarians in Manhattan, KS, #1 of 5 veterinarians in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 17% of veterinarians in Manhattan, KS, #1 of 5 veterinarians in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1053,7 +1053,7 @@ Cardinal Insurance is an insurance agent in Manhattan, KS at 507 Leavenworth Str
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 23% of insurance agents in Manhattan, KS, #2 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 12% of insurance agents in Manhattan, KS, #1 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1080,7 +1080,7 @@ Celebrations of the Heart is a bridal shop in Manhattan, KS at 401 Poyntz Avenue
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 100% of bridal shops in Manhattan, KS, #1 of 1 bridal shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 100% of bridal shops in Manhattan, KS, #1 of 1 bridal shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1134,7 +1134,7 @@ CenterPointe Physicians is a family medicine practice in Manhattan, KS at 2331 T
 - Website: https://centerpointephysicians.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 25% of family medicine practices in Manhattan, KS, #1 of 4 family medicine practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 25% of family medicine practices in Manhattan, KS, #1 of 4 family medicine practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1188,7 +1188,7 @@ Chiropractic Natural Health Care is a chiropractor in Manhattan, KS. Phone: +178
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 50% of chiropractors in Manhattan, KS, #3 of 6 chiropractors in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 50% of chiropractors in Manhattan, KS, #3 of 6 chiropractors in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1215,7 +1215,7 @@ Claire's Boutique is a gift shop in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 72% of gift shops in Manhattan, KS, #5 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 72% of gift shops in Manhattan, KS, #5 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1242,7 +1242,7 @@ Classic Wine & Spirits is a liquor store in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 93% of liquor stores in Manhattan, KS, #13 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 39.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 93% of liquor stores in Manhattan, KS, #13 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 39.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1269,7 +1269,7 @@ Combative Sports Center is a martial arts school in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 34% of martial arts schools in Manhattan, KS, #1 of 2 martial arts schools in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 34% of martial arts schools in Manhattan, KS, #1 of 2 martial arts schools in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1296,7 +1296,7 @@ Copies 4 Less is a printing service in Manhattan, KS at 2048 Tuttle Creek Boulev
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 20% of printing services in Manhattan, KS, #1 of 5 printing services in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 20% of printing services in Manhattan, KS, #1 of 5 printing services in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1323,7 +1323,7 @@ Cornerstone Family Counseling is a therapy practice in Manhattan, KS at 1408 Poy
 - Website: https://www.cornerstonefamilycounseling.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 50% of therapy practices in Manhattan, KS, #1 of 2 therapy practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 50% of therapy practices in Manhattan, KS, #1 of 2 therapy practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1350,7 +1350,7 @@ Creche is a preschool in Manhattan, KS at 8200 South Port Drive, Manhattan, KS 6
 - Website: https://crechemanhattan.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 100% of preschools in Manhattan, KS, #1 of 1 preschools in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 100% of preschools in Manhattan, KS, #1 of 1 preschools in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1377,7 +1377,7 @@ Crispy Cutz Barbershop is a hair salon in Manhattan, KS at 2048 Tuttle Creek Bou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 39% of hair salons in Manhattan, KS, #5 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 39% of hair salons in Manhattan, KS, #5 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1404,7 +1404,7 @@ Crossroad Real Estate & Auction Inc is a real estate agency in Pottawatomie Coun
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in Manhattan, KS, #1 of 1 real estate agencys in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 40. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in Manhattan, KS, #1 of 1 real estate agencys in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 39.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1431,7 +1431,7 @@ Danenberg Jewelers is a jewelry store in Manhattan, KS at 425 Poyntz Avenue, Man
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 30% of jewelry stores in Manhattan, KS, #3 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 30% of jewelry stores in Manhattan, KS, #3 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1485,7 +1485,7 @@ Dentistry By Design is a dentist in Manhattan, KS at 1110 Westport Drive, Manhat
 - Website: https://dentistrybydesignks.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 40% of dentists in Manhattan, KS, #2 of 5 dentists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 40% of dentists in Manhattan, KS, #2 of 5 dentists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1512,7 +1512,7 @@ Dillon Insurance Agency is an insurance agent in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 34% of insurance agents in Manhattan, KS, #3 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 40.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 23% of insurance agents in Manhattan, KS, #2 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1539,7 +1539,7 @@ E. Hamrick Swan Family Dentistry is a dentist in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 80% of dentists in Manhattan, KS, #4 of 5 dentists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 80% of dentists in Manhattan, KS, #4 of 5 dentists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1620,7 +1620,7 @@ Faith Furniture is a furniture store in Manhattan, KS at 302 East Poyntz Avenue,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 13:00-17:00
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 34% of furniture stores in Manhattan, KS, #2 of 5 furniture stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 34% of furniture stores in Manhattan, KS, #2 of 5 furniture stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1647,7 +1647,7 @@ FedEx Office is a printing service in Manhattan, KS at 1329 Anderson Avenue, Man
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-23:00;Sa 08:00-21:00; Su 09:00-21:00
-- Pulse Score: 47.3/100 — Building — top 60% of printing services in Manhattan, KS, #3 of 5 printing services in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 60% of printing services in Manhattan, KS, #3 of 5 printing services in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1674,7 +1674,7 @@ Feldkamp's Furniture Mart is a furniture store in Pottawatomie County, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-19:00; Fr-Sa 09:00-18:00; Su 13:00-18:00
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 67% of furniture stores in Manhattan, KS, #1 of 1 furniture stores in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 67% of furniture stores in Manhattan, KS, #1 of 1 furniture stores in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1728,7 +1728,7 @@ Firestone is an auto repair shop in Manhattan, KS at 1000 Hostetler Drive, Manha
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.2/100 — Building — top 84% of auto repair shops in Manhattan, KS, #14 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 78% of auto repair shops in Manhattan, KS, #13 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1755,7 +1755,7 @@ Flint Hills Auto Service Department is an auto repair shop in Pottawatomie Count
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 50% of auto repair shops in Manhattan, KS, #1 of 1 auto repair shops in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 45% of auto repair shops in Manhattan, KS, #1 of 1 auto repair shops in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1782,7 +1782,7 @@ Furnish is a furniture store in Manhattan, KS at 314 Poyntz Avenue, Manhattan, K
 - Website: https://furnishmhk.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-14:00; Tu-Fr 10:00-18:00; Sa 10:00-17:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 17% of furniture stores in Manhattan, KS, #1 of 5 furniture stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 17% of furniture stores in Manhattan, KS, #1 of 5 furniture stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1809,7 +1809,7 @@ Furniture Warehouse is a furniture store in Manhattan, KS at 2326 Sky-Vue Lane, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in Manhattan, KS, #5 of 5 furniture stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.7/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in Manhattan, KS, #5 of 5 furniture stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1836,7 +1836,7 @@ G. Thomas Jewelers is a jewelry store in Manhattan, KS at 419 Poyntz Avenue, Man
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:30; Sa 10:00-17:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 10% of jewelry stores in Manhattan, KS, #1 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 10% of jewelry stores in Manhattan, KS, #1 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1863,7 +1863,7 @@ Gary T. Edwards Certified Public Accountant is an accountant in Pottawatomie Cou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of accountants in Manhattan, KS, #1 of 1 accountants in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 100% of accountants in Manhattan, KS, #1 of 1 accountants in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 40.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1890,7 +1890,7 @@ Genesis Health Club is a gym in Manhattan, KS at 2800 Allison Avenue, Manhattan,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 00:00-24:00; Fr 00:00-21:00; Sa 07:00-21:00; Su 07:00-24:00
-- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 100% of gyms in Manhattan, KS, #6 of 6 gyms in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 100% of gyms in Manhattan, KS, #6 of 6 gyms in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1917,7 +1917,7 @@ Genstler Eye Center is an eye care practice in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 50% of eye care practices in Manhattan, KS, #1 of 2 eye care practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 50% of eye care practices in Manhattan, KS, #1 of 2 eye care practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1944,7 +1944,7 @@ go! calendars games & toys is a gift shop in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 58% of gift shops in Manhattan, KS, #4 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 58% of gift shops in Manhattan, KS, #4 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1971,7 +1971,7 @@ Go Spa is a massage studio in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of massage studios in Manhattan, KS, #2 of 2 massage studios in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of massage studios in Manhattan, KS, #2 of 2 massage studios in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1998,7 +1998,7 @@ Goodwill is a thrift store in Manhattan, KS at 421 East Poyntz Avenue, Manhattan
 - Website: https://www.mokangoodwill.org/locations/goodwill-manhattan
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-20:00
-- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 50% of thrift stores in Manhattan, KS, #1 of 2 thrift stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 50% of thrift stores in Manhattan, KS, #1 of 2 thrift stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2025,7 +2025,7 @@ Great Clips is a hair salon in Manhattan, KS at 840 Commons Place, Manhattan, KS
 - Website: https://www.greatclips.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00
-- Pulse Score: 49.2/100 — Building — top 85% of hair salons in Manhattan, KS, #11 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 85% of hair salons in Manhattan, KS, #11 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2052,7 +2052,7 @@ Great Clips is a hair salon in Manhattan, KS at 100 Bluemont Avenue, Manhattan, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.2/100 — Building — top 100% of hair salons in Manhattan, KS, #13 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 100% of hair salons in Manhattan, KS, #13 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2079,7 +2079,7 @@ H&R Block is a tax preparation service in Manhattan, KS at 3047 Anderson Avenue,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Building — top 67% of tax preparation services in Manhattan, KS, #2 of 3 tax preparation services in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.9/100 — Building — top 67% of tax preparation services in Manhattan, KS, #2 of 3 tax preparation services in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2160,7 +2160,7 @@ Harper Law Offices is a lawyer in Manhattan, KS at 400 Poyntz Avenue, Manhattan,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 25% of lawyers in Manhattan, KS, #1 of 4 lawyers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 25% of lawyers in Manhattan, KS, #1 of 4 lawyers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2187,7 +2187,7 @@ Harris Jewelry is a jewelry store in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 60% of jewelry stores in Manhattan, KS, #6 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 60% of jewelry stores in Manhattan, KS, #6 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2268,7 +2268,7 @@ Health Joy Massage is a massage studio in Manhattan, KS at 3218 Kimball Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 13:00-18:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of massage studios in Manhattan, KS, #1 of 2 massage studios in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 50% of massage studios in Manhattan, KS, #1 of 2 massage studios in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2295,7 +2295,7 @@ Heineken Electric is an electrician in Manhattan, KS at 1131 Hayes Drive, Manhat
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 100% of electricians in Manhattan, KS, #1 of 1 electricians in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 100% of electricians in Manhattan, KS, #1 of 1 electricians in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2322,7 +2322,7 @@ Heritage Wine & Liquor is a liquor store in Manhattan, KS at 8200, Manhattan, KS
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 12:00-20:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 29% of liquor stores in Manhattan, KS, #4 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 29% of liquor stores in Manhattan, KS, #4 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2349,7 +2349,7 @@ Homestead Rental is a furniture store in Manhattan, KS at 2332 Sky-Vue Lane, Man
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 50% of furniture stores in Manhattan, KS, #3 of 5 furniture stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 50% of furniture stores in Manhattan, KS, #3 of 5 furniture stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2376,7 +2376,7 @@ J&C Imaging is a photographer in Manhattan, KS at 404 Poyntz Avenue, Manhattan, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 50% of photographers in Manhattan, KS, #1 of 2 photographers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 50% of photographers in Manhattan, KS, #1 of 2 photographers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2403,7 +2403,7 @@ Jerry's Flooring Center is a flooring company in Pottawatomie County, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of flooring companys in Manhattan, KS, #1 of 1 flooring companys in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 41.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of flooring companys in Manhattan, KS, #1 of 1 flooring companys in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2457,7 +2457,7 @@ Junebug Photogtaphy is a photographer in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 100% of photographers in Manhattan, KS, #2 of 2 photographers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 100% of photographers in Manhattan, KS, #2 of 2 photographers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 39.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2484,7 +2484,7 @@ Kansas Guardianship Program is a lawyer in Manhattan, KS at 3248 Kimball Avenue,
 - Website: https://ksgprog.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 75% of lawyers in Manhattan, KS, #3 of 4 lawyers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 75% of lawyers in Manhattan, KS, #3 of 4 lawyers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2511,7 +2511,7 @@ Karsmzki Locksmith is a locksmith in Manhattan, KS at 1501 Yuma Street, Manhatta
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 100% of locksmiths in Manhattan, KS, #1 of 1 locksmiths in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 100% of locksmiths in Manhattan, KS, #1 of 1 locksmiths in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2538,7 +2538,7 @@ Katie's Way is a therapy practice in Manhattan, KS at 720 Poyntz Avenue, Manhatt
 - Website: https://www.katieswaymanhattan.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 100% of therapy practices in Manhattan, KS, #2 of 2 therapy practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 100% of therapy practices in Manhattan, KS, #2 of 2 therapy practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2565,7 +2565,7 @@ Kay Jewelers is a jewelry store in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Building — top 90% of jewelry stores in Manhattan, KS, #9 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.4/100 — Building — top 90% of jewelry stores in Manhattan, KS, #9 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2592,7 +2592,7 @@ Kia of Manhattan is an used car dealer in Manhattan, KS at 8223 South Port Drive
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 09:00-17:00
-- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 50% of used car dealers in Manhattan, KS, #2 of 4 used car dealers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 50% of used car dealers in Manhattan, KS, #2 of 4 used car dealers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2646,7 +2646,7 @@ Konza Vetinary Clinic is a veterinarian in Pottawatomie County, KS. Phone: +1785
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 84% of veterinarians in Manhattan, KS, #1 of 1 veterinarians in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 84% of veterinarians in Manhattan, KS, #1 of 1 veterinarians in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2673,7 +2673,7 @@ K's Nails is a nail salon in Manhattan, KS at 2030 Tuttle Creek Boulevard, Manha
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-19:00
-- Pulse Score: 48/100 — Unrated (not enough evidence yet) — top 67% of nail salons in Manhattan, KS, #2 of 3 nail salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 67% of nail salons in Manhattan, KS, #2 of 3 nail salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2700,7 +2700,7 @@ Landmark Real Estate is a real estate agency in Manhattan, KS at 3019 Anderson A
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 80% of real estate agencys in Manhattan, KS, #4 of 4 real estate agencys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 44.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 80% of real estate agencys in Manhattan, KS, #4 of 4 real estate agencys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 44.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2727,7 +2727,7 @@ Landmark Self Storage is a self-storage facility in Manhattan, KS at 2749 Eureka
 - Website: https://www.landmark-selfstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 12% of self-storage facilitys in Manhattan, KS, #1 of 7 self-storage facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 12% of self-storage facilitys in Manhattan, KS, #1 of 7 self-storage facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2781,7 +2781,7 @@ Lewis Auto Repair is an auto repair shop in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 56% of auto repair shops in Manhattan, KS, #9 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 50% of auto repair shops in Manhattan, KS, #8 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2808,7 +2808,7 @@ Liberty Tax is a tax preparation service in Manhattan, KS at 100 Bluemont Avenue
 - Website: https://www.libertytax.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 34% of tax preparation services in Manhattan, KS, #1 of 3 tax preparation services in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 34% of tax preparation services in Manhattan, KS, #1 of 3 tax preparation services in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2835,7 +2835,7 @@ Little Apple Liquor is a liquor store in Manhattan, KS at 3104 Anderson Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-23:00; Su 12:00-19:00
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 36% of liquor stores in Manhattan, KS, #5 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 36% of liquor stores in Manhattan, KS, #5 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2862,7 +2862,7 @@ Little Apple Veterinary Clinic is a veterinarian in Manhattan, KS at 909 South S
 - Website: https://www.littleapplevet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-17:00
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Manhattan, KS, #3 of 5 veterinarians in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Manhattan, KS, #3 of 5 veterinarians in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2889,7 +2889,7 @@ Manhattan Care Primary and Urgent is a family medicine practice in Manhattan, KS
 - Website: https://mhkcpu.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 50% of family medicine practices in Manhattan, KS, #2 of 4 family medicine practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 50% of family medicine practices in Manhattan, KS, #2 of 4 family medicine practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2916,7 +2916,7 @@ Manhattan Dermatology is a dermatologist in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-12:00,13:00-16:00
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 100% of dermatologists in Manhattan, KS, #1 of 1 dermatologists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 100% of dermatologists in Manhattan, KS, #1 of 1 dermatologists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2943,7 +2943,7 @@ Manhattan Eyecare is a real estate agency in Manhattan, KS at 1430 Poyntz Avenue
 - Website: https://www.manhattaneyecare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 20% of real estate agencys in Manhattan, KS, #1 of 4 real estate agencys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 20% of real estate agencys in Manhattan, KS, #1 of 4 real estate agencys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2970,7 +2970,7 @@ Manhattan Foot Specialists, PA is a podiatrist in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 100% of podiatrists in Manhattan, KS, #1 of 1 podiatrists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 100% of podiatrists in Manhattan, KS, #1 of 1 podiatrists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2997,7 +2997,7 @@ Manhattan Mini Self Storage is a self-storage facility in Manhattan, KS at 5004 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 56% of self-storage facilitys in Manhattan, KS, #5 of 7 self-storage facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 56% of self-storage facilitys in Manhattan, KS, #5 of 7 self-storage facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3024,7 +3024,7 @@ Manhattan Motors is an used car dealer in Manhattan, KS at 1826 Tuttle Creek Bou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 25% of used car dealers in Manhattan, KS, #1 of 4 used car dealers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 25% of used car dealers in Manhattan, KS, #1 of 4 used car dealers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3051,7 +3051,7 @@ Manhattan Oral Surgery and Implant Center is a dentist in Manhattan, KS at 4201 
 - Website: https://www.manhattanoralsurgerycenter.com/
 - Email: info@manhattanoralsurgerycenter.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 20% of dentists in Manhattan, KS, #1 of 5 dentists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 20% of dentists in Manhattan, KS, #1 of 5 dentists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3078,7 +3078,7 @@ Manhattan Self Storage is a self-storage facility in Manhattan, KS. Phone: +1785
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 34% of self-storage facilitys in Manhattan, KS, #3 of 7 self-storage facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 34% of self-storage facilitys in Manhattan, KS, #3 of 7 self-storage facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3105,7 +3105,7 @@ Mathis Physical Therapy is a physical therapy clinic in Manhattan, KS at 1133 Co
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of physical therapy clinics in Manhattan, KS, #1 of 1 physical therapy clinics in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 100% of physical therapy clinics in Manhattan, KS, #1 of 1 physical therapy clinics in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3132,7 +3132,7 @@ Max Hyundai of Manhattan is an used car dealer in Manhattan, KS at 7920 US 24, M
 - Website: https://www.maxhyundaimanhattan.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-17:00
-- Pulse Score: 46.8/100 — Building — top 75% of used car dealers in Manhattan, KS, #3 of 4 used car dealers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 75% of used car dealers in Manhattan, KS, #3 of 4 used car dealers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3159,7 +3159,7 @@ Max Hyundai of Manhattan - Service Center is an auto repair shop in Manhattan, K
 - Website: https://www.maxhyundaimanhattan.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-17:00
-- Pulse Score: 48.3/100 — Building — top 67% of auto repair shops in Manhattan, KS, #11 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 62% of auto repair shops in Manhattan, KS, #10 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3186,7 +3186,7 @@ McMillin Liquor is a liquor store in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-23:00
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 79% of liquor stores in Manhattan, KS, #11 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 79% of liquor stores in Manhattan, KS, #11 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3240,7 +3240,7 @@ Midas is an auto repair shop in Manhattan, KS at 330 North Seth Child Road, Manh
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.9/100 — Building — top 89% of auto repair shops in Manhattan, KS, #15 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 84% of auto repair shops in Manhattan, KS, #14 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3267,7 +3267,7 @@ Mike's Wrecker Service is an auto repair shop in Manhattan, KS at 161 McDowell C
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 17% of auto repair shops in Manhattan, KS, #3 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 17% of auto repair shops in Manhattan, KS, #3 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3294,7 +3294,7 @@ Morgan Barber Shop is a hair salon in Manhattan, KS at 427 Poyntz Avenue, Manhat
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 08:00-17:00; Sa 08:00-15:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 24% of hair salons in Manhattan, KS, #3 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 24% of hair salons in Manhattan, KS, #3 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3321,7 +3321,7 @@ Mrs. Powell's Delicious Cinnamon Rolls is a bakery in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Manhattan, KS, #4 of 4 bakerys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 39.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Manhattan, KS, #4 of 4 bakerys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 39.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3348,7 +3348,7 @@ Murdock Chevrolet is an used car dealer in Manhattan, KS at 600 McCall Road, Man
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Building — top 100% of used car dealers in Manhattan, KS, #4 of 4 used car dealers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 100% of used car dealers in Manhattan, KS, #4 of 4 used car dealers in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3375,7 +3375,7 @@ Nespor's Wine & Spirits is a liquor store in Manhattan, KS at 1338 Westloop Plac
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-23:00; Su 12:00-20:00
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 43% of liquor stores in Manhattan, KS, #6 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 43% of liquor stores in Manhattan, KS, #6 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3402,7 +3402,7 @@ New York Life is an insurance agent in Manhattan, KS at 513 Leavenworth Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 12% of insurance agents in Manhattan, KS, #1 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 89% of insurance agents in Manhattan, KS, #8 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3429,7 +3429,7 @@ Paramount Wine and Spirits is a liquor store in Manhattan, KS at 8825 East Highw
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 65% of liquor stores in Manhattan, KS, #9 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 65% of liquor stores in Manhattan, KS, #9 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3456,7 +3456,7 @@ Pediatric Associates is a pediatrician in Manhattan, KS at 1133 College Avenue #
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Unrated (not enough evidence yet) — top 100% of pediatricians in Manhattan, KS, #1 of 1 pediatricians in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.2/100 — Unrated (not enough evidence yet) — top 100% of pediatricians in Manhattan, KS, #1 of 1 pediatricians in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3483,7 +3483,7 @@ Peerless Tires is an auto repair shop in Manhattan, KS at 2829 Anderson Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 95% of auto repair shops in Manhattan, KS, #16 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 89% of auto repair shops in Manhattan, KS, #15 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3510,7 +3510,7 @@ Petco is a pet store in Manhattan, KS at 517 North 3rd Place, Manhattan, KS 6650
 - Website: https://stores.petco.com/ks/manhattan/pet-supplies-manhattan-ks-1673.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-21:00; Fr 09:00-19:00; Sa 10:00-20:00; Su 10:00-19:00
-- Pulse Score: 46.5/100 — Building — top 100% of pet stores in Manhattan, KS, #3 of 3 pet stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 100% of pet stores in Manhattan, KS, #3 of 3 pet stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3537,7 +3537,7 @@ PetSmart is a pet store in Manhattan, KS at 805 South Seth Child Road, Manhattan
 - Website: https://www.petsmart.com/stores/us/ks/manhattan-store2383.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 49.5/100 — Building — top 67% of pet stores in Manhattan, KS, #2 of 3 pet stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 67% of pet stores in Manhattan, KS, #2 of 3 pet stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3564,7 +3564,7 @@ Pfeifley Jewelers is a jewelry store in Manhattan, KS at 325 Southwind Place, Ma
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 40% of jewelry stores in Manhattan, KS, #4 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 40% of jewelry stores in Manhattan, KS, #4 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3591,7 +3591,7 @@ Phlovibe martial arts is a martial arts school in Pottawatomie County, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 67% of martial arts schools in Manhattan, KS, #1 of 1 martial arts schools in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 67% of martial arts schools in Manhattan, KS, #1 of 1 martial arts schools in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3645,7 +3645,7 @@ Platinum & Co is a hair salon in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 77% of hair salons in Manhattan, KS, #10 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 39.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 77% of hair salons in Manhattan, KS, #10 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 39. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3672,7 +3672,7 @@ Platinum & Company Beauty Bar is a hair salon in Manhattan, KS at 227 Blue Earth
 - Website: https://platinumandcompany.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-21:00; Sa 08:00-17:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 8% of hair salons in Manhattan, KS, #1 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 8% of hair salons in Manhattan, KS, #1 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3699,7 +3699,7 @@ Prairiewood Retreat and Preserve is an event venue in Riley County, KS. Website:
 - Website: https://www.prairiewood.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 100% of event venues in Manhattan, KS, #1 of 1 event venues in Riley County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 100% of event venues in Manhattan, KS, #1 of 1 event venues in Riley County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3726,7 +3726,7 @@ Precision Automotive is an auto repair shop in Manhattan, KS at 1120 Waters Stre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Manhattan, KS, #6 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 95% of auto repair shops in Manhattan, KS, #16 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3807,7 +3807,7 @@ Rally House is a gift shop in Manhattan, KS at 623 North Manhattan Avenue, Manha
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-22:00; Sa 07:00-22:00; Su 08:00-18:00
-- Pulse Score: 49.8/100 — Building — top 86% of gift shops in Manhattan, KS, #6 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 86% of gift shops in Manhattan, KS, #6 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3861,7 +3861,7 @@ Reed & Elliott Jewelers is a jewelry store in Manhattan, KS at 402 Poyntz Avenue
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 20% of jewelry stores in Manhattan, KS, #2 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 20% of jewelry stores in Manhattan, KS, #2 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3888,7 +3888,7 @@ Richard Woodard D.D.S., P.A. is a dentist in Manhattan, KS at 3200 Kimball Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 60% of dentists in Manhattan, KS, #3 of 5 dentists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 60% of dentists in Manhattan, KS, #3 of 5 dentists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3915,7 +3915,7 @@ Rickel's Liquor Store is a liquor store in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in Manhattan, KS, #14 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 39.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in Manhattan, KS, #14 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 39.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3969,7 +3969,7 @@ Rose Muffler House is an auto repair shop in Manhattan, KS at 2329 Sky-Vue Lane,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 28% of auto repair shops in Manhattan, KS, #5 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 28% of auto repair shops in Manhattan, KS, #5 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3996,7 +3996,7 @@ Ryan & Sons Realtors is a real estate agency in Manhattan, KS at 600 Humboldt St
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 60% of real estate agencys in Manhattan, KS, #3 of 4 real estate agencys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 60% of real estate agencys in Manhattan, KS, #3 of 4 real estate agencys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4023,7 +4023,7 @@ Safelite AutoGlass is an auto repair shop in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.7/100 — Building — top 100% of auto repair shops in Manhattan, KS, #17 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.6/100 — Building — top 100% of auto repair shops in Manhattan, KS, #17 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4050,7 +4050,7 @@ Schroll Body & Paint Inc. is an auto repair shop in Manhattan, KS at 630 Hayes D
 - Website: https://www.schrollbodyandpaint.com/
 - Email: office@schrollbodyandpaint.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 12% of auto repair shops in Manhattan, KS, #2 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 12% of auto repair shops in Manhattan, KS, #2 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4077,7 +4077,7 @@ Shaggieville is a hair salon in Manhattan, KS at 612 North 12th Street, Manhatta
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 16% of hair salons in Manhattan, KS, #2 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 16% of hair salons in Manhattan, KS, #2 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4104,7 +4104,7 @@ Shaw Family Chiropractic is a chiropractor in Manhattan, KS at 1325 Anderson Ave
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 10:00-19:00; We 08:00-11:00,14:00-18:00; Th-Fr 10:00-19:00; Sa 09:00-12:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 17% of chiropractors in Manhattan, KS, #1 of 6 chiropractors in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 17% of chiropractors in Manhattan, KS, #1 of 6 chiropractors in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4131,7 +4131,7 @@ Shell Rapid Lube is an auto repair shop in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 62% of auto repair shops in Manhattan, KS, #10 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 56% of auto repair shops in Manhattan, KS, #9 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4158,7 +4158,7 @@ Shelter Insurance is an insurance agent in Manhattan, KS at 2048 Tuttle Creek Bo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.9/100 — Unrated (not enough evidence yet) — top 78% of insurance agents in Manhattan, KS, #7 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.9, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 67% of insurance agents in Manhattan, KS, #6 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.9, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4185,7 +4185,7 @@ Showcase Jewelers is a jewelry store in Manhattan, KS at 501-C North 3rd Place, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 50% of jewelry stores in Manhattan, KS, #5 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 50% of jewelry stores in Manhattan, KS, #5 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4266,7 +4266,7 @@ Spencer's is a gift shop in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Building — top 100% of gift shops in Manhattan, KS, #7 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 100% of gift shops in Manhattan, KS, #7 of 7 gift shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4293,7 +4293,7 @@ Sport Clips is a hair salon in Manhattan, KS at 705 E 3rd Place, Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-17:00
-- Pulse Score: 46.5/100 — Building — top 93% of hair salons in Manhattan, KS, #12 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 93% of hair salons in Manhattan, KS, #12 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4320,7 +4320,7 @@ Stagg Hill Transmissions is an auto repair shop in Manhattan, KS at 2333 Sky-Vue
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 39% of auto repair shops in Manhattan, KS, #7 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Manhattan, KS, #6 of 17 auto repair shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4374,7 +4374,7 @@ State Farm is an insurance agent in Manhattan, KS at 511 Leavenworth Street, Man
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.7/100 — Building — top 89% of insurance agents in Manhattan, KS, #8 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.6/100 — Building — top 78% of insurance agents in Manhattan, KS, #7 of 9 insurance agents in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4401,7 +4401,7 @@ Steve's Floral is a florist in Manhattan, KS at 302 Poyntz Avenue, Manhattan, KS
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 100% of florists in Manhattan, KS, #1 of 1 florists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 100% of florists in Manhattan, KS, #1 of 1 florists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4428,7 +4428,7 @@ Stickel's Dry Cleaners is a dry cleaner in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00;Sa 07:00-17:30
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Manhattan, KS, #1 of 1 dry cleaners in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Manhattan, KS, #1 of 1 dry cleaners in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4455,7 +4455,7 @@ Stone Creek Family Physicians is a family medicine practice in Manhattan, KS at 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of family medicine practices in Manhattan, KS, #4 of 4 family medicine practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of family medicine practices in Manhattan, KS, #4 of 4 family medicine practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4482,7 +4482,7 @@ Stoneybrook Assisted Living & Memory Care is an assisted living facility in Manh
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 100% of assisted living facilitys in Manhattan, KS, #2 of 2 assisted living facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 100% of assisted living facilitys in Manhattan, KS, #2 of 2 assisted living facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4509,7 +4509,7 @@ Stormont Vail Manhattan Campus is a family medicine practice in Manhattan, KS at
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 75% of family medicine practices in Manhattan, KS, #3 of 4 family medicine practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 75% of family medicine practices in Manhattan, KS, #3 of 4 family medicine practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4536,7 +4536,7 @@ Sunflower Natural Pet Supplies is a pet store in Manhattan, KS at 527 Richards D
 - Website: https://www.sunflowerpet.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 34% of pet stores in Manhattan, KS, #1 of 3 pet stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 34% of pet stores in Manhattan, KS, #1 of 3 pet stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4563,7 +4563,7 @@ Syndicate Tattoo is a tattoo shop in Manhattan, KS at 421 Poyntz Avenue, Manhatt
 - Website: https://www.manhattansyndicate.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of tattoo shops in Manhattan, KS, #1 of 1 tattoo shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of tattoo shops in Manhattan, KS, #1 of 1 tattoo shops in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4590,7 +4590,7 @@ Tail Wagger Inn is a dog groomer in Pottawatomie County, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Manhattan, KS, #1 of 1 dog groomers in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Manhattan, KS, #1 of 1 dog groomers in Pottawatomie County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4617,7 +4617,7 @@ Tease Hair Studio is a hair salon in Manhattan, KS at 108 North 3rd Street, Manh
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 47% of hair salons in Manhattan, KS, #6 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 47% of hair salons in Manhattan, KS, #6 of 13 hair salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4644,7 +4644,7 @@ The Alms Group Real Estate is a real estate agency in Manhattan, KS at 1202 Moro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 40% of real estate agencys in Manhattan, KS, #2 of 4 real estate agencys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 40% of real estate agencys in Manhattan, KS, #2 of 4 real estate agencys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4671,7 +4671,7 @@ The Dough Bro is a bakery in Manhattan, KS at 307 South Seth Child Road, Manhatt
 - Website: https://www.thedoughbromhk.com/
 - Email: thedoughbromhk@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 25% of bakerys in Manhattan, KS, #1 of 4 bakerys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 25% of bakerys in Manhattan, KS, #1 of 4 bakerys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4698,7 +4698,7 @@ The Eye Doctors is an eye care practice in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Manhattan, KS, #2 of 2 eye care practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Manhattan, KS, #2 of 2 eye care practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4725,7 +4725,7 @@ The Fridge Wholesale Liquor is a liquor store in Manhattan, KS at 1150 Westport 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 72% of liquor stores in Manhattan, KS, #10 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 72% of liquor stores in Manhattan, KS, #10 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4806,7 +4806,7 @@ The Mattress Hub is a mattress store in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.8/100 — Unrated (not enough evidence yet) — top 100% of mattress stores in Manhattan, KS, #3 of 3 mattress stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.9/100 — Unrated (not enough evidence yet) — top 100% of mattress stores in Manhattan, KS, #3 of 3 mattress stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4833,7 +4833,7 @@ The Nail Shopped is a nail salon in Manhattan, KS at 1814 Claflin Road #120, Man
 - Website: https://www.thenailshoppeks.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 34% of nail salons in Manhattan, KS, #1 of 3 nail salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 34% of nail salons in Manhattan, KS, #1 of 3 nail salons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4860,7 +4860,7 @@ The Plastic Surgery Clinic is a plastic surgeon in Manhattan, KS at 1419 Westpor
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 100% of plastic surgeons in Manhattan, KS, #1 of 1 plastic surgeons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 100% of plastic surgeons in Manhattan, KS, #1 of 1 plastic surgeons in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4914,7 +4914,7 @@ The UPS Store is a printing service in Manhattan, KS at 1310A, Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:30;Sa 08:30-16:30
-- Pulse Score: 47/100 — Building — top 80% of printing services in Manhattan, KS, #4 of 5 printing services in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 80% of printing services in Manhattan, KS, #4 of 5 printing services in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4941,7 +4941,7 @@ The Women's Health Group, P.A. is an OB-GYN practice in Manhattan, KS at 8315 Po
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-12:00,13:00-16:30
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of OB-GYN practices in Manhattan, KS, #1 of 1 OB-GYN practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of OB-GYN practices in Manhattan, KS, #1 of 1 OB-GYN practices in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4968,7 +4968,7 @@ Timber & Stone Architecture and Design LLC is an architect in Manhattan, KS at 4
 - Website: https://www.ts-arch.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 100% of architects in Manhattan, KS, #1 of 1 architects in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 100% of architects in Manhattan, KS, #1 of 1 architects in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4995,7 +4995,7 @@ Tindall Orthodontics is a dentist in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of dentists in Manhattan, KS, #5 of 5 dentists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of dentists in Manhattan, KS, #5 of 5 dentists in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5076,7 +5076,7 @@ Ulta Beauty is a skin care studio in Manhattan, KS at 100 Manhattan Town Center 
 - Website: https://www.ulta.com/stores/manhattan-ks-1306
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 45.1/100 — Building — top 100% of skin care studios in Manhattan, KS, #1 of 1 skin care studios in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Building — top 100% of skin care studios in Manhattan, KS, #1 of 1 skin care studios in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5157,7 +5157,7 @@ Washington Dance Studio is a dance studio in Manhattan, KS at 1124 Waters Street
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 100% of dance studios in Manhattan, KS, #2 of 2 dance studios in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of dance studios in Manhattan, KS, #2 of 2 dance studios in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5211,7 +5211,7 @@ Wildcat Fitness & Fun is a gym in Manhattan, KS at 800 Anneberg Circle, Manhatta
 - Website: https://www.wildcatfitfun.com/fitness-centers
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 67% of gyms in Manhattan, KS, #4 of 6 gyms in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 67% of gyms in Manhattan, KS, #4 of 6 gyms in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5238,7 +5238,7 @@ Wildcat Vet is a veterinarian in Manhattan, KS at 2044 Tuttle Creek Boulevard, M
 - Website: https://www.wildcatvetservices.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 67% of veterinarians in Manhattan, KS, #4 of 5 veterinarians in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 67% of veterinarians in Manhattan, KS, #4 of 5 veterinarians in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5319,7 +5319,7 @@ Zales is a jewelry store in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Building — top 80% of jewelry stores in Manhattan, KS, #8 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.7/100 — Building — top 80% of jewelry stores in Manhattan, KS, #8 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Artistry Dance Lab is a dance studio in Lancaster, OH at 1406 Ety Shops Way, Lan
 - Website: https://www.artistrydancelab.com/
 - Email: artistrydancelab@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 6% of dance studios in Columbus, OH, #1 of 4 dance studios in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 6% of dance studios in Columbus, OH, #1 of 4 dance studios in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

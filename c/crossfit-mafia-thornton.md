@@ -13,7 +13,7 @@ Crossfit Mafia is a CrossFit gym in Thornton, CO at 16639 Washington Street, Tho
 - Website: https://www.crossfitmafia.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 34% of CrossFit gyms in Denver, CO, #1 of 2 CrossFit gyms in Thornton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of CrossFit gyms in Denver, CO, #1 of 2 CrossFit gyms in Thornton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

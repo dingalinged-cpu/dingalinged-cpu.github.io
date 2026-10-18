@@ -13,7 +13,7 @@ No Place Like Home is a furniture store in Boulder, CO. Website: https://www.use
 - Website: https://www.usedfurnitureboulder.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 11:00-17:00
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 25% of furniture stores in Denver, CO, #1 of 6 furniture stores in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 25% of furniture stores in Denver, CO, #1 of 6 furniture stores in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Sylvan Fine Wine & Liquor is a liquor store in Sylvan Lake, MI at 2310 Orchard L
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 64% of liquor stores in Detroit, MI, #1 of 1 liquor stores in Sylvan Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 63% of liquor stores in Detroit, MI, #1 of 1 liquor stores in Sylvan Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

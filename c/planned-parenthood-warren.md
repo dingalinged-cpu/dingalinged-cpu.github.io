@@ -13,7 +13,7 @@ Planned Parenthood is a therapy practice in Warren, MI at 29350 Van Dyke Avenue,
 - Website: https://www.plannedparenthood.org/health-center/michigan/warren/48093/warren-health-center-3834-90630
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Building — top 87% of therapy practices in Detroit, MI, #1 of 1 therapy practices in Warren (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 87% of therapy practices in Detroit, MI, #1 of 1 therapy practices in Warren (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

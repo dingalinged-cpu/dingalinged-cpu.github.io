@@ -13,7 +13,7 @@ Ricks Advanced Dermatology is a dermatologist in Topeka, KS at 5120 Southwest 28
 - Website: https://ricksderm.com/
 - Email: info@RicksDerm.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 100% of dermatologists in Topeka, KS, #1 of 1 dermatologists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 100% of dermatologists in Topeka, KS, #1 of 1 dermatologists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

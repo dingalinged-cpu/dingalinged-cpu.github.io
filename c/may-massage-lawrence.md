@@ -13,7 +13,7 @@ May Massage is a massage studio in Lawrence, KS at 2201 West 25th Street #M, Law
 - Website: https://maymassageks.wix.com/
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-22:30
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 19% of massage studios in Lawrence, KS, #2 of 11 massage studios in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 19% of massage studios in Lawrence, KS, #2 of 11 massage studios in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

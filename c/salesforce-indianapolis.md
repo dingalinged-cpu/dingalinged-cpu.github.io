@@ -13,7 +13,7 @@ Salesforce is an IT support company in Indianapolis, IN at 433 North Capitol Ave
 - Website: https://www.salesforce.com/company/careers/candidate-resources/getting-around-indianapolis/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Building — top 100% of IT support companys in Indianapolis, IN, #7 of 7 IT support companys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 100% of IT support companys in Indianapolis, IN, #7 of 7 IT support companys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

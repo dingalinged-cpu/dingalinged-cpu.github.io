@@ -7,7 +7,7 @@ Also answers: graphic designer in Lincoln Park, MI; graphic designer near me (Li
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Accents Tees | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Accents Tees is a graphic designer in Lincoln Park, MI at 3018 Fort Street, Lincoln Park, MI 48146. Phone: +17342833864. Website: https://accentstees.com/Accents_Tees/shop/home. | https://registry-edge.dingalinged.workers.dev/c/accents-tees-lincoln-park/
-2. A.S.A.P. Signs | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | A.S.A.P. Signs is a graphic designer in Lincoln Park, MI at 3321 Fort Street, Lincoln Park, MI 48146. Phone: +13133817446. | https://registry-edge.dingalinged.workers.dev/c/a-s-a-p-signs-lincoln-park/
+2. A.S.A.P. Signs | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | A.S.A.P. Signs is a graphic designer in Lincoln Park, MI at 3321 Fort Street, Lincoln Park, MI 48146. Phone: +13133817446. | https://registry-edge.dingalinged.workers.dev/c/a-s-a-p-signs-lincoln-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer lincoln park mi | category: professional_marketing | industry benchmark: Business Services

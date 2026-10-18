@@ -7,7 +7,7 @@ Also answers: window replacement in Detroit, MI; window replacement near me (Det
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Glass Block Express | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Glass Block Express is a window installer in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/glass-block-express-detroit/
-2. Detroit Window & Doors | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Detroit Window & Doors is a window installer in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/detroit-window-and-doors-detroit/
+2. Detroit Window & Doors | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Detroit Window & Doors is a window installer in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/detroit-window-and-doors-detroit/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement detroit mi | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

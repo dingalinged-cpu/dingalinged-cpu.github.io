@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Cincinnati, OH at 2770 Roberts
 - Website: https://www.extraspace.com/storage/facilities/us/ohio/cincinnati/3273/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 58% of self-storage facilitys in Cincinnati, OH, #15 of 20 self-storage facilitys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 55% of self-storage facilitys in Cincinnati, OH, #14 of 20 self-storage facilitys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

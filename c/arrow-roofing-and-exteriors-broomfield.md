@@ -13,7 +13,7 @@ Arrow Roofing and Exteriors is a roofer in Broomfield, CO at 11001 West 120th Av
 - Website: https://arrowroofco.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo - Fr 07:00-17:00; Sa 08:00-15:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 34% of roofers in Denver, CO, #1 of 3 roofers in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 34% of roofers in Denver, CO, #1 of 3 roofers in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

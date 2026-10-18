@@ -13,7 +13,7 @@ Fincher's Findings is a printing service in Hutchinson, KS at 520 East 30th Aven
 - Website: https://finchersfindings.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 30% of printing services in Wichita, KS, #2 of 3 printing services in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 30% of printing services in Wichita, KS, #2 of 3 printing services in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

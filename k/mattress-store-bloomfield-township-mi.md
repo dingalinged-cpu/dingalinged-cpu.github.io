@@ -6,7 +6,7 @@ Also answers: mattress store in Bloomfield Township, MI; mattress store near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | Organic #1 | Pulse Score 48.1/100 (Building, #1 in city) | Mattress Firm is a mattress store in Bloomfield Hills, MI at 2125 South Telegraph Road #F, Bloomfield Hills, MI 48302. Phone: +18006288737. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-bloomfield-hills/
+1. Mattress Firm | Organic #1 | Pulse Score 48/100 (Building, #1 in city) | Mattress Firm is a mattress store in Bloomfield Hills, MI at 2125 South Telegraph Road #F, Bloomfield Hills, MI 48302. Phone: +18006288737. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-bloomfield-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store bloomfield township mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

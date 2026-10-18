@@ -13,7 +13,7 @@ Verity Roofing is a roofer in Castle Rock, CO at 282 Malibu Street #Building A U
 - Website: https://verityroofing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:30; Fr 08:00-15:30
-- Pulse Score: 60.6/100 — Good — top 26% of roofers in Denver, CO, #1 of 2 roofers in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Good — top 26% of roofers in Denver, CO, #1 of 2 roofers in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: dog groomer in New Albany, OH; dog groomer near me (New Albany, OH
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kennel Club USA | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | Kennel Club USA is a dog groomer in Johnstown, OH at 12525 Jug Street, Johnstown, OH 43031. Phone: +17409678050. Website: https://www.kennelclub-usa.com/. | https://registry-edge.dingalinged.workers.dev/c/kennel-club-usa-johnstown/
+1. Kennel Club USA | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Kennel Club USA is a dog groomer in Johnstown, OH at 12525 Jug Street, Johnstown, OH 43031. Phone: +17409678050. Website: https://www.kennelclub-usa.com/. | https://registry-edge.dingalinged.workers.dev/c/kennel-club-usa-johnstown/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer new albany oh | category: Pets | industry benchmark: Animals & Pets

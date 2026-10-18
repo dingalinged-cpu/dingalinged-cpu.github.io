@@ -13,7 +13,7 @@ Fleurs & Events is a florist in Florence, KY at 7500 Oakbrook Drive #5, Florence
 - Website: https://www.fleursandevents.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-15:00; Tu-Fr 08:00-17:00; Sa 08:00-15:00
-- Pulse Score: 64.6/100 — Good — top 4% of florists in Cincinnati, OH, #1 of 2 florists in Florence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.2, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.5/100 — Good — top 4% of florists in Cincinnati, OH, #1 of 2 florists in Florence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.1, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

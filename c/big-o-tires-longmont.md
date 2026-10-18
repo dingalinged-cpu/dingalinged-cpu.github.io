@@ -13,7 +13,7 @@ Big O Tires is a tire shop in Longmont, CO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.7/100 — Unrated (not enough evidence yet) — top 87% of tire shops in Denver, CO, #3 of 6 tire shops in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.7/100 — Unrated (not enough evidence yet) — top 87% of tire shops in Denver, CO, #3 of 6 tire shops in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

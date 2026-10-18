@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Milford, OH at 751 Chamber Drive, Milford, 
 - Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Milford-OH-45150/770077/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.9/100 — Building — top 53% of self-storage facilitys in Cincinnati, OH, #5 of 6 self-storage facilitys in Milford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 50% of self-storage facilitys in Cincinnati, OH, #5 of 6 self-storage facilitys in Milford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

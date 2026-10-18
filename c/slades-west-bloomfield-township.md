@@ -13,7 +13,7 @@ Slades is a gift shop in West Bloomfield Township, MI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:30-16:30
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 43% of gift shops in Detroit, MI, #1 of 2 gift shops in West Bloomfield Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 44% of gift shops in Detroit, MI, #1 of 2 gift shops in West Bloomfield Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

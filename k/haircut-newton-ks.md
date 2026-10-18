@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. CC's Family Hair | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | CC's Family Hair is a hair salon in Newton, KS. | https://registry-edge.dingalinged.workers.dev/c/ccs-family-hair-newton/
 2. Custom Cuts Garage | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Custom Cuts Garage is a hair salon in Newton, KS. | https://registry-edge.dingalinged.workers.dev/c/custom-cuts-garage-newton/
 3. Tom's Barber Shop | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Tom's Barber Shop is a hair salon in Newton, KS. | https://registry-edge.dingalinged.workers.dev/c/toms-barber-shop-newton/
-4. Clean Cut | Organic #4 | Pulse Score 54.7/100 (Unrated, #1 in city) | Clean Cut is a barber shop in Newton, KS. | https://registry-edge.dingalinged.workers.dev/c/clean-cut-newton/
+4. Clean Cut | Organic #4 | Pulse Score 54.6/100 (Unrated, #1 in city) | Clean Cut is a barber shop in Newton, KS. | https://registry-edge.dingalinged.workers.dev/c/clean-cut-newton/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut newton ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

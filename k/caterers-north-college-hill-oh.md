@@ -6,7 +6,7 @@ Also answers: caterers in North College Hill, OH; caterers near me (North Colleg
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Filterfresh | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Filterfresh is a caterer in North College Hill, OH. | https://registry-edge.dingalinged.workers.dev/c/filterfresh-north-college-hill/
+1. Filterfresh | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Filterfresh is a caterer in North College Hill, OH. | https://registry-edge.dingalinged.workers.dev/c/filterfresh-north-college-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers north college hill oh | category: Events & weddings | industry benchmark: Personal Services

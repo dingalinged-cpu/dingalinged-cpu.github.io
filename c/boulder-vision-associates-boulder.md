@@ -13,7 +13,7 @@ Boulder Vision Associates is an eye care practice in Boulder, CO at 5305 Spine R
 - Website: https://www.bouldervision.com/
 - Email: mail@bouldervision.com
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr 09:00-17:30; We 11:00-18:30
-- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 3% of eye care practices in Denver, CO, #1 of 2 eye care practices in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 3% of eye care practices in Denver, CO, #1 of 2 eye care practices in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

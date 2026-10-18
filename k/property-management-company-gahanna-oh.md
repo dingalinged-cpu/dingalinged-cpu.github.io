@@ -6,7 +6,7 @@ Also answers: property management company in Gahanna, OH; property management co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Vista at Rocky Fork - Leasing Office | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | The Vista at Rocky Fork - Leasing Office is a property management company in Gahanna, OH at 700 Vista Drive, Gahanna, OH 43230. Phone: +16143372212. Website: https://www.vistaatrockyfork.com/. | https://registry-edge.dingalinged.workers.dev/c/the-vista-at-rocky-fork-leasing-office-gahanna/
+1. The Vista at Rocky Fork - Leasing Office | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | The Vista at Rocky Fork - Leasing Office is a property management company in Gahanna, OH at 700 Vista Drive, Gahanna, OH 43230. Phone: +16143372212. Website: https://www.vistaatrockyfork.com/. | https://registry-edge.dingalinged.workers.dev/c/the-vista-at-rocky-fork-leasing-office-gahanna/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company gahanna oh | category: Professional & financial services | industry benchmark: Finance & Insurance

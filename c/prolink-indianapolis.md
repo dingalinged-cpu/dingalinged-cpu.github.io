@@ -13,7 +13,7 @@ Prolink is a staffing agency in Indianapolis, IN at 3077 East 98th Street, India
 - Website: https://prolinkworks.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 64.7/100 — Good — top 8% of staffing agencys in Indianapolis, IN, #1 of 11 staffing agencys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 8% of staffing agencys in Indianapolis, IN, #1 of 11 staffing agencys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

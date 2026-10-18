@@ -13,7 +13,7 @@ Key Companies is a locksmith in Columbus, OH at 195 East Livingston Avenue, Colu
 - Website: https://www.keycompanies.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 67% of locksmiths in Columbus, OH, #2 of 3 locksmiths in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 67% of locksmiths in Columbus, OH, #2 of 3 locksmiths in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

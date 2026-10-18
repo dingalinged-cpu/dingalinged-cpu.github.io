@@ -13,7 +13,7 @@ Club Car Wash is a car wash in Columbia, MO at 501 Scott Boulevard, Columbia, MO
 - Website: https://clubcarwash.com/locations/columbia-mo-s-scott-blvd/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-20:00; Dec 25 off; Nov Th[4] off; Dec 31 07:00-17:00; Jan 1 09:00-19:00
-- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 50% of car washes in Columbia, MO, #6 of 12 car washes in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 50% of car washes in Columbia, MO, #6 of 12 car washes in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

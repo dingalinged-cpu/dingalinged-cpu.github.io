@@ -13,7 +13,7 @@ Cole Heating and Cooling Services LLC is a HVAC contractor in Nixa, MO at 718 Cr
 - Website: https://colehvac.com/
 - Email: david@colehvac.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Good — top 100% of HVAC contractors in Nixa, MO, #1 of 1 HVAC contractors in Nixa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Good — top 100% of HVAC contractors in Nixa, MO, #1 of 1 HVAC contractors in Nixa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

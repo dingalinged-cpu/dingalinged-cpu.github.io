@@ -7,7 +7,7 @@ Also answers: bakery in Castle Shannon, PA; bakery near me (Castle Shannon, PA);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Anthos Bakery & Café | Organic #1 | Pulse Score 61.4/100 (Unrated, #8 in city) | Anthos Bakery & Café is a bakery in Pittsburgh, PA at 3803 Willow Avenue, Pittsburgh, PA 15234. Phone: +14125339323. Website: https://www.anthosbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/anthos-bakery-and-caf-pittsburgh/
-2. Balena Bagels | Organic #2 | Pulse Score 60.1/100 (Unrated, #13 in city) | Balena Bagels is a bakery in Pittsburgh, PA at 3805 Willow Avenue, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/balena-bagels-pittsburgh/
+2. Balena Bagels | Organic #2 | Pulse Score 60.1/100 (Unrated, #14 in city) | Balena Bagels is a bakery in Pittsburgh, PA at 3805 Willow Avenue, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/balena-bagels-pittsburgh/
 3. Potomac Bakery | Organic #3 | Pulse Score 57.6/100 (Unrated, #19 in city) | Potomac Bakery is a bakery in Pittsburgh, PA at 300 Mount Lebanon Boulevard, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/potomac-bakery-pittsburgh/
 
 ## Market data (for advertisers and agents)

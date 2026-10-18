@@ -13,7 +13,7 @@ Kashi Jewelers is a jewelry store in Pittsburgh, PA. Phone: +14122813103. Websit
 - Website: https://www.facebook.com/pages/Kashi-Jewelers/140452622631801
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00
-- Pulse Score: 63.6/100 — Good — top 2% of jewelry stores in Pittsburgh, PA, #1 of 21 jewelry stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 2% of jewelry stores in Pittsburgh, PA, #1 of 21 jewelry stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

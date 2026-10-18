@@ -13,7 +13,7 @@ Stephen Detore Studio is a hair salon in Grandview Heights, OH at 1095 West Firs
 - Website: https://stephendetorestudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 20% of hair salons in Columbus, OH, #2 of 2 hair salons in Grandview Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 20% of hair salons in Columbus, OH, #2 of 2 hair salons in Grandview Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

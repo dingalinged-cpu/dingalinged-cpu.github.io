@@ -13,7 +13,7 @@ PAINT Nail Bar is a nail salon in Pittsburgh, PA at 5219 Liberty Avenue, Pittsbu
 - Website: n/a
 - Email: pittsburgh@paintnailbar.com
 - Opening hours (OSM syntax): Mo,Tu 10:00-19:00; We,Th 10:00-20:00; Fr 10:00-18:00; Sa 09:00-17:00; Su 10:00-15:00
-- Pulse Score: 64.6/100 — Good — top 2% of nail salons in Pittsburgh, PA, #1 of 21 nail salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 2% of nail salons in Pittsburgh, PA, #1 of 21 nail salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

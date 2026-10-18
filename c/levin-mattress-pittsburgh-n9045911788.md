@@ -13,7 +13,7 @@ Levin Mattress is a mattress store in Pittsburgh, PA at 6528 Steubenville Pike, 
 - Website: https://www.levinfurniture.com/furniture-store/pa/pittsburgh/6528-steubenville-pike
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 62% of mattress stores in Pittsburgh, PA, #8 of 9 mattress stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 62% of mattress stores in Pittsburgh, PA, #8 of 9 mattress stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

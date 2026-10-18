@@ -13,7 +13,7 @@ Great Clips is a hair salon in Boulder, CO at 607 South Broadway #E, Boulder, CO
 - Website: https://www.greatclips.com/salons/1139
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 9:00-21:00, Sa 8:00-18:00, Su 10:00-17:00
-- Pulse Score: 47.4/100 — Building — top 79% of hair salons in Denver, CO, #28 of 31 hair salons in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 78% of hair salons in Denver, CO, #28 of 31 hair salons in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

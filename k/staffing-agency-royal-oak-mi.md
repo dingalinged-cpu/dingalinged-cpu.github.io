@@ -6,7 +6,7 @@ Also answers: staffing agency in Royal Oak, MI; staffing agency near me (Royal O
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kelly Services | Organic #1 | Pulse Score 43.4/100 (Unrated, #1 in city) | Kelly Services is a staffing agency in Royal Oak, MI at 525 South Washington Avenue, Royal Oak, MI 48067. | https://registry-edge.dingalinged.workers.dev/c/kelly-services-royal-oak/
+1. Kelly Services | Organic #1 | Pulse Score 43.3/100 (Unrated, #1 in city) | Kelly Services is a staffing agency in Royal Oak, MI at 525 South Washington Avenue, Royal Oak, MI 48067. | https://registry-edge.dingalinged.workers.dev/c/kelly-services-royal-oak/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency royal oak mi | category: b2b_services | industry benchmark: Business Services

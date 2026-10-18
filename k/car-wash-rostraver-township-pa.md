@@ -8,9 +8,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Willowbrook Car Wash | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Willowbrook Car Wash is a car wash in Rostraver Township, PA. Phone: +17243797010. | https://registry-edge.dingalinged.workers.dev/c/willowbrook-car-wash-rostraver-township/
 2. BizWash 2 | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | BizWash 2 is a car wash in Rostraver Township, PA. | https://registry-edge.dingalinged.workers.dev/c/bizwash-2-rostraver-township/
-3. Laser Wash | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | Laser Wash is a car wash in Rostraver Township, PA. | https://registry-edge.dingalinged.workers.dev/c/laser-wash-rostraver-township/
-4. Val's Car Wash | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Val's Car Wash is a car wash in Rostraver Township, PA. | https://registry-edge.dingalinged.workers.dev/c/vals-car-wash-rostraver-township/
-5. Sheetz | Organic #5 | Pulse Score 43.9/100 (Unrated, #5 in city) | Sheetz is a car wash in Rostraver Township, PA. | https://registry-edge.dingalinged.workers.dev/c/sheetz-rostraver-township/
+3. Val's Car Wash | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | Val's Car Wash is a car wash in Rostraver Township, PA. | https://registry-edge.dingalinged.workers.dev/c/vals-car-wash-rostraver-township/
+4. Sheetz | Organic #4 | Pulse Score 43.9/100 (Unrated, #4 in city) | Sheetz is a car wash in Rostraver Township, PA. | https://registry-edge.dingalinged.workers.dev/c/sheetz-rostraver-township/
+5. Laser Wash | Organic #5 | Pulse Score 42.8/100 (Unrated, #5 in city) | Laser Wash is a car wash in Rostraver Township, PA. | https://registry-edge.dingalinged.workers.dev/c/laser-wash-rostraver-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash rostraver township pa | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

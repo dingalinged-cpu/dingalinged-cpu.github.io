@@ -13,7 +13,7 @@ La Petite Academy is a preschool in Lawrence, KS at 3200 Clinton Parkway Court, 
 - Website: https://www.lapetite.com/your-local-school/lawrence-ks-7041/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.4/100 — Building — top 100% of preschools in Lawrence, KS, #12 of 12 preschools in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 100% of preschools in Lawrence, KS, #12 of 12 preschools in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: heating and air in Milford, OH; heating and air near me (Milford, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Clark Heating Cooling | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Clark Heating Cooling is a HVAC contractor in Milford, OH at 28 Glendale Milford Road, Milford, OH. | https://registry-edge.dingalinged.workers.dev/c/clark-heating-cooling-milford/
-2. Baker Heating & Cooling | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Baker Heating & Cooling is a HVAC contractor in Milford, OH at 24 Main Street, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/baker-heating-and-cooling-milford/
+2. Baker Heating & Cooling | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Baker Heating & Cooling is a HVAC contractor in Milford, OH at 24 Main Street, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/baker-heating-and-cooling-milford/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air milford oh | category: Home Services | industry benchmark: Home & Home Improvement

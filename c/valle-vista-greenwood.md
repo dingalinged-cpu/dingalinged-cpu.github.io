@@ -13,7 +13,7 @@ Valle Vista is an event venue in Greenwood, IN at 755 East Main Street, Greenwoo
 - Website: https://www.vallevista.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.8/100 — Good — top 4% of event venues in Indianapolis, IN, #1 of 2 event venues in Greenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 4% of event venues in Indianapolis, IN, #1 of 2 event venues in Greenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

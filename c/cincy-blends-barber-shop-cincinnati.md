@@ -13,7 +13,7 @@ Cincy Blends Barber Shop is a barber shop in Cincinnati, OH at 7617 Reading Road
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 09:00-19:00
-- Pulse Score: 62.2/100 — Good — top 16% of barber shops in Cincinnati, OH, #1 of 7 barber shops in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Good — top 16% of barber shops in Cincinnati, OH, #1 of 7 barber shops in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

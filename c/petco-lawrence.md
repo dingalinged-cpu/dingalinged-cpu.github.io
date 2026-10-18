@@ -13,7 +13,7 @@ Petco is a pet store in Lawrence, KS at 3115 Iowa Street, Lawrence, KS 66046. Ph
 - Website: https://stores.petco.com/ks/lawrence/pet-supplies-lawrence-ks-863.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 46.2/100 — Building — top 78% of pet stores in Lawrence, KS, #7 of 9 pet stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 78% of pet stores in Lawrence, KS, #7 of 9 pet stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Powerhouse Gym is a gym in Troy, MI at 2585 Livernois Road, Troy, MI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 74% of gyms in Detroit, MI, #6 of 8 gyms in Troy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 74% of gyms in Detroit, MI, #6 of 8 gyms in Troy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

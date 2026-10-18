@@ -13,7 +13,7 @@ Tee's Flooring is a flooring company in Johnstown, OH at 670 West Coshocton Stre
 - Website: https://www.teesflooring.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 45% of flooring companys in Columbus, OH, #1 of 1 flooring companys in Johnstown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 45% of flooring companys in Columbus, OH, #1 of 1 flooring companys in Johnstown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

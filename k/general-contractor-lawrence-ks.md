@@ -6,7 +6,7 @@ Also answers: general contractor in Lawrence, KS; general contractor near me (La
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A-Team Custom Construction | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | A-Team Custom Construction is a general contractor in Lawrence, KS at 2951 Four Wheel Drive, Lawrence, KS 66047. Phone: +17858563039. Website: https://www.ateamhomeimprovement.com/. | https://registry-edge.dingalinged.workers.dev/c/a-team-custom-construction-lawrence/
+1. A-Team Custom Construction | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | A-Team Custom Construction is a general contractor in Lawrence, KS at 2951 Four Wheel Drive, Lawrence, KS 66047. Phone: +17858563039. Website: https://www.ateamhomeimprovement.com/. | https://registry-edge.dingalinged.workers.dev/c/a-team-custom-construction-lawrence/
 
 ## Market data (for advertisers and agents)
 - Keyword: general contractor lawrence ks | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

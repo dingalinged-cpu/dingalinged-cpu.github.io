@@ -13,7 +13,7 @@ Prevail Hair Salon William Penn Hotel is a hair salon in Pittsburgh, PA at 530 W
 - Website: https://prevailhairsalon.com/
 - Email: prevailsalon1@verizon.net
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 7% of hair salons in Pittsburgh, PA, #14 of 85 hair salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 7% of hair salons in Pittsburgh, PA, #13 of 85 hair salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

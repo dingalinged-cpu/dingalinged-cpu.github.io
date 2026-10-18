@@ -13,7 +13,7 @@ Forefront Dermatology is a dermatologist in Wildwood, MO at 16516 Manchester Roa
 - Website: https://forefrontdermatology.com/location/wildwood-mo-63040/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-16:30; Tu,Th  08:00-16:00; We 08:00-11:00; Fr 08:00-15:00
-- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 100% of dermatologists in Wildwood, MO, #1 of 1 dermatologists in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Unrated (not enough evidence yet) — top 100% of dermatologists in Wildwood, MO, #1 of 1 dermatologists in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

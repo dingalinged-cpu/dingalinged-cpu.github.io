@@ -13,7 +13,7 @@ Meineke is an auto repair shop in Pittsburgh, PA at 3265 Babcock Boulevard, Pitt
 - Website: https://www.meineke.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:30-18:00
-- Pulse Score: 49.7/100 — Building — top 73% of auto repair shops in Pittsburgh, PA, #73 of 90 auto repair shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 73% of auto repair shops in Pittsburgh, PA, #71 of 90 auto repair shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

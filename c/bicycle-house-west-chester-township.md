@@ -13,7 +13,7 @@ Bicycle House is a bike shop in West Chester Township, OH at 6844 Tylersville Ro
 - Website: https://www.bicycle-house.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 11:00-18:00; Sa 11:00-17:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 7% of bike shops in Cincinnati, OH, #1 of 3 bike shops in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 7% of bike shops in Cincinnati, OH, #1 of 3 bike shops in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

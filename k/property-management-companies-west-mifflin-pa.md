@@ -6,8 +6,8 @@ Also answers: property management companies in West Mifflin, PA; property manage
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mifflin Estates | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Mifflin Estates is a property management company in West Mifflin, PA at 503 B Drive, West Mifflin, PA 15122. Phone: +14124692257. | https://registry-edge.dingalinged.workers.dev/c/mifflin-estates-west-mifflin/
-2. Charter Oaks Village | Organic #2 | Pulse Score 56/100 (Unrated, #5 in city) | Charter Oaks Village is a property management company in Pittsburgh, PA at 100 Pleasant Hills Boulevard, Pittsburgh, PA 15236. | https://registry-edge.dingalinged.workers.dev/c/charter-oaks-village-pittsburgh/
+1. Mifflin Estates | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Mifflin Estates is a property management company in West Mifflin, PA at 503 B Drive, West Mifflin, PA 15122. Phone: +14124692257. | https://registry-edge.dingalinged.workers.dev/c/mifflin-estates-west-mifflin/
+2. Charter Oaks Village | Organic #2 | Pulse Score 55.9/100 (Unrated, #5 in city) | Charter Oaks Village is a property management company in Pittsburgh, PA at 100 Pleasant Hills Boulevard, Pittsburgh, PA 15236. | https://registry-edge.dingalinged.workers.dev/c/charter-oaks-village-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies west mifflin pa | category: real_estate | industry benchmark: Real Estate

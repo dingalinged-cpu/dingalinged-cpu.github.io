@@ -7,7 +7,7 @@ Also answers: eye doctor in Boulder, CO; eye doctor near me (Boulder, CO); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Boulder Vision Associates | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Boulder Vision Associates is an eye care practice in Boulder, CO at 5305 Spine Road #B, Boulder, CO 80301. Phone: +13035302020. Website: https://www.bouldervision.com/. | https://registry-edge.dingalinged.workers.dev/c/boulder-vision-associates-boulder/
-2. Gunbarrel Optometry | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Gunbarrel Optometry is an eye care practice in Boulder, CO at 6545 Gunpark Drive #250, Boulder, CO 80301. | https://registry-edge.dingalinged.workers.dev/c/gunbarrel-optometry-boulder/
+2. Gunbarrel Optometry | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Gunbarrel Optometry is an eye care practice in Boulder, CO at 6545 Gunpark Drive #250, Boulder, CO 80301. | https://registry-edge.dingalinged.workers.dev/c/gunbarrel-optometry-boulder/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor boulder co | category: Health & medical | industry benchmark: Physicians & Surgeons

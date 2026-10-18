@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Centennial, CO at 20209 East Smoky Hill Roa
 - Website: https://palmbeachtan.com/locations/CO/Centennial
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 75% of tanning salons in Denver, CO, #2 of 2 tanning salons in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 75% of tanning salons in Denver, CO, #2 of 2 tanning salons in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

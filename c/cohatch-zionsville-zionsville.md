@@ -13,7 +13,7 @@ COhatch Zionsville is a coworking space in Zionsville, IN at 75 North Main Stree
 - Website: https://www.cohatch.com/locations/indianapolis/zionsville/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.8/100 — Good — top 17% of coworking spaces in Indianapolis, IN, #1 of 1 coworking spaces in Zionsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 17% of coworking spaces in Indianapolis, IN, #1 of 1 coworking spaces in Zionsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

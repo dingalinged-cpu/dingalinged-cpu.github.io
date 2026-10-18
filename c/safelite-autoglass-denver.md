@@ -13,7 +13,7 @@ Safelite AutoGlass is an auto repair shop in Denver, CO at 7880 West Quincy Aven
 - Website: https://www.safelite.com/stores/sw-lakewood
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00; Sa 08:00-17:00; Su off
-- Pulse Score: 47.6/100 — Building — top 76% of auto repair shops in Denver, CO, #115 of 127 auto repair shops in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 76% of auto repair shops in Denver, CO, #114 of 127 auto repair shops in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

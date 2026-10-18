@@ -13,7 +13,7 @@ Dobbs Tire & Auto Center is an auto repair shop in Fenton, MO. Website: https://
 - Website: https://www.dobbstireandauto.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Unrated (not enough evidence yet) — top 89% of auto repair shops in St. Louis, MO, #5 of 5 auto repair shops in Fenton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.7/100 — Unrated (not enough evidence yet) — top 89% of auto repair shops in St. Louis, MO, #5 of 5 auto repair shops in Fenton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

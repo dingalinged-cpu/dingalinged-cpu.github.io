@@ -6,7 +6,7 @@ Also answers: moving company in Westminster, CO; moving company near me (Westmin
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Box Store Custom Hitches | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | The Box Store Custom Hitches is a moving company in Westminster, CO at 8001 Federal Boulevard, Westminster, CO 80030. | https://registry-edge.dingalinged.workers.dev/c/the-box-store-custom-hitches-westminster/
+1. The Box Store Custom Hitches | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | The Box Store Custom Hitches is a moving company in Westminster, CO at 8001 Federal Boulevard, Westminster, CO 80030. | https://registry-edge.dingalinged.workers.dev/c/the-box-store-custom-hitches-westminster/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company westminster co | category: Home services - Moving | industry benchmark: Home & Home Improvement

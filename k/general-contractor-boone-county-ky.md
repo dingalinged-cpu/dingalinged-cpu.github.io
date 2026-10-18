@@ -6,7 +6,7 @@ Also answers: general contractor in Boone County, KY; general contractor near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Corbin Custom Remodelers | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Corbin Custom Remodelers is a general contractor in Boone County, KY. | https://registry-edge.dingalinged.workers.dev/c/corbin-custom-remodelers-boone-county/
+1. Corbin Custom Remodelers | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Corbin Custom Remodelers is a general contractor in Boone County, KY. | https://registry-edge.dingalinged.workers.dev/c/corbin-custom-remodelers-boone-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: general contractor boone county ky | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

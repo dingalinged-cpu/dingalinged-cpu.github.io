@@ -6,8 +6,8 @@ Also answers: orthopedic surgeon in Montgomery, OH; orthopedic surgeon near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cincinnati SportsMedicine & Orthopaedic Center | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Cincinnati SportsMedicine & Orthopaedic Center is an orthopedic surgeon in Montgomery, OH. Website: https://www.cincinnatisportsmed.com/. | https://registry-edge.dingalinged.workers.dev/c/cincinnati-sportsmedicine-and-orthopaedic-center-montgomery/
-2. Bethesda Orthopedic Surgery Center | Organic #2 | Pulse Score 44.8/100 (Unrated, #2 in city) | Bethesda Orthopedic Surgery Center is an orthopedic surgeon in Montgomery, OH. Website: https://www.trihealth.com/hospitals-and-practices/bethesda-surgery-center/. | https://registry-edge.dingalinged.workers.dev/c/bethesda-orthopedic-surgery-center-montgomery/
+1. Cincinnati SportsMedicine & Orthopaedic Center | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Cincinnati SportsMedicine & Orthopaedic Center is an orthopedic surgeon in Montgomery, OH. Website: https://www.cincinnatisportsmed.com/. | https://registry-edge.dingalinged.workers.dev/c/cincinnati-sportsmedicine-and-orthopaedic-center-montgomery/
+2. Bethesda Orthopedic Surgery Center | Organic #2 | Pulse Score 44.7/100 (Unrated, #2 in city) | Bethesda Orthopedic Surgery Center is an orthopedic surgeon in Montgomery, OH. Website: https://www.trihealth.com/hospitals-and-practices/bethesda-surgery-center/. | https://registry-edge.dingalinged.workers.dev/c/bethesda-orthopedic-surgery-center-montgomery/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon montgomery oh | category: Health & medical | industry benchmark: Physicians & Surgeons

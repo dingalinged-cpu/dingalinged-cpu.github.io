@@ -13,7 +13,7 @@ The Lasik Vision Institute is an eye care practice in Ross Township, PA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo, Th-Fr 09:00-17:00; Sa 09:00-15:00
-- Pulse Score: 44.5/100 — Building — top 97% of eye care practices in Pittsburgh, PA, #3 of 3 eye care practices in Ross Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.4/100 — Building — top 97% of eye care practices in Pittsburgh, PA, #3 of 3 eye care practices in Ross Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

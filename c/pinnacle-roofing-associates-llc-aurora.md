@@ -13,7 +13,7 @@ Pinnacle Roofing Associates LLC is a roofer in Aurora, CO. Website: https://pinn
 - Website: https://pinnacleroofingassociates.com/
 - Email: Pinnacleroofingassociates@gmail.com
 - Opening hours (OSM syntax): Mo-Su 07:00-21:00
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 67% of roofers in Denver, CO, #1 of 6 roofers in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 67% of roofers in Denver, CO, #1 of 6 roofers in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Fifth Circle Martial Arts is a martial arts school in Shelby Charter Township, M
 - Website: https://fifthcirclema.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 15:00-20:00; Fr 15:00-18:00; Sa 09:00-13:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 23% of martial arts schools in Detroit, MI, #1 of 3 martial arts schools in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 23% of martial arts schools in Detroit, MI, #1 of 3 martial arts schools in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

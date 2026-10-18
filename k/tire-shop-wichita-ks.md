@@ -6,7 +6,7 @@ Also answers: tire shop in Wichita, KS; tire shop near me (Wichita, KS); best ti
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TJ Tire Shop | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | TJ Tire Shop is a tire shop in Wichita, KS at 1718 South Hillside Street, Wichita, KS 67211. | https://registry-edge.dingalinged.workers.dev/c/tj-tire-shop-wichita/
+1. TJ Tire Shop | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | TJ Tire Shop is a tire shop in Wichita, KS at 1718 South Hillside Street, Wichita, KS 67211. | https://registry-edge.dingalinged.workers.dev/c/tj-tire-shop-wichita/
 2. Discount Tire | Organic #2 | Pulse Score 50.9/100 (Fair, #2 in city) | Discount Tire is a tire shop in Wichita, KS at 7236 West 21st Street North, Wichita, KS 67205. Phone: +13163472590. Website: https://www.discounttire.com/store/ks/wichita/s/2111. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-wichita/
 
 ## Market data (for advertisers and agents)

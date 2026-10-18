@@ -13,7 +13,7 @@ Jennifer Bishop’s School of Dance is a dance studio in Alton, IL at 652 East B
 - Website: https://www.jbsdpac.com/
 - Email: Jbsddance@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 14:00-21:30
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 17% of dance studios in St. Louis, MO, #1 of 2 dance studios in Alton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 17% of dance studios in St. Louis, MO, #1 of 2 dance studios in Alton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

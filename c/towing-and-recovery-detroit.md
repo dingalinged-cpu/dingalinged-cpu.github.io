@@ -13,7 +13,7 @@ Towing & Recovery is an used car dealer in Detroit, MI at 5025 Tireman Street, D
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 3% of used car dealers in Detroit, MI, #1 of 32 used car dealers in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 3% of used car dealers in Detroit, MI, #1 of 32 used car dealers in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

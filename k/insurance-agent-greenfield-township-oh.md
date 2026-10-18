@@ -6,7 +6,7 @@ Also answers: insurance agent in Greenfield Township, OH; insurance agent near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Western & Southern Life | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Western & Southern Life is an insurance agent in Greenfield Township, OH at 1583 Victor Road, Greenfield Township, OH. | https://registry-edge.dingalinged.workers.dev/c/western-and-southern-life-greenfield-township/
+1. Western & Southern Life | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Western & Southern Life is an insurance agent in Greenfield Township, OH at 1583 Victor Road, Greenfield Township, OH. | https://registry-edge.dingalinged.workers.dev/c/western-and-southern-life-greenfield-township/
 2. State Farm | Organic #2 | Pulse Score 44.9/100 (Building, #18 in city) | State Farm is an insurance agent in Lancaster, OH at 3036 Columbus-Lancaster Road Northwest, Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/state-farm-lancaster-w1087095599/
 
 ## Market data (for advertisers and agents)

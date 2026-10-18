@@ -13,7 +13,7 @@ ModWash is a car wash in Washington, PA at 1410 Washington Road, Washington, PA 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00
-- Pulse Score: 48.8/100 — Building — top 70% of car washes in Pittsburgh, PA, #3 of 3 car washes in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 69% of car washes in Pittsburgh, PA, #3 of 3 car washes in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Fantastic Sams is a hair salon in Wentzville, MO at 1808 Wentzville Parkway, Wen
 - Website: https://www.fantasticsams.com/about/regions/st-louis-mo/fantastic-sams-wentzville-mo
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 67% of hair salons in Wentzville, MO, #2 of 3 hair salons in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 67% of hair salons in Wentzville, MO, #2 of 3 hair salons in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ HORAN is an insurance agent in Fort Mitchell, KY at 207 Grandview Drive #Suite 1
 - Website: https://horanassoc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 10% of insurance agents in Cincinnati, OH, #1 of 2 insurance agents in Fort Mitchell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 10% of insurance agents in Cincinnati, OH, #1 of 2 insurance agents in Fort Mitchell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

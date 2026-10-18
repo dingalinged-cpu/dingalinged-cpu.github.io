@@ -13,7 +13,7 @@ A Total Tan is a tanning salon in Fishers, IN at 11745 Allisonville Road, Fisher
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Unrated (not enough evidence yet) — top 74% of tanning salons in Indianapolis, IN, #2 of 2 tanning salons in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.5/100 — Unrated (not enough evidence yet) — top 74% of tanning salons in Indianapolis, IN, #2 of 2 tanning salons in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

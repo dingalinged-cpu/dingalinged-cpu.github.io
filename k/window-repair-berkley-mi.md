@@ -6,7 +6,7 @@ Also answers: window repair in Berkley, MI; window repair near me (Berkley, MI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Henderson Glass | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Henderson Glass is a window repair service in Berkley, MI. | https://registry-edge.dingalinged.workers.dev/c/henderson-glass-berkley/
+1. Henderson Glass | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Henderson Glass is a window repair service in Berkley, MI. | https://registry-edge.dingalinged.workers.dev/c/henderson-glass-berkley/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair berkley mi | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

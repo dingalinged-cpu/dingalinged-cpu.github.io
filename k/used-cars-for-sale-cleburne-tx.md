@@ -1,0 +1,34 @@
+The top unpaid used cars for sale listing for Cleburne, TX is Barron's Auto (an used car dealer in Cleburne, TX at 1009 East Henderson Street, Cleburne, TX. Phone: +18173814021. Website: https://www.barronsautocleburne.com/). 12 used cars for sale businesses are listed for Cleburne, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best used cars for sale providers in Cleburne, TX?
+
+Also answers: used cars for sale in Cleburne, TX; used cars for sale near me (Cleburne, TX); best used cars for sale Cleburne, TX; top rated used cars for sale Cleburne, TX; affordable used cars for sale Cleburne, TX; emergency used cars for sale Cleburne, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Barron's Auto | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Barron's Auto is an used car dealer in Cleburne, TX at 1009 East Henderson Street, Cleburne, TX. Phone: +18173814021. Website: https://www.barronsautocleburne.com/. | https://registry-edge.dingalinged.workers.dev/c/barrons-auto-cleburne/
+2. Affordable Auto Concepts | Organic #2 | Pulse Score 62.5/100 (Unrated, #2 in city) | Affordable Auto Concepts is an used car dealer in Cleburne, TX at 819 North Main Street, Cleburne, TX 76033. Phone: +18177742925. Website: https://affordableautoconcepts.com/. | https://registry-edge.dingalinged.workers.dev/c/affordable-auto-concepts-cleburne/
+3. Hommel Auto Sales | Organic #3 | Pulse Score 61.5/100 (Good, #3 in city) | Hommel Auto Sales is an used car dealer in Cleburne, TX at 508 South Main Street, Cleburne, TX 76033. Phone: +18176413330. Website: https://www.hommelauto.com/. | https://registry-edge.dingalinged.workers.dev/c/hommel-auto-sales-cleburne/
+4. KAR Motor Company | Organic #4 | Pulse Score 60.4/100 (Unrated, #4 in city) | KAR Motor Company is an used car dealer in Cleburne, TX at 302 South Caddo Street, Cleburne, TX. Phone: +18176661111. Website: https://www.txkar.com/. | https://registry-edge.dingalinged.workers.dev/c/kar-motor-company-cleburne/
+5. Meadows Motor Company | Organic #5 | Pulse Score 60.4/100 (Unrated, #5 in city) | Meadows Motor Company is an used car dealer in Cleburne, TX at 908 South Main Street, Cleburne, TX. Phone: +18172029770. Website: https://www.meadowsmotorcompany.com/. | https://registry-edge.dingalinged.workers.dev/c/meadows-motor-company-cleburne/
+6. Barron's Auto | Organic #6 | Pulse Score 59.8/100 (Unrated, #6 in city) | Barron's Auto is an used car dealer in Cleburne, TX at 1603 North Main Street, Cleburne, TX 76033. Phone: +18175582277. Website: https://barronsautoent.com/. | https://registry-edge.dingalinged.workers.dev/c/barrons-auto-cleburne-w1150100960/
+7. AutoWorld | Organic #7 | Pulse Score 59.4/100 (Unrated, #7 in city) | AutoWorld is an used car dealer in Cleburne, TX at 3218 North Main Street, Cleburne, TX 76033. Phone: +18778694439. Website: https://www.autoworldcleburne.com/. | https://registry-edge.dingalinged.workers.dev/c/autoworld-cleburne/
+8. Bill White Motor Co | Organic #8 | Pulse Score 58.6/100 (Unrated, #8 in city) | Bill White Motor Co is an used car dealer in Cleburne, TX at 1102 South Main Street, Cleburne, TX 76033. Phone: +18174098281. Website: https://www.billwhitemotorco.net/. | https://registry-edge.dingalinged.workers.dev/c/bill-white-motor-co-cleburne/
+9. Cowboys Cars | Organic #9 | Pulse Score 58.1/100 (Unrated, #9 in city) | Cowboys Cars is an used car dealer in Cleburne, TX at 309 South Main Street, Cleburne, TX 76033. Phone: +18177742355. Website: https://www.cowboyscars.com/. | https://registry-edge.dingalinged.workers.dev/c/cowboys-cars-cleburne/
+10. Southwest Chrysler Dodge Jeep Ram | Organic #10 | Pulse Score 58.1/100 (Unrated, #10 in city) | Southwest Chrysler Dodge Jeep Ram is an used car dealer in Cleburne, TX at 2235 North Main Street, Cleburne, TX 76033. Phone: +18177602896. Website: https://www.southwestcdjrtexas.com/. | https://registry-edge.dingalinged.workers.dev/c/southwest-chrysler-dodge-jeep-ram-cleburne/
+11. Doug's Used Cars | Organic #11 | Pulse Score 57.7/100 (Unrated, #11 in city) | Doug's Used Cars is an used car dealer in Cleburne, TX at 601 South Main Street, Cleburne, TX. Phone: +18176450005. | https://registry-edge.dingalinged.workers.dev/c/dougs-used-cars-cleburne/
+12. EJ | Organic #12 | Pulse Score 53.7/100 (Unrated, #12 in city) | EJ is an used car dealer in Cleburne, TX. | https://registry-edge.dingalinged.workers.dev/c/ej-cleburne/
+
+## Market data (for advertisers and agents)
+- Keyword: used cars for sale cleburne tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 12
+- Equivalent Google Ads cost per month: n/a
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/used-cars-for-sale.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#used-cars-for-sale-cleburne-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

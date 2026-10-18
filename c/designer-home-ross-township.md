@@ -13,7 +13,7 @@ Designer Home is a furniture store in Ross Township, PA at 7500 McKnight Road, R
 - Website: https://dupgh.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 14% of furniture stores in Pittsburgh, PA, #1 of 8 furniture stores in Ross Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 14% of furniture stores in Pittsburgh, PA, #1 of 8 furniture stores in Ross Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

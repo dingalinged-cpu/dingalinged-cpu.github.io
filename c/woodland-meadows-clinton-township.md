@@ -13,7 +13,7 @@ Woodland Meadows is a property management company in Clinton Township, MI at 357
 - Website: https://www.livewoodlandmeadowsapts.com/
 - Email: woodlandmeadows@greystar.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00
-- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 3% of property management companys in Detroit, MI, #1 of 2 property management companys in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 3% of property management companys in Detroit, MI, #1 of 2 property management companys in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

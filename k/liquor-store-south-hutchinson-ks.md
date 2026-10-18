@@ -7,7 +7,7 @@ Also answers: liquor store in South Hutchinson, KS; liquor store near me (South 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. 505 Tobacco & Liquor | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | 505 Tobacco & Liquor is a liquor store in South Hutchinson, KS at 328 North Main Street, South Hutchinson, KS. Phone: +16208885508. | https://registry-edge.dingalinged.workers.dev/c/505-tobacco-and-liquor-south-hutchinson/
-2. Geak Liquor | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Geak Liquor is a liquor store in South Hutchinson, KS. | https://registry-edge.dingalinged.workers.dev/c/geak-liquor-south-hutchinson/
+2. Geak Liquor | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Geak Liquor is a liquor store in South Hutchinson, KS. | https://registry-edge.dingalinged.workers.dev/c/geak-liquor-south-hutchinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store south hutchinson ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

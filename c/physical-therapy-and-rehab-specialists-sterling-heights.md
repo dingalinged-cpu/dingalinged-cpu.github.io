@@ -13,7 +13,7 @@ Physical Therapy & Rehab Specialists is a physical therapy clinic in Sterling He
 - Website: https://ptandrehab.urpt.com/locations/sterling-heights/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 09:00-19:00; Tu,Fr 07:00-15:00; Th 10:00-19:00; 
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 13% of physical therapy clinics in Detroit, MI, #10 of 23 physical therapy clinics in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 12% of physical therapy clinics in Detroit, MI, #9 of 23 physical therapy clinics in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

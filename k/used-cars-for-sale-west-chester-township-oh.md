@@ -1,4 +1,4 @@
-The top unpaid used cars for sale listing for West Chester Township, OH is Denny’s Pisgah Auto Sales (an used car dealer in West Chester Township, OH at 9171 Cincinnati Columbus Road, West Chester Township, OH. Phone: +15137791527). 4 used cars for sale businesses are listed for West Chester Township, OH as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for West Chester Township, OH is Clean Car Depot (an used car dealer in West Chester Township, OH. Phone: +15137551741). 4 used cars for sale businesses are listed for West Chester Township, OH as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in West Chester Township, OH?
 
@@ -6,8 +6,8 @@ Also answers: used cars for sale in West Chester Township, OH; used cars for sal
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Denny’s Pisgah Auto Sales | Organic #1 | Pulse Score 58.9/100 (Unrated, #2 in city) | Denny’s Pisgah Auto Sales is an used car dealer in West Chester Township, OH at 9171 Cincinnati Columbus Road, West Chester Township, OH. Phone: +15137791527. | https://registry-edge.dingalinged.workers.dev/c/denny-s-pisgah-auto-sales-west-chester-township/
-2. Clean Car Depot | Organic #2 | Pulse Score 58.9/100 (Unrated, #1 in city) | Clean Car Depot is an used car dealer in West Chester Township, OH. Phone: +15137551741. | https://registry-edge.dingalinged.workers.dev/c/clean-car-depot-west-chester-township/
+1. Clean Car Depot | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Clean Car Depot is an used car dealer in West Chester Township, OH. Phone: +15137551741. | https://registry-edge.dingalinged.workers.dev/c/clean-car-depot-west-chester-township/
+2. Denny’s Pisgah Auto Sales | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Denny’s Pisgah Auto Sales is an used car dealer in West Chester Township, OH at 9171 Cincinnati Columbus Road, West Chester Township, OH. Phone: +15137791527. | https://registry-edge.dingalinged.workers.dev/c/denny-s-pisgah-auto-sales-west-chester-township/
 3. A+ Auto Sales | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | A+ Auto Sales is an used car dealer in West Chester Township, OH. Phone: +15137595470. | https://registry-edge.dingalinged.workers.dev/c/a-auto-sales-west-chester-township/
 4. Unlimited Auto Group | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Unlimited Auto Group is an used car dealer in West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/unlimited-auto-group-west-chester-township/
 

@@ -6,7 +6,7 @@ Also answers: jewelry store in Garden City, KS; jewelry store near me (Garden Ci
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goldworks | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Goldworks is a jewelry store in Garden City, KS at 1005 North Main Street, Garden City, KS 67846. | https://registry-edge.dingalinged.workers.dev/c/goldworks-garden-city/
+1. Goldworks | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Goldworks is a jewelry store in Garden City, KS at 1005 North Main Street, Garden City, KS 67846. | https://registry-edge.dingalinged.workers.dev/c/goldworks-garden-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store garden city ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

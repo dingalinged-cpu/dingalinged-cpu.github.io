@@ -13,7 +13,7 @@ UPMC Orthopedic Specialists is an orthopedic surgeon in Monroeville, PA at 4803 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 100% of orthopedic surgeons in Pittsburgh, PA, #1 of 1 orthopedic surgeons in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Unrated (not enough evidence yet) — top 100% of orthopedic surgeons in Pittsburgh, PA, #1 of 1 orthopedic surgeons in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

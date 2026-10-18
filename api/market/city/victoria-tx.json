@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Victoria, TX",
+ "description": "Top Victoria, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Victoria, TX",
+ "geography": null,
+ "keywords": 27,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "moving company victoria tx",
+    "slug": "moving-company-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-victoria-tx/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.41,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "attorney victoria tx",
+    "slug": "attorney-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-victoria-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "lawyer victoria tx",
+    "slug": "lawyer-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-victoria-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "storage units victoria tx",
+    "slug": "storage-units-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-victoria-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "movers victoria tx",
+    "slug": "movers-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/movers-victoria-tx/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.23,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "bakery victoria tx",
+    "slug": "bakery-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-victoria-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "photographer victoria tx",
+    "slug": "photographer-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-victoria-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tax preparer victoria tx",
+    "slug": "tax-preparer-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-victoria-tx/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.87,
+    "cpc_median_usd": 5.87,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dentist victoria tx",
+    "slug": "dentist-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-victoria-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.7,
+    "cpc_median_usd": 8.0,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "haircut victoria tx",
+    "slug": "haircut-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-victoria-tx/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "auto repair victoria tx",
+    "slug": "auto-repair-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-victoria-tx/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "car wash victoria tx",
+    "slug": "car-wash-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-victoria-tx/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "mechanic victoria tx",
+    "slug": "mechanic-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-victoria-tx/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "tire shop victoria tx",
+    "slug": "tire-shop-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-victoria-tx/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "furniture store victoria tx",
+    "slug": "furniture-store-victoria-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-victoria-tx/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

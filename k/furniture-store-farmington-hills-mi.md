@@ -7,7 +7,7 @@ Also answers: furniture store in Farmington Hills, MI; furniture store near me (
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Second Showing | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Second Showing is a furniture store in Farmington Hills, MI at 27883 Orchard Lake Road, Farmington Hills, MI 48334. Phone: +12489872134. Website: https://secondshowingconsignment.com/. | https://registry-edge.dingalinged.workers.dev/c/second-showing-farmington-hills/
-2. Abode Furniture | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Abode Furniture is a furniture store in Farmington Hills, MI at 33322 West 12 Mile Road, Farmington Hills, MI. | https://registry-edge.dingalinged.workers.dev/c/abode-furniture-farmington-hills/
+2. Abode Furniture | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Abode Furniture is a furniture store in Farmington Hills, MI at 33322 West 12 Mile Road, Farmington Hills, MI. | https://registry-edge.dingalinged.workers.dev/c/abode-furniture-farmington-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store farmington hills mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Pro Active Chiropractic Center is a chiropractor in Columbia, MO at 1 East Broad
 - Website: https://www.drscottstiffey.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 50% of chiropractors in Columbia, MO, #1 of 2 chiropractors in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 50% of chiropractors in Columbia, MO, #1 of 2 chiropractors in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

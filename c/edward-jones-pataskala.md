@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Pataskala, OH at 460 East Broad Street, P
 - Website: https://www.edwardjones.com/us-en
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 51.5/100 — Fair — top 29% of financial advisors in Columbus, OH, #1 of 1 financial advisors in Pataskala (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.5/100 — Fair — top 29% of financial advisors in Columbus, OH, #1 of 1 financial advisors in Pataskala (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 65.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,470 @@
+# Company Registry: company records, metro waxahachie-tx
+
+> 17 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+1st Nails is a nail salon in Waxahachie, TX at 401 North US Highway 77 #5, Waxahachie, TX 75165. Website: https://1st-nails-waxahachie.jany.io/.
+
+# 1st Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: 401 North US Highway 77 #5, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.406297, -96.8439484
+- Phone: n/a
+- Website: https://1st-nails-waxahachie.jany.io/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-19:00
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 50% of nail salons in Waxahachie, TX, #1 of 2 nail salons in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/1st-nails-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/1st-nails-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14281322744 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Century 21 Judge Fite Company is a real estate agency in Waxahachie, TX at 507 North US Highway 77 #210, Waxahachie, TX 75165. Phone: +19729383636. Website: https://century21judgefite.com/.
+
+# Century 21 Judge Fite Company
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 507 North US Highway 77 #210, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.408114, -96.8444171
+- Phone: +19729383636
+- Website: https://century21judgefite.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:30
+- Pulse Score: 48.4/100 — Building — top 100% of real estate agencys in Waxahachie, TX, #1 of 1 real estate agencys in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/century-21-judge-fite-company-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/century-21-judge-fite-company-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14291124287 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+College Street Printing is a printing service in Waxahachie, TX at 111 North College Street, Waxahachie, TX. Website: https://collegestreetprinting.com/.
+
+# College Street Printing
+
+- Category: printing services
+- Services: printing services
+- Address: 111 North College Street, Waxahachie, TX
+- City: Waxahachie
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.386114, -96.8471934
+- Phone: n/a
+- Website: https://collegestreetprinting.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 100% of printing services in Waxahachie, TX, #1 of 1 printing services in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/college-street-printing-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/college-street-printing-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14287377774 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ellis County Event Center is an event venue in Waxahachie, TX at 1200 Kingdom Circle, Waxahachie, TX 75167. Phone: +19729230990. Website: https://elliscountyevents.com/.
+
+# Ellis County Event Center
+
+- Category: event venues
+- Services: event venues
+- Address: 1200 Kingdom Circle, Waxahachie, TX 75167
+- City: Waxahachie
+- State: TX
+- ZIP: 75167
+- Coordinates: 32.3182355, -96.862722
+- Phone: +19729230990
+- Website: https://elliscountyevents.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 100% of event venues in Waxahachie, TX, #1 of 1 event venues in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ellis-county-event-center-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ellis-county-event-center-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/717805233 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hullabaloo Henna Tattoo is a tattoo shop in Ellis County, TX at 204 Traveller's Road, Ellis County, TX.
+
+# Hullabaloo Henna Tattoo
+
+- Category: tattoo shop
+- Services: tattoo shop
+- Address: 204 Traveller's Road, Ellis County, TX
+- City: Ellis County
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3609216, -96.8912954
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 100% of tattoo shops in Waxahachie, TX, #1 of 1 tattoo shops in Ellis County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hullabaloo-henna-tattoo-ellis-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hullabaloo-henna-tattoo-ellis-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1385621663 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jackson Hewitt is a tax preparation service in Waxahachie, TX at 401 North US Highway 77 #7, Waxahachie, TX 75165. Phone: +19726171040.
+
+# Jackson Hewitt
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 401 North US Highway 77 #7, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.406208, -96.8439143
+- Phone: +19726171040
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.4/100 — Building — top 100% of tax preparation services in Waxahachie, TX, #1 of 1 tax preparation services in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jackson-hewitt-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14281322746 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Microscope Enhanced General Dentistry is a dentist in Waxahachie, TX at 401 North US Highway 77 #10, Waxahachie, TX 75165.
+
+# Microscope Enhanced General Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 401 North US Highway 77 #10, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.4059815, -96.8437759
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 50% of dentists in Waxahachie, TX, #1 of 2 dentists in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/microscope-enhanced-general-dentistry-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/microscope-enhanced-general-dentistry-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14281322750 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+MINT Dentistry is a dentist in Waxahachie, TX at 507 North US Highway 77 #512, Waxahachie, TX 75165.
+
+# MINT Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 507 North US Highway 77 #512, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.408885, -96.8441626
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:30
+- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 100% of dentists in Waxahachie, TX, #2 of 2 dentists in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mint-dentistry-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mint-dentistry-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14291124288 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Paradise Nails & Spa is a nail salon in Waxahachie, TX at 507 North US Highway 77 #616, Waxahachie, TX 75165. Website: https://paradisenailspatx.com/.
+
+# Paradise Nails & Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: 507 North US Highway 77 #616, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.4092227, -96.8438405
+- Phone: n/a
+- Website: https://paradisenailspatx.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 11:00-17:00
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 100% of nail salons in Waxahachie, TX, #2 of 2 nail salons in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/paradise-nails-and-spa-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/paradise-nails-and-spa-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14291124291 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Reeves Electrical Contracting Inc. is an electrician in Waxahachie, TX at 3314 Greathouse Road, Waxahachie, TX 75167. Phone: +19729380893. Website: https://www.electricalcontractorwaxahachie.com/.
+
+# Reeves Electrical Contracting Inc.
+
+- Category: electrician
+- Services: electrician
+- Address: 3314 Greathouse Road, Waxahachie, TX 75167
+- City: Waxahachie
+- State: TX
+- ZIP: 75167
+- Coordinates: 32.3228717, -96.9198789
+- Phone: +19729380893
+- Website: https://www.electricalcontractorwaxahachie.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 00:00-24:00; Sa 08:00-19:00; Su 15:00-23:00
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 100% of electricians in Waxahachie, TX, #1 of 1 electricians in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/reeves-electrical-contracting-inc-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/reeves-electrical-contracting-inc-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5130020700 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+REM Pilates is a gym in Waxahachie, TX at 401 North US Highway 77 #1, Waxahachie, TX 75165. Phone: +12148301385. Website: https://www.rempilates.com/.
+
+# REM Pilates
+
+- Category: gym
+- Services: gym
+- Address: 401 North US Highway 77 #1, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.4064555, -96.8439107
+- Phone: +12148301385
+- Website: https://www.rempilates.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 05:00-13:00,16:00-20:00; Sa-Su 06:00-23:00
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 50% of gyms in Waxahachie, TX, #1 of 2 gyms in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rem-pilates-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rem-pilates-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14281322740 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Stretch Zone is a physical therapy clinic in Waxahachie, TX at 401 North US Highway 77 #14, Waxahachie, TX 75165. Phone: +14695502000. Website: https://www.stretchzone.com/locations/waxahachie/.
+
+# Stretch Zone
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 401 North US Highway 77 #14, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.4057713, -96.843621
+- Phone: +14695502000
+- Website: https://www.stretchzone.com/locations/waxahachie/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 100% of physical therapy clinics in Waxahachie, TX, #1 of 1 physical therapy clinics in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/stretch-zone-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/stretch-zone-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14281322754 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sweet Somethings Bakery is a bakery in Waxahachie, TX at 507 North US Highway 77 #615, Waxahachie, TX 75165. Website: https://www.facebook.com/p/Sweet-Somethings-Bakery-61586731936171/.
+
+# Sweet Somethings Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: 507 North US Highway 77 #615, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.4092775, -96.8438338
+- Phone: n/a
+- Website: https://www.facebook.com/p/Sweet-Somethings-Bakery-61586731936171/
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Sa 08:00-18:00; Su 12:00-17:00
+- Pulse Score: 61.3/100 — Good — top 100% of bakerys in Waxahachie, TX, #1 of 1 bakerys in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sweet-somethings-bakery-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sweet-somethings-bakery-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14291124293 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tom E. Smalley, Attorney at Law is a lawyer in Waxahachie, TX at 115 North College Street, Waxahachie, TX 75165. Phone: +19729380658. Website: https://www.familylawyer-tx.com/.
+
+# Tom E. Smalley, Attorney at Law
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 115 North College Street, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.3862315, -96.8471245
+- Phone: +19729380658
+- Website: https://www.familylawyer-tx.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Waxahachie, TX, #1 of 1 lawyers in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tom-e-smalley-attorney-at-law-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tom-e-smalley-attorney-at-law-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14287377776 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tru Love Salons is a hair salon in Waxahachie, TX at 110 North College Street, Waxahachie, TX 75165. Phone: +12149037208. Website: https://www.trulovesalons.com/.
+
+# Tru Love Salons
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 110 North College Street, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.3859283, -96.8470054
+- Phone: +12149037208
+- Website: https://www.trulovesalons.com/
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Sa 10:00-18:00
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Waxahachie, TX, #1 of 1 hair salons in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tru-love-salons-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tru-love-salons-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14284048759 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Waxahachie Foot Spa is a massage studio in Waxahachie, TX at 401 North US Highway 77 #11B, Waxahachie, TX 75165. Website: https://waxahachiefootspa.com/.
+
+# Waxahachie Foot Spa
+
+- Category: massage
+- Services: massage
+- Address: 401 North US Highway 77 #11B, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.4058859, -96.8437051
+- Phone: n/a
+- Website: https://waxahachiefootspa.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-21:30
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 100% of massage studios in Waxahachie, TX, #1 of 1 massage studios in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/waxahachie-foot-spa-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/waxahachie-foot-spa-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14281322752 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Waxahachie Gymnastics Center is a gym in Waxahachie, TX at 505 North US Highway 77 #100, Waxahachie, TX 75165. Phone: +12144638050. Website: https://www.waxahachiegymnastics.com/.
+
+# Waxahachie Gymnastics Center
+
+- Category: gym
+- Services: gym
+- Address: 505 North US Highway 77 #100, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.4080085, -96.8438489
+- Phone: +12144638050
+- Website: https://www.waxahachiegymnastics.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 100% of gyms in Waxahachie, TX, #2 of 2 gyms in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/waxahachie-gymnastics-center-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/waxahachie-gymnastics-center-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14291124285 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

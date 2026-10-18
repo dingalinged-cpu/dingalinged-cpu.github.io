@@ -13,7 +13,7 @@ Pup-A-Razzi is a dog groomer in Powell, OH at 47 Depot Street, Powell, OH 43065.
 - Website: https://www.puparazzipetsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 19% of dog groomers in Columbus, OH, #1 of 1 dog groomers in Powell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 19% of dog groomers in Columbus, OH, #1 of 1 dog groomers in Powell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Cinnaholic is a bakery in Noblesville, IN at 13185 Harrell Parkway #150, Noblesv
 - Website: https://locations.cinnaholic.com/ll/us/in/noblesville/13185-harrell-parkway-suite-150/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 90% of bakerys in Indianapolis, IN, #1 of 1 bakerys in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 87% of bakerys in Indianapolis, IN, #1 of 1 bakerys in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

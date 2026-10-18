@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Topeka, KS at 2190 Southwest Wanamaker 
 - Website: https://stores.ashleyfurniture.com/store/us/kansas/topeka/9000190773
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 48.3/100 — Building — top 100% of furniture stores in Topeka, KS, #5 of 5 furniture stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 100% of furniture stores in Topeka, KS, #5 of 5 furniture stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

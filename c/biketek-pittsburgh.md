@@ -13,7 +13,7 @@ Biketek is a bike shop in Pittsburgh, PA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Sa 11:00-16:00; Mo,We 11:00-18:00; Tu,Th 11:00-19:00; Fr,Su off
-- Pulse Score: 58.3/100 — Fair — top 50% of bike shops in Pittsburgh, PA, #6 of 14 bike shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 44.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Fair — top 50% of bike shops in Pittsburgh, PA, #6 of 14 bike shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 44.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

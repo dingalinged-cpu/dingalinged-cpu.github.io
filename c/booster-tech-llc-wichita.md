@@ -13,7 +13,7 @@ Booster Tech LLC is an electrician in Wichita, KS at 213 Alvena Court, Wichita, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa 10:00-14:00; Su off
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 50% of electricians in Wichita, KS, #1 of 1 electricians in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 50% of electricians in Wichita, KS, #1 of 1 electricians in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: business consultant in Springfield, MO; business consultant near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Media Medic | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Media Medic is a business consultant in Springfield, MO at 601 North National Avenue #117b, Springfield, MO 65806. Phone: +18668000167. Website: https://www.mediamedic.studio/. | https://registry-edge.dingalinged.workers.dev/c/media-medic-springfield/
+1. Media Medic | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Media Medic is a business consultant in Springfield, MO at 601 North National Avenue #117b, Springfield, MO 65806. Phone: +18668000167. Website: https://www.mediamedic.studio/. | https://registry-edge.dingalinged.workers.dev/c/media-medic-springfield/
 2. Pension Consultants inc. | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Pension Consultants inc. is a business consultant in Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/pension-consultants-inc-springfield/
 3. Sandler by Trustpoint | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Sandler by Trustpoint is a business consultant in Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/sandler-by-trustpoint-springfield/
 

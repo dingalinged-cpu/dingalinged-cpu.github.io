@@ -13,7 +13,7 @@ Michael J. Feigel, DMD LLC is a dentist in Pittsburgh, PA at 213 South Craig Str
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-17:00; Tu 11:00-19:00; We 08:00-17:00; Th, Fr 08:00-14:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 10% of dentists in Pittsburgh, PA, #5 of 62 dentists in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 10% of dentists in Pittsburgh, PA, #5 of 62 dentists in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

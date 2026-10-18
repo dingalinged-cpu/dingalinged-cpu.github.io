@@ -13,7 +13,7 @@ Page Law is a lawyer in Saint Peters, MO at 24 Richmond Center Court, Saint Pete
 - Website: https://www.pagelaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 100% of lawyers in O'Fallon, MO, #1 of 1 lawyers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 100% of lawyers in O'Fallon, MO, #1 of 1 lawyers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

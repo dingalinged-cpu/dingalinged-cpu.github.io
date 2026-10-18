@@ -13,7 +13,7 @@ Tukel Eye Center is an eye care practice in Dearborn, MI at 1922 Monroe Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-12:00
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 50% of eye care practices in Detroit, MI, #1 of 3 eye care practices in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 50% of eye care practices in Detroit, MI, #1 of 3 eye care practices in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

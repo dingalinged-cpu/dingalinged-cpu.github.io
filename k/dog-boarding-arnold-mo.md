@@ -6,8 +6,8 @@ Also answers: dog boarding in Arnold, MO; dog boarding near me (Arnold, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Playful Paws | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Playful Paws is a dog boarding facility in Arnold, MO at 2160 Tenbrook Road, Arnold, MO 63010. Phone: +16363333880. Website: https://www.myplayfulpaws.net/. | https://registry-edge.dingalinged.workers.dev/c/playful-paws-arnold/
-2. Stargate Kennel | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Stargate Kennel is a dog boarding facility in Arnold, MO at 2643 Stonecrest Drive, Arnold, MO 63010. Website: https://stargatekennel.com/. | https://registry-edge.dingalinged.workers.dev/c/stargate-kennel-arnold/
+1. Playful Paws | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Playful Paws is a dog boarding facility in Arnold, MO at 2160 Tenbrook Road, Arnold, MO 63010. Phone: +16363333880. Website: https://www.myplayfulpaws.net/. | https://registry-edge.dingalinged.workers.dev/c/playful-paws-arnold/
+2. Stargate Kennel | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Stargate Kennel is a dog boarding facility in Arnold, MO at 2643 Stonecrest Drive, Arnold, MO 63010. Website: https://stargatekennel.com/. | https://registry-edge.dingalinged.workers.dev/c/stargate-kennel-arnold/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding arnold mo | category: Pets | industry benchmark: Animals & Pets

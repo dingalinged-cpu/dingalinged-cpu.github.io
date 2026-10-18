@@ -6,7 +6,7 @@ Also answers: assisted living in Saint Charles, MO; assisted living near me (Sai
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cedarhurst Senior Living of St. Charles | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Cedarhurst Senior Living of St. Charles is an assisted living facility in Saint Charles, MO at 1800 First Capitol Drive, Saint Charles, MO 63301. Phone: +16362600024. | https://registry-edge.dingalinged.workers.dev/c/cedarhurst-senior-living-of-st-charles-saint-charles/
+1. Cedarhurst Senior Living of St. Charles | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Cedarhurst Senior Living of St. Charles is an assisted living facility in Saint Charles, MO at 1800 First Capitol Drive, Saint Charles, MO 63301. Phone: +16362600024. | https://registry-edge.dingalinged.workers.dev/c/cedarhurst-senior-living-of-st-charles-saint-charles/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living saint charles mo | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

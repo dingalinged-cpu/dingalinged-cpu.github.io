@@ -13,7 +13,7 @@ Larson & Miller Injury Law is a lawyer in Springfield, MO at 3331 East Ridgeview
 - Website: https://www.larsonlaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa, Su off
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 11% of lawyers in Springfield, MO, #2 of 19 lawyers in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 11% of lawyers in Springfield, MO, #2 of 19 lawyers in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

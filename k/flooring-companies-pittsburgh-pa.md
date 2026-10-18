@@ -6,7 +6,7 @@ Also answers: flooring companies in Pittsburgh, PA; flooring companies near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Young Brothers Flooring | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Young Brothers Flooring is a flooring company in Pittsburgh, PA at 8232 Perry Highway, Pittsburgh, PA 15237. Phone: +14123645151. Website: https://youngbrothersflooring.com/. | https://registry-edge.dingalinged.workers.dev/c/young-brothers-flooring-pittsburgh/
+1. Young Brothers Flooring | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Young Brothers Flooring is a flooring company in Pittsburgh, PA at 8232 Perry Highway, Pittsburgh, PA 15237. Phone: +14123645151. Website: https://youngbrothersflooring.com/. | https://registry-edge.dingalinged.workers.dev/c/young-brothers-flooring-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies pittsburgh pa | category: Home services - Flooring | industry benchmark: Home & Home Improvement

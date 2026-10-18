@@ -6,7 +6,7 @@ Also answers: physical therapy in Warren, MI; physical therapy near me (Warren, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ATI Physical Therapist | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | ATI Physical Therapist is a physical therapy clinic in Warren, MI. | https://registry-edge.dingalinged.workers.dev/c/ati-physical-therapist-warren/
+1. ATI Physical Therapist | Organic #1 | Pulse Score 41.5/100 (Unrated, #1 in city) | ATI Physical Therapist is a physical therapy clinic in Warren, MI. | https://registry-edge.dingalinged.workers.dev/c/ati-physical-therapist-warren/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy warren mi | category: Health & medical | industry benchmark: Physicians & Surgeons

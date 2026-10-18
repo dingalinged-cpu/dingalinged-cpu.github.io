@@ -13,7 +13,7 @@ MT Nails is a nail salon in Wildwood, MO at 16588 Manchester Road, Wildwood, MO 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:30; Sa 09:30-18:30; Su 11:00-16:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 50% of nail salons in Wildwood, MO, #1 of 1 nail salons in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 50% of nail salons in Wildwood, MO, #1 of 1 nail salons in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

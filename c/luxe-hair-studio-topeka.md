@@ -13,7 +13,7 @@ Luxe Hair Studio is a hair salon in Topeka, KS at 1920 Southwest Westport Drive,
 - Website: https://www.luxetopeka.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 6% of hair salons in Topeka, KS, #1 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 6% of hair salons in Topeka, KS, #1 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

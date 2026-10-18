@@ -13,7 +13,7 @@ Ed Martin Toyota is an used car dealer in Noblesville, IN at 9230 East 141st Str
 - Website: https://www.edmartintoyota.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.1/100 — Building — top 93% of used car dealers in Indianapolis, IN, #2 of 2 used car dealers in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 91% of used car dealers in Indianapolis, IN, #2 of 2 used car dealers in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

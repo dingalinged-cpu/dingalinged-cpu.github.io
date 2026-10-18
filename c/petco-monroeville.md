@@ -13,7 +13,7 @@ Petco is a pet store in Monroeville, PA at 2723 Stroschein Road, Monroeville, PA
 - Website: https://stores.petco.com/pa/monroeville/pet-supplies-monroeville-pa-1822.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 48.1/100 — Building — top 63% of pet stores in Pittsburgh, PA, #2 of 5 pet stores in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 61% of pet stores in Pittsburgh, PA, #2 of 5 pet stores in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

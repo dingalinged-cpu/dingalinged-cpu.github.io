@@ -6,7 +6,7 @@ Also answers: urgent care in Thornton, CO; urgent care near me (Thornton, CO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. NextCare Urgent Care | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | NextCare Urgent Care is an urgent care clinic in Thornton, CO at 9720 Grant Street, Thornton, CO 80229. Phone: +13037563499. Website: https://nextcare.com/locations/co/thornton/. | https://registry-edge.dingalinged.workers.dev/c/nextcare-urgent-care-thornton/
+1. NextCare Urgent Care | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | NextCare Urgent Care is an urgent care clinic in Thornton, CO at 9720 Grant Street, Thornton, CO 80229. Phone: +13037563499. Website: https://nextcare.com/locations/co/thornton/. | https://registry-edge.dingalinged.workers.dev/c/nextcare-urgent-care-thornton/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care thornton co | category: Health & medical | industry benchmark: Physicians & Surgeons

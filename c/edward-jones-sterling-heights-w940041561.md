@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Sterling Heights, MI at 37316 Schoenherr 
 - Website: https://www.edwardjones.com/us-en/financial-advisor/susan-brown
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-16:30
-- Pulse Score: 50.2/100 — Fair — top 66% of financial advisors in Detroit, MI, #7 of 7 financial advisors in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 64% of financial advisors in Detroit, MI, #7 of 7 financial advisors in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

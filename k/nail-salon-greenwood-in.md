@@ -7,7 +7,7 @@ Also answers: nail salon in Greenwood, IN; nail salon near me (Greenwood, IN); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Talent Nails | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Talent Nails is a nail salon in Greenwood, IN at 707 South Madison Avenue, Greenwood, IN 46143. | https://registry-edge.dingalinged.workers.dev/c/talent-nails-greenwood/
-2. US Nails | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | US Nails is a nail salon in Greenwood, IN at 640 US 31 S #C, Greenwood, IN 46142. | https://registry-edge.dingalinged.workers.dev/c/us-nails-greenwood/
+2. US Nails | Organic #2 | Pulse Score 45.8/100 (Unrated, #2 in city) | US Nails is a nail salon in Greenwood, IN at 640 US 31 S #C, Greenwood, IN 46142. | https://registry-edge.dingalinged.workers.dev/c/us-nails-greenwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon greenwood in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

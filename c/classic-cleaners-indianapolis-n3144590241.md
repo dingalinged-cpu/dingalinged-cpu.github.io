@@ -13,7 +13,7 @@ Classic Cleaners is a dry cleaner in Indianapolis, IN at 9893 North Michigan Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.6/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Indianapolis, IN, #11 of 11 dry cleaners in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.6/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Indianapolis, IN, #11 of 11 dry cleaners in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Classic cleaners is a dry cleaner in Carmel, IN. Phone: +13175739844. Website: h
 - Website: https://classiccleaners.net/tag/dry-cleaning-clay-terrace/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:30-16:30
-- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 50% of dry cleaners in Indianapolis, IN, #5 of 11 dry cleaners in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 50% of dry cleaners in Indianapolis, IN, #5 of 11 dry cleaners in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

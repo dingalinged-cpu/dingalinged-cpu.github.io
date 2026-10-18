@@ -13,7 +13,7 @@ Michigan Works! Roseville is a staffing agency in Roseville, MI at 15950 East 12
 - Website: https://www.macomb-stclairworks.org/
 - Email: info@macomb-stclairworks.org
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 8% of staffing agencys in Detroit, MI, #1 of 2 staffing agencys in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 8% of staffing agencys in Detroit, MI, #1 of 2 staffing agencys in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

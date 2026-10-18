@@ -13,7 +13,7 @@ Spun Bicycles is a bike shop in Cincinnati, OH at 4122 A Hamilton Avenue, Cincin
 - Website: https://spunbicycles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-19:00; Tu-Th 11:00-20:00; Fr 11:00-18:00; Sa 10:00-17:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 14% of bike shops in Cincinnati, OH, #1 of 14 bike shops in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 14% of bike shops in Cincinnati, OH, #1 of 14 bike shops in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

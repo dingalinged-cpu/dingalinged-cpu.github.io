@@ -13,7 +13,7 @@ Salvation Army is a thrift store in Shelby Charter Township, MI at 51200 Van Dyk
 - Website: https://satruck.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00
-- Pulse Score: 50.4/100 — Unrated (not enough evidence yet) — top 45% of thrift stores in Detroit, MI, #1 of 1 thrift stores in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 49% of thrift stores in Detroit, MI, #1 of 1 thrift stores in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

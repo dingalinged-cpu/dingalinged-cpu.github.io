@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Dublin, OH. Website: https://palmbeachtan.c
 - Website: https://palmbeachtan.com/locations/OH/Dublin-Sawmill-Road
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 73% of tanning salons in Columbus, OH, #3 of 3 tanning salons in Dublin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 73% of tanning salons in Columbus, OH, #3 of 3 tanning salons in Dublin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

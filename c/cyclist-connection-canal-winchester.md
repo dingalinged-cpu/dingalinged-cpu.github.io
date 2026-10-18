@@ -13,7 +13,7 @@ Cyclist Connection is a bike shop in Canal Winchester, OH at 200 Winchester Ceme
 - Website: https://www.cyclistconnection.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 22% of bike shops in Columbus, OH, #1 of 1 bike shops in Canal Winchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 22% of bike shops in Columbus, OH, #1 of 1 bike shops in Canal Winchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

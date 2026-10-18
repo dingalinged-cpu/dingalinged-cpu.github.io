@@ -6,7 +6,7 @@ Also answers: roofer in Orange Township, OH; roofer near me (Orange Township, OH
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kalkreuth Roofing | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Kalkreuth Roofing is a roofer in Orange Township, OH. | https://registry-edge.dingalinged.workers.dev/c/kalkreuth-roofing-orange-township/
+1. Kalkreuth Roofing | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | Kalkreuth Roofing is a roofer in Orange Township, OH. | https://registry-edge.dingalinged.workers.dev/c/kalkreuth-roofing-orange-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer orange township oh | category: Home services - Roofing | industry benchmark: Home & Home Improvement

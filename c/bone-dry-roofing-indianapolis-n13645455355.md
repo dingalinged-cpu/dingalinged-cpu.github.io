@@ -13,7 +13,7 @@ Bone Dry Roofing is a roofer in Indianapolis, IN at 9149 Rockville Road, Indiana
 - Website: https://bonedry.com/indianapolis/service-areas/avon-in/?bdr_campaign=BDR-DIG-DIR-ROOF-IN-PHO-DIRECTORY-202511-AVONEXTERNALDIRECTORY
 - Email: info@bonedry.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.8/100 — Building — top 96% of roofers in Indianapolis, IN, #15 of 16 roofers in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 96% of roofers in Indianapolis, IN, #15 of 16 roofers in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

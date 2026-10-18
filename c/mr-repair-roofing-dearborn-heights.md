@@ -13,7 +13,7 @@ Mr. Repair Roofing is a roofer in Dearborn Heights, MI at 26620 Baldwin Street, 
 - Website: https://mrrepairroofing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:00; Sa 09:00-15:00
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 65% of roofers in Detroit, MI, #1 of 1 roofers in Dearborn Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 65% of roofers in Detroit, MI, #1 of 1 roofers in Dearborn Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

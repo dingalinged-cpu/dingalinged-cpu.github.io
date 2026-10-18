@@ -13,7 +13,7 @@ Leadership Excelleration is a business consultant in Cincinnati, OH at 5905 East
 - Website: https://lei-consulting.com/
 - Email: info@lei-consulting.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 64.3/100 — Good — top 20% of business consultants in Cincinnati, OH, #1 of 2 business consultants in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 64.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 20% of business consultants in Cincinnati, OH, #1 of 2 business consultants in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

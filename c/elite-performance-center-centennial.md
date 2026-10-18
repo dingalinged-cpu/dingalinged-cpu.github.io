@@ -13,7 +13,7 @@ Elite Performance Center is a gym in Centennial, CO at 6839 South Vine Street, C
 - Website: https://eliteperformcenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): Sa-Su 05:00-23:00; Mo-Fr 04:00-00:00
-- Pulse Score: 49.2/100 — Building — top 59% of gyms in Denver, CO, #11 of 15 gyms in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 58% of gyms in Denver, CO, #11 of 15 gyms in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

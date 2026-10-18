@@ -13,7 +13,7 @@ Dogtopia is a dog boarding facility in Indianapolis, IN at 2221 Broad Ripple Ave
 - Website: https://www.dogtopia.com/indianapolis-broad-ripple/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.9/100 — Building — top 92% of dog boarding facilitys in Indianapolis, IN, #4 of 4 dog boarding facilitys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 92% of dog boarding facilitys in Indianapolis, IN, #4 of 4 dog boarding facilitys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

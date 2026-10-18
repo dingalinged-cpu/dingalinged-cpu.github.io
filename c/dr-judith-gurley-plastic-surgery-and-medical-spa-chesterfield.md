@@ -13,7 +13,7 @@ Dr. Judith Gurley Plastic Surgery & Medical Spa is a plastic surgeon in Chesterf
 - Website: https://www.judithgurley.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo - Fr  08:30 - 16:30
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 34% of plastic surgeons in St. Louis, MO, #1 of 1 plastic surgeons in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 34% of plastic surgeons in St. Louis, MO, #1 of 1 plastic surgeons in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

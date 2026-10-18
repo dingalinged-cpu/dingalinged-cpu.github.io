@@ -6,7 +6,7 @@ Also answers: notary in Wilkins Township, PA; notary near me (Wilkins Township, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Swanson's Notary | Organic #1 | Pulse Score 60.3/100 (Unrated, #2 in city) | Swanson's Notary is a notary service in Pittsburgh, PA at 995 Greensburg Pike, Pittsburgh, PA 15112. Phone: +14122422000. | https://registry-edge.dingalinged.workers.dev/c/swansons-notary-pittsburgh/
+1. Swanson's Notary | Organic #1 | Pulse Score 59.7/100 (Unrated, #2 in city) | Swanson's Notary is a notary service in Pittsburgh, PA at 995 Greensburg Pike, Pittsburgh, PA 15112. Phone: +14122422000. | https://registry-edge.dingalinged.workers.dev/c/swansons-notary-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: notary wilkins township pa | category: Professional & financial services | industry benchmark: Finance & Insurance

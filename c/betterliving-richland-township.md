@@ -13,7 +13,7 @@ Betterliving is a window installer in Richland Township, PA. Phone: +17244499901
 - Website: https://betterlivingpatiospgh.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 25% of window installers in Pittsburgh, PA, #1 of 1 window installers in Richland Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 25% of window installers in Pittsburgh, PA, #1 of 1 window installers in Richland Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

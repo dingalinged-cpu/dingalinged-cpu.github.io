@@ -13,7 +13,7 @@ Brakes Plus is an auto repair shop in Westminster, CO at 7401 West 92nd Avenue, 
 - Website: https://www.brakesplus.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00;Sa 08:00-17:00
-- Pulse Score: 49.1/100 — Building — top 70% of auto repair shops in Denver, CO, #9 of 13 auto repair shops in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 69% of auto repair shops in Denver, CO, #9 of 13 auto repair shops in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

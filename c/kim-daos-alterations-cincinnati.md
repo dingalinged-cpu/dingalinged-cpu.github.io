@@ -13,7 +13,7 @@ Kim Dao's Alterations is a tailor in Cincinnati, OH at 21 East Court Street, Cin
 - Website: https://www.kimalterations.com/
 - Email: kim@kimalterations.com
 - Opening hours (OSM syntax): Mo-Sa 12:00-16:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 13% of tailors in Cincinnati, OH, #1 of 4 tailors in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 13% of tailors in Cincinnati, OH, #1 of 4 tailors in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

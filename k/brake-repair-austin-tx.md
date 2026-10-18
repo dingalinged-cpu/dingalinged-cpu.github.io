@@ -1,0 +1,30 @@
+The top unpaid brake repair listing for Austin, TX is Excalibur Auto Repair (an auto repair shop in Austin, TX at 8701 Research Boulevard #H, Austin, TX 78758. Phone: +15124543733. Website: https://excaliburautorepair.com/). 7 brake repair businesses are listed for Austin, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best brake repair providers in Austin, TX?
+
+Also answers: brake repair in Austin, TX; brake repair near me (Austin, TX); best brake repair Austin, TX; top rated brake repair Austin, TX; affordable brake repair Austin, TX; emergency brake repair Austin, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Excalibur Auto Repair | Organic #1 | Pulse Score 66.3/100 (Good, #1 in city) | Excalibur Auto Repair is an auto repair shop in Austin, TX at 8701 Research Boulevard #H, Austin, TX 78758. Phone: +15124543733. Website: https://excaliburautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/excalibur-auto-repair-austin/
+2. Hill Country European Autoworks | Organic #2 | Pulse Score 60.6/100 (Unrated, #33 in city) | Hill Country European Autoworks is an auto repair shop in Austin, TX at 11190 Circle Drive ##400, Austin, TX 78736. Phone: +15123754232. | https://registry-edge.dingalinged.workers.dev/c/hill-country-european-autoworks-austin/
+3. Austin's Automotive Specialists | Organic #3 | Pulse Score 49.6/100 (Unrated, #91 in city) | Austin's Automotive Specialists is an auto repair shop in Austin, TX at 8405 Research Boulevard, Austin, TX 78758. Phone: +15126400599. Website: https://austinsautomotivespecialists.com/. | https://registry-edge.dingalinged.workers.dev/c/austins-automotive-specialists-austin/
+4. Firestone Complete Auto Care | Organic #4 | Pulse Score 49.3/100 (Building, #6 in city) | Firestone Complete Auto Care is an auto repair shop in Pflugerville, TX at 15101 North Interstate 35, Pflugerville, TX 78660. Phone: +15127774238. Website: https://www.firestonecompleteautocare.com/. | https://registry-edge.dingalinged.workers.dev/c/firestone-complete-auto-care-pflugerville-w383180696/
+5. Christian Brothers Automotive - Cedar Park | Organic #5 | Pulse Score 47.5/100 (Building, #111 in city) | Christian Brothers Automotive - Cedar Park is an auto repair shop in Austin, TX at 12014 Ranch Road 620 North, Austin, TX 78750. Phone: +15122706314. | https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-cedar-park-austin/
+6. Brake Check | Organic #6 | Pulse Score 47.2/100 (Unrated, #112 in city) | Brake Check is an auto repair shop in Austin, TX at 3700 North Lamar Boulevard, Austin, TX 78705. Phone: +15124591334. Website: https://brakecheck.com/austin-n-lamar-w-38th-405/. | https://registry-edge.dingalinged.workers.dev/c/brake-check-austin-w199742459/
+7. Jiffy Lube | Organic #7 | Pulse Score 46.2/100 (Building, #116 in city) | Jiffy Lube is an auto repair shop in Austin, TX at 8602 Brodie Lane, Austin, TX 78745. Phone: +15122805823. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-austin-w383703341/
+
+## Market data (for advertisers and agents)
+- Keyword: brake repair austin tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
+- US monthly searches: 135,000/mo (cited; Semrush US Sep 2026 (via research source); as of 2026-09; phrase 'brake repair near me')
+- Local monthly searches (Austin-Round Rock-San Marcos, TX metro): ~1,000 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 7
+- Equivalent Google Ads cost per month: ~$240 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/brake-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#brake-repair-austin-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

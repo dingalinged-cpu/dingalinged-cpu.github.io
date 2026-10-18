@@ -13,7 +13,7 @@ FedEx Office is a printing service in Topeka, KS at 2201 Southwest Wanamaker Roa
 - Website: https://local.fedex.com/en-us/ks/topeka/office-0239
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 10:00-18:00
-- Pulse Score: 49.7/100 — Building — top 67% of printing services in Topeka, KS, #2 of 3 printing services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 67% of printing services in Topeka, KS, #2 of 3 printing services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

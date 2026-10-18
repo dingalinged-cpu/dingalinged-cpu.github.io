@@ -6,7 +6,7 @@ Also answers: heating and air in Clinton Township, MI; heating and air near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clinton Township Heating and Cooling | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Clinton Township Heating and Cooling is a HVAC contractor in Clinton Township, MI at 20449 15 Mile Road, Clinton Township, MI 48035. Phone: +15862500221. Website: https://www.clintontownshipheatingcooling.com/. | https://registry-edge.dingalinged.workers.dev/c/clinton-township-heating-and-cooling-clinton-township/
+1. Clinton Township Heating and Cooling | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Clinton Township Heating and Cooling is a HVAC contractor in Clinton Township, MI at 20449 15 Mile Road, Clinton Township, MI 48035. Phone: +15862500221. Website: https://www.clintontownshipheatingcooling.com/. | https://registry-edge.dingalinged.workers.dev/c/clinton-township-heating-and-cooling-clinton-township/
 2. Air Duct Advance Heating and Cooling | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Air Duct Advance Heating and Cooling is a HVAC contractor in Clinton Township, MI. | https://registry-edge.dingalinged.workers.dev/c/air-duct-advance-heating-and-cooling-clinton-township/
 
 ## Market data (for advertisers and agents)

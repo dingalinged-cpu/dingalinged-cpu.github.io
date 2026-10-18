@@ -6,7 +6,7 @@ Also answers: interior designer in Boulder, CO; interior designer near me (Bould
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jennifer Rhode Design | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Jennifer Rhode Design is an interior designer in Boulder, CO at 2919 7th Street, Boulder, CO 80304. Phone: +13033623671. Website: https://www.jenniferrhode.com/. | https://registry-edge.dingalinged.workers.dev/c/jennifer-rhode-design-boulder/
+1. Jennifer Rhode Design | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Jennifer Rhode Design is an interior designer in Boulder, CO at 2919 7th Street, Boulder, CO 80304. Phone: +13033623671. Website: https://www.jenniferrhode.com/. | https://registry-edge.dingalinged.workers.dev/c/jennifer-rhode-design-boulder/
 
 ## Market data (for advertisers and agents)
 - Keyword: interior designer boulder co | category: Home services - Design | industry benchmark: Home & Home Improvement

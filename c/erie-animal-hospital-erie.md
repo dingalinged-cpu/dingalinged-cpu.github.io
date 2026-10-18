@@ -13,7 +13,7 @@ Erie Animal Hospital is a veterinarian in Erie, CO at 720 Austin Avenue #107, Er
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-18:00; Tu 08:00-19:00; We-Fr 08:00-18:00; Sa 08:00-12:00
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 38% of veterinarians in Denver, CO, #1 of 3 veterinarians in Erie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 37% of veterinarians in Denver, CO, #1 of 3 veterinarians in Erie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

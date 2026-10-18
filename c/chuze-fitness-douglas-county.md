@@ -13,7 +13,7 @@ Chuze Fitness is a gym in Douglas County, CO at 9449 South University Boulevard,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Sa-Su 06:00-20:00; Mo-Th 04:00-00:00; Fr 04:00-22:00
-- Pulse Score: 46.6/100 — Unrated (not enough evidence yet) — top 75% of gyms in Denver, CO, #4 of 7 gyms in Douglas County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 80% of gyms in Denver, CO, #4 of 7 gyms in Douglas County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

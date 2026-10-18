@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Woodhaven, MI. Website: https://locatio
 - Website: https://locations.waxcenter.com/mi/woodhaven/woodhaven-0762.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.4/100 — Building — top 100% of waxing salons in Detroit, MI, #1 of 1 waxing salons in Woodhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.3/100 — Building — top 100% of waxing salons in Detroit, MI, #1 of 1 waxing salons in Woodhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.9, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

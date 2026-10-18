@@ -1,0 +1,24 @@
+Pretty Inspo is a hair salon in Amarillo, TX at 1502 South Hayden Street, Amarillo, TX 79102. Phone: +18064372570.
+
+# Pretty Inspo
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1502 South Hayden Street, Amarillo, TX 79102
+- City: Amarillo
+- State: TX
+- ZIP: 79102
+- Coordinates: 35.1993711, -101.8513213
+- Phone: +18064372570
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 38% of hair salons in Amarillo, TX, #21 of 56 hair salons in Amarillo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pretty-inspo-amarillo/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pretty-inspo-amarillo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13240433644 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

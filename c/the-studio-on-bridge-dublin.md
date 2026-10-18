@@ -13,7 +13,7 @@ The Studio on Bridge is a hair salon in Dublin, OH at 41 West Bridge Street #A, 
 - Website: https://www.thestudioonbridge.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 12:00-20:00; We-Fr 10:00-20:00; Sa 10:00-16:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 7% of hair salons in Columbus, OH, #1 of 12 hair salons in Dublin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 7% of hair salons in Columbus, OH, #1 of 12 hair salons in Dublin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

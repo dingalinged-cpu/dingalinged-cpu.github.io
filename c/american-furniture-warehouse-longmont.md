@@ -13,7 +13,7 @@ American Furniture Warehouse is a furniture store in Longmont, CO at 10550 Jake 
 - Website: https://www.afwonline.com/index.asp
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-22:00
-- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 66% of furniture stores in Denver, CO, #4 of 5 furniture stores in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 65% of furniture stores in Denver, CO, #4 of 5 furniture stores in Longmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

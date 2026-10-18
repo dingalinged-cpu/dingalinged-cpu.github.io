@@ -13,7 +13,7 @@ Treasure Hunt is a jewelry store in Ross Township, PA. Website: https://www.trea
 - Website: https://www.treasurehuntcoins.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-19:00; Tu-Th 10:00-18:00; Fr 10:00-17:00; Sa 10:00-16:00
-- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 79% of jewelry stores in Pittsburgh, PA, #3 of 6 jewelry stores in Ross Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 79% of jewelry stores in Pittsburgh, PA, #3 of 6 jewelry stores in Ross Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.5, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

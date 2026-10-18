@@ -13,7 +13,7 @@ Bluestem Wellness is a therapy practice in Lawrence, KS at 534 Michigan Street, 
 - Website: https://heartlandhealth.org/mental-health/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-18:00; Th-Fr 08:00-17:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 25% of therapy practices in Lawrence, KS, #1 of 4 therapy practices in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 25% of therapy practices in Lawrence, KS, #1 of 4 therapy practices in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

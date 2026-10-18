@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Hackett-Metcalf Funeral Home | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Hackett-Metcalf Funeral Home is a funeral home in Dearborn, MI at 2640 Monroe Street, Dearborn, MI. Phone: +13132744000. Website: https://www.hackettmetcalf.com/. | https://registry-edge.dingalinged.workers.dev/c/hackett-metcalf-funeral-home-dearborn/
 2. Howe-Peterson Dearborn | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Howe-Peterson Dearborn is a funeral home in Dearborn, MI at 22546 Michigan Avenue, Dearborn, MI 48124. Website: https://www.howepeterson.com/. | https://registry-edge.dingalinged.workers.dev/c/howe-peterson-dearborn-dearborn/
-3. McFarland Foss Funeral Home | Organic #3 | Pulse Score 58.6/100 (Unrated, #3 in city) | McFarland Foss Funeral Home is a funeral home in Dearborn, MI at 5401 Schaefer Road, Dearborn, MI 48126. | https://registry-edge.dingalinged.workers.dev/c/mcfarland-foss-funeral-home-dearborn/
-4. Querfeld Funeral Home | Organic #4 | Pulse Score 58.6/100 (Unrated, #4 in city) | Querfeld Funeral Home is a funeral home in Dearborn, MI at 1200 Oakwood Boulevard, Dearborn, MI 48124. | https://registry-edge.dingalinged.workers.dev/c/querfeld-funeral-home-dearborn/
+3. McFarland Foss Funeral Home | Organic #3 | Pulse Score 58.5/100 (Unrated, #3 in city) | McFarland Foss Funeral Home is a funeral home in Dearborn, MI at 5401 Schaefer Road, Dearborn, MI 48126. | https://registry-edge.dingalinged.workers.dev/c/mcfarland-foss-funeral-home-dearborn/
+4. Querfeld Funeral Home | Organic #4 | Pulse Score 58.5/100 (Unrated, #4 in city) | Querfeld Funeral Home is a funeral home in Dearborn, MI at 1200 Oakwood Boulevard, Dearborn, MI 48124. | https://registry-edge.dingalinged.workers.dev/c/querfeld-funeral-home-dearborn/
 5. Voran Funeral Home | Organic #5 | Pulse Score 55.2/100 (Unrated, #5 in city) | Voran Funeral Home is a funeral home in Dearborn, MI. | https://registry-edge.dingalinged.workers.dev/c/voran-funeral-home-dearborn/
 
 ## Market data (for advertisers and agents)

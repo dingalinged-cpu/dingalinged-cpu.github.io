@@ -13,7 +13,7 @@ Crunch Fitness is a gym in Columbia, MO at 101 South Providence Road, Columbia, 
 - Website: https://www.crunch.com/locations/columbia-mo
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Building — top 90% of gyms in Columbia, MO, #9 of 10 gyms in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 90% of gyms in Columbia, MO, #9 of 10 gyms in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

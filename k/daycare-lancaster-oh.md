@@ -7,7 +7,7 @@ Also answers: daycare in Lancaster, OH; daycare near me (Lancaster, OH); best da
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Owl's Acre Montessori School | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Owl's Acre Montessori School is a daycare in Lancaster, OH at 1458 Tiki Lane, Lancaster, OH 43130. Phone: +17406871635. | https://registry-edge.dingalinged.workers.dev/c/owls-acre-montessori-school-lancaster/
-2. Green Bean Junction | Organic #2 | Pulse Score 62/100 (Unrated, #2 in city) | Green Bean Junction is a daycare in Lancaster, OH at 1522 Sheridan Drive, Lancaster, OH 43130. Phone: +17402777361. Website: https://greenbeanjunction.com/. | https://registry-edge.dingalinged.workers.dev/c/green-bean-junction-lancaster/
+2. Green Bean Junction | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Green Bean Junction is a daycare in Lancaster, OH at 1522 Sheridan Drive, Lancaster, OH 43130. Phone: +17402777361. Website: https://greenbeanjunction.com/. | https://registry-edge.dingalinged.workers.dev/c/green-bean-junction-lancaster/
 3. Sunny Side Childcare | Organic #3 | Pulse Score 58.1/100 (Unrated, #3 in city) | Sunny Side Childcare is a daycare in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/sunny-side-childcare-lancaster/
 
 ## Market data (for advertisers and agents)

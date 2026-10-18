@@ -13,7 +13,7 @@ Engroff Catering is a caterer in Topeka, KS at 2127 Southwest Westport Drive, To
 - Website: https://engroffcatering.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 100% of caterers in Topeka, KS, #1 of 1 caterers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 100% of caterers in Topeka, KS, #1 of 1 caterers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

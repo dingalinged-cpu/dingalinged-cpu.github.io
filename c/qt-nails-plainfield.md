@@ -13,7 +13,7 @@ QT Nails is a nail salon in Plainfield, IN at 2230 Stafford Road #179, Plainfiel
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.9/100 — Good — top 3% of nail salons in Indianapolis, IN, #1 of 8 nail salons in Plainfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.4, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 3% of nail salons in Indianapolis, IN, #1 of 8 nail salons in Plainfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.4, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

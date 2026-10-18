@@ -13,7 +13,7 @@ Lovely Hands is a massage studio in Pittsburgh, PA at 522 Brookline Boulevard, P
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-21:00,13:30-18:30
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 13% of massage studios in Pittsburgh, PA, #5 of 17 massage studios in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 13% of massage studios in Pittsburgh, PA, #5 of 17 massage studios in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

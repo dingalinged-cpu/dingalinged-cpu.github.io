@@ -7,7 +7,7 @@ Also answers: preschool in O’Fallon, MO; preschool near me (O’Fallon, MO); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Just 4 Us Childcare & Learning Center | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Just 4 Us Childcare & Learning Center is a preschool in O’Fallon, MO at 192 Frontier Park Drive, O’Fallon, MO 63366. Phone: +16369788887. Website: https://www.just4uschildcare.com/ofallon-mo-childcare-location.html. | https://registry-edge.dingalinged.workers.dev/c/just-4-us-childcare-and-learning-center-o-fallon/
-2. AmeriKids Christian Center | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | AmeriKids Christian Center is a preschool in O’Fallon, MO at 1017 North Main Street, O’Fallon, MO 63366. | https://registry-edge.dingalinged.workers.dev/c/amerikids-christian-center-o-fallon/
+2. AmeriKids Christian Center | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | AmeriKids Christian Center is a preschool in O’Fallon, MO at 1017 North Main Street, O’Fallon, MO 63366. | https://registry-edge.dingalinged.workers.dev/c/amerikids-christian-center-o-fallon/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool o’fallon mo | category: Education & childcare | industry benchmark: Education & Instruction

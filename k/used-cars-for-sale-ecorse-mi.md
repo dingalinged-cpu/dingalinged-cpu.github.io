@@ -6,7 +6,7 @@ Also answers: used cars for sale in Ecorse, MI; used cars for sale near me (Ecor
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MNR Investments LLC Quality Used Cars | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | MNR Investments LLC Quality Used Cars is an used car dealer in Ecorse, MI. Phone: +13135239355. | https://registry-edge.dingalinged.workers.dev/c/mnr-investments-llc-quality-used-cars-ecorse/
+1. MNR Investments LLC Quality Used Cars | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | MNR Investments LLC Quality Used Cars is an used car dealer in Ecorse, MI. Phone: +13135239355. | https://registry-edge.dingalinged.workers.dev/c/mnr-investments-llc-quality-used-cars-ecorse/
 2. Rite On Auto Sales Ecorse | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Rite On Auto Sales Ecorse is an used car dealer in Ecorse, MI at 4680 West Jefferson Avenue, Ecorse, MI 48229. | https://registry-edge.dingalinged.workers.dev/c/rite-on-auto-sales-ecorse-ecorse/
 3. Ecorse Motors | Organic #3 | Pulse Score 54/100 (Unrated, #3 in city) | Ecorse Motors is an used car dealer in Ecorse, MI. | https://registry-edge.dingalinged.workers.dev/c/ecorse-motors-ecorse/
 

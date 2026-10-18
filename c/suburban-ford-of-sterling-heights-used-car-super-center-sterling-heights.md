@@ -13,7 +13,7 @@ Suburban Ford of Sterling Heights Used Car Super Center is an used car dealer in
 - Website: https://www.suburbanfordofsterlingheights.com/
 - Email: sfsh@suburbanauto.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.4/100 — Building — top 80% of used car dealers in Detroit, MI, #4 of 4 used car dealers in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 80% of used car dealers in Detroit, MI, #4 of 4 used car dealers in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

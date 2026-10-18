@@ -13,7 +13,7 @@ Rumours Salon is a hair salon in Saint Joseph, MO at 515 Middleton Street, Saint
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of hair salons in St. Joseph, MO, #2 of 6 hair salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 34% of hair salons in St. Joseph, MO, #2 of 6 hair salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

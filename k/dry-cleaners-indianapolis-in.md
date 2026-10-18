@@ -13,9 +13,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 5. Classic Cleaners | Organic #5 | Pulse Score 49/100 (Unrated, #5 in city) | Classic Cleaners is a dry cleaner in Indianapolis, IN. Phone: +13178498244. Website: https://www.classiccleaners.net/. | https://registry-edge.dingalinged.workers.dev/c/classic-cleaners-indianapolis/
 6. Tide Cleaners | Organic #6 | Pulse Score 46/100 (Building, #6 in city) | Tide Cleaners is a dry cleaner in Indianapolis, IN at 3838 North Illinois Street, Indianapolis, IN 46208. | https://registry-edge.dingalinged.workers.dev/c/tide-cleaners-indianapolis-w683260264/
 7. Classic Cleaners | Organic #7 | Pulse Score 44.9/100 (Building, #7 in city) | Classic Cleaners is a dry cleaner in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/classic-cleaners-indianapolis-n3582113293/
-8. Morellis Cleaners | Organic #8 | Pulse Score 43.3/100 (Unrated, #8 in city) | Morellis Cleaners is a dry cleaner in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/morellis-cleaners-indianapolis/
+8. Morellis Cleaners | Organic #8 | Pulse Score 43.4/100 (Unrated, #8 in city) | Morellis Cleaners is a dry cleaner in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/morellis-cleaners-indianapolis/
 9. Tide Cleaners | Organic #9 | Pulse Score 42.7/100 (Building, #9 in city) | Tide Cleaners is a dry cleaner in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/tide-cleaners-indianapolis/
-10. Classic Cleaners | Organic #10 | Pulse Score 42.2/100 (Unrated, #10 in city) | Classic Cleaners is a dry cleaner in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/classic-cleaners-indianapolis-n3911758091/
+10. Classic Cleaners | Organic #10 | Pulse Score 42.3/100 (Unrated, #10 in city) | Classic Cleaners is a dry cleaner in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/classic-cleaners-indianapolis-n3911758091/
 11. Classic Cleaners | Organic #11 | Pulse Score 41.6/100 (Unrated, #11 in city) | Classic Cleaners is a dry cleaner in Indianapolis, IN at 9893 North Michigan Road #120, Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/classic-cleaners-indianapolis-n3144590241/
 
 ## Market data (for advertisers and agents)

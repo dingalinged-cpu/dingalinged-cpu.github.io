@@ -13,7 +13,7 @@ Bone Dry Roofing is a roofer in Noblesville, IN at 23 S 8th St, Noblesville, IN 
 - Website: https://bonedry.com/indianapolis/service-areas/noblesville-in/?bdr_campaign=BDR-DIG-DIR-ROOF-IN-PHO-DIRECTORY-202510-NOBLESVILLEEXTERNALDIRECTORY
 - Email: info@bonedry.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.2/100 — Fair — top 81% of roofers in Indianapolis, IN, #1 of 1 roofers in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.2, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 81% of roofers in Indianapolis, IN, #1 of 1 roofers in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.2, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

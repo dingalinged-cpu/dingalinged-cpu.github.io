@@ -1,0 +1,40 @@
+The top unpaid bakery listing for Amarillo, TX is Blue Crane Bakery (a bakery in Amarillo, TX at 3223 Southwest 6th Avenue, Amarillo, TX 79106. Phone: +18063223233. Website: https://bluecranebakeryamarillo.com/). 18 bakery businesses are listed for Amarillo, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best bakery providers in Amarillo, TX?
+
+Also answers: bakery in Amarillo, TX; bakery near me (Amarillo, TX); best bakery Amarillo, TX; top rated bakery Amarillo, TX; affordable bakery Amarillo, TX; emergency bakery Amarillo, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Blue Crane Bakery | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Blue Crane Bakery is a bakery in Amarillo, TX at 3223 Southwest 6th Avenue, Amarillo, TX 79106. Phone: +18063223233. Website: https://bluecranebakeryamarillo.com/. | https://registry-edge.dingalinged.workers.dev/c/blue-crane-bakery-amarillo/
+2. Sweet Baby Cakes | Organic #2 | Pulse Score 62.3/100 (Unrated, #2 in city) | Sweet Baby Cakes is a bakery in Amarillo, TX at 4132 Business Park Drive, Amarillo, TX 79110. Phone: +18064331770. Website: https://www.sweetbabycakes.online/. | https://registry-edge.dingalinged.workers.dev/c/sweet-baby-cakes-amarillo/
+3. The Ruffled Cup | Organic #3 | Pulse Score 61.6/100 (Unrated, #3 in city) | The Ruffled Cup is a bakery in Amarillo, TX at 3440 Bell Street, Amarillo, TX 79109. Phone: +18063183961. Website: https://www.theruffledcup.com/. | https://registry-edge.dingalinged.workers.dev/c/the-ruffled-cup-amarillo/
+4. Kind House Ukraine Bakery | Organic #4 | Pulse Score 61.3/100 (Unrated, #4 in city) | Kind House Ukraine Bakery is a bakery in Amarillo, TX at 4715 South Western Street, Amarillo, TX 79109. Phone: +18062208115. Website: https://kindhousebakery.org/. | https://registry-edge.dingalinged.workers.dev/c/kind-house-ukraine-bakery-amarillo/
+5. Belmar Bakery | Organic #5 | Pulse Score 60.9/100 (Unrated, #5 in city) | Belmar Bakery is a bakery in Amarillo, TX at 3325 Bell Street, Amarillo, TX 79106. Phone: +18063550141. Website: https://belmarbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/belmar-bakery-amarillo/
+6. Scratch Made Bakery | Organic #6 | Pulse Score 60.9/100 (Unrated, #6 in city) | Scratch Made Bakery is a bakery in Amarillo, TX at 118 Southwest 6th Avenue, Amarillo, TX 79101. Phone: +18067314477. Website: https://scratchmadebakery.com/. | https://registry-edge.dingalinged.workers.dev/c/scratch-made-bakery-amarillo/
+7. Ms. Piggy's Custom Bake Shoppe | Organic #7 | Pulse Score 60.4/100 (Unrated, #7 in city) | Ms. Piggy's Custom Bake Shoppe is a bakery in Amarillo, TX at 6030 Southwest 33rd Avenue, Amarillo, TX 79106. Phone: +18063539983. | https://registry-edge.dingalinged.workers.dev/c/ms-piggys-custom-bake-shoppe-amarillo/
+8. United Supermarkets Bakery | Organic #8 | Pulse Score 58.1/100 (Unrated, #8 in city) | United Supermarkets Bakery is a bakery in Amarillo, TX at 1501 East Amarillo Boulevard, Amarillo, TX 79107. Phone: +18063737424. | https://registry-edge.dingalinged.workers.dev/c/united-supermarkets-bakery-amarillo-n13987634737/
+9. Benjamin Donut's & Bakery | Organic #9 | Pulse Score 57.5/100 (Unrated, #9 in city) | Benjamin Donut's & Bakery is a bakery in Amarillo, TX at 7003 Bell Street, Amarillo, TX 79109. Phone: +18063531100. | https://registry-edge.dingalinged.workers.dev/c/benjamin-donuts-and-bakery-amarillo/
+10. Biti Pies | Organic #10 | Pulse Score 57.5/100 (Unrated, #10 in city) | Biti Pies is a bakery in Amarillo, TX at 604 South Maryland Street, Amarillo, TX 79106. Phone: +18064638412. | https://registry-edge.dingalinged.workers.dev/c/biti-pies-amarillo/
+11. Estrada Bakery and Tamales | Organic #11 | Pulse Score 57.5/100 (Unrated, #11 in city) | Estrada Bakery and Tamales is a bakery in Amarillo, TX at 4118 Bushland Boulevard, Amarillo, TX 79106. Phone: +18068771438. | https://registry-edge.dingalinged.workers.dev/c/estrada-bakery-and-tamales-amarillo/
+12. La Milpa Tortilla Shop | Organic #12 | Pulse Score 57.5/100 (Unrated, #12 in city) | La Milpa Tortilla Shop is a bakery in Amarillo, TX at 1915 Southeast 10th Avenue, Amarillo, TX 79102. Phone: +18063722255. | https://registry-edge.dingalinged.workers.dev/c/la-milpa-tortilla-shop-amarillo/
+13. Sanchez Bakery | Organic #13 | Pulse Score 57.5/100 (Unrated, #14 in city) | Sanchez Bakery is a bakery in Amarillo, TX at 1010 East Amarillo Boulevard #B, Amarillo, TX 79107. Phone: +18063717757. | https://registry-edge.dingalinged.workers.dev/c/sanchez-bakery-amarillo/
+14. Sanchez Bakery #2 | Organic #14 | Pulse Score 57.5/100 (Unrated, #13 in city) | Sanchez Bakery #2 is a bakery in Amarillo, TX at 3508 East 11th Avenue, Amarillo, TX 79104. Phone: +18063741065. | https://registry-edge.dingalinged.workers.dev/c/sanchez-bakery-2-amarillo/
+15. United Bakery | Organic #15 | Pulse Score 55.6/100 (Unrated, #15 in city) | United Bakery is a bakery in Amarillo, TX at 3400 River Road, Amarillo, TX 79107. | https://registry-edge.dingalinged.workers.dev/c/united-bakery-amarillo/
+16. Tortillas La Ranchera | Organic #16 | Pulse Score 54.9/100 (Unrated, #16 in city) | Tortillas La Ranchera is a bakery in Amarillo, TX at 2730 South Grand Street, Amarillo, TX 79103. | https://registry-edge.dingalinged.workers.dev/c/tortillas-la-ranchera-amarillo/
+17. United Supermarkets Bakery | Organic #17 | Pulse Score 54.9/100 (Unrated, #17 in city) | United Supermarkets Bakery is a bakery in Amarillo, TX at 4701 South Washington Street, Amarillo, TX 79110. | https://registry-edge.dingalinged.workers.dev/c/united-supermarkets-bakery-amarillo/
+18. Walmart Bakery | Organic #18 | Pulse Score 53.7/100 (Unrated, #18 in city) | Walmart Bakery is a bakery in Amarillo, TX. | https://registry-edge.dingalinged.workers.dev/c/walmart-bakery-amarillo/
+
+## Market data (for advertisers and agents)
+- Keyword: bakery amarillo tx | category: Events & weddings | industry benchmark: Personal Services
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- CPC benchmark: low $5.81, median $7.17, high $7.17 (Personal Services median CPC 2026 $7.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Personal Services median CPC 2025 $5.81 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 18
+- Equivalent Google Ads cost per month: n/a
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/bakery.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#bakery-amarillo-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

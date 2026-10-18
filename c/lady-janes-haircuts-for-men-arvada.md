@@ -13,7 +13,7 @@ Lady Jane's Haircuts for Men is a hair salon in Arvada, CO at 9515 Ralston Road 
 - Website: https://www.ladyjanes.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-20:00; Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
-- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 73% of hair salons in Denver, CO, #2 of 9 hair salons in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 72% of hair salons in Denver, CO, #2 of 9 hair salons in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

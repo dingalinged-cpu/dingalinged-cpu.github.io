@@ -13,7 +13,7 @@ The Solution Center is an eye care practice in Westerville, OH.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-17:00; Th 08:00-12:00,13:00-17:00; Fr 08:00-14:00; Sa 08:00-13:00; Su off
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 54% of eye care practices in Columbus, OH, #4 of 5 eye care practices in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 54% of eye care practices in Columbus, OH, #4 of 5 eye care practices in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

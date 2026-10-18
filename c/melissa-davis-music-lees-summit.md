@@ -13,7 +13,7 @@ Melissa Davis Music is a music school in Lee's Summit, MO at 220 Southeast Dougl
 - Website: https://www.melissadavismusic.com/
 - Email: mdavismusicstudio@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 64.4/100 — Good — top 34% of music schools in Kansas City, MO, #1 of 1 music schools in Lee's Summit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 34% of music schools in Kansas City, MO, #1 of 1 music schools in Lee's Summit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

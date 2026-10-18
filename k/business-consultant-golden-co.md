@@ -6,7 +6,7 @@ Also answers: business consultant in Golden, CO; business consultant near me (Go
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lerch Bates | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Lerch Bates is a business consultant in Golden, CO at 500 Golden Ridge Road #150, Golden, CO 80401. Phone: +13037957956. Website: https://www.lerchbates.com/offices/colorado/. | https://registry-edge.dingalinged.workers.dev/c/lerch-bates-golden/
+1. Lerch Bates | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Lerch Bates is a business consultant in Golden, CO at 500 Golden Ridge Road #150, Golden, CO 80401. Phone: +13037957956. Website: https://www.lerchbates.com/offices/colorado/. | https://registry-edge.dingalinged.workers.dev/c/lerch-bates-golden/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant golden co | category: b2b_services | industry benchmark: Business Services

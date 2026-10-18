@@ -13,7 +13,7 @@ Red Door Home Store is a furniture store in Lawrence, KS at 645 Massachusetts St
 - Website: https://reddoorhomestore.com/
 - Email: info@reddoorhomestore.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-16:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 25% of furniture stores in Lawrence, KS, #1 of 4 furniture stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 25% of furniture stores in Lawrence, KS, #1 of 4 furniture stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

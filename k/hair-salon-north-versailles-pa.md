@@ -7,7 +7,7 @@ Also answers: hair salon in North Versailles, PA; hair salon near me (North Vers
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Great Valley Barber Shop | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Great Valley Barber Shop is a hair salon in North Versailles, PA at 355 Lincoln Highway, North Versailles, PA 15137. Phone: +14128291774. | https://registry-edge.dingalinged.workers.dev/c/great-valley-barber-shop-north-versailles/
-2. Suz's Cuts | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Suz's Cuts is a hair salon in North Versailles, PA at 1732 Greensburg Pike, North Versailles, PA 15137. Phone: +14128298259. | https://registry-edge.dingalinged.workers.dev/c/suzs-cuts-north-versailles/
+2. Suz's Cuts | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Suz's Cuts is a hair salon in North Versailles, PA at 1732 Greensburg Pike, North Versailles, PA 15137. Phone: +14128298259. | https://registry-edge.dingalinged.workers.dev/c/suzs-cuts-north-versailles/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon north versailles pa | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

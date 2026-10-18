@@ -13,7 +13,7 @@ REVA Dental Implant Center is a dentist in Lakewood, CO at 9210 West Colfax Aven
 - Website: https://www.revadentalimplants.com/denver-co/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of dentists in Denver, CO, #3 of 20 dentists in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 9% of dentists in Denver, CO, #3 of 20 dentists in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

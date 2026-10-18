@@ -13,7 +13,7 @@ Salon Suites Day Spa is a hair salon in Springfield, MO. Phone: +14178909725.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-18:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 9% of hair salons in Springfield, MO, #3 of 35 hair salons in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 9% of hair salons in Springfield, MO, #3 of 35 hair salons in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

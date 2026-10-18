@@ -13,7 +13,7 @@ Amelia East Family Dentistry is a dentist in Batavia Township, OH at 2200 State 
 - Website: https://jamespiercedds.com/
 - Email: dawn.jamespiercedds@gmail.com
 - Opening hours (OSM syntax): Mo-We 06:00-17:00, Th 07:00-15:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 21% of dentists in Cincinnati, OH, #1 of 3 dentists in Batavia Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 20% of dentists in Cincinnati, OH, #1 of 3 dentists in Batavia Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

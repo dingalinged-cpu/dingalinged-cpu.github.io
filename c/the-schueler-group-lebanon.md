@@ -13,7 +13,7 @@ The Schueler Group is a real estate agency in Lebanon, OH at 3000 Henkle Drive #
 - Website: https://schuelergroup.com/
 - Email: info@hsabh.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 4% of real estate agencys in Cincinnati, OH, #1 of 1 real estate agencys in Lebanon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 4% of real estate agencys in Cincinnati, OH, #1 of 1 real estate agencys in Lebanon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

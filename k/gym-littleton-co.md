@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. CrossFit BodyWerx | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | CrossFit BodyWerx is a gym in Littleton, CO at 8250 West Coal Mine Avenue #10, Littleton, CO 80123. Phone: +17209814222. Website: https://www.crossfitbodywerx.com/. | https://registry-edge.dingalinged.workers.dev/c/crossfit-bodywerx-littleton/
 2. Adrenaline Gymnastics Academy | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Adrenaline Gymnastics Academy is a gym in Littleton, CO at 6905 South Broadway #199, Littleton, CO. Website: https://agagym.com/. | https://registry-edge.dingalinged.workers.dev/c/adrenaline-gymnastics-academy-littleton/
-3. Planet Fitness | Organic #3 | Pulse Score 48.4/100 (Building, #3 in city) | Planet Fitness is a gym in Littleton, CO at 8051 South Broadway, Littleton, CO 80122. Phone: +13039431330. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-littleton/
+3. Planet Fitness | Organic #3 | Pulse Score 48.3/100 (Building, #3 in city) | Planet Fitness is a gym in Littleton, CO at 8051 South Broadway, Littleton, CO 80122. Phone: +13039431330. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-littleton/
 4. VASA Fitness | Organic #4 | Pulse Score 43.8/100 (Building, #4 in city) | VASA Fitness is a gym in Littleton, CO at 8055 West Bowles Avenue #2R, Littleton, CO 80123. | https://registry-edge.dingalinged.workers.dev/c/vasa-fitness-littleton/
 5. Planet Fitness | Organic #5 | Pulse Score 41.7/100 (Building, #5 in city) | Planet Fitness is a gym in Littleton, CO. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-littleton-w780279872/
 

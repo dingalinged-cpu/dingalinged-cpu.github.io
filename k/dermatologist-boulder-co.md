@@ -6,7 +6,7 @@ Also answers: dermatologist in Boulder, CO; dermatologist near me (Boulder, CO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ideal Dermatology/Skin | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Ideal Dermatology/Skin is a dermatologist in Boulder, CO at 905 Alpine Avenue, Boulder, CO 80305. Phone: +13035697700. Website: https://www.idealdermatology.com/. | https://registry-edge.dingalinged.workers.dev/c/ideal-dermatology-skin-boulder/
+1. Ideal Dermatology/Skin | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Ideal Dermatology/Skin is a dermatologist in Boulder, CO at 905 Alpine Avenue, Boulder, CO 80305. Phone: +13035697700. Website: https://www.idealdermatology.com/. | https://registry-edge.dingalinged.workers.dev/c/ideal-dermatology-skin-boulder/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist boulder co | category: Health & medical | industry benchmark: Physicians & Surgeons

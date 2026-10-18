@@ -13,7 +13,7 @@ Uplift Self Storage is a self-storage facility in Lawrence, KS at 412 North Iowa
 - Website: https://www.upliftselfstorage.com/kansas/facility/uplift-self-storage-north-iowa
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 50% of self-storage facilitys in Lawrence, KS, #6 of 12 self-storage facilitys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 100% of self-storage facilitys in Lawrence, KS, #12 of 12 self-storage facilitys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

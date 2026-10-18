@@ -6,8 +6,8 @@ Also answers: gift shop in Topeka, KS; gift shop near me (Topeka, KS); best gift
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 3 Flowers Metaphysical Treasures | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | 3 Flowers Metaphysical Treasures is a gift shop in Topeka, KS. | https://registry-edge.dingalinged.workers.dev/c/3-flowers-metaphysical-treasures-topeka/
-2. Hallmark | Organic #2 | Pulse Score 43.2/100 (Building, #2 in city) | Hallmark is a gift shop in Topeka, KS. | https://registry-edge.dingalinged.workers.dev/c/hallmark-topeka/
+1. 3 Flowers Metaphysical Treasures | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | 3 Flowers Metaphysical Treasures is a gift shop in Topeka, KS. | https://registry-edge.dingalinged.workers.dev/c/3-flowers-metaphysical-treasures-topeka/
+2. Hallmark | Organic #2 | Pulse Score 43.3/100 (Building, #2 in city) | Hallmark is a gift shop in Topeka, KS. | https://registry-edge.dingalinged.workers.dev/c/hallmark-topeka/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop topeka ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

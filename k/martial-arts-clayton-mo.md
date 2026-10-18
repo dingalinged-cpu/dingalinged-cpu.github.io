@@ -6,7 +6,7 @@ Also answers: martial arts in Clayton, MO; martial arts near me (Clayton, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Martial Arts College of Clayton | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Martial Arts College of Clayton is a martial arts school in Clayton, MO at 6438 South Rosebury Avenue, Clayton, MO 63105. Website: https://maccjudotkd.com/. | https://registry-edge.dingalinged.workers.dev/c/martial-arts-college-of-clayton-clayton/
+1. Martial Arts College of Clayton | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Martial Arts College of Clayton is a martial arts school in Clayton, MO at 6438 South Rosebury Avenue, Clayton, MO 63105. Website: https://maccjudotkd.com/. | https://registry-edge.dingalinged.workers.dev/c/martial-arts-college-of-clayton-clayton/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts clayton mo | category: Fitness | industry benchmark: Health & Fitness

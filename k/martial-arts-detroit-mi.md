@@ -6,7 +6,7 @@ Also answers: martial arts in Detroit, MI; martial arts near me (Detroit, MI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Institute of Martial Arts | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Institute of Martial Arts is a martial arts school in Detroit, MI at 16849 West Warren Avenue, Detroit, MI. Phone: +13135818999. | https://registry-edge.dingalinged.workers.dev/c/institute-of-martial-arts-detroit/
+1. Institute of Martial Arts | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Institute of Martial Arts is a martial arts school in Detroit, MI at 16849 West Warren Avenue, Detroit, MI. Phone: +13135818999. | https://registry-edge.dingalinged.workers.dev/c/institute-of-martial-arts-detroit/
 2. Detroit Kung Fu Academy | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Detroit Kung Fu Academy is a martial arts school in Detroit, MI at 3364 Michigan Avenue, Detroit, MI 48216. Website: https://www.kungfudetroit.com/. | https://registry-edge.dingalinged.workers.dev/c/detroit-kung-fu-academy-detroit/
 3. PKSA Karate | Organic #3 | Pulse Score 46.6/100 (Unrated, #3 in city) | PKSA Karate is a martial arts school in Detroit, MI at 3627-B Cass Avenue, Detroit, MI 48201. | https://registry-edge.dingalinged.workers.dev/c/pksa-karate-detroit/
 

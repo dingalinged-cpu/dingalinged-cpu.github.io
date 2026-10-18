@@ -13,7 +13,7 @@ Hallmark is a gift shop in Ross Township, PA at 3090 McIntyre Square Drive, Ross
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-21:00; Su 11:00-17:00
-- Pulse Score: 47.4/100 — Building — top 64% of gift shops in Pittsburgh, PA, #2 of 4 gift shops in Ross Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 64% of gift shops in Pittsburgh, PA, #2 of 4 gift shops in Ross Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

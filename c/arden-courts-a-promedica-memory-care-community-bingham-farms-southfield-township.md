@@ -13,7 +13,7 @@ Arden Courts - A ProMedica Memory Care Community (Bingham Farms) is an assisted 
 - Website: https://www.arden-courts.org/locations/arden-courts-promedica-memory-care-community-bingham-farms
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.3/100 — Unrated (not enough evidence yet) — top 98% of assisted living facilitys in Detroit, MI, #1 of 1 assisted living facilitys in Southfield Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Unrated (not enough evidence yet) — top 98% of assisted living facilitys in Detroit, MI, #1 of 1 assisted living facilitys in Southfield Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

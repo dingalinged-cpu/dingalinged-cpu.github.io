@@ -13,7 +13,7 @@ Pebble Brook PreSchool is a daycare in Noblesville, IN at 17920 Pebble Brook Bou
 - Website: https://pebblebrookpreschool.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 10% of daycares in Indianapolis, IN, #1 of 1 daycares in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 10% of daycares in Indianapolis, IN, #1 of 1 daycares in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

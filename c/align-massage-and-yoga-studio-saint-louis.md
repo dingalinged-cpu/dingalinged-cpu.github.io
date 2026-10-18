@@ -13,7 +13,7 @@ Align Massage and Yoga Studio is a yoga studio in Saint Louis, MO at 4000-4002 S
 - Website: https://bodybreathmindmovement.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 06:00-21:00; Tu 09:00-21:00; We 06:00-20:00; Th-Fr 09:00-21:00; Sa 06:00-16:00; Su 08:00-17:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 10% of yoga studios in St. Louis, MO, #1 of 5 yoga studios in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 10% of yoga studios in St. Louis, MO, #1 of 5 yoga studios in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

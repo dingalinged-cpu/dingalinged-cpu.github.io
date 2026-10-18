@@ -6,10 +6,10 @@ Also answers: bakery in Columbia, MO; bakery near me (Columbia, MO); best bakery
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goldie's Bagels | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Goldie's Bagels is a bakery in Columbia, MO at 114 South 9th Street #102, Columbia, MO 65201. Website: https://www.ordergoldies.com/. | https://registry-edge.dingalinged.workers.dev/c/goldies-bagels-columbia/
-2. Hot Box Cookies | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Hot Box Cookies is a bakery in Columbia, MO at 1013 East Broadway, Columbia, MO 65201. Website: https://hotboxcookies.com/. | https://registry-edge.dingalinged.workers.dev/c/hot-box-cookies-columbia/
-3. U Knead Sweets Bakery | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | U Knead Sweets Bakery is a bakery in Columbia, MO at 808 Cherry Street, Columbia, MO 65201. Website: https://www.ukneadsweets.com/. | https://registry-edge.dingalinged.workers.dev/c/u-knead-sweets-bakery-columbia/
-4. Peggy Jean's Pies | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Peggy Jean's Pies is a bakery in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/peggy-jeans-pies-columbia/
+1. Goldie's Bagels | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Goldie's Bagels is a bakery in Columbia, MO at 114 South 9th Street #102, Columbia, MO 65201. Website: https://www.ordergoldies.com/. | https://registry-edge.dingalinged.workers.dev/c/goldies-bagels-columbia/
+2. Hot Box Cookies | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Hot Box Cookies is a bakery in Columbia, MO at 1013 East Broadway, Columbia, MO 65201. Website: https://hotboxcookies.com/. | https://registry-edge.dingalinged.workers.dev/c/hot-box-cookies-columbia/
+3. U Knead Sweets Bakery | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | U Knead Sweets Bakery is a bakery in Columbia, MO at 808 Cherry Street, Columbia, MO 65201. Website: https://www.ukneadsweets.com/. | https://registry-edge.dingalinged.workers.dev/c/u-knead-sweets-bakery-columbia/
+4. Peggy Jean's Pies | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Peggy Jean's Pies is a bakery in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/peggy-jeans-pies-columbia/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery columbia mo | category: Events & weddings | industry benchmark: Personal Services

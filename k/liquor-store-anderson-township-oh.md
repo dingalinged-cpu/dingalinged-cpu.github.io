@@ -6,7 +6,7 @@ Also answers: liquor store in Anderson Township, OH; liquor store near me (Ander
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fine Wine & Spirits | Organic #1 | Pulse Score 61.3/100 (Unrated, #4 in city) | Fine Wine & Spirits is a liquor store in Cincinnati, OH at 8433 Beechmont Avenue, Cincinnati, OH 45255. Website: https://www.ohlq.com/locations/fine-wine-spirits-8433-37-beechmont-ave. | https://registry-edge.dingalinged.workers.dev/c/fine-wine-and-spirits-cincinnati/
+1. Fine Wine & Spirits | Organic #1 | Pulse Score 61.2/100 (Unrated, #4 in city) | Fine Wine & Spirits is a liquor store in Cincinnati, OH at 8433 Beechmont Avenue, Cincinnati, OH 45255. Website: https://www.ohlq.com/locations/fine-wine-spirits-8433-37-beechmont-ave. | https://registry-edge.dingalinged.workers.dev/c/fine-wine-and-spirits-cincinnati/
 2. Beechmont Beverage | Organic #2 | Pulse Score 57.1/100 (Unrated, #1 in city) | Beechmont Beverage is a liquor store in Anderson Township, OH. | https://registry-edge.dingalinged.workers.dev/c/beechmont-beverage-anderson-township/
 
 ## Market data (for advertisers and agents)

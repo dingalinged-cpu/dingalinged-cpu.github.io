@@ -6,7 +6,7 @@ Also answers: haircut in Mariemont, OH; haircut near me (Mariemont, OH); best ha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Roosters | Organic #1 | Pulse Score 44/100 (Unrated, #1 in city) | Roosters is a barber shop in Mariemont, OH at 3912 Miami Road, Mariemont, OH 45227. Website: https://www.roostersmgc.com/locations/nearme/haircut/oh/mariemont/3912-miami-rd/13190. | https://registry-edge.dingalinged.workers.dev/c/roosters-mariemont/
+1. Roosters | Organic #1 | Pulse Score 43.9/100 (Unrated, #1 in city) | Roosters is a barber shop in Mariemont, OH at 3912 Miami Road, Mariemont, OH 45227. Website: https://www.roostersmgc.com/locations/nearme/haircut/oh/mariemont/3912-miami-rd/13190. | https://registry-edge.dingalinged.workers.dev/c/roosters-mariemont/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut mariemont oh | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Petco is a pet store in Shrewsbury, MO at 7279 Watson Road, Shrewsbury, MO 63119
 - Website: https://stores.petco.com/mo/stlouis/pet-supplies-stlouis-mo-1689.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 44.2/100 — Building — top 72% of pet stores in St. Louis, MO, #1 of 1 pet stores in Shrewsbury (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 72% of pet stores in St. Louis, MO, #1 of 1 pet stores in Shrewsbury (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

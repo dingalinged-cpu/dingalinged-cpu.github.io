@@ -13,7 +13,7 @@ Back and Neck Care Center is a chiropractor in Olivette, MO at 9449 Olive Boulev
 - Website: https://www.olivettechiro.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 31% of chiropractors in St. Louis, MO, #1 of 1 chiropractors in Olivette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 31% of chiropractors in St. Louis, MO, #1 of 1 chiropractors in Olivette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

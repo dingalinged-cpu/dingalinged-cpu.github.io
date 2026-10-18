@@ -6,7 +6,7 @@ Also answers: music lessons in Boulder, CO; music lessons near me (Boulder, CO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. School of Rock | Organic #1 | Pulse Score 45.7/100 (Building, #1 in city) | School of Rock is a music school in Boulder, CO at 3280 28th Street ##1, Boulder, CO 80301. Website: https://locations.schoolofrock.com/boulder. | https://registry-edge.dingalinged.workers.dev/c/school-of-rock-boulder/
+1. School of Rock | Organic #1 | Pulse Score 45.6/100 (Building, #1 in city) | School of Rock is a music school in Boulder, CO at 3280 28th Street ##1, Boulder, CO 80301. Website: https://locations.schoolofrock.com/boulder. | https://registry-edge.dingalinged.workers.dev/c/school-of-rock-boulder/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons boulder co | category: Education & childcare | industry benchmark: Education & Instruction

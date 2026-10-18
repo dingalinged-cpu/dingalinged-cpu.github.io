@@ -13,7 +13,7 @@ Saint Xavier Park is a property management company in Cincinnati, OH at 628 Syca
 - Website: https://saintxavierpark.com/
 - Email: info@saintxavierpark.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-16:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 10% of property management companys in Cincinnati, OH, #1 of 7 property management companys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 10% of property management companys in Cincinnati, OH, #1 of 7 property management companys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

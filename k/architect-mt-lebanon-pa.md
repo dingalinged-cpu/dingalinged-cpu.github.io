@@ -6,7 +6,7 @@ Also answers: architect in Mt. Lebanon, PA; architect near me (Mt. Lebanon, PA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DRAW Collective | Organic #1 | Pulse Score 58.9/100 (Unrated, #2 in city) | DRAW Collective is an architect in Pittsburgh, PA at 470 Washington Road, Pittsburgh, PA 15228. Phone: +14125617117. | https://registry-edge.dingalinged.workers.dev/c/draw-collective-pittsburgh/
+1. DRAW Collective | Organic #1 | Pulse Score 58.8/100 (Unrated, #2 in city) | DRAW Collective is an architect in Pittsburgh, PA at 470 Washington Road, Pittsburgh, PA 15228. Phone: +14125617117. | https://registry-edge.dingalinged.workers.dev/c/draw-collective-pittsburgh/
 2. Carapella Architecture | Organic #2 | Pulse Score 55.7/100 (Unrated, #3 in city) | Carapella Architecture is an architect in Pittsburgh, PA at 425 Cochran Road, Pittsburgh, PA 15228. | https://registry-edge.dingalinged.workers.dev/c/carapella-architecture-pittsburgh/
 3. Davin Interiors | Organic #3 | Pulse Score 55.7/100 (Unrated, #1 in city) | Davin Interiors is an architect in Mt. Lebanon, PA at 671 Washington Road, Mt. Lebanon, PA 15228. | https://registry-edge.dingalinged.workers.dev/c/davin-interiors-mt-lebanon/
 

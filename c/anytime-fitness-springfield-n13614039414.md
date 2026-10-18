@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Springfield, MO at 319 East Battlefield Road, Spring
 - Website: https://anytimefitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.5/100 — Building — top 80% of gyms in Springfield, MO, #15 of 19 gyms in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 68.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 75% of gyms in Springfield, MO, #14 of 19 gyms in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 68.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

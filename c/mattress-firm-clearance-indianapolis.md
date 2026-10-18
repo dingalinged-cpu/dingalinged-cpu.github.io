@@ -13,7 +13,7 @@ Mattress Firm Clearance is a mattress store in Indianapolis, IN at 9808 East Was
 - Website: https://www.mattressfirm.com/en-us/stores/in/indianapolis/021011/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Building — top 71% of mattress stores in Indianapolis, IN, #4 of 7 mattress stores in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 71% of mattress stores in Indianapolis, IN, #4 of 7 mattress stores in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

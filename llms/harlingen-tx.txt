@@ -1,0 +1,1847 @@
+# Company Registry: company records, metro harlingen-tx
+
+> 68 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+A Piece of Cake by Ybarra's is a bakery in Harlingen, TX at 202 East Harrison Avenue, Harlingen, TX 78550. Phone: +19563640220.
+
+# A Piece of Cake by Ybarra's
+
+- Category: bakery
+- Services: bakery
+- Address: 202 East Harrison Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1903679, -97.6943413
+- Phone: +19563640220
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Harlingen, TX, #1 of 1 bakerys in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-piece-of-cake-by-ybarras-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-piece-of-cake-by-ybarras-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/551962992 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aaron's is a furniture store in Harlingen, TX at 813 West Harrison Avenue, Harlingen, TX 78550.
+
+# Aaron's
+
+- Category: furniture store
+- Services: furniture store
+- Address: 813 West Harrison Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.190189, -97.7036146
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.2/100 — Unrated (not enough evidence yet) — top 60% of furniture stores in Harlingen, TX, #3 of 5 furniture stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aarons-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aarons-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5796669803 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Harlingen, TX at 1208 South Expressway 83 #A, Harlingen, TX 78552. Phone: +18302055822. Website: https://www.actionbehavior.com/location/texas/harlingen-victor-park.
+
+# Action Behavior Centers - ABA Therapy for Autism
+
+- Category: therapist
+- Services: therapist
+- Address: 1208 South Expressway 83 #A, Harlingen, TX 78552
+- City: Harlingen
+- State: TX
+- ZIP: 78552
+- Coordinates: 26.1802572, -97.7139185
+- Phone: +18302055822
+- Website: https://www.actionbehavior.com/location/texas/harlingen-victor-park
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Pulse Score: 49.7/100 — Building — top 100% of therapy practices in Harlingen, TX, #1 of 1 therapy practices in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-aba-therapy-for-autism-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/action-behavior-centers-aba-therapy-for-autism-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13286591416 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Agua Dental is a dentist in Harlingen, TX.
+
+# Agua Dental
+
+- Category: dentist
+- Services: dentist
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1845707, -97.715168
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 100% of dentists in Harlingen, TX, #4 of 4 dentists in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/agua-dental-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/agua-dental-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6644732407 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Alexandre's Jewelry & Watch Repair is a jewelry store in Harlingen, TX.
+
+# Alexandre's Jewelry & Watch Repair
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1926017, -97.6944193
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in Harlingen, TX, #3 of 3 jewelry stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/alexandres-jewelry-and-watch-repair-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/alexandres-jewelry-and-watch-repair-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5518876075 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+BatCave Barbershop By Amber Marie is a hair salon in Harlingen, TX at 1246 Morgan Boulevard, Harlingen, TX. Phone: +19564549666.
+
+# BatCave Barbershop By Amber Marie
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1246 Morgan Boulevard, Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.2049605, -97.6743495
+- Phone: +19564549666
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 75% of hair salons in Harlingen, TX, #3 of 4 hair salons in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/batcave-barbershop-by-amber-marie-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/batcave-barbershop-by-amber-marie-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12157974224 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bicycle World RGV is a bike shop in Harlingen, TX at 1113 South 77 Sunshine Strip, Harlingen, TX 78550. Phone: +19564233168. Website: https://www.bicycleworldrgv.com/.
+
+# Bicycle World RGV
+
+- Category: bike shop
+- Services: bike shop
+- Address: 1113 South 77 Sunshine Strip, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1828797, -97.6798368
+- Phone: +19564233168
+- Website: https://www.bicycleworldrgv.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 100% of bike shops in Harlingen, TX, #1 of 1 bike shops in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bicycle-world-rgv-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bicycle-world-rgv-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/691314717 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+BlueWave Express Car Wash is a car wash in Harlingen, TX at 1924 West Tyler Avenue, Harlingen, TX 78550.
+
+# BlueWave Express Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 1924 West Tyler Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.189867, -97.7167275
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 50% of car washes in Harlingen, TX, #2 of 4 car washes in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bluewave-express-car-wash-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bluewave-express-car-wash-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/512619250 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Boggus Ford Collision Center is an auto repair shop in Harlingen, TX at 2521 South Expressway 83 #B, Harlingen, TX 78550.
+
+# Boggus Ford Collision Center
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2521 South Expressway 83 #B, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1720757, -97.697687
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Building — top 50% of auto repair shops in Harlingen, TX, #1 of 2 auto repair shops in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/boggus-ford-collision-center-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/boggus-ford-collision-center-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/908266857 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+BoxDrop is a mattress store in Harlingen, TX at 701 North 77 Sunshine Strip, Harlingen, TX 78550. Phone: +19564442790. Website: https://www.boxdropharlingen.com/.
+
+# BoxDrop
+
+- Category: mattress store
+- Services: mattress store
+- Address: 701 North 77 Sunshine Strip, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1992451, -97.6819854
+- Phone: +19564442790
+- Website: https://www.boxdropharlingen.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 100% of mattress stores in Harlingen, TX, #1 of 1 mattress stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/boxdrop-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/boxdrop-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7782679996 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Boxing Gym is a gym in Harlingen, TX.
+
+# Boxing Gym
+
+- Category: gym
+- Services: gym
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.2274306, -97.6639112
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 15% of gyms in Harlingen, TX, #1 of 7 gyms in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/boxing-gym-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/boxing-gym-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/618681374 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Central Park Car Wash is a car wash in Harlingen, TX at 1805 West Filmore Avenue, Harlingen, TX 78550.
+
+# Central Park Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 1805 West Filmore Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1860795, -97.7152549
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 25% of car washes in Harlingen, TX, #1 of 4 car washes in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/central-park-car-wash-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/central-park-car-wash-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/relation/7385115 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Chapita's Catering is a caterer in Harlingen, TX.
+
+# Chapita's Catering
+
+- Category: caterers
+- Services: caterers
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.2084195, -97.6967241
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of caterers in Harlingen, TX, #1 of 1 caterers in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 40. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chapitas-catering-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chapitas-catering-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/690021359 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Harlingen, TX at 4721 South Expressway 83, Harlingen, TX 78550. Phone: +19564232441.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 4721 South Expressway 83, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1597198, -97.6794641
+- Phone: +19564232441
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.5/100 — Building — top 100% of tire shops in Harlingen, TX, #1 of 1 tire shops in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/560844465 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Famsa Furniture is a furniture store in Harlingen, TX at 1106 South Expressway 83, Harlingen, TX 78550.
+
+# Famsa Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: 1106 South Expressway 83, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1807688, -97.7146787
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.2/100 — Unrated (not enough evidence yet) — top 80% of furniture stores in Harlingen, TX, #4 of 5 furniture stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/famsa-furniture-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/famsa-furniture-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/514875357 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Flexi is a furniture store in Harlingen, TX.
+
+# Flexi
+
+- Category: furniture store
+- Services: furniture store
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1848541, -97.7141289
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 40% of furniture stores in Harlingen, TX, #2 of 5 furniture stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/flexi-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/flexi-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5270549783 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Floral Designs By Leti is a florist in Harlingen, TX at 1201 South 77 Sunshine Strip, Harlingen, TX 78550. Phone: +19564235384.
+
+# Floral Designs By Leti
+
+- Category: florist
+- Services: florist
+- Address: 1201 South 77 Sunshine Strip, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1824036, -97.6798879
+- Phone: +19564235384
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 34% of florists in Harlingen, TX, #1 of 3 florists in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/floral-designs-by-leti-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/floral-designs-by-leti-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/691314719 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Florence E. King Athletic Center is a gym in Harlingen, TX.
+
+# Florence E. King Athletic Center
+
+- Category: gym
+- Services: gym
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.2267694, -97.6688458
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 29% of gyms in Harlingen, TX, #2 of 7 gyms in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/florence-e-king-athletic-center-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/florence-e-king-athletic-center-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/618681373 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Flowers by Jesse is a florist in Harlingen, TX at 208 East Jackson Avenue, Harlingen, TX 78550.
+
+# Flowers by Jesse
+
+- Category: florist
+- Services: florist
+- Address: 208 East Jackson Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1924791, -97.6941634
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 67% of florists in Harlingen, TX, #2 of 3 florists in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/flowers-by-jesse-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/flowers-by-jesse-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/575076067 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Friendly Insurance is an insurance agent in Harlingen, TX at 1205 South 77 Sunshine Strip, Harlingen, TX 78550. Phone: +19564282133. Website: https://www.friendly-ins.com/.
+
+# Friendly Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 1205 South 77 Sunshine Strip, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1822637, -97.679893
+- Phone: +19564282133
+- Website: https://www.friendly-ins.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 20% of insurance agents in Harlingen, TX, #1 of 5 insurance agents in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/friendly-insurance-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/friendly-insurance-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/691314720 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Gold's Gym is a gym in Harlingen, TX.
+
+# Gold's Gym
+
+- Category: gym
+- Services: gym
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1837308, -97.7176043
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.7/100 — Building — top 86% of gyms in Harlingen, TX, #6 of 7 gyms in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/golds-gym-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/golds-gym-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4897793889 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Goodwill is a thrift store in Harlingen, TX.
+
+# Goodwill
+
+- Category: thrift store
+- Services: thrift store
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.186024, -97.7220592
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.4/100 — Building — top 75% of thrift stores in Harlingen, TX, #3 of 4 thrift stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4944322361 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Goodwill is a thrift store in Harlingen, TX at 1101 South Ed Carey Drive, Harlingen, TX 78550. Phone: +19563659989. Website: https://www.goodwillsouthtexas.com/.
+
+# Goodwill
+
+- Category: thrift store
+- Services: thrift store
+- Address: 1101 South Ed Carey Drive, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.169256, -97.6767605
+- Phone: +19563659989
+- Website: https://www.goodwillsouthtexas.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.1/100 — Building — top 50% of thrift stores in Harlingen, TX, #2 of 4 thrift stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-harlingen-w937832447/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-harlingen-w937832447.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/937832447 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H&R Block is a tax preparation service in Harlingen, TX.
+
+# H&R Block
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1806224, -97.7202865
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42/100 — Building — top 100% of tax preparation services in Harlingen, TX, #3 of 3 tax preparation services in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-r-block-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4898194601 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H&R Block is a tax preparation service in Harlingen, TX at 802 North 13th Street, Harlingen, TX 78550. Phone: +19564236444.
+
+# H&R Block
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 802 North 13th Street, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.199245, -97.6820945
+- Phone: +19564236444
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.8/100 — Building — top 34% of tax preparation services in Harlingen, TX, #1 of 3 tax preparation services in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-harlingen-n4937852073/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-r-block-harlingen-n4937852073.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4937852073 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H&R Block is a tax preparation service in Harlingen, TX at West Harrison Avenue, Harlingen, TX 78550.
+
+# H&R Block
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: West Harrison Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1903037, -97.7141485
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.7/100 — Building — top 67% of tax preparation services in Harlingen, TX, #2 of 3 tax preparation services in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-harlingen-n5418737885/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-r-block-harlingen-n5418737885.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5418737885 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Harlingen, TX at South Expressway 83, Harlingen, TX.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: South Expressway 83, Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1840844, -97.7147944
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.8/100 — Building — top 75% of car washes in Harlingen, TX, #3 of 4 car washes in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/258829099 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Harlingen Family Dentistry is a dentist in Harlingen, TX.
+
+# Harlingen Family Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1809752, -97.7218254
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 50% of dentists in Harlingen, TX, #2 of 4 dentists in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/harlingen-family-dentistry-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/harlingen-family-dentistry-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5177259466 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Insurance Corner is an insurance agent in Harlingen, TX at 603 Tyler Avenue, Harlingen, TX 78550. Phone: +19564236111.
+
+# Insurance Corner
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 603 Tyler Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1899085, -97.6899717
+- Phone: +19564236111
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 60% of insurance agents in Harlingen, TX, #3 of 5 insurance agents in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/insurance-corner-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/insurance-corner-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/691314707 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+James Avery Artistian Jewelry is a jewelry store in Harlingen, TX.
+
+# James Avery Artistian Jewelry
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1862718, -97.7214657
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 67% of jewelry stores in Harlingen, TX, #2 of 3 jewelry stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/james-avery-artistian-jewelry-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/james-avery-artistian-jewelry-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/498330433 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jeff Davis Law Firm is a lawyer in Harlingen, TX at 312 East Harrison Avenue, Harlingen, TX 78550.
+
+# Jeff Davis Law Firm
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 312 East Harrison Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1905413, -97.6929731
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 75% of lawyers in Harlingen, TX, #3 of 4 lawyers in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jeff-davis-law-firm-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jeff-davis-law-firm-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6475926009 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Junior Varsity Gym is a gym in Harlingen, TX.
+
+# Junior Varsity Gym
+
+- Category: gym
+- Services: gym
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.2304113, -97.6663305
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 43% of gyms in Harlingen, TX, #3 of 7 gyms in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/junior-varsity-gym-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/junior-varsity-gym-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/618681372 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Just For Babies Boutique is a boutique in Harlingen, TX at 1117 South 77 Sunshine Strip, Harlingen, TX 78550. Phone: +19564250800. Website: https://shopjustforbabies.com/.
+
+# Just For Babies Boutique
+
+- Category: boutique
+- Services: boutique
+- Address: 1117 South 77 Sunshine Strip, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1825784, -97.6799145
+- Phone: +19564250800
+- Website: https://shopjustforbabies.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 34% of boutiques in Harlingen, TX, #1 of 3 boutiques in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/just-for-babies-boutique-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/just-for-babies-boutique-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/691314718 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lacks Furniture is a furniture store in Harlingen, TX at 802 Dixieland Road, Harlingen, TX 78550.
+
+# Lacks Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: 802 Dixieland Road, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1847054, -97.7224398
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 20% of furniture stores in Harlingen, TX, #1 of 5 furniture stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lacks-furniture-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lacks-furniture-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5177259083 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lather and Retreat Salon is a hair salon in Harlingen, TX at 702 North 77 Sunshine Strip, Harlingen, TX 78550. Phone: +19565337825.
+
+# Lather and Retreat Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 702 North 77 Sunshine Strip, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1985648, -97.6812569
+- Phone: +19565337825
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 25% of hair salons in Harlingen, TX, #1 of 4 hair salons in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lather-and-retreat-salon-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lather-and-retreat-salon-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7914894307 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Law Offices of Manuel Solis is a lawyer in Harlingen, TX at 320 East Jackson Avenue ##6, Harlingen, TX 78550. Phone: +18883707022. Website: https://manuelsolis.com/locations-law-offices/texas/harlingen/.
+
+# Law Offices of Manuel Solis
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 320 East Jackson Avenue ##6, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1926103, -97.6926497
+- Phone: +18883707022
+- Website: https://manuelsolis.com/locations-law-offices/texas/harlingen/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Harlingen, TX, #2 of 4 lawyers in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/law-offices-of-manuel-solis-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/law-offices-of-manuel-solis-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6479881492 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Liquor 101 is a liquor store in Harlingen, TX at 6704 West Expressway 83 #D102, Harlingen, TX 78552. Phone: +19566223570. Website: https://liquor101tx.com/.
+
+# Liquor 101
+
+- Category: liquor store
+- Services: liquor store
+- Address: 6704 West Expressway 83 #D102, Harlingen, TX 78552
+- City: Harlingen
+- State: TX
+- ZIP: 78552
+- Coordinates: 26.1887395, -97.7552094
+- Phone: +19566223570
+- Website: https://liquor101tx.com/
+- Email: liquor101rgv@gmail.com
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 50.7/100 — Fair — top 100% of liquor stores in Harlingen, TX, #1 of 1 liquor stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.8, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/liquor-101-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/liquor-101-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8768615544 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Luxe Boutique is a boutique in Harlingen, TX at 117 East Jackson Avenue, Harlingen, TX 78550. Phone: +19565649915.
+
+# Luxe Boutique
+
+- Category: boutique
+- Services: boutique
+- Address: 117 East Jackson Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1930749, -97.6948755
+- Phone: +19565649915
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 67% of boutiques in Harlingen, TX, #2 of 3 boutiques in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/luxe-boutique-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/luxe-boutique-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/574628608 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mason & Co. is a real estate agency in Harlingen, TX at 522 East Harrison Avenue, Harlingen, TX 78550. Phone: +19564234444. Website: https://www.masoncompanyrealtors.com/.
+
+# Mason & Co.
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 522 East Harrison Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1904842, -97.6902909
+- Phone: +19564234444
+- Website: https://www.masoncompanyrealtors.com/
+- Email: info@masoncompanyrealtors.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 50% of real estate agencys in Harlingen, TX, #1 of 2 real estate agencys in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mason-and-co-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mason-and-co-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/691314712 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Navarro Weddings is a photographer in Harlingen, TX at 302 East Jackson Avenue ##106, Harlingen, TX 78550. Phone: +19564544499. Website: https://www.navarroweddings.com/.
+
+# Navarro Weddings
+
+- Category: photographer
+- Services: photographer
+- Address: 302 East Jackson Avenue ##106, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.192526, -97.6932567
+- Phone: +19564544499
+- Website: https://www.navarroweddings.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 100% of photographers in Harlingen, TX, #1 of 1 photographers in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/navarro-weddings-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/navarro-weddings-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6479881494 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Palm Valley Gymnastics & Dance is a gym in Harlingen, TX.
+
+# Palm Valley Gymnastics & Dance
+
+- Category: gym
+- Services: gym
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1918672, -97.7108813
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 58% of gyms in Harlingen, TX, #4 of 7 gyms in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/palm-valley-gymnastics-and-dance-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/palm-valley-gymnastics-and-dance-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/498415460 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Paul Gonzales Insurance Agency is an insurance agent in Harlingen, TX at 105 East Jackson Avenue, Harlingen, TX 78550.
+
+# Paul Gonzales Insurance Agency
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 105 East Jackson Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1930702, -97.6953388
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 100% of insurance agents in Harlingen, TX, #5 of 5 insurance agents in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/paul-gonzales-insurance-agency-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/paul-gonzales-insurance-agency-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/574628599 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pep Boys is an auto repair shop in Harlingen, TX.
+
+# Pep Boys
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1868664, -97.7222549
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.3/100 — Building — top 100% of auto repair shops in Harlingen, TX, #2 of 2 auto repair shops in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pep-boys-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pep-boys-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5027665991 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+PetSmart is a pet store in Harlingen, TX at 2317 West Lincoln, Harlingen, TX 78552. Phone: +19564231062. Website: https://www.petsmart.com/stores/us/tx/harlingen-store1578.html.
+
+# PetSmart
+
+- Category: pet store
+- Services: pet store
+- Address: 2317 West Lincoln, Harlingen, TX 78552
+- City: Harlingen
+- State: TX
+- ZIP: 78552
+- Coordinates: 26.1796433, -97.7205845
+- Phone: +19564231062
+- Website: https://www.petsmart.com/stores/us/tx/harlingen-store1578.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Pulse Score: 49.3/100 — Building — top 100% of pet stores in Harlingen, TX, #2 of 2 pet stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petsmart-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petsmart-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4897794029 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Planet Fitness is a gym in Harlingen, TX.
+
+# Planet Fitness
+
+- Category: gym
+- Services: gym
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.2012837, -97.6840566
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.7/100 — Building — top 100% of gyms in Harlingen, TX, #7 of 7 gyms in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/planet-fitness-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/planet-fitness-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12688866451 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Quelle Boutique is a boutique in Harlingen, TX at 112 East Jackson Avenue, Harlingen, TX 78550.
+
+# Quelle Boutique
+
+- Category: boutique
+- Services: boutique
+- Address: 112 East Jackson Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1924978, -97.6951077
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 100% of boutiques in Harlingen, TX, #3 of 3 boutiques in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/quelle-boutique-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/quelle-boutique-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/574829129 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Quick Quack Car Wash is a car wash in Harlingen, TX.
+
+# Quick Quack Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1711773, -97.6753812
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.4/100 — Building — top 100% of car washes in Harlingen, TX, #4 of 4 car washes in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 44.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/quick-quack-car-wash-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/quick-quack-car-wash-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1448086299 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Realty Associates is a real estate agency in Harlingen, TX at 107 East Jackson Avenue #B, Harlingen, TX 78550.
+
+# Realty Associates
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 107 East Jackson Avenue #B, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1930708, -97.695261
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in Harlingen, TX, #2 of 2 real estate agencys in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/realty-associates-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/realty-associates-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/574628619 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rent-A-Center is a furniture store in Harlingen, TX.
+
+# Rent-A-Center
+
+- Category: furniture store
+- Services: furniture store
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1854158, -97.7140933
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.8/100 — Building — top 100% of furniture stores in Harlingen, TX, #5 of 5 furniture stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rent-a-center-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rent-a-center-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5270549782 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rialto Reception Hall is an event venue in Harlingen, TX.
+
+# Rialto Reception Hall
+
+- Category: event venues
+- Services: event venues
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1924602, -97.6957844
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of event venues in Harlingen, TX, #1 of 1 event venues in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rialto-reception-hall-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rialto-reception-hall-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/574829133 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Robert J. Banks Attorney at Law is a lawyer in Harlingen, TX.
+
+# Robert J. Banks Attorney at Law
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1905027, -97.6937289
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Harlingen, TX, #4 of 4 lawyers in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 39.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/robert-j-banks-attorney-at-law-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/robert-j-banks-attorney-at-law-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5329826871 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Roberts Jewelry is a jewelry store in Harlingen, TX at East Jackson Avenue, Harlingen, TX 78550.
+
+# Roberts Jewelry
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: East Jackson Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1925339, -97.6938574
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 34% of jewelry stores in Harlingen, TX, #1 of 3 jewelry stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/roberts-jewelry-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/roberts-jewelry-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/575076071 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rodeo Dental is a dentist in Harlingen, TX at 601 North 77 Sunshine Strip ##4, Harlingen, TX 78550. Phone: +19563703700. Website: https://www.rodeodentaltexas.com/locations/harlingen-tx/.
+
+# Rodeo Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 601 North 77 Sunshine Strip ##4, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1984235, -97.6809099
+- Phone: +19563703700
+- Website: https://www.rodeodentaltexas.com/locations/harlingen-tx/
+- Email: harligen@rodeodental.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 75% of dentists in Harlingen, TX, #3 of 4 dentists in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rodeo-dental-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rodeo-dental-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7913778682 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Shepard Walton King is an insurance agent in Harlingen, TX at 1906 Tyler Avenue #B, Harlingen, TX 78550. Phone: +19564238755.
+
+# Shepard Walton King
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 1906 Tyler Avenue #B, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1888528, -97.6757073
+- Phone: +19564238755
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 80% of insurance agents in Harlingen, TX, #4 of 5 insurance agents in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/shepard-walton-king-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/shepard-walton-king-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6535984193 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+South Texas Auto Center is an used car dealer in San Benito, TX at 2300 West Expressway 83, San Benito, TX 78586.
+
+# South Texas Auto Center
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 2300 West Expressway 83, San Benito, TX 78586
+- City: San Benito
+- State: TX
+- ZIP: 78586
+- Coordinates: 26.149231, -97.6652246
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-19:00
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 100% of used car dealers in Harlingen, TX, #1 of 1 used car dealers in San Benito (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/south-texas-auto-center-san-benito/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/south-texas-auto-center-san-benito.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6482683665 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sport Clips is a hair salon in Harlingen, TX.
+
+# Sport Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1806144, -97.7204357
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.4/100 — Building — top 100% of hair salons in Harlingen, TX, #4 of 4 hair salons in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sport-clips-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sport-clips-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4898194600 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texas Thrift Store is a thrift store in Harlingen, TX.
+
+# Texas Thrift Store
+
+- Category: thrift store
+- Services: thrift store
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.200194, -97.6841895
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 25% of thrift stores in Harlingen, TX, #1 of 4 thrift stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-thrift-store-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-thrift-store-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4903112909 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Law Office of William F. Kimball is a lawyer in Harlingen, TX at 312 East Van Buren Avenue, Harlingen, TX 78550. Phone: +19564252000. Website: https://www.wfkattorney.com/.
+
+# The Law Office of William F. Kimball
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 312 East Van Buren Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1915447, -97.692864
+- Phone: +19564252000
+- Website: https://www.wfkattorney.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 25% of lawyers in Harlingen, TX, #1 of 4 lawyers in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-law-office-of-william-f-kimball-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-law-office-of-william-f-kimball-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6476623292 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Paw Pantry is a pet store in Harlingen, TX at 707 North 77 Sunshine Strip, Harlingen, TX 78550. Phone: +19564127297.
+
+# The Paw Pantry
+
+- Category: pet store
+- Services: pet store
+- Address: 707 North 77 Sunshine Strip, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.199243, -97.6817526
+- Phone: +19564127297
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 50% of pet stores in Harlingen, TX, #1 of 2 pet stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-paw-pantry-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-paw-pantry-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7782679992 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Salvation Army is a thrift store in Harlingen, TX.
+
+# The Salvation Army
+
+- Category: thrift store
+- Services: thrift store
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1924622, -97.6949178
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.4/100 — Building — top 100% of thrift stores in Harlingen, TX, #4 of 4 thrift stores in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-salvation-army-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/574829127 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Trinh's Floreria is a florist in Harlingen, TX.
+
+# Trinh's Floreria
+
+- Category: florist
+- Services: florist
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.1901959, -97.703771
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of florists in Harlingen, TX, #3 of 3 florists in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/trinhs-floreria-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trinhs-floreria-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5796669805 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Trinity At Harrison Funeral Home is a funeral home in Harlingen, TX at 1002 East Harrison Avenue, Harlingen, TX 78550. Phone: +19563642444. Website: https://trinityfunerals.com/.
+
+# Trinity At Harrison Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 1002 East Harrison Avenue, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1904304, -97.6854061
+- Phone: +19563642444
+- Website: https://trinityfunerals.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Harlingen, TX, #1 of 1 funeral homes in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/trinity-at-harrison-funeral-home-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trinity-at-harrison-funeral-home-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4514978935 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Triple R Income Tax & Auto Insurance is an insurance agent in Harlingen, TX at 223 W Tyler Ave, Harlingen, TX 78550. Phone: +19564129000. Website: https://triplerenterprises.org/.
+
+# Triple R Income Tax & Auto Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 223 W Tyler Ave, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1894213, -97.6975937
+- Phone: +19564129000
+- Website: https://triplerenterprises.org/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 40% of insurance agents in Harlingen, TX, #2 of 5 insurance agents in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/triple-r-income-tax-and-auto-insurance-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/triple-r-income-tax-and-auto-insurance-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4658577658 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ulta Beauty is a skin care studio in Harlingen, TX at 2717 West Expressway 83 #100, Harlingen, TX 78552. Phone: +19564408296. Website: https://www.ulta.com/stores/harlingen-tx-1022.
+
+# Ulta Beauty
+
+- Category: facial
+- Services: facial
+- Address: 2717 West Expressway 83 #100, Harlingen, TX 78552
+- City: Harlingen
+- State: TX
+- ZIP: 78552
+- Coordinates: 26.1837913, -97.7238258
+- Phone: +19564408296
+- Website: https://www.ulta.com/stores/harlingen-tx-1022
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+- Pulse Score: 45/100 — Building — top 100% of skin care studios in Harlingen, TX, #1 of 1 skin care studios in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ulta-beauty-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4943319288 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+UT Health RGV Surgery & Women's Specialty is an OB-GYN practice in Harlingen, TX at 614 Maco Drive, Harlingen, TX 78550. Phone: +19562967000. Website: https://uthealthrgv.org/locations/uthealthrgv-surgery-womens-specialty/.
+
+# UT Health RGV Surgery & Women's Specialty
+
+- Category: ob gyn
+- Services: ob gyn
+- Address: 614 Maco Drive, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1633509, -97.6764419
+- Phone: +19562967000
+- Website: https://uthealthrgv.org/locations/uthealthrgv-surgery-womens-specialty/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 100% of OB-GYN practices in Harlingen, TX, #1 of 1 OB-GYN practices in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ut-health-rgv-surgery-and-womens-specialty-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ut-health-rgv-surgery-and-womens-specialty-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/828988411 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Valley Family Dentistry is a dentist in Harlingen, TX at 202 South 1st Street, Harlingen, TX 78550. Phone: +19564230191. Website: https://valleyfamilydds.com/.
+
+# Valley Family Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 202 South 1st Street, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1915513, -97.6957359
+- Phone: +19564230191
+- Website: https://valleyfamilydds.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of dentists in Harlingen, TX, #1 of 4 dentists in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valley-family-dentistry-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valley-family-dentistry-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6475926050 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Weight Gym is a gym in Harlingen, TX.
+
+# Weight Gym
+
+- Category: gym
+- Services: gym
+- Address: Harlingen, TX
+- City: Harlingen
+- State: TX
+- ZIP: n/a
+- Coordinates: 26.2295789, -97.6660943
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 72% of gyms in Harlingen, TX, #5 of 7 gyms in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/weight-gym-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/weight-gym-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/618681370 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Who's Next Barber Shop is a hair salon in Harlingen, TX at 617 North 77 Sunshine Strip, Harlingen, TX 78550. Phone: +19563452741.
+
+# Who's Next Barber Shop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 617 North 77 Sunshine Strip, Harlingen, TX 78550
+- City: Harlingen
+- State: TX
+- ZIP: 78550
+- Coordinates: 26.1986562, -97.6812971
+- Phone: +19563452741
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 50% of hair salons in Harlingen, TX, #2 of 4 hair salons in Harlingen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/whos-next-barber-shop-harlingen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/whos-next-barber-shop-harlingen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7914894308 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

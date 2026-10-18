@@ -13,7 +13,7 @@ Rainbow Nails is a nail salon in Pittsburgh, PA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-17:00; Mo off
-- Pulse Score: 61.8/100 — Good — top 11% of nail salons in Pittsburgh, PA, #5 of 21 nail salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 11% of nail salons in Pittsburgh, PA, #5 of 21 nail salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

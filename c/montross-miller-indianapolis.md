@@ -13,7 +13,7 @@ Montross Miller is a lawyer in Indianapolis, IN at 8900 Keystone Crossing Boulev
 - Website: https://www.montrossmillerlaw.com/
 - Email: mmmk@4mklaw.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30; Sa, Su off
-- Pulse Score: 65.1/100 — Good — top 4% of lawyers in Indianapolis, IN, #1 of 19 lawyers in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 4% of lawyers in Indianapolis, IN, #1 of 19 lawyers in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 66.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

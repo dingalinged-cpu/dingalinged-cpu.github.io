@@ -6,8 +6,8 @@ Also answers: bike shop in Worthington, OH; bike shop near me (Worthington, OH);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. RIDEHome | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | RIDEHome is a bike shop in Worthington, OH at 650 North High Street, Worthington, OH 43085. Phone: +16144681409. Website: https://www.ride-home.com/. | https://registry-edge.dingalinged.workers.dev/c/ridehome-worthington/
-2. Tri Tech Multisport | Organic #2 | Pulse Score 58/100 (Unrated, #9 in city) | Tri Tech Multisport is a bike shop in Columbus, OH at 6155 Huntley Road, Columbus, OH 43229. Phone: +16148461516. Website: https://www.tritechmultisport.com/. | https://registry-edge.dingalinged.workers.dev/c/tri-tech-multisport-columbus/
+1. RIDEHome | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | RIDEHome is a bike shop in Worthington, OH at 650 North High Street, Worthington, OH 43085. Phone: +16144681409. Website: https://www.ride-home.com/. | https://registry-edge.dingalinged.workers.dev/c/ridehome-worthington/
+2. Tri Tech Multisport | Organic #2 | Pulse Score 57.9/100 (Unrated, #9 in city) | Tri Tech Multisport is a bike shop in Columbus, OH at 6155 Huntley Road, Columbus, OH 43229. Phone: +16148461516. Website: https://www.tritechmultisport.com/. | https://registry-edge.dingalinged.workers.dev/c/tri-tech-multisport-columbus/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop worthington oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

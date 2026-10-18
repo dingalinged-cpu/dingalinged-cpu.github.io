@@ -6,8 +6,8 @@ Also answers: piercing in Columbus, OH; piercing near me (Columbus, OH); best pi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Piercology | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Piercology is a piercing studio in Columbus, OH at 190 West Second Avenue, Columbus, OH 43201. Phone: +16142974743. Website: https://www.piercology.com/. | https://registry-edge.dingalinged.workers.dev/c/piercology-columbus/
-2. Piercings N' More | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Piercings N' More is a piercing studio in Columbus, OH at 1500 Polaris Parkway #2268, Columbus, OH 43240. | https://registry-edge.dingalinged.workers.dev/c/piercings-n-more-columbus/
+1. Piercology | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Piercology is a piercing studio in Columbus, OH at 190 West Second Avenue, Columbus, OH 43201. Phone: +16142974743. Website: https://www.piercology.com/. | https://registry-edge.dingalinged.workers.dev/c/piercology-columbus/
+2. Piercings N' More | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Piercings N' More is a piercing studio in Columbus, OH at 1500 Polaris Parkway #2268, Columbus, OH 43240. | https://registry-edge.dingalinged.workers.dev/c/piercings-n-more-columbus/
 
 ## Market data (for advertisers and agents)
 - Keyword: piercing columbus oh | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

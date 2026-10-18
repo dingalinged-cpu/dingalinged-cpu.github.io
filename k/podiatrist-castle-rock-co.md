@@ -6,7 +6,7 @@ Also answers: podiatrist in Castle Rock, CO; podiatrist near me (Castle Rock, CO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rock Canyon Foot & Ankle Clinic | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Rock Canyon Foot & Ankle Clinic is a podiatrist in Castle Rock, CO at 3740 Dacoro Lane #105, Castle Rock, CO 80109. Phone: +13036604115. Website: https://rockcanyonfootandankle.com/. | https://registry-edge.dingalinged.workers.dev/c/rock-canyon-foot-and-ankle-clinic-castle-rock/
+1. Rock Canyon Foot & Ankle Clinic | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Rock Canyon Foot & Ankle Clinic is a podiatrist in Castle Rock, CO at 3740 Dacoro Lane #105, Castle Rock, CO 80109. Phone: +13036604115. Website: https://rockcanyonfootandankle.com/. | https://registry-edge.dingalinged.workers.dev/c/rock-canyon-foot-and-ankle-clinic-castle-rock/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist castle rock co | category: Health & medical | industry benchmark: Physicians & Surgeons

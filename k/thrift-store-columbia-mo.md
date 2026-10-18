@@ -1,4 +1,4 @@
-The top unpaid thrift store listing for Columbia, MO is Upscale Resale (a thrift store in Columbia, MO at 1729 West Broadway #1A, Columbia, MO 65203). 5 thrift store businesses are listed for Columbia, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Columbia, MO is Deco to Retro (a thrift store in Columbia, MO at 212 I 70 business loop, Columbia, MO). 5 thrift store businesses are listed for Columbia, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Columbia, MO?
 
@@ -6,9 +6,9 @@ Also answers: thrift store in Columbia, MO; thrift store near me (Columbia, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Upscale Resale | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Upscale Resale is a thrift store in Columbia, MO at 1729 West Broadway #1A, Columbia, MO 65203. | https://registry-edge.dingalinged.workers.dev/c/upscale-resale-columbia/
-2. Deco to Retro | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Deco to Retro is a thrift store in Columbia, MO at 212 I 70 business loop, Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/deco-to-retro-columbia/
-3. The Restored Collective | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | The Restored Collective is a thrift store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/the-restored-collective-columbia/
+1. Deco to Retro | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Deco to Retro is a thrift store in Columbia, MO at 212 I 70 business loop, Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/deco-to-retro-columbia/
+2. The Restored Collective | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | The Restored Collective is a thrift store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/the-restored-collective-columbia/
+3. Upscale Resale | Organic #3 | Pulse Score 45.8/100 (Unrated, #3 in city) | Upscale Resale is a thrift store in Columbia, MO at 1729 West Broadway #1A, Columbia, MO 65203. | https://registry-edge.dingalinged.workers.dev/c/upscale-resale-columbia/
 4. The Salvation Army | Organic #4 | Pulse Score 45.1/100 (Building, #4 in city) | The Salvation Army is a thrift store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-columbia/
 5. The Salvation Army | Organic #5 | Pulse Score 42.3/100 (Building, #5 in city) | The Salvation Army is a thrift store in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-columbia-w593193079/
 

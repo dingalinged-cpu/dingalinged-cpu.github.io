@@ -6,7 +6,7 @@ Also answers: event venues in Salina, KS; event venues near me (Salina, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tony's Pizza Events Center | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Tony's Pizza Events Center is an event venue in Salina, KS. | https://registry-edge.dingalinged.workers.dev/c/tonys-pizza-events-center-salina/
+1. Tony's Pizza Events Center | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Tony's Pizza Events Center is an event venue in Salina, KS. | https://registry-edge.dingalinged.workers.dev/c/tonys-pizza-events-center-salina/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues salina ks | category: Events & weddings | industry benchmark: Personal Services

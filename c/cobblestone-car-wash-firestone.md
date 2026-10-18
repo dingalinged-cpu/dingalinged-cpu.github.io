@@ -13,7 +13,7 @@ Cobblestone Car Wash is a car wash in Firestone, CO at 3907 CO 119, Firestone, C
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 73% of car washes in Denver, CO, #4 of 4 car washes in Firestone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 71% of car washes in Denver, CO, #4 of 4 car washes in Firestone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

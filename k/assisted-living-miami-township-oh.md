@@ -6,7 +6,7 @@ Also answers: assisted living in Miami Township, OH; assisted living near me (Mi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Magnolia Springs Loveland | Organic #1 | Pulse Score 44.6/100 (Unrated, #1 in city) | Magnolia Springs Loveland is an assisted living facility in Miami Township, OH. Website: https://msloveland.com/. | https://registry-edge.dingalinged.workers.dev/c/magnolia-springs-loveland-miami-township/
+1. Magnolia Springs Loveland | Organic #1 | Pulse Score 44.5/100 (Unrated, #1 in city) | Magnolia Springs Loveland is an assisted living facility in Miami Township, OH. Website: https://msloveland.com/. | https://registry-edge.dingalinged.workers.dev/c/magnolia-springs-loveland-miami-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living miami township oh | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

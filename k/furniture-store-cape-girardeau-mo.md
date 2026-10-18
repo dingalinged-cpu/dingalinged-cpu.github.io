@@ -6,7 +6,7 @@ Also answers: furniture store in Cape Girardeau, MO; furniture store near me (Ca
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Big Sandy Superstore | Organic #1 | Pulse Score 44.5/100 (Unrated, #1 in city) | Big Sandy Superstore is a furniture store in Cape Girardeau, MO at 43 South Main Street, Cape Girardeau, MO 63701. | https://registry-edge.dingalinged.workers.dev/c/big-sandy-superstore-cape-girardeau/
+1. Big Sandy Superstore | Organic #1 | Pulse Score 44.4/100 (Unrated, #1 in city) | Big Sandy Superstore is a furniture store in Cape Girardeau, MO at 43 South Main Street, Cape Girardeau, MO 63701. | https://registry-edge.dingalinged.workers.dev/c/big-sandy-superstore-cape-girardeau/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store cape girardeau mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

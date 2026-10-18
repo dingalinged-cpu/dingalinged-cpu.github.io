@@ -13,7 +13,7 @@ Valvoline Instant Oil Change is an auto repair shop in Wichita, KS at North Rock
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.7/100 — Unrated (not enough evidence yet) — top 84% of auto repair shops in Wichita, KS, #15 of 20 auto repair shops in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.6/100 — Unrated (not enough evidence yet) — top 84% of auto repair shops in Wichita, KS, #15 of 20 auto repair shops in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Carmel, IN at 2772 East 146th Street, C
 - Website: https://locations.waxcenter.com/in/carmel/carmel-0192.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 50% of waxing salons in Indianapolis, IN, #1 of 1 waxing salons in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 50% of waxing salons in Indianapolis, IN, #1 of 1 waxing salons in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

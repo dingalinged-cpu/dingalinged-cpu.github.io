@@ -13,7 +13,7 @@ Fantastic Sams is a hair salon in O’Fallon, MO at 36 O'Fallon Square, O’Fall
 - Website: https://www.fantasticsams.com/about/regions/st-louis-mo/fantastic-sams-ofallon-mo-0
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 43% of hair salons in O'Fallon, MO, #6 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 43% of hair salons in O'Fallon, MO, #6 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

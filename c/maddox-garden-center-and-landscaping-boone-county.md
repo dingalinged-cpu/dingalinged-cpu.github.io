@@ -13,7 +13,7 @@ Maddox Garden Center & Landscaping is a landscaping company in Boone County, KY.
 - Website: https://www.maddoxgardencenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 79% of landscaping companys in Cincinnati, OH, #1 of 1 landscaping companys in Boone County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 79% of landscaping companys in Cincinnati, OH, #1 of 1 landscaping companys in Boone County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

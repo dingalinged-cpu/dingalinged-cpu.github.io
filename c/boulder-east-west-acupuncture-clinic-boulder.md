@@ -13,7 +13,7 @@ Boulder East West Acupuncture Clinic is an acupuncture clinic in Boulder, CO at 
 - Website: https://www.bouldereastwestacupuncture.com/
 - Email: info@bouldereastwestacu.com
 - Opening hours (OSM syntax): Mo 08:30‑13:00; Tu‑Th 13:00‑18:00; We 08:30‑18:00
-- Pulse Score: 64/100 — Good — top 7% of acupuncture clinics in Denver, CO, #1 of 4 acupuncture clinics in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 7% of acupuncture clinics in Denver, CO, #1 of 4 acupuncture clinics in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

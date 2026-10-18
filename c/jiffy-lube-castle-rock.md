@@ -13,7 +13,7 @@ Jiffy Lube is an auto repair shop in Castle Rock, CO at 1550 Carnaby Lane, Castl
 - Website: https://www.jiffylube.com/locations/co/castle-rock/3885
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-16:00
-- Pulse Score: 49.2/100 — Building — top 66% of auto repair shops in Denver, CO, #16 of 25 auto repair shops in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 66% of auto repair shops in Denver, CO, #16 of 25 auto repair shops in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

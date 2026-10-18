@@ -13,7 +13,7 @@ Rent-A-Center is a furniture store in McKees Rocks, PA at 154 Mckees Rocks Plaza
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.8/100 — Building — top 72% of furniture stores in Pittsburgh, PA, #2 of 2 furniture stores in McKees Rocks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 72% of furniture stores in Pittsburgh, PA, #2 of 2 furniture stores in McKees Rocks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Chuck & Don's Pet Food & Supplies is a pet store in Erie, CO at 1705 Highway 7 #
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.7/100 — Unrated (not enough evidence yet) — top 94% of pet stores in Denver, CO, #2 of 2 pet stores in Erie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.7/100 — Unrated (not enough evidence yet) — top 94% of pet stores in Denver, CO, #2 of 2 pet stores in Erie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 44.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

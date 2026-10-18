@@ -13,7 +13,7 @@ Methodist Sports Medicine is an orthopedic surgeon in Greenwood, IN at 1401 West
 - Website: https://www.methodistsports.com/locations/greenwood/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-16:30; Fr 08:00-16:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 75% of orthopedic surgeons in Indianapolis, IN, #1 of 1 orthopedic surgeons in Greenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 75% of orthopedic surgeons in Indianapolis, IN, #1 of 1 orthopedic surgeons in Greenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: auto repair in Baldwin Township, PA; auto repair near me (Baldwin 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dom's Gulf | Organic #1 | Pulse Score 61.1/100 (Unrated, #15 in city) | Dom's Gulf is an auto repair shop in Pittsburgh, PA at 500 McNeilly Road, Pittsburgh, PA 15226. Website: https://doms-gulf.business.site/. | https://registry-edge.dingalinged.workers.dev/c/doms-gulf-pittsburgh/
+1. Dom's Gulf | Organic #1 | Pulse Score 61.1/100 (Unrated, #14 in city) | Dom's Gulf is an auto repair shop in Pittsburgh, PA at 500 McNeilly Road, Pittsburgh, PA 15226. Website: https://doms-gulf.business.site/. | https://registry-edge.dingalinged.workers.dev/c/doms-gulf-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair baldwin township pa | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

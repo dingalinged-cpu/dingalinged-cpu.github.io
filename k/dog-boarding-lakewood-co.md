@@ -6,7 +6,7 @@ Also answers: dog boarding in Lakewood, CO; dog boarding near me (Lakewood, CO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. K-9 Castle | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | K-9 Castle is a dog boarding facility in Lakewood, CO at 6400 West Colfax Avenue, Lakewood, CO 80214. Phone: +13032374901. Website: https://www.k-9castle.com/. | https://registry-edge.dingalinged.workers.dev/c/k-9-castle-lakewood/
+1. K-9 Castle | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | K-9 Castle is a dog boarding facility in Lakewood, CO at 6400 West Colfax Avenue, Lakewood, CO 80214. Phone: +13032374901. Website: https://www.k-9castle.com/. | https://registry-edge.dingalinged.workers.dev/c/k-9-castle-lakewood/
 2. Dogtopia | Organic #2 | Pulse Score 48.6/100 (Building, #2 in city) | Dogtopia is a dog boarding facility in Lakewood, CO at 12057 West Alameda Parkway, Lakewood, CO 80228. Phone: +13039931669. Website: https://www.dogtopia.com/denver-lakewood-alameda-pkwy/. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-lakewood/
 3. Camp Bow Wow | Organic #3 | Pulse Score 48.1/100 (Building, #3 in city) | Camp Bow Wow is a dog boarding facility in Lakewood, CO at 3214 S Wadsworth Blvd, Lakewood, CO 80227. Phone: +17203035446. Website: https://www.campbowwow.com/lakewood-south/. | https://registry-edge.dingalinged.workers.dev/c/camp-bow-wow-lakewood/
 

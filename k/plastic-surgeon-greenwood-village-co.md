@@ -6,7 +6,7 @@ Also answers: plastic surgeon in Greenwood Village, CO; plastic surgeon near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ladner Facial Plastic Surgery | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Ladner Facial Plastic Surgery is a plastic surgeon in Greenwood Village, CO at 8200 East Belleview Avenue #Central Tower, Suite 320C, Greenwood Village, CO 80111. | https://registry-edge.dingalinged.workers.dev/c/ladner-facial-plastic-surgery-greenwood-village/
+1. Ladner Facial Plastic Surgery | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Ladner Facial Plastic Surgery is a plastic surgeon in Greenwood Village, CO at 8200 East Belleview Avenue #Central Tower, Suite 320C, Greenwood Village, CO 80111. | https://registry-edge.dingalinged.workers.dev/c/ladner-facial-plastic-surgery-greenwood-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon greenwood village co | category: Health & medical | industry benchmark: Physicians & Surgeons

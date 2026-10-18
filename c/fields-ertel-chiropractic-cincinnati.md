@@ -13,7 +13,7 @@ Fields Ertel Chiropractic is a chiropractor in Cincinnati, OH at 8673 Fields Ert
 - Website: https://fieldsertelchiro.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 34% of chiropractors in Cincinnati, OH, #4 of 6 chiropractors in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 34% of chiropractors in Cincinnati, OH, #4 of 6 chiropractors in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

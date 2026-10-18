@@ -13,7 +13,7 @@ Discount Tire is a tire shop in Carmel, IN at 15151 North Meridian Street, Carme
 - Website: https://stores.discounttire.com/in/carmel/ini-06/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.6/100 — Building — top 70% of tire shops in Indianapolis, IN, #1 of 3 tire shops in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 70% of tire shops in Indianapolis, IN, #1 of 3 tire shops in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

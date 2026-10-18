@@ -13,7 +13,7 @@ Alcatraz Storage is a self-storage facility in Brownsburg, IN at 650 Dale Schrie
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 14% of self-storage facilitys in Indianapolis, IN, #2 of 2 self-storage facilitys in Brownsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 14% of self-storage facilitys in Indianapolis, IN, #2 of 2 self-storage facilitys in Brownsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

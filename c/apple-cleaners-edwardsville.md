@@ -13,7 +13,7 @@ Apple Cleaners is a dry cleaner in Edwardsville, IL at 6679 Edwardsville Crossin
 - Website: https://corecleangroup.com/edwardsville-dry-cleaner/
 - Email: customersupport@applecleaners.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 09:00-16:00; Su closed
-- Pulse Score: 50.5/100 — Unrated (not enough evidence yet) — top 74% of dry cleaners in St. Louis, MO, #1 of 2 dry cleaners in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Unrated (not enough evidence yet) — top 71% of dry cleaners in St. Louis, MO, #1 of 2 dry cleaners in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

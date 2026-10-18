@@ -6,8 +6,8 @@ Also answers: dance studio in Greenwood, IN; dance studio near me (Greenwood, IN
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Inspire Dance Company | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Inspire Dance Company is a dance studio in Greenwood, IN at 337 Western Boulevard, Greenwood, IN 46142. Phone: +13178403979. | https://registry-edge.dingalinged.workers.dev/c/inspire-dance-company-greenwood/
-2. Stage 1 Dance Academy | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Stage 1 Dance Academy is a dance studio in Greenwood, IN at 740 Fry Road, Greenwood, IN 46143. | https://registry-edge.dingalinged.workers.dev/c/stage-1-dance-academy-greenwood/
+1. Inspire Dance Company | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Inspire Dance Company is a dance studio in Greenwood, IN at 337 Western Boulevard, Greenwood, IN 46142. Phone: +13178403979. | https://registry-edge.dingalinged.workers.dev/c/inspire-dance-company-greenwood/
+2. Stage 1 Dance Academy | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Stage 1 Dance Academy is a dance studio in Greenwood, IN at 740 Fry Road, Greenwood, IN 46143. | https://registry-edge.dingalinged.workers.dev/c/stage-1-dance-academy-greenwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio greenwood in | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ New Mainstream Massage is a massage studio in Pittsburgh, PA at 4826 Liberty Ave
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-00:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 15% of massage studios in Pittsburgh, PA, #6 of 17 massage studios in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 15% of massage studios in Pittsburgh, PA, #6 of 17 massage studios in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

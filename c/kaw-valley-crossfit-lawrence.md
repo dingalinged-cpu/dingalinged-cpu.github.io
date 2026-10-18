@@ -13,7 +13,7 @@ Kaw Valley CrossFit is a CrossFit gym in Lawrence, KS at 1204 East 24th Street #
 - Website: https://kawvalleycrossfit.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 50% of CrossFit gyms in Lawrence, KS, #1 of 2 CrossFit gyms in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 50% of CrossFit gyms in Lawrence, KS, #1 of 2 CrossFit gyms in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

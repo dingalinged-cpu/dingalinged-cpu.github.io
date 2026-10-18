@@ -13,7 +13,7 @@ Cell Phone Repair is a phone repair shop in Wentzville, MO at 1828 Wentzville Pa
 - Website: https://www.cellphonerepair.com/wentzville-mo/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-17:00
-- Pulse Score: 48.2/100 — Building — top 100% of phone repair shops in Wentzville, MO, #1 of 1 phone repair shops in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 100% of phone repair shops in Wentzville, MO, #1 of 1 phone repair shops in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

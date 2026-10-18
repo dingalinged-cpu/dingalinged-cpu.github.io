@@ -13,7 +13,7 @@ Pet Pals Animal Hospital is a veterinarian in Saint Peters, MO at 7464 Mexico Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-16:00; Tu,Th 08:00-20:00; We 09:00-15:00; Fr 10:00-15:00; Sa 08:00-15:00; Su off
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in St. Peters, MO, #1 of 1 veterinarians in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in St. Peters, MO, #1 of 1 veterinarians in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

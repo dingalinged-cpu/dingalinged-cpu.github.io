@@ -13,7 +13,7 @@ Salon Lofts is a hair salon in Columbus, OH at 820 North High Street, Columbus, 
 - Website: https://salonlofts.com/salons/short_north_at_the_hub
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.2/100 — Fair — top 71% of hair salons in Columbus, OH, #87 of 112 hair salons in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.8, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 70% of hair salons in Columbus, OH, #87 of 112 hair salons in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.8, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

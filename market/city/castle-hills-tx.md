@@ -1,0 +1,48 @@
+Keyword market for Castle Hills, TX: 19 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the San Antonio-New Braunfels, TX metro (US volume x population share).
+
+# Top keywords in Castle Hills, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash castle hills tx | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-castle-hills-tx/
+2. dentist castle hills tx | searches/mo 15,000 (est) | CPC $4.70 | value $70,000 | Google Ads equiv $3,800/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-castle-hills-tx/
+3. hair salon castle hills tx | searches/mo 12,000 (est) | CPC $0.55 | value $6,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-castle-hills-tx/
+4. nail salon castle hills tx | searches/mo 8,200 (est) | CPC $0.61 | value $5,000 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-castle-hills-tx/
+5. mechanic castle hills tx | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-castle-hills-tx/
+6. haircut castle hills tx | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-castle-hills-tx/
+7. auto repair castle hills tx | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-castle-hills-tx/
+8. insurance agency castle hills tx | searches/mo 740 (est) | CPC $3.39 | value $2,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-castle-hills-tx/
+9. insurance agents castle hills tx | searches/mo 410 (est) | CPC $3.39 | value $1,400 | Google Ads equiv $120/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-castle-hills-tx/
+10. insurance agent castle hills tx | searches/mo 330 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $93.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-castle-hills-tx/
+
+## By CPC
+1. storage units castle hills tx | searches/mo 1,800 (est) | CPC $8.33 | value $15,000 | Google Ads equiv $960/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-castle-hills-tx/
+2. event venues castle hills tx | searches/mo 1,800 (est) | CPC $7.17 | value $13,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/event-venues-castle-hills-tx/
+3. florist castle hills tx | searches/mo 1,800 (est) | CPC $7.17 | value $13,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/florist-castle-hills-tx/
+4. driving school castle hills tx | searches/mo 330 (est) | CPC $4.81 | value $1,600 | Google Ads equiv $91.00/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/driving-school-castle-hills-tx/
+5. assisted living castle hills tx | searches/mo 1,800 (est) | CPC $4.76 | value $8,600 | Google Ads equiv $580/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/assisted-living-castle-hills-tx/
+6. dentist castle hills tx | searches/mo 15,000 (est) | CPC $4.70 | value $70,000 | Google Ads equiv $3,800/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-castle-hills-tx/
+7. haircut castle hills tx | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-castle-hills-tx/
+8. auto repair castle hills tx | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-castle-hills-tx/
+9. car wash castle hills tx | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-castle-hills-tx/
+10. mechanic castle hills tx | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-castle-hills-tx/
+11. liquor store castle hills tx | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-castle-hills-tx/
+12. mattress store castle hills tx | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mattress-store-castle-hills-tx/
+13. thrift store castle hills tx | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/thrift-store-castle-hills-tx/
+14. dry cleaners castle hills tx | searches/mo 1,800 (est) | CPC $3.39 | value $6,100 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-castle-hills-tx/
+15. insurance agency castle hills tx | searches/mo 740 (est) | CPC $3.39 | value $2,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-castle-hills-tx/
+
+## By value (searches x CPC)
+1. dentist castle hills tx | searches/mo 15,000 (est) | CPC $4.70 | value $70,000 | Google Ads equiv $3,800/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-castle-hills-tx/
+2. car wash castle hills tx | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-castle-hills-tx/
+3. mechanic castle hills tx | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-castle-hills-tx/
+4. haircut castle hills tx | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-castle-hills-tx/
+5. auto repair castle hills tx | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-castle-hills-tx/
+6. hair salon castle hills tx | searches/mo 12,000 (est) | CPC $0.55 | value $6,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-castle-hills-tx/
+7. nail salon castle hills tx | searches/mo 8,200 (est) | CPC $0.61 | value $5,000 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-castle-hills-tx/
+8. insurance agency castle hills tx | searches/mo 740 (est) | CPC $3.39 | value $2,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-castle-hills-tx/
+9. insurance agents castle hills tx | searches/mo 410 (est) | CPC $3.39 | value $1,400 | Google Ads equiv $120/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-castle-hills-tx/
+10. insurance agent castle hills tx | searches/mo 330 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $93.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-castle-hills-tx/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

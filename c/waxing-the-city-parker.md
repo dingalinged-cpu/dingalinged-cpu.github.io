@@ -13,7 +13,7 @@ Waxing the City is a waxing salon in Parker, CO at 17051 East Lincoln Avenue, Pa
 - Website: https://www.waxingthecity.com/locations/w2/us/co/parker/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-19:00; Tu-Th 08:00-19:00; Fr 08:00-18:00; Sa-Su 08:00-17:00
-- Pulse Score: 48.3/100 — Building — top 30% of waxing salons in Denver, CO, #1 of 1 waxing salons in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 30% of waxing salons in Denver, CO, #1 of 1 waxing salons in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: roofing contractor in Robinson Township, PA; roofing contractor ne
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gotcha Covered Contracting | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Gotcha Covered Contracting is a roofer in McKees Rocks, PA at 6112 Steubenville Pike, McKees Rocks, PA 15136. Phone: +17245818147. Website: https://www.gccroofers.com/. | https://registry-edge.dingalinged.workers.dev/c/gotcha-covered-contracting-mckees-rocks/
+1. Gotcha Covered Contracting | Organic #1 | Pulse Score 47.1/100 (Unrated, #1 in city) | Gotcha Covered Contracting is a roofer in McKees Rocks, PA at 6112 Steubenville Pike, McKees Rocks, PA 15136. Phone: +17245818147. Website: https://www.gccroofers.com/. | https://registry-edge.dingalinged.workers.dev/c/gotcha-covered-contracting-mckees-rocks/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor robinson township pa | category: Home services - Roofing | industry benchmark: Home & Home Improvement

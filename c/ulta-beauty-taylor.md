@@ -13,7 +13,7 @@ Ulta Beauty is a skin care studio in Taylor, MI at 23000 Eureka Road #1170, Tayl
 - Website: https://www.ulta.com/stores/taylor-mi-1029
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-20:00; Su 12:00-18:00
-- Pulse Score: 46.4/100 — Building — top 34% of skin care studios in Detroit, MI, #1 of 1 skin care studios in Taylor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 34% of skin care studios in Detroit, MI, #1 of 1 skin care studios in Taylor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

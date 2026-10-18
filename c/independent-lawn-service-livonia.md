@@ -13,7 +13,7 @@ Independent Lawn Service is a landscaping company in Livonia, MI at 12853 Levan 
 - Website: https://www.independentlawnservice.com/
 - Email: customerservice@independentlawnservice.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 64.1/100 — Good — top 10% of landscaping companys in Detroit, MI, #1 of 1 landscaping companys in Livonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 10% of landscaping companys in Detroit, MI, #1 of 1 landscaping companys in Livonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

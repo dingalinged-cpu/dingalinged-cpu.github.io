@@ -7,7 +7,7 @@ Also answers: therapist in Saint Peters, MO; therapist near me (Saint Peters, MO
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Planned Parenthood | Organic #1 | Pulse Score 47.9/100 (Building, #1 in city) | Planned Parenthood is a therapy practice in Saint Peters, MO at 208 Mid Rivers Center, Saint Peters, MO 63376. Phone: +16362793339. Website: https://www.plannedparenthood.org/health-center/missouri/saint-peters/63376/st-peters-health-center-2709-90770. | https://registry-edge.dingalinged.workers.dev/c/planned-parenthood-saint-peters/
-2. WW Studio | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | WW Studio is a therapy practice in Saint Peters, MO at 274 Mid Rivers Center, Saint Peters, MO 63376. Website: https://www.weightwatchers.com/us/find-a-meeting/1168140/weight-watchers-store-saint-peters-saint-peters-mo. | https://registry-edge.dingalinged.workers.dev/c/ww-studio-saint-peters/
+2. WW Studio | Organic #2 | Pulse Score 45.2/100 (Building, #2 in city) | WW Studio is a therapy practice in Saint Peters, MO at 274 Mid Rivers Center, Saint Peters, MO 63376. Website: https://www.weightwatchers.com/us/find-a-meeting/1168140/weight-watchers-store-saint-peters-saint-peters-mo. | https://registry-edge.dingalinged.workers.dev/c/ww-studio-saint-peters/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist saint peters mo | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

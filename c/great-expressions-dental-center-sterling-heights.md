@@ -13,7 +13,7 @@ Great Expressions Dental Center is a dentist in Sterling Heights, MI at 2041 15 
 - Website: https://www.greatexpressions.com/dental-offices/dentist-in-sterling-heights-michigan/
 - Email: patientservices@greatexpressions.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.6/100 — Building — top 91% of dentists in Detroit, MI, #25 of 27 dentists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 90% of dentists in Detroit, MI, #25 of 27 dentists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

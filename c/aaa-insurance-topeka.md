@@ -13,7 +13,7 @@ AAA Insurance is an insurance agent in Topeka, KS at 1223 Southwest Wanamaker Ro
 - Website: https://cluballiance.aaa.com/locations/aaa-stores/AG131/aaa-topeka-1223-sw-wanamaker-road-topeka
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 09:00-13:00
-- Pulse Score: 48.2/100 — Building — top 42% of insurance agents in Topeka, KS, #5 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 42% of insurance agents in Topeka, KS, #5 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: staffing agency in Erlanger, KY; staffing agency near me (Erlanger
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CM Personnel | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | CM Personnel is a staffing agency in Erlanger, KY. | https://registry-edge.dingalinged.workers.dev/c/cm-personnel-erlanger/
-2. Labor Source | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Labor Source is a staffing agency in Erlanger, KY. | https://registry-edge.dingalinged.workers.dev/c/labor-source-erlanger/
+1. CM Personnel | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | CM Personnel is a staffing agency in Erlanger, KY. | https://registry-edge.dingalinged.workers.dev/c/cm-personnel-erlanger/
+2. Labor Source | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Labor Source is a staffing agency in Erlanger, KY. | https://registry-edge.dingalinged.workers.dev/c/labor-source-erlanger/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency erlanger ky | category: b2b_services | industry benchmark: Business Services

@@ -13,7 +13,7 @@ Great Expressions is a dentist in Southgate, MI at 15300 Trenton Road, Southgate
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.4/100 — Unrated (not enough evidence yet) — top 96% of dentists in Detroit, MI, #16 of 17 dentists in Southgate (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.3/100 — Unrated (not enough evidence yet) — top 96% of dentists in Detroit, MI, #16 of 17 dentists in Southgate (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

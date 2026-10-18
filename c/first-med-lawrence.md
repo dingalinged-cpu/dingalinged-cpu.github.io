@@ -13,7 +13,7 @@ First Med is a family medicine practice in Lawrence, KS at 3211 Iowa Street #100
 - Website: https://www.lmh.org/get-care/primary-care/first-med/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su 13:00-17:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 100% of family medicine practices in Lawrence, KS, #1 of 1 family medicine practices in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 100% of family medicine practices in Lawrence, KS, #1 of 1 family medicine practices in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

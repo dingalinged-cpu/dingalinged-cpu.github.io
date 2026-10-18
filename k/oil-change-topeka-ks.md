@@ -6,7 +6,7 @@ Also answers: oil change in Topeka, KS; oil change near me (Topeka, KS); best oi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Firestone | Organic #1 | Pulse Score 48.5/100 (Building, #17 in city) | Firestone is an auto repair shop in Topeka, KS at 5320 Southwest 21st Street, Topeka, KS 66604. Phone: +17852468625. Website: https://local.firestonecompleteautocare.com/kansas/topeka/5320-sw-21st-st/. | https://registry-edge.dingalinged.workers.dev/c/firestone-topeka/
+1. Firestone | Organic #1 | Pulse Score 48.4/100 (Building, #17 in city) | Firestone is an auto repair shop in Topeka, KS at 5320 Southwest 21st Street, Topeka, KS 66604. Phone: +17852468625. Website: https://local.firestonecompleteautocare.com/kansas/topeka/5320-sw-21st-st/. | https://registry-edge.dingalinged.workers.dev/c/firestone-topeka/
 2. Valvoline | Organic #2 | Pulse Score 47.7/100 (Building, #19 in city) | Valvoline is an auto repair shop in Topeka, KS at 2104 Southwest Brandywine Lane, Topeka, KS 66614. Phone: +17853293990. Website: https://store.vioc.com/ks/topeka/oil-change-050119.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-topeka/
 
 ## Market data (for advertisers and agents)

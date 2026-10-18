@@ -13,7 +13,7 @@ Bone Dry Roofing is a roofer in West Chester Township, OH at 9940 Cincinnati Day
 - Website: https://bonedry.com/cincinnati/
 - Email: info@bonedry.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 52.5/100 — Fair — top 100% of roofers in Cincinnati, OH, #1 of 1 roofers in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.4, Trust 67.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.5/100 — Fair — top 100% of roofers in Cincinnati, OH, #1 of 1 roofers in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.4, Trust 67.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

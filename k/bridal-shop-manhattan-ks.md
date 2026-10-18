@@ -6,7 +6,7 @@ Also answers: bridal shop in Manhattan, KS; bridal shop near me (Manhattan, KS);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Celebrations of the Heart | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Celebrations of the Heart is a bridal shop in Manhattan, KS at 401 Poyntz Avenue, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/celebrations-of-the-heart-manhattan/
+1. Celebrations of the Heart | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Celebrations of the Heart is a bridal shop in Manhattan, KS at 401 Poyntz Avenue, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/celebrations-of-the-heart-manhattan/
 
 ## Market data (for advertisers and agents)
 - Keyword: bridal shop manhattan ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

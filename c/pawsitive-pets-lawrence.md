@@ -13,7 +13,7 @@ Pawsitive Pets is a veterinarian in Lawrence, KS at 650 Congressional Drive #C, 
 - Website: https://www.pawsitivepetsvetcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 78% of veterinarians in Lawrence, KS, #7 of 9 veterinarians in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 78% of veterinarians in Lawrence, KS, #7 of 9 veterinarians in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

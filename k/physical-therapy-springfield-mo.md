@@ -6,7 +6,7 @@ Also answers: physical therapy in Springfield, MO; physical therapy near me (Spr
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ARC Physical Therapy+ | Organic #1 | Pulse Score 47.4/100 (Unrated, #1 in city) | ARC Physical Therapy+ is a physical therapy clinic in Springfield, MO. Phone: +14177993377. Website: https://www.arcpt.com/. | https://registry-edge.dingalinged.workers.dev/c/arc-physical-therapy-springfield/
+1. ARC Physical Therapy+ | Organic #1 | Pulse Score 47.2/100 (Unrated, #1 in city) | ARC Physical Therapy+ is a physical therapy clinic in Springfield, MO. Phone: +14177993377. Website: https://www.arcpt.com/. | https://registry-edge.dingalinged.workers.dev/c/arc-physical-therapy-springfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy springfield mo | category: Health & medical | industry benchmark: Physicians & Surgeons

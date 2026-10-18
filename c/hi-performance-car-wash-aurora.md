@@ -13,7 +13,7 @@ Hi-Performance Car Wash is a car wash in Aurora, CO at East Mississippi Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.6/100 — Unrated (not enough evidence yet) — top 74% of car washes in Denver, CO, #23 of 44 car washes in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Unrated (not enough evidence yet) — top 72% of car washes in Denver, CO, #23 of 44 car washes in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

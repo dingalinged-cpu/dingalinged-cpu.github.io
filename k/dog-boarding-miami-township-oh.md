@@ -7,7 +7,7 @@ Also answers: dog boarding in Miami Township, OH; dog boarding near me (Miami To
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. KennelResorts | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | KennelResorts is a dog boarding facility in Milford, OH at 5825 Meadow View Drive, Milford, OH 45150. Website: https://www.kennelresorts.com/. | https://registry-edge.dingalinged.workers.dev/c/kennelresorts-milford/
-2. Camp Bow Wow Milford | Organic #2 | Pulse Score 48.7/100 (Building, #4 in city) | Camp Bow Wow Milford is a dog boarding facility in Milford, OH at 892 State Route 28, Milford, OH 45150. Phone: +15134176399. Website: https://www.campbowwow.com/milford/. | https://registry-edge.dingalinged.workers.dev/c/camp-bow-wow-milford-milford/
+2. Camp Bow Wow Milford | Organic #2 | Pulse Score 48.6/100 (Building, #4 in city) | Camp Bow Wow Milford is a dog boarding facility in Milford, OH at 892 State Route 28, Milford, OH 45150. Phone: +15134176399. Website: https://www.campbowwow.com/milford/. | https://registry-edge.dingalinged.workers.dev/c/camp-bow-wow-milford-milford/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding miami township oh | category: Pets | industry benchmark: Animals & Pets

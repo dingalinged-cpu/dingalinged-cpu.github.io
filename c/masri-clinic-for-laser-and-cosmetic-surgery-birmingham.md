@@ -13,7 +13,7 @@ Masri Clinic For Laser and Cosmetic Surgery is a plastic surgeon in Birmingham, 
 - Website: https://www.masriclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 80% of plastic surgeons in Detroit, MI, #1 of 2 plastic surgeons in Birmingham (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 80% of plastic surgeons in Detroit, MI, #1 of 2 plastic surgeons in Birmingham (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

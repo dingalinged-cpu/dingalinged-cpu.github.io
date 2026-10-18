@@ -6,7 +6,7 @@ Also answers: flooring companies in Lancaster, OH; flooring companies near me (L
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wyckoff Epoxy Flooring | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Wyckoff Epoxy Flooring is a flooring company in Lancaster, OH at 618 Forest Rose East, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/wyckoff-epoxy-flooring-lancaster/
+1. Wyckoff Epoxy Flooring | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Wyckoff Epoxy Flooring is a flooring company in Lancaster, OH at 618 Forest Rose East, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/wyckoff-epoxy-flooring-lancaster/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies lancaster oh | category: Home services - Flooring | industry benchmark: Home & Home Improvement

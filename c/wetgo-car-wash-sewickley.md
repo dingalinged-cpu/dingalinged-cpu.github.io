@@ -13,7 +13,7 @@ WetGo Car Wash is a car wash in Sewickley, PA at 2620 Nicholson Road, Sewickley,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-20:00
-- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 69% of car washes in Pittsburgh, PA, #1 of 1 car washes in Sewickley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 68% of car washes in Pittsburgh, PA, #1 of 1 car washes in Sewickley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

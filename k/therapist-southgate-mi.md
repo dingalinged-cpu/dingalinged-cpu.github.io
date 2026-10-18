@@ -6,7 +6,7 @@ Also answers: therapist in Southgate, MI; therapist near me (Southgate, MI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Empowered Therapy | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Empowered Therapy is a therapy practice in Southgate, MI at 13235 Northline Road, Southgate, MI 48195. Website: https://www.empoweredtherapyservices.com/. | https://registry-edge.dingalinged.workers.dev/c/empowered-therapy-southgate/
+1. Empowered Therapy | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Empowered Therapy is a therapy practice in Southgate, MI at 13235 Northline Road, Southgate, MI 48195. Website: https://www.empoweredtherapyservices.com/. | https://registry-edge.dingalinged.workers.dev/c/empowered-therapy-southgate/
 2. Paul R. Savickas, Ph.D. | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Paul R. Savickas, Ph.D. is a therapy practice in Southgate, MI at 15173 Eureka Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/paul-r-savickas-ph-d-southgate/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Physical Therapy is a physical therapy clinic in Southgate, MI at 16115 Dix-Tole
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 88% of physical therapy clinics in Detroit, MI, #8 of 8 physical therapy clinics in Southgate (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 87% of physical therapy clinics in Detroit, MI, #8 of 8 physical therapy clinics in Southgate (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

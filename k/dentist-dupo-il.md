@@ -6,7 +6,7 @@ Also answers: dentist in Dupo, IL; dentist near me (Dupo, IL); best dentist Dupo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Affordable Dental of Illinois | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Affordable Dental of Illinois is a dentist in Dupo, IL at 195 South Main Street, Dupo, IL 62239. | https://registry-edge.dingalinged.workers.dev/c/affordable-dental-of-illinois-dupo/
+1. Affordable Dental of Illinois | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Affordable Dental of Illinois is a dentist in Dupo, IL at 195 South Main Street, Dupo, IL 62239. | https://registry-edge.dingalinged.workers.dev/c/affordable-dental-of-illinois-dupo/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist dupo il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

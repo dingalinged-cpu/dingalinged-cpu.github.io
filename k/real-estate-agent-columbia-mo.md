@@ -6,10 +6,10 @@ Also answers: real estate agent in Columbia, MO; real estate agent near me (Colu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mid America Land Services | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Mid America Land Services is a real estate agency in Columbia, MO at 802 North Providence Road, Columbia, MO 65203. Phone: +15734425214. Website: https://midamland.com/. | https://registry-edge.dingalinged.workers.dev/c/mid-america-land-services-columbia/
+1. Mid America Land Services | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Mid America Land Services is a real estate agency in Columbia, MO at 802 North Providence Road, Columbia, MO 65203. Phone: +15734425214. Website: https://midamland.com/. | https://registry-edge.dingalinged.workers.dev/c/mid-america-land-services-columbia/
 2. Bev & Co. Realty | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Bev & Co. Realty is a real estate agency in Columbia, MO at 1000 West Nifong Boulevard #2-100, Columbia, MO 65203. Phone: +15738645054. Website: https://www.bevandcorealty.com/. | https://registry-edge.dingalinged.workers.dev/c/bev-and-co-realty-columbia/
-3. Tara Apartments Office | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Tara Apartments Office is a real estate agency in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/tara-apartments-office-columbia/
-4. Veterans United Realty | Organic #4 | Pulse Score 45.5/100 (Unrated, #4 in city) | Veterans United Realty is a real estate agency in Columbia, MO at 1512 Heriford Rd, Columbia, MO 65202. | https://registry-edge.dingalinged.workers.dev/c/veterans-united-realty-columbia/
+3. Tara Apartments Office | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Tara Apartments Office is a real estate agency in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/tara-apartments-office-columbia/
+4. Veterans United Realty | Organic #4 | Pulse Score 45.4/100 (Unrated, #4 in city) | Veterans United Realty is a real estate agency in Columbia, MO at 1512 Heriford Rd, Columbia, MO 65202. | https://registry-edge.dingalinged.workers.dev/c/veterans-united-realty-columbia/
 5. RE/MAX | Organic #5 | Pulse Score 42.4/100 (Building, #5 in city) | RE/MAX is a real estate agency in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/re-max-columbia/
 
 ## Market data (for advertisers and agents)

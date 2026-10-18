@@ -13,7 +13,7 @@ Planned Parenthood is a therapy practice in Saint Peters, MO at 208 Mid Rivers C
 - Website: https://www.plannedparenthood.org/health-center/missouri/saint-peters/63376/st-peters-health-center-2709-90770
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-19:00; We 11:00-19:00; Th 09:00-17:00; Fr 08:00-16:00; Sa,Su,Tu off; Sa[1,3] 09:00-13:00; PH off
-- Pulse Score: 47.9/100 — Building — top 50% of therapy practices in St. Peters, MO, #1 of 2 therapy practices in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 50% of therapy practices in St. Peters, MO, #1 of 2 therapy practices in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

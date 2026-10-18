@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Bowman Financial Strategies | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Bowman Financial Strategies is a financial advisor in Englewood, CO at 385 Inverness Parkway #390, Englewood, CO 80012. Phone: +13032228034. Website: https://www.bowmanfinancialstrategies.com/. | https://registry-edge.dingalinged.workers.dev/c/bowman-financial-strategies-englewood/
 2. Prudential | Organic #2 | Pulse Score 61.4/100 (Good, #2 in city) | Prudential is a financial advisor in Englewood, CO at 8000 South Chester Street #325, Englewood, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/prudential-englewood/
-3. Geneos Wealth Management Inc | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Geneos Wealth Management Inc is a financial advisor in Englewood, CO at 9635 Maroon Circle #100, Englewood, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/geneos-wealth-management-inc-englewood/
+3. Geneos Wealth Management Inc | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Geneos Wealth Management Inc is a financial advisor in Englewood, CO at 9635 Maroon Circle #100, Englewood, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/geneos-wealth-management-inc-englewood/
 4. Raymond James | Organic #4 | Pulse Score 43.4/100 (Building, #4 in city) | Raymond James is a financial advisor in Englewood, CO at 9127 Jamaica Street, Englewood, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/raymond-james-englewood/
 
 ## Market data (for advertisers and agents)

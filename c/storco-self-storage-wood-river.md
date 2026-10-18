@@ -13,7 +13,7 @@ StorCo Self Storage is a self-storage facility in Wood River, IL at 1401 Vaughn 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 25% of self-storage facilitys in St. Louis, MO, #1 of 1 self-storage facilitys in Wood River (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 21% of self-storage facilitys in St. Louis, MO, #1 of 1 self-storage facilitys in Wood River (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

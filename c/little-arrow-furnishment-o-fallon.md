@@ -13,7 +13,7 @@ Little Arrow Furnishment is a furniture store in O’Fallon, MO at 145 O'Fallon 
 - Website: https://www.littlearrowfurnishment.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 40% of furniture stores in O'Fallon, MO, #2 of 4 furniture stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 40% of furniture stores in O'Fallon, MO, #2 of 4 furniture stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

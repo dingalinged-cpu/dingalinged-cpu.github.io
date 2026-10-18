@@ -13,7 +13,7 @@ Panther Physical Therapy is a physical therapy clinic in McCandless, PA. Phone: 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-20:00; Tu 06:30-12:00; We 09:00-20:00; Th 09:00-19:00; Fr 06:30-12:00; Sa 07:00-11:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 20% of physical therapy clinics in Pittsburgh, PA, #1 of 1 physical therapy clinics in McCandless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 23% of physical therapy clinics in Pittsburgh, PA, #1 of 1 physical therapy clinics in McCandless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

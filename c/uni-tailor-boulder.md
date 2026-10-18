@@ -13,7 +13,7 @@ Uni Tailor is a tailor in Boulder, CO. Phone: +13034999186. Website: https://bou
 - Website: https://boulderunitailor.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 9:00-18:00; Sa 10:00-17:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 26% of tailors in Denver, CO, #1 of 4 tailors in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 26% of tailors in Denver, CO, #1 of 4 tailors in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

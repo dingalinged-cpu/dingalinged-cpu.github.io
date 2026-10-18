@@ -13,7 +13,7 @@ Sync Creative is a marketing agency in Columbus, OH at 243 East Livingston Avenu
 - Website: https://www.synccreative.com/
 - Email: hello@synccreative.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 84% of marketing agencys in Columbus, OH, #5 of 6 marketing agencys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 84% of marketing agencys in Columbus, OH, #5 of 6 marketing agencys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

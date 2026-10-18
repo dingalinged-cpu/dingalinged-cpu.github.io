@@ -6,8 +6,8 @@ Also answers: tax preparation in Manhattan, KS; tax preparation near me (Manhatt
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Liberty Tax | Organic #1 | Pulse Score 47.8/100 (Building, #1 in city) | Liberty Tax is a tax preparation service in Manhattan, KS at 100 Bluemont Avenue, Manhattan, KS 66502. Website: https://www.libertytax.com/. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-manhattan/
-2. H&R Block | Organic #2 | Pulse Score 43.8/100 (Building, #2 in city) | H&R Block is a tax preparation service in Manhattan, KS at 3047 Anderson Avenue, Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-manhattan/
+1. Liberty Tax | Organic #1 | Pulse Score 47.7/100 (Building, #1 in city) | Liberty Tax is a tax preparation service in Manhattan, KS at 100 Bluemont Avenue, Manhattan, KS 66502. Website: https://www.libertytax.com/. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-manhattan/
+2. H&R Block | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | H&R Block is a tax preparation service in Manhattan, KS at 3047 Anderson Avenue, Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-manhattan/
 3. H&R Block | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | H&R Block is a tax preparation service in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-manhattan-n4840504324/
 
 ## Market data (for advertisers and agents)

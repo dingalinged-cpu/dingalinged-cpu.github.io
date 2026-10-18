@@ -13,7 +13,7 @@ KC Mortgage LLC is a photographer in Castle Rock, CO at 504 North Perry Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-21:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 24% of photographers in Denver, CO, #2 of 2 photographers in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 24% of photographers in Denver, CO, #2 of 2 photographers in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

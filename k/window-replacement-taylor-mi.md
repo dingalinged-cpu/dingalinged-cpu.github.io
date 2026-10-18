@@ -6,7 +6,7 @@ Also answers: window replacement in Taylor, MI; window replacement near me (Tayl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wallside Windows | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Wallside Windows is a window installer in Taylor, MI. | https://registry-edge.dingalinged.workers.dev/c/wallside-windows-taylor/
+1. Wallside Windows | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Wallside Windows is a window installer in Taylor, MI. | https://registry-edge.dingalinged.workers.dev/c/wallside-windows-taylor/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement taylor mi | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

@@ -6,7 +6,7 @@ Also answers: waxing in Columbus, OH; waxing near me (Columbus, OH); best waxing
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Qinky Beauty Spa Beautique | Organic #1 | Pulse Score 63.1/100 (Good, #1 in city) | Qinky Beauty Spa Beautique is a skin care studio in Columbus, OH at 360 East Long Street, Columbus, OH 43215. Phone: +16144018288. Website: https://www.yoursqin.com/. | https://registry-edge.dingalinged.workers.dev/c/qinky-beauty-spa-beautique-columbus/
+1. Qinky Beauty Spa Beautique | Organic #1 | Pulse Score 63/100 (Good, #1 in city) | Qinky Beauty Spa Beautique is a skin care studio in Columbus, OH at 360 East Long Street, Columbus, OH 43215. Phone: +16144018288. Website: https://www.yoursqin.com/. | https://registry-edge.dingalinged.workers.dev/c/qinky-beauty-spa-beautique-columbus/
 2. Waxxpoint | Organic #2 | Pulse Score 58.5/100 (Unrated, #1 in city) | Waxxpoint is a waxing salon in Columbus, OH at 1188 North High Street, Columbus, OH 43201. Phone: +16142999299. Website: https://waxxpot.com/locations/short-north/. | https://registry-edge.dingalinged.workers.dev/c/waxxpoint-columbus/
 
 ## Market data (for advertisers and agents)

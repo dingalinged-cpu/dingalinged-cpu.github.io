@@ -13,7 +13,7 @@ Simply Self Storage is a self-storage facility in Clinton Township, MI at 20722 
 - Website: https://www.simplyss.com/michigan/hall-road-clinton-township-self-storage/
 - Email: n/a
 - Opening hours (OSM syntax): 06:00-22:00
-- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 59% of self-storage facilitys in Detroit, MI, #1 of 1 self-storage facilitys in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 57% of self-storage facilitys in Detroit, MI, #1 of 1 self-storage facilitys in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

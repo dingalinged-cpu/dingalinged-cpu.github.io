@@ -13,7 +13,7 @@ Quatrini Law Group is a lawyer in Pittsburgh, PA at 1464 Smallman Street, Pittsb
 - Website: https://www.qrglaw.com/
 - Email: info@qrlegal.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 5% of lawyers in Pittsburgh, PA, #3 of 23 lawyers in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 5% of lawyers in Pittsburgh, PA, #3 of 23 lawyers in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. uBreakiFix | Organic #1 | Pulse Score 50.5/100 (Fair, #1 in city) | uBreakiFix is a phone repair shop in Pittsburgh, PA at 4718 Liberty Avenue, Pittsburgh, PA. Phone: +14127096618. Website: https://www.ubreakifix.com/locations/pittsburgh/. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-pittsburgh-n6050058975/
 2. uBreakiFix | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | uBreakiFix is a phone repair shop in Pittsburgh, PA at 900 Settlers Ridge Center Dr, Pittsburgh, PA 15205. Phone: +14127884820. Website: https://ubreakifix.com/locations/robinson. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-pittsburgh-n9548024471/
-3. uBreakiFix | Organic #3 | Pulse Score 47.6/100 (Building, #3 in city) | uBreakiFix is a phone repair shop in Pittsburgh, PA at 4885 McKnight Road #20, Pittsburgh, PA 15237. Phone: +14128372214. Website: https://www.ubreakifix.com/locations/northhills. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-pittsburgh/
+3. uBreakiFix | Organic #3 | Pulse Score 47.5/100 (Building, #3 in city) | uBreakiFix is a phone repair shop in Pittsburgh, PA at 4885 McKnight Road #20, Pittsburgh, PA 15237. Phone: +14128372214. Website: https://www.ubreakifix.com/locations/northhills. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: computer repair pittsburgh pa | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

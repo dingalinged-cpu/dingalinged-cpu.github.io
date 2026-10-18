@@ -6,7 +6,7 @@ Also answers: vet in Sunset Hills, MO; vet near me (Sunset Hills, MO); best vet 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Family Pet Hospital | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Family Pet Hospital is a veterinarian in Sunset Hills, MO at 10400 Watson Road, Sunset Hills, MO 63127. Phone: +13147201704. Website: https://www.familypetstl.com/. | https://registry-edge.dingalinged.workers.dev/c/family-pet-hospital-sunset-hills/
+1. Family Pet Hospital | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Family Pet Hospital is a veterinarian in Sunset Hills, MO at 10400 Watson Road, Sunset Hills, MO 63127. Phone: +13147201704. Website: https://www.familypetstl.com/. | https://registry-edge.dingalinged.workers.dev/c/family-pet-hospital-sunset-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet sunset hills mo | category: Pets | industry benchmark: Animals & Pets

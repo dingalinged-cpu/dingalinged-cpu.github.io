@@ -27,7 +27,7 @@
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 50% of gift shops in Topeka, KS, #1 of 2 gift shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 50% of gift shops in Topeka, KS, #1 of 2 gift shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -54,7 +54,7 @@ A Plus Collision Repair is an auto repair shop in Topeka, KS at 301 Northwest Re
 - Website: https://www.apluscollisionrepair.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 10% of auto repair shops in Topeka, KS, #2 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 10% of auto repair shops in Topeka, KS, #2 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -81,7 +81,7 @@ AAA Insurance is an insurance agent in Topeka, KS at 1223 Southwest Wanamaker Ro
 - Website: https://cluballiance.aaa.com/locations/aaa-stores/AG131/aaa-topeka-1223-sw-wanamaker-road-topeka
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 09:00-13:00
-- Pulse Score: 48.2/100 — Building — top 42% of insurance agents in Topeka, KS, #5 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 42% of insurance agents in Topeka, KS, #5 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -108,7 +108,7 @@ AAA Self Storage is a self-storage facility in Topeka, KS at 2155 Southwest West
 - Website: https://www.aaaselfstoragetopeka.com/
 - Email: aaaselfstorage2155@sbcglobal.net
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 20% of self-storage facilitys in Topeka, KS, #1 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Unrated (not enough evidence yet) — top 60% of self-storage facilitys in Topeka, KS, #3 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -135,7 +135,7 @@ Aaron's is a furniture store in Topeka, KS at 1930 Southwest Wanamaker Road #F, 
 - Website: https://locations.aarons.com/us/ks/topeka/1930-s.w.-wannamaker-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
-- Pulse Score: 48.5/100 — Building — top 80% of furniture stores in Topeka, KS, #4 of 5 furniture stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 80% of furniture stores in Topeka, KS, #4 of 5 furniture stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -162,7 +162,7 @@ Advisors Excel is a business consultant in Topeka, KS at 2950 Southwest McClure 
 - Website: https://www.advisorsexcel.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 100% of business consultants in Topeka, KS, #2 of 2 business consultants in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 100% of business consultants in Topeka, KS, #2 of 2 business consultants in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -189,7 +189,7 @@ All About U Salon Topeka is a hair salon in Topeka, KS at 1501 Southwest 21st St
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 39% of hair salons in Topeka, KS, #7 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 39% of hair salons in Topeka, KS, #7 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -216,7 +216,7 @@ American Eagle Tax is a tax preparation service in Topeka, KS at 1940 Southwest 
 - Website: https://ameagletax.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th 09:00-16:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 50% of tax preparation services in Topeka, KS, #1 of 2 tax preparation services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 50% of tax preparation services in Topeka, KS, #1 of 2 tax preparation services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -243,7 +243,7 @@ American Family Insurance is an insurance agent in Topeka, KS at 6220 Southwest 
 - Website: https://agent.amfam.com/cammy-figgs/ks/topeka/6220-sw-29th-st-ste-400/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su "by appointment"
-- Pulse Score: 48.2/100 — Building — top 50% of insurance agents in Topeka, KS, #6 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 50% of insurance agents in Topeka, KS, #6 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -270,7 +270,7 @@ American Family Insurance is an insurance agent in Topeka, KS at 119 Southeast 6
 - Website: https://insurance-agency.amfam.com/KS/kelly-gerhardt/default.aspx?sourceid=agp0001039023
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.1/100 — Building — top 92% of insurance agents in Topeka, KS, #11 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43/100 — Building — top 92% of insurance agents in Topeka, KS, #11 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -297,7 +297,7 @@ Apino and Biggs Reporting Service is a business consultant in Topeka, KS at 5111
 - Website: https://www.appinobiggs.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 50% of business consultants in Topeka, KS, #1 of 2 business consultants in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 50% of business consultants in Topeka, KS, #1 of 2 business consultants in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -324,7 +324,7 @@ Aquarian Liquor is a liquor store in Topeka, KS at 3310 Southeast 29th Street, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 20% of liquor stores in Topeka, KS, #2 of 10 liquor stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 20% of liquor stores in Topeka, KS, #2 of 10 liquor stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -351,7 +351,7 @@ ARC Physical Therapy is a physical therapy clinic in Topeka, KS at 3009 Southwes
 - Website: https://arcpt.com/clinics/topeka-ks
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We 07:00-17:00; Tu, Th-Fr 08:00-17:00
-- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 34% of physical therapy clinics in Topeka, KS, #1 of 3 physical therapy clinics in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 34% of physical therapy clinics in Topeka, KS, #1 of 3 physical therapy clinics in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -378,7 +378,7 @@ Ashley HomeStore is a furniture store in Topeka, KS at 2190 Southwest Wanamaker 
 - Website: https://stores.ashleyfurniture.com/store/us/kansas/topeka/9000190773
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 48.3/100 — Building — top 100% of furniture stores in Topeka, KS, #5 of 5 furniture stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 100% of furniture stores in Topeka, KS, #5 of 5 furniture stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -405,7 +405,7 @@ Aspen Dental is a dentist in Topeka, KS at 1730 Southwest Wanamaker Road, Topeka
 - Website: https://www.aspendental.com/dentist/ks/topeka/1730-sw-wanamaker-road
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 07:30-17:30; Th 09:00-19:00; Fr 08:00-13:00
-- Pulse Score: 48.1/100 — Building — top 100% of dentists in Topeka, KS, #7 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 100% of dentists in Topeka, KS, #7 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -432,7 +432,7 @@ ATA Martial Arts is a martial arts school in Topeka, KS at 2919 Southwest Wanama
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.7/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Topeka, KS, #2 of 2 martial arts schools in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.6/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Topeka, KS, #2 of 2 martial arts schools in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -459,7 +459,7 @@ Atria Hearthstone East Assisted Living Facility is an assisted living facility i
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 75% of assisted living facilitys in Topeka, KS, #3 of 4 assisted living facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 75% of assisted living facilitys in Topeka, KS, #3 of 4 assisted living facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -486,7 +486,7 @@ Atria Hearthstone West Assisted Living Facility is an assisted living facility i
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 50% of assisted living facilitys in Topeka, KS, #2 of 4 assisted living facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 50% of assisted living facilitys in Topeka, KS, #2 of 4 assisted living facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -513,7 +513,7 @@ ATS Accounting & Tax Services is an accountant in Topeka, KS at 1016 Southwest 6
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 50% of accountants in Topeka, KS, #1 of 2 accountants in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 50% of accountants in Topeka, KS, #1 of 2 accountants in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -540,7 +540,7 @@ Barbara's Conservatory of Dance is a dance studio in Topeka, KS. Website: https:
 - Website: https://barbarasconservatoryofdance.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 100% of dance studios in Topeka, KS, #3 of 3 dance studios in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 100% of dance studios in Topeka, KS, #3 of 3 dance studios in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -567,7 +567,7 @@ Bella Ray Photography is a photographer in Topeka, KS. Phone: +17854309124.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 100% of photographers in Topeka, KS, #3 of 3 photographers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of photographers in Topeka, KS, #3 of 3 photographers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -594,7 +594,7 @@ Bella Salon and Day Spa is a nail salon in Topeka, KS at 5515 Southwest 21st Str
 - Website: https://www.bellasalontopeka.com/
 - Email: bellasalontopeka@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 46% of nail salons in Topeka, KS, #5 of 11 nail salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 46% of nail salons in Topeka, KS, #5 of 11 nail salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -621,7 +621,7 @@ Best Little Hair House In Kansas is a hair salon in Topeka, KS at 910 Northwest 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 45% of hair salons in Topeka, KS, #8 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 45% of hair salons in Topeka, KS, #8 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -648,7 +648,7 @@ Beverly Bernardi Post Conservatory of Dance is a dance studio in Topeka, KS at 5
 - Website: https://bevbernardipostdance.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 67% of dance studios in Topeka, KS, #2 of 3 dance studios in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 67% of dance studios in Topeka, KS, #2 of 3 dance studios in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -702,7 +702,7 @@ Blondie's Hair Designs is a hair salon in Topeka, KS at 6831 Southwest 29th Stre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 50% of hair salons in Topeka, KS, #9 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 50% of hair salons in Topeka, KS, #9 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -729,7 +729,7 @@ Brennan Mathena Funeral Home is a funeral home in Topeka, KS at 800 Southwest 6t
 - Website: https://www.brennanmathenafh.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 20% of funeral homes in Topeka, KS, #1 of 5 funeral homes in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 20% of funeral homes in Topeka, KS, #1 of 5 funeral homes in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -756,7 +756,7 @@ Briman's Leading Jewelers is a jewelry store in Topeka, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in Topeka, KS, #3 of 3 jewelry stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in Topeka, KS, #3 of 3 jewelry stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -783,7 +783,7 @@ Brookfield Village Apartments is a property management company in Topeka, KS at 
 - Website: https://www.brookfieldvillageapts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-15:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 100% of property management companys in Topeka, KS, #1 of 1 property management companys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 100% of property management companys in Topeka, KS, #1 of 1 property management companys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -810,7 +810,7 @@ Brooks Hair Salon is a hair salon in Topeka, KS at 516 Southwest Topeka Boulevar
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 56% of hair salons in Topeka, KS, #10 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 56% of hair salons in Topeka, KS, #10 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -837,7 +837,7 @@ Buff Guys Detail Garage is an auto repair shop in Topeka, KS at 5853 Southwest 2
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 32% of auto repair shops in Topeka, KS, #7 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 32% of auto repair shops in Topeka, KS, #7 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -864,7 +864,7 @@ Carol's Pretty Pets Salon is a dog groomer in Topeka, KS at Southwest Topeka Bou
 - Website: https://carolsprettypetssalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo - Fr 07:00-16:00, Sa 08:00-16:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 34% of dog groomers in Topeka, KS, #1 of 3 dog groomers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 34% of dog groomers in Topeka, KS, #1 of 3 dog groomers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -891,7 +891,7 @@ Cedarhurst of Topeka is an assisted living facility in Topeka, KS at 6732 Southw
 - Website: https://www.cedarhurstliving.com/cedarhurst-topeka-ks
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 25% of assisted living facilitys in Topeka, KS, #1 of 4 assisted living facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 25% of assisted living facilitys in Topeka, KS, #1 of 4 assisted living facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -918,7 +918,7 @@ Cell Phone Repair is a phone repair shop in Topeka, KS at 2813 Southwest Wanamak
 - Website: https://www.cellphonerepair.com/topeka-west-ks/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-17:00
-- Pulse Score: 48/100 — Building — top 100% of phone repair shops in Topeka, KS, #1 of 1 phone repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 100% of phone repair shops in Topeka, KS, #1 of 1 phone repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -972,7 +972,7 @@ Charm Nails is a nail salon in Topeka, KS at 5900 Southwest Huntoon Street, Tope
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 64% of nail salons in Topeka, KS, #7 of 11 nail salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 64% of nail salons in Topeka, KS, #7 of 11 nail salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -999,7 +999,7 @@ Club Car Wash is a car wash in Topeka, KS at 2524 Southeast California Avenue, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 100% of car washes in Topeka, KS, #5 of 5 car washes in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 100% of car washes in Topeka, KS, #5 of 5 car washes in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1053,7 +1053,7 @@ College Hill Liquor Store is a liquor store in Topeka, KS at 1501 Southwest 21st
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 30% of liquor stores in Topeka, KS, #3 of 10 liquor stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 30% of liquor stores in Topeka, KS, #3 of 10 liquor stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1080,7 +1080,7 @@ Cosmos Court is an event venue in Topeka, KS at 909 South Kansas Avenue, Topeka,
 - Website: https://www.cosmoscourt.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 34% of event venues in Topeka, KS, #1 of 2 event venues in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 34% of event venues in Topeka, KS, #1 of 2 event venues in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1107,7 +1107,7 @@ Cotton O'Neil Asbury Drive Clinic is a family medicine practice in Topeka, KS at
 - Website: https://www.stormontvail.org/location/asbury-drive-clinic/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 50% of family medicine practices in Topeka, KS, #1 of 2 family medicine practices in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 50% of family medicine practices in Topeka, KS, #1 of 2 family medicine practices in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1134,7 +1134,7 @@ Cotton O'Neil Clinic is a family medicine practice in Topeka, KS at 6725 Southwe
 - Website: https://www.stormontvail.org/location/cotton-oneil-urish/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 100% of family medicine practices in Topeka, KS, #2 of 2 family medicine practices in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 100% of family medicine practices in Topeka, KS, #2 of 2 family medicine practices in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1161,7 +1161,7 @@ Crunch Fitness is a gym in Topeka, KS at 2905 Southwest Topeka Boulevard, Topeka
 - Website: https://www.crunch.com/locations/topeka
 - Email: exec@topekahabitat.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Building — top 50% of gyms in Topeka, KS, #3 of 6 gyms in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 50% of gyms in Topeka, KS, #3 of 6 gyms in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1188,7 +1188,7 @@ CubeSmart is a self-storage facility in Topeka, KS at 240 Southeast 29th Street,
 - Website: https://www.cubesmart.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 100% of self-storage facilitys in Topeka, KS, #5 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 100% of self-storage facilitys in Topeka, KS, #5 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1215,7 +1215,7 @@ Custom Wood Products is a cabinet maker in Topeka, KS at 1920 Southwest Westport
 - Website: https://www.cwponline.com/
 - Email: info@cwponline.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 100% of cabinet makers in Topeka, KS, #1 of 1 cabinet makers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 100% of cabinet makers in Topeka, KS, #1 of 1 cabinet makers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1242,7 +1242,7 @@ D & C Sweet Treats is a bakery in Topeka, KS at 112 Northwest Western Avenue, To
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 50% of bakerys in Topeka, KS, #2 of 4 bakerys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 50% of bakerys in Topeka, KS, #2 of 4 bakerys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1269,7 +1269,7 @@ Davidson Funeral Home is a funeral home in Topeka, KS at 1035 North Kansas Avenu
 - Website: https://www.davidsonfuneral.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 40% of funeral homes in Topeka, KS, #2 of 5 funeral homes in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 40% of funeral homes in Topeka, KS, #2 of 5 funeral homes in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1296,7 +1296,7 @@ DeVaughn James Injury Lawyers is a lawyer in Topeka, KS at 1064 Southwest Wanama
 - Website: https://www.devaughnjames.com/locations/topeka/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 13% of lawyers in Topeka, KS, #1 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 13% of lawyers in Topeka, KS, #1 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1350,7 +1350,7 @@ Diamonds By Design is a jewelry store in Topeka, KS at 2121 Southwest Wanamaker 
 - Website: https://diamondsbydesigntopeka.com/
 - Email: diamondsbydesigninc@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 67% of jewelry stores in Topeka, KS, #2 of 3 jewelry stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 67% of jewelry stores in Topeka, KS, #2 of 3 jewelry stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1377,7 +1377,7 @@ Dr. Jeff Hill and Associates is an eye care practice in Topeka, KS at 2129 South
 - Website: https://www.drhilloptometry.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Topeka, KS, #1 of 1 eye care practices in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Topeka, KS, #1 of 1 eye care practices in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1404,7 +1404,7 @@ Dream Nails is a nail salon in Topeka, KS at 2130 Southwest Wanamaker Road #122,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 73% of nail salons in Topeka, KS, #8 of 11 nail salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 73% of nail salons in Topeka, KS, #8 of 11 nail salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1458,7 +1458,7 @@ Edward Jones is a financial advisor in Topeka, KS at 6831 Southwest 29th Street 
 - Website: https://www.edwardjones.com/us-en/financial-advisor/kasey-priddy
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.6/100 — Building — top 100% of financial advisors in Topeka, KS, #2 of 2 financial advisors in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 100% of financial advisors in Topeka, KS, #2 of 2 financial advisors in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1512,7 +1512,7 @@ Emergency Animal Clinic of Topeka is a veterinarian in Topeka, KS at 5501 Southw
 - Website: https://eactopeka.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:30-24:00; Sa 12:00-24:00; Su 08:00-24:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 25% of veterinarians in Topeka, KS, #1 of 4 veterinarians in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 25% of veterinarians in Topeka, KS, #1 of 4 veterinarians in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1539,7 +1539,7 @@ Engroff Catering is a caterer in Topeka, KS at 2127 Southwest Westport Drive, To
 - Website: https://engroffcatering.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 100% of caterers in Topeka, KS, #1 of 1 caterers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 100% of caterers in Topeka, KS, #1 of 1 caterers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1566,7 +1566,7 @@ Essential Salon and Spa is a nail salon in Topeka, KS at 5900 Southwest Huntoon 
 - Website: https://www.essentiasalonandspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 55% of nail salons in Topeka, KS, #6 of 11 nail salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 55% of nail salons in Topeka, KS, #6 of 11 nail salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1593,7 +1593,7 @@ Everly Life is an insurance agent in Topeka, KS at 1 SW Security Benefit Place, 
 - Website: https://www.everlylife.com/
 - Email: support@everlylife.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.3/100 — Good — top 9% of insurance agents in Topeka, KS, #1 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 9% of insurance agents in Topeka, KS, #1 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1620,7 +1620,7 @@ Faith Early Childhood Center is a preschool in Topeka, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of preschools in Topeka, KS, #2 of 2 preschools in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of preschools in Topeka, KS, #2 of 2 preschools in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1647,7 +1647,7 @@ Family Styling Barber Shop is a hair salon in Topeka, KS at 1501 Southwest 21st 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 34% of hair salons in Topeka, KS, #6 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 34% of hair salons in Topeka, KS, #6 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1701,7 +1701,7 @@ Farmers Insurance is an insurance agent in Topeka, KS at 608 Southwest Washburn 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.2/100 — Building — top 100% of insurance agents in Topeka, KS, #12 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.3, Trust 43.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.2/100 — Building — top 100% of insurance agents in Topeka, KS, #12 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.3, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1728,7 +1728,7 @@ FedEx Office is a printing service in Topeka, KS at 2201 Southwest Wanamaker Roa
 - Website: https://local.fedex.com/en-us/ks/topeka/office-0239
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 10:00-18:00
-- Pulse Score: 49.7/100 — Building — top 67% of printing services in Topeka, KS, #2 of 3 printing services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 67% of printing services in Topeka, KS, #2 of 3 printing services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1755,7 +1755,7 @@ Finishing Touch-Paintless Dent Repair is an auto repair shop in Topeka, KS at 10
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 55% of auto repair shops in Topeka, KS, #12 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 55% of auto repair shops in Topeka, KS, #12 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1782,7 +1782,7 @@ Firestone is an auto repair shop in Topeka, KS at 5320 Southwest 21st Street, To
 - Website: https://local.firestonecompleteautocare.com/kansas/topeka/5320-sw-21st-st/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00
-- Pulse Score: 48.5/100 — Building — top 78% of auto repair shops in Topeka, KS, #17 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 78% of auto repair shops in Topeka, KS, #17 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1809,7 +1809,7 @@ Flower Market is a florist in Topeka, KS at 119 US 24 #Suite A, Topeka, KS 66608
 - Website: https://topekaflowermarket.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 100% of florists in Topeka, KS, #1 of 1 florists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 100% of florists in Topeka, KS, #1 of 1 florists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1836,7 +1836,7 @@ Genesis is a gym in Topeka, KS at 2909 Southwest 37th Street, Topeka, KS 66614.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 34% of gyms in Topeka, KS, #2 of 6 gyms in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 34% of gyms in Topeka, KS, #2 of 6 gyms in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1863,7 +1863,7 @@ God's Storehouse is a thrift store in Topeka, KS at 2111 Southwest Chelsea Drive
 - Website: https://www.gshtopeka.org/
 - Email: info@gshtopeka.org
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 10:00-19:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 50% of thrift stores in Topeka, KS, #2 of 4 thrift stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 50% of thrift stores in Topeka, KS, #2 of 4 thrift stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1917,7 +1917,7 @@ Great Clips is a hair salon in Topeka, KS at 910 Northwest 25th Street, Topeka, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.2/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Topeka, KS, #18 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.1/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Topeka, KS, #18 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1971,7 +1971,7 @@ H&R Block is a tax preparation service in Topeka, KS at 726 South Kansas Avenue,
 - Website: https://www.hrblock.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 100% of tax preparation services in Topeka, KS, #2 of 2 tax preparation services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 100% of tax preparation services in Topeka, KS, #2 of 2 tax preparation services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1998,7 +1998,7 @@ Hairslingers is a hair salon in Topeka, KS at 1406 Southwest 17th Street, Topeka
 - Website: https://www.hairslingers.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 23% of hair salons in Topeka, KS, #4 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 23% of hair salons in Topeka, KS, #4 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2025,7 +2025,7 @@ Hallmark is a gift shop in Topeka, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.2/100 — Building — top 100% of gift shops in Topeka, KS, #2 of 2 gift shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 100% of gift shops in Topeka, KS, #2 of 2 gift shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2079,7 +2079,7 @@ Healing Smiles is a dentist in Topeka, KS at 627 Southwest Topeka Boulevard, Top
 - Website: https://www.drchronister.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 29% of dentists in Topeka, KS, #2 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 29% of dentists in Topeka, KS, #2 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2106,7 +2106,7 @@ Heritage Mental Health Clinic is a therapy practice in Topeka, KS at 2110 Southw
 - Website: https://www.heritagemhc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 50% of therapy practices in Topeka, KS, #1 of 2 therapy practices in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 50% of therapy practices in Topeka, KS, #1 of 2 therapy practices in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2133,7 +2133,7 @@ Holden L. Correll, DDS is a dentist in Topeka, KS at 1107 Southwest Gage Bouleva
 - Website: https://www.holdencorrelldds.com/
 - Email: info@holdencorrell.com
 - Opening hours (OSM syntax): Mo-Th 07:45-17:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of dentists in Topeka, KS, #1 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of dentists in Topeka, KS, #1 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2160,7 +2160,7 @@ Holstin Law Office, llc is a lawyer in Topeka, KS at 434 Southwest Topeka Boulev
 - Website: https://www.holstinlaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Topeka, KS, #4 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Topeka, KS, #4 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2187,7 +2187,7 @@ Hutton Monuments is a funeral home in Topeka, KS at 235 Southwest Topeka Bouleva
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Topeka, KS, #5 of 5 funeral homes in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Topeka, KS, #5 of 5 funeral homes in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2214,7 +2214,7 @@ Hygenic Dry Cleaners is a dry cleaner in Topeka, KS at 2930 Southwest McClure Ro
 - Website: https://www.hygienicdryclean.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:30, Sa 09:00-13:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of dry cleaners in Topeka, KS, #1 of 5 dry cleaners in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of dry cleaners in Topeka, KS, #1 of 5 dry cleaners in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2268,7 +2268,7 @@ Jac's Liquor World is a liquor store in Topeka, KS at 5200 Southwest 21st Street
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 70% of liquor stores in Topeka, KS, #7 of 10 liquor stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 70% of liquor stores in Topeka, KS, #7 of 10 liquor stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2295,7 +2295,7 @@ Jazzercise is a gym in Topeka, KS. Phone: +17853833831. Website: https://jes.jaz
 - Website: https://jes.jazzercise.com/jes.dll?JCLS%3AISFacilityPage%3A0%3AFacilityObjectID=435&SearchObjID=55674&CameFrom=Index
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 84% of gyms in Topeka, KS, #5 of 6 gyms in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 84% of gyms in Topeka, KS, #5 of 6 gyms in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2322,7 +2322,7 @@ Jenny Craig is a therapy practice in Topeka, KS at 6021 Southwest 29th Street #C
 - Website: https://locations.jennycraig.com/ks/topeka/weight-loss-center-716.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Building — top 100% of therapy practices in Topeka, KS, #2 of 2 therapy practices in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 100% of therapy practices in Topeka, KS, #2 of 2 therapy practices in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2349,7 +2349,7 @@ Jerry's Bike Shop is a bike shop in Topeka, KS at 1415 Southwest Lane Street, To
 - Website: https://www.jerrysbikeshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 50% of bike shops in Topeka, KS, #1 of 2 bike shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 50% of bike shops in Topeka, KS, #1 of 2 bike shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2403,7 +2403,7 @@ John J. Stringer, DDS is a dentist in Topeka, KS at 2445 Southwest Wanamaker Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 58% of dentists in Topeka, KS, #4 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 58% of dentists in Topeka, KS, #4 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2430,7 +2430,7 @@ Johnny Rowlands Driving School is a driving school in Topeka, KS at 5501 Southwe
 - Website: https://www.johnnyrowlandsdrivingschooltopeka.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 100% of driving schools in Topeka, KS, #1 of 1 driving schools in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 100% of driving schools in Topeka, KS, #1 of 1 driving schools in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2457,7 +2457,7 @@ J's Hair Parlor is a hair salon in Topeka, KS at 5999 Southwest 22nd Park #B, To
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 67% of hair salons in Topeka, KS, #12 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 67% of hair salons in Topeka, KS, #12 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2484,7 +2484,7 @@ Julie Fischer is an insurance agent in Topeka, KS at 2023 Southwest Gage Bouleva
 - Website: https://www.juliefischerinsurance.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Building — top 84% of insurance agents in Topeka, KS, #10 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Building — top 84% of insurance agents in Topeka, KS, #10 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2538,7 +2538,7 @@ Kansas Ballet Academy is a dance studio in Topeka, KS at 5240 Southwest 17th Str
 - Website: https://kansasballet.com/
 - Email: information@kansasballet.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 34% of dance studios in Topeka, KS, #1 of 3 dance studios in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 34% of dance studios in Topeka, KS, #1 of 3 dance studios in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2565,7 +2565,7 @@ Kansas Builders Insurance Group is an insurance agent in Topeka, KS at 2101 Sout
 - Website: https://kbig.biz/
 - Email: info@kbig.biz
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 17% of insurance agents in Topeka, KS, #2 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 17% of insurance agents in Topeka, KS, #2 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2646,7 +2646,7 @@ Kevin Brennan Family Funeral Home is a funeral home in Topeka, KS at 2801 Southw
 - Website: https://www.kevinbrennanfamily.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 80% of funeral homes in Topeka, KS, #4 of 5 funeral homes in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 80% of funeral homes in Topeka, KS, #4 of 5 funeral homes in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2673,7 +2673,7 @@ Kjorlie Law Office is a lawyer in Topeka, KS at 827 Southwest Topeka Boulevard, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 88% of lawyers in Topeka, KS, #7 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 88% of lawyers in Topeka, KS, #7 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2700,7 +2700,7 @@ Lake Shawnee Event Center is an event venue in Shawnee County, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 100% of event venues in Topeka, KS, #1 of 1 event venues in Shawnee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 100% of event venues in Topeka, KS, #1 of 1 event venues in Shawnee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2727,7 +2727,7 @@ Lakeside Wine & Spirits is a liquor store in Topeka, KS at 3627 Southeast 29th S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 40% of liquor stores in Topeka, KS, #4 of 10 liquor stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 40% of liquor stores in Topeka, KS, #4 of 10 liquor stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2754,7 +2754,7 @@ Lava Yoga is a yoga studio in Topeka, KS at 4005 Southwest 29th Street, Topeka, 
 - Website: https://lavayogatopeka.com/
 - Email: lavayoga@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 100% of yoga studios in Topeka, KS, #1 of 1 yoga studios in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 100% of yoga studios in Topeka, KS, #1 of 1 yoga studios in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2808,7 +2808,7 @@ Lebeda Mattress Factory is a mattress store in Topeka, KS at 5130 Southwest 29th
 - Website: https://www.lebeda.com/locations/lebeda-mattress-topeka/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 12:00-17:00
-- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 75% of mattress stores in Topeka, KS, #3 of 4 mattress stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 75% of mattress stores in Topeka, KS, #3 of 4 mattress stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2835,7 +2835,7 @@ Legacy Motor Company is an used car dealer in Topeka, KS at 1617 Southwest Fairl
 - Website: https://www.legacymotorstopeka.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 67% of used car dealers in Topeka, KS, #2 of 3 used car dealers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 67% of used car dealers in Topeka, KS, #2 of 3 used car dealers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2862,7 +2862,7 @@ LL Flooring is a flooring company in Topeka, KS at 5907 Southwest 21st Street, T
 - Website: https://www.llflooring.com/stores/ks/topeka/5907-sw-21st-street
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-17:00
-- Pulse Score: 46.1/100 — Building — top 100% of flooring companys in Topeka, KS, #3 of 3 flooring companys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 100% of flooring companys in Topeka, KS, #3 of 3 flooring companys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2889,7 +2889,7 @@ Luxe Hair Studio is a hair salon in Topeka, KS at 1920 Southwest Westport Drive,
 - Website: https://www.luxetopeka.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 6% of hair salons in Topeka, KS, #1 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 6% of hair salons in Topeka, KS, #1 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2943,7 +2943,7 @@ Maj-r thrift is a thrift store in Topeka, KS at 2020 Northwest Topeka Boulevard 
 - Website: https://www.maj-rthrift.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-18:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 25% of thrift stores in Topeka, KS, #1 of 4 thrift stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 25% of thrift stores in Topeka, KS, #1 of 4 thrift stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2970,7 +2970,7 @@ Major League Barbers is a hair salon in Topeka, KS at 2100 Southeast California 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 73% of hair salons in Topeka, KS, #13 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 73% of hair salons in Topeka, KS, #13 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2997,7 +2997,7 @@ Massage Envy is a massage studio in Topeka, KS at 2130 Southwest Wanamaker Road 
 - Website: https://locations.massageenvy.com/kansas/topeka/2130-sw-wanamaker-road.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00
-- Pulse Score: 48.6/100 — Building — top 100% of massage studios in Topeka, KS, #2 of 2 massage studios in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 100% of massage studios in Topeka, KS, #2 of 2 massage studios in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3024,7 +3024,7 @@ Mattress Firm is a mattress store in Topeka, KS at 1540 Southwest Wanamaker Road
 - Website: https://www.mattressfirm.com/stores/ks/topeka/mattress-stores-topeka-ks-66604-5676.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 48.2/100 — Building — top 50% of mattress stores in Topeka, KS, #2 of 4 mattress stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 50% of mattress stores in Topeka, KS, #2 of 4 mattress stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3051,7 +3051,7 @@ Metro Self Storage is a self-storage facility in Topeka, KS at 1825 Southwest We
 - Website: https://www.metrostorage.com/self-storage/ks/topeka/tw/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 80% of self-storage facilitys in Topeka, KS, #4 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 80% of self-storage facilitys in Topeka, KS, #4 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3078,7 +3078,7 @@ Midas is an auto repair shop in Topeka, KS at 5914 Southwest 21st Street, Topeka
 - Website: https://www.midas.com/topeka/store.aspx?shopnum=5183
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 07:30-17:00
-- Pulse Score: 47.2/100 — Building — top 100% of auto repair shops in Topeka, KS, #22 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 100% of auto repair shops in Topeka, KS, #22 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3105,7 +3105,7 @@ Midwest Martial Arts is a martial arts school in Topeka, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 50% of martial arts schools in Topeka, KS, #1 of 2 martial arts schools in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 50% of martial arts schools in Topeka, KS, #1 of 2 martial arts schools in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3159,7 +3159,7 @@ Nexus Photography is a photographer in Topeka, KS at 705 Southwest 6th Avenue, T
 - Website: https://www.nexusphoto.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 34% of photographers in Topeka, KS, #1 of 3 photographers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 34% of photographers in Topeka, KS, #1 of 3 photographers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3186,7 +3186,7 @@ Noller West Auto Repair is an auto repair shop in Topeka, KS at 1136 Southwest W
 - Website: https://www.nollerford.com/service/schedule-service-noller-west/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 46% of auto repair shops in Topeka, KS, #10 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 46% of auto repair shops in Topeka, KS, #10 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3240,7 +3240,7 @@ Orthodontics for Families is a dentist in Topeka, KS at 3345 Southwest Fairlawn 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 43% of dentists in Topeka, KS, #3 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 43% of dentists in Topeka, KS, #3 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3267,7 +3267,7 @@ Pampered Pets Grooming is a dog groomer in Topeka, KS at 6048 Southwest 29th Str
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Topeka, KS, #3 of 3 dog groomers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Topeka, KS, #3 of 3 dog groomers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3294,7 +3294,7 @@ Panadería Monterrey is a bakery in Topeka, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Topeka, KS, #4 of 4 bakerys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 39.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Topeka, KS, #4 of 4 bakerys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 39.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3321,7 +3321,7 @@ Patton and Patton, Chartered is a lawyer in Topeka, KS at 534 South Kansas Avenu
 - Website: https://joepatton.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 63% of lawyers in Topeka, KS, #5 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 63% of lawyers in Topeka, KS, #5 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3348,7 +3348,7 @@ Paul Honaker, CPA, PA is an accountant in Topeka, KS at 4228 Southwest 29th Terr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 100% of accountants in Topeka, KS, #2 of 2 accountants in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 100% of accountants in Topeka, KS, #2 of 2 accountants in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3375,7 +3375,7 @@ Pediatric Associates of Topeka is a pediatrician in Topeka, KS at 3500 Southwest
 - Website: https://www.pediatricstopeka.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 100% of pediatricians in Topeka, KS, #1 of 1 pediatricians in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 100% of pediatricians in Topeka, KS, #1 of 1 pediatricians in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.7, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3402,7 +3402,7 @@ Penwell-Gabel Funeral Home is a funeral home in Topeka, KS at 1321 Southwest 10t
 - Website: https://www.penwellgabeltopeka.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 60% of funeral homes in Topeka, KS, #3 of 5 funeral homes in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 60% of funeral homes in Topeka, KS, #3 of 5 funeral homes in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3429,7 +3429,7 @@ Performance Tire & Auto is an auto repair shop in Topeka, KS at 4214 Southwest H
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00; Sa,Su off
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 50% of auto repair shops in Topeka, KS, #11 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 50% of auto repair shops in Topeka, KS, #11 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3456,7 +3456,7 @@ Performance Tire & Wheel is an auto repair shop in Topeka, KS at 1735 North Kans
 - Website: https://www.performancetopeka.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 14% of auto repair shops in Topeka, KS, #3 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 14% of auto repair shops in Topeka, KS, #3 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3483,7 +3483,7 @@ Petco is a pet store in Topeka, KS at 1740 Southwest Wanamaker Road #500, Topeka
 - Website: https://stores.petco.com/ks/topeka/pet-supplies-topeka-ks-1692.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 46.3/100 — Building — top 100% of pet stores in Topeka, KS, #4 of 4 pet stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 100% of pet stores in Topeka, KS, #4 of 4 pet stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3510,7 +3510,7 @@ Petland is a pet store in Topeka, KS at 2139 Southwest Fairlawn Plaza Drive, Top
 - Website: https://www.petlandtopeka.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Building — top 75% of pet stores in Topeka, KS, #3 of 4 pet stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.1, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 75% of pet stores in Topeka, KS, #3 of 4 pet stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3537,7 +3537,7 @@ PetSmart is a pet store in Topeka, KS at 2020 Southwest Westport Drive, Topeka, 
 - Website: https://www.petsmart.com/stores/us/ks/topeka-store0244.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 49.2/100 — Building — top 50% of pet stores in Topeka, KS, #2 of 4 pet stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 50% of pet stores in Topeka, KS, #2 of 4 pet stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 65.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3564,7 +3564,7 @@ Pizagel's Pizza and Bakery is a bakery in Topeka, KS at 2830 Southwest Fairlawn 
 - Website: https://www.pizagels.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-21:00; Sa-Su 07:00-21:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 25% of bakerys in Topeka, KS, #1 of 4 bakerys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 25% of bakerys in Topeka, KS, #1 of 4 bakerys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3618,7 +3618,7 @@ Quality Cars of Topeka is an used car dealer in Topeka, KS at 2025 Southwest Fai
 - Website: https://qualitycarsoftopeka.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 09:00-14:30
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 34% of used car dealers in Topeka, KS, #1 of 3 used car dealers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 34% of used car dealers in Topeka, KS, #1 of 3 used car dealers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3645,7 +3645,7 @@ Rainbo Bakery Outlet Store is a bakery in Topeka, KS at 3106 S.W. Topeka Bouleva
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 75% of bakerys in Topeka, KS, #3 of 4 bakerys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 75% of bakerys in Topeka, KS, #3 of 4 bakerys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3672,7 +3672,7 @@ Regal Nails is a nail salon in Topeka, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.9/100 — Building — top 100% of nail salons in Topeka, KS, #11 of 11 nail salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 39.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.9/100 — Building — top 100% of nail salons in Topeka, KS, #11 of 11 nail salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 39.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3699,7 +3699,7 @@ Ricks Advanced Dermatology is a dermatologist in Topeka, KS at 5120 Southwest 28
 - Website: https://ricksderm.com/
 - Email: info@RicksDerm.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 100% of dermatologists in Topeka, KS, #1 of 1 dermatologists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 100% of dermatologists in Topeka, KS, #1 of 1 dermatologists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3780,7 +3780,7 @@ Rolling Hills Assisted Living Apartments is an assisted living facility in Topek
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 100% of assisted living facilitys in Topeka, KS, #4 of 4 assisted living facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 100% of assisted living facilitys in Topeka, KS, #4 of 4 assisted living facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 40. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3807,7 +3807,7 @@ Scotch Dry Cleaners is a dry cleaner in Topeka, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.7/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Topeka, KS, #5 of 5 dry cleaners in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.8/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Topeka, KS, #5 of 5 dry cleaners in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3834,7 +3834,7 @@ Scotch Dry Cleaners is a dry cleaner in Topeka, KS at 1020 Southwest Wanamaker R
 - Website: https://www.scotchcleaners.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 08:00-13:00
-- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 40% of dry cleaners in Topeka, KS, #2 of 5 dry cleaners in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 40% of dry cleaners in Topeka, KS, #2 of 5 dry cleaners in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3861,7 +3861,7 @@ Scotch Dry Cleaners is a dry cleaner in Topeka, KS at 2848 Southwest Wanamaker R
 - Website: https://www.scotchcleaners.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 08:00-13:00
-- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 60% of dry cleaners in Topeka, KS, #3 of 5 dry cleaners in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 60% of dry cleaners in Topeka, KS, #3 of 5 dry cleaners in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3888,7 +3888,7 @@ SERC Physical Therapy is a physical therapy clinic in Topeka, KS at 6749 Southwe
 - Website: https://serc.urpt.com/locations/topeka-sw/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Unrated (not enough evidence yet) — top 67% of physical therapy clinics in Topeka, KS, #2 of 3 physical therapy clinics in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 67% of physical therapy clinics in Topeka, KS, #2 of 3 physical therapy clinics in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3915,7 +3915,7 @@ SERC Physical Therapy is a physical therapy clinic in Topeka, KS at 2021 Southwe
 - Website: https://serc.urpt.com/locations/topeka-seabrook-center/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.7/100 — Unrated (not enough evidence yet) — top 100% of physical therapy clinics in Topeka, KS, #3 of 3 physical therapy clinics in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 100% of physical therapy clinics in Topeka, KS, #3 of 3 physical therapy clinics in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3942,7 +3942,7 @@ Sharp Honda is an used car dealer in Topeka, KS at 3149 South Kansas Avenue, Top
 - Website: https://www.sharphonda.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Building — top 100% of used car dealers in Topeka, KS, #3 of 3 used car dealers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 100% of used car dealers in Topeka, KS, #3 of 3 used car dealers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3969,7 +3969,7 @@ Shawnee Auto Towing is an auto repair shop in Topeka, KS at 635 Southeast 7th St
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 41% of auto repair shops in Topeka, KS, #9 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 41% of auto repair shops in Topeka, KS, #9 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3996,7 +3996,7 @@ Shear Genius Hair Salon is a hair salon in Topeka, KS at 1226 Southwest 1st Stre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 62% of hair salons in Topeka, KS, #11 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 62% of hair salons in Topeka, KS, #11 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4050,7 +4050,7 @@ Shelter Insurance is an insurance agent in Topeka, KS at 2701 Southwest Wanamake
 - Website: https://www.shelterinsurance.com/claims/claimsoffice/kansas/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.8/100 — Building — top 67% of insurance agents in Topeka, KS, #8 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 67% of insurance agents in Topeka, KS, #8 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4077,7 +4077,7 @@ Sherwood Animal Clinic is a veterinarian in Topeka, KS. Phone: +17852734700.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in Topeka, KS, #4 of 4 veterinarians in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in Topeka, KS, #4 of 4 veterinarians in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4104,7 +4104,7 @@ Shorey Automotive is an auto repair shop in Topeka, KS at 1432 Northwest Eugene 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 60% of auto repair shops in Topeka, KS, #13 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 60% of auto repair shops in Topeka, KS, #13 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4131,7 +4131,7 @@ Shunga Dental Center is a dentist in Topeka, KS at 5100 Southwest 28th Street, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 72% of dentists in Topeka, KS, #5 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 72% of dentists in Topeka, KS, #5 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4212,7 +4212,7 @@ Smith Brothers Transmission is an auto repair shop in Topeka, KS at 4000 Southwe
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 69% of auto repair shops in Topeka, KS, #15 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 69% of auto repair shops in Topeka, KS, #15 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4239,7 +4239,7 @@ SoHO Espresso is a furniture store in Topeka, KS at 3129 Southwest Huntoon Stree
 - Website: https://sohowestboro.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 20% of furniture stores in Topeka, KS, #1 of 5 furniture stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 20% of furniture stores in Topeka, KS, #1 of 5 furniture stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4266,7 +4266,7 @@ SoHO Interiors is a furniture store in Topeka, KS at 3129 Southwest Huntoon Stre
 - Website: https://sohowestboro.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 40% of furniture stores in Topeka, KS, #2 of 5 furniture stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 40% of furniture stores in Topeka, KS, #2 of 5 furniture stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4293,7 +4293,7 @@ Sola Salons is a nail salon in Topeka, KS at 2727 Southwest Wanamaker Road, Tope
 - Website: https://www.solasalonstudios.com/locations/topeka
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Building — top 82% of nail salons in Topeka, KS, #9 of 11 nail salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 82% of nail salons in Topeka, KS, #9 of 11 nail salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4320,7 +4320,7 @@ Southwest Auto Services is an auto repair shop in Topeka, KS at 2010 Southwest A
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 37% of auto repair shops in Topeka, KS, #8 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 37% of auto repair shops in Topeka, KS, #8 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4347,7 +4347,7 @@ Spare Garage Storage is a self-storage facility in Topeka, KS at 4431 Southeast 
 - Website: https://sparegaragestoragetopeka.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 60% of self-storage facilitys in Topeka, KS, #3 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 40% of self-storage facilitys in Topeka, KS, #2 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4455,7 +4455,7 @@ State Farm is an insurance agent in Topeka, KS at 4109 Southwest 29th Street, To
 - Website: https://lynettehudson.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 75% of insurance agents in Topeka, KS, #9 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 75% of insurance agents in Topeka, KS, #9 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4482,7 +4482,7 @@ Sterling Select Insurance Agency, Inc. is an insurance agent in Topeka, KS at 18
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 25% of insurance agents in Topeka, KS, #3 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 43.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 25% of insurance agents in Topeka, KS, #3 of 12 insurance agents in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4509,7 +4509,7 @@ Stifel Investment Services is a financial advisor in Topeka, KS at 2445 Southwes
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 50% of financial advisors in Topeka, KS, #1 of 2 financial advisors in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 50% of financial advisors in Topeka, KS, #1 of 2 financial advisors in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4536,7 +4536,7 @@ Studio I Hair & Nail Design is a hair salon in Topeka, KS at 1170 Southwest Miss
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 28% of hair salons in Topeka, KS, #5 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 28% of hair salons in Topeka, KS, #5 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4563,7 +4563,7 @@ Sunflower Smiles Pediatric Dentistry is a dentist in Topeka, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 86% of dentists in Topeka, KS, #6 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 86% of dentists in Topeka, KS, #6 of 7 dentists in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4590,7 +4590,7 @@ Suntana is a tanning salon in Topeka, KS at 3314 Southwest 29th Street, Topeka, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 100% of tanning salons in Topeka, KS, #1 of 1 tanning salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 100% of tanning salons in Topeka, KS, #1 of 1 tanning salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4617,7 +4617,7 @@ Super Nails is a nail salon in Topeka, KS at 2919 Southwest Wanamaker Road #H, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Unrated (not enough evidence yet) — top 91% of nail salons in Topeka, KS, #10 of 11 nail salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.3/100 — Unrated (not enough evidence yet) — top 91% of nail salons in Topeka, KS, #10 of 11 nail salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4698,7 +4698,7 @@ Taj MaDog is a dog groomer in Topeka, KS at 6025 Southwest Wanamaker Road, Topek
 - Website: https://tajmadog.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 67% of dog groomers in Topeka, KS, #2 of 3 dog groomers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 67% of dog groomers in Topeka, KS, #2 of 3 dog groomers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4779,7 +4779,7 @@ The Floor Project is a flooring company in Topeka, KS at 5930 Southwest 19th Ter
 - Website: https://thefloorproject.com/locations/the-floor-project-of-topeka
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 34% of flooring companys in Topeka, KS, #1 of 3 flooring companys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of flooring companys in Topeka, KS, #1 of 3 flooring companys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4806,7 +4806,7 @@ The Garden House is an event venue in Topeka, KS at 3650 Southeast West Edge Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 67% of event venues in Topeka, KS, #2 of 2 event venues in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 67% of event venues in Topeka, KS, #2 of 2 event venues in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4833,7 +4833,7 @@ The Hair Mill is a hair salon in Topeka, KS at 6036 Southwest 29th Street, Topek
 - Website: https://www.thehairmill-ks.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 08:00-18:00; Sa "by appointment"
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 12% of hair salons in Topeka, KS, #2 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 12% of hair salons in Topeka, KS, #2 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4860,7 +4860,7 @@ The Hairport is a hair salon in Topeka, KS at 1005 Northwest Topeka Boulevard, T
 - Website: https://thehairport.webs.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 17% of hair salons in Topeka, KS, #3 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 17% of hair salons in Topeka, KS, #3 of 18 hair salons in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4887,7 +4887,7 @@ The Law Office of Gary L. Conwell is a lawyer in Topeka, KS at 434 Southwest Top
 - Website: https://www.garyconwell.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 75% of lawyers in Topeka, KS, #6 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 75% of lawyers in Topeka, KS, #6 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4914,7 +4914,7 @@ The Mattress Hub is a mattress store in Topeka, KS at 1930 Southwest Wanamaker R
 - Website: https://mattresshub.com/locations/topeka/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.6/100 — Unrated (not enough evidence yet) — top 100% of mattress stores in Topeka, KS, #4 of 4 mattress stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 100% of mattress stores in Topeka, KS, #4 of 4 mattress stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4941,7 +4941,7 @@ The Topeka Lutheran School Center for Young Children is a preschool in Topeka, K
 - Website: https://topekalutheran.org/small_kids.jsp
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 50% of preschools in Topeka, KS, #1 of 2 preschools in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 50% of preschools in Topeka, KS, #1 of 2 preschools in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4968,7 +4968,7 @@ The UPS Store is a printing service in Topeka, KS at 4011 Southwest 29th Street,
 - Website: https://locations.theupsstore.com/ks/topeka/4011-sw-29th-st
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Building — top 100% of printing services in Topeka, KS, #3 of 3 printing services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Building — top 100% of printing services in Topeka, KS, #3 of 3 printing services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -4995,7 +4995,7 @@ Topeka Best Pets is a pet store in Topeka, KS at 910 Northwest 25th Street, Tope
 - Website: https://www.facebook.com/pages/Topeka-Best-Pets/365726128955
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Fair — top 25% of pet stores in Topeka, KS, #1 of 4 pet stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Fair — top 25% of pet stores in Topeka, KS, #1 of 4 pet stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5022,7 +5022,7 @@ Topeka Blueprint Company, Inc. is a printing service in Topeka, KS at 608 Southw
 - Website: https://www.topekablue.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 34% of printing services in Topeka, KS, #1 of 3 printing services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 34% of printing services in Topeka, KS, #1 of 3 printing services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5049,7 +5049,7 @@ Topeka Community Cycle Project is a bike shop in Topeka, KS at 423 North Kansas 
 - Website: https://cycleproject.org/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 47.2/100 — Building — top 100% of bike shops in Topeka, KS, #2 of 2 bike shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 100% of bike shops in Topeka, KS, #2 of 2 bike shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.7, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5076,7 +5076,7 @@ Topeka Family Law Offices is a lawyer in Topeka, KS at 1620 Southwest Washburn A
 - Website: https://topekafamilylawoffices.com/
 - Email: topekafamilylaw@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 25% of lawyers in Topeka, KS, #2 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 25% of lawyers in Topeka, KS, #2 of 8 lawyers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5103,7 +5103,7 @@ Topeka Pro Detail is an auto repair shop in Topeka, KS at 635 Southeast 7th Stre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 64% of auto repair shops in Topeka, KS, #14 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 64% of auto repair shops in Topeka, KS, #14 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5130,7 +5130,7 @@ Topeka Rescue Mission Thrift Store is a thrift store in Topeka, KS at 1312 North
 - Website: https://www.trmonline.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 75% of thrift stores in Topeka, KS, #3 of 4 thrift stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 75% of thrift stores in Topeka, KS, #3 of 4 thrift stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5157,7 +5157,7 @@ Topeka Veterinary Hospital is a veterinarian in Topeka, KS at 2025 Southwest Stu
 - Website: https://www.topekavethospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 08:00-12:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Topeka, KS, #2 of 4 veterinarians in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Topeka, KS, #2 of 4 veterinarians in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5184,7 +5184,7 @@ Unique Design Floor Coverings is a flooring company in Topeka, KS at 1920 Southw
 - Website: https://www.uniquedesignks.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 67% of flooring companys in Topeka, KS, #2 of 3 flooring companys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 67% of flooring companys in Topeka, KS, #2 of 3 flooring companys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5211,7 +5211,7 @@ Unique Skincare and Massage is a massage studio in Topeka, KS at 4213 Southwest 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:00 "By Appointment Only"
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 50% of massage studios in Topeka, KS, #1 of 2 massage studios in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 50% of massage studios in Topeka, KS, #1 of 2 massage studios in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5238,7 +5238,7 @@ Valley Self-Storage is a self-storage facility in Topeka, KS at 5841 Southwest 2
 - Website: https://selfstoragetopeka.com/self-storage/topeka-ks-66604.php
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 09:00-17:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 40% of self-storage facilitys in Topeka, KS, #2 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of self-storage facilitys in Topeka, KS, #1 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5319,7 +5319,7 @@ Village Cleaners is a dry cleaner in Topeka, KS at 2940 Southwest Wanamaker Road
 - Website: https://myvillagecleaner.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:15; Sa 08:30-13:00
-- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 80% of dry cleaners in Topeka, KS, #4 of 5 dry cleaners in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 80% of dry cleaners in Topeka, KS, #4 of 5 dry cleaners in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5373,7 +5373,7 @@ West Ridge Animal Health Center is a veterinarian in Topeka, KS at 2147 Southwes
 - Website: https://www.wrahc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 07:30-12:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 75% of veterinarians in Topeka, KS, #3 of 4 veterinarians in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 75% of veterinarians in Topeka, KS, #3 of 4 veterinarians in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5400,7 +5400,7 @@ Westboro Window Fashions is a furniture store in Topeka, KS at 3119 Southwest Hu
 - Website: https://www.jandavisinteriors.com/index/home&
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 60% of furniture stores in Topeka, KS, #3 of 5 furniture stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 60% of furniture stores in Topeka, KS, #3 of 5 furniture stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5454,7 +5454,7 @@ Wichers Photography is a photographer in Topeka, KS at 4105 Southwest 29th Stree
 - Website: https://www.wichers.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 67% of photographers in Topeka, KS, #2 of 3 photographers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 67% of photographers in Topeka, KS, #2 of 3 photographers in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5481,7 +5481,7 @@ Wine & Spirits The Lakeside Market is a liquor store in Topeka, KS at 3627 South
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 50% of liquor stores in Topeka, KS, #5 of 10 liquor stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 50% of liquor stores in Topeka, KS, #5 of 10 liquor stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5508,7 +5508,7 @@ Woof's Play and Stay is a dog boarding facility in Topeka, KS at 2100 Southwest 
 - Website: n/a
 - Email: topeka@woofsplaystay.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 09:00-18:00
-- Pulse Score: 47.7/100 — Unrated (not enough evidence yet) — top 100% of dog boarding facilitys in Topeka, KS, #1 of 1 dog boarding facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 100% of dog boarding facilitys in Topeka, KS, #1 of 1 dog boarding facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5535,7 +5535,7 @@ Yingling's Auto Service is an auto repair shop in Topeka, KS at 2525 Northwest T
 - Website: https://www.yinglings.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 19% of auto repair shops in Topeka, KS, #4 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 19% of auto repair shops in Topeka, KS, #4 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5562,7 +5562,7 @@ YMCA is a gym in Topeka, KS at 3635 Southwest Chelsea Drive, Topeka, KS 66614. P
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.6/100 — Unrated (not enough evidence yet) — top 100% of gyms in Topeka, KS, #6 of 6 gyms in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 100% of gyms in Topeka, KS, #6 of 6 gyms in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -5589,7 +5589,7 @@ Yosemity Sams AutoCare Center is an auto repair shop in Topeka, KS at 611 Northw
 - Website: https://yosemitysams.com/index.htm
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 28% of auto repair shops in Topeka, KS, #6 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 28% of auto repair shops in Topeka, KS, #6 of 22 auto repair shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

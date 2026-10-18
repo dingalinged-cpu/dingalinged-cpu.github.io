@@ -13,7 +13,7 @@ Saylors Systems Heating and AC Repair is a HVAC contractor in Wildwood, MO at 26
 - Website: https://www.saylorssystems.com/furnace-repair-eureka-mo/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 00:00-24:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 50% of HVAC contractors in Wildwood, MO, #1 of 1 HVAC contractors in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 50% of HVAC contractors in Wildwood, MO, #1 of 1 HVAC contractors in Wildwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

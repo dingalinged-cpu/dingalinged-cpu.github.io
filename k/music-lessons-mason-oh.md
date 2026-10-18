@@ -6,7 +6,7 @@ Also answers: music lessons in Mason, OH; music lessons near me (Mason, OH); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cincinnati School of Music | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Cincinnati School of Music is a music school in Mason, OH at 6682 Tri Way Drive, Mason, OH 45040. Phone: +15135609175. Website: https://www.cincinnatischoolofmusic.com/. | https://registry-edge.dingalinged.workers.dev/c/cincinnati-school-of-music-mason/
+1. Cincinnati School of Music | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Cincinnati School of Music is a music school in Mason, OH at 6682 Tri Way Drive, Mason, OH 45040. Phone: +15135609175. Website: https://www.cincinnatischoolofmusic.com/. | https://registry-edge.dingalinged.workers.dev/c/cincinnati-school-of-music-mason/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons mason oh | category: Education & childcare | industry benchmark: Education & Instruction

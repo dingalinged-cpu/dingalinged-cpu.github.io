@@ -13,7 +13,7 @@ Urgent Vet is a veterinarian in Parker, CO at 12239 Pine Bluffs Way #101, Parker
 - Website: https://urgentvet.com/location/parker-co/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 29% of veterinarians in Denver, CO, #3 of 13 veterinarians in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 28% of veterinarians in Denver, CO, #3 of 13 veterinarians in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

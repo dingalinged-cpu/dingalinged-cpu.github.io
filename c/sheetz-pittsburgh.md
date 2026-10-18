@@ -13,7 +13,7 @@ Sheetz is a car wash in Pittsburgh, PA at 2871 Freeport Road, Pittsburgh, PA 152
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 74% of car washes in Pittsburgh, PA, #6 of 8 car washes in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 73% of car washes in Pittsburgh, PA, #6 of 8 car washes in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

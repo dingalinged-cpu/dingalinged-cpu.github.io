@@ -13,7 +13,7 @@ Buckeye CPA is an accountant in Columbus, OH at 4041 North High Street #203C, Co
 - Website: https://buckeyecpa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 8% of accountants in Columbus, OH, #1 of 3 accountants in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 8% of accountants in Columbus, OH, #1 of 3 accountants in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

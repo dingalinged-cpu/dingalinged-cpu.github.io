@@ -13,7 +13,7 @@ The Meadows Neighborhood Company - Taft House Office is a real estate agency in 
 - Website: https://engage.goenumerate.com/s/meadowslink/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:30-17:00; We-Th 08:30-17:00; Fr 08:30-12:30; 
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 9% of real estate agencys in Denver, CO, #1 of 3 real estate agencys in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 9% of real estate agencys in Denver, CO, #1 of 3 real estate agencys in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

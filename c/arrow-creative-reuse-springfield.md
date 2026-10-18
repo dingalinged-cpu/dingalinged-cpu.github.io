@@ -13,7 +13,7 @@ Arrow Creative Reuse is a thrift store in Springfield, MO at 616 West Tampa Stre
 - Website: https://www.arrowcreativereuse.org/
 - Email: arrowcreativereuse@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 17% of thrift stores in Springfield, MO, #1 of 6 thrift stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 17% of thrift stores in Springfield, MO, #1 of 6 thrift stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

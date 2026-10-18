@@ -13,7 +13,7 @@ Petco is a pet store in Pierce Township, OH at 260 West Main Street, Pierce Town
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42/100 — Building — top 96% of pet stores in Cincinnati, OH, #1 of 1 pet stores in Pierce Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42/100 — Building — top 96% of pet stores in Cincinnati, OH, #1 of 1 pet stores in Pierce Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

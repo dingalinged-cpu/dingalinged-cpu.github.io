@@ -13,7 +13,7 @@ Weber Chevrolet Creve Coeur is an used car dealer in Creve Coeur, MO at 12015 Ol
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.2/100 — Good — top 7% of used car dealers in St. Louis, MO, #1 of 1 used car dealers in Creve Coeur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.7, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 7% of used car dealers in St. Louis, MO, #1 of 1 used car dealers in Creve Coeur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.6, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

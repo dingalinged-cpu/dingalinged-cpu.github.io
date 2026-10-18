@@ -13,7 +13,7 @@ Apple Roofing is a roofer in Saint Peters, MO at 103 North Service Road, Saint P
 - Website: https://appleroof.com/st-louis/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 45.6/100 — Unrated (not enough evidence yet) — top 100% of roofers in St. Peters, MO, #2 of 2 roofers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Unrated (not enough evidence yet) — top 100% of roofers in St. Peters, MO, #2 of 2 roofers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ VIE Media is a marketing agency in Chesterfield, MO at 129 Chesterfield Industri
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of marketing agencys in Chesterfield, MO, #1 of 1 marketing agencys in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 100% of marketing agencys in Chesterfield, MO, #1 of 1 marketing agencys in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

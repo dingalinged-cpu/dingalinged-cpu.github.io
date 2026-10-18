@@ -13,7 +13,7 @@ Security 1st TItle is an insurance agent in Hutchinson, KS at 1001 North Main St
 - Website: https://www.security1st.com/locations/hutchinson
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 61% of insurance agents in Wichita, KS, #8 of 11 insurance agents in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 61% of insurance agents in Wichita, KS, #8 of 11 insurance agents in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

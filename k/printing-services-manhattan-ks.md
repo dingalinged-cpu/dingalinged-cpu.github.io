@@ -6,10 +6,10 @@ Also answers: printing services in Manhattan, KS; printing services near me (Man
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Copies 4 Less | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Copies 4 Less is a printing service in Manhattan, KS at 2048 Tuttle Creek Boulevard, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/copies-4-less-manhattan/
+1. Copies 4 Less | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Copies 4 Less is a printing service in Manhattan, KS at 2048 Tuttle Creek Boulevard, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/copies-4-less-manhattan/
 2. Hawley Printing Service | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Hawley Printing Service is a printing service in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/hawley-printing-service-manhattan/
-3. FedEx Office | Organic #3 | Pulse Score 47.3/100 (Building, #3 in city) | FedEx Office is a printing service in Manhattan, KS at 1329 Anderson Avenue, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-manhattan/
-4. The UPS Store | Organic #4 | Pulse Score 47/100 (Building, #4 in city) | The UPS Store is a printing service in Manhattan, KS at 1310A, Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-manhattan/
+3. FedEx Office | Organic #3 | Pulse Score 47.2/100 (Building, #3 in city) | FedEx Office is a printing service in Manhattan, KS at 1329 Anderson Avenue, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-manhattan/
+4. The UPS Store | Organic #4 | Pulse Score 46.9/100 (Building, #4 in city) | The UPS Store is a printing service in Manhattan, KS at 1310A, Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-manhattan/
 5. Sir Speedy | Organic #5 | Pulse Score 41.9/100 (Building, #5 in city) | Sir Speedy is a printing service in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/sir-speedy-manhattan/
 
 ## Market data (for advertisers and agents)

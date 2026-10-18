@@ -13,7 +13,7 @@ Wade Heating & Cooling is a HVAC contractor in Moon Township, PA at 203 Hershing
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 70% of HVAC contractors in Pittsburgh, PA, #1 of 1 HVAC contractors in Moon Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 70% of HVAC contractors in Pittsburgh, PA, #1 of 1 HVAC contractors in Moon Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

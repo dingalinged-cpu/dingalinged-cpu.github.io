@@ -13,7 +13,7 @@ Denver Physical Therapy is a physical therapy clinic in Denver, CO at 1630 Welto
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 24% of physical therapy clinics in Denver, CO, #2 of 4 physical therapy clinics in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 24% of physical therapy clinics in Denver, CO, #2 of 4 physical therapy clinics in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

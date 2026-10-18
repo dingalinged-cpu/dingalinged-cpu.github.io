@@ -6,7 +6,7 @@ Also answers: orthopedic surgeon in Clinton Township, MI; orthopedic surgeon nea
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Movement Orthopedics | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Movement Orthopedics is an orthopedic surgeon in Clinton Township, MI at 43475 Dalcoma Drive #250, Clinton Township, MI 48038. | https://registry-edge.dingalinged.workers.dev/c/movement-orthopedics-clinton-township/
+1. Movement Orthopedics | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Movement Orthopedics is an orthopedic surgeon in Clinton Township, MI at 43475 Dalcoma Drive #250, Clinton Township, MI 48038. | https://registry-edge.dingalinged.workers.dev/c/movement-orthopedics-clinton-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon clinton township mi | category: Health & medical | industry benchmark: Physicians & Surgeons

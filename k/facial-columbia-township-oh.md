@@ -6,7 +6,7 @@ Also answers: facial in Columbia Township, OH; facial near me (Columbia Township
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Valenti – Mariemont | Organic #1 | Pulse Score 58.3/100 (Unrated, #2 in city) | Valenti – Mariemont is a spa in Cincinnati, OH at 7459 Wooster Pike, Cincinnati, OH 45227. Phone: +15135404530. Website: https://valentisalon.com/. | https://registry-edge.dingalinged.workers.dev/c/valenti-mariemont-cincinnati/
+1. Valenti – Mariemont | Organic #1 | Pulse Score 58.2/100 (Unrated, #2 in city) | Valenti – Mariemont is a spa in Cincinnati, OH at 7459 Wooster Pike, Cincinnati, OH 45227. Phone: +15135404530. Website: https://valentisalon.com/. | https://registry-edge.dingalinged.workers.dev/c/valenti-mariemont-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial columbia township oh | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

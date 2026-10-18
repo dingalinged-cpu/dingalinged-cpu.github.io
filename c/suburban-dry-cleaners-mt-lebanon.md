@@ -13,7 +13,7 @@ Suburban Dry Cleaners is a dry cleaner in Mt. Lebanon, PA at 293 Beverly Road, M
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-14:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 11% of dry cleaners in Pittsburgh, PA, #1 of 1 dry cleaners in Mt. Lebanon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 11% of dry cleaners in Pittsburgh, PA, #1 of 1 dry cleaners in Mt. Lebanon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

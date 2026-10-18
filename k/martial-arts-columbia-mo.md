@@ -7,7 +7,7 @@ Also answers: martial arts in Columbia, MO; martial arts near me (Columbia, MO);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Hockman's Martial Arts | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Hockman's Martial Arts is a martial arts school in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/hockmans-martial-arts-columbia/
-2. ATA Martial Arts | Organic #2 | Pulse Score 42.6/100 (Unrated, #2 in city) | ATA Martial Arts is a martial arts school in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/ata-martial-arts-columbia/
+2. ATA Martial Arts | Organic #2 | Pulse Score 42.5/100 (Unrated, #2 in city) | ATA Martial Arts is a martial arts school in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/ata-martial-arts-columbia/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts columbia mo | category: Fitness | industry benchmark: Health & Fitness

@@ -7,7 +7,7 @@ Also answers: preschool in Orange Township, OH; preschool near me (Orange Townsh
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The Goddard School | Organic #1 | Pulse Score 49/100 (Building, #1 in city) | The Goddard School is a preschool in Powell, OH at 8542 Owenfield Drive, Powell, OH 43065. Phone: +17406571300. Website: https://www.goddardschool.com/. | https://registry-edge.dingalinged.workers.dev/c/the-goddard-school-powell/
-2. Primrose School of Lewis Center | Organic #2 | Pulse Score 46.8/100 (Building, #2 in city) | Primrose School of Lewis Center is a preschool in Powell, OH at 8273 Owenfield Drive, Powell, OH 43065. | https://registry-edge.dingalinged.workers.dev/c/primrose-school-of-lewis-center-powell/
+2. Primrose School of Lewis Center | Organic #2 | Pulse Score 46.7/100 (Building, #2 in city) | Primrose School of Lewis Center is a preschool in Powell, OH at 8273 Owenfield Drive, Powell, OH 43065. | https://registry-edge.dingalinged.workers.dev/c/primrose-school-of-lewis-center-powell/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool orange township oh | category: Education & childcare | industry benchmark: Education & Instruction

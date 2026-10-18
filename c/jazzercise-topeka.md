@@ -13,7 +13,7 @@ Jazzercise is a gym in Topeka, KS. Phone: +17853833831. Website: https://jes.jaz
 - Website: https://jes.jazzercise.com/jes.dll?JCLS%3AISFacilityPage%3A0%3AFacilityObjectID=435&SearchObjID=55674&CameFrom=Index
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 84% of gyms in Topeka, KS, #5 of 6 gyms in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 84% of gyms in Topeka, KS, #5 of 6 gyms in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

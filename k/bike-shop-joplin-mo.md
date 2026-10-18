@@ -6,7 +6,7 @@ Also answers: bike shop in Joplin, MO; bike shop near me (Joplin, MO); best bike
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blue's Bike Company | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Blue's Bike Company is a bike shop in Joplin, MO at 832 South Main Street, Joplin, MO 64801. Phone: +14175530198. | https://registry-edge.dingalinged.workers.dev/c/blues-bike-company-joplin/
+1. Blue's Bike Company | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Blue's Bike Company is a bike shop in Joplin, MO at 832 South Main Street, Joplin, MO 64801. Phone: +14175530198. | https://registry-edge.dingalinged.workers.dev/c/blues-bike-company-joplin/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop joplin mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

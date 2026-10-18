@@ -13,7 +13,7 @@ isense is a mattress store in Springfield, MO at 424 North Cedarbrook Avenue, Sp
 - Website: https://www.myisense.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa-Su off
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 12% of mattress stores in Springfield, MO, #1 of 9 mattress stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 12% of mattress stores in Springfield, MO, #1 of 9 mattress stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

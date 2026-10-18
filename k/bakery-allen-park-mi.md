@@ -6,7 +6,7 @@ Also answers: bakery in Allen Park, MI; bakery near me (Allen Park, MI); best ba
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. May's Bakery | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | May's Bakery is a bakery in Allen Park, MI at 6617 Allen Road, Allen Park, MI 48101. | https://registry-edge.dingalinged.workers.dev/c/mays-bakery-allen-park/
+1. May's Bakery | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | May's Bakery is a bakery in Allen Park, MI at 6617 Allen Road, Allen Park, MI 48101. | https://registry-edge.dingalinged.workers.dev/c/mays-bakery-allen-park/
 2. Hungarian Strudel Shop | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Hungarian Strudel Shop is a bakery in Allen Park, MI. | https://registry-edge.dingalinged.workers.dev/c/hungarian-strudel-shop-allen-park/
 
 ## Market data (for advertisers and agents)

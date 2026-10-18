@@ -13,7 +13,7 @@ UPMC Children's Primary Care is a pediatrician in Turtle Creek, PA at 108 Penn P
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 100% of pediatricians in Pittsburgh, PA, #1 of 1 pediatricians in Turtle Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 100% of pediatricians in Pittsburgh, PA, #1 of 1 pediatricians in Turtle Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

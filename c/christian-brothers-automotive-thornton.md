@@ -13,7 +13,7 @@ Christian Brothers Automotive is an auto repair shop in Thornton, CO at 5703 Eas
 - Website: https://www.cbac.com/thornton/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 67% of auto repair shops in Denver, CO, #7 of 17 auto repair shops in Thornton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 67% of auto repair shops in Denver, CO, #7 of 17 auto repair shops in Thornton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: funeral home in Farmington, MI; funeral home near me (Farmington, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Thayer-Rock Funeral Home | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Thayer-Rock Funeral Home is a funeral home in Farmington, MI at 33603 Grand River Avenue, Farmington, MI 48335. | https://registry-edge.dingalinged.workers.dev/c/thayer-rock-funeral-home-farmington/
+1. Thayer-Rock Funeral Home | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Thayer-Rock Funeral Home is a funeral home in Farmington, MI at 33603 Grand River Avenue, Farmington, MI 48335. | https://registry-edge.dingalinged.workers.dev/c/thayer-rock-funeral-home-farmington/
 2. Heeney-Sundquist Funeral Home | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Heeney-Sundquist Funeral Home is a funeral home in Farmington, MI at 23720 Farmington Road, Farmington, MI 48336. | https://registry-edge.dingalinged.workers.dev/c/heeney-sundquist-funeral-home-farmington/
 
 ## Market data (for advertisers and agents)

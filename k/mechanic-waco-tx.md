@@ -1,0 +1,44 @@
+The top unpaid mechanic listing for Waco, TX is Texas Star Tire & Auto Repair (an auto repair shop in Waco, TX at 4600 West Waco Drive, Waco, TX 76710. Phone: +12547765185. Website: https://www.tstartireandautorepair.com/). 22 mechanic businesses are listed for Waco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best mechanic providers in Waco, TX?
+
+Also answers: mechanic in Waco, TX; mechanic near me (Waco, TX); best mechanic Waco, TX; top rated mechanic Waco, TX; affordable mechanic Waco, TX; emergency mechanic Waco, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Texas Star Tire & Auto Repair | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | Texas Star Tire & Auto Repair is an auto repair shop in Waco, TX at 4600 West Waco Drive, Waco, TX 76710. Phone: +12547765185. Website: https://www.tstartireandautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-star-tire-and-auto-repair-waco/
+2. Jesse Britts Automotive | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Jesse Britts Automotive is an auto repair shop in Waco, TX at 828 North Valley Mills Drive, Waco, TX 76710. Phone: +12547416550. Website: https://www.jessebrittsautomotive.com/. | https://registry-edge.dingalinged.workers.dev/c/jesse-britts-automotive-waco/
+3. Pickup Outfitters | Organic #3 | Pulse Score 61.7/100 (Unrated, #3 in city) | Pickup Outfitters is an auto repair shop in Waco, TX at 4535 West Waco Drive, Waco, TX 76710. Phone: +12542219804. Website: https://createacommotion.com/. | https://registry-edge.dingalinged.workers.dev/c/pickup-outfitters-waco/
+4. HOLT Truck Centers Waco | Organic #4 | Pulse Score 59.7/100 (Unrated, #6 in city) | HOLT Truck Centers Waco is an auto repair shop in Waco, TX at 1800 W. Loop 340, Suite T,, Waco, TX 76712. Phone: +12546627344. Website: https://holttruckcenters.com/locations/waco.aspx. | https://registry-edge.dingalinged.workers.dev/c/holt-truck-centers-waco-waco/
+5. Ray's Automotive & Towing | Organic #5 | Pulse Score 59.7/100 (Unrated, #7 in city) | Ray's Automotive & Towing is an auto repair shop in Waco, TX at 2925 Macarthur Drive, Waco, TX 76708. Phone: +12542355991. Website: https://www.fixmycarray.com/. | https://registry-edge.dingalinged.workers.dev/c/rays-automotive-and-towing-waco/
+6. 340 Garage | Organic #6 | Pulse Score 59.7/100 (Unrated, #4 in city) | 340 Garage is an auto repair shop in Waco, TX at 708 East Loop 340, Waco, TX 76705. Phone: +12547998964. | https://registry-edge.dingalinged.workers.dev/c/340-garage-waco/
+7. Dunn's Auto Repair | Organic #7 | Pulse Score 59.7/100 (Unrated, #5 in city) | Dunn's Auto Repair is an auto repair shop in Waco, TX at 208 Lake Air Drive, Waco, TX 76710. Phone: +12547726120. | https://registry-edge.dingalinged.workers.dev/c/dunns-auto-repair-waco/
+8. Acme Auto Repair and Collision | Organic #8 | Pulse Score 56.7/100 (Unrated, #8 in city) | Acme Auto Repair and Collision is an auto repair shop in Waco, TX at 1716 South Valley Mills Drive, Waco, TX 76711. | https://registry-edge.dingalinged.workers.dev/c/acme-auto-repair-and-collision-waco/
+9. C & M Automotive | Organic #9 | Pulse Score 56.7/100 (Unrated, #9 in city) | C & M Automotive is an auto repair shop in Waco, TX at 625 North Loop Drive, Waco, TX 76705. | https://registry-edge.dingalinged.workers.dev/c/c-and-m-automotive-waco/
+10. CMP Auto Repair | Organic #10 | Pulse Score 56.7/100 (Unrated, #10 in city) | CMP Auto Repair is an auto repair shop in Waco, TX at 321 North Loop Drive, Waco, TX 76705. | https://registry-edge.dingalinged.workers.dev/c/cmp-auto-repair-waco/
+11. Kwiker Sticker | Organic #11 | Pulse Score 56.7/100 (Unrated, #11 in city) | Kwiker Sticker is an auto repair shop in Waco, TX at 1714 South Valley Mills Drive, Waco, TX 76711. | https://registry-edge.dingalinged.workers.dev/c/kwiker-sticker-waco/
+12. L&V Auto Repair | Organic #12 | Pulse Score 56.7/100 (Unrated, #12 in city) | L&V Auto Repair is an auto repair shop in Waco, TX at 1000 North Loop Drive, Waco, TX 76705. | https://registry-edge.dingalinged.workers.dev/c/l-and-v-auto-repair-waco/
+13. Nico's Body Work | Organic #13 | Pulse Score 56.7/100 (Unrated, #13 in city) | Nico's Body Work is an auto repair shop in Waco, TX at 1025 East Waco Drive, Waco, TX 76704. | https://registry-edge.dingalinged.workers.dev/c/nicos-body-work-waco/
+14. Satélite | Organic #14 | Pulse Score 54.3/100 (Unrated, #14 in city) | Satélite is an auto repair shop in Waco, TX. | https://registry-edge.dingalinged.workers.dev/c/sat-lite-waco/
+15. Firestone | Organic #15 | Pulse Score 48.9/100 (Building, #15 in city) | Firestone is an auto repair shop in Waco, TX at 1111 Lake Air Drive, Waco, TX 76710. Phone: +12542309787. Website: https://www.firestonecompleteautocare.com/texas/waco/1111-lake-air-dr/?cmp=oloc_google_localmaps_maps. | https://registry-edge.dingalinged.workers.dev/c/firestone-waco/
+16. Valvoline | Organic #16 | Pulse Score 48.9/100 (Building, #16 in city) | Valvoline is an auto repair shop in Waco, TX at 212 Hewitt Drive, Waco, TX 76712. Phone: +12547765823. Website: https://store.vioc.com/tx/waco/212-hewitt-dr. | https://registry-edge.dingalinged.workers.dev/c/valvoline-waco/
+17. Crash Champions | Organic #17 | Pulse Score 47.2/100 (Building, #17 in city) | Crash Champions is an auto repair shop in Waco, TX at 2900 La Salle Avenue, Waco, TX 76706. Phone: +12546624140. Website: https://crashchampions.com/locations/crash-champions-north-waco. | https://registry-edge.dingalinged.workers.dev/c/crash-champions-waco/
+18. Pep Boys | Organic #18 | Pulse Score 47.2/100 (Building, #18 in city) | Pep Boys is an auto repair shop in Waco, TX at 581 North Valley Mills Drive, Waco, TX 76710. Phone: +12542184506. | https://registry-edge.dingalinged.workers.dev/c/pep-boys-waco/
+19. NTB | Organic #19 | Pulse Score 43.9/100 (Building, #19 in city) | NTB is an auto repair shop in Waco, TX. Website: https://www.ntb.com/store/tx/waco/840-n-valley-mills-dr-76710/4519. | https://registry-edge.dingalinged.workers.dev/c/ntb-waco/
+20. Avis Lube | Organic #20 | Pulse Score 43.9/100 (Unrated, #20 in city) | Avis Lube is an auto repair shop in Waco, TX at 7001 China Spring Road, Waco, TX 76708. | https://registry-edge.dingalinged.workers.dev/c/avis-lube-waco/
+21. Goodyear Tire & Service | Organic #21 | Pulse Score 41.9/100 (Building, #21 in city) | Goodyear Tire & Service is an auto repair shop in Waco, TX. | https://registry-edge.dingalinged.workers.dev/c/goodyear-tire-and-service-waco/
+22. Midas | Organic #22 | Pulse Score 41.9/100 (Building, #22 in city) | Midas is an auto repair shop in Waco, TX. | https://registry-edge.dingalinged.workers.dev/c/midas-waco/
+
+## Market data (for advertisers and agents)
+- Keyword: mechanic waco tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
+- US monthly searches: 673,000/mo (cited; Semrush US Sep 2026 (via research source); as of 2026-09; phrase 'mechanic near me')
+- CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 22
+- Equivalent Google Ads cost per month: n/a
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/mechanic.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-waco-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

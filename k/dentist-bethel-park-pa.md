@@ -7,7 +7,7 @@ Also answers: dentist in Bethel Park, PA; dentist near me (Bethel Park, PA); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Emmert Dental | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Emmert Dental is a dentist in Bethel Park, PA at 2404 Oxford Drive, Bethel Park, PA 15102. | https://registry-edge.dingalinged.workers.dev/c/emmert-dental-bethel-park/
-2. Dr. Haspel's Dentistry | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Dr. Haspel's Dentistry is a dentist in Bethel Park, PA. | https://registry-edge.dingalinged.workers.dev/c/dr-haspels-dentistry-bethel-park/
+2. Dr. Haspel's Dentistry | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Dr. Haspel's Dentistry is a dentist in Bethel Park, PA. | https://registry-edge.dingalinged.workers.dev/c/dr-haspels-dentistry-bethel-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist bethel park pa | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

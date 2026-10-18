@@ -13,7 +13,7 @@ Mansell Law is a lawyer in Columbus, OH at 1457 South High Street, Columbus, OH 
 - Website: https://ohio-employmentlawyer.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-20:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 14% of lawyers in Columbus, OH, #9 of 50 lawyers in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 14% of lawyers in Columbus, OH, #9 of 50 lawyers in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

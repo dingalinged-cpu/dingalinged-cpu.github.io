@@ -13,7 +13,7 @@ Hickman & Associates Insurance is an insurance agent in Indianapolis, IN at 1455
 - Website: https://hickmaninsuranceonline.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00
-- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 6% of insurance agents in Indianapolis, IN, #1 of 29 insurance agents in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 6% of insurance agents in Indianapolis, IN, #1 of 29 insurance agents in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

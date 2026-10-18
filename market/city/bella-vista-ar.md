@@ -1,0 +1,30 @@
+Keyword market for Bella Vista, AR: 19 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the metro (US volume x population share).
+
+# Top keywords in Bella Vista, AR
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+
+
+## By CPC
+1. attorney bella vista ar | searches/mo n/a (est) | CPC $9.87 | value $n/a | Google Ads equiv $n/a/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-bella-vista-ar/
+2. lawyer bella vista ar | searches/mo n/a (est) | CPC $9.87 | value $n/a | Google Ads equiv $n/a/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-bella-vista-ar/
+3. storage units bella vista ar | searches/mo n/a (est) | CPC $8.33 | value $n/a | Google Ads equiv $n/a/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-bella-vista-ar/
+4. general contractor bella vista ar | searches/mo n/a (est) | CPC $5.31 | value $n/a | Google Ads equiv $n/a/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/general-contractor-bella-vista-ar/
+5. eye doctor bella vista ar | searches/mo n/a (est) | CPC $4.76 | value $n/a | Google Ads equiv $n/a/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-bella-vista-ar/
+6. dentist bella vista ar | searches/mo n/a (est) | CPC $4.70 | value $n/a | Google Ads equiv $n/a/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-bella-vista-ar/
+7. haircut bella vista ar | searches/mo n/a (est) | CPC $4.62 | value $n/a | Google Ads equiv $n/a/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-bella-vista-ar/
+8. auto repair bella vista ar | searches/mo n/a (est) | CPC $4.35 | value $n/a | Google Ads equiv $n/a/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-bella-vista-ar/
+9. mechanic bella vista ar | searches/mo n/a (est) | CPC $4.35 | value $n/a | Google Ads equiv $n/a/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-bella-vista-ar/
+10. bike shop bella vista ar | searches/mo n/a (est) | CPC $4.14 | value $n/a | Google Ads equiv $n/a/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bike-shop-bella-vista-ar/
+11. jewelry store bella vista ar | searches/mo n/a (est) | CPC $4.14 | value $n/a | Google Ads equiv $n/a/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/jewelry-store-bella-vista-ar/
+12. thrift store bella vista ar | searches/mo n/a (est) | CPC $4.14 | value $n/a | Google Ads equiv $n/a/mo | our featured min $10/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/thrift-store-bella-vista-ar/
+13. dog groomer bella vista ar | searches/mo n/a (est) | CPC $4.06 | value $n/a | Google Ads equiv $n/a/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-bella-vista-ar/
+14. vet bella vista ar | searches/mo n/a (est) | CPC $4.06 | value $n/a | Google Ads equiv $n/a/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-bella-vista-ar/
+15. financial advisor bella vista ar | searches/mo n/a (est) | CPC $3.39 | value $n/a | Google Ads equiv $n/a/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-bella-vista-ar/
+
+## By value (searches x CPC)
+
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

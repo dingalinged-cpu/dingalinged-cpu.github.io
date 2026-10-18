@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Greenwood, IN at 791 State Road 135 #C, Gre
 - Website: https://www.mattressfirm.com/en-us/stores/in/greenwood/021026/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 48% of mattress stores in Indianapolis, IN, #3 of 3 mattress stores in Greenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 48% of mattress stores in Indianapolis, IN, #3 of 3 mattress stores in Greenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.5, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

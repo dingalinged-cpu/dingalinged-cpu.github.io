@@ -13,7 +13,7 @@ Barrington of West Chester is an assisted living facility in West Chester Townsh
 - Website: https://www.seniorlifestyle.com/property/ohio/barrington-of-west-chester/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 8% of assisted living facilitys in Cincinnati, OH, #1 of 1 assisted living facilitys in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 8% of assisted living facilitys in Cincinnati, OH, #1 of 1 assisted living facilitys in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

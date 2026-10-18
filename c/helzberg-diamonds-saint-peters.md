@@ -13,7 +13,7 @@ Helzberg Diamonds is a jewelry store in Saint Peters, MO at 1600 Mid Rivers Mall
 - Website: https://www.helzberg.com/store-locator/mid+rivers+mall.do
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in St. Peters, MO, #6 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in St. Peters, MO, #6 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

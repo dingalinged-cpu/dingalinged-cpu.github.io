@@ -13,7 +13,7 @@ Tabor-Rice Funeral Home is a funeral home in Brighton, CO at 75 South 13th Avenu
 - Website: https://www.taborfuneralhome.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 20% of funeral homes in Denver, CO, #1 of 1 funeral homes in Brighton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 15% of funeral homes in Denver, CO, #1 of 1 funeral homes in Brighton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

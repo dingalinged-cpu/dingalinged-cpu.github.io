@@ -6,7 +6,7 @@ Also answers: lawyer in Alexandria, KY; lawyer near me (Alexandria, KY); best la
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Law Office of Mark W Wegford | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Law Office of Mark W Wegford is a lawyer in Alexandria, KY at 401 Washington Street, Alexandria, KY 41001. Phone: +18596354586. Website: https://lawofficeofmarkwwegfordky.hibuwebsites.com/. | https://registry-edge.dingalinged.workers.dev/c/law-office-of-mark-w-wegford-alexandria/
+1. Law Office of Mark W Wegford | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Law Office of Mark W Wegford is a lawyer in Alexandria, KY at 401 Washington Street, Alexandria, KY 41001. Phone: +18596354586. Website: https://lawofficeofmarkwwegfordky.hibuwebsites.com/. | https://registry-edge.dingalinged.workers.dev/c/law-office-of-mark-w-wegford-alexandria/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer alexandria ky | category: Legal | industry benchmark: Attorneys & Legal Services

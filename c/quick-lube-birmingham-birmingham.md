@@ -13,7 +13,7 @@ Quick Lube Birmingham is an auto repair shop in Birmingham, MI at 33400 Woodward
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su 10:00-17:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 31% of auto repair shops in Detroit, MI, #1 of 6 auto repair shops in Birmingham (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 31% of auto repair shops in Detroit, MI, #1 of 6 auto repair shops in Birmingham (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

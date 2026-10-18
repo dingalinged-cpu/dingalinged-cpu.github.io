@@ -13,7 +13,7 @@ Pittsburgh Pet Concierge is a dog boarding facility in Monroeville, PA at 227 Lo
 - Website: https://www.pghpetconcierge.com/
 - Email: info@pghpetconcierge.com
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 64.6/100 — Good — top 12% of dog boarding facilitys in Pittsburgh, PA, #1 of 3 dog boarding facilitys in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.9, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 12% of dog boarding facilitys in Pittsburgh, PA, #1 of 3 dog boarding facilitys in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.9, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ WetGo is a car wash in O'Hara Township, PA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.9/100 — Unrated (not enough evidence yet) — top 89% of car washes in Pittsburgh, PA, #1 of 1 car washes in O'Hara Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 43.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.9/100 — Unrated (not enough evidence yet) — top 88% of car washes in Pittsburgh, PA, #1 of 1 car washes in O'Hara Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 43.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

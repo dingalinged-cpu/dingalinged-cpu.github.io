@@ -6,7 +6,7 @@ Also answers: event venues in Noblesville, IN; event venues near me (Noblesville
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Noblesville Event Center | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Noblesville Event Center is an event venue in Noblesville, IN at 2340 East Conner Street, Noblesville, IN 46060. | https://registry-edge.dingalinged.workers.dev/c/noblesville-event-center-noblesville/
+1. Noblesville Event Center | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Noblesville Event Center is an event venue in Noblesville, IN at 2340 East Conner Street, Noblesville, IN 46060. | https://registry-edge.dingalinged.workers.dev/c/noblesville-event-center-noblesville/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues noblesville in | category: Events & weddings | industry benchmark: Personal Services

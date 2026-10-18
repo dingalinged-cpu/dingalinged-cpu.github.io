@@ -6,7 +6,7 @@ Also answers: driving school in Prairie Township, OH; driving school near me (Pr
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McGuire Driving Academy | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | McGuire Driving Academy is a driving school in Prairie Township, OH. | https://registry-edge.dingalinged.workers.dev/c/mcguire-driving-academy-prairie-township/
+1. McGuire Driving Academy | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | McGuire Driving Academy is a driving school in Prairie Township, OH. | https://registry-edge.dingalinged.workers.dev/c/mcguire-driving-academy-prairie-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school prairie township oh | category: Education & childcare | industry benchmark: Education & Instruction

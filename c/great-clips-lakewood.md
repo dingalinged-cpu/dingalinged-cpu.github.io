@@ -13,7 +13,7 @@ Great Clips is a hair salon in Lakewood, CO at 650 South Wadsworth Boulevard #B,
 - Website: https://www.greatclips.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00, Sa 08:00-18:00, Su 10:00-17:00
-- Pulse Score: 50.4/100 — Fair — top 70% of hair salons in Denver, CO, #23 of 35 hair salons in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 69% of hair salons in Denver, CO, #22 of 35 hair salons in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

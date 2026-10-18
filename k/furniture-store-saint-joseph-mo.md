@@ -7,8 +7,8 @@ Also answers: furniture store in Saint Joseph, MO; furniture store near me (Sain
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Sav-On Furniture Mart | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Sav-On Furniture Mart is a furniture store in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/sav-on-furniture-mart-saint-joseph/
-2. Aaron's | Organic #2 | Pulse Score 43.2/100 (Building, #2 in city) | Aaron's is a furniture store in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/aarons-saint-joseph/
-3. Rent-A-Center | Organic #3 | Pulse Score 43.2/100 (Building, #3 in city) | Rent-A-Center is a furniture store in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-saint-joseph/
+2. Aaron's | Organic #2 | Pulse Score 43.1/100 (Building, #2 in city) | Aaron's is a furniture store in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/aarons-saint-joseph/
+3. Rent-A-Center | Organic #3 | Pulse Score 43.1/100 (Building, #3 in city) | Rent-A-Center is a furniture store in Saint Joseph, MO. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-saint-joseph/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store saint joseph mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

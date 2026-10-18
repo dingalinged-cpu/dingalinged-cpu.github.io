@@ -13,7 +13,7 @@ Repitor Foot and Ankle Care is a podiatrist in Sterling Heights, MI at 8244 Metr
 - Website: https://repitorfootandankle.com/sterling-heights/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa-Su off
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 15% of podiatrists in Detroit, MI, #2 of 5 podiatrists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 15% of podiatrists in Detroit, MI, #2 of 5 podiatrists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

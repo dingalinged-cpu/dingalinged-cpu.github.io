@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Grand River WorkPlace | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Grand River WorkPlace is a coworking space in Detroit, MI at 19120 Grand River Avenue, Detroit, MI 48223. Phone: +13133874732. Website: https://www.grandriverworkplace.com/. | https://registry-edge.dingalinged.workers.dev/c/grand-river-workplace-detroit/
 2. Green Garage | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Green Garage is a coworking space in Detroit, MI at 4444 2nd Avenue, Detroit, MI 48201. Phone: +13134444054. Website: https://greengaragedetroit.com/. | https://registry-edge.dingalinged.workers.dev/c/green-garage-detroit/
-3. TechTown | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | TechTown is a coworking space in Detroit, MI at 440 Burroughs Street, Detroit, MI 48202. | https://registry-edge.dingalinged.workers.dev/c/techtown-detroit/
-4. WeWork | Organic #4 | Pulse Score 45.1/100 (Building, #4 in city) | WeWork is a coworking space in Detroit, MI at 19 Clifford Street, Detroit, MI 48226. Website: https://www.wework.com/buildings/19-clifford-st--detroit--MI. | https://registry-edge.dingalinged.workers.dev/c/wework-detroit/
+3. TechTown | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | TechTown is a coworking space in Detroit, MI at 440 Burroughs Street, Detroit, MI 48202. | https://registry-edge.dingalinged.workers.dev/c/techtown-detroit/
+4. WeWork | Organic #4 | Pulse Score 45.2/100 (Building, #4 in city) | WeWork is a coworking space in Detroit, MI at 19 Clifford Street, Detroit, MI 48226. Website: https://www.wework.com/buildings/19-clifford-st--detroit--MI. | https://registry-edge.dingalinged.workers.dev/c/wework-detroit/
 5. WeWork | Organic #5 | Pulse Score 41.8/100 (Building, #5 in city) | WeWork is a coworking space in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/wework-detroit-n13410045973/
 
 ## Market data (for advertisers and agents)

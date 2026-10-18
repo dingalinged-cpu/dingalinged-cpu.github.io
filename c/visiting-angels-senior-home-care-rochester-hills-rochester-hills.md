@@ -13,7 +13,7 @@ Visiting Angels Senior Home Care Rochester Hills is an assisted living facility 
 - Website: https://www.visitingangels.com/rochesterhills/home
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 8% of assisted living facilitys in Detroit, MI, #1 of 2 assisted living facilitys in Rochester Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 8% of assisted living facilitys in Detroit, MI, #1 of 2 assisted living facilitys in Rochester Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

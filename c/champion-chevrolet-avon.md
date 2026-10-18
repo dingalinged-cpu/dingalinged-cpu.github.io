@@ -13,7 +13,7 @@ Champion Chevrolet is an used car dealer in Avon, IN at 183 S County Road 575 E,
 - Website: https://chevyofavon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr-Sa 09:00-18:00
-- Pulse Score: 50.6/100 — Fair — top 90% of used car dealers in Indianapolis, IN, #1 of 1 used car dealers in Avon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 89% of used car dealers in Indianapolis, IN, #1 of 1 used car dealers in Avon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

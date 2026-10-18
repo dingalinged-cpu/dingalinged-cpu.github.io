@@ -13,7 +13,7 @@ Jax Kar Wash is a car wash in Oak Park, MI at 26550 Greenfield Road, Oak Park, M
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 08:00-18:00
-- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 83% of car washes in Detroit, MI, #2 of 3 car washes in Oak Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 82% of car washes in Detroit, MI, #2 of 3 car washes in Oak Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Orangetheory Fitness is a gym in Parker, CO at 17051 East Lincoln Avenue #I, Par
 - Website: https://www.orangetheory.com/en-us/locations/colorado/parker/17051-lincoln-ave
 - Email: studio0074@orangetheoryfitness.com
 - Opening hours (OSM syntax): Mo-Fr 05:00-18:45; Sa-Su 06:15-12:45
-- Pulse Score: 49.7/100 — Building — top 55% of gyms in Denver, CO, #5 of 15 gyms in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 54% of gyms in Denver, CO, #5 of 15 gyms in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

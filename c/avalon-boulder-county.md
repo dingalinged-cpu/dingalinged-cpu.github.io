@@ -13,7 +13,7 @@ Avalon is a dance studio in Boulder County, CO at 6185 Arapahoe Road, Boulder Co
 - Website: https://www.avalonevents.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 98% of dance studios in Denver, CO, #1 of 1 dance studios in Boulder County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 98% of dance studios in Denver, CO, #1 of 1 dance studios in Boulder County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,32 @@
+The top unpaid assisted living listing for San Antonio, TX is The Gardens of Castle Hills (an assisted living facility in San Antonio, TX at 1207 Jackson Keller Road, San Antonio, TX 78213. Phone: +12103758132. Website: https://www.gardensofcastlehills.com/). 9 assisted living businesses are listed for San Antonio, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best assisted living providers in San Antonio, TX?
+
+Also answers: assisted living in San Antonio, TX; assisted living near me (San Antonio, TX); best assisted living San Antonio, TX; top rated assisted living San Antonio, TX; affordable assisted living San Antonio, TX; emergency assisted living San Antonio, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. The Gardens of Castle Hills | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | The Gardens of Castle Hills is an assisted living facility in San Antonio, TX at 1207 Jackson Keller Road, San Antonio, TX 78213. Phone: +12103758132. Website: https://www.gardensofcastlehills.com/. | https://registry-edge.dingalinged.workers.dev/c/the-gardens-of-castle-hills-san-antonio/
+2. Morningside Ministries at the Manor | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | Morningside Ministries at the Manor is an assisted living facility in San Antonio, TX at 700 Babcock Road, San Antonio, TX 78201. Phone: +18885054085. Website: https://www.mmliving.org/communities/the-manor. | https://registry-edge.dingalinged.workers.dev/c/morningside-ministries-at-the-manor-san-antonio/
+3. Poet's Walk | Organic #3 | Pulse Score 60.5/100 (Unrated, #3 in city) | Poet's Walk is an assisted living facility in San Antonio, TX at 5438 Presidio Parkway, San Antonio, TX 78249. Phone: +12109207091. Website: https://www.poetswalk-springhills.com/memory-care-facilities-san-antonio-tx. | https://registry-edge.dingalinged.workers.dev/c/poets-walk-san-antonio/
+4. Blue Skies East | Organic #4 | Pulse Score 59.3/100 (Unrated, #4 in city) | Blue Skies East is an assisted living facility in San Antonio, TX at 4917 Ravenswood Drive, San Antonio, TX 78227. Website: https://www.blueskiesoftexas.org/blue-skies-east/. | https://registry-edge.dingalinged.workers.dev/c/blue-skies-east-san-antonio/
+5. Adante Senior Living | Organic #5 | Pulse Score 57.6/100 (Unrated, #5 in city) | Adante Senior Living is an assisted living facility in San Antonio, TX. Website: https://www.sagora.com/adante/. | https://registry-edge.dingalinged.workers.dev/c/adante-senior-living-san-antonio/
+6. The Forum at Lincoln Heights | Organic #6 | Pulse Score 55.3/100 (Unrated, #6 in city) | The Forum at Lincoln Heights is an assisted living facility in San Antonio, TX. | https://registry-edge.dingalinged.workers.dev/c/the-forum-at-lincoln-heights-san-antonio/
+7. Discovery Village | Organic #7 | Pulse Score 54.7/100 (Unrated, #7 in city) | Discovery Village is an assisted living facility in San Antonio, TX. | https://registry-edge.dingalinged.workers.dev/c/discovery-village-san-antonio/
+8. Heritage at Westover Hills | Organic #8 | Pulse Score 54.7/100 (Unrated, #8 in city) | Heritage at Westover Hills is an assisted living facility in San Antonio, TX. | https://registry-edge.dingalinged.workers.dev/c/heritage-at-westover-hills-san-antonio/
+9. Independence Hill - Assisted Living | Organic #9 | Pulse Score 54.7/100 (Unrated, #9 in city) | Independence Hill - Assisted Living is an assisted living facility in San Antonio, TX. | https://registry-edge.dingalinged.workers.dev/c/independence-hill-assisted-living-san-antonio/
+
+## Market data (for advertisers and agents)
+- Keyword: assisted living san antonio tx | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (San Antonio-New Braunfels, TX metro): ~1,800 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 9
+- Equivalent Google Ads cost per month: ~$580 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/assisted-living.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#assisted-living-san-antonio-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

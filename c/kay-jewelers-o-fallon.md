@@ -13,7 +13,7 @@ Kay Jewelers is a jewelry store in O’Fallon, MO at 2283 Highway K, O’Fallon,
 - Website: https://stores.kay.com/mo/o-fallon/2283-st-hwy--k.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 12:00-17:00
-- Pulse Score: 48.7/100 — Building — top 100% of jewelry stores in O'Fallon, MO, #2 of 2 jewelry stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 100% of jewelry stores in O'Fallon, MO, #2 of 2 jewelry stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

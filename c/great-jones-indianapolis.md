@@ -13,7 +13,7 @@ Great Jones is a real estate agency in Indianapolis, IN at 55 Monument Circle #7
 - Website: https://www.greatjones.co/greater-indianapolis
 - Email: hello@greatjones.co
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30; Sa-Su off
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 7% of real estate agencys in Indianapolis, IN, #1 of 30 real estate agencys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 92% of real estate agencys in Indianapolis, IN, #29 of 30 real estate agencys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

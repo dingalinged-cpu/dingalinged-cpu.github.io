@@ -13,7 +13,7 @@ Wild Birds Unlimited is a pet store in Arvada, CO. Phone: +13034672644.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-18:00; Su 11:00-17:00
-- Pulse Score: 45.1/100 — Building — top 88% of pet stores in Denver, CO, #2 of 8 pet stores in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.1/100 — Building — top 88% of pet stores in Denver, CO, #2 of 8 pet stores in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

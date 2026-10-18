@@ -13,7 +13,7 @@ Calavera Barbers is a barber shop in Lakewood, CO at 7800 West Jewell Avenue #D,
 - Website: https://calaverabarbers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:30; Sa 08:00-17:30
-- Pulse Score: 58.1/100 — Fair — top 53% of barber shops in Denver, CO, #1 of 1 barber shops in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Fair — top 53% of barber shops in Denver, CO, #1 of 1 barber shops in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

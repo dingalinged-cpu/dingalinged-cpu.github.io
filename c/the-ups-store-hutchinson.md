@@ -13,7 +13,7 @@ The UPS Store is a printing service in Hutchinson, KS at 1441 East 30th Avenue, 
 - Website: https://locations.theupsstore.com/ks/hutchinson/1441-east-30th-ave
 - Email: n/a
 - Opening hours (OSM syntax): Su 12:00-17:00; Mo-Fr 08:00-19:00; Sa 09:00-17:00
-- Pulse Score: 47/100 — Building — top 60% of printing services in Wichita, KS, #3 of 3 printing services in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 60% of printing services in Wichita, KS, #3 of 3 printing services in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

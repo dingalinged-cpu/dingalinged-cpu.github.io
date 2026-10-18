@@ -13,7 +13,7 @@ Shannon Heights KinderCare is a daycare in Dublin, OH at 5757 Shannon Heights Bo
 - Website: https://www.kindercare.com/our-centers/dublin/oh/301241
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 25% of daycares in Columbus, OH, #1 of 1 daycares in Dublin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 25% of daycares in Columbus, OH, #1 of 1 daycares in Dublin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

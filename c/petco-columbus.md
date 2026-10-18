@@ -13,7 +13,7 @@ Petco is a pet store in Columbus, OH at 5030 North High Street, Columbus, OH 432
 - Website: https://stores.petco.com/oh/columbus/pet-supplies-columbus-oh-2859.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 47.5/100 — Building — top 48% of pet stores in Columbus, OH, #10 of 18 pet stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 50% of pet stores in Columbus, OH, #10 of 18 pet stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

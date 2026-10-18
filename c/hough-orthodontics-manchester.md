@@ -13,7 +13,7 @@ Hough Orthodontics is a dentist in Manchester, MO at 673 Big Bend Road, Manchest
 - Website: https://houghorthodontics.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 34% of dentists in St. Louis, MO, #2 of 2 dentists in Manchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 34% of dentists in St. Louis, MO, #2 of 2 dentists in Manchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

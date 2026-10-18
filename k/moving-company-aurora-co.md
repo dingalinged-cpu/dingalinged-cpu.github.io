@@ -6,10 +6,10 @@ Also answers: moving company in Aurora, CO; moving company near me (Aurora, CO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Buehler Company | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Buehler Company is a moving company in Aurora, CO at 16456 East Airport Circle, Aurora, CO 80011. | https://registry-edge.dingalinged.workers.dev/c/buehler-company-aurora/
-2. Armstrong Relocation | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Armstrong Relocation is a moving company in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/armstrong-relocation-aurora/
-3. Atlas Van Lines/Atlantic Relocation Systems | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Atlas Van Lines/Atlantic Relocation Systems is a moving company in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/atlas-van-lines-atlantic-relocation-systems-aurora/
-4. PODS | Organic #4 | Pulse Score 42.4/100 (Unrated, #4 in city) | PODS is a moving company in Aurora, CO at 21110 East 31st Circle, Aurora, CO 80019. | https://registry-edge.dingalinged.workers.dev/c/pods-aurora/
+1. Buehler Company | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Buehler Company is a moving company in Aurora, CO at 16456 East Airport Circle, Aurora, CO 80011. | https://registry-edge.dingalinged.workers.dev/c/buehler-company-aurora/
+2. Armstrong Relocation | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | Armstrong Relocation is a moving company in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/armstrong-relocation-aurora/
+3. Atlas Van Lines/Atlantic Relocation Systems | Organic #3 | Pulse Score 53.8/100 (Unrated, #3 in city) | Atlas Van Lines/Atlantic Relocation Systems is a moving company in Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/atlas-van-lines-atlantic-relocation-systems-aurora/
+4. PODS | Organic #4 | Pulse Score 42.3/100 (Unrated, #4 in city) | PODS is a moving company in Aurora, CO at 21110 East 31st Circle, Aurora, CO 80019. | https://registry-edge.dingalinged.workers.dev/c/pods-aurora/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company aurora co | category: Home services - Moving | industry benchmark: Home & Home Improvement

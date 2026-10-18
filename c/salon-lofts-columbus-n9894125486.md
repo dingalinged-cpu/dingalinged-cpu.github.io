@@ -13,7 +13,7 @@ Salon Lofts is a hair salon in Columbus, OH at 1637 Northwest Boulevard #37, Col
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment by hairdresser"
-- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 75% of hair salons in Columbus, OH, #89 of 112 hair salons in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 73% of hair salons in Columbus, OH, #89 of 112 hair salons in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

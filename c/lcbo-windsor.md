@@ -13,7 +13,7 @@ LCBO is a liquor store in Windsor, MI at 400 University Avenue West, Windsor, MI
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 49.3/100 — Building — top 95% of liquor stores in Detroit, MI, #1 of 1 liquor stores in Windsor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 95% of liquor stores in Detroit, MI, #1 of 1 liquor stores in Windsor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Law Offices Of Marshall S. Tauber is a lawyer in Bloomfield Hills, MI at 39520 W
 - Website: https://www.mtauberlaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of lawyers in Detroit, MI, #1 of 4 lawyers in Bloomfield Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of lawyers in Detroit, MI, #1 of 4 lawyers in Bloomfield Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

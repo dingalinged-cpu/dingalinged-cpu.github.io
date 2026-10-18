@@ -13,7 +13,7 @@ Squirrel Hill Jewelry is a jewelry store in Pittsburgh, PA at 1925 Murray Avenue
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 11:00-17:00; Fr 11:00-16:00; Su 11:00-15:00
-- Pulse Score: 61.4/100 — Good — top 16% of jewelry stores in Pittsburgh, PA, #8 of 21 jewelry stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 13% of jewelry stores in Pittsburgh, PA, #7 of 21 jewelry stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

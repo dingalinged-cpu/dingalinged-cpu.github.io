@@ -13,7 +13,7 @@ Flow Cafe & Bikes is a bike shop in Amherstburg, MI at 274 Dalhousie Street, Amh
 - Website: https://flowcafeandbikes.ca/
 - Email: info@flowcafeandbikes.ca
 - Opening hours (OSM syntax): Mo, We-Fr 10:00-17:00; Sa-Su 09:00-17:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 14% of bike shops in Detroit, MI, #1 of 1 bike shops in Amherstburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 14% of bike shops in Detroit, MI, #1 of 1 bike shops in Amherstburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

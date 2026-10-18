@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Pittsburgh, PA at 100 Cedar Ridge D
 - Website: https://www.publicstorage.com/self-storage-pa-pittsburgh/5463.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 52.9/100 — Fair — top 63% of self-storage facilitys in Pittsburgh, PA, #6 of 17 self-storage facilitys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 70.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.8/100 — Fair — top 61% of self-storage facilitys in Pittsburgh, PA, #6 of 17 self-storage facilitys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 70.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

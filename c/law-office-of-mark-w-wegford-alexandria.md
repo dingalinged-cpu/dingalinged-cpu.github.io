@@ -13,7 +13,7 @@ Law Office of Mark W Wegford is a lawyer in Alexandria, KY at 401 Washington Str
 - Website: https://lawofficeofmarkwwegfordky.hibuwebsites.com/
 - Email: wegford1@hotmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00 || "extended hours by appointment"
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 8% of lawyers in Cincinnati, OH, #1 of 1 lawyers in Alexandria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 8% of lawyers in Cincinnati, OH, #1 of 1 lawyers in Alexandria (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

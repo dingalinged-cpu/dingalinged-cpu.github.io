@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in Highlands Ranch, CO at 2229 Wildcat Reserve 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 06:00-20:00, Fr 06:00-19:00, Sa-Su 08:00-13:00
-- Pulse Score: 47.9/100 — Building — top 50% of pilates studios in Denver, CO, #1 of 1 pilates studios in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 50% of pilates studios in Denver, CO, #1 of 1 pilates studios in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

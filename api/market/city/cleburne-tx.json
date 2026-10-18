@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Cleburne, TX",
+ "description": "Top Cleburne, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Cleburne, TX",
+ "geography": null,
+ "keywords": 78,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "hvac repair cleburne tx",
+    "slug": "hvac-repair-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-cleburne-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 17.76,
+    "cpc_median_usd": 9.68,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "plumbing services cleburne tx",
+    "slug": "plumbing-services-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-cleburne-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 13.9,
+    "cpc_median_usd": 10.49,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "electrician cleburne tx",
+    "slug": "electrician-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-cleburne-tx/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.18,
+    "cpc_median_usd": 12.18,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "plumber cleburne tx",
+    "slug": "plumber-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-cleburne-tx/",
+    "us_monthly_searches": 823000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.04,
+    "cpc_median_usd": 10.49,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "attorney cleburne tx",
+    "slug": "attorney-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-cleburne-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 15,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "lawyer cleburne tx",
+    "slug": "lawyer-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-cleburne-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 15,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "landscaping cleburne tx",
+    "slug": "landscaping-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-cleburne-tx/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "window replacement cleburne tx",
+    "slug": "window-replacement-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-replacement-cleburne-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "exterminator cleburne tx",
+    "slug": "exterminator-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/exterminator-cleburne-tx/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "flooring companies cleburne tx",
+    "slug": "flooring-companies-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-cleburne-tx/",
+    "us_monthly_searches": 18100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "heating and air cleburne tx",
+    "slug": "heating-and-air-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-cleburne-tx/",
+    "us_monthly_searches": 3600,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "pest control cleburne tx",
+    "slug": "pest-control-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pest-control-cleburne-tx/",
+    "us_monthly_searches": 165000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "plumbers cleburne tx",
+    "slug": "plumbers-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-cleburne-tx/",
+    "us_monthly_searches": 3600,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "storage units cleburne tx",
+    "slug": "storage-units-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-cleburne-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 15,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "bakery cleburne tx",
+    "slug": "bakery-cleburne-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-cleburne-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

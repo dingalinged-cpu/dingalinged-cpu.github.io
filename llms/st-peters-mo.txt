@@ -54,7 +54,7 @@ AAA Insurance and Travel Agency is an insurance agent in Saint Peters, MO at 591
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 09:00-13:00
-- Pulse Score: 45.7/100 — Building — top 100% of insurance agents in St. Peters, MO, #7 of 7 insurance agents in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 100% of insurance agents in St. Peters, MO, #7 of 7 insurance agents in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -108,7 +108,7 @@ Aloha Print & Copy is a printing service in Saint Peters, MO at 212 McMenamy Roa
 - Website: https://www.aloha4print.com/
 - Email: Info@Aloha4Print.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 50% of printing services in St. Peters, MO, #2 of 4 printing services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 50% of printing services in St. Peters, MO, #2 of 4 printing services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -135,7 +135,7 @@ Al's P-X Wine & Spirits is a liquor store in Saint Peters, MO at 7475 Mexico Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 11:00-20:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 34% of liquor stores in St. Peters, MO, #1 of 3 liquor stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 34% of liquor stores in St. Peters, MO, #1 of 3 liquor stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -189,7 +189,7 @@ American Cleaners is a dry cleaner in Saint Peters, MO at 7255 Mexico Road, Sain
 - Website: https://www.americancleanersstl.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-20:00; Su off
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in St. Peters, MO, #3 of 3 dry cleaners in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in St. Peters, MO, #3 of 3 dry cleaners in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -216,7 +216,7 @@ Apple Roofing is a roofer in Saint Peters, MO at 103 North Service Road, Saint P
 - Website: https://appleroof.com/st-louis/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 45.6/100 — Unrated (not enough evidence yet) — top 100% of roofers in St. Peters, MO, #2 of 2 roofers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Unrated (not enough evidence yet) — top 100% of roofers in St. Peters, MO, #2 of 2 roofers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -243,7 +243,7 @@ Asian Gifts is a gift shop in Saint Peters, MO at 1600 Mid Rivers Mall #1362, Sa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 25% of gift shops in St. Peters, MO, #1 of 4 gift shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 25% of gift shops in St. Peters, MO, #1 of 4 gift shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -270,7 +270,7 @@ Auto Spa Dog Wash is a dog groomer in Saint Peters, MO at 3008 Mid Rivers Mall D
 - Website: https://www.autospaspeedywash.com/locations/auto-spa-speedy-wash-st-peters/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in St. Peters, MO, #1 of 1 dog groomers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in St. Peters, MO, #1 of 1 dog groomers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -324,7 +324,7 @@ AutoTire is a tire shop in Saint Peters, MO at 7319 Mexico Road, Saint Peters, M
 - Website: https://www.autotire.com/?storeid=929
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:30-19:00; Su 09:00-17:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 100% of tire shops in St. Peters, MO, #1 of 1 tire shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 100% of tire shops in St. Peters, MO, #1 of 1 tire shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -351,7 +351,7 @@ Behlmann's Carnection is an used car dealer in Saint Peters, MO at 4740 North Se
 - Website: https://www.carnection.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 09:00-21:00; Tu,Th,Sa 09:00-19:00; Fr 09:00-20:30; Su off
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 10% of used car dealers in St. Peters, MO, #1 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 10% of used car dealers in St. Peters, MO, #1 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -378,7 +378,7 @@ Beijing Foot Spa is a massage studio in Saint Peters, MO at 310 Mid Rivers Cente
 - Website: https://beijingfootspa1.placeweb.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:30-21:30
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 50% of massage studios in St. Peters, MO, #1 of 2 massage studios in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 50% of massage studios in St. Peters, MO, #1 of 2 massage studios in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -405,7 +405,7 @@ Boardwalk Hardwood Floors is a flooring company in Saint Peters, MO at 3022 Mid 
 - Website: https://www.boardwalkhardwood.com/
 - Email: tmesser@boardwalkhardwood.com
 - Opening hours (OSM syntax): Mo,We,Th 10:00-17:00; Tu 10:00-19:00; Fr 10:00-18:00; Sa 09:00-16:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 50% of flooring companys in St. Peters, MO, #1 of 2 flooring companys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 50% of flooring companys in St. Peters, MO, #1 of 2 flooring companys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -432,7 +432,7 @@ Bob's Discount Furniture is a furniture store in Saint Peters, MO at 167 Mid Riv
 - Website: https://www.mybobs.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:30; Su 11:00-19:00
-- Pulse Score: 47.9/100 — Building — top 34% of furniture stores in St. Peters, MO, #1 of 3 furniture stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 34% of furniture stores in St. Peters, MO, #1 of 3 furniture stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -459,7 +459,7 @@ Bone Dry Roofing is a roofer in Saint Peters, MO at 5895 Suemandy Drive, Saint P
 - Website: https://bonedry.com/st-louis/
 - Email: info@bonedry.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.9/100 — Fair — top 50% of roofers in St. Peters, MO, #1 of 2 roofers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.5, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Fair — top 50% of roofers in St. Peters, MO, #1 of 2 roofers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.5, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -513,7 +513,7 @@ CarMax is an used car dealer in Saint Peters, MO at 4990 North Service Road, Sai
 - Website: https://www.carmax.com/stores/6052
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su off
-- Pulse Score: 47.9/100 — Building — top 28% of used car dealers in St. Peters, MO, #3 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 28% of used car dealers in St. Peters, MO, #3 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -540,7 +540,7 @@ Carshield Career Center is a staffing agency in Saint Peters, MO at 325 Mid Rive
 - Website: https://carshieldcareers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 100% of staffing agencys in St. Peters, MO, #1 of 1 staffing agencys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 100% of staffing agencys in St. Peters, MO, #1 of 1 staffing agencys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -621,7 +621,7 @@ Cellairis is a phone repair shop in Saint Peters, MO at 1600 Mid Rivers Mall #90
 - Website: https://www.cellairis.com/stores/st.-peters-mid-rivers-mall-iphone-repair
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 47.9/100 — Building — top 50% of phone repair shops in St. Peters, MO, #1 of 2 phone repair shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 50% of phone repair shops in St. Peters, MO, #1 of 2 phone repair shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -648,7 +648,7 @@ Circle K is a car wash in Cottleville, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.3/100 — Building — top 100% of car washes in St. Peters, MO, #1 of 1 car washes in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.3/100 — Building — top 100% of car washes in St. Peters, MO, #1 of 1 car washes in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -675,7 +675,7 @@ Clarkson Eyecare is an eye care practice in Saint Peters, MO at 390 Mid Rivers M
 - Website: https://www.clarksoneyecare.com/locations/mo/stpeters/midrivers/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 09:00-19:00; Tu,Th,Fr 09:00-18:00; Sa 08:00-13:00; Su off
-- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 50% of eye care practices in St. Peters, MO, #1 of 2 eye care practices in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 50% of eye care practices in St. Peters, MO, #1 of 2 eye care practices in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -729,7 +729,7 @@ Cool Nail & Spa is a nail salon in Saint Peters, MO at 340 Mid Rivers Mall Drive
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-19:30; Su off
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 29% of nail salons in St. Peters, MO, #2 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 29% of nail salons in St. Peters, MO, #2 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -756,7 +756,7 @@ Cosmic Liquor is a liquor store in Saint Peters, MO at 421 South Church Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 67% of liquor stores in St. Peters, MO, #2 of 3 liquor stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 67% of liquor stores in St. Peters, MO, #2 of 3 liquor stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -783,7 +783,7 @@ Country Club Car Wash is a car wash in Saint Peters, MO at 4200 Mexico Road, Sai
 - Website: https://cccwstl.com/locations/st-peters-mexico/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-23:00; Fr-Sa 05:00-24:00; Su 07:00-23:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 23% of car washes in St. Peters, MO, #2 of 8 car washes in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 23% of car washes in St. Peters, MO, #2 of 8 car washes in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -810,7 +810,7 @@ CPR - Cell Phone Repair is a phone repair shop in Saint Peters, MO at 7131 Mexic
 - Website: https://www.cellphonerepair.com/st-peters-mo/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We,Fr 10:00-19:00; Sa 11:00-18:00; Su 12:00-16:00; Th off
-- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 100% of phone repair shops in St. Peters, MO, #2 of 2 phone repair shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 100% of phone repair shops in St. Peters, MO, #2 of 2 phone repair shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -837,7 +837,7 @@ Crown Vision Center is an eye care practice in Saint Peters, MO at 569 Mid River
 - Website: https://crownvisioncenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-18:00; Tu 09:00-19:00; We 09:00-17:00; Th 10:00-19:00; Fr 09:00-17:00; Sa 08:00-16:00; Su off
-- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in St. Peters, MO, #2 of 2 eye care practices in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in St. Peters, MO, #2 of 2 eye care practices in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -864,7 +864,7 @@ Dave Sinclair Lincoln St. Peters is an used car dealer in Saint Peters, MO at 47
 - Website: https://www.davesinclairlincolnstpeters.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-21:00; Tu,Th,Sa 09:00-18:00; Su off
-- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 37% of used car dealers in St. Peters, MO, #4 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 37% of used car dealers in St. Peters, MO, #4 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -891,7 +891,7 @@ David's Bridal is a bridal shop in Saint Peters, MO at 5858 Suemandy Drive, Sain
 - Website: https://www.davidsbridal.com/DBIAjaxStoreLocatorDirectionsView?latitude=38.79830&longitude=-90.62340&stLocId=218&storeId=10052
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 12:00-21:00; Sa 10:30-18:00; Su 12:00-18:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 100% of bridal shops in St. Peters, MO, #1 of 1 bridal shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 100% of bridal shops in St. Peters, MO, #1 of 1 bridal shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -918,7 +918,7 @@ DDS Dentures & Dental Services is a dentist in Saint Peters, MO at 5863 Suemandy
 - Website: https://locations.dentalservice.net/st-peters-dentures
 - Email: manager@stpeters.dentalservice.net
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 29% of dentists in St. Peters, MO, #2 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 29% of dentists in St. Peters, MO, #2 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -945,7 +945,7 @@ Deluxe Nails & Spa is a nail salon in Saint Peters, MO at 300 Mid Rivers Center,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-20:00; Su 10:00-18:00
-- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 100% of nail salons in St. Peters, MO, #7 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 100% of nail salons in St. Peters, MO, #7 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -972,7 +972,7 @@ Diamond Shoppe Jewelers is a jewelry store in Saint Peters, MO at 7127 Mexico Ro
 - Website: https://www.diamondshoppejewelers.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 50% of jewelry stores in St. Peters, MO, #3 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 50% of jewelry stores in St. Peters, MO, #3 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -999,7 +999,7 @@ Dirt Cheap is a liquor store in Saint Peters, MO at 1495 Kisker Road, Saint Pete
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.9/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in St. Peters, MO, #3 of 3 liquor stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.9/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in St. Peters, MO, #3 of 3 liquor stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1026,7 +1026,7 @@ Discovery Dental Center is a dentist in Saint Peters, MO at 305 Mid Rivers Mall 
 - Website: https://www.discoverydentalcenters.com/location-mid-rivers.php
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-16:00; Fr 08:00-12:00; Sa,Su off; PH off
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 58% of dentists in St. Peters, MO, #3 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 58% of dentists in St. Peters, MO, #3 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1053,7 +1053,7 @@ Ed Napleton Honda St. Peters is an used car dealer in Saint Peters, MO at 4780 N
 - Website: https://www.napletonhonda.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-21:00; Tu,Th,Sa 09:00-18:00; Su off
-- Pulse Score: 45.9/100 — Building — top 82% of used car dealers in St. Peters, MO, #9 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 82% of used car dealers in St. Peters, MO, #9 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1080,7 +1080,7 @@ FedEx Office is a printing service in Saint Peters, MO at 7120 Mexico Road, Sain
 - Website: https://local.fedex.com/mo/st-peters/office-4702/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-22:00; Sa 08:00-20:00; Su 10:00-20:00
-- Pulse Score: 49.1/100 — Building — top 75% of printing services in St. Peters, MO, #3 of 4 printing services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 75% of printing services in St. Peters, MO, #3 of 4 printing services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1134,7 +1134,7 @@ Frankly Nails is a nail salon in Saint Peters, MO at 218 Mid Rivers Center, Sain
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 72% of nail salons in St. Peters, MO, #5 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 72% of nail salons in St. Peters, MO, #5 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1188,7 +1188,7 @@ From The Ashes Body Art Piercing & Tattoo is a tattoo shop in Saint Peters, MO a
 - Website: https://www.ftabodyart.com/
 - Email: info@ftabodyart.com
 - Opening hours (OSM syntax): Mo,Tu,Fr,Sa 12:30-19:00
-- Pulse Score: 64.2/100 — Good — top 50% of tattoo shops in St. Peters, MO, #1 of 2 tattoo shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 64.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 50% of tattoo shops in St. Peters, MO, #1 of 2 tattoo shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1242,7 +1242,7 @@ Genis' Tailor is a tailor in Saint Peters, MO at 7418 Mexico Road, Saint Peters,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su off
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 100% of tailors in St. Peters, MO, #2 of 2 tailors in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 100% of tailors in St. Peters, MO, #2 of 2 tailors in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1269,7 +1269,7 @@ Gibson Printing is a printing service in Saint Peters, MO at 5903 Suemandy Drive
 - Website: https://gibsonprinting.com/
 - Email: info@gibsonprinting.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa,Su off
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 25% of printing services in St. Peters, MO, #1 of 4 printing services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 25% of printing services in St. Peters, MO, #1 of 4 printing services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1323,7 +1323,7 @@ Goodwill is a thrift store in Saint Peters, MO at 620 Mid Rivers Mall Drive, Sai
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Building — top 100% of thrift stores in St. Peters, MO, #1 of 1 thrift stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 100% of thrift stores in St. Peters, MO, #1 of 1 thrift stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1350,7 +1350,7 @@ Great Clips is a hair salon in Saint Peters, MO at 577 Mid Rivers Mall Drive #G,
 - Website: https://www.greatclips.com/salons/8934
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 09:00-17:00
-- Pulse Score: 47.4/100 — Building — top 72% of hair salons in St. Peters, MO, #5 of 7 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 72% of hair salons in St. Peters, MO, #5 of 7 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1377,7 +1377,7 @@ H&R Block is a tax preparation service in Saint Peters, MO at 372 Mid Rivers Mal
 - Website: https://www.hrblock.com/local-tax-offices/missouri/st-peters/372-374-mid-rivers-mall-dr/24129
 - Email: n/a
 - Opening hours (OSM syntax): Jul-Dec off
-- Pulse Score: 50.1/100 — Fair — top 50% of tax preparation services in St. Peters, MO, #1 of 2 tax preparation services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 65.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 50% of tax preparation services in St. Peters, MO, #1 of 2 tax preparation services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 65.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1404,7 +1404,7 @@ Hair 2 Slay is a hair salon in Saint Peters, MO at 935 Jungermann Road, Saint Pe
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:30-18:00; Sa 08:00-18:00
-- Pulse Score: 59.7/100 — Fair — top 58% of hair salons in St. Peters, MO, #4 of 7 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Fair — top 58% of hair salons in St. Peters, MO, #4 of 7 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1431,7 +1431,7 @@ Hallmark is a gift shop in Saint Peters, MO at 1600 Mid Rivers Mall #1066, Saint
 - Website: https://stores.hallmark.com/mo/saintpeters/amys-hallmark-shop-saintpeters-mo-007349.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 48.1/100 — Building — top 75% of gift shops in St. Peters, MO, #3 of 4 gift shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 75% of gift shops in St. Peters, MO, #3 of 4 gift shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1458,7 +1458,7 @@ Hannoush Jewelers is a jewelry store in Saint Peters, MO at 1600 Mid Rivers Mall
 - Website: https://www.hannoush.com/locations/mid-rivers-mall
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 84% of jewelry stores in St. Peters, MO, #5 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 84% of jewelry stores in St. Peters, MO, #5 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1485,7 +1485,7 @@ Heiland Chiropractic is a chiropractor in Saint Peters, MO at 7347 Mexico Road #
 - Website: https://heilandchiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-12:00,14:00-18:00; Tu 08:00-12:00; Th 14:00-18:00; Sa,Su off
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of chiropractors in St. Peters, MO, #1 of 3 chiropractors in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of chiropractors in St. Peters, MO, #1 of 3 chiropractors in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1512,7 +1512,7 @@ Helzberg Diamonds is a jewelry store in Saint Peters, MO at 1600 Mid Rivers Mall
 - Website: https://www.helzberg.com/store-locator/mid+rivers+mall.do
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in St. Peters, MO, #6 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in St. Peters, MO, #6 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1539,7 +1539,7 @@ Hoffman Family Chiropractic Center is a chiropractor in Saint Peters, MO at 355 
 - Website: https://hoffmanfamilychiro.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 08:00-12:00,15:00-18:00; Tu,Th 15:00-18:00; Fr 08:00-12:00; Sa,Su off
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 67% of chiropractors in St. Peters, MO, #2 of 3 chiropractors in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 67% of chiropractors in St. Peters, MO, #2 of 3 chiropractors in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1593,7 +1593,7 @@ J Bathe Electric is an electrician in Saint Peters, MO at 71 Triad South Drive, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 100% of electricians in St. Peters, MO, #1 of 1 electricians in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 100% of electricians in St. Peters, MO, #1 of 1 electricians in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1647,7 +1647,7 @@ Kay Jewelers is a jewelry store in Saint Peters, MO at 1600 Mid Rivers Mall #213
 - Website: https://www.kay.com/en/kaystore
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 48.1/100 — Building — top 67% of jewelry stores in St. Peters, MO, #4 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 67% of jewelry stores in St. Peters, MO, #4 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1674,7 +1674,7 @@ Kennelwood Pet Hotel is a dog boarding facility in Saint Peters, MO at 418 South
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su 10:00-18:00; Mo,We,Fr 07:00-18:00; Tu,Th 06:15-18:00; Sa 07:00-17:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 100% of dog boarding facilitys in St. Peters, MO, #1 of 1 dog boarding facilitys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 100% of dog boarding facilitys in St. Peters, MO, #1 of 1 dog boarding facilitys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1701,7 +1701,7 @@ Ken's Tattoo Alley is a tattoo shop in Saint Peters, MO at 6648 Mexico Road, Sai
 - Website: https://kenstattooalley.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 12:00-21:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 100% of tattoo shops in St. Peters, MO, #2 of 2 tattoo shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 100% of tattoo shops in St. Peters, MO, #2 of 2 tattoo shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1728,7 +1728,7 @@ Kingdom Kare Early Learning Center is a daycare in Saint Peters, MO at 1 Sugarwo
 - Website: https://kingdomkaremo.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:30-18:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 50% of daycares in St. Peters, MO, #1 of 2 daycares in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 50% of daycares in St. Peters, MO, #1 of 2 daycares in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1755,7 +1755,7 @@ Le Nails is a nail salon in Saint Peters, MO at 1600 Mid Rivers Mall #2012, Sain
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 86% of nail salons in St. Peters, MO, #6 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 86% of nail salons in St. Peters, MO, #6 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1782,7 +1782,7 @@ Lifetime Dentistry is a dentist in Saint Peters, MO at 583 Mid Rivers Mall Drive
 - Website: https://www.lifetimestpeters.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-17:00; Tu 09:00-20:00; We 08:00-17:00; Th 07:00-14:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 72% of dentists in St. Peters, MO, #4 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 72% of dentists in St. Peters, MO, #4 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1863,7 +1863,7 @@ Lou Fusz Chevrolet is an used car dealer in Saint Peters, MO at 5120 North Servi
 - Website: https://www.loufuszchevrolet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-21:00; Tu,Th 09:00-18:00; Sa 09:00-17:00; Su off
-- Pulse Score: 45.9/100 — Building — top 91% of used car dealers in St. Peters, MO, #10 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 91% of used car dealers in St. Peters, MO, #10 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1890,7 +1890,7 @@ LV Nails & Spa is a nail salon in Saint Peters, MO at 7110 Mexico Road, Saint Pe
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su off
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 43% of nail salons in St. Peters, MO, #3 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 43% of nail salons in St. Peters, MO, #3 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1917,7 +1917,7 @@ Majestic Dental is a dentist in Cottleville, MO at 1451 Cottleville Parkway, Cot
 - Website: https://majesticdentalmo.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We 08:00-18:00; Tu, Th 07:00-17:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 43% of dentists in St. Peters, MO, #1 of 1 dentists in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 43% of dentists in St. Peters, MO, #1 of 1 dentists in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1944,7 +1944,7 @@ Martian Car Wash is a car wash in Saint Peters, MO at 6678 Mexico Road, Saint Pe
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 89% of car washes in St. Peters, MO, #8 of 8 car washes in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 89% of car washes in St. Peters, MO, #8 of 8 car washes in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -1971,7 +1971,7 @@ Martian Car Wash is a car wash in Saint Peters, MO at 6088 Mid Rivers Mall Drive
 - Website: https://www.martiancarwash.com/locations/mid-rivers/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Unrated (not enough evidence yet) — top 78% of car washes in St. Peters, MO, #7 of 8 car washes in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Unrated (not enough evidence yet) — top 78% of car washes in St. Peters, MO, #7 of 8 car washes in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2025,7 +2025,7 @@ Mathenia Insurance Group LLC is an insurance agent in Saint Peters, MO. Phone: +
 - Website: https://www.matheniainsurancegroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 72% of insurance agents in St. Peters, MO, #5 of 7 insurance agents in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 72% of insurance agents in St. Peters, MO, #5 of 7 insurance agents in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2052,7 +2052,7 @@ Mattress Firm Clearance is a mattress store in Saint Peters, MO at 195 Mid River
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 47.3/100 — Building — top 50% of mattress stores in St. Peters, MO, #1 of 2 mattress stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 50% of mattress stores in St. Peters, MO, #1 of 2 mattress stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2079,7 +2079,7 @@ Mattress Firm is a mattress store in Saint Peters, MO at 280 Mid Rivers Mall Cir
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 47.3/100 — Building — top 100% of mattress stores in St. Peters, MO, #2 of 2 mattress stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 100% of mattress stores in St. Peters, MO, #2 of 2 mattress stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2106,7 +2106,7 @@ Michael Hebert - State Farm Insurance is an insurance agent in Saint Peters, MO 
 - Website: https://www.insuredbymike.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 58% of insurance agents in St. Peters, MO, #4 of 7 insurance agents in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 58% of insurance agents in St. Peters, MO, #4 of 7 insurance agents in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2133,7 +2133,7 @@ Mid America Flooring Solutions is a flooring company in Saint Peters, MO at 115 
 - Website: https://www.midamericaflooringsolutions.com/
 - Email: sales@maflooringsolutions.com
 - Opening hours (OSM syntax): Mo-Sa 07:00-17:00
-- Pulse Score: 49.6/100 — Unrated (not enough evidence yet) — top 100% of flooring companys in St. Peters, MO, #2 of 2 flooring companys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.1, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Unrated (not enough evidence yet) — top 100% of flooring companys in St. Peters, MO, #2 of 2 flooring companys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.1, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2160,7 +2160,7 @@ Mid America Service Appliance Repair is an appliance repair service in Saint Pet
 - Website: https://midamericaappliancerepair.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 100% of appliance repair services in St. Peters, MO, #1 of 1 appliance repair services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 100% of appliance repair services in St. Peters, MO, #1 of 1 appliance repair services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2214,7 +2214,7 @@ Mid Rivers Day Care is a preschool in Saint Peters, MO at 349 Mid Rivers Mall Dr
 - Website: https://www.cecci.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:30; Sa,Su off
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 100% of preschools in St. Peters, MO, #1 of 1 preschools in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 100% of preschools in St. Peters, MO, #1 of 1 preschools in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2241,7 +2241,7 @@ Mid Rivers Dental Group is a dentist in Saint Peters, MO at 300 Mid Rivers Mall 
 - Website: https://www.midriversdentalgroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa,Su off
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 86% of dentists in St. Peters, MO, #5 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 86% of dentists in St. Peters, MO, #5 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2322,7 +2322,7 @@ Mobil 1 Lube Express is an auto repair shop in Saint Peters, MO at 6191 Mid Rive
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Building — top 100% of auto repair shops in St. Peters, MO, #11 of 11 auto repair shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 100% of auto repair shops in St. Peters, MO, #11 of 11 auto repair shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2349,7 +2349,7 @@ Mobil Car Wash is a car wash in Saint Peters, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 56% of car washes in St. Peters, MO, #5 of 8 car washes in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 56% of car washes in St. Peters, MO, #5 of 8 car washes in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2376,7 +2376,7 @@ Nails World is a nail salon in Saint Peters, MO at 354 Mid Rivers Mall Drive, Sa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-20:00; Sa 09:30-19:00; Su off
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 58% of nail salons in St. Peters, MO, #4 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 58% of nail salons in St. Peters, MO, #4 of 7 nail salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2403,7 +2403,7 @@ Napleton Mid Rivers Maserati is an used car dealer in Saint Peters, MO at 4953 V
 - Website: https://www.maseratistl.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 08:30-21:00; Tu,Th,Sa 08:30-18:00; Su off
-- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 46% of used car dealers in St. Peters, MO, #5 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 46% of used car dealers in St. Peters, MO, #5 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2430,7 +2430,7 @@ Napleton's Mid Rivers Chrysler Dodge Jeep RAM is an used car dealer in Saint Pet
 - Website: https://www.napletonsmidriverscdjr.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 08:30-21:00; Tu,Th,Sa 08:30-18:00; Su off
-- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 55% of used car dealers in St. Peters, MO, #6 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 55% of used car dealers in St. Peters, MO, #6 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2457,7 +2457,7 @@ Napleton's Mid Rivers Kia is an used car dealer in Saint Peters, MO at 4955 Vete
 - Website: https://www.midriverskia.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 08:30-21:00; Tu,Th,Sa 08:30-18:00; Su off
-- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 19% of used car dealers in St. Peters, MO, #2 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 19% of used car dealers in St. Peters, MO, #2 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2484,7 +2484,7 @@ Niehaus Family Dentistry is a dentist in Saint Peters, MO at 6900 Mexico Road, S
 - Website: n/a
 - Email: hrniehausdds@hipaamail.us
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 100% of dentists in St. Peters, MO, #6 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 100% of dentists in St. Peters, MO, #6 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2592,7 +2592,7 @@ Palm Beach Tan is a tanning salon in Saint Peters, MO at 7112 Mexico Road, Saint
 - Website: https://palmbeachtan.com/locations/MO/St-Peters-Mexico-Road/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-22:00; Sa,Su 08:00-18:00
-- Pulse Score: 50.3/100 — Fair — top 100% of tanning salons in St. Peters, MO, #1 of 1 tanning salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 100% of tanning salons in St. Peters, MO, #1 of 1 tanning salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 66.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2619,7 +2619,7 @@ Pappas Toyota is an used car dealer in Saint Peters, MO at 10011 Spencer Road, S
 - Website: https://www.pappastoyota.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-21:00; Tu,Th 09:00-18:00; Sa 09:00-17:00; Su off
-- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 64% of used car dealers in St. Peters, MO, #7 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 64% of used car dealers in St. Peters, MO, #7 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2646,7 +2646,7 @@ Pet Pals Animal Hospital is a veterinarian in Saint Peters, MO at 7464 Mexico Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-16:00; Tu,Th 08:00-20:00; We 09:00-15:00; Fr 10:00-15:00; Sa 08:00-15:00; Su off
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in St. Peters, MO, #1 of 1 veterinarians in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in St. Peters, MO, #1 of 1 veterinarians in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2673,7 +2673,7 @@ Petco is a pet store in Saint Peters, MO at 6137 Mid Rivers Mall Drive, Saint Pe
 - Website: https://stores.petco.com/mo/stcharles/pet-supplies-stcharles-mo-1605.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 47.1/100 — Building — top 50% of pet stores in St. Peters, MO, #1 of 2 pet stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 50% of pet stores in St. Peters, MO, #1 of 2 pet stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2700,7 +2700,7 @@ Piercing Pagoda is a jewelry store in Saint Peters, MO at 1600 Mid Rivers Mall #
 - Website: https://www.pagoda.com/store/st-peters-mo-pag01431
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 17% of jewelry stores in St. Peters, MO, #1 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 17% of jewelry stores in St. Peters, MO, #1 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2727,7 +2727,7 @@ Planet Fitness is a gym in Saint Peters, MO at 490 Mid Rivers Mall Circle, Saint
 - Website: https://www.planetfitness.com/gyms/st-peters-mid-rivers-mall-mo
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.1/100 — Building — top 100% of gyms in St. Peters, MO, #4 of 4 gyms in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 100% of gyms in St. Peters, MO, #4 of 4 gyms in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2754,7 +2754,7 @@ Planned Parenthood is a therapy practice in Saint Peters, MO at 208 Mid Rivers C
 - Website: https://www.plannedparenthood.org/health-center/missouri/saint-peters/63376/st-peters-health-center-2709-90770
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-19:00; We 11:00-19:00; Th 09:00-17:00; Fr 08:00-16:00; Sa,Su,Tu off; Sa[1,3] 09:00-13:00; PH off
-- Pulse Score: 47.9/100 — Building — top 50% of therapy practices in St. Peters, MO, #1 of 2 therapy practices in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 50% of therapy practices in St. Peters, MO, #1 of 2 therapy practices in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2781,7 +2781,7 @@ Precise Alterations is a tailor in Saint Peters, MO at 1600 Mid Rivers Mall #150
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 50% of tailors in St. Peters, MO, #1 of 2 tailors in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 50% of tailors in St. Peters, MO, #1 of 2 tailors in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2808,7 +2808,7 @@ Roger & Hollands Jewelers is a jewelry store in Saint Peters, MO at 1600 Mid Riv
 - Website: https://rogersandhollands.com/storelocator/location/storeinfo/?id=30084
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su off
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 34% of jewelry stores in St. Peters, MO, #2 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 34% of jewelry stores in St. Peters, MO, #2 of 6 jewelry stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2835,7 +2835,7 @@ Rokita Dancer Center is a gym in Saint Peters, MO at 7477 Mexico Road, Saint Pet
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 75% of gyms in St. Peters, MO, #3 of 4 gyms in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 75% of gyms in St. Peters, MO, #3 of 4 gyms in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2862,7 +2862,7 @@ Schaible Dental Group is a dentist in Saint Peters, MO at 340 Mid Rivers Mall Dr
 - Website: https://www.schaibledentalgroup.com/
 - Email: timothyschaible@sbcglobal.net
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Tu,We 07:00-15:30; Fr-Su off
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of dentists in St. Peters, MO, #1 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of dentists in St. Peters, MO, #1 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2889,7 +2889,7 @@ Schnucks Bakery is a bakery in Saint Peters, MO at 577 Mid Rivers Mall Drive, Sa
 - Website: https://locations.schnucks.com/mo-st-peters-110
 - Email: n/a
 - Opening hours (OSM syntax): Su-Sa 06:00-24:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 100% of bakerys in St. Peters, MO, #1 of 1 bakerys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 100% of bakerys in St. Peters, MO, #1 of 1 bakerys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2916,7 +2916,7 @@ Schnucks Florist & Gifts is a florist in Saint Peters, MO at 577 Mid Rivers Mall
 - Website: https://locations.schnucks.com/mo-st-peters-110
 - Email: n/a
 - Opening hours (OSM syntax): Su-Sa 06:00-24:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 100% of florists in St. Peters, MO, #1 of 1 florists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 100% of florists in St. Peters, MO, #1 of 1 florists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2943,7 +2943,7 @@ Spencer's is a gift shop in Saint Peters, MO at 1600 Mid Rivers Mall #1000, Sain
 - Website: https://www.spencersonline.com/store/Mid-Rivers/35459857.uts
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 48.5/100 — Building — top 50% of gift shops in St. Peters, MO, #2 of 4 gift shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 50% of gift shops in St. Peters, MO, #2 of 4 gift shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2970,7 +2970,7 @@ Sport Clips is a hair salon in Saint Peters, MO at 189 Mid Rivers Mall Drive, Sa
 - Website: https://haircutmenstpetersmo.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
-- Pulse Score: 47.4/100 — Building — top 86% of hair salons in St. Peters, MO, #6 of 7 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 86% of hair salons in St. Peters, MO, #6 of 7 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -2997,7 +2997,7 @@ SSM Saint Joseph Medical Park is an urgent care clinic in Saint Peters, MO at 14
 - Website: https://www.ssmhealth.com//
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 100% of urgent care clinics in St. Peters, MO, #1 of 1 urgent care clinics in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of urgent care clinics in St. Peters, MO, #1 of 1 urgent care clinics in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3024,7 +3024,7 @@ St. Charles Hyundai is an used car dealer in Saint Peters, MO at 5701 Veterans M
 - Website: https://www.stcharleshyundai.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-21:00; Tu,Th,Sa 09:00-18:00; Su off
-- Pulse Score: 45.9/100 — Building — top 100% of used car dealers in St. Peters, MO, #11 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 100% of used car dealers in St. Peters, MO, #11 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3051,7 +3051,7 @@ St. Charles Nissan is an used car dealer in Saint Peters, MO at 5625 Veterans Me
 - Website: https://www.stcharlesnissan.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-21:00; Tu,Th,Sa 09:00-18:00; Su off
-- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 73% of used car dealers in St. Peters, MO, #8 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 73% of used car dealers in St. Peters, MO, #8 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3078,7 +3078,7 @@ St. Peters Massage is a massage studio in Saint Peters, MO at 1600 Mid Rivers Ma
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 100% of massage studios in St. Peters, MO, #2 of 2 massage studios in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 100% of massage studios in St. Peters, MO, #2 of 2 massage studios in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3105,7 +3105,7 @@ The Hair Syndicate is a hair salon in Saint Peters, MO at 314 Mid Rivers Mall Dr
 - Website: https://www.stltoday.com/places/beauty_spas/salons/beauty_salons/the-hair-syndicate/business_4000050791.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Fr 09:30-18:00; Tu-Th 09:30-21:00; Sa 09:30-17:00; Su off
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 29% of hair salons in St. Peters, MO, #2 of 7 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 29% of hair salons in St. Peters, MO, #2 of 7 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3159,7 +3159,7 @@ The Little Gym of St. Charles is a gym in Saint Peters, MO at 7347 Mexico Road, 
 - Website: https://www.thelittlegym.com/StCharlesMO
 - Email: tlgstcharlesmo@thelittlegym.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of gyms in St. Peters, MO, #2 of 4 gyms in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of gyms in St. Peters, MO, #2 of 4 gyms in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3186,7 +3186,7 @@ The UPS Store is a printing service in Saint Peters, MO at 6209 Mid Rivers Mall 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Building — top 100% of printing services in St. Peters, MO, #4 of 4 printing services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 100% of printing services in St. Peters, MO, #4 of 4 printing services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3213,7 +3213,7 @@ Things Remembered is a gift shop in Saint Peters, MO at 1600 Mid Rivers Mall #10
 - Website: https://www.thingsremembered.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 48.1/100 — Building — top 100% of gift shops in St. Peters, MO, #4 of 4 gift shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 100% of gift shops in St. Peters, MO, #4 of 4 gift shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3240,7 +3240,7 @@ Traffic Law Center is a lawyer in Saint Peters, MO at 301 Mid Rivers Mall Drive,
 - Website: https://www.trafficlawcenters.com/traffic-law-st-peters.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa,Su off
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of lawyers in St. Peters, MO, #2 of 2 lawyers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 100% of lawyers in St. Peters, MO, #2 of 2 lawyers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3267,7 +3267,7 @@ Treats Unleashed is a pet store in Saint Peters, MO at 306 Mid Rivers Center, Sa
 - Website: https://www.treats-unleashed.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 100% of pet stores in St. Peters, MO, #2 of 2 pet stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.6/100 — Unrated (not enough evidence yet) — top 100% of pet stores in St. Peters, MO, #2 of 2 pet stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3294,7 +3294,7 @@ Trek Bicycle St. Peters is a bike shop in Saint Peters, MO at 384 Mid Rivers Mal
 - Website: https://www.trekbikes.com/us/en_US/retail/st_peters/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 11:00-19:00, Sa 10:00-18:00
-- Pulse Score: 64.7/100 — Good — top 100% of bike shops in St. Peters, MO, #1 of 1 bike shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 100% of bike shops in St. Peters, MO, #1 of 1 bike shops in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3321,7 +3321,7 @@ Value City Furniture is a furniture store in Saint Peters, MO at 202 Mid Rivers 
 - Website: https://www.valuecityfurniture.com/store-locator/mo/st-peters/202-mid-rivers-mall-drive
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-19:00
-- Pulse Score: 47.9/100 — Building — top 67% of furniture stores in St. Peters, MO, #2 of 3 furniture stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 67% of furniture stores in St. Peters, MO, #2 of 3 furniture stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3375,7 +3375,7 @@ VIP Cleaners is a dry cleaner in Saint Peters, MO at 561 Mid Rivers Mall Drive, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 34% of dry cleaners in St. Peters, MO, #1 of 3 dry cleaners in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 34% of dry cleaners in St. Peters, MO, #1 of 3 dry cleaners in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3429,7 +3429,7 @@ Waxed Carwash is a car wash in Saint Peters, MO at 1285 Jungermann Road, Saint P
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 34% of car washes in St. Peters, MO, #3 of 8 car washes in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 34% of car washes in St. Peters, MO, #3 of 8 car washes in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3456,7 +3456,7 @@ Weber Law Firm is a lawyer in Saint Peters, MO at 340 Mid Rivers Mall Drive #C, 
 - Website: https://www.mattweberlaw.net/
 - Email: matt@mattweberlaw.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-21:00; Sa,Su off
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 50% of lawyers in St. Peters, MO, #1 of 2 lawyers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 50% of lawyers in St. Peters, MO, #1 of 2 lawyers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3483,7 +3483,7 @@ Weekends Only is a furniture store in Saint Peters, MO at 411 Mid Rivers Mall Dr
 - Website: https://www.weekendsonly.com/midrivers
 - Email: n/a
 - Opening hours (OSM syntax): Fr,Sa 10:00-21:00; Su 10:00-20:00; Mo-Th off
-- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in St. Peters, MO, #3 of 3 furniture stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in St. Peters, MO, #3 of 3 furniture stores in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3510,7 +3510,7 @@ Wishbone Properties is a real estate agency in Saint Peters, MO at 35 Jamaica Dr
 - Website: https://wishbonebuyshomes.com/
 - Email: tammy@wishbonebuyshomes.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00, Sa 10:00-17:00
-- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in St. Peters, MO, #1 of 1 real estate agencys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in St. Peters, MO, #1 of 1 real estate agencys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3537,7 +3537,7 @@ World Martial Arts Academy is a martial arts school in Saint Peters, MO at 1057 
 - Website: https://www.blackbeltstl.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in St. Peters, MO, #1 of 1 martial arts schools in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in St. Peters, MO, #1 of 1 martial arts schools in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3564,7 +3564,7 @@ WW Studio is a therapy practice in Saint Peters, MO at 274 Mid Rivers Center, Sa
 - Website: https://www.weightwatchers.com/us/find-a-meeting/1168140/weight-watchers-store-saint-peters-saint-peters-mo
 - Email: n/a
 - Opening hours (OSM syntax): Mo 18:00-19:30; Tu 08:00-09:30,17:30-19:00; We 09:30-13:15,17:00-18:30; Th 09:00-13:00,17:45-19:15; Fr 07:30-10:30; Sa 07:00-11:15; Su off
-- Pulse Score: 45.3/100 — Building — top 100% of therapy practices in St. Peters, MO, #2 of 2 therapy practices in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 100% of therapy practices in St. Peters, MO, #2 of 2 therapy practices in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -3591,7 +3591,7 @@ Zak's Barber Shop is a hair salon in Saint Peters, MO at 431 South Church Street
 - Website: https://www.zaksbarbershop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,We 10:00-18:00; Th,Fr 10:00-20:00; Sa 10:00-14:00; Su,Mo off
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 43% of hair salons in St. Peters, MO, #3 of 7 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 43% of hair salons in St. Peters, MO, #3 of 7 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

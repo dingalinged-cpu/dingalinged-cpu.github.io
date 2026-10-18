@@ -13,7 +13,7 @@ Landmark Self Storage is a self-storage facility in Manhattan, KS at 2749 Eureka
 - Website: https://www.landmark-selfstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 12% of self-storage facilitys in Manhattan, KS, #1 of 7 self-storage facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 12% of self-storage facilitys in Manhattan, KS, #1 of 7 self-storage facilitys in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

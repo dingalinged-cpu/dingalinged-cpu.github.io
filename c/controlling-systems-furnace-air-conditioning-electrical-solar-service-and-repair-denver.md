@@ -13,7 +13,7 @@ Controlling Systems Furnace, Air Conditioning, Electrical, Solar Service and Rep
 - Website: https://www.controllingsystemsco.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 52.2/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Denver, CO, #5 of 5 HVAC contractors in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.2/100 — Unrated (not enough evidence yet) — top 98% of HVAC contractors in Denver, CO, #5 of 5 HVAC contractors in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,10 +6,10 @@ Also answers: graphic designer in Wyandotte, MI; graphic designer near me (Wyand
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. YourLook Logos | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | YourLook Logos is a graphic designer in Wyandotte, MI at 1303 Eureka Road, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/yourlook-logos-wyandotte/
-2. Paragrafix | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Paragrafix is a graphic designer in Wyandotte, MI at 2245 Eureka Road, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/paragrafix-wyandotte/
-3. SS Graphics Inc. | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | SS Graphics Inc. is a graphic designer in Wyandotte, MI at 4176 6th Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/ss-graphics-inc-wyandotte/
-4. Allegra | Organic #4 | Pulse Score 43.1/100 (Unrated, #4 in city) | Allegra is a graphic designer in Wyandotte, MI at 3557 Fort Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/allegra-wyandotte/
+1. YourLook Logos | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | YourLook Logos is a graphic designer in Wyandotte, MI at 1303 Eureka Road, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/yourlook-logos-wyandotte/
+2. Paragrafix | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Paragrafix is a graphic designer in Wyandotte, MI at 2245 Eureka Road, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/paragrafix-wyandotte/
+3. SS Graphics Inc. | Organic #3 | Pulse Score 55.8/100 (Unrated, #3 in city) | SS Graphics Inc. is a graphic designer in Wyandotte, MI at 4176 6th Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/ss-graphics-inc-wyandotte/
+4. Allegra | Organic #4 | Pulse Score 43/100 (Unrated, #4 in city) | Allegra is a graphic designer in Wyandotte, MI at 3557 Fort Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/allegra-wyandotte/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer wyandotte mi | category: professional_marketing | industry benchmark: Business Services

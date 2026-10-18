@@ -13,7 +13,7 @@ Always in Bloom is a florist in Saint Louis, MO at 3300 Watson Road, Saint Louis
 - Website: https://stlouisflorist.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30, Sa 09:00-16:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 14% of florists in St. Louis, MO, #2 of 11 florists in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 14% of florists in St. Louis, MO, #2 of 11 florists in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

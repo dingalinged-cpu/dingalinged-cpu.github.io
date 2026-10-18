@@ -13,7 +13,7 @@ Tropical Island Tan & Fitness is a gym in Dodge City, KS at 1707 Avenue F, Dodge
 - Website: https://m.facebook.com/tropicalislandtanandfitness/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 34% of gyms in Dodge City, KS, #1 of 3 gyms in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 34% of gyms in Dodge City, KS, #1 of 3 gyms in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

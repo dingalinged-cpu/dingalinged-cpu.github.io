@@ -13,7 +13,7 @@ Farmers Insurance is an insurance agent in Lawrence, KS at 3300 Clinton Parkway 
 - Website: https://agents.farmers.com/ks/lawrence/john-magnuson
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30; Sa "By appointment"; Su closed
-- Pulse Score: 47.9/100 — Building — top 45% of insurance agents in Lawrence, KS, #9 of 20 insurance agents in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 45% of insurance agents in Lawrence, KS, #9 of 20 insurance agents in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

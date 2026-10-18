@@ -13,7 +13,7 @@ Clarkson Eyecare is an eye care practice in Saint Louis, MO at 6415 Chippewa Str
 - Website: https://www.clarksoneyecare.com/locations/mo/stlouis/stlouishills
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 48% of eye care practices in St. Louis, MO, #3 of 6 eye care practices in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 48% of eye care practices in St. Louis, MO, #3 of 6 eye care practices in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

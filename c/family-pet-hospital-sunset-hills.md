@@ -13,7 +13,7 @@ Family Pet Hospital is a veterinarian in Sunset Hills, MO at 10400 Watson Road, 
 - Website: https://www.familypetstl.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-18:00; Fr 08:00-16:00; Sa 08:00-13:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 14% of veterinarians in St. Louis, MO, #1 of 1 veterinarians in Sunset Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 14% of veterinarians in St. Louis, MO, #1 of 1 veterinarians in Sunset Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

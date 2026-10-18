@@ -1,0 +1,31 @@
+The top unpaid vet listing for Fayetteville, AR is Advanced Veterinary Surgery & Rehabilitation Center (a veterinarian in Fayetteville, AR at 71 West Colt Square Drive, Fayetteville, AR 72703. Phone: +14799664325. Website: https://www.facebook.com/advancedveterinarysurgeryandrehabilitationcenter/). 8 vet businesses are listed for Fayetteville, AR as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best vet providers in Fayetteville, AR?
+
+Also answers: vet in Fayetteville, AR; vet near me (Fayetteville, AR); best vet Fayetteville, AR; top rated vet Fayetteville, AR; affordable vet Fayetteville, AR; emergency vet Fayetteville, AR
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Advanced Veterinary Surgery & Rehabilitation Center | Organic #1 | Pulse Score 63.1/100 (Good, #1 in city) | Advanced Veterinary Surgery & Rehabilitation Center is a veterinarian in Fayetteville, AR at 71 West Colt Square Drive, Fayetteville, AR 72703. Phone: +14799664325. Website: https://www.facebook.com/advancedveterinarysurgeryandrehabilitationcenter/. | https://registry-edge.dingalinged.workers.dev/c/advanced-veterinary-surgery-and-rehabilitation-center-fayetteville/
+2. Crossover Veterinary Clinic | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Crossover Veterinary Clinic is a veterinarian in Fayetteville, AR at 3033 East Hearthstone Drive, Fayetteville, AR 72764. Phone: +14797507474. Website: https://www.crossovervet.net/. | https://registry-edge.dingalinged.workers.dev/c/crossover-veterinary-clinic-fayetteville/
+3. Stanton Animal Hospital | Organic #3 | Pulse Score 61.6/100 (Unrated, #3 in city) | Stanton Animal Hospital is a veterinarian in Fayetteville, AR at 1817 North Green Acres Road, Fayetteville, AR 72703. Phone: +14794434544. Website: https://www.stantonanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/stanton-animal-hospital-fayetteville/
+4. All Cats Clinic | Organic #4 | Pulse Score 61/100 (Unrated, #4 in city) | All Cats Clinic is a veterinarian in Fayetteville, AR at 3100 North College Avenue, Fayetteville, AR 72703. Phone: +14795711228. Website: https://allcatsclinicfayar.com/. | https://registry-edge.dingalinged.workers.dev/c/all-cats-clinic-fayetteville/
+5. Gulley Park Pets Clinic | Organic #5 | Pulse Score 60.3/100 (Unrated, #5 in city) | Gulley Park Pets Clinic is a veterinarian in Fayetteville, AR at 2406 North Old Wire Road, Fayetteville, AR 72703. Phone: +14799664929. Website: https://www.gulleyparkpets.com/. | https://registry-edge.dingalinged.workers.dev/c/gulley-park-pets-clinic-fayetteville/
+6. Mount Comfort Veterinary Care | Organic #6 | Pulse Score 59.1/100 (Unrated, #6 in city) | Mount Comfort Veterinary Care is a veterinarian in Fayetteville, AR at 3488 West Mount Comfort Road, Fayetteville, AR 72704. Phone: +14792753530. | https://registry-edge.dingalinged.workers.dev/c/mount-comfort-veterinary-care-fayetteville/
+7. Wedington Animal Hospital | Organic #7 | Pulse Score 58.9/100 (Unrated, #7 in city) | Wedington Animal Hospital is a veterinarian in Fayetteville, AR at 4363 West Wedington Drive, Fayetteville, AR 72704. | https://registry-edge.dingalinged.workers.dev/c/wedington-animal-hospital-fayetteville/
+8. Animal Medical Clinic | Organic #8 | Pulse Score 47.6/100 (Unrated, #8 in city) | Animal Medical Clinic is a veterinarian in Fayetteville, AR at 3045 North Market Avenue, Fayetteville, AR 72703. Phone: +14795215220. Website: https://www.animalmedicalclinicfayar.com/. | https://registry-edge.dingalinged.workers.dev/c/animal-medical-clinic-fayetteville/
+
+## Market data (for advertisers and agents)
+- Keyword: vet fayetteville ar | category: Pets | industry benchmark: Animals & Pets
+- US monthly searches: 550,000/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'vet near me')
+- Local monthly searches (Fayetteville-Springdale-Rogers, AR metro): ~1,000 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $3.97, median $4.06, high $4.06 (Animals & Pets median CPC 2026 $4.06 [https://www.localiq.com/blog/search-advertising-benchmarks]; Animals & Pets median CPC 2025 $3.97 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 8
+- Equivalent Google Ads cost per month: ~$270 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/vet.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#vet-fayetteville-ar | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

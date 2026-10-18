@@ -6,7 +6,7 @@ Also answers: preschool in Southgate, MI; preschool near me (Southgate, MI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KinderCare | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | KinderCare is a preschool in Southgate, MI at 15500 Reeck Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/kindercare-southgate/
+1. KinderCare | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | KinderCare is a preschool in Southgate, MI at 15500 Reeck Road, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/kindercare-southgate/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool southgate mi | category: Education & childcare | industry benchmark: Education & Instruction

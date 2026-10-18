@@ -13,7 +13,7 @@ Pittsburgh's Syria Shriners is an event venue in Cheswick, PA at 1877 Shriners W
 - Website: https://www.syriashriners.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of event venues in Pittsburgh, PA, #1 of 1 event venues in Cheswick (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of event venues in Pittsburgh, PA, #1 of 1 event venues in Cheswick (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

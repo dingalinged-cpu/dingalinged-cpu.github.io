@@ -7,8 +7,8 @@ Also answers: tire shop in West Chester Township, OH; tire shop near me (West Ch
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. USA Tire | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | USA Tire is a tire shop in West Chester Township, OH. Phone: +15138441375. | https://registry-edge.dingalinged.workers.dev/c/usa-tire-west-chester-township/
-2. Discount Tire | Organic #2 | Pulse Score 43.1/100 (Building, #2 in city) | Discount Tire is a tire shop in West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-west-chester-township/
-3. Tire Discounters | Organic #3 | Pulse Score 43.1/100 (Building, #3 in city) | Tire Discounters is a tire shop in West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/tire-discounters-west-chester-township/
+2. Discount Tire | Organic #2 | Pulse Score 43/100 (Building, #2 in city) | Discount Tire is a tire shop in West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-west-chester-township/
+3. Tire Discounters | Organic #3 | Pulse Score 43/100 (Building, #3 in city) | Tire Discounters is a tire shop in West Chester Township, OH. | https://registry-edge.dingalinged.workers.dev/c/tire-discounters-west-chester-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop west chester township oh | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

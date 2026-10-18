@@ -13,7 +13,7 @@ Aaron's is a furniture store in Columbus, OH at 2256 Morse Road, Columbus, OH 43
 - Website: https://locations.aarons.com/us/oh/columbus/2256-morse-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00
-- Pulse Score: 48.7/100 — Building — top 51% of furniture stores in Columbus, OH, #28 of 49 furniture stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 50% of furniture stores in Columbus, OH, #27 of 49 furniture stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

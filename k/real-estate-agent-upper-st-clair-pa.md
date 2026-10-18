@@ -6,7 +6,7 @@ Also answers: real estate agent in Upper St. Clair, PA; real estate agent near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Coldwell Banker | Organic #1 | Pulse Score 45.6/100 (Building, #1 in city) | Coldwell Banker is a real estate agency in Upper St. Clair, PA. | https://registry-edge.dingalinged.workers.dev/c/coldwell-banker-upper-st-clair/
+1. Coldwell Banker | Organic #1 | Pulse Score 45.5/100 (Building, #1 in city) | Coldwell Banker is a real estate agency in Upper St. Clair, PA. | https://registry-edge.dingalinged.workers.dev/c/coldwell-banker-upper-st-clair/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent upper st. clair pa | category: Professional & financial services | industry benchmark: Finance & Insurance

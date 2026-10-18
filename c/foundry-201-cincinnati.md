@@ -13,7 +13,7 @@ Foundry № 201 is an interior designer in Cincinnati, OH at 2707 Observatory Av
 - Website: https://foundry201.com/contact
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 50% of interior designers in Cincinnati, OH, #2 of 4 interior designers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 50% of interior designers in Cincinnati, OH, #2 of 4 interior designers in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

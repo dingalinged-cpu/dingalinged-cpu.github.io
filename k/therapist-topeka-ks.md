@@ -7,7 +7,7 @@ Also answers: therapist in Topeka, KS; therapist near me (Topeka, KS); best ther
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Heritage Mental Health Clinic | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Heritage Mental Health Clinic is a therapy practice in Topeka, KS at 2110 Southwest Belle Avenue #B, Topeka, KS 66614. Phone: +17852725566. Website: https://www.heritagemhc.com/. | https://registry-edge.dingalinged.workers.dev/c/heritage-mental-health-clinic-topeka/
-2. Jenny Craig | Organic #2 | Pulse Score 46.2/100 (Building, #2 in city) | Jenny Craig is a therapy practice in Topeka, KS at 6021 Southwest 29th Street #C, Topeka, KS 66614. Phone: +17858617550. Website: https://locations.jennycraig.com/ks/topeka/weight-loss-center-716.html. | https://registry-edge.dingalinged.workers.dev/c/jenny-craig-topeka/
+2. Jenny Craig | Organic #2 | Pulse Score 46.1/100 (Building, #2 in city) | Jenny Craig is a therapy practice in Topeka, KS at 6021 Southwest 29th Street #C, Topeka, KS 66614. Phone: +17858617550. Website: https://locations.jennycraig.com/ks/topeka/weight-loss-center-716.html. | https://registry-edge.dingalinged.workers.dev/c/jenny-craig-topeka/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist topeka ks | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Hair It Is is a hair salon in Ross Township, PA. Phone: +14123665511.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 09:00-21:00; Fr-Sa 08:00-16:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 20% of hair salons in Pittsburgh, PA, #1 of 20 hair salons in Ross Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 19% of hair salons in Pittsburgh, PA, #1 of 20 hair salons in Ross Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

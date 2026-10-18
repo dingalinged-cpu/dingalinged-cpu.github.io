@@ -6,7 +6,7 @@ Also answers: dentist in Dayton, KY; dentist near me (Dayton, KY); best dentist 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dayton-Bellevue Family Dentistry | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Dayton-Bellevue Family Dentistry is a dentist in Dayton, KY. Phone: +18592610101. | https://registry-edge.dingalinged.workers.dev/c/dayton-bellevue-family-dentistry-dayton/
+1. Dayton-Bellevue Family Dentistry | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Dayton-Bellevue Family Dentistry is a dentist in Dayton, KY. Phone: +18592610101. | https://registry-edge.dingalinged.workers.dev/c/dayton-bellevue-family-dentistry-dayton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist dayton ky | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -1,0 +1,24 @@
+Lane Physical Therapy Center is a physical therapy clinic in Russellville, AR at 409 North Elmira Avenue, Russellville, AR 72802.
+
+# Lane Physical Therapy Center
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 409 North Elmira Avenue, Russellville, AR 72802
+- City: Russellville
+- State: AR
+- ZIP: 72802
+- Coordinates: 35.2834635, -93.102374
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 100% of physical therapy clinics in Russellville, AR, #2 of 2 physical therapy clinics in Russellville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lane-physical-therapy-center-russellville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lane-physical-therapy-center-russellville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/762738617 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ The UPS Store is a printing service in Wichita, KS at 2250 North Rock Road, Wich
 - Website: https://locations.theupsstore.com/ks/wichita/2250-n-rock-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 09:00-17:00
-- Pulse Score: 47/100 — Building — top 70% of printing services in Wichita, KS, #3 of 5 printing services in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 70% of printing services in Wichita, KS, #3 of 5 printing services in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ DCI is an IT support company in Hutchinson, KS. Website: https://www.datacenteri
 - Website: https://www.datacenterinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Fair — top 75% of IT support companys in Wichita, KS, #2 of 2 IT support companys in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Fair — top 75% of IT support companys in Wichita, KS, #2 of 2 IT support companys in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

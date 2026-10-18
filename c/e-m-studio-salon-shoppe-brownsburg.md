@@ -13,7 +13,7 @@ E.M Studio Salon + Shoppe is a barber shop in Brownsburg, IN at 1551 N Green St 
 - Website: https://emsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 09:00-21:00; Fr 09:00-18:00; Sa 08:00-16:00
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 25% of barber shops in Indianapolis, IN, #1 of 1 barber shops in Brownsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 25% of barber shops in Indianapolis, IN, #1 of 1 barber shops in Brownsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

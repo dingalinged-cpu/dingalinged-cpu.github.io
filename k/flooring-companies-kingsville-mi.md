@@ -6,7 +6,7 @@ Also answers: flooring companies in Kingsville, MI; flooring companies near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A & A Flooring | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | A & A Flooring is a flooring company in Kingsville, MI at 40 Main Street East, Kingsville, MI N9Y 1A2. Phone: +15197338147. Website: https://www.aaflooringlimited.com/. | https://registry-edge.dingalinged.workers.dev/c/a-and-a-flooring-kingsville/
+1. A & A Flooring | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | A & A Flooring is a flooring company in Kingsville, MI at 40 Main Street East, Kingsville, MI N9Y 1A2. Phone: +15197338147. Website: https://www.aaflooringlimited.com/. | https://registry-edge.dingalinged.workers.dev/c/a-and-a-flooring-kingsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies kingsville mi | category: Home services - Flooring | industry benchmark: Home & Home Improvement

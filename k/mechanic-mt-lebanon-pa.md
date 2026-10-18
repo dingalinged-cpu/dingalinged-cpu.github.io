@@ -6,10 +6,10 @@ Also answers: mechanic in Mt. Lebanon, PA; mechanic near me (Mt. Lebanon, PA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sunset Automotive Service | Organic #1 | Pulse Score 60.9/100 (Unrated, #20 in city) | Sunset Automotive Service is an auto repair shop in Pittsburgh, PA at 325 Castle Shannon Boulevard, Pittsburgh, PA 15234. Phone: +14125618680. | https://registry-edge.dingalinged.workers.dev/c/sunset-automotive-service-pittsburgh/
-2. Elusive Auto Shine | Organic #2 | Pulse Score 58.7/100 (Unrated, #32 in city) | Elusive Auto Shine is an auto repair shop in Pittsburgh, PA at 1 Cedar Boulevard, Pittsburgh, PA 15228. | https://registry-edge.dingalinged.workers.dev/c/elusive-auto-shine-pittsburgh/
-3. Kaercher Automotive | Organic #3 | Pulse Score 57.8/100 (Unrated, #43 in city) | Kaercher Automotive is an auto repair shop in Pittsburgh, PA at 699 Castle Shannon Boulevard, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/kaercher-automotive-pittsburgh/
-4. Monro Muffler Brake | Organic #4 | Pulse Score 45.9/100 (Building, #84 in city) | Monro Muffler Brake is an auto repair shop in Pittsburgh, PA at 331 Cochran Road, Pittsburgh, PA 15228. | https://registry-edge.dingalinged.workers.dev/c/monro-muffler-brake-pittsburgh-w473684584/
+1. Sunset Automotive Service | Organic #1 | Pulse Score 60.9/100 (Unrated, #19 in city) | Sunset Automotive Service is an auto repair shop in Pittsburgh, PA at 325 Castle Shannon Boulevard, Pittsburgh, PA 15234. Phone: +14125618680. | https://registry-edge.dingalinged.workers.dev/c/sunset-automotive-service-pittsburgh/
+2. Elusive Auto Shine | Organic #2 | Pulse Score 58.7/100 (Unrated, #31 in city) | Elusive Auto Shine is an auto repair shop in Pittsburgh, PA at 1 Cedar Boulevard, Pittsburgh, PA 15228. | https://registry-edge.dingalinged.workers.dev/c/elusive-auto-shine-pittsburgh/
+3. Kaercher Automotive | Organic #3 | Pulse Score 57.8/100 (Unrated, #42 in city) | Kaercher Automotive is an auto repair shop in Pittsburgh, PA at 699 Castle Shannon Boulevard, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/kaercher-automotive-pittsburgh/
+4. Monro Muffler Brake | Organic #4 | Pulse Score 45.9/100 (Building, #83 in city) | Monro Muffler Brake is an auto repair shop in Pittsburgh, PA at 331 Cochran Road, Pittsburgh, PA 15228. | https://registry-edge.dingalinged.workers.dev/c/monro-muffler-brake-pittsburgh-w473684584/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic mt. lebanon pa | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

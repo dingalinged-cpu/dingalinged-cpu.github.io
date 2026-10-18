@@ -13,7 +13,7 @@ Lawrence Thai Massage is a massage studio in Lawrence, KS at 951 East 23rd Stree
 - Website: https://lawrencethaimassage.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:30-20:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 10% of massage studios in Lawrence, KS, #1 of 11 massage studios in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 10% of massage studios in Lawrence, KS, #1 of 11 massage studios in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

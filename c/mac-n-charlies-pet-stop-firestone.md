@@ -13,7 +13,7 @@ Mac-n-Charlie's Pet Stop is a pet store in Firestone, CO at 11052 Cimmarron Stre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Good — top 7% of pet stores in Denver, CO, #1 of 2 pet stores in Firestone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Good — top 7% of pet stores in Denver, CO, #1 of 2 pet stores in Firestone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 44.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

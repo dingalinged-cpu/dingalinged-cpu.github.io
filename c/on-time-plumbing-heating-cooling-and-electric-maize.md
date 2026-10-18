@@ -13,7 +13,7 @@ On Time Plumbing, Heating, Cooling & Electric is a plumber in Maize, KS at 117 N
 - Website: https://ontimesvc.com/service-area/maize-ks/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 40% of plumbers in Wichita, KS, #1 of 1 plumbers in Maize (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 40% of plumbers in Wichita, KS, #1 of 1 plumbers in Maize (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

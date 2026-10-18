@@ -13,7 +13,7 @@ Pitman Funeral Home is a funeral home in Wentzville, MO at 1545 Wentzville Parkw
 - Website: n/a
 - Email: pitmanfuneralhome@hotmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Wentzville, MO, #1 of 1 funeral homes in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Wentzville, MO, #1 of 1 funeral homes in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

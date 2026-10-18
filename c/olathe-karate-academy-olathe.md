@@ -13,7 +13,7 @@ Olathe Karate Academy is a martial arts school in Olathe, KS. Phone: +1913829687
 - Website: https://www.olathekarate.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 15:30-21:00; Tu,Th 14:30-21:00; Fr 15:30-19:00; Sa 08:45-11:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 38% of martial arts schools in Kansas City, MO, #3 of 3 martial arts schools in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 38% of martial arts schools in Kansas City, MO, #3 of 3 martial arts schools in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

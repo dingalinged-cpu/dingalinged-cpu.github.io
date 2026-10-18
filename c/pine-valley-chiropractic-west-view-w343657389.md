@@ -13,7 +13,7 @@ Pine Valley Chiropractic is a chiropractor in West View, PA at 558 Perry Highway
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-19:00; We 12:00-19:00; Fr 09:00-19:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 14% of chiropractors in Pittsburgh, PA, #1 of 3 chiropractors in West View (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 14% of chiropractors in Pittsburgh, PA, #1 of 3 chiropractors in West View (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

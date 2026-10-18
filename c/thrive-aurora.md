@@ -13,7 +13,7 @@ Thrive is a veterinarian in Aurora, CO at 1350 South Ironton Street #Unit 120, A
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su 09:00-14:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 19% of veterinarians in Denver, CO, #3 of 22 veterinarians in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Unrated (not enough evidence yet) — top 90% of veterinarians in Denver, CO, #18 of 22 veterinarians in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

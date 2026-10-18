@@ -1,0 +1,36 @@
+The top unpaid coworking space listing for Austin, TX is Lucid Private Offices - Arboretum / Domain (a coworking space in Austin, TX at 9600 N Mopac Expy #900, Austin, TX 78759. Phone: +17373216708. Website: https://www.lucidprivateoffices.com/texas/austin/9600-mopac-expressway). 13 coworking space businesses are listed for Austin, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best coworking space providers in Austin, TX?
+
+Also answers: coworking space in Austin, TX; coworking space near me (Austin, TX); best coworking space Austin, TX; top rated coworking space Austin, TX; affordable coworking space Austin, TX; emergency coworking space Austin, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Lucid Private Offices - Arboretum / Domain | Organic #1 | Pulse Score 64.9/100 (Good, #1 in city) | Lucid Private Offices - Arboretum / Domain is a coworking space in Austin, TX at 9600 N Mopac Expy #900, Austin, TX 78759. Phone: +17373216708. Website: https://www.lucidprivateoffices.com/texas/austin/9600-mopac-expressway. | https://registry-edge.dingalinged.workers.dev/c/lucid-private-offices-arboretum-domain-austin/
+2. Vessel Coworking | Organic #2 | Pulse Score 64/100 (Good, #2 in city) | Vessel Coworking is a coworking space in Austin, TX at 500 East Saint John's Avenue #2.620, Austin, TX 78752. Phone: +15123817120. Website: https://www.vesselcoworking.com/. | https://registry-edge.dingalinged.workers.dev/c/vessel-coworking-austin/
+3. Bitcoin Commons | Organic #3 | Pulse Score 61.4/100 (Good, #3 in city) | Bitcoin Commons is a coworking space in Austin, TX at 601 Congress Avenue, Austin, TX 78701. Website: https://www.bitcoincommons.com/. | https://registry-edge.dingalinged.workers.dev/c/bitcoin-commons-austin/
+4. PlebLab | Organic #4 | Pulse Score 61.3/100 (Good, #4 in city) | PlebLab is a coworking space in Austin, TX at 800 Brazos St Suite 260, Austin, TX 78701. Website: https://pleblab.com/. | https://registry-edge.dingalinged.workers.dev/c/pleblab-austin/
+5. The Malin | Organic #5 | Pulse Score 60.6/100 (Unrated, #5 in city) | The Malin is a coworking space in Austin, TX at 1515 East Cesar Chavez Street #Suite 100, Austin, TX 78702. Phone: +15122344423. Website: https://themalin.co/locations/east-austin/. | https://registry-edge.dingalinged.workers.dev/c/the-malin-austin/
+6. Zeta House | Organic #6 | Pulse Score 59.6/100 (Unrated, #6 in city) | Zeta House is a coworking space in Austin, TX at 1310 East 2nd Street, Austin, TX. Phone: +14086646059. Website: https://zeta.house/. | https://registry-edge.dingalinged.workers.dev/c/zeta-house-austin/
+7. Galvanize | Organic #7 | Pulse Score 57.1/100 (Unrated, #7 in city) | Galvanize is a coworking space in Austin, TX. Phone: +15127175244. | https://registry-edge.dingalinged.workers.dev/c/galvanize-austin/
+8. Capital factory | Organic #8 | Pulse Score 53.7/100 (Unrated, #8 in city) | Capital factory is a coworking space in Austin, TX. | https://registry-edge.dingalinged.workers.dev/c/capital-factory-austin/
+9. WeWork University Park | Organic #9 | Pulse Score 43.6/100 (Building, #9 in city) | WeWork University Park is a coworking space in Austin, TX at 3300 North Interstate 35, Austin, TX 78705. | https://registry-edge.dingalinged.workers.dev/c/wework-university-park-austin/
+10. WeWork | Organic #10 | Pulse Score 43.2/100 (Building, #10 in city) | WeWork is a coworking space in Austin, TX at 801 Barton Springs Road, Austin, TX 78704. | https://registry-edge.dingalinged.workers.dev/c/wework-austin/
+11. WeWork | Organic #11 | Pulse Score 43.2/100 (Building, #11 in city) | WeWork is a coworking space in Austin, TX at 11801 Domain Boulevard, Austin, TX 78758. | https://registry-edge.dingalinged.workers.dev/c/wework-austin-n4589685770/
+12. WeWork | Organic #12 | Pulse Score 43.2/100 (Building, #12 in city) | WeWork is a coworking space in Austin, TX at 600 Congress Avenue, Austin, TX 78701. | https://registry-edge.dingalinged.workers.dev/c/wework-austin-n4589691786/
+13. Industrious | Organic #13 | Pulse Score 40.9/100 (Unrated, #13 in city) | Industrious is a coworking space in Austin, TX. | https://registry-edge.dingalinged.workers.dev/c/industrious-austin/
+
+## Market data (for advertisers and agents)
+- Keyword: coworking space austin tx | category: real_estate | industry benchmark: Real Estate
+- US monthly searches: 22,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 15,000-27,000)
+- Local monthly searches (Austin-Round Rock-San Marcos, TX metro): ~170 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $2.53, median $3.22, high $3.22 (Real Estate median CPC 2026 $3.22 [https://www.localiq.com/blog/search-advertising-benchmarks]; Real Estate median CPC 2025 $2.53 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 13
+- Equivalent Google Ads cost per month: ~$46.00 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/coworking-space.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#coworking-space-austin-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

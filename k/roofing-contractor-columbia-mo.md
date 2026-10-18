@@ -6,7 +6,7 @@ Also answers: roofing contractor in Columbia, MO; roofing contractor near me (Co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Resolve Roofing | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Resolve Roofing is a roofer in Columbia, MO at 1000 Big Bear Boulevard #1000, Columbia, MO 65202. Phone: +15736468698. Website: https://resolveroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/resolve-roofing-columbia/
+1. Resolve Roofing | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Resolve Roofing is a roofer in Columbia, MO at 1000 Big Bear Boulevard #1000, Columbia, MO 65202. Phone: +15736468698. Website: https://resolveroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/resolve-roofing-columbia/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor columbia mo | category: Home services - Roofing | industry benchmark: Home & Home Improvement

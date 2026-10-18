@@ -13,7 +13,7 @@ Kids ‘R’ Kids is a daycare in Maineville, OH at 6493 Ohio 48, Maineville, OH
 - Website: https://kidsrkids.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.2/100 — Building — top 87% of daycares in Cincinnati, OH, #1 of 1 daycares in Maineville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 87% of daycares in Cincinnati, OH, #1 of 1 daycares in Maineville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

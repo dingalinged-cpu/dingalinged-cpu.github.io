@@ -13,7 +13,7 @@ Action Behavior Centers is a therapy practice in Arvada, CO at 8330 West 80th Av
 - Website: https://www.actionbehavior.com/location/colorado/arvada-west-80th-ave
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 7% of therapy practices in Denver, CO, #1 of 3 therapy practices in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 76% of therapy practices in Denver, CO, #1 of 3 therapy practices in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.3, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

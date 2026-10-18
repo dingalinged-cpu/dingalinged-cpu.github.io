@@ -13,7 +13,7 @@ Phoenix Village Dental is a dentist in O’Fallon, MO at 9210 Phoenix Village Pa
 - Website: https://www.phoenixvillagedental1.com/
 - Email: phoenixvillagedental@gmail.com
 - Opening hours (OSM syntax): Mo-Tu 08:00-17:00; We 10:00-19:00; Th 08:00-13:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 29% of dentists in O'Fallon, MO, #2 of 4 dentists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 29% of dentists in O'Fallon, MO, #2 of 4 dentists in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

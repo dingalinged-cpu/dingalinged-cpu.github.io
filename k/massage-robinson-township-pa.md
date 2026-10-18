@@ -6,7 +6,7 @@ Also answers: massage in Robinson Township, PA; massage near me (Robinson Townsh
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage Envy | Organic #1 | Pulse Score 49.8/100 (Building, #14 in city) | Massage Envy is a massage studio in Pittsburgh, PA at 1910 Settlers Ridge Center Drive #1910, Pittsburgh, PA 15205. Phone: +14124462000. Website: https://locations.massageenvy.com/pennsylvania/pittsburgh/1910-settlers-ridge-center-drive.html. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-pittsburgh/
+1. Massage Envy | Organic #1 | Pulse Score 49.7/100 (Building, #13 in city) | Massage Envy is a massage studio in Pittsburgh, PA at 1910 Settlers Ridge Center Drive #1910, Pittsburgh, PA 15205. Phone: +14124462000. Website: https://locations.massageenvy.com/pennsylvania/pittsburgh/1910-settlers-ridge-center-drive.html. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage robinson township pa | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

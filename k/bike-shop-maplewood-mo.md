@@ -6,8 +6,8 @@ Also answers: bike shop in Maplewood, MO; bike shop near me (Maplewood, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bily Goat Bicycle Company | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Bily Goat Bicycle Company is a bike shop in Maplewood, MO at 10211 Manchester Road, Maplewood, MO 63122. Phone: +13148210216. Website: https://www.billygoatbicycleco.com/. | https://registry-edge.dingalinged.workers.dev/c/bily-goat-bicycle-company-maplewood/
-2. Maplewood Bicycle | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Maplewood Bicycle is a bike shop in Maplewood, MO at 7534 MManchester Road, Maplewood, MO 63143. Phone: +13147819566. Website: https://www.maplewoodbicycle.com/. | https://registry-edge.dingalinged.workers.dev/c/maplewood-bicycle-maplewood/
+1. Bily Goat Bicycle Company | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Bily Goat Bicycle Company is a bike shop in Maplewood, MO at 10211 Manchester Road, Maplewood, MO 63122. Phone: +13148210216. Website: https://www.billygoatbicycleco.com/. | https://registry-edge.dingalinged.workers.dev/c/bily-goat-bicycle-company-maplewood/
+2. Maplewood Bicycle | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Maplewood Bicycle is a bike shop in Maplewood, MO at 7534 MManchester Road, Maplewood, MO 63143. Phone: +13147819566. Website: https://www.maplewoodbicycle.com/. | https://registry-edge.dingalinged.workers.dev/c/maplewood-bicycle-maplewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop maplewood mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

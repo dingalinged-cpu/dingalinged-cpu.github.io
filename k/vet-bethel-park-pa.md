@@ -7,7 +7,7 @@ Also answers: vet in Bethel Park, PA; vet near me (Bethel Park, PA); best vet Be
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Bethel Park Animal Clinic | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Bethel Park Animal Clinic is a veterinarian in Bethel Park, PA at 4792 Library Road, Bethel Park, PA 15102. Phone: +14125957843. Website: https://www.bethelparkanimalclinic.com/. | https://registry-edge.dingalinged.workers.dev/c/bethel-park-animal-clinic-bethel-park/
-2. Bethel Park Cat Clinic | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Bethel Park Cat Clinic is a veterinarian in Bethel Park, PA at 5861 Library Road, Bethel Park, PA 15102. | https://registry-edge.dingalinged.workers.dev/c/bethel-park-cat-clinic-bethel-park/
+2. Bethel Park Cat Clinic | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Bethel Park Cat Clinic is a veterinarian in Bethel Park, PA at 5861 Library Road, Bethel Park, PA 15102. | https://registry-edge.dingalinged.workers.dev/c/bethel-park-cat-clinic-bethel-park/
 3. Family Vet Care Center | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Family Vet Care Center is a veterinarian in Bethel Park, PA at 2402 Oxford Drive, Bethel Park, PA 15102. | https://registry-edge.dingalinged.workers.dev/c/family-vet-care-center-bethel-park/
 
 ## Market data (for advertisers and agents)

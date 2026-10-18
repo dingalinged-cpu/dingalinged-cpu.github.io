@@ -13,7 +13,7 @@ Ulta Beauty is a skin care studio in Cincinnati, OH at 700 Eastgate South Drive 
 - Website: https://www.ulta.com/stores/cincinnati-oh-1163
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 44.6/100 — Building — top 75% of skin care studios in Cincinnati, OH, #4 of 4 skin care studios in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.6/100 — Building — top 75% of skin care studios in Cincinnati, OH, #4 of 4 skin care studios in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ uBreakiFix is a phone repair shop in Lawrence, KS at 520 West 23rd Street #G, La
 - Website: https://www.ubreakifix.com/locations/lawrence
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-17:00
-- Pulse Score: 49.9/100 — Building — top 100% of phone repair shops in Lawrence, KS, #1 of 1 phone repair shops in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 100% of phone repair shops in Lawrence, KS, #1 of 1 phone repair shops in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 65.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

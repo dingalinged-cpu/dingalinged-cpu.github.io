@@ -6,7 +6,7 @@ Also answers: drywall repair in Lakewood, CO; drywall repair near me (Lakewood, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Plastering | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Total Plastering is a drywall contractor in Lakewood, CO. Website: https://totalplasteringco.com/stucco-contractor-lakewood-co/. | https://registry-edge.dingalinged.workers.dev/c/total-plastering-lakewood/
+1. Total Plastering | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Total Plastering is a drywall contractor in Lakewood, CO. Website: https://totalplasteringco.com/stucco-contractor-lakewood-co/. | https://registry-edge.dingalinged.workers.dev/c/total-plastering-lakewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: drywall repair lakewood co | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

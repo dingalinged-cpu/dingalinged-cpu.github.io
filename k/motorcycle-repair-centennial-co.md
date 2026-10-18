@@ -6,7 +6,7 @@ Also answers: motorcycle repair in Centennial, CO; motorcycle repair near me (Ce
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Longbikes | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Longbikes is a motorcycle repair shop in Centennial, CO at 7297 South Revere Parkway, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/longbikes-centennial/
+1. Longbikes | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Longbikes is a motorcycle repair shop in Centennial, CO at 7297 South Revere Parkway, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/longbikes-centennial/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair centennial co | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ N2M Technology is an IT support company in Sterling Heights, MI at 7400 Triangle
 - Website: https://n2mtech.com/
 - Email: sales@n2mtech.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 28% of IT support companys in Detroit, MI, #2 of 2 IT support companys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 28% of IT support companys in Detroit, MI, #2 of 2 IT support companys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

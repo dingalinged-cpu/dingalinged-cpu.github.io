@@ -13,7 +13,7 @@ NovaCare Rehabilitation is a physical therapy clinic in Dormont, PA at 2961 West
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 07:00-19:00; Tu 09:00-13:00; Th 12:00-19:00; Fr 07:00-14:00
-- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 88% of physical therapy clinics in Pittsburgh, PA, #1 of 1 physical therapy clinics in Dormont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 88% of physical therapy clinics in Pittsburgh, PA, #1 of 1 physical therapy clinics in Dormont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

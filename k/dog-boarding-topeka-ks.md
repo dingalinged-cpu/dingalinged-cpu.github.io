@@ -6,7 +6,7 @@ Also answers: dog boarding in Topeka, KS; dog boarding near me (Topeka, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Woof's Play and Stay | Organic #1 | Pulse Score 47.7/100 (Unrated, #1 in city) | Woof's Play and Stay is a dog boarding facility in Topeka, KS at 2100 Southwest Westport Drive #100, Topeka, KS 66614. Phone: +17858368169. | https://registry-edge.dingalinged.workers.dev/c/woofs-play-and-stay-topeka/
+1. Woof's Play and Stay | Organic #1 | Pulse Score 47.5/100 (Unrated, #1 in city) | Woof's Play and Stay is a dog boarding facility in Topeka, KS at 2100 Southwest Westport Drive #100, Topeka, KS 66614. Phone: +17858368169. | https://registry-edge.dingalinged.workers.dev/c/woofs-play-and-stay-topeka/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding topeka ks | category: Pets | industry benchmark: Animals & Pets

@@ -13,7 +13,7 @@ The Barn at Raccoon Creek is an event venue in Jefferson County, CO at 7301 West
 - Website: https://www.thebarnatraccooncreek.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 48% of event venues in Denver, CO, #1 of 3 event venues in Jefferson County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 48% of event venues in Denver, CO, #1 of 3 event venues in Jefferson County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

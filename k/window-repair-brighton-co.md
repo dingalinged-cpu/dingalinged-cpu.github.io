@@ -6,7 +6,7 @@ Also answers: window repair in Brighton, CO; window repair near me (Brighton, CO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adams County Glass | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Adams County Glass is a window repair service in Brighton, CO at 501 South Main Street, Brighton, CO 80601. Phone: +13035580032. Website: https://www.adamscountyglass.com/. | https://registry-edge.dingalinged.workers.dev/c/adams-county-glass-brighton/
+1. Adams County Glass | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Adams County Glass is a window repair service in Brighton, CO at 501 South Main Street, Brighton, CO 80601. Phone: +13035580032. Website: https://www.adamscountyglass.com/. | https://registry-edge.dingalinged.workers.dev/c/adams-county-glass-brighton/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair brighton co | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Meadowlark Property Management is a property management company in Lawrence, KS 
 - Website: https://meadowlarkpm.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-16:00; Fr 09:00-12:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 17% of property management companys in Lawrence, KS, #4 of 24 property management companys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 17% of property management companys in Lawrence, KS, #4 of 24 property management companys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

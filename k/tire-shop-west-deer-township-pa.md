@@ -6,8 +6,8 @@ Also answers: tire shop in West Deer Township, PA; tire shop near me (West Deer 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barnes MD Inc | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Barnes MD Inc is a tire shop in West Deer Township, PA. | https://registry-edge.dingalinged.workers.dev/c/barnes-md-inc-west-deer-township/
-2. Kress Tire Company | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Kress Tire Company is a tire shop in West Deer Township, PA. | https://registry-edge.dingalinged.workers.dev/c/kress-tire-company-west-deer-township/
+1. Barnes MD Inc | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Barnes MD Inc is a tire shop in West Deer Township, PA. | https://registry-edge.dingalinged.workers.dev/c/barnes-md-inc-west-deer-township/
+2. Kress Tire Company | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Kress Tire Company is a tire shop in West Deer Township, PA. | https://registry-edge.dingalinged.workers.dev/c/kress-tire-company-west-deer-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop west deer township pa | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Dale W. Hudson D.D.S. is a dentist in Denver, CO at 10200 East Girard Avenue #20
 - Website: https://dwhdds.wixsite.com/dalehudson
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 22% of dentists in Denver, CO, #18 of 60 dentists in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 21% of dentists in Denver, CO, #18 of 60 dentists in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

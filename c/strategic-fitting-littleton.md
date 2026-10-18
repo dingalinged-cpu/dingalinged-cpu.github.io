@@ -13,7 +13,7 @@ Strategic Fitting is a bike shop in Littleton, CO at 791 Southpark Drive, Little
 - Website: https://strategicfitting.com/
 - Email: strategicfittingllc@gmail.com
 - Opening hours (OSM syntax): Tu 11:00-17:00; Fr 09:00-15:00; Sa 09:00-17:00
-- Pulse Score: 64.9/100 — Good — top 3% of bike shops in Denver, CO, #1 of 5 bike shops in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 3% of bike shops in Denver, CO, #1 of 5 bike shops in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 65.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

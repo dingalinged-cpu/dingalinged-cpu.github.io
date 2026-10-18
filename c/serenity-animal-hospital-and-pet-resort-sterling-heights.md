@@ -13,7 +13,7 @@ Serenity Animal Hospital & Pet Resort is a veterinarian in Sterling Heights, MI 
 - Website: https://serenityanimalhospital.net/
 - Email: info@serenityanimalhospital.net
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 08:00-15:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 8% of veterinarians in Detroit, MI, #3 of 6 veterinarians in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 8% of veterinarians in Detroit, MI, #3 of 6 veterinarians in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

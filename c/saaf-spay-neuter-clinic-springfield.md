@@ -13,7 +13,7 @@ SAAF Spay Neuter Clinic is a veterinarian in Springfield, MO at 1600 North Washi
 - Website: https://www.spayneuterspringfield.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:15-17:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 12% of veterinarians in Springfield, MO, #1 of 9 veterinarians in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 12% of veterinarians in Springfield, MO, #1 of 9 veterinarians in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

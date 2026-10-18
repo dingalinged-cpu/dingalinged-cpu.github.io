@@ -13,7 +13,7 @@ Jenah Realty Group is a real estate agency in Overland, MO. Phone: +13144267575.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 45% of real estate agencys in St. Louis, MO, #1 of 1 real estate agencys in Overland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 41% of real estate agencys in St. Louis, MO, #1 of 1 real estate agencys in Overland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

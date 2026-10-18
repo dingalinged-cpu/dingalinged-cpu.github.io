@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Lafayette, CO at 535 West South Boulder Road #280
 - Website: https://haircutmenlafayetteco.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 76% of hair salons in Denver, CO, #4 of 5 hair salons in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 74% of hair salons in Denver, CO, #4 of 5 hair salons in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

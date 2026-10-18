@@ -13,7 +13,7 @@ Great Clips is a hair salon in Fraser, MI at 34835 Utica Road, Fraser, MI 48026.
 - Website: https://salons.greatclips.com/us/mi/fraser/34835-utica-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:30-19:00
-- Pulse Score: 50.5/100 — Fair — top 85% of hair salons in Detroit, MI, #11 of 11 hair salons in Fraser (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 84% of hair salons in Detroit, MI, #11 of 11 hair salons in Fraser (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

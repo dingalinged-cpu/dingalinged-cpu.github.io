@@ -13,7 +13,7 @@ McMillin Liquor is a liquor store in Manhattan, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-23:00
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 79% of liquor stores in Manhattan, KS, #11 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 79% of liquor stores in Manhattan, KS, #11 of 14 liquor stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

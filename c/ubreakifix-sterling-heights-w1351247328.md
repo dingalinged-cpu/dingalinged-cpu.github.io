@@ -13,7 +13,7 @@ uBreakiFix is a phone repair shop in Sterling Heights, MI at 36657 Van Dyke Aven
 - Website: https://www.ubreakifix.com/locations/sterlingheights
 - Email: support@ubreakifix.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.9/100 — Fair — top 43% of phone repair shops in Detroit, MI, #1 of 2 phone repair shops in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.8/100 — Fair — top 43% of phone repair shops in Detroit, MI, #1 of 2 phone repair shops in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: orthopedic surgeon in Indianapolis, IN; orthopedic surgeon near me
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. OrthoIndy Urgent Care Northwest | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | OrthoIndy Urgent Care Northwest is an orthopedic surgeon in Indianapolis, IN at 8450 Northwest Boulevard, Indianapolis, IN 46278. Phone: +13178022000. Website: https://www.orthoindy.com/. | https://registry-edge.dingalinged.workers.dev/c/orthoindy-urgent-care-northwest-indianapolis/
-2. Orthopedic Specialty Care | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | Orthopedic Specialty Care is an orthopedic surgeon in Indianapolis, IN at 7930 North Shadeland Avenue, Indianapolis, IN 46250. Phone: +13176216725. | https://registry-edge.dingalinged.workers.dev/c/orthopedic-specialty-care-indianapolis/
+2. Orthopedic Specialty Care | Organic #2 | Pulse Score 58.7/100 (Unrated, #2 in city) | Orthopedic Specialty Care is an orthopedic surgeon in Indianapolis, IN at 7930 North Shadeland Avenue, Indianapolis, IN 46250. Phone: +13176216725. | https://registry-edge.dingalinged.workers.dev/c/orthopedic-specialty-care-indianapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon indianapolis in | category: Health & medical | industry benchmark: Physicians & Surgeons

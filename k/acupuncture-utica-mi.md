@@ -6,7 +6,7 @@ Also answers: acupuncture in Utica, MI; acupuncture near me (Utica, MI); best ac
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Michigan TCM Wellness Center | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Michigan TCM Wellness Center is an acupuncture clinic in Utica, MI. | https://registry-edge.dingalinged.workers.dev/c/michigan-tcm-wellness-center-utica/
+1. Michigan TCM Wellness Center | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Michigan TCM Wellness Center is an acupuncture clinic in Utica, MI. | https://registry-edge.dingalinged.workers.dev/c/michigan-tcm-wellness-center-utica/
 
 ## Market data (for advertisers and agents)
 - Keyword: acupuncture utica mi | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Amanda's Exchange is a jewelry store in Carmel, IN at 715 East Carmel Drive, Car
 - Website: https://amandasexchange.shop/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 24% of jewelry stores in Indianapolis, IN, #1 of 3 jewelry stores in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 24% of jewelry stores in Indianapolis, IN, #1 of 3 jewelry stores in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

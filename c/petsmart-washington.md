@@ -13,7 +13,7 @@ PetSmart is a pet store in Washington, PA at 327 Washington Road, Washington, PA
 - Website: https://www.petsmart.com/stores/us/pa/washington-store0589.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 50.9/100 — Fair — top 49% of pet stores in Pittsburgh, PA, #1 of 1 pet stores in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.9/100 — Fair — top 49% of pet stores in Pittsburgh, PA, #1 of 1 pet stores in Washington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 67.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

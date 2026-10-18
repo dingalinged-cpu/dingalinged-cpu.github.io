@@ -13,7 +13,7 @@ Isolate Float Center is a spa in Boulder, CO at 643 South Broadway, Boulder, CO 
 - Website: https://isolatefc.com/
 - Email: isolatefc@gmail.com
 - Opening hours (OSM syntax): Tu-Su 10:00-18:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 20% of spas in Denver, CO, #1 of 1 spas in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 20% of spas in Denver, CO, #1 of 1 spas in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

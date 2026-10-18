@@ -6,7 +6,7 @@ Also answers: financial advisor in Sunbury, OH; financial advisor near me (Sunbu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones Kelsey Burgett | Organic #1 | Pulse Score 62.4/100 (Good, #1 in city) | Edward Jones Kelsey Burgett is a financial advisor in Sunbury, OH. Phone: +17409360778. Website: https://www.edwardjones.com/. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-kelsey-burgett-sunbury/
+1. Edward Jones Kelsey Burgett | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | Edward Jones Kelsey Burgett is a financial advisor in Sunbury, OH. Phone: +17409360778. Website: https://www.edwardjones.com/. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-kelsey-burgett-sunbury/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor sunbury oh | category: Professional & financial services | industry benchmark: Finance & Insurance

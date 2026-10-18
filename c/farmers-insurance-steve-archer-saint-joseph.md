@@ -13,7 +13,7 @@ Farmers Insurance: Steve Archer is an insurance agent in Saint Joseph, MO at 150
 - Website: https://www.farmersagent.com/sarcher
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 34% of insurance agents in St. Joseph, MO, #3 of 9 insurance agents in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 34% of insurance agents in St. Joseph, MO, #3 of 9 insurance agents in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

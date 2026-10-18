@@ -13,7 +13,7 @@ Dr. Tracy Turner is a dentist in Moon Township, PA at 934 Beaver Grade Road, Moo
 - Website: https://dentisttraceyturner.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 9% of dentists in Pittsburgh, PA, #1 of 1 dentists in Moon Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 9% of dentists in Pittsburgh, PA, #1 of 1 dentists in Moon Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

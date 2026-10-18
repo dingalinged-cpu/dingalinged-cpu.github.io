@@ -13,7 +13,7 @@ Sol Vista Roofing Boulder is a roofer in Boulder, CO at 4845 Pearl East Circle #
 - Website: https://solvistaroofing.com/roofing-service-areas/boulder-co/
 - Email: boulder@solvistaroofing.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.2/100 — Good — top 21% of roofers in Denver, CO, #1 of 1 roofers in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Good — top 21% of roofers in Denver, CO, #1 of 1 roofers in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

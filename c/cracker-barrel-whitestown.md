@@ -13,7 +13,7 @@ Cracker Barrel is a gift shop in Whitestown, IN at 6398 Crane Drive, Whitestown,
 - Website: https://crackerbarrel.com/
 - Email: n/a
 - Opening hours (OSM syntax): Su-Fr 07:00-21:00, Sa 07:00-22:00
-- Pulse Score: 49/100 — Building — top 84% of gift shops in Indianapolis, IN, #1 of 1 gift shops in Whitestown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 84% of gift shops in Indianapolis, IN, #1 of 1 gift shops in Whitestown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

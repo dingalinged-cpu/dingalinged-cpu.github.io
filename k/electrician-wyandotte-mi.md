@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Ramirez Electric | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Ramirez Electric is an electrician in Wyandotte, MI at 1318 Ford Avenue, Wyandotte, MI 48192. Phone: +17342825823. | https://registry-edge.dingalinged.workers.dev/c/ramirez-electric-wyandotte/
 2. Riney Electric | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Riney Electric is an electrician in Wyandotte, MI at 1459 Fort Street, Wyandotte, MI 48192. Phone: +17342816311. | https://registry-edge.dingalinged.workers.dev/c/riney-electric-wyandotte/
-3. Douglas Electric | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Douglas Electric is an electrician in Wyandotte, MI at 759 Grove Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/douglas-electric-wyandotte/
-4. Wyandotte Electric Supply Company | Organic #4 | Pulse Score 56.4/100 (Unrated, #4 in city) | Wyandotte Electric Supply Company is an electrician in Wyandotte, MI at 961 Ford Avenue, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/wyandotte-electric-supply-company-wyandotte/
+3. Douglas Electric | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Douglas Electric is an electrician in Wyandotte, MI at 759 Grove Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/douglas-electric-wyandotte/
+4. Wyandotte Electric Supply Company | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Wyandotte Electric Supply Company is an electrician in Wyandotte, MI at 961 Ford Avenue, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/wyandotte-electric-supply-company-wyandotte/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician wyandotte mi | category: Home services - Electrical | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Saint Louis, MO at 11100 Linpa
 - Website: https://www.extraspace.com/storage/facilities/us/missouri/st_louis/4042/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 12:00-16:00
-- Pulse Score: 49.6/100 — Building — top 41% of self-storage facilitys in St. Louis, MO, #3 of 12 self-storage facilitys in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 35% of self-storage facilitys in St. Louis, MO, #3 of 12 self-storage facilitys in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

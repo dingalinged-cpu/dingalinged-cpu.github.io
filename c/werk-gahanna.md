@@ -13,7 +13,7 @@ WERK is a dance studio in Gahanna, OH at 358 Hamilton Road, Gahanna, OH 43230. P
 - Website: https://werkdancefitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 18% of dance studios in Columbus, OH, #1 of 2 dance studios in Gahanna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 18% of dance studios in Columbus, OH, #1 of 2 dance studios in Gahanna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

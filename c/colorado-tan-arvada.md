@@ -13,7 +13,7 @@ Colorado Tan is a tanning salon in Arvada, CO at 12320 West 64th Avenue, Arvada,
 - Website: https://thecoloradotan.com/location/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-19:30; Fr 09:00-19:00; Sa 09:00-17:00; Su 09:00-14:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 11% of tanning salons in Denver, CO, #1 of 2 tanning salons in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 11% of tanning salons in Denver, CO, #1 of 2 tanning salons in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

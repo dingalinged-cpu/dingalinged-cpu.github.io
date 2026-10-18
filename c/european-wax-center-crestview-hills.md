@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Crestview Hills, KY. Website: https://l
 - Website: https://locations.waxcenter.com/ky/crestviewhills/crestview-hills-0387.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Building — top 80% of waxing salons in Cincinnati, OH, #1 of 1 waxing salons in Crestview Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Building — top 80% of waxing salons in Cincinnati, OH, #1 of 1 waxing salons in Crestview Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Great Clips is a hair salon in Highlands Ranch, CO at 4004 Red Cedar Drive, High
 - Website: https://salons.greatclips.com/us/co/highlands-ranch/4004-red-cedar-dr
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 08:00-17:00; Su 10:00-17:00
-- Pulse Score: 50.4/100 — Fair — top 70% of hair salons in Denver, CO, #2 of 7 hair salons in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 69% of hair salons in Denver, CO, #1 of 7 hair salons in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

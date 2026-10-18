@@ -13,7 +13,7 @@ Swanson's Notary is a notary service in Pittsburgh, PA at 995 Greensburg Pike, P
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 34% of notary services in Pittsburgh, PA, #2 of 3 notary services in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 34% of notary services in Pittsburgh, PA, #2 of 3 notary services in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

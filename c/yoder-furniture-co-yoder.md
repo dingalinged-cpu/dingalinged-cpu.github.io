@@ -13,7 +13,7 @@ Yoder Furniture Co. is a furniture store in Yoder, KS at 3405 Switzer Road, Yode
 - Website: https://www.yoderfurnitureco.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 18% of furniture stores in Wichita, KS, #1 of 1 furniture stores in Yoder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 18% of furniture stores in Wichita, KS, #1 of 1 furniture stores in Yoder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

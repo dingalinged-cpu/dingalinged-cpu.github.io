@@ -6,7 +6,7 @@ Also answers: it support in Westminster, CO; it support near me (Westminster, CO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DeVry Technical Institute | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | DeVry Technical Institute is an IT support company in Westminster, CO at 1870 West 122nd Avenue, Westminster, CO 80234. | https://registry-edge.dingalinged.workers.dev/c/devry-technical-institute-westminster/
+1. DeVry Technical Institute | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | DeVry Technical Institute is an IT support company in Westminster, CO at 1870 West 122nd Avenue, Westminster, CO 80234. | https://registry-edge.dingalinged.workers.dev/c/devry-technical-institute-westminster/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support westminster co | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

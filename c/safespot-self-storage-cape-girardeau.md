@@ -13,7 +13,7 @@ SafeSpot Self Storage is a self-storage facility in Cape Girardeau, MO at 867 Cl
 - Website: https://www.mysafespot.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 100% of self-storage facilitys in Cape Girardeau, MO, #1 of 1 self-storage facilitys in Cape Girardeau (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of self-storage facilitys in Cape Girardeau, MO, #1 of 1 self-storage facilitys in Cape Girardeau (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

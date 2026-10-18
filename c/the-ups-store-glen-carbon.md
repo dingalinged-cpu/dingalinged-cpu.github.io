@@ -13,7 +13,7 @@ The UPS Store is a printing service in Glen Carbon, IL at 3733 South State Route
 - Website: https://locations.theupsstore.com/il/glen-carbon/3733-s-state-rte-159
 - Email: store2710@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:30; Sa 09:00-15:00
-- Pulse Score: 50.6/100 — Fair — top 40% of printing services in St. Louis, MO, #1 of 1 printing services in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 40% of printing services in St. Louis, MO, #1 of 1 printing services in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

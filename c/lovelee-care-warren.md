@@ -13,7 +13,7 @@ LoveLee Care is a daycare in Warren, MI at 31731 Schoenherr Road, Warren, MI 480
 - Website: n/a
 - Email: info@loveleecare.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 20% of daycares in Detroit, MI, #2 of 2 daycares in Warren (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of daycares in Detroit, MI, #2 of 2 daycares in Warren (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

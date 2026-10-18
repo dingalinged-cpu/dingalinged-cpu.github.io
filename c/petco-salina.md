@@ -13,7 +13,7 @@ Petco is a pet store in Salina, KS at 2450 South 9th Street #2001A, Salina, KS 6
 - Website: https://stores.petco.com/ks/salina/pet-supplies-salina-ks-1665.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 46.8/100 — Building — top 100% of pet stores in Salina, KS, #1 of 1 pet stores in Salina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 100% of pet stores in Salina, KS, #1 of 1 pet stores in Salina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

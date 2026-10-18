@@ -13,7 +13,7 @@ Oakview Dermatology is a dermatologist in Lancaster, OH at 2405 North Columbus S
 - Website: https://www.oakviewderm.com/dermatologist-lancaster-ohio
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 67% of dermatologists in Columbus, OH, #1 of 2 dermatologists in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 67% of dermatologists in Columbus, OH, #1 of 2 dermatologists in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

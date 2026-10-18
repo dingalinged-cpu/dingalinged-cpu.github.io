@@ -7,8 +7,8 @@ Also answers: assisted living in Springfield, MO; assisted living near me (Sprin
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The Cambridge Senior Living | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | The Cambridge Senior Living is an assisted living facility in Springfield, MO at 2900 South Jefferson Avenue, Springfield, MO 65807. Phone: +14178822223. Website: https://thecambridgeseniorliving.com/. | https://registry-edge.dingalinged.workers.dev/c/the-cambridge-senior-living-springfield/
-2. Spring Ridge Assisted Living | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Spring Ridge Assisted Living is an assisted living facility in Springfield, MO at 2828 South Meadowbrook Avenue, Springfield, MO 65807. | https://registry-edge.dingalinged.workers.dev/c/spring-ridge-assisted-living-springfield/
-3. The Montclair | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | The Montclair is an assisted living facility in Springfield, MO at 1000 East Montclair Street, Springfield, MO 65807. | https://registry-edge.dingalinged.workers.dev/c/the-montclair-springfield/
+2. Spring Ridge Assisted Living | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Spring Ridge Assisted Living is an assisted living facility in Springfield, MO at 2828 South Meadowbrook Avenue, Springfield, MO 65807. | https://registry-edge.dingalinged.workers.dev/c/spring-ridge-assisted-living-springfield/
+3. The Montclair | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | The Montclair is an assisted living facility in Springfield, MO at 1000 East Montclair Street, Springfield, MO 65807. | https://registry-edge.dingalinged.workers.dev/c/the-montclair-springfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living springfield mo | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

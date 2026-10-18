@@ -13,7 +13,7 @@ AAA Saint Louis Insurance and Member Services is an insurance agent in Saint Lou
 - Website: https://www.ace.aaa.com/locations/Saint_Louis-63108-169
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 51% of insurance agents in St. Louis, MO, #2 of 5 insurance agents in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 51% of insurance agents in St. Louis, MO, #2 of 5 insurance agents in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

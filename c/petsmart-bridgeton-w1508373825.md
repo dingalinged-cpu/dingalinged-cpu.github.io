@@ -13,7 +13,7 @@ PetSmart is a pet store in Bridgeton, MO. Phone: +13142091661. Website: https://
 - Website: https://www.petsmart.com/stores/us/mo/bridgeton-store1686.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 45.5/100 — Building — top 65% of pet stores in St. Louis, MO, #1 of 2 pet stores in Bridgeton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 65% of pet stores in St. Louis, MO, #1 of 2 pet stores in Bridgeton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Bauer Hite Orthodontic Specialists is a dentist in Edwardsville, IL at 1419 Lewi
 - Website: https://www.bauerhiteortho.com/edwardsville-office
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:30-17:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 31% of dentists in St. Louis, MO, #2 of 4 dentists in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 31% of dentists in St. Louis, MO, #2 of 4 dentists in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Plum Creek Condominiums is a property management company in Sterling Heights, MI
 - Website: https://plumcreekcondos.com/
 - Email: service@casabellamanagement.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 19% of property management companys in Detroit, MI, #5 of 26 property management companys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 19% of property management companys in Detroit, MI, #5 of 26 property management companys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: chimney sweep in Aurora, CO; chimney sweep near me (Aurora, CO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Chimney Kings | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | The Chimney Kings is a chimney sweep in Aurora, CO at 11340 East Louisiana Avenue, Aurora, CO 80012. Phone: +13033317978. Website: https://thechimneykings.com/. | https://registry-edge.dingalinged.workers.dev/c/the-chimney-kings-aurora/
+1. The Chimney Kings | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | The Chimney Kings is a chimney sweep in Aurora, CO at 11340 East Louisiana Avenue, Aurora, CO 80012. Phone: +13033317978. Website: https://thechimneykings.com/. | https://registry-edge.dingalinged.workers.dev/c/the-chimney-kings-aurora/
 
 ## Market data (for advertisers and agents)
 - Keyword: chimney sweep aurora co | category: Home services - Chimney | industry benchmark: Home & Home Improvement

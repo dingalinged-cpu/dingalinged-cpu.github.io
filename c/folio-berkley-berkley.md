@@ -13,7 +13,7 @@ Folio Berkley is a coworking space in Berkley, MI at 2838 Coolidge Highway, Berk
 - Website: https://www.foliooffices.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30+
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 25% of coworking spaces in Detroit, MI, #1 of 1 coworking spaces in Berkley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 25% of coworking spaces in Detroit, MI, #1 of 1 coworking spaces in Berkley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

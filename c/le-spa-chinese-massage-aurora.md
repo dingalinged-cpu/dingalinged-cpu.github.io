@@ -13,7 +13,7 @@ Le Spa Chinese Massage is a massage studio in Aurora, CO at 10011 East Iliff Ave
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-21:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 13% of massage studios in Denver, CO, #2 of 11 massage studios in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 13% of massage studios in Denver, CO, #2 of 11 massage studios in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ SNS Promotions is a printing service in Florissant, MO at 6 Mullanphy Gardens Sh
 - Website: https://www.facebook.com/snspromotions
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Fair — top 10% of printing services in St. Louis, MO, #1 of 3 printing services in Florissant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Fair — top 10% of printing services in St. Louis, MO, #1 of 3 printing services in Florissant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

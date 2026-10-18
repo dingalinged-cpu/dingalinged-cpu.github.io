@@ -6,7 +6,7 @@ Also answers: nail salon in Louisville, CO; nail salon near me (Louisville, CO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lucky Nails & Spa | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Lucky Nails & Spa is a nail salon in Louisville, CO. | https://registry-edge.dingalinged.workers.dev/c/lucky-nails-and-spa-louisville/
+1. Lucky Nails & Spa | Organic #1 | Pulse Score 41.9/100 (Unrated, #1 in city) | Lucky Nails & Spa is a nail salon in Louisville, CO. | https://registry-edge.dingalinged.workers.dev/c/lucky-nails-and-spa-louisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon louisville co | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

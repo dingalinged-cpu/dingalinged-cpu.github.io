@@ -13,7 +13,7 @@ BlueHat LLC is an IT support company in Mason, OH at 6410 Thornberry Ct #Suite E
 - Website: https://bluehat.co/
 - Email: josh.barrett@bluehat.co
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 30% of IT support companys in Cincinnati, OH, #1 of 1 IT support companys in Mason (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 30% of IT support companys in Cincinnati, OH, #1 of 1 IT support companys in Mason (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

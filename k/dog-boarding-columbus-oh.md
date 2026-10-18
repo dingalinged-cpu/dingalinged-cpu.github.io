@@ -6,7 +6,7 @@ Also answers: dog boarding in Columbus, OH; dog boarding near me (Columbus, OH);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Doggie Daycare Center | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Doggie Daycare Center is a dog boarding facility in Columbus, OH at 401 East Mound Street, Columbus, OH 43215. Phone: +16142212251. Website: https://www.doggiedaycarecolumbus.com/. | https://registry-edge.dingalinged.workers.dev/c/doggie-daycare-center-columbus/
+1. Doggie Daycare Center | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Doggie Daycare Center is a dog boarding facility in Columbus, OH at 401 East Mound Street, Columbus, OH 43215. Phone: +16142212251. Website: https://www.doggiedaycarecolumbus.com/. | https://registry-edge.dingalinged.workers.dev/c/doggie-daycare-center-columbus/
 2. Top Dog Daycare | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Top Dog Daycare is a dog boarding facility in Columbus, OH at 1965 Hard Road, Columbus, OH 43235. | https://registry-edge.dingalinged.workers.dev/c/top-dog-daycare-columbus/
 3. Dogtopia | Organic #3 | Pulse Score 42.4/100 (Building, #3 in city) | Dogtopia is a dog boarding facility in Columbus, OH. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-columbus/
 

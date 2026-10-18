@@ -13,7 +13,7 @@ Set 4 Life Customz is a printing service in Cincinnati, OH at 12 West Court Stre
 - Website: https://s4lcustomz.com/
 - Email: set4lifecustomz@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 4% of printing services in Cincinnati, OH, #1 of 9 printing services in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 4% of printing services in Cincinnati, OH, #1 of 9 printing services in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

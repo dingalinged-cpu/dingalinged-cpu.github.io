@@ -1,0 +1,2900 @@
+# Company Registry: company records, metro burleson-tx
+
+> 107 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+10 Federal Storage is a self-storage facility in Burleson, TX.
+
+# 10 Federal Storage
+
+- Category: storage units
+- Services: storage units
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5016863, -97.2916518
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 72% of self-storage facilitys in Burleson, TX, #2 of 4 self-storage facilitys in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/10-federal-storage-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/10-federal-storage-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13260511749 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+A-Max Auto Insurance is an insurance agent in Burleson, TX at 251 Southwest Wilshire Boulevard #120, Burleson, TX. Phone: +18174264000. Website: https://www.amaxinsurance.com/find-an-office/burleson.
+
+# A-Max Auto Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 251 Southwest Wilshire Boulevard #120, Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5419877, -97.3294856
+- Phone: +18174264000
+- Website: https://www.amaxinsurance.com/find-an-office/burleson
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.1/100 — Building — top 67% of insurance agents in Burleson, TX, #3 of 6 insurance agents in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-max-auto-insurance-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-max-auto-insurance-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11491143386 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aaron's is a furniture store in Burleson, TX. Website: https://locations.aarons.com/us/tx/burleson/809-sw-wilshire-blvd.
+
+# Aaron's
+
+- Category: furniture store
+- Services: furniture store
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5310625, -97.3375
+- Phone: n/a
+- Website: https://locations.aarons.com/us/tx/burleson/809-sw-wilshire-blvd
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+- Pulse Score: 46.9/100 — Building — top 100% of furniture stores in Burleson, TX, #1 of 1 furniture stores in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aarons-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aarons-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667757875 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+AKF Martial Arts is a martial arts school in Burleson, TX.
+
+# AKF Martial Arts
+
+- Category: martial arts
+- Services: martial arts
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5367438, -97.3371638
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Burleson, TX, #3 of 3 martial arts schools in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/akf-martial-arts-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/akf-martial-arts-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503835 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+All Purpose Storage is a self-storage facility in Burleson, TX at 1699 FM 731, Burleson, TX 76028. Phone: +18172953785. Website: https://www.allpurposestoragetx.com/.
+
+# All Purpose Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 1699 FM 731, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5047259, -97.3425694
+- Phone: +18172953785
+- Website: https://www.allpurposestoragetx.com/
+- Email: allpurposestorage@aol.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 29% of self-storage facilitys in Burleson, TX, #1 of 4 self-storage facilitys in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/all-purpose-storage-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/all-purpose-storage-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1237807083 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Allstate is an insurance agent in Burleson, TX.
+
+# Allstate
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5383358, -97.3338365
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.8/100 — Building — top 78% of insurance agents in Burleson, TX, #4 of 6 insurance agents in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/allstate-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/allstate-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/669237917 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Allstate Insurance: Clinton Musselman is an insurance agent in Burleson, TX at 815 Southwest Alsbury Boulevard #1, Burleson, TX 76028. Phone: +18174264734. Website: https://agents.allstate.com/clinton-musselman-burleson-tx.html.
+
+# Allstate Insurance: Clinton Musselman
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 815 Southwest Alsbury Boulevard #1, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5439756, -97.349225
+- Phone: +18174264734
+- Website: https://agents.allstate.com/clinton-musselman-burleson-tx.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:30
+- Pulse Score: 49.2/100 — Building — top 34% of insurance agents in Burleson, TX, #2 of 6 insurance agents in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/allstate-insurance-clinton-musselman-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/allstate-insurance-clinton-musselman-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10001952933 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Anderson Orthodontics is a dentist in Burleson, TX at 310 Northwest John Jones Drive #108, Burleson, TX 76028. Phone: +18179896000. Website: https://www.bracesburleson.com/.
+
+# Anderson Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: 310 Northwest John Jones Drive #108, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5249537, -97.351581
+- Phone: +18179896000
+- Website: https://www.bracesburleson.com/
+- Email: n/a
+- Opening hours (OSM syntax): Tu,Th 13:00-17:00; We 07:40-17:00; Fr 07:40-12:00; Mo,Sa,Su off
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 9% of dentists in Burleson, TX, #1 of 10 dentists in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/anderson-orthodontics-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/anderson-orthodontics-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7293703582 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Anytime Fitness is a gym in Joshua, TX at 617 North Broadway Street, Joshua, TX 76058. Phone: +18174268116. Website: https://www.anytimefitness.com/gyms/3554/joshua-tx-76058/.
+
+# Anytime Fitness
+
+- Category: gym
+- Services: gym
+- Address: 617 North Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4839898, -97.3782731
+- Phone: +18174268116
+- Website: https://www.anytimefitness.com/gyms/3554/joshua-tx-76058/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 50.3/100 — Fair — top 67% of gyms in Burleson, TX, #1 of 2 gyms in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 65.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/anytime-fitness-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1179899314 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+B-Town Cuts Salon is a hair salon in Burleson, TX.
+
+# B-Town Cuts Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5377859, -97.3355489
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 67% of hair salons in Burleson, TX, #3 of 5 hair salons in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/b-town-cuts-salon-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/b-town-cuts-salon-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503777 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ballard Family Dentistry is a dentist in Burleson, TX at 2701 Southwest Wilshire Boulevard, Burleson, TX 76028. Phone: +18175470838. Website: https://www.dentistburlesontx.com/.
+
+# Ballard Family Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 2701 Southwest Wilshire Boulevard, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.497146, -97.3676652
+- Phone: +18175470838
+- Website: https://www.dentistburlesontx.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.2/100 — Building — top 92% of dentists in Burleson, TX, #9 of 10 dentists in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ballard-family-dentistry-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ballard-family-dentistry-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1236705651 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bartlett Auto Repair is an auto repair shop in Burleson, TX at 113 East Renfro Street, Burleson, TX 76028. Phone: +18172959250.
+
+# Bartlett Auto Repair
+
+- Category: auto repair
+- Services: auto repair, mechanic, brake repair
+- Address: 113 East Renfro Street, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5434693, -97.3196859
+- Phone: +18172959250
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Burleson, TX, #2 of 7 auto repair shops in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bartlett-auto-repair-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bartlett-auto-repair-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1239791528 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Berry Stewart Eye Center is an eye care practice in Burleson, TX at 2790 Southwest Wilshire Boulevard, Burleson, TX 76028. Phone: +18174842020. Website: https://www.berryeyecenter.com/.
+
+# Berry Stewart Eye Center
+
+- Category: eye doctor
+- Services: eye doctor
+- Address: 2790 Southwest Wilshire Boulevard, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.4966612, -97.3694217
+- Phone: +18174842020
+- Website: https://www.berryeyecenter.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 34% of eye care practices in Burleson, TX, #1 of 3 eye care practices in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/berry-stewart-eye-center-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/berry-stewart-eye-center-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11483817252 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Best Massage is a massage studio in Burleson, TX at 333 Northwest Hillery Street, Burleson, TX 76028. Phone: +18177743858. Website: https://www.bestmassagetx.com/.
+
+# Best Massage
+
+- Category: massage
+- Services: massage
+- Address: 333 Northwest Hillery Street, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.548353, -97.3258141
+- Phone: +18177743858
+- Website: https://www.bestmassagetx.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:30-21:30; Su 10:00-20:00
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 100% of massage studios in Burleson, TX, #1 of 1 massage studios in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/best-massage-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/best-massage-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6108823393 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bill Burrows Pro-Cision Transmission is an auto repair shop in Joshua, TX at 480 North Broadway Street, Joshua, TX 76058. Phone: +18177740325.
+
+# Bill Burrows Pro-Cision Transmission
+
+- Category: auto repair
+- Services: auto repair, mechanic, transmission repair
+- Address: 480 North Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4780296, -97.3800871
+- Phone: +18177740325
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 40% of auto repair shops in Burleson, TX, #4 of 7 auto repair shops in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bill-burrows-pro-cision-transmission-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bill-burrows-pro-cision-transmission-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/712923314 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Braces of Burleson is a dentist in Burleson, TX at 809 Southwest Alsbury Boulevard #100, Burleson, TX 76028. Phone: +18174261406. Website: https://bracesonbroad.com/braces-of-burleson/.
+
+# Braces of Burleson
+
+- Category: dentist
+- Services: dentist
+- Address: 809 Southwest Alsbury Boulevard #100, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5442343, -97.3489375
+- Phone: +18174261406
+- Website: https://bracesonbroad.com/braces-of-burleson/
+- Email: braces.burleson@d4c.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 17% of dentists in Burleson, TX, #2 of 10 dentists in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/braces-of-burleson-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/braces-of-burleson-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10276971467 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Burleson Dental is a dentist in Burleson, TX.
+
+# Burleson Dental
+
+- Category: dentist
+- Services: dentist
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5355836, -97.3365493
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 84% of dentists in Burleson, TX, #8 of 10 dentists in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/burleson-dental-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/burleson-dental-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503783 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Burleson Events Center is an event venue in Burleson, TX.
+
+# Burleson Events Center
+
+- Category: event venues
+- Services: event venues
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.520974, -97.3083515
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of event venues in Burleson, TX, #1 of 1 event venues in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/burleson-events-center-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/burleson-events-center-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/712918411 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Burleson Karate is a martial arts school in Burleson, TX at 2650 Southwest Wilshire Boulevard #300, Burleson, TX 76028.
+
+# Burleson Karate
+
+- Category: martial arts
+- Services: martial arts
+- Address: 2650 Southwest Wilshire Boulevard #300, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.4988937, -97.3677616
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 67% of martial arts schools in Burleson, TX, #2 of 3 martial arts schools in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/burleson-karate-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/burleson-karate-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11484434192 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Burleson Nails & Spa is a nail salon in Burleson, TX at 251 Southwest Wilshire Boulevard #116, Burleson, TX 76028. Phone: +16822555420. Website: https://www.burlesonnails.com/.
+
+# Burleson Nails & Spa
+
+- Category: nail salon
+- Services: nail salon, waxing
+- Address: 251 Southwest Wilshire Boulevard #116, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5421726, -97.3293097
+- Phone: +16822555420
+- Website: https://www.burlesonnails.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 29% of nail salons in Burleson, TX, #1 of 5 nail salons in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/burleson-nails-and-spa-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/burleson-nails-and-spa-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11492412757 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Burleson Tire is an auto repair shop in Joshua, TX. Phone: +18174478473.
+
+# Burleson Tire
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Joshua, TX
+- City: Joshua
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4671613, -97.3836062
+- Phone: +18174478473
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 47% of auto repair shops in Burleson, TX, #5 of 7 auto repair shops in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/burleson-tire-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/burleson-tire-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/712923294 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Busy B's Bakery is a bakery in Burleson, TX at 251 Southwest Wilshire Boulevard #117, Burleson, TX 76028. Phone: +18174472116. Website: https://busy-bs-bakery.edan.io/.
+
+# Busy B's Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: 251 Southwest Wilshire Boulevard #117, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5421281, -97.3293502
+- Phone: +18174472116
+- Website: https://busy-bs-bakery.edan.io/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 50% of bakerys in Burleson, TX, #1 of 2 bakerys in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/busy-bs-bakery-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/busy-bs-bakery-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11491143388 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Calver Realty is a real estate agency in Joshua, TX at 313 South Broadway Street #4, Joshua, TX 76058. Phone: +18172401850. Website: https://claverrealty.com/.
+
+# Calver Realty
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 313 South Broadway Street #4, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4584126, -97.3838684
+- Phone: +18172401850
+- Website: https://claverrealty.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in Burleson, TX, #1 of 1 real estate agencys in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/calver-realty-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/calver-realty-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10949977031 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Cowboy Express Car Wash is a car wash in Burleson, TX at 236 Loy Street, Burleson, TX 76028.
+
+# Cowboy Express Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 236 Loy Street, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5402277, -97.3086708
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.6/100 — Unrated (not enough evidence yet) — top 100% of car washes in Burleson, TX, #3 of 3 car washes in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cowboy-express-car-wash-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cowboy-express-car-wash-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1222103671 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+CubeSmart is a self-storage facility in Burleson, TX.
+
+# CubeSmart
+
+- Category: storage units
+- Services: storage units
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5256332, -97.3412124
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.8/100 — Building — top 100% of self-storage facilitys in Burleson, TX, #4 of 4 self-storage facilitys in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cubesmart-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cubesmart-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667757327 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Dental Visions is a dentist in Burleson, TX at 116 West Renfro Street, Burleson, TX 76028. Phone: +18172957116. Website: https://www.dentalvisions.com/.
+
+# Dental Visions
+
+- Category: dentist
+- Services: dentist
+- Address: 116 West Renfro Street, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5433033, -97.3218966
+- Phone: +18172957116
+- Website: https://www.dentalvisions.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 50% of dentists in Burleson, TX, #5 of 10 dentists in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dental-visions-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dental-visions-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/712918403 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Diesel Dynamics is an auto repair shop in Joshua, TX at 940 South Broadway Street, Joshua, TX 76058. Phone: +18175583637.
+
+# Diesel Dynamics
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 940 South Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4498805, -97.3850374
+- Phone: +18175583637
+- Website: n/a
+- Email: dieseldynamicsllc@sbcglobal.net
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 20% of auto repair shops in Burleson, TX, #2 of 7 auto repair shops in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/diesel-dynamics-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/diesel-dynamics-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1178613056 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Don Perry's Garage is an auto repair shop in Burleson, TX at 2845 SW Wilshire Blvd, Burleson, TX 76028, Burleson, TX 76028.
+
+# Don Perry's Garage
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2845 SW Wilshire Blvd, Burleson, TX 76028, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.4951783, -97.3687784
+- Phone: n/a
+- Website: n/a
+- Email: donperrysgarage@gmail.com
+- Opening hours (OSM syntax): Mo-Fr 07:30-17:30
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 14% of auto repair shops in Burleson, TX, #1 of 7 auto repair shops in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/don-perrys-garage-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/don-perrys-garage-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13951219701 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Dragon Service Center is an auto repair shop in Burleson, TX.
+
+# Dragon Service Center
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4640735, -97.2681815
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 67% of auto repair shops in Burleson, TX, #3 of 7 auto repair shops in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dragon-service-center-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dragon-service-center-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/713993343 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Edward Jones is a financial advisor in Joshua, TX at 205 North Broadway Street, Joshua, TX 76058. Phone: +18175563303. Website: https://www.edwardjones.com/us-en/financial-advisor/david-layman.
+
+# Edward Jones
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: 205 North Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4642106, -97.3848945
+- Phone: +18175563303
+- Website: https://www.edwardjones.com/us-en/financial-advisor/david-layman
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 49.7/100 — Building — top 100% of financial advisors in Burleson, TX, #1 of 1 financial advisors in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edward-jones-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edward-jones-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/711175957 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Famous Nails is a nail salon in Burleson, TX.
+
+# Famous Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5366735, -97.3372466
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 100% of nail salons in Burleson, TX, #5 of 5 nail salons in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/famous-nails-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/famous-nails-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503834 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Farmers Insurance is an insurance agent in Joshua, TX at 100 North Main Street #A, Joshua, TX 76058. Phone: +18174264501.
+
+# Farmers Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 100 North Main Street #A, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4615541, -97.3882605
+- Phone: +18174264501
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Pulse Score: 48.1/100 — Building — top 45% of insurance agents in Burleson, TX, #2 of 3 insurance agents in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/farmers-insurance-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10956487827 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+First Impressions is a hair salon in Burleson, TX at 225 East Renfro Street #111, Burleson, TX 76028. Phone: +18172959955. Website: https://www.firstimpressionstx.com/contact-burleson-tx-hair-salon-spa/.
+
+# First Impressions
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 225 East Renfro Street #111, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5436123, -97.3166621
+- Phone: +18172959955
+- Website: https://www.firstimpressionstx.com/contact-burleson-tx-hair-salon-spa/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 56% of hair salons in Burleson, TX, #2 of 5 hair salons in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/first-impressions-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/first-impressions-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11517904997 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fossil Storage is a self-storage facility in Joshua, TX at 410 North Broadway Street, Joshua, TX 76058. Phone: +18886778672. Website: https://fossilstorage.com/.
+
+# Fossil Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 410 North Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4701268, -97.3835077
+- Phone: +18886778672
+- Website: https://fossilstorage.com/
+- Email: info@fossilstorage.com
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 15% of self-storage facilitys in Burleson, TX, #1 of 3 self-storage facilitys in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fossil-storage-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fossil-storage-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10956359180 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Gary Chandler, DPM is a podiatrist in Burleson, TX at 809 Southwest Alsbury Boulevard #4, Burleson, TX 76028. Phone: +18172953799.
+
+# Gary Chandler, DPM
+
+- Category: podiatrist
+- Services: podiatrist
+- Address: 809 Southwest Alsbury Boulevard #4, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5440457, -97.3491456
+- Phone: +18172953799
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 100% of podiatrists in Burleson, TX, #1 of 1 podiatrists in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gary-chandler-dpm-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gary-chandler-dpm-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10276971468 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Goodwill is a thrift store in Burleson, TX.
+
+# Goodwill
+
+- Category: thrift store
+- Services: thrift store
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.514329, -97.35282
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.4/100 — Building — top 100% of thrift stores in Burleson, TX, #4 of 4 thrift stores in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 40.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/712923633 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Great Clips is a hair salon in Joshua, TX at 1036 South Broadway Street #102, Joshua, TX 76058. Phone: +18174874788. Website: https://salons.greatclips.com/us/tx/joshua/1036-s-broadway-st.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1036 South Broadway Street #102, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4467899, -97.3848949
+- Phone: +18174874788
+- Website: https://salons.greatclips.com/us/tx/joshua/1036-s-broadway-st
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.2/100 — Building — top 78% of hair salons in Burleson, TX, #4 of 4 hair salons in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10965701420 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Gypsy Trunk & Fabulous Junk is a thrift store in Burleson, TX at 117 North Commerce Street, Burleson, TX 76028. Phone: +18174477467. Website: https://gypsy-trunk.business.site/.
+
+# Gypsy Trunk & Fabulous Junk
+
+- Category: thrift store
+- Services: thrift store
+- Address: 117 North Commerce Street, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5436095, -97.3204611
+- Phone: +18174477467
+- Website: https://gypsy-trunk.business.site/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 25% of thrift stores in Burleson, TX, #1 of 4 thrift stores in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gypsy-trunk-and-fabulous-junk-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gypsy-trunk-and-fabulous-junk-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/712920691 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H&R Block is a tax preparation service in Burleson, TX.
+
+# H&R Block
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5356318, -97.3366046
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.1/100 — Building — top 100% of tax preparation services in Burleson, TX, #1 of 1 tax preparation services in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-burleson-w909503785/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-r-block-burleson-w909503785.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503785 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H&R Block is a tax preparation service in Joshua, TX at 307 South Broadway Street, Joshua, TX 76058. Phone: +18176458383. Website: https://www.hrblock.com/tax-offices/local/texas-tax-preparation/joshua-tax-professionals/.
+
+# H&R Block
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 307 South Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4592453, -97.3838837
+- Phone: +18176458383
+- Website: https://www.hrblock.com/tax-offices/local/texas-tax-preparation/joshua-tax-professionals/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 50.3/100 — Fair — top 50% of tax preparation services in Burleson, TX, #1 of 1 tax preparation services in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-r-block-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10950879173 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Burleson, TX at 165 Northwest John Jones Drive, Burleson, TX 76028.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 165 Northwest John Jones Drive, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5215191, -97.3505013
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.8/100 — Building — top 75% of car washes in Burleson, TX, #2 of 3 car washes in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/491612201 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Harvest House Resale Store is a thrift store in Burleson, TX at 101 Northeast Wilshire Boulevard, Burleson, TX. Website: https://www.yourharvesthouse.org/resale-shop.
+
+# Harvest House Resale Store
+
+- Category: thrift store
+- Services: thrift store
+- Address: 101 Northeast Wilshire Boulevard, Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5458305, -97.3278626
+- Phone: n/a
+- Website: https://www.yourharvesthouse.org/resale-shop
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 50% of thrift stores in Burleson, TX, #2 of 4 thrift stores in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/harvest-house-resale-store-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/harvest-house-resale-store-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11491102191 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Haute Head Salon is a hair salon in Burleson, TX at 2650 Southwest Wilshire Boulevard #200, Burleson, TX 76028. Phone: +18176159680. Website: https://thehauteheadsalon.com/.
+
+# Haute Head Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 2650 Southwest Wilshire Boulevard #200, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.4988295, -97.3676612
+- Phone: +18176159680
+- Website: https://thehauteheadsalon.com/
+- Email: Melissa@thehauteheadsalon.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 64.1/100 — Good — top 12% of hair salons in Burleson, TX, #1 of 5 hair salons in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/haute-head-salon-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/haute-head-salon-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11484434191 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Henslee Insurance Agency is an insurance agent in Joshua, TX at 474 North Broadway Street #A, Joshua, TX 76058. Phone: +18174472771. Website: https://www.hensleeinsurance.com/.
+
+# Henslee Insurance Agency
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 474 North Broadway Street #A, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4772274, -97.38044
+- Phone: +18174472771
+- Website: https://www.hensleeinsurance.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 12% of insurance agents in Burleson, TX, #1 of 3 insurance agents in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/henslee-insurance-agency-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/henslee-insurance-agency-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10957713393 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+iKids Pediatric Dentistry is a dentist in Burleson, TX at 1009 Southwest Alsbury Boulevard, Burleson, TX 76028. Phone: +18172951144. Website: https://www.ikidsdental.com/location/burleson/.
+
+# iKids Pediatric Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 1009 Southwest Alsbury Boulevard, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.540768, -97.3585701
+- Phone: +18172951144
+- Website: https://www.ikidsdental.com/location/burleson/
+- Email: ikids.burleson@d4c.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 34% of dentists in Burleson, TX, #4 of 10 dentists in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ikids-pediatric-dentistry-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ikids-pediatric-dentistry-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1123770398 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+J Duncanson Roofing is a roofer in Joshua, TX at 625 North Broadway Street, Joshua, TX 76058. Phone: +18174209813. Website: https://www.jduncansonroofing.com/.
+
+# J Duncanson Roofing
+
+- Category: roofer
+- Services: roofer, roofing contractor
+- Address: 625 North Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4842236, -97.3781671
+- Phone: +18174209813
+- Website: https://www.jduncansonroofing.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 100% of roofers in Burleson, TX, #1 of 1 roofers in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/j-duncanson-roofing-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/j-duncanson-roofing-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/711175822 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jett Sett Salon and Suites is a hair salon in Joshua, TX at 3509 Southwest Wilshire Boulevard, Joshua, TX 76058. Phone: +18179911314. Website: https://www.jettsettsalon.com/.
+
+# Jett Sett Salon and Suites
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 3509 Southwest Wilshire Boulevard, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4834453, -97.3773867
+- Phone: +18179911314
+- Website: https://www.jettsettsalon.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 34% of hair salons in Burleson, TX, #2 of 4 hair salons in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jett-sett-salon-and-suites-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jett-sett-salon-and-suites-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10959763492 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Joshua Animal Clinic is a veterinarian in Joshua, TX at 635 North Broadway Street, Joshua, TX.
+
+# Joshua Animal Clinic
+
+- Category: vet
+- Services: vet
+- Address: 635 North Broadway Street, Joshua, TX
+- City: Joshua
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4849434, -97.3778511
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in Burleson, TX, #3 of 3 veterinarians in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/joshua-animal-clinic-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/joshua-animal-clinic-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/711176692 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Joshua Chiropractic is a chiropractor in Joshua, TX. Phone: +18174842707. Website: https://www.joshuachiropractic.com/.
+
+# Joshua Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: Joshua, TX
+- City: Joshua
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.48325, -97.3785891
+- Phone: +18174842707
+- Website: https://www.joshuachiropractic.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 100% of chiropractors in Burleson, TX, #1 of 1 chiropractors in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/joshua-chiropractic-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/joshua-chiropractic-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1179899316 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Joshua Family Dentistry is a dentist in Joshua, TX at 3513 Southwest Wilshire Boulevard, Joshua, TX 76058. Phone: +18172954500.
+
+# Joshua Family Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 3513 Southwest Wilshire Boulevard, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4829536, -97.3777099
+- Phone: +18172954500
+- Website: n/a
+- Email: joshua@oldbetsydental.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 59% of dentists in Burleson, TX, #2 of 2 dentists in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/joshua-family-dentistry-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/joshua-family-dentistry-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/712927050 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Joshua Lube & Tune is an auto repair shop in Joshua, TX at 725 South Broadway Street, Joshua, TX 76058. Phone: +18177744161. Website: https://joshualubeandtune.com/.
+
+# Joshua Lube & Tune
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change, brake repair
+- Address: 725 South Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4522056, -97.3839124
+- Phone: +18177744161
+- Website: https://joshualubeandtune.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 7% of auto repair shops in Burleson, TX, #1 of 7 auto repair shops in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/joshua-lube-and-tune-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/joshua-lube-and-tune-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/714082536 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Joshua Storage Depot is a self-storage facility in Joshua, TX at 100 West James Street, Joshua, TX 76058. Phone: +18175878896. Website: https://www.joshuastoragedepot.com/100-w-james-st-joshua-tx-76058.
+
+# Joshua Storage Depot
+
+- Category: storage units
+- Services: storage units
+- Address: 100 West James Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4675483, -97.3892804
+- Phone: +18175878896
+- Website: https://www.joshuastoragedepot.com/100-w-james-st-joshua-tx-76058
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 43% of self-storage facilitys in Burleson, TX, #2 of 3 self-storage facilitys in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/joshua-storage-depot-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/joshua-storage-depot-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1237523000 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Joshua Storage is a self-storage facility in Joshua, TX at 944 South Broadway Street, Joshua, TX 76058. Phone: +18174261455. Website: https://burlesonstorage.com/joshua-location/.
+
+# Joshua Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 944 South Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4495408, -97.3853415
+- Phone: +18174261455
+- Website: https://burlesonstorage.com/joshua-location/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 58% of self-storage facilitys in Burleson, TX, #3 of 3 self-storage facilitys in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/joshua-storage-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/joshua-storage-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/711175199 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Joshua Tire is a tire shop in Joshua, TX at 521 South Broadway Street, Joshua, TX 76058. Phone: +18175562150. Website: https://www.joshuatire.net/.
+
+# Joshua Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 521 South Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4543666, -97.383954
+- Phone: +18175562150
+- Website: https://www.joshuatire.net/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 67% of tire shops in Burleson, TX, #2 of 2 tire shops in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/joshua-tire-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/joshua-tire-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/714082068 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kid to Kid is a thrift store in Burleson, TX at 251 Southwest Wilshire Boulevard #115, Burleson, TX 76028. Phone: +18174261182. Website: https://kidtokid.com/location/burleson/.
+
+# Kid to Kid
+
+- Category: thrift store
+- Services: thrift store
+- Address: 251 Southwest Wilshire Boulevard #115, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5422, -97.329281
+- Phone: +18174261182
+- Website: https://kidtokid.com/location/burleson/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 49/100 — Building — top 75% of thrift stores in Burleson, TX, #3 of 4 thrift stores in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kid-to-kid-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kid-to-kid-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11492412751 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Killen & Dennis, PC is a lawyer in Burleson, TX at 104 South Main Street, Burleson, TX 76028. Website: https://www.kdlawpc.com/.
+
+# Killen & Dennis, PC
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 104 South Main Street, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5427666, -97.3211497
+- Phone: n/a
+- Website: https://www.kdlawpc.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Burleson, TX, #1 of 1 lawyers in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/killen-and-dennis-pc-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/killen-and-dennis-pc-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11517953090 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kuperman Orthodontics is a dentist in Burleson, TX at 240 Southwest Wilshire Boulevard, Burleson, TX 76028. Phone: +18172957124. Website: https://kupermanortho.com/.
+
+# Kuperman Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: 240 Southwest Wilshire Boulevard, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5430201, -97.3304627
+- Phone: +18172957124
+- Website: https://kupermanortho.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 07:30-16:30, Fr 08:00-24:00
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 25% of dentists in Burleson, TX, #3 of 10 dentists in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kuperman-orthodontics-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kuperman-orthodontics-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5287008750 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lavish Nail Lounge is a nail salon in Joshua, TX at 1036 South Broadway Street #100, Joshua, TX 76058. Phone: +18174874488.
+
+# Lavish Nail Lounge
+
+- Category: nail salon
+- Services: nail salon
+- Address: 1036 South Broadway Street #100, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4468626, -97.384897
+- Phone: +18174874488
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 62.4/100 — Good — top 15% of nail salons in Burleson, TX, #1 of 2 nail salons in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lavish-nail-lounge-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lavish-nail-lounge-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10965701421 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lopez Tire Shop and Auto Repair is an auto repair shop in Joshua, TX at 629 North Broadway Street, Joshua, TX 76058.
+
+# Lopez Tire Shop and Auto Repair
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 629 North Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4845412, -97.377991
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 60% of auto repair shops in Burleson, TX, #7 of 7 auto repair shops in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lopez-tire-shop-and-auto-repair-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lopez-tire-shop-and-auto-repair-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/711175476 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Main Street Parlor is a hair salon in Joshua, TX at 101 North Main Street #C, Joshua, TX 76058. Phone: +18175265696. Website: https://www.mainstreetparlor.com/.
+
+# Main Street Parlor
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 101 North Main Street #C, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4617221, -97.3887407
+- Phone: +18175265696
+- Website: https://www.mainstreetparlor.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 45% of hair salons in Burleson, TX, #3 of 4 hair salons in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/main-street-parlor-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/main-street-parlor-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10956441074 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mattress Firm is a mattress store in Burleson, TX at 260 NorthWest John Jones Road, Burleson, TX 76028. Phone: +18174477772. Website: https://www.mattressfirm.com/en-us/stores/tx/burleson/002138/.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: 260 NorthWest John Jones Road, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5237441, -97.350927
+- Phone: +18174477772
+- Website: https://www.mattressfirm.com/en-us/stores/tx/burleson/002138/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.2/100 — Building — top 100% of mattress stores in Burleson, TX, #1 of 1 mattress stores in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-firm-burleson-w909503831/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-firm-burleson-w909503831.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503831 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Monarch Dental is a dentist in Burleson, TX.
+
+# Monarch Dental
+
+- Category: dentist
+- Services: dentist
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.522972, -97.3481495
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.5/100 — Building — top 100% of dentists in Burleson, TX, #10 of 10 dentists in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/monarch-dental-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/monarch-dental-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503824 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Murry Bakery is a bakery in Burleson, TX at 124 West Renfro Street #200, Burleson, TX 76028. Phone: +16824996602. Website: https://www.murrybakery.com/.
+
+# Murry Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: 124 West Renfro Street #200, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5431527, -97.3225476
+- Phone: +16824996602
+- Website: https://www.murrybakery.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Burleson, TX, #2 of 2 bakerys in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/murry-bakery-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/murry-bakery-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11518320489 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+National Tire and Battery is an auto repair shop in Burleson, TX. Website: https://www.ntb.com/store/tx/burleson/1075-sw-wilshire-blvd-76028/4439.
+
+# National Tire and Battery
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5266407, -97.3415475
+- Phone: n/a
+- Website: https://www.ntb.com/store/tx/burleson/1075-sw-wilshire-blvd-76028/4439
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.1/100 — Building — top 100% of auto repair shops in Burleson, TX, #7 of 7 auto repair shops in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/national-tire-and-battery-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/national-tire-and-battery-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667757328 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+NEXGEN Heating and Air Conditioning is a HVAC contractor in Joshua, TX at 108 North Broadway Street, Joshua, TX 76058. Phone: +18178936010. Website: https://nexgen-air.com/.
+
+# NEXGEN Heating and Air Conditioning
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: 108 North Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4628007, -97.3839391
+- Phone: +18178936010
+- Website: https://nexgen-air.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Burleson, TX, #1 of 1 HVAC contractors in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/nexgen-heating-and-air-conditioning-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nexgen-heating-and-air-conditioning-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1178774347 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Orthodontics by Birth and Fletcher is a dentist in Burleson, TX at 109 West Renfro Street, Burleson, TX 76028. Website: https://www.bsfortho.com/locations/burleson-orthodontist/.
+
+# Orthodontics by Birth and Fletcher
+
+- Category: dentist
+- Services: dentist
+- Address: 109 West Renfro Street, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5429006, -97.3211572
+- Phone: n/a
+- Website: https://www.bsfortho.com/locations/burleson-orthodontist/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 67% of dentists in Burleson, TX, #6 of 10 dentists in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/orthodontics-by-birth-and-fletcher-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/orthodontics-by-birth-and-fletcher-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11517953093 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Palace Nails and Spa is a nail salon in Burleson, TX at 817 Southwest Alsbury Boulevard, Burleson, TX. Phone: +18172957879.
+
+# Palace Nails and Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: 817 Southwest Alsbury Boulevard, Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5436423, -97.3496949
+- Phone: +18172957879
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.4/100 — Good — top 43% of nail salons in Burleson, TX, #2 of 5 nail salons in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/palace-nails-and-spa-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/palace-nails-and-spa-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11505010121 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Petco is a pet store in Burleson, TX at 250 Northwest John Jones Drive, Burleson, TX 76028. Phone: +18174477288. Website: https://stores.petco.com/tx/burleson/pet-supplies-burleson-tx-2432.html.
+
+# Petco
+
+- Category: pet store
+- Services: pet store
+- Address: 250 Northwest John Jones Drive, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5243337, -97.3499537
+- Phone: +18174477288
+- Website: https://stores.petco.com/tx/burleson/pet-supplies-burleson-tx-2432.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
+- Pulse Score: 47.3/100 — Building — top 50% of pet stores in Burleson, TX, #1 of 2 pet stores in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petco-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petco-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503801 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Petinary Services is a veterinarian in Joshua, TX at 115 North Main Street, Joshua, TX 76058. Phone: +18175265378. Website: https://www.petinaryservices.com/.
+
+# Petinary Services
+
+- Category: vet
+- Services: vet
+- Address: 115 North Main Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4622808, -97.3888027
+- Phone: +18175265378
+- Website: https://www.petinaryservices.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 34% of veterinarians in Burleson, TX, #1 of 3 veterinarians in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petinary-services-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petinary-services-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/711177311 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Polos Transmissions is an auto repair shop in Joshua, TX at 102 North Broadway Street, Joshua, TX 76058.
+
+# Polos Transmissions
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 102 North Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4622883, -97.3839003
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 54% of auto repair shops in Burleson, TX, #6 of 7 auto repair shops in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/polos-transmissions-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/polos-transmissions-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/712926482 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Post & Print is a printing service in Joshua, TX at 305 East 12th Street #B, Joshua, TX 76058. Phone: +18174874077. Website: https://shippingandmailboxstorejoshua.net/.
+
+# Post & Print
+
+- Category: printing services
+- Services: printing services
+- Address: 305 East 12th Street #B, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4619769, -97.3854067
+- Phone: +18174874077
+- Website: https://shippingandmailboxstorejoshua.net/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of printing services in Burleson, TX, #1 of 1 printing services in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/post-and-print-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/post-and-print-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10956545246 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Punkin Patch Daycare is a daycare in Joshua, TX at 514 North Broadway Street, Joshua, TX 76058. Phone: +18172956871. Website: https://www.punkinpatchloveskids.com/joshua.html.
+
+# Punkin Patch Daycare
+
+- Category: daycare
+- Services: daycare
+- Address: 514 North Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.480062, -97.3790942
+- Phone: +18172956871
+- Website: https://www.punkinpatchloveskids.com/joshua.html
+- Email: Amanda@punkinpatchloveskids.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 100% of daycares in Burleson, TX, #1 of 1 daycares in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/punkin-patch-daycare-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/punkin-patch-daycare-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10957853531 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Refugio Repair Shop is an auto repair shop in Burleson, TX.
+
+# Refugio Repair Shop
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4801315, -97.277999
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 74% of auto repair shops in Burleson, TX, #4 of 7 auto repair shops in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/refugio-repair-shop-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/refugio-repair-shop-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/712926908 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Seabert Eye Care is an eye care practice in Burleson, TX at 1305 Hillside Drive, Burleson, TX 76028. Phone: +18178578700. Website: https://www.seaberteyecare.com/.
+
+# Seabert Eye Care
+
+- Category: eye doctor
+- Services: eye doctor
+- Address: 1305 Hillside Drive, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5297983, -97.3530865
+- Phone: +18178578700
+- Website: https://www.seaberteyecare.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 67% of eye care practices in Burleson, TX, #2 of 3 eye care practices in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/seabert-eye-care-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/seabert-eye-care-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11501339817 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Silver Car Wash is a car wash in Burleson, TX at 2475 Southwest Wilshire Boulevard, Burleson, TX 76028. Website: https://silver-car-wash.edan.io/.
+
+# Silver Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 2475 Southwest Wilshire Boulevard, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.499701, -97.3654117
+- Phone: n/a
+- Website: https://silver-car-wash.edan.io/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 25% of car washes in Burleson, TX, #1 of 3 car washes in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/silver-car-wash-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/silver-car-wash-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1238696408 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Smile Express Family Dentistry is a dentist in Joshua, TX at 443 South Broadway Street #A, Joshua, TX 76058. Phone: +16823179342. Website: https://smileexpressdentistry.com/.
+
+# Smile Express Family Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 443 South Broadway Street #A, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4577497, -97.3838638
+- Phone: +16823179342
+- Website: https://smileexpressdentistry.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 42% of dentists in Burleson, TX, #1 of 2 dentists in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/smile-express-family-dentistry-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/smile-express-family-dentistry-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10949958808 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+SNAP Tire and Car Care is an auto repair shop in Joshua, TX at 204 North Broadway Street, Joshua, TX 76058. Phone: +18175265375.
+
+# SNAP Tire and Car Care
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change
+- Address: 204 North Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4644375, -97.3840038
+- Phone: +18175265375
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 27% of auto repair shops in Burleson, TX, #3 of 7 auto repair shops in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/snap-tire-and-car-care-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/snap-tire-and-car-care-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/712927076 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Solar Nail Spa is a nail salon in Burleson, TX at 140 Northwest John Jones Drive, Burleson, TX 76028.
+
+# Solar Nail Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: 140 Northwest John Jones Drive, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5231754, -97.3484341
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 72% of nail salons in Burleson, TX, #3 of 5 nail salons in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/solar-nail-spa-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/solar-nail-spa-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503821 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Splash Car Wash is a car wash in Joshua, TX at 426 North Broadway Street, Joshua, TX 76058.
+
+# Splash Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 426 North Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4711844, -97.38338
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.2/100 — Building — top 50% of car washes in Burleson, TX, #1 of 1 car washes in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/splash-car-wash-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/splash-car-wash-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1179637253 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sport Clips is a hair salon in Burleson, TX.
+
+# Sport Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5231081, -97.3480933
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.8/100 — Building — top 100% of hair salons in Burleson, TX, #5 of 5 hair salons in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sport-clips-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sport-clips-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503827 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Star Retina is an eye care practice in Burleson, TX at 2780 Southwest Wilshire Boulevard, Burleson, TX 76028. Website: https://starretina.com/burleson/.
+
+# Star Retina
+
+- Category: eye doctor
+- Services: eye doctor
+- Address: 2780 Southwest Wilshire Boulevard, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.4967876, -97.3693174
+- Phone: n/a
+- Website: https://starretina.com/burleson/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Burleson, TX, #3 of 3 eye care practices in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/star-retina-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/star-retina-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11483817232 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+State Farm is an insurance agent in Burleson, TX.
+
+# State Farm
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5407216, -97.3295454
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.8/100 — Building — top 89% of insurance agents in Burleson, TX, #5 of 6 insurance agents in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-farm-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-farm-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667762829 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+State Farm is an insurance agent in Burleson, TX.
+
+# State Farm
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.536631, -97.3372958
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.8/100 — Building — top 100% of insurance agents in Burleson, TX, #6 of 6 insurance agents in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-farm-burleson-w909503833/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-farm-burleson-w909503833.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503833 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+State Farm is an insurance agent in Joshua, TX at 309 South Broadway Street, Joshua, TX 76058. Phone: +18175581000. Website: https://www.jamyekelley.com/.
+
+# State Farm
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 309 South Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4591664, -97.3838817
+- Phone: +18175581000
+- Website: https://www.jamyekelley.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.1/100 — Building — top 56% of insurance agents in Burleson, TX, #3 of 3 insurance agents in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-farm-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-farm-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10950879172 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Stonehaven Dental & Orthodontics is a dentist in Burleson, TX at 225 East Renfro Street #109, Burleson, TX 76028. Website: https://thestonehavendental.com/burleson/.
+
+# Stonehaven Dental & Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: 225 East Renfro Street #109, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5436041, -97.3167902
+- Phone: n/a
+- Website: https://thestonehavendental.com/burleson/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 75% of dentists in Burleson, TX, #7 of 10 dentists in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/stonehaven-dental-and-orthodontics-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/stonehaven-dental-and-orthodontics-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11517904998 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Storage Depot is a self-storage facility in Burleson, TX at 825 West Hidden Creek Parkway, Burleson, TX. Phone: +18174022282. Website: https://www.storagedepotdfw.com/location/US/TX/Burleson/depot-burleson/.
+
+# Storage Depot
+
+- Category: storage units
+- Services: storage units
+- Address: 825 West Hidden Creek Parkway, Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5276397, -97.3359969
+- Phone: +18174022282
+- Website: https://www.storagedepotdfw.com/location/US/TX/Burleson/depot-burleson/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47/100 — Building — top 86% of self-storage facilitys in Burleson, TX, #3 of 4 self-storage facilitys in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/storage-depot-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/storage-depot-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11516919810 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sunny's Nails is a nail salon in Joshua, TX at 103 Conveyor Drive #2, Joshua, TX 76058. Phone: +18175263069.
+
+# Sunny's Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: 103 Conveyor Drive #2, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4618385, -97.3833676
+- Phone: +18175263069
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 58% of nail salons in Burleson, TX, #2 of 2 nail salons in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sunnys-nails-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sunnys-nails-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10951041845 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Supercuts is a hair salon in Burleson, TX at 140 Northwest John Jones Drive, Burleson, TX 76028.
+
+# Supercuts
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 140 Northwest John Jones Drive, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5231461, -97.3483931
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-19:00, Sa 09:00-18:00, Su 12:00-18:00
+- Pulse Score: 44.8/100 — Building — top 89% of hair salons in Burleson, TX, #4 of 5 hair salons in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/supercuts-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/supercuts-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503822 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Team Hoover Automotive is an auto repair shop in Burleson, TX.
+
+# Team Hoover Automotive
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5462055, -97.3168395
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 80% of auto repair shops in Burleson, TX, #5 of 7 auto repair shops in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/team-hoover-automotive-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/team-hoover-automotive-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/712921741 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texas Black Belt Academy is a martial arts school in Burleson, TX at 1016 Southwest Alsbury Boulevard, Burleson, TX 76028. Phone: +18174206697. Website: https://www.txblackbeltacademy.com/burleson.
+
+# Texas Black Belt Academy
+
+- Category: martial arts
+- Services: martial arts
+- Address: 1016 Southwest Alsbury Boulevard, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5401545, -97.3607084
+- Phone: +18174206697
+- Website: https://www.txblackbeltacademy.com/burleson
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 34% of martial arts schools in Burleson, TX, #1 of 3 martial arts schools in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-black-belt-academy-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-black-belt-academy-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11503781124 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texas Coalition for Animal Protection is a veterinarian in Joshua, TX. Phone: +19405665551. Website: https://www.texasforthem.org/.
+
+# Texas Coalition for Animal Protection
+
+- Category: vet
+- Services: vet
+- Address: Joshua, TX
+- City: Joshua
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4609086, -97.383192
+- Phone: +19405665551
+- Website: https://www.texasforthem.org/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 67% of veterinarians in Burleson, TX, #2 of 3 veterinarians in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-coalition-for-animal-protection-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-coalition-for-animal-protection-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13027432001 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texas Health Fitness Center Burleson is a gym in Burleson, TX at 2750 Southwest Wilshire Boulevard, Burleson, TX 76028. Phone: +18177828080. Website: https://www.texashealth.org/Health-and-Wellness/Fitness/Burleson.
+
+# Texas Health Fitness Center Burleson
+
+- Category: gym
+- Services: gym
+- Address: 2750 Southwest Wilshire Boulevard, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.4982146, -97.3694166
+- Phone: +18177828080
+- Website: https://www.texashealth.org/Health-and-Wellness/Fitness/Burleson
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 34% of gyms in Burleson, TX, #1 of 1 gyms in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-health-fitness-center-burleson-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-health-fitness-center-burleson-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11483561784 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texas Secure Title Company is an insurance agent in Burleson, TX at 240 East Renfro Street #100, Burleson, TX. Phone: +16824630234. Website: https://texassecuretitle.com/burleson/.
+
+# Texas Secure Title Company
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 240 East Renfro Street #100, Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5431997, -97.3164501
+- Phone: +16824630234
+- Website: https://texassecuretitle.com/burleson/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 23% of insurance agents in Burleson, TX, #1 of 6 insurance agents in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-secure-title-company-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-secure-title-company-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14204745000 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texas Tires is a tire shop in Burleson, TX at 241 Northeast Wilshire Boulevard, Burleson, TX. Website: https://www.texastires18.com/.
+
+# Texas Tires
+
+- Category: tire shop
+- Services: tire shop
+- Address: 241 Northeast Wilshire Boulevard, Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5478638, -97.3253021
+- Phone: n/a
+- Website: https://www.texastires18.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.4/100 — Building — top 100% of tire shops in Burleson, TX, #1 of 1 tire shops in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-tires-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-tires-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667511751 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Mechanic Shop is an auto repair shop in Johnson County, TX.
+
+# The Mechanic Shop
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Johnson County, TX
+- City: Johnson County
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.4570824, -97.284695
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 87% of auto repair shops in Burleson, TX, #1 of 1 auto repair shops in Johnson County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-mechanic-shop-johnson-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-mechanic-shop-johnson-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13260447277 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Pines Pet Pampering is a dog boarding facility in Joshua, TX at 609 North Broadway Street, Joshua, TX 76058. Phone: +18178750087. Website: https://www.thepinespet.com/.
+
+# The Pines Pet Pampering
+
+- Category: dog boarding
+- Services: dog boarding
+- Address: 609 North Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.482931, -97.3788243
+- Phone: +18178750087
+- Website: https://www.thepinespet.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 100% of dog boarding facilitys in Burleson, TX, #1 of 1 dog boarding facilitys in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-pines-pet-pampering-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-pines-pet-pampering-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/711175527 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Thunder Alley Cycles is a motorcycle repair shop in Joshua, TX at 1517 South Broadway Street, Joshua, TX 76058. Phone: +18175562883. Website: https://thunderalleycycle.com/.
+
+# Thunder Alley Cycles
+
+- Category: motorcycle repair
+- Services: motorcycle repair
+- Address: 1517 South Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4390829, -97.3831091
+- Phone: +18175562883
+- Website: https://thunderalleycycle.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 100% of motorcycle repair shops in Burleson, TX, #1 of 1 motorcycle repair shops in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/thunder-alley-cycles-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/thunder-alley-cycles-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/714080448 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tire Depot is a tire shop in Joshua, TX at 456 North Broadway Street, Joshua, TX 76058. Phone: +18176159819. Website: https://tdtiredepot.com/.
+
+# Tire Depot
+
+- Category: tire shop
+- Services: tire shop
+- Address: 456 North Broadway Street, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4744182, -97.3817462
+- Phone: +18176159819
+- Website: https://tdtiredepot.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 34% of tire shops in Burleson, TX, #1 of 2 tire shops in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tire-depot-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tire-depot-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/712922963 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Toledo Finance is a financial advisor in Burleson, TX.
+
+# Toledo Finance
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5406429, -97.3326194
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 50% of financial advisors in Burleson, TX, #1 of 1 financial advisors in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/toledo-finance-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/toledo-finance-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13013910571 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Top Texas Realty is a real estate agency in Burleson, TX at 217 W Bufford St, Burleson, TX 76028. Phone: +18177448300. Website: https://www.toptexasrealty.com/.
+
+# Top Texas Realty
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 217 W Bufford St, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.540778, -97.3237514
+- Phone: +18177448300
+- Website: https://www.toptexasrealty.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 50% of real estate agencys in Burleson, TX, #1 of 1 real estate agencys in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/top-texas-realty-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/top-texas-realty-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5822135985 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Total Cuts is a hair salon in Joshua, TX at 443 South Broadway Street #C, Joshua, TX 76058. Phone: +18174874000.
+
+# Total Cuts
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 443 South Broadway Street #C, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.4575531, -97.3838616
+- Phone: +18174874000
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61/100 — Good — top 23% of hair salons in Burleson, TX, #1 of 4 hair salons in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/total-cuts-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/total-cuts-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10949958805 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Venus Nail Spa is a nail salon in Burleson, TX.
+
+# Venus Nail Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5334853, -97.3355657
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 86% of nail salons in Burleson, TX, #4 of 5 nail salons in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/venus-nail-spa-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/venus-nail-spa-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503794 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+White's Collision Repair is an auto repair shop in Burleson, TX.
+
+# White's Collision Repair
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5202114, -97.3056609
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 94% of auto repair shops in Burleson, TX, #6 of 7 auto repair shops in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/whites-collision-repair-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/whites-collision-repair-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13260511748 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wild Birds Unlimited is a pet store in Burleson, TX.
+
+# Wild Birds Unlimited
+
+- Category: pet store
+- Services: pet store
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5232569, -97.3479447
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.6/100 — Building — top 100% of pet stores in Burleson, TX, #2 of 2 pet stores in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wild-birds-unlimited-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wild-birds-unlimited-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503820 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wilshire Senior Living is an assisted living facility in Burleson, TX at 1600 Greenridge Drive, Burleson, TX 76028. Phone: +18172524007. Website: https://wilshireseniorliving.com/.
+
+# Wilshire Senior Living
+
+- Category: assisted living
+- Services: assisted living
+- Address: 1600 Greenridge Drive, Burleson, TX 76028
+- City: Burleson
+- State: TX
+- ZIP: 76028
+- Coordinates: 32.5206118, -97.3559384
+- Phone: +18172524007
+- Website: https://wilshireseniorliving.com/
+- Email: info@wilshireseniorliving.com
+- Opening hours (OSM syntax): Mo-Su 08:00-18:00
+- Pulse Score: 63.7/100 — Good — top 100% of assisted living facilitys in Burleson, TX, #1 of 1 assisted living facilitys in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wilshire-senior-living-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wilshire-senior-living-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1237851784 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+World Gym is a gym in Joshua, TX at 3300 Southwest Wilshire Boulevard, Joshua, TX 76058. Phone: +18174063863. Website: https://www.worldgym.com/burleson/.
+
+# World Gym
+
+- Category: gym
+- Services: gym
+- Address: 3300 Southwest Wilshire Boulevard, Joshua, TX 76058
+- City: Joshua
+- State: TX
+- ZIP: 76058
+- Coordinates: 32.488094, -97.3763125
+- Phone: +18174063863
+- Website: https://www.worldgym.com/burleson/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.2/100 — Building — top 100% of gyms in Burleson, TX, #2 of 2 gyms in Joshua (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/world-gym-joshua/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/world-gym-joshua.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/711177157 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Yong Tailor & Alteration is a tailor in Burleson, TX.
+
+# Yong Tailor & Alteration
+
+- Category: tailor
+- Services: tailor
+- Address: Burleson, TX
+- City: Burleson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.5355529, -97.3365166
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of tailors in Burleson, TX, #1 of 1 tailors in Burleson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/yong-tailor-and-alteration-burleson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/yong-tailor-and-alteration-burleson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/909503782 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

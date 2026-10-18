@@ -13,7 +13,7 @@ Safelite AutoGlass is an auto repair shop in Hutchinson, KS at 1700 North Plum S
 - Website: https://www.safelite.com/stores/Hutchinson
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-13:00
-- Pulse Score: 47.5/100 — Building — top 72% of auto repair shops in Wichita, KS, #8 of 9 auto repair shops in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 72% of auto repair shops in Wichita, KS, #8 of 9 auto repair shops in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Defense Plumbing is a plumber in Denver, CO at 2710 West 1st Avenue #J, Denver, 
 - Website: https://www.defenseplumbing.com/
 - Email: Office@defenseplumbing.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 18% of plumbers in Denver, CO, #2 of 8 plumbers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 18% of plumbers in Denver, CO, #2 of 8 plumbers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

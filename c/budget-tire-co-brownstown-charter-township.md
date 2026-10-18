@@ -13,7 +13,7 @@ Budget Tire Co. is a tire shop in Brownstown Charter Township, MI at 19800 Allen
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.2/100 — Unrated (not enough evidence yet) — top 52% of tire shops in Detroit, MI, #1 of 2 tire shops in Brownstown Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.2/100 — Unrated (not enough evidence yet) — top 52% of tire shops in Detroit, MI, #1 of 2 tire shops in Brownstown Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Saint Joseph, MO at 1815 North Belt Highway
 - Website: https://palmbeachtan.com/locations/mo/st-joseph-north-belt-highway
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 100% of tanning salons in St. Joseph, MO, #1 of 1 tanning salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 100% of tanning salons in St. Joseph, MO, #1 of 1 tanning salons in Saint Joseph (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

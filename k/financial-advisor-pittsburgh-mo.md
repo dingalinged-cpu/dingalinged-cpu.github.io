@@ -6,7 +6,7 @@ Also answers: financial advisor in Pittsburgh, MO; financial advisor near me (Pi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | Organic #1 | Pulse Score 52.2/100 (Fair, #4 in city) | Edward Jones is a financial advisor in Pittsburgh, MO at 190 Bilmar Drive #200, Pittsburgh, MO. Phone: +17245977131. Website: https://www.edwardjones.com/us-en/financial-advisor/courtney-mitchko. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-pittsburgh-n13939565284/
+1. Edward Jones | Organic #1 | Pulse Score 52.1/100 (Fair, #4 in city) | Edward Jones is a financial advisor in Pittsburgh, MO at 190 Bilmar Drive #200, Pittsburgh, MO. Phone: +17245977131. Website: https://www.edwardjones.com/us-en/financial-advisor/courtney-mitchko. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-pittsburgh-n13939565284/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor pittsburgh mo | category: Professional & financial services | industry benchmark: Finance & Insurance

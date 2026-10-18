@@ -6,7 +6,7 @@ Also answers: massage in Jefferson City, MO; massage near me (Jefferson City, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. N2 Serenity Therapeutic Massage | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | N2 Serenity Therapeutic Massage is a massage studio in Jefferson City, MO at 314 Jefferson Street, Jefferson City, MO. Phone: +15736161809. Website: https://www.n2totalserenity.com/. | https://registry-edge.dingalinged.workers.dev/c/n2-serenity-therapeutic-massage-jefferson-city/
+1. N2 Serenity Therapeutic Massage | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | N2 Serenity Therapeutic Massage is a massage studio in Jefferson City, MO at 314 Jefferson Street, Jefferson City, MO. Phone: +15736161809. Website: https://www.n2totalserenity.com/. | https://registry-edge.dingalinged.workers.dev/c/n2-serenity-therapeutic-massage-jefferson-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage jefferson city mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

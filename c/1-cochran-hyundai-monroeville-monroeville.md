@@ -13,7 +13,7 @@
 - Website: https://www.cochranhyundaimonroeville.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00; Su off
-- Pulse Score: 48.5/100 — Building — top 69% of used car dealers in Pittsburgh, PA, #4 of 8 used car dealers in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 69% of used car dealers in Pittsburgh, PA, #4 of 8 used car dealers in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

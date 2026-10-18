@@ -6,7 +6,7 @@ Also answers: storage units in Ohio Township, PA; storage units near me (Ohio To
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CubeSmart | Organic #1 | Pulse Score 47.6/100 (Building, #10 in city) | CubeSmart is a self-storage facility in Pittsburgh, PA at 150 Arndt Road, Pittsburgh, PA 15237. Phone: +14123677715. | https://registry-edge.dingalinged.workers.dev/c/cubesmart-pittsburgh/
+1. CubeSmart | Organic #1 | Pulse Score 47.5/100 (Building, #10 in city) | CubeSmart is a self-storage facility in Pittsburgh, PA at 150 Arndt Road, Pittsburgh, PA 15237. Phone: +14123677715. | https://registry-edge.dingalinged.workers.dev/c/cubesmart-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units ohio township pa | category: Home services - Moving | industry benchmark: Home & Home Improvement

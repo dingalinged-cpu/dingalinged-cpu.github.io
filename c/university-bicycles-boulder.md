@@ -13,7 +13,7 @@ University Bicycles is a bike shop in Boulder, CO at 839 Pearl Street, Boulder, 
 - Website: https://www.ubikes.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 10:00-17:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 8% of bike shops in Denver, CO, #4 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 8% of bike shops in Denver, CO, #4 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

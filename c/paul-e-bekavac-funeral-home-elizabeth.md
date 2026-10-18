@@ -13,7 +13,7 @@ Paul E Bekavac Funeral Home is a funeral home in Elizabeth, PA at 221 2nd Avenue
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 41% of funeral homes in Pittsburgh, PA, #1 of 1 funeral homes in Elizabeth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 41% of funeral homes in Pittsburgh, PA, #1 of 1 funeral homes in Elizabeth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

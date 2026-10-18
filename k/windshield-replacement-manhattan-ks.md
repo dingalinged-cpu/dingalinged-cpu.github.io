@@ -6,7 +6,7 @@ Also answers: windshield replacement in Manhattan, KS; windshield replacement ne
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Safelite AutoGlass | Organic #1 | Pulse Score 42.7/100 (Building, #17 in city) | Safelite AutoGlass is an auto repair shop in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/safelite-autoglass-manhattan/
+1. Safelite AutoGlass | Organic #1 | Pulse Score 42.6/100 (Building, #17 in city) | Safelite AutoGlass is an auto repair shop in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/safelite-autoglass-manhattan/
 
 ## Market data (for advertisers and agents)
 - Keyword: windshield replacement manhattan ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Meemic Insurance Company is an insurance agent in Fraser, MI at 17713 East 14 Mi
 - Website: https://locator.meemic.com/mi/fraser/john-burke-agency
 - Email: John.Burke@Meemic.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 5% of insurance agents in Detroit, MI, #1 of 4 insurance agents in Fraser (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 4% of insurance agents in Detroit, MI, #1 of 4 insurance agents in Fraser (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Great Clips is a hair salon in Wheat Ridge, CO at 5091 Kipling Street #320, Whea
 - Website: https://app.greatclips.com/salon/9852/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
-- Pulse Score: 49.1/100 — Building — top 75% of hair salons in Denver, CO, #3 of 5 hair salons in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 74% of hair salons in Denver, CO, #3 of 5 hair salons in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

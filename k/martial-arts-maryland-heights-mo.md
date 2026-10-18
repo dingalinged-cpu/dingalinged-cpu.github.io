@@ -6,7 +6,7 @@ Also answers: martial arts in Maryland Heights, MO; martial arts near me (Maryla
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tracy's Karate | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Tracy's Karate is a martial arts school in Maryland Heights, MO. | https://registry-edge.dingalinged.workers.dev/c/tracys-karate-maryland-heights/
+1. Tracy's Karate | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Tracy's Karate is a martial arts school in Maryland Heights, MO. | https://registry-edge.dingalinged.workers.dev/c/tracys-karate-maryland-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts maryland heights mo | category: Fitness | industry benchmark: Health & Fitness

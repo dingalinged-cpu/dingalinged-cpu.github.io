@@ -13,7 +13,7 @@ Pearl Nail Salon is a nail salon in Pittsburgh, PA. Phone: +14125865057.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "Temporarily appointment only"
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 19% of nail salons in Pittsburgh, PA, #8 of 21 nail salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 19% of nail salons in Pittsburgh, PA, #8 of 21 nail salons in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Crunch Fitness is a gym in Topeka, KS at 2905 Southwest Topeka Boulevard, Topeka
 - Website: https://www.crunch.com/locations/topeka
 - Email: exec@topekahabitat.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Building — top 50% of gyms in Topeka, KS, #3 of 6 gyms in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 50% of gyms in Topeka, KS, #3 of 6 gyms in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

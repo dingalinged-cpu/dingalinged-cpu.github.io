@@ -13,7 +13,7 @@ Hilliard Roofing and Siding is a roofer in Hilliard, OH at 3544 Main Street #Sui
 - Website: https://hilliardroof.com/
 - Email: info@hilliardroof.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-20:00, Sa 09:00-17:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 34% of roofers in Columbus, OH, #1 of 1 roofers in Hilliard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 50% of roofers in Columbus, OH, #1 of 1 roofers in Hilliard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

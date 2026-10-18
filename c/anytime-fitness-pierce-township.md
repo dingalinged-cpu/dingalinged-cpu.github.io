@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Pierce Township, OH at 212 West Main Street, Pierce 
 - Website: https://www.anytimefitness.com/gyms/3725/amelia-oh-45102/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Building — top 70% of gyms in Cincinnati, OH, #1 of 1 gyms in Pierce Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 70% of gyms in Cincinnati, OH, #1 of 1 gyms in Pierce Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

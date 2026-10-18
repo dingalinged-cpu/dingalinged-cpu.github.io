@@ -6,7 +6,7 @@ Also answers: gift shop in Alton, IL; gift shop near me (Alton, IL); best gift s
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. White Birch Interiors & Home | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | White Birch Interiors & Home is a gift shop in Alton, IL at 701 West Delmar Avenue, Alton, IL 62002. | https://registry-edge.dingalinged.workers.dev/c/white-birch-interiors-and-home-alton/
+1. White Birch Interiors & Home | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | White Birch Interiors & Home is a gift shop in Alton, IL at 701 West Delmar Avenue, Alton, IL 62002. | https://registry-edge.dingalinged.workers.dev/c/white-birch-interiors-and-home-alton/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop alton il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Phenix Salon Suites is a hair salon in Lakewood, CO. Phone: +13035901980. Websit
 - Website: https://www.phenixsalonsuites.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-20:00
-- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 78% of hair salons in Denver, CO, #28 of 35 hair salons in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 77% of hair salons in Denver, CO, #27 of 35 hair salons in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

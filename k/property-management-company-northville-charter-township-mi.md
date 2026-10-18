@@ -6,7 +6,7 @@ Also answers: property management company in Northville Charter Township, MI; pr
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cedar Lake Apartments and Townhomes | Organic #1 | Pulse Score 54.1/100 (Unrated, #3 in city) | Cedar Lake Apartments and Townhomes is a property management company in Northville, MI at Cedar Lake Circle, Northville, MI 48168. | https://registry-edge.dingalinged.workers.dev/c/cedar-lake-apartments-and-townhomes-northville/
+1. Cedar Lake Apartments and Townhomes | Organic #1 | Pulse Score 54/100 (Unrated, #3 in city) | Cedar Lake Apartments and Townhomes is a property management company in Northville, MI at Cedar Lake Circle, Northville, MI 48168. | https://registry-edge.dingalinged.workers.dev/c/cedar-lake-apartments-and-townhomes-northville/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company northville charter township mi | category: Professional & financial services | industry benchmark: Finance & Insurance

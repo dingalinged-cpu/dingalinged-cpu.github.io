@@ -6,8 +6,8 @@ Also answers: nail salon in Manhattan, KS; nail salon near me (Manhattan, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Nail Shopped | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | The Nail Shopped is a nail salon in Manhattan, KS at 1814 Claflin Road #120, Manhattan, KS 66502. Phone: +17854776106. Website: https://www.thenailshoppeks.com/. | https://registry-edge.dingalinged.workers.dev/c/the-nail-shopped-manhattan/
-2. K's Nails | Organic #2 | Pulse Score 48/100 (Unrated, #2 in city) | K's Nails is a nail salon in Manhattan, KS at 2030 Tuttle Creek Boulevard, Manhattan, KS 66502. Phone: +17857762444. | https://registry-edge.dingalinged.workers.dev/c/ks-nails-manhattan/
+1. The Nail Shopped | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | The Nail Shopped is a nail salon in Manhattan, KS at 1814 Claflin Road #120, Manhattan, KS 66502. Phone: +17854776106. Website: https://www.thenailshoppeks.com/. | https://registry-edge.dingalinged.workers.dev/c/the-nail-shopped-manhattan/
+2. K's Nails | Organic #2 | Pulse Score 47.9/100 (Unrated, #2 in city) | K's Nails is a nail salon in Manhattan, KS at 2030 Tuttle Creek Boulevard, Manhattan, KS 66502. Phone: +17857762444. | https://registry-edge.dingalinged.workers.dev/c/ks-nails-manhattan/
 3. DaVi Nails | Organic #3 | Pulse Score 42.8/100 (Building, #3 in city) | DaVi Nails is a nail salon in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/davi-nails-manhattan/
 
 ## Market data (for advertisers and agents)

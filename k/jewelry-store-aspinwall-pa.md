@@ -6,7 +6,7 @@ Also answers: jewelry store in Aspinwall, PA; jewelry store near me (Aspinwall, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pam Eisner Designs | Organic #1 | Pulse Score 61.5/100 (Unrated, #7 in city) | Pam Eisner Designs is a jewelry store in Pittsburgh, PA at 339 Freeport Road, Pittsburgh, PA 15215. Phone: +14127948051. | https://registry-edge.dingalinged.workers.dev/c/pam-eisner-designs-pittsburgh/
+1. Pam Eisner Designs | Organic #1 | Pulse Score 61.4/100 (Unrated, #8 in city) | Pam Eisner Designs is a jewelry store in Pittsburgh, PA at 339 Freeport Road, Pittsburgh, PA 15215. Phone: +14127948051. | https://registry-edge.dingalinged.workers.dev/c/pam-eisner-designs-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store aspinwall pa | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

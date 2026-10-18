@@ -13,7 +13,7 @@ MOBO Bicycle Co-Op is a bike shop in Cincinnati, OH at 1415 Knowlton Street, Cin
 - Website: https://villagegreenfoundation.org/mobo/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 47% of bike shops in Cincinnati, OH, #9 of 14 bike shops in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 47% of bike shops in Cincinnati, OH, #9 of 14 bike shops in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

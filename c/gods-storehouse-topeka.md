@@ -13,7 +13,7 @@ God's Storehouse is a thrift store in Topeka, KS at 2111 Southwest Chelsea Drive
 - Website: https://www.gshtopeka.org/
 - Email: info@gshtopeka.org
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 10:00-19:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 50% of thrift stores in Topeka, KS, #2 of 4 thrift stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 50% of thrift stores in Topeka, KS, #2 of 4 thrift stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

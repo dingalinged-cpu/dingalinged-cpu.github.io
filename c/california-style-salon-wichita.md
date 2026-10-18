@@ -13,7 +13,7 @@ California Style Salon is a hair salon in Wichita, KS at 5626 East Central Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): We-Fr 10:00-16:00; Sa 10:00-15:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 14% of hair salons in Wichita, KS, #3 of 27 hair salons in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 14% of hair salons in Wichita, KS, #3 of 27 hair salons in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

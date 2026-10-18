@@ -13,7 +13,7 @@ Rocky Mountain Assisted Living & Memory Care is an assisted living facility in W
 - Website: https://rockymountainassistedliving.com/assisted-living-wheat-ridge/
 - Email: info@rockymountainassistedliving.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 64.9/100 — Good — top 4% of assisted living facilitys in Denver, CO, #1 of 1 assisted living facilitys in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.3, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 4% of assisted living facilitys in Denver, CO, #1 of 1 assisted living facilitys in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.3, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

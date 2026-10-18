@@ -13,7 +13,7 @@ John M Blevins Attorney at Law is a lawyer in Indianapolis, IN at 10475 Crosspoi
 - Website: https://johnmblevinslaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Sat-Su CLOSED, Mo-Thu 08:30-16:30, Fr 08:30-16:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 19% of lawyers in Indianapolis, IN, #3 of 19 lawyers in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 19% of lawyers in Indianapolis, IN, #3 of 19 lawyers in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

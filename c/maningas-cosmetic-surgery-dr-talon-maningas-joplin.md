@@ -13,7 +13,7 @@ Maningas Cosmetic Surgery: Dr. Talon Maningas is a plastic surgeon in Joplin, MO
 - Website: https://www.mcosmeticsurgery.com/
 - Email: info@mcosmeticsurgery.com
 - Opening hours (OSM syntax): Mo-Th 08:30-16:00; Fr 08:30-12:00; Sa,Su off
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 100% of plastic surgeons in Joplin, MO, #1 of 1 plastic surgeons in Joplin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 100% of plastic surgeons in Joplin, MO, #1 of 1 plastic surgeons in Joplin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

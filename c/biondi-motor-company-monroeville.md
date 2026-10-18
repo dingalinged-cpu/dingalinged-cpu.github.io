@@ -13,7 +13,7 @@ Biondi Motor Company is an used car dealer in Monroeville, PA at 3690 William Pe
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 80% of used car dealers in Pittsburgh, PA, #5 of 8 used car dealers in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Unrated (not enough evidence yet) — top 80% of used car dealers in Pittsburgh, PA, #5 of 8 used car dealers in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

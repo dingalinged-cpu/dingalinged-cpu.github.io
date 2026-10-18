@@ -13,7 +13,7 @@ Aspenwood Dental Associates and Colorado Dental Implant Center is a dentist in A
 - Website: https://www.aspenwooddental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Monday: 7AM – 4PM Tuesday: 10AM – 6PM Wednesday: 7AM – 4PM Thursday: 8AM – 6PM Friday: 7AM – 2PM
-- Pulse Score: 52.7/100 — Unrated (not enough evidence yet) — top 86% of dentists in Denver, CO, #66 of 75 dentists in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.7/100 — Unrated (not enough evidence yet) — top 85% of dentists in Denver, CO, #62 of 75 dentists in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

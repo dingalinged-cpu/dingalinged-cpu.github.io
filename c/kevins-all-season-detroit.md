@@ -13,7 +13,7 @@ Kevin's All Season is a landscaping company in Detroit, MI at 2795 Fort Street S
 - Website: https://www.kevinsallseason.com/
 - Email: kevinw@kevinsallseason.biz
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa "appointment only"
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 28% of landscaping companys in Detroit, MI, #1 of 2 landscaping companys in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 28% of landscaping companys in Detroit, MI, #1 of 2 landscaping companys in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

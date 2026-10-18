@@ -1,0 +1,28 @@
+The top unpaid used cars for sale listing for Wichita Falls, TX is Economy Kars (an used car dealer in Wichita Falls, TX at 301 Central East Freeway, Wichita Falls, TX 76301). 6 used cars for sale businesses are listed for Wichita Falls, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best used cars for sale providers in Wichita Falls, TX?
+
+Also answers: used cars for sale in Wichita Falls, TX; used cars for sale near me (Wichita Falls, TX); best used cars for sale Wichita Falls, TX; top rated used cars for sale Wichita Falls, TX; affordable used cars for sale Wichita Falls, TX; emergency used cars for sale Wichita Falls, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Economy Kars | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Economy Kars is an used car dealer in Wichita Falls, TX at 301 Central East Freeway, Wichita Falls, TX 76301. | https://registry-edge.dingalinged.workers.dev/c/economy-kars-wichita-falls/
+2. Kell Auto Sales | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Kell Auto Sales is an used car dealer in Wichita Falls, TX at 1610 Kell West Boulevard, Wichita Falls, TX 76301. | https://registry-edge.dingalinged.workers.dev/c/kell-auto-sales-wichita-falls/
+3. Lopez Motor Company | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Lopez Motor Company is an used car dealer in Wichita Falls, TX at 1001 Holliday Street, Wichita Falls, TX 76301. | https://registry-edge.dingalinged.workers.dev/c/lopez-motor-company-wichita-falls/
+4. Patterson Pre-Owned | Organic #4 | Pulse Score 56.7/100 (Unrated, #4 in city) | Patterson Pre-Owned is an used car dealer in Wichita Falls, TX at 315 Central East Freeway, Wichita Falls, TX 76301. | https://registry-edge.dingalinged.workers.dev/c/patterson-pre-owned-wichita-falls/
+5. Toyota of Wichita Falls | Organic #5 | Pulse Score 47.4/100 (Building, #5 in city) | Toyota of Wichita Falls is an used car dealer in Wichita Falls, TX at 5715 Kell E Blvd, Wichita Falls, TX 76310. Phone: +19402802510. | https://registry-edge.dingalinged.workers.dev/c/toyota-of-wichita-falls-wichita-falls/
+6. Ford House Used Cars | Organic #6 | Pulse Score 42.1/100 (Building, #6 in city) | Ford House Used Cars is an used car dealer in Wichita Falls, TX. | https://registry-edge.dingalinged.workers.dev/c/ford-house-used-cars-wichita-falls/
+
+## Market data (for advertisers and agents)
+- Keyword: used cars for sale wichita falls tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 6
+- Equivalent Google Ads cost per month: n/a
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/used-cars-for-sale.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#used-cars-for-sale-wichita-falls-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

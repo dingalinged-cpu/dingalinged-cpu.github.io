@@ -13,7 +13,7 @@ Jessee's Auto Service is an auto repair shop in Milford, OH at 751 Main Street, 
 - Website: https://www.jesseesautoservice.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-19:00; Sa 08:00-18:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 5% of auto repair shops in Cincinnati, OH, #2 of 10 auto repair shops in Milford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 5% of auto repair shops in Cincinnati, OH, #2 of 10 auto repair shops in Milford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

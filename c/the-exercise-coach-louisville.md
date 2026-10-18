@@ -13,7 +13,7 @@ The Exercise Coach is a gym in Louisville, CO at 1075 East South Boulder Road #1
 - Website: https://exercisecoach.com/louisville/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 71% of gyms in Denver, CO, #3 of 5 gyms in Louisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 70% of gyms in Denver, CO, #3 of 5 gyms in Louisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

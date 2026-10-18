@@ -6,7 +6,7 @@ Also answers: massage in Colerain Township, OH; massage near me (Colerain Townsh
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage Envy | Organic #1 | Pulse Score 43.4/100 (Building, #1 in city) | Massage Envy is a massage studio in Colerain Township, OH. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-colerain-township/
+1. Massage Envy | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | Massage Envy is a massage studio in Colerain Township, OH. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-colerain-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage colerain township oh | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Bhim Jewelry LLC is a jewelry store in Brentwood, PA at 4024 Saw Mill Run Boulev
 - Website: https://bhimjewelry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo -Sa 8:30 - 18:30
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 5% of jewelry stores in Pittsburgh, PA, #1 of 1 jewelry stores in Brentwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 5% of jewelry stores in Pittsburgh, PA, #1 of 1 jewelry stores in Brentwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

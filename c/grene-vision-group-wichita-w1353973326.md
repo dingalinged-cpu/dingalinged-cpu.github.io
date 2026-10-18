@@ -13,7 +13,7 @@ Grene Vision Group is an eye care practice in Wichita, KS at 3910 North Ridge Ro
 - Website: https://www.grenevisiongroup.com/locations/wichita-ridge-road
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-12:00
-- Pulse Score: 48.6/100 — Building — top 50% of eye care practices in Wichita, KS, #2 of 3 eye care practices in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 50% of eye care practices in Wichita, KS, #2 of 3 eye care practices in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

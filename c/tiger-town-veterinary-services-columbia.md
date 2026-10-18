@@ -13,7 +13,7 @@ Tiger Town Veterinary Services is a veterinarian in Columbia, MO at 1700 I- 70 D
 - Website: https://covetruspharmacy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 17% of veterinarians in Columbia, MO, #1 of 6 veterinarians in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 17% of veterinarians in Columbia, MO, #1 of 6 veterinarians in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

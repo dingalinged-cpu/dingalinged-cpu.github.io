@@ -6,7 +6,7 @@ Also answers: printing services in Olivette, MO; printing services near me (Oliv
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kopytek Incorporated | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Kopytek Incorporated is a printing service in Olivette, MO at 9595 Dielman Rock Island Industrial Drive, Olivette, MO 63132. Website: https://www.kopytek.com/. | https://registry-edge.dingalinged.workers.dev/c/kopytek-incorporated-olivette/
+1. Kopytek Incorporated | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Kopytek Incorporated is a printing service in Olivette, MO at 9595 Dielman Rock Island Industrial Drive, Olivette, MO 63132. Website: https://www.kopytek.com/. | https://registry-edge.dingalinged.workers.dev/c/kopytek-incorporated-olivette/
 2. FedEx Office | Organic #2 | Pulse Score 41.4/100 (Building, #2 in city) | FedEx Office is a printing service in Olivette, MO. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-olivette/
 
 ## Market data (for advertisers and agents)

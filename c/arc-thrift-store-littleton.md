@@ -13,7 +13,7 @@ arc Thrift Store is a thrift store in Littleton, CO at 1400 West Littleton Boule
 - Website: https://arcthrift.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-18:00
-- Pulse Score: 43.7/100 — Building — top 95% of thrift stores in Denver, CO, #9 of 9 thrift stores in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.7/100 — Building — top 95% of thrift stores in Denver, CO, #9 of 9 thrift stores in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Bazzi Podiatry is a podiatrist in Sterling Heights, MI at 2007 East 14 Mile Road
 - Website: https://bazzipodiatry.com/podiatrist/sterling-heights
 - Email: manager@bazzipodiatry.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-14:00
-- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 8% of podiatrists in Detroit, MI, #1 of 5 podiatrists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 8% of podiatrists in Detroit, MI, #1 of 5 podiatrists in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Cobblestone Car Wash is a car wash in Aurora, CO at 4301 South Parker Road, Auro
 - Website: https://dutchcarwash.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-22:00; Su 08:00-19:00
-- Pulse Score: 50.4/100 — Unrated (not enough evidence yet) — top 62% of car washes in Denver, CO, #22 of 44 car washes in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Unrated (not enough evidence yet) — top 60% of car washes in Denver, CO, #22 of 44 car washes in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

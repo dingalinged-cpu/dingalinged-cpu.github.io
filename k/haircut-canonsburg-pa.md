@@ -12,7 +12,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. Mac’s Barbershop | Organic #4 | Pulse Score 57.8/100 (Unrated, #2 in city) | Mac’s Barbershop is a barber shop in Canonsburg, PA at 203 Adams Avenue, Canonsburg, PA 15317. Phone: +17243382296. | https://registry-edge.dingalinged.workers.dev/c/mac-s-barbershop-canonsburg/
 5. For Love of Hair | Organic #5 | Pulse Score 57.3/100 (Unrated, #3 in city) | For Love of Hair is a hair salon in Canonsburg, PA at 139 West Pike Street, Canonsburg, PA 15317. | https://registry-edge.dingalinged.workers.dev/c/for-love-of-hair-canonsburg/
 6. The Cutting Edge | Organic #6 | Pulse Score 57.1/100 (Unrated, #3 in city) | The Cutting Edge is a barber shop in Canonsburg, PA at 158 East Pike Street, Canonsburg, PA 15317. | https://registry-edge.dingalinged.workers.dev/c/the-cutting-edge-canonsburg/
-7. Mello's Barbershop | Organic #7 | Pulse Score 55.4/100 (Unrated, #4 in city) | Mello's Barbershop is a barber shop in Canonsburg, PA at 143 West Pike Street, Canonsburg, PA 15317. | https://registry-edge.dingalinged.workers.dev/c/mellos-barbershop-canonsburg/
+7. Mello's Barbershop | Organic #7 | Pulse Score 55.3/100 (Unrated, #4 in city) | Mello's Barbershop is a barber shop in Canonsburg, PA at 143 West Pike Street, Canonsburg, PA 15317. | https://registry-edge.dingalinged.workers.dev/c/mellos-barbershop-canonsburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut canonsburg pa | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

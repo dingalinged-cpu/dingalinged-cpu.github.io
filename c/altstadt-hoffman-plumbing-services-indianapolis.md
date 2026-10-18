@@ -13,7 +13,7 @@ Altstadt Hoffman Plumbing Services is a plumber in Indianapolis, IN at 5781 Thun
 - Website: https://www.altstadtplumbing.com/
 - Email: service@altstadtplumbing.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 64.6/100 — Good — top 13% of plumbers in Indianapolis, IN, #1 of 6 plumbers in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 13% of plumbers in Indianapolis, IN, #1 of 6 plumbers in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 65.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

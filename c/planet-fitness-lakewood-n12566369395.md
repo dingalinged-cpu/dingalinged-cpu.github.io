@@ -13,7 +13,7 @@ Planet Fitness is a gym in Lakewood, CO at 98 South Wadsworth Boulevard #125B, L
 - Website: https://www.planetfitness.com/gyms/lakewood-fairfield-commons-co
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.7/100 — Building — top 65% of gyms in Denver, CO, #6 of 9 gyms in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 65% of gyms in Denver, CO, #5 of 9 gyms in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

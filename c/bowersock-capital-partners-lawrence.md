@@ -13,7 +13,7 @@ Bowersock Capital Partners is a financial advisor in Lawrence, KS at 611 West 9t
 - Website: https://www.bowersockcapital.com/
 - Email: info@bowersockcapital.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 23% of financial advisors in Lawrence, KS, #2 of 9 financial advisors in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 23% of financial advisors in Lawrence, KS, #2 of 9 financial advisors in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

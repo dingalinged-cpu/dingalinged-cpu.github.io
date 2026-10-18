@@ -6,7 +6,7 @@ Also answers: dance studio in Indiana Township, PA; dance studio near me (Indian
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dance Unleashed | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Dance Unleashed is a dance studio in Indiana Township, PA at 3390 Saxonburg Boulevard #320-330, Indiana Township, PA 15116. | https://registry-edge.dingalinged.workers.dev/c/dance-unleashed-indiana-township/
+1. Dance Unleashed | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Dance Unleashed is a dance studio in Indiana Township, PA at 3390 Saxonburg Boulevard #320-330, Indiana Township, PA 15116. | https://registry-edge.dingalinged.workers.dev/c/dance-unleashed-indiana-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio indiana township pa | category: Fitness | industry benchmark: Health & Fitness

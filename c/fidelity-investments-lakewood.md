@@ -13,7 +13,7 @@ Fidelity Investments is a financial advisor in Lakewood, CO at 343 South Teller 
 - Website: https://www.fidelity.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; by appointment
-- Pulse Score: 48.5/100 — Building — top 46% of financial advisors in Denver, CO, #1 of 2 financial advisors in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 46% of financial advisors in Denver, CO, #1 of 2 financial advisors in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

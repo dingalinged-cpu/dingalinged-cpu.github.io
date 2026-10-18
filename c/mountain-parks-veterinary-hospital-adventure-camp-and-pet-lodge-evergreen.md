@@ -13,7 +13,7 @@ Mountain Parks Veterinary Hospital, Adventure Camp & Pet Lodge is a veterinarian
 - Website: https://mountainparksvet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Fr 8:00-17:00; Tu-Th 8:00-18:00; Sa 8:00-13:00; Su Closed
-- Pulse Score: 53.6/100 — Unrated (not enough evidence yet) — top 86% of veterinarians in Denver, CO, #2 of 2 veterinarians in Evergreen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.6/100 — Unrated (not enough evidence yet) — top 85% of veterinarians in Denver, CO, #2 of 2 veterinarians in Evergreen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

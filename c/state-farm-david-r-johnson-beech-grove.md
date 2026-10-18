@@ -13,7 +13,7 @@ State Farm: David R Johnson is an insurance agent in Beech Grove, IN at 4770 Sou
 - Website: https://davidrjohnsoninsurance.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 75% of insurance agents in Indianapolis, IN, #1 of 1 insurance agents in Beech Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 75% of insurance agents in Indianapolis, IN, #1 of 1 insurance agents in Beech Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

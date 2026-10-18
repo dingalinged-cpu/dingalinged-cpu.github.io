@@ -13,7 +13,7 @@ Value City Furniture is a furniture store in Dearborn, MI at 5701 Mercury Drive,
 - Website: https://www.valuecityfurniture.com/store-locator/mi/dearborn/5701-mercury-drive
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 68% of furniture stores in Detroit, MI, #4 of 4 furniture stores in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 66% of furniture stores in Detroit, MI, #4 of 4 furniture stores in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

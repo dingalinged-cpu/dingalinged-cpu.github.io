@@ -13,7 +13,7 @@ NTB is an auto repair shop in Ellisville, MO at 15655 Manchester Rd, Ellisville,
 - Website: https://www.ntb.com/store/mo/ballwin/15655-manchester-rd-63011/4278
 - Email: n/a
 - Opening hours (OSM syntax): 07:30-20:00
-- Pulse Score: 47.5/100 — Building — top 86% of auto repair shops in Wildwood, MO, #3 of 3 auto repair shops in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 86% of auto repair shops in Wildwood, MO, #3 of 3 auto repair shops in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

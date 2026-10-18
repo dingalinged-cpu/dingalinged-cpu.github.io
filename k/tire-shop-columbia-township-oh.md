@@ -6,7 +6,7 @@ Also answers: tire shop in Columbia Township, OH; tire shop near me (Columbia To
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tire Discounters | Organic #1 | Pulse Score 48.2/100 (Building, #1 in city) | Tire Discounters is a tire shop in Columbia Township, OH at 7525 Wooster Pike, Columbia Township, OH 45227. Website: https://tirediscounters.com/pages/locations/wooster-pike-oh. | https://registry-edge.dingalinged.workers.dev/c/tire-discounters-columbia-township/
+1. Tire Discounters | Organic #1 | Pulse Score 48.1/100 (Building, #1 in city) | Tire Discounters is a tire shop in Columbia Township, OH at 7525 Wooster Pike, Columbia Township, OH 45227. Website: https://tirediscounters.com/pages/locations/wooster-pike-oh. | https://registry-edge.dingalinged.workers.dev/c/tire-discounters-columbia-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop columbia township oh | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

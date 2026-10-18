@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Jefferson City, MO at 2703 Missouri Bouleva
 - Website: https://www.mattressfirm.com/en-us/stores/mo/jefferson-city/074001/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 100% of mattress stores in Jefferson City, MO, #1 of 1 mattress stores in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 100% of mattress stores in Jefferson City, MO, #1 of 1 mattress stores in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

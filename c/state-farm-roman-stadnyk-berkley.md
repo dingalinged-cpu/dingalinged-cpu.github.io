@@ -13,7 +13,7 @@ State Farm - Roman Stadnyk is an insurance agent in Berkley, MI at 3900 12 Mile 
 - Website: https://www.statefarm.com/agent/US/MI/Berkley/Roman-Stadnyk-X2R381YS000
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Building — top 54% of insurance agents in Detroit, MI, #2 of 3 insurance agents in Berkley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 54% of insurance agents in Detroit, MI, #2 of 3 insurance agents in Berkley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,9 +8,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Cakeheads Bakery | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Cakeheads Bakery is a bakery in Centennial, CO at 7530 South University Boulevard, Centennial, CO 80122. Phone: +13036277301. Website: https://cakeheadsbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/cakeheads-bakery-centennial/
 2. Ana’s Norwegian Bakeri | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Ana’s Norwegian Bakeri is a bakery in Centennial, CO at 6770 South Yosemite Street, Centennial, CO 80112. Phone: +17202872968. | https://registry-edge.dingalinged.workers.dev/c/ana-s-norwegian-bakeri-centennial/
-3. Baker's Way | Organic #3 | Pulse Score 55.9/100 (Unrated, #4 in city) | Baker's Way is a bakery in Centennial, CO at 7032 South Revere Parkway #320, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/bakers-way-centennial/
-4. Bakers Inn | Organic #4 | Pulse Score 55.9/100 (Unrated, #3 in city) | Bakers Inn is a bakery in Centennial, CO at 11001 East Arapahoe Place #B2, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/bakers-inn-centennial/
-5. La Petite France Bakery | Organic #5 | Pulse Score 55.9/100 (Unrated, #5 in city) | La Petite France Bakery is a bakery in Centennial, CO at 7475 East Arapahoe Road #5, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/la-petite-france-bakery-centennial/
+3. Baker's Way | Organic #3 | Pulse Score 56/100 (Unrated, #4 in city) | Baker's Way is a bakery in Centennial, CO at 7032 South Revere Parkway #320, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/bakers-way-centennial/
+4. Bakers Inn | Organic #4 | Pulse Score 56/100 (Unrated, #3 in city) | Bakers Inn is a bakery in Centennial, CO at 11001 East Arapahoe Place #B2, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/bakers-inn-centennial/
+5. La Petite France Bakery | Organic #5 | Pulse Score 56/100 (Unrated, #5 in city) | La Petite France Bakery is a bakery in Centennial, CO at 7475 East Arapahoe Road #5, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/la-petite-france-bakery-centennial/
 6. Makery | Organic #6 | Pulse Score 54/100 (Unrated, #6 in city) | Makery is a bakery in Centennial, CO. | https://registry-edge.dingalinged.workers.dev/c/makery-centennial/
 
 ## Market data (for advertisers and agents)

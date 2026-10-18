@@ -6,7 +6,7 @@ Also answers: audiologist in Arnold, MO; audiologist near me (Arnold, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southwestern Hearing Centers | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Southwestern Hearing Centers is an audiologist in Arnold, MO at 854 Arnold Commons Drive, Arnold, MO 63010. Phone: +16362759083. Website: https://www.southwesternhearing.com/locations/arnold-missouri/. | https://registry-edge.dingalinged.workers.dev/c/southwestern-hearing-centers-arnold/
+1. Southwestern Hearing Centers | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Southwestern Hearing Centers is an audiologist in Arnold, MO at 854 Arnold Commons Drive, Arnold, MO 63010. Phone: +16362759083. Website: https://www.southwesternhearing.com/locations/arnold-missouri/. | https://registry-edge.dingalinged.workers.dev/c/southwestern-hearing-centers-arnold/
 
 ## Market data (for advertisers and agents)
 - Keyword: audiologist arnold mo | category: Health & medical | industry benchmark: Physicians & Surgeons

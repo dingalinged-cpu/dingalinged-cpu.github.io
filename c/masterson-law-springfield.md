@@ -13,7 +13,7 @@ Masterson Law is a lawyer in Springfield, MO at 1771 South Fremont Avenue, Sprin
 - Website: https://mastersonlawllc.com/
 - Email: info@mastersonlawllc.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 32% of lawyers in Springfield, MO, #6 of 19 lawyers in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 32% of lawyers in Springfield, MO, #6 of 19 lawyers in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

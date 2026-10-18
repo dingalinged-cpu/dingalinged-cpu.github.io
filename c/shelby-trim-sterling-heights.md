@@ -13,7 +13,7 @@ Shelby Trim is an auto repair shop in Sterling Heights, MI at 40430 Mound Road, 
 - Website: https://shelbytrim.com/
 - Email: ann@shelbytrim.com
 - Opening hours (OSM syntax): Mo-Th 08:30-16:30; Fr 09:00-16:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 5% of auto repair shops in Detroit, MI, #16 of 39 auto repair shops in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 4% of auto repair shops in Detroit, MI, #15 of 39 auto repair shops in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

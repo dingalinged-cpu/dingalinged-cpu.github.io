@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Aurora, CO at 7420 South Gartrell Road #C, Aurora, C
 - Website: https://www.anytimefitness.com/gyms/3451/aurora-co-80016/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.3/100 — Building — top 57% of gyms in Denver, CO, #17 of 37 gyms in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 56% of gyms in Denver, CO, #17 of 37 gyms in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

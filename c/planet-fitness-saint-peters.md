@@ -13,7 +13,7 @@ Planet Fitness is a gym in Saint Peters, MO at 490 Mid Rivers Mall Circle, Saint
 - Website: https://www.planetfitness.com/gyms/st-peters-mid-rivers-mall-mo
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.1/100 — Building — top 100% of gyms in St. Peters, MO, #4 of 4 gyms in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 100% of gyms in St. Peters, MO, #4 of 4 gyms in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

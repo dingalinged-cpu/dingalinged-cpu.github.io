@@ -13,7 +13,7 @@ Martinizing Dry Cleaning is a dry cleaner in Lincoln Park, MI at 2934 Fort Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Building — top 90% of dry cleaners in Detroit, MI, #1 of 1 dry cleaners in Lincoln Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 88% of dry cleaners in Detroit, MI, #1 of 1 dry cleaners in Lincoln Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

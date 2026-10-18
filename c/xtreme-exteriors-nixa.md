@@ -13,7 +13,7 @@ Xtreme Exteriors is a roofer in Nixa, MO at 1376 West Mount Vernon Street, Nixa,
 - Website: https://xesiding.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00
-- Pulse Score: 61.2/100 — Good — top 50% of roofers in Nixa, MO, #1 of 2 roofers in Nixa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Good — top 50% of roofers in Nixa, MO, #1 of 2 roofers in Nixa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

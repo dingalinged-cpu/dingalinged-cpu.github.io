@@ -6,7 +6,7 @@ Also answers: property management company in Novi, MI; property management compa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Country Place Office | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | Country Place Office is a property management company in Northville, MI at 21100 West Glen Haven Circle, Northville, MI 48167. Phone: +12483499060. Website: https://www.countryplacecondoassociation.com/. | https://registry-edge.dingalinged.workers.dev/c/country-place-office-northville/
+1. Country Place Office | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Country Place Office is a property management company in Northville, MI at 21100 West Glen Haven Circle, Northville, MI 48167. Phone: +12483499060. Website: https://www.countryplacecondoassociation.com/. | https://registry-edge.dingalinged.workers.dev/c/country-place-office-northville/
 2. Glens of Northville Leasing Office | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Glens of Northville Leasing Office is a property management company in Northville, MI at 20969 Woodland Glen Drive, Northville, MI 48167. Phone: +12483496612. Website: https://www.york-glensofnorthville.com/. | https://registry-edge.dingalinged.workers.dev/c/glens-of-northville-leasing-office-northville/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Discovery Dental Center is a dentist in Saint Peters, MO at 305 Mid Rivers Mall 
 - Website: https://www.discoverydentalcenters.com/location-mid-rivers.php
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-16:00; Fr 08:00-12:00; Sa,Su off; PH off
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 58% of dentists in St. Peters, MO, #3 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 58% of dentists in St. Peters, MO, #3 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Kaleidoscope Painting is a painting contractor in Westminster, CO at 3371 West 9
 - Website: https://kaleidoscopepaintingpro.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-19:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 50% of painting contractors in Denver, CO, #1 of 2 painting contractors in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 50% of painting contractors in Denver, CO, #1 of 2 painting contractors in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: assisted living in Jefferson City, MO; assisted living near me (Je
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Heisinger Bluffs | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Heisinger Bluffs is an assisted living facility in Jefferson City, MO at 1002 West Main Street, Jefferson City, MO 65109. Website: https://www.hbrhc.com/. | https://registry-edge.dingalinged.workers.dev/c/heisinger-bluffs-jefferson-city/
-2. Heisinger Bluffs West | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Heisinger Bluffs West is an assisted living facility in Jefferson City, MO at 1306 West Main Street, Jefferson City, MO 65109. | https://registry-edge.dingalinged.workers.dev/c/heisinger-bluffs-west-jefferson-city/
+2. Heisinger Bluffs West | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Heisinger Bluffs West is an assisted living facility in Jefferson City, MO at 1306 West Main Street, Jefferson City, MO 65109. | https://registry-edge.dingalinged.workers.dev/c/heisinger-bluffs-west-jefferson-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living jefferson city mo | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

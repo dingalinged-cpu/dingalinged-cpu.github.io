@@ -13,7 +13,7 @@ Decker Tailoring is a tailor in University City, MO at 616 North McKnight Road, 
 - Website: https://ssgrinberg59.wixsite.com/deckertailoring
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 86% of tailors in St. Louis, MO, #1 of 1 tailors in University City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 86% of tailors in St. Louis, MO, #1 of 1 tailors in University City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ FlatRate Moving is a moving company in Denver, CO at 800 East 73rd Avenue, Denve
 - Website: https://www.flatrate.com/locations/denver-movers/
 - Email: contact@flatrate.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa-Su 09:00-16:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 7% of moving companys in Denver, CO, #1 of 6 moving companys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 7% of moving companys in Denver, CO, #1 of 6 moving companys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

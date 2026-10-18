@@ -13,7 +13,7 @@ Infinity Hall and Sidebar is an event venue in Fraser, MI at 16650 East 14 Mile 
 - Website: https://www.infinityhallsidebar.com/
 - Email: infinity.sidebar@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 4% of event venues in Detroit, MI, #1 of 3 event venues in Fraser (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 4% of event venues in Detroit, MI, #1 of 3 event venues in Fraser (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

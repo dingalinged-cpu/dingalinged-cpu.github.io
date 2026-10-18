@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Cycling CEnter | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Cycling CEnter is a gym in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/cycling-center-jefferson-county/
 2. Paragon Fitness | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Paragon Fitness is a gym in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/paragon-fitness-jefferson-county/
-3. Chuze Fitness | Organic #3 | Pulse Score 42.9/100 (Unrated, #3 in city) | Chuze Fitness is a gym in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/chuze-fitness-jefferson-county/
-4. 24 Hour Fitness | Organic #4 | Pulse Score 42.6/100 (Building, #4 in city) | 24 Hour Fitness is a gym in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/24-hour-fitness-jefferson-county/
+3. 24 Hour Fitness | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | 24 Hour Fitness is a gym in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/24-hour-fitness-jefferson-county/
+4. Chuze Fitness | Organic #4 | Pulse Score 41.8/100 (Unrated, #4 in city) | Chuze Fitness is a gym in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/chuze-fitness-jefferson-county/
 5. Row House | Organic #5 | Pulse Score 41.8/100 (Unrated, #5 in city) | Row House is a gym in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/row-house-jefferson-county/
 6. Hotworx | Organic #6 | Pulse Score 41.7/100 (Building, #6 in city) | Hotworx is a gym in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/hotworx-jefferson-county/
 7. D1 Training | Organic #7 | Pulse Score 41.3/100 (Unrated, #7 in city) | D1 Training is a gym in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/d1-training-jefferson-county/

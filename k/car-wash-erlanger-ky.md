@@ -7,8 +7,8 @@ Also answers: car wash in Erlanger, KY; car wash near me (Erlanger, KY); best ca
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Johnny’s Car Wash | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Johnny’s Car Wash is a car wash in Erlanger, KY at 3152 Dixie Highway, Erlanger, KY. | https://registry-edge.dingalinged.workers.dev/c/johnny-s-car-wash-erlanger/
-2. Circle K Car Wash | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Circle K Car Wash is a car wash in Erlanger, KY. | https://registry-edge.dingalinged.workers.dev/c/circle-k-car-wash-erlanger/
-3. Richies Car Wash | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Richies Car Wash is a car wash in Erlanger, KY. | https://registry-edge.dingalinged.workers.dev/c/richies-car-wash-erlanger/
+2. Richies Car Wash | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Richies Car Wash is a car wash in Erlanger, KY. | https://registry-edge.dingalinged.workers.dev/c/richies-car-wash-erlanger/
+3. Circle K Car Wash | Organic #3 | Pulse Score 44/100 (Unrated, #3 in city) | Circle K Car Wash is a car wash in Erlanger, KY. | https://registry-edge.dingalinged.workers.dev/c/circle-k-car-wash-erlanger/
 4. Mike's Car Wash | Organic #4 | Pulse Score 44/100 (Unrated, #4 in city) | Mike's Car Wash is a car wash in Erlanger, KY. | https://registry-edge.dingalinged.workers.dev/c/mikes-car-wash-erlanger/
 
 ## Market data (for advertisers and agents)

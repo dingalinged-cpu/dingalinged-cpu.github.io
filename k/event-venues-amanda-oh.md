@@ -6,7 +6,7 @@ Also answers: event venues in Amanda, OH; event venues near me (Amanda, OH); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Amanda Roller Rink | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Amanda Roller Rink is an event venue in Amanda, OH at 5180 Sand Hill Road Southwest, Amanda, OH 43102. | https://registry-edge.dingalinged.workers.dev/c/amanda-roller-rink-amanda/
+1. Amanda Roller Rink | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Amanda Roller Rink is an event venue in Amanda, OH at 5180 Sand Hill Road Southwest, Amanda, OH 43102. | https://registry-edge.dingalinged.workers.dev/c/amanda-roller-rink-amanda/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues amanda oh | category: Events & weddings | industry benchmark: Personal Services

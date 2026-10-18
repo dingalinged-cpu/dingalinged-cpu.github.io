@@ -13,7 +13,7 @@ Thrive is a veterinarian in Highlands Ranch, CO at 1265 Sergeant Jon Stiles Driv
 - Website: https://www.thrivevet.com/locations/highlands-ranch-colorado
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00, Su 09:00-14:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 9% of veterinarians in Denver, CO, #1 of 1 veterinarians in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 86% of veterinarians in Denver, CO, #1 of 1 veterinarians in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

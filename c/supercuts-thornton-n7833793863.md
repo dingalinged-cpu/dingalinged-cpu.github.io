@@ -13,7 +13,7 @@ Supercuts is a hair salon in Thornton, CO at 951 East 120th Avenue #B, Thornton,
 - Website: https://www.supercuts.com/locations/co/thornton/thorncreek-crossing-haircuts-9239.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-18:00
-- Pulse Score: 49.2/100 — Building — top 73% of hair salons in Denver, CO, #14 of 22 hair salons in Thornton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 72% of hair salons in Denver, CO, #14 of 22 hair salons in Thornton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

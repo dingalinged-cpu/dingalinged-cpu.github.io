@@ -6,7 +6,7 @@ Also answers: insurance agents in Livonia, MI; insurance agents near me (Livonia
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm | Organic #1 | Pulse Score 47.5/100 (Building, #1 in city) | State Farm is an insurance agent in Livonia, MI at 15401 Farmington Road, Livonia, MI 48154. Phone: +17345254250. Website: https://www.statefarm.com/agent/us/mi/livonia/don-parrish-n5qkb53nrak. | https://registry-edge.dingalinged.workers.dev/c/state-farm-livonia/
+1. State Farm | Organic #1 | Pulse Score 47.4/100 (Building, #1 in city) | State Farm is an insurance agent in Livonia, MI at 15401 Farmington Road, Livonia, MI 48154. Phone: +17345254250. Website: https://www.statefarm.com/agent/us/mi/livonia/don-parrish-n5qkb53nrak. | https://registry-edge.dingalinged.workers.dev/c/state-farm-livonia/
 2. AAA Insurance | Organic #2 | Pulse Score 42.4/100 (Building, #2 in city) | AAA Insurance is an insurance agent in Livonia, MI. | https://registry-edge.dingalinged.workers.dev/c/aaa-insurance-livonia/
 
 ## Market data (for advertisers and agents)

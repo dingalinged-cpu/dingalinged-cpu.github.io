@@ -13,7 +13,7 @@ Hartwood Beer is a liquor store in Indiana Township, PA at 3390 Saxonburg Boulev
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.3/100 — Unrated (not enough evidence yet) — top 47% of liquor stores in Pittsburgh, PA, #1 of 1 liquor stores in Indiana Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.3/100 — Unrated (not enough evidence yet) — top 47% of liquor stores in Pittsburgh, PA, #1 of 1 liquor stores in Indiana Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

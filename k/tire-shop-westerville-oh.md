@@ -6,7 +6,7 @@ Also answers: tire shop in Westerville, OH; tire shop near me (Westerville, OH);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | Organic #1 | Pulse Score 46.7/100 (Building, #1 in city) | Discount Tire is a tire shop in Westerville, OH. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-westerville/
+1. Discount Tire | Organic #1 | Pulse Score 46.6/100 (Building, #1 in city) | Discount Tire is a tire shop in Westerville, OH. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-westerville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop westerville oh | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

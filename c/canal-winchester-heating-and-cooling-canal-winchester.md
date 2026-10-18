@@ -13,7 +13,7 @@ Canal Winchester Heating and Cooling is a HVAC contractor in Canal Winchester, O
 - Website: https://www.fivestargroup.com/about-us/our-members/canal-winchester-heating-cooling/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 8% of HVAC contractors in Columbus, OH, #1 of 2 HVAC contractors in Canal Winchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 8% of HVAC contractors in Columbus, OH, #1 of 2 HVAC contractors in Canal Winchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

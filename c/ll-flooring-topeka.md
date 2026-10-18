@@ -13,7 +13,7 @@ LL Flooring is a flooring company in Topeka, KS at 5907 Southwest 21st Street, T
 - Website: https://www.llflooring.com/stores/ks/topeka/5907-sw-21st-street
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-17:00
-- Pulse Score: 46.1/100 — Building — top 100% of flooring companys in Topeka, KS, #3 of 3 flooring companys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 100% of flooring companys in Topeka, KS, #3 of 3 flooring companys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

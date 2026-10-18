@@ -6,7 +6,7 @@ Also answers: gift shop in Wildwood, MO; gift shop near me (Wildwood, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Milk and Honey | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Milk and Honey is a gift shop in Wildwood, MO at 16765 Main Street, Wildwood, MO 63040. | https://registry-edge.dingalinged.workers.dev/c/milk-and-honey-wildwood/
+1. Milk and Honey | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Milk and Honey is a gift shop in Wildwood, MO at 16765 Main Street, Wildwood, MO 63040. | https://registry-edge.dingalinged.workers.dev/c/milk-and-honey-wildwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop wildwood mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

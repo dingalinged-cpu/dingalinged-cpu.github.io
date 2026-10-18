@@ -6,7 +6,7 @@ Also answers: used cars for sale in Littleton, CO; used cars for sale near me (L
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Audi Denver | Organic #1 | Pulse Score 46.2/100 (Building, #1 in city) | Audi Denver is an used car dealer in Littleton, CO at 6060 South Broadway, Littleton, CO 80121. Website: https://audidenver.com/. | https://registry-edge.dingalinged.workers.dev/c/audi-denver-littleton/
+1. Audi Denver | Organic #1 | Pulse Score 46.1/100 (Building, #1 in city) | Audi Denver is an used car dealer in Littleton, CO at 6060 South Broadway, Littleton, CO 80121. Website: https://audidenver.com/. | https://registry-edge.dingalinged.workers.dev/c/audi-denver-littleton/
 2. Land Rover Denver | Organic #2 | Pulse Score 44.4/100 (Building, #2 in city) | Land Rover Denver is an used car dealer in Littleton, CO at 6160 South Broadway, Littleton, CO 80121. Website: https://landroverdenver.com/. | https://registry-edge.dingalinged.workers.dev/c/land-rover-denver-littleton/
 3. McDonald Volkswagen | Organic #3 | Pulse Score 44.4/100 (Building, #3 in city) | McDonald Volkswagen is an used car dealer in Littleton, CO at 6000 South Broadway, Littleton, CO 80121. Website: https://www.mcdonaldvw.com/. | https://registry-edge.dingalinged.workers.dev/c/mcdonald-volkswagen-littleton/
 

@@ -13,7 +13,7 @@ St. Charles Animal Hospital is a veterinarian in Saint Charles, MO at 980 Kingsh
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-18:00; Fr 08:00-16:00; Sa 08:00-12:00; Su off
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 47% of veterinarians in St. Louis, MO, #2 of 2 veterinarians in Saint Charles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 45% of veterinarians in St. Louis, MO, #2 of 2 veterinarians in Saint Charles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

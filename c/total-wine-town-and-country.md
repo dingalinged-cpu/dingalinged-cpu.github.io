@@ -13,7 +13,7 @@ Total Wine is a liquor store in Town and Country, MO at 13887 Manchester Road, T
 - Website: https://www.totalwine.com/store-info/1801
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-22:00; Su 09:00-21:00
-- Pulse Score: 48.7/100 — Building — top 88% of liquor stores in St. Louis, MO, #1 of 1 liquor stores in Town and Country (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 68.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 88% of liquor stores in St. Louis, MO, #1 of 1 liquor stores in Town and Country (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 68.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

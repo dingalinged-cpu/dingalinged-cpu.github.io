@@ -13,7 +13,7 @@ Jugz Liquor and Microbrew is a liquor store in Joplin, MO at 1605 East 20th Stre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-22:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 17% of liquor stores in Joplin, MO, #1 of 3 liquor stores in Joplin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 17% of liquor stores in Joplin, MO, #1 of 3 liquor stores in Joplin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

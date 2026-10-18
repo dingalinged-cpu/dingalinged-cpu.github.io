@@ -13,7 +13,7 @@ Wm. Briggs & Company, Ltd. is an accountant in Westminster, CO at 8461 Turnpike 
 - Website: n/a
 - Email: wbriggs@briggscpa.com
 - Opening hours (OSM syntax): Mo-Fr 9:00-14:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 24% of accountants in Denver, CO, #1 of 1 accountants in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 24% of accountants in Denver, CO, #1 of 1 accountants in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

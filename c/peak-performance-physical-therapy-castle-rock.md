@@ -13,7 +13,7 @@ Peak Performance Physical Therapy is a physical therapy clinic in Castle Rock, C
 - Website: https://www.peakperformanceptst.com/location/castle-rock/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 19% of physical therapy clinics in Denver, CO, #1 of 1 physical therapy clinics in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 19% of physical therapy clinics in Denver, CO, #1 of 1 physical therapy clinics in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

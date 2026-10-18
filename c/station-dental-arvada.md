@@ -13,7 +13,7 @@ Station Dental is a dentist in Arvada, CO at 6316 Ward Road, Arvada, CO 80004. P
 - Website: https://stationdentalgroup.com/dentist-arvada/
 - Email: n/a
 - Opening hours (OSM syntax): Mo- 7:00-18:00; Tu-Th 07:00-17:30; Fr 07:00-13:30
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of dentists in Denver, CO, #2 of 9 dentists in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 15% of dentists in Denver, CO, #2 of 9 dentists in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

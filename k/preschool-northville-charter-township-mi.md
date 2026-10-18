@@ -1,4 +1,4 @@
-The top unpaid preschool listing for Northville Charter Township, MI is Premier Academy (a preschool in Northville, MI at 40724 7 Mile Road, Northville, MI 48167. Phone: +12489243419. Website: https://www.premieracademynorthville.com/). 3 preschool businesses are listed for Northville Charter Township, MI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Northville Charter Township, MI is Little Hearts Learning Home - Child Care and Pre-School (a preschool in Northville Charter Township, MI). 3 preschool businesses are listed for Northville Charter Township, MI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Northville Charter Township, MI?
 
@@ -6,9 +6,9 @@ Also answers: preschool in Northville Charter Township, MI; preschool near me (N
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Premier Academy | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Premier Academy is a preschool in Northville, MI at 40724 7 Mile Road, Northville, MI 48167. Phone: +12489243419. Website: https://www.premieracademynorthville.com/. | https://registry-edge.dingalinged.workers.dev/c/premier-academy-northville/
-2. Little Hearts Learning Home - Child Care and Pre-School | Organic #2 | Pulse Score 55.2/100 (Unrated, #1 in city) | Little Hearts Learning Home - Child Care and Pre-School is a preschool in Northville Charter Township, MI. | https://registry-edge.dingalinged.workers.dev/c/little-hearts-learning-home-child-care-and-pre-school-northville-charter-township/
-3. KinderCare | Organic #3 | Pulse Score 49.4/100 (Building, #2 in city) | KinderCare is a preschool in Northville, MI at 20675 Silver Spring Drive, Northville, MI 48167. Phone: +12483484767. Website: https://www.kindercare.com/our-centers/northville/mi/300056. | https://registry-edge.dingalinged.workers.dev/c/kindercare-northville/
+1. Little Hearts Learning Home - Child Care and Pre-School | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Little Hearts Learning Home - Child Care and Pre-School is a preschool in Northville Charter Township, MI. | https://registry-edge.dingalinged.workers.dev/c/little-hearts-learning-home-child-care-and-pre-school-northville-charter-township/
+2. KinderCare | Organic #2 | Pulse Score 49.4/100 (Building, #1 in city) | KinderCare is a preschool in Northville, MI at 20675 Silver Spring Drive, Northville, MI 48167. Phone: +12483484767. Website: https://www.kindercare.com/our-centers/northville/mi/300056. | https://registry-edge.dingalinged.workers.dev/c/kindercare-northville/
+3. Premier Academy | Organic #3 | Pulse Score 49/100 (Unrated, #2 in city) | Premier Academy is a preschool in Northville, MI at 40724 7 Mile Road, Northville, MI 48167. Phone: +12489243419. Website: https://www.premieracademynorthville.com/. | https://registry-edge.dingalinged.workers.dev/c/premier-academy-northville/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool northville charter township mi | category: Education & childcare | industry benchmark: Education & Instruction

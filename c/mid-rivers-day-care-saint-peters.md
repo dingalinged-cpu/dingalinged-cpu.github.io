@@ -13,7 +13,7 @@ Mid Rivers Day Care is a preschool in Saint Peters, MO at 349 Mid Rivers Mall Dr
 - Website: https://www.cecci.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:30; Sa,Su off
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 100% of preschools in St. Peters, MO, #1 of 1 preschools in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 100% of preschools in St. Peters, MO, #1 of 1 preschools in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

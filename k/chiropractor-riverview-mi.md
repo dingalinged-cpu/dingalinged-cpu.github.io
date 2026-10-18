@@ -6,7 +6,7 @@ Also answers: chiropractor in Riverview, MI; chiropractor near me (Riverview, MI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Better Health Chiropractic & Rehab | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Better Health Chiropractic & Rehab is a chiropractor in Riverview, MI. Phone: +17342822225. | https://registry-edge.dingalinged.workers.dev/c/better-health-chiropractic-and-rehab-riverview/
+1. Better Health Chiropractic & Rehab | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Better Health Chiropractic & Rehab is a chiropractor in Riverview, MI. Phone: +17342822225. | https://registry-edge.dingalinged.workers.dev/c/better-health-chiropractic-and-rehab-riverview/
 2. Donathan Chiropractic | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Donathan Chiropractic is a chiropractor in Riverview, MI at 17533 Fort Street, Riverview, MI 48193. | https://registry-edge.dingalinged.workers.dev/c/donathan-chiropractic-riverview/
 
 ## Market data (for advertisers and agents)

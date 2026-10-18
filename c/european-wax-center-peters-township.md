@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Peters Township, PA. Website: https://l
 - Website: https://locations.waxcenter.com/pa/mcmurray/mcmurray-0572.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.1/100 — Building — top 86% of waxing salons in Pittsburgh, PA, #1 of 1 waxing salons in Peters Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 40.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42/100 — Building — top 86% of waxing salons in Pittsburgh, PA, #1 of 1 waxing salons in Peters Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 39.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

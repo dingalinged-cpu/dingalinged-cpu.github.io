@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. All Smiles Dental Studio of Eastgate | Organic #3 | Pulse Score 58.7/100 (Unrated, #14 in city) | All Smiles Dental Studio of Eastgate is a dentist in Cincinnati, OH at 4530 Eastgate Boulevard #620, Cincinnati, OH 45245. | https://registry-edge.dingalinged.workers.dev/c/all-smiles-dental-studio-of-eastgate-cincinnati/
 4. Dentists of Eastgate | Organic #4 | Pulse Score 57.8/100 (Unrated, #16 in city) | Dentists of Eastgate is a dentist in Cincinnati, OH at 880 Eastgate North Drive #101, Cincinnati, OH 45245. | https://registry-edge.dingalinged.workers.dev/c/dentists-of-eastgate-cincinnati/
 5. Afinia Dental | Organic #5 | Pulse Score 55.2/100 (Unrated, #1 in city) | Afinia Dental is a dentist in Union Township, OH. | https://registry-edge.dingalinged.workers.dev/c/afinia-dental-union-township/
-6. Aspen Dental | Organic #6 | Pulse Score 45.9/100 (Building, #19 in city) | Aspen Dental is a dentist in Cincinnati, OH at 867 Eastgate North Drive #B, Cincinnati, OH 45245. | https://registry-edge.dingalinged.workers.dev/c/aspen-dental-cincinnati/
+6. Aspen Dental | Organic #6 | Pulse Score 45.8/100 (Building, #19 in city) | Aspen Dental is a dentist in Cincinnati, OH at 867 Eastgate North Drive #B, Cincinnati, OH 45245. | https://registry-edge.dingalinged.workers.dev/c/aspen-dental-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist union township oh | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

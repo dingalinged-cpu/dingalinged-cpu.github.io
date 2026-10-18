@@ -13,7 +13,7 @@ Comfort Dental is a dentist in Boulder, CO. Website: https://comfortdental.com/b
 - Website: https://comfortdental.com/boulder-dentist/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-19:30; Sa 07:30-13:30
-- Pulse Score: 46.7/100 — Building — top 91% of dentists in Denver, CO, #30 of 34 dentists in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 90% of dentists in Denver, CO, #30 of 34 dentists in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

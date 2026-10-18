@@ -13,7 +13,7 @@ Blue Lion Salon Studios is a hair salon in Highlands Ranch, CO at 1265 Sergeant 
 - Website: https://thesalon.blue/bluelion-location/highland-ranch/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 10% of hair salons in Denver, CO, #1 of 7 hair salons in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 75% of hair salons in Denver, CO, #4 of 7 hair salons in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

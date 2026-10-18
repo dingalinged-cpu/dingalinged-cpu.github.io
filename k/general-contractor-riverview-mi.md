@@ -6,7 +6,7 @@ Also answers: general contractor in Riverview, MI; general contractor near me (R
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ajaxx Restoration | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Ajaxx Restoration is a general contractor in Riverview, MI at 18235 Krause Street, Riverview, MI 48193. Phone: +17346069312. Website: https://ajaxxrestoration.com/. | https://registry-edge.dingalinged.workers.dev/c/ajaxx-restoration-riverview/
+1. Ajaxx Restoration | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Ajaxx Restoration is a general contractor in Riverview, MI at 18235 Krause Street, Riverview, MI 48193. Phone: +17346069312. Website: https://ajaxxrestoration.com/. | https://registry-edge.dingalinged.workers.dev/c/ajaxx-restoration-riverview/
 
 ## Market data (for advertisers and agents)
 - Keyword: general contractor riverview mi | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

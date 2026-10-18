@@ -6,7 +6,7 @@ Also answers: staffing agency in Saint Peters, MO; staffing agency near me (Sain
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carshield Career Center | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Carshield Career Center is a staffing agency in Saint Peters, MO at 325 Mid Rivers Mall Drive, Saint Peters, MO 63376. Phone: +16368755520. Website: https://carshieldcareers.com/. | https://registry-edge.dingalinged.workers.dev/c/carshield-career-center-saint-peters/
+1. Carshield Career Center | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Carshield Career Center is a staffing agency in Saint Peters, MO at 325 Mid Rivers Mall Drive, Saint Peters, MO 63376. Phone: +16368755520. Website: https://carshieldcareers.com/. | https://registry-edge.dingalinged.workers.dev/c/carshield-career-center-saint-peters/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency saint peters mo | category: b2b_services | industry benchmark: Business Services

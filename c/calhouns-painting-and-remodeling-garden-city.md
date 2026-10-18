@@ -13,7 +13,7 @@ Calhouns Painting And Remodeling is a painting contractor in Garden City, KS at 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 12:00-17:30
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of painting contractors in Garden City, KS, #1 of 1 painting contractors in Garden City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of painting contractors in Garden City, KS, #1 of 1 painting contractors in Garden City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

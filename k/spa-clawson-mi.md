@@ -6,7 +6,7 @@ Also answers: spa in Clawson, MI; spa near me (Clawson, MI); best spa Clawson, M
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Motor City Float | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Motor City Float is a spa in Clawson, MI at 1203 West 14 Mile Road, Clawson, MI 48017. Phone: +12489512634. Website: https://www.motorcityfloat.com/. | https://registry-edge.dingalinged.workers.dev/c/motor-city-float-clawson/
+1. Motor City Float | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Motor City Float is a spa in Clawson, MI at 1203 West 14 Mile Road, Clawson, MI 48017. Phone: +12489512634. Website: https://www.motorcityfloat.com/. | https://registry-edge.dingalinged.workers.dev/c/motor-city-float-clawson/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa clawson mi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

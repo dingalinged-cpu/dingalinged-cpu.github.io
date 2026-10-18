@@ -13,7 +13,7 @@ Johnson Orthodontics is a dentist in Loveland, OH at 11050 South Lebanon Road, L
 - Website: https://www.johnson-orthodontics.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 90% of dentists in Cincinnati, OH, #5 of 6 dentists in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.5, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 90% of dentists in Cincinnati, OH, #5 of 6 dentists in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.5, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

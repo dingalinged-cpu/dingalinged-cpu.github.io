@@ -13,7 +13,7 @@ Gold and Coin of Fishers is a jewelry store in Fishers, IN at 7356 Fishers Cross
 - Website: https://goldandcoin.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 16% of jewelry stores in Indianapolis, IN, #2 of 3 jewelry stores in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 16% of jewelry stores in Indianapolis, IN, #2 of 3 jewelry stores in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

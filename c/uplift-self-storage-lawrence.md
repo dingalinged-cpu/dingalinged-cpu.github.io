@@ -13,7 +13,7 @@ Uplift Self Storage is a self-storage facility in Lawrence, KS at 2020 Princeton
 - Website: https://www.upliftselfstorage.com/locations/princeton-boulevard-lawrence-ks-66044
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa 09:00-17:00; Su 10:00-16:00
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 42% of self-storage facilitys in Lawrence, KS, #5 of 12 self-storage facilitys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 92% of self-storage facilitys in Lawrence, KS, #11 of 12 self-storage facilitys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

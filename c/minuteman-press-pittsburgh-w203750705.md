@@ -13,7 +13,7 @@ Minuteman Press is a printing service in Pittsburgh, PA at 1730 East Carson Stre
 - Website: https://www.southside.minutemanpress.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Building — top 53% of printing services in Pittsburgh, PA, #9 of 15 printing services in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 53% of printing services in Pittsburgh, PA, #9 of 15 printing services in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: martial arts in O’Fallon, MO; martial arts near me (O’Fallon, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sah Do Mu Sul | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Sah Do Mu Sul is a martial arts school in O’Fallon, MO at 929 North Main Street, O’Fallon, MO 63366. Phone: +16369785425. Website: https://sdmsofallon.net/. | https://registry-edge.dingalinged.workers.dev/c/sah-do-mu-sul-o-fallon/
+1. Sah Do Mu Sul | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Sah Do Mu Sul is a martial arts school in O’Fallon, MO at 929 North Main Street, O’Fallon, MO 63366. Phone: +16369785425. Website: https://sdmsofallon.net/. | https://registry-edge.dingalinged.workers.dev/c/sah-do-mu-sul-o-fallon/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts o’fallon mo | category: Fitness | industry benchmark: Health & Fitness

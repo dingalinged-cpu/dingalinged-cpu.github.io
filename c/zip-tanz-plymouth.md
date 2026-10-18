@@ -13,7 +13,7 @@ Zip Tanz is a tanning salon in Plymouth, MI at 1496 South Sheldon Road, Plymouth
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:00; Sa 10:00-18:00; Su 12:00-18:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 31% of tanning salons in Detroit, MI, #1 of 1 tanning salons in Plymouth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 31% of tanning salons in Detroit, MI, #1 of 1 tanning salons in Plymouth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Born2Bake | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Born2Bake is a bakery in Littleton, CO at 2540 West Main Street, Littleton, CO 80120. Phone: +13037946375. Website: https://www.born2bakebakery.com/. | https://registry-edge.dingalinged.workers.dev/c/born2bake-littleton/
 2. Manna Bakery & Deli | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Manna Bakery & Deli is a bakery in Littleton, CO. Phone: +13037982797. Website: https://mannabakerydeli.com/index.html. | https://registry-edge.dingalinged.workers.dev/c/manna-bakery-and-deli-littleton/
-3. Gigi's Cupcakes | Organic #3 | Pulse Score 43.8/100 (Unrated, #3 in city) | Gigi's Cupcakes is a bakery in Littleton, CO at 7301 South Santa Fe Drive, Littleton, CO 80120. | https://registry-edge.dingalinged.workers.dev/c/gigis-cupcakes-littleton/
+3. Gigi's Cupcakes | Organic #3 | Pulse Score 43.9/100 (Unrated, #3 in city) | Gigi's Cupcakes is a bakery in Littleton, CO at 7301 South Santa Fe Drive, Littleton, CO 80120. | https://registry-edge.dingalinged.workers.dev/c/gigis-cupcakes-littleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery littleton co | category: Events & weddings | industry benchmark: Personal Services

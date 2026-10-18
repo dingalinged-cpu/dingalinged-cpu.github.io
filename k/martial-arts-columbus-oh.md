@@ -6,8 +6,8 @@ Also answers: martial arts in Columbus, OH; martial arts near me (Columbus, OH);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Relson Gracie Jiu-Jitsu Academy | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Relson Gracie Jiu-Jitsu Academy is a martial arts school in Columbus, OH at 6821 Flags Center Drive, Columbus, OH 43229. Phone: +16148902340. Website: https://www.gracieohio.com/. | https://registry-edge.dingalinged.workers.dev/c/relson-gracie-jiu-jitsu-academy-columbus/
-2. Ronin Training Center | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Ronin Training Center is a martial arts school in Columbus, OH. Phone: +16145653787. Website: https://www.ronintrainingcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/ronin-training-center-columbus/
+1. Relson Gracie Jiu-Jitsu Academy | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Relson Gracie Jiu-Jitsu Academy is a martial arts school in Columbus, OH at 6821 Flags Center Drive, Columbus, OH 43229. Phone: +16148902340. Website: https://www.gracieohio.com/. | https://registry-edge.dingalinged.workers.dev/c/relson-gracie-jiu-jitsu-academy-columbus/
+2. Ronin Training Center | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Ronin Training Center is a martial arts school in Columbus, OH. Phone: +16145653787. Website: https://www.ronintrainingcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/ronin-training-center-columbus/
 3. E.J.S Warrior Karate Academy | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | E.J.S Warrior Karate Academy is a martial arts school in Columbus, OH. | https://registry-edge.dingalinged.workers.dev/c/e-j-s-warrior-karate-academy-columbus/
 
 ## Market data (for advertisers and agents)

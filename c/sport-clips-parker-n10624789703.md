@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Parker, CO at 12947 South Parker Road #4, Parker,
 - Website: https://haircutmenstrohranchparkerco.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00
-- Pulse Score: 49.4/100 — Building — top 71% of hair salons in Denver, CO, #13 of 29 hair salons in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 70% of hair salons in Denver, CO, #12 of 29 hair salons in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

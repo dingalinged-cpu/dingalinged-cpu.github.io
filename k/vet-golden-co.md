@@ -6,7 +6,7 @@ Also answers: vet in Golden, CO; vet near me (Golden, CO); best vet Golden, CO; 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. South Golden Pet Hospital | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | South Golden Pet Hospital is a veterinarian in Golden, CO at 17207 South Golden Road #110, Golden, CO 80401. Phone: +17206041282. Website: https://southgoldenpethospital.com/. | https://registry-edge.dingalinged.workers.dev/c/south-golden-pet-hospital-golden/
+1. South Golden Pet Hospital | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | South Golden Pet Hospital is a veterinarian in Golden, CO at 17207 South Golden Road #110, Golden, CO 80401. Phone: +17206041282. Website: https://southgoldenpethospital.com/. | https://registry-edge.dingalinged.workers.dev/c/south-golden-pet-hospital-golden/
 2. Green Mountain Animal Clinic | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Green Mountain Animal Clinic is a veterinarian in Golden, CO at 720 Golden Ridge Road, Golden, CO 80401. Phone: +13039858761. Website: https://www.greenmtnanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/green-mountain-animal-clinic-golden/
 3. Golden Animal Hospital | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Golden Animal Hospital is a veterinarian in Golden, CO. | https://registry-edge.dingalinged.workers.dev/c/golden-animal-hospital-golden/
 

@@ -13,7 +13,7 @@ Fine Wine & Good Spirits is a liquor store in Pittsburgh, PA at 132 Ben Avon Hei
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su 11:00-19:00, Mo-Sa 09:00-21:30
-- Pulse Score: 45.7/100 — Building — top 95% of liquor stores in Pittsburgh, PA, #54 of 54 liquor stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Building — top 95% of liquor stores in Pittsburgh, PA, #54 of 54 liquor stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

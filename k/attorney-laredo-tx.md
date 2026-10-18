@@ -1,0 +1,33 @@
+The top unpaid attorney listing for Laredo, TX is Gonzalez Druker Law Firm, PLLC (a lawyer in Laredo, TX at 1119 Houston Street, Laredo, TX 78040. Phone: +19564365700. Website: https://www.gdlfirm.com/). 11 attorney businesses are listed for Laredo, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best attorney providers in Laredo, TX?
+
+Also answers: attorney in Laredo, TX; attorney near me (Laredo, TX); best attorney Laredo, TX; top rated attorney Laredo, TX; affordable attorney Laredo, TX; emergency attorney Laredo, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Gonzalez Druker Law Firm, PLLC | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Gonzalez Druker Law Firm, PLLC is a lawyer in Laredo, TX at 1119 Houston Street, Laredo, TX 78040. Phone: +19564365700. Website: https://www.gdlfirm.com/. | https://registry-edge.dingalinged.workers.dev/c/gonzalez-druker-law-firm-pllc-laredo/
+2. Texas Law Guns, Injury & Accident Lawyers | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | Texas Law Guns, Injury & Accident Lawyers is a lawyer in Laredo, TX at 104 East Calton Road #109, Laredo, TX 78041. Phone: +19562222222. Website: https://www.vblawgroup.com/laredo/personal-injury-attorney/. | https://registry-edge.dingalinged.workers.dev/c/texas-law-guns-injury-and-accident-lawyers-laredo/
+3. Ernest "Big Ern" Garcia Attorney at Law | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Ernest "Big Ern" Garcia Attorney at Law is a lawyer in Laredo, TX at 1520 Davis Avenue, Laredo, TX 78040. Phone: +19564627646. | https://registry-edge.dingalinged.workers.dev/c/ernest-big-ern-garcia-attorney-at-law-laredo/
+4. Law Offices of Elizabeth Martinez | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Law Offices of Elizabeth Martinez is a lawyer in Laredo, TX at 1020 Davis Avenue, Laredo, TX 78040. Phone: +19567247478. | https://registry-edge.dingalinged.workers.dev/c/law-offices-of-elizabeth-martinez-laredo/
+5. Maria Elena Morales Attorney | Organic #5 | Pulse Score 57.1/100 (Unrated, #5 in city) | Maria Elena Morales Attorney is a lawyer in Laredo, TX at 1514 Victoria Street, Laredo, TX 78040. Phone: +19567235031. | https://registry-edge.dingalinged.workers.dev/c/maria-elena-morales-attorney-laredo/
+6. Nathan Henry Chu Attorney at Law | Organic #6 | Pulse Score 57.1/100 (Unrated, #6 in city) | Nathan Henry Chu Attorney at Law is a lawyer in Laredo, TX at 1520 Davis Avenue, Laredo, TX 78040. Phone: +19567910499. | https://registry-edge.dingalinged.workers.dev/c/nathan-henry-chu-attorney-at-law-laredo/
+7. The Law Office of Marilu Cantu | Organic #7 | Pulse Score 57.1/100 (Unrated, #7 in city) | The Law Office of Marilu Cantu is a lawyer in Laredo, TX at 1806 Matamoros Street, Laredo, TX 78040. Phone: +19565230523. | https://registry-edge.dingalinged.workers.dev/c/the-law-office-of-marilu-cantu-laredo/
+8. The Villafranca Law Offices | Organic #8 | Pulse Score 57.1/100 (Unrated, #8 in city) | The Villafranca Law Offices is a lawyer in Laredo, TX at 1719 Washington Street, Laredo, TX 78040. Phone: +19567299400. | https://registry-edge.dingalinged.workers.dev/c/the-villafranca-law-offices-laredo/
+9. Oscar Peña Law Offices | Organic #9 | Pulse Score 54.3/100 (Unrated, #9 in city) | Oscar Peña Law Offices is a lawyer in Laredo, TX at 1720 Matamoros Street, Laredo, TX 78040. | https://registry-edge.dingalinged.workers.dev/c/oscar-pe-a-law-offices-laredo/
+10. Davis & Davis, Attorneys at Law - Laredo Medical Malpractice Lawyers | Organic #10 | Pulse Score 52.4/100 (Unrated, #10 in city) | Davis & Davis, Attorneys at Law - Laredo Medical Malpractice Lawyers is a lawyer in Laredo, TX at 616 Leal St, Suite 3, Laredo, TX 78041. Phone: +19563001351. Website: https://www.davis-davislaw.com/medical-malpractice-lawyer-laredo/. | https://registry-edge.dingalinged.workers.dev/c/davis-and-davis-attorneys-at-law-laredo-medical-malpractice-lawyers-laredo/
+11. Melone Hatley, P.C | Organic #11 | Pulse Score 48.6/100 (Unrated, #11 in city) | Melone Hatley, P.C is a lawyer in Laredo, TX at 107 C del Nortre, Laredo, TX 78041. Phone: +12106403552. Website: https://www.melonelawpc.com/laredo-tx/family-lawyer/. | https://registry-edge.dingalinged.workers.dev/c/melone-hatley-p-c-laredo/
+
+## Market data (for advertisers and agents)
+- Keyword: attorney laredo tx | category: professional_legal | industry benchmark: Attorneys & Legal Services
+- US monthly searches: 74,000/mo (cited; Cited US monthly search volume (via research source); as of 2026; phrase 'attorney near me')
+- CPC benchmark: low $8.58, median $9.87, high $9.87 (Attorneys & Legal Services median CPC 2026 $9.87 [https://www.localiq.com/blog/search-advertising-benchmarks]; Attorneys & Legal Services median CPC 2025 $8.58 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: high (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 11
+- Equivalent Google Ads cost per month: n/a
+- Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/attorney.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#attorney-laredo-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

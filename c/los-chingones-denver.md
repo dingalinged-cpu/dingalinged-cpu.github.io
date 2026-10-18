@@ -13,7 +13,7 @@ Los Chingones is a caterer in Denver, CO at 2463 Larimer Street, Denver, CO 8020
 - Website: https://www.loschingonesmexican.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 11:30-22:00; Fr, Sa 11:30-23:00; Su 11:30-21:00
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 43% of caterers in Denver, CO, #9 of 16 caterers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 43% of caterers in Denver, CO, #9 of 16 caterers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

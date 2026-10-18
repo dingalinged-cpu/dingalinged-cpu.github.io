@@ -7,7 +7,7 @@ Also answers: landscaping in Detroit, MI; landscaping near me (Detroit, MI); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Kevin's All Season | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Kevin's All Season is a landscaping company in Detroit, MI at 2795 Fort Street South, Detroit, MI 48217. Phone: +13132944545. Website: https://www.kevinsallseason.com/. | https://registry-edge.dingalinged.workers.dev/c/kevins-all-season-detroit/
-2. Rollo Landscaping | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Rollo Landscaping is a landscaping company in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/rollo-landscaping-detroit/
+2. Rollo Landscaping | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | Rollo Landscaping is a landscaping company in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/rollo-landscaping-detroit/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping detroit mi | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

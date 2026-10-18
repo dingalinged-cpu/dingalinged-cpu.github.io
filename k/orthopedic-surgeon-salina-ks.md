@@ -6,7 +6,7 @@ Also answers: orthopedic surgeon in Salina, KS; orthopedic surgeon near me (Sali
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salina Ortho Clinic | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Salina Ortho Clinic is an orthopedic surgeon in Salina, KS. | https://registry-edge.dingalinged.workers.dev/c/salina-ortho-clinic-salina/
+1. Salina Ortho Clinic | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Salina Ortho Clinic is an orthopedic surgeon in Salina, KS. | https://registry-edge.dingalinged.workers.dev/c/salina-ortho-clinic-salina/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon salina ks | category: Health & medical | industry benchmark: Physicians & Surgeons

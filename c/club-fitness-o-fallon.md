@@ -13,7 +13,7 @@ Club Fitness is a gym in O’Fallon, MO at 225 O'Fallon Plaza, O’Fallon, MO 63
 - Website: https://www.clubfitness.us/location/ofallon-north/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 67% of gyms in O'Fallon, MO, #2 of 3 gyms in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 67% of gyms in O'Fallon, MO, #2 of 3 gyms in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

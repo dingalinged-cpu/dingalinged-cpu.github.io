@@ -13,7 +13,7 @@ ABC Law Centers (Reiter & Walsh) is a lawyer in Bloomfield Hills, MI at 122 Conc
 - Website: https://www.abclawcenters.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 15% of lawyers in Detroit, MI, #3 of 4 lawyers in Bloomfield Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 15% of lawyers in Detroit, MI, #3 of 4 lawyers in Bloomfield Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

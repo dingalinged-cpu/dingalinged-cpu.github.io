@@ -6,7 +6,7 @@ Also answers: phone repair in Arvada, CO; phone repair near me (Arvada, CO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. uBreakiFix | Organic #1 | Pulse Score 41.4/100 (Building, #1 in city) | uBreakiFix is a phone repair shop in Arvada, CO. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-arvada/
+1. uBreakiFix | Organic #1 | Pulse Score 41.3/100 (Building, #1 in city) | uBreakiFix is a phone repair shop in Arvada, CO. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-arvada/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair arvada co | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

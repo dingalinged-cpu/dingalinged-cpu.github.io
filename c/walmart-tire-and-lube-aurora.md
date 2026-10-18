@@ -13,7 +13,7 @@ Walmart Tire & Lube is an auto repair shop in Aurora, CO at 9400 East Hampden Av
 - Website: https://www.walmart.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Unrated (not enough evidence yet) — top 82% of auto repair shops in Denver, CO, #76 of 87 auto repair shops in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Unrated (not enough evidence yet) — top 81% of auto repair shops in Denver, CO, #75 of 87 auto repair shops in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

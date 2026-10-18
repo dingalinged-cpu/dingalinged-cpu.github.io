@@ -13,7 +13,7 @@ James Douglas Jewelers is a jewelry store in Monroeville, PA at 1768 Golden Mile
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr 10:00-18:00; We 10:00-20:00; Sa 10:00-15:00
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 25% of jewelry stores in Pittsburgh, PA, #1 of 4 jewelry stores in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 25% of jewelry stores in Pittsburgh, PA, #1 of 4 jewelry stores in Monroeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

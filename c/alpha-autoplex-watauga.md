@@ -1,0 +1,24 @@
+Alpha Autoplex is an used car dealer in Watauga, TX.
+
+# Alpha Autoplex
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: Watauga, TX
+- City: Watauga
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.8610429, -97.2643333
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 69% of used car dealers in Fort Worth, TX, #2 of 2 used car dealers in Watauga (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 39.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/alpha-autoplex-watauga/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/alpha-autoplex-watauga.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1434491163 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

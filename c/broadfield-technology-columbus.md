@@ -13,7 +13,7 @@ BroadField Technology is an IT support company in Columbus, OH at 1114 Dublin Ro
 - Website: https://www.teambroadfield.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 28% of IT support companys in Columbus, OH, #2 of 6 IT support companys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 28% of IT support companys in Columbus, OH, #2 of 6 IT support companys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

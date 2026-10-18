@@ -6,7 +6,7 @@ Also answers: plumber in Oak Park, MI; plumber near me (Oak Park, MI); best plum
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Universal Plumbing Supply | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Universal Plumbing Supply is a plumber in Oak Park, MI at 14511 West 11 Mile Road, Oak Park, MI 48237. | https://registry-edge.dingalinged.workers.dev/c/universal-plumbing-supply-oak-park/
+1. Universal Plumbing Supply | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Universal Plumbing Supply is a plumber in Oak Park, MI at 14511 West 11 Mile Road, Oak Park, MI 48237. | https://registry-edge.dingalinged.workers.dev/c/universal-plumbing-supply-oak-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber oak park mi | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

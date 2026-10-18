@@ -13,7 +13,7 @@ The Goddard School of Loveland is a preschool in Loveland, OH at 782 Loveland-Mi
 - Website: https://www.goddardschool.com/cincinnati/loveland-miamiville-road-oh
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Building — top 60% of preschools in Cincinnati, OH, #3 of 4 preschools in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 60% of preschools in Cincinnati, OH, #3 of 4 preschools in Loveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. YouthLand Academy | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | YouthLand Academy is a preschool in Symmes Township, OH at 10632 Loveland Madeira Road, Symmes Township, OH. Phone: +15135831365. | https://registry-edge.dingalinged.workers.dev/c/youthland-academy-symmes-township/
 2. Primrose School of Symmes | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Primrose School of Symmes is a preschool in Symmes Township, OH. Website: https://www.primrosesymmes.com/. | https://registry-edge.dingalinged.workers.dev/c/primrose-school-of-symmes-symmes-township/
-3. The Children’s House | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | The Children’s House is a preschool in Symmes Township, OH. Website: https://www.thechildrenshousecincinnati.com/montgomery/. | https://registry-edge.dingalinged.workers.dev/c/the-children-s-house-symmes-township/
+3. The Children’s House | Organic #3 | Pulse Score 57.5/100 (Unrated, #3 in city) | The Children’s House is a preschool in Symmes Township, OH. Website: https://www.thechildrenshousecincinnati.com/montgomery/. | https://registry-edge.dingalinged.workers.dev/c/the-children-s-house-symmes-township/
 4. Blake Lindner Thompson Early Childhood Learning Center | Organic #4 | Pulse Score 46.9/100 (Unrated, #4 in city) | Blake Lindner Thompson Early Childhood Learning Center is a preschool in Symmes Township, OH. Website: https://www.chca-oh.org/academics/early-learning-at-chca. | https://registry-edge.dingalinged.workers.dev/c/blake-lindner-thompson-early-childhood-learning-center-symmes-township/
 
 ## Market data (for advertisers and agents)

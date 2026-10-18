@@ -6,7 +6,7 @@ Also answers: bike shop in Hutchinson, KS; bike shop near me (Hutchinson, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Herley's Bicycles | Organic #1 | Pulse Score 61.1/100 (Good, #1 in city) | Herley's Bicycles is a bike shop in Hutchinson, KS at 107 North Main Street, Hutchinson, KS. Phone: +16206634321. Website: https://www.harleysbicycles.com/. | https://registry-edge.dingalinged.workers.dev/c/herleys-bicycles-hutchinson/
+1. Herley's Bicycles | Organic #1 | Pulse Score 60.9/100 (Good, #1 in city) | Herley's Bicycles is a bike shop in Hutchinson, KS at 107 North Main Street, Hutchinson, KS. Phone: +16206634321. Website: https://www.harleysbicycles.com/. | https://registry-edge.dingalinged.workers.dev/c/herleys-bicycles-hutchinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop hutchinson ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -7,7 +7,7 @@ Also answers: it support in Wichita, KS; it support near me (Wichita, KS); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Computer Troubleshooters | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Computer Troubleshooters is an IT support company in Wichita, KS at 3700 East Douglas Avenue #90, Wichita, KS 67208. Phone: +13162011221. Website: https://www.technology-solved.com/wichita-ks/. | https://registry-edge.dingalinged.workers.dev/c/computer-troubleshooters-wichita/
-2. NetApp | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | NetApp is an IT support company in Wichita, KS at 1850 Innovation Boulevard, Wichita, KS. Website: https://www.netapp.com/customers/wsu-wichita-state-university/. | https://registry-edge.dingalinged.workers.dev/c/netapp-wichita/
+2. NetApp | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | NetApp is an IT support company in Wichita, KS at 1850 Innovation Boulevard, Wichita, KS. Website: https://www.netapp.com/customers/wsu-wichita-state-university/. | https://registry-edge.dingalinged.workers.dev/c/netapp-wichita/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support wichita ks | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

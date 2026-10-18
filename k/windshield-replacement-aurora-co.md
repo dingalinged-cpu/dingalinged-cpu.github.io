@@ -6,8 +6,8 @@ Also answers: windshield replacement in Aurora, CO; windshield replacement near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Safelite AutoGlass | Organic #1 | Pulse Score 47.7/100 (Building, #66 in city) | Safelite AutoGlass is an auto repair shop in Aurora, CO at 4313 South Buckley Road, Aurora, CO 80015. Phone: +17209614672. Website: https://safelite.com/. | https://registry-edge.dingalinged.workers.dev/c/safelite-autoglass-aurora/
-2. Safelite AutoGlass | Organic #2 | Pulse Score 46.1/100 (Building, #74 in city) | Safelite AutoGlass is an auto repair shop in Aurora, CO. Phone: +18008002727. | https://registry-edge.dingalinged.workers.dev/c/safelite-autoglass-aurora-n12020616600/
+1. Safelite AutoGlass | Organic #1 | Pulse Score 47.7/100 (Building, #65 in city) | Safelite AutoGlass is an auto repair shop in Aurora, CO at 4313 South Buckley Road, Aurora, CO 80015. Phone: +17209614672. Website: https://safelite.com/. | https://registry-edge.dingalinged.workers.dev/c/safelite-autoglass-aurora/
+2. Safelite AutoGlass | Organic #2 | Pulse Score 46.1/100 (Building, #73 in city) | Safelite AutoGlass is an auto repair shop in Aurora, CO. Phone: +18008002727. | https://registry-edge.dingalinged.workers.dev/c/safelite-autoglass-aurora-n12020616600/
 
 ## Market data (for advertisers and agents)
 - Keyword: windshield replacement aurora co | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

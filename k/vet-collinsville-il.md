@@ -6,7 +6,7 @@ Also answers: vet in Collinsville, IL; vet near me (Collinsville, IL); best vet 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Northgate Animal Hospital | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Northgate Animal Hospital is a veterinarian in Collinsville, IL at 1497 Vandalia Street, Collinsville, IL 62234. Phone: +16183440083. Website: https://www.northgatesmallanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/northgate-animal-hospital-collinsville/
+1. Northgate Animal Hospital | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Northgate Animal Hospital is a veterinarian in Collinsville, IL at 1497 Vandalia Street, Collinsville, IL 62234. Phone: +16183440083. Website: https://www.northgatesmallanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/northgate-animal-hospital-collinsville/
 2. Animal Emergency Center | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Animal Emergency Center is a veterinarian in Collinsville, IL. | https://registry-edge.dingalinged.workers.dev/c/animal-emergency-center-collinsville/
 
 ## Market data (for advertisers and agents)

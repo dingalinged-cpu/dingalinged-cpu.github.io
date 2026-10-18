@@ -6,8 +6,8 @@ Also answers: mattress store in Saint Peters, MO; mattress store near me (Saint 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | Organic #1 | Pulse Score 47.3/100 (Building, #2 in city) | Mattress Firm is a mattress store in Saint Peters, MO at 280 Mid Rivers Mall Circle, Saint Peters, MO 63376. Phone: +16363974666. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-saint-peters/
-2. Mattress Firm Clearance | Organic #2 | Pulse Score 47.3/100 (Building, #1 in city) | Mattress Firm Clearance is a mattress store in Saint Peters, MO at 195 Mid Rivers Mall Drive, Saint Peters, MO 63376. Phone: +16363970971. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-clearance-saint-peters/
+1. Mattress Firm | Organic #1 | Pulse Score 47.2/100 (Building, #2 in city) | Mattress Firm is a mattress store in Saint Peters, MO at 280 Mid Rivers Mall Circle, Saint Peters, MO 63376. Phone: +16363974666. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-saint-peters/
+2. Mattress Firm Clearance | Organic #2 | Pulse Score 47.2/100 (Building, #1 in city) | Mattress Firm Clearance is a mattress store in Saint Peters, MO at 195 Mid Rivers Mall Drive, Saint Peters, MO 63376. Phone: +16363970971. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-clearance-saint-peters/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store saint peters mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

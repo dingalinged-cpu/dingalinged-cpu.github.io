@@ -6,7 +6,7 @@ Also answers: car wash in Lake Saint Louis, MO; car wash near me (Lake Saint Lou
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tiger Wash | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Tiger Wash is a car wash in Lake Saint Louis, MO. | https://registry-edge.dingalinged.workers.dev/c/tiger-wash-lake-saint-louis/
+1. Tiger Wash | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Tiger Wash is a car wash in Lake Saint Louis, MO. | https://registry-edge.dingalinged.workers.dev/c/tiger-wash-lake-saint-louis/
 2. Circle K | Organic #2 | Pulse Score 45.7/100 (Building, #2 in city) | Circle K is a car wash in Lake Saint Louis, MO at 1001 Lake Saint Louis Boulevard, Lake Saint Louis, MO 63367. | https://registry-edge.dingalinged.workers.dev/c/circle-k-lake-saint-louis/
 
 ## Market data (for advertisers and agents)

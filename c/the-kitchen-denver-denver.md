@@ -13,7 +13,7 @@ The Kitchen Denver is a caterer in Denver, CO at 1560 Wazee Street, Denver, CO 8
 - Website: https://www.thekitchenbistros.com/location/the-kitchen-denver/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, Tu 11:00-21:30; We-Fr 11:00-22:30; Sa 10:00-22:30; Su 10:00-21:30
-- Pulse Score: 59.4/100 — Fair — top 47% of caterers in Denver, CO, #10 of 16 caterers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Fair — top 47% of caterers in Denver, CO, #10 of 16 caterers in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

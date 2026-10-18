@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Springfield, MO at 1715 East Independen
 - Website: https://stores.ashleyfurniture.com/store/us/missouri/springfield/7710000228/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 78% of furniture stores in Springfield, MO, #14 of 18 furniture stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 67% of furniture stores in Springfield, MO, #12 of 18 furniture stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

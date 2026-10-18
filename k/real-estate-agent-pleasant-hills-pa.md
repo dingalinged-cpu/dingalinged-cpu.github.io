@@ -7,7 +7,7 @@ Also answers: real estate agent in Pleasant Hills, PA; real estate agent near me
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. All Pittsburgh Real Estate | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | All Pittsburgh Real Estate is a real estate agency in Pleasant Hills, PA. | https://registry-edge.dingalinged.workers.dev/c/all-pittsburgh-real-estate-pleasant-hills/
-2. Coldwell Banker | Organic #2 | Pulse Score 42.9/100 (Building, #2 in city) | Coldwell Banker is a real estate agency in Pleasant Hills, PA. | https://registry-edge.dingalinged.workers.dev/c/coldwell-banker-pleasant-hills/
+2. Coldwell Banker | Organic #2 | Pulse Score 42.8/100 (Building, #2 in city) | Coldwell Banker is a real estate agency in Pleasant Hills, PA. | https://registry-edge.dingalinged.workers.dev/c/coldwell-banker-pleasant-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent pleasant hills pa | category: Professional & financial services | industry benchmark: Finance & Insurance

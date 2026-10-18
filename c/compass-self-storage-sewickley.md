@@ -13,7 +13,7 @@ Compass Self Storage is a self-storage facility in Sewickley, PA at 2404 Nichols
 - Website: https://www.compassselfstorage.com/self-storage/pa/sewickley/nicholson/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.3/100 — Building — top 76% of self-storage facilitys in Pittsburgh, PA, #1 of 1 self-storage facilitys in Sewickley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 75% of self-storage facilitys in Pittsburgh, PA, #1 of 1 self-storage facilitys in Sewickley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Lawrence Storage is a self-storage facility in Lawrence, KS at 2201 Saint James 
 - Website: https://www.lawrencestorage.com/
 - Email: lawrencestorage@hotmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 67% of self-storage facilitys in Lawrence, KS, #8 of 12 self-storage facilitys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 50% of self-storage facilitys in Lawrence, KS, #6 of 12 self-storage facilitys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Paw Wash Grooming Salon is a dog groomer in Manchester, MO at 661 Big Bend Road,
 - Website: https://www.facebook.com/PawWashGroomingSalon/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Good — top 20% of dog groomers in St. Louis, MO, #1 of 1 dog groomers in Manchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 20% of dog groomers in St. Louis, MO, #1 of 1 dog groomers in Manchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

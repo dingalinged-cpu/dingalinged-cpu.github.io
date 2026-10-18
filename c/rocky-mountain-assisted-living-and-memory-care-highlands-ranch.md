@@ -13,7 +13,7 @@ Rocky Mountain Assisted Living and Memory Care is an assisted living facility in
 - Website: https://rockymountainassistedliving.com/tour-our-locations/memory-care-highlands-ranch-chestnut-hill/
 - Email: info@rockymountainassistedliving.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.6/100 — Fair — top 94% of assisted living facilitys in Denver, CO, #1 of 1 assisted living facilitys in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 94% of assisted living facilitys in Denver, CO, #1 of 1 assisted living facilitys in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

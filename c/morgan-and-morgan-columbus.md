@@ -13,7 +13,7 @@ Morgan & Morgan is a lawyer in Columbus, OH at 20 South Third Street #Suite 238,
 - Website: https://www.forthepeople.com/columbus-oh/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 99% of lawyers in Columbus, OH, #49 of 50 lawyers in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 99% of lawyers in Columbus, OH, #49 of 50 lawyers in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

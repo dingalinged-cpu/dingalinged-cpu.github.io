@@ -7,7 +7,7 @@ Also answers: pilates in Berkley, MI; pilates near me (Berkley, MI); best pilate
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Reforming Foundations | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Reforming Foundations is a pilates studio in Berkley, MI at 3044 12 Mile Road, Berkley, MI 48072. Website: https://www.reformingfoundations.com/. | https://registry-edge.dingalinged.workers.dev/c/reforming-foundations-berkley/
-2. Core (LP) Fitness | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Core (LP) Fitness is a pilates studio in Berkley, MI. Website: https://corelpfitness.com/. | https://registry-edge.dingalinged.workers.dev/c/core-lp-fitness-berkley/
+2. Core (LP) Fitness | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Core (LP) Fitness is a pilates studio in Berkley, MI. Website: https://corelpfitness.com/. | https://registry-edge.dingalinged.workers.dev/c/core-lp-fitness-berkley/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates berkley mi | category: Fitness | industry benchmark: Health & Fitness

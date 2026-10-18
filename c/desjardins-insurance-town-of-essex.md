@@ -13,7 +13,7 @@ Desjardins Insurance is an insurance agent in Town of Essex, MI at 10 Victoria A
 - Website: n/a
 - Email: bob.leyte@desjardins.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 47.8/100 — Building — top 49% of insurance agents in Detroit, MI, #3 of 3 insurance agents in Town of Essex (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 49% of insurance agents in Detroit, MI, #3 of 3 insurance agents in Town of Essex (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

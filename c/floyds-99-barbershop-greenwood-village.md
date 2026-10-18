@@ -13,7 +13,7 @@ Floyd's 99 Barbershop is a hair salon in Greenwood Village, CO at 5322 DTC Boule
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-18:00
-- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 79% of hair salons in Denver, CO, #12 of 13 hair salons in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 78% of hair salons in Denver, CO, #12 of 13 hair salons in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

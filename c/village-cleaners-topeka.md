@@ -13,7 +13,7 @@ Village Cleaners is a dry cleaner in Topeka, KS at 2940 Southwest Wanamaker Road
 - Website: https://myvillagecleaner.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:15; Sa 08:30-13:00
-- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 80% of dry cleaners in Topeka, KS, #4 of 5 dry cleaners in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 80% of dry cleaners in Topeka, KS, #4 of 5 dry cleaners in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

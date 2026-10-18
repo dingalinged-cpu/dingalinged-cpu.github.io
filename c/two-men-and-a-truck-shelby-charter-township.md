@@ -13,7 +13,7 @@ Two Men and a Truck is a moving company in Shelby Charter Township, MI at 54810 
 - Website: https://twomenandatruck.com/movers/mi/shelby-township
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Building — top 100% of moving companys in Detroit, MI, #1 of 1 moving companys in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Building — top 100% of moving companys in Detroit, MI, #1 of 1 moving companys in Shelby Charter Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

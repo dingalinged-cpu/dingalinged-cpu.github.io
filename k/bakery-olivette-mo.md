@@ -6,7 +6,7 @@ Also answers: bakery in Olivette, MO; bakery near me (Olivette, MO); best bakery
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sugarfire Pies | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Sugarfire Pies is a bakery in Olivette, MO. | https://registry-edge.dingalinged.workers.dev/c/sugarfire-pies-olivette/
+1. Sugarfire Pies | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Sugarfire Pies is a bakery in Olivette, MO. | https://registry-edge.dingalinged.workers.dev/c/sugarfire-pies-olivette/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery olivette mo | category: Events & weddings | industry benchmark: Personal Services

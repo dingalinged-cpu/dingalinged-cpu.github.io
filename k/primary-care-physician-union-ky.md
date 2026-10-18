@@ -6,7 +6,7 @@ Also answers: primary care physician in Union, KY; primary care physician near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Union Mount Zion Primary Care | Organic #1 | Pulse Score 43/100 (Building, #1 in city) | Union Mount Zion Primary Care is a family medicine practice in Union, KY. Website: https://www.stelizabethphysicians.com/location/details/union-mt-zion-primary-care. | https://registry-edge.dingalinged.workers.dev/c/union-mount-zion-primary-care-union/
+1. Union Mount Zion Primary Care | Organic #1 | Pulse Score 43.1/100 (Building, #1 in city) | Union Mount Zion Primary Care is a family medicine practice in Union, KY. Website: https://www.stelizabethphysicians.com/location/details/union-mt-zion-primary-care. | https://registry-edge.dingalinged.workers.dev/c/union-mount-zion-primary-care-union/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician union ky | category: Health & medical | industry benchmark: Physicians & Surgeons

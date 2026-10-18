@@ -6,7 +6,7 @@ Also answers: roofing contractor in Loveland, OH; roofing contractor near me (Lo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fasten-Pro Roofing, LLC. | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Fasten-Pro Roofing, LLC. is a roofer in Loveland, OH at 581 Branch Hill-Loveland Road, Loveland, OH 45140. Website: https://fastenproroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/fasten-pro-roofing-llc-loveland/
+1. Fasten-Pro Roofing, LLC. | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Fasten-Pro Roofing, LLC. is a roofer in Loveland, OH at 581 Branch Hill-Loveland Road, Loveland, OH 45140. Website: https://fastenproroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/fasten-pro-roofing-llc-loveland/
 2. The Garland Company | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | The Garland Company is a roofer in Loveland, OH. | https://registry-edge.dingalinged.workers.dev/c/the-garland-company-loveland/
 
 ## Market data (for advertisers and agents)

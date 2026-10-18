@@ -7,8 +7,8 @@ Also answers: car wash in Northglenn, CO; car wash near me (Northglenn, CO); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Wash Me Car Wash | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Wash Me Car Wash is a car wash in Northglenn, CO at 11495 Washington Street, Northglenn, CO 80233. | https://registry-edge.dingalinged.workers.dev/c/wash-me-car-wash-northglenn/
-2. Car Wash Express | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Car Wash Express is a car wash in Northglenn, CO at 2295 East 120th Avenue, Northglenn, CO 80233. | https://registry-edge.dingalinged.workers.dev/c/car-wash-express-northglenn/
-3. Circle K | Organic #3 | Pulse Score 46.7/100 (Building, #3 in city) | Circle K is a car wash in Northglenn, CO at 2265 East 120th Avenue, Northglenn, CO 80233. Website: https://www.circlek.com/store-locator/US/northglenn/2265-e-120th-ave/2709859. | https://registry-edge.dingalinged.workers.dev/c/circle-k-northglenn/
+2. Circle K | Organic #2 | Pulse Score 46.7/100 (Building, #2 in city) | Circle K is a car wash in Northglenn, CO at 2265 East 120th Avenue, Northglenn, CO 80233. Website: https://www.circlek.com/store-locator/US/northglenn/2265-e-120th-ave/2709859. | https://registry-edge.dingalinged.workers.dev/c/circle-k-northglenn/
+3. Car Wash Express | Organic #3 | Pulse Score 44.1/100 (Unrated, #3 in city) | Car Wash Express is a car wash in Northglenn, CO at 2295 East 120th Avenue, Northglenn, CO 80233. | https://registry-edge.dingalinged.workers.dev/c/car-wash-express-northglenn/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash northglenn co | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

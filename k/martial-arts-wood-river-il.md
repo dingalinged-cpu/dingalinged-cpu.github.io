@@ -6,7 +6,7 @@ Also answers: martial arts in Wood River, IL; martial arts near me (Wood River, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. War Room | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | War Room is a martial arts school in Wood River, IL. | https://registry-edge.dingalinged.workers.dev/c/war-room-wood-river/
+1. War Room | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | War Room is a martial arts school in Wood River, IL. | https://registry-edge.dingalinged.workers.dev/c/war-room-wood-river/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts wood river il | category: Fitness | industry benchmark: Health & Fitness

@@ -6,9 +6,9 @@ Also answers: financial advisor in Greenwood Village, CO; financial advisor near
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | Organic #1 | Pulse Score 68.1/100 (Good, #1 in city) | Edward Jones is a financial advisor in Greenwood Village, CO at 5910 South University Boulevard #C4, Greenwood Village, CO 80121. Phone: +13037970446. Website: https://www.edwardjones.com/. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-greenwood-village/
+1. Edward Jones | Organic #1 | Pulse Score 68/100 (Good, #1 in city) | Edward Jones is a financial advisor in Greenwood Village, CO at 5910 South University Boulevard #C4, Greenwood Village, CO 80121. Phone: +13037970446. Website: https://www.edwardjones.com/. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-greenwood-village/
 2. JPL Wealth Management | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | JPL Wealth Management is a financial advisor in Greenwood Village, CO at 5300 DTC Parkway, Suite 100, Greenwood Village, CO 80111. Phone: +18555755752. Website: https://www.jplwm.com/. | https://registry-edge.dingalinged.workers.dev/c/jpl-wealth-management-greenwood-village/
-3. RBC Wealth Management | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | RBC Wealth Management is a financial advisor in Greenwood Village, CO at 5251 DTC Parkway #1200, Greenwood Village, CO 80111. | https://registry-edge.dingalinged.workers.dev/c/rbc-wealth-management-greenwood-village/
+3. RBC Wealth Management | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | RBC Wealth Management is a financial advisor in Greenwood Village, CO at 5251 DTC Parkway #1200, Greenwood Village, CO 80111. | https://registry-edge.dingalinged.workers.dev/c/rbc-wealth-management-greenwood-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor greenwood village co | category: Professional & financial services | industry benchmark: Finance & Insurance

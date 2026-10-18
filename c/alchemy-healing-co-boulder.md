@@ -13,7 +13,7 @@ Alchemy Healing Co. is an acupuncture clinic in Boulder, CO at 1105 Spruce Stree
 - Website: https://alchemyhealingco.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 34% of acupuncture clinics in Denver, CO, #2 of 4 acupuncture clinics in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 34% of acupuncture clinics in Denver, CO, #2 of 4 acupuncture clinics in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

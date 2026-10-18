@@ -13,7 +13,7 @@ Bloodlines Gallery is a tattoo shop in Pittsburgh, PA at 4764 Liberty Avenue, Pi
 - Website: https://bloodlinesgallery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 12:00-20:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 11% of tattoo shops in Pittsburgh, PA, #2 of 17 tattoo shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 11% of tattoo shops in Pittsburgh, PA, #2 of 17 tattoo shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

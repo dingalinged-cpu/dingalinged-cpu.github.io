@@ -6,7 +6,7 @@ Also answers: event venues in Hilliard, OH; event venues near me (Hilliard, OH);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Makoy Center | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Makoy Center is an event venue in Hilliard, OH at 5462 Center Street, Hilliard, OH 43026. Website: https://www.makoy.com/. | https://registry-edge.dingalinged.workers.dev/c/makoy-center-hilliard/
+1. Makoy Center | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Makoy Center is an event venue in Hilliard, OH at 5462 Center Street, Hilliard, OH 43026. Website: https://www.makoy.com/. | https://registry-edge.dingalinged.workers.dev/c/makoy-center-hilliard/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues hilliard oh | category: Events & weddings | industry benchmark: Personal Services

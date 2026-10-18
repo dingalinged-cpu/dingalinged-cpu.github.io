@@ -6,7 +6,7 @@ Also answers: flooring companies in Keego Harbor, MI; flooring companies near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Harbor Floors & Interiors, Inc. | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Harbor Floors & Interiors, Inc. is a flooring company in Keego Harbor, MI at 3023 Orchard Lake Road, Keego Harbor, MI 48320. | https://registry-edge.dingalinged.workers.dev/c/harbor-floors-and-interiors-inc-keego-harbor/
+1. Harbor Floors & Interiors, Inc. | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Harbor Floors & Interiors, Inc. is a flooring company in Keego Harbor, MI at 3023 Orchard Lake Road, Keego Harbor, MI 48320. | https://registry-edge.dingalinged.workers.dev/c/harbor-floors-and-interiors-inc-keego-harbor/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies keego harbor mi | category: Home services - Flooring | industry benchmark: Home & Home Improvement

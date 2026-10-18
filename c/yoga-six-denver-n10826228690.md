@@ -13,7 +13,7 @@ Yoga Six is a yoga studio in Denver, CO at 7111 East Lowry Boulevard #105, Denve
 - Website: https://www.yogasix.com/location/boulevard-one
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-20:00; Tu,Th 07:00-20:00; We 05:30-20:00; Fr 05:30-17:00; Sa 07:00-13:00; Su 08:30-17:00
-- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 69% of yoga studios in Denver, CO, #8 of 13 yoga studios in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 69% of yoga studios in Denver, CO, #8 of 13 yoga studios in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Pet Wants is a pet store in Springfield, MO at 1344 East Battlefield Road, Sprin
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-16:00
-- Pulse Score: 45.4/100 — Unrated (not enough evidence yet) — top 85% of pet stores in Springfield, MO, #10 of 12 pet stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Unrated (not enough evidence yet) — top 85% of pet stores in Springfield, MO, #10 of 12 pet stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

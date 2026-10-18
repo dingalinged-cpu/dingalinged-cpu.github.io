@@ -7,7 +7,7 @@ Also answers: urgent care in South Fayette Township, PA; urgent care near me (So
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Children's South | Organic #1 | Pulse Score 48.5/100 (Unrated, #1 in city) | Children's South is a pediatrician in Bridgeville, PA at 205 Millers Run Road, Bridgeville, PA 15017. Phone: +14126927337. Website: https://www.chp.edu/locations/childrens-south. | https://registry-edge.dingalinged.workers.dev/c/childrens-south-bridgeville/
-2. MedExpress | Organic #2 | Pulse Score 48.3/100 (Unrated, #1 in city) | MedExpress is an urgent care clinic in Bridgeville, PA at 3024 Washington Pike, Bridgeville, PA 15017. Phone: +14122215475. Website: https://www.medexpress.com/location/pa/bridgeville/bdp/. | https://registry-edge.dingalinged.workers.dev/c/medexpress-bridgeville/
+2. MedExpress | Organic #2 | Pulse Score 48.4/100 (Unrated, #1 in city) | MedExpress is an urgent care clinic in Bridgeville, PA at 3024 Washington Pike, Bridgeville, PA 15017. Phone: +14122215475. Website: https://www.medexpress.com/location/pa/bridgeville/bdp/. | https://registry-edge.dingalinged.workers.dev/c/medexpress-bridgeville/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care south fayette township pa | category: Health & medical | industry benchmark: Physicians & Surgeons

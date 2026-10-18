@@ -6,8 +6,8 @@ Also answers: it support in Farmington Hills, MI; it support near me (Farmington
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Luxoft | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Luxoft is an IT support company in Farmington Hills, MI at 34505 West 12 Mile Road #215, Farmington Hills, MI 48331. Website: https://www.luxoft.com/. | https://registry-edge.dingalinged.workers.dev/c/luxoft-farmington-hills/
-2. Elektrobit Automotive Inc. | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Elektrobit Automotive Inc. is an IT support company in Farmington Hills, MI at 37000 West 12 Mile Road #112, Farmington Hills, MI 48331. Website: https://www.elektrobit.com/. | https://registry-edge.dingalinged.workers.dev/c/elektrobit-automotive-inc-farmington-hills/
+1. Luxoft | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Luxoft is an IT support company in Farmington Hills, MI at 34505 West 12 Mile Road #215, Farmington Hills, MI 48331. Website: https://www.luxoft.com/. | https://registry-edge.dingalinged.workers.dev/c/luxoft-farmington-hills/
+2. Elektrobit Automotive Inc. | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Elektrobit Automotive Inc. is an IT support company in Farmington Hills, MI at 37000 West 12 Mile Road #112, Farmington Hills, MI 48331. Website: https://www.elektrobit.com/. | https://registry-edge.dingalinged.workers.dev/c/elektrobit-automotive-inc-farmington-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support farmington hills mi | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

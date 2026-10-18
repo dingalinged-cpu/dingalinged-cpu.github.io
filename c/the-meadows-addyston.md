@@ -13,7 +13,7 @@ The Meadows is an event venue in Addyston, OH at 59 East Main Street, Addyston, 
 - Website: https://themeadowsbanquet.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 6% of event venues in Cincinnati, OH, #1 of 1 event venues in Addyston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 6% of event venues in Cincinnati, OH, #1 of 1 event venues in Addyston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

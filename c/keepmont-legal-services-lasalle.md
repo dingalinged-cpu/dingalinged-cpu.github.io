@@ -13,7 +13,7 @@ Keepmont Legal Services is a lawyer in LaSalle, MI at 3932 St Francis Crescent, 
 - Website: https://keepmont.com/
 - Email: info@keepmont.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 27% of lawyers in Detroit, MI, #1 of 1 lawyers in LaSalle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 27% of lawyers in Detroit, MI, #1 of 1 lawyers in LaSalle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

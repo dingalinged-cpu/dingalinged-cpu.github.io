@@ -13,7 +13,7 @@ Cobblestone Car Wash is a car wash in Aurora, CO at 2291 South Havana Street, Au
 - Website: https://cobblestone.com/location/car-wash-in-havana-street-iliff-avenue-2/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-19:00
-- Pulse Score: 51.6/100 — Unrated (not enough evidence yet) — top 61% of car washes in Denver, CO, #20 of 44 car washes in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.8, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.6/100 — Unrated (not enough evidence yet) — top 59% of car washes in Denver, CO, #20 of 44 car washes in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.8, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

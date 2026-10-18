@@ -6,7 +6,7 @@ Also answers: used cars for sale in Alton, IL; used cars for sale near me (Alton
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Townsend Auto Sales | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Townsend Auto Sales is an used car dealer in Alton, IL at 1620 Old Fosterburg Road, Alton, IL 62002. Phone: +16184654115. Website: https://townsendautosales.com/. | https://registry-edge.dingalinged.workers.dev/c/townsend-auto-sales-alton/
+1. Townsend Auto Sales | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Townsend Auto Sales is an used car dealer in Alton, IL at 1620 Old Fosterburg Road, Alton, IL 62002. Phone: +16184654115. Website: https://townsendautosales.com/. | https://registry-edge.dingalinged.workers.dev/c/townsend-auto-sales-alton/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale alton il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

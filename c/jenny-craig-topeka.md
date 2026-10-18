@@ -13,7 +13,7 @@ Jenny Craig is a therapy practice in Topeka, KS at 6021 Southwest 29th Street #C
 - Website: https://locations.jennycraig.com/ks/topeka/weight-loss-center-716.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Building — top 100% of therapy practices in Topeka, KS, #2 of 2 therapy practices in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 100% of therapy practices in Topeka, KS, #2 of 2 therapy practices in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

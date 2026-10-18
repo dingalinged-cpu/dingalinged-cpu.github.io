@@ -13,7 +13,7 @@ Hanover Court Apartments Office is a property management company in Sterling Hei
 - Website: https://www.hanovercourtapartmentssterlinghts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 12:00-15:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 21% of property management companys in Detroit, MI, #6 of 26 property management companys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 21% of property management companys in Detroit, MI, #6 of 26 property management companys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

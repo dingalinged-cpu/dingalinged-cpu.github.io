@@ -13,7 +13,7 @@ Equity Real Estate is a real estate agency in Pittsburgh, PA. Phone: +1412422920
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.2/100 — Good — top 4% of real estate agencys in Pittsburgh, PA, #2 of 17 real estate agencys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 4% of real estate agencys in Pittsburgh, PA, #2 of 17 real estate agencys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

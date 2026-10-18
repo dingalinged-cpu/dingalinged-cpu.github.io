@@ -13,7 +13,7 @@ Topeka Community Cycle Project is a bike shop in Topeka, KS at 423 North Kansas 
 - Website: https://cycleproject.org/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 47.2/100 — Building — top 100% of bike shops in Topeka, KS, #2 of 2 bike shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 100% of bike shops in Topeka, KS, #2 of 2 bike shops in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.7, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

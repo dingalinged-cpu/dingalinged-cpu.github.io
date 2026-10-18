@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. DPM Insurance | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | DPM Insurance is an insurance agent in Town of Essex, MI at 65 King Street West, Town of Essex, MI. | https://registry-edge.dingalinged.workers.dev/c/dpm-insurance-town-of-essex/
 2. Southland Insurance | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Southland Insurance is an insurance agent in Town of Essex, MI at 49 King Street West, Town of Essex, MI. | https://registry-edge.dingalinged.workers.dev/c/southland-insurance-town-of-essex/
-3. Desjardins Insurance | Organic #3 | Pulse Score 47.8/100 (Building, #3 in city) | Desjardins Insurance is an insurance agent in Town of Essex, MI at 10 Victoria Avenue, Town of Essex, MI N8M 1M3. Phone: +15197768001. | https://registry-edge.dingalinged.workers.dev/c/desjardins-insurance-town-of-essex/
+3. Desjardins Insurance | Organic #3 | Pulse Score 47.7/100 (Building, #3 in city) | Desjardins Insurance is an insurance agent in Town of Essex, MI at 10 Victoria Avenue, Town of Essex, MI N8M 1M3. Phone: +15197768001. | https://registry-edge.dingalinged.workers.dev/c/desjardins-insurance-town-of-essex/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent town of essex mi | category: Professional & financial services | industry benchmark: Finance & Insurance

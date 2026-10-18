@@ -6,7 +6,7 @@ Also answers: spa in Murrysville, PA; spa near me (Murrysville, PA); best spa Mu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crown & Raine | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Crown & Raine is a spa in Murrysville, PA. | https://registry-edge.dingalinged.workers.dev/c/crown-and-raine-murrysville/
+1. Crown & Raine | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Crown & Raine is a spa in Murrysville, PA. | https://registry-edge.dingalinged.workers.dev/c/crown-and-raine-murrysville/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa murrysville pa | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

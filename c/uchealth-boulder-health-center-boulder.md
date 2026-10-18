@@ -13,7 +13,7 @@ UCHealth Boulder Health Center is a family medicine practice in Boulder, CO at 5
 - Website: https://www.uchealth.org/locations/boulder-health-center/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 20% of family medicine practices in Denver, CO, #1 of 2 family medicine practices in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 20% of family medicine practices in Denver, CO, #1 of 2 family medicine practices in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

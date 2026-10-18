@@ -6,7 +6,7 @@ Also answers: family doctor in Speedway, IN; family doctor near me (Speedway, IN
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Community Health Pavilion Speedway | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Community Health Pavilion Speedway is an orthopedic surgeon in Speedway, IN at 1011 Main Street, Speedway, IN 46224. Phone: +13176212727. Website: https://www.ecommunity.com/about. | https://registry-edge.dingalinged.workers.dev/c/community-health-pavilion-speedway-speedway/
+1. Community Health Pavilion Speedway | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Community Health Pavilion Speedway is an orthopedic surgeon in Speedway, IN at 1011 Main Street, Speedway, IN 46224. Phone: +13176212727. Website: https://www.ecommunity.com/about. | https://registry-edge.dingalinged.workers.dev/c/community-health-pavilion-speedway-speedway/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor speedway in | category: Health & medical | industry benchmark: Physicians & Surgeons

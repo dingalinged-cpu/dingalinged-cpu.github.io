@@ -13,7 +13,7 @@ Pershing House is an assisted living facility in Lancaster, OH at 1551 North Col
 - Website: https://www.fairfieldhomesohio.com/pershing-house/
 - Email: pershinghouse@fairfieldhomesohio.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 9% of assisted living facilitys in Columbus, OH, #1 of 5 assisted living facilitys in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 9% of assisted living facilitys in Columbus, OH, #1 of 5 assisted living facilitys in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

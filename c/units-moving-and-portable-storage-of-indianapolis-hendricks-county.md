@@ -13,7 +13,7 @@ UNITS Moving and Portable Storage of Indianapolis is a moving company in Hendric
 - Website: https://unitsstorage.com/indianapolis-in
 - Email: support@unitsofindy.com
 - Opening hours (OSM syntax): Monday - Friday: 7:00 AM – 9:00 PM, Saturday: 8:00 AM – 5:00 PM
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 100% of moving companys in Indianapolis, IN, #1 of 1 moving companys in Hendricks County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 100% of moving companys in Indianapolis, IN, #1 of 1 moving companys in Hendricks County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

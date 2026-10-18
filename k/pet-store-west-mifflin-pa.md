@@ -6,8 +6,8 @@ Also answers: pet store in West Mifflin, PA; pet store near me (West Mifflin, PA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | Organic #1 | Pulse Score 48.5/100 (Building, #8 in city) | Petco is a pet store in Pittsburgh, PA at 251 Clairton Boulevard, Pittsburgh, PA 15236. Phone: +14126500175. Website: https://stores.petco.com/pa/pittsburgh/pet-supplies-pittsburgh-pa-1812.html. | https://registry-edge.dingalinged.workers.dev/c/petco-pittsburgh-n4743253325/
-2. PetSmart | Organic #2 | Pulse Score 42.8/100 (Building, #1 in city) | PetSmart is a pet store in West Mifflin, PA. | https://registry-edge.dingalinged.workers.dev/c/petsmart-west-mifflin/
+1. Petco | Organic #1 | Pulse Score 48.4/100 (Building, #8 in city) | Petco is a pet store in Pittsburgh, PA at 251 Clairton Boulevard, Pittsburgh, PA 15236. Phone: +14126500175. Website: https://stores.petco.com/pa/pittsburgh/pet-supplies-pittsburgh-pa-1812.html. | https://registry-edge.dingalinged.workers.dev/c/petco-pittsburgh-n4743253325/
+2. PetSmart | Organic #2 | Pulse Score 42.7/100 (Building, #1 in city) | PetSmart is a pet store in West Mifflin, PA. | https://registry-edge.dingalinged.workers.dev/c/petsmart-west-mifflin/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store west mifflin pa | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

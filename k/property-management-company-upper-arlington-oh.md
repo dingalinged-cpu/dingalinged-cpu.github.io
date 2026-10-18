@@ -6,7 +6,7 @@ Also answers: property management company in Upper Arlington, OH; property manag
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lane Lofts | Organic #1 | Pulse Score 54.9/100 (Unrated, #5 in city) | Lane Lofts is a property management company in Columbus, OH at 1399 West Lane Avenue, Columbus, OH. | https://registry-edge.dingalinged.workers.dev/c/lane-lofts-columbus/
+1. Lane Lofts | Organic #1 | Pulse Score 54.8/100 (Unrated, #5 in city) | Lane Lofts is a property management company in Columbus, OH at 1399 West Lane Avenue, Columbus, OH. | https://registry-edge.dingalinged.workers.dev/c/lane-lofts-columbus/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company upper arlington oh | category: Professional & financial services | industry benchmark: Finance & Insurance

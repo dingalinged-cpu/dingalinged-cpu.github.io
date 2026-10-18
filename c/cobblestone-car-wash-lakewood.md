@@ -13,7 +13,7 @@ Cobblestone Car Wash is a car wash in Lakewood, CO at 801 Wadsworth Boulevard, L
 - Website: https://cobblestone.com/location/wadsworth-blvd-9th-ave/
 - Email: n/a
 - Opening hours (OSM syntax): 07:00-20:00
-- Pulse Score: 50.8/100 — Unrated (not enough evidence yet) — top 62% of car washes in Denver, CO, #16 of 23 car washes in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.8/100 — Unrated (not enough evidence yet) — top 60% of car washes in Denver, CO, #15 of 23 car washes in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

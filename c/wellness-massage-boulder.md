@@ -13,7 +13,7 @@ Wellness Massage is a massage studio in Boulder, CO at 1653 28th Street, Boulder
 - Website: https://wellnessmassage.as.me/schedule/319d2715
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-22:00
-- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 81% of massage studios in Denver, CO, #10 of 12 massage studios in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 81% of massage studios in Denver, CO, #10 of 12 massage studios in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: insurance agency in Franklin Township, OH; insurance agency near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pri-Value Insurance | Organic #1 | Pulse Score 57.7/100 (Unrated, #9 in city) | Pri-Value Insurance is an insurance agent in Columbus, OH at 4195 West Broad Street, Columbus, OH 43228. | https://registry-edge.dingalinged.workers.dev/c/pri-value-insurance-columbus/
+1. Pri-Value Insurance | Organic #1 | Pulse Score 57.6/100 (Unrated, #9 in city) | Pri-Value Insurance is an insurance agent in Columbus, OH at 4195 West Broad Street, Columbus, OH 43228. | https://registry-edge.dingalinged.workers.dev/c/pri-value-insurance-columbus/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency franklin township oh | category: insurance | industry benchmark: Finance & Insurance

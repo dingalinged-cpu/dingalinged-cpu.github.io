@@ -13,7 +13,7 @@ Sensora Spa is a spa in Lawrence, KS at 930 Iowa Street, Lawrence, KS 66044. Pho
 - Website: https://www.sensoraspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-17:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 100% of spas in Lawrence, KS, #1 of 1 spas in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 100% of spas in Lawrence, KS, #1 of 1 spas in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

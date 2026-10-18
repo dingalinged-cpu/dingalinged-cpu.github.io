@@ -13,7 +13,7 @@ BR Auto Glass is an auto repair shop in Englewood, CO at 2842 South Broadway, En
 - Website: https://brautoglassco.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-12:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Denver, CO, #3 of 18 auto repair shops in Englewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Denver, CO, #3 of 18 auto repair shops in Englewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

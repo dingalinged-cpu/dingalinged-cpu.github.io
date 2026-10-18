@@ -6,7 +6,7 @@ Also answers: flooring companies in Bridgeton, MO; flooring companies near me (B
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Floor & Decor | Organic #1 | Pulse Score 47.4/100 (Building, #1 in city) | Floor & Decor is a flooring company in Bridgeton, MO at 11968 Paul Mayer Avenue, Bridgeton, MO 63044. Phone: +13146563610. Website: https://www.flooranddecor.com//store?storeID=215&searchQuery=MO. | https://registry-edge.dingalinged.workers.dev/c/floor-and-decor-bridgeton/
+1. Floor & Decor | Organic #1 | Pulse Score 47.2/100 (Building, #1 in city) | Floor & Decor is a flooring company in Bridgeton, MO at 11968 Paul Mayer Avenue, Bridgeton, MO 63044. Phone: +13146563610. Website: https://www.flooranddecor.com//store?storeID=215&searchQuery=MO. | https://registry-edge.dingalinged.workers.dev/c/floor-and-decor-bridgeton/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies bridgeton mo | category: Home services - Flooring | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Supercuts is a hair salon in Cape Girardeau, MO at 3441 William Street #A, Cape 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00
-- Pulse Score: 46.6/100 — Building — top 100% of hair salons in Cape Girardeau, MO, #1 of 1 hair salons in Cape Girardeau (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 100% of hair salons in Cape Girardeau, MO, #1 of 1 hair salons in Cape Girardeau (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: martial arts in Fairfax, OH; martial arts near me (Fairfax, OH); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cincinnati Taekwondo Center | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Cincinnati Taekwondo Center is a martial arts school in Fairfax, OH at 3600 Red Bank Road #E, Fairfax, OH 45227. Website: https://www.cincinnatitkd.com/. | https://registry-edge.dingalinged.workers.dev/c/cincinnati-taekwondo-center-fairfax/
+1. Cincinnati Taekwondo Center | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Cincinnati Taekwondo Center is a martial arts school in Fairfax, OH at 3600 Red Bank Road #E, Fairfax, OH 45227. Website: https://www.cincinnatitkd.com/. | https://registry-edge.dingalinged.workers.dev/c/cincinnati-taekwondo-center-fairfax/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts fairfax oh | category: Fitness | industry benchmark: Health & Fitness

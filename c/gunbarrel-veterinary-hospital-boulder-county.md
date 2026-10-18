@@ -13,7 +13,7 @@ Gunbarrel Veterinary Hospital is a veterinarian in Boulder County, CO at 4636 55
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:45-17:30; Sa 07:45-12:00
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 38% of veterinarians in Denver, CO, #2 of 2 veterinarians in Boulder County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 37% of veterinarians in Denver, CO, #2 of 2 veterinarians in Boulder County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

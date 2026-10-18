@@ -13,7 +13,7 @@ Mike's Car Wash is a car wash in Florence, KY at 8534 US 42, Florence, KY 41042.
 - Website: https://mikescarwash.com/
 - Email: n/a
 - Opening hours (OSM syntax): 07:00-20:00
-- Pulse Score: 51.2/100 — Fair — top 42% of car washes in Cincinnati, OH, #2 of 5 car washes in Florence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.7, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.2/100 — Fair — top 40% of car washes in Cincinnati, OH, #2 of 5 car washes in Florence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.7, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

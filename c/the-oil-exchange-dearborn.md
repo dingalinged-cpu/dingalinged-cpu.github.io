@@ -13,7 +13,7 @@ The Oil Exchange is an auto repair shop in Dearborn, MI at 14748 Michigan Avenue
 - Website: https://theoilexchangedearborn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 85% of auto repair shops in Detroit, MI, #15 of 20 auto repair shops in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 84% of auto repair shops in Detroit, MI, #15 of 20 auto repair shops in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

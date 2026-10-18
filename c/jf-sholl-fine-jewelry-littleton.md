@@ -13,7 +13,7 @@ JF Sholl Fine Jewelry is a jewelry store in Littleton, CO at 2646 West Main Stre
 - Website: https://m.facebook.com/JFShollJewelry/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-19:30
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 24% of jewelry stores in Denver, CO, #1 of 1 jewelry stores in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 22% of jewelry stores in Denver, CO, #1 of 1 jewelry stores in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

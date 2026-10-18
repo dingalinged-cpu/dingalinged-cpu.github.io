@@ -6,7 +6,7 @@ Also answers: dermatologist in Warren, MI; dermatologist near me (Warren, MI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Assunté Skin Care Center | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Assunté Skin Care Center is a dermatologist in Warren, MI at 30950 Campbell Avenue, Warren, MI 48093. Phone: +15865733500. | https://registry-edge.dingalinged.workers.dev/c/assunt-skin-care-center-warren/
+1. Assunté Skin Care Center | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Assunté Skin Care Center is a dermatologist in Warren, MI at 30950 Campbell Avenue, Warren, MI 48093. Phone: +15865733500. | https://registry-edge.dingalinged.workers.dev/c/assunt-skin-care-center-warren/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist warren mi | category: Health & medical | industry benchmark: Physicians & Surgeons

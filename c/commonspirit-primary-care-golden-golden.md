@@ -13,7 +13,7 @@ CommonSpirit Primary Care Golden is a family medicine practice in Golden, CO at 
 - Website: https://www.commonspirit.org/find-a-location/commonspirit-primary-care-golden-1424
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 27% of family medicine practices in Denver, CO, #1 of 1 family medicine practices in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 27% of family medicine practices in Denver, CO, #1 of 1 family medicine practices in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

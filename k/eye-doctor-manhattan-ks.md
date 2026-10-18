@@ -6,8 +6,8 @@ Also answers: eye doctor in Manhattan, KS; eye doctor near me (Manhattan, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Genstler Eye Center | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Genstler Eye Center is an eye care practice in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/genstler-eye-center-manhattan/
-2. The Eye Doctors | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | The Eye Doctors is an eye care practice in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/the-eye-doctors-manhattan/
+1. Genstler Eye Center | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Genstler Eye Center is an eye care practice in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/genstler-eye-center-manhattan/
+2. The Eye Doctors | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | The Eye Doctors is an eye care practice in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/the-eye-doctors-manhattan/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor manhattan ks | category: Health & medical | industry benchmark: Physicians & Surgeons

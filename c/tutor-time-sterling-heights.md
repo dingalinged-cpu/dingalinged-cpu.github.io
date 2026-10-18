@@ -13,7 +13,7 @@ Tutor Time is a preschool in Sterling Heights, MI at 8305 East 14 Mile Road, Ste
 - Website: https://www.tutortime.com/your-local-school/sterling-heights-mi-6348/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Pulse Score: 49.5/100 — Building — top 80% of preschools in Detroit, MI, #5 of 5 preschools in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 78% of preschools in Detroit, MI, #5 of 5 preschools in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

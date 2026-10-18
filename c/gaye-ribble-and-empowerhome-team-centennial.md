@@ -13,7 +13,7 @@ Gaye Ribble & EmpowerHome Team is a real estate agency in Centennial, CO at 6300
 - Website: https://empowerhome-team.com/offices/colorado/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa-Su 09:00-17:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 6% of real estate agencys in Denver, CO, #1 of 5 real estate agencys in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 6% of real estate agencys in Denver, CO, #1 of 5 real estate agencys in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

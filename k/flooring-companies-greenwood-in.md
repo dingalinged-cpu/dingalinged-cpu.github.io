@@ -6,7 +6,7 @@ Also answers: flooring companies in Greenwood, IN; flooring companies near me (G
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Floortech | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Floortech is a flooring company in Greenwood, IN at 3115 Meridian Parke Drive #H, Greenwood, IN 46142. Phone: +13178876825. Website: https://www.floortechcorp.com/. | https://registry-edge.dingalinged.workers.dev/c/floortech-greenwood/
+1. Floortech | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Floortech is a flooring company in Greenwood, IN at 3115 Meridian Parke Drive #H, Greenwood, IN 46142. Phone: +13178876825. Website: https://www.floortechcorp.com/. | https://registry-edge.dingalinged.workers.dev/c/floortech-greenwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies greenwood in | category: Home services - Flooring | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Flow King Rooter is a plumber in Green Park, MO at 11025 Lin Valle Drive, Green 
 - Website: https://www.flowkingstl.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of plumbers in St. Louis, MO, #1 of 1 plumbers in Green Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of plumbers in St. Louis, MO, #1 of 1 plumbers in Green Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

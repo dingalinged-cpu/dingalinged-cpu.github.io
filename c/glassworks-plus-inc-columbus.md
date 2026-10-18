@@ -13,7 +13,7 @@ Glassworks Plus, Inc. is a window installer in Columbus, OH at 2244 North Wilson
 - Website: https://glassworksplus.com/
 - Email: info@glassworksplus.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 100% of window installers in Columbus, OH, #2 of 2 window installers in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 100% of window installers in Columbus, OH, #2 of 2 window installers in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

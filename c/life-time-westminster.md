@@ -13,7 +13,7 @@ Life Time is a gym in Westminster, CO at 397 West 148th Avenue, Westminster, CO 
 - Website: https://www.lifetime.life/life-time-locations/co-westminster.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 49/100 — Building — top 61% of gyms in Denver, CO, #5 of 14 gyms in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 60% of gyms in Denver, CO, #5 of 14 gyms in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

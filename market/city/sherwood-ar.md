@@ -1,0 +1,58 @@
+Keyword market for Sherwood, AR: 25 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Little Rock-North Little Rock-Conway, AR metro (US volume x population share).
+
+# Top keywords in Sherwood, AR
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. urgent care sherwood ar | searches/mo 6,200 (est) | CPC $4.76 | value $30,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/urgent-care-sherwood-ar/
+2. car wash sherwood ar | searches/mo 4,200 (est) | CPC $4.35 | value $18,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-sherwood-ar/
+3. dentist sherwood ar | searches/mo 4,200 (est) | CPC $4.70 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-sherwood-ar/
+4. gym sherwood ar | searches/mo 4,200 (est) | CPC $1.67 | value $7,000 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-sherwood-ar/
+5. hair salon sherwood ar | searches/mo 3,400 (est) | CPC $0.55 | value $1,900 | Google Ads equiv $110/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-sherwood-ar/
+6. nail salon sherwood ar | searches/mo 2,300 (est) | CPC $0.61 | value $1,400 | Google Ads equiv $80.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-sherwood-ar/
+7. barber shop sherwood ar | searches/mo 1,500 (est) | CPC $0.70 | value $1,000 | Google Ads equiv $60.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/barber-shop-sherwood-ar/
+8. mechanic sherwood ar | searches/mo 1,500 (est) | CPC $4.35 | value $6,500 | Google Ads equiv $360/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-sherwood-ar/
+9. tire shop sherwood ar | searches/mo 1,300 (est) | CPC $4.35 | value $5,700 | Google Ads equiv $310/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-sherwood-ar/
+10. vet sherwood ar | searches/mo 1,300 (est) | CPC $4.06 | value $5,300 | Google Ads equiv $350/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-sherwood-ar/
+11. haircut sherwood ar | searches/mo 840 (est) | CPC $4.62 | value $3,900 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/haircut-sherwood-ar/
+12. auto repair sherwood ar | searches/mo 680 (est) | CPC $4.35 | value $3,000 | Google Ads equiv $160/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-sherwood-ar/
+13. insurance agency sherwood ar | searches/mo 210 (est) | CPC $3.39 | value $710 | Google Ads equiv $59.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-sherwood-ar/
+14. insurance agents sherwood ar | searches/mo 110 (est) | CPC $3.39 | value $370 | Google Ads equiv $31.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-sherwood-ar/
+15. insurance agent sherwood ar | searches/mo 92.00 (est) | CPC $3.39 | value $310 | Google Ads equiv $26.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-sherwood-ar/
+
+## By CPC
+1. flooring companies sherwood ar | searches/mo 41.00 (est) | CPC $8.33 | value $340 | Google Ads equiv $22.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-sherwood-ar/
+2. storage units sherwood ar | searches/mo 500 (est) | CPC $8.33 | value $4,200 | Google Ads equiv $270/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/storage-units-sherwood-ar/
+3. florist sherwood ar | searches/mo 500 (est) | CPC $7.17 | value $3,600 | Google Ads equiv $280/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/florist-sherwood-ar/
+4. accounting services sherwood ar | searches/mo 28.00 (est) | CPC $5.87 | value $160 | Google Ads equiv $9.30/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accounting-services-sherwood-ar/
+5. accountant sherwood ar | searches/mo 75.00 (est) | CPC $5.23 | value $390 | Google Ads equiv $22.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accountant-sherwood-ar/
+6. urgent care sherwood ar | searches/mo 6,200 (est) | CPC $4.76 | value $30,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/urgent-care-sherwood-ar/
+7. dentist sherwood ar | searches/mo 4,200 (est) | CPC $4.70 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-sherwood-ar/
+8. haircut sherwood ar | searches/mo 840 (est) | CPC $4.62 | value $3,900 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/haircut-sherwood-ar/
+9. auto repair sherwood ar | searches/mo 680 (est) | CPC $4.35 | value $3,000 | Google Ads equiv $160/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-sherwood-ar/
+10. car wash sherwood ar | searches/mo 4,200 (est) | CPC $4.35 | value $18,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-sherwood-ar/
+11. mechanic sherwood ar | searches/mo 1,500 (est) | CPC $4.35 | value $6,500 | Google Ads equiv $360/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-sherwood-ar/
+12. tire shop sherwood ar | searches/mo 1,300 (est) | CPC $4.35 | value $5,700 | Google Ads equiv $310/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-sherwood-ar/
+13. furniture store sherwood ar | searches/mo 320 (est) | CPC $4.14 | value $1,300 | Google Ads equiv $120/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/furniture-store-sherwood-ar/
+14. liquor store sherwood ar | searches/mo 320 (est) | CPC $4.14 | value $1,300 | Google Ads equiv $120/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-sherwood-ar/
+15. used cars for sale sherwood ar | searches/mo 320 (est) | CPC $4.14 | value $1,300 | Google Ads equiv $120/mo | our featured min $10/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-sherwood-ar/
+
+## By value (searches x CPC)
+1. urgent care sherwood ar | searches/mo 6,200 (est) | CPC $4.76 | value $30,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/urgent-care-sherwood-ar/
+2. dentist sherwood ar | searches/mo 4,200 (est) | CPC $4.70 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-sherwood-ar/
+3. car wash sherwood ar | searches/mo 4,200 (est) | CPC $4.35 | value $18,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-sherwood-ar/
+4. gym sherwood ar | searches/mo 4,200 (est) | CPC $1.67 | value $7,000 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-sherwood-ar/
+5. mechanic sherwood ar | searches/mo 1,500 (est) | CPC $4.35 | value $6,500 | Google Ads equiv $360/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-sherwood-ar/
+6. tire shop sherwood ar | searches/mo 1,300 (est) | CPC $4.35 | value $5,700 | Google Ads equiv $310/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-sherwood-ar/
+7. vet sherwood ar | searches/mo 1,300 (est) | CPC $4.06 | value $5,300 | Google Ads equiv $350/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-sherwood-ar/
+8. haircut sherwood ar | searches/mo 840 (est) | CPC $4.62 | value $3,900 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/haircut-sherwood-ar/
+9. auto repair sherwood ar | searches/mo 680 (est) | CPC $4.35 | value $3,000 | Google Ads equiv $160/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-sherwood-ar/
+10. hair salon sherwood ar | searches/mo 3,400 (est) | CPC $0.55 | value $1,900 | Google Ads equiv $110/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-sherwood-ar/
+11. nail salon sherwood ar | searches/mo 2,300 (est) | CPC $0.61 | value $1,400 | Google Ads equiv $80.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-sherwood-ar/
+12. barber shop sherwood ar | searches/mo 1,500 (est) | CPC $0.70 | value $1,000 | Google Ads equiv $60.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/barber-shop-sherwood-ar/
+13. insurance agency sherwood ar | searches/mo 210 (est) | CPC $3.39 | value $710 | Google Ads equiv $59.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-sherwood-ar/
+14. accountant sherwood ar | searches/mo 75.00 (est) | CPC $5.23 | value $390 | Google Ads equiv $22.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accountant-sherwood-ar/
+15. insurance agents sherwood ar | searches/mo 110 (est) | CPC $3.39 | value $370 | Google Ads equiv $31.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-sherwood-ar/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

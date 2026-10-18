@@ -6,8 +6,8 @@ Also answers: jewelry store in Sycamore Township, OH; jewelry store near me (Syc
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Diamonds Rock | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Diamonds Rock is a jewelry store in Sycamore Township, OH. Website: https://diamondsrock.com/. | https://registry-edge.dingalinged.workers.dev/c/diamonds-rock-sycamore-township/
-2. Jared | Organic #2 | Pulse Score 46.6/100 (Building, #2 in city) | Jared is a jewelry store in Sycamore Township, OH. Website: https://stores.jared.com/oh/cincinnati/7500-kenwood-road.html. | https://registry-edge.dingalinged.workers.dev/c/jared-sycamore-township/
+1. Diamonds Rock | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Diamonds Rock is a jewelry store in Sycamore Township, OH. Website: https://diamondsrock.com/. | https://registry-edge.dingalinged.workers.dev/c/diamonds-rock-sycamore-township/
+2. Jared | Organic #2 | Pulse Score 46.5/100 (Building, #2 in city) | Jared is a jewelry store in Sycamore Township, OH. Website: https://stores.jared.com/oh/cincinnati/7500-kenwood-road.html. | https://registry-edge.dingalinged.workers.dev/c/jared-sycamore-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store sycamore township oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

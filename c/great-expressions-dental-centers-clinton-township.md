@@ -13,7 +13,7 @@ Great Expressions Dental Centers is a dentist in Clinton Township, MI at 35939 M
 - Website: https://www.greatexpressions.com/dental-offices/dentist-in-clinton-township-michigan-moravian-dr/
 - Email: patientservices@greatexpressions.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.6/100 — Building — top 91% of dentists in Detroit, MI, #11 of 11 dentists in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 90% of dentists in Detroit, MI, #11 of 11 dentists in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

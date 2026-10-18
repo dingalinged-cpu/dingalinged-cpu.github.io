@@ -6,7 +6,7 @@ Also answers: heating and air in Castle Shannon, PA; heating and air near me (Ca
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Admiral Heating & Cooling Company | Organic #1 | Pulse Score 56.3/100 (Unrated, #5 in city) | Admiral Heating & Cooling Company is a HVAC contractor in Pittsburgh, PA at 3333 Library Road, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/admiral-heating-and-cooling-company-pittsburgh/
+1. Admiral Heating & Cooling Company | Organic #1 | Pulse Score 56.2/100 (Unrated, #5 in city) | Admiral Heating & Cooling Company is a HVAC contractor in Pittsburgh, PA at 3333 Library Road, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/admiral-heating-and-cooling-company-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air castle shannon pa | category: Home Services | industry benchmark: Home & Home Improvement

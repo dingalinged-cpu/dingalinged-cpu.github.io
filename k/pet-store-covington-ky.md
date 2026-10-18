@@ -6,7 +6,7 @@ Also answers: pet store in Covington, KY; pet store near me (Covington, KY); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Strasse Dog | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Strasse Dog is a pet store in Covington, KY at 605 Main Street, Covington, KY. | https://registry-edge.dingalinged.workers.dev/c/strasse-dog-covington/
+1. Strasse Dog | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Strasse Dog is a pet store in Covington, KY at 605 Main Street, Covington, KY. | https://registry-edge.dingalinged.workers.dev/c/strasse-dog-covington/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store covington ky | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

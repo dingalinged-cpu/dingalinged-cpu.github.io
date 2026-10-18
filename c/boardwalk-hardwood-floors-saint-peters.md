@@ -13,7 +13,7 @@ Boardwalk Hardwood Floors is a flooring company in Saint Peters, MO at 3022 Mid 
 - Website: https://www.boardwalkhardwood.com/
 - Email: tmesser@boardwalkhardwood.com
 - Opening hours (OSM syntax): Mo,We,Th 10:00-17:00; Tu 10:00-19:00; Fr 10:00-18:00; Sa 09:00-16:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 50% of flooring companys in St. Peters, MO, #1 of 2 flooring companys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 50% of flooring companys in St. Peters, MO, #1 of 2 flooring companys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

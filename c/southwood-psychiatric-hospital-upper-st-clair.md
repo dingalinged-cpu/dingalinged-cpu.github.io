@@ -13,7 +13,7 @@ Southwood Psychiatric Hospital is a therapy practice in Upper St. Clair, PA. Pho
 - Website: https://www.southwoodhospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 23% of therapy practices in Pittsburgh, PA, #1 of 1 therapy practices in Upper St. Clair (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 23% of therapy practices in Pittsburgh, PA, #1 of 1 therapy practices in Upper St. Clair (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

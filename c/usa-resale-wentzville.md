@@ -13,7 +13,7 @@ USA Resale is a thrift store in Wentzville, MO at 1251 Wentzville Parkway, Wentz
 - Website: https://www.usaresale.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-17:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 67% of thrift stores in Wentzville, MO, #2 of 3 thrift stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 67% of thrift stores in Wentzville, MO, #2 of 3 thrift stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

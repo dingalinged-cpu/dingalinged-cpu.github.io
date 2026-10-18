@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Pittsburgh, PA at 3200 Park Ma
 - Website: https://www.extraspace.com/storage/facilities/us/pennsylvania/pittsburgh/1000001454/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.8/100 — Building — top 69% of self-storage facilitys in Pittsburgh, PA, #9 of 17 self-storage facilitys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 67% of self-storage facilitys in Pittsburgh, PA, #9 of 17 self-storage facilitys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Z-Ultimate Self Defense is a martial arts school in Highlands Ranch, CO at 9429 
 - Website: https://zultimate.com/locations/highlands-ranch-east/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Good — top 16% of martial arts schools in Denver, CO, #1 of 2 martial arts schools in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 16% of martial arts schools in Denver, CO, #1 of 2 martial arts schools in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

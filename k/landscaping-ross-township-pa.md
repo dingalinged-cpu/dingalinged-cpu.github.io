@@ -7,7 +7,7 @@ Also answers: landscaping in Ross Township, PA; landscaping near me (Ross Townsh
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Wichman Landscape Construction, LLC | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | Wichman Landscape Construction, LLC is a landscaping company in Pittsburgh, PA at 107 Buehner Drive, Pittsburgh, PA 15237. Phone: +14127608524. Website: https://wichmanlandscapes.com/. | https://registry-edge.dingalinged.workers.dev/c/wichman-landscape-construction-llc-pittsburgh/
-2. GRG Lawn & Landscape | Organic #2 | Pulse Score 58.2/100 (Unrated, #1 in city) | GRG Lawn & Landscape is a landscaping company in Ross Township, PA. Phone: +14127616907. | https://registry-edge.dingalinged.workers.dev/c/grg-lawn-and-landscape-ross-township/
+2. GRG Lawn & Landscape | Organic #2 | Pulse Score 58.1/100 (Unrated, #1 in city) | GRG Lawn & Landscape is a landscaping company in Ross Township, PA. Phone: +14127616907. | https://registry-edge.dingalinged.workers.dev/c/grg-lawn-and-landscape-ross-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping ross township pa | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

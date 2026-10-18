@@ -7,7 +7,7 @@ Also answers: music lessons in Centennial, CO; music lessons near me (Centennial
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Elevated Music Center | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Elevated Music Center is a music school in Centennial, CO at 6955 South York Street #Unit 418, Centennial, CO 80122. Phone: +13033257426. Website: https://www.elevatedmusiccenter.com/. | https://registry-edge.dingalinged.workers.dev/c/elevated-music-center-centennial/
-2. Pickering Creative Artists Academy | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Pickering Creative Artists Academy is a music school in Centennial, CO at 6920 South Jordan Road #G, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/pickering-creative-artists-academy-centennial/
+2. Pickering Creative Artists Academy | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Pickering Creative Artists Academy is a music school in Centennial, CO at 6920 South Jordan Road #G, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/pickering-creative-artists-academy-centennial/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons centennial co | category: Education & childcare | industry benchmark: Education & Instruction

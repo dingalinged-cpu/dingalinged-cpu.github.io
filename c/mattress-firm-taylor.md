@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Taylor, MI at 21840 Eureka Road, Taylor, MI
 - Website: https://www.mattressfirm.com/en-us/stores/mi/taylor/008015/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.1/100 — Building — top 41% of mattress stores in Detroit, MI, #1 of 1 mattress stores in Taylor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 41% of mattress stores in Detroit, MI, #1 of 1 mattress stores in Taylor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.1, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: heating and air in Lawrence, KS; heating and air near me (Lawrence
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AirTek Mechanical | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | AirTek Mechanical is a HVAC contractor in Lawrence, KS at 1404 East 24th Street #C, Lawrence, KS 66046. Phone: +17854247232. Website: https://www.airtekmech.com/. | https://registry-edge.dingalinged.workers.dev/c/airtek-mechanical-lawrence/
-2. Homer's River City Heating and Cooling | Organic #2 | Pulse Score 58.7/100 (Unrated, #2 in city) | Homer's River City Heating and Cooling is a HVAC contractor in Lawrence, KS at 1387 North 1300 Road, Lawrence, KS 66046. Phone: +17858412665. Website: https://homersrivercityheating.com/. | https://registry-edge.dingalinged.workers.dev/c/homers-river-city-heating-and-cooling-lawrence/
+1. AirTek Mechanical | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | AirTek Mechanical is a HVAC contractor in Lawrence, KS at 1404 East 24th Street #C, Lawrence, KS 66046. Phone: +17854247232. Website: https://www.airtekmech.com/. | https://registry-edge.dingalinged.workers.dev/c/airtek-mechanical-lawrence/
+2. Homer's River City Heating and Cooling | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Homer's River City Heating and Cooling is a HVAC contractor in Lawrence, KS at 1387 North 1300 Road, Lawrence, KS 66046. Phone: +17858412665. Website: https://homersrivercityheating.com/. | https://registry-edge.dingalinged.workers.dev/c/homers-river-city-heating-and-cooling-lawrence/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air lawrence ks | category: Home Services | industry benchmark: Home & Home Improvement

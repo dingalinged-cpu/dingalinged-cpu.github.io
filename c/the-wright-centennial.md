@@ -13,7 +13,7 @@ The Wright is a property management company in Centennial, CO at 6465 South Xana
 - Website: https://www.missionrockresidential.com/apartments/co/centennial/the-wright/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-17:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 27% of property management companys in Denver, CO, #1 of 2 property management companys in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 27% of property management companys in Denver, CO, #1 of 2 property management companys in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

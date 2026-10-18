@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Saint Louis County, MO is Circle K Car Wash (a car wash in Saint Louis County, MO). 11 car wash businesses are listed for Saint Louis County, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Saint Louis County, MO is Midland Carwash (a car wash in Saint Louis County, MO). 11 car wash businesses are listed for Saint Louis County, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Saint Louis County, MO?
 
@@ -6,9 +6,9 @@ Also answers: car wash in Saint Louis County, MO; car wash near me (Saint Louis 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Circle K Car Wash | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Circle K Car Wash is a car wash in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/circle-k-car-wash-saint-louis-county/
-2. Midland Carwash | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Midland Carwash is a car wash in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/midland-carwash-saint-louis-county/
-3. Zip's Car Wash | Organic #3 | Pulse Score 46.7/100 (Unrated, #3 in city) | Zip's Car Wash is a car wash in Saint Louis County, MO at 12864 Tesson Ferry Road, Saint Louis County, MO 63128. | https://registry-edge.dingalinged.workers.dev/c/zips-car-wash-saint-louis-county-w1035484104/
+1. Midland Carwash | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Midland Carwash is a car wash in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/midland-carwash-saint-louis-county/
+2. Zip's Car Wash | Organic #2 | Pulse Score 46.7/100 (Unrated, #2 in city) | Zip's Car Wash is a car wash in Saint Louis County, MO at 12864 Tesson Ferry Road, Saint Louis County, MO 63128. | https://registry-edge.dingalinged.workers.dev/c/zips-car-wash-saint-louis-county-w1035484104/
+3. Circle K Car Wash | Organic #3 | Pulse Score 45.8/100 (Unrated, #3 in city) | Circle K Car Wash is a car wash in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/circle-k-car-wash-saint-louis-county/
 4. Zip’s Car Wash | Organic #4 | Pulse Score 45.8/100 (Unrated, #4 in city) | Zip’s Car Wash is a car wash in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/zip-s-car-wash-saint-louis-county/
 5. Circle K | Organic #5 | Pulse Score 43.6/100 (Building, #5 in city) | Circle K is a car wash in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/circle-k-saint-louis-county/
 6. Circle K | Organic #6 | Pulse Score 43.6/100 (Building, #6 in city) | Circle K is a car wash in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/circle-k-saint-louis-county-w515725269/

@@ -13,7 +13,7 @@ Hutch Auto Body is an auto repair shop in Hutchinson, KS at 16 East Avenue A, Hu
 - Website: https://www.autobodyteam.com/hutch-auto-body
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 13% of auto repair shops in Wichita, KS, #2 of 9 auto repair shops in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 13% of auto repair shops in Wichita, KS, #2 of 9 auto repair shops in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

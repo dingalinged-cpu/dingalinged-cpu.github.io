@@ -6,7 +6,7 @@ Also answers: dermatologist in Longmont, CO; dermatologist near me (Longmont, CO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Colorado Center for Dermatology | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Colorado Center for Dermatology is a dermatologist in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/colorado-center-for-dermatology-longmont/
+1. Colorado Center for Dermatology | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Colorado Center for Dermatology is a dermatologist in Longmont, CO. | https://registry-edge.dingalinged.workers.dev/c/colorado-center-for-dermatology-longmont/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist longmont co | category: Health & medical | industry benchmark: Physicians & Surgeons

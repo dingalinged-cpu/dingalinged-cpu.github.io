@@ -7,7 +7,7 @@ Also answers: tattoo shop in Lawrence, KS; tattoo shop near me (Lawrence, KS); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Lawrence Tattoo Company | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Lawrence Tattoo Company is a tattoo shop in Lawrence, KS at 949 East 23rd Street, Lawrence, KS 66046. Phone: +17853129852. Website: https://www.lawrencetattoo.com/. | https://registry-edge.dingalinged.workers.dev/c/lawrence-tattoo-company-lawrence/
-2. Miller Tattoo | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Miller Tattoo is a tattoo shop in Lawrence, KS at 1904 Massachusetts Street, Lawrence, KS 66046. Phone: +17858413900. Website: https://www.millertattoo.com/. | https://registry-edge.dingalinged.workers.dev/c/miller-tattoo-lawrence/
+2. Miller Tattoo | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | Miller Tattoo is a tattoo shop in Lawrence, KS at 1904 Massachusetts Street, Lawrence, KS 66046. Phone: +17858413900. Website: https://www.millertattoo.com/. | https://registry-edge.dingalinged.workers.dev/c/miller-tattoo-lawrence/
 3. Red 5 Tattoo | Organic #3 | Pulse Score 58.9/100 (Unrated, #3 in city) | Red 5 Tattoo is a tattoo shop in Lawrence, KS at 16 East 8th Street, Lawrence, KS 66044. Phone: +17858562138. Website: https://redfivetattoo.ink/. | https://registry-edge.dingalinged.workers.dev/c/red-5-tattoo-lawrence/
 
 ## Market data (for advertisers and agents)

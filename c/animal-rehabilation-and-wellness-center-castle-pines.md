@@ -13,7 +13,7 @@ Animal Rehabilation & Wellness Center is a veterinarian in Castle Pines, CO at 5
 - Website: n/a
 - Email: info@animalcarectr.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 32% of veterinarians in Denver, CO, #3 of 4 veterinarians in Castle Pines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 31% of veterinarians in Denver, CO, #3 of 4 veterinarians in Castle Pines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

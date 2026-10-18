@@ -13,7 +13,7 @@ Axes Physical Therapy is a physical therapy clinic in Glen Carbon, IL at 138 Jun
 - Website: https://axespt.com/locations/glen-carbon-il/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Pulse Score: 51.4/100 — Unrated (not enough evidence yet) — top 59% of physical therapy clinics in St. Louis, MO, #2 of 3 physical therapy clinics in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.4/100 — Unrated (not enough evidence yet) — top 59% of physical therapy clinics in St. Louis, MO, #2 of 3 physical therapy clinics in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.8, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

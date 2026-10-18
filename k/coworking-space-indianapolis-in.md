@@ -14,7 +14,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 6. Office Plex Business Development Center | Organic #6 | Pulse Score 55.7/100 (Unrated, #6 in city) | Office Plex Business Development Center is a coworking space in Indianapolis, IN at 2131 East 10th Street, Indianapolis, IN 46201. | https://registry-edge.dingalinged.workers.dev/c/office-plex-business-development-center-indianapolis/
 7. Ruckus Makerspace | Organic #7 | Pulse Score 55.7/100 (Unrated, #7 in city) | Ruckus Makerspace is a coworking space in Indianapolis, IN at 1417 Commerce Avenue, Indianapolis, IN 46201. | https://registry-edge.dingalinged.workers.dev/c/ruckus-makerspace-indianapolis/
 8. VIP Center for Businesswomen | Organic #8 | Pulse Score 55.7/100 (Unrated, #8 in city) | VIP Center for Businesswomen is a coworking space in Indianapolis, IN at 3755 North Washington Boulevard, Indianapolis, IN 46205. | https://registry-edge.dingalinged.workers.dev/c/vip-center-for-businesswomen-indianapolis/
-9. Industrious | Organic #9 | Pulse Score 54/100 (Unrated, #9 in city) | Industrious is a coworking space in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/industrious-indianapolis/
+9. Industrious | Organic #9 | Pulse Score 41.3/100 (Unrated, #9 in city) | Industrious is a coworking space in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/industrious-indianapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space indianapolis in | category: real_estate | industry benchmark: Real Estate

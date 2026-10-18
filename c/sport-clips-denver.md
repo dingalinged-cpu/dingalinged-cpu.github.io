@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Denver, CO at 6300 East Hampden Avenue #B, Denver
 - Website: https://sportclips.com/us-co-denver-co120
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Sa 09:00-18:00; Su 10:00-16:00
-- Pulse Score: 49.1/100 — Building — top 75% of hair salons in Denver, CO, #109 of 128 hair salons in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 74% of hair salons in Denver, CO, #107 of 128 hair salons in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

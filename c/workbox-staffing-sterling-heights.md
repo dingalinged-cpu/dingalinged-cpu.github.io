@@ -13,7 +13,7 @@ Workbox Staffing is a staffing agency in Sterling Heights, MI at 34726 Van Dyke 
 - Website: https://www.workboxstaffing.com/
 - Email: welcome@workboxstaffing.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 20% of staffing agencys in Detroit, MI, #2 of 4 staffing agencys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 20% of staffing agencys in Detroit, MI, #2 of 4 staffing agencys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

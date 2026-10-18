@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Columbus, OH at 3622 West Dublin Granvi
 - Website: https://stores.ashleyfurniture.com/store/us/ohio/columbus/7710000333/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 58% of furniture stores in Columbus, OH, #30 of 49 furniture stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 57% of furniture stores in Columbus, OH, #29 of 49 furniture stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

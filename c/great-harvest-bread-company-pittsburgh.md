@@ -13,7 +13,7 @@ Great Harvest Bread Company is a bakery in Pittsburgh, PA at 6401 Penn Avenue, P
 - Website: https://pittsburgh.greatharvestbread.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 07:00-16:00
-- Pulse Score: 48.3/100 — Building — top 91% of bakerys in Pittsburgh, PA, #30 of 33 bakerys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 91% of bakerys in Pittsburgh, PA, #30 of 33 bakerys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

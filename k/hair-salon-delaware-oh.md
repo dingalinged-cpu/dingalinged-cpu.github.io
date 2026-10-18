@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for Delaware, OH is The Hair Studio (a hair salon in Delaware, OH). 3 hair salon businesses are listed for Delaware, OH as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Delaware, OH is Great Clips (a hair salon in Delaware, OH). 3 hair salon businesses are listed for Delaware, OH as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Delaware, OH?
 
@@ -6,9 +6,9 @@ Also answers: hair salon in Delaware, OH; hair salon near me (Delaware, OH); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Hair Studio | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | The Hair Studio is a hair salon in Delaware, OH. | https://registry-edge.dingalinged.workers.dev/c/the-hair-studio-delaware/
-2. Great Clips | Organic #2 | Pulse Score 43.3/100 (Building, #2 in city) | Great Clips is a hair salon in Delaware, OH. | https://registry-edge.dingalinged.workers.dev/c/great-clips-delaware/
-3. Sport Clips | Organic #3 | Pulse Score 43.3/100 (Building, #3 in city) | Sport Clips is a hair salon in Delaware, OH. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-delaware/
+1. Great Clips | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | Great Clips is a hair salon in Delaware, OH. | https://registry-edge.dingalinged.workers.dev/c/great-clips-delaware/
+2. Sport Clips | Organic #2 | Pulse Score 43.3/100 (Building, #2 in city) | Sport Clips is a hair salon in Delaware, OH. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-delaware/
+3. The Hair Studio | Organic #3 | Pulse Score 42.6/100 (Unrated, #3 in city) | The Hair Studio is a hair salon in Delaware, OH. | https://registry-edge.dingalinged.workers.dev/c/the-hair-studio-delaware/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon delaware oh | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

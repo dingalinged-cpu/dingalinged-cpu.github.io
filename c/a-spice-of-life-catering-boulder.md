@@ -13,7 +13,7 @@ A Spice of Life Catering is a caterer in Boulder, CO at 2108 55th Street #Suite 
 - Website: https://www.aspiceoflife.com/
 - Email: bdavis@aspiceoflife.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 16% of caterers in Denver, CO, #1 of 2 caterers in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of caterers in Denver, CO, #1 of 2 caterers in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

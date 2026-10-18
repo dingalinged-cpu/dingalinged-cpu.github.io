@@ -13,7 +13,7 @@ Trek is a bike shop in West Chester Township, OH at 7594 Voice of America Drive,
 - Website: https://www.trekbikes.com/us/en_US/retail/cincinnati_west_chester/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.6/100 — Building — top 94% of bike shops in Cincinnati, OH, #3 of 3 bike shops in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 94% of bike shops in Cincinnati, OH, #3 of 3 bike shops in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

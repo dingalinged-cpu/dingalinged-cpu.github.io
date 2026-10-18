@@ -13,7 +13,7 @@ Devonshire Counseling is a therapy practice in Pleasant Ridge, MI at 23906 Woodw
 - Website: https://danadecapite.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 34% of therapy practices in Detroit, MI, #1 of 1 therapy practices in Pleasant Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 34% of therapy practices in Detroit, MI, #1 of 1 therapy practices in Pleasant Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

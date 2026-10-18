@@ -13,7 +13,7 @@ CityVet is a veterinarian in Douglas County, CO at 9567 South University Bouleva
 - Website: https://www.cityvet.com/cityvet/highlands-ranch
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-18:00; Fr 07:00-22:00; Sa 08:00-20:00; Su 10:00-20:00
-- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 89% of veterinarians in Denver, CO, #3 of 3 veterinarians in Douglas County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 88% of veterinarians in Denver, CO, #3 of 3 veterinarians in Douglas County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

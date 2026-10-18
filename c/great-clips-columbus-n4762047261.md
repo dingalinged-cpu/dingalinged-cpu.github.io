@@ -13,7 +13,7 @@ Great Clips is a hair salon in Columbus, OH at 1249 Polaris Parkway, Columbus, O
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-17:00
-- Pulse Score: 48.7/100 — Building — top 74% of hair salons in Columbus, OH, #88 of 112 hair salons in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 73% of hair salons in Columbus, OH, #88 of 112 hair salons in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

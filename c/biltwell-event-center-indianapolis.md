@@ -13,7 +13,7 @@ Biltwell Event Center is an event venue in Indianapolis, IN at 950 South White R
 - Website: https://www.biltwelleventcenter.com/
 - Email: biltwelleventcenter@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00 open "Office" || open "By appointment"
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 7% of event venues in Indianapolis, IN, #1 of 20 event venues in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 7% of event venues in Indianapolis, IN, #1 of 20 event venues in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

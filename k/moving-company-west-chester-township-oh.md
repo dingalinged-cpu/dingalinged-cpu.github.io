@@ -6,7 +6,7 @@ Also answers: moving company in West Chester Township, OH; moving company near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crossroads Moving Company | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Crossroads Moving Company is a moving company in West Chester Township, OH. Phone: +15139570461. Website: https://crossroadsmovers.com/. | https://registry-edge.dingalinged.workers.dev/c/crossroads-moving-company-west-chester-township/
+1. Crossroads Moving Company | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Crossroads Moving Company is a moving company in West Chester Township, OH. Phone: +15139570461. Website: https://crossroadsmovers.com/. | https://registry-edge.dingalinged.workers.dev/c/crossroads-moving-company-west-chester-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company west chester township oh | category: Home services - Moving | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Gouge Quality Roofing is a roofer in Amanda, OH at 4159 Fosnaugh School Road Sou
 - Website: https://www.gougequalityroofing.com/
 - Email: info@gougequalityroofing.com
 - Opening hours (OSM syntax): Mo-Th 07:30-16:30; Fr 07:00-15:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 50% of roofers in Columbus, OH, #1 of 1 roofers in Amanda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 34% of roofers in Columbus, OH, #1 of 1 roofers in Amanda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

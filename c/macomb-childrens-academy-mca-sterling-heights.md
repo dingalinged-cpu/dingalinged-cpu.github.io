@@ -13,7 +13,7 @@ Macomb Children's Academy (MCA) is a preschool in Sterling Heights, MI at 2171 1
 - Website: https://mca-ocamontessori.com/
 - Email: office@mcamontessori.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 2% of preschools in Detroit, MI, #1 of 5 preschools in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 2% of preschools in Detroit, MI, #1 of 5 preschools in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

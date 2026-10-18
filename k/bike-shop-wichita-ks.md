@@ -6,8 +6,8 @@ Also answers: bike shop in Wichita, KS; bike shop near me (Wichita, KS); best bi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bicycle Pedaler | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Bicycle Pedaler is a bike shop in Wichita, KS at 330 North Rock Road, Wichita, KS 67206. Website: https://www.bicyclepedaler.com/. | https://registry-edge.dingalinged.workers.dev/c/bicycle-pedaler-wichita/
-2. Bicycle X-Change | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Bicycle X-Change is a bike shop in Wichita, KS at 908 West Douglas Avenue, Wichita, KS 67203. Website: https://bicyclex-change.com/. | https://registry-edge.dingalinged.workers.dev/c/bicycle-x-change-wichita/
+1. Bicycle Pedaler | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Bicycle Pedaler is a bike shop in Wichita, KS at 330 North Rock Road, Wichita, KS 67206. Website: https://www.bicyclepedaler.com/. | https://registry-edge.dingalinged.workers.dev/c/bicycle-pedaler-wichita/
+2. Bicycle X-Change | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Bicycle X-Change is a bike shop in Wichita, KS at 908 West Douglas Avenue, Wichita, KS 67203. Website: https://bicyclex-change.com/. | https://registry-edge.dingalinged.workers.dev/c/bicycle-x-change-wichita/
 3. Heartland Bicycle | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Heartland Bicycle is a bike shop in Wichita, KS at 111 North Mosley, Wichita, KS. | https://registry-edge.dingalinged.workers.dev/c/heartland-bicycle-wichita/
 
 ## Market data (for advertisers and agents)

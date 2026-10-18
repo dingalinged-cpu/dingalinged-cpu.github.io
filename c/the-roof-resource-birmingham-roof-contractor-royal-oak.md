@@ -13,7 +13,7 @@ The Roof Resource - Birmingham roof contractor is a roofer in Royal Oak, MI at 3
 - Website: https://theroofresource.com/mi/48073/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 100% of roofers in Detroit, MI, #2 of 2 roofers in Royal Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 39.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 100% of roofers in Detroit, MI, #2 of 2 roofers in Royal Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Fire & Ice Columbus is a HVAC contractor in Columbus, OH at 872 Freeway Drive No
 - Website: https://www.indoortemp.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 15% of HVAC contractors in Columbus, OH, #1 of 4 HVAC contractors in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 15% of HVAC contractors in Columbus, OH, #1 of 4 HVAC contractors in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

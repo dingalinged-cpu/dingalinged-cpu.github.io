@@ -13,7 +13,7 @@ Savoy Stables is a dog boarding facility in Littleton, CO at 9249 Rangeview Lane
 - Website: https://www.savoystables.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 33% of dog boarding facilitys in Denver, CO, #2 of 2 dog boarding facilitys in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 33% of dog boarding facilitys in Denver, CO, #2 of 2 dog boarding facilitys in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: bike shop in Troy, MI; bike shop near me (Troy, MI); best bike sho
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HomeGrown Cycles | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | HomeGrown Cycles is a bike shop in Troy, MI at 724 Kenyon Drive, Troy, MI 48083. Phone: +12484575182. Website: https://hgc.bike/. | https://registry-edge.dingalinged.workers.dev/c/homegrown-cycles-troy/
+1. HomeGrown Cycles | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | HomeGrown Cycles is a bike shop in Troy, MI at 724 Kenyon Drive, Troy, MI 48083. Phone: +12484575182. Website: https://hgc.bike/. | https://registry-edge.dingalinged.workers.dev/c/homegrown-cycles-troy/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop troy mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

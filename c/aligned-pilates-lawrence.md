@@ -13,7 +13,7 @@ Aligned Pilates is a pilates studio in Lawrence, KS at 4824 Quail Crest Place #B
 - Website: https://alignedpilateslawrence.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 100% of pilates studios in Lawrence, KS, #1 of 1 pilates studios in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 100% of pilates studios in Lawrence, KS, #1 of 1 pilates studios in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Kalita Grill Greek Cafe is a veterinarian in Lafayette, CO at 801 South Public R
 - Website: https://kalitagrill.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-20:00; Su off
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 19% of veterinarians in Denver, CO, #1 of 5 veterinarians in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 18% of veterinarians in Denver, CO, #1 of 5 veterinarians in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

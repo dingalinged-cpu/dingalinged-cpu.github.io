@@ -13,7 +13,7 @@ Golden Fingers Salon is a barber shop in Sterling Heights, MI at 2011 15 Mile Ro
 - Website: https://www.fresha.com/lvp/golden-finger-salon-15-mile-road-sterling-heights-BKDRWa
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-20:30; Su 10:00-17:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 19% of barber shops in Detroit, MI, #2 of 11 barber shops in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 19% of barber shops in Detroit, MI, #2 of 11 barber shops in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

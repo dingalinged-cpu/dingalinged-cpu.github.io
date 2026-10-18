@@ -13,7 +13,7 @@ Athletico Physical Therapy is a physical therapy clinic in Wentzville, MO at 183
 - Website: https://www.athletico.com/locations/wentzville/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 100% of physical therapy clinics in Wentzville, MO, #1 of 1 physical therapy clinics in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 100% of physical therapy clinics in Wentzville, MO, #1 of 1 physical therapy clinics in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Boulder Cycle Sport is a bike shop in Boulder, CO at 629 South Broadway, Boulder
 - Website: https://www.bouldercyclesport.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa-Su 10:00-17:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 15% of bike shops in Denver, CO, #5 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 15% of bike shops in Denver, CO, #5 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Grease Monkey is an auto repair shop in Boulder, CO at 2710 Baseline Road, Bould
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 8:00-18:00; Sa 8:00-17:00
-- Pulse Score: 47/100 — Building — top 79% of auto repair shops in Denver, CO, #17 of 24 auto repair shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 78% of auto repair shops in Denver, CO, #17 of 24 auto repair shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ PeopleReady is a staffing agency in Florissant, MO. Phone: +16364473428. Website
 - Website: https://www.peopleready.com/location/florissant-mo-1138/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 86% of staffing agencys in St. Louis, MO, #1 of 1 staffing agencys in Florissant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 86% of staffing agencys in St. Louis, MO, #1 of 1 staffing agencys in Florissant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

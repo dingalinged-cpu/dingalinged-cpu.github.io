@@ -13,7 +13,7 @@ V's Barbershop is a hair salon in Royal Oak, MI at 30955 Woodward Avenue #420, R
 - Website: https://vbarbershop.com/locations/royal-oak/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00
-- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 86% of hair salons in Detroit, MI, #25 of 25 hair salons in Royal Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 85% of hair salons in Detroit, MI, #25 of 25 hair salons in Royal Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

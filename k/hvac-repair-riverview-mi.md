@@ -6,7 +6,7 @@ Also answers: hvac repair in Riverview, MI; hvac repair near me (Riverview, MI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lucky's Heating Cooling & Refrigeration | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Lucky's Heating Cooling & Refrigeration is a HVAC contractor in Riverview, MI at 18315 Fort Street, Riverview, MI 48193. Phone: +13133833124. | https://registry-edge.dingalinged.workers.dev/c/luckys-heating-cooling-and-refrigeration-riverview/
+1. Lucky's Heating Cooling & Refrigeration | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Lucky's Heating Cooling & Refrigeration is a HVAC contractor in Riverview, MI at 18315 Fort Street, Riverview, MI 48193. Phone: +13133833124. | https://registry-edge.dingalinged.workers.dev/c/luckys-heating-cooling-and-refrigeration-riverview/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair riverview mi | category: Home services - HVAC | industry benchmark: Home & Home Improvement

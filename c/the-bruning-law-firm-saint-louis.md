@@ -13,7 +13,7 @@ The Bruning Law Firm is a lawyer in Saint Louis, MO at 555 Washington Avenue #60
 - Website: https://www.bruninglegal.com/
 - Email: abruningjr@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 25% of lawyers in St. Louis, MO, #2 of 12 lawyers in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 25% of lawyers in St. Louis, MO, #2 of 12 lawyers in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

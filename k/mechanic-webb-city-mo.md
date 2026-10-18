@@ -6,7 +6,7 @@ Also answers: mechanic in Webb City, MO; mechanic near me (Webb City, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JE Auto Repair | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | JE Auto Repair is an auto repair shop in Webb City, MO at 302 North Main Street, Webb City, MO 64870. Phone: +14176737328. | https://registry-edge.dingalinged.workers.dev/c/je-auto-repair-webb-city/
+1. JE Auto Repair | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | JE Auto Repair is an auto repair shop in Webb City, MO at 302 North Main Street, Webb City, MO 64870. Phone: +14176737328. | https://registry-edge.dingalinged.workers.dev/c/je-auto-repair-webb-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic webb city mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

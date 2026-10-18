@@ -13,7 +13,7 @@ Aspen Dental is a dentist in Wentzville, MO at 1600 Wentzville Parkway #101, Wen
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-18:00; Th 09:00-19:00; Fr 08:00-13:00
-- Pulse Score: 47.1/100 — Building — top 100% of dentists in Wentzville, MO, #4 of 4 dentists in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 100% of dentists in Wentzville, MO, #4 of 4 dentists in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,9 +7,9 @@ Also answers: tire shop in Florence, KY; tire shop near me (Florence, KY); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Rider's Automotive, LLC | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Rider's Automotive, LLC is an auto repair shop in Florence, KY at 10057 Dixie Highway, Florence, KY 41042. Phone: +18593711090. | https://registry-edge.dingalinged.workers.dev/c/riders-automotive-llc-florence/
-2. Tire Discounters | Organic #2 | Pulse Score 43.1/100 (Building, #1 in city) | Tire Discounters is a tire shop in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/tire-discounters-florence/
-3. Tires Plus | Organic #3 | Pulse Score 43.1/100 (Building, #2 in city) | Tires Plus is a tire shop in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-florence/
-4. Costco Tires & Auto | Organic #4 | Pulse Score 43/100 (Building, #8 in city) | Costco Tires & Auto is an auto repair shop in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/costco-tires-and-auto-florence/
+2. Costco Tires & Auto | Organic #2 | Pulse Score 43/100 (Building, #8 in city) | Costco Tires & Auto is an auto repair shop in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/costco-tires-and-auto-florence/
+3. Tire Discounters | Organic #3 | Pulse Score 43/100 (Building, #1 in city) | Tire Discounters is a tire shop in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/tire-discounters-florence/
+4. Tires Plus | Organic #4 | Pulse Score 43/100 (Building, #2 in city) | Tires Plus is a tire shop in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-florence/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop florence ky | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

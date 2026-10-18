@@ -13,7 +13,7 @@ Ballen Medical & Wellness is a therapy practice in Centennial, CO at 6081 South 
 - Website: https://ballenmedical.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 14% of therapy practices in Denver, CO, #1 of 4 therapy practices in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 12% of therapy practices in Denver, CO, #1 of 4 therapy practices in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

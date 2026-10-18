@@ -6,7 +6,7 @@ Also answers: spa in Dearborn, MI; spa near me (Dearborn, MI); best spa Dearborn
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. NY Classic Spa & Tanning | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | NY Classic Spa & Tanning is a spa in Dearborn, MI at 928 North Telegraph Road, Dearborn, MI 48128. Phone: +13135638100. Website: https://nyclassicspaandtanning.net/. | https://registry-edge.dingalinged.workers.dev/c/ny-classic-spa-and-tanning-dearborn/
+1. NY Classic Spa & Tanning | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | NY Classic Spa & Tanning is a spa in Dearborn, MI at 928 North Telegraph Road, Dearborn, MI 48128. Phone: +13135638100. Website: https://nyclassicspaandtanning.net/. | https://registry-edge.dingalinged.workers.dev/c/ny-classic-spa-and-tanning-dearborn/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa dearborn mi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

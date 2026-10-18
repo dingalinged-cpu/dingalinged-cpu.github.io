@@ -6,9 +6,9 @@ Also answers: flooring companies in Indianapolis, IN; flooring companies near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ProSource of Indianapolis | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | ProSource of Indianapolis is a flooring company in Indianapolis, IN. Phone: +13179121119. Website: https://www.prosourcewholesale.com/showrooms/in-prosource-of-indianapolis. | https://registry-edge.dingalinged.workers.dev/c/prosource-of-indianapolis-indianapolis/
-2. Brothers Floor Covering, Inc. | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Brothers Floor Covering, Inc. is a flooring company in Indianapolis, IN at 5352 North Tacoma Avenue, Indianapolis, IN 46220. | https://registry-edge.dingalinged.workers.dev/c/brothers-floor-covering-inc-indianapolis/
-3. Russell's Tube Forming Inc | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Russell's Tube Forming Inc is a flooring company in Indianapolis, IN at 220 Gasoline Alley, Indianapolis, IN 46222. | https://registry-edge.dingalinged.workers.dev/c/russells-tube-forming-inc-indianapolis/
+1. ProSource of Indianapolis | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | ProSource of Indianapolis is a flooring company in Indianapolis, IN. Phone: +13179121119. Website: https://www.prosourcewholesale.com/showrooms/in-prosource-of-indianapolis. | https://registry-edge.dingalinged.workers.dev/c/prosource-of-indianapolis-indianapolis/
+2. Brothers Floor Covering, Inc. | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Brothers Floor Covering, Inc. is a flooring company in Indianapolis, IN at 5352 North Tacoma Avenue, Indianapolis, IN 46220. | https://registry-edge.dingalinged.workers.dev/c/brothers-floor-covering-inc-indianapolis/
+3. Russell's Tube Forming Inc | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Russell's Tube Forming Inc is a flooring company in Indianapolis, IN at 220 Gasoline Alley, Indianapolis, IN 46222. | https://registry-edge.dingalinged.workers.dev/c/russells-tube-forming-inc-indianapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies indianapolis in | category: Home services - Flooring | industry benchmark: Home & Home Improvement

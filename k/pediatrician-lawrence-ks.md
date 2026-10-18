@@ -1,4 +1,4 @@
-The top unpaid pediatrician listing for Lawrence, KS is Panda Pediatrics (a pediatrician in Lawrence, KS at 1803 West 6th Street, Lawrence, KS 66044. Phone: +17858424477. Website: https://www.pandapeds.com/). 2 pediatrician businesses are listed for Lawrence, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid pediatrician listing for Lawrence, KS is Lawrence Pediatrics, P.A. (a pediatrician in Lawrence, KS at 3310 Clinton Parkway Court, Lawrence, KS 66047. Website: https://lawrencepeds.com/). 2 pediatrician businesses are listed for Lawrence, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pediatrician providers in Lawrence, KS?
 
@@ -6,8 +6,8 @@ Also answers: pediatrician in Lawrence, KS; pediatrician near me (Lawrence, KS);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Panda Pediatrics | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Panda Pediatrics is a pediatrician in Lawrence, KS at 1803 West 6th Street, Lawrence, KS 66044. Phone: +17858424477. Website: https://www.pandapeds.com/. | https://registry-edge.dingalinged.workers.dev/c/panda-pediatrics-lawrence/
-2. Lawrence Pediatrics, P.A. | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Lawrence Pediatrics, P.A. is a pediatrician in Lawrence, KS at 3310 Clinton Parkway Court, Lawrence, KS 66047. Website: https://lawrencepeds.com/. | https://registry-edge.dingalinged.workers.dev/c/lawrence-pediatrics-p-a-lawrence/
+1. Lawrence Pediatrics, P.A. | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Lawrence Pediatrics, P.A. is a pediatrician in Lawrence, KS at 3310 Clinton Parkway Court, Lawrence, KS 66047. Website: https://lawrencepeds.com/. | https://registry-edge.dingalinged.workers.dev/c/lawrence-pediatrics-p-a-lawrence/
+2. Panda Pediatrics | Organic #2 | Pulse Score 48.8/100 (Unrated, #2 in city) | Panda Pediatrics is a pediatrician in Lawrence, KS at 1803 West 6th Street, Lawrence, KS 66044. Phone: +17858424477. Website: https://www.pandapeds.com/. | https://registry-edge.dingalinged.workers.dev/c/panda-pediatrics-lawrence/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician lawrence ks | category: Health & medical | industry benchmark: Physicians & Surgeons

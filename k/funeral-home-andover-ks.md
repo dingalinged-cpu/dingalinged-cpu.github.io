@@ -6,7 +6,7 @@ Also answers: funeral home in Andover, KS; funeral home near me (Andover, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heritage Funeral Home | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Heritage Funeral Home is a funeral home in Andover, KS at 502 West Central Avenue, Andover, KS 67002. Phone: +13167331020. | https://registry-edge.dingalinged.workers.dev/c/heritage-funeral-home-andover/
+1. Heritage Funeral Home | Organic #1 | Pulse Score 48.6/100 (Unrated, #1 in city) | Heritage Funeral Home is a funeral home in Andover, KS at 502 West Central Avenue, Andover, KS 67002. Phone: +13167331020. | https://registry-edge.dingalinged.workers.dev/c/heritage-funeral-home-andover/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home andover ks | category: Professional & financial services | industry benchmark: Finance & Insurance

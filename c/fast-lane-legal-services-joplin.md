@@ -13,7 +13,7 @@ Fast Lane Legal Services is a lawyer in Joplin, MO at 1329 East 32nd  Street #6,
 - Website: https://www.fastlanelegalservices.com/
 - Email: mandie@fastlanelegalservices.com
 - Opening hours (OSM syntax): "By appointment"
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 20% of lawyers in Joplin, MO, #1 of 5 lawyers in Joplin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 20% of lawyers in Joplin, MO, #1 of 5 lawyers in Joplin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

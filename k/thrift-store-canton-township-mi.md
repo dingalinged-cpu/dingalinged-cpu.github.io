@@ -1,4 +1,4 @@
-The top unpaid thrift store listing for Canton Township, MI is Salvation Army Thrift Store (a thrift store in Canton Township, MI at 43403 Joy Road, Canton Township, MI 48187. Phone: +17344161925. Website: https://satruck.org/). 3 thrift store businesses are listed for Canton Township, MI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Canton Township, MI is Re-Choice Resale (a thrift store in Canton Township, MI). 3 thrift store businesses are listed for Canton Township, MI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Canton Township, MI?
 
@@ -6,9 +6,9 @@ Also answers: thrift store in Canton Township, MI; thrift store near me (Canton 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salvation Army Thrift Store | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Salvation Army Thrift Store is a thrift store in Canton Township, MI at 43403 Joy Road, Canton Township, MI 48187. Phone: +17344161925. Website: https://satruck.org/. | https://registry-edge.dingalinged.workers.dev/c/salvation-army-thrift-store-canton-township/
-2. Re-Choice Resale | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Re-Choice Resale is a thrift store in Canton Township, MI. | https://registry-edge.dingalinged.workers.dev/c/re-choice-resale-canton-township/
-3. Goodwill | Organic #3 | Pulse Score 50.4/100 (Fair, #3 in city) | Goodwill is a thrift store in Canton Township, MI at 41937 Ford Road, Canton Township, MI 48187. Phone: +17349811692. Website: https://stores.goodwilldetroit.org/canton/. | https://registry-edge.dingalinged.workers.dev/c/goodwill-canton-township/
+1. Re-Choice Resale | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Re-Choice Resale is a thrift store in Canton Township, MI. | https://registry-edge.dingalinged.workers.dev/c/re-choice-resale-canton-township/
+2. Goodwill | Organic #2 | Pulse Score 50.4/100 (Fair, #2 in city) | Goodwill is a thrift store in Canton Township, MI at 41937 Ford Road, Canton Township, MI 48187. Phone: +17349811692. Website: https://stores.goodwilldetroit.org/canton/. | https://registry-edge.dingalinged.workers.dev/c/goodwill-canton-township/
+3. Salvation Army Thrift Store | Organic #3 | Pulse Score 50.3/100 (Fair, #3 in city) | Salvation Army Thrift Store is a thrift store in Canton Township, MI at 43403 Joy Road, Canton Township, MI 48187. Phone: +17344161925. Website: https://satruck.org/. | https://registry-edge.dingalinged.workers.dev/c/salvation-army-thrift-store-canton-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store canton township mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

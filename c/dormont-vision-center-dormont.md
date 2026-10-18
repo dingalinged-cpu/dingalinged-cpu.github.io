@@ -13,7 +13,7 @@ Dormont Vision Center is an eye care practice in Dormont, PA at 2893 West Libert
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 09:00-17:30; Tu 09:00-20:00; Sa 09:00-14:00
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 44% of eye care practices in Pittsburgh, PA, #1 of 1 eye care practices in Dormont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 44% of eye care practices in Pittsburgh, PA, #1 of 1 eye care practices in Dormont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Boulder Dentistry is a dentist in Boulder, CO at 1651 28th Street, Boulder, CO. 
 - Website: https://www.dentalofficeboulderco.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:30
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 29% of dentists in Denver, CO, #11 of 34 dentists in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 29% of dentists in Denver, CO, #11 of 34 dentists in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Homer's River City Heating and Cooling is a HVAC contractor in Lawrence, KS at 1
 - Website: https://homersrivercityheating.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Lawrence, KS, #2 of 2 HVAC contractors in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Lawrence, KS, #2 of 2 HVAC contractors in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

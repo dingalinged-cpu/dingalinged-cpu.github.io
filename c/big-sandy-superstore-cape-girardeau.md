@@ -13,7 +13,7 @@ Big Sandy Superstore is a furniture store in Cape Girardeau, MO at 43 South Main
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in Cape Girardeau, MO, #1 of 1 furniture stores in Cape Girardeau (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.4/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in Cape Girardeau, MO, #1 of 1 furniture stores in Cape Girardeau (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

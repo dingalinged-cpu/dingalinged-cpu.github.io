@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Douglas County, CO. Phone: +17203481226. Website:
 - Website: https://sportclips.com/us-co-highlandsranch-co101
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-19:00; Fr 09:00-18:00; Sa-Su 09:00-17:00
-- Pulse Score: 48.7/100 — Building — top 75% of hair salons in Denver, CO, #2 of 4 hair salons in Douglas County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 74% of hair salons in Denver, CO, #2 of 4 hair salons in Douglas County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

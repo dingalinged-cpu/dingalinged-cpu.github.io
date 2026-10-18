@@ -13,7 +13,7 @@ Southside Storage is a self-storage facility in Columbia, MO at 3100 Chinaberry 
 - Website: https://www.southsidecolumbia.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 29% of self-storage facilitys in Columbia, MO, #2 of 7 self-storage facilitys in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 29% of self-storage facilitys in Columbia, MO, #2 of 7 self-storage facilitys in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

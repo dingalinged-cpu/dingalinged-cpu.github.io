@@ -13,7 +13,7 @@ Ferguson Plumbing is a plumber in Saint Louis, MO at 4170 Carondelet Boulevard, 
 - Website: https://www.ferguson.com/store/mo/saint+louis/plumbingpvf-3777
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 60% of plumbers in St. Louis, MO, #1 of 1 plumbers in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 60% of plumbers in St. Louis, MO, #1 of 1 plumbers in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

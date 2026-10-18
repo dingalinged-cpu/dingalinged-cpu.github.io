@@ -13,7 +13,7 @@ Reliable Chevrolet is an used car dealer in Springfield, MO at 3655 South Campbe
 - Website: https://www.reliablechevy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-19:00
-- Pulse Score: 48.3/100 — Building — top 100% of used car dealers in Springfield, MO, #5 of 5 used car dealers in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 100% of used car dealers in Springfield, MO, #5 of 5 used car dealers in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

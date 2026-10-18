@@ -13,7 +13,7 @@ Mid America Flooring Solutions is a flooring company in Saint Peters, MO at 115 
 - Website: https://www.midamericaflooringsolutions.com/
 - Email: sales@maflooringsolutions.com
 - Opening hours (OSM syntax): Mo-Sa 07:00-17:00
-- Pulse Score: 49.6/100 — Unrated (not enough evidence yet) — top 100% of flooring companys in St. Peters, MO, #2 of 2 flooring companys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.1, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Unrated (not enough evidence yet) — top 100% of flooring companys in St. Peters, MO, #2 of 2 flooring companys in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.1, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: facial in Clinton Township, MI; facial near me (Clinton Township, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tricho Salon and Spa | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Tricho Salon and Spa is a spa in Clinton Township, MI at 17420 Hall Road, Clinton Township, MI 48038. Phone: +15862639111. Website: https://www.trichosalonandspa.com/. | https://registry-edge.dingalinged.workers.dev/c/tricho-salon-and-spa-clinton-township/
+1. Tricho Salon and Spa | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Tricho Salon and Spa is a spa in Clinton Township, MI at 17420 Hall Road, Clinton Township, MI 48038. Phone: +15862639111. Website: https://www.trichosalonandspa.com/. | https://registry-edge.dingalinged.workers.dev/c/tricho-salon-and-spa-clinton-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial clinton township mi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

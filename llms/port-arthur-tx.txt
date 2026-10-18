@@ -1,0 +1,1496 @@
+# Company Registry: company records, metro port-arthur-tx
+
+> 55 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+409 Barber Shop is a barber shop in Nederland, TX.
+
+# 409 Barber Shop
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: Nederland, TX
+- City: Nederland
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9611459, -94.0024251
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo,Su off; Tu-Fr 09:30-18:00; Sa 09:30-13:00
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Port Arthur, TX, #1 of 1 barber shops in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/409-barber-shop-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/409-barber-shop-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13004728918 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+A to Z Liquor & Smoke is a liquor store in Port Arthur, TX at 6701 Port Arthur Road, Port Arthur, TX 77640. Phone: +14092170222.
+
+# A to Z Liquor & Smoke
+
+- Category: liquor store
+- Services: liquor store
+- Address: 6701 Port Arthur Road, Port Arthur, TX 77640
+- City: Port Arthur
+- State: TX
+- ZIP: 77640
+- Coordinates: 29.9134521, -94.0169357
+- Phone: +14092170222
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 12% of liquor stores in Port Arthur, TX, #1 of 6 liquor stores in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-to-z-liquor-and-smoke-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-to-z-liquor-and-smoke-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13966118901 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Port Arthur, TX at 3360 Farm to Market Road 365, Port Arthur, TX 77640. Phone: +13618671336. Website: https://www.actionbehavior.com/location/texas/port-arthur.
+
+# Action Behavior Centers - ABA Therapy for Autism
+
+- Category: therapist
+- Services: therapist
+- Address: 3360 Farm to Market Road 365, Port Arthur, TX 77640
+- City: Port Arthur
+- State: TX
+- ZIP: 77640
+- Coordinates: 29.9492473, -93.9918344
+- Phone: +13618671336
+- Website: https://www.actionbehavior.com/location/texas/port-arthur
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Pulse Score: 49.6/100 — Building — top 100% of therapy practices in Port Arthur, TX, #1 of 1 therapy practices in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.9, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-aba-therapy-for-autism-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/action-behavior-centers-aba-therapy-for-autism-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13470680190 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Allstar Insurance Agency Inc: Phil Guidry is an insurance agent in Nederland, TX at 1431 South Highway 69, Nederland, TX 77627. Phone: +14097273500.
+
+# Allstar Insurance Agency Inc: Phil Guidry
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 1431 South Highway 69, Nederland, TX 77627
+- City: Nederland
+- State: TX
+- ZIP: 77627
+- Coordinates: 29.9479145, -93.9956429
+- Phone: +14097273500
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 50% of insurance agents in Port Arthur, TX, #3 of 3 insurance agents in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/allstar-insurance-agency-inc-phil-guidry-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/allstar-insurance-agency-inc-phil-guidry-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4326563792 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aspen Dental is a dentist in Port Arthur, TX.
+
+# Aspen Dental
+
+- Category: dentist
+- Services: dentist
+- Address: Port Arthur, TX
+- City: Port Arthur
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9427784, -93.9910105
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.9/100 — Building — top 100% of dentists in Port Arthur, TX, #2 of 2 dentists in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aspen-dental-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aspen-dental-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13179474139 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+CDL Fitness is a gym in Nederland, TX at 3322 FM-365, Nederland, TX 77627. Phone: +14095403527. Website: https://cdlfitness.com/.
+
+# CDL Fitness
+
+- Category: gym
+- Services: gym
+- Address: 3322 FM-365, Nederland, TX 77627
+- City: Nederland
+- State: TX
+- ZIP: 77627
+- Coordinates: 29.950088, -93.9915534
+- Phone: +14095403527
+- Website: https://cdlfitness.com/
+- Email: support@cdlfitness.com
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 50% of gyms in Port Arthur, TX, #1 of 2 gyms in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cdl-fitness-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cdl-fitness-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14081329401 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Club 60 is an event venue in Port Arthur, TX at 4863 60th Street, Port Arthur, TX 77642.
+
+# Club 60
+
+- Category: event venues
+- Services: event venues
+- Address: 4863 60th Street, Port Arthur, TX 77642
+- City: Port Arthur
+- State: TX
+- ZIP: 77642
+- Coordinates: 29.946618, -93.9526723
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 50% of event venues in Port Arthur, TX, #1 of 2 event venues in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/club-60-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/club-60-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/964811198 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Port Arthur, TX at 8373 Memorial Boulevard, Port Arthur, TX 77640. Phone: +14097273554.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 8373 Memorial Boulevard, Port Arthur, TX 77640
+- City: Port Arthur
+- State: TX
+- ZIP: 77640
+- Coordinates: 29.9413598, -93.9888588
+- Phone: +14097273554
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.8/100 — Building — top 100% of tire shops in Port Arthur, TX, #2 of 2 tire shops in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/676442890 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Elite Nails is a nail salon in Port Arthur, TX.
+
+# Elite Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: Port Arthur, TX
+- City: Port Arthur
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9469921, -93.9901761
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.7/100 — Building — top 100% of nail salons in Port Arthur, TX, #1 of 1 nail salons in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/elite-nails-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/elite-nails-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9875270958 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Extra Space Storage is a self-storage facility in Port Arthur, TX.
+
+# Extra Space Storage
+
+- Category: storage units
+- Services: storage units
+- Address: Port Arthur, TX
+- City: Port Arthur
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9510135, -94.003027
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.2/100 — Building — top 50% of self-storage facilitys in Port Arthur, TX, #1 of 2 self-storage facilitys in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/extra-space-storage-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/867057106 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Extra Space Storage is a self-storage facility in Port Arthur, TX.
+
+# Extra Space Storage
+
+- Category: storage units
+- Services: storage units
+- Address: Port Arthur, TX
+- City: Port Arthur
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9514515, -94.0043075
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.2/100 — Building — top 100% of self-storage facilitys in Port Arthur, TX, #2 of 2 self-storage facilitys in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-port-arthur-w867057107/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/extra-space-storage-port-arthur-w867057107.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/867057107 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Exygon Health & Fitness Club is a gym in Nederland, TX at 1001 Nederland Avenue, Nederland, TX 77627.
+
+# Exygon Health & Fitness Club
+
+- Category: gym
+- Services: gym
+- Address: 1001 Nederland Avenue, Nederland, TX 77627
+- City: Nederland
+- State: TX
+- ZIP: 77627
+- Coordinates: 29.9767132, -93.9856633
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 100% of gyms in Port Arthur, TX, #2 of 2 gyms in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/exygon-health-and-fitness-club-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/exygon-health-and-fitness-club-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7220879014 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Farmers Insurance is an insurance agent in Port Arthur, TX.
+
+# Farmers Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Port Arthur, TX
+- City: Port Arthur
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.8954438, -93.9234699
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.5/100 — Building — top 63% of insurance agents in Port Arthur, TX, #2 of 4 insurance agents in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/farmers-insurance-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11703983920 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Farmers Insurance is an insurance agent in Port Arthur, TX.
+
+# Farmers Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Port Arthur, TX
+- City: Port Arthur
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9219173, -93.9314458
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.5/100 — Building — top 75% of insurance agents in Port Arthur, TX, #3 of 4 insurance agents in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-port-arthur-n11703983938/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/farmers-insurance-port-arthur-n11703983938.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11703983938 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Farmers Insurance is an insurance agent in Port Neches, TX.
+
+# Farmers Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Port Neches, TX
+- City: Port Neches
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9536384, -93.9553814
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.5/100 — Building — top 88% of insurance agents in Port Arthur, TX, #1 of 1 insurance agents in Port Neches (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-port-neches/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/farmers-insurance-port-neches.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11703984015 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+First Response Urgent Care is an urgent care clinic in Port Arthur, TX.
+
+# First Response Urgent Care
+
+- Category: urgent care
+- Services: urgent care
+- Address: Port Arthur, TX
+- City: Port Arthur
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9530504, -93.9868511
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of urgent care clinics in Port Arthur, TX, #1 of 1 urgent care clinics in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/first-response-urgent-care-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/first-response-urgent-care-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13179474138 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Great Clips is a hair salon in Port Arthur, TX at 8425 Memorial Boulevard #150, Port Arthur, TX 77640.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 8425 Memorial Boulevard #150, Port Arthur, TX 77640
+- City: Port Arthur
+- State: TX
+- ZIP: 77640
+- Coordinates: 29.9417027, -93.9895483
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.9/100 — Building — top 50% of hair salons in Port Arthur, TX, #1 of 2 hair salons in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7213288500 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+GRS Wraps and Detailing is an auto repair shop in Nederland, TX at 723 Nederland Avenue, Nederland, TX 77627.
+
+# GRS Wraps and Detailing
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 723 Nederland Avenue, Nederland, TX 77627
+- City: Nederland
+- State: TX
+- ZIP: 77627
+- Coordinates: 29.9792715, -93.9846199
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 67% of auto repair shops in Port Arthur, TX, #1 of 2 auto repair shops in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/grs-wraps-and-detailing-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/grs-wraps-and-detailing-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13337390010 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H&R Block is a tax preparation service in Port Arthur, TX at 8845 Memorial Boulevard #300, Port Arthur, TX 77640.
+
+# H&R Block
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 8845 Memorial Boulevard #300, Port Arthur, TX 77640
+- City: Port Arthur
+- State: TX
+- ZIP: 77640
+- Coordinates: 29.9466775, -93.9968034
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.8/100 — Building — top 100% of tax preparation services in Port Arthur, TX, #1 of 1 tax preparation services in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-r-block-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7213249614 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Port Arthur, TX at FM 365, Port Arthur, TX 77642.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: FM 365, Port Arthur, TX 77642
+- City: Port Arthur
+- State: TX
+- ZIP: 77642
+- Coordinates: 29.9638318, -93.9740911
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): PH,Mo-Su 12:00+
+- Pulse Score: 47.9/100 — Building — top 100% of car washes in Port Arthur, TX, #1 of 1 car washes in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/522802377 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Harris Florist is a florist in Nederland, TX at 2707 Avenue H, Nederland, TX 77627. Phone: +14097223928. Website: https://www.harrisfloristnederland.com/.
+
+# Harris Florist
+
+- Category: florist
+- Services: florist
+- Address: 2707 Avenue H, Nederland, TX 77627
+- City: Nederland
+- State: TX
+- ZIP: 77627
+- Coordinates: 29.9588566, -93.9929633
+- Phone: +14097223928
+- Website: https://www.harrisfloristnederland.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 100% of florists in Port Arthur, TX, #1 of 1 florists in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/harris-florist-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/harris-florist-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9738972186 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jay's Custom Wheels & Tires is a tire shop in Port Arthur, TX at 1700 Woodworth Boulevard, Port Arthur, TX 77640.
+
+# Jay's Custom Wheels & Tires
+
+- Category: tire shop
+- Services: tire shop
+- Address: 1700 Woodworth Boulevard, Port Arthur, TX 77640
+- City: Port Arthur
+- State: TX
+- ZIP: 77640
+- Coordinates: 29.8993534, -93.9287524
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 50% of tire shops in Port Arthur, TX, #1 of 2 tire shops in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jays-custom-wheels-and-tires-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jays-custom-wheels-and-tires-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/772565179 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Last call liquor & smoke #2 is a liquor store in Port Arthur, TX at 5138 Gulfway Drive, Port Arthur, TX 77642.
+
+# Last call liquor & smoke #2
+
+- Category: liquor store
+- Services: liquor store
+- Address: 5138 Gulfway Drive, Port Arthur, TX 77642
+- City: Port Arthur
+- State: TX
+- ZIP: 77642
+- Coordinates: 29.9222429, -93.9080182
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 65% of liquor stores in Port Arthur, TX, #3 of 6 liquor stores in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/last-call-liquor-and-smoke-2-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/last-call-liquor-and-smoke-2-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13929784601 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Longhorn Liquor #4 is a liquor store in Groves, TX at 5945 39th Street, Groves, TX 77619.
+
+# Longhorn Liquor #4
+
+- Category: liquor store
+- Services: liquor store
+- Address: 5945 39th Street, Groves, TX 77619
+- City: Groves
+- State: TX
+- ZIP: 77619
+- Coordinates: 29.9440336, -93.9216129
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 71% of liquor stores in Port Arthur, TX, #1 of 1 liquor stores in Groves (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/longhorn-liquor-4-groves/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/longhorn-liquor-4-groves.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13854348801 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Longhorn Liquor #6 is a liquor store in Nederland, TX at 1017 Nederland Avenue, Nederland, TX 77627.
+
+# Longhorn Liquor #6
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1017 Nederland Avenue, Nederland, TX 77627
+- City: Nederland
+- State: TX
+- ZIP: 77627
+- Coordinates: 29.9764671, -93.9871055
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 77% of liquor stores in Port Arthur, TX, #5 of 6 liquor stores in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/longhorn-liquor-6-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/longhorn-liquor-6-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/773589711 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Longhorn Liquor #9 is a liquor store in Port Neches, TX at 2370 Nall Street, Port Neches, TX 77651. Phone: +14092375659. Website: https://longhornliquor.com/.
+
+# Longhorn Liquor #9
+
+- Category: liquor store
+- Services: liquor store
+- Address: 2370 Nall Street, Port Neches, TX 77651
+- City: Port Neches
+- State: TX
+- ZIP: 77651
+- Coordinates: 29.9777254, -93.9654837
+- Phone: +14092375659
+- Website: https://longhornliquor.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of liquor stores in Port Arthur, TX, #1 of 1 liquor stores in Port Neches (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/longhorn-liquor-9-port-neches/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/longhorn-liquor-9-port-neches.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13902990402 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lucky Liquor #2 is a liquor store in Nederland, TX at 1429 South Highway 69, Nederland, TX 77627. Phone: +14097227947.
+
+# Lucky Liquor #2
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1429 South Highway 69, Nederland, TX 77627
+- City: Nederland
+- State: TX
+- ZIP: 77627
+- Coordinates: 29.9477397, -93.9956807
+- Phone: +14097227947
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 18% of liquor stores in Port Arthur, TX, #1 of 6 liquor stores in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lucky-liquor-2-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lucky-liquor-2-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13962954601 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mary's Nail Spa is a nail salon in Nederland, TX. Phone: +14095198484.
+
+# Mary's Nail Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: Nederland, TX
+- City: Nederland
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9611036, -94.0024708
+- Phone: +14095198484
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 50% of nail salons in Port Arthur, TX, #1 of 1 nail salons in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/marys-nail-spa-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/marys-nail-spa-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13004728917 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mattress Firm is a mattress store in Nederland, TX.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: Nederland, TX
+- City: Nederland
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9484173, -93.9929031
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.8/100 — Building — top 100% of mattress stores in Port Arthur, TX, #1 of 1 mattress stores in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-firm-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-firm-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12156357132 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mikal Weaver Insurance Agency is an insurance agent in Nederland, TX at 1405 Nederland Avenue, Nederland, TX 77627. Phone: +14092375255. Website: https://agents.farmers.com/tx/nederland/mikal-weaver.
+
+# Mikal Weaver Insurance Agency
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 1405 Nederland Avenue, Nederland, TX 77627
+- City: Nederland
+- State: TX
+- ZIP: 77627
+- Coordinates: 29.9726609, -93.9907016
+- Phone: +14092375255
+- Website: https://agents.farmers.com/tx/nederland/mikal-weaver
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 13% of insurance agents in Port Arthur, TX, #1 of 3 insurance agents in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mikal-weaver-insurance-agency-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mikal-weaver-insurance-agency-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/503754180 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Miller's Liquor is a liquor store in Port Arthur, TX.
+
+# Miller's Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: Port Arthur, TX
+- City: Port Arthur
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.8990352, -93.9280466
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in Port Arthur, TX, #6 of 6 liquor stores in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 37.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/millers-liquor-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/millers-liquor-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13530573114 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Missions Attic is a thrift store in Groves, TX at 3300 Twin City Highway, Groves, TX 77619.
+
+# Missions Attic
+
+- Category: thrift store
+- Services: thrift store
+- Address: 3300 Twin City Highway, Groves, TX 77619
+- City: Groves
+- State: TX
+- ZIP: 77619
+- Coordinates: 29.9297457, -93.9241892
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of thrift stores in Port Arthur, TX, #1 of 1 thrift stores in Groves (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/missions-attic-groves/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/missions-attic-groves.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1240791199 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Petco is a pet store in Port Arthur, TX at 8735 Memorial Boulevard, Port Arthur, TX 77640. Phone: +14097241853. Website: https://stores.petco.com/tx/portarthur/pet-supplies-portarthur-tx-1482.html.
+
+# Petco
+
+- Category: pet store
+- Services: pet store
+- Address: 8735 Memorial Boulevard, Port Arthur, TX 77640
+- City: Port Arthur
+- State: TX
+- ZIP: 77640
+- Coordinates: 29.9450826, -93.9965241
+- Phone: +14097241853
+- Website: https://stores.petco.com/tx/portarthur/pet-supplies-portarthur-tx-1482.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
+- Pulse Score: 47/100 — Building — top 50% of pet stores in Port Arthur, TX, #1 of 2 pet stores in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petco-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petco-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/772598074 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Petco is a pet store in Port Arthur, TX at 2770 FM 365 #C, Port Arthur, TX 77640.
+
+# Petco
+
+- Category: pet store
+- Services: pet store
+- Address: 2770 FM 365 #C, Port Arthur, TX 77640
+- City: Port Arthur
+- State: TX
+- ZIP: 77640
+- Coordinates: 29.9436892, -93.9952564
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.1/100 — Building — top 100% of pet stores in Port Arthur, TX, #2 of 2 pet stores in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petco-port-arthur-w772604336/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petco-port-arthur-w772604336.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/772604336 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Philpott Collision Center is an auto repair shop in Port Neches, TX at 2727 Nall Street, Port Neches, TX 77651. Phone: +14097271451. Website: https://www.philpottcollisioncenter.com/.
+
+# Philpott Collision Center
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2727 Nall Street, Port Neches, TX 77651
+- City: Port Neches
+- State: TX
+- ZIP: 77651
+- Coordinates: 29.9719482, -93.9698284
+- Phone: +14097271451
+- Website: https://www.philpottcollisioncenter.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Port Arthur, TX, #1 of 1 auto repair shops in Port Neches (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/philpott-collision-center-port-neches/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/philpott-collision-center-port-neches.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2588224364 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Red's liquor #6 is a liquor store in Nederland, TX at 2828 FM 365, Nederland, TX 77627. Phone: +14093449098.
+
+# Red's liquor #6
+
+- Category: liquor store
+- Services: liquor store
+- Address: 2828 FM 365, Nederland, TX 77627
+- City: Nederland
+- State: TX
+- ZIP: 77627
+- Coordinates: 29.9534906, -93.9879218
+- Phone: +14093449098
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 24% of liquor stores in Port Arthur, TX, #2 of 6 liquor stores in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/reds-liquor-6-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/reds-liquor-6-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13965746601 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Robert A Bob Bowers Civic Center is an event venue in Port Arthur, TX at 3401 Cultural Center Drive, Port Arthur, TX 77642.
+
+# Robert A Bob Bowers Civic Center
+
+- Category: event venues
+- Services: event venues
+- Address: 3401 Cultural Center Drive, Port Arthur, TX 77642
+- City: Port Arthur
+- State: TX
+- ZIP: 77642
+- Coordinates: 29.9247676, -93.9493253
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of event venues in Port Arthur, TX, #2 of 2 event venues in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/robert-a-bob-bowers-civic-center-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/robert-a-bob-bowers-civic-center-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/772565185 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sport Clips is a hair salon in Port Arthur, TX at 8555 Memorial Boulevard #300, Port Arthur, TX 77640.
+
+# Sport Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 8555 Memorial Boulevard #300, Port Arthur, TX 77640
+- City: Port Arthur
+- State: TX
+- ZIP: 77640
+- Coordinates: 29.9430785, -93.9915092
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.9/100 — Building — top 100% of hair salons in Port Arthur, TX, #2 of 2 hair salons in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sport-clips-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sport-clips-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7213288521 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+State Farm is an insurance agent in Port Arthur, TX.
+
+# State Farm
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Port Arthur, TX
+- City: Port Arthur
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9034427, -93.9341827
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.5/100 — Building — top 100% of insurance agents in Port Arthur, TX, #4 of 4 insurance agents in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-farm-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-farm-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11703983922 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sunshine Liquor is a liquor store in Nederland, TX at 2223 Nederland Avenue, Nederland, TX 77627.
+
+# Sunshine Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 2223 Nederland Avenue, Nederland, TX 77627
+- City: Nederland
+- State: TX
+- ZIP: 77627
+- Coordinates: 29.9667239, -93.9963543
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 83% of liquor stores in Port Arthur, TX, #6 of 6 liquor stores in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sunshine-liquor-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sunshine-liquor-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13854204301 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sunshine liquor is a liquor store in Port Arthur, TX at 1700 Jefferson Drive, Port Arthur, TX 77642.
+
+# Sunshine liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1700 Jefferson Drive, Port Arthur, TX 77642
+- City: Port Arthur
+- State: TX
+- ZIP: 77642
+- Coordinates: 29.9208475, -93.9100356
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 89% of liquor stores in Port Arthur, TX, #4 of 6 liquor stores in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sunshine-liquor-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sunshine-liquor-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13929784603 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tejas liquor #16 is a liquor store in Nederland, TX at 3503 Nederland Avenue, Nederland, TX 77627. Phone: +14093449903.
+
+# Tejas liquor #16
+
+- Category: liquor store
+- Services: liquor store
+- Address: 3503 Nederland Avenue, Nederland, TX 77627
+- City: Nederland
+- State: TX
+- ZIP: 77627
+- Coordinates: 29.9579873, -94.0045781
+- Phone: +14093449903
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 30% of liquor stores in Port Arthur, TX, #3 of 6 liquor stores in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tejas-liquor-16-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tejas-liquor-16-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13948506801 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tejas Liquor #5 is a liquor store in Bridge City, TX at 235 Texas Avenue, Bridge City, TX 77611. Phone: +14097352847.
+
+# Tejas Liquor #5
+
+- Category: liquor store
+- Services: liquor store
+- Address: 235 Texas Avenue, Bridge City, TX 77611
+- City: Bridge City
+- State: TX
+- ZIP: 77611
+- Coordinates: 30.0188375, -93.8489887
+- Phone: +14097352847
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 36% of liquor stores in Port Arthur, TX, #1 of 2 liquor stores in Bridge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tejas-liquor-5-bridge-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tejas-liquor-5-bridge-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14125816801 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tejas Liquor #7 is a liquor store in Port Arthur, TX at 4700 FM 365, Port Arthur, TX 77642. Phone: +14092375310.
+
+# Tejas Liquor #7
+
+- Category: liquor store
+- Services: liquor store
+- Address: 4700 FM 365, Port Arthur, TX 77642
+- City: Port Arthur
+- State: TX
+- ZIP: 77642
+- Coordinates: 29.9628062, -93.9766143
+- Phone: +14092375310
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 42% of liquor stores in Port Arthur, TX, #2 of 6 liquor stores in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tejas-liquor-7-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tejas-liquor-7-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13853786401 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tejas liquor #8 is a liquor store in Jefferson County, TX at 3103 Spurlock Road, Jefferson County, TX 77627. Phone: +14098531931.
+
+# Tejas liquor #8
+
+- Category: liquor store
+- Services: liquor store
+- Address: 3103 Spurlock Road, Jefferson County, TX 77627
+- City: Jefferson County
+- State: TX
+- ZIP: 77627
+- Coordinates: 29.974207, -94.0218514
+- Phone: +14098531931
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 48% of liquor stores in Port Arthur, TX, #1 of 1 liquor stores in Jefferson County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tejas-liquor-8-jefferson-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tejas-liquor-8-jefferson-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13948474901 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Teneal R. Callarman Insurance is an insurance agent in Port Arthur, TX at 3204 39th Street, Port Arthur, TX 77642. Phone: +14099858916. Website: https://callarmaninsurance.com/.
+
+# Teneal R. Callarman Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 3204 39th Street, Port Arthur, TX 77642
+- City: Port Arthur
+- State: TX
+- ZIP: 77642
+- Coordinates: 29.918219, -93.9446564
+- Phone: +14099858916
+- Website: https://callarmaninsurance.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 25% of insurance agents in Port Arthur, TX, #1 of 4 insurance agents in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/teneal-r-callarman-insurance-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/teneal-r-callarman-insurance-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4601222935 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The liquor stop is a liquor store in Port Arthur, TX at 8180 9th Avenue, Port Arthur, TX 77642.
+
+# The liquor stop
+
+- Category: liquor store
+- Services: liquor store
+- Address: 8180 9th Avenue, Port Arthur, TX 77642
+- City: Port Arthur
+- State: TX
+- ZIP: 77642
+- Coordinates: 29.9495342, -93.9799322
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 95% of liquor stores in Port Arthur, TX, #5 of 6 liquor stores in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-liquor-stop-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-liquor-stop-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13929824401 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Lube Shop is an auto repair shop in Nederland, TX at 1612 FM 365, Nederland, TX.
+
+# The Lube Shop
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change
+- Address: 1612 FM 365, Nederland, TX
+- City: Nederland
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9621485, -93.9799366
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 100% of auto repair shops in Port Arthur, TX, #2 of 2 auto repair shops in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-lube-shop-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-lube-shop-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1324701680 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tom Oxford is a lawyer in Nederland, TX. Phone: +14097277711. Website: https://oxfordlawpllc.com/.
+
+# Tom Oxford
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: Nederland, TX
+- City: Nederland
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9546972, -94.0051251
+- Phone: +14097277711
+- Website: https://oxfordlawpllc.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Port Arthur, TX, #1 of 1 lawyers in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tom-oxford-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tom-oxford-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8021066396 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Twin City Dental PA is a dentist in Port Arthur, TX at 3707 North Twin City Highway, Port Arthur, TX 77642. Phone: +14099629391. Website: https://www.twincitydentalpa.com/.
+
+# Twin City Dental PA
+
+- Category: dentist
+- Services: dentist
+- Address: 3707 North Twin City Highway, Port Arthur, TX 77642
+- City: Port Arthur
+- State: TX
+- ZIP: 77642
+- Coordinates: 29.9312834, -93.9291413
+- Phone: +14099629391
+- Website: https://www.twincitydentalpa.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 08:00-17:00
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 50% of dentists in Port Arthur, TX, #1 of 2 dentists in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/twin-city-dental-pa-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/twin-city-dental-pa-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5822245825 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Twin City Mart is a liquor store in Nederland, TX at 507 North Twin City Highway, Nederland, TX 77627. Phone: +14095948691.
+
+# Twin City Mart
+
+- Category: liquor store
+- Services: liquor store
+- Address: 507 North Twin City Highway, Nederland, TX 77627
+- City: Nederland
+- State: TX
+- ZIP: 77627
+- Coordinates: 29.9779893, -93.9918952
+- Phone: +14095948691
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 53% of liquor stores in Port Arthur, TX, #4 of 6 liquor stores in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/twin-city-mart-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/twin-city-mart-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13965899204 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Twin City Nissan is an used car dealer in Port Arthur, TX at 10549 Memorial Boulevard, Port Arthur, TX 77640. Phone: +14099811260. Website: https://www.twincityclassicnissan.com/.
+
+# Twin City Nissan
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 10549 Memorial Boulevard, Port Arthur, TX 77640
+- City: Port Arthur
+- State: TX
+- ZIP: 77640
+- Coordinates: 29.9539755, -94.0075483
+- Phone: +14099811260
+- Website: https://www.twincityclassicnissan.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:00-18:00; Su off
+- Pulse Score: 48.7/100 — Building — top 100% of used car dealers in Port Arthur, TX, #1 of 1 used car dealers in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/twin-city-nissan-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/twin-city-nissan-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12331495458 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Wine barrel & spirits liquor is a liquor store in Bridge City, TX at 1158 Texas Avenue, Bridge City, TX 77611. Phone: +14097353900.
+
+# Wine barrel & spirits liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1158 Texas Avenue, Bridge City, TX 77611
+- City: Bridge City
+- State: TX
+- ZIP: 77611
+- Coordinates: 30.0268323, -93.8395135
+- Phone: +14097353900
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 59% of liquor stores in Port Arthur, TX, #2 of 2 liquor stores in Bridge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wine-barrel-and-spirits-liquor-bridge-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wine-barrel-and-spirits-liquor-bridge-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13923655501 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Workforce Solutions is a staffing agency in Port Arthur, TX.
+
+# Workforce Solutions
+
+- Category: staffing agency
+- Services: staffing agency
+- Address: Port Arthur, TX
+- City: Port Arthur
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9626826, -93.9776315
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.1/100 — Building — top 100% of staffing agencys in Port Arthur, TX, #1 of 1 staffing agencys in Port Arthur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/workforce-solutions-port-arthur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/workforce-solutions-port-arthur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13117082292 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+XangNoi Insurance is an insurance agent in Nederland, TX. Phone: +18326614782.
+
+# XangNoi Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Nederland, TX
+- City: Nederland
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9608801, -94.0025143
+- Phone: +18326614782
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 38% of insurance agents in Port Arthur, TX, #2 of 3 insurance agents in Nederland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/xangnoi-insurance-nederland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/xangnoi-insurance-nederland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13004728919 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

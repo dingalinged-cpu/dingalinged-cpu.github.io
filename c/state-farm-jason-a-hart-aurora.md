@@ -13,7 +13,7 @@ State Farm Jason A. Hart is an insurance agent in Aurora, CO. Phone: +1720920904
 - Website: https://www.jasonhartinsurance.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr 09:00-17:00
-- Pulse Score: 48.2/100 — Building — top 46% of insurance agents in Denver, CO, #9 of 33 insurance agents in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 45% of insurance agents in Denver, CO, #9 of 33 insurance agents in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Colorado Eye Consultants is an eye care practice in Littleton, CO at 1501 West M
 - Website: https://www.coloradoeyeconsultants.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 52% of eye care practices in Denver, CO, #1 of 1 eye care practices in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 52% of eye care practices in Denver, CO, #1 of 1 eye care practices in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

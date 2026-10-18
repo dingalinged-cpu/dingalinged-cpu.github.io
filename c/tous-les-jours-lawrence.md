@@ -13,7 +13,7 @@ Tous les Jours is a bakery in Lawrence, KS at 525 Wakarusa Drive, Lawrence, KS 6
 - Website: https://www.tljus.com/
 - Email: n/a
 - Opening hours (OSM syntax): 07:00-21:30
-- Pulse Score: 46.7/100 — Building — top 100% of bakerys in Lawrence, KS, #7 of 7 bakerys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 100% of bakerys in Lawrence, KS, #7 of 7 bakerys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

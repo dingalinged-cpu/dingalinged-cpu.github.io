@@ -13,7 +13,7 @@ PetSmart is a pet store in Glen Carbon, IL at 130 Junction Drive, Glen Carbon, I
 - Website: https://www.petsmart.com/stores/us/il/glen-carbon-store0479.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 45.4/100 — Building — top 67% of pet stores in St. Louis, MO, #1 of 1 pet stores in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 70% of pet stores in St. Louis, MO, #1 of 1 pet stores in Glen Carbon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

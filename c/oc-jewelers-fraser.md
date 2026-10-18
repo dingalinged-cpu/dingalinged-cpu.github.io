@@ -13,7 +13,7 @@ OC Jewelers is a jewelry store in Fraser, MI at 34835 Utica Road, Fraser, MI 480
 - Website: https://www.ocjdesigns.com/
 - Email: ocjewelers77@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 6% of jewelry stores in Detroit, MI, #1 of 2 jewelry stores in Fraser (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 6% of jewelry stores in Detroit, MI, #1 of 2 jewelry stores in Fraser (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

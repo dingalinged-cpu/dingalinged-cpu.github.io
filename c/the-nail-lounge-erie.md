@@ -13,7 +13,7 @@ The Nail Lounge is a nail salon in Erie, CO at 3140 Village Vista Drive #101, Er
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Unrated (not enough evidence yet) — top 94% of nail salons in Denver, CO, #4 of 5 nail salons in Erie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.4/100 — Unrated (not enough evidence yet) — top 92% of nail salons in Denver, CO, #4 of 5 nail salons in Erie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Fraser, MI at 31505 Groesbeck Highw
 - Website: https://www.publicstorage.com/self-storage-mi-fraser/1332.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:00-21:00
-- Pulse Score: 51/100 — Fair — top 54% of self-storage facilitys in Detroit, MI, #1 of 3 self-storage facilitys in Fraser (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 68. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Fair — top 52% of self-storage facilitys in Detroit, MI, #1 of 3 self-storage facilitys in Fraser (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 68. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

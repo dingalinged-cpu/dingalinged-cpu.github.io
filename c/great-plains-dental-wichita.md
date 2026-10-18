@@ -13,7 +13,7 @@ Great Plains Dental is a dentist in Wichita, KS. Phone: +13166862721.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:30-17:00
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 36% of dentists in Wichita, KS, #5 of 13 dentists in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 36% of dentists in Wichita, KS, #5 of 13 dentists in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

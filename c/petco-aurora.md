@@ -13,7 +13,7 @@ Petco is a pet store in Aurora, CO at 24101 East Orchard Road #C, Aurora, CO 800
 - Website: https://stores.petco.com/co/aurora/pet-supplies-aurora-co-1434.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 47.3/100 — Building — top 70% of pet stores in Denver, CO, #13 of 16 pet stores in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 70% of pet stores in Denver, CO, #13 of 16 pet stores in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

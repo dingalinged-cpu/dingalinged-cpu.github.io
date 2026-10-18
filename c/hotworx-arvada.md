@@ -13,7 +13,7 @@ Hotworx is a gym in Arvada, CO at 12308 West 64th Avenue, Arvada, CO 80004. Phon
 - Website: https://www.hotworx.net/studio/arvada-ralstonsquare
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 11:00-20:00; Fr 09:00-18:00; Sa 11:00-16:00
-- Pulse Score: 48.7/100 — Building — top 64% of gyms in Denver, CO, #4 of 5 gyms in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 63% of gyms in Denver, CO, #4 of 5 gyms in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

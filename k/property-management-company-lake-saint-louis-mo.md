@@ -6,7 +6,7 @@ Also answers: property management company in Lake Saint Louis, MO; property mana
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Provident Property Management | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Provident Property Management is a property management company in Lake Saint Louis, MO at 950 Bent Oak Court, Lake Saint Louis, MO 63367. | https://registry-edge.dingalinged.workers.dev/c/provident-property-management-lake-saint-louis/
+1. Provident Property Management | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Provident Property Management is a property management company in Lake Saint Louis, MO at 950 Bent Oak Court, Lake Saint Louis, MO 63367. | https://registry-edge.dingalinged.workers.dev/c/provident-property-management-lake-saint-louis/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company lake saint louis mo | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Great Clips is a hair salon in Jefferson County, CO at 27182 Main Street #135, J
 - Website: https://www.greatclips.com/salons/9512
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 10:00-17:00
-- Pulse Score: 49.1/100 — Building — top 74% of hair salons in Denver, CO, #14 of 20 hair salons in Jefferson County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 73% of hair salons in Denver, CO, #14 of 20 hair salons in Jefferson County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

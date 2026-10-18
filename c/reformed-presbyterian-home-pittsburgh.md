@@ -13,7 +13,7 @@ Reformed Presbyterian Home is an assisted living facility in Pittsburgh, PA at 2
 - Website: https://rphome.org/
 - Email: info@rphome.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 65.2/100 — Good — top 6% of assisted living facilitys in Pittsburgh, PA, #1 of 4 assisted living facilitys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.2, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 6% of assisted living facilitys in Pittsburgh, PA, #1 of 4 assisted living facilitys in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.2, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

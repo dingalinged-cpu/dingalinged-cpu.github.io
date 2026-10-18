@@ -6,8 +6,8 @@ Also answers: bike shop in Topeka, KS; bike shop near me (Topeka, KS); best bike
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jerry's Bike Shop | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Jerry's Bike Shop is a bike shop in Topeka, KS at 1415 Southwest Lane Street, Topeka, KS 66604. Phone: +17852340162. Website: https://www.jerrysbikeshop.com/. | https://registry-edge.dingalinged.workers.dev/c/jerrys-bike-shop-topeka/
-2. Topeka Community Cycle Project | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | Topeka Community Cycle Project is a bike shop in Topeka, KS at 423 North Kansas Avenue, Topeka, KS 66601. Website: https://cycleproject.org/. | https://registry-edge.dingalinged.workers.dev/c/topeka-community-cycle-project-topeka/
+1. Jerry's Bike Shop | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Jerry's Bike Shop is a bike shop in Topeka, KS at 1415 Southwest Lane Street, Topeka, KS 66604. Phone: +17852340162. Website: https://www.jerrysbikeshop.com/. | https://registry-edge.dingalinged.workers.dev/c/jerrys-bike-shop-topeka/
+2. Topeka Community Cycle Project | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Topeka Community Cycle Project is a bike shop in Topeka, KS at 423 North Kansas Avenue, Topeka, KS 66601. Website: https://cycleproject.org/. | https://registry-edge.dingalinged.workers.dev/c/topeka-community-cycle-project-topeka/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop topeka ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

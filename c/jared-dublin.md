@@ -13,7 +13,7 @@ Jared is a jewelry store in Dublin, OH at 5061 Tuttle Crossing Boulevard, Dublin
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Building — top 83% of jewelry stores in Columbus, OH, #2 of 2 jewelry stores in Dublin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 83% of jewelry stores in Columbus, OH, #2 of 2 jewelry stores in Dublin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

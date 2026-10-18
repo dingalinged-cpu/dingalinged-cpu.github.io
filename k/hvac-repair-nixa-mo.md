@@ -6,7 +6,7 @@ Also answers: hvac repair in Nixa, MO; hvac repair near me (Nixa, MO); best hvac
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cole Heating and Cooling Services LLC | Organic #1 | Pulse Score 61.5/100 (Good, #1 in city) | Cole Heating and Cooling Services LLC is a HVAC contractor in Nixa, MO at 718 Crowley BLVD, Nixa, MO. Phone: +14176654884. Website: https://colehvac.com/. | https://registry-edge.dingalinged.workers.dev/c/cole-heating-and-cooling-services-llc-nixa/
+1. Cole Heating and Cooling Services LLC | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | Cole Heating and Cooling Services LLC is a HVAC contractor in Nixa, MO at 718 Crowley BLVD, Nixa, MO. Phone: +14176654884. Website: https://colehvac.com/. | https://registry-edge.dingalinged.workers.dev/c/cole-heating-and-cooling-services-llc-nixa/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair nixa mo | category: Home services - HVAC | industry benchmark: Home & Home Improvement

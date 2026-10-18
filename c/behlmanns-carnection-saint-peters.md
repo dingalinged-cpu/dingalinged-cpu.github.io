@@ -13,7 +13,7 @@ Behlmann's Carnection is an used car dealer in Saint Peters, MO at 4740 North Se
 - Website: https://www.carnection.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 09:00-21:00; Tu,Th,Sa 09:00-19:00; Fr 09:00-20:30; Su off
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 10% of used car dealers in St. Peters, MO, #1 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 10% of used car dealers in St. Peters, MO, #1 of 11 used car dealers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Tomchak Tires is a tire shop in McKees Rocks, PA at 600 Broadway Avenue, McKees 
 - Website: https://mikerousseystomchaktire.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 17% of tire shops in Pittsburgh, PA, #1 of 2 tire shops in McKees Rocks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 13% of tire shops in Pittsburgh, PA, #1 of 2 tire shops in McKees Rocks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

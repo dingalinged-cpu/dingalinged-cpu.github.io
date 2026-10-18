@@ -13,7 +13,7 @@ Sunshine Eye Clinic is an eye care practice in Springfield, MO at 1441 East Suns
 - Website: https://www.sunshineeyeclinic.com/
 - Email: info@sunshineeyeclinic.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 20% of eye care practices in Springfield, MO, #1 of 5 eye care practices in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 20% of eye care practices in Springfield, MO, #1 of 5 eye care practices in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

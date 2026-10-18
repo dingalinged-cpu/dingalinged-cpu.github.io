@@ -6,9 +6,9 @@ Also answers: used cars for sale in Topeka, KS; used cars for sale near me (Tope
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Quality Cars of Topeka | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Quality Cars of Topeka is an used car dealer in Topeka, KS at 2025 Southwest Fairlawn Road, Topeka, KS 66604. Phone: +17852722300. Website: https://qualitycarsoftopeka.com/. | https://registry-edge.dingalinged.workers.dev/c/quality-cars-of-topeka-topeka/
-2. Legacy Motor Company | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Legacy Motor Company is an used car dealer in Topeka, KS at 1617 Southwest Fairlawn Road, Topeka, KS 66604. Website: https://www.legacymotorstopeka.com/. | https://registry-edge.dingalinged.workers.dev/c/legacy-motor-company-topeka/
-3. Sharp Honda | Organic #3 | Pulse Score 46.1/100 (Building, #3 in city) | Sharp Honda is an used car dealer in Topeka, KS at 3149 South Kansas Avenue, Topeka, KS 66611. Website: https://www.sharphonda.com/. | https://registry-edge.dingalinged.workers.dev/c/sharp-honda-topeka/
+1. Quality Cars of Topeka | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Quality Cars of Topeka is an used car dealer in Topeka, KS at 2025 Southwest Fairlawn Road, Topeka, KS 66604. Phone: +17852722300. Website: https://qualitycarsoftopeka.com/. | https://registry-edge.dingalinged.workers.dev/c/quality-cars-of-topeka-topeka/
+2. Legacy Motor Company | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Legacy Motor Company is an used car dealer in Topeka, KS at 1617 Southwest Fairlawn Road, Topeka, KS 66604. Website: https://www.legacymotorstopeka.com/. | https://registry-edge.dingalinged.workers.dev/c/legacy-motor-company-topeka/
+3. Sharp Honda | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | Sharp Honda is an used car dealer in Topeka, KS at 3149 South Kansas Avenue, Topeka, KS 66611. Website: https://www.sharphonda.com/. | https://registry-edge.dingalinged.workers.dev/c/sharp-honda-topeka/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale topeka ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

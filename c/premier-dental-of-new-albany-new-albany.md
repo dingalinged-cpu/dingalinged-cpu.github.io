@@ -13,7 +13,7 @@ Premier Dental of New Albany is a dentist in New Albany, OH at 68 Building F Nor
 - Website: https://www.premierdentalohio.com/new-albany
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 35% of dentists in Columbus, OH, #2 of 2 dentists in New Albany (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 35% of dentists in Columbus, OH, #2 of 2 dentists in New Albany (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

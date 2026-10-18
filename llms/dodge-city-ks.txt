@@ -54,7 +54,7 @@ Blue Beacon is a car wash in Dodge City, KS. Website: https://bluebeacon.com/loc
 - Website: https://bluebeacon.com/locations/listing/dodge-city-ks
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Building — top 100% of car washes in Dodge City, KS, #1 of 1 car washes in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 100% of car washes in Dodge City, KS, #1 of 1 car washes in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -81,7 +81,7 @@ Fischer Chiropractic, P.A. is a chiropractor in Dodge City, KS at 2000 North 14t
 - Website: https://chiropractordodgecity.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 08:00-17:00, Tu 08:00-19:00, Th 08:00-16:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 100% of chiropractors in Dodge City, KS, #1 of 1 chiropractors in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 100% of chiropractors in Dodge City, KS, #1 of 1 chiropractors in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -108,7 +108,7 @@ Flowers by Irene is a florist in Dodge City, KS at 500 North 2nd Avenue, Dodge C
 - Website: https://www.flowersbyirene.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-12:00
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 100% of florists in Dodge City, KS, #1 of 1 florists in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 100% of florists in Dodge City, KS, #1 of 1 florists in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -135,7 +135,7 @@ Kinsey Automotive, Inc. is an auto repair shop in Dodge City, KS at 702 South 14
 - Website: https://www.kinseyautomotiveinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 100% of auto repair shops in Dodge City, KS, #1 of 1 auto repair shops in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 100% of auto repair shops in Dodge City, KS, #1 of 1 auto repair shops in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -162,7 +162,7 @@ Peak Fitness Club is a gym in Dodge City, KS at 2002 1st Avenue, Dodge City, KS 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 67% of gyms in Dodge City, KS, #2 of 3 gyms in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 67% of gyms in Dodge City, KS, #2 of 3 gyms in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -189,7 +189,7 @@ Rizos Barber Studio is a barber shop in Dodge City, KS at 2601 Central Avenue, D
 - Website: https://rizosbarberstudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Dodge City, KS, #1 of 1 barber shops in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Dodge City, KS, #1 of 1 barber shops in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
@@ -216,7 +216,7 @@ Tropical Island Tan & Fitness is a gym in Dodge City, KS at 1707 Avenue F, Dodge
 - Website: https://m.facebook.com/tropicalislandtanandfitness/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 34% of gyms in Dodge City, KS, #1 of 3 gyms in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 34% of gyms in Dodge City, KS, #1 of 3 gyms in Dodge City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

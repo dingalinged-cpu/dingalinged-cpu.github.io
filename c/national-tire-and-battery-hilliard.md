@@ -13,7 +13,7 @@ National Tire and Battery is an auto repair shop in Hilliard, OH. Website: https
 - Website: https://www.ntb.com/store/oh/hilliard/3700-park-mill-run-dr-43026/4347
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Building — top 65% of auto repair shops in Columbus, OH, #4 of 7 auto repair shops in Hilliard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 66% of auto repair shops in Columbus, OH, #4 of 7 auto repair shops in Hilliard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

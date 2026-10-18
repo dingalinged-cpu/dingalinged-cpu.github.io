@@ -13,7 +13,7 @@ Flocal Co. Floral Studio is a florist in Columbus, OH.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa-Mo 12:00-17:00
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 46% of florists in Columbus, OH, #7 of 14 florists in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 46% of florists in Columbus, OH, #7 of 14 florists in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

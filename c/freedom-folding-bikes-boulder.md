@@ -13,7 +13,7 @@ Freedom Folding Bikes is a bike shop in Boulder, CO at 3119 28th Street, Boulder
 - Website: https://www.freedomfoldingbikes.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-17:00
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 40% of bike shops in Denver, CO, #8 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 40% of bike shops in Denver, CO, #8 of 18 bike shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

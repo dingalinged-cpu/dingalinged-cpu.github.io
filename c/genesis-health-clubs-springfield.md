@@ -13,7 +13,7 @@ Genesis Health Clubs is a gym in Springfield, MO at 1249 East Battlefield Road, 
 - Website: https://www.genesishealthclubs.com/locations/springfield-south.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.4/100 — Building — top 85% of gyms in Springfield, MO, #16 of 19 gyms in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 80% of gyms in Springfield, MO, #15 of 19 gyms in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

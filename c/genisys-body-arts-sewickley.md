@@ -13,7 +13,7 @@ Genisys Body Arts is a piercing studio in Sewickley, PA at 422 Broad Street, Sew
 - Website: https://www.genisysbodyarts.com/
 - Email: genisysbodyarts@gmail.com
 - Opening hours (OSM syntax): Tu-Sa 11:00-20:00
-- Pulse Score: 64/100 — Good — top 50% of piercing studios in Pittsburgh, PA, #1 of 1 piercing studios in Sewickley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 50% of piercing studios in Pittsburgh, PA, #1 of 1 piercing studios in Sewickley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

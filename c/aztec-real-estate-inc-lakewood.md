@@ -13,7 +13,7 @@ Aztec Real Estate Inc is a real estate agency in Lakewood, CO at 35 Sheridan Bou
 - Website: https://aztecrealestate.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 11% of real estate agencys in Denver, CO, #1 of 2 real estate agencys in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 11% of real estate agencys in Denver, CO, #1 of 2 real estate agencys in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

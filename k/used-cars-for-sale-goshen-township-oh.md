@@ -7,7 +7,7 @@ Also answers: used cars for sale in Goshen Township, OH; used cars for sale near
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Lighthouse Auto Group | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Lighthouse Auto Group is an used car dealer in Goshen Township, OH. Phone: +15137220032. | https://registry-edge.dingalinged.workers.dev/c/lighthouse-auto-group-goshen-township/
-2. Motor King | Organic #2 | Pulse Score 56.8/100 (Unrated, #1 in city) | Motor King is an used car dealer in Loveland, OH at 1601 State Route 28, Loveland, OH 45140. | https://registry-edge.dingalinged.workers.dev/c/motor-king-loveland/
+2. Motor King | Organic #2 | Pulse Score 56.7/100 (Unrated, #1 in city) | Motor King is an used car dealer in Loveland, OH at 1601 State Route 28, Loveland, OH 45140. | https://registry-edge.dingalinged.workers.dev/c/motor-king-loveland/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale goshen township oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

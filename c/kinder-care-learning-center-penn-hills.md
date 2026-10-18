@@ -13,7 +13,7 @@ Kinder Care Learning Center is a preschool in Penn Hills, PA at 201 Twin Oak Dri
 - Website: https://kindercare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 85% of preschools in Pittsburgh, PA, #6 of 6 preschools in Penn Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 85% of preschools in Pittsburgh, PA, #6 of 6 preschools in Penn Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: roofer in Waterford Township, MI; roofer near me (Waterford Townsh
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 180 Contractors Roofing & Siding | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | 180 Contractors Roofing & Siding is a roofer in Waterford Township, MI at 4696 Dixie Highway, Waterford Township, MI 48329. Phone: +12487149158. Website: https://180contractors.com/. | https://registry-edge.dingalinged.workers.dev/c/180-contractors-roofing-and-siding-waterford-township/
+1. 180 Contractors Roofing & Siding | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | 180 Contractors Roofing & Siding is a roofer in Waterford Township, MI at 4696 Dixie Highway, Waterford Township, MI 48329. Phone: +12487149158. Website: https://180contractors.com/. | https://registry-edge.dingalinged.workers.dev/c/180-contractors-roofing-and-siding-waterford-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer waterford township mi | category: Home services - Roofing | industry benchmark: Home & Home Improvement

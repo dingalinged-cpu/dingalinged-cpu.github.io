@@ -13,7 +13,7 @@ State Farm is an insurance agent in Lawrence, KS at 4205 West 6th Street, Lawren
 - Website: https://www.rochelletramp.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Building — top 95% of insurance agents in Lawrence, KS, #19 of 20 insurance agents in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 95% of insurance agents in Lawrence, KS, #19 of 20 insurance agents in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

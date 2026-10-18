@@ -13,7 +13,7 @@ American Cleaners is a dry cleaner in Saint Peters, MO at 7255 Mexico Road, Sain
 - Website: https://www.americancleanersstl.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-20:00; Su off
-- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in St. Peters, MO, #3 of 3 dry cleaners in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in St. Peters, MO, #3 of 3 dry cleaners in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

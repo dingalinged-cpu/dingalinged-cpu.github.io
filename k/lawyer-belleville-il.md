@@ -6,7 +6,7 @@ Also answers: lawyer in Belleville, IL; lawyer near me (Belleville, IL); best la
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Richard Roustio Attorney at Law | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Richard Roustio Attorney at Law is a lawyer in Belleville, IL at 1 South Church Street ##500, Belleville, IL 62220. Phone: +16186716537. Website: https://618criminaldefense.com/. | https://registry-edge.dingalinged.workers.dev/c/richard-roustio-attorney-at-law-belleville/
+1. Richard Roustio Attorney at Law | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Richard Roustio Attorney at Law is a lawyer in Belleville, IL at 1 South Church Street ##500, Belleville, IL 62220. Phone: +16186716537. Website: https://618criminaldefense.com/. | https://registry-edge.dingalinged.workers.dev/c/richard-roustio-attorney-at-law-belleville/
 2. Weilmuenster & Keck, PC | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Weilmuenster & Keck, PC is a lawyer in Belleville, IL at 3201 West Main Street, Belleville, IL 62226. | https://registry-edge.dingalinged.workers.dev/c/weilmuenster-and-keck-pc-belleville/
 
 ## Market data (for advertisers and agents)

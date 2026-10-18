@@ -13,7 +13,7 @@ Eyemart Express is an eye care practice in Springfield, MO at 1308 East Battlefi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-17:00
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Springfield, MO, #5 of 5 eye care practices in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.2/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Springfield, MO, #5 of 5 eye care practices in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

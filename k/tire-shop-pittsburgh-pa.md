@@ -8,9 +8,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Harmar Tire & Service | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Harmar Tire & Service is a tire shop in Pittsburgh, PA at 2200 Freeport Road, Pittsburgh, PA 15238. | https://registry-edge.dingalinged.workers.dev/c/harmar-tire-and-service-pittsburgh/
 2. Pittsburgh Tire Shop | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Pittsburgh Tire Shop is a tire shop in Pittsburgh, PA at 400 Railroad Street, Pittsburgh, PA 15235. | https://registry-edge.dingalinged.workers.dev/c/pittsburgh-tire-shop-pittsburgh/
-3. Lockhart Tire | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Lockhart Tire is a tire shop in Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/lockhart-tire-pittsburgh/
-4. Ronnie's Tire | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Ronnie's Tire is a tire shop in Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/ronnies-tire-pittsburgh/
-5. Meineke | Organic #5 | Pulse Score 49.7/100 (Building, #73 in city) | Meineke is an auto repair shop in Pittsburgh, PA at 3265 Babcock Boulevard, Pittsburgh, PA 15237. Phone: +14125367086. Website: https://www.meineke.com/. | https://registry-edge.dingalinged.workers.dev/c/meineke-pittsburgh/
+3. Lockhart Tire | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Lockhart Tire is a tire shop in Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/lockhart-tire-pittsburgh/
+4. Ronnie's Tire | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Ronnie's Tire is a tire shop in Pittsburgh, PA. | https://registry-edge.dingalinged.workers.dev/c/ronnies-tire-pittsburgh/
+5. Meineke | Organic #5 | Pulse Score 49.7/100 (Building, #71 in city) | Meineke is an auto repair shop in Pittsburgh, PA at 3265 Babcock Boulevard, Pittsburgh, PA 15237. Phone: +14125367086. Website: https://www.meineke.com/. | https://registry-edge.dingalinged.workers.dev/c/meineke-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop pittsburgh pa | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

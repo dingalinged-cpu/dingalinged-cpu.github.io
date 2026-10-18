@@ -13,7 +13,7 @@ Ben Buys Indy Houses is a real estate agency in Indianapolis, IN at 1075 Broad R
 - Website: https://www.benbuysindyhouses.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 14% of real estate agencys in Indianapolis, IN, #4 of 30 real estate agencys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 11% of real estate agencys in Indianapolis, IN, #3 of 30 real estate agencys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

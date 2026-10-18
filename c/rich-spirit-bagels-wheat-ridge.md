@@ -13,7 +13,7 @@ Rich Spirit Bagels is a bakery in Wheat Ridge, CO at 10081 West 26th Avenue, Whe
 - Website: https://www.richspiritbagels.com/
 - Email: n/a
 - Opening hours (OSM syntax): Th-Su 08:00-13:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 17% of bakerys in Denver, CO, #2 of 3 bakerys in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 16% of bakerys in Denver, CO, #2 of 3 bakerys in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

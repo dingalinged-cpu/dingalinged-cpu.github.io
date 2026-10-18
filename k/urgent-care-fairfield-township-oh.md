@@ -6,7 +6,7 @@ Also answers: urgent care in Fairfield Township, OH; urgent care near me (Fairfi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Urgent Care of Fairfield | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Urgent Care of Fairfield is an urgent care clinic in Fairfield Township, OH. | https://registry-edge.dingalinged.workers.dev/c/urgent-care-of-fairfield-fairfield-township/
+1. Urgent Care of Fairfield | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Urgent Care of Fairfield is an urgent care clinic in Fairfield Township, OH. | https://registry-edge.dingalinged.workers.dev/c/urgent-care-of-fairfield-fairfield-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care fairfield township oh | category: Health & medical | industry benchmark: Physicians & Surgeons

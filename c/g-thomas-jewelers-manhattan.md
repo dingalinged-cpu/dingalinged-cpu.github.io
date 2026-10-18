@@ -13,7 +13,7 @@ G. Thomas Jewelers is a jewelry store in Manhattan, KS at 419 Poyntz Avenue, Man
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:30; Sa 10:00-17:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 10% of jewelry stores in Manhattan, KS, #1 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 10% of jewelry stores in Manhattan, KS, #1 of 10 jewelry stores in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

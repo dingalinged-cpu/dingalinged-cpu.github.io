@@ -13,7 +13,7 @@ Lizzy & Rocco's Natural Pet Market is a pet store in Columbia, MO at 1610 I- 70 
 - Website: https://lizziandroccos.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 20% of pet stores in Columbia, MO, #1 of 5 pet stores in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 20% of pet stores in Columbia, MO, #1 of 5 pet stores in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

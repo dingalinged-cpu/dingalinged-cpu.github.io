@@ -6,7 +6,7 @@ Also answers: urgent care in Saint Clair Shores, MI; urgent care near me (Saint 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Henry Ford Medical Center - St. Clair Shores | Organic #1 | Pulse Score 47.9/100 (Unrated, #1 in city) | Henry Ford Medical Center - St. Clair Shores is an urgent care clinic in Saint Clair Shores, MI at 21000 East 12 Mile Road, Saint Clair Shores, MI 48081. Phone: +15864475000. Website: https://www.henryford.com/locations/st-clair-shores. | https://registry-edge.dingalinged.workers.dev/c/henry-ford-medical-center-st-clair-shores-saint-clair-shores/
+1. Henry Ford Medical Center - St. Clair Shores | Organic #1 | Pulse Score 48.1/100 (Unrated, #1 in city) | Henry Ford Medical Center - St. Clair Shores is an urgent care clinic in Saint Clair Shores, MI at 21000 East 12 Mile Road, Saint Clair Shores, MI 48081. Phone: +15864475000. Website: https://www.henryford.com/locations/st-clair-shores. | https://registry-edge.dingalinged.workers.dev/c/henry-ford-medical-center-st-clair-shores-saint-clair-shores/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care saint clair shores mi | category: Health & medical | industry benchmark: Physicians & Surgeons

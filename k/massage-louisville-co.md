@@ -6,7 +6,7 @@ Also answers: massage in Louisville, CO; massage near me (Louisville, CO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elements Massage | Organic #1 | Pulse Score 47.4/100 (Building, #1 in city) | Elements Massage is a massage studio in Louisville, CO. Website: https://elementsmassage.com/louisville-co/. | https://registry-edge.dingalinged.workers.dev/c/elements-massage-louisville/
+1. Elements Massage | Organic #1 | Pulse Score 47.3/100 (Building, #1 in city) | Elements Massage is a massage studio in Louisville, CO. Website: https://elementsmassage.com/louisville-co/. | https://registry-edge.dingalinged.workers.dev/c/elements-massage-louisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage louisville co | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

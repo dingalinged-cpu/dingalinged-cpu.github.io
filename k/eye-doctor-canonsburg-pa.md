@@ -6,7 +6,7 @@ Also answers: eye doctor in Canonsburg, PA; eye doctor near me (Canonsburg, PA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. South Hills Eye Associates LTD | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | South Hills Eye Associates LTD is an eye care practice in Canonsburg, PA at 189 East Pike Street, Canonsburg, PA 15317. | https://registry-edge.dingalinged.workers.dev/c/south-hills-eye-associates-ltd-canonsburg/
+1. South Hills Eye Associates LTD | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | South Hills Eye Associates LTD is an eye care practice in Canonsburg, PA at 189 East Pike Street, Canonsburg, PA 15317. | https://registry-edge.dingalinged.workers.dev/c/south-hills-eye-associates-ltd-canonsburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor canonsburg pa | category: Health & medical | industry benchmark: Physicians & Surgeons

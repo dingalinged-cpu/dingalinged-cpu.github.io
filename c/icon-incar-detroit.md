@@ -13,7 +13,7 @@ ICON INCAR is a business consultant in Detroit, MI at 601 West Fort Street, Detr
 - Website: https://www.iconincar.com/en/about/icon-incar-ist-eine-hochspezialisierte-design-consultancy/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 54% of business consultants in Detroit, MI, #1 of 5 business consultants in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 54% of business consultants in Detroit, MI, #1 of 5 business consultants in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

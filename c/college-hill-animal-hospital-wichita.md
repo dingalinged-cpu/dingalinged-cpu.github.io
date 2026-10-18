@@ -13,7 +13,7 @@ College Hill Animal Hospital is a veterinarian in Wichita, KS at 244 North Hills
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We,Fr 08:00-17:30; Th,Sa 08:00-12:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 17% of veterinarians in Wichita, KS, #1 of 8 veterinarians in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 17% of veterinarians in Wichita, KS, #1 of 8 veterinarians in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Great Clips is a hair salon in Saint Peters, MO at 577 Mid Rivers Mall Drive #G,
 - Website: https://www.greatclips.com/salons/8934
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 09:00-17:00
-- Pulse Score: 47.4/100 — Building — top 72% of hair salons in St. Peters, MO, #5 of 7 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 72% of hair salons in St. Peters, MO, #5 of 7 hair salons in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

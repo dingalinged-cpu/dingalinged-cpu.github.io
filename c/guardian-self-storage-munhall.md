@@ -13,7 +13,7 @@ Guardian Self Storage is a self-storage facility in Munhall, PA at 1002 East Wat
 - Website: https://www.guardianstorage.com/locations/all/waterfront/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 16% of self-storage facilitys in Pittsburgh, PA, #1 of 1 self-storage facilitys in Munhall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 79% of self-storage facilitys in Pittsburgh, PA, #1 of 1 self-storage facilitys in Munhall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

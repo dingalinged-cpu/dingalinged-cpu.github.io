@@ -13,7 +13,7 @@ Manpower is a staffing agency in Hutchinson, KS at 129 West 2nd Avenue #A, Hutch
 - Website: https://www.manpower.com/en/about-us/locations/hutchinson,-ks
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.7/100 — Building — top 86% of staffing agencys in Wichita, KS, #3 of 3 staffing agencys in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 72% of staffing agencys in Wichita, KS, #3 of 3 staffing agencys in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

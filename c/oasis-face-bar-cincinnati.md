@@ -13,7 +13,7 @@ Oasis Face Bar is a skin care studio in Cincinnati, OH at 1419 Vine Street, Cinc
 - Website: https://www.oasisfacebar.com/otr-oh
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 11:00-19:00; Fr 10:00-18:00; Sa-Su 10:00-16:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 13% of skin care studios in Cincinnati, OH, #1 of 4 skin care studios in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 13% of skin care studios in Cincinnati, OH, #1 of 4 skin care studios in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

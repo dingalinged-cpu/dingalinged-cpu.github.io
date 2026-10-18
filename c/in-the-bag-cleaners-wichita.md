@@ -13,7 +13,7 @@ In The Bag Cleaners is a dry cleaner in Wichita, KS. Website: https://www.intheb
 - Website: https://www.inthebagcleaners.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-14:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 34% of dry cleaners in Wichita, KS, #2 of 5 dry cleaners in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 34% of dry cleaners in Wichita, KS, #2 of 5 dry cleaners in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

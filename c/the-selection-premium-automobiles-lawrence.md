@@ -13,7 +13,7 @@ The Selection Premium Automobiles is an used car dealer in Lawrence, KS at 845 I
 - Website: https://www.selectionautos.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We 08:30-18:00; Tu, Th 08:30-17:30; Fr 08:30-17:00; Sa 10:00-15:00; Su "by appointment"
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 10% of used car dealers in Lawrence, KS, #1 of 11 used car dealers in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 10% of used car dealers in Lawrence, KS, #1 of 11 used car dealers in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

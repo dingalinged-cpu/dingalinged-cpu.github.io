@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Amore Fine Jewlers | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Amore Fine Jewlers is a jewelry store in Parker, CO at 10233 South Parker Road, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/amore-fine-jewlers-parker/
 2. Apex Jewelers | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Apex Jewelers is a jewelry store in Parker, CO at 10970 South Parker Road, Parker, CO 80134. | https://registry-edge.dingalinged.workers.dev/c/apex-jewelers-parker/
 3. Pinetree Jewelers | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Pinetree Jewelers is a jewelry store in Parker, CO at 11028 South Pikes Peak Drive, Parker, CO 80138. | https://registry-edge.dingalinged.workers.dev/c/pinetree-jewelers-parker/
-4. Prestige Watches & Jewelry | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Prestige Watches & Jewelry is a jewelry store in Parker, CO at 12543 South Parker Road #212, Parker, CO. | https://registry-edge.dingalinged.workers.dev/c/prestige-watches-and-jewelry-parker/
+4. Prestige Watches & Jewelry | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Prestige Watches & Jewelry is a jewelry store in Parker, CO at 12543 South Parker Road #212, Parker, CO. | https://registry-edge.dingalinged.workers.dev/c/prestige-watches-and-jewelry-parker/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store parker co | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

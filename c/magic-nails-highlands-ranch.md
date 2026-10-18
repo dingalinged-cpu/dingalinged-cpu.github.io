@@ -13,7 +13,7 @@ Magic Nails is a nail salon in Highlands Ranch, CO at 2229 Wildcat Reserve Parkw
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00, Su 11:00-17:00
-- Pulse Score: 48.5/100 — Unrated (not enough evidence yet) — top 88% of nail salons in Denver, CO, #6 of 6 nail salons in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Unrated (not enough evidence yet) — top 86% of nail salons in Denver, CO, #6 of 6 nail salons in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

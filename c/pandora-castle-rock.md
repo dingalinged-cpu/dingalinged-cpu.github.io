@@ -13,7 +13,7 @@ Pandora is a jewelry store in Castle Rock, CO at 5050 Factory Shops Boulevard #3
 - Website: https://stores.pandora.net/en-us/co/castlerock/pandora-jewelry-usb1cb9826.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 11:00-18:00
-- Pulse Score: 51.4/100 — Fair — top 88% of jewelry stores in Denver, CO, #3 of 5 jewelry stores in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 69.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.4/100 — Fair — top 88% of jewelry stores in Denver, CO, #3 of 5 jewelry stores in Castle Rock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 69.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

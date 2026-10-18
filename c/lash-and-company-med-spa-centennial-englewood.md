@@ -13,7 +13,7 @@ Lash and Company Med Spa Centennial is a skin care studio in Englewood, CO at 96
 - Website: https://www.lashandcompany.com/co-centennial/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-19:00; Sa 09:00-15:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 23% of skin care studios in Denver, CO, #1 of 1 skin care studios in Englewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 23% of skin care studios in Denver, CO, #1 of 1 skin care studios in Englewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

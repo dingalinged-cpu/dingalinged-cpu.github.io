@@ -6,7 +6,7 @@ Also answers: property management company in Green Tree, PA; property management
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lofts at Terrain | Organic #1 | Pulse Score 59.1/100 (Unrated, #2 in city) | Lofts at Terrain is a property management company in Pittsburgh, PA at 700 Mansfield Avenue, Pittsburgh, PA 15205. Website: https://www.loftsatterrain.com/. | https://registry-edge.dingalinged.workers.dev/c/lofts-at-terrain-pittsburgh/
+1. Lofts at Terrain | Organic #1 | Pulse Score 58.9/100 (Unrated, #2 in city) | Lofts at Terrain is a property management company in Pittsburgh, PA at 700 Mansfield Avenue, Pittsburgh, PA 15205. Website: https://www.loftsatterrain.com/. | https://registry-edge.dingalinged.workers.dev/c/lofts-at-terrain-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company green tree pa | category: Professional & financial services | industry benchmark: Finance & Insurance

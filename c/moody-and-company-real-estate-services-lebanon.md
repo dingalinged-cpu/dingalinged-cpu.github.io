@@ -13,7 +13,7 @@ Moody & Company Real Estate Services is a real estate agency in Lebanon, IN at 1
 - Website: https://www.moodycompany.com/
 - Email: jordan@moodycompany.com
 - Opening hours (OSM syntax): "By appointment"
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 3% of real estate agencys in Indianapolis, IN, #1 of 1 real estate agencys in Lebanon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 3% of real estate agencys in Indianapolis, IN, #1 of 1 real estate agencys in Lebanon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

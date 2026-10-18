@@ -13,7 +13,7 @@ Paris Baguette is a bakery in Columbus, OH at 3969 Merchants Row, Columbus, OH 4
 - Website: https://makaibylemonshark.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Building — top 98% of bakerys in Columbus, OH, #26 of 27 bakerys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 98% of bakerys in Columbus, OH, #26 of 27 bakerys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

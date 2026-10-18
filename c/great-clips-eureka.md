@@ -13,7 +13,7 @@ Great Clips is a hair salon in Eureka, MO at 165 Eureka Towne Center Drive, Eure
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Building — top 50% of hair salons in Wildwood, MO, #1 of 1 hair salons in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 50% of hair salons in Wildwood, MO, #1 of 1 hair salons in Eureka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

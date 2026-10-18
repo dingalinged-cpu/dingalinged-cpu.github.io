@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. PetSmart | Organic #1 | Pulse Score 51.2/100 (Fair, #1 in city) | PetSmart is a pet store in Arvada, CO at 5285 Wadsworth Bypass, Arvada, CO 80002. Phone: +13034561114. Website: https://www.petsmart.com/stores/us/co/arvada-store0252.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-arvada/
 2. Wild Birds Unlimited | Organic #2 | Pulse Score 45.1/100 (Building, #2 in city) | Wild Birds Unlimited is a pet store in Arvada, CO. Phone: +13034672644. | https://registry-edge.dingalinged.workers.dev/c/wild-birds-unlimited-arvada/
-3. Pet Supplies Plus | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Pet Supplies Plus is a pet store in Arvada, CO. | https://registry-edge.dingalinged.workers.dev/c/pet-supplies-plus-arvada/
+3. Pet Supplies Plus | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | Pet Supplies Plus is a pet store in Arvada, CO. | https://registry-edge.dingalinged.workers.dev/c/pet-supplies-plus-arvada/
 4. Petco | Organic #4 | Pulse Score 41.6/100 (Building, #4 in city) | Petco is a pet store in Arvada, CO. | https://registry-edge.dingalinged.workers.dev/c/petco-arvada/
 5. Pet Wants | Organic #5 | Pulse Score 41.4/100 (Building, #5 in city) | Pet Wants is a pet store in Arvada, CO. | https://registry-edge.dingalinged.workers.dev/c/pet-wants-arvada/
 6. Petco | Organic #6 | Pulse Score 41.4/100 (Building, #6 in city) | Petco is a pet store in Arvada, CO. | https://registry-edge.dingalinged.workers.dev/c/petco-arvada-n12245203087/

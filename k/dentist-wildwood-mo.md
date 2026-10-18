@@ -6,8 +6,8 @@ Also answers: dentist in Wildwood, MO; dentist near me (Wildwood, MO); best dent
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wildwood Family Dentistry | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Wildwood Family Dentistry is a dentist in Wildwood, MO at 16514 Manchester Road, Wildwood, MO 63040. Phone: +16365870917. Website: https://www.wildwoodfamilydentistrystl.com/. | https://registry-edge.dingalinged.workers.dev/c/wildwood-family-dentistry-wildwood/
-2. Century Orthodontics | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Century Orthodontics is a dentist in Wildwood, MO at 16518 Manchester Road, Wildwood, MO 63040. Phone: +16363910499. Website: https://www.centuryorthodontics.com/wildwood-location. | https://registry-edge.dingalinged.workers.dev/c/century-orthodontics-wildwood/
+1. Wildwood Family Dentistry | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Wildwood Family Dentistry is a dentist in Wildwood, MO at 16514 Manchester Road, Wildwood, MO 63040. Phone: +16365870917. Website: https://www.wildwoodfamilydentistrystl.com/. | https://registry-edge.dingalinged.workers.dev/c/wildwood-family-dentistry-wildwood/
+2. Century Orthodontics | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | Century Orthodontics is a dentist in Wildwood, MO at 16518 Manchester Road, Wildwood, MO 63040. Phone: +16363910499. Website: https://www.centuryorthodontics.com/wildwood-location. | https://registry-edge.dingalinged.workers.dev/c/century-orthodontics-wildwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist wildwood mo | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Cincinnati, OH at 9450 Colerain Avenue,
 - Website: https://stores.ashleyfurniture.com/store/us/ohio/cincinnati/7710000332/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.1/100 — Building — top 53% of furniture stores in Cincinnati, OH, #9 of 15 furniture stores in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 53% of furniture stores in Cincinnati, OH, #9 of 15 furniture stores in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

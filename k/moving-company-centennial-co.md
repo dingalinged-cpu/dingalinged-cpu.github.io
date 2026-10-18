@@ -6,7 +6,7 @@ Also answers: moving company in Centennial, CO; moving company near me (Centenni
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Two Men and a Truck | Organic #1 | Pulse Score 43/100 (Building, #1 in city) | Two Men and a Truck is a moving company in Centennial, CO at 15603 East Fremont Drive #C, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/two-men-and-a-truck-centennial/
+1. Two Men and a Truck | Organic #1 | Pulse Score 42.9/100 (Building, #1 in city) | Two Men and a Truck is a moving company in Centennial, CO at 15603 East Fremont Drive #C, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/two-men-and-a-truck-centennial/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company centennial co | category: Home services - Moving | industry benchmark: Home & Home Improvement

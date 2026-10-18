@@ -13,7 +13,7 @@ RE/MAX is a real estate agency in Lafayette, CO. Phone: +13033276583. Website: h
 - Website: https://www.propertiespluscolorado.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 88% of real estate agencys in Denver, CO, #1 of 1 real estate agencys in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 88% of real estate agencys in Denver, CO, #1 of 1 real estate agencys in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

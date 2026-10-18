@@ -6,7 +6,7 @@ Also answers: martial arts in Bethel Park, PA; martial arts near me (Bethel Park
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. C.S. Kim Karate | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | C.S. Kim Karate is a martial arts school in Bethel Park, PA at 4705 Library Road, Bethel Park, PA 15102. Phone: +14128541616. | https://registry-edge.dingalinged.workers.dev/c/c-s-kim-karate-bethel-park/
+1. C.S. Kim Karate | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | C.S. Kim Karate is a martial arts school in Bethel Park, PA at 4705 Library Road, Bethel Park, PA 15102. Phone: +14128541616. | https://registry-edge.dingalinged.workers.dev/c/c-s-kim-karate-bethel-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts bethel park pa | category: Fitness | industry benchmark: Health & Fitness

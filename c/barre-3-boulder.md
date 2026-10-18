@@ -13,7 +13,7 @@ Barre 3 is a gym in Boulder, CO. Website: https://barre3.com/studio-locations/bo
 - Website: https://barre3.com/studio-locations/boulder
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.7/100 — Unrated (not enough evidence yet) — top 92% of gyms in Denver, CO, #21 of 22 gyms in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.7/100 — Unrated (not enough evidence yet) — top 91% of gyms in Denver, CO, #21 of 22 gyms in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

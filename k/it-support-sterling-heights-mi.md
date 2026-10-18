@@ -7,7 +7,7 @@ Also answers: it support in Sterling Heights, MI; it support near me (Sterling H
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The Computer Guy | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | The Computer Guy is an IT support company in Sterling Heights, MI at 7400 Triangle Drive #Suite B, Sterling Heights, MI 48314. Phone: +12486481349. Website: https://www.tcgway.com/. | https://registry-edge.dingalinged.workers.dev/c/the-computer-guy-sterling-heights/
-2. N2M Technology | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | N2M Technology is an IT support company in Sterling Heights, MI at 7400 Triangle Drive #Suite B, Sterling Heights, MI 48314. Phone: +12482472626. Website: https://n2mtech.com/. | https://registry-edge.dingalinged.workers.dev/c/n2m-technology-sterling-heights/
+2. N2M Technology | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | N2M Technology is an IT support company in Sterling Heights, MI at 7400 Triangle Drive #Suite B, Sterling Heights, MI 48314. Phone: +12482472626. Website: https://n2mtech.com/. | https://registry-edge.dingalinged.workers.dev/c/n2m-technology-sterling-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support sterling heights mi | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

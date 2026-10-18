@@ -6,7 +6,7 @@ Also answers: insurance agent in Alton, IL; insurance agent near me (Alton, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm | Organic #1 | Pulse Score 47.4/100 (Building, #1 in city) | State Farm is an insurance agent in Alton, IL at 1646, Alton, IL 62002. Phone: +16184656303. Website: https://www.scottneudecker.com/. | https://registry-edge.dingalinged.workers.dev/c/state-farm-alton/
+1. State Farm | Organic #1 | Pulse Score 47.3/100 (Building, #1 in city) | State Farm is an insurance agent in Alton, IL at 1646, Alton, IL 62002. Phone: +16184656303. Website: https://www.scottneudecker.com/. | https://registry-edge.dingalinged.workers.dev/c/state-farm-alton/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent alton il | category: Professional & financial services | industry benchmark: Finance & Insurance

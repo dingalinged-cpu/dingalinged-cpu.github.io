@@ -13,7 +13,7 @@ Kansas Secured Title is an insurance agent in Hutchinson, KS at 606 North Main S
 - Website: https://kstitle.com/
 - Email: Reno@kstitle.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 11% of insurance agents in Wichita, KS, #3 of 11 insurance agents in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 11% of insurance agents in Wichita, KS, #3 of 11 insurance agents in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

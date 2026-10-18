@@ -13,7 +13,7 @@ Reser Bicycles is a bike shop in Newport, KY at 648 Monmouth Street, Newport, KY
 - Website: https://www.reserbicycle.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-18:00; Fr 10:00-20:00; Sa 09:00-17:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 20% of bike shops in Cincinnati, OH, #1 of 1 bike shops in Newport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 20% of bike shops in Cincinnati, OH, #1 of 1 bike shops in Newport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

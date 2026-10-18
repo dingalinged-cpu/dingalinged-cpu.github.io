@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Bella Vista, AR",
+ "description": "Top Bella Vista, AR service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Bella Vista, AR",
+ "geography": null,
+ "keywords": 19,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "attorney bella vista ar",
+    "slug": "attorney-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-bella-vista-ar/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "lawyer bella vista ar",
+    "slug": "lawyer-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-bella-vista-ar/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "storage units bella vista ar",
+    "slug": "storage-units-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-bella-vista-ar/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "general contractor bella vista ar",
+    "slug": "general-contractor-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/general-contractor-bella-vista-ar/",
+    "us_monthly_searches": 18100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 5.31,
+    "cpc_median_usd": 5.31,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "eye doctor bella vista ar",
+    "slug": "eye-doctor-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-bella-vista-ar/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dentist bella vista ar",
+    "slug": "dentist-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-bella-vista-ar/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.7,
+    "cpc_median_usd": 8.0,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "haircut bella vista ar",
+    "slug": "haircut-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-bella-vista-ar/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "auto repair bella vista ar",
+    "slug": "auto-repair-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-bella-vista-ar/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "mechanic bella vista ar",
+    "slug": "mechanic-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-bella-vista-ar/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "bike shop bella vista ar",
+    "slug": "bike-shop-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-bella-vista-ar/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "jewelry store bella vista ar",
+    "slug": "jewelry-store-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-bella-vista-ar/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "thrift store bella vista ar",
+    "slug": "thrift-store-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-bella-vista-ar/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dog groomer bella vista ar",
+    "slug": "dog-groomer-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-bella-vista-ar/",
+    "us_monthly_searches": 450000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "vet bella vista ar",
+    "slug": "vet-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-bella-vista-ar/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "financial advisor bella vista ar",
+    "slug": "financial-advisor-bella-vista-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-bella-vista-ar/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

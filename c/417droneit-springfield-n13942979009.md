@@ -13,7 +13,7 @@
 - Website: https://kuula.co/share/collection/7H1wm?logo=1&card=1&info=0&fs=1&vr=1&sd=1&gyro=0&initload=0&autorotate=0.04&thumbs=-1
 - Email: 417DRONEIT@GMAIL.COM
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Unrated (not enough evidence yet) — top 80% of photographers in Springfield, MO, #8 of 10 photographers in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Unrated (not enough evidence yet) — top 80% of photographers in Springfield, MO, #8 of 10 photographers in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.7, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

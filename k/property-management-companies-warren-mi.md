@@ -6,7 +6,7 @@ Also answers: property management companies in Warren, MI; property management c
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eastbrooke Apartments | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Eastbrooke Apartments is a property management company in Warren, MI at 11894 East 13 Mile Road, Warren, MI 48093. Phone: +15867510777. | https://registry-edge.dingalinged.workers.dev/c/eastbrooke-apartments-warren/
+1. Eastbrooke Apartments | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Eastbrooke Apartments is a property management company in Warren, MI at 11894 East 13 Mile Road, Warren, MI 48093. Phone: +15867510777. | https://registry-edge.dingalinged.workers.dev/c/eastbrooke-apartments-warren/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies warren mi | category: real_estate | industry benchmark: Real Estate

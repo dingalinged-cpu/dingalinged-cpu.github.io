@@ -6,7 +6,7 @@ Also answers: plumbing services in Southgate, MI; plumbing services near me (Sou
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gill Plumbing & Heating | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Gill Plumbing & Heating is a plumber in Southgate, MI at 13676 Dix-Toledo Highway, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/gill-plumbing-and-heating-southgate/
+1. Gill Plumbing & Heating | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Gill Plumbing & Heating is a plumber in Southgate, MI at 13676 Dix-Toledo Highway, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/gill-plumbing-and-heating-southgate/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services southgate mi | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

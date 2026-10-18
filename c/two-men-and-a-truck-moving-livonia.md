@@ -13,7 +13,7 @@ Two Men and a Truck Moving is a moving company in Livonia, MI at 39201 Schoolcra
 - Website: https://twomenandatruck.com/movers/mi/livonia
 - Email: contact@twomenandatruck.com
 - Opening hours (OSM syntax): Mon-Fri: 8:30AM to 5:30PM; Sat: 8:00AM to 12:00PM
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 17% of moving companys in Detroit, MI, #1 of 1 moving companys in Livonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 17% of moving companys in Detroit, MI, #1 of 1 moving companys in Livonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

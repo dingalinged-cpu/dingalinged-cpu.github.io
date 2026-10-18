@@ -13,7 +13,7 @@ Cakeheads Bakery is a bakery in Centennial, CO at 7530 South University Boulevar
 - Website: https://cakeheadsbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-17:00; Sa 10:00-15:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 14% of bakerys in Denver, CO, #1 of 6 bakerys in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 13% of bakerys in Denver, CO, #1 of 6 bakerys in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

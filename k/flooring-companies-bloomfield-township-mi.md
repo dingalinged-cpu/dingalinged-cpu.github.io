@@ -6,7 +6,7 @@ Also answers: flooring companies in Bloomfield Township, MI; flooring companies 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Riemer Floors | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Riemer Floors is a flooring company in Bloomfield Hills, MI at 1865 South Telegraph Road, Bloomfield Hills, MI 48302. | https://registry-edge.dingalinged.workers.dev/c/riemer-floors-bloomfield-hills/
+1. Riemer Floors | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Riemer Floors is a flooring company in Bloomfield Hills, MI at 1865 South Telegraph Road, Bloomfield Hills, MI 48302. | https://registry-edge.dingalinged.workers.dev/c/riemer-floors-bloomfield-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies bloomfield township mi | category: Home services - Flooring | industry benchmark: Home & Home Improvement

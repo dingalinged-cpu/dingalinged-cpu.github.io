@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Hamilton, OH at 3371 Princeton Road #100, H
 - Website: https://www.mattressfirm.com/en-us/stores/oh/hamilton/020012/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50/100 — Fair — top 27% of mattress stores in Cincinnati, OH, #1 of 1 mattress stores in Hamilton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 27% of mattress stores in Cincinnati, OH, #1 of 1 mattress stores in Hamilton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

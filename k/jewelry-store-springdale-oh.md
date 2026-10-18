@@ -6,7 +6,7 @@ Also answers: jewelry store in Springdale, OH; jewelry store near me (Springdale
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Finer Diamonds | Organic #1 | Pulse Score 61.6/100 (Unrated, #5 in city) | Finer Diamonds is a jewelry store in Cincinnati, OH at 137 East Kemper Road, Cincinnati, OH 45246. Phone: +15136712554. Website: https://www.finerdiamonds.com/. | https://registry-edge.dingalinged.workers.dev/c/finer-diamonds-cincinnati/
+1. Finer Diamonds | Organic #1 | Pulse Score 61.5/100 (Unrated, #5 in city) | Finer Diamonds is a jewelry store in Cincinnati, OH at 137 East Kemper Road, Cincinnati, OH 45246. Phone: +15136712554. Website: https://www.finerdiamonds.com/. | https://registry-edge.dingalinged.workers.dev/c/finer-diamonds-cincinnati/
 2. Jewelry & Coin | Organic #2 | Pulse Score 55.4/100 (Unrated, #1 in city) | Jewelry & Coin is a jewelry store in Springdale, OH. | https://registry-edge.dingalinged.workers.dev/c/jewelry-and-coin-springdale/
 3. Preferred Jewelers | Organic #3 | Pulse Score 55.4/100 (Unrated, #2 in city) | Preferred Jewelers is a jewelry store in Springdale, OH. | https://registry-edge.dingalinged.workers.dev/c/preferred-jewelers-springdale/
 4. Jared | Organic #4 | Pulse Score 43.4/100 (Building, #3 in city) | Jared is a jewelry store in Springdale, OH. | https://registry-edge.dingalinged.workers.dev/c/jared-springdale/

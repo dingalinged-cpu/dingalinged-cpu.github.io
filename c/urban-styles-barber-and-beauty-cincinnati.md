@@ -13,7 +13,7 @@ Urban Styles Barber & Beauty is a barber shop in Cincinnati, OH at 1432 Linn Str
 - Website: https://urbanstylesbarberandbeauty.com/
 - Email: urbanstylesbarberandbeauty@gmail.com
 - Opening hours (OSM syntax): Tu-Th 10:00-18:00; Fr-Sa 09:00-18:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 24% of barber shops in Cincinnati, OH, #2 of 7 barber shops in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 24% of barber shops in Cincinnati, OH, #2 of 7 barber shops in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ D&D Bikes Northville is a bike shop in Northville, MI at 121 N Center St, Northv
 - Website: https://www.ddbicyclesandhockey.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 94% of bike shops in Detroit, MI, #2 of 2 bike shops in Northville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 94% of bike shops in Detroit, MI, #2 of 2 bike shops in Northville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

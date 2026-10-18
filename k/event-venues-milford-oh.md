@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. The Dudeist Ministers | Organic #1 | Pulse Score 63.8/100 (Unrated, #1 in city) | The Dudeist Ministers is an event venue in Milford, OH at 1160 State Route 28 #8, Milford, OH 45150. Phone: +15139942779. Website: https://www.dudeist.org/. | https://registry-edge.dingalinged.workers.dev/c/the-dudeist-ministers-milford/
 2. Little Miami Event Center | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | Little Miami Event Center is an event venue in Milford, OH at 310 Mill Street, Milford, OH 45150. Website: https://www.littlemiamibrewing.com/event-center/. | https://registry-edge.dingalinged.workers.dev/c/little-miami-event-center-milford/
-3. Scene 75 | Organic #3 | Pulse Score 60/100 (Unrated, #3 in city) | Scene 75 is an event venue in Milford, OH at 876 OH 28, Milford, OH 45150. Website: https://scene75.com/cincinnati/. | https://registry-edge.dingalinged.workers.dev/c/scene-75-milford/
-4. Leming House | Organic #4 | Pulse Score 57.5/100 (Unrated, #4 in city) | Leming House is an event venue in Milford, OH at 5951 Buckwheat Road, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/leming-house-milford/
+3. Scene 75 | Organic #3 | Pulse Score 60.1/100 (Unrated, #3 in city) | Scene 75 is an event venue in Milford, OH at 876 OH 28, Milford, OH 45150. Website: https://scene75.com/cincinnati/. | https://registry-edge.dingalinged.workers.dev/c/scene-75-milford/
+4. Leming House | Organic #4 | Pulse Score 57.6/100 (Unrated, #4 in city) | Leming House is an event venue in Milford, OH at 5951 Buckwheat Road, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/leming-house-milford/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues milford oh | category: Events & weddings | industry benchmark: Personal Services

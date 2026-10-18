@@ -13,7 +13,7 @@ Massage Envy is a massage studio in Cincinnati, OH at 3774 Paxton Avenue, Cincin
 - Website: https://locations.massageenvy.com/ohio/cincinnati/3774-paxton-avenue.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Building — top 57% of massage studios in Cincinnati, OH, #1 of 2 massage studios in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 57% of massage studios in Cincinnati, OH, #1 of 2 massage studios in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: used cars for sale in Scott Township, PA; used cars for sale near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bill Oliverio Premier Auto Sales | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Bill Oliverio Premier Auto Sales is an used car dealer in Carnegie, PA at 3000 Greentree Road, Carnegie, PA 15106. Phone: +14122763300. Website: https://www.billoliveriopremierauto.com/. | https://registry-edge.dingalinged.workers.dev/c/bill-oliverio-premier-auto-sales-carnegie/
+1. Bill Oliverio Premier Auto Sales | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Bill Oliverio Premier Auto Sales is an used car dealer in Carnegie, PA at 3000 Greentree Road, Carnegie, PA 15106. Phone: +14122763300. Website: https://www.billoliveriopremierauto.com/. | https://registry-edge.dingalinged.workers.dev/c/bill-oliverio-premier-auto-sales-carnegie/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale scott township pa | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

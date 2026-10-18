@@ -13,7 +13,7 @@ Ollie's Bargain Outlet is a gift shop in Belle Vernon, PA at 430 Tri County Lane
 - Website: https://www.ollies.us/locations/430-tri-county-lane-belle-vernon-pa/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 10% of gift shops in Pittsburgh, PA, #1 of 2 gift shops in Belle Vernon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 10% of gift shops in Pittsburgh, PA, #1 of 2 gift shops in Belle Vernon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ CubeSmart is a self-storage facility in Topeka, KS at 240 Southeast 29th Street,
 - Website: https://www.cubesmart.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 100% of self-storage facilitys in Topeka, KS, #5 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 100% of self-storage facilitys in Topeka, KS, #5 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

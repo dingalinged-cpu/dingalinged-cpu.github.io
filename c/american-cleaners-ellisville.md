@@ -13,7 +13,7 @@ American Cleaners is a dry cleaner in Ellisville, MO at 15372 Manchester Road, E
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 07:00-20:00
-- Pulse Score: 45.2/100 — Unrated (not enough evidence yet) — top 92% of dry cleaners in St. Louis, MO, #1 of 1 dry cleaners in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.2/100 — Unrated (not enough evidence yet) — top 89% of dry cleaners in St. Louis, MO, #1 of 1 dry cleaners in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

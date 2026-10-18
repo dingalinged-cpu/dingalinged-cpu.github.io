@@ -13,7 +13,7 @@ Treats Unleashed is a pet store in Saint Louis, MO at 22 North Euclid Avenue, Sa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 09:00-18:00
-- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 80% of pet stores in St. Louis, MO, #5 of 5 pet stores in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 80% of pet stores in St. Louis, MO, #5 of 5 pet stores in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Salvation Army Thrift Store is a thrift store in Canton Township, MI at 43403 Jo
 - Website: https://satruck.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 2% of thrift stores in Detroit, MI, #1 of 3 thrift stores in Canton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 43% of thrift stores in Detroit, MI, #3 of 3 thrift stores in Canton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

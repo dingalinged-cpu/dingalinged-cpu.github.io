@@ -6,7 +6,7 @@ Also answers: audiologist in Columbia, MO; audiologist near me (Columbia, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Amanda M. Bracken, AUD | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Amanda M. Bracken, AUD is an audiologist in Columbia, MO at 1000 West Nifong Boulevard #2-200, Columbia, MO 65203. Phone: +15732142000. Website: https://www.moentcenter.com/amanda-bracken-aud-ccc-a/. | https://registry-edge.dingalinged.workers.dev/c/amanda-m-bracken-aud-columbia/
+1. Amanda M. Bracken, AUD | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Amanda M. Bracken, AUD is an audiologist in Columbia, MO at 1000 West Nifong Boulevard #2-200, Columbia, MO 65203. Phone: +15732142000. Website: https://www.moentcenter.com/amanda-bracken-aud-ccc-a/. | https://registry-edge.dingalinged.workers.dev/c/amanda-m-bracken-aud-columbia/
 
 ## Market data (for advertisers and agents)
 - Keyword: audiologist columbia mo | category: Health & medical | industry benchmark: Physicians & Surgeons

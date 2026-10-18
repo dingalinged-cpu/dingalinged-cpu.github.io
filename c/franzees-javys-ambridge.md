@@ -13,7 +13,7 @@ Franzee's-Javy's is an event venue in Ambridge, PA at 1300 Merchant Street, Ambr
 - Website: https://www.franzeesjavys.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 17% of event venues in Pittsburgh, PA, #1 of 3 event venues in Ambridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 17% of event venues in Pittsburgh, PA, #1 of 3 event venues in Ambridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

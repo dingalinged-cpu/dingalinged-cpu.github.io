@@ -13,7 +13,7 @@ BJ's Tire Center is a tire shop in Bridgeville, PA at 4000 Victoria Street, Brid
 - Website: https://tires.bjs.com/stores/view/4497/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.9/100 — Building — top 91% of tire shops in Pittsburgh, PA, #1 of 1 tire shops in Bridgeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 91% of tire shops in Pittsburgh, PA, #1 of 1 tire shops in Bridgeville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

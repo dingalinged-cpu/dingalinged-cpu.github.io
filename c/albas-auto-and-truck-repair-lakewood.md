@@ -13,7 +13,7 @@ Alba's Auto & Truck Repair is an auto repair shop in Lakewood, CO at 105 Harlan 
 - Website: https://sites.google.com/site/albasautorepair/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa "by appointment"
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Denver, CO, #5 of 47 auto repair shops in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Denver, CO, #5 of 47 auto repair shops in Lakewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

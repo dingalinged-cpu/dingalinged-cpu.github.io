@@ -13,7 +13,7 @@ Liberation Tattoo is a tattoo shop in Springfield, MO at 400 W Commercial St #10
 - Website: https://www.liberation-tattoo.com/
 - Email: Liberationtattoospringfield@gmail.com
 - Opening hours (OSM syntax): We-Sa 12:00-19:00
-- Pulse Score: 64.3/100 — Good — top 10% of tattoo shops in Springfield, MO, #1 of 10 tattoo shops in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74.3, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.3/100 — Good — top 10% of tattoo shops in Springfield, MO, #1 of 10 tattoo shops in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74.4, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

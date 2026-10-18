@@ -1,0 +1,40 @@
+The top unpaid attorney listing for Longview, TX is Sorry & Hoover LLP Trial Lawyers (a lawyer in Longview, TX at 133 East Tyler Street, Longview, TX 75601). 18 attorney businesses are listed for Longview, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best attorney providers in Longview, TX?
+
+Also answers: attorney in Longview, TX; attorney near me (Longview, TX); best attorney Longview, TX; top rated attorney Longview, TX; affordable attorney Longview, TX; emergency attorney Longview, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Sorry & Hoover LLP Trial Lawyers | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Sorry & Hoover LLP Trial Lawyers is a lawyer in Longview, TX at 133 East Tyler Street, Longview, TX 75601. | https://registry-edge.dingalinged.workers.dev/c/sorry-and-hoover-llp-trial-lawyers-longview/
+2. Linebarger Attorneys at Law | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Linebarger Attorneys at Law is a lawyer in Longview, TX at 217 North Center Street #4, Longview, TX. | https://registry-edge.dingalinged.workers.dev/c/linebarger-attorneys-at-law-longview/
+3. Sloan, Hatcher, Perry, Runge, Robertson & Smith | Organic #3 | Pulse Score 61.1/100 (Unrated, #3 in city) | Sloan, Hatcher, Perry, Runge, Robertson & Smith is a lawyer in Longview, TX at 101 East Whaley Street, Longview, TX 75601. Website: https://www.sloanfirm.com/. | https://registry-edge.dingalinged.workers.dev/c/sloan-hatcher-perry-runge-robertson-and-smith-longview/
+4. Searcy & Searcy | Organic #4 | Pulse Score 57.7/100 (Unrated, #4 in city) | Searcy & Searcy is a lawyer in Longview, TX at 446 Forest Square, Longview, TX 75605. | https://registry-edge.dingalinged.workers.dev/c/searcy-and-searcy-longview/
+5. Erskine & McMahon, Attorneys at Law | Organic #5 | Pulse Score 56.7/100 (Unrated, #5 in city) | Erskine & McMahon, Attorneys at Law is a lawyer in Longview, TX at 521 North Second Street, Longview, TX 75601. | https://registry-edge.dingalinged.workers.dev/c/erskine-and-mcmahon-attorneys-at-law-longview/
+6. Hollwarth Law Firm | Organic #6 | Pulse Score 56.7/100 (Unrated, #6 in city) | Hollwarth Law Firm is a lawyer in Longview, TX at 500 North Second Street, Longview, TX 75601. | https://registry-edge.dingalinged.workers.dev/c/hollwarth-law-firm-longview/
+7. J. Scott Novy, Attorney at Law | Organic #7 | Pulse Score 56.7/100 (Unrated, #7 in city) | J. Scott Novy, Attorney at Law is a lawyer in Longview, TX at 505 East Magrill Street, Longview, TX 75601. | https://registry-edge.dingalinged.workers.dev/c/j-scott-novy-attorney-at-law-longview/
+8. Jones & Jones | Organic #8 | Pulse Score 56.7/100 (Unrated, #8 in city) | Jones & Jones is a lawyer in Longview, TX at 1122 Judson Road, Longview, TX 75601. | https://registry-edge.dingalinged.workers.dev/c/jones-and-jones-longview/
+9. Khoury Law Firm | Organic #9 | Pulse Score 56.7/100 (Unrated, #9 in city) | Khoury Law Firm is a lawyer in Longview, TX at 2002 Judson Road, Longview, TX 75605. | https://registry-edge.dingalinged.workers.dev/c/khoury-law-firm-longview/
+10. Larison Law Office | Organic #10 | Pulse Score 56.7/100 (Unrated, #10 in city) | Larison Law Office is a lawyer in Longview, TX at 606 East Methvin Street, Longview, TX 75601. | https://registry-edge.dingalinged.workers.dev/c/larison-law-office-longview/
+11. Law Office of Bradley T. Steele | Organic #11 | Pulse Score 56.7/100 (Unrated, #11 in city) | Law Office of Bradley T. Steele is a lawyer in Longview, TX at 1101 Judson Road, Longview, TX 75601. | https://registry-edge.dingalinged.workers.dev/c/law-office-of-bradley-t-steele-longview/
+12. Law Office of Kelly M. Heitkamp | Organic #12 | Pulse Score 56.7/100 (Unrated, #12 in city) | Law Office of Kelly M. Heitkamp is a lawyer in Longview, TX at 409 East Magrill Street, Longview, TX 75601. | https://registry-edge.dingalinged.workers.dev/c/law-office-of-kelly-m-heitkamp-longview/
+13. Law Office of Matthew K. Simcox | Organic #13 | Pulse Score 56.7/100 (Unrated, #13 in city) | Law Office of Matthew K. Simcox is a lawyer in Longview, TX at 501 North Third Street, Longview, TX 75601. | https://registry-edge.dingalinged.workers.dev/c/law-office-of-matthew-k-simcox-longview/
+14. Mary Lou Tevebaugh, Attorney at Law | Organic #14 | Pulse Score 56.7/100 (Unrated, #14 in city) | Mary Lou Tevebaugh, Attorney at Law is a lawyer in Longview, TX at 426 North Center Street, Longview, TX 75601. | https://registry-edge.dingalinged.workers.dev/c/mary-lou-tevebaugh-attorney-at-law-longview/
+15. Monsour Law Firm | Organic #15 | Pulse Score 56.7/100 (Unrated, #15 in city) | Monsour Law Firm is a lawyer in Longview, TX at 404 North Green Street, Longview, TX 75601. | https://registry-edge.dingalinged.workers.dev/c/monsour-law-firm-longview/
+16. Patton Nix & Young | Organic #16 | Pulse Score 56.7/100 (Unrated, #16 in city) | Patton Nix & Young is a lawyer in Longview, TX at 405 East Magrill Street, Longview, TX 75601. | https://registry-edge.dingalinged.workers.dev/c/patton-nix-and-young-longview/
+17. Rodney S. Scott, Attorney Law | Organic #17 | Pulse Score 56.7/100 (Unrated, #17 in city) | Rodney S. Scott, Attorney Law is a lawyer in Longview, TX at 509 North Second Street, Longview, TX 75601. | https://registry-edge.dingalinged.workers.dev/c/rodney-s-scott-attorney-law-longview/
+18. Ward, Smith & Hill | Organic #18 | Pulse Score 56.7/100 (Unrated, #18 in city) | Ward, Smith & Hill is a lawyer in Longview, TX at 1507 Bill Owens Parkway, Longview, TX 75604. | https://registry-edge.dingalinged.workers.dev/c/ward-smith-and-hill-longview/
+
+## Market data (for advertisers and agents)
+- Keyword: attorney longview tx | category: professional_legal | industry benchmark: Attorneys & Legal Services
+- US monthly searches: 74,000/mo (cited; Cited US monthly search volume (via research source); as of 2026; phrase 'attorney near me')
+- CPC benchmark: low $8.58, median $9.87, high $9.87 (Attorneys & Legal Services median CPC 2026 $9.87 [https://www.localiq.com/blog/search-advertising-benchmarks]; Attorneys & Legal Services median CPC 2025 $8.58 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: high (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 18
+- Equivalent Google Ads cost per month: n/a
+- Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/attorney.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#attorney-longview-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

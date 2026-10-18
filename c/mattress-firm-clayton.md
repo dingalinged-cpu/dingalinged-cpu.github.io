@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Clayton, MO at 8069 Clayton Road, Clayton, 
 - Website: https://www.mattressfirm.com/en-us/stores/mo/st-louis/018011/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Building — top 70% of mattress stores in St. Louis, MO, #1 of 1 mattress stores in Clayton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 70% of mattress stores in St. Louis, MO, #1 of 1 mattress stores in Clayton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

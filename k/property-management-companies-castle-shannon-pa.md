@@ -6,8 +6,8 @@ Also answers: property management companies in Castle Shannon, PA; property mana
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alvern Gardens Apartments | Organic #1 | Pulse Score 56/100 (Unrated, #3 in city) | Alvern Gardens Apartments is a property management company in Pittsburgh, PA at 1000 Vermont Avenue, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/alvern-gardens-apartments-pittsburgh/
-2. Castle Ridge Apartments | Organic #2 | Pulse Score 56/100 (Unrated, #4 in city) | Castle Ridge Apartments is a property management company in Pittsburgh, PA at 850 Baldwin Street, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/castle-ridge-apartments-pittsburgh/
+1. Alvern Gardens Apartments | Organic #1 | Pulse Score 55.9/100 (Unrated, #3 in city) | Alvern Gardens Apartments is a property management company in Pittsburgh, PA at 1000 Vermont Avenue, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/alvern-gardens-apartments-pittsburgh/
+2. Castle Ridge Apartments | Organic #2 | Pulse Score 55.9/100 (Unrated, #4 in city) | Castle Ridge Apartments is a property management company in Pittsburgh, PA at 850 Baldwin Street, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/castle-ridge-apartments-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies castle shannon pa | category: real_estate | industry benchmark: Real Estate

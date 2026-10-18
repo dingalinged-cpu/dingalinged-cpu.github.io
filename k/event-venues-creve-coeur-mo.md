@@ -6,7 +6,7 @@ Also answers: event venues in Creve Coeur, MO; event venues near me (Creve Coeur
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Woods Hall | Organic #1 | Pulse Score 52.8/100 (Unrated, #1 in city) | Woods Hall is an event venue in Creve Coeur, MO at 175 South Mason Road, Creve Coeur, MO 63141. | https://registry-edge.dingalinged.workers.dev/c/woods-hall-creve-coeur/
+1. Woods Hall | Organic #1 | Pulse Score 52.9/100 (Unrated, #1 in city) | Woods Hall is an event venue in Creve Coeur, MO at 175 South Mason Road, Creve Coeur, MO 63141. | https://registry-edge.dingalinged.workers.dev/c/woods-hall-creve-coeur/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues creve coeur mo | category: Events & weddings | industry benchmark: Personal Services

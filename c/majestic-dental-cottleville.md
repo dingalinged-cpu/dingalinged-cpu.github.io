@@ -13,7 +13,7 @@ Majestic Dental is a dentist in Cottleville, MO at 1451 Cottleville Parkway, Cot
 - Website: https://majesticdentalmo.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We 08:00-18:00; Tu, Th 07:00-17:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 43% of dentists in St. Peters, MO, #1 of 1 dentists in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 43% of dentists in St. Peters, MO, #1 of 1 dentists in Cottleville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

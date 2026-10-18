@@ -6,7 +6,7 @@ Also answers: dentist in Clayton, MO; dentist near me (Clayton, MO); best dentis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Dental Anesthesia Center | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | The Dental Anesthesia Center is a dentist in Clayton, MO at 950 Francis Place, Clayton, MO 63105. Phone: +13148627844. Website: https://www.dentalsleepstlouis.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dental-anesthesia-center-clayton/
+1. The Dental Anesthesia Center | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | The Dental Anesthesia Center is a dentist in Clayton, MO at 950 Francis Place, Clayton, MO 63105. Phone: +13148627844. Website: https://www.dentalsleepstlouis.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dental-anesthesia-center-clayton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist clayton mo | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

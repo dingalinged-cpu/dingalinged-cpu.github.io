@@ -13,7 +13,7 @@ RE/MAX is a real estate agency in Louisville, CO at 724 Main Street, Louisville,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00; Sa,Su 11:00-16:00
-- Pulse Score: 47.6/100 — Building — top 86% of real estate agencys in Denver, CO, #2 of 2 real estate agencys in Louisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 86% of real estate agencys in Denver, CO, #2 of 2 real estate agencys in Louisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Taylor’s Bakery is a bakery in Fishers, IN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 08:00-17:00
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 37% of bakerys in Indianapolis, IN, #1 of 2 bakerys in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 35% of bakerys in Indianapolis, IN, #1 of 2 bakerys in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

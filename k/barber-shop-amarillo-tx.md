@@ -1,0 +1,42 @@
+The top unpaid barber shop listing for Amarillo, TX is Combs & Cuts Barber Shop (a barber shop in Amarillo, TX at 1003 South Georgia Street, Amarillo, TX 79102. Phone: +18062422662). 19 barber shop businesses are listed for Amarillo, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best barber shop providers in Amarillo, TX?
+
+Also answers: barber shop in Amarillo, TX; barber shop near me (Amarillo, TX); best barber shop Amarillo, TX; top rated barber shop Amarillo, TX; affordable barber shop Amarillo, TX; emergency barber shop Amarillo, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Combs & Cuts Barber Shop | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Combs & Cuts Barber Shop is a barber shop in Amarillo, TX at 1003 South Georgia Street, Amarillo, TX 79102. Phone: +18062422662. | https://registry-edge.dingalinged.workers.dev/c/combs-and-cuts-barber-shop-amarillo/
+2. #Views | Organic #2 | Pulse Score 59/100 (Unrated, #14 in city) | #Views is a barber shop in Amarillo, TX at 1769 South Avondale Street, Amarillo, TX 79106. Phone: +18067052039. | https://registry-edge.dingalinged.workers.dev/c/views-amarillo/
+3. Blade Masters Hair Studios | Organic #3 | Pulse Score 59/100 (Unrated, #2 in city) | Blade Masters Hair Studios is a barber shop in Amarillo, TX at 2261 Bell Street, Amarillo, TX 79106. Phone: +18063528021. | https://registry-edge.dingalinged.workers.dev/c/blade-masters-hair-studios-amarillo/
+4. Boulevard Barbers | Organic #4 | Pulse Score 59/100 (Unrated, #3 in city) | Boulevard Barbers is a barber shop in Amarillo, TX at 1110 East Amarillo Boulevard, Amarillo, TX 79107. Phone: +18063412719. | https://registry-edge.dingalinged.workers.dev/c/boulevard-barbers-amarillo/
+5. Elite Cuts | Organic #5 | Pulse Score 59/100 (Unrated, #4 in city) | Elite Cuts is a barber shop in Amarillo, TX at 215 Southwest 7th Avenue, Amarillo, TX 79101. Phone: +18062917156. | https://registry-edge.dingalinged.workers.dev/c/elite-cuts-amarillo/
+6. Exclusive Barbershop | Organic #6 | Pulse Score 59/100 (Unrated, #5 in city) | Exclusive Barbershop is a barber shop in Amarillo, TX at 1611 North Grand Street, Amarillo, TX 79107. Phone: +18064108284. | https://registry-edge.dingalinged.workers.dev/c/exclusive-barbershop-amarillo/
+7. Foster's Barber Shop | Organic #7 | Pulse Score 59/100 (Unrated, #6 in city) | Foster's Barber Shop is a barber shop in Amarillo, TX at 1500 North Hughes Street, Amarillo, TX 79107. Phone: +18063720650. | https://registry-edge.dingalinged.workers.dev/c/fosters-barber-shop-amarillo/
+8. North Side Barbershop | Organic #8 | Pulse Score 59/100 (Unrated, #7 in city) | North Side Barbershop is a barber shop in Amarillo, TX at 6412 River Road, Amarillo, TX 79108. Phone: +18062313160. | https://registry-edge.dingalinged.workers.dev/c/north-side-barbershop-amarillo/
+9. Rebellion Barbershop | Organic #9 | Pulse Score 59/100 (Unrated, #8 in city) | Rebellion Barbershop is a barber shop in Amarillo, TX at 6605 West Interstate Drive #Suite 7, Amarillo, TX 79106. Phone: +18066734425. | https://registry-edge.dingalinged.workers.dev/c/rebellion-barbershop-amarillo/
+10. Route 66 Cutz Barbershop | Organic #10 | Pulse Score 59/100 (Unrated, #9 in city) | Route 66 Cutz Barbershop is a barber shop in Amarillo, TX at 809 East Amarillo Boulevard #100, Amarillo, TX 79107. Phone: +18063400020. | https://registry-edge.dingalinged.workers.dev/c/route-66-cutz-barbershop-amarillo/
+11. Sixteenth Street Barber Shop | Organic #11 | Pulse Score 59/100 (Unrated, #10 in city) | Sixteenth Street Barber Shop is a barber shop in Amarillo, TX at 714 Southwest 16th Avenue, Amarillo, TX 79101. Phone: +18063725165. | https://registry-edge.dingalinged.workers.dev/c/sixteenth-street-barber-shop-amarillo/
+12. Straight Edge Barber Shop | Organic #12 | Pulse Score 59/100 (Unrated, #11 in city) | Straight Edge Barber Shop is a barber shop in Amarillo, TX at 2623 Paramount Boulevard #Suite 1, Amarillo, TX 79109. Phone: +18064371551. | https://registry-edge.dingalinged.workers.dev/c/straight-edge-barber-shop-amarillo/
+13. Union Barber Shop | Organic #13 | Pulse Score 59/100 (Unrated, #12 in city) | Union Barber Shop is a barber shop in Amarillo, TX at 1019 North Hughes Street, Amarillo, TX 79107. Phone: +18063739086. | https://registry-edge.dingalinged.workers.dev/c/union-barber-shop-amarillo/
+14. Valley Barbershop | Organic #14 | Pulse Score 59/100 (Unrated, #13 in city) | Valley Barbershop is a barber shop in Amarillo, TX at 4604 River Road, Amarillo, TX 79108. Phone: +18063166030. | https://registry-edge.dingalinged.workers.dev/c/valley-barbershop-amarillo/
+15. Big Dawgs Fade Lounge | Organic #15 | Pulse Score 54.9/100 (Unrated, #15 in city) | Big Dawgs Fade Lounge is a barber shop in Amarillo, TX at 4508 South Georgia Street, Amarillo, TX 79110. | https://registry-edge.dingalinged.workers.dev/c/big-dawgs-fade-lounge-amarillo/
+16. Fields Kuts | Organic #16 | Pulse Score 54.9/100 (Unrated, #16 in city) | Fields Kuts is a barber shop in Amarillo, TX at 800 North Washington Street, Amarillo, TX 79107. | https://registry-edge.dingalinged.workers.dev/c/fields-kuts-amarillo/
+17. Gentleman's Club Barbershop | Organic #17 | Pulse Score 54.9/100 (Unrated, #17 in city) | Gentleman's Club Barbershop is a barber shop in Amarillo, TX at 4521 South Western Street, Amarillo, TX 79109. | https://registry-edge.dingalinged.workers.dev/c/gentlemans-club-barbershop-amarillo/
+18. Leóns Den | Organic #18 | Pulse Score 54.9/100 (Unrated, #18 in city) | Leóns Den is a barber shop in Amarillo, TX at 110 Southeast 12th Avenue, Amarillo, TX 79101. | https://registry-edge.dingalinged.workers.dev/c/le-ns-den-amarillo/
+19. Visionz Barber Academy | Organic #19 | Pulse Score 53.8/100 (Unrated, #19 in city) | Visionz Barber Academy is a barber shop in Amarillo, TX. | https://registry-edge.dingalinged.workers.dev/c/visionz-barber-academy-amarillo/
+
+## Market data (for advertisers and agents)
+- Keyword: barber shop amarillo tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
+- US monthly searches: 673,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'barber shop')
+- CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'barber shop': $0.70-$3.18 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: low (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 19
+- Equivalent Google Ads cost per month: n/a
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/barber-shop.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-amarillo-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

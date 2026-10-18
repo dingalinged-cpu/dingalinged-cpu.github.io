@@ -13,7 +13,7 @@ Pittsburgh Cremation & Funeral Care is a funeral home in McKees Rocks, PA at 540
 - Website: https://www.pittsburghcremation.com/
 - Email: care@pittsburghcremation.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 5% of funeral homes in Pittsburgh, PA, #1 of 4 funeral homes in McKees Rocks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 6% of funeral homes in Pittsburgh, PA, #1 of 4 funeral homes in McKees Rocks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

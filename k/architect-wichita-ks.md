@@ -6,7 +6,7 @@ Also answers: architect in Wichita, KS; architect near me (Wichita, KS); best ar
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TESSERE | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | TESSERE is an architect in Wichita, KS at 1525 East Douglas Avenue, Wichita, KS 67211. | https://registry-edge.dingalinged.workers.dev/c/tessere-wichita/
+1. TESSERE | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | TESSERE is an architect in Wichita, KS at 1525 East Douglas Avenue, Wichita, KS 67211. | https://registry-edge.dingalinged.workers.dev/c/tessere-wichita/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect wichita ks | category: Home services - Design | industry benchmark: Home & Home Improvement

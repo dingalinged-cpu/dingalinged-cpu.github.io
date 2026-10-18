@@ -13,7 +13,7 @@ Rockin J's Childcare Center is a daycare in Hutchinson, KS at 735 East 7th Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:45-18:00
-- Pulse Score: 63.7/100 — Good — top 13% of daycares in Wichita, KS, #1 of 1 daycares in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 13% of daycares in Wichita, KS, #1 of 1 daycares in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

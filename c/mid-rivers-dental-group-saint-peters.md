@@ -13,7 +13,7 @@ Mid Rivers Dental Group is a dentist in Saint Peters, MO at 300 Mid Rivers Mall 
 - Website: https://www.midriversdentalgroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa,Su off
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 86% of dentists in St. Peters, MO, #5 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 86% of dentists in St. Peters, MO, #5 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

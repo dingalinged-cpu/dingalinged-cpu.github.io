@@ -13,7 +13,7 @@ Floyd's 99 Barbershop is a hair salon in Parker, CO at 17051 East Lincoln Avenue
 - Website: https://www.floydsbarbershop.com/locations/colorado/denver/stonegate-crossing
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-18:00
-- Pulse Score: 49.1/100 — Building — top 74% of hair salons in Denver, CO, #15 of 29 hair salons in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 72% of hair salons in Denver, CO, #14 of 29 hair salons in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

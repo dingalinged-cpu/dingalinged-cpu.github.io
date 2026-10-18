@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Russellville, AR",
+ "description": "Top Russellville, AR service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Russellville, AR",
+ "geography": null,
+ "keywords": 79,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "moving company russellville ar",
+    "slug": "moving-company-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-russellville-ar/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.41,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "electrician russellville ar",
+    "slug": "electrician-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-russellville-ar/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.18,
+    "cpc_median_usd": 12.18,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofing contractor russellville ar",
+    "slug": "roofing-contractor-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-russellville-ar/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofer russellville ar",
+    "slug": "roofer-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-russellville-ar/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "attorney russellville ar",
+    "slug": "attorney-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-russellville-ar/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 9,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "lawyer russellville ar",
+    "slug": "lawyer-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-russellville-ar/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 9,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "exterminator russellville ar",
+    "slug": "exterminator-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/exterminator-russellville-ar/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "flooring companies russellville ar",
+    "slug": "flooring-companies-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-russellville-ar/",
+    "us_monthly_searches": 18100,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "locksmith russellville ar",
+    "slug": "locksmith-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-russellville-ar/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "pest control russellville ar",
+    "slug": "pest-control-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pest-control-russellville-ar/",
+    "us_monthly_searches": 165000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "storage units russellville ar",
+    "slug": "storage-units-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-russellville-ar/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 8,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "movers russellville ar",
+    "slug": "movers-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/movers-russellville-ar/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.23,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "bakery russellville ar",
+    "slug": "bakery-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-russellville-ar/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "florist russellville ar",
+    "slug": "florist-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-russellville-ar/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dance studio russellville ar",
+    "slug": "dance-studio-russellville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-russellville-ar/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 6.17,
+    "cpc_median_usd": 6.17,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

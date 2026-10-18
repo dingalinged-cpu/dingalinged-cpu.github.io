@@ -6,7 +6,7 @@ Also answers: coworking space in Berkley, MI; coworking space near me (Berkley, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Folio Berkley | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Folio Berkley is a coworking space in Berkley, MI at 2838 Coolidge Highway, Berkley, MI 48072. Phone: +12489554960. Website: https://www.foliooffices.com/. | https://registry-edge.dingalinged.workers.dev/c/folio-berkley-berkley/
+1. Folio Berkley | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Folio Berkley is a coworking space in Berkley, MI at 2838 Coolidge Highway, Berkley, MI 48072. Phone: +12489554960. Website: https://www.foliooffices.com/. | https://registry-edge.dingalinged.workers.dev/c/folio-berkley-berkley/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space berkley mi | category: real_estate | industry benchmark: Real Estate

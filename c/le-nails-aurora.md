@@ -13,7 +13,7 @@ Le Nails is a nail salon in Aurora, CO at 16950 East Iliff Avenue #F8, Aurora, C
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 09:00-19:00; Su 10:00-17:00
-- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 89% of nail salons in Denver, CO, #30 of 36 nail salons in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 86% of nail salons in Denver, CO, #28 of 36 nail salons in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

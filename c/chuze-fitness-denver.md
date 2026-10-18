@@ -13,7 +13,7 @@ Chuze Fitness is a gym in Denver, CO at 2253 South Monaco Parkway, Denver, CO 80
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 68% of gyms in Denver, CO, #45 of 58 gyms in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 72% of gyms in Denver, CO, #47 of 58 gyms in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

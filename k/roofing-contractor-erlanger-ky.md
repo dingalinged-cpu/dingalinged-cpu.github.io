@@ -6,7 +6,7 @@ Also answers: roofing contractor in Erlanger, KY; roofing contractor near me (Er
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fortress Solutions LLC | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Fortress Solutions LLC is a roofer in Erlanger, KY at 4355 Dixie Hwy, Erlanger, KY 41018. Phone: +18593286338. Website: https://www.gowithfortress.com/. | https://registry-edge.dingalinged.workers.dev/c/fortress-solutions-llc-erlanger/
+1. Fortress Solutions LLC | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Fortress Solutions LLC is a roofer in Erlanger, KY at 4355 Dixie Hwy, Erlanger, KY 41018. Phone: +18593286338. Website: https://www.gowithfortress.com/. | https://registry-edge.dingalinged.workers.dev/c/fortress-solutions-llc-erlanger/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor erlanger ky | category: Home services - Roofing | industry benchmark: Home & Home Improvement

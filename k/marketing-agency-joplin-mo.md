@@ -6,7 +6,7 @@ Also answers: marketing agency in Joplin, MO; marketing agency near me (Joplin, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Little Bird Marketing | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Little Bird Marketing is a marketing agency in Joplin, MO at 512 South Main Street, Joplin, MO 64801. Website: https://littlebirdmarketing.com/. | https://registry-edge.dingalinged.workers.dev/c/little-bird-marketing-joplin/
+1. Little Bird Marketing | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Little Bird Marketing is a marketing agency in Joplin, MO at 512 South Main Street, Joplin, MO 64801. Website: https://littlebirdmarketing.com/. | https://registry-edge.dingalinged.workers.dev/c/little-bird-marketing-joplin/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency joplin mo | category: Professional & financial services | industry benchmark: Finance & Insurance

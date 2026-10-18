@@ -6,7 +6,7 @@ Also answers: accounting services in Lawrence, KS; accounting services near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The McFadden Group | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | The McFadden Group is an accountant in Lawrence, KS at 616 Vermont Street #A, Lawrence, KS 66044. Phone: +17858439550. Website: https://www.cpamcfadden.com/. | https://registry-edge.dingalinged.workers.dev/c/the-mcfadden-group-lawrence/
+1. The McFadden Group | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | The McFadden Group is an accountant in Lawrence, KS at 616 Vermont Street #A, Lawrence, KS 66044. Phone: +17858439550. Website: https://www.cpamcfadden.com/. | https://registry-edge.dingalinged.workers.dev/c/the-mcfadden-group-lawrence/
 2. Gordon CPA | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | Gordon CPA is an accountant in Lawrence, KS at 4205 West 6th Street #C, Lawrence, KS 66049. Phone: +17853714847. Website: https://cpagordon.com/. | https://registry-edge.dingalinged.workers.dev/c/gordon-cpa-lawrence/
 3. Stonecreek Accounting | Organic #3 | Pulse Score 59.2/100 (Unrated, #3 in city) | Stonecreek Accounting is an accountant in Lawrence, KS at 2201 West 25th Street #V, Lawrence, KS 66047. Phone: +17854149452. Website: https://stonecreekaccounting.com/. | https://registry-edge.dingalinged.workers.dev/c/stonecreek-accounting-lawrence/
 

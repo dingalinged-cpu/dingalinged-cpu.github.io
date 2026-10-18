@@ -13,7 +13,7 @@ Nu's Nails is a nail salon in Springfield, MO. Phone: +14178825432.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 28% of nail salons in Springfield, MO, #3 of 11 nail salons in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 28% of nail salons in Springfield, MO, #3 of 11 nail salons in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Fred Astaire Dance Studio is a dance studio in Carmel, IN. Phone: +13178463237. 
 - Website: https://www.fredastaire.com/
 - Email: indianapolis@fredastaire.com
 - Opening hours (OSM syntax): Mo-Fr 11:00-22:00
-- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 100% of dance studios in Indianapolis, IN, #7 of 7 dance studios in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 100% of dance studios in Indianapolis, IN, #7 of 7 dance studios in Carmel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

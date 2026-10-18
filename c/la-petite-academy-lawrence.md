@@ -13,7 +13,7 @@ La Petite Academy is a preschool in Lawrence, KS at 3211 West 6th Street, Lawren
 - Website: https://www.lapetite.com/your-local-school/lawrence-ks-7042/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Pulse Score: 48.2/100 — Building — top 75% of preschools in Lawrence, KS, #9 of 12 preschools in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 75% of preschools in Lawrence, KS, #9 of 12 preschools in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

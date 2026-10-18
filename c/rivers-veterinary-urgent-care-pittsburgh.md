@@ -13,7 +13,7 @@ Rivers Veterinary Urgent Care is a veterinarian in Pittsburgh, PA at 560 McNeill
 - Website: https://www.riversvet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00
-- Pulse Score: 62.2/100 — Good — top 12% of veterinarians in Pittsburgh, PA, #4 of 16 veterinarians in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 12% of veterinarians in Pittsburgh, PA, #4 of 16 veterinarians in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

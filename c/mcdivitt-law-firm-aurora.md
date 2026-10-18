@@ -13,7 +13,7 @@ McDivitt Law Firm is a lawyer in Aurora, CO at 14261 East 4th Avenue #300, Auror
 - Website: https://www.mcdivittlaw.com/
 - Email: legalhelp@mcdivittlaw.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 65.2/100 — Good — top 1% of lawyers in Denver, CO, #1 of 4 lawyers in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 66.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 1% of lawyers in Denver, CO, #1 of 4 lawyers in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 66.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

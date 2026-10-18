@@ -6,7 +6,7 @@ Also answers: roofer in Joplin, MO; roofer near me (Joplin, MO); best roofer Jop
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Abernathy Roofing and Construction | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Abernathy Roofing and Construction is a roofer in Joplin, MO at 1901 North Range Line Road, Joplin, MO 64801. Phone: +14175404411. Website: https://abernathyroofingandconstruction.com/. | https://registry-edge.dingalinged.workers.dev/c/abernathy-roofing-and-construction-joplin/
+1. Abernathy Roofing and Construction | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Abernathy Roofing and Construction is a roofer in Joplin, MO at 1901 North Range Line Road, Joplin, MO 64801. Phone: +14175404411. Website: https://abernathyroofingandconstruction.com/. | https://registry-edge.dingalinged.workers.dev/c/abernathy-roofing-and-construction-joplin/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer joplin mo | category: Home services - Roofing | industry benchmark: Home & Home Improvement

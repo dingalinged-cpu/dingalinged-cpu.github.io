@@ -13,7 +13,7 @@ K-Guard Gutters Rocky Mountains is a roofer in Greenwood Village, CO at 6801 Sou
 - Website: https://kguardrockymountains.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 29% of roofers in Denver, CO, #1 of 1 roofers in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 29% of roofers in Denver, CO, #1 of 1 roofers in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

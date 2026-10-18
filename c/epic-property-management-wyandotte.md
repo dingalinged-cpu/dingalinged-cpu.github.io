@@ -13,7 +13,7 @@ Epic Property Management is a real estate agency in Wyandotte, MI at 1475 Eureka
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa-Su 10:00-19:00
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 39% of real estate agencys in Detroit, MI, #1 of 3 real estate agencys in Wyandotte (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 39% of real estate agencys in Detroit, MI, #1 of 3 real estate agencys in Wyandotte (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

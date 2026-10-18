@@ -13,7 +13,7 @@ PetsWay is a pet store in Springfield, MO at 2920 East Sunshine Street, Springfi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 11:00-18:00
-- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 77% of pet stores in Springfield, MO, #9 of 12 pet stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 77% of pet stores in Springfield, MO, #9 of 12 pet stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

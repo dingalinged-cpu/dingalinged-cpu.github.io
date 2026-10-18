@@ -13,7 +13,7 @@ Dielman Moving & Storage is a moving company in Saint John, MO at 8822 Saintt Ch
 - Website: https://dielmanmoving.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30; Sa 08:00-13:00; Su 10:00-12:00
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 40% of moving companys in St. Louis, MO, #1 of 1 moving companys in Saint John (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 40% of moving companys in St. Louis, MO, #1 of 1 moving companys in Saint John (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ The Mattress Hub is a mattress store in Topeka, KS at 1930 Southwest Wanamaker R
 - Website: https://mattresshub.com/locations/topeka/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.6/100 — Unrated (not enough evidence yet) — top 100% of mattress stores in Topeka, KS, #4 of 4 mattress stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 100% of mattress stores in Topeka, KS, #4 of 4 mattress stores in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

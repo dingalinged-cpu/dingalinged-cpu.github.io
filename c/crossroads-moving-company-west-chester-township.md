@@ -13,7 +13,7 @@ Crossroads Moving Company is a moving company in West Chester Township, OH. Phon
 - Website: https://crossroadsmovers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-16:00, Su 09:30-13:30
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 100% of moving companys in Cincinnati, OH, #1 of 1 moving companys in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 100% of moving companys in Cincinnati, OH, #1 of 1 moving companys in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

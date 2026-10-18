@@ -13,7 +13,7 @@ Midas is an auto repair shop in Boulder, CO. Website: https://www.midas.com/denv
 - Website: https://www.midas.com/denver/store.aspx?shopnum=5645&dmanum=256001
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 07:30-16:00
-- Pulse Score: 46.3/100 — Building — top 81% of auto repair shops in Denver, CO, #21 of 24 auto repair shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 80% of auto repair shops in Denver, CO, #21 of 24 auto repair shops in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Grand River WorkPlace is a coworking space in Detroit, MI at 19120 Grand River A
 - Website: https://www.grandriverworkplace.com/
 - Email: jeniece@grandmontrosedale.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 13% of coworking spaces in Detroit, MI, #1 of 5 coworking spaces in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 13% of coworking spaces in Detroit, MI, #1 of 5 coworking spaces in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

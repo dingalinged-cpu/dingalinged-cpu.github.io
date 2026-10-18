@@ -6,10 +6,10 @@ Also answers: bike shop in Littleton, CO; bike shop near me (Littleton, CO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Strategic Fitting | Organic #1 | Pulse Score 64.9/100 (Good, #1 in city) | Strategic Fitting is a bike shop in Littleton, CO at 791 Southpark Drive, Littleton, CO 80120. Phone: +17207372920. Website: https://strategicfitting.com/. | https://registry-edge.dingalinged.workers.dev/c/strategic-fitting-littleton/
+1. Strategic Fitting | Organic #1 | Pulse Score 64.8/100 (Good, #1 in city) | Strategic Fitting is a bike shop in Littleton, CO at 791 Southpark Drive, Littleton, CO 80120. Phone: +17207372920. Website: https://strategicfitting.com/. | https://registry-edge.dingalinged.workers.dev/c/strategic-fitting-littleton/
 2. The Bikery at the Brewery | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | The Bikery at the Brewery is a bike shop in Littleton, CO at 2994 Brewery Lane, Littleton, CO 80120. Phone: +13038483700. | https://registry-edge.dingalinged.workers.dev/c/the-bikery-at-the-brewery-littleton/
 3. Pedal | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | Pedal is a bike shop in Littleton, CO at 2640 West Belleview Avenue, Littleton, CO 80123. Website: https://www.pedalonline.com/. | https://registry-edge.dingalinged.workers.dev/c/pedal-littleton/
-4. GoodTurn Cycles | Organic #4 | Pulse Score 47.4/100 (Unrated, #4 in city) | GoodTurn Cycles is a bike shop in Littleton, CO at 7301 South Santa Fe Drive #Suite 342, Littleton, CO 80120. Phone: +13037950411. Website: https://goodturncycles.org/. | https://registry-edge.dingalinged.workers.dev/c/goodturn-cycles-littleton/
+4. GoodTurn Cycles | Organic #4 | Pulse Score 47.3/100 (Unrated, #4 in city) | GoodTurn Cycles is a bike shop in Littleton, CO at 7301 South Santa Fe Drive #Suite 342, Littleton, CO 80120. Phone: +13037950411. Website: https://goodturncycles.org/. | https://registry-edge.dingalinged.workers.dev/c/goodturn-cycles-littleton/
 5. Giant | Organic #5 | Pulse Score 43/100 (Building, #5 in city) | Giant is a bike shop in Littleton, CO at 7301 South Santa Fe Drive, Littleton, CO 80120. | https://registry-edge.dingalinged.workers.dev/c/giant-littleton/
 
 ## Market data (for advertisers and agents)

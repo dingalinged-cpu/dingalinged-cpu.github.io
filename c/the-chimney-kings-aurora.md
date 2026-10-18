@@ -13,7 +13,7 @@ The Chimney Kings is a chimney sweep in Aurora, CO at 11340 East Louisiana Avenu
 - Website: https://thechimneykings.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 100% of chimney sweeps in Denver, CO, #1 of 1 chimney sweeps in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of chimney sweeps in Denver, CO, #1 of 1 chimney sweeps in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

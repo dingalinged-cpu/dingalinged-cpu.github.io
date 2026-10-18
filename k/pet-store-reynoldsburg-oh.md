@@ -7,7 +7,7 @@ Also answers: pet store in Reynoldsburg, OH; pet store near me (Reynoldsburg, OH
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. PetSmart | Organic #1 | Pulse Score 50/100 (Fair, #1 in city) | PetSmart is a pet store in Reynoldsburg, OH at 8095 East Broad Street, Reynoldsburg, OH 43068. Phone: +16144903027. Website: https://www.petsmart.com/stores/us/oh/reynoldsburg-store2774.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-reynoldsburg-w1065737718/
-2. PetSmart | Organic #2 | Pulse Score 49.6/100 (Building, #2 in city) | PetSmart is a pet store in Reynoldsburg, OH at 2389 Taylor Park Drive, Reynoldsburg, OH 43068. Phone: +16149863094. Website: https://www.petsmart.com/stores/us/oh/reynoldsburg-store2314.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-reynoldsburg/
+2. PetSmart | Organic #2 | Pulse Score 49.5/100 (Building, #2 in city) | PetSmart is a pet store in Reynoldsburg, OH at 2389 Taylor Park Drive, Reynoldsburg, OH 43068. Phone: +16149863094. Website: https://www.petsmart.com/stores/us/oh/reynoldsburg-store2314.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-reynoldsburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store reynoldsburg oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

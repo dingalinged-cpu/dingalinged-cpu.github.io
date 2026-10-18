@@ -13,7 +13,7 @@ Planet Hyundai is an used car dealer in Golden, CO at 15601 West Colfax Avenue, 
 - Website: https://www.planethyundai.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 70% of used car dealers in Denver, CO, #3 of 4 used car dealers in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 70% of used car dealers in Denver, CO, #3 of 4 used car dealers in Golden (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

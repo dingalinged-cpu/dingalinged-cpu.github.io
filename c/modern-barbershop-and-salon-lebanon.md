@@ -13,7 +13,7 @@ Modern Barbershop and Salon is a barber shop in Lebanon, IN at 1641 North Lebano
 - Website: n/a
 - Email: Modernbarbershoplebanon@gmail.com
 - Opening hours (OSM syntax): Su CLOSED, Mo 09:00-20:00, Tu-Fr 09:00-17:30, Sa 09:00-14:00
-- Pulse Score: 61.6/100 — Good — top 50% of barber shops in Indianapolis, IN, #1 of 1 barber shops in Lebanon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 50% of barber shops in Indianapolis, IN, #1 of 1 barber shops in Lebanon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

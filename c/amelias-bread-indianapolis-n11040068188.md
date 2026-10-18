@@ -13,7 +13,7 @@ Amelia's Bread is a bakery in Indianapolis, IN at 653 Virginia Avenue, Indianapo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-20:00
-- Pulse Score: 49.9/100 — Unrated (not enough evidence yet) — top 83% of bakerys in Indianapolis, IN, #27 of 29 bakerys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Unrated (not enough evidence yet) — top 81% of bakerys in Indianapolis, IN, #26 of 29 bakerys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

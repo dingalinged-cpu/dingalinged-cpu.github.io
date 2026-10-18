@@ -13,7 +13,7 @@ Kutz Family Hair Care is a hair salon in Lawrence, KS at 2400 Franklin Road #E, 
 - Website: https://www.kutzfamilyhaircare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 49% of hair salons in Lawrence, KS, #16 of 33 hair salons in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 49% of hair salons in Lawrence, KS, #16 of 33 hair salons in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

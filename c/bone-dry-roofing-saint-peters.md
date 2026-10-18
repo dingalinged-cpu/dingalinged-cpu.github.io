@@ -13,7 +13,7 @@ Bone Dry Roofing is a roofer in Saint Peters, MO at 5895 Suemandy Drive, Saint P
 - Website: https://bonedry.com/st-louis/
 - Email: info@bonedry.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.9/100 — Fair — top 50% of roofers in St. Peters, MO, #1 of 2 roofers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.5, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Fair — top 50% of roofers in St. Peters, MO, #1 of 2 roofers in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.5, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

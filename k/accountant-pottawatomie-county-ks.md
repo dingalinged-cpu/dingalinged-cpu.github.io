@@ -6,7 +6,7 @@ Also answers: accountant in Pottawatomie County, KS; accountant near me (Pottawa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gary T. Edwards Certified Public Accountant | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Gary T. Edwards Certified Public Accountant is an accountant in Pottawatomie County, KS. | https://registry-edge.dingalinged.workers.dev/c/gary-t-edwards-certified-public-accountant-pottawatomie-county/
+1. Gary T. Edwards Certified Public Accountant | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Gary T. Edwards Certified Public Accountant is an accountant in Pottawatomie County, KS. | https://registry-edge.dingalinged.workers.dev/c/gary-t-edwards-certified-public-accountant-pottawatomie-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant pottawatomie county ks | category: professional_accounting | industry benchmark: Business Services

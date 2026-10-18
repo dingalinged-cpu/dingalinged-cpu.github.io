@@ -13,7 +13,7 @@ CarMax is an used car dealer in Wichita, KS. Website: https://www.carmax.com/sto
 - Website: https://www.carmax.com/stores/7267
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Building — top 89% of used car dealers in Wichita, KS, #4 of 5 used car dealers in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 89% of used car dealers in Wichita, KS, #4 of 5 used car dealers in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

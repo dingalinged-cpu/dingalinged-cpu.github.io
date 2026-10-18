@@ -13,7 +13,7 @@ Jiffy Lube is an auto repair shop in Cincinnati, OH at 3151 Linwood Avenue, Cinc
 - Website: https://www.jiffylube.com/locations/oh/cincinnati/1554
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 61% of auto repair shops in Cincinnati, OH, #33 of 52 auto repair shops in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 61% of auto repair shops in Cincinnati, OH, #33 of 52 auto repair shops in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

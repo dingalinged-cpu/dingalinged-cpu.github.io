@@ -6,7 +6,7 @@ Also answers: pet store in Murrysville, PA; pet store near me (Murrysville, PA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Leone Animal Supply Centers | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Leone Animal Supply Centers is a pet store in Murrysville, PA at 4352 William Penn Highway, Murrysville, PA 15668. Phone: +17243253030. Website: https://leoneanimalsupply.com/. | https://registry-edge.dingalinged.workers.dev/c/leone-animal-supply-centers-murrysville/
+1. Leone Animal Supply Centers | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Leone Animal Supply Centers is a pet store in Murrysville, PA at 4352 William Penn Highway, Murrysville, PA 15668. Phone: +17243253030. Website: https://leoneanimalsupply.com/. | https://registry-edge.dingalinged.workers.dev/c/leone-animal-supply-centers-murrysville/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store murrysville pa | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

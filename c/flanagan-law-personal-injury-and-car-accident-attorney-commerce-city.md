@@ -13,7 +13,7 @@ Flanagan Law - Personal Injury and Car Accident Attorney is a lawyer in Commerce
 - Website: https://flanagan.law/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 18% of lawyers in Denver, CO, #1 of 1 lawyers in Commerce City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 20% of lawyers in Denver, CO, #1 of 1 lawyers in Commerce City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

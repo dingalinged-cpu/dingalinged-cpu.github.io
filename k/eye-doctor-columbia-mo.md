@@ -6,8 +6,8 @@ Also answers: eye doctor in Columbia, MO; eye doctor near me (Columbia, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barrett Leann W OD | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Barrett Leann W OD is an eye care practice in Columbia, MO at 2101 West Broadway, Columbia, MO 65203. Phone: +15734458636. | https://registry-edge.dingalinged.workers.dev/c/barrett-leann-w-od-columbia/
-2. Eyes on Missouri | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Eyes on Missouri is an eye care practice in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/eyes-on-missouri-columbia/
+1. Barrett Leann W OD | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Barrett Leann W OD is an eye care practice in Columbia, MO at 2101 West Broadway, Columbia, MO 65203. Phone: +15734458636. | https://registry-edge.dingalinged.workers.dev/c/barrett-leann-w-od-columbia/
+2. Eyes on Missouri | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Eyes on Missouri is an eye care practice in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/eyes-on-missouri-columbia/
 3. Clarkson Eyecare | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | Clarkson Eyecare is an eye care practice in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/clarkson-eyecare-columbia-n10035430263/
 4. Clarkson Eyecare | Organic #4 | Pulse Score 42.9/100 (Building, #4 in city) | Clarkson Eyecare is an eye care practice in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/clarkson-eyecare-columbia-n14240452831/
 

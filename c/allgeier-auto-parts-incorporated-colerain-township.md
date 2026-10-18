@@ -13,7 +13,7 @@ Allgeier Auto Parts Incorporated is an used car dealer in Colerain Township, OH.
 - Website: https://www.allgeierautoparts.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 42% of used car dealers in Cincinnati, OH, #1 of 4 used car dealers in Colerain Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 42% of used car dealers in Cincinnati, OH, #1 of 4 used car dealers in Colerain Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,9 +6,9 @@ Also answers: staffing agency in Lancaster, OH; staffing agency near me (Lancast
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Acloché | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Acloché is a staffing agency in Lancaster, OH at 1109 North Memorial Drive, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/acloch-lancaster/
-2. Snider Temps | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Snider Temps is a staffing agency in Lancaster, OH at 612 Forest Rose East, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/snider-temps-lancaster/
-3. Functional Training Services | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Functional Training Services is a staffing agency in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/functional-training-services-lancaster/
+1. Acloché | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Acloché is a staffing agency in Lancaster, OH at 1109 North Memorial Drive, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/acloch-lancaster/
+2. Snider Temps | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Snider Temps is a staffing agency in Lancaster, OH at 612 Forest Rose East, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/snider-temps-lancaster/
+3. Functional Training Services | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Functional Training Services is a staffing agency in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/functional-training-services-lancaster/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency lancaster oh | category: b2b_services | industry benchmark: Business Services

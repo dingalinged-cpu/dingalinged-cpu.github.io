@@ -13,7 +13,7 @@ Stella Nails & Spa is a nail salon in Wichita, KS at 3204 North Maize Road #108,
 - Website: n/a
 - Email: stellanailsandspaks@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 09:30-19:00, Su 12:00-17:00
-- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 7% of nail salons in Wichita, KS, #1 of 9 nail salons in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 7% of nail salons in Wichita, KS, #1 of 9 nail salons in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

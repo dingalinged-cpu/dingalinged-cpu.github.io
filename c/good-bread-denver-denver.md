@@ -13,7 +13,7 @@ Good Bread Denver is a bakery in Denver, CO at 1515 Madison Street, Denver, CO 8
 - Website: https://www.goodbreaddenver.com/
 - Email: n/a
 - Opening hours (OSM syntax): Th-Su 8:00-12:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 14% of bakerys in Denver, CO, #7 of 39 bakerys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 14% of bakerys in Denver, CO, #6 of 39 bakerys in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: martial arts in Shiloh, IL; martial arts near me (Shiloh, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 9Round | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | 9Round is a martial arts school in Shiloh, IL. | https://registry-edge.dingalinged.workers.dev/c/9round-shiloh/
+1. 9Round | Organic #1 | Pulse Score 43.2/100 (Building, #1 in city) | 9Round is a martial arts school in Shiloh, IL. | https://registry-edge.dingalinged.workers.dev/c/9round-shiloh/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts shiloh il | category: Fitness | industry benchmark: Health & Fitness

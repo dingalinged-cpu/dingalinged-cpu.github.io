@@ -13,7 +13,7 @@ Ace Auto Wash is a car wash in Utica, MI at 11011 Hall Road, Utica, MI 48317. We
 - Website: https://www.aceautowash.com/ace-auto-wash-utica/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 51.2/100 — Unrated (not enough evidence yet) — top 82% of car washes in Detroit, MI, #4 of 4 car washes in Utica (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.8, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.2/100 — Unrated (not enough evidence yet) — top 81% of car washes in Detroit, MI, #4 of 4 car washes in Utica (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.8, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

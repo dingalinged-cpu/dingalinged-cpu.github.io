@@ -13,7 +13,7 @@ Planned Parenthood is a therapy practice in Boulder, CO. Phone: +13034471040. We
 - Website: https://www.plannedparenthood.org/health-center/colorado/boulder/80302/boulder-2488-90210
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-19:00; Th,Fr 09:00-18:00; Sa 08:00-14:00
-- Pulse Score: 46.7/100 — Unrated (not enough evidence yet) — top 92% of therapy practices in Denver, CO, #6 of 6 therapy practices in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Unrated (not enough evidence yet) — top 92% of therapy practices in Denver, CO, #6 of 6 therapy practices in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

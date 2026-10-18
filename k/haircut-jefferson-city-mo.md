@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Hair Plaza | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Hair Plaza is a hair salon in Jefferson City, MO. Phone: +15737619951. Website: https://www.hairplazajc.com/. | https://registry-edge.dingalinged.workers.dev/c/hair-plaza-jefferson-city/
 2. HAUTE SALON JEFFERSON CITY | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | HAUTE SALON JEFFERSON CITY is a hair salon in Jefferson City, MO. Phone: +15736347476. Website: https://www.hautesalonjc.com/. | https://registry-edge.dingalinged.workers.dev/c/haute-salon-jefferson-city-jefferson-city/
-3. Studio 1 Salon | Organic #3 | Pulse Score 59.7/100 (Unrated, #3 in city) | Studio 1 Salon is a hair salon in Jefferson City, MO at 801 West High Street, Jefferson City, MO 65101. Phone: +15736342127. | https://registry-edge.dingalinged.workers.dev/c/studio-1-salon-jefferson-city/
-4. Shiloh Hair and Beauty | Organic #4 | Pulse Score 58.1/100 (Unrated, #4 in city) | Shiloh Hair and Beauty is a hair salon in Jefferson City, MO at 700 West High Street, Jefferson City, MO 65101. Phone: +15736161154. | https://registry-edge.dingalinged.workers.dev/c/shiloh-hair-and-beauty-jefferson-city/
+3. Studio 1 Salon | Organic #3 | Pulse Score 59.6/100 (Unrated, #3 in city) | Studio 1 Salon is a hair salon in Jefferson City, MO at 801 West High Street, Jefferson City, MO 65101. Phone: +15736342127. | https://registry-edge.dingalinged.workers.dev/c/studio-1-salon-jefferson-city/
+4. Shiloh Hair and Beauty | Organic #4 | Pulse Score 58/100 (Unrated, #4 in city) | Shiloh Hair and Beauty is a hair salon in Jefferson City, MO at 700 West High Street, Jefferson City, MO 65101. Phone: +15736161154. | https://registry-edge.dingalinged.workers.dev/c/shiloh-hair-and-beauty-jefferson-city/
 5. Great Clips | Organic #5 | Pulse Score 42.1/100 (Building, #5 in city) | Great Clips is a hair salon in Jefferson City, MO. | https://registry-edge.dingalinged.workers.dev/c/great-clips-jefferson-city/
 
 ## Market data (for advertisers and agents)

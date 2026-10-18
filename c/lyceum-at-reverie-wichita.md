@@ -13,7 +13,7 @@ Lyceum at Reverie is an event venue in Wichita, KS at 2206 East Douglas Avenue, 
 - Website: https://www.facebook.com/lyceumevents/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.1/100 — Good — top 13% of event venues in Wichita, KS, #1 of 7 event venues in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 13% of event venues in Wichita, KS, #1 of 7 event venues in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

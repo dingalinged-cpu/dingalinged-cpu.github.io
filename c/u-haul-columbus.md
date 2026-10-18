@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Columbus, OH at 2189 Eakin Road, Columbus, 
 - Website: https://www.uhaul.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00, Fr 07:00-20:00, Sa 07:00-19:00, Su 09:00-17:00
-- Pulse Score: 48.7/100 — Building — top 54% of self-storage facilitys in Columbus, OH, #9 of 23 self-storage facilitys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 54% of self-storage facilitys in Columbus, OH, #9 of 23 self-storage facilitys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

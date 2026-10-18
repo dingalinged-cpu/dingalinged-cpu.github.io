@@ -13,7 +13,7 @@ Habegger HVAC Solutions is a HVAC contractor in Fairfax, OH at 5574 Wooster Pike
 - Website: https://www.habeggercorp.com/regions/southwest_ohio
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 26% of HVAC contractors in Cincinnati, OH, #1 of 3 HVAC contractors in Fairfax (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 26% of HVAC contractors in Cincinnati, OH, #1 of 3 HVAC contractors in Fairfax (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

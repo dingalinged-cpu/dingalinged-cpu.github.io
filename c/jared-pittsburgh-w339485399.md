@@ -13,7 +13,7 @@ Jared is a jewelry store in Pittsburgh, PA at 7381 McKnight Road, Pittsburgh, PA
 - Website: https://stores.jared.com/pa/pittsburgh/419
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 12:00-18:00
-- Pulse Score: 50.2/100 — Fair — top 77% of jewelry stores in Pittsburgh, PA, #17 of 21 jewelry stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 77% of jewelry stores in Pittsburgh, PA, #17 of 21 jewelry stores in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

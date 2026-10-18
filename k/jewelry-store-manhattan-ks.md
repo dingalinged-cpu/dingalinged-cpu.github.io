@@ -6,16 +6,16 @@ Also answers: jewelry store in Manhattan, KS; jewelry store near me (Manhattan, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. G. Thomas Jewelers | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | G. Thomas Jewelers is a jewelry store in Manhattan, KS at 419 Poyntz Avenue, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/g-thomas-jewelers-manhattan/
-2. Reed & Elliott Jewelers | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Reed & Elliott Jewelers is a jewelry store in Manhattan, KS at 402 Poyntz Avenue, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/reed-and-elliott-jewelers-manhattan/
-3. Danenberg Jewelers | Organic #3 | Pulse Score 58.2/100 (Unrated, #3 in city) | Danenberg Jewelers is a jewelry store in Manhattan, KS at 425 Poyntz Avenue, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/danenberg-jewelers-manhattan/
-4. Pfeifley Jewelers | Organic #4 | Pulse Score 58.2/100 (Unrated, #4 in city) | Pfeifley Jewelers is a jewelry store in Manhattan, KS at 325 Southwind Place, Manhattan, KS 66503. | https://registry-edge.dingalinged.workers.dev/c/pfeifley-jewelers-manhattan/
-5. Showcase Jewelers | Organic #5 | Pulse Score 58.2/100 (Unrated, #5 in city) | Showcase Jewelers is a jewelry store in Manhattan, KS at 501-C North 3rd Place, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/showcase-jewelers-manhattan/
-6. Harris Jewelry | Organic #6 | Pulse Score 56/100 (Unrated, #6 in city) | Harris Jewelry is a jewelry store in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/harris-jewelry-manhattan/
+1. G. Thomas Jewelers | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | G. Thomas Jewelers is a jewelry store in Manhattan, KS at 419 Poyntz Avenue, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/g-thomas-jewelers-manhattan/
+2. Reed & Elliott Jewelers | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | Reed & Elliott Jewelers is a jewelry store in Manhattan, KS at 402 Poyntz Avenue, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/reed-and-elliott-jewelers-manhattan/
+3. Danenberg Jewelers | Organic #3 | Pulse Score 58.1/100 (Unrated, #3 in city) | Danenberg Jewelers is a jewelry store in Manhattan, KS at 425 Poyntz Avenue, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/danenberg-jewelers-manhattan/
+4. Pfeifley Jewelers | Organic #4 | Pulse Score 58.1/100 (Unrated, #4 in city) | Pfeifley Jewelers is a jewelry store in Manhattan, KS at 325 Southwind Place, Manhattan, KS 66503. | https://registry-edge.dingalinged.workers.dev/c/pfeifley-jewelers-manhattan/
+5. Showcase Jewelers | Organic #5 | Pulse Score 58.1/100 (Unrated, #5 in city) | Showcase Jewelers is a jewelry store in Manhattan, KS at 501-C North 3rd Place, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/showcase-jewelers-manhattan/
+6. Harris Jewelry | Organic #6 | Pulse Score 55.9/100 (Unrated, #6 in city) | Harris Jewelry is a jewelry store in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/harris-jewelry-manhattan/
 7. Riddle's Jewelry | Organic #7 | Pulse Score 55.1/100 (Unrated, #7 in city) | Riddle's Jewelry is a jewelry store in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/riddles-jewelry-manhattan/
-8. Zales | Organic #8 | Pulse Score 43.8/100 (Building, #8 in city) | Zales is a jewelry store in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/zales-manhattan/
-9. Kay Jewelers | Organic #9 | Pulse Score 43.5/100 (Building, #9 in city) | Kay Jewelers is a jewelry store in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-manhattan/
-10. Banter by Piercing Pagoda | Organic #10 | Pulse Score 43.2/100 (Building, #10 in city) | Banter by Piercing Pagoda is a jewelry store in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/banter-by-piercing-pagoda-manhattan/
+8. Zales | Organic #8 | Pulse Score 43.7/100 (Building, #8 in city) | Zales is a jewelry store in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/zales-manhattan/
+9. Kay Jewelers | Organic #9 | Pulse Score 43.4/100 (Building, #9 in city) | Kay Jewelers is a jewelry store in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-manhattan/
+10. Banter by Piercing Pagoda | Organic #10 | Pulse Score 43.1/100 (Building, #10 in city) | Banter by Piercing Pagoda is a jewelry store in Manhattan, KS. | https://registry-edge.dingalinged.workers.dev/c/banter-by-piercing-pagoda-manhattan/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store manhattan ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in O’Fallon, MO at 2111 Highway K, O’Fallo
 - Website: https://www.mattressfirm.com/stores/mo/ofallon/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 50/100 — Fair — top 75% of mattress stores in O'Fallon, MO, #3 of 4 mattress stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 75% of mattress stores in O'Fallon, MO, #3 of 4 mattress stores in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

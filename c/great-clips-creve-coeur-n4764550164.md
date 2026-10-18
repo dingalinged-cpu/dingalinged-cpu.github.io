@@ -13,7 +13,7 @@ Great Clips is a hair salon in Creve Coeur, MO at 12536 Olive Boulevard #C, Crev
 - Website: https://www.greatclips.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.9/100 — Building — top 80% of hair salons in St. Louis, MO, #6 of 9 hair salons in Creve Coeur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 80% of hair salons in St. Louis, MO, #6 of 9 hair salons in Creve Coeur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

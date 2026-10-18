@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Creve Coeur, MO at 711 North New Ballas R
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.8/100 — Building — top 33% of financial advisors in St. Louis, MO, #2 of 4 financial advisors in Creve Coeur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Building — top 33% of financial advisors in St. Louis, MO, #2 of 4 financial advisors in Creve Coeur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: financial advisor in Littleton, CO; financial advisor near me (Lit
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lendmark | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Lendmark is a financial advisor in Littleton, CO at 8500 West Crestline Avenue, Littleton, CO 80123. | https://registry-edge.dingalinged.workers.dev/c/lendmark-littleton/
+1. Lendmark | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Lendmark is a financial advisor in Littleton, CO at 8500 West Crestline Avenue, Littleton, CO 80123. | https://registry-edge.dingalinged.workers.dev/c/lendmark-littleton/
 2. Edward Jones | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Edward Jones is a financial advisor in Littleton, CO. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-littleton/
 
 ## Market data (for advertisers and agents)

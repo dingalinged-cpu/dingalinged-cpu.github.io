@@ -13,7 +13,7 @@ Howe Fit is a gym in Town of Essex, MI at 42 Centre Street West, Town of Essex, 
 - Website: https://howefit.ca/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 19% of gyms in Detroit, MI, #3 of 3 gyms in Town of Essex (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 19% of gyms in Detroit, MI, #3 of 3 gyms in Town of Essex (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

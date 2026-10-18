@@ -13,7 +13,7 @@ Professional Tailor and Alterations is a tailor in Indianapolis, IN at 1906 Broa
 - Website: https://professional-alterations.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:00; Sa 09:00-17:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 25% of tailors in Indianapolis, IN, #2 of 4 tailors in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 25% of tailors in Indianapolis, IN, #2 of 4 tailors in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ It's a Ruff Life is a dog groomer in Kingsville, MI at 100 Talbot Street West, K
 - Website: https://www.facebook.com/itsarufflifesalon/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Fr 09:00-17:00; Tu-Th,Sa 09:00-16:00
-- Pulse Score: 59.8/100 — Fair — top 18% of dog groomers in Detroit, MI, #1 of 2 dog groomers in Kingsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Fair — top 32% of dog groomers in Detroit, MI, #1 of 2 dog groomers in Kingsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

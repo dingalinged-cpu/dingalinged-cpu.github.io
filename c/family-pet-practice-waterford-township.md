@@ -13,7 +13,7 @@ Family Pet Practice is a veterinarian in Waterford Township, MI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-17:00; Tu,Th 09:00-19:00; Sa 08:00-14:00
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 48% of veterinarians in Detroit, MI, #2 of 3 veterinarians in Waterford Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 46% of veterinarians in Detroit, MI, #2 of 3 veterinarians in Waterford Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

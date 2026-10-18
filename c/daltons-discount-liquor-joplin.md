@@ -13,7 +13,7 @@ Dalton's Discount LIquor is a liquor store in Joplin, MO at 3348 Hearnes Blvd, J
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-22:00, Su 08:30-21:00
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 50% of liquor stores in Joplin, MO, #3 of 3 liquor stores in Joplin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of liquor stores in Joplin, MO, #3 of 3 liquor stores in Joplin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

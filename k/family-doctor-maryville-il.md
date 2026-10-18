@@ -6,7 +6,7 @@ Also answers: family doctor in Maryville, IL; family doctor near me (Maryville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HSHS Medical Group Family & Internal Medicine (Maryville) | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | HSHS Medical Group Family & Internal Medicine (Maryville) is a family medicine practice in Maryville, IL at 2401 S Center Street, Maryville, IL 62062. Phone: +16183443046. | https://registry-edge.dingalinged.workers.dev/c/hshs-medical-group-family-and-internal-medicine-maryville-maryville/
+1. HSHS Medical Group Family & Internal Medicine (Maryville) | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | HSHS Medical Group Family & Internal Medicine (Maryville) is a family medicine practice in Maryville, IL at 2401 S Center Street, Maryville, IL 62062. Phone: +16183443046. | https://registry-edge.dingalinged.workers.dev/c/hshs-medical-group-family-and-internal-medicine-maryville-maryville/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor maryville il | category: Health & medical | industry benchmark: Physicians & Surgeons

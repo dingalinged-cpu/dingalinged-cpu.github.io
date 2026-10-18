@@ -6,8 +6,8 @@ Also answers: martial arts in Springfield, MO; martial arts near me (Springfield
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. K5 Academy of Martial Arts | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | K5 Academy of Martial Arts is a martial arts school in Springfield, MO at 1712 East Sunshine Street, Springfield, MO 65804. | https://registry-edge.dingalinged.workers.dev/c/k5-academy-of-martial-arts-springfield/
-2. Aaction Martial Arts | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Aaction Martial Arts is a martial arts school in Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/aaction-martial-arts-springfield/
+1. K5 Academy of Martial Arts | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | K5 Academy of Martial Arts is a martial arts school in Springfield, MO at 1712 East Sunshine Street, Springfield, MO 65804. | https://registry-edge.dingalinged.workers.dev/c/k5-academy-of-martial-arts-springfield/
+2. Aaction Martial Arts | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Aaction Martial Arts is a martial arts school in Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/aaction-martial-arts-springfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts springfield mo | category: Fitness | industry benchmark: Health & Fitness

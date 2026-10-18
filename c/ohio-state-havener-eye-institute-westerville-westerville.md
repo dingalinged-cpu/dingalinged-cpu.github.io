@@ -13,7 +13,7 @@ Ohio State Havener Eye Institute Westerville is an eye care practice in Westervi
 - Website: https://wexnermedical.osu.edu/locations/havener-eye-institute-westerville
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 20% of eye care practices in Columbus, OH, #2 of 5 eye care practices in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 20% of eye care practices in Columbus, OH, #2 of 5 eye care practices in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

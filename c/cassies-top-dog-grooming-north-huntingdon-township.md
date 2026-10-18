@@ -13,7 +13,7 @@ Cassie's Top Dog Grooming is a dog groomer in North Huntingdon Township, PA at 7
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 40% of dog groomers in Pittsburgh, PA, #1 of 1 dog groomers in North Huntingdon Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 40% of dog groomers in Pittsburgh, PA, #1 of 1 dog groomers in North Huntingdon Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

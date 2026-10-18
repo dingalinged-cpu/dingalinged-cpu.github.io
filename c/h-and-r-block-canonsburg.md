@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Canonsburg, PA at 20 East Pike Street,
 - Website: https://www.hrblock.com/tax-office-near-me/pennsylvania/canonsburg/19863/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49/100 — Building — top 34% of tax preparation services in Pittsburgh, PA, #2 of 2 tax preparation services in Canonsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 34% of tax preparation services in Pittsburgh, PA, #2 of 2 tax preparation services in Canonsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

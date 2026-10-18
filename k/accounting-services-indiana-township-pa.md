@@ -6,7 +6,7 @@ Also answers: accounting services in Indiana Township, PA; accounting services n
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Burns, Sweeney & Associates | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Burns, Sweeney & Associates is an accountant in Indiana Township, PA at 3390 Saxonburg Boulevard #300, Indiana Township, PA 15116. | https://registry-edge.dingalinged.workers.dev/c/burns-sweeney-and-associates-indiana-township/
+1. Burns, Sweeney & Associates | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Burns, Sweeney & Associates is an accountant in Indiana Township, PA at 3390 Saxonburg Boulevard #300, Indiana Township, PA 15116. | https://registry-edge.dingalinged.workers.dev/c/burns-sweeney-and-associates-indiana-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services indiana township pa | category: professional_accounting | industry benchmark: Business Services

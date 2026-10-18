@@ -13,7 +13,7 @@ Hidden Treasures is a thrift store in Monongahela, PA. Website: https://citymiss
 - Website: https://citymission.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 22% of thrift stores in Pittsburgh, PA, #1 of 3 thrift stores in Monongahela (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 22% of thrift stores in Pittsburgh, PA, #1 of 3 thrift stores in Monongahela (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

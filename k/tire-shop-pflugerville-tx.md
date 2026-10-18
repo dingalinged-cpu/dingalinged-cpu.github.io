@@ -1,0 +1,29 @@
+The top unpaid tire shop listing for Pflugerville, TX is Kwik Kar of Pflugerville (an auto repair shop in Pflugerville, TX at 1705 West Pecan Street, Pflugerville, TX. Phone: +15122518111. Website: https://www.kwikkarpflugerville.com/). 6 tire shop businesses are listed for Pflugerville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best tire shop providers in Pflugerville, TX?
+
+Also answers: tire shop in Pflugerville, TX; tire shop near me (Pflugerville, TX); best tire shop Pflugerville, TX; top rated tire shop Pflugerville, TX; affordable tire shop Pflugerville, TX; emergency tire shop Pflugerville, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Kwik Kar of Pflugerville | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Kwik Kar of Pflugerville is an auto repair shop in Pflugerville, TX at 1705 West Pecan Street, Pflugerville, TX. Phone: +15122518111. Website: https://www.kwikkarpflugerville.com/. | https://registry-edge.dingalinged.workers.dev/c/kwik-kar-of-pflugerville-pflugerville/
+2. Lamb's Tire & Automotive | Organic #2 | Pulse Score 50.1/100 (Unrated, #1 in city) | Lamb's Tire & Automotive is a tire shop in Pflugerville, TX at 15800 Foothill Farms Loop, Pflugerville, TX 78660. Phone: +15126702244. | https://registry-edge.dingalinged.workers.dev/c/lambs-tire-and-automotive-pflugerville/
+3. Firestone Complete Auto Care | Organic #3 | Pulse Score 49.3/100 (Building, #6 in city) | Firestone Complete Auto Care is an auto repair shop in Pflugerville, TX at 15101 North Interstate 35, Pflugerville, TX 78660. Phone: +15127774238. Website: https://www.firestonecompleteautocare.com/. | https://registry-edge.dingalinged.workers.dev/c/firestone-complete-auto-care-pflugerville-w383180696/
+4. Express Oil Change & Tire Engineers | Organic #4 | Pulse Score 48.7/100 (Building, #2 in city) | Express Oil Change & Tire Engineers is a tire shop in Pflugerville, TX at 1325 FM 685, Pflugerville, TX 78641. Phone: +15124325798. Website: https://www.expressoil.com/stores/pflugerville/tx/1001/. | https://registry-edge.dingalinged.workers.dev/c/express-oil-change-and-tire-engineers-pflugerville/
+5. Southern Tire Mart | Organic #5 | Pulse Score 47.9/100 (Unrated, #3 in city) | Southern Tire Mart is a tire shop in Pflugerville, TX at 2939 West Pecan Street, Pflugerville, TX 78660. Phone: +15122517551. | https://registry-edge.dingalinged.workers.dev/c/southern-tire-mart-pflugerville/
+6. Discount Tire | Organic #6 | Pulse Score 45.1/100 (Building, #4 in city) | Discount Tire is a tire shop in Pflugerville, TX at 1601 FM 685, Pflugerville, TX 78660. Phone: +15125413821. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-pflugerville/
+
+## Market data (for advertisers and agents)
+- Keyword: tire shop pflugerville tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
+- US monthly searches: 550,000/mo (cited; Semrush US Sep 2026 (via research source); as of 2026-09; phrase 'tire shop near me')
+- Local monthly searches (Austin-Round Rock-San Marcos, TX metro): ~4,200 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 6
+- Equivalent Google Ads cost per month: ~$1,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/tire-shop.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#tire-shop-pflugerville-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

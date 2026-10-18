@@ -13,7 +13,7 @@ Country Financial is an insurance agent in Bethalto, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.2/100 — Unrated (not enough evidence yet) — top 100% of insurance agents in St. Louis, MO, #7 of 7 insurance agents in Bethalto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.2/100 — Unrated (not enough evidence yet) — top 100% of insurance agents in St. Louis, MO, #7 of 7 insurance agents in Bethalto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

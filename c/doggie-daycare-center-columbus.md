@@ -13,7 +13,7 @@ Doggie Daycare Center is a dog boarding facility in Columbus, OH at 401 East Mou
 - Website: https://www.doggiedaycarecolumbus.com/
 - Email: dave@doggiedaycarecolumbus.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 15% of dog boarding facilitys in Columbus, OH, #1 of 3 dog boarding facilitys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 15% of dog boarding facilitys in Columbus, OH, #1 of 3 dog boarding facilitys in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

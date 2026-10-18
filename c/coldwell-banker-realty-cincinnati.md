@@ -13,7 +13,7 @@ Coldwell Banker Realty is a real estate agency in Cincinnati, OH at 2721 Erie Av
 - Website: https://www.coldwellbankerhomes.com/oh/cincinnati/office/hyde-park/oid_3001/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Building — top 68% of real estate agencys in Cincinnati, OH, #16 of 18 real estate agencys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 68% of real estate agencys in Cincinnati, OH, #16 of 18 real estate agencys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

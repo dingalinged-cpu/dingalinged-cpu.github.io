@@ -6,7 +6,7 @@ Also answers: locksmith in Saint Louis County, MO; locksmith near me (Saint Loui
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beishir Lock & Security | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Beishir Lock & Security is a locksmith in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/beishir-lock-and-security-saint-louis-county/
+1. Beishir Lock & Security | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Beishir Lock & Security is a locksmith in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/beishir-lock-and-security-saint-louis-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith saint louis county mo | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

@@ -6,7 +6,7 @@ Also answers: therapist in Fraser, MI; therapist near me (Fraser, MI); best ther
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Higi | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Higi is a therapy practice in Fraser, MI at 34835 Utica Road, Fraser, MI 48026. Website: https://www.higi.com/. | https://registry-edge.dingalinged.workers.dev/c/higi-fraser/
+1. Higi | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Higi is a therapy practice in Fraser, MI at 34835 Utica Road, Fraser, MI 48026. Website: https://www.higi.com/. | https://registry-edge.dingalinged.workers.dev/c/higi-fraser/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist fraser mi | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

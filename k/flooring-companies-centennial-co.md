@@ -6,9 +6,9 @@ Also answers: flooring companies in Centennial, CO; flooring companies near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Axis Solutions | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Axis Solutions is a flooring company in Centennial, CO at 14884 East Hinsdale Avenue #100, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/axis-solutions-centennial/
-2. Floor & More | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Floor & More is a flooring company in Centennial, CO at 16728 East Smoky Hill Road #10A, Centennial, CO 80015. | https://registry-edge.dingalinged.workers.dev/c/floor-and-more-centennial/
-3. Floor Coverings International | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Floor Coverings International is a flooring company in Centennial, CO at 6770 South Dawson Circle #100, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/floor-coverings-international-centennial/
+1. Axis Solutions | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Axis Solutions is a flooring company in Centennial, CO at 14884 East Hinsdale Avenue #100, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/axis-solutions-centennial/
+2. Floor & More | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Floor & More is a flooring company in Centennial, CO at 16728 East Smoky Hill Road #10A, Centennial, CO 80015. | https://registry-edge.dingalinged.workers.dev/c/floor-and-more-centennial/
+3. Floor Coverings International | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Floor Coverings International is a flooring company in Centennial, CO at 6770 South Dawson Circle #100, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/floor-coverings-international-centennial/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies centennial co | category: Home services - Flooring | industry benchmark: Home & Home Improvement

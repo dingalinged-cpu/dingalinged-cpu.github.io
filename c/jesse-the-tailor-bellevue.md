@@ -13,7 +13,7 @@ Jesse the Tailor is a tailor in Bellevue, PA at 6 Hawley Avenue, Bellevue, PA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-14:00
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 50% of tailors in Pittsburgh, PA, #1 of 1 tailors in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 58% of tailors in Pittsburgh, PA, #1 of 1 tailors in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

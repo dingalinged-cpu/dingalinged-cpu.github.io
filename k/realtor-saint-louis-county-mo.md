@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Hardesty Homes | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Hardesty Homes is a real estate agency in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/hardesty-homes-saint-louis-county/
 2. Real Estate Office | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Real Estate Office is a real estate agency in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/real-estate-office-saint-louis-county/
 3. Coldwell Banker | Organic #3 | Pulse Score 42.5/100 (Building, #3 in city) | Coldwell Banker is a real estate agency in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/coldwell-banker-saint-louis-county/
-4. Century 21 | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | Century 21 is a real estate agency in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/century-21-saint-louis-county/
+4. Century 21 | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | Century 21 is a real estate agency in Saint Louis County, MO. | https://registry-edge.dingalinged.workers.dev/c/century-21-saint-louis-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor saint louis county mo | category: real_estate | industry benchmark: Real Estate

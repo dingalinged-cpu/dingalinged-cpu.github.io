@@ -7,8 +7,8 @@ Also answers: funeral home in Columbia, MO; funeral home near me (Columbia, MO);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Memorial Funeral Home, Crematory & Memorial Park Cemetery | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Memorial Funeral Home, Crematory & Memorial Park Cemetery is a funeral home in Columbia, MO at 1217 Business Loop 70 West, Columbia, MO 65202. Phone: +15734433173. | https://registry-edge.dingalinged.workers.dev/c/memorial-funeral-home-crematory-and-memorial-park-cemetery-columbia/
-2. Millard Family Funeral Service | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Millard Family Funeral Service is a funeral home in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/millard-family-funeral-service-columbia/
-3. Nilson-Millard Cremation and Burial Center | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Nilson-Millard Cremation and Burial Center is a funeral home in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/nilson-millard-cremation-and-burial-center-columbia/
+2. Millard Family Funeral Service | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Millard Family Funeral Service is a funeral home in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/millard-family-funeral-service-columbia/
+3. Nilson-Millard Cremation and Burial Center | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Nilson-Millard Cremation and Burial Center is a funeral home in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/nilson-millard-cremation-and-burial-center-columbia/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home columbia mo | category: Professional & financial services | industry benchmark: Finance & Insurance

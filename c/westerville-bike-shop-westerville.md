@@ -13,7 +13,7 @@ Westerville Bike Shop is a bike shop in Westerville, OH at 29 Main Street, Weste
 - Website: https://westervillebikeshop.com/
 - Email: penny@westervillebikeshop.com
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 11:00-17:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 10% of bike shops in Columbus, OH, #1 of 2 bike shops in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 10% of bike shops in Columbus, OH, #1 of 2 bike shops in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

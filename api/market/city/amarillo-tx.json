@@ -1,0 +1,198 @@
+{
+ "title": "Keyword market data: Amarillo, TX",
+ "description": "Top Amarillo, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Amarillo, TX",
+ "geography": null,
+ "keywords": 109,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "hvac repair amarillo tx",
+    "slug": "hvac-repair-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-amarillo-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 17.76,
+    "cpc_median_usd": 9.68,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 11,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "plumbing services amarillo tx",
+    "slug": "plumbing-services-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-amarillo-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 13.9,
+    "cpc_median_usd": 10.49,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 12,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "painters amarillo tx",
+    "slug": "painters-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/painters-amarillo-tx/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 13.74,
+    "cpc_median_usd": 13.74,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "moving company amarillo tx",
+    "slug": "moving-company-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-amarillo-tx/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.41,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 5,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "electrician amarillo tx",
+    "slug": "electrician-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-amarillo-tx/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.18,
+    "cpc_median_usd": 12.18,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 5,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "plumber amarillo tx",
+    "slug": "plumber-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-amarillo-tx/",
+    "us_monthly_searches": 823000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 12.04,
+    "cpc_median_usd": 10.49,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 12,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofing contractor amarillo tx",
+    "slug": "roofing-contractor-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-amarillo-tx/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 8,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofer amarillo tx",
+    "slug": "roofer-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-amarillo-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 8,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "attorney amarillo tx",
+    "slug": "attorney-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-amarillo-tx/",
+    "us_monthly_searches": 74000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 31,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "lawyer amarillo tx",
+    "slug": "lawyer-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-amarillo-tx/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 9.87,
+    "cpc_median_usd": 9.87,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 31,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "landscaping amarillo tx",
+    "slug": "landscaping-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-amarillo-tx/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "window repair amarillo tx",
+    "slug": "window-repair-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-repair-amarillo-tx/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "window replacement amarillo tx",
+    "slug": "window-replacement-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-replacement-amarillo-tx/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 4,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "architect amarillo tx",
+    "slug": "architect-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-amarillo-tx/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 6,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "chimney sweep amarillo tx",
+    "slug": "chimney-sweep-amarillo-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chimney-sweep-amarillo-tx/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

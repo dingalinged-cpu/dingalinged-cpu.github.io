@@ -13,7 +13,7 @@ Blue Beacon is a car wash in Pontoon Beach, IL. Website: https://bluebeacon.com/
 - Website: https://bluebeacon.com/locations/listing/pontoon-beach-il
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 63% of car washes in St. Louis, MO, #2 of 2 car washes in Pontoon Beach (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 61% of car washes in St. Louis, MO, #2 of 2 car washes in Pontoon Beach (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

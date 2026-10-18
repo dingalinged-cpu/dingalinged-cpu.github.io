@@ -6,7 +6,7 @@ Also answers: dentist in Bellevue, KY; dentist near me (Bellevue, KY); best dent
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bellevue Family Dentistry | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Bellevue Family Dentistry is a dentist in Bellevue, KY. Phone: +18592917621. | https://registry-edge.dingalinged.workers.dev/c/bellevue-family-dentistry-bellevue/
+1. Bellevue Family Dentistry | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Bellevue Family Dentistry is a dentist in Bellevue, KY. Phone: +18592917621. | https://registry-edge.dingalinged.workers.dev/c/bellevue-family-dentistry-bellevue/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist bellevue ky | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -13,7 +13,7 @@ PetSmart is a pet store in Lawrence, KS at 2720 Iowa Street #E, Lawrence, KS 660
 - Website: https://www.petsmart.com/stores/us/ks/lawrence-store2473.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 49.7/100 — Building — top 45% of pet stores in Lawrence, KS, #4 of 9 pet stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 45% of pet stores in Lawrence, KS, #4 of 9 pet stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

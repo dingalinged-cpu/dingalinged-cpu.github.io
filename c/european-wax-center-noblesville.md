@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Noblesville, IN at 13170 Harrell Parkwa
 - Website: https://locations.waxcenter.com/in/noblesville/noblesville-hamilton-town-center-0650.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Building — top 100% of waxing salons in Indianapolis, IN, #1 of 1 waxing salons in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.4/100 — Building — top 100% of waxing salons in Indianapolis, IN, #1 of 1 waxing salons in Noblesville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

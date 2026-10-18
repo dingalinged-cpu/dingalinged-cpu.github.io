@@ -13,7 +13,7 @@ Petco is a pet store in Wichita, KS at 3050 North Rock Road, Wichita, KS. Phone:
 - Website: https://stores.petco.com/ks/wichita/pet-supplies-wichita-ks-847.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Building — top 73% of pet stores in Wichita, KS, #5 of 6 pet stores in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.9/100 — Building — top 73% of pet stores in Wichita, KS, #5 of 6 pet stores in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

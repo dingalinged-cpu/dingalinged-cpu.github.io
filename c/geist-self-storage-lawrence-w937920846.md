@@ -13,7 +13,7 @@ Geist Self-Storage is a self-storage facility in Lawrence, IN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00
-- Pulse Score: 44.6/100 — Unrated (not enough evidence yet) — top 87% of self-storage facilitys in Indianapolis, IN, #3 of 3 self-storage facilitys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.6/100 — Unrated (not enough evidence yet) — top 87% of self-storage facilitys in Indianapolis, IN, #3 of 3 self-storage facilitys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

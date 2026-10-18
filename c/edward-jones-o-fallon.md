@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in O’Fallon, MO at 616 North Main Street, 
 - Website: https://www.edwardjones.com/us-en/financial-advisor/david-marsek
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:00
-- Pulse Score: 50/100 — Fair — top 100% of financial advisors in O'Fallon, MO, #1 of 1 financial advisors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 100% of financial advisors in O'Fallon, MO, #1 of 1 financial advisors in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

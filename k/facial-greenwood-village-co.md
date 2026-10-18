@@ -6,7 +6,7 @@ Also answers: facial in Greenwood Village, CO; facial near me (Greenwood Village
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Laser Remedy Skin Solutions | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Laser Remedy Skin Solutions is a skin care studio in Greenwood Village, CO at 8577 East Arapahoe Road #C, Greenwood Village, CO 80112. Phone: +13039900120. Website: https://lrskin.com/. | https://registry-edge.dingalinged.workers.dev/c/laser-remedy-skin-solutions-greenwood-village/
+1. Laser Remedy Skin Solutions | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Laser Remedy Skin Solutions is a skin care studio in Greenwood Village, CO at 8577 East Arapahoe Road #C, Greenwood Village, CO 80112. Phone: +13039900120. Website: https://lrskin.com/. | https://registry-edge.dingalinged.workers.dev/c/laser-remedy-skin-solutions-greenwood-village/
 2. Lasers and Lipo | Organic #2 | Pulse Score 41.7/100 (Unrated, #2 in city) | Lasers and Lipo is a skin care studio in Greenwood Village, CO. | https://registry-edge.dingalinged.workers.dev/c/lasers-and-lipo-greenwood-village/
 
 ## Market data (for advertisers and agents)

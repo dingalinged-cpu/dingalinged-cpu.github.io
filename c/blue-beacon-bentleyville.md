@@ -13,7 +13,7 @@ Blue Beacon is a car wash in Bentleyville, PA. Website: https://bluebeacon.com/l
 - Website: https://bluebeacon.com/locations/listing/bentleyville-pa
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.2/100 — Building — top 68% of car washes in Pittsburgh, PA, #2 of 2 car washes in Bentleyville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 67% of car washes in Pittsburgh, PA, #2 of 2 car washes in Bentleyville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

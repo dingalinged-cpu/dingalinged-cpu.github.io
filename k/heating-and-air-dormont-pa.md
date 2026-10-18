@@ -7,7 +7,7 @@ Also answers: heating and air in Dormont, PA; heating and air near me (Dormont, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Dipaola Quality Climate Control LLC | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Dipaola Quality Climate Control LLC is a HVAC contractor in Pittsburgh, PA at 3229 West Liberty Avenue #Suite 203, Pittsburgh, PA 15216. Phone: +17243053152. Website: https://dipaolaheating.com/. | https://registry-edge.dingalinged.workers.dev/c/dipaola-quality-climate-control-llc-pittsburgh/
-2. McManus Heating & Cooling | Organic #2 | Pulse Score 60.4/100 (Unrated, #1 in city) | McManus Heating & Cooling is a HVAC contractor in Dormont, PA at 3227 West Liberty Avenue, Dormont, PA 15216. Phone: +14123439075. | https://registry-edge.dingalinged.workers.dev/c/mcmanus-heating-and-cooling-dormont/
+2. McManus Heating & Cooling | Organic #2 | Pulse Score 60.3/100 (Unrated, #1 in city) | McManus Heating & Cooling is a HVAC contractor in Dormont, PA at 3227 West Liberty Avenue, Dormont, PA 15216. Phone: +14123439075. | https://registry-edge.dingalinged.workers.dev/c/mcmanus-heating-and-cooling-dormont/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air dormont pa | category: Home Services | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Athletico Physical Therapy is a physical therapy clinic in Camby, IN at 10302 Pr
 - Website: https://www.athletico.com/locations/mooresville-camby/?location=mooresville-camby
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 47% of physical therapy clinics in Indianapolis, IN, #1 of 1 physical therapy clinics in Camby (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 39% of physical therapy clinics in Indianapolis, IN, #1 of 1 physical therapy clinics in Camby (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

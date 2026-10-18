@@ -7,7 +7,7 @@ Also answers: used cars for sale in Warren Park, IN; used cars for sale near me 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Oak Motors | Organic #1 | Pulse Score 57.7/100 (Unrated, #37 in city) | Oak Motors is an used car dealer in Indianapolis, IN at 1150 North Shadeland Avenue, Indianapolis, IN 46219. | https://registry-edge.dingalinged.workers.dev/c/oak-motors-indianapolis/
-2. DriveTime Used Cars | Organic #2 | Pulse Score 45.7/100 (Building, #63 in city) | DriveTime Used Cars is an used car dealer in Indianapolis, IN at 1202 North Shadeland Avenue, Indianapolis, IN 46219. | https://registry-edge.dingalinged.workers.dev/c/drivetime-used-cars-indianapolis/
+2. DriveTime Used Cars | Organic #2 | Pulse Score 45.6/100 (Building, #62 in city) | DriveTime Used Cars is an used car dealer in Indianapolis, IN at 1202 North Shadeland Avenue, Indianapolis, IN 46219. | https://registry-edge.dingalinged.workers.dev/c/drivetime-used-cars-indianapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale warren park in | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

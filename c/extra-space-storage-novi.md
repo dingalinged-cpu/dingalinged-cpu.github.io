@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Novi, MI at 21700 Novi Road, N
 - Website: https://www.extraspace.com/storage/facilities/us/michigan/novi/6036/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 63% of self-storage facilitys in Detroit, MI, #3 of 3 self-storage facilitys in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 61% of self-storage facilitys in Detroit, MI, #3 of 3 self-storage facilitys in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

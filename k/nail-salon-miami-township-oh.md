@@ -6,9 +6,9 @@ Also answers: nail salon in Miami Township, OH; nail salon near me (Miami Townsh
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adore Nails | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Adore Nails is a nail salon in Milford, OH at 5976 Meijer Drive #D, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/adore-nails-milford/
-2. Purlux Nail Salon | Organic #2 | Pulse Score 59.1/100 (Unrated, #3 in city) | Purlux Nail Salon is a nail salon in Loveland, OH at 784 Loveland-Miamiville Road #200, Loveland, OH 45140. | https://registry-edge.dingalinged.workers.dev/c/purlux-nail-salon-loveland/
-3. Q-NAIL | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | Q-NAIL is a nail salon in Milford, OH at 922 Business State Route 28 #E, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/q-nail-milford/
+1. Adore Nails | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Adore Nails is a nail salon in Milford, OH at 5976 Meijer Drive #D, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/adore-nails-milford/
+2. Purlux Nail Salon | Organic #2 | Pulse Score 59/100 (Unrated, #3 in city) | Purlux Nail Salon is a nail salon in Loveland, OH at 784 Loveland-Miamiville Road #200, Loveland, OH 45140. | https://registry-edge.dingalinged.workers.dev/c/purlux-nail-salon-loveland/
+3. Q-NAIL | Organic #3 | Pulse Score 59/100 (Unrated, #3 in city) | Q-NAIL is a nail salon in Milford, OH at 922 Business State Route 28 #E, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/q-nail-milford/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon miami township oh | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

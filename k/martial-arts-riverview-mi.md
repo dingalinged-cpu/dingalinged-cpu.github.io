@@ -6,7 +6,7 @@ Also answers: martial arts in Riverview, MI; martial arts near me (Riverview, MI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wy Martial Arts | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Wy Martial Arts is a martial arts school in Riverview, MI at 18105 Fort Street, Riverview, MI 48193. Phone: +13133889133. | https://registry-edge.dingalinged.workers.dev/c/wy-martial-arts-riverview/
+1. Wy Martial Arts | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Wy Martial Arts is a martial arts school in Riverview, MI at 18105 Fort Street, Riverview, MI 48193. Phone: +13133889133. | https://registry-edge.dingalinged.workers.dev/c/wy-martial-arts-riverview/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts riverview mi | category: Fitness | industry benchmark: Health & Fitness

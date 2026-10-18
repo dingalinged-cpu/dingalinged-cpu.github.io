@@ -6,7 +6,7 @@ Also answers: exterminator in Ecorse, MI; exterminator near me (Ecorse, MI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. B&R Exterminator | Organic #1 | Pulse Score 53.7/100 (Unrated, #1 in city) | B&R Exterminator is a pest control company in Ecorse, MI. Phone: +13138433011. | https://registry-edge.dingalinged.workers.dev/c/b-and-r-exterminator-ecorse/
+1. B&R Exterminator | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | B&R Exterminator is a pest control company in Ecorse, MI. Phone: +13138433011. | https://registry-edge.dingalinged.workers.dev/c/b-and-r-exterminator-ecorse/
 
 ## Market data (for advertisers and agents)
 - Keyword: exterminator ecorse mi | category: Home services - Pest control | industry benchmark: Home & Home Improvement

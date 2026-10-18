@@ -13,7 +13,7 @@ Deloitte is a business consultant in Detroit, MI at 200 Renaissance Center #3900
 - Website: https://www2.deloitte.com/us/en/footerlinks/office-locator/michigan/detroit.html?id=us%3A2os%3A3gl%3Alocalseo%3Aawa%3Agreendot%3A072519%3Agmb_detroit
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Building — top 85% of business consultants in Detroit, MI, #3 of 5 business consultants in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 85% of business consultants in Detroit, MI, #3 of 5 business consultants in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

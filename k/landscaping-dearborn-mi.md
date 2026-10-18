@@ -6,7 +6,7 @@ Also answers: landscaping in Dearborn, MI; landscaping near me (Dearborn, MI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fairlane Landscaping & Lawn Service | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Fairlane Landscaping & Lawn Service is a landscaping company in Dearborn, MI at 4876 Greenfield Road, Dearborn, MI. | https://registry-edge.dingalinged.workers.dev/c/fairlane-landscaping-and-lawn-service-dearborn/
+1. Fairlane Landscaping & Lawn Service | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Fairlane Landscaping & Lawn Service is a landscaping company in Dearborn, MI at 4876 Greenfield Road, Dearborn, MI. | https://registry-edge.dingalinged.workers.dev/c/fairlane-landscaping-and-lawn-service-dearborn/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping dearborn mi | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

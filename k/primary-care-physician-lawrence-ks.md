@@ -6,7 +6,7 @@ Also answers: primary care physician in Lawrence, KS; primary care physician nea
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Med | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | First Med is a family medicine practice in Lawrence, KS at 3211 Iowa Street #100, Lawrence, KS 66046. Phone: +17855055475. Website: https://www.lmh.org/get-care/primary-care/first-med/. | https://registry-edge.dingalinged.workers.dev/c/first-med-lawrence/
+1. First Med | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | First Med is a family medicine practice in Lawrence, KS at 3211 Iowa Street #100, Lawrence, KS 66046. Phone: +17855055475. Website: https://www.lmh.org/get-care/primary-care/first-med/. | https://registry-edge.dingalinged.workers.dev/c/first-med-lawrence/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician lawrence ks | category: Health & medical | industry benchmark: Physicians & Surgeons

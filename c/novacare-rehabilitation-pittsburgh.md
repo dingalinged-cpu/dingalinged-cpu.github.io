@@ -13,7 +13,7 @@ NovaCare Rehabilitation is a physical therapy clinic in Pittsburgh, PA at 5100 L
 - Website: https://www.novacare.com/contact/find-a-location/pa/pittsburgh/bloomfield/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 07:30-19:30; Tu 08:30-13:30; Fr 07:30-12:30
-- Pulse Score: 50.1/100 — Fair — top 84% of physical therapy clinics in Pittsburgh, PA, #3 of 3 physical therapy clinics in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 84% of physical therapy clinics in Pittsburgh, PA, #3 of 3 physical therapy clinics in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

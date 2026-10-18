@@ -13,7 +13,7 @@ Puppy Dreams - East Wichita is a pet store in Wichita, KS at 3605 North Rock Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 11:00-20:00
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 10% of pet stores in Wichita, KS, #1 of 6 pet stores in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 10% of pet stores in Wichita, KS, #1 of 6 pet stores in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

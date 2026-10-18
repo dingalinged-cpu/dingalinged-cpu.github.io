@@ -13,7 +13,7 @@ Tiffany & Company is a jewelry store in Columbus, OH at 4140 The Strand, Columbu
 - Website: https://www.tiffany.com/jewelry-stores/columbus-easton-town-center/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 12:00-18:00
-- Pulse Score: 48.4/100 — Building — top 81% of jewelry stores in Columbus, OH, #22 of 25 jewelry stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 79% of jewelry stores in Columbus, OH, #21 of 25 jewelry stores in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

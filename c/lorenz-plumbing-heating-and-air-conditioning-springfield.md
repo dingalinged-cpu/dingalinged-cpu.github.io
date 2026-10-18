@@ -13,7 +13,7 @@ Lorenz Plumbing Heating and Air Conditioning is a HVAC contractor in Springfield
 - Website: https://www.lorenzphac.com/
 - Email: info@lorenzphac.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Springfield, MO, #1 of 1 HVAC contractors in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Springfield, MO, #1 of 1 HVAC contractors in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

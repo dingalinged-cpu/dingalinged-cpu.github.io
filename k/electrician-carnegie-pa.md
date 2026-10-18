@@ -6,7 +6,7 @@ Also answers: electrician in Carnegie, PA; electrician near me (Carnegie, PA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wright Electric Pittsburgh | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Wright Electric Pittsburgh is an electrician in Carnegie, PA at 401 Center Street, Carnegie, PA 15106. Phone: +14125833092. | https://registry-edge.dingalinged.workers.dev/c/wright-electric-pittsburgh-carnegie/
+1. Wright Electric Pittsburgh | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Wright Electric Pittsburgh is an electrician in Carnegie, PA at 401 Center Street, Carnegie, PA 15106. Phone: +14125833092. | https://registry-edge.dingalinged.workers.dev/c/wright-electric-pittsburgh-carnegie/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician carnegie pa | category: Home services - Electrical | industry benchmark: Home & Home Improvement

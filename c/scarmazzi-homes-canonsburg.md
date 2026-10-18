@@ -13,7 +13,7 @@ Scarmazzi Homes is an architect in Canonsburg, PA at Adams Avenue, Canonsburg, P
 - Website: https://scarmazzihomes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 29% of architects in Pittsburgh, PA, #1 of 2 architects in Canonsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 29% of architects in Pittsburgh, PA, #1 of 2 architects in Canonsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

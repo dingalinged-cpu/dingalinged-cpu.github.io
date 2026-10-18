@@ -6,7 +6,7 @@ Also answers: orthopedic surgeon in Columbia, MO; orthopedic surgeon near me (Co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Lodge at Keene Street | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | The Lodge at Keene Street is an orthopedic surgeon in Columbia, MO at 1 s keene st, Columbia, MO 65201. | https://registry-edge.dingalinged.workers.dev/c/the-lodge-at-keene-street-columbia/
+1. The Lodge at Keene Street | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | The Lodge at Keene Street is an orthopedic surgeon in Columbia, MO at 1 s keene st, Columbia, MO 65201. | https://registry-edge.dingalinged.workers.dev/c/the-lodge-at-keene-street-columbia/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon columbia mo | category: Health & medical | industry benchmark: Physicians & Surgeons

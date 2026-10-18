@@ -13,7 +13,7 @@ Home Sweet Home Dog Resort is a dog boarding facility in Lawrence, KS at 1837 Wa
 - Website: https://www.homesweethomedogresort.com/
 - Email: manager@homesweethomedogresort.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 10:00-16:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 50% of dog boarding facilitys in Lawrence, KS, #1 of 2 dog boarding facilitys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 50% of dog boarding facilitys in Lawrence, KS, #1 of 2 dog boarding facilitys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

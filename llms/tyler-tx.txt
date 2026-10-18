@@ -1,0 +1,3197 @@
+# Company Registry: company records, metro tyler-tx
+
+> 118 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+A-MAX Auto Insurance is an insurance agent in Tyler, TX at 510 South Southwest Loop 323 #400, Tyler, TX 75702.
+
+# A-MAX Auto Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 510 South Southwest Loop 323 #400, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3449363, -95.3398076
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45/100 — Building — top 84% of insurance agents in Tyler, TX, #5 of 6 insurance agents in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-max-auto-insurance-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-max-auto-insurance-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1217904384 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aaron's is a furniture store in Tyler, TX at 3555 Chandler Highway, Tyler, TX 75702. Website: https://locations.aarons.com/us/tx/tyler/3555-chandler-hwy.
+
+# Aaron's
+
+- Category: furniture store
+- Services: furniture store
+- Address: 3555 Chandler Highway, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3463603, -95.3396736
+- Phone: n/a
+- Website: https://locations.aarons.com/us/tx/tyler/3555-chandler-hwy
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+- Pulse Score: 48.5/100 — Building — top 63% of furniture stores in Tyler, TX, #4 of 7 furniture stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aarons-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aarons-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/758841519 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Accelerated Diesel is an auto repair shop in Tyler, TX at 12614 Jim Hogg Road, Tyler, TX 75706.
+
+# Accelerated Diesel
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 12614 Jim Hogg Road, Tyler, TX 75706
+- City: Tyler
+- State: TX
+- ZIP: 75706
+- Coordinates: 32.4484587, -95.3648321
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 22% of auto repair shops in Tyler, TX, #2 of 13 auto repair shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/accelerated-diesel-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/accelerated-diesel-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/758036221 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Adams Furniture and Appliances is a furniture store in Smith County, TX.
+
+# Adams Furniture and Appliances
+
+- Category: furniture store
+- Services: furniture store
+- Address: Smith County, TX
+- City: Smith County
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3917907, -95.2952953
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 38% of furniture stores in Tyler, TX, #1 of 1 furniture stores in Smith County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/adams-furniture-and-appliances-smith-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/adams-furniture-and-appliances-smith-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11042896714 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Advanced Remedy Center is a spa in Tyler, TX at 1400 West Southwest Loop 323 #60, Tyler, TX. Phone: +19035264875.
+
+# Advanced Remedy Center
+
+- Category: spa
+- Services: spa
+- Address: 1400 West Southwest Loop 323 #60, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3027702, -95.3159061
+- Phone: +19035264875
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr-Su off
+- Pulse Score: 59.7/100 — Fair — top 100% of spas in Tyler, TX, #1 of 1 spas in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/advanced-remedy-center-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/advanced-remedy-center-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12143280576 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+All In One Thrift Shop, LLC is a thrift store in Tyler, TX at 3210 G. E. Drive, Tyler, TX 75701. Website: https://allinonethriftstore.business.site/.
+
+# All In One Thrift Shop, LLC
+
+- Category: thrift store
+- Services: thrift store
+- Address: 3210 G. E. Drive, Tyler, TX 75701
+- City: Tyler
+- State: TX
+- ZIP: 75701
+- Coordinates: 32.3124579, -95.2682055
+- Phone: n/a
+- Website: https://allinonethriftstore.business.site/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 25% of thrift stores in Tyler, TX, #1 of 4 thrift stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/all-in-one-thrift-shop-llc-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/all-in-one-thrift-shop-llc-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/626294661 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+All Tune and Ube is an auto repair shop in Tyler, TX.
+
+# All Tune and Ube
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3136239, -95.2724492
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 43% of auto repair shops in Tyler, TX, #5 of 13 auto repair shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 38.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/all-tune-and-ube-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/all-tune-and-ube-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7628412466 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Allstate is an insurance agent in Tyler, TX at 3928 South Broadway Avenue, Tyler, TX 75701. Phone: +19035615655. Website: https://agents.allstate.com/matt-mooty-tyler-tx.html.
+
+# Allstate
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 3928 South Broadway Avenue, Tyler, TX 75701
+- City: Tyler
+- State: TX
+- ZIP: 75701
+- Coordinates: 32.3074275, -95.3003372
+- Phone: +19035615655
+- Website: https://agents.allstate.com/matt-mooty-tyler-tx.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48/100 — Building — top 67% of insurance agents in Tyler, TX, #4 of 6 insurance agents in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/allstate-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/allstate-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/591446680 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Allstate is an insurance agent in Tyler, TX at 510 South Southwest Loop 323 #205A, Tyler, TX 75702.
+
+# Allstate
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 510 South Southwest Loop 323 #205A, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3453329, -95.3397775
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.5/100 — Building — top 100% of insurance agents in Tyler, TX, #6 of 6 insurance agents in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/allstate-tyler-w1217904389/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/allstate-tyler-w1217904389.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1217904389 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aloha Nails and Spa is a nail salon in Tyler, TX.
+
+# Aloha Nails and Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2982199, -95.3048692
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 84% of nail salons in Tyler, TX, #5 of 6 nail salons in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 41.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aloha-nails-and-spa-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aloha-nails-and-spa-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/677780974 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Anderson Carpets is a carpet installer in Tyler, TX at 11229 TX-64, Tyler, TX 75707.
+
+# Anderson Carpets
+
+- Category: carpet installation
+- Services: carpet installation
+- Address: 11229 TX-64, Tyler, TX 75707
+- City: Tyler
+- State: TX
+- ZIP: 75707
+- Coordinates: 32.3244921, -95.2235867
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 100% of carpet installers in Tyler, TX, #1 of 1 carpet installers in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/anderson-carpets-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/anderson-carpets-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/700150820 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ashley HomeStore is a furniture store in Tyler, TX at 4820 South Broadway Avenue, Tyler, TX 75703. Phone: +19035812945. Website: https://stores.ashleyfurniture.com/store/us/texas/tyler/7710000443/.
+
+# Ashley HomeStore
+
+- Category: furniture store
+- Services: furniture store
+- Address: 4820 South Broadway Avenue, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.296546, -95.2992268
+- Phone: +19035812945
+- Website: https://stores.ashleyfurniture.com/store/us/texas/tyler/7710000443/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 49.2/100 — Building — top 50% of furniture stores in Tyler, TX, #3 of 7 furniture stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ashley-homestore-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ashley-homestore-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/484012448 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aspen Dental is a dentist in Tyler, TX.
+
+# Aspen Dental
+
+- Category: dentist
+- Services: dentist
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3049764, -95.3000818
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43/100 — Building — top 100% of dentists in Tyler, TX, #5 of 5 dentists in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aspen-dental-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aspen-dental-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/677777751 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Athleo Barbell Club is a CrossFit gym in Tyler, TX at 1818 Capital Drive #300, Tyler, TX 75701.
+
+# Athleo Barbell Club
+
+- Category: crossfit
+- Services: crossfit
+- Address: 1818 Capital Drive #300, Tyler, TX 75701
+- City: Tyler
+- State: TX
+- ZIP: 75701
+- Coordinates: 32.2964724, -95.3261901
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 100% of CrossFit gyms in Tyler, TX, #1 of 1 CrossFit gyms in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/athleo-barbell-club-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/athleo-barbell-club-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5910276720 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Azalea Orthopedics is an orthopedic surgeon in Tyler, TX at 3414 Golden Road, Tyler, TX. Phone: +19039397500. Website: https://azaleaortho.com/location/main-office/.
+
+# Azalea Orthopedics
+
+- Category: orthopedic surgeon
+- Services: orthopedic surgeon
+- Address: 3414 Golden Road, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3123372, -95.2776495
+- Phone: +19039397500
+- Website: https://azaleaortho.com/location/main-office/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-16:00; Sa-Su off
+- Pulse Score: 51.2/100 — Fair — top 100% of orthopedic surgeons in Tyler, TX, #1 of 1 orthopedic surgeons in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 46.3, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/azalea-orthopedics-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/azalea-orthopedics-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/748878200 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Brewster Furniture is a furniture store in Tyler, TX at 3046 West Gentry Parkway, Tyler, TX 75702.
+
+# Brewster Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: 3046 West Gentry Parkway, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3752823, -95.3327243
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 13% of furniture stores in Tyler, TX, #1 of 7 furniture stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/brewster-furniture-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/brewster-furniture-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/531232162 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Burks-Walker-Tippit Funeral Home is a funeral home in Tyler, TX at 215 East Front Street, Tyler, TX. Phone: +19035926553.
+
+# Burks-Walker-Tippit Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 215 East Front Street, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3463868, -95.2990551
+- Phone: +19035926553
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Tyler, TX, #1 of 1 funeral homes in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/burks-walker-tippit-funeral-home-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/burks-walker-tippit-funeral-home-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5075493800 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Butler Alignment and Brake is an auto repair shop in Tyler, TX.
+
+# Butler Alignment and Brake
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3470649, -95.3114914
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 36% of auto repair shops in Tyler, TX, #4 of 13 auto repair shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 38.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/butler-alignment-and-brake-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/butler-alignment-and-brake-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11042896722 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Calloway Road Storage Center is a self-storage facility in Tyler, TX at 2605 Calloway Road, Tyler, TX 75707.
+
+# Calloway Road Storage Center
+
+- Category: storage units
+- Services: storage units
+- Address: 2605 Calloway Road, Tyler, TX 75707
+- City: Tyler
+- State: TX
+- ZIP: 75707
+- Coordinates: 32.3063353, -95.2646994
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00, Sa 09:00-15:00
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 34% of self-storage facilitys in Tyler, TX, #1 of 3 self-storage facilitys in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/calloway-road-storage-center-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/calloway-road-storage-center-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6431529142 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+CarMax is an used car dealer in Tyler, TX. Website: https://www.carmax.com/stores/6108.
+
+# CarMax
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.315088, -95.3429654
+- Phone: n/a
+- Website: https://www.carmax.com/stores/6108
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44/100 — Building — top 100% of used car dealers in Tyler, TX, #5 of 5 used car dealers in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/carmax-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/carmax-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1221481430 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Cell Phone Repair is a phone repair shop in Tyler, TX at 3018 State Highway 64 West, Tyler, TX 75704.
+
+# Cell Phone Repair
+
+- Category: phone repair
+- Services: phone repair
+- Address: 3018 State Highway 64 West, Tyler, TX 75704
+- City: Tyler
+- State: TX
+- ZIP: 75704
+- Coordinates: 32.3534228, -95.3450932
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44/100 — Building — top 100% of phone repair shops in Tyler, TX, #1 of 1 phone repair shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cell-phone-repair-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1237970856 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Chacon Autos is an used car dealer in Tyler, TX.
+
+# Chacon Autos
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3462816, -95.3111149
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 60% of used car dealers in Tyler, TX, #3 of 5 used car dealers in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 39.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chacon-autos-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chacon-autos-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1238482499 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Chip Crist: Allstate Insurance is an insurance agent in Tyler, TX.
+
+# Chip Crist: Allstate Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2979385, -95.3048762
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 34% of insurance agents in Tyler, TX, #2 of 6 insurance agents in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chip-crist-allstate-insurance-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chip-crist-allstate-insurance-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/677780975 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+CHRISTUS Trinity Mother Frances Health and Fitness Center - Herrington-Ornelas is a gym in Tyler, TX. Website: https://www.christushealth.org/locations/health-fitness-center-herrington-ornelas.
+
+# CHRISTUS Trinity Mother Frances Health and Fitness Center - Herrington-Ornelas
+
+- Category: gym
+- Services: gym
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2777153, -95.2463667
+- Phone: n/a
+- Website: https://www.christushealth.org/locations/health-fitness-center-herrington-ornelas
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 39.1/100 — Unrated (not enough evidence yet) — top 100% of gyms in Tyler, TX, #9 of 9 gyms in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/christus-trinity-mother-frances-health-and-fitness-center-herrington-ornelas-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/christus-trinity-mother-frances-health-and-fitness-center-herrington-ornelas-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13986998227 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Classic Toyota Service Department is an auto repair shop in Tyler, TX.
+
+# Classic Toyota Service Department
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3053508, -95.3216152
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 29% of auto repair shops in Tyler, TX, #3 of 13 auto repair shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/classic-toyota-service-department-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/classic-toyota-service-department-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12143280572 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Creative Children's Academy is a daycare in Tyler, TX at 3108 Bellwood Road, Tyler, TX 75701. Phone: +19037478284. Website: https://creativechildrens-academy.com/.
+
+# Creative Children's Academy
+
+- Category: daycare
+- Services: daycare
+- Address: 3108 Bellwood Road, Tyler, TX 75701
+- City: Tyler
+- State: TX
+- ZIP: 75701
+- Coordinates: 32.3416369, -95.3412604
+- Phone: +19037478284
+- Website: https://creativechildrens-academy.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-19:00
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 100% of daycares in Tyler, TX, #1 of 1 daycares in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/creative-childrens-academy-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/creative-childrens-academy-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10151182906 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+CubeSmart is a self-storage facility in Tyler, TX at 12324 State Highway 155 South, Tyler, TX 75703.
+
+# CubeSmart
+
+- Category: storage units
+- Services: storage units
+- Address: 12324 State Highway 155 South, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.3032142, -95.3389021
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45/100 — Building — top 100% of self-storage facilitys in Tyler, TX, #3 of 3 self-storage facilitys in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cubesmart-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cubesmart-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1267598795 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Tyler, TX at 1208 West Southwest Loop 323, Tyler, TX. Phone: +14302057072. Website: https://www.discounttire.com/store/tx/tyler/s/2165.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 1208 West Southwest Loop 323, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3029914, -95.314447
+- Phone: +14302057072
+- Website: https://www.discounttire.com/store/tx/tyler/s/2165
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
+- Pulse Score: 52/100 — Fair — top 25% of tire shops in Tyler, TX, #1 of 4 tire shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.9, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10078566689 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Tyler, TX at 3910 South Broadway Avenue, Tyler, TX 75701. Phone: +19035094466.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 3910 South Broadway Avenue, Tyler, TX 75701
+- City: Tyler
+- State: TX
+- ZIP: 75701
+- Coordinates: 32.3077874, -95.3000488
+- Phone: +19035094466
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.6/100 — Building — top 75% of tire shops in Tyler, TX, #3 of 4 tire shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-tyler-w683603901/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-tyler-w683603901.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/683603901 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Tyler, TX at 9098 South Broadway Avenue, Tyler, TX 75703. Phone: +19035086025.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 9098 South Broadway Avenue, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.2485708, -95.3078699
+- Phone: +19035086025
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.6/100 — Building — top 50% of tire shops in Tyler, TX, #2 of 4 tire shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-tyler-w683604077/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-tyler-w683604077.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/683604077 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+East Texas Concreters is a general contractor in Tyler, TX. Phone: +19038475639. Website: https://easttexasconcreters.com/.
+
+# East Texas Concreters
+
+- Category: general contractor
+- Services: general contractor
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3148889, -95.2795382
+- Phone: +19038475639
+- Website: https://easttexasconcreters.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 100% of general contractors in Tyler, TX, #1 of 1 general contractors in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/east-texas-concreters-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/east-texas-concreters-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13925982193 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Elite Bicycles is a bike shop in Tyler, TX at 2251 Three Lakes Parkway, Tyler, TX. Phone: +19035349998. Website: https://elitebicyclestyler.com/.
+
+# Elite Bicycles
+
+- Category: bike shop
+- Services: bike shop
+- Address: 2251 Three Lakes Parkway, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.271235, -95.3416528
+- Phone: +19035349998
+- Website: https://elitebicyclestyler.com/
+- Email: EliteBicycles@att.net
+- Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-15:00
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 100% of bike shops in Tyler, TX, #1 of 1 bike shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/elite-bicycles-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/elite-bicycles-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9634250809 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Express Car Wash is a car wash in Tyler, TX at 5105 Troup Highway, Tyler, TX 75707.
+
+# Express Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 5105 Troup Highway, Tyler, TX 75707
+- City: Tyler
+- State: TX
+- ZIP: 75707
+- Coordinates: 32.2944865, -95.2613126
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 100% of car washes in Tyler, TX, #4 of 4 car washes in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/express-car-wash-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/express-car-wash-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/718234872 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+FedEx Freight is a printing service in Tyler, TX at 3471 Pointe North Drive, Tyler, TX 75702.
+
+# FedEx Freight
+
+- Category: printing services
+- Services: printing services
+- Address: 3471 Pointe North Drive, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3849527, -95.3307588
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.7/100 — Building — top 34% of printing services in Tyler, TX, #1 of 3 printing services in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.6, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fedex-freight-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fedex-freight-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/503888881 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+FedEx Office is a printing service in Tyler, TX.
+
+# FedEx Office
+
+- Category: printing services
+- Services: printing services
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3014701, -95.2990594
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.6/100 — Building — top 100% of printing services in Tyler, TX, #3 of 3 printing services in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.6, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fedex-office-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fedex-office-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6346198115 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Firestone is an auto repair shop in Tyler, TX at 128 West Southwest Loop 323, Tyler, TX 75701.
+
+# Firestone
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 128 West Southwest Loop 323, Tyler, TX 75701
+- City: Tyler
+- State: TX
+- ZIP: 75701
+- Coordinates: 32.3023991, -95.3021497
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46/100 — Building — top 58% of auto repair shops in Tyler, TX, #7 of 13 auto repair shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/firestone-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/firestone-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/481115168 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+French Peas Flower Shop is a florist in Tyler, TX.
+
+# French Peas Flower Shop
+
+- Category: florist
+- Services: florist
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2998156, -95.3048088
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 100% of florists in Tyler, TX, #1 of 1 florists in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 41.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/french-peas-flower-shop-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/french-peas-flower-shop-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6346264615 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fresh Dental is a dentist in Tyler, TX at 3873 State Highway 64 West, Tyler, TX. Phone: +19035934872.
+
+# Fresh Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 3873 State Highway 64 West, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3548985, -95.3468348
+- Phone: +19035934872
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Pulse Score: 62/100 — Good — top 20% of dentists in Tyler, TX, #1 of 5 dentists in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fresh-dental-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fresh-dental-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4942568779 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Furniture Row is a furniture store in Tyler, TX.
+
+# Furniture Row
+
+- Category: furniture store
+- Services: furniture store
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3165692, -95.3433265
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.1/100 — Unrated (not enough evidence yet) — top 88% of furniture stores in Tyler, TX, #6 of 7 furniture stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/furniture-row-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/furniture-row-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/753449483 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Gleaux Car Wash is a car wash in Tyler, TX.
+
+# Gleaux Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2805646, -95.3066028
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 25% of car washes in Tyler, TX, #1 of 4 car washes in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gleaux-car-wash-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gleaux-car-wash-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13616214908 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Great Clips is a hair salon in Tyler, TX at 3853 State Highway 64 West, Tyler, TX.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 3853 State Highway 64 West, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3548009, -95.3464397
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.7/100 — Building — top 60% of hair salons in Tyler, TX, #3 of 5 hair salons in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10078458117 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Great Clips is a hair salon in Tyler, TX.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2497726, -95.3078349
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.5/100 — Building — top 100% of hair salons in Tyler, TX, #5 of 5 hair salons in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-tyler-w791614965/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-tyler-w791614965.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/791614965 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Gus F. Taylor Gymnasium is a gym in Tyler, TX.
+
+# Gus F. Taylor Gymnasium
+
+- Category: gym
+- Services: gym
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.375164, -95.3125635
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 56% of gyms in Tyler, TX, #5 of 9 gyms in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gus-f-taylor-gymnasium-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gus-f-taylor-gymnasium-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/672179557 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H&R Block is a tax preparation service in Tyler, TX at 510 South Southwest Loop 323 #120, Tyler, TX 75702.
+
+# H&R Block
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 510 South Southwest Loop 323 #120, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3449477, -95.3405952
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.8/100 — Building — top 100% of tax preparation services in Tyler, TX, #1 of 1 tax preparation services in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-r-block-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1217906620 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hallmark is a gift shop in Tyler, TX at 8946 South Broadway Avenue #196, Tyler, TX. Website: https://stores.hallmark.com/tx/tyler/rachaels-hallmark-shop-tyler-tx-008222.html.
+
+# Hallmark
+
+- Category: gift shop
+- Services: gift shop
+- Address: 8946 South Broadway Avenue #196, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2518336, -95.3031984
+- Phone: n/a
+- Website: https://stores.hallmark.com/tx/tyler/rachaels-hallmark-shop-tyler-tx-008222.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:30-21:00; Su 12:00-18:00
+- Pulse Score: 47.6/100 — Building — top 100% of gift shops in Tyler, TX, #1 of 1 gift shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hallmark-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hallmark-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/528224092 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hangars of Hope is a thrift store in Tyler, TX.
+
+# Hangars of Hope
+
+- Category: thrift store
+- Services: thrift store
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3093067, -95.2708018
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 75% of thrift stores in Tyler, TX, #3 of 4 thrift stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hangars-of-hope-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hangars-of-hope-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12143272071 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hangars of Hope is a thrift store in Tyler, TX.
+
+# Hangars of Hope
+
+- Category: thrift store
+- Services: thrift store
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3029283, -95.31178
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 50% of thrift stores in Tyler, TX, #2 of 4 thrift stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hangars-of-hope-tyler-n12143280567/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hangars-of-hope-tyler-n12143280567.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12143280567 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hangers of Hope is a thrift store in Tyler, TX.
+
+# Hangers of Hope
+
+- Category: thrift store
+- Services: thrift store
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3262571, -95.3014114
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 100% of thrift stores in Tyler, TX, #4 of 4 thrift stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 40.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hangers-of-hope-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hangers-of-hope-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/1797569534 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Havertys is a furniture store in Tyler, TX.
+
+# Havertys
+
+- Category: furniture store
+- Services: furniture store
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3015026, -95.305324
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.7/100 — Building — top 75% of furniture stores in Tyler, TX, #5 of 7 furniture stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/havertys-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/havertys-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6346232633 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Headquarters Salon & Spa is a nail salon in Tyler, TX.
+
+# Headquarters Salon & Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2944985, -95.3048213
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 100% of nail salons in Tyler, TX, #6 of 6 nail salons in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 41.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/headquarters-salon-and-spa-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/headquarters-salon-and-spa-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/677783084 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hibbs-Hallmark & Company Insurance is an insurance agent in Tyler, TX.
+
+# Hibbs-Hallmark & Company Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3056647, -95.305617
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 50% of insurance agents in Tyler, TX, #3 of 6 insurance agents in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hibbs-hallmark-and-company-insurance-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hibbs-hallmark-and-company-insurance-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6346423715 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+iKids Pediatric Dentistry is a dentist in Tyler, TX. Phone: +19035955476.
+
+# iKids Pediatric Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3081432, -95.3213622
+- Phone: +19035955476
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 60% of dentists in Tyler, TX, #3 of 5 dentists in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ikids-pediatric-dentistry-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ikids-pediatric-dentistry-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12681989401 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ivan Smith Furniture is a furniture store in Tyler, TX.
+
+# Ivan Smith Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3083415, -95.2764123
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.1/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in Tyler, TX, #7 of 7 furniture stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ivan-smith-furniture-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ivan-smith-furniture-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4694422458 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+J & L Auto Sales is an used car dealer in Tyler, TX at 12310 State Highway 155 South, Tyler, TX 75703.
+
+# J & L Auto Sales
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 12310 State Highway 155 South, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.304283, -95.3383178
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 40% of used car dealers in Tyler, TX, #2 of 5 used car dealers in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/j-and-l-auto-sales-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/j-and-l-auto-sales-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/753449515 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+J&S Auto Sales is an used car dealer in Tyler, TX.
+
+# J&S Auto Sales
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3470667, -95.3109927
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 80% of used car dealers in Tyler, TX, #4 of 5 used car dealers in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 39.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/j-and-s-auto-sales-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/j-and-s-auto-sales-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11042896726 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+James Avery Jewelry is a jewelry store in Tyler, TX at 4601 South Broadway Avenue #301a, Tyler, TX 75703. Phone: +19035614576. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=677.
+
+# James Avery Jewelry
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 4601 South Broadway Avenue #301a, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.2989429, -95.3021527
+- Phone: +19035614576
+- Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=677
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 12:00-18:00
+- Pulse Score: 48.5/100 — Building — top 50% of jewelry stores in Tyler, TX, #1 of 2 jewelry stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/james-avery-jewelry-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4248333854 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Janie's Cakes is a bakery in Tyler, TX at 308 East Front Street, Tyler, TX 75702. Phone: +19035926150. Website: https://janiescakes.com/.
+
+# Janie's Cakes
+
+- Category: bakery
+- Services: bakery
+- Address: 308 East Front Street, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3468975, -95.2979905
+- Phone: +19035926150
+- Website: https://janiescakes.com/
+- Email: janie@janiescakes.com
+- Opening hours (OSM syntax): Mo-Fr 10:00-17:30
+- Pulse Score: 51.1/100 — Unrated (not enough evidence yet) — top 100% of bakerys in Tyler, TX, #1 of 1 bakerys in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.8, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/janies-cakes-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/janies-cakes-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/748878287 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jimmy Brown's Brake & Tire is an auto repair shop in Tyler, TX at 12310 State Highway 155 South, Tyler, TX 75703.
+
+# Jimmy Brown's Brake & Tire
+
+- Category: auto repair
+- Services: auto repair, mechanic, brake repair
+- Address: 12310 State Highway 155 South, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.3037011, -95.3386687
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 15% of auto repair shops in Tyler, TX, #1 of 13 auto repair shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jimmy-browns-brake-and-tire-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jimmy-browns-brake-and-tire-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/753449512 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kelly Nails Spa is a nail salon in Tyler, TX at 1400 West Southwest Loop 323 #40, Tyler, TX. Phone: +19032669486.
+
+# Kelly Nails Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: 1400 West Southwest Loop 323 #40, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3027794, -95.3158018
+- Phone: +19032669486
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su off
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 17% of nail salons in Tyler, TX, #1 of 6 nail salons in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kelly-nails-spa-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kelly-nails-spa-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12143280578 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kendra Scott is a jewelry store in Tyler, TX at 8926 South Broadway Ave #Suite 152, Tyler, TX 75703. Website: https://www.kendrascott.com/.
+
+# Kendra Scott
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 8926 South Broadway Ave #Suite 152, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.2503793, -95.3054918
+- Phone: n/a
+- Website: https://www.kendrascott.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.6/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in Tyler, TX, #2 of 2 jewelry stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kendra-scott-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kendra-scott-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11122136612 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kenneth E. Raney P.C. Attorney at Law is a lawyer in Tyler, TX at 1902 Sybil Lane, Tyler, TX 75703. Phone: +19035618456. Website: https://lawofficeofkennethraney.com/.
+
+# Kenneth E. Raney P.C. Attorney at Law
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 1902 Sybil Lane, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.3051937, -95.2784457
+- Phone: +19035618456
+- Website: https://lawofficeofkennethraney.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Tyler, TX, #3 of 6 lawyers in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kenneth-e-raney-p-c-attorney-at-law-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kenneth-e-raney-p-c-attorney-at-law-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6517746010 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+KH Fitness is a gym in Tyler, TX.
+
+# KH Fitness
+
+- Category: gym
+- Services: gym
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3048515, -95.3017562
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 67% of gyms in Tyler, TX, #6 of 9 gyms in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kh-fitness-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kh-fitness-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/677777755 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kurt Hunt Estate Sales and Certified Appraisal Services is a real estate agency in Tyler, TX at 613 Bentley Court, Tyler, TX 75703. Phone: +19035305013. Website: https://www.estatesalestyler.com/.
+
+# Kurt Hunt Estate Sales and Certified Appraisal Services
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 613 Bentley Court, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.2780048, -95.2974396
+- Phone: +19035305013
+- Website: https://www.estatesalestyler.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-17:00
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in Tyler, TX, #1 of 1 real estate agencys in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kurt-hunt-estate-sales-and-certified-appraisal-services-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kurt-hunt-estate-sales-and-certified-appraisal-services-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5789790542 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Law Office of Garcia & Dubove is a lawyer in Tyler, TX at 510 South Southwest Loop 323 #330, Tyler, TX 75702.
+
+# Law Office of Garcia & Dubove
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 510 South Southwest Loop 323 #330, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3451091, -95.339809
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 67% of lawyers in Tyler, TX, #4 of 6 lawyers in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/law-office-of-garcia-and-dubove-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/law-office-of-garcia-and-dubove-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1217904386 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Living Well Holistic Counseling & Wellness is a therapy practice in Tyler, TX at 16911 County Road 122, Tyler, TX 75703. Phone: +19038713450. Website: https://livingwelltyler.com/.
+
+# Living Well Holistic Counseling & Wellness
+
+- Category: therapist
+- Services: therapist
+- Address: 16911 County Road 122, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.2335834, -95.3061157
+- Phone: +19038713450
+- Website: https://livingwelltyler.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 100% of therapy practices in Tyler, TX, #2 of 2 therapy practices in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/living-well-holistic-counseling-and-wellness-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/living-well-holistic-counseling-and-wellness-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1216379305 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Local Car Wash is a car wash in Tyler, TX.
+
+# Local Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2655218, -95.3078569
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 50% of car washes in Tyler, TX, #2 of 4 car washes in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/local-car-wash-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/local-car-wash-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2397714889 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Martinez CPA is an accountant in Tyler, TX at 315 South Broadway Avenue ##202, Tyler, TX 75702. Phone: +19037877513. Website: https://www.jmartinezcpa.com/.
+
+# Martinez CPA
+
+- Category: accountant
+- Services: accountant, accounting services
+- Address: 315 South Broadway Avenue ##202, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3474807, -95.3009903
+- Phone: +19037877513
+- Website: https://www.jmartinezcpa.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:30
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 100% of accountants in Tyler, TX, #1 of 1 accountants in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/martinez-cpa-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/martinez-cpa-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7327829307 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Massage Envy is a massage studio in Tyler, TX at 8950 South Broadway Avenue #104, Tyler, TX. Website: https://locations.massageenvy.com/texas/tyler/8950-s--broadway-ave-.html.
+
+# Massage Envy
+
+- Category: massage
+- Services: massage
+- Address: 8950 South Broadway Avenue #104, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2516065, -95.302469
+- Phone: n/a
+- Website: https://locations.massageenvy.com/texas/tyler/8950-s--broadway-ave-.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-22:00; Sa 08:00-20:00; Su 10:00-18:00
+- Pulse Score: 47/100 — Building — top 100% of massage studios in Tyler, TX, #2 of 2 massage studios in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/massage-envy-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/massage-envy-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/480914645 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mavis Tires & Brakes is an auto repair shop in Tyler, TX.
+
+# Mavis Tires & Brakes
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2696897, -95.3076955
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.5/100 — Building — top 86% of auto repair shops in Tyler, TX, #11 of 13 auto repair shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mavis-tires-and-brakes-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mavis-tires-and-brakes-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13157513467 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+MB Nursery is a landscaping company in Whitehouse, TX at 15562 Texas Highway 110 South, Whitehouse, TX 75791. Phone: +19035975296.
+
+# MB Nursery
+
+- Category: landscaping
+- Services: landscaping
+- Address: 15562 Texas Highway 110 South, Whitehouse, TX 75791
+- City: Whitehouse
+- State: TX
+- ZIP: 75791
+- Coordinates: 32.252228, -95.2360622
+- Phone: +19035975296
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-16:00
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 100% of landscaping companys in Tyler, TX, #1 of 1 landscaping companys in Whitehouse (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mb-nursery-whitehouse/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mb-nursery-whitehouse.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5984807129 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Milam J. Joseph Community Center Building is a gym in Tyler, TX.
+
+# Milam J. Joseph Community Center Building
+
+- Category: gym
+- Services: gym
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3038386, -95.2856932
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 78% of gyms in Tyler, TX, #7 of 9 gyms in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/milam-j-joseph-community-center-building-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/milam-j-joseph-community-center-building-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/753460145 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mirror Mirror Hair Salon is a hair salon in Tyler, TX.
+
+# Mirror Mirror Hair Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.294387, -95.304434
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 20% of hair salons in Tyler, TX, #1 of 5 hair salons in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mirror-mirror-hair-salon-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mirror-mirror-hair-salon-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6346294504 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mosaic Counseling Center of East Texas is a therapy practice in Tyler, TX at 6141 Paluxy Drive, Tyler, TX 75704. Phone: +19035939141. Website: https://werelisteningeasttexas.org/.
+
+# Mosaic Counseling Center of East Texas
+
+- Category: therapist
+- Services: therapist
+- Address: 6141 Paluxy Drive, Tyler, TX 75704
+- City: Tyler
+- State: TX
+- ZIP: 75704
+- Coordinates: 32.2822044, -95.2804698
+- Phone: +19035939141
+- Website: https://werelisteningeasttexas.org/
+- Email: clientcoordinator@mosaicetx.com
+- Opening hours (OSM syntax): Mo-Th 08:30-19:00; Fr 08:30-15:00
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 50% of therapy practices in Tyler, TX, #1 of 2 therapy practices in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mosaic-counseling-center-of-east-texas-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mosaic-counseling-center-of-east-texas-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13719835301 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mr. T's Moving & Hauling is a moving company in Tyler, TX at 3243 West Gentry Parkway, Tyler, TX 75702. Phone: +19035305856. Website: https://mrtsmoving.com/.
+
+# Mr. T's Moving & Hauling
+
+- Category: movers
+- Services: movers, moving company
+- Address: 3243 West Gentry Parkway, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3790807, -95.3311783
+- Phone: +19035305856
+- Website: https://mrtsmoving.com/
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 50% of moving companys in Tyler, TX, #1 of 2 moving companys in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mr-ts-moving-and-hauling-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mr-ts-moving-and-hauling-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10708266629 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Nails & Spa Unlimited is a nail salon in Tyler, TX at 3834 Troup Highway, Tyler, TX 75703.
+
+# Nails & Spa Unlimited
+
+- Category: nail salon
+- Services: nail salon
+- Address: 3834 Troup Highway, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.3077594, -95.2714622
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 34% of nail salons in Tyler, TX, #2 of 6 nail salons in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/nails-and-spa-unlimited-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nails-and-spa-unlimited-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4694372562 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Natual Nails is a nail salon in Tyler, TX at 510 South Southwest Loop 323 #200, Tyler, TX 75702.
+
+# Natual Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: 510 South Southwest Loop 323 #200, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3453346, -95.3395468
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 50% of nail salons in Tyler, TX, #3 of 6 nail salons in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/natual-nails-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/natual-nails-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1217906618 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+New Smile Dental is a dentist in Tyler, TX.
+
+# New Smile Dental
+
+- Category: dentist
+- Services: dentist
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3049099, -95.3234726
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 80% of dentists in Tyler, TX, #4 of 5 dentists in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/new-smile-dental-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/new-smile-dental-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1002894923 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Nicholson Insurance Group LLC is an insurance agent in Tyler, TX at 16347 Hwy 155 S, Tyler, TX 75703. Phone: +19036307494. Website: https://www.nicholsoninsurancegroup.com/.
+
+# Nicholson Insurance Group LLC
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 16347 Hwy 155 S, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.2432004, -95.3981964
+- Phone: +19036307494
+- Website: https://www.nicholsoninsurancegroup.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 17% of insurance agents in Tyler, TX, #1 of 6 insurance agents in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/nicholson-insurance-group-llc-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nicholson-insurance-group-llc-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9772313369 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Optimal Performance Group is a gym in Tyler, TX at 116 West Erwin Street, Tyler, TX 75702. Phone: +19038570011. Website: https://opgm.net/.
+
+# Optimal Performance Group
+
+- Category: gym
+- Services: gym
+- Address: 116 West Erwin Street, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3505618, -95.3014507
+- Phone: +19038570011
+- Website: https://opgm.net/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 12% of gyms in Tyler, TX, #1 of 9 gyms in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/optimal-performance-group-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/optimal-performance-group-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6189254486 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Palm Beach Tan is a tanning salon in Tyler, TX at 5385 South Broadway Avenue, Tyler, TX 75703. Website: https://palmbeachtan.com/locations/TX/Tyler-South-Broadway-Avenue.
+
+# Palm Beach Tan
+
+- Category: tanning salon
+- Services: tanning salon
+- Address: 5385 South Broadway Avenue, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.2906441, -95.3045304
+- Phone: n/a
+- Website: https://palmbeachtan.com/locations/TX/Tyler-South-Broadway-Avenue
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.5/100 — Building — top 100% of tanning salons in Tyler, TX, #2 of 2 tanning salons in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/palm-beach-tan-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6323569410 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pamper U is a massage studio in Tyler, TX at 1400 West Southwest Loop 323 #100, Tyler, TX.
+
+# Pamper U
+
+- Category: massage
+- Services: massage
+- Address: 1400 West Southwest Loop 323 #100, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3027811, -95.3162718
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): 08:30-21:00
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 50% of massage studios in Tyler, TX, #1 of 2 massage studios in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pamper-u-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pamper-u-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12143280584 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Patriot Electric Services is an electrician in Tyler, TX at 6352 Old Noonday Road, Tyler, TX 75703. Phone: +19039542525. Website: https://www.patriotetx.com/.
+
+# Patriot Electric Services
+
+- Category: electrician
+- Services: electrician
+- Address: 6352 Old Noonday Road, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.2797789, -95.3444852
+- Phone: +19039542525
+- Website: https://www.patriotetx.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 00:00-24:00
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 100% of electricians in Tyler, TX, #1 of 1 electricians in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/patriot-electric-services-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/patriot-electric-services-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14122665280 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pep Boys is an auto repair shop in Tyler, TX.
+
+# Pep Boys
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3090363, -95.299801
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.5/100 — Building — top 93% of auto repair shops in Tyler, TX, #12 of 13 auto repair shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pep-boys-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pep-boys-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13157513470 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+PetSmart is a pet store in Tyler, TX at 5610 South Broadway Avenue, Tyler, TX 75703. Phone: +19035345261. Website: https://www.petsmart.com/stores/us/tx/tyler-store0186.html.
+
+# PetSmart
+
+- Category: pet store
+- Services: pet store
+- Address: 5610 South Broadway Avenue, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.2871567, -95.3013627
+- Phone: +19035345261
+- Website: https://www.petsmart.com/stores/us/tx/tyler-store0186.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Pulse Score: 49.1/100 — Building — top 100% of pet stores in Tyler, TX, #1 of 1 pet stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petsmart-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petsmart-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/503389374 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Planet Fitness is a gym in Tyler, TX at 2747 East Fifth Street, Tyler, TX 75701.
+
+# Planet Fitness
+
+- Category: gym
+- Services: gym
+- Address: 2747 East Fifth Street, Tyler, TX 75701
+- City: Tyler
+- State: TX
+- ZIP: 75701
+- Coordinates: 32.3316083, -95.2635921
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.3/100 — Building — top 89% of gyms in Tyler, TX, #8 of 9 gyms in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/planet-fitness-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/planet-fitness-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1073230597 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Ro's Car Audio is an auto repair shop in Noonday, TX at 16720 State Highway 155 South #2, Noonday, TX 75703. Phone: +19033124498. Website: https://roscaraudio.com/.
+
+# Ro's Car Audio
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 16720 State Highway 155 South #2, Noonday, TX 75703
+- City: Noonday
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.2389206, -95.404474
+- Phone: +19033124498
+- Website: https://roscaraudio.com/
+- Email: info@roscaraudio.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 8% of auto repair shops in Tyler, TX, #1 of 1 auto repair shops in Noonday (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ros-car-audio-noonday/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ros-car-audio-noonday.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13596149489 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rudy's Barber Shop is a barber shop in Tyler, TX.
+
+# Rudy's Barber Shop
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3538515, -95.2994482
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Tyler, TX, #1 of 1 barber shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rudys-barber-shop-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rudys-barber-shop-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13157513472 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sandy Furniture is a furniture store in Tyler, TX at 2722 West Gentry Parkway, Tyler, TX 75702.
+
+# Sandy Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: 2722 West Gentry Parkway, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3702292, -95.3325905
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 25% of furniture stores in Tyler, TX, #2 of 7 furniture stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sandy-furniture-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sandy-furniture-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9877741938 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Scrubbie's Car Wash is a car wash in Tyler, TX at 6461 Old Jacksonville Highway, Tyler, TX.
+
+# Scrubbie's Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 6461 Old Jacksonville Highway, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2779432, -95.3358548
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 75% of car washes in Tyler, TX, #3 of 4 car washes in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/scrubbies-car-wash-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/scrubbies-car-wash-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6634396235 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sleep First is a mattress store in Tyler, TX at 1400 West Southwest Loop 323 #90, Tyler, TX.
+
+# Sleep First
+
+- Category: mattress store
+- Services: mattress store
+- Address: 1400 West Southwest Loop 323 #90, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3027742, -95.3161778
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 50% of mattress stores in Tyler, TX, #1 of 2 mattress stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sleep-first-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sleep-first-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12143280583 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sleep Number is a mattress store in Tyler, TX.
+
+# Sleep Number
+
+- Category: mattress store
+- Services: mattress store
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2971668, -95.300324
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.7/100 — Building — top 100% of mattress stores in Tyler, TX, #2 of 2 mattress stores in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sleep-number-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sleep-number-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1222854099 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Snelling is a staffing agency in Tyler, TX at 1225 West Southwest Loop 323, Tyler, TX. Phone: +19035611181. Website: https://tyler.snelling.com/.
+
+# Snelling
+
+- Category: staffing agency
+- Services: staffing agency
+- Address: 1225 West Southwest Loop 323, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3039832, -95.31502
+- Phone: +19035611181
+- Website: https://tyler.snelling.com/
+- Email: info@snellingtyler.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 100% of staffing agencys in Tyler, TX, #1 of 1 staffing agencys in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/snelling-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/snelling-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12143280565 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Southern Tire Mart is a tire shop in Tyler, TX at 516 East Northeast Loop 323, Tyler, TX 75706.
+
+# Southern Tire Mart
+
+- Category: tire shop
+- Services: tire shop
+- Address: 516 East Northeast Loop 323, Tyler, TX 75706
+- City: Tyler
+- State: TX
+- ZIP: 75706
+- Coordinates: 32.3910089, -95.2891757
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43/100 — Unrated (not enough evidence yet) — top 100% of tire shops in Tyler, TX, #4 of 4 tire shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/southern-tire-mart-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/southern-tire-mart-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/733906934 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sport Clips is a hair salon in Tyler, TX at Troup Highway, Tyler, TX.
+
+# Sport Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Troup Highway, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3089073, -95.2737596
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.2/100 — Building — top 80% of hair salons in Tyler, TX, #4 of 5 hair salons in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sport-clips-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sport-clips-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6321766191 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sport Clips is a hair salon in Tyler, TX at 5365 South Broadway Avenue, Tyler, TX 75703.
+
+# Sport Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 5365 South Broadway Avenue, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.2908414, -95.3045384
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46/100 — Building — top 40% of hair salons in Tyler, TX, #2 of 5 hair salons in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sport-clips-tyler-n6323569408/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sport-clips-tyler-n6323569408.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6323569408 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Storology Storage is a self-storage facility in Tyler, TX.
+
+# Storology Storage
+
+- Category: storage units
+- Services: storage units
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2780811, -95.2758218
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 67% of self-storage facilitys in Tyler, TX, #2 of 3 self-storage facilitys in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/storology-storage-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/storology-storage-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1222648140 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Cleaning Co. Dry Cleaning is a dry cleaner in Tyler, TX.
+
+# The Cleaning Co. Dry Cleaning
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3066619, -95.272051
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Tyler, TX, #1 of 1 dry cleaners in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-cleaning-co-dry-cleaning-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-cleaning-co-dry-cleaning-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12143272067 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Law Offices of C. D. Cowan is a lawyer in Tyler, TX at 414 South Bonner Avenue, Tyler, TX 75702.
+
+# The Law Offices of C. D. Cowan
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 414 South Bonner Avenue, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3459736, -95.3056534
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 84% of lawyers in Tyler, TX, #5 of 6 lawyers in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-law-offices-of-c-d-cowan-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-law-offices-of-c-d-cowan-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1238480165 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The UPS Store is a printing service in Tyler, TX. Website: https://www.ups.com/.
+
+# The UPS Store
+
+- Category: printing services
+- Services: printing services
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.353343, -95.3472345
+- Phone: n/a
+- Website: https://www.ups.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.7/100 — Building — top 67% of printing services in Tyler, TX, #2 of 3 printing services in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-ups-store-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-ups-store-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4942568772 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+TK Nail & Spa is a nail salon in Tyler, TX.
+
+# TK Nail & Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3548164, -95.3465039
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 67% of nail salons in Tyler, TX, #4 of 6 nail salons in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tk-nail-and-spa-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tk-nail-and-spa-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10078458120 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+TLC Law, PLLC is a lawyer in Tyler, TX at 202 West Erwin Street, Tyler, TX 75702. Phone: +19038711714. Website: https://www.tlclawyers.com/.
+
+# TLC Law, PLLC
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 202 West Erwin Street, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3506554, -95.3020191
+- Phone: +19038711714
+- Website: https://www.tlclawyers.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 34% of lawyers in Tyler, TX, #2 of 6 lawyers in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tlc-law-pllc-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tlc-law-pllc-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8244209348 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tru Tan is a tanning salon in Tyler, TX at 1400 West Southwest Loop 323 #80, Tyler, TX.
+
+# Tru Tan
+
+- Category: tanning salon
+- Services: tanning salon
+- Address: 1400 West Southwest Loop 323 #80, Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.302776, -95.3160736
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-20:00
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 50% of tanning salons in Tyler, TX, #1 of 2 tanning salons in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tru-tan-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tru-tan-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12143280581 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Two Men and a Truck is a moving company in Tyler, TX at 10240 US Highway 69 North, Tyler, TX 75706. Phone: +19033473566. Website: https://twomenandatruck.com/movers/tx/tyler.
+
+# Two Men and a Truck
+
+- Category: movers
+- Services: movers, moving company
+- Address: 10240 US Highway 69 North, Tyler, TX 75706
+- City: Tyler
+- State: TX
+- ZIP: 75706
+- Coordinates: 32.4143336, -95.3520251
+- Phone: +19033473566
+- Website: https://twomenandatruck.com/movers/tx/tyler
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-12:00
+- Pulse Score: 47.1/100 — Building — top 100% of moving companys in Tyler, TX, #2 of 2 moving companys in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/two-men-and-a-truck-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/two-men-and-a-truck-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11016016722 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tyler Animal Emergency Hospital is a veterinarian in Tyler, TX.
+
+# Tyler Animal Emergency Hospital
+
+- Category: vet
+- Services: vet
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.303943, -95.3161487
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Tyler, TX, #1 of 2 veterinarians in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 44.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tyler-animal-emergency-hospital-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tyler-animal-emergency-hospital-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12143280573 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tyler Athletic & Swim Club is a gym in Tyler, TX at 2767 Oak Creek Boulevard, Tyler, TX 75703. Website: https://www.tylerathleticandswimclub.com/.
+
+# Tyler Athletic & Swim Club
+
+- Category: gym
+- Services: gym
+- Address: 2767 Oak Creek Boulevard, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.2544738, -95.3543463
+- Phone: n/a
+- Website: https://www.tylerathleticandswimclub.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 23% of gyms in Tyler, TX, #2 of 9 gyms in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tyler-athletic-and-swim-club-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tyler-athletic-and-swim-club-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/645030986 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tyler Veterinary Center is a veterinarian in Tyler, TX.
+
+# Tyler Veterinary Center
+
+- Category: vet
+- Services: vet
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3008052, -95.3047447
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in Tyler, TX, #2 of 2 veterinarians in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tyler-veterinary-center-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tyler-veterinary-center-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/677780958 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+United Motors of Texas is an used car dealer in Tyler, TX at 817 West Elm Street, Tyler, TX 75702. Phone: +19032530460. Website: https://unitedmotorsoftexas.com/.
+
+# United Motors of Texas
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 817 West Elm Street, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3496934, -95.3099119
+- Phone: +19032530460
+- Website: https://unitedmotorsoftexas.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-18:00
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 20% of used car dealers in Tyler, TX, #1 of 5 used car dealers in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/united-motors-of-texas-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/united-motors-of-texas-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9077513682 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+UT Health East Texas Physicians Tyler - Fifth Street Pediatrics is a pediatrician in Tyler, TX at 1000 East Fifth Street #Ste. 100, Tyler, TX 75701.
+
+# UT Health East Texas Physicians Tyler - Fifth Street Pediatrics
+
+- Category: pediatrician
+- Services: pediatrician
+- Address: 1000 East Fifth Street #Ste. 100, Tyler, TX 75701
+- City: Tyler
+- State: TX
+- ZIP: 75701
+- Coordinates: 32.3326129, -95.2902247
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 100% of pediatricians in Tyler, TX, #1 of 1 pediatricians in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ut-health-east-texas-physicians-tyler-fifth-street-pediatrics-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ut-health-east-texas-physicians-tyler-fifth-street-pediatrics-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/963837432 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+UT Health Olympic Center at Tyler is a gym in Tyler, TX at 701 Olympic Plaza Circle, Tyler, TX 75701.
+
+# UT Health Olympic Center at Tyler
+
+- Category: gym
+- Services: gym
+- Address: 701 Olympic Plaza Circle, Tyler, TX 75701
+- City: Tyler
+- State: TX
+- ZIP: 75701
+- Coordinates: 32.3368495, -95.2919969
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 34% of gyms in Tyler, TX, #3 of 9 gyms in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ut-health-olympic-center-at-tyler-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ut-health-olympic-center-at-tyler-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/527197291 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Valvoline is an auto repair shop in Tyler, TX. Website: https://store.vioc.com/tx/tyler/oil-change-070029.html.
+
+# Valvoline
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3293667, -95.2664919
+- Phone: n/a
+- Website: https://store.vioc.com/tx/tyler/oil-change-070029.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.3/100 — Building — top 72% of auto repair shops in Tyler, TX, #9 of 13 auto repair shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valvoline-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valvoline-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4694440209 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Valvoline is an auto repair shop in Tyler, TX.
+
+# Valvoline
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3077725, -95.2725578
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.8/100 — Building — top 100% of auto repair shops in Tyler, TX, #13 of 13 auto repair shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valvoline-tyler-n12143272066/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valvoline-tyler-n12143272066.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12143272066 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Valvoline is an auto repair shop in Tyler, TX.
+
+# Valvoline
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.3227433, -95.3009815
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.9/100 — Building — top 79% of auto repair shops in Tyler, TX, #10 of 13 auto repair shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valvoline-tyler-n13157513475/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valvoline-tyler-n13157513475.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13157513475 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Valvoline is an auto repair shop in Tyler, TX at 6310 South Broadway Avenue, Tyler, TX 75703. Website: https://store.vioc.com/tx/tyler/oil-change-070036.html.
+
+# Valvoline
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change
+- Address: 6310 South Broadway Avenue, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.2803739, -95.3053995
+- Phone: n/a
+- Website: https://store.vioc.com/tx/tyler/oil-change-070036.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 49.2/100 — Building — top 50% of auto repair shops in Tyler, TX, #6 of 13 auto repair shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valvoline-tyler-n6631963162/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valvoline-tyler-n6631963162.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6631963162 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Valvoline is an auto repair shop in Tyler, TX. Website: https://store.vioc.com/tx/tyler/oil-change-070031.html.
+
+# Valvoline
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Tyler, TX
+- City: Tyler
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.2760378, -95.3070962
+- Phone: n/a
+- Website: https://store.vioc.com/tx/tyler/oil-change-070031.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.6/100 — Building — top 65% of auto repair shops in Tyler, TX, #8 of 13 auto repair shops in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valvoline-tyler-w1221219630/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valvoline-tyler-w1221219630.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1221219630 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Whalen Law Office is a lawyer in Tyler, TX at 100 East Ferguson Street ##1017, Tyler, TX 75702. Phone: +14308080950. Website: https://www.whalenlawoffice.com/federal-criminal-defense-lawyer/tyler/.
+
+# Whalen Law Office
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 100 East Ferguson Street ##1017, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3520869, -95.3003044
+- Phone: +14308080950
+- Website: https://www.whalenlawoffice.com/federal-criminal-defense-lawyer/tyler/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 08:00-17:00, Fr 08:00-14:00
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 17% of lawyers in Tyler, TX, #1 of 6 lawyers in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/whalen-law-office-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/whalen-law-office-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13694383827 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+William H. Lively, Jr. is a lawyer in Tyler, TX at 422 South Bonner Avenue, Tyler, TX 75702.
+
+# William H. Lively, Jr.
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 422 South Bonner Avenue, Tyler, TX 75702
+- City: Tyler
+- State: TX
+- ZIP: 75702
+- Coordinates: 32.3453207, -95.3056531
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Tyler, TX, #6 of 6 lawyers in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/william-h-lively-jr-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/william-h-lively-jr-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1238480170 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Woodcreek Athletic Club is a gym in Tyler, TX at 6110 South Broadway Avenue, Tyler, TX 75703.
+
+# Woodcreek Athletic Club
+
+- Category: gym
+- Services: gym
+- Address: 6110 South Broadway Avenue, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.28268, -95.3039941
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 45% of gyms in Tyler, TX, #4 of 9 gyms in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/woodcreek-athletic-club-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/woodcreek-athletic-club-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6631963136 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Worden Dentistry is a dentist in Tyler, TX at 2336 Aberdeen Drive, Tyler, TX 75703. Phone: +19035811646. Website: https://www.wordendentistry.com/.
+
+# Worden Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 2336 Aberdeen Drive, Tyler, TX 75703
+- City: Tyler
+- State: TX
+- ZIP: 75703
+- Coordinates: 32.3044673, -95.2710923
+- Phone: +19035811646
+- Website: https://www.wordendentistry.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 08:00-17:00
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 40% of dentists in Tyler, TX, #2 of 5 dentists in Tyler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/worden-dentistry-tyler/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/worden-dentistry-tyler.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10066583855 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

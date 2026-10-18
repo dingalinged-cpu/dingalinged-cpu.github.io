@@ -13,7 +13,7 @@ State Farm Derryl W. Mitchell is an insurance agent in Farmington Hills, MI at 3
 - Website: https://www.statefarm.com/agent/US/MI/Farmingtn-hls/Derryl-Mitchell-L0KJH1YS000
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 14% of insurance agents in Detroit, MI, #3 of 8 insurance agents in Farmington Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 14% of insurance agents in Detroit, MI, #3 of 8 insurance agents in Farmington Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

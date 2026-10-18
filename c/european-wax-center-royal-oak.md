@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Royal Oak, MI at 30955 Woodward Avenue 
 - Website: https://locations.waxcenter.com/mi/royaloak/royal-oak-woodward-corners-0932.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-20:00
-- Pulse Score: 49.9/100 — Building — top 40% of waxing salons in Detroit, MI, #1 of 1 waxing salons in Royal Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 66.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 40% of waxing salons in Detroit, MI, #1 of 1 waxing salons in Royal Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

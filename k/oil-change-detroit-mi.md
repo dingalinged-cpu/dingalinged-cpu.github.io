@@ -12,7 +12,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. Gratiot Auto Repair | Organic #4 | Pulse Score 60.2/100 (Unrated, #18 in city) | Gratiot Auto Repair is an auto repair shop in Detroit, MI at 13990 Gratiot Avenue, Detroit, MI. Phone: +13132454545. | https://registry-edge.dingalinged.workers.dev/c/gratiot-auto-repair-detroit/
 5. 70s Quick Lube | Organic #5 | Pulse Score 58.3/100 (Unrated, #30 in city) | 70s Quick Lube is an auto repair shop in Detroit, MI at 9601, Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/70s-quick-lube-detroit/
 6. Under The Hood | Organic #6 | Pulse Score 56.6/100 (Unrated, #92 in city) | Under The Hood is an auto repair shop in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/under-the-hood-detroit/
-7. Valvoline | Organic #7 | Pulse Score 48.7/100 (Building, #117 in city) | Valvoline is an auto repair shop in Detroit, MI at 18306 Grand River Avenue, Detroit, MI 48223. Phone: +13136466905. Website: https://www.detroitquicklube.com/. | https://registry-edge.dingalinged.workers.dev/c/valvoline-detroit/
+7. Valvoline | Organic #7 | Pulse Score 48.7/100 (Building, #116 in city) | Valvoline is an auto repair shop in Detroit, MI at 18306 Grand River Avenue, Detroit, MI 48223. Phone: +13136466905. Website: https://www.detroitquicklube.com/. | https://registry-edge.dingalinged.workers.dev/c/valvoline-detroit/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change detroit mi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

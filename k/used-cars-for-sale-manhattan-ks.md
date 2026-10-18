@@ -6,10 +6,10 @@ Also answers: used cars for sale in Manhattan, KS; used cars for sale near me (M
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Manhattan Motors | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Manhattan Motors is an used car dealer in Manhattan, KS at 1826 Tuttle Creek Boulevard, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/manhattan-motors-manhattan/
-2. Kia of Manhattan | Organic #2 | Pulse Score 48.1/100 (Unrated, #2 in city) | Kia of Manhattan is an used car dealer in Manhattan, KS at 8223 South Port Drive, Manhattan, KS 66502. Phone: +18667882636. | https://registry-edge.dingalinged.workers.dev/c/kia-of-manhattan-manhattan/
-3. Max Hyundai of Manhattan | Organic #3 | Pulse Score 46.8/100 (Building, #3 in city) | Max Hyundai of Manhattan is an used car dealer in Manhattan, KS at 7920 US 24, Manhattan, KS 66502. Website: https://www.maxhyundaimanhattan.com/. | https://registry-edge.dingalinged.workers.dev/c/max-hyundai-of-manhattan-manhattan/
-4. Murdock Chevrolet | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Murdock Chevrolet is an used car dealer in Manhattan, KS at 600 McCall Road, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/murdock-chevrolet-manhattan/
+1. Manhattan Motors | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Manhattan Motors is an used car dealer in Manhattan, KS at 1826 Tuttle Creek Boulevard, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/manhattan-motors-manhattan/
+2. Kia of Manhattan | Organic #2 | Pulse Score 47.9/100 (Unrated, #2 in city) | Kia of Manhattan is an used car dealer in Manhattan, KS at 8223 South Port Drive, Manhattan, KS 66502. Phone: +18667882636. | https://registry-edge.dingalinged.workers.dev/c/kia-of-manhattan-manhattan/
+3. Max Hyundai of Manhattan | Organic #3 | Pulse Score 46.7/100 (Building, #3 in city) | Max Hyundai of Manhattan is an used car dealer in Manhattan, KS at 7920 US 24, Manhattan, KS 66502. Website: https://www.maxhyundaimanhattan.com/. | https://registry-edge.dingalinged.workers.dev/c/max-hyundai-of-manhattan-manhattan/
+4. Murdock Chevrolet | Organic #4 | Pulse Score 44.1/100 (Building, #4 in city) | Murdock Chevrolet is an used car dealer in Manhattan, KS at 600 McCall Road, Manhattan, KS 66502. | https://registry-edge.dingalinged.workers.dev/c/murdock-chevrolet-manhattan/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale manhattan ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

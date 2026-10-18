@@ -13,7 +13,7 @@ Storage Rentals of America is a self-storage facility in Romulus, MI. Phone: +18
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 65% of self-storage facilitys in Detroit, MI, #2 of 2 self-storage facilitys in Romulus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 64% of self-storage facilitys in Detroit, MI, #2 of 2 self-storage facilitys in Romulus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

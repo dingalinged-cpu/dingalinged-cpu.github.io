@@ -7,7 +7,7 @@ Also answers: plumber in North Huntingdon Township, PA; plumber near me (North H
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Zona Plumbing Inc | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Zona Plumbing Inc is a plumber in Irwin, PA at 11010 Parker Drive, Irwin, PA 15642. Phone: +14127541824. Website: https://zonaplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/zona-plumbing-inc-irwin/
-2. Cherny Plumbing & Heating, Inc. | Organic #2 | Pulse Score 56.7/100 (Unrated, #1 in city) | Cherny Plumbing & Heating, Inc. is a plumber in North Huntingdon Township, PA at 2164 Guffey Road, North Huntingdon Township, PA 15642. | https://registry-edge.dingalinged.workers.dev/c/cherny-plumbing-and-heating-inc-north-huntingdon-township/
+2. Cherny Plumbing & Heating, Inc. | Organic #2 | Pulse Score 56.6/100 (Unrated, #1 in city) | Cherny Plumbing & Heating, Inc. is a plumber in North Huntingdon Township, PA at 2164 Guffey Road, North Huntingdon Township, PA 15642. | https://registry-edge.dingalinged.workers.dev/c/cherny-plumbing-and-heating-inc-north-huntingdon-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber north huntingdon township pa | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

@@ -1,0 +1,686 @@
+# Company Registry: company records, metro copperas-cove-tx
+
+> 25 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+254 Storage is a self-storage facility in Copperas Cove, TX at 1606 South FM 116, Copperas Cove, TX. Phone: +12547867243.
+
+# 254 Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 1606 South FM 116, Copperas Cove, TX
+- City: Copperas Cove
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1069229, -97.9079995
+- Phone: +12547867243
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 100% of self-storage facilitys in Copperas Cove, TX, #1 of 1 self-storage facilitys in Copperas Cove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/254-storage-copperas-cove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/254-storage-copperas-cove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/relation/18573742 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Best Cleaners is a dry cleaner in Copperas Cove, TX.
+
+# Best Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: Copperas Cove, TX
+- City: Copperas Cove
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1266584, -97.9027153
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Copperas Cove, TX, #1 of 1 dry cleaners in Copperas Cove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/best-cleaners-copperas-cove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/best-cleaners-copperas-cove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3942767661 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bill French Jewelers is a jewelry store in Copperas Cove, TX at 232 Robert Griffin III Drive #500, Copperas Cove, TX 76522.
+
+# Bill French Jewelers
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 232 Robert Griffin III Drive #500, Copperas Cove, TX 76522
+- City: Copperas Cove
+- State: TX
+- ZIP: 76522
+- Coordinates: 31.11793, -97.8666883
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 100% of jewelry stores in Copperas Cove, TX, #1 of 1 jewelry stores in Copperas Cove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bill-french-jewelers-copperas-cove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bill-french-jewelers-copperas-cove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9033660985 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tire is a tire shop in Copperas Cove, TX at 2621 East Hwy 190, Copperas Cove, TX 76522. Phone: +12545426545.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 2621 East Hwy 190, Copperas Cove, TX 76522
+- City: Copperas Cove
+- State: TX
+- ZIP: 76522
+- Coordinates: 31.1209539, -97.8739335
+- Phone: +12545426545
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.5/100 — Building — top 100% of tire shops in Copperas Cove, TX, #1 of 1 tire shops in Copperas Cove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-copperas-cove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-copperas-cove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6185272196 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Gold's Gym is a gym in Copperas Cove, TX at 249 Robert Griffin III Drive, Copperas Cove, TX 76522.
+
+# Gold's Gym
+
+- Category: gym
+- Services: gym
+- Address: 249 Robert Griffin III Drive, Copperas Cove, TX 76522
+- City: Copperas Cove
+- State: TX
+- ZIP: 76522
+- Coordinates: 31.1169322, -97.8648286
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.8/100 — Building — top 100% of gyms in Copperas Cove, TX, #1 of 1 gyms in Copperas Cove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/golds-gym-copperas-cove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/golds-gym-copperas-cove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/976163627 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Copperas Cove, TX at 2990 East Highway 190, Copperas Cove, TX 76522.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 2990 East Highway 190, Copperas Cove, TX 76522
+- City: Copperas Cove
+- State: TX
+- ZIP: 76522
+- Coordinates: 31.1200268, -97.8636618
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.2/100 — Unrated (not enough evidence yet) — top 100% of car washes in Copperas Cove, TX, #1 of 1 car washes in Copperas Cove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-copperas-cove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-copperas-cove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848526005 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jackson Properties is a real estate agency in Copperas Cove, TX at 2604 East Business 190, Copperas Cove, TX 76522. Phone: +12545473600. Website: https://jacksonprp.com/.
+
+# Jackson Properties
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 2604 East Business 190, Copperas Cove, TX 76522
+- City: Copperas Cove
+- State: TX
+- ZIP: 76522
+- Coordinates: 31.1201737, -97.8739074
+- Phone: +12545473600
+- Website: https://jacksonprp.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-17:30
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in Copperas Cove, TX, #1 of 1 real estate agencys in Copperas Cove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jackson-properties-copperas-cove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jackson-properties-copperas-cove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9766927716 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mayhem Garage is an auto repair shop in Kempner, TX at 7167 FM 2657, Kempner, TX 76539. Phone: +12542263566.
+
+# Mayhem Garage
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change
+- Address: 7167 FM 2657, Kempner, TX 76539
+- City: Kempner
+- State: TX
+- ZIP: 76539
+- Coordinates: 31.0666658, -97.9198949
+- Phone: +12542263566
+- Website: n/a
+- Email: info@mayhemgaragetx.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa-Su off
+- Pulse Score: 61.6/100 — Good — top 67% of auto repair shops in Copperas Cove, TX, #1 of 1 auto repair shops in Kempner (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mayhem-garage-kempner/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mayhem-garage-kempner.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13830696140 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Railhead Inspection Station is a vehicle inspection station in Coryell County, TX.
+
+# Railhead Inspection Station
+
+- Category: car inspection
+- Services: car inspection
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1450837, -97.8540662
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 10% of vehicle inspection stations in Copperas Cove, TX, #1 of 10 vehicle inspection stations in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/railhead-inspection-station-coryell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/railhead-inspection-station-coryell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9324932735 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Railhead Inspection Station is a vehicle inspection station in Coryell County, TX.
+
+# Railhead Inspection Station
+
+- Category: car inspection
+- Services: car inspection
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1458379, -97.8534746
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 20% of vehicle inspection stations in Copperas Cove, TX, #2 of 10 vehicle inspection stations in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/railhead-inspection-station-coryell-county-n9324932736/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/railhead-inspection-station-coryell-county-n9324932736.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9324932736 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Railhead Inspection Station is a vehicle inspection station in Coryell County, TX.
+
+# Railhead Inspection Station
+
+- Category: car inspection
+- Services: car inspection
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1465868, -97.8528892
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 30% of vehicle inspection stations in Copperas Cove, TX, #3 of 10 vehicle inspection stations in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/railhead-inspection-station-coryell-county-n9324932737/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/railhead-inspection-station-coryell-county-n9324932737.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9324932737 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Railhead Inspection Station is a vehicle inspection station in Coryell County, TX.
+
+# Railhead Inspection Station
+
+- Category: car inspection
+- Services: car inspection
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1473409, -97.8523038
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 40% of vehicle inspection stations in Copperas Cove, TX, #4 of 10 vehicle inspection stations in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/railhead-inspection-station-coryell-county-n9324932738/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/railhead-inspection-station-coryell-county-n9324932738.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9324932738 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Railhead Inspection Station is a vehicle inspection station in Coryell County, TX.
+
+# Railhead Inspection Station
+
+- Category: car inspection
+- Services: car inspection
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1481003, -97.8517246
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 50% of vehicle inspection stations in Copperas Cove, TX, #5 of 10 vehicle inspection stations in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/railhead-inspection-station-coryell-county-n9324932739/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/railhead-inspection-station-coryell-county-n9324932739.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9324932739 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Railhead Inspection Station is a vehicle inspection station in Coryell County, TX.
+
+# Railhead Inspection Station
+
+- Category: car inspection
+- Services: car inspection
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1488386, -97.8511269
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 60% of vehicle inspection stations in Copperas Cove, TX, #6 of 10 vehicle inspection stations in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/railhead-inspection-station-coryell-county-n9324932740/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/railhead-inspection-station-coryell-county-n9324932740.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9324932740 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Railhead Inspection Station is a vehicle inspection station in Coryell County, TX.
+
+# Railhead Inspection Station
+
+- Category: car inspection
+- Services: car inspection
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1496033, -97.8505476
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 70% of vehicle inspection stations in Copperas Cove, TX, #7 of 10 vehicle inspection stations in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/railhead-inspection-station-coryell-county-n9324932741/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/railhead-inspection-station-coryell-county-n9324932741.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9324932741 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Railhead Inspection Station is a vehicle inspection station in Coryell County, TX.
+
+# Railhead Inspection Station
+
+- Category: car inspection
+- Services: car inspection
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1511221, -97.8493769
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 80% of vehicle inspection stations in Copperas Cove, TX, #8 of 10 vehicle inspection stations in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/railhead-inspection-station-coryell-county-n9324932742/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/railhead-inspection-station-coryell-county-n9324932742.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9324932742 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Railhead Inspection Station is a vehicle inspection station in Coryell County, TX.
+
+# Railhead Inspection Station
+
+- Category: car inspection
+- Services: car inspection
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.151871, -97.8487976
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 90% of vehicle inspection stations in Copperas Cove, TX, #9 of 10 vehicle inspection stations in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/railhead-inspection-station-coryell-county-n9324932743/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/railhead-inspection-station-coryell-county-n9324932743.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9324932743 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Railhead Inspection Station is a vehicle inspection station in Coryell County, TX.
+
+# Railhead Inspection Station
+
+- Category: car inspection
+- Services: car inspection
+- Address: Coryell County, TX
+- City: Coryell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1503443, -97.8499636
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 100% of vehicle inspection stations in Copperas Cove, TX, #10 of 10 vehicle inspection stations in Coryell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/railhead-inspection-station-coryell-county-n9324932772/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/railhead-inspection-station-coryell-county-n9324932772.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9324932772 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sims Automotive Repair is an auto repair shop in Copperas Cove, TX at 801 Leonhard Street, Copperas Cove, TX 76522. Phone: +12549787678. Website: https://www.simsautomotiverepair.com/.
+
+# Sims Automotive Repair
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 801 Leonhard Street, Copperas Cove, TX 76522
+- City: Copperas Cove
+- State: TX
+- ZIP: 76522
+- Coordinates: 31.1147889, -97.9043199
+- Phone: +12549787678
+- Website: https://www.simsautomotiverepair.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:30
+- Pulse Score: 63.9/100 — Good — top 34% of auto repair shops in Copperas Cove, TX, #1 of 2 auto repair shops in Copperas Cove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sims-automotive-repair-copperas-cove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sims-automotive-repair-copperas-cove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13879189003 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Smart Liquor is a liquor store in Copperas Cove, TX at 2202 Central Texas Expressway, Copperas Cove, TX 76522.
+
+# Smart Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 2202 Central Texas Expressway, Copperas Cove, TX 76522
+- City: Copperas Cove
+- State: TX
+- ZIP: 76522
+- Coordinates: 31.0941357, -97.9542886
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 50% of liquor stores in Copperas Cove, TX, #1 of 2 liquor stores in Copperas Cove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/smart-liquor-copperas-cove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/smart-liquor-copperas-cove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6904167525 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Soggy Doggies, LLC is a dog groomer in Copperas Cove, TX at 301 West Highway 190, Copperas Cove, TX 76522. Phone: +12545479663. Website: https://www.soggydoggiesllc.com/.
+
+# Soggy Doggies, LLC
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: 301 West Highway 190, Copperas Cove, TX 76522
+- City: Copperas Cove
+- State: TX
+- ZIP: 76522
+- Coordinates: 31.1106424, -97.9106622
+- Phone: +12545479663
+- Website: https://www.soggydoggiesllc.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 08:00-17:30
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Copperas Cove, TX, #1 of 1 dog groomers in Copperas Cove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/soggy-doggies-llc-copperas-cove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/soggy-doggies-llc-copperas-cove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5781420298 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texas Discount Automotive is an auto repair shop in Copperas Cove, TX at 2053 FM 2657, Copperas Cove, TX 76522.
+
+# Texas Discount Automotive
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2053 FM 2657, Copperas Cove, TX 76522
+- City: Copperas Cove
+- State: TX
+- ZIP: 76522
+- Coordinates: 31.0947935, -97.9244928
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 100% of auto repair shops in Copperas Cove, TX, #2 of 2 auto repair shops in Copperas Cove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-discount-automotive-copperas-cove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-discount-automotive-copperas-cove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/976163622 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Rustic Chicken Flowers and Gifts is a florist in Copperas Cove, TX at 2126 East Highway 190 #A, Copperas Cove, TX 76522. Phone: +12545777777. Website: https://copperascovesflorist.com/.
+
+# The Rustic Chicken Flowers and Gifts
+
+- Category: florist
+- Services: florist
+- Address: 2126 East Highway 190 #A, Copperas Cove, TX 76522
+- City: Copperas Cove
+- State: TX
+- ZIP: 76522
+- Coordinates: 31.1200184, -97.8803666
+- Phone: +12545777777
+- Website: https://copperascovesflorist.com/
+- Email: therusticchicken@gmail.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 100% of florists in Copperas Cove, TX, #1 of 1 florists in Copperas Cove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-rustic-chicken-flowers-and-gifts-copperas-cove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-rustic-chicken-flowers-and-gifts-copperas-cove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13931924308 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Twin Liquors is a liquor store in Copperas Cove, TX at 232 Robert Griffin III Drive #204, Copperas Cove, TX 76522.
+
+# Twin Liquors
+
+- Category: liquor store
+- Services: liquor store
+- Address: 232 Robert Griffin III Drive #204, Copperas Cove, TX 76522
+- City: Copperas Cove
+- State: TX
+- ZIP: 76522
+- Coordinates: 31.1186176, -97.8667002
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.7/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in Copperas Cove, TX, #2 of 2 liquor stores in Copperas Cove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/twin-liquors-copperas-cove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/twin-liquors-copperas-cove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9033660987 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+West Fort Hood Physical Fitness Center is a gym in Bell County, TX at 90007 South Clarke Road, Bell County, TX.
+
+# West Fort Hood Physical Fitness Center
+
+- Category: gym
+- Services: gym
+- Address: 90007 South Clarke Road, Bell County, TX
+- City: Bell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0808224, -97.8399621
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 50% of gyms in Copperas Cove, TX, #1 of 1 gyms in Bell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 44.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/west-fort-hood-physical-fitness-center-bell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/west-fort-hood-physical-fitness-center-bell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848468328 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

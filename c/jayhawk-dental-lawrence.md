@@ -13,7 +13,7 @@ Jayhawk Dental is a dentist in Lawrence, KS at 826 Iowa Street, Lawrence, KS 660
 - Website: https://www.jayhawkdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-13:00, 14:00-17:00; Fr 08:00-13:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 50% of dentists in Lawrence, KS, #13 of 26 dentists in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 50% of dentists in Lawrence, KS, #13 of 26 dentists in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

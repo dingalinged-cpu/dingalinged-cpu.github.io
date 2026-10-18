@@ -13,7 +13,7 @@ Sugar Britches is a bakery in Jefferson City, MO at 629 West McCarty Street, Jef
 - Website: n/a
 - Email: sugarbritchesmarket@gmail.com
 - Opening hours (OSM syntax): Tu-Fr 06:30-16:00; Sa 08:00-14:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 50% of bakerys in Jefferson City, MO, #1 of 2 bakerys in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 50% of bakerys in Jefferson City, MO, #1 of 2 bakerys in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

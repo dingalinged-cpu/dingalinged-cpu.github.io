@@ -13,7 +13,7 @@ The Miller Law Firm, P.C. is a lawyer in Detroit, MI at 1001 Woodward Avenue #Su
 - Website: https://millerlawpc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 5% of lawyers in Detroit, MI, #1 of 13 lawyers in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 5% of lawyers in Detroit, MI, #1 of 13 lawyers in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

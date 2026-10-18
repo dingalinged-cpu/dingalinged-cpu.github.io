@@ -13,7 +13,7 @@ Floors Plus is a flooring company in Springfield, MO at 3425 South Campbell Aven
 - Website: https://floorsplusnixa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:30; Sa 09:00-15:00
-- Pulse Score: 62.7/100 — Good — top 50% of flooring companys in Springfield, MO, #1 of 2 flooring companys in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 50% of flooring companys in Springfield, MO, #1 of 2 flooring companys in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: pilates in Carmel, IN; pilates near me (Carmel, IN); best pilates 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Core Pilates and Fitness | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Core Pilates and Fitness is a pilates studio in Carmel, IN at 1435 Chase Court, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/core-pilates-and-fitness-carmel/
-2. Reforming Indy Pilates Studio - Carmel | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Reforming Indy Pilates Studio - Carmel is a pilates studio in Carmel, IN at 12505 Old Meridian Street, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/reforming-indy-pilates-studio-carmel-carmel/
+1. Core Pilates and Fitness | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Core Pilates and Fitness is a pilates studio in Carmel, IN at 1435 Chase Court, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/core-pilates-and-fitness-carmel/
+2. Reforming Indy Pilates Studio - Carmel | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Reforming Indy Pilates Studio - Carmel is a pilates studio in Carmel, IN at 12505 Old Meridian Street, Carmel, IN 46032. | https://registry-edge.dingalinged.workers.dev/c/reforming-indy-pilates-studio-carmel-carmel/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates carmel in | category: Fitness | industry benchmark: Health & Fitness

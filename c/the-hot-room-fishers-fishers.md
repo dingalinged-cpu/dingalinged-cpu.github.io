@@ -13,7 +13,7 @@ The Hot Room Fishers is a yoga studio in Fishers, IN at 11591 Yard Street #520, 
 - Website: https://thehotroom.com/
 - Email: n/a
 - Opening hours (OSM syntax): Su 07:30-19:30, Mo-Th 05:00-21:30, Fr 05:00-18:30, Sa 07:30-14:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 23% of yoga studios in Indianapolis, IN, #1 of 2 yoga studios in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 23% of yoga studios in Indianapolis, IN, #1 of 2 yoga studios in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

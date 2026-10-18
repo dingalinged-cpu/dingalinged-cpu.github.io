@@ -13,7 +13,7 @@ Suburban Chrysler Dodge Jeep Ram of Farmington Hills is an used car dealer in Fa
 - Website: https://www.suburbanchryslerdodgejeepramoffarmingtonhills.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 88% of used car dealers in Detroit, MI, #1 of 2 used car dealers in Farmington Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Unrated (not enough evidence yet) — top 89% of used car dealers in Detroit, MI, #1 of 2 used car dealers in Farmington Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

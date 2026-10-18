@@ -6,7 +6,7 @@ Also answers: realtor in High Ridge Township, MO; realtor near me (High Ridge To
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Image Realty | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Image Realty is a real estate agency in High Ridge Township, MO at 2797 High Ridge Boulevard, High Ridge Township, MO 63049. Phone: +16366776701. | https://registry-edge.dingalinged.workers.dev/c/image-realty-high-ridge-township/
+1. Image Realty | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Image Realty is a real estate agency in High Ridge Township, MO at 2797 High Ridge Boulevard, High Ridge Township, MO 63049. Phone: +16366776701. | https://registry-edge.dingalinged.workers.dev/c/image-realty-high-ridge-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor high ridge township mo | category: real_estate | industry benchmark: Real Estate

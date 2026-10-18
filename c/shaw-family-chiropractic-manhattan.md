@@ -13,7 +13,7 @@ Shaw Family Chiropractic is a chiropractor in Manhattan, KS at 1325 Anderson Ave
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 10:00-19:00; We 08:00-11:00,14:00-18:00; Th-Fr 10:00-19:00; Sa 09:00-12:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 17% of chiropractors in Manhattan, KS, #1 of 6 chiropractors in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 17% of chiropractors in Manhattan, KS, #1 of 6 chiropractors in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

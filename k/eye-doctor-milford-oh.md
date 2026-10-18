@@ -6,7 +6,7 @@ Also answers: eye doctor in Milford, OH; eye doctor near me (Milford, OH); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. My Eye | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | My Eye is an eye care practice in Milford, OH at 1090 State Route 28 #A, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/my-eye-milford/
+1. My Eye | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | My Eye is an eye care practice in Milford, OH at 1090 State Route 28 #A, Milford, OH 45150. | https://registry-edge.dingalinged.workers.dev/c/my-eye-milford/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor milford oh | category: Health & medical | industry benchmark: Physicians & Surgeons

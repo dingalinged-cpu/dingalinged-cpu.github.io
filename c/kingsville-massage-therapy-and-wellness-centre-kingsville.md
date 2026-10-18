@@ -13,7 +13,7 @@ Kingsville Massage Therapy & Wellness Centre is a massage studio in Kingsville, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 13% of massage studios in Detroit, MI, #1 of 3 massage studios in Kingsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 15% of massage studios in Detroit, MI, #1 of 3 massage studios in Kingsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

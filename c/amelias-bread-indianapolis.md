@@ -13,7 +13,7 @@ Amelia's Bread is a bakery in Indianapolis, IN at 1060 North Capitol Avenue #2-1
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-20:00
-- Pulse Score: 51.1/100 — Unrated (not enough evidence yet) — top 79% of bakerys in Indianapolis, IN, #25 of 29 bakerys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.3, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.1/100 — Unrated (not enough evidence yet) — top 77% of bakerys in Indianapolis, IN, #24 of 29 bakerys in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.3, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

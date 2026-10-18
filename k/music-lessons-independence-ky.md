@@ -6,7 +6,7 @@ Also answers: music lessons in Independence, KY; music lessons near me (Independ
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hazelbaker | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Hazelbaker is a music school in Independence, KY. Phone: +18595569999. | https://registry-edge.dingalinged.workers.dev/c/hazelbaker-independence/
+1. Hazelbaker | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Hazelbaker is a music school in Independence, KY. Phone: +18595569999. | https://registry-edge.dingalinged.workers.dev/c/hazelbaker-independence/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons independence ky | category: Education & childcare | industry benchmark: Education & Instruction

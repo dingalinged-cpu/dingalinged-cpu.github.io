@@ -6,7 +6,7 @@ Also answers: dance studio in Crescent Springs, KY; dance studio near me (Cresce
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Dance House | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | The Dance House is a dance studio in Crescent Springs, KY at 2341 Buttermilk Pike, Crescent Springs, KY 41017. Website: https://thedancehouseky.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dance-house-crescent-springs/
+1. The Dance House | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | The Dance House is a dance studio in Crescent Springs, KY at 2341 Buttermilk Pike, Crescent Springs, KY 41017. Website: https://thedancehouseky.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dance-house-crescent-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio crescent springs ky | category: Fitness | industry benchmark: Health & Fitness

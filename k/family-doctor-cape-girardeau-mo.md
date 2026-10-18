@@ -6,7 +6,7 @@ Also answers: family doctor in Cape Girardeau, MO; family doctor near me (Cape G
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Charles Pewitt | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Charles Pewitt is a family medicine practice in Cape Girardeau, MO at 24 North Sprigg Street, Cape Girardeau, MO 63701. Phone: +15733327992. | https://registry-edge.dingalinged.workers.dev/c/charles-pewitt-cape-girardeau/
+1. Charles Pewitt | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Charles Pewitt is a family medicine practice in Cape Girardeau, MO at 24 North Sprigg Street, Cape Girardeau, MO 63701. Phone: +15733327992. | https://registry-edge.dingalinged.workers.dev/c/charles-pewitt-cape-girardeau/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor cape girardeau mo | category: Health & medical | industry benchmark: Physicians & Surgeons

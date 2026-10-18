@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Mr. Biscuits Bakery | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Mr. Biscuits Bakery is a bakery in Wheat Ridge, CO at 7176 West 38th Avenue, Wheat Ridge, CO 80033. Phone: +17207374126. Website: https://www.mrbiscuitsco.com/. | https://registry-edge.dingalinged.workers.dev/c/mr-biscuits-bakery-wheat-ridge/
 2. Rich Spirit Bagels | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Rich Spirit Bagels is a bakery in Wheat Ridge, CO at 10081 West 26th Avenue, Wheat Ridge, CO 80215. Website: https://www.richspiritbagels.com/. | https://registry-edge.dingalinged.workers.dev/c/rich-spirit-bagels-wheat-ridge/
-3. GetRight's Bakery | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | GetRight's Bakery is a bakery in Wheat Ridge, CO at 6985 West 38th Avenue, Wheat Ridge, CO 80033. Website: https://goodygetright.com/. | https://registry-edge.dingalinged.workers.dev/c/getrights-bakery-wheat-ridge/
+3. GetRight's Bakery | Organic #3 | Pulse Score 58.1/100 (Unrated, #3 in city) | GetRight's Bakery is a bakery in Wheat Ridge, CO at 6985 West 38th Avenue, Wheat Ridge, CO 80033. Website: https://goodygetright.com/. | https://registry-edge.dingalinged.workers.dev/c/getrights-bakery-wheat-ridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery wheat ridge co | category: Events & weddings | industry benchmark: Personal Services

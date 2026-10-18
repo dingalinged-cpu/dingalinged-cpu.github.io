@@ -13,7 +13,7 @@ ATI Physical Therapy is a physical therapy clinic in Westfield, IN at 14641, Wes
 - Website: https://locations.atipt.com/carmel
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00
-- Pulse Score: 49.7/100 — Building — top 31% of physical therapy clinics in Indianapolis, IN, #1 of 1 physical therapy clinics in Westfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 24% of physical therapy clinics in Indianapolis, IN, #1 of 1 physical therapy clinics in Westfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

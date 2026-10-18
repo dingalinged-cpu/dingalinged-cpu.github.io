@@ -13,7 +13,7 @@ Woof Gang Bakery & Grooming is a dog groomer in Northville, MI at 18865 Traditio
 - Website: https://woofgangbakery.com/pages/locations/northville
 - Email: northvillemi@woofgangbakery.com
 - Opening hours (OSM syntax): Mo-We 08:00-18:00; Sa 09:00-18:00; Su 10:00-18:00
-- Pulse Score: 51/100 — Fair — top 100% of dog groomers in Detroit, MI, #1 of 1 dog groomers in Northville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Fair — top 100% of dog groomers in Detroit, MI, #1 of 1 dog groomers in Northville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

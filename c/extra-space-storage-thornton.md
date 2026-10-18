@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Thornton, CO at 664 Thornton P
 - Website: https://www.extraspace.com/storage/facilities/us/colorado/thornton/300166/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Building — top 60% of self-storage facilitys in Denver, CO, #3 of 5 self-storage facilitys in Thornton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 60% of self-storage facilitys in Denver, CO, #3 of 5 self-storage facilitys in Thornton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

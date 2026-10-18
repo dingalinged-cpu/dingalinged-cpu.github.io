@@ -13,7 +13,7 @@ Leone Animal Supply Centers is a pet store in Murrysville, PA at 4352 William Pe
 - Website: https://leoneanimalsupply.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 6% of pet stores in Pittsburgh, PA, #1 of 1 pet stores in Murrysville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 6% of pet stores in Pittsburgh, PA, #1 of 1 pet stores in Murrysville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

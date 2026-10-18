@@ -13,7 +13,7 @@ Great Clips is a hair salon in Wheat Ridge, CO at 3352 Youngfield Street #28B, W
 - Website: https://app.greatclips.com/salon/3136/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-15:00
-- Pulse Score: 49.2/100 — Building — top 72% of hair salons in Denver, CO, #2 of 5 hair salons in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 71% of hair salons in Denver, CO, #2 of 5 hair salons in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

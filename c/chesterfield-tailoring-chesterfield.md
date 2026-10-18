@@ -13,7 +13,7 @@ Chesterfield Tailoring is a tailor in Chesterfield, MO. Phone: +16365369970. Web
 - Website: https://chesterfieldtailoring.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 43% of tailors in St. Louis, MO, #1 of 1 tailors in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 43% of tailors in St. Louis, MO, #1 of 1 tailors in Chesterfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

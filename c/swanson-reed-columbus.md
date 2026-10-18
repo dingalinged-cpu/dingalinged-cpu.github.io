@@ -13,7 +13,7 @@ Swanson Reed is a tax preparation service in Columbus, OH. Phone: +18009864725. 
 - Website: https://www.swansonreed.com/research-tax-credit/ohio/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Unrated (not enough evidence yet) — top 32% of tax preparation services in Columbus, OH, #5 of 21 tax preparation services in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Unrated (not enough evidence yet) — top 32% of tax preparation services in Columbus, OH, #5 of 21 tax preparation services in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

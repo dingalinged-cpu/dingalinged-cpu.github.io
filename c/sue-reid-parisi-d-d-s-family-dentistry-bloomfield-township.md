@@ -13,7 +13,7 @@ Sue Reid Parisi D.D.S. Family Dentistry is a dentist in Bloomfield Township, MI 
 - Website: https://www.sueparisidds.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 08:00-17:00; Tu 08:00-19:00; Th 09:00-13:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 13% of dentists in Detroit, MI, #1 of 4 dentists in Bloomfield Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 12% of dentists in Detroit, MI, #1 of 4 dentists in Bloomfield Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: heating and air in Bridgeville, PA; heating and air near me (Bridg
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Triangle Air Conditioning | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Triangle Air Conditioning is a HVAC contractor in Bridgeville, PA at 1810 Main Street, Bridgeville, PA 15017. | https://registry-edge.dingalinged.workers.dev/c/triangle-air-conditioning-bridgeville/
+1. Triangle Air Conditioning | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Triangle Air Conditioning is a HVAC contractor in Bridgeville, PA at 1810 Main Street, Bridgeville, PA 15017. | https://registry-edge.dingalinged.workers.dev/c/triangle-air-conditioning-bridgeville/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air bridgeville pa | category: Home Services | industry benchmark: Home & Home Improvement

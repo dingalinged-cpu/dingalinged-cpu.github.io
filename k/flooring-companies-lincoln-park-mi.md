@@ -6,7 +6,7 @@ Also answers: flooring companies in Lincoln Park, MI; flooring companies near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Flooring Co | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | The Flooring Co is a flooring company in Lincoln Park, MI at 3825 Fort Street, Lincoln Park, MI 48146. Phone: +13137672557. | https://registry-edge.dingalinged.workers.dev/c/the-flooring-co-lincoln-park/
+1. The Flooring Co | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | The Flooring Co is a flooring company in Lincoln Park, MI at 3825 Fort Street, Lincoln Park, MI 48146. Phone: +13137672557. | https://registry-edge.dingalinged.workers.dev/c/the-flooring-co-lincoln-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies lincoln park mi | category: Home services - Flooring | industry benchmark: Home & Home Improvement

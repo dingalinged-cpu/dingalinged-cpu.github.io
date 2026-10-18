@@ -13,7 +13,7 @@ Edible Arrangements is a gift shop in Woodhaven, MI at 19117 West Road, Woodhave
 - Website: https://www.ediblearrangements.com/stores/19117-west-road-woodhaven-mi-48183
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00; Su 10:00-15:00
-- Pulse Score: 49.5/100 — Building — top 82% of gift shops in Detroit, MI, #1 of 1 gift shops in Woodhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 82% of gift shops in Detroit, MI, #1 of 1 gift shops in Woodhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

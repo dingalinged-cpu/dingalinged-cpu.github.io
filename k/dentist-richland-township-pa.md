@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Joseph A. Stofka, DMD | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Joseph A. Stofka, DMD is a dentist in Richland Township, PA at 5351 William Flinn Highway, Richland Township, PA 15044. Phone: +17244435300. Website: https://www.the-orthodontist.com/. | https://registry-edge.dingalinged.workers.dev/c/joseph-a-stofka-dmd-richland-township/
 2. Chips Dental Associates | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Chips Dental Associates is a dentist in Richland Township, PA at 5615 William Flinn Highway, Richland Township, PA. Phone: +17244435710. | https://registry-edge.dingalinged.workers.dev/c/chips-dental-associates-richland-township/
-3. Smile Dental Care | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Smile Dental Care is a dentist in Richland Township, PA. | https://registry-edge.dingalinged.workers.dev/c/smile-dental-care-richland-township/
+3. Smile Dental Care | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | Smile Dental Care is a dentist in Richland Township, PA. | https://registry-edge.dingalinged.workers.dev/c/smile-dental-care-richland-township/
 4. Family Dentistry | Organic #4 | Pulse Score 42.9/100 (Unrated, #4 in city) | Family Dentistry is a dentist in Richland Township, PA. | https://registry-edge.dingalinged.workers.dev/c/family-dentistry-richland-township/
 
 ## Market data (for advertisers and agents)

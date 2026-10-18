@@ -13,7 +13,7 @@ Audi Denver is an used car dealer in Littleton, CO at 6060 South Broadway, Littl
 - Website: https://audidenver.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-19:00
-- Pulse Score: 46.2/100 — Building — top 80% of used car dealers in Denver, CO, #1 of 3 used car dealers in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 80% of used car dealers in Denver, CO, #1 of 3 used car dealers in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

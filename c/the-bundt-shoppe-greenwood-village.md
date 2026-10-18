@@ -13,7 +13,7 @@ The Bundt Shoppe is a bakery in Greenwood Village, CO at 5910 South University B
 - Website: https://wwe.thebundtshoppe.com/
 - Email: info@thebundtshoppe.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-16:00
-- Pulse Score: 64.8/100 — Good — top 1% of bakerys in Denver, CO, #1 of 6 bakerys in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 1% of bakerys in Denver, CO, #1 of 6 bakerys in Greenwood Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 65.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

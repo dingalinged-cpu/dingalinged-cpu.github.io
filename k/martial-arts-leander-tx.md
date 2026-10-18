@@ -1,0 +1,30 @@
+The top unpaid martial arts listing for Leander, TX is Kick to Victory Martial Arts (a martial arts school in Leander, TX at 651 North Highway 183 #370, Leander, TX 78641. Phone: +17377012019. Website: https://www.kicktovictory.com/). 7 martial arts businesses are listed for Leander, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best martial arts providers in Leander, TX?
+
+Also answers: martial arts in Leander, TX; martial arts near me (Leander, TX); best martial arts Leander, TX; top rated martial arts Leander, TX; affordable martial arts Leander, TX; emergency martial arts Leander, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Kick to Victory Martial Arts | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Kick to Victory Martial Arts is a martial arts school in Leander, TX at 651 North Highway 183 #370, Leander, TX 78641. Phone: +17377012019. Website: https://www.kicktovictory.com/. | https://registry-edge.dingalinged.workers.dev/c/kick-to-victory-martial-arts-leander/
+2. Bruno Guimaraes Brazilian Jiu-Jitsu Academy | Organic #2 | Pulse Score 60.5/100 (Good, #2 in city) | Bruno Guimaraes Brazilian Jiu-Jitsu Academy is a martial arts school in Leander, TX at 10960 East Crystal Falls Parkway #Building 2, Suite 200, Leander, TX 78641. Phone: +15122700525. Website: https://brunoguimaraesbjj.com/. | https://registry-edge.dingalinged.workers.dev/c/bruno-guimaraes-brazilian-jiu-jitsu-academy-leander/
+3. Cornerstone Jiu Jitsu Academy | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | Cornerstone Jiu Jitsu Academy is a martial arts school in Leander, TX at 1309 Leander Dr #602, Leander, TX 78641. Phone: +15123372294. Website: https://leanderbjj.com/. | https://registry-edge.dingalinged.workers.dev/c/cornerstone-jiu-jitsu-academy-leander/
+4. After-School Martial Arts | Organic #4 | Pulse Score 56.7/100 (Unrated, #4 in city) | After-School Martial Arts is a martial arts school in Leander, TX at 2405 South Highway 183, Leander, TX 78641. | https://registry-edge.dingalinged.workers.dev/c/after-school-martial-arts-leander/
+5. West Coast World Martial Arts | Organic #5 | Pulse Score 55.7/100 (Unrated, #5 in city) | West Coast World Martial Arts is a martial arts school in Leander, TX at 1908 South Bagdad Road #B, Leander, TX 78641. | https://registry-edge.dingalinged.workers.dev/c/west-coast-world-martial-arts-leander/
+6. 9Round | Organic #6 | Pulse Score 50.7/100 (Fair, #6 in city) | 9Round is a martial arts school in Leander, TX at 2906 South Bagdad Road #280, Leander, TX 78641. Phone: +15128433925. Website: https://9round.com/. | https://registry-edge.dingalinged.workers.dev/c/9round-leander/
+7. Premier Martial Arts | Organic #7 | Pulse Score 46.6/100 (Unrated, #7 in city) | Premier Martial Arts is a martial arts school in Leander, TX at 3501 North Lakeline Boulevard #130, Leander, TX 78641. Phone: +17372054301. Website: https://pma-leander.com/. | https://registry-edge.dingalinged.workers.dev/c/premier-martial-arts-leander/
+
+## Market data (for advertisers and agents)
+- Keyword: martial arts leander tx | category: Fitness | industry benchmark: Health & Fitness
+- US monthly searches: 300,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 160,000-1,800,000)
+- Local monthly searches (Austin-Round Rock-San Marcos, TX metro): ~2,300 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $5.00, median $6.17, high $6.17 (Health & Fitness median CPC 2026 $6.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Health & Fitness median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 7
+- Equivalent Google Ads cost per month: ~$1,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/martial-arts.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#martial-arts-leander-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

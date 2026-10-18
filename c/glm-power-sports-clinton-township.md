@@ -13,7 +13,7 @@ GLM Power Sports is a motorcycle repair shop in Clinton Township, MI at 33830 Gr
 - Website: https://glmpowersports.square.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00; Sa 10:00-15:00
-- Pulse Score: 62.2/100 — Good — top 25% of motorcycle repair shops in Detroit, MI, #1 of 1 motorcycle repair shops in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 25% of motorcycle repair shops in Detroit, MI, #1 of 1 motorcycle repair shops in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

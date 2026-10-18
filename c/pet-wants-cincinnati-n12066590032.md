@@ -13,7 +13,7 @@ Pet Wants is a pet store in Cincinnati, OH at 1409 Vine Street, Cincinnati, OH 4
 - Website: https://www.petwantscincy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 12:00-19:00
-- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 62% of pet stores in Cincinnati, OH, #10 of 15 pet stores in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 62% of pet stores in Cincinnati, OH, #10 of 15 pet stores in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

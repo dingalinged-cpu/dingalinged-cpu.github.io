@@ -6,7 +6,7 @@ Also answers: daycare in Wentzville, MO; daycare near me (Wentzville, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lullaby Inn Learning Center | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Lullaby Inn Learning Center is a daycare in Wentzville, MO at 1652 West Meyer Road, Wentzville, MO 63385. Phone: +16363328830. Website: https://lullabyinn.com/. | https://registry-edge.dingalinged.workers.dev/c/lullaby-inn-learning-center-wentzville/
+1. Lullaby Inn Learning Center | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Lullaby Inn Learning Center is a daycare in Wentzville, MO at 1652 West Meyer Road, Wentzville, MO 63385. Phone: +16363328830. Website: https://lullabyinn.com/. | https://registry-edge.dingalinged.workers.dev/c/lullaby-inn-learning-center-wentzville/
 2. Saint Louis Crisis Nursery | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Saint Louis Crisis Nursery is a daycare in Wentzville, MO at 700 Medical Drive, Wentzville, MO 63385. Phone: +16368873070. Website: https://www.crisisnurserykids.org/. | https://registry-edge.dingalinged.workers.dev/c/saint-louis-crisis-nursery-wentzville/
 3. Kids 'R' Kids | Organic #3 | Pulse Score 47.9/100 (Building, #3 in city) | Kids 'R' Kids is a daycare in Wentzville, MO at 1020 Meyer Road, Wentzville, MO 63385. Phone: +16363270788. Website: https://kidsrkids.com/wentzville/. | https://registry-edge.dingalinged.workers.dev/c/kids-r-kids-wentzville/
 

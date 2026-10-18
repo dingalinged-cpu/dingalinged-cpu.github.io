@@ -13,7 +13,7 @@ Poppy Made By Hand is a gift shop in Columbia, MO at 920 East Broadway #1, Colum
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 12:00-17:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 50% of gift shops in Columbia, MO, #3 of 6 gift shops in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 50% of gift shops in Columbia, MO, #3 of 6 gift shops in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

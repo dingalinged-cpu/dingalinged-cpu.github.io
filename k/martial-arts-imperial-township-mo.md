@@ -6,7 +6,7 @@ Also answers: martial arts in Imperial Township, MO; martial arts near me (Imper
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jeff Speakman's Martial Arts | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Jeff Speakman's Martial Arts is a martial arts school in Imperial Township, MO at 1263 Imperial Main Street, Imperial Township, MO 63052. Phone: +13148035305. Website: https://www.jsk50imperial.com/. | https://registry-edge.dingalinged.workers.dev/c/jeff-speakmans-martial-arts-imperial-township/
+1. Jeff Speakman's Martial Arts | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Jeff Speakman's Martial Arts is a martial arts school in Imperial Township, MO at 1263 Imperial Main Street, Imperial Township, MO 63052. Phone: +13148035305. Website: https://www.jsk50imperial.com/. | https://registry-edge.dingalinged.workers.dev/c/jeff-speakmans-martial-arts-imperial-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts imperial township mo | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Trek is a bike shop in Westerville, OH at 5985 Maxtown Road, Westerville, OH 430
 - Website: https://www.trekbikes.com/us/en_US/retail/westerville_northgate/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Building — top 100% of bike shops in Columbus, OH, #2 of 2 bike shops in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 100% of bike shops in Columbus, OH, #2 of 2 bike shops in Westerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

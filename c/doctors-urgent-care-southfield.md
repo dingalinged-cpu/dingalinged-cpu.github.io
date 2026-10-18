@@ -13,7 +13,7 @@ Doctors Urgent Care is an urgent care clinic in Southfield, MI at 29405 Woodward
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:30-21:00
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 25% of urgent care clinics in Detroit, MI, #1 of 1 urgent care clinics in Southfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 25% of urgent care clinics in Detroit, MI, #1 of 1 urgent care clinics in Southfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

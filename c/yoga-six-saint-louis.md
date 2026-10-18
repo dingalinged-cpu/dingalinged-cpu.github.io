@@ -13,7 +13,7 @@ Yoga Six is a yoga studio in Saint Louis, MO at 5724 Oakland Avenue, Saint Louis
 - Website: https://yogasix.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 06:00-21:00; Fr 06:00-18:00; Sa-Su 08:00-14:00
-- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 91% of yoga studios in St. Louis, MO, #4 of 5 yoga studios in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 91% of yoga studios in St. Louis, MO, #4 of 5 yoga studios in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

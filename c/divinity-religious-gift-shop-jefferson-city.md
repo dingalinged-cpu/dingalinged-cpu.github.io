@@ -13,7 +13,7 @@ Divinity Religious Gift Shop is a gift shop in Jefferson City, MO at 108 East Hi
 - Website: https://divinityreligiousgifts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 10:00-16:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 25% of gift shops in Jefferson City, MO, #1 of 4 gift shops in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 25% of gift shops in Jefferson City, MO, #1 of 4 gift shops in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

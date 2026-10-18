@@ -13,7 +13,7 @@ VCA All Pets Animal Hospital is a veterinarian in Boulder, CO at 5290 Manhattan 
 - Website: https://www.vcahospitals.com/all-pets-boulder
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.2/100 — Good — top 8% of veterinarians in Denver, CO, #1 of 7 veterinarians in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 8% of veterinarians in Denver, CO, #1 of 7 veterinarians in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ DataSoft Inc is an IT support company in Novi, MI at 41875 West 11 Mile Road #20
 - Website: https://data-soft-inc.com/
 - Email: info@data-soft-inc.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 23% of IT support companys in Detroit, MI, #2 of 4 IT support companys in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 23% of IT support companys in Detroit, MI, #2 of 4 IT support companys in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

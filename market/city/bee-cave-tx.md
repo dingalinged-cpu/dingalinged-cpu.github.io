@@ -1,0 +1,58 @@
+Keyword market for Bee Cave, TX: 30 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Austin-Round Rock-San Marcos, TX metro (US volume x population share).
+
+# Top keywords in Bee Cave, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. massage bee cave tx | searches/mo 38,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/massage-bee-cave-tx/
+2. car wash bee cave tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-bee-cave-tx/
+3. dentist bee cave tx | searches/mo 14,000 (est) | CPC $4.70 | value $66,000 | Google Ads equiv $3,600/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-bee-cave-tx/
+4. gym bee cave tx | searches/mo 14,000 (est) | CPC $1.67 | value $23,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/gym-bee-cave-tx/
+5. hair salon bee cave tx | searches/mo 12,000 (est) | CPC $0.55 | value $6,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-bee-cave-tx/
+6. barber shop bee cave tx | searches/mo 5,200 (est) | CPC $0.70 | value $3,600 | Google Ads equiv $210/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/barber-shop-bee-cave-tx/
+7. mechanic bee cave tx | searches/mo 5,200 (est) | CPC $4.35 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-bee-cave-tx/
+8. tire shop bee cave tx | searches/mo 4,200 (est) | CPC $4.35 | value $18,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-bee-cave-tx/
+9. vet bee cave tx | searches/mo 4,200 (est) | CPC $4.06 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-bee-cave-tx/
+10. haircut bee cave tx | searches/mo 2,800 (est) | CPC $4.62 | value $13,000 | Google Ads equiv $740/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/haircut-bee-cave-tx/
+11. auto repair bee cave tx | searches/mo 2,300 (est) | CPC $4.35 | value $10,000 | Google Ads equiv $560/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-bee-cave-tx/
+12. financial advisor bee cave tx | searches/mo 1,900 (est) | CPC $3.39 | value $6,400 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-bee-cave-tx/
+13. real estate agent bee cave tx | searches/mo 1,500 (est) | CPC $3.61 | value $5,400 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-bee-cave-tx/
+14. realtor bee cave tx | searches/mo 690 (est) | CPC $3.70 | value $2,600 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/realtor-bee-cave-tx/
+15. facial bee cave tx | searches/mo 570 (est) | CPC $4.62 | value $2,600 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/facial-bee-cave-tx/
+
+## By CPC
+1. bakery bee cave tx | searches/mo 1,700 (est) | CPC $7.17 | value $12,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/bakery-bee-cave-tx/
+2. event venues bee cave tx | searches/mo 1,700 (est) | CPC $7.17 | value $12,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/event-venues-bee-cave-tx/
+3. daycare bee cave tx | searches/mo 1,700 (est) | CPC $4.81 | value $8,200 | Google Ads equiv $470/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-bee-cave-tx/
+4. allergist bee cave tx | searches/mo 250 (est) | CPC $4.76 | value $1,200 | Google Ads equiv $80.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/allergist-bee-cave-tx/
+5. eye doctor bee cave tx | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-bee-cave-tx/
+6. orthopedic surgeon bee cave tx | searches/mo 250 (est) | CPC $4.76 | value $1,200 | Google Ads equiv $80.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/orthopedic-surgeon-bee-cave-tx/
+7. dentist bee cave tx | searches/mo 14,000 (est) | CPC $4.70 | value $66,000 | Google Ads equiv $3,600/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-bee-cave-tx/
+8. facial bee cave tx | searches/mo 570 (est) | CPC $4.62 | value $2,600 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/facial-bee-cave-tx/
+9. haircut bee cave tx | searches/mo 2,800 (est) | CPC $4.62 | value $13,000 | Google Ads equiv $740/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/haircut-bee-cave-tx/
+10. massage bee cave tx | searches/mo 38,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/massage-bee-cave-tx/
+11. auto repair bee cave tx | searches/mo 2,300 (est) | CPC $4.35 | value $10,000 | Google Ads equiv $560/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-bee-cave-tx/
+12. car wash bee cave tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-bee-cave-tx/
+13. mechanic bee cave tx | searches/mo 5,200 (est) | CPC $4.35 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-bee-cave-tx/
+14. tire shop bee cave tx | searches/mo 4,200 (est) | CPC $4.35 | value $18,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-bee-cave-tx/
+15. bike shop bee cave tx | searches/mo 1,100 (est) | CPC $4.14 | value $4,600 | Google Ads equiv $410/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bike-shop-bee-cave-tx/
+
+## By value (searches x CPC)
+1. massage bee cave tx | searches/mo 38,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/massage-bee-cave-tx/
+2. dentist bee cave tx | searches/mo 14,000 (est) | CPC $4.70 | value $66,000 | Google Ads equiv $3,600/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-bee-cave-tx/
+3. car wash bee cave tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-bee-cave-tx/
+4. gym bee cave tx | searches/mo 14,000 (est) | CPC $1.67 | value $23,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/gym-bee-cave-tx/
+5. mechanic bee cave tx | searches/mo 5,200 (est) | CPC $4.35 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-bee-cave-tx/
+6. tire shop bee cave tx | searches/mo 4,200 (est) | CPC $4.35 | value $18,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-bee-cave-tx/
+7. vet bee cave tx | searches/mo 4,200 (est) | CPC $4.06 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-bee-cave-tx/
+8. haircut bee cave tx | searches/mo 2,800 (est) | CPC $4.62 | value $13,000 | Google Ads equiv $740/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/haircut-bee-cave-tx/
+9. auto repair bee cave tx | searches/mo 2,300 (est) | CPC $4.35 | value $10,000 | Google Ads equiv $560/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-bee-cave-tx/
+10. hair salon bee cave tx | searches/mo 12,000 (est) | CPC $0.55 | value $6,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-bee-cave-tx/
+11. financial advisor bee cave tx | searches/mo 1,900 (est) | CPC $3.39 | value $6,400 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-bee-cave-tx/
+12. real estate agent bee cave tx | searches/mo 1,500 (est) | CPC $3.61 | value $5,400 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-bee-cave-tx/
+13. barber shop bee cave tx | searches/mo 5,200 (est) | CPC $0.70 | value $3,600 | Google Ads equiv $210/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/barber-shop-bee-cave-tx/
+14. facial bee cave tx | searches/mo 570 (est) | CPC $4.62 | value $2,600 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/facial-bee-cave-tx/
+15. realtor bee cave tx | searches/mo 690 (est) | CPC $3.70 | value $2,600 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/realtor-bee-cave-tx/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

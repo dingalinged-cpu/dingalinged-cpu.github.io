@@ -13,7 +13,7 @@ Candlewood Veterinary Clinic is a veterinarian in Manhattan, KS at 3262 Kimball 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 07:30-18:00; We,Sa closed "By Appt"; Su closed
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 17% of veterinarians in Manhattan, KS, #1 of 5 veterinarians in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 17% of veterinarians in Manhattan, KS, #1 of 5 veterinarians in Manhattan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

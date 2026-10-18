@@ -13,7 +13,7 @@ Pod's Discount Carpet is a flooring company in Lawrence, KS at 3009 Four Wheel D
 - Website: https://www.podsdiscountcarpet.com/
 - Email: pods@sunflower.com
 - Opening hours (OSM syntax): Mo-We, Fr 08:30-17:00; Th 08:30-18:00; Sa 09:00-14:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 34% of flooring companys in Lawrence, KS, #1 of 3 flooring companys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 34% of flooring companys in Lawrence, KS, #1 of 3 flooring companys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

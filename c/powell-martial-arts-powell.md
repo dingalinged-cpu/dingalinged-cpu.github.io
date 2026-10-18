@@ -13,7 +13,7 @@ Powell Martial Arts is a martial arts school in Powell, OH at 240 North Liberty 
 - Website: https://www.powelltaekwondo.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 17:00-20:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 10% of martial arts schools in Columbus, OH, #1 of 1 martial arts schools in Powell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 10% of martial arts schools in Columbus, OH, #1 of 1 martial arts schools in Powell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Flooring Galaxy is a flooring company in Arnold, MO at 2120 Tenbrook Road, Arnol
 - Website: https://www.flooringgalaxy.com/arnold-mo
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 24% of flooring companys in St. Louis, MO, #1 of 1 flooring companys in Arnold (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 24% of flooring companys in St. Louis, MO, #1 of 1 flooring companys in Arnold (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

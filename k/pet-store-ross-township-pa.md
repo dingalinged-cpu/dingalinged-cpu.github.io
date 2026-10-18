@@ -7,7 +7,7 @@ Also answers: pet store in Ross Township, PA; pet store near me (Ross Township, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. PetSmart | Organic #1 | Pulse Score 50.9/100 (Fair, #6 in city) | PetSmart is a pet store in Pittsburgh, PA at 6210 Northway Drive, Pittsburgh, PA 15237. Phone: +14125361991. Website: https://www.petsmart.com/stores/us/pa/pittsburgh-store3001.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-pittsburgh-w362117326/
-2. Petco | Organic #2 | Pulse Score 48.5/100 (Building, #7 in city) | Petco is a pet store in Pittsburgh, PA at 4801 McKnight Road, Pittsburgh, PA 15237. Phone: +14123661866. Website: https://stores.petco.com/pa/pittsburgh/pet-supplies-pittsburgh-pa-1807.html. | https://registry-edge.dingalinged.workers.dev/c/petco-pittsburgh/
+2. Petco | Organic #2 | Pulse Score 48.4/100 (Building, #7 in city) | Petco is a pet store in Pittsburgh, PA at 4801 McKnight Road, Pittsburgh, PA 15237. Phone: +14123661866. Website: https://stores.petco.com/pa/pittsburgh/pet-supplies-pittsburgh-pa-1807.html. | https://registry-edge.dingalinged.workers.dev/c/petco-pittsburgh/
 3. Camp Bow Wow | Organic #3 | Pulse Score 41.8/100 (Unrated, #1 in city) | Camp Bow Wow is a pet store in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/camp-bow-wow-ross-township/
 
 ## Market data (for advertisers and agents)

@@ -6,8 +6,8 @@ Also answers: dermatologist in Lancaster, OH; dermatologist near me (Lancaster, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oakview Dermatology | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Oakview Dermatology is a dermatologist in Lancaster, OH at 2405 North Columbus Street #100, Lancaster, OH 43130. Phone: +16149081339. Website: https://www.oakviewderm.com/dermatologist-lancaster-ohio. | https://registry-edge.dingalinged.workers.dev/c/oakview-dermatology-lancaster/
-2. Gray Dermatology & Cosmetic Surgery | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Gray Dermatology & Cosmetic Surgery is a dermatologist in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/gray-dermatology-and-cosmetic-surgery-lancaster/
+1. Oakview Dermatology | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Oakview Dermatology is a dermatologist in Lancaster, OH at 2405 North Columbus Street #100, Lancaster, OH 43130. Phone: +16149081339. Website: https://www.oakviewderm.com/dermatologist-lancaster-ohio. | https://registry-edge.dingalinged.workers.dev/c/oakview-dermatology-lancaster/
+2. Gray Dermatology & Cosmetic Surgery | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Gray Dermatology & Cosmetic Surgery is a dermatologist in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/gray-dermatology-and-cosmetic-surgery-lancaster/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist lancaster oh | category: Health & medical | industry benchmark: Physicians & Surgeons

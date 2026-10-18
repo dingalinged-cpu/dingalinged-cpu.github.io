@@ -13,7 +13,7 @@ Insurish is an insurance agent in Northville, MI at 133 West Main Street #Suite 
 - Website: https://www.insurish.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 64.5/100 — Good — top 1% of insurance agents in Detroit, MI, #1 of 1 insurance agents in Northville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.8, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.5/100 — Good — top 1% of insurance agents in Detroit, MI, #1 of 1 insurance agents in Northville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.8, Trust 64.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

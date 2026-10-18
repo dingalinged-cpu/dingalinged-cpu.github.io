@@ -6,7 +6,7 @@ Also answers: hvac repair in Joplin, MO; hvac repair near me (Joplin, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. J & M Smith Heating and Air | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | J & M Smith Heating and Air is a HVAC contractor in Joplin, MO at 2102 S Roosevelt Avenue #Suite 1, Joplin, MO 64804. Phone: +14176242309. Website: https://jmsmithhvac.com/. | https://registry-edge.dingalinged.workers.dev/c/j-and-m-smith-heating-and-air-joplin/
+1. J & M Smith Heating and Air | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | J & M Smith Heating and Air is a HVAC contractor in Joplin, MO at 2102 S Roosevelt Avenue #Suite 1, Joplin, MO 64804. Phone: +14176242309. Website: https://jmsmithhvac.com/. | https://registry-edge.dingalinged.workers.dev/c/j-and-m-smith-heating-and-air-joplin/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair joplin mo | category: Home services - HVAC | industry benchmark: Home & Home Improvement

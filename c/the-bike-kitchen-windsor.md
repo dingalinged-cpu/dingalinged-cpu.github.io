@@ -13,7 +13,7 @@ The Bike Kitchen is a bike shop in Windsor, MI at 862 Walker Road, Windsor, MI N
 - Website: https://bike-windsor-essex.square.site/
 - Email: n/a
 - Opening hours (OSM syntax): Tu 10:00-18:00; We 10:00-20:00; Th-Sa 10:00-18:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 16% of bike shops in Detroit, MI, #1 of 5 bike shops in Windsor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 16% of bike shops in Detroit, MI, #1 of 5 bike shops in Windsor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

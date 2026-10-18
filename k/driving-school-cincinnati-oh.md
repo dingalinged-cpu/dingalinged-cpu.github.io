@@ -7,7 +7,7 @@ Also answers: driving school in Cincinnati, OH; driving school near me (Cincinna
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Scotts Driving Academy, LLC. | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Scotts Driving Academy, LLC. is a driving school in Cincinnati, OH at 6701 Ruwes Oak Dr, #16, Cincinnati, OH 45248. Phone: +15135740831. Website: https://scottsdrivingacademy.com/. | https://registry-edge.dingalinged.workers.dev/c/scotts-driving-academy-llc-cincinnati/
-2. Bob Shropshire Sons | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | Bob Shropshire Sons is a driving school in Cincinnati, OH. Website: https://www.bobsshropshiresons.com/. | https://registry-edge.dingalinged.workers.dev/c/bob-shropshire-sons-cincinnati/
+2. Bob Shropshire Sons | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | Bob Shropshire Sons is a driving school in Cincinnati, OH. Website: https://www.bobsshropshiresons.com/. | https://registry-edge.dingalinged.workers.dev/c/bob-shropshire-sons-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school cincinnati oh | category: Education & childcare | industry benchmark: Education & Instruction

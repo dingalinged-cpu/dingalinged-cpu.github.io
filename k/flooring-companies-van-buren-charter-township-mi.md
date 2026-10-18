@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Empire Today | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Empire Today is a flooring company in Van Buren Charter Township, MI. | https://registry-edge.dingalinged.workers.dev/c/empire-today-van-buren-charter-township/
 2. Shaw Flooring | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Shaw Flooring is a flooring company in Van Buren Charter Township, MI. | https://registry-edge.dingalinged.workers.dev/c/shaw-flooring-van-buren-charter-township/
-3. Carpet Exchange & Floors | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Carpet Exchange & Floors is a flooring company in Van Buren Charter Township, MI. | https://registry-edge.dingalinged.workers.dev/c/carpet-exchange-and-floors-van-buren-charter-township/
+3. Carpet Exchange & Floors | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Carpet Exchange & Floors is a flooring company in Van Buren Charter Township, MI. | https://registry-edge.dingalinged.workers.dev/c/carpet-exchange-and-floors-van-buren-charter-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies van buren charter township mi | category: Home services - Flooring | industry benchmark: Home & Home Improvement

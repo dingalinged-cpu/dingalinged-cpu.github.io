@@ -13,7 +13,7 @@ StorQuest is a self-storage facility in Parker, CO at 16980 Cottonwood Drive, Pa
 - Website: https://www.storquest.com/self-storage/co/parker/1024/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 55% of self-storage facilitys in Denver, CO, #5 of 7 self-storage facilitys in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 55% of self-storage facilitys in Denver, CO, #5 of 7 self-storage facilitys in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

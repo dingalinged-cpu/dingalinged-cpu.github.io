@@ -6,7 +6,7 @@ Also answers: barber shop in Wichita, KS; barber shop near me (Wichita, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Razor's Edge | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Razor's Edge is a barber shop in Wichita, KS at West Central Avenue, Wichita, KS. | https://registry-edge.dingalinged.workers.dev/c/razors-edge-wichita/
+1. Razor's Edge | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Razor's Edge is a barber shop in Wichita, KS at West Central Avenue, Wichita, KS. | https://registry-edge.dingalinged.workers.dev/c/razors-edge-wichita/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop wichita ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

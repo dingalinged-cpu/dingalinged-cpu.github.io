@@ -13,7 +13,7 @@ Pet Supplies Plus is a pet store in Robinson Township, PA at 1100 Settlers Ridge
 - Website: https://www.petsuppliesplus.com/store/pa/robinson-township/4647-robinson-township/4647
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-18:00
-- Pulse Score: 48.1/100 — Building — top 59% of pet stores in Pittsburgh, PA, #1 of 1 pet stores in Robinson Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 65% of pet stores in Pittsburgh, PA, #1 of 1 pet stores in Robinson Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Kendra Scott is a jewelry store in Saint Louis, MO at 32 Maryland Plaza, Saint L
 - Website: https://www.kendrascott.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 64% of jewelry stores in St. Louis, MO, #3 of 4 jewelry stores in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 64% of jewelry stores in St. Louis, MO, #3 of 4 jewelry stores in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

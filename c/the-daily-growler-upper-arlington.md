@@ -13,7 +13,7 @@ The Daily Growler is a liquor store in Upper Arlington, OH at 2812 Fishinger Roa
 - Website: https://www.thedailygrowler.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 15:00-22:00; Fr 12:00-22:00; Sa-Su 12:00-23:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 6% of liquor stores in Columbus, OH, #1 of 1 liquor stores in Upper Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 8% of liquor stores in Columbus, OH, #1 of 1 liquor stores in Upper Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

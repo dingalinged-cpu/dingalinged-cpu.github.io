@@ -13,7 +13,7 @@ The Goddard School is a preschool in Edwardsville, IL at 801 South Arbor Vitea, 
 - Website: https://www.goddardschool.com/schools/il/edwardsville/edwardsville
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.9/100 — Building — top 59% of preschools in St. Louis, MO, #1 of 1 preschools in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 59% of preschools in St. Louis, MO, #1 of 1 preschools in Edwardsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

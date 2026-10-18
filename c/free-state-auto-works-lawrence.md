@@ -13,7 +13,7 @@ Free State Auto Works is an auto repair shop in Lawrence, KS at 2103 West 26th S
 - Website: https://freestateautoworks.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 42% of auto repair shops in Lawrence, KS, #13 of 31 auto repair shops in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 39% of auto repair shops in Lawrence, KS, #12 of 31 auto repair shops in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,40 @@
+The top unpaid vet listing for Fort Worth, TX is North Fort Worth Spay/Neuter Center (a veterinarian in Fort Worth, TX at 4941 Golden Triangle Boulevard #921, Fort Worth, TX 76244. Phone: +18175622024. Website: https://spayneutercenter.org/). 18 vet businesses are listed for Fort Worth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best vet providers in Fort Worth, TX?
+
+Also answers: vet in Fort Worth, TX; vet near me (Fort Worth, TX); best vet Fort Worth, TX; top rated vet Fort Worth, TX; affordable vet Fort Worth, TX; emergency vet Fort Worth, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. North Fort Worth Spay/Neuter Center | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | North Fort Worth Spay/Neuter Center is a veterinarian in Fort Worth, TX at 4941 Golden Triangle Boulevard #921, Fort Worth, TX 76244. Phone: +18175622024. Website: https://spayneutercenter.org/. | https://registry-edge.dingalinged.workers.dev/c/north-fort-worth-spay-neuter-center-fort-worth/
+2. Chewy Vetcare | Organic #2 | Pulse Score 62.2/100 (Unrated, #2 in city) | Chewy Vetcare is a veterinarian in Fort Worth, TX at 3251 Tracewood Way, Fort Worth, TX 76177. Phone: +18173803077. Website: https://www.chewy.com/vet-care/vet-near-me/tx/fort-worth/3251-tracewood-way-suite-131. | https://registry-edge.dingalinged.workers.dev/c/chewy-vetcare-fort-worth/
+3. Summer Creek Animal Clinic | Organic #3 | Pulse Score 62.2/100 (Unrated, #3 in city) | Summer Creek Animal Clinic is a veterinarian in Fort Worth, TX at 5228 Sycamore School Road #100, Fort Worth, TX 76133. Phone: +18175231139. Website: https://www.summercreekvet.com/. | https://registry-edge.dingalinged.workers.dev/c/summer-creek-animal-clinic-fort-worth/
+4. Cityview Animal Hospital | Organic #4 | Pulse Score 61.6/100 (Unrated, #4 in city) | Cityview Animal Hospital is a veterinarian in Fort Worth, TX at 6120 Overton Ridge Boulevard, Fort Worth, TX 76132. Phone: +18172947733. Website: https://cityviewanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/cityview-animal-hospital-fort-worth/
+5. Southside Veterinary Clinic | Organic #5 | Pulse Score 61.6/100 (Unrated, #5 in city) | Southside Veterinary Clinic is a veterinarian in Fort Worth, TX at 3201 Cleburne Road, Fort Worth, TX 76110. Phone: +18179236719. Website: https://www.southsidevetclinic.com/. | https://registry-edge.dingalinged.workers.dev/c/southside-veterinary-clinic-fort-worth/
+6. Mellina Animal Hospital | Organic #6 | Pulse Score 59.2/100 (Unrated, #6 in city) | Mellina Animal Hospital is a veterinarian in Fort Worth, TX at 2928 West 6th Street, Fort Worth, TX 76107. | https://registry-edge.dingalinged.workers.dev/c/mellina-animal-hospital-fort-worth/
+7. Shaffer Veterinary Services | Organic #7 | Pulse Score 57.8/100 (Unrated, #1 in city) | Shaffer Veterinary Services is a veterinarian in Crowley, TX at 449 West Rendon Crowley Road, Crowley, TX 76036. | https://registry-edge.dingalinged.workers.dev/c/shaffer-veterinary-services-crowley/
+8. Fort Worth Veterinary Specialty and Emergency Hospital | Organic #8 | Pulse Score 57.2/100 (Unrated, #7 in city) | Fort Worth Veterinary Specialty and Emergency Hospital is a veterinarian in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/fort-worth-veterinary-specialty-and-emergency-hospital-fort-worth/
+9. Animal Hospital Southwest | Organic #9 | Pulse Score 56.8/100 (Unrated, #8 in city) | Animal Hospital Southwest is a veterinarian in Fort Worth, TX at 6716 South Hulen Street, Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/animal-hospital-southwest-fort-worth/
+10. Summerfields Animal Hospital | Organic #10 | Pulse Score 56.8/100 (Unrated, #9 in city) | Summerfields Animal Hospital is a veterinarian in Fort Worth, TX at 4536 North Tarrant Parkway, Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/summerfields-animal-hospital-fort-worth/
+11. Arlington Heights Animal Hospital | Organic #11 | Pulse Score 55/100 (Unrated, #10 in city) | Arlington Heights Animal Hospital is a veterinarian in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/arlington-heights-animal-hospital-fort-worth/
+12. Burleson Animal Emergency Hospital | Organic #12 | Pulse Score 55/100 (Unrated, #11 in city) | Burleson Animal Emergency Hospital is a veterinarian in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/burleson-animal-emergency-hospital-fort-worth/
+13. PetCare Plus | Organic #13 | Pulse Score 55/100 (Unrated, #12 in city) | PetCare Plus is a veterinarian in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/petcare-plus-fort-worth/
+14. The PARC Vet ER | Organic #14 | Pulse Score 55/100 (Unrated, #13 in city) | The PARC Vet ER is a veterinarian in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/the-parc-vet-er-fort-worth/
+15. Banfield Pet Hospital | Organic #15 | Pulse Score 48.4/100 (Building, #14 in city) | Banfield Pet Hospital is a veterinarian in Fort Worth, TX at 3000 South Hulen Street #111, Fort Worth, TX 76109. Phone: +18177329650. Website: https://www.banfield.com/locations/veterinarians/tx/fort-worth/fws/. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-fort-worth-n8908739003/
+16. VEG | Organic #16 | Pulse Score 45.6/100 (Building, #15 in city) | VEG is a veterinarian in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/veg-fort-worth/
+17. Banfield Pet Hospital | Organic #17 | Pulse Score 42.6/100 (Building, #16 in city) | Banfield Pet Hospital is a veterinarian in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-fort-worth/
+18. City Vet | Organic #18 | Pulse Score 42.2/100 (Unrated, #17 in city) | City Vet is a veterinarian in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/city-vet-fort-worth/
+
+## Market data (for advertisers and agents)
+- Keyword: vet fort worth tx | category: Pets | industry benchmark: Animals & Pets
+- US monthly searches: 550,000/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'vet near me')
+- CPC benchmark: low $3.97, median $4.06, high $4.06 (Animals & Pets median CPC 2026 $4.06 [https://www.localiq.com/blog/search-advertising-benchmarks]; Animals & Pets median CPC 2025 $3.97 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 18
+- Equivalent Google Ads cost per month: n/a
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/vet.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#vet-fort-worth-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

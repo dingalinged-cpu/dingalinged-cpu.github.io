@@ -6,7 +6,7 @@ Also answers: vet in Florence, KY; vet near me (Florence, KY); best vet Florence
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Middendorf Animal Hospital | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Middendorf Animal Hospital is a veterinarian in Florence, KY at 9930 Berberich Drive, Florence, KY 41042. Phone: +18596472007. Website: https://middendorfanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/middendorf-animal-hospital-florence/
+1. Middendorf Animal Hospital | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Middendorf Animal Hospital is a veterinarian in Florence, KY at 9930 Berberich Drive, Florence, KY 41042. Phone: +18596472007. Website: https://middendorfanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/middendorf-animal-hospital-florence/
 2. PetWow | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | PetWow is a veterinarian in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/petwow-florence/
 3. Noah's Ark Animal Clinic | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Noah's Ark Animal Clinic is a veterinarian in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/noahs-ark-animal-clinic-florence/
 4. Pet 2 Vet | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Pet 2 Vet is a veterinarian in Florence, KY. | https://registry-edge.dingalinged.workers.dev/c/pet-2-vet-florence/

@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Inkster, MI at 29500 Michigan Avenue, Inkst
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.4/100 — Building — top 69% of self-storage facilitys in Detroit, MI, #1 of 1 self-storage facilitys in Inkster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 68% of self-storage facilitys in Detroit, MI, #1 of 1 self-storage facilitys in Inkster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: funeral home in Wayne, MI; funeral home near me (Wayne, MI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Will Funeral Home | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Will Funeral Home is a funeral home in Wayne, MI at 34567 Michigan Avenue, Wayne, MI 48184. | https://registry-edge.dingalinged.workers.dev/c/will-funeral-home-wayne/
+1. Will Funeral Home | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Will Funeral Home is a funeral home in Wayne, MI at 34567 Michigan Avenue, Wayne, MI 48184. | https://registry-edge.dingalinged.workers.dev/c/will-funeral-home-wayne/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home wayne mi | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -6,7 +6,7 @@ Also answers: landscaping in Boone County, KY; landscaping near me (Boone County
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Maddox Garden Center & Landscaping | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Maddox Garden Center & Landscaping is a landscaping company in Boone County, KY. Website: https://www.maddoxgardencenter.com/. | https://registry-edge.dingalinged.workers.dev/c/maddox-garden-center-and-landscaping-boone-county/
+1. Maddox Garden Center & Landscaping | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Maddox Garden Center & Landscaping is a landscaping company in Boone County, KY. Website: https://www.maddoxgardencenter.com/. | https://registry-edge.dingalinged.workers.dev/c/maddox-garden-center-and-landscaping-boone-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping boone county ky | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

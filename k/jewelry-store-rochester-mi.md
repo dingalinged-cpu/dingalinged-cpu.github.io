@@ -6,7 +6,7 @@ Also answers: jewelry store in Rochester, MI; jewelry store near me (Rochester, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aurum Design Jewelry | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Aurum Design Jewelry is a jewelry store in Rochester, MI at 400 South Main Street, Rochester, MI 48307. | https://registry-edge.dingalinged.workers.dev/c/aurum-design-jewelry-rochester/
+1. Aurum Design Jewelry | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Aurum Design Jewelry is a jewelry store in Rochester, MI at 400 South Main Street, Rochester, MI 48307. | https://registry-edge.dingalinged.workers.dev/c/aurum-design-jewelry-rochester/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store rochester mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -6,7 +6,7 @@ Also answers: real estate agent in Greenwood, IN; real estate agent near me (Gre
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crissi Matthews, REALTOR® | Organic #1 | Pulse Score 62.1/100 (Unrated, #3 in city) | Crissi Matthews, REALTOR® is a real estate agency in Indianapolis, IN at 3209 W Smith Valley Rd, Ste 217-1, Indianapolis, IN 46142. Phone: +13179093111. Website: https://indianapolisrealestateguide.com/. | https://registry-edge.dingalinged.workers.dev/c/crissi-matthews-realtor-indianapolis/
+1. Crissi Matthews, REALTOR® | Organic #1 | Pulse Score 62.1/100 (Unrated, #2 in city) | Crissi Matthews, REALTOR® is a real estate agency in Indianapolis, IN at 3209 W Smith Valley Rd, Ste 217-1, Indianapolis, IN 46142. Phone: +13179093111. Website: https://indianapolisrealestateguide.com/. | https://registry-edge.dingalinged.workers.dev/c/crissi-matthews-realtor-indianapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent greenwood in | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -6,7 +6,7 @@ Also answers: yoga classes in Gahanna, OH; yoga classes near me (Gahanna, OH); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. L-Yoga Flow | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | L-Yoga Flow is a yoga studio in Gahanna, OH at 927 Johnstown Road, Gahanna, OH 43230. | https://registry-edge.dingalinged.workers.dev/c/l-yoga-flow-gahanna/
+1. L-Yoga Flow | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | L-Yoga Flow is a yoga studio in Gahanna, OH at 927 Johnstown Road, Gahanna, OH 43230. | https://registry-edge.dingalinged.workers.dev/c/l-yoga-flow-gahanna/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes gahanna oh | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Hair Plaza is a hair salon in Jefferson City, MO. Phone: +15737619951. Website: 
 - Website: https://www.hairplazajc.com/
 - Email: hairplaza@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 20% of hair salons in Jefferson City, MO, #1 of 5 hair salons in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 20% of hair salons in Jefferson City, MO, #1 of 5 hair salons in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

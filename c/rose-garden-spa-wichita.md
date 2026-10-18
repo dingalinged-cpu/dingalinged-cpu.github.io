@@ -13,7 +13,7 @@ Rose Garden Spa is a massage studio in Wichita, KS. Phone: +13163659589.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:30-20:30
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 17% of massage studios in Wichita, KS, #1 of 4 massage studios in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 17% of massage studios in Wichita, KS, #1 of 4 massage studios in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ AAA Insurance is an insurance agent in Boulder, CO. Website: https://www.colorad
 - Website: https://www.colorado.aaa.com/about-aaa/office-locations/boulder-office/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30, Sa 09:00-13:00
-- Pulse Score: 48.2/100 — Building — top 45% of insurance agents in Denver, CO, #9 of 17 insurance agents in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 46% of insurance agents in Denver, CO, #9 of 17 insurance agents in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

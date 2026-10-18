@@ -13,7 +13,7 @@ Wit Construction is a general contractor in Saint Charles, MO at 1230 Tealwood D
 - Website: https://www.houzz.com/professionals/home-builders/wit-construction-llc-pfvwus-pf~378988196
 - Email: mike@gowithwit.com
 - Opening hours (OSM syntax): "By appointment"
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 100% of general contractors in O'Fallon, MO, #1 of 1 general contractors in Saint Charles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 100% of general contractors in O'Fallon, MO, #1 of 1 general contractors in Saint Charles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

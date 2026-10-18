@@ -13,7 +13,7 @@ Life Time is a gym in Centennial, CO at 5000 East Dry Creek Road, Centennial, CO
 - Website: https://www.lifetime.life/life-time-locations/co-centennial.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.7/100 — Building — top 64% of gyms in Denver, CO, #12 of 15 gyms in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 63% of gyms in Denver, CO, #12 of 15 gyms in Centennial (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

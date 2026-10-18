@@ -6,7 +6,7 @@ Also answers: used cars for sale in South Hutchinson, KS; used cars for sale nea
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Luxury & Imports | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Luxury & Imports is an used car dealer in South Hutchinson, KS at 128 North Main Street, South Hutchinson, KS 67505. Phone: +16206649700. Website: https://www.luxuryandimportshutch.com/. | https://registry-edge.dingalinged.workers.dev/c/luxury-and-imports-south-hutchinson/
+1. Luxury & Imports | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Luxury & Imports is an used car dealer in South Hutchinson, KS at 128 North Main Street, South Hutchinson, KS 67505. Phone: +16206649700. Website: https://www.luxuryandimportshutch.com/. | https://registry-edge.dingalinged.workers.dev/c/luxury-and-imports-south-hutchinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale south hutchinson ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

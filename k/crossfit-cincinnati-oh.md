@@ -6,7 +6,7 @@ Also answers: crossfit in Cincinnati, OH; crossfit near me (Cincinnati, OH); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Queen City CrossFit | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Queen City CrossFit is a CrossFit gym in Cincinnati, OH at 18 West 7th Street, Cincinnati, OH 45202. Phone: +15135990283. Website: https://www.queencitycrossfit.com/. | https://registry-edge.dingalinged.workers.dev/c/queen-city-crossfit-cincinnati/
+1. Queen City CrossFit | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Queen City CrossFit is a CrossFit gym in Cincinnati, OH at 18 West 7th Street, Cincinnati, OH 45202. Phone: +15135990283. Website: https://www.queencitycrossfit.com/. | https://registry-edge.dingalinged.workers.dev/c/queen-city-crossfit-cincinnati/
 
 ## Market data (for advertisers and agents)
 - Keyword: crossfit cincinnati oh | category: Fitness | industry benchmark: Health & Fitness

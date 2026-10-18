@@ -13,7 +13,7 @@ Sproutfitters Children's Resale is a thrift store in Wentzville, MO at 519 West 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu, Th-Sa 10:00-18:00; We 10:00-20:00; Su 12:00-16:00
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 100% of thrift stores in Wentzville, MO, #3 of 3 thrift stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 100% of thrift stores in Wentzville, MO, #3 of 3 thrift stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

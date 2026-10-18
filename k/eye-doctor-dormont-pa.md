@@ -6,7 +6,7 @@ Also answers: eye doctor in Dormont, PA; eye doctor near me (Dormont, PA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dormont Vision Center | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Dormont Vision Center is an eye care practice in Dormont, PA at 2893 West Liberty Avenue, Dormont, PA 15216. | https://registry-edge.dingalinged.workers.dev/c/dormont-vision-center-dormont/
+1. Dormont Vision Center | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Dormont Vision Center is an eye care practice in Dormont, PA at 2893 West Liberty Avenue, Dormont, PA 15216. | https://registry-edge.dingalinged.workers.dev/c/dormont-vision-center-dormont/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor dormont pa | category: Health & medical | industry benchmark: Physicians & Surgeons

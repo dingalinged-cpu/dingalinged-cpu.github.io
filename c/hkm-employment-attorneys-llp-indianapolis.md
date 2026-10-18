@@ -13,7 +13,7 @@ HKM Employment Attorneys LLP is a lawyer in Indianapolis, IN at 320 North Meridi
 - Website: https://hkm.com/indianapolis
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 49.8/100 — Building — top 91% of lawyers in Indianapolis, IN, #18 of 19 lawyers in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 91% of lawyers in Indianapolis, IN, #18 of 19 lawyers in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

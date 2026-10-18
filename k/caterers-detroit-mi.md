@@ -6,7 +6,7 @@ Also answers: caterers in Detroit, MI; caterers near me (Detroit, MI); best cate
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Durden’s Catering LLC | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Durden’s Catering LLC is a caterer in Detroit, MI at 20504 Livernois Avenue, Detroit, MI. Phone: +13132093350. Website: https://durdenscatering.com/. | https://registry-edge.dingalinged.workers.dev/c/durden-s-catering-llc-detroit/
+1. Durden’s Catering LLC | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Durden’s Catering LLC is a caterer in Detroit, MI at 20504 Livernois Avenue, Detroit, MI. Phone: +13132093350. Website: https://durdenscatering.com/. | https://registry-edge.dingalinged.workers.dev/c/durden-s-catering-llc-detroit/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers detroit mi | category: Events & weddings | industry benchmark: Personal Services

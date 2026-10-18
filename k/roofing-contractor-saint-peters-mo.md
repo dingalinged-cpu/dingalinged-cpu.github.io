@@ -6,8 +6,8 @@ Also answers: roofing contractor in Saint Peters, MO; roofing contractor near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bone Dry Roofing | Organic #1 | Pulse Score 50.9/100 (Fair, #1 in city) | Bone Dry Roofing is a roofer in Saint Peters, MO at 5895 Suemandy Drive, Saint Peters, MO 63376. Phone: +16362456608. Website: https://bonedry.com/st-louis/. | https://registry-edge.dingalinged.workers.dev/c/bone-dry-roofing-saint-peters/
-2. Apple Roofing | Organic #2 | Pulse Score 45.6/100 (Unrated, #2 in city) | Apple Roofing is a roofer in Saint Peters, MO at 103 North Service Road, Saint Peters, MO 63376. Phone: +18558558742. Website: https://appleroof.com/st-louis/. | https://registry-edge.dingalinged.workers.dev/c/apple-roofing-saint-peters/
+1. Bone Dry Roofing | Organic #1 | Pulse Score 51/100 (Fair, #1 in city) | Bone Dry Roofing is a roofer in Saint Peters, MO at 5895 Suemandy Drive, Saint Peters, MO 63376. Phone: +16362456608. Website: https://bonedry.com/st-louis/. | https://registry-edge.dingalinged.workers.dev/c/bone-dry-roofing-saint-peters/
+2. Apple Roofing | Organic #2 | Pulse Score 45.7/100 (Unrated, #2 in city) | Apple Roofing is a roofer in Saint Peters, MO at 103 North Service Road, Saint Peters, MO 63376. Phone: +18558558742. Website: https://appleroof.com/st-louis/. | https://registry-edge.dingalinged.workers.dev/c/apple-roofing-saint-peters/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor saint peters mo | category: Home services - Roofing | industry benchmark: Home & Home Improvement

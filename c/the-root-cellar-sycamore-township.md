@@ -13,7 +13,7 @@ The Root Cellar is a liquor store in Sycamore Township, OH at 7699 Montgomery rd
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th,Su 10:30-10:00; Fr,Sa 10:30-11:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 11% of liquor stores in Cincinnati, OH, #1 of 1 liquor stores in Sycamore Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 11% of liquor stores in Cincinnati, OH, #1 of 1 liquor stores in Sycamore Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

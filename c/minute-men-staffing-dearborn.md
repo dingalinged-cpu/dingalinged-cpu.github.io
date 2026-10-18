@@ -13,7 +13,7 @@ Minute Men Staffing is a staffing agency in Dearborn, MI at 13240 Michigan Avenu
 - Website: https://www.minutemeninc.com/jobs-in-detroit-dearborn-michigan.php
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 48% of staffing agencys in Detroit, MI, #2 of 2 staffing agencys in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 48% of staffing agencys in Detroit, MI, #2 of 2 staffing agencys in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

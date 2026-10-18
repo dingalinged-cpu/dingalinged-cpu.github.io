@@ -6,7 +6,7 @@ Also answers: painters in Canonsburg, PA; painters near me (Canonsburg, PA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 446 Painting | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | 446 Painting is a painting contractor in Canonsburg, PA at 2 Iron Street, Canonsburg, PA 15317. | https://registry-edge.dingalinged.workers.dev/c/446-painting-canonsburg/
+1. 446 Painting | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | 446 Painting is a painting contractor in Canonsburg, PA at 2 Iron Street, Canonsburg, PA 15317. | https://registry-edge.dingalinged.workers.dev/c/446-painting-canonsburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters canonsburg pa | category: Home services - Painting | industry benchmark: Home & Home Improvement

@@ -1,0 +1,38 @@
+The top unpaid jewelry store listing for Fort Worth, TX is Ylang 23 (a jewelry store in Fort Worth, TX at 5000 Gage Avenue, Fort Worth, TX 76109. Phone: +18175163800. Website: https://www.ylang23.com/home.do). 16 jewelry store businesses are listed for Fort Worth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best jewelry store providers in Fort Worth, TX?
+
+Also answers: jewelry store in Fort Worth, TX; jewelry store near me (Fort Worth, TX); best jewelry store Fort Worth, TX; top rated jewelry store Fort Worth, TX; affordable jewelry store Fort Worth, TX; emergency jewelry store Fort Worth, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Ylang 23 | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | Ylang 23 is a jewelry store in Fort Worth, TX at 5000 Gage Avenue, Fort Worth, TX 76109. Phone: +18175163800. Website: https://www.ylang23.com/home.do. | https://registry-edge.dingalinged.workers.dev/c/ylang-23-fort-worth/
+2. Bachendorf’s | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Bachendorf’s is a jewelry store in Fort Worth, TX at 5175 Monahans Avenue, Fort Worth, TX 76109. Phone: +18178060303. Website: https://bachendorfs.com/. | https://registry-edge.dingalinged.workers.dev/c/bachendorf-s-fort-worth/
+3. Sotabee Jewerly | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Sotabee Jewerly is a jewelry store in Fort Worth, TX at 4380 Western Center Boulevard, Fort Worth, TX 76137. | https://registry-edge.dingalinged.workers.dev/c/sotabee-jewerly-fort-worth/
+4. American Coin & Jewelry | Organic #4 | Pulse Score 56/100 (Unrated, #4 in city) | American Coin & Jewelry is a jewelry store in Fort Worth, TX at 4955 South Hulen Street, Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/american-coin-and-jewelry-fort-worth/
+5. Haltom Jewelry | Organic #5 | Pulse Score 56/100 (Unrated, #5 in city) | Haltom Jewelry is a jewelry store in Fort Worth, TX at 4901 South Hulen Street, Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/haltom-jewelry-fort-worth/
+6. Kendra Scott | Organic #6 | Pulse Score 50.1/100 (Fair, #6 in city) | Kendra Scott is a jewelry store in Fort Worth, TX at 5217 Marathon Avenue, Fort Worth, TX 76109. Phone: +16823162261. Website: https://www.kendrascott.com/. | https://registry-edge.dingalinged.workers.dev/c/kendra-scott-fort-worth/
+7. Pandora | Organic #7 | Pulse Score 49.6/100 (Building, #7 in city) | Pandora is a jewelry store in Fort Worth, TX at 5225 Marathon Avenue, Fort Worth, TX 76109. Phone: +18176159889. Website: https://www.pandora.net/. | https://registry-edge.dingalinged.workers.dev/c/pandora-fort-worth/
+8. James Avery Jewelry | Organic #8 | Pulse Score 48.3/100 (Building, #8 in city) | James Avery Jewelry is a jewelry store in Fort Worth, TX at 4601 West Freeway Ste 450, Fort Worth, TX 76107. Phone: +18177328021. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=737. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-fort-worth/
+9. James Avery Jewelry | Organic #9 | Pulse Score 48.3/100 (Building, #9 in city) | James Avery Jewelry is a jewelry store in Fort Worth, TX at 9545 Sage Meadow Trail, Fort Worth, TX 76177. Phone: +18177501020. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=725. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-fort-worth-n4248502428/
+10. Tiffany & Company | Organic #10 | Pulse Score 46.9/100 (Building, #10 in city) | Tiffany & Company is a jewelry store in Fort Worth, TX at 5219 Monahans Avenue, Fort Worth, TX 76109. Phone: +18178060330. Website: https://www.tiffany.com/. | https://registry-edge.dingalinged.workers.dev/c/tiffany-and-company-fort-worth/
+11. James Avery Jewelry | Organic #11 | Pulse Score 46.6/100 (Building, #1 in city) | James Avery Jewelry is a jewelry store in Burleson, TX at 12770 S. Freeway Suite 150, Burleson, TX 76028. Phone: +18174473023. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=752. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-burleson/
+12. James Avery Jewelry | Organic #12 | Pulse Score 46.6/100 (Building, #11 in city) | James Avery Jewelry is a jewelry store in Fort Worth, TX at 9612 Ten Gallon Drive, Fort Worth, TX 76123. Phone: +18174840420. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-fort-worth-n14015824087/
+13. Zales | Organic #13 | Pulse Score 44.9/100 (Building, #12 in city) | Zales is a jewelry store in Fort Worth, TX at 15841 North Freeway #1105, Fort Worth, TX 76177. | https://registry-edge.dingalinged.workers.dev/c/zales-fort-worth/
+14. Jared | Organic #14 | Pulse Score 44.7/100 (Building, #13 in city) | Jared is a jewelry store in Fort Worth, TX at 4640 South Hulen Street, Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/jared-fort-worth/
+15. Helzberg Diamonds | Organic #15 | Pulse Score 42/100 (Building, #14 in city) | Helzberg Diamonds is a jewelry store in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/helzberg-diamonds-fort-worth/
+16. Kay Jewelers | Organic #16 | Pulse Score 42/100 (Building, #15 in city) | Kay Jewelers is a jewelry store in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-fort-worth/
+
+## Market data (for advertisers and agents)
+- Keyword: jewelry store fort worth tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 16
+- Equivalent Google Ads cost per month: n/a
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/jewelry-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#jewelry-store-fort-worth-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

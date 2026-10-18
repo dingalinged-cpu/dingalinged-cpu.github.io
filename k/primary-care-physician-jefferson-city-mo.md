@@ -6,8 +6,8 @@ Also answers: primary care physician in Jefferson City, MO; primary care physici
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JCMG Medical Building | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | JCMG Medical Building is a family medicine practice in Jefferson City, MO at 1241 West Stadium Boulevard, Jefferson City, MO 65109. Phone: +15736355264. Website: https://www.jcmg.org/. | https://registry-edge.dingalinged.workers.dev/c/jcmg-medical-building-jefferson-city/
-2. JCMG Elm Court | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | JCMG Elm Court is a family medicine practice in Jefferson City, MO at 1735 Elm Court, Jefferson City, MO 65101. Phone: +15736355264. Website: https://www.jcmg.org/location/jcmg-elm-court/. | https://registry-edge.dingalinged.workers.dev/c/jcmg-elm-court-jefferson-city/
+1. JCMG Medical Building | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | JCMG Medical Building is a family medicine practice in Jefferson City, MO at 1241 West Stadium Boulevard, Jefferson City, MO 65109. Phone: +15736355264. Website: https://www.jcmg.org/. | https://registry-edge.dingalinged.workers.dev/c/jcmg-medical-building-jefferson-city/
+2. JCMG Elm Court | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | JCMG Elm Court is a family medicine practice in Jefferson City, MO at 1735 Elm Court, Jefferson City, MO 65101. Phone: +15736355264. Website: https://www.jcmg.org/location/jcmg-elm-court/. | https://registry-edge.dingalinged.workers.dev/c/jcmg-elm-court-jefferson-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician jefferson city mo | category: Health & medical | industry benchmark: Physicians & Surgeons

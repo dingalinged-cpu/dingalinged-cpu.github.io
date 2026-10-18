@@ -6,9 +6,9 @@ Also answers: attorney in Saint Peters, MO; attorney near me (Saint Peters, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Weber Law Firm | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Weber Law Firm is a lawyer in Saint Peters, MO at 340 Mid Rivers Mall Drive #C, Saint Peters, MO 63376. Phone: +16364874139. Website: https://www.mattweberlaw.net/. | https://registry-edge.dingalinged.workers.dev/c/weber-law-firm-saint-peters/
-2. Traffic Law Center | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Traffic Law Center is a lawyer in Saint Peters, MO at 301 Mid Rivers Mall Drive, Saint Peters, MO 63376. Phone: +16363970430. Website: https://www.trafficlawcenters.com/traffic-law-st-peters.html. | https://registry-edge.dingalinged.workers.dev/c/traffic-law-center-saint-peters/
-3. Page Law | Organic #3 | Pulse Score 47.2/100 (Unrated, #1 in city) | Page Law is a lawyer in Saint Peters, MO at 24 Richmond Center Court, Saint Peters, MO 63376. Phone: +16362781202. Website: https://www.pagelaw.com/. | https://registry-edge.dingalinged.workers.dev/c/page-law-saint-peters/
+1. Weber Law Firm | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Weber Law Firm is a lawyer in Saint Peters, MO at 340 Mid Rivers Mall Drive #C, Saint Peters, MO 63376. Phone: +16364874139. Website: https://www.mattweberlaw.net/. | https://registry-edge.dingalinged.workers.dev/c/weber-law-firm-saint-peters/
+2. Traffic Law Center | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Traffic Law Center is a lawyer in Saint Peters, MO at 301 Mid Rivers Mall Drive, Saint Peters, MO 63376. Phone: +16363970430. Website: https://www.trafficlawcenters.com/traffic-law-st-peters.html. | https://registry-edge.dingalinged.workers.dev/c/traffic-law-center-saint-peters/
+3. Page Law | Organic #3 | Pulse Score 47.3/100 (Unrated, #1 in city) | Page Law is a lawyer in Saint Peters, MO at 24 Richmond Center Court, Saint Peters, MO 63376. Phone: +16362781202. Website: https://www.pagelaw.com/. | https://registry-edge.dingalinged.workers.dev/c/page-law-saint-peters/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney saint peters mo | category: professional_legal | industry benchmark: Attorneys & Legal Services

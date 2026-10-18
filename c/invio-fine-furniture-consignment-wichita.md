@@ -13,7 +13,7 @@ Invio Fine Furniture Consignment is a furniture store in Wichita, KS at 535 Nort
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,We,Fr 10:00-17:30; Sa 10:00-16:00; Su 12:00-16:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 27% of furniture stores in Wichita, KS, #3 of 16 furniture stores in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 27% of furniture stores in Wichita, KS, #3 of 16 furniture stores in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

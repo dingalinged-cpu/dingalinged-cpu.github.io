@@ -13,7 +13,7 @@ LaVida Massage of Rochester Hills is a massage studio in Rochester Hills, MI at 
 - Website: https://thebarrecode.com/studio/rochester-hills/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 13:00-21:00; Tu 12:00-21:00; We-Fr 09:30-21:00; Sa 10:30-21:00; Su 10:45-18:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 9% of massage studios in Detroit, MI, #1 of 2 massage studios in Rochester Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 9% of massage studios in Detroit, MI, #1 of 2 massage studios in Rochester Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

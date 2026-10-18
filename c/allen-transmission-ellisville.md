@@ -13,7 +13,7 @@ Allen Transmission is an auto repair shop in Ellisville, MO at 15619 Manchester 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-17:30
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 29% of auto repair shops in Wildwood, MO, #2 of 3 auto repair shops in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 29% of auto repair shops in Wildwood, MO, #2 of 3 auto repair shops in Ellisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

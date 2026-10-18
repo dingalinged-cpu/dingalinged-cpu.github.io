@@ -13,7 +13,7 @@ Kent's Floral Gallery is a florist in Columbia, MO at 919 East Broadway, Columbi
 - Website: https://kentsfloralgallery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-16:00; Su off
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 40% of florists in Columbia, MO, #2 of 5 florists in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 40% of florists in Columbia, MO, #2 of 5 florists in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

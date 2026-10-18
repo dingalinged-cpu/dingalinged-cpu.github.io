@@ -13,7 +13,7 @@ Data Recovery Cincinnati LLC is an IT support company in Cincinnati, OH at 8044 
 - Website: https://datarecoverycincinnati.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 50% of IT support companys in Cincinnati, OH, #3 of 7 IT support companys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 50% of IT support companys in Cincinnati, OH, #3 of 7 IT support companys in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

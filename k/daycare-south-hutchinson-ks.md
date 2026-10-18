@@ -6,7 +6,7 @@ Also answers: daycare in South Hutchinson, KS; daycare near me (South Hutchinson
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Open Arms Child Care | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Open Arms Child Care is a daycare in South Hutchinson, KS at 600 North Main Street, South Hutchinson, KS. Phone: +16209315626. | https://registry-edge.dingalinged.workers.dev/c/open-arms-child-care-south-hutchinson/
+1. Open Arms Child Care | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Open Arms Child Care is a daycare in South Hutchinson, KS at 600 North Main Street, South Hutchinson, KS. Phone: +16209315626. | https://registry-edge.dingalinged.workers.dev/c/open-arms-child-care-south-hutchinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare south hutchinson ks | category: Education & childcare | industry benchmark: Education & Instruction

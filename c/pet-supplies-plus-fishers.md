@@ -13,7 +13,7 @@ Pet Supplies Plus is a pet store in Fishers, IN at 7236 Fishers Crossing Drive, 
 - Website: https://www.petsuppliesplus.com/store/in/fishers/fishers/216
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00, Su 10:00-18:00
-- Pulse Score: 47.1/100 — Building — top 65% of pet stores in Indianapolis, IN, #2 of 2 pet stores in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 65% of pet stores in Indianapolis, IN, #2 of 2 pet stores in Fishers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

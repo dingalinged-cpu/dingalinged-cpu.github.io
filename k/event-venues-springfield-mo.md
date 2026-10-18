@@ -6,9 +6,9 @@ Also answers: event venues in Springfield, MO; event venues near me (Springfield
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Judy Thompson Executive Conference Center | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Judy Thompson Executive Conference Center is an event venue in Springfield, MO at 609 East Bob Barker Blvd, Springfield, MO 65802. | https://registry-edge.dingalinged.workers.dev/c/judy-thompson-executive-conference-center-springfield/
+1. Judy Thompson Executive Conference Center | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Judy Thompson Executive Conference Center is an event venue in Springfield, MO at 609 East Bob Barker Blvd, Springfield, MO 65802. | https://registry-edge.dingalinged.workers.dev/c/judy-thompson-executive-conference-center-springfield/
 2. Pythian Home of Missouri | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Pythian Home of Missouri is an event venue in Springfield, MO at 1451 East Pythian Street, Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/pythian-home-of-missouri-springfield/
-3. The Verdian | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | The Verdian is an event venue in Springfield, MO at 309, Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/the-verdian-springfield/
+3. The Verdian | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | The Verdian is an event venue in Springfield, MO at 309, Springfield, MO. | https://registry-edge.dingalinged.workers.dev/c/the-verdian-springfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues springfield mo | category: Events & weddings | industry benchmark: Personal Services

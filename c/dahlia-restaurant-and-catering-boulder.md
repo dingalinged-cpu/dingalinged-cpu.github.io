@@ -13,7 +13,7 @@ Dahlia Restaurant & Catering is a caterer in Boulder, CO at 1750 30th Street, Bo
 - Website: https://www.dahlia-restaurant-events.com/
 - Email: contact@dahlia-restaurant-events.com
 - Opening hours (OSM syntax): Th-Sa 10:00-17:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 20% of caterers in Denver, CO, #2 of 2 caterers in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 20% of caterers in Denver, CO, #2 of 2 caterers in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

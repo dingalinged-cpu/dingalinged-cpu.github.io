@@ -13,7 +13,7 @@ Cadence Academy Preschool is a preschool in Fort Thomas, KY at 29 Churchill Driv
 - Website: https://www.cadence-education.com/locations/ky/fort-thomas/514
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:30
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 6% of preschools in Cincinnati, OH, #1 of 3 preschools in Fort Thomas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 53% of preschools in Cincinnati, OH, #3 of 3 preschools in Fort Thomas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

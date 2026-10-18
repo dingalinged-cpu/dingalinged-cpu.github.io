@@ -13,7 +13,7 @@ GCCS Roofing, Inc. is a roofer in Littleton, CO at 8122 Southpark Lane #STE 112,
 - Website: https://gccsroofing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00, Sa 08:00-17:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 31% of roofers in Denver, CO, #1 of 1 roofers in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 31% of roofers in Denver, CO, #1 of 1 roofers in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

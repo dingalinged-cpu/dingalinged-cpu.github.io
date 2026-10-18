@@ -13,7 +13,7 @@ Samuel's Tuxedo & Gifts is a gift shop in Jefferson City, MO at 236 East High St
 - Website: https://samuelstuxedos.com/
 - Email: samuels236@embarqmail.com
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr 09:00-17:30; We 09:00-19:00; Sa 09:00-16:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 50% of gift shops in Jefferson City, MO, #2 of 4 gift shops in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 50% of gift shops in Jefferson City, MO, #2 of 4 gift shops in Jefferson City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

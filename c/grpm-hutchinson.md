@@ -13,7 +13,7 @@ GRPM is a property management company in Hutchinson, KS at 2609 North Main Stree
 - Website: https://www.hutch.house/
 - Email: ssprinklegrpm@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 100% of property management companys in Wichita, KS, #1 of 1 property management companys in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 100% of property management companys in Wichita, KS, #1 of 1 property management companys in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

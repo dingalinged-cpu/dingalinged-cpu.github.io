@@ -6,10 +6,10 @@ Also answers: electrician in Indianapolis, IN; electrician near me (Indianapolis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Payne Electric Co Inc | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Payne Electric Co Inc is an electrician in Indianapolis, IN at 4945 West Raymond Street, Indianapolis, IN 46241. | https://registry-edge.dingalinged.workers.dev/c/payne-electric-co-inc-indianapolis/
-2. Rizor K Electrician | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Rizor K Electrician is an electrician in Indianapolis, IN at 4910 East 23rd Street, Indianapolis, IN 46218. | https://registry-edge.dingalinged.workers.dev/c/rizor-k-electrician-indianapolis/
-3. TC Electric | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | TC Electric is an electrician in Indianapolis, IN at 3414 East Washington Street, Indianapolis, IN 46201. | https://registry-edge.dingalinged.workers.dev/c/tc-electric-indianapolis/
-4. Azure Electrical | Organic #4 | Pulse Score 55/100 (Unrated, #4 in city) | Azure Electrical is an electrician in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/azure-electrical-indianapolis/
+1. Payne Electric Co Inc | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Payne Electric Co Inc is an electrician in Indianapolis, IN at 4945 West Raymond Street, Indianapolis, IN 46241. | https://registry-edge.dingalinged.workers.dev/c/payne-electric-co-inc-indianapolis/
+2. Rizor K Electrician | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Rizor K Electrician is an electrician in Indianapolis, IN at 4910 East 23rd Street, Indianapolis, IN 46218. | https://registry-edge.dingalinged.workers.dev/c/rizor-k-electrician-indianapolis/
+3. TC Electric | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | TC Electric is an electrician in Indianapolis, IN at 3414 East Washington Street, Indianapolis, IN 46201. | https://registry-edge.dingalinged.workers.dev/c/tc-electric-indianapolis/
+4. Azure Electrical | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Azure Electrical is an electrician in Indianapolis, IN. | https://registry-edge.dingalinged.workers.dev/c/azure-electrical-indianapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician indianapolis in | category: Home services - Electrical | industry benchmark: Home & Home Improvement

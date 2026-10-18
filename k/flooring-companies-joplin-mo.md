@@ -6,7 +6,7 @@ Also answers: flooring companies in Joplin, MO; flooring companies near me (Jopl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Smith's Floor Store | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Smith's Floor Store is a flooring company in Joplin, MO at 814 South Main Street, Joplin, MO 64801. Website: https://www.joplinfloors.com/. | https://registry-edge.dingalinged.workers.dev/c/smiths-floor-store-joplin/
+1. Smith's Floor Store | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Smith's Floor Store is a flooring company in Joplin, MO at 814 South Main Street, Joplin, MO 64801. Website: https://www.joplinfloors.com/. | https://registry-edge.dingalinged.workers.dev/c/smiths-floor-store-joplin/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies joplin mo | category: Home services - Flooring | industry benchmark: Home & Home Improvement

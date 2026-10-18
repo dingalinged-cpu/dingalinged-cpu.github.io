@@ -13,7 +13,7 @@ Ark Valley Animal Hospital is a veterinarian in Valley Center, KS at 122 North P
 - Website: https://www.arkvalleyvcks.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 6% of veterinarians in Wichita, KS, #1 of 2 veterinarians in Valley Center (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 6% of veterinarians in Wichita, KS, #1 of 2 veterinarians in Valley Center (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

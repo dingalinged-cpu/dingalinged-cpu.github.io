@@ -6,7 +6,7 @@ Also answers: jewelry store in Des Peres, MO; jewelry store near me (Des Peres, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. James Avery Jewelry | Organic #1 | Pulse Score 48.6/100 (Building, #1 in city) | James Avery Jewelry is a jewelry store in Des Peres, MO at 80 West County Center #2085, Des Peres, MO 63131. Phone: +13149091068. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=732. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-des-peres/
+1. James Avery Jewelry | Organic #1 | Pulse Score 48.5/100 (Building, #1 in city) | James Avery Jewelry is a jewelry store in Des Peres, MO at 80 West County Center #2085, Des Peres, MO 63131. Phone: +13149091068. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=732. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-des-peres/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store des peres mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

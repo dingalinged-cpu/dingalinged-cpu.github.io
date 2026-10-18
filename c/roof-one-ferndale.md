@@ -13,7 +13,7 @@ Roof One is a roofer in Ferndale, MI at 1315 Academy Street, Ferndale, MI 48220.
 - Website: https://www.roofonemichigan.com/service-areas/ferndale/
 - Email: info@roofone.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 63.9/100 — Good — top 8% of roofers in Detroit, MI, #1 of 1 roofers in Ferndale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64/100 — Good — top 8% of roofers in Detroit, MI, #1 of 1 roofers in Ferndale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

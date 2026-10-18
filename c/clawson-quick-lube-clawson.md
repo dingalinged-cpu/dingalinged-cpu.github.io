@@ -13,7 +13,7 @@ Clawson Quick Lube is an auto repair shop in Clawson, MI at 1359 West 14 Mile Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 11:00-16:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 30% of auto repair shops in Detroit, MI, #1 of 2 auto repair shops in Clawson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 30% of auto repair shops in Detroit, MI, #1 of 2 auto repair shops in Clawson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

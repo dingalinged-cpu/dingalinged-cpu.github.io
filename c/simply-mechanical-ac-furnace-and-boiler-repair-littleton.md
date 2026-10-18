@@ -13,7 +13,7 @@ Simply Mechanical AC, Furnace & Boiler Repair is a HVAC contractor in Littleton,
 - Website: https://simplymechanicalco.com/air-conditioning-repair
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 20% of HVAC contractors in Denver, CO, #1 of 1 HVAC contractors in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 20% of HVAC contractors in Denver, CO, #1 of 1 HVAC contractors in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

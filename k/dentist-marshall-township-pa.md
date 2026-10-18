@@ -7,7 +7,7 @@ Also answers: dentist in Marshall Township, PA; dentist near me (Marshall Townsh
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. PGH Smile Boutique | Organic #1 | Pulse Score 61.9/100 (Good, #1 in city) | PGH Smile Boutique is a dentist in Marshall Township, PA at 904 Warrendale Village Drive, Marshall Township, PA 15086. Phone: +17247998100. Website: https://www.pghsmileboutique.com/. | https://registry-edge.dingalinged.workers.dev/c/pgh-smile-boutique-marshall-township/
-2. Comprehensive Family Dentistry | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Comprehensive Family Dentistry is a dentist in Marshall Township, PA. | https://registry-edge.dingalinged.workers.dev/c/comprehensive-family-dentistry-marshall-township/
+2. Comprehensive Family Dentistry | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Comprehensive Family Dentistry is a dentist in Marshall Township, PA. | https://registry-edge.dingalinged.workers.dev/c/comprehensive-family-dentistry-marshall-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist marshall township pa | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -6,10 +6,10 @@ Also answers: mattress store in O’Fallon, MO; mattress store near me (O’Fall
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Revolution Mattress | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Revolution Mattress is a mattress store in O’Fallon, MO at 218 South Main Street, O’Fallon, MO 63366. Phone: +16365774488. Website: https://www.revolutionmattress.net/. | https://registry-edge.dingalinged.workers.dev/c/revolution-mattress-o-fallon/
-2. The Bedroom Store | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | The Bedroom Store is a mattress store in O’Fallon, MO at 1301 Highway K, O’Fallon, MO 63366. Phone: +16365429997. Website: https://thebedroomstore.com/. | https://registry-edge.dingalinged.workers.dev/c/the-bedroom-store-o-fallon/
+1. Revolution Mattress | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Revolution Mattress is a mattress store in O’Fallon, MO at 218 South Main Street, O’Fallon, MO 63366. Phone: +16365774488. Website: https://www.revolutionmattress.net/. | https://registry-edge.dingalinged.workers.dev/c/revolution-mattress-o-fallon/
+2. The Bedroom Store | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | The Bedroom Store is a mattress store in O’Fallon, MO at 1301 Highway K, O’Fallon, MO 63366. Phone: +16365429997. Website: https://thebedroomstore.com/. | https://registry-edge.dingalinged.workers.dev/c/the-bedroom-store-o-fallon/
 3. Mattress Firm | Organic #3 | Pulse Score 50/100 (Fair, #3 in city) | Mattress Firm is a mattress store in O’Fallon, MO at 2111 Highway K, O’Fallon, MO 63366. Phone: +16369780352. Website: https://www.mattressfirm.com/stores/mo/ofallon/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-o-fallon-w457548578/
-4. Mattress Firm | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Mattress Firm is a mattress store in O’Fallon, MO at 313 Winding Woods Drive, O’Fallon, MO 63366. Phone: +16362723547. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-o-fallon/
+4. Mattress Firm | Organic #4 | Pulse Score 44.1/100 (Building, #4 in city) | Mattress Firm is a mattress store in O’Fallon, MO at 313 Winding Woods Drive, O’Fallon, MO 63366. Phone: +16362723547. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-o-fallon/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store o’fallon mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

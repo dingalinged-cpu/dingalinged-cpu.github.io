@@ -13,7 +13,7 @@ Animal Care Hospital of Waterford is a veterinarian in Waterford Township, MI at
 - Website: https://www.animalcareonline.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 23% of veterinarians in Detroit, MI, #1 of 3 veterinarians in Waterford Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 23% of veterinarians in Detroit, MI, #1 of 3 veterinarians in Waterford Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

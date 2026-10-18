@@ -6,9 +6,9 @@ Also answers: tailor in Birmingham, MI; tailor near me (Birmingham, MI); best ta
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Antonio's Bridal | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Antonio's Bridal is a tailor in Birmingham, MI at 526 North Old Woodward Avenue, Birmingham, MI 48009. | https://registry-edge.dingalinged.workers.dev/c/antonios-bridal-birmingham/
-2. Mazura Tailors | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Mazura Tailors is a tailor in Birmingham, MI at 390 East Maple Road, Birmingham, MI 48009. | https://registry-edge.dingalinged.workers.dev/c/mazura-tailors-birmingham/
-3. Metropolitian Tailoring | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Metropolitian Tailoring is a tailor in Birmingham, MI at 357 South Old Woodward Avenue, Birmingham, MI 48009. | https://registry-edge.dingalinged.workers.dev/c/metropolitian-tailoring-birmingham/
+1. Antonio's Bridal | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Antonio's Bridal is a tailor in Birmingham, MI at 526 North Old Woodward Avenue, Birmingham, MI 48009. | https://registry-edge.dingalinged.workers.dev/c/antonios-bridal-birmingham/
+2. Mazura Tailors | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Mazura Tailors is a tailor in Birmingham, MI at 390 East Maple Road, Birmingham, MI 48009. | https://registry-edge.dingalinged.workers.dev/c/mazura-tailors-birmingham/
+3. Metropolitian Tailoring | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Metropolitian Tailoring is a tailor in Birmingham, MI at 357 South Old Woodward Avenue, Birmingham, MI 48009. | https://registry-edge.dingalinged.workers.dev/c/metropolitian-tailoring-birmingham/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor birmingham mi | category: Professional & financial services | industry benchmark: Finance & Insurance

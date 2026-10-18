@@ -13,7 +13,7 @@ McKinsey & Company is a business consultant in Denver, CO at 1800 Larimer Street
 - Website: https://www.mckinsey.com/midwest/denver
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.4/100 — Building — top 100% of business consultants in Denver, CO, #4 of 4 business consultants in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 100% of business consultants in Denver, CO, #4 of 4 business consultants in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

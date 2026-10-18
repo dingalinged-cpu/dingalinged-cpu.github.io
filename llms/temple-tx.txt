@@ -1,0 +1,3116 @@
+# Company Registry: company records, metro temple-tx
+
+> 115 listings as of 2026-10-18. Index: https://registry-edge.dingalinged.workers.dev/llms.txt
+
+
+## License and attribution
+- Data © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+- Registry data (incl. OpenStreetMap-derived records) is licensed ODbL-1.0: https://opendatacommons.org/licenses/odbl/1-0/
+- Listings are unverified unless verified=true. No ratings, reviews, prices or descriptions are invented; absent fields mean the source lacked them.
+- Keyword market metrics (search volumes, CPC, competition, starting bids): © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution. No bulk export is published.
+- Use: AI agents, assistants and search engines may read these pages and cite them with attribution (link the registry URL of each business or keyword page you use).
+
+## Companies
+
+1st Franklin Financial is a financial advisor in Temple, TX at 4311 South 31st Street #110, Temple, TX TX. Phone: +12547749087. Website: https://locations.1ffc.com/Texas/Temple/4311-S-31st-Street.
+
+# 1st Franklin Financial
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: 4311 South 31st Street #110, Temple, TX TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0580206, -97.3730322
+- Phone: +12547749087
+- Website: https://locations.1ffc.com/Texas/Temple/4311-S-31st-Street
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:30
+- Pulse Score: 48.2/100 — Building — top 100% of financial advisors in Temple, TX, #1 of 1 financial advisors in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/1st-franklin-financial-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/1st-franklin-financial-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12693364061 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+A+ Learning Academy is a daycare in Temple, TX.
+
+# A+ Learning Academy
+
+- Category: daycare
+- Services: daycare
+- Address: Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1274789, -97.4151622
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 50% of daycares in Temple, TX, #1 of 2 daycares in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-learning-academy-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-learning-academy-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/810361476 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aaron's is a furniture store in Belton, TX at 104 Lake Road, Belton, TX 76513. Website: https://locations.aarons.com/us/tx/belton/104-lake-rd.
+
+# Aaron's
+
+- Category: furniture store
+- Services: furniture store
+- Address: 104 Lake Road, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0849349, -97.459625
+- Phone: n/a
+- Website: https://locations.aarons.com/us/tx/belton/104-lake-rd
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-19:00; Su closed
+- Pulse Score: 47.2/100 — Building — top 63% of furniture stores in Temple, TX, #1 of 1 furniture stores in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aarons-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aarons-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/545931938 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aaron's is a furniture store in Temple, TX.
+
+# Aaron's
+
+- Category: furniture store
+- Services: furniture store
+- Address: Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0918963, -97.3772098
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.3/100 — Building — top 75% of furniture stores in Temple, TX, #4 of 6 furniture stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aarons-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aarons-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13181095145 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+ACE Dental is a dentist in Temple, TX at 3108 South 31st Street, Temple, TX 76502. Phone: +12549785932. Website: https://temple.acedentaloftexas.com/.
+
+# ACE Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 3108 South 31st Street, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0711881, -97.3719011
+- Phone: +12549785932
+- Website: https://temple.acedentaloftexas.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-14:00
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 86% of dentists in Temple, TX, #5 of 6 dentists in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ace-dental-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ace-dental-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12695631321 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Advanced Chiropractic is a chiropractor in Temple, TX at 7348 West Adams Avenue #700, Temple, TX. Phone: +12547782225. Website: https://www.templechiropractor.com/.
+
+# Advanced Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 7348 West Adams Avenue #700, Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1192655, -97.4200909
+- Phone: +12547782225
+- Website: https://www.templechiropractor.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.2/100 — Good — top 50% of chiropractors in Temple, TX, #1 of 2 chiropractors in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/advanced-chiropractic-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/advanced-chiropractic-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12676849448 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Alcheme Salon is a hair salon in Temple, TX at 19 South Main Street, Temple, TX 76501. Phone: +12548992547. Website: https://alchemysalontemple.com/.
+
+# Alcheme Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 19 South Main Street, Temple, TX 76501
+- City: Temple
+- State: TX
+- ZIP: 76501
+- Coordinates: 31.0957756, -97.3413444
+- Phone: +12548992547
+- Website: https://alchemysalontemple.com/
+- Email: n/a
+- Opening hours (OSM syntax): Tu,We 12:00-18:00; Th,Fr 10:00-18:00; Sa 09:00-19:00
+- Pulse Score: 63.6/100 — Good — top 20% of hair salons in Temple, TX, #1 of 5 hair salons in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/alcheme-salon-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/alcheme-salon-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11557792328 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+All American Diesel and Tire is an auto repair shop in Troy, TX at 1508 South Central Avenue, Troy, TX 76579.
+
+# All American Diesel and Tire
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 1508 South Central Avenue, Troy, TX 76579
+- City: Troy
+- State: TX
+- ZIP: 76579
+- Coordinates: 31.1928776, -97.3112773
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 11% of auto repair shops in Temple, TX, #1 of 1 auto repair shops in Troy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/all-american-diesel-and-tire-troy/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/all-american-diesel-and-tire-troy.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1117057026 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Alltek Services is a HVAC contractor in Belton, TX at 1181 Farm-to-Market Road 2271, Belton, TX 76513. Phone: +12547217049. Website: https://www.alltek-services.com/.
+
+# Alltek Services
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: 1181 Farm-to-Market Road 2271, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.1188422, -97.4702855
+- Phone: +12547217049
+- Website: https://www.alltek-services.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Temple, TX, #1 of 1 HVAC contractors in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/alltek-services-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/alltek-services-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/713945909 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Alpha Omega Self Storage is a self-storage facility in Temple, TX at 418 Old Waco Road, Temple, TX 76502.
+
+# Alpha Omega Self Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 418 Old Waco Road, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.112372, -97.4192341
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of self-storage facilitys in Temple, TX, #3 of 3 self-storage facilitys in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/alpha-omega-self-storage-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/alpha-omega-self-storage-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1442494367 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Animal Emergency Center of Temple-Belton is a veterinarian in Temple, TX at 3809 South General Bruce Drive #108, Temple, TX 76502. Phone: +12542313774. Website: https://www.animalemergencytemple.com/.
+
+# Animal Emergency Center of Temple-Belton
+
+- Category: vet
+- Services: vet
+- Address: 3809 South General Bruce Drive #108, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0882092, -97.3881439
+- Phone: +12542313774
+- Website: https://www.animalemergencytemple.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo,Fr-Su 00:00-24:00, Tu-Th 18:00-08:00, PH 00:00-24:00
+- Pulse Score: 63.6/100 — Good — top 17% of veterinarians in Temple, TX, #1 of 2 veterinarians in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/animal-emergency-center-of-temple-belton-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/animal-emergency-center-of-temple-belton-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12687016567 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Anthony Medical and Chiropractic is a chiropractor in Temple, TX at 61 North Kegley Road, Temple, TX 76502. Phone: +12548992225. Website: https://www.anthonychiro.com/temple/.
+
+# Anthony Medical and Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 61 North Kegley Road, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.1139681, -97.3995615
+- Phone: +12548992225
+- Website: https://www.anthonychiro.com/temple/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 100% of chiropractors in Temple, TX, #2 of 2 chiropractors in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/anthony-medical-and-chiropractic-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/anthony-medical-and-chiropractic-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11575150922 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Arkham Tire is a tire shop in Belton, TX at 111 South I-35 Frontage Road, Belton, TX 76513.
+
+# Arkham Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 111 South I-35 Frontage Road, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0533993, -97.456066
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 75% of tire shops in Temple, TX, #2 of 2 tire shops in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/arkham-tire-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/arkham-tire-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/310906818 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Arthur Murray Dance Center is a dance studio in Temple, TX at 2102 Southwest H K Dodgen Loop #100, Temple, TX 76504. Phone: +12547219524. Website: https://arthurmurraytemple.com/.
+
+# Arthur Murray Dance Center
+
+- Category: dance studio
+- Services: dance studio
+- Address: 2102 Southwest H K Dodgen Loop #100, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0767789, -97.3771279
+- Phone: +12547219524
+- Website: https://arthurmurraytemple.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.3/100 — Building — top 100% of dance studios in Temple, TX, #3 of 3 dance studios in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/arthur-murray-dance-center-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/arthur-murray-dance-center-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12695631315 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Aspen Dental is a dentist in Temple, TX at 2320 South 31st Street, Temple, TX 76504. Website: https://www.aspendental.com/dentist/tx/temple/2320-south-31st-street-ste-120/.
+
+# Aspen Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 2320 South 31st Street, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0771756, -97.3670936
+- Phone: n/a
+- Website: https://www.aspendental.com/dentist/tx/temple/2320-south-31st-street-ste-120/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-13:00
+- Pulse Score: 45.3/100 — Building — top 100% of dentists in Temple, TX, #6 of 6 dentists in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aspen-dental-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aspen-dental-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5994361305 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Austin Oral Surgery is a dentist in Temple, TX at 235 Hillard Road, Temple, TX 76502. Phone: +12547711167. Website: https://austinoralsurgery.com/.
+
+# Austin Oral Surgery
+
+- Category: dentist
+- Services: dentist
+- Address: 235 Hillard Road, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.1187009, -97.4142948
+- Phone: +12547711167
+- Website: https://austinoralsurgery.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 07:30-15:00
+- Pulse Score: 48.1/100 — Building — top 58% of dentists in Temple, TX, #3 of 6 dentists in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/austin-oral-surgery-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/austin-oral-surgery-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1359077052 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bell County Veterinary Hospital is a veterinarian in Belton, TX at 1005 East 6th Avenue, Belton, TX 76513.
+
+# Bell County Veterinary Hospital
+
+- Category: vet
+- Services: vet
+- Address: 1005 East 6th Avenue, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0584596, -97.4509086
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Temple, TX, #1 of 3 veterinarians in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bell-county-veterinary-hospital-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bell-county-veterinary-hospital-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848165477 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Belton Eye Care Center is an eye care practice in Belton, TX at 2609 North Main Street, Belton, TX 76513.
+
+# Belton Eye Care Center
+
+- Category: eye doctor
+- Services: eye doctor
+- Address: 2609 North Main Street, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.082257, -97.457071
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Temple, TX, #1 of 1 eye care practices in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/belton-eye-care-center-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/belton-eye-care-center-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/566155538 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Belton Family Dental is a dentist in Belton, TX at 525 North Main Street #200, Belton, TX 76513. Phone: +12542467177. Website: https://www.beltonfamilydental.com/.
+
+# Belton Family Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 525 North Main Street #200, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.060972, -97.4606583
+- Phone: +12542467177
+- Website: https://www.beltonfamilydental.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 29% of dentists in Temple, TX, #1 of 1 dentists in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/belton-family-dental-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/belton-family-dental-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7915519091 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Belton Small Animal Clinic is a veterinarian in Belton, TX at 2607 North Main Street, Belton, TX 76513.
+
+# Belton Small Animal Clinic
+
+- Category: vet
+- Services: vet
+- Address: 2607 North Main Street, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0817882, -97.457
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 67% of veterinarians in Temple, TX, #2 of 3 veterinarians in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/belton-small-animal-clinic-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/belton-small-animal-clinic-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/566155537 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Belton Veterinary Clinic is a veterinarian in Belton, TX.
+
+# Belton Veterinary Clinic
+
+- Category: vet
+- Services: vet
+- Address: Belton, TX
+- City: Belton
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.032314, -97.48369
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of veterinarians in Temple, TX, #3 of 3 veterinarians in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/belton-veterinary-clinic-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/belton-veterinary-clinic-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3578973694 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bob Mills Furniture is a furniture store in Temple, TX.
+
+# Bob Mills Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.084885, -97.383686
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 88% of furniture stores in Temple, TX, #5 of 6 furniture stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bob-mills-furniture-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bob-mills-furniture-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3567179093 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Bo's Barn Dancehall is a dance studio in Temple, TX.
+
+# Bo's Barn Dancehall
+
+- Category: dance studio
+- Services: dance studio
+- Address: Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0435593, -97.4207768
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 67% of dance studios in Temple, TX, #2 of 3 dance studios in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bos-barn-dancehall-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bos-barn-dancehall-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1190526203 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Brake Check is an auto repair shop in Temple, TX at 1925 Southwest H K Dodgen Loop, Temple, TX 76502. Phone: +12545349202. Website: https://brakecheck.com/temple-1925-sw-hk-dodgen-loop/.
+
+# Brake Check
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 1925 Southwest H K Dodgen Loop, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.074758, -97.376774
+- Phone: +12545349202
+- Website: https://brakecheck.com/temple-1925-sw-hk-dodgen-loop/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 07:30-18:00; Su 09:00-17:00
+- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 64% of auto repair shops in Temple, TX, #6 of 11 auto repair shops in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/brake-check-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/brake-check-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2365953039 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+BrushMasters is a business consultant in Belton, TX at 504 Cori Drive, Belton, TX 76513.
+
+# BrushMasters
+
+- Category: business consultant
+- Services: business consultant
+- Address: 504 Cori Drive, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0567006, -97.4518721
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 100% of business consultants in Temple, TX, #1 of 1 business consultants in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/brushmasters-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/brushmasters-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848165495 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Budget Wrench A Part is an auto repair shop in Belton, TX at 4497 US Hwy 190, Belton, TX 76513. Website: https://wrenchapart.com/.
+
+# Budget Wrench A Part
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 4497 US Hwy 190, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.051127, -97.5185017
+- Phone: n/a
+- Website: https://wrenchapart.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Temple, TX, #1 of 7 auto repair shops in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/budget-wrench-a-part-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/budget-wrench-a-part-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3241249087 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Caliber Collision is an auto repair shop in Temple, TX at 5710 South General Bruce Drive, Temple, TX 76502. Phone: +12547736668. Website: https://calibercollision.com/.
+
+# Caliber Collision
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 5710 South General Bruce Drive, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0789816, -97.4147624
+- Phone: +12547736668
+- Website: https://calibercollision.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:30-17:30
+- Pulse Score: 47.2/100 — Building — top 90% of auto repair shops in Temple, TX, #10 of 11 auto repair shops in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/caliber-collision-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/caliber-collision-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8528471118 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+CEN-TEX Humane Society is a veterinarian in Bell County, TX.
+
+# CEN-TEX Humane Society
+
+- Category: vet
+- Services: vet
+- Address: Bell County, TX
+- City: Bell County
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.087678, -97.555568
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 84% of veterinarians in Temple, TX, #1 of 1 veterinarians in Bell County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cen-tex-humane-society-bell-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cen-tex-humane-society-bell-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/368162524 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Central Texas Mortuary Services is a funeral home in Temple, TX at 2104 South 30th Street, Temple, TX 76504.
+
+# Central Texas Mortuary Services
+
+- Category: funeral home
+- Services: funeral home
+- Address: 2104 South 30th Street, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0724258, -97.3330838
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 60% of funeral homes in Temple, TX, #3 of 3 funeral homes in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/central-texas-mortuary-services-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/central-texas-mortuary-services-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/847733398 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Christian Brothers Automotive is an auto repair shop in Temple, TX at 58 Kegley Road, Temple, TX 76502. Phone: +12549442707. Website: https://www.cbac.com/temple.
+
+# Christian Brothers Automotive
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change
+- Address: 58 Kegley Road, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.1123023, -97.401237
+- Phone: +12549442707
+- Website: https://www.cbac.com/temple
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-18:00
+- Pulse Score: 49.7/100 — Building — top 43% of auto repair shops in Temple, TX, #2 of 11 auto repair shops in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/christian-brothers-automotive-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11575024064 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Crawford-Bowers Funeral Home is a funeral home in Temple, TX at 3220 South 31st Street, Temple, TX. Phone: +12547733999.
+
+# Crawford-Bowers Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 3220 South 31st Street, Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0692783, -97.3699901
+- Phone: +12547733999
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 62.8/100 — Good — top 20% of funeral homes in Temple, TX, #1 of 3 funeral homes in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/crawford-bowers-funeral-home-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/crawford-bowers-funeral-home-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12711006846 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+CrossFit is a gym in Belton, TX at 502 Sparta Road, Belton, TX 76513. Phone: +12548332288. Website: https://www.crossfit.com/gym/35269/crossfit-longshot.
+
+# CrossFit
+
+- Category: gym
+- Services: gym
+- Address: 502 Sparta Road, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0832377, -97.4673097
+- Phone: +12548332288
+- Website: https://www.crossfit.com/gym/35269/crossfit-longshot
+- Email: crossfitlongshot@gmail.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.5/100 — Building — top 34% of gyms in Temple, TX, #1 of 2 gyms in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/crossfit-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/crossfit-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/636357649 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Crunch Fitness is a gym in Temple, TX at 4501 South General Bruce Drive, Temple, TX 76502. Phone: +12546778700. Website: https://www.crunch.com/locations/temple.
+
+# Crunch Fitness
+
+- Category: gym
+- Services: gym
+- Address: 4501 South General Bruce Drive, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0867914, -97.3965208
+- Phone: +12546778700
+- Website: https://www.crunch.com/locations/temple
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.7/100 — Building — top 50% of gyms in Temple, TX, #1 of 3 gyms in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/crunch-fitness-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12695704795 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Darling Decor & More is a thrift store in Temple, TX at 100 North Main Street, Temple, TX. Phone: +18177269612.
+
+# Darling Decor & More
+
+- Category: thrift store
+- Services: thrift store
+- Address: 100 North Main Street, Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0979151, -97.340982
+- Phone: +18177269612
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-16:00
+- Pulse Score: 62.2/100 — Good — top 50% of thrift stores in Temple, TX, #1 of 1 thrift stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/darling-decor-and-more-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/darling-decor-and-more-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12155572878 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Discount Tires is a tire shop in Temple, TX at 721 Southwest H K Dodgen Loop, Temple, TX 76502. Phone: +12547710260. Website: https://www.discounttire.com/store/tx/temple/s/1706.
+
+# Discount Tires
+
+- Category: tire shop
+- Services: tire shop
+- Address: 721 Southwest H K Dodgen Loop, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0716743, -97.3629772
+- Phone: +12547710260
+- Website: https://www.discounttire.com/store/tx/temple/s/1706
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
+- Pulse Score: 65.4/100 — Good — top 25% of tire shops in Temple, TX, #1 of 2 tire shops in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 68.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tires-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tires-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/340300318 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Dossman Funeral Home is a funeral home in Belton, TX at 2525 North Main Street, Belton, TX 76513.
+
+# Dossman Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 2525 North Main Street, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0811574, -97.4566918
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 80% of funeral homes in Temple, TX, #1 of 2 funeral homes in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dossman-funeral-home-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dossman-funeral-home-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/262625940 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+DriveTime is an used car dealer in Temple, TX at 4715 South General Bruce Drive, Temple, TX 76502. Phone: +12547424141. Website: https://www.drivetime.com/temple/tx/car-dealers/temple/11605.
+
+# DriveTime
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 4715 South General Bruce Drive, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0854982, -97.4012083
+- Phone: +12547424141
+- Website: https://www.drivetime.com/temple/tx/car-dealers/temple/11605
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-19:00
+- Pulse Score: 48.7/100 — Building — top 100% of used car dealers in Temple, TX, #2 of 2 used car dealers in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/drivetime-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/drivetime-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12695631327 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Dubois Furniture is a furniture store in Temple, TX at 1052 Canyon Creek Drive, Temple, TX 76502. Phone: +12547749776. Website: https://duboisfurniture.com/locations/temple/.
+
+# Dubois Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: 1052 Canyon Creek Drive, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0603908, -97.3663736
+- Phone: +12547749776
+- Website: https://duboisfurniture.com/locations/temple/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-18:00
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 25% of furniture stores in Temple, TX, #2 of 6 furniture stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dubois-furniture-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dubois-furniture-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/72941248 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+E & E Collision Center is an auto repair shop in Belton, TX at 1324 Old Avenue D, Belton, TX 76513.
+
+# E & E Collision Center
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 1324 Old Avenue D, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0512094, -97.4836031
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 16% of auto repair shops in Temple, TX, #2 of 7 auto repair shops in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/e-and-e-collision-center-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/e-and-e-collision-center-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/761098580 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+European Wax Center is a waxing salon in Temple, TX at 3160 South 31st Street, Temple, TX 76502. Phone: +12547915600. Website: https://locations.waxcenter.com/tx/temple/temple-0617.html.
+
+# European Wax Center
+
+- Category: waxing
+- Services: waxing
+- Address: 3160 South 31st Street, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.072573, -97.3716399
+- Phone: +12547915600
+- Website: https://locations.waxcenter.com/tx/temple/temple-0617.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-21:00; Sa 07:00-20:00; Su 08:00-18:00
+- Pulse Score: 48.8/100 — Building — top 100% of waxing salons in Temple, TX, #1 of 1 waxing salons in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/european-wax-center-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/european-wax-center-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12695631320 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Farmers Insurance - Ronnie Gaines is an insurance agent in Temple, TX at 1005 Marlandwood Road ##106, Temple, TX 76502. Phone: +12547738866. Website: https://agents.farmers.com/tx/temple/ronnie-gaines.
+
+# Farmers Insurance - Ronnie Gaines
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 1005 Marlandwood Road ##106, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0616029, -97.3648686
+- Phone: +12547738866
+- Website: https://agents.farmers.com/tx/temple/ronnie-gaines
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 48.1/100 — Building — top 80% of insurance agents in Temple, TX, #3 of 3 insurance agents in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-ronnie-gaines-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/farmers-insurance-ronnie-gaines-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6137176948 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Firestone is an auto repair shop in Temple, TX at 3450 South General Bruce Drive, Temple, TX 76504. Phone: +12542314538. Website: https://www.firestonecompleteautocare.com/texas/temple/3450-s-general-bruce-dr/.
+
+# Firestone
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 3450 South General Bruce Drive, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0932661, -97.381497
+- Phone: +12542314538
+- Website: https://www.firestonecompleteautocare.com/texas/temple/3450-s-general-bruce-dr/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su 09:00-17:00
+- Pulse Score: 47.9/100 — Building — top 74% of auto repair shops in Temple, TX, #8 of 11 auto repair shops in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/firestone-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/firestone-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/760887426 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+First Furniture & TV is a furniture store in Temple, TX at 108 South Main Street, Temple, TX 76501. Phone: +12547734452. Website: https://www.firstfurnitureandtv.com/.
+
+# First Furniture & TV
+
+- Category: furniture store
+- Services: furniture store
+- Address: 108 South Main Street, Temple, TX 76501
+- City: Temple
+- State: TX
+- ZIP: 76501
+- Coordinates: 31.0952876, -97.341866
+- Phone: +12547734452
+- Website: https://www.firstfurnitureandtv.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-14:00
+- Pulse Score: 63.6/100 — Good — top 13% of furniture stores in Temple, TX, #1 of 6 furniture stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/first-furniture-and-tv-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/first-furniture-and-tv-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11556821181 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Fitness 4:13 is a gym in Troy, TX at 119 North Central Avenue, Troy, TX 76579.
+
+# Fitness 4:13
+
+- Category: gym
+- Services: gym
+- Address: 119 North Central Avenue, Troy, TX 76579
+- City: Troy
+- State: TX
+- ZIP: 76579
+- Coordinates: 31.2087007, -97.3017315
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 17% of gyms in Temple, TX, #1 of 1 gyms in Troy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fitness-4-13-troy/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fitness-4-13-troy.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1117057013 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Garden Estates of Temple is an assisted living facility in Temple, TX at 5320 205 Loop, Temple, TX 76502.
+
+# Garden Estates of Temple
+
+- Category: assisted living
+- Services: assisted living
+- Address: 5320 205 Loop, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.1156312, -97.3975647
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 100% of assisted living facilitys in Temple, TX, #1 of 1 assisted living facilitys in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/garden-estates-of-temple-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/garden-estates-of-temple-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1436320745 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Gen-Ko Quality Cabinets is a furniture store in Heidenheimer, TX at 5804 East US Highway 190, Heidenheimer, TX 76533.
+
+# Gen-Ko Quality Cabinets
+
+- Category: furniture store
+- Services: furniture store
+- Address: 5804 East US Highway 190, Heidenheimer, TX 76533
+- City: Heidenheimer
+- State: TX
+- ZIP: 76533
+- Coordinates: 31.0190623, -97.3029388
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 38% of furniture stores in Temple, TX, #1 of 1 furniture stores in Heidenheimer (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gen-ko-quality-cabinets-heidenheimer/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gen-ko-quality-cabinets-heidenheimer.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1278936479 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Goodwill is a thrift store in Belton, TX.
+
+# Goodwill
+
+- Category: thrift store
+- Services: thrift store
+- Address: Belton, TX
+- City: Belton
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0826906, -97.4638226
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.8/100 — Unrated (not enough evidence yet) — top 100% of thrift stores in Temple, TX, #1 of 1 thrift stores in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/560559252 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Goodyear is an auto repair shop in Belton, TX at 2515 North Main Street, Belton, TX 76513.
+
+# Goodyear
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2515 North Main Street, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0807316, -97.4570228
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.3/100 — Building — top 95% of auto repair shops in Temple, TX, #7 of 7 auto repair shops in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodyear-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodyear-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/847303258 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Goodyear is an auto repair shop in Temple, TX at 2011 Southwest H K Dodgen Loop, Temple, TX 76502. Phone: +12547738366. Website: https://www.goodyearautoservice.com/en_US/location/Temple-TX-76502-US-000904128.
+
+# Goodyear
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2011 Southwest H K Dodgen Loop, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0748855, -97.3775001
+- Phone: +12547738366
+- Website: https://www.goodyearautoservice.com/en_US/location/Temple-TX-76502-US-000904128
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 08:00-19:00
+- Pulse Score: 48.2/100 — Building — top 69% of auto repair shops in Temple, TX, #7 of 11 auto repair shops in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodyear-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodyear-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12695631325 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Gorilla Lube & Car Wash is a car wash in Temple, TX at 314 South 31st Street, Temple, TX 76504. Phone: +12547712811. Website: https://www.gorillalubeandwash.com/.
+
+# Gorilla Lube & Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 314 South 31st Street, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0976519, -97.359322
+- Phone: +12547712811
+- Website: https://www.gorillalubeandwash.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:30; Sa 08:00-14:00
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 40% of car washes in Temple, TX, #2 of 3 car washes in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gorilla-lube-and-car-wash-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gorilla-lube-and-car-wash-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12695631311 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Great Clips is a hair salon in Temple, TX at 3614 Southwest H K Dodgen Loop #E, Temple, TX 76504. Phone: +12547710222. Website: https://salons.greatclips.com/us/tx/temple/3614-sw-h-k-dodgen-loop.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 3614 Southwest H K Dodgen Loop #E, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0892349, -97.3853717
+- Phone: +12547710222
+- Website: https://salons.greatclips.com/us/tx/temple/3614-sw-h-k-dodgen-loop
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-17:00
+- Pulse Score: 48.8/100 — Building — top 40% of hair salons in Temple, TX, #2 of 5 hair salons in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7914041865 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Belton, TX at 2509 North Main Street, Belton, TX 76513.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 2509 North Main Street, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0801131, -97.4572547
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 80% of car washes in Temple, TX, #1 of 1 car washes in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848436217 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+H-E-B Car Wash is a car wash in Temple, TX at West Adams Avenue, Temple, TX 76504.
+
+# H-E-B Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: West Adams Avenue, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.1014611, -97.3525964
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.4/100 — Unrated (not enough evidence yet) — top 60% of car washes in Temple, TX, #3 of 3 car washes in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-car-wash-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-car-wash-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/307824653 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hand & Stone Massage and Facial Spa is a massage studio in Temple, TX at 2318 Southwest H K Dodgen Loop, Temple, TX 76504. Phone: +12543271200. Website: https://handandstone.com/locations/temple/.
+
+# Hand & Stone Massage and Facial Spa
+
+- Category: massage
+- Services: massage
+- Address: 2318 Southwest H K Dodgen Loop, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0776139, -97.3789316
+- Phone: +12543271200
+- Website: https://handandstone.com/locations/temple/
+- Email: n/a
+- Opening hours (OSM syntax): 09:00-21:00
+- Pulse Score: 48.9/100 — Building — top 100% of massage studios in Temple, TX, #1 of 1 massage studios in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hand-and-stone-massage-and-facial-spa-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hand-and-stone-massage-and-facial-spa-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12695631314 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Harper-Talasek Funeral Home is a funeral home in Belton, TX at 503 North Main Street, Belton, TX 76513.
+
+# Harper-Talasek Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 503 North Main Street, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0601495, -97.4620436
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Temple, TX, #2 of 2 funeral homes in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/harper-talasek-funeral-home-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/harper-talasek-funeral-home-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848262810 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Hewett Arney Funeral Home is a funeral home in Temple, TX at 14 West Barton Avenue, Temple, TX 76501. Website: https://www.hewettarney.com/.
+
+# Hewett Arney Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 14 West Barton Avenue, Temple, TX 76501
+- City: Temple
+- State: TX
+- ZIP: 76501
+- Coordinates: 31.099051, -97.3410505
+- Phone: n/a
+- Website: https://www.hewettarney.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 40% of funeral homes in Temple, TX, #2 of 3 funeral homes in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hewett-arney-funeral-home-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hewett-arney-funeral-home-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/734487035 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Inkaholiks Tattoos is a tattoo shop in Temple, TX at 2505 West Adams Avenue, Temple, TX 76504. Phone: +12547422008.
+
+# Inkaholiks Tattoos
+
+- Category: tattoo shop
+- Services: tattoo shop
+- Address: 2505 West Adams Avenue, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.1052037, -97.3692732
+- Phone: +12547422008
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 100% of tattoo shops in Temple, TX, #1 of 1 tattoo shops in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/inkaholiks-tattoos-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/inkaholiks-tattoos-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7096641987 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jackson Hewitt is a tax preparation service in Temple, TX at 4311 South 31st Street #120, Temple, TX TX. Phone: +12547420663. Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/tx/temple/4311-s-31st-street/15940.
+
+# Jackson Hewitt
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 4311 South 31st Street #120, Temple, TX TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0579586, -97.3730648
+- Phone: +12547420663
+- Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/tx/temple/4311-s-31st-street/15940
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su 12:00-17:00
+- Pulse Score: 49.6/100 — Building — top 100% of tax preparation services in Temple, TX, #1 of 1 tax preparation services in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jackson-hewitt-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12693364068 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+James Avery Jewelry is a jewelry store in Temple, TX at 2318 Southwest H K Dodgen Loop #100, Temple, TX 76504. Phone: +12545987252. Website: https://www.jamesavery.com/jewelry-store/tx/temple-towne-center.html.
+
+# James Avery Jewelry
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 2318 Southwest H K Dodgen Loop #100, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0776275, -97.3790618
+- Phone: +12545987252
+- Website: https://www.jamesavery.com/jewelry-store/tx/temple-towne-center.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
+- Pulse Score: 47.2/100 — Building — top 100% of jewelry stores in Temple, TX, #3 of 3 jewelry stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/james-avery-jewelry-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12695631313 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Jiffy Lube is an auto repair shop in Temple, TX at 4233 South 31st Street, Temple, TX 76502. Phone: +12547420104. Website: https://www.jiffylube.com/locations/tx/temple/3421.
+
+# Jiffy Lube
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 4233 South 31st Street, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0598439, -97.3727461
+- Phone: +12547420104
+- Website: https://www.jiffylube.com/locations/tx/temple/3421
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 08:00-18:00
+- Pulse Score: 49.1/100 — Building — top 53% of auto repair shops in Temple, TX, #4 of 11 auto repair shops in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jiffy-lube-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12711006853 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Johnnie's Cleaning & Tailoring is a dry cleaner in Temple, TX at 116 South Main Street, Temple, TX 76501. Phone: +12547782408. Website: https://johnniescleaners.biz/.
+
+# Johnnie's Cleaning & Tailoring
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: 116 South Main Street, Temple, TX 76501
+- City: Temple
+- State: TX
+- ZIP: 76501
+- Coordinates: 31.0950912, -97.3419481
+- Phone: +12547782408
+- Website: https://johnniescleaners.biz/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Temple, TX, #1 of 1 dry cleaners in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/johnnies-cleaning-and-tailoring-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/johnnies-cleaning-and-tailoring-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11556834430 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Kay Jewelers is a jewelry store in Temple, TX at 3008 South 31st Street #3008, Temple, TX 76502. Phone: +12547733633. Website: https://stores.kay.com/tx/temple/2237.
+
+# Kay Jewelers
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 3008 South 31st Street #3008, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.070315, -97.3697577
+- Phone: +12547733633
+- Website: https://stores.kay.com/tx/temple/2237
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 12:00-18:00
+- Pulse Score: 48.1/100 — Building — top 67% of jewelry stores in Temple, TX, #2 of 3 jewelry stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kay-jewelers-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12711006844 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lighthouse IT is an IT support company in Temple, TX at 1212 Marlandwood Road, Temple, TX 76502. Phone: +12547749035. Website: https://lighthouseit.us/.
+
+# Lighthouse IT
+
+- Category: it support
+- Services: it support
+- Address: 1212 Marlandwood Road, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0631466, -97.3659497
+- Phone: +12547749035
+- Website: https://lighthouseit.us/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 46.3/100 — Building — top 100% of IT support companys in Temple, TX, #1 of 1 IT support companys in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lighthouse-it-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lighthouse-it-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/73323663 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Loop 363 Animal Hospital is a veterinarian in Temple, TX at 106 Southwest H K Dodgen Loop, Temple, TX 76504. Phone: +12547421516. Website: https://loop363animalhospital.com/.
+
+# Loop 363 Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: 106 Southwest H K Dodgen Loop, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0708432, -97.3552221
+- Phone: +12547421516
+- Website: https://loop363animalhospital.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-18:00
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 34% of veterinarians in Temple, TX, #2 of 2 veterinarians in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/loop-363-animal-hospital-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/loop-363-animal-hospital-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/847331514 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Love's Truck Wash is a car wash in Troy, TX.
+
+# Love's Truck Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Troy, TX
+- City: Troy
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.190544, -97.3129027
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.7/100 — Building — top 100% of car washes in Temple, TX, #1 of 1 car washes in Troy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/loves-truck-wash-troy/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/loves-truck-wash-troy.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12509212014 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Lynch's Off-Road Motorsports Repair is an auto repair shop in Belton, TX at 511 Cori Drive, Belton, TX 76513.
+
+# Lynch's Off-Road Motorsports Repair
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 511 Cori Drive, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.057601, -97.4507011
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 22% of auto repair shops in Temple, TX, #3 of 7 auto repair shops in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lynchs-off-road-motorsports-repair-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lynchs-off-road-motorsports-repair-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848165491 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+M & B Auto Repair is an auto repair shop in Belton, TX at 1101 East 6th Avenue, Belton, TX 76513.
+
+# M & B Auto Repair
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 1101 East 6th Avenue, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0580181, -97.4505549
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 27% of auto repair shops in Temple, TX, #4 of 7 auto repair shops in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/m-and-b-auto-repair-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/m-and-b-auto-repair-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848165489 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+M & B Auto Repair, Fleet Service and Diesel Repair is an auto repair shop in Belton, TX at 507 Cori Drive, Belton, TX 76513.
+
+# M & B Auto Repair, Fleet Service and Diesel Repair
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 507 Cori Drive, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0573946, -97.450794
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 85% of auto repair shops in Temple, TX, #6 of 7 auto repair shops in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/m-and-b-auto-repair-fleet-service-and-diesel-repair-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/m-and-b-auto-repair-fleet-service-and-diesel-repair-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848165492 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Magnolia Reality Temple-Belton is a real estate agency in Temple, TX at 1195 North Pea Ridge Road, Temple, TX 76502. Phone: +12542136336. Website: https://www.magnoliarealtytemplebelton.com/.
+
+# Magnolia Reality Temple-Belton
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 1195 North Pea Ridge Road, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.1316362, -97.424595
+- Phone: +12542136336
+- Website: https://www.magnoliarealtytemplebelton.com/
+- Email: rachelholman@magnoliareality.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 100% of real estate agencys in Temple, TX, #1 of 1 real estate agencys in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/magnolia-reality-temple-belton-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/magnolia-reality-temple-belton-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1313570830 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mattress Firm is a mattress store in Temple, TX at 3012 South 31st Street, Temple, TX 76502. Phone: +12547749305. Website: https://www.mattressfirm.com/en-us/stores/tx/temple/060003/.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: 3012 South 31st Street, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0705703, -97.3696922
+- Phone: +12547749305
+- Website: https://www.mattressfirm.com/en-us/stores/tx/temple/060003/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 10:00-18:00
+- Pulse Score: 49.8/100 — Building — top 50% of mattress stores in Temple, TX, #2 of 4 mattress stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.5, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-firm-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-firm-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2365956255 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Mattress Firm is a mattress store in Temple, TX at 3550 South General Bruce Drive, Temple, TX 76504. Phone: +12547714253. Website: https://www.mattressfirm.com/en-us/stores/tx/temple/060008/.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: 3550 South General Bruce Drive, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0922289, -97.3863389
+- Phone: +12547714253
+- Website: https://www.mattressfirm.com/en-us/stores/tx/temple/060008/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 10:00-18:00
+- Pulse Score: 49/100 — Building — top 75% of mattress stores in Temple, TX, #3 of 4 mattress stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-firm-temple-n12693364067/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-firm-temple-n12693364067.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12693364067 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+McGuire Tire is an auto repair shop in Belton, TX at 103 Lake Road, Belton, TX 76513.
+
+# McGuire Tire
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 103 Lake Road, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0838999, -97.45958
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 32% of auto repair shops in Temple, TX, #5 of 7 auto repair shops in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mcguire-tire-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mcguire-tire-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/637951888 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Meineke is an auto repair shop in Temple, TX at 2204 Southwest H K Dodgen Loop, Temple, TX 76504. Phone: +12546511141. Website: https://www.meineke.com/locations/tx/temple-2866/.
+
+# Meineke
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2204 Southwest H K Dodgen Loop, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.076559, -97.378117
+- Phone: +12546511141
+- Website: https://www.meineke.com/locations/tx/temple-2866/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 07:30-18:00
+- Pulse Score: 47.6/100 — Building — top 79% of auto repair shops in Temple, TX, #9 of 11 auto repair shops in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/meineke-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/meineke-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3583501896 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+My Garage Self Storage is a self-storage facility in Temple, TX at 4800 South 31st Street, Temple, TX 76502. Website: https://www.mygarageselfstorage.com/locations/temple-tx-76502.
+
+# My Garage Self Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 4800 South 31st Street, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0553087, -97.3752928
+- Phone: n/a
+- Website: https://www.mygarageselfstorage.com/locations/temple-tx-76502
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 34% of self-storage facilitys in Temple, TX, #1 of 3 self-storage facilitys in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/my-garage-self-storage-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/my-garage-self-storage-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12693364063 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Overstock Furniture & Mattress is a furniture store in Temple, TX.
+
+# Overstock Furniture & Mattress
+
+- Category: furniture store
+- Services: furniture store
+- Address: Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0945492, -97.384776
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 100% of furniture stores in Temple, TX, #6 of 6 furniture stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/overstock-furniture-and-mattress-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/overstock-furniture-and-mattress-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/760887437 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Petco is a pet store in Temple, TX at 2112 Southwest H K Dodgen Loop #130, Temple, TX 76504. Phone: +12547701333. Website: https://stores.petco.com/tx/temple/pet-supplies-temple-tx-1403.html.
+
+# Petco
+
+- Category: pet store
+- Services: pet store
+- Address: 2112 Southwest H K Dodgen Loop #130, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0785756, -97.3775098
+- Phone: +12547701333
+- Website: https://stores.petco.com/tx/temple/pet-supplies-temple-tx-1403.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
+- Pulse Score: 46/100 — Building — top 100% of pet stores in Temple, TX, #2 of 2 pet stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petco-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petco-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/734495983 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+PetSmart is a pet store in Temple, TX at 3550 South General Bruce Drive, Temple, TX 76504. Phone: +12547421816. Website: https://www.petsmart.com/stores/us/tx/temple-store1596.html.
+
+# PetSmart
+
+- Category: pet store
+- Services: pet store
+- Address: 3550 South General Bruce Drive, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0948583, -97.3846658
+- Phone: +12547421816
+- Website: https://www.petsmart.com/stores/us/tx/temple-store1596.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Pulse Score: 49/100 — Building — top 50% of pet stores in Temple, TX, #1 of 2 pet stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petsmart-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petsmart-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/760887435 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Pivot Performance Arts is a dance studio in Temple, TX at 5311 205 Loop, Temple, TX 76502.
+
+# Pivot Performance Arts
+
+- Category: dance studio
+- Services: dance studio
+- Address: 5311 205 Loop, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.1159829, -97.3955097
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 34% of dance studios in Temple, TX, #1 of 3 dance studios in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pivot-performance-arts-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pivot-performance-arts-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1442501185 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Planet Fitness is a gym in Belton, TX at 525 North Main Street #100, Belton, TX 76513.
+
+# Planet Fitness
+
+- Category: gym
+- Services: gym
+- Address: 525 North Main Street #100, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0607307, -97.4607431
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.5/100 — Building — top 84% of gyms in Temple, TX, #2 of 2 gyms in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/planet-fitness-belton-n7915519090/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/planet-fitness-belton-n7915519090.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7915519090 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Planet Fitness is a gym in Temple, TX at 3111 South 31st Street, Temple, TX. Website: https://www.planetfitness.com/gyms/temple-tx.
+
+# Planet Fitness
+
+- Category: gym
+- Services: gym
+- Address: 3111 South 31st Street, Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0712046, -97.3678063
+- Phone: n/a
+- Website: https://www.planetfitness.com/gyms/temple-tx
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.9/100 — Building — top 67% of gyms in Temple, TX, #2 of 3 gyms in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/planet-fitness-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/planet-fitness-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12685844276 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Precision Tune Auto Care is an auto repair shop in Temple, TX at 4707 South 31st Street, Temple, TX 76502. Phone: +12547918228. Website: https://www.precisiontune.com/locations/temple-tx/.
+
+# Precision Tune Auto Care
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 4707 South 31st Street, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0556381, -97.3742475
+- Phone: +12547918228
+- Website: https://www.precisiontune.com/locations/temple-tx/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-18:00
+- Pulse Score: 49.1/100 — Building — top 58% of auto repair shops in Temple, TX, #5 of 11 auto repair shops in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/precision-tune-auto-care-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/precision-tune-auto-care-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12711006856 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Purifoy & Co. Insurance is an insurance agent in Temple, TX at 9 South 9th Street, Temple, TX.
+
+# Purifoy & Co. Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 9 South 9th Street, Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0979123, -97.346471
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 40% of insurance agents in Temple, TX, #1 of 3 insurance agents in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/purifoy-and-co-insurance-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/purifoy-and-co-insurance-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1313372441 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Quality Tire & Auto Service is a tire shop in Belton, TX at 504 East Central Avenue, Belton, TX 76513. Phone: +12549331547. Website: https://www.qualitytirebelton.com/.
+
+# Quality Tire & Auto Service
+
+- Category: tire shop
+- Services: tire shop
+- Address: 504 East Central Avenue, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.055269, -97.4585961
+- Phone: +12549331547
+- Website: https://www.qualitytirebelton.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Pulse Score: 62.6/100 — Good — top 50% of tire shops in Temple, TX, #1 of 2 tire shops in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/quality-tire-and-auto-service-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/quality-tire-and-auto-service-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848147428 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Regal Nails is a nail salon in Temple, TX.
+
+# Regal Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0659112, -97.3673442
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.3/100 — Unrated (not enough evidence yet) — top 100% of nail salons in Temple, TX, #2 of 2 nail salons in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/regal-nails-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/regal-nails-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9177103914 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rent-A-Center is a furniture store in Temple, TX at 3016 South 31st Street, Temple, TX 76502. Phone: +12547780450.
+
+# Rent-A-Center
+
+- Category: furniture store
+- Services: furniture store
+- Address: 3016 South 31st Street, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.070607, -97.36978
+- Phone: +12547780450
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-18:00
+- Pulse Score: 47.7/100 — Building — top 50% of furniture stores in Temple, TX, #3 of 6 furniture stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rent-a-center-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rent-a-center-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2365964343 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Revital Dental is a dentist in Temple, TX at 4311 South 31st Street #145, Temple, TX TX. Phone: +12542070708. Website: https://revitaldentaltx.com/.
+
+# Revital Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 4311 South 31st Street #145, Temple, TX TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0576204, -97.3734124
+- Phone: +12542070708
+- Website: https://revitaldentaltx.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.1/100 — Fair — top 15% of dentists in Temple, TX, #1 of 6 dentists in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/revital-dental-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/revital-dental-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12693364070 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Robert D. Cox Attorny At Law, Law Office of Merryl Jones is a lawyer in Temple, TX at 601 North Main Street, Temple, TX. Phone: +12544930345.
+
+# Robert D. Cox Attorny At Law, Law Office of Merryl Jones
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 601 North Main Street, Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1024804, -97.3387328
+- Phone: +12544930345
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Temple, TX, #2 of 2 lawyers in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/robert-d-cox-attorny-at-law-law-office-of-merryl-jones-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/robert-d-cox-attorny-at-law-law-office-of-merryl-jones-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1314442828 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Rodeo Dental & Orthodontics is a dentist in Temple, TX at 2102 Southwest H K Dodgen Loop #130, Temple, TX 76504. Phone: +12542658998. Website: https://www.rodeodentaltexas.com/locations/temple-tx/.
+
+# Rodeo Dental & Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: 2102 Southwest H K Dodgen Loop #130, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.076763, -97.3774121
+- Phone: +12542658998
+- Website: https://www.rodeodentaltexas.com/locations/temple-tx/
+- Email: temple@rodeodental.com
+- Opening hours (OSM syntax): Tu-Fr 10:00-19:00; Sa 09:00-16:00; Su-Mo off
+- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 43% of dentists in Temple, TX, #2 of 6 dentists in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rodeo-dental-and-orthodontics-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rodeo-dental-and-orthodontics-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7347578651 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sam Haddad Attorney & Councilor is a lawyer in Temple, TX at 616 North Main Street, Temple, TX 76501. Phone: +15124780100.
+
+# Sam Haddad Attorney & Councilor
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 616 North Main Street, Temple, TX 76501
+- City: Temple
+- State: TX
+- ZIP: 76501
+- Coordinates: 31.1031427, -97.3391467
+- Phone: +15124780100
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Temple, TX, #1 of 2 lawyers in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sam-haddad-attorney-and-councilor-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sam-haddad-attorney-and-councilor-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1313540902 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sleep Number is a mattress store in Temple, TX at 2102 South 31st Street #100, Temple, TX 76504. Phone: +12547918272.
+
+# Sleep Number
+
+- Category: mattress store
+- Services: mattress store
+- Address: 2102 South 31st Street #100, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0803476, -97.3658972
+- Phone: +12547918272
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr,Sa 10:00-20:00; Su 11:00-19:00
+- Pulse Score: 43.7/100 — Building — top 100% of mattress stores in Temple, TX, #4 of 4 mattress stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sleep-number-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sleep-number-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12685844279 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+SmartStyle is a hair salon in Temple, TX.
+
+# SmartStyle
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0660858, -97.3674998
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 41.8/100 — Building — top 100% of hair salons in Temple, TX, #5 of 5 hair salons in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 40.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/smartstyle-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/smartstyle-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9177152018 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Smile Doctors is a dentist in Temple, TX at 2113 Southwest H K Dodgen Loop, Temple, TX 76502. Phone: +12544337100. Website: https://smiledoctors.com/locations/temple-h-k-dodgen/.
+
+# Smile Doctors
+
+- Category: dentist
+- Services: dentist
+- Address: 2113 Southwest H K Dodgen Loop, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0750094, -97.3783348
+- Phone: +12544337100
+- Website: https://smiledoctors.com/locations/temple-h-k-dodgen/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-12:30
+- Pulse Score: 47.9/100 — Building — top 72% of dentists in Temple, TX, #4 of 6 dentists in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/smile-doctors-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/smile-doctors-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/73323814 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Southpark Self Storage is a self-storage facility in Temple, TX at 4715 South 31st Street, Temple, TX 76502. Website: https://southparkselfstorage.com/.
+
+# Southpark Self Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 4715 South 31st Street, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0551275, -97.3742982
+- Phone: n/a
+- Website: https://southparkselfstorage.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 67% of self-storage facilitys in Temple, TX, #2 of 3 self-storage facilitys in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/southpark-self-storage-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/southpark-self-storage-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12711006857 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Spec's is a liquor store in Temple, TX at 3550 South General Bruce Drive #A182, Temple, TX 76504.
+
+# Spec's
+
+- Category: liquor store
+- Services: liquor store
+- Address: 3550 South General Bruce Drive #A182, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0952189, -97.3844299
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.7/100 — Building — top 100% of liquor stores in Temple, TX, #2 of 2 liquor stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/specs-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/specs-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/760887434 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+SPJST Fraternal Life Insurance is an insurance agent in Temple, TX.
+
+# SPJST Fraternal Life Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.102029, -97.3397088
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 60% of insurance agents in Temple, TX, #2 of 3 insurance agents in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/spjst-fraternal-life-insurance-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/spjst-fraternal-life-insurance-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1313133159 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Sport Clips is a hair salon in Temple, TX at 3550 South General Bruce Drive #D118, Temple, TX TX. Phone: +12547738383. Website: https://sportclips.com/us-tx-temple-tx297.
+
+# Sport Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 3550 South General Bruce Drive #D118, Temple, TX TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0924214, -97.3858614
+- Phone: +12547738383
+- Website: https://sportclips.com/us-tx-temple-tx297
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
+- Pulse Score: 47.6/100 — Building — top 60% of hair salons in Temple, TX, #3 of 5 hair salons in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sport-clips-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sport-clips-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12693364065 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+State Farm is an insurance agent in Belton, TX at 101 Lake Road, Belton, TX 76513.
+
+# State Farm
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 101 Lake Road, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0838531, -97.4590577
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.1/100 — Building — top 100% of insurance agents in Temple, TX, #2 of 2 insurance agents in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-farm-belton-w637951890/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-farm-belton-w637951890.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/637951890 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Supercuts is a hair salon in Temple, TX at 6607 West Adams Avenue #D, Temple, TX. Phone: +12545982506. Website: https://www.supercuts.com/locations/nearme/haircut/TX/Temple/Walmart-Center/81664?location=76502.
+
+# Supercuts
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 6607 West Adams Avenue #D, Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1157871, -97.4121415
+- Phone: +12545982506
+- Website: https://www.supercuts.com/locations/nearme/haircut/TX/Temple/Walmart-Center/81664?location=76502
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su 12:00-17:00
+- Pulse Score: 47.3/100 — Building — top 80% of hair salons in Temple, TX, #4 of 5 hair salons in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/supercuts-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/supercuts-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12165867893 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Surface Source Design Center is a flooring company in Belton, TX at 675 US 190 Frontage Road, Belton, TX 76513.
+
+# Surface Source Design Center
+
+- Category: flooring companies
+- Services: flooring companies
+- Address: 675 US 190 Frontage Road, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0463672, -97.4751146
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 100% of flooring companys in Temple, TX, #1 of 1 flooring companys in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/surface-source-design-center-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/surface-source-design-center-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1116371881 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Take 5 Oil Change is an auto repair shop in Temple, TX at 3609 South 31st Street, Temple, TX 76502. Phone: +14402877466. Website: https://www.take5.com/locations/oil-change/texas/temple/30212/.
+
+# Take 5 Oil Change
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change
+- Address: 3609 South 31st Street, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0657937, -97.370487
+- Phone: +14402877466
+- Website: https://www.take5.com/locations/oil-change/texas/temple/30212/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-20:00; Sa 07:00-20:00; Su 08:00-17:00
+- Pulse Score: 49.5/100 — Building — top 48% of auto repair shops in Temple, TX, #3 of 11 auto repair shops in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/take-5-oil-change-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12711006851 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Texian Insurance Agency is an insurance agent in Belton, TX at 603 East Central Avenue, Belton, TX 76513.
+
+# Texian Insurance Agency
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 603 East Central Avenue, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0544573, -97.4582692
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 20% of insurance agents in Temple, TX, #1 of 2 insurance agents in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texian-insurance-agency-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texian-insurance-agency-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848147427 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Bedding Express is a mattress store in Temple, TX at 4211 South General Bruce Drive, Temple, TX 76502. Phone: +12547747744. Website: https://www.thebeddingexpress.com/.
+
+# The Bedding Express
+
+- Category: mattress store
+- Services: mattress store
+- Address: 4211 South General Bruce Drive, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0876841, -97.3943335
+- Phone: +12547747744
+- Website: https://www.thebeddingexpress.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-18:00
+- Pulse Score: 62.9/100 — Good — top 25% of mattress stores in Temple, TX, #1 of 4 mattress stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-bedding-express-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-bedding-express-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848165507 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The Starting Place is a daycare in Temple, TX.
+
+# The Starting Place
+
+- Category: daycare
+- Services: daycare
+- Address: Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.1046788, -97.3406888
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 100% of daycares in Temple, TX, #2 of 2 daycares in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-starting-place-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-starting-place-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1313840455 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+The UPS Store is a printing service in Temple, TX at 3809 South General Bruce Drive #103A, Temple, TX 76502. Phone: +12547420006. Website: https://locations.theupsstore.com/tx/temple/3809-s-general-bruce-dr.
+
+# The UPS Store
+
+- Category: printing services
+- Services: printing services
+- Address: 3809 South General Bruce Drive #103A, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0884905, -97.3874051
+- Phone: +12547420006
+- Website: https://locations.theupsstore.com/tx/temple/3809-s-general-bruce-dr
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:30; Sa 09:00-17:00
+- Pulse Score: 48.7/100 — Building — top 100% of printing services in Temple, TX, #1 of 1 printing services in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-ups-store-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-ups-store-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7914041846 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tires to You is a tire shop in Temple, TX at 3617 South General Bruce Drive, Temple, TX 76504.
+
+# Tires to You
+
+- Category: tire shop
+- Services: tire shop
+- Address: 3617 South General Bruce Drive, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0909341, -97.383673
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 100% of tire shops in Temple, TX, #2 of 2 tire shops in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tires-to-you-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tires-to-you-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/847733409 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Today's Car Wash is a car wash in Temple, TX at 3111 South 31st Street, Temple, TX. Phone: +12543142013. Website: https://todayscarwash.com/locations/temple-tx-3111-s-31st-st-bldg-a/.
+
+# Today's Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 3111 South 31st Street, Temple, TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.070167, -97.3687201
+- Phone: +12543142013
+- Website: https://todayscarwash.com/locations/temple-tx-3111-s-31st-st-bldg-a/
+- Email: n/a
+- Opening hours (OSM syntax): 07:30-20:00
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 20% of car washes in Temple, TX, #1 of 3 car washes in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/todays-car-wash-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/todays-car-wash-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12711006849 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Toyota is an auto repair shop in Temple, TX at 7777 South General Bruce Drive, Temple, TX 76502.
+
+# Toyota
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 7777 South General Bruce Drive, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0582521, -97.4352733
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.3/100 — Building — top 100% of auto repair shops in Temple, TX, #11 of 11 auto repair shops in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/toyota-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/toyota-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/368975044 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Tranum Auto Group is an used car dealer in Temple, TX at 5508 South General Bruce Drive, Temple, TX 76502.
+
+# Tranum Auto Group
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 5508 South General Bruce Drive, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0819471, -97.4121568
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 50% of used car dealers in Temple, TX, #1 of 2 used car dealers in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tranum-auto-group-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tranum-auto-group-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/848165504 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Trey's Diesel and Automotive is an auto repair shop in Temple, TX at 2718 Lavendusky Drive, Temple, TX 76501.
+
+# Trey's Diesel and Automotive
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2718 Lavendusky Drive, Temple, TX 76501
+- City: Temple
+- State: TX
+- ZIP: 76501
+- Coordinates: 31.0968381, -97.3092215
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 37% of auto repair shops in Temple, TX, #1 of 11 auto repair shops in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/treys-diesel-and-automotive-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/treys-diesel-and-automotive-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/847729880 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Truecore Fitness is a gym in Temple, TX at 10148 West Adams Avenue, Temple, TX 76502.
+
+# Truecore Fitness
+
+- Category: gym
+- Services: gym
+- Address: 10148 West Adams Avenue, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.1235596, -97.4506203
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.3/100 — Unrated (not enough evidence yet) — top 100% of gyms in Temple, TX, #3 of 3 gyms in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/truecore-fitness-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/truecore-fitness-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1279712991 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Twin Liquors is a liquor store in Temple, TX at 1521 Marlandwood Road, Temple, TX 76502. Phone: +12548998946.
+
+# Twin Liquors
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1521 Marlandwood Road, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.0643531, -97.3708212
+- Phone: +12548998946
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Pulse Score: 48.9/100 — Building — top 50% of liquor stores in Temple, TX, #1 of 2 liquor stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/twin-liquors-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/twin-liquors-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/75497707 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Venice Spa & Nails is a nail salon in Temple, TX at 6607 West Adams Avenue, Temple, TX 76502. Phone: +12542950267. Website: https://venicespaandnailstemple.com/.
+
+# Venice Spa & Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: 6607 West Adams Avenue, Temple, TX 76502
+- City: Temple
+- State: TX
+- ZIP: 76502
+- Coordinates: 31.1157374, -97.4119782
+- Phone: +12542950267
+- Website: https://venicespaandnailstemple.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 11:00-18:00
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 50% of nail salons in Temple, TX, #1 of 2 nail salons in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/venice-spa-and-nails-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/venice-spa-and-nails-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12165867891 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Whitish Roofing is a roofer in Temple, TX at 3809 South General Bruce Drive #103-324, Temple, TX TX. Phone: +12543008242. Website: https://whitishroofing.com/.
+
+# Whitish Roofing
+
+- Category: roofer
+- Services: roofer, roofing contractor
+- Address: 3809 South General Bruce Drive #103-324, Temple, TX TX
+- City: Temple
+- State: TX
+- ZIP: n/a
+- Coordinates: 31.0883178, -97.3877632
+- Phone: +12543008242
+- Website: https://whitishroofing.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00
+- Pulse Score: 59.4/100 — Fair — top 100% of roofers in Temple, TX, #1 of 1 roofers in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/whitish-roofing-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/whitish-roofing-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12687016569 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Whitmire Glass is a window repair service in Belton, TX at 910 South I-35 Frontage Road, Belton, TX 76513.
+
+# Whitmire Glass
+
+- Category: window repair
+- Services: window repair
+- Address: 910 South I-35 Frontage Road, Belton, TX 76513
+- City: Belton
+- State: TX
+- ZIP: 76513
+- Coordinates: 31.0481449, -97.4632485
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 100% of window repair services in Temple, TX, #1 of 1 window repair services in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/whitmire-glass-belton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/whitmire-glass-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/847738808 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
+
+---
+
+Zales is a jewelry store in Temple, TX at 2110 South 31st Street #110, Temple, TX 76504. Phone: +12542390045. Website: https://stores.zales.com/tx/temple/3913.
+
+# Zales
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 2110 South 31st Street #110, Temple, TX 76504
+- City: Temple
+- State: TX
+- ZIP: 76504
+- Coordinates: 31.0797667, -97.3661507
+- Phone: +12542390045
+- Website: https://stores.zales.com/tx/temple/3913
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 12:00-18:00
+- Pulse Score: 48.5/100 — Building — top 34% of jewelry stores in Temple, TX, #1 of 3 jewelry stores in Temple (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/zales-temple/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/zales-temple.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12711006843 (license ODbL-1.0); source data as of 2026-10-17
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

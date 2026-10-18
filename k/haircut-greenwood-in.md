@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Hair & Now | Organic #3 | Pulse Score 58.1/100 (Unrated, #3 in city) | Hair & Now is a hair salon in Greenwood, IN at 707 South Madison Avenue, Greenwood, IN 46143. | https://registry-edge.dingalinged.workers.dev/c/hair-and-now-greenwood/
 4. JR's Good Looks Unlimited | Organic #4 | Pulse Score 58.1/100 (Unrated, #4 in city) | JR's Good Looks Unlimited is a hair salon in Greenwood, IN at 360 Market Plaza #B, Greenwood, IN 46142. | https://registry-edge.dingalinged.workers.dev/c/jrs-good-looks-unlimited-greenwood/
 5. Lavish Hair Lounge | Organic #5 | Pulse Score 58.1/100 (Unrated, #5 in city) | Lavish Hair Lounge is a hair salon in Greenwood, IN at 640 US 31 S #A, Greenwood, IN 46142. | https://registry-edge.dingalinged.workers.dev/c/lavish-hair-lounge-greenwood/
-6. Tom's Barbershop | Organic #6 | Pulse Score 55.7/100 (Unrated, #1 in city) | Tom's Barbershop is a barber shop in Greenwood, IN at 338 Market Plaza, Greenwood, IN 46142. | https://registry-edge.dingalinged.workers.dev/c/toms-barbershop-greenwood/
+6. Tom's Barbershop | Organic #6 | Pulse Score 55.6/100 (Unrated, #1 in city) | Tom's Barbershop is a barber shop in Greenwood, IN at 338 Market Plaza, Greenwood, IN 46142. | https://registry-edge.dingalinged.workers.dev/c/toms-barbershop-greenwood/
 7. FX Hair Salon | Organic #7 | Pulse Score 55.2/100 (Unrated, #6 in city) | FX Hair Salon is a hair salon in Greenwood, IN. | https://registry-edge.dingalinged.workers.dev/c/fx-hair-salon-greenwood/
 8. Studio 135 | Organic #8 | Pulse Score 55.2/100 (Unrated, #7 in city) | Studio 135 is a hair salon in Greenwood, IN. | https://registry-edge.dingalinged.workers.dev/c/studio-135-greenwood/
 

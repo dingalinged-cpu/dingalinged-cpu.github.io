@@ -13,7 +13,7 @@ Visiting Angels Senior Home Care is an assisted living facility in Waterloo, IL 
 - Website: https://www.visitingangels.com/metroeast/home
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.5/100 — Fair — top 100% of assisted living facilitys in St. Louis, MO, #1 of 1 assisted living facilitys in Waterloo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 67.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 100% of assisted living facilitys in St. Louis, MO, #1 of 1 assisted living facilitys in Waterloo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 67. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

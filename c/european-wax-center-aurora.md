@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Aurora, CO at 6750 South Cornerstar Way
 - Website: https://locations.waxcenter.com/co/aurora/aurora-parker-arapahoe-roads-0173.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Building — top 71% of waxing salons in Denver, CO, #2 of 4 waxing salons in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Building — top 71% of waxing salons in Denver, CO, #2 of 4 waxing salons in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: pet store in Englewood, CO; pet store near me (Englewood, CO); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Petco | Organic #1 | Pulse Score 48.6/100 (Building, #1 in city) | Petco is a pet store in Englewood, CO at 9425 East County Line Road, Englewood, CO 80112. Phone: +13037080616. Website: https://stores.petco.com/co/englewood/pet-supplies-englewood-co-912.html. | https://registry-edge.dingalinged.workers.dev/c/petco-englewood/
-2. Petco | Organic #2 | Pulse Score 47.3/100 (Building, #2 in city) | Petco is a pet store in Englewood, CO at 551 West Hampden Avenue, Englewood, CO 80110. Phone: +13037610363. Website: https://stores.petco.com/co/englewood/pet-supplies-englewood-co-1406.html. | https://registry-edge.dingalinged.workers.dev/c/petco-englewood-w50290879/
+2. Petco | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | Petco is a pet store in Englewood, CO at 551 West Hampden Avenue, Englewood, CO 80110. Phone: +13037610363. Website: https://stores.petco.com/co/englewood/pet-supplies-englewood-co-1406.html. | https://registry-edge.dingalinged.workers.dev/c/petco-englewood-w50290879/
 3. MC Aquatics - Englewood | Organic #3 | Pulse Score 43/100 (Building, #3 in city) | MC Aquatics - Englewood is a pet store in Englewood, CO at 11800 East Oswego Street #D60, Englewood, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/mc-aquatics-englewood-englewood/
 
 ## Market data (for advertisers and agents)

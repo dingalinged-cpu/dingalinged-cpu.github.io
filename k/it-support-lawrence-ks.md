@@ -7,7 +7,7 @@ Also answers: it support in Lawrence, KS; it support near me (Lawrence, KS); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. UNI Computers | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | UNI Computers is an IT support company in Lawrence, KS at 4920 Legends Drive #200, Lawrence, KS 66049. Phone: +17858414611. Website: https://www.unicomputers.com/. | https://registry-edge.dingalinged.workers.dev/c/uni-computers-lawrence/
-2. AllofE Solutions | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | AllofE Solutions is an IT support company in Lawrence, KS at 2510 West 6th Street, Lawrence, KS 66049. Phone: +17858322900. Website: https://www.allofe.com/. | https://registry-edge.dingalinged.workers.dev/c/allofe-solutions-lawrence/
+2. AllofE Solutions | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | AllofE Solutions is an IT support company in Lawrence, KS at 2510 West 6th Street, Lawrence, KS 66049. Phone: +17858322900. Website: https://www.allofe.com/. | https://registry-edge.dingalinged.workers.dev/c/allofe-solutions-lawrence/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support lawrence ks | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

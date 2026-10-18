@@ -13,7 +13,7 @@ Solutions Mechanical LLC is a HVAC contractor in Aurora, CO at 3367 South Argonn
 - Website: https://www.solutionsmechanical.co/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 34% of HVAC contractors in Denver, CO, #3 of 8 HVAC contractors in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 34% of HVAC contractors in Denver, CO, #3 of 8 HVAC contractors in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

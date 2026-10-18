@@ -7,7 +7,7 @@ Also answers: facial in Aurora, CO; facial near me (Aurora, CO); best facial Aur
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Ulta Beauty | Organic #1 | Pulse Score 45.8/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Aurora, CO at 15800 East Briarwood Circle #A, Aurora, CO 80016. Phone: +13036806033. Website: https://www.ulta.com/stores/aurora-co-414. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-aurora/
-2. Sola Salons | Organic #2 | Pulse Score 45.2/100 (Building, #33 in city) | Sola Salons is a nail salon in Aurora, CO at 6155 South Main Street #101, Aurora, CO 80016. | https://registry-edge.dingalinged.workers.dev/c/sola-salons-aurora/
+2. Sola Salons | Organic #2 | Pulse Score 45.2/100 (Building, #31 in city) | Sola Salons is a nail salon in Aurora, CO at 6155 South Main Street #101, Aurora, CO 80016. | https://registry-edge.dingalinged.workers.dev/c/sola-salons-aurora/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial aurora co | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

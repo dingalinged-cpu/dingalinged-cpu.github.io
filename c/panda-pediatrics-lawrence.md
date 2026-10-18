@@ -13,7 +13,7 @@ Panda Pediatrics is a pediatrician in Lawrence, KS at 1803 West 6th Street, Lawr
 - Website: https://www.pandapeds.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-16:30; Sa 08:00-12:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 50% of pediatricians in Lawrence, KS, #1 of 2 pediatricians in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 100% of pediatricians in Lawrence, KS, #2 of 2 pediatricians in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

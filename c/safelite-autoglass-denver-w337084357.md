@@ -13,7 +13,7 @@ Safelite AutoGlass is an auto repair shop in Denver, CO at 4055 East Evans Avenu
 - Website: https://www.safelite.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00, Sa 08:00-17:00
-- Pulse Score: 49.2/100 — Building — top 67% of auto repair shops in Denver, CO, #105 of 127 auto repair shops in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 66% of auto repair shops in Denver, CO, #104 of 127 auto repair shops in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

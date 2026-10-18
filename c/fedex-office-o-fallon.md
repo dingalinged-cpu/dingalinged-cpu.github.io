@@ -13,7 +13,7 @@ FedEx Office is a printing service in O’Fallon, MO at 1312 Highway K, O’Fall
 - Website: https://local.fedex.com/mo/ofallon/office-1032/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.8/100 — Building — top 100% of printing services in O'Fallon, MO, #2 of 2 printing services in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 100% of printing services in O'Fallon, MO, #2 of 2 printing services in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: motorcycle repair in Frederick, CO; motorcycle repair near me (Fre
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Harley-Davidson | Organic #1 | Pulse Score 46.1/100 (Building, #1 in city) | Harley-Davidson is a motorcycle repair shop in Frederick, CO. Phone: +17208813677. Website: https://www.highcountryharley.com/service-repair-harley-davidson-motorcycles-dealership--service. | https://registry-edge.dingalinged.workers.dev/c/harley-davidson-frederick/
+1. Harley-Davidson | Organic #1 | Pulse Score 45.7/100 (Building, #1 in city) | Harley-Davidson is a motorcycle repair shop in Frederick, CO. Phone: +17208813677. Website: https://www.highcountryharley.com/service-repair-harley-davidson-motorcycles-dealership--service. | https://registry-edge.dingalinged.workers.dev/c/harley-davidson-frederick/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair frederick co | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -6,7 +6,7 @@ Also answers: bike shop in Richmond Heights, MO; bike shop near me (Richmond Hei
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Big Shark Bicycle Company | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Big Shark Bicycle Company is a bike shop in Richmond Heights, MO at 1155 South Big Bend Boulevard, Richmond Heights, MO 63117. Phone: +13148621188. Website: https://www.bigshark.com/. | https://registry-edge.dingalinged.workers.dev/c/big-shark-bicycle-company-richmond-heights/
+1. Big Shark Bicycle Company | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Big Shark Bicycle Company is a bike shop in Richmond Heights, MO at 1155 South Big Bend Boulevard, Richmond Heights, MO 63117. Phone: +13148621188. Website: https://www.bigshark.com/. | https://registry-edge.dingalinged.workers.dev/c/big-shark-bicycle-company-richmond-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop richmond heights mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

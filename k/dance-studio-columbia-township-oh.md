@@ -6,7 +6,7 @@ Also answers: dance studio in Columbia Township, OH; dance studio near me (Colum
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Dance Coalition | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | The Dance Coalition is a dance studio in Columbia Township, OH at 7251 Wooster Pike, Columbia Township, OH 45227. Website: https://www.thedancecoalition.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dance-coalition-columbia-township/
+1. The Dance Coalition | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | The Dance Coalition is a dance studio in Columbia Township, OH at 7251 Wooster Pike, Columbia Township, OH 45227. Website: https://www.thedancecoalition.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dance-coalition-columbia-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio columbia township oh | category: Fitness | industry benchmark: Health & Fitness

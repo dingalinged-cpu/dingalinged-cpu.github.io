@@ -13,7 +13,7 @@ Sigman Cleaners is a dry cleaner in Westfield, IN at 14950 Greywood Court, Westf
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-15:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 8% of dry cleaners in Indianapolis, IN, #1 of 1 dry cleaners in Westfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 8% of dry cleaners in Indianapolis, IN, #1 of 1 dry cleaners in Westfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

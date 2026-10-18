@@ -6,7 +6,7 @@ Also answers: physical therapy in Castle Shannon, PA; physical therapy near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Manning Physical Therapy | Organic #1 | Pulse Score 57.2/100 (Unrated, #2 in city) | Manning Physical Therapy is a physical therapy clinic in Pittsburgh, PA at 3370 Library Road, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/manning-physical-therapy-pittsburgh/
+1. Manning Physical Therapy | Organic #1 | Pulse Score 57.1/100 (Unrated, #2 in city) | Manning Physical Therapy is a physical therapy clinic in Pittsburgh, PA at 3370 Library Road, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/manning-physical-therapy-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy castle shannon pa | category: Health & medical | industry benchmark: Physicians & Surgeons

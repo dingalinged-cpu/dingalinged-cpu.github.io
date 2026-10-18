@@ -6,7 +6,7 @@ Also answers: hvac repair in Frederick, CO; hvac repair near me (Frederick, CO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Atek Heating & Air Condtioning, Inc. | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Atek Heating & Air Condtioning, Inc. is a HVAC contractor in Frederick, CO at 5979 Iris Parkway, Frederick, CO 80504. | https://registry-edge.dingalinged.workers.dev/c/atek-heating-and-air-condtioning-inc-frederick/
+1. Atek Heating & Air Condtioning, Inc. | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Atek Heating & Air Condtioning, Inc. is a HVAC contractor in Frederick, CO at 5979 Iris Parkway, Frederick, CO 80504. | https://registry-edge.dingalinged.workers.dev/c/atek-heating-and-air-condtioning-inc-frederick/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair frederick co | category: Home services - HVAC | industry benchmark: Home & Home Improvement

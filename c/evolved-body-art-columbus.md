@@ -13,7 +13,7 @@ Evolved Body Art is a tattoo shop in Columbus, OH at 2520 Summit Street, Columbu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 12:00-20:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 30% of tattoo shops in Columbus, OH, #7 of 16 tattoo shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 30% of tattoo shops in Columbus, OH, #7 of 16 tattoo shops in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

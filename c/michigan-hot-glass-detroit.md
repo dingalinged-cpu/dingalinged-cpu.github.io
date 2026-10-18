@@ -13,7 +13,7 @@ Michigan Hot Glass is a window repair service in Detroit, MI at 1604 Clay Street
 - Website: https://www.michiganhotglass.com/
 - Email: MHGW83@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.7/100 — Good — top 12% of window repair services in Detroit, MI, #1 of 1 window repair services in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 12% of window repair services in Detroit, MI, #1 of 1 window repair services in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

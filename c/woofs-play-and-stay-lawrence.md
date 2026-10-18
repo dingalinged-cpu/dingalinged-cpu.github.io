@@ -13,7 +13,7 @@ Woof's Play and Stay is a dog boarding facility in Lawrence, KS at 1519 West 23r
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.7/100 — Unrated (not enough evidence yet) — top 100% of dog boarding facilitys in Lawrence, KS, #2 of 2 dog boarding facilitys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.7/100 — Unrated (not enough evidence yet) — top 100% of dog boarding facilitys in Lawrence, KS, #2 of 2 dog boarding facilitys in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

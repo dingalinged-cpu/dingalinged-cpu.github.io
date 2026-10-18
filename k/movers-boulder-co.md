@@ -6,7 +6,7 @@ Also answers: movers in Boulder, CO; movers near me (Boulder, CO); best movers B
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Be Free Organizing & Move Management | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Be Free Organizing & Move Management is a moving company in Boulder, CO at 4560 Macarthur Drive, Boulder, CO 80303. Phone: +13038173470. Website: https://www.befreeorganizing.com/. | https://registry-edge.dingalinged.workers.dev/c/be-free-organizing-and-move-management-boulder/
+1. Be Free Organizing & Move Management | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Be Free Organizing & Move Management is a moving company in Boulder, CO at 4560 Macarthur Drive, Boulder, CO 80303. Phone: +13038173470. Website: https://www.befreeorganizing.com/. | https://registry-edge.dingalinged.workers.dev/c/be-free-organizing-and-move-management-boulder/
 
 ## Market data (for advertisers and agents)
 - Keyword: movers boulder co | category: Home services - Moving | industry benchmark: Home & Home Improvement

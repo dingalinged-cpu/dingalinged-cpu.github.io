@@ -13,7 +13,7 @@ Dr. Dane Edward Bowen Dentistry is a dentist in Lancaster, OH at 137 West Mulber
 - Website: https://doctor.webmd.com/doctor/dane-bowen-688d2749-405e-41f9-9a37-246885897524-overview
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 18% of dentists in Columbus, OH, #3 of 18 dentists in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 18% of dentists in Columbus, OH, #3 of 18 dentists in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Saint Louis, MO at 4432 Lemay Ferry Roa
 - Website: https://stores.ashleyfurniture.com/store/us/missouri/st-louis/7710000229/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 59% of furniture stores in St. Louis, MO, #6 of 9 furniture stores in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 59% of furniture stores in St. Louis, MO, #6 of 9 furniture stores in Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

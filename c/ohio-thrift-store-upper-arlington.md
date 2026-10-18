@@ -13,7 +13,7 @@ Ohio Thrift Store is a thrift store in Upper Arlington, OH at 1881 West Henderso
 - Website: https://www.ohiothrift.com/Locations/upper-arlington-store
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.8/100 — Unrated (not enough evidence yet) — top 34% of thrift stores in Columbus, OH, #1 of 1 thrift stores in Upper Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.8/100 — Unrated (not enough evidence yet) — top 32% of thrift stores in Columbus, OH, #1 of 1 thrift stores in Upper Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

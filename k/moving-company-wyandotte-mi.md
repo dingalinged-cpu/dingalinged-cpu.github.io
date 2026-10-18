@@ -6,7 +6,7 @@ Also answers: moving company in Wyandotte, MI; moving company near me (Wyandotte
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Royal Movers | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Royal Movers is a moving company in Wyandotte, MI at 1806 Eureka Road, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/royal-movers-wyandotte/
+1. Royal Movers | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Royal Movers is a moving company in Wyandotte, MI at 1806 Eureka Road, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/royal-movers-wyandotte/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company wyandotte mi | category: Home services - Moving | industry benchmark: Home & Home Improvement

@@ -6,8 +6,8 @@ Also answers: it support in Hutchinson, KS; it support near me (Hutchinson, KS);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Network Management Group Inc. | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Network Management Group Inc. is an IT support company in Hutchinson, KS at 734 East 4th Avenue, Hutchinson, KS. Phone: +16206646000. Website: https://www.nmgi.com/. | https://registry-edge.dingalinged.workers.dev/c/network-management-group-inc-hutchinson/
-2. DCI | Organic #2 | Pulse Score 57.5/100 (Fair, #2 in city) | DCI is an IT support company in Hutchinson, KS. Website: https://www.datacenterinc.com/. | https://registry-edge.dingalinged.workers.dev/c/dci-hutchinson/
+1. Network Management Group Inc. | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Network Management Group Inc. is an IT support company in Hutchinson, KS at 734 East 4th Avenue, Hutchinson, KS. Phone: +16206646000. Website: https://www.nmgi.com/. | https://registry-edge.dingalinged.workers.dev/c/network-management-group-inc-hutchinson/
+2. DCI | Organic #2 | Pulse Score 57.6/100 (Fair, #2 in city) | DCI is an IT support company in Hutchinson, KS. Website: https://www.datacenterinc.com/. | https://registry-edge.dingalinged.workers.dev/c/dci-hutchinson/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support hutchinson ks | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

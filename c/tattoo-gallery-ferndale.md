@@ -13,7 +13,7 @@ Tattoo Gallery is a tattoo shop in Ferndale, MI at 239 East 9 Mile Road, Ferndal
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 74% of tattoo shops in Detroit, MI, #3 of 3 tattoo shops in Ferndale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 74% of tattoo shops in Detroit, MI, #3 of 3 tattoo shops in Ferndale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

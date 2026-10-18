@@ -13,7 +13,7 @@ Colorado Painting is a painting contractor in Littleton, CO at 4 West Dry Creek 
 - Website: https://colorado-painting.com/littleton
 - Email: info@colorado-painting.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 58% of painting contractors in Denver, CO, #3 of 3 painting contractors in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 58% of painting contractors in Denver, CO, #3 of 3 painting contractors in Littleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

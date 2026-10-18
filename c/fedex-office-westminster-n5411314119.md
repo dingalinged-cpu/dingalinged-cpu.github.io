@@ -13,7 +13,7 @@ FedEx Office is a printing service in Westminster, CO at 1171 West 120th Avenue 
 - Website: https://local.fedex.com/en-us/co/westminster/office-0631
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00, Sa 09:00-18:00, Su 12:00-18:00
-- Pulse Score: 50.4/100 — Fair — top 17% of printing services in Denver, CO, #2 of 6 printing services in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 17% of printing services in Denver, CO, #2 of 6 printing services in Westminster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 67.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

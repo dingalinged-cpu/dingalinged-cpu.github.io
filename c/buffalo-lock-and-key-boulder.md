@@ -13,7 +13,7 @@ Buffalo Lock & Key is a locksmith in Boulder, CO at 2510 Baseline Road, Boulder,
 - Website: https://buffalolockandkey.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 29% of locksmiths in Denver, CO, #1 of 1 locksmiths in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 29% of locksmiths in Denver, CO, #1 of 1 locksmiths in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

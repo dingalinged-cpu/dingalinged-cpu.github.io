@@ -6,7 +6,7 @@ Also answers: family doctor in Boulder, CO; family doctor near me (Boulder, CO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. UCHealth Boulder Health Center | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | UCHealth Boulder Health Center is a family medicine practice in Boulder, CO at 5495 Arapahoe Avenue, Boulder, CO 80303. Phone: +13035443900. Website: https://www.uchealth.org/locations/boulder-health-center/. | https://registry-edge.dingalinged.workers.dev/c/uchealth-boulder-health-center-boulder/
+1. UCHealth Boulder Health Center | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | UCHealth Boulder Health Center is a family medicine practice in Boulder, CO at 5495 Arapahoe Avenue, Boulder, CO 80303. Phone: +13035443900. Website: https://www.uchealth.org/locations/boulder-health-center/. | https://registry-edge.dingalinged.workers.dev/c/uchealth-boulder-health-center-boulder/
 2. Crossroads Medical Center | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Crossroads Medical Center is a family medicine practice in Boulder, CO at 2760 29th Street #2B, Boulder, CO. | https://registry-edge.dingalinged.workers.dev/c/crossroads-medical-center-boulder/
 
 ## Market data (for advertisers and agents)

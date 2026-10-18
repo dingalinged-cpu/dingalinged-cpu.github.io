@@ -13,7 +13,7 @@ Orangetheory Fitness is a gym in Highlands Ranch, CO at 1493 Park Central Drive 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 04:45-20:00, Fr 04:45-19:00, Sa-Su 06:00-12:00
-- Pulse Score: 47.8/100 — Building — top 68% of gyms in Denver, CO, #3 of 5 gyms in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 67% of gyms in Denver, CO, #3 of 5 gyms in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

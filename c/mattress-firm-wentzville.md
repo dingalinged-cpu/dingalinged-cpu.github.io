@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Wentzville, MO at 1871 Wentzville Parkway, 
 - Website: https://www.mattressfirm.com/stores/mo/wentzville/mattress-stores-wentzville-mo-63385-5912.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 100% of mattress stores in Wentzville, MO, #1 of 1 mattress stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 100% of mattress stores in Wentzville, MO, #1 of 1 mattress stores in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

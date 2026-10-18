@@ -13,7 +13,7 @@ Corewell Health Pediatric - Dearborn is a pediatrician in Dearborn, MI at 18181 
 - Website: https://corewellhealth.org/locations/LOC0000195116/corewell-health-pediatric-clinic-dearborn
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 46% of pediatricians in Detroit, MI, #2 of 3 pediatricians in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 46% of pediatricians in Detroit, MI, #2 of 3 pediatricians in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

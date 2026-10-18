@@ -13,7 +13,7 @@ Woodruff's Downriver Stone Design is a concrete contractor in Wyandotte, MI at 2
 - Website: https://www.woodruffdsd.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-16:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 25% of concrete contractors in Detroit, MI, #1 of 1 concrete contractors in Wyandotte (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 25% of concrete contractors in Detroit, MI, #1 of 1 concrete contractors in Wyandotte (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

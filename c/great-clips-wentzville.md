@@ -13,7 +13,7 @@ Great Clips is a hair salon in Wentzville, MO at 1972 Wentzville Parkway, Wentzv
 - Website: https://salons.greatclips.com/us/mo/wentzville/1972-wentzville-pkwy
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 08:00-18:00; Su 09:00-18:00
-- Pulse Score: 48.7/100 — Building — top 34% of hair salons in Wentzville, MO, #1 of 3 hair salons in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 34% of hair salons in Wentzville, MO, #1 of 3 hair salons in Wentzville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

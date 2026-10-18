@@ -13,7 +13,7 @@ Hinoki is a boutique in Cincinnati, OH at 1326 Vine Street, Cincinnati, OH 45202
 - Website: https://shophinoki.com/
 - Email: n/a
 - Opening hours (OSM syntax): We-Su 11:00-19:00
-- Pulse Score: 63.6/100 — Good — top 50% of boutiques in Cincinnati, OH, #1 of 1 boutiques in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 50% of boutiques in Cincinnati, OH, #1 of 1 boutiques in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ OneMain Financial is a financial advisor in Wayne, MI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 62% of financial advisors in Detroit, MI, #1 of 1 financial advisors in Wayne (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 39.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.4/100 — Unrated (not enough evidence yet) — top 100% of financial advisors in Detroit, MI, #1 of 1 financial advisors in Wayne (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

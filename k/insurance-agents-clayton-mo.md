@@ -6,7 +6,7 @@ Also answers: insurance agents in Clayton, MO; insurance agents near me (Clayton
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm | Organic #1 | Pulse Score 45.2/100 (Building, #1 in city) | State Farm is an insurance agent in Clayton, MO at 7803 Clayton Road #B, Clayton, MO 63117. Phone: +13147250404. Website: https://veronicaobrienagency.com/. | https://registry-edge.dingalinged.workers.dev/c/state-farm-clayton/
+1. State Farm | Organic #1 | Pulse Score 45.1/100 (Building, #1 in city) | State Farm is an insurance agent in Clayton, MO at 7803 Clayton Road #B, Clayton, MO 63117. Phone: +13147250404. Website: https://veronicaobrienagency.com/. | https://registry-edge.dingalinged.workers.dev/c/state-farm-clayton/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents clayton mo | category: insurance | industry benchmark: Finance & Insurance

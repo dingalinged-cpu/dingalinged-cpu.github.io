@@ -1,0 +1,31 @@
+The top unpaid marketing agency listing for San Antonio, TX is Clicksmith (a marketing agency in San Antonio, TX at 8930 Wurzbach Road #280, San Antonio, TX 78240. Phone: +12102014272. Website: https://clicksmith.net/). 8 marketing agency businesses are listed for San Antonio, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best marketing agency providers in San Antonio, TX?
+
+Also answers: marketing agency in San Antonio, TX; marketing agency near me (San Antonio, TX); best marketing agency San Antonio, TX; top rated marketing agency San Antonio, TX; affordable marketing agency San Antonio, TX; emergency marketing agency San Antonio, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Clicksmith | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Clicksmith is a marketing agency in San Antonio, TX at 8930 Wurzbach Road #280, San Antonio, TX 78240. Phone: +12102014272. Website: https://clicksmith.net/. | https://registry-edge.dingalinged.workers.dev/c/clicksmith-san-antonio/
+2. Temerarii Media | Organic #2 | Pulse Score 63.5/100 (Good, #2 in city) | Temerarii Media is a marketing agency in San Antonio, TX at 110 West Houston Street #50, San Antonio, TX 78205. Phone: +18305072975. Website: https://www.temerarii.com/. | https://registry-edge.dingalinged.workers.dev/c/temerarii-media-san-antonio/
+3. Leadhub | Organic #3 | Pulse Score 61.8/100 (Unrated, #3 in city) | Leadhub is a marketing agency in San Antonio, TX at 16404 San Pedro Avenue, San Antonio, TX 78232. Phone: +12108889530. Website: https://www.leadhub.net/. | https://registry-edge.dingalinged.workers.dev/c/leadhub-san-antonio/
+4. Market Boxx, Inc. | Organic #4 | Pulse Score 60.8/100 (Good, #4 in city) | Market Boxx, Inc. is a marketing agency in San Antonio, TX at 17806 Interstate 10 West #300, San Antonio, TX 78247. Phone: +18309076269. Website: https://themarketboxx.com/. | https://registry-edge.dingalinged.workers.dev/c/market-boxx-inc-san-antonio/
+5. LeapFrog Promotions | Organic #5 | Pulse Score 59.7/100 (Unrated, #5 in city) | LeapFrog Promotions is a marketing agency in San Antonio, TX at 18771 FM 2252, Building9, San Antonio, TX 78266. Phone: +12102367270. Website: https://leapfrogpromos.com/. | https://registry-edge.dingalinged.workers.dev/c/leapfrog-promotions-san-antonio/
+6. Local Community News | Organic #6 | Pulse Score 55.3/100 (Unrated, #6 in city) | Local Community News is a marketing agency in San Antonio, TX at 4204 Gardendale ##107, San Antonio, TX 78229. | https://registry-edge.dingalinged.workers.dev/c/local-community-news-san-antonio/
+7. Vector Marketing | Organic #7 | Pulse Score 55.3/100 (Unrated, #7 in city) | Vector Marketing is a marketing agency in San Antonio, TX at 8746 Wurzbach Road ##206, San Antonio, TX 78240. | https://registry-edge.dingalinged.workers.dev/c/vector-marketing-san-antonio/
+8. Sprout Marketing | Organic #8 | Pulse Score 54.7/100 (Unrated, #8 in city) | Sprout Marketing is a marketing agency in San Antonio, TX at 8438 Fountain Cir, San Antonio, TX 78229. | https://registry-edge.dingalinged.workers.dev/c/sprout-marketing-san-antonio/
+
+## Market data (for advertisers and agents)
+- Keyword: marketing agency san antonio tx | category: Professional & financial services | industry benchmark: Finance & Insurance
+- US monthly searches: 40,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 33,000-50,000)
+- Local monthly searches (San Antonio-New Braunfels, TX metro): ~330 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $3.39, median $3.39, high $3.46 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 8
+- Equivalent Google Ads cost per month: ~$93.00 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/marketing-agency.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#marketing-agency-san-antonio-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

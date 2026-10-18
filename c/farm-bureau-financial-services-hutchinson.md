@@ -13,7 +13,7 @@ Farm Bureau Financial Services is an insurance agent in Hutchinson, KS at 1021 N
 - Website: https://www.fbfs.com/find-an-agent/stevecurtin/hours-locations
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 49.5/100 — Building — top 50% of insurance agents in Wichita, KS, #7 of 11 insurance agents in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 50% of insurance agents in Wichita, KS, #7 of 11 insurance agents in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

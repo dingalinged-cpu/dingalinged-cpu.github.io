@@ -13,7 +13,7 @@ PetSmart is a pet store in Grove City, OH at 1743 Stringtown Road, Grove City, O
 - Website: https://www.petsmart.com/stores/us/oh/grove-city-store1209.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 49.6/100 — Building — top 42% of pet stores in Columbus, OH, #2 of 3 pet stores in Grove City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 42% of pet stores in Columbus, OH, #2 of 3 pet stores in Grove City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

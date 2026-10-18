@@ -13,7 +13,7 @@ Sun-Ray is a HVAC contractor in Hampton Township, PA. Phone: +18007344600.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 30% of HVAC contractors in Pittsburgh, PA, #1 of 3 HVAC contractors in Hampton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 30% of HVAC contractors in Pittsburgh, PA, #1 of 3 HVAC contractors in Hampton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

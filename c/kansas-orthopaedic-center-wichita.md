@@ -13,7 +13,7 @@ Kansas Orthopaedic Center is an orthopedic surgeon in Wichita, KS. Phone: +13168
 - Website: https://www.koc-pa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 100% of orthopedic surgeons in Wichita, KS, #1 of 1 orthopedic surgeons in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 100% of orthopedic surgeons in Wichita, KS, #1 of 1 orthopedic surgeons in Wichita (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

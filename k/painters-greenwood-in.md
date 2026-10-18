@@ -6,7 +6,7 @@ Also answers: painters in Greenwood, IN; painters near me (Greenwood, IN); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wall Techs Painting & Repairs | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Wall Techs Painting & Repairs is a painting contractor in Greenwood, IN at 2020 Kathy St, Greenwood, IN 46143. Phone: +13176906023. Website: https://walltechspaintingandrepair.com/. | https://registry-edge.dingalinged.workers.dev/c/wall-techs-painting-and-repairs-greenwood/
+1. Wall Techs Painting & Repairs | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Wall Techs Painting & Repairs is a painting contractor in Greenwood, IN at 2020 Kathy St, Greenwood, IN 46143. Phone: +13176906023. Website: https://walltechspaintingandrepair.com/. | https://registry-edge.dingalinged.workers.dev/c/wall-techs-painting-and-repairs-greenwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters greenwood in | category: Home services - Painting | industry benchmark: Home & Home Improvement

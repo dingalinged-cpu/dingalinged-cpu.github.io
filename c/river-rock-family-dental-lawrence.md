@@ -13,7 +13,7 @@ River Rock Family Dental is a dentist in Lawrence, KS at 1100 East 23rd Street, 
 - Website: https://riverrockdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-17:00; Th 07:00-15:00; Fr 08:00-13:00
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 62% of dentists in Lawrence, KS, #16 of 26 dentists in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 62% of dentists in Lawrence, KS, #16 of 26 dentists in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

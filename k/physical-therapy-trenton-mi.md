@@ -6,7 +6,7 @@ Also answers: physical therapy in Trenton, MI; physical therapy near me (Trenton
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Premier Physicians of Michigan | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Premier Physicians of Michigan is a physical therapy clinic in Trenton, MI at 3645 West Road, Trenton, MI 48183. Phone: +17344864200. | https://registry-edge.dingalinged.workers.dev/c/premier-physicians-of-michigan-trenton/
+1. Premier Physicians of Michigan | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Premier Physicians of Michigan is a physical therapy clinic in Trenton, MI at 3645 West Road, Trenton, MI 48183. Phone: +17344864200. | https://registry-edge.dingalinged.workers.dev/c/premier-physicians-of-michigan-trenton/
 2. Level Eleven Physical Therapy | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Level Eleven Physical Therapy is a physical therapy clinic in Trenton, MI. | https://registry-edge.dingalinged.workers.dev/c/level-eleven-physical-therapy-trenton/
 3. Athletico Physical Therapy | Organic #3 | Pulse Score 46.2/100 (Building, #3 in city) | Athletico Physical Therapy is a physical therapy clinic in Trenton, MI at 3343 West Road, Trenton, MI 48183. Website: https://www.athletico.com/locations/trenton-woodhaven/. | https://registry-edge.dingalinged.workers.dev/c/athletico-physical-therapy-trenton/
 

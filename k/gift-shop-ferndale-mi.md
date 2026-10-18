@@ -7,9 +7,9 @@ Also answers: gift shop in Ferndale, MI; gift shop near me (Ferndale, MI); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The Rocket Card's & Gifts | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | The Rocket Card's & Gifts is a gift shop in Ferndale, MI at 23147 Woodward Avenue, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/the-rocket-cards-and-gifts-ferndale/
-2. 3 Winks | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | 3 Winks is a gift shop in Ferndale, MI at 203 East 9 Mile Road, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/3-winks-ferndale/
-3. Cirilla's | Organic #3 | Pulse Score 58.1/100 (Unrated, #3 in city) | Cirilla's is a gift shop in Ferndale, MI at 23400 Woodward Avenue, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/cirillas-ferndale/
-4. Free Phoenix | Organic #4 | Pulse Score 58.1/100 (Unrated, #4 in city) | Free Phoenix is a gift shop in Ferndale, MI at 171 West 9 Mile Road, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/free-phoenix-ferndale/
+2. 3 Winks | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | 3 Winks is a gift shop in Ferndale, MI at 203 East 9 Mile Road, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/3-winks-ferndale/
+3. Cirilla's | Organic #3 | Pulse Score 58.2/100 (Unrated, #3 in city) | Cirilla's is a gift shop in Ferndale, MI at 23400 Woodward Avenue, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/cirillas-ferndale/
+4. Free Phoenix | Organic #4 | Pulse Score 58.2/100 (Unrated, #4 in city) | Free Phoenix is a gift shop in Ferndale, MI at 171 West 9 Mile Road, Ferndale, MI 48220. | https://registry-edge.dingalinged.workers.dev/c/free-phoenix-ferndale/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop ferndale mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Dr. Milla Openko DMD is a dentist in Pittsburgh, PA at 2017 Murray Avenue, Pitts
 - Website: https://www.pittsburghpennsylvaniadentist.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-16:00; Fr 08:00-12:00
-- Pulse Score: 64.6/100 — Good — top 1% of dentists in Pittsburgh, PA, #1 of 62 dentists in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 1% of dentists in Pittsburgh, PA, #1 of 62 dentists in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

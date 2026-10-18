@@ -13,7 +13,7 @@ Supercuts is a hair salon in O’Fallon, MO at 1306 Highway K, O’Fallon, MO 63
 - Website: https://www.supercuts.com/locations/mo/ofallon/ofallon-center-haircuts-82220.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 50% of hair salons in O'Fallon, MO, #7 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 50% of hair salons in O'Fallon, MO, #7 of 12 hair salons in O’Fallon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

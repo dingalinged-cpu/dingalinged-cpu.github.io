@@ -13,7 +13,7 @@ FedEx Office is a printing service in Pittsburgh, PA at 3710 Forbes Avenue, Pitt
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-18:00
-- Pulse Score: 48.2/100 — Building — top 48% of printing services in Pittsburgh, PA, #7 of 15 printing services in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 48% of printing services in Pittsburgh, PA, #7 of 15 printing services in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

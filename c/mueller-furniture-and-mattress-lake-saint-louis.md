@@ -13,7 +13,7 @@ Mueller Furniture & Mattress is a furniture store in Lake Saint Louis, MO at 9 F
 - Website: https://www.muellerfurniture.com/
 - Email: corporate@muellerfurniture.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 12:30-17:00
-- Pulse Score: 51.8/100 — Fair — top 60% of furniture stores in O'Fallon, MO, #1 of 1 furniture stores in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.8/100 — Fair — top 60% of furniture stores in O'Fallon, MO, #1 of 1 furniture stores in Lake Saint Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

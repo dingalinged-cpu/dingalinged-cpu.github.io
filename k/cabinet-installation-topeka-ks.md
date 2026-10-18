@@ -6,7 +6,7 @@ Also answers: cabinet installation in Topeka, KS; cabinet installation near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Custom Wood Products | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Custom Wood Products is a cabinet maker in Topeka, KS at 1920 Southwest Westport Drive, Topeka, KS 66604. Phone: +17852711869. Website: https://www.cwponline.com/. | https://registry-edge.dingalinged.workers.dev/c/custom-wood-products-topeka/
+1. Custom Wood Products | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Custom Wood Products is a cabinet maker in Topeka, KS at 1920 Southwest Westport Drive, Topeka, KS 66604. Phone: +17852711869. Website: https://www.cwponline.com/. | https://registry-edge.dingalinged.workers.dev/c/custom-wood-products-topeka/
 
 ## Market data (for advertisers and agents)
 - Keyword: cabinet installation topeka ks | category: Home services - Carpentry | industry benchmark: Home & Home Improvement

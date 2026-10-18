@@ -6,7 +6,7 @@ Also answers: bakery in Bloomfield Hills, MI; bakery near me (Bloomfield Hills, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chez Pierre et Genevieve | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Chez Pierre et Genevieve is a bakery in Bloomfield Hills, MI at 6525 Telegraph Road, Bloomfield Hills, MI 48301. | https://registry-edge.dingalinged.workers.dev/c/chez-pierre-et-genevieve-bloomfield-hills/
+1. Chez Pierre et Genevieve | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Chez Pierre et Genevieve is a bakery in Bloomfield Hills, MI at 6525 Telegraph Road, Bloomfield Hills, MI 48301. | https://registry-edge.dingalinged.workers.dev/c/chez-pierre-et-genevieve-bloomfield-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery bloomfield hills mi | category: Events & weddings | industry benchmark: Personal Services

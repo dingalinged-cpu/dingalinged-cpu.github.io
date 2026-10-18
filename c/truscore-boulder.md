@@ -13,7 +13,7 @@ TruScore is a business consultant in Boulder, CO at 6525 Gunpark Drive #Suite 37
 - Website: https://www.truscore.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr: 08:00-17:00; Sa, Su off
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 9% of business consultants in Denver, CO, #1 of 1 business consultants in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 9% of business consultants in Denver, CO, #1 of 1 business consultants in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

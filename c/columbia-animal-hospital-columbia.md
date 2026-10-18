@@ -13,7 +13,7 @@ Columbia Animal Hospital is a veterinarian in Columbia, IL at 201 McCrosky Profe
 - Website: https://columbiaanimalhospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu 7:00-19:00; We 9:00-17:00; Fr 8:00-16:00; Sa 9:00-11:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 7% of veterinarians in St. Louis, MO, #1 of 2 veterinarians in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 7% of veterinarians in St. Louis, MO, #1 of 2 veterinarians in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

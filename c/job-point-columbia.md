@@ -13,7 +13,7 @@ Job Point is a staffing agency in Columbia, MO at 400 Wilkes Boulevard, Columbia
 - Website: https://jobpoint.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 50% of staffing agencys in Columbia, MO, #1 of 2 staffing agencys in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 50% of staffing agencys in Columbia, MO, #1 of 2 staffing agencys in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

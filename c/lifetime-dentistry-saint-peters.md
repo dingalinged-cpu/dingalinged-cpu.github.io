@@ -13,7 +13,7 @@ Lifetime Dentistry is a dentist in Saint Peters, MO at 583 Mid Rivers Mall Drive
 - Website: https://www.lifetimestpeters.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-17:00; Tu 09:00-20:00; We 08:00-17:00; Th 07:00-14:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 72% of dentists in St. Peters, MO, #4 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 72% of dentists in St. Peters, MO, #4 of 6 dentists in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

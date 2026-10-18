@@ -6,7 +6,7 @@ Also answers: bike shop in Newport, KY; bike shop near me (Newport, KY); best bi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Reser Bicycles | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Reser Bicycles is a bike shop in Newport, KY at 648 Monmouth Street, Newport, KY 41071. Phone: +18592616187. Website: https://www.reserbicycle.com/. | https://registry-edge.dingalinged.workers.dev/c/reser-bicycles-newport/
+1. Reser Bicycles | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Reser Bicycles is a bike shop in Newport, KY at 648 Monmouth Street, Newport, KY 41071. Phone: +18592616187. Website: https://www.reserbicycle.com/. | https://registry-edge.dingalinged.workers.dev/c/reser-bicycles-newport/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop newport ky | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

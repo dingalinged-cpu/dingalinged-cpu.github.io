@@ -13,7 +13,7 @@ Floor & Decor is a flooring company in Bridgeton, MO at 11968 Paul Mayer Avenue,
 - Website: https://www.flooranddecor.com//store?storeID=215&searchQuery=MO
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 93% of flooring companys in St. Louis, MO, #1 of 1 flooring companys in Bridgeton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 93% of flooring companys in St. Louis, MO, #1 of 1 flooring companys in Bridgeton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

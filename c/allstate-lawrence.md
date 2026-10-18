@@ -13,7 +13,7 @@ Allstate is an insurance agent in Lawrence, KS at 2233 Louisiana Street #H2, Law
 - Website: https://agents.allstate.com/timothy-waltrip-lawrence-ks.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-13:00
-- Pulse Score: 47.3/100 — Building — top 65% of insurance agents in Lawrence, KS, #13 of 20 insurance agents in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 65% of insurance agents in Lawrence, KS, #13 of 20 insurance agents in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

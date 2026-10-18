@@ -13,7 +13,7 @@ Wired Electric is an electrician in Arnold, MO at 2051 Bender Lane, Arnold, MO 6
 - Website: https://wiredelectricstl.com/
 - Email: info@wiredelectricstl.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 40% of electricians in St. Louis, MO, #1 of 1 electricians in Arnold (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 40% of electricians in St. Louis, MO, #1 of 1 electricians in Arnold (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Hutchinson Main Street Dental is a dentist in Hutchinson, KS at 2411 North Main 
 - Website: https://www.hutchinsonmainstreetdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:30-16:30; Fr 08:00-12:00
-- Pulse Score: 63.4/100 — Good — top 4% of dentists in Wichita, KS, #1 of 6 dentists in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 4% of dentists in Wichita, KS, #1 of 6 dentists in Hutchinson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

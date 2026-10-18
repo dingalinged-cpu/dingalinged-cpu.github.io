@@ -13,7 +13,7 @@ Athletico Physical Therapy is a physical therapy clinic in Collinsville, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-18:30; Fr 07:00-17:30
-- Pulse Score: 44.6/100 — Unrated (not enough evidence yet) — top 83% of physical therapy clinics in St. Louis, MO, #1 of 2 physical therapy clinics in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 83% of physical therapy clinics in St. Louis, MO, #1 of 2 physical therapy clinics in Collinsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

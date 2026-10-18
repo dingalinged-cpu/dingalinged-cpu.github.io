@@ -6,7 +6,7 @@ Also answers: heating and air in Eureka, MO; heating and air near me (Eureka, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Saylors Systems Heating and Air | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Saylors Systems Heating and Air is a HVAC contractor in Eureka, MO at 1631 West 5th Street, Eureka, MO 63025. Phone: +13142372559. Website: https://www.saylorssystems.com/eureka-air-conditioning-services/. | https://registry-edge.dingalinged.workers.dev/c/saylors-systems-heating-and-air-eureka/
+1. Saylors Systems Heating and Air | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Saylors Systems Heating and Air is a HVAC contractor in Eureka, MO at 1631 West 5th Street, Eureka, MO 63025. Phone: +13142372559. Website: https://www.saylorssystems.com/eureka-air-conditioning-services/. | https://registry-edge.dingalinged.workers.dev/c/saylors-systems-heating-and-air-eureka/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air eureka mo | category: Home Services | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ IHA Medical Group Pediatrics is a pediatrician in Plymouth, MI at 990 West Ann A
 - Website: https://www.trinityhealthmichigan.org/location/trinity-health-iha-medical-group-pediatrics-plymouth
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 19% of pediatricians in Detroit, MI, #2 of 2 pediatricians in Plymouth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 19% of pediatricians in Detroit, MI, #2 of 2 pediatricians in Plymouth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

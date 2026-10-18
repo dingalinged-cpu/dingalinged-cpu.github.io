@@ -13,7 +13,7 @@ Canine to Five is a dog boarding facility in Detroit, MI at 3443 Cass Avenue, De
 - Website: https://www.caninetofive.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 30% of dog boarding facilitys in Detroit, MI, #1 of 1 dog boarding facilitys in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 30% of dog boarding facilitys in Detroit, MI, #1 of 1 dog boarding facilitys in Detroit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ AAA Self Storage is a self-storage facility in Topeka, KS at 2155 Southwest West
 - Website: https://www.aaaselfstoragetopeka.com/
 - Email: aaaselfstorage2155@sbcglobal.net
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 20% of self-storage facilitys in Topeka, KS, #1 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Unrated (not enough evidence yet) — top 60% of self-storage facilitys in Topeka, KS, #3 of 5 self-storage facilitys in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

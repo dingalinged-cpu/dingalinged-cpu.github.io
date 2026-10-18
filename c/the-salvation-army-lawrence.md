@@ -13,7 +13,7 @@ The Salvation Army is a thrift store in Lawrence, KS at 1800 East 23rd Street #Q
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00
-- Pulse Score: 45.3/100 — Building — top 100% of thrift stores in Lawrence, KS, #8 of 8 thrift stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 100% of thrift stores in Lawrence, KS, #8 of 8 thrift stores in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

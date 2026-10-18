@@ -13,7 +13,7 @@ RE/MAX is a real estate agency in McCandless, PA at 8858 McKnight Road, McCandle
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.9/100 — Building — top 69% of real estate agencys in Pittsburgh, PA, #4 of 7 real estate agencys in McCandless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 69% of real estate agencys in Pittsburgh, PA, #4 of 7 real estate agencys in McCandless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

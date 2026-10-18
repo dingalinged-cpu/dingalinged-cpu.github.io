@@ -6,7 +6,7 @@ Also answers: dog boarding in Valley Center, KS; dog boarding near me (Valley Ce
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wag'en Tail Ranch | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Wag'en Tail Ranch is a dog boarding facility in Valley Center, KS at 6106 West 69th Street North, Valley Center, KS 67147. Website: https://wagentail.com/. | https://registry-edge.dingalinged.workers.dev/c/wagen-tail-ranch-valley-center/
+1. Wag'en Tail Ranch | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Wag'en Tail Ranch is a dog boarding facility in Valley Center, KS at 6106 West 69th Street North, Valley Center, KS 67147. Website: https://wagentail.com/. | https://registry-edge.dingalinged.workers.dev/c/wagen-tail-ranch-valley-center/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding valley center ks | category: Pets | industry benchmark: Animals & Pets

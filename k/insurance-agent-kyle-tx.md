@@ -1,0 +1,26 @@
+The top unpaid insurance agent listing for Kyle, TX is Texas Heartland Insurance Services (an insurance agent in Kyle, TX at 187 Kirkham Circle #C, Kyle, TX 78640. Phone: +15127814710. Website: https://www.texasheartlandins.com/). 3 insurance agent businesses are listed for Kyle, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best insurance agent providers in Kyle, TX?
+
+Also answers: insurance agent in Kyle, TX; insurance agent near me (Kyle, TX); best insurance agent Kyle, TX; top rated insurance agent Kyle, TX; affordable insurance agent Kyle, TX; emergency insurance agent Kyle, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Texas Heartland Insurance Services | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Texas Heartland Insurance Services is an insurance agent in Kyle, TX at 187 Kirkham Circle #C, Kyle, TX 78640. Phone: +15127814710. Website: https://www.texasheartlandins.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-heartland-insurance-services-kyle/
+2. Fred Loya Insurance | Organic #2 | Pulse Score 49.2/100 (Building, #2 in city) | Fred Loya Insurance is an insurance agent in Kyle, TX at 5401 South FM 1626 #130, Kyle, TX 78640. Phone: +15122688161. Website: https://www.fredloya.com/. | https://registry-edge.dingalinged.workers.dev/c/fred-loya-insurance-kyle/
+3. State Farm Insurance Agent | Organic #3 | Pulse Score 46.4/100 (Building, #3 in city) | State Farm Insurance Agent is an insurance agent in Kyle, TX at 1300 Dacy Lane #160, Kyle, TX 78640. Phone: +17374045038. Website: https://insuring-texas.com/. | https://registry-edge.dingalinged.workers.dev/c/state-farm-insurance-agent-kyle/
+
+## Market data (for advertisers and agents)
+- Keyword: insurance agent kyle tx | category: Professional & financial services | industry benchmark: Finance & Insurance
+- US monthly searches: 40,500/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'insurance agent near me')
+- Local monthly searches (Austin-Round Rock-San Marcos, TX metro): ~310 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.39, median $3.39, high $6.02 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks]; Insurance Providers CPC 2024 (Semrush-based) $6.02 [https://www.digitalposition.com/resources/blog/ppc/2024-google-ads-cpc-benchmarks-insights-from-3-6m-keywords/])
+- Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 3
+- Equivalent Google Ads cost per month: ~$88.00 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/insurance-agent.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#insurance-agent-kyle-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

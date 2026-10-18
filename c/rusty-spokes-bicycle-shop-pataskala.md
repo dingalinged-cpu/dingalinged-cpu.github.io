@@ -13,7 +13,7 @@ Rusty Spokes Bicycle Shop is a bike shop in Pataskala, OH at 360 East Broad Stre
 - Website: https://www.rsbikeco.com/
 - Email: questions4rusty@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 4% of bike shops in Columbus, OH, #1 of 1 bike shops in Pataskala (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 4% of bike shops in Columbus, OH, #1 of 1 bike shops in Pataskala (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

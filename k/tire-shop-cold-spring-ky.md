@@ -6,7 +6,7 @@ Also answers: tire shop in Cold Spring, KY; tire shop near me (Cold Spring, KY);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tire Discounters | Organic #1 | Pulse Score 43.1/100 (Building, #1 in city) | Tire Discounters is a tire shop in Cold Spring, KY. | https://registry-edge.dingalinged.workers.dev/c/tire-discounters-cold-spring/
+1. Tire Discounters | Organic #1 | Pulse Score 43/100 (Building, #1 in city) | Tire Discounters is a tire shop in Cold Spring, KY. | https://registry-edge.dingalinged.workers.dev/c/tire-discounters-cold-spring/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop cold spring ky | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

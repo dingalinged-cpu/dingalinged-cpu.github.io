@@ -13,7 +13,7 @@ ERB Physical Therapy is a physical therapy clinic in Bethel Park, PA at 422 McMu
 - Website: https://www.erbphysicaltherapy.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 13% of physical therapy clinics in Pittsburgh, PA, #2 of 3 physical therapy clinics in Bethel Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 13% of physical therapy clinics in Pittsburgh, PA, #2 of 3 physical therapy clinics in Bethel Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Gerber Collision & Glass is an auto repair shop in Highlands Ranch, CO at 6208 E
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30, Sa 08:00-12:00
-- Pulse Score: 47.9/100 — Building — top 75% of auto repair shops in Denver, CO, #4 of 4 auto repair shops in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 74% of auto repair shops in Denver, CO, #4 of 4 auto repair shops in Highlands Ranch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

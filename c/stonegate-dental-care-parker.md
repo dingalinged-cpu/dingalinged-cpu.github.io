@@ -13,7 +13,7 @@ Stonegate Dental Care is a dentist in Parker, CO at 10007 Jordan Road, Parker, C
 - Website: https://stonegatedentalcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of dentists in Denver, CO, #8 of 36 dentists in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of dentists in Denver, CO, #7 of 36 dentists in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Grease Monkey is an auto repair shop in Parker, CO at 10001 Jordan Road, Parker,
 - Website: https://www.greasemonkeyauto.com/locations/us/co/parker/10001-s.-jordan-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-16:00
-- Pulse Score: 49.1/100 — Building — top 70% of auto repair shops in Denver, CO, #26 of 42 auto repair shops in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 70% of auto repair shops in Denver, CO, #26 of 42 auto repair shops in Parker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

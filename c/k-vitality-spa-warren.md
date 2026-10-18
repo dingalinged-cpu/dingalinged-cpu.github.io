@@ -13,7 +13,7 @@ K Vitality Spa is a spa in Warren, MI at 13775 East 13 Mile Road #Unit A, Warren
 - Website: https://www.kvitalityspa.com/
 - Email: kvitalityspa@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 23% of spas in Detroit, MI, #1 of 1 spas in Warren (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 23% of spas in Detroit, MI, #1 of 1 spas in Warren (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Riverview Animal Hospital is a veterinarian in Riverview, MI at 18761 Fort Stree
 - Website: https://www.riverviewvetclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Th 09:00-19:00; Tu,Fr 09:00-17:00; Sa 09:00-13:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 26% of veterinarians in Detroit, MI, #1 of 1 veterinarians in Riverview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 26% of veterinarians in Detroit, MI, #1 of 1 veterinarians in Riverview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

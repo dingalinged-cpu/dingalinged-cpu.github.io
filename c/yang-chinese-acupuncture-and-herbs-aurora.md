@@ -13,7 +13,7 @@ Yang Chinese Acupuncture & Herbs is an acupuncture clinic in Aurora, CO at 10233
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 09:00-17:00, We closed, Th-Fr 09:00-17:00, Sa 09:00-14:00, Su closed
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 20% of acupuncture clinics in Denver, CO, #1 of 1 acupuncture clinics in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 20% of acupuncture clinics in Denver, CO, #1 of 1 acupuncture clinics in Aurora (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

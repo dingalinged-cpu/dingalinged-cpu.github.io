@@ -13,7 +13,7 @@ Fuller Auto Solutions is an auto repair shop in Nixa, MO at 380 East State Highw
 - Website: https://www.fullerautosolutions.com/
 - Email: c.fuller@fullerautosolutions.com
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 100% of auto repair shops in Nixa, MO, #1 of 1 auto repair shops in Nixa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 100% of auto repair shops in Nixa, MO, #1 of 1 auto repair shops in Nixa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: dog groomer in Clinton Township, MI; dog groomer near me (Clinton 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aunt Debi's Pampered Paws | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Aunt Debi's Pampered Paws is a dog groomer in Clinton Township, MI at 36452 Moravian Drive, Clinton Township, MI 48035. Phone: +15867418740. | https://registry-edge.dingalinged.workers.dev/c/aunt-debis-pampered-paws-clinton-township/
+1. Aunt Debi's Pampered Paws | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Aunt Debi's Pampered Paws is a dog groomer in Clinton Township, MI at 36452 Moravian Drive, Clinton Township, MI 48035. Phone: +15867418740. | https://registry-edge.dingalinged.workers.dev/c/aunt-debis-pampered-paws-clinton-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer clinton township mi | category: Pets | industry benchmark: Animals & Pets

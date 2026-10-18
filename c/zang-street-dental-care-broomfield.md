@@ -13,7 +13,7 @@ Zang Street Dental Care is a dentist in Broomfield, CO at 570 Zang Street #B, Br
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-17:00; Tu,Th 07:00-18:00; We 07:00-19:00; Fr-Su off
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 13% of dentists in Denver, CO, #2 of 9 dentists in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 16% of dentists in Denver, CO, #2 of 9 dentists in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

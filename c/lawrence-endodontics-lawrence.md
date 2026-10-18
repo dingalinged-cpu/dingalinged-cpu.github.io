@@ -13,7 +13,7 @@ Lawrence Endodontics is a dentist in Lawrence, KS at 4830 Quail Crest Place #B, 
 - Website: https://www.lawrenceendodontics.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 43% of dentists in Lawrence, KS, #11 of 26 dentists in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 43% of dentists in Lawrence, KS, #11 of 26 dentists in Lawrence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

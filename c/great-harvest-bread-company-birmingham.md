@@ -13,7 +13,7 @@ Great Harvest Bread Company is a bakery in Birmingham, MI at 1137 South Adams Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00; Sa 07:00-16:00
-- Pulse Score: 47.1/100 — Building — top 97% of bakerys in Detroit, MI, #7 of 7 bakerys in Birmingham (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 96% of bakerys in Detroit, MI, #7 of 7 bakerys in Birmingham (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Sunset Ford is an used car dealer in Sunset Hills, MO at 11700 Gravois Road, Sun
 - Website: https://www.sunsetautoco.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 22% of used car dealers in St. Louis, MO, #1 of 2 used car dealers in Sunset Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 22% of used car dealers in St. Louis, MO, #1 of 2 used car dealers in Sunset Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Sterling Heights, MI at 6263 18 1/2
 - Website: https://www.publicstorage.com/self-storage-mi-sterling-heights/5452.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 6:00-21:00
-- Pulse Score: 52.2/100 — Fair — top 52% of self-storage facilitys in Detroit, MI, #3 of 6 self-storage facilitys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 68. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.2/100 — Fair — top 51% of self-storage facilitys in Detroit, MI, #3 of 6 self-storage facilitys in Sterling Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 68. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

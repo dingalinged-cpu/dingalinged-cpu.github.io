@@ -7,8 +7,8 @@ Also answers: dog groomer in Lawrence, KS; dog groomer near me (Lawrence, KS); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Pawsh Wash | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Pawsh Wash is a dog groomer in Lawrence, KS at 1520 Wakarusa Drive #C, Lawrence, KS 66047. Phone: +17858567297. Website: https://www.pawshwash.net/. | https://registry-edge.dingalinged.workers.dev/c/pawsh-wash-lawrence/
-2. Art of the Groom | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Art of the Groom is a dog groomer in Lawrence, KS at 1906 Massachusetts Street, Lawrence, KS 66046. Phone: +17854232041. | https://registry-edge.dingalinged.workers.dev/c/art-of-the-groom-lawrence/
-3. Pet-Agrees | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | Pet-Agrees is a dog groomer in Lawrence, KS at 2201 West 25th Street #I, Lawrence, KS 66047. Phone: +17857492275. | https://registry-edge.dingalinged.workers.dev/c/pet-agrees-lawrence/
+2. Art of the Groom | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Art of the Groom is a dog groomer in Lawrence, KS at 1906 Massachusetts Street, Lawrence, KS 66046. Phone: +17854232041. | https://registry-edge.dingalinged.workers.dev/c/art-of-the-groom-lawrence/
+3. Pet-Agrees | Organic #3 | Pulse Score 58.2/100 (Unrated, #3 in city) | Pet-Agrees is a dog groomer in Lawrence, KS at 2201 West 25th Street #I, Lawrence, KS 66047. Phone: +17857492275. | https://registry-edge.dingalinged.workers.dev/c/pet-agrees-lawrence/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer lawrence ks | category: Pets | industry benchmark: Animals & Pets

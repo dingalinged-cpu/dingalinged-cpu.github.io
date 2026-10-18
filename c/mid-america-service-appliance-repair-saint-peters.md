@@ -13,7 +13,7 @@ Mid America Service Appliance Repair is an appliance repair service in Saint Pet
 - Website: https://midamericaappliancerepair.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 100% of appliance repair services in St. Peters, MO, #1 of 1 appliance repair services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 100% of appliance repair services in St. Peters, MO, #1 of 1 appliance repair services in Saint Peters (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

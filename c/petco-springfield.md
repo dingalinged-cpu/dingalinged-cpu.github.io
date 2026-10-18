@@ -13,7 +13,7 @@ Petco is a pet store in Springfield, MO at 3840 West Washita, Springfield, MO 65
 - Website: https://stores.petco.com/mo/springfield/pet-supplies-springfield-mo-2616.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 47.8/100 — Building — top 70% of pet stores in Springfield, MO, #8 of 12 pet stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 70% of pet stores in Springfield, MO, #8 of 12 pet stores in Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

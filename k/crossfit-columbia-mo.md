@@ -6,7 +6,7 @@ Also answers: crossfit in Columbia, MO; crossfit near me (Columbia, MO); best cr
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CrossFit | Organic #1 | Pulse Score 44/100 (Building, #1 in city) | CrossFit is a CrossFit gym in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/crossfit-columbia/
+1. CrossFit | Organic #1 | Pulse Score 43.9/100 (Building, #1 in city) | CrossFit is a CrossFit gym in Columbia, MO. | https://registry-edge.dingalinged.workers.dev/c/crossfit-columbia/
 
 ## Market data (for advertisers and agents)
 - Keyword: crossfit columbia mo | category: Fitness | industry benchmark: Health & Fitness

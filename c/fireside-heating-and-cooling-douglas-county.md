@@ -13,7 +13,7 @@ Fireside Heating and Cooling is a HVAC contractor in Douglas County, CO. Phone: 
 - Website: https://www.firesidehvac.com/
 - Email: firesidehvac@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 27% of HVAC contractors in Denver, CO, #1 of 1 HVAC contractors in Douglas County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 27% of HVAC contractors in Denver, CO, #1 of 1 HVAC contractors in Douglas County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

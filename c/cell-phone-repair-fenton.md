@@ -13,7 +13,7 @@ Cell Phone Repair is a phone repair shop in Fenton, MO at 794 Gravois Bluffs Bou
 - Website: https://www.cellphonerepair.com/fenton-mo/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Building — top 50% of phone repair shops in St. Louis, MO, #1 of 1 phone repair shops in Fenton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46/100 — Building — top 50% of phone repair shops in St. Louis, MO, #1 of 1 phone repair shops in Fenton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: it support in Alexandria, KY; it support near me (Alexandria, KY);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Signal Networking | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Signal Networking is an IT support company in Alexandria, KY. Phone: +18596946800. | https://registry-edge.dingalinged.workers.dev/c/signal-networking-alexandria/
+1. Signal Networking | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Signal Networking is an IT support company in Alexandria, KY. Phone: +18596946800. | https://registry-edge.dingalinged.workers.dev/c/signal-networking-alexandria/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support alexandria ky | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

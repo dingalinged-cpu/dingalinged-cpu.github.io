@@ -13,7 +13,7 @@ Dobbs Tire & Auto Centers is an auto repair shop in Columbia, MO at 215 South Pr
 - Website: https://gotodobbs.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 17% of auto repair shops in Columbia, MO, #4 of 24 auto repair shops in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 17% of auto repair shops in Columbia, MO, #4 of 24 auto repair shops in Columbia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

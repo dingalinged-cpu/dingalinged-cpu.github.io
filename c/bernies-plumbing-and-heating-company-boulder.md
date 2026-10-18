@@ -13,7 +13,7 @@ Bernie's Plumbing & Heating Company is a plumber in Boulder, CO. Phone: +1303442
 - Website: https://www.berniesplumbing.com/
 - Email: info@berniesplumbing.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 40% of plumbers in Denver, CO, #2 of 2 plumbers in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 52% of plumbers in Denver, CO, #2 of 2 plumbers in Boulder (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

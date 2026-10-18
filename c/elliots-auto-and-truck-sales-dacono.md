@@ -13,7 +13,7 @@ Elliot's Auto and Truck Sales is an used car dealer in Dacono, CO at 5511 Colora
 - Website: https://www.facebook.com/ElliottsCompleteAuto/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Fair — top 29% of used car dealers in Denver, CO, #1 of 1 used car dealers in Dacono (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Fair — top 29% of used car dealers in Denver, CO, #1 of 1 used car dealers in Dacono (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

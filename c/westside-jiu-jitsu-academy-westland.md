@@ -13,7 +13,7 @@ Westside Jiu Jitsu Academy is a martial arts school in Westland, MI at 35744 For
 - Website: https://westsidejja.com/
 - Email: 313bjjwest@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 17% of martial arts schools in Detroit, MI, #1 of 3 martial arts schools in Westland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 17% of martial arts schools in Detroit, MI, #1 of 3 martial arts schools in Westland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

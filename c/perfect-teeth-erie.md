@@ -13,7 +13,7 @@ Perfect Teeth is a dentist in Erie, CO at 3331 Arapahoe Road #30, Erie, CO 80516
 - Website: https://www.perfectteeth.com/office/co/erie/80516/erie/
 - Email: n/a
 - Opening hours (OSM syntax): mo-tu 09:00-18:00, we-fr 07:00-16:00
-- Pulse Score: 50.3/100 — Unrated (not enough evidence yet) — top 87% of dentists in Denver, CO, #8 of 8 dentists in Erie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.4, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Unrated (not enough evidence yet) — top 85% of dentists in Denver, CO, #8 of 8 dentists in Erie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.4, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

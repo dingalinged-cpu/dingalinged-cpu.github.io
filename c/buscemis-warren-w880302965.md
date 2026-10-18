@@ -13,7 +13,7 @@ Buscemis is a liquor store in Warren, MI at 32746 Van Dyke Avenue, Warren, MI 48
 - Website: https://originalbuscemis.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 51.1/100 — Unrated (not enough evidence yet) — top 95% of liquor stores in Detroit, MI, #3 of 3 liquor stores in Warren (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.6, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.1/100 — Unrated (not enough evidence yet) — top 94% of liquor stores in Detroit, MI, #3 of 3 liquor stores in Warren (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.6, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

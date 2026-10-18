@@ -13,7 +13,7 @@ American Eagle Tax is a tax preparation service in Topeka, KS at 1940 Southwest 
 - Website: https://ameagletax.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th 09:00-16:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 50% of tax preparation services in Topeka, KS, #1 of 2 tax preparation services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 50% of tax preparation services in Topeka, KS, #1 of 2 tax preparation services in Topeka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

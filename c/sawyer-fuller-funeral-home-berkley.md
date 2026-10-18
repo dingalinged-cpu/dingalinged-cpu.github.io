@@ -13,7 +13,7 @@ Sawyer-Fuller Funeral Home is a funeral home in Berkley, MI. Website: https://ww
 - Website: https://www.sawyerfuller.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 59% of funeral homes in Detroit, MI, #1 of 1 funeral homes in Berkley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 58% of funeral homes in Detroit, MI, #1 of 1 funeral homes in Berkley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

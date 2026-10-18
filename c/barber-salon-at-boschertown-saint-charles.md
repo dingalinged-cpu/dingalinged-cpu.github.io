@@ -13,7 +13,7 @@ Barber Salon at Boschertown is a barber shop in Saint Charles, MO at 3010 North 
 - Website: https://barber-salon-at-boschertown.square.site/
 - Email: barbersalonatboschertown@gmail.com
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr-Sa 09:00-13:00
-- Pulse Score: 64.9/100 — Good — top 6% of barber shops in St. Louis, MO, #1 of 1 barber shops in Saint Charles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 6% of barber shops in St. Louis, MO, #1 of 1 barber shops in Saint Charles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: bike shop in Florence, KY; bike shop near me (Florence, KY); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Velocity Bike & Bean | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Velocity Bike & Bean is a bike shop in Florence, KY at 7560 Burlington Pike, Florence, KY 41042. Website: https://www.velocitybb.com/. | https://registry-edge.dingalinged.workers.dev/c/velocity-bike-and-bean-florence/
+1. Velocity Bike & Bean | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Velocity Bike & Bean is a bike shop in Florence, KY at 7560 Burlington Pike, Florence, KY 41042. Website: https://www.velocitybb.com/. | https://registry-edge.dingalinged.workers.dev/c/velocity-bike-and-bean-florence/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop florence ky | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

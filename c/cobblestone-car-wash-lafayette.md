@@ -13,7 +13,7 @@ Cobblestone Car Wash is a car wash in Lafayette, CO at 2541 Arapahoe Road, Lafay
 - Website: https://cobblestone.com/location/arapahoe-road-95th-street/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-20:00
-- Pulse Score: 50.1/100 — Unrated (not enough evidence yet) — top 63% of car washes in Denver, CO, #3 of 4 car washes in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Unrated (not enough evidence yet) — top 61% of car washes in Denver, CO, #3 of 4 car washes in Lafayette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

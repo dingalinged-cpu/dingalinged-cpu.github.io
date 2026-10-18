@@ -13,7 +13,7 @@ Afinia Dental is a dentist in Cincinnati, OH at 9415 Fields Ertel Road, Cincinna
 - Website: https://afiniadental.com/location/mason/
 - Email: mason@afiniadental.com
 - Opening hours (OSM syntax): Mo,We,Fr 08:00-17:00; Tu,Th 10:00-19:00; Sa 07:30-13:30; Su off
-- Pulse Score: 64.3/100 — Unrated (not enough evidence yet) — top 1% of dentists in Cincinnati, OH, #1 of 19 dentists in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 67.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.3/100 — Unrated (not enough evidence yet) — top 1% of dentists in Cincinnati, OH, #1 of 19 dentists in Cincinnati (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 67.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

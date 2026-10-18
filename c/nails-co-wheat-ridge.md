@@ -13,7 +13,7 @@ NAILS CO is a nail salon in Wheat Ridge, CO at 5091 Kipling Street #350, Wheat R
 - Website: https://nailscowheatridge.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 86% of nail salons in Denver, CO, #2 of 3 nail salons in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 84% of nail salons in Denver, CO, #2 of 3 nail salons in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

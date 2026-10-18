@@ -6,7 +6,7 @@ Also answers: barber shop in Detroit, MI; barber shop near me (Detroit, MI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. You-niversal Kutz | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | You-niversal Kutz is a barber shop in Detroit, MI at 13303 West 7 Mile Road #11, Detroit, MI 48235. Phone: +13133348169. Website: https://youniversalkutzllc.square.site/. | https://registry-edge.dingalinged.workers.dev/c/you-niversal-kutz-detroit/
+1. You-niversal Kutz | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | You-niversal Kutz is a barber shop in Detroit, MI at 13303 West 7 Mile Road #11, Detroit, MI 48235. Phone: +13133348169. Website: https://youniversalkutzllc.square.site/. | https://registry-edge.dingalinged.workers.dev/c/you-niversal-kutz-detroit/
 2. Ashatr Barber Shop | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Ashatr Barber Shop is a barber shop in Detroit, MI. Phone: +13135819254. | https://registry-edge.dingalinged.workers.dev/c/ashatr-barber-shop-detroit/
 
 ## Market data (for advertisers and agents)

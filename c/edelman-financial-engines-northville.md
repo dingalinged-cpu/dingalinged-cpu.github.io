@@ -13,7 +13,7 @@ Edelman Financial Engines is a financial advisor in Northville, MI at 39775 Trad
 - Website: https://www.edelmanfinancialengines.com/location.MI.Northville/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 25% of financial advisors in Detroit, MI, #1 of 1 financial advisors in Northville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 25% of financial advisors in Detroit, MI, #1 of 1 financial advisors in Northville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

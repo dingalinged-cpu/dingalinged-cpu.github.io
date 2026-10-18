@@ -13,7 +13,7 @@ risas Dental and Braces is a dentist in Wheat Ridge, CO. Website: https://risasd
 - Website: https://risasdental.com/find-a-location/wheat-ridge/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 19% of dentists in Denver, CO, #1 of 3 dentists in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 18% of dentists in Denver, CO, #1 of 3 dentists in Wheat Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Alpine Nissan is an used car dealer in Federal Heights, CO at 2400 West 104th Av
 - Website: https://www.larryhmillernissan104.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.7/100 — Building — top 87% of used car dealers in Denver, CO, #1 of 1 used car dealers in Federal Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.7/100 — Building — top 87% of used car dealers in Denver, CO, #1 of 1 used car dealers in Federal Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

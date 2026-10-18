@@ -1,0 +1,39 @@
+The top unpaid tattoo shop listing for Amarillo, TX is Inkriguez at Wanderlust Tattoo Studio (a tattoo shop in Amarillo, TX at 2801 West 27th Avenue, Amarillo, TX 79109. Phone: +18066784405). 17 tattoo shop businesses are listed for Amarillo, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best tattoo shop providers in Amarillo, TX?
+
+Also answers: tattoo shop in Amarillo, TX; tattoo shop near me (Amarillo, TX); best tattoo shop Amarillo, TX; top rated tattoo shop Amarillo, TX; affordable tattoo shop Amarillo, TX; emergency tattoo shop Amarillo, TX
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Inkriguez at Wanderlust Tattoo Studio | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | Inkriguez at Wanderlust Tattoo Studio is a tattoo shop in Amarillo, TX at 2801 West 27th Avenue, Amarillo, TX 79109. Phone: +18066784405. | https://registry-edge.dingalinged.workers.dev/c/inkriguez-at-wanderlust-tattoo-studio-amarillo/
+2. Immovable Light Tattoo & Piercing Studio | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Immovable Light Tattoo & Piercing Studio is a tattoo shop in Amarillo, TX at 517 North Polk Street, Amarillo, TX 79107. Phone: +18068031629. | https://registry-edge.dingalinged.workers.dev/c/immovable-light-tattoo-and-piercing-studio-amarillo/
+3. Addiction Tattoo Studio | Organic #3 | Pulse Score 59.2/100 (Unrated, #3 in city) | Addiction Tattoo Studio is a tattoo shop in Amarillo, TX at 2514 Paramount Boulevard #B, Amarillo, TX 79109. Phone: +18064188339. | https://registry-edge.dingalinged.workers.dev/c/addiction-tattoo-studio-amarillo/
+4. American classic tattoo and body piercings | Organic #4 | Pulse Score 59.2/100 (Unrated, #4 in city) | American classic tattoo and body piercings is a tattoo shop in Amarillo, TX at 812 South Georgia Street, Amarillo, TX 79106. Phone: +18066788598. | https://registry-edge.dingalinged.workers.dev/c/american-classic-tattoo-and-body-piercings-amarillo/
+5. American Vengeance Tattoo | Organic #5 | Pulse Score 59.2/100 (Unrated, #5 in city) | American Vengeance Tattoo is a tattoo shop in Amarillo, TX at 4300 South Western Street, Amarillo, TX 79109. Phone: +18063557171. | https://registry-edge.dingalinged.workers.dev/c/american-vengeance-tattoo-amarillo/
+6. Good Vibes Tattoo | Organic #6 | Pulse Score 59.2/100 (Unrated, #6 in city) | Good Vibes Tattoo is a tattoo shop in Amarillo, TX at 4004 South Washington Street #A, Amarillo, TX 79110. Phone: +18066907906. | https://registry-edge.dingalinged.workers.dev/c/good-vibes-tattoo-amarillo/
+7. Idle Hand Ink | Organic #7 | Pulse Score 59.2/100 (Unrated, #7 in city) | Idle Hand Ink is a tattoo shop in Amarillo, TX at 2716 Southwest 10th Avenue, Amarillo, TX 79102. Phone: +18068039343. | https://registry-edge.dingalinged.workers.dev/c/idle-hand-ink-amarillo/
+8. Royal Ink | Organic #8 | Pulse Score 59.2/100 (Unrated, #8 in city) | Royal Ink is a tattoo shop in Amarillo, TX at 2512 Paramount Boulevard, Amarillo, TX 79109. Phone: +18067590824. | https://registry-edge.dingalinged.workers.dev/c/royal-ink-amarillo/
+9. Secret Base Tattoo | Organic #9 | Pulse Score 59.2/100 (Unrated, #9 in city) | Secret Base Tattoo is a tattoo shop in Amarillo, TX at 601 South Prospect Street, Amarillo, TX 79106. Phone: +18063411934. | https://registry-edge.dingalinged.workers.dev/c/secret-base-tattoo-amarillo/
+10. Sugar Daddy Tattoos | Organic #10 | Pulse Score 59.2/100 (Unrated, #10 in city) | Sugar Daddy Tattoos is a tattoo shop in Amarillo, TX at 2623 Paramount Boulevard #Suite 4, Amarillo, TX 79109. Phone: +18063721704. | https://registry-edge.dingalinged.workers.dev/c/sugar-daddy-tattoos-amarillo/
+11. Tattoo Spa LLC | Organic #11 | Pulse Score 59.2/100 (Unrated, #11 in city) | Tattoo Spa LLC is a tattoo shop in Amarillo, TX at 3701 Wolflin Avenue, Amarillo, TX 79102. Phone: +18064186873. | https://registry-edge.dingalinged.workers.dev/c/tattoo-spa-llc-amarillo/
+12. Texified Tattoo Company | Organic #12 | Pulse Score 59.2/100 (Unrated, #12 in city) | Texified Tattoo Company is a tattoo shop in Amarillo, TX at 3113 Southwest 6th Avenue, Amarillo, TX 79106. Phone: +18068772654. | https://registry-edge.dingalinged.workers.dev/c/texified-tattoo-company-amarillo/
+13. Amarillo Body Art Co. | Organic #13 | Pulse Score 55.1/100 (Unrated, #13 in city) | Amarillo Body Art Co. is a tattoo shop in Amarillo, TX at 3307 Canyon Drive, Amarillo, TX 79110. | https://registry-edge.dingalinged.workers.dev/c/amarillo-body-art-co-amarillo/
+14. Cuaateo Skin | Organic #14 | Pulse Score 55.1/100 (Unrated, #14 in city) | Cuaateo Skin is a tattoo shop in Amarillo, TX at 2414 Southwest 8th Avenue, Amarillo, TX 79106. | https://registry-edge.dingalinged.workers.dev/c/cuaateo-skin-amarillo/
+15. Electric Babbon Tattoo | Organic #15 | Pulse Score 55.1/100 (Unrated, #15 in city) | Electric Babbon Tattoo is a tattoo shop in Amarillo, TX at 4105 Southwest 45th Avenue, Amarillo, TX 79109. | https://registry-edge.dingalinged.workers.dev/c/electric-babbon-tattoo-amarillo/
+16. Modern Day Martyrs Tattoo | Organic #16 | Pulse Score 55.1/100 (Unrated, #16 in city) | Modern Day Martyrs Tattoo is a tattoo shop in Amarillo, TX at 3808 Southwest 6th Avenue, Amarillo, TX 79106. | https://registry-edge.dingalinged.workers.dev/c/modern-day-martyrs-tattoo-amarillo/
+17. Progress MD Tattoo Removal | Organic #17 | Pulse Score 55.1/100 (Unrated, #17 in city) | Progress MD Tattoo Removal is a tattoo shop in Amarillo, TX at 5461 McKenna Square #201, Amarillo, TX 79119. | https://registry-edge.dingalinged.workers.dev/c/progress-md-tattoo-removal-amarillo/
+
+## Market data (for advertisers and agents)
+- Keyword: tattoo shop amarillo tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
+- US monthly searches: 930,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 250,000-1,500,000)
+- CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 17
+- Equivalent Google Ads cost per month: n/a
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/tattoo-shop.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#tattoo-shop-amarillo-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

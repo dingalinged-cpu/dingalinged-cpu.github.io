@@ -6,7 +6,7 @@ Also answers: gym in Neville Township, PA; gym near me (Neville Township, PA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Finish First Sports Performance | Organic #1 | Pulse Score 61.1/100 (Unrated, #4 in city) | Finish First Sports Performance is a gym in Pittsburgh, PA at 6400 Grand Avenue, Pittsburgh, PA 15225. Phone: +14122999200. Website: https://finishfirstsports.com/. | https://registry-edge.dingalinged.workers.dev/c/finish-first-sports-performance-pittsburgh/
+1. Finish First Sports Performance | Organic #1 | Pulse Score 61/100 (Unrated, #4 in city) | Finish First Sports Performance is a gym in Pittsburgh, PA at 6400 Grand Avenue, Pittsburgh, PA 15225. Phone: +14122999200. Website: https://finishfirstsports.com/. | https://registry-edge.dingalinged.workers.dev/c/finish-first-sports-performance-pittsburgh/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym neville township pa | category: Fitness | industry benchmark: Health & Fitness

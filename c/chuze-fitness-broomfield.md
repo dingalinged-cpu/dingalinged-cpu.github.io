@@ -13,7 +13,7 @@ Chuze Fitness is a gym in Broomfield, CO at 5105 West 120th Avenue, Broomfield, 
 - Website: https://chuzefitness.com/gym-locations/co/broomfield/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 04:30-24:00; Fr 04:30-22:00; Sa-Su 06:00-20:00
-- Pulse Score: 50.1/100 — Unrated (not enough evidence yet) — top 54% of gyms in Denver, CO, #5 of 7 gyms in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 60% of gyms in Denver, CO, #5 of 7 gyms in Broomfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

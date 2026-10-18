@@ -6,7 +6,7 @@ Also answers: dog boarding in Wyandotte, MI; dog boarding near me (Wyandotte, MI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Golden Leash | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | The Golden Leash is a dog boarding facility in Wyandotte, MI at 4450 13th Street, Wyandotte, MI 48192. Phone: +13134019884. | https://registry-edge.dingalinged.workers.dev/c/the-golden-leash-wyandotte/
+1. The Golden Leash | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | The Golden Leash is a dog boarding facility in Wyandotte, MI at 4450 13th Street, Wyandotte, MI 48192. Phone: +13134019884. | https://registry-edge.dingalinged.workers.dev/c/the-golden-leash-wyandotte/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding wyandotte mi | category: Pets | industry benchmark: Animals & Pets
